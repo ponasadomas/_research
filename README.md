@@ -1,8 +1,11 @@
 # _research
 
-Raw research material only: scrapes, saved pages, transcripts, screenshots. It is kept so
-it can be analysed again later with better tools. Findings do not live here; they are in
-`~/GitHub/_home/library/avatars/<listener>/findings/`.
+Raw research material, and the rules for doing research. This file is the one place those
+rules live; `AGENTS.md` and `CLAUDE.md` here are links to it, so agents working in this
+repo load it automatically. `~/GitHub/_home/AGENTS.md` points here.
+
+What is kept here: scrapes, saved pages, transcripts, screenshots, quote databases. It is
+kept so it can be analysed again later with better tools.
 
 ## Research never censors
 
@@ -36,6 +39,17 @@ have. An agent that filters research "to be safe" has made the research wrong.
 3. Which listener and which offer it was collected for.
 4. The question it was meant to answer.
 5. Where its findings page is.
+
+## Findings
+
+Research is not finished until its findings are filed. A findings page per topic goes in
+`~/GitHub/_home/library/avatars/<listener>/findings/`, and the avatar lists it. Agents
+read findings first and open raw material only when asked or when checking a quote.
+
+## Material that fits several listeners
+
+File it once, under the listener it was collected for. The other listeners' avatars get a
+pointer line under "Also relevant research".
 
 ## Large files
 
