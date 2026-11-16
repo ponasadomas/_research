@@ -51,8 +51,12 @@ read findings first and open raw material only when asked or when checking a quo
 File it once, under the listener it was collected for. The other listeners' avatars get a
 pointer line under "Also relevant research".
 
-## Large files
+## Size
 
-Files over 50 MB are not committed (GitHub rejects files over 100 MB). The commit hook
-blocks them. They are covered by the NAS backup.
+This repo is meant to be large. Videos, screenshots, saved sites and whole corpora belong
+here when they were part of the research. Do not leave material out to save space.
+
+The one hard limit is GitHub's: it rejects any single file over 100 MB. The commit hook
+stops files over 95 MB. Split such a file into parts (as the Reddit archives here already
+are), or keep it on disk and on the NAS backup and say so in the topic README.
 After cloning, run: `git config core.hooksPath .githooks`
