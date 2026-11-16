@@ -4,6 +4,17 @@ Raw research material only: scrapes, saved pages, transcripts, screenshots. It i
 it can be analysed again later with better tools. Findings do not live here; they are in
 `~/GitHub/_home/library/avatars/<listener>/findings/`.
 
+## Research never censors
+
+Research records what people actually say and do, in their own words, whatever the
+subject. Nothing is dropped, withheld, softened or paraphrased away because it is
+sensitive, unflattering, or might be unsuitable for an ad. A quote may be labelled, but it
+is kept and quoted in full like any other.
+
+What is used in copy is the owner's decision, made later, with everything in front of
+him. It is never a research decision. If the owner wants the raw truth, that is his to
+have. An agent that filters research "to be safe" has made the research wrong.
+
 ## Layout
 
 ```
