@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Refuse files over 50 MB.
+limit=$((50*1024*1024)); bad=0
+while IFS= read -r -d '' f; do
+  [ -f "$f" ] || continue
+  size=$(stat -c%s "$f" 2>/dev/null || stat -f%z "$f")
+  if [ "$size" -gt "$limit" ]; then echo "too large (over 50 MB): $f"; bad=1; fi
+done < <(git diff --cached --name-only --diff-filter=AM -z)
+[ $bad = 0 ] || { echo "Add these to .gitignore; they stay on disk and on the NAS backup."; exit 1; }

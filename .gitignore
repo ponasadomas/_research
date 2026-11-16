@@ -1,0 +1,18 @@
+.DS_Store
+._*
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+# usually over the size limit; kept on disk and on the NAS backup
+*.mp4
+*.mov
+*.mkv
+*.m4b
+*.zip
+*.tar.gz
+# never
+.env
+.env.*
+*.sql
+*.sql.gz
