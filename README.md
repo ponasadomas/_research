@@ -29,5 +29,5 @@ it can be analysed again later with better tools. Findings do not live here; the
 ## Large files
 
 Files over 50 MB are not committed (GitHub rejects files over 100 MB). The commit hook
-blocks them and `.gitignore` lists the usual types. They are covered by the NAS backup.
+blocks them. They are covered by the NAS backup.
 After cloning, run: `git config core.hooksPath .githooks`
