@@ -21,29 +21,46 @@ have. An agent that filters research "to be safe" has made the research wrong.
 ## Layout
 
 ```
-<listener>/<topic>-<yyyy>-<mm>/
-├── README.md    required
-└── ...          the raw files, in whatever layout they were collected in
+<niche>/
+├── README.md          overview: what exists per kind, what is missing
+├── ads/               ads that are running (the swipe file)
+├── books/
+├── competitors/
+├── reddit/            and other communities and forums
+├── reviews/           of apps, books and courses
+├── sales-letters/
+├── youtube/
+├── quotes/            every quote pulled from the kinds above, one record each
+├── evidence/          the quotes sorted under themes, counts, readers' notes
+├── _tools/            support: checking scripts
+└── _work/             support: reading ledgers, working files
 ```
 
-- `<listener>` is the buyer and her problem, exactly as named in
-  `~/GitHub/_home/library/avatars/` (for example `new-mother`, `stop-divorce`). Never a
-  brand or a domain: those change.
-- `<topic>` is the thing collected: a competitor, a product, a community.
-- `<yyyy>-<mm>` is when it was collected.
+- `<niche>` is the buyer and her problem (for example `baby-development`,
+  `stop-divorce`), exactly as named in `~/GitHub/_home/library/niches.md`. Never a brand
+  or a domain: those change.
+- **One folder per kind of source**, so a person who needs the ads or the competitors
+  opens that folder. Every kind folder always exists, even when empty, so it is plain
+  what has not been collected yet. A new kind of source gets a new folder and a line here.
+- **Inside a kind folder:** `README.md`, then the notes written about the material at the
+  top, and the originals exactly as captured in `raw/`. Notes are what a person opens
+  first. Originals are never edited.
+- **A later round of research** goes into the same kind folder under a dated subfolder,
+  `<yyyy>-<mm>/`.
+- **An underscore marks a folder that supports the others and is not one of them:**
+  `_tools` and `_work` here, `_home` and `_research` among the project repos.
 
-## Every topic README says
+## READMEs
 
-1. What was collected, and from where.
-2. When, and with which tool or script.
-3. Which listener and which offer it was collected for.
-4. The question it was meant to answer.
-5. Where its findings page is.
+The niche README lists each kind: what was collected and from where, when, with which
+tool or script, for which offer, the question it was meant to answer (see below), and
+where its findings page is. A kind with nothing in it says "nothing collected yet". Each
+kind folder's own README says the same for that kind in more detail.
 
 ## Three questions, each from a source that can answer it
 
-A listener's research is complete when all three are answered. No source is required and
-none is enough alone. Name the question a topic answers in its README.
+A niche's research is complete when all three are answered. No source is required and
+none is enough alone.
 
 | Question | Sources that can answer it | Why |
 |---|---|---|
@@ -61,13 +78,13 @@ none is enough alone. Name the question a topic answers in its README.
 
 ## Three layers
 
-Every topic that collects what people say has three layers. Name each for what it is.
+Every niche has three layers. Name each for what it is.
 
 | Layer | What it is | Where | Length |
 |---|---|---|---|
-| Quotes | Every quote as one record, with its source | the topic folder here | everything |
-| Evidence file | The quotes sorted under themes, with what they show | the topic folder here | as long as it needs |
-| Findings page | The conclusions, each with its strongest few quotes | `~/GitHub/_home/library/avatars/<listener>/findings/` | short: a person reads it in one sitting |
+| Quotes | Every quote as one record, with its source | `quotes/` | everything |
+| Evidence file | The quotes sorted under themes, with what they show | `evidence/` | as long as it needs |
+| Findings page | The conclusions, each with its strongest few quotes | `~/GitHub/_home/library/avatars/<niche>/findings/` | short: a person reads it in one sitting |
 
 - Research is not finished until its findings page is filed and the avatar lists it.
   Agents read the findings page first and open the layers below only when asked or when
@@ -87,7 +104,7 @@ reading, quoting and merging. Conventions for the collecting step are still to b
 
 - A quote is one record with the same fields every time: id, source, link, date, speaker,
   stage, type, themes, and the quote word for word.
-- Ids are unique across the topic and show who produced them: a prefix for the pass, the
+- Ids are unique across the niche and show who produced them: a prefix for the pass, the
   reader's number, a running number (`pbu07-0034`). Check for duplicates before each commit.
 - Every post handed to a reader is accounted for in that reader's ledger: quoted,
   off-topic, or unavailable. Nothing is skipped silently.
@@ -116,14 +133,14 @@ reading, quoting and merging. Conventions for the collecting step are still to b
   a person look.
 - The brief fixes one layout for quotes in written files, so the checking script can
   read every agent's output.
-- The checking scripts live inside the topic folder, so the topic can be verified again
+- The checking scripts live in the niche's `_tools/`, so the niche can be verified again
   after it is moved.
 - Working figures (Codex, `gpt-6.1-sol`, xhigh): five agents at a time, 25 to 30 minutes
   per batch, about 2 to 2.5 percent of weekly usage per 1,000 posts.
 
-## Material that fits several listeners
+## Material that fits several niches
 
-File it once, under the listener it was collected for. The other listeners' avatars get a
+File it once, under the niche it was collected for. The other niches' avatars get a
 pointer line under "Also relevant research".
 
 ## Size
@@ -133,5 +150,5 @@ here when they were part of the research. Do not leave material out to save spac
 
 The one hard limit is GitHub's: it rejects any single file over 100 MB. The commit hook
 stops files over 95 MB. Split such a file into parts (as the Reddit archives here already
-are), or keep it on disk and on the NAS backup and say so in the topic README.
+are), or keep it on disk and on the NAS backup and say so in the niche README.
 After cloning, run: `git config core.hooksPath .githooks`
