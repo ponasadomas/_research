@@ -1,0 +1,234 @@
+{
+  "checked": "2026-11-05",
+  "slug": "reading-head-start",
+  "url": "https://www.readingheadstart.com/",
+  "cohort": "direct-response",
+  "pageId": 49,
+  "title": "Reading Head Start",
+  "viewport": [
+    390,
+    844
+  ],
+  "scrollWidth": 390,
+  "body": "rgb(255, 255, 255)",
+  "headings": [
+    {
+      "tag": "H1",
+      "color": "rgb(39, 107, 174)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "effectiveBg": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "fontSize": "26px",
+      "weight": "500",
+      "radius": "0px",
+      "box": [
+        21,
+        1838,
+        348,
+        26
+      ],
+      "inFirstViewport": false,
+      "href": null,
+      "heading_index": 0
+    },
+    {
+      "tag": "H1",
+      "color": "rgb(39, 107, 174)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "effectiveBg": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "fontSize": "26px",
+      "weight": "500",
+      "radius": "0px",
+      "box": [
+        42,
+        2421,
+        306,
+        135
+      ],
+      "inFirstViewport": false,
+      "href": null,
+      "heading_index": 1
+    },
+    {
+      "tag": "H3",
+      "color": "rgb(51, 51, 51)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "effectiveBg": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "fontSize": "18px",
+      "weight": "500",
+      "radius": "0px",
+      "box": [
+        55,
+        2969,
+        280,
+        36
+      ],
+      "inFirstViewport": false,
+      "href": null,
+      "heading_index": 2
+    },
+    {
+      "tag": "H1",
+      "color": "rgb(39, 107, 174)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "effectiveBg": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "fontSize": "26px",
+      "weight": "500",
+      "radius": "0px",
+      "box": [
+        23,
+        4104,
+        344,
+        52
+      ],
+      "inFirstViewport": false,
+      "href": null,
+      "heading_index": 3
+    },
+    {
+      "tag": "H3",
+      "color": "rgb(10, 78, 155)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "effectiveBg": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "fontSize": "25px",
+      "weight": "500",
+      "radius": "0px",
+      "box": [
+        43,
+        4600,
+        314,
+        60
+      ],
+      "inFirstViewport": false,
+      "href": null,
+      "heading_index": 4
+    },
+    {
+      "tag": "H3",
+      "color": "rgb(10, 78, 155)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "effectiveBg": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "fontSize": "25px",
+      "weight": "500",
+      "radius": "0px",
+      "box": [
+        43,
+        5102,
+        314,
+        60
+      ],
+      "inFirstViewport": false,
+      "href": null,
+      "heading_index": 5
+    },
+    {
+      "tag": "H3",
+      "color": "rgb(10, 78, 155)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "effectiveBg": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "fontSize": "25px",
+      "weight": "500",
+      "radius": "0px",
+      "box": [
+        43,
+        5653,
+        314,
+        60
+      ],
+      "inFirstViewport": false,
+      "href": null,
+      "heading_index": 6
+    },
+    {
+      "tag": "H1",
+      "color": "rgb(237, 237, 237)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "effectiveBg": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "fontSize": "27px",
+      "weight": "500",
+      "radius": "0px",
+      "box": [
+        12,
+        6509,
+        366,
+        162
+      ],
+      "inFirstViewport": false,
+      "href": null,
+      "heading_index": 7
+    }
+  ],
+  "actions": [
+    {
+      "text": "Start My Trial",
+      "tag": "A",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgb(0, 181, 77)",
+      "effectiveBg": "rgb(0, 181, 77)",
+      "font": "\"Times New Roman\"",
+      "fontSize": "23.9999px",
+      "weight": "700",
+      "radius": "10px",
+      "box": [
+        45,
+        623,
+        300,
+        93
+      ],
+      "inFirstViewport": true,
+      "href": "http://1.readinghs.pay.clickbank.net/?cbskin=23088&cbfid=32214&cbexit=16"
+    },
+    {
+      "text": "Start My Trial",
+      "tag": "A",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgb(0, 181, 77)",
+      "effectiveBg": "rgb(0, 181, 77)",
+      "font": "\"Times New Roman\"",
+      "fontSize": "23.9999px",
+      "weight": "700",
+      "radius": "10px",
+      "box": [
+        45,
+        7527,
+        300,
+        93
+      ],
+      "inFirstViewport": false,
+      "href": "http://1.readinghs.pay.clickbank.net/?cbskin=23088&cbfid=32214&cbexit=16"
+    }
+  ],
+  "bgs": {
+    "rgb(255, 255, 255)": 4,
+    "rgb(87, 183, 232)": 1,
+    "rgb(163, 203, 128)": 1,
+    "rgb(220, 244, 255)": 4,
+    "rgb(202, 238, 255)": 4,
+    "rgba(212, 242, 255, 0.45)": 2,
+    "rgb(218, 243, 254)": 2,
+    "rgb(254, 250, 238)": 1,
+    "rgb(215, 244, 251)": 1,
+    "rgb(13, 131, 221)": 1,
+    "rgb(154, 204, 124)": 1
+  },
+  "media": [
+    {
+      "tag": "IFRAME",
+      "alt": null,
+      "src": "https://www.youtube.com/embed/vRG3u4nQEYY?autoplay=0&controls=0&rel=0&modestbranding=1&showinfo=0&wmode=transparent&enablejsapi=1&origin=https%3A%2F%2Fwww.readingheadstart.com&widgetid=1&forigin=https",
+      "box": [
+        18,
+        91,
+        354,
+        199
+      ]
+    }
+  ]
+}

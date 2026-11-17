@@ -12,6 +12,13 @@ Who sells to this buyer, what they sell and at what price.
 The notes were written before the move and call the saved pages `../_raw/competitors/`;
 they are now in `raw/`.
 
+## `landing-pages-2026-11-05/`: how other sellers' pages look and what is reported to convert
+
+- **Collected:** 2026-11-05. See its `README.md`.
+- **What:** an audit of 43 seller URLs, two measured visual comparisons of current pages, recovered
+  historical sales designs, and published conversion reports.
+- Moved here on 2026-11-17 from the mamiVio site repo.
+
 ## `kinedu-aq-assessment/`: teardown of Kinedu's milestone quiz
 
 - **Collected:** 2026-11-02 to 2026-11-10, by scripts in its own `scripts/` folder.

@@ -52,6 +52,11 @@ have. An agent that filters research "to be safe" has made the research wrong.
   first. Originals are never edited.
 - **A later round of research** goes into the same kind folder under a dated subfolder,
   `<yyyy>-<mm>/`.
+- **What belongs here and what does not.** If it describes someone else (the buyer, a
+  competitor, the market), it is research and lives here, including the scripts that
+  collected it. If we made it (a site, a quiz, a design, a brand name), it lives with that
+  product. A product repo has no `research` folder; its scripts that need research read it
+  from this repo (`~/GitHub/_research`).
 - **An underscore marks a folder that supports the others and is not one of them:**
   `_tools` and `_work` here, `_home` and `_research` among the project repos.
 
@@ -102,6 +107,11 @@ Every niche has three layers. Name each for what it is.
 - A quote may be left out of a findings page **because it repeats** what others already
   show. It is never left out **because of its subject**. Whatever is left out stays in
   the evidence file, cited by id.
+- **Every niche's `evidence/` has a `jargon-glossary.md`:** the words she uses and how each
+  one feels, with real usages. It answers "how does she say it" (question 2). Until it is
+  made, `evidence/README.md` says "not made yet". The one that exists,
+  `new-and-expecting-mothers/evidence/jargon-glossary.md`, covers mothers in general and is
+  the starting point for a niche's own; its pipeline is `new-and-expecting-mothers/_tools/jargon/`.
 - A brief for research work says which layer it wants and who will read it. Asking for
   "the findings" without saying which produced a 940,000-word file in November 2026.
 

@@ -50,3 +50,9 @@ Raw: `../_raw/competitors/kinedu-assessment-walk/walk-2026-10-25.md`.
 - **Paywall mechanics:** three of four areas locked ("Tap to unlock"), two of five "opening up" skills shown, "+3 more in the full profile"; "unlocking adds depth by area, it doesn’t change the number"; "7 days free · no commitment" leading to an annual charge. These are the trial-to-annual mechanics the development review quotes complain about (see `../synthesis/findings.md`).
 - **What it does well:** age-exact item lists, a clear two-answer rule, reassurance before the questions ("A Not yet is just as useful as a Yes"), named credibility (2,135 caregivers; a Stanford adviser), a "surveillance, not diagnosis" line on every screen.
 - **For Mamivio:** the free "your baby is at the level of an N-month-old" number is the comparison hook the owner brief rules out (§8). Mamivio's development document can use the same intake idea (what the baby does today) to choose activities, without a score and without a trial-to-annual charge — one price, once.
+
+## Full teardown of the quiz
+
+This note is the short version. The full teardown (all 408 questions, which ones each age gets,
+the extension round, how the report is scored, two browser walkthroughs and the saved server
+answers) is in `kinedu-aq-assessment/`; start with its `README.md`. Added 2026-11-17.

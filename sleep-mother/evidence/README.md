@@ -12,3 +12,5 @@ What the quotes show.
 - **`unfilter-report.md`, `restricted-ids.md`:** the record of the subject filter that was
   removed on 2026-11-16. The marking has no effect; the list is kept as history.
 - **`audit-*`:** audit output from October and November 2026.
+- **`jargon-glossary.md`:** not made yet. Until then use the general one,
+  `../../new-and-expecting-mothers/evidence/jargon-glossary.md`.

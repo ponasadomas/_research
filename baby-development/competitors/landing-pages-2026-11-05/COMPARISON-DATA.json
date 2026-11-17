@@ -1,0 +1,372 @@
+{
+  "date": "2026-11-05",
+  "counts": {
+    "current_brands": 14,
+    "identified_primary_cta": 11,
+    "cta_groups": {
+      "orange/yellow": 3,
+      "green": 3,
+      "teal/turquoise": 3,
+      "blue": 1,
+      "purple": 1
+    },
+    "headline_families": {
+      "sans": 7,
+      "serif": 5
+    },
+    "hero_layouts": {
+      "centered": 8,
+      "split": 4
+    },
+    "cta_in_desktop_first_view": 7,
+    "cta_in_mobile_first_view": 8
+  },
+  "current_brand_rows": [
+    {
+      "brand": "Baby Tour Guide",
+      "numbers": [
+        2
+      ],
+      "slug": "tour",
+      "status": "rendered_css_and_desktop_screenshot",
+      "palette": "Photographic brown hero overlay; cream and peach sections; green header; yellow CTA",
+      "headline": "Lato sans-serif, white; 40px desktop / 40px mobile",
+      "cta_text": "Enroll here",
+      "cta_bg": "#F6AF11",
+      "cta_fg": "#FFFFFF",
+      "cta_radius_px": 25,
+      "cta_y_desktop": 533,
+      "cta_y_mobile": 541,
+      "cta_in_desktop_first_view": true,
+      "cta_in_mobile_first_view": true,
+      "hero": "Full-width baby photograph behind centered headline, age and CTA",
+      "navigation": "Login and signup only",
+      "primary_current_comparison": true,
+      "url": "https://babytourguide.teachable.com/p/the-montessori-babies-course-promo?coupon_code=MONTESSORIBABIES&product_id=3768385",
+      "actual_desktop_viewport": [
+        1440,
+        1000
+      ],
+      "actual_mobile_viewport": [
+        390,
+        844
+      ],
+      "cta_group": "orange/yellow",
+      "headline_family": "sans",
+      "hero_layout": "centered"
+    },
+    {
+      "brand": "Brightest Beginning",
+      "numbers": [
+        3
+      ],
+      "slug": "brightest",
+      "status": "rendered_css_and_existing_desktop_screenshot",
+      "palette": "White; blue promise text; orange CTA; pink and pale blue details",
+      "headline": "ABeeZee 40px title; Rubik 24px blue promise; sans-serif. Title mobile26px.",
+      "cta_text": "Join now",
+      "cta_bg": "#FF822E",
+      "cta_fg": "#FFFFFF",
+      "cta_radius_px": 8,
+      "cta_y_desktop": 457,
+      "cta_y_mobile": 703,
+      "cta_in_desktop_first_view": true,
+      "cta_in_mobile_first_view": true,
+      "hero": "Instructor cutout/photo and shapes left, copy right; photo first when stacked",
+      "navigation": "No visible top content navigation in inspected course hero",
+      "primary_current_comparison": true,
+      "url": "https://brightestbeginning.com/courses/play-develop-thrive/",
+      "actual_desktop_viewport": [
+        1440,
+        1000
+      ],
+      "actual_mobile_viewport": [
+        390,
+        844
+      ],
+      "cta_group": "orange/yellow",
+      "headline_family": "sans",
+      "hero_layout": "split"
+    },
+    {
+      "brand": "Children Learning Reading",
+      "numbers": [
+        4
+      ],
+      "slug": "reading",
+      "status": "rendered_css",
+      "palette": "White/light panels; cyan #00AFF3 headline; orange CTA",
+      "headline": "Actor sans-serif, 52px desktop / 36px mobile; cyan",
+      "cta_text": "Get started now",
+      "cta_bg": "#FF9E00",
+      "cta_fg": "#FFFFFF",
+      "cta_radius_px": 8,
+      "cta_y_desktop": 1835,
+      "cta_y_mobile": 2234,
+      "cta_in_desktop_first_view": false,
+      "cta_in_mobile_first_view": false,
+      "hero": "Centered promise and supporting text above a large demonstration video",
+      "navigation": "No visible top content navigation",
+      "primary_current_comparison": true,
+      "url": "https://www.childrenlearningreading.com/",
+      "actual_desktop_viewport": [
+        1440,
+        1000
+      ],
+      "actual_mobile_viewport": [
+        390,
+        844
+      ],
+      "cta_group": "orange/yellow",
+      "headline_family": "sans",
+      "hero_layout": "centered"
+    },
+    {
+      "brand": "Baby Acrobatics",
+      "numbers": [
+        15
+      ],
+      "slug": "acrobatics",
+      "status": "rendered_css",
+      "palette": "Photo montage; black hero band and white body; saturated green main CTA; some later blue/charcoal CTAs",
+      "headline": "Inter sans-serif white, 48px desktop / 30px mobile",
+      "cta_text": "Get the Blueprint - $49",
+      "cta_bg": "#00A63E",
+      "cta_fg": "#FFFFFF",
+      "cta_radius_px": "pill",
+      "cta_y_desktop": 1263,
+      "cta_y_mobile": 977,
+      "cta_in_desktop_first_view": false,
+      "cta_in_mobile_first_view": false,
+      "hero": "Large parent/baby photographic montage above centered black promise section; video and purchase panel below",
+      "navigation": "Member access only",
+      "primary_current_comparison": true,
+      "url": "https://www.babyacrobatics.com/",
+      "actual_desktop_viewport": [
+        1440,
+        1000
+      ],
+      "actual_mobile_viewport": [
+        390,
+        844
+      ],
+      "cta_group": "green",
+      "headline_family": "sans",
+      "hero_layout": "centered"
+    },
+    {
+      "brand": "Baby Sleep Answers",
+      "numbers": [
+        19
+      ],
+      "slug": "answers",
+      "status": "rendered_css",
+      "palette": "White/pale blue #F7FAFF, charcoal #1E2022, muted teal CTA",
+      "headline": "Inter sans-serif bold, 60px desktop / 38px mobile; headline implemented in spans",
+      "cta_text": "Get started",
+      "cta_bg": "#87B6B7",
+      "cta_fg": "#FFFFFF",
+      "cta_radius_px": 5,
+      "cta_y_desktop": 463,
+      "cta_y_mobile": 548,
+      "cta_in_desktop_first_view": true,
+      "cta_in_mobile_first_view": true,
+      "hero": "Copy left, baby photo right; photo above copy on mobile",
+      "navigation": "Multi-destination site nav including shop/blog/ebooks/about/contact/member area",
+      "primary_current_comparison": true,
+      "url": "https://www.babysleepanswers.com/",
+      "actual_desktop_viewport": [
+        1440,
+        1000
+      ],
+      "actual_mobile_viewport": [
+        390,
+        844
+      ],
+      "cta_group": "teal/turquoise",
+      "headline_family": "sans",
+      "hero_layout": "split"
+    },
+    {
+      "brand": "Baby Sleep Miracle",
+      "numbers": [
+        21
+      ],
+      "slug": "miracle",
+      "status": "desktop_rendered_css_mobile_blocked_by_navigation_dialog",
+      "palette": "White document; blue #0083A8 information banner and red #CE0000 supporting headings",
+      "headline": "Helvetica/Arial sans-serif; primary first viewport is third-party video embed, not a DOM headline",
+      "cta_text": null,
+      "cta_bg": null,
+      "cta_fg": null,
+      "cta_radius_px": null,
+      "cta_y_desktop": null,
+      "cta_y_mobile": null,
+      "cta_in_desktop_first_view": null,
+      "cta_in_mobile_first_view": null,
+      "hero": "Large VSL/embed occupies first roughly802px; reading alternative below",
+      "navigation": "No visible top site navigation",
+      "primary_current_comparison": true,
+      "url": "https://babysleepmiracle.com/index_en.php",
+      "actual_desktop_viewport": [
+        1440,
+        1000
+      ],
+      "actual_mobile_viewport": null,
+      "cta_group": null,
+      "headline_family": null,
+      "hero_layout": null
+    },
+    {
+      "brand": "The Baby Sleep Site",
+      "numbers": [
+        22
+      ],
+      "slug": "sleepsite",
+      "status": "rendered_css",
+      "palette": "White body, video/dark hero, teal #2A808D actions, purple #8982C6 panels",
+      "headline": "Lora serif white, 50px desktop / 35px mobile",
+      "cta_text": "Start Your Personalized Sleep Plan",
+      "cta_bg": "#2A808D",
+      "cta_fg": "#FFFFFF",
+      "cta_radius_px": 8,
+      "cta_y_desktop": 1462,
+      "cta_y_mobile": 1719,
+      "cta_in_desktop_first_view": false,
+      "cta_in_mobile_first_view": false,
+      "hero": "Centered promise over full-width background video on desktop, dark hero treatment on mobile",
+      "navigation": "Extensive content/service nav and dropdown destinations",
+      "primary_current_comparison": true,
+      "url": "https://www.babysleepsite.com/",
+      "actual_desktop_viewport": [
+        1440,
+        1000
+      ],
+      "actual_mobile_viewport": [
+        390,
+        844
+      ],
+      "cta_group": "teal/turquoise",
+      "headline_family": "serif",
+      "hero_layout": "centered"
+    },
+    {
+      "brand": "Gentle Revolution",
+      "numbers": [
+        25
+      ],
+      "url": "https://www.gentlerevolution.com/",
+      "base": "White content; blue header/footer and links #215F8E",
+      "cta_bg": null,
+      "cta_group": null,
+      "cta_role": "Catalog product links, no singular hero action",
+      "headline_family": null,
+      "headline_note": "Catalog featured-products headings use Montserrat; no classifiable offer hero headline.",
+      "hero_layout": "catalog",
+      "cta_in_desktop_first_view": null,
+      "cta_in_mobile_first_view": null
+    },
+    {
+      "brand": "Healthiest Baby",
+      "numbers": [
+        26
+      ],
+      "url": "https://www.healthiest-baby.com/how-to-play-with-your-baby",
+      "base": "White/pale blue #F1FAFB, dark ink #161E2A",
+      "cta_bg": "#3DDAD7",
+      "cta_group": "teal/turquoise",
+      "cta_role": "Ebook purchase",
+      "headline_family": "serif",
+      "hero_layout": "split",
+      "cta_in_desktop_first_view": true,
+      "cta_in_mobile_first_view": true,
+      "cta_y_desktop": 473,
+      "cta_y_mobile": 666
+    },
+    {
+      "brand": "Milestones and Motherhood",
+      "numbers": [
+        32,
+        33
+      ],
+      "url": "https://milestonesandmotherhood.com/courses",
+      "base": "Cream/off-white/peach #F6F0E6 / #FBFAF7 / #FDEBDA",
+      "cta_bg": null,
+      "cta_group": null,
+      "cta_role": "Multiple pale stage-selection pills; not one acquisition CTA",
+      "headline_family": "serif",
+      "hero_layout": "centered",
+      "cta_in_desktop_first_view": null,
+      "cta_in_mobile_first_view": null
+    },
+    {
+      "brand": "The Montessori Notebook",
+      "numbers": [
+        35
+      ],
+      "url": "https://courses.themontessorinotebook.com/p/montessori-for-babies-from-conception-through-the-first-year",
+      "base": "Room photo with white hero text; pale grey/white content",
+      "cta_bg": "#0D7BFC",
+      "cta_group": "blue",
+      "cta_role": "Workshop enrollment",
+      "headline_family": "serif",
+      "hero_layout": "centered",
+      "cta_in_desktop_first_view": true,
+      "cta_in_mobile_first_view": true,
+      "cta_y_desktop": 613,
+      "cta_y_mobile": 615
+    },
+    {
+      "brand": "Reading Head Start",
+      "numbers": [
+        36
+      ],
+      "url": "https://www.readingheadstart.com/",
+      "base": "White with blue headings #276BAE and pale blue/green pricing accents",
+      "cta_bg": "#00B54D",
+      "cta_group": "green",
+      "cta_role": "Pricing/trial purchase",
+      "headline_family": "sans",
+      "headline_note": "Roboto content headings appear after video and prices; the primary hero is the VSL.",
+      "hero_layout": "centered",
+      "cta_in_desktop_first_view": false,
+      "cta_in_mobile_first_view": true,
+      "cta_y_desktop": 1130,
+      "cta_y_mobile": 623
+    },
+    {
+      "brand": "The Sleep Lady",
+      "numbers": [
+        38
+      ],
+      "url": "https://sleeplady.com/",
+      "base": "White navigation/content, sage hero #89B6A5, blue later headings #253688",
+      "cta_bg": "#904E99",
+      "cta_group": "purple",
+      "cta_role": "Consultation acquisition",
+      "headline_family": "sans",
+      "hero_layout": "centered",
+      "cta_in_desktop_first_view": true,
+      "cta_in_mobile_first_view": true,
+      "cta_y_desktop": 514,
+      "cta_y_mobile": 611
+    },
+    {
+      "brand": "BabyPillars",
+      "numbers": [
+        23
+      ],
+      "url": "https://www.babypillars.com/",
+      "base": "Pale paper #FDFCF9, dark text, green accents",
+      "cta_bg": "#54A388",
+      "cta_group": "green",
+      "cta_role": "Membership acquisition",
+      "headline_family": "serif",
+      "hero_layout": "split",
+      "cta_in_desktop_first_view": true,
+      "cta_in_mobile_first_view": true,
+      "cta_y_desktop": 876,
+      "cta_y_mobile": 719
+    }
+  ]
+}
