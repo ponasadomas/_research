@@ -55,7 +55,8 @@ have. An agent that filters research "to be safe" has made the research wrong.
 - **What belongs here and what does not.** If it describes someone else (the buyer, a
   competitor, the market), it is research and lives here, including the scripts that
   collected it. If we made it (a site, a quiz, a design, a brand name), it lives with that
-  product. A product repo has no `research` folder; its scripts that need research read it
+  product, in its repo's `_project/` folder when it is not code. A product repo has no
+  `research` folder; its scripts that need research read it
   from this repo (`~/GitHub/_research`).
 - **An underscore marks a folder that supports the others and is not one of them:**
   `_tools` and `_work` here, `_home` and `_research` among the project repos.

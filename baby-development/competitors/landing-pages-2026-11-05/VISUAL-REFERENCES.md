@@ -1,6 +1,6 @@
 # MamiVio visual references
 
-Captured 5 November 2026. These four current pages were rendered and inspected at **1440 × 1000**, with typography and colors checked through computed browser styles. Screenshots show the first viewport, not the full sales page. These four captures are supporting illustrations, not the full comparative sample. The governing findings (`mamiVio.com/mamivio.com-dev/design-reference/landing-page-design-2026-11-05/DESIGN-FINDINGS.md`), [visual audit A](CORRECTIVE-VISUAL-AUDIT-A.md), [visual audit B](CORRECTIVE-VISUAL-AUDIT-B.md) and [historical recovery](HISTORICAL-DESIGN-EVIDENCE.md) provide the broader comparison.
+Captured 5 November 2026. These four current pages were rendered and inspected at **1440 × 1000**, with typography and colors checked through computed browser styles. Screenshots show the first viewport, not the full sales page. These four captures are supporting illustrations, not the full comparative sample. The governing findings (`mamiVio.com/mamivio.com-dev/_project/design/landing-page-design-2026-11-05/DESIGN-FINDINGS.md`), [visual audit A](CORRECTIVE-VISUAL-AUDIT-A.md), [visual audit B](CORRECTIVE-VISUAL-AUDIT-B.md) and [historical recovery](HISTORICAL-DESIGN-EVIDENCE.md) provide the broader comparison.
 
 The captures illustrate two directions within this selected sample: warm editorial presentation and brighter course-sales presentation. Four pages cannot establish a dominant palette across the whole niche, and appearance does not establish conversion performance.
 
@@ -56,4 +56,4 @@ The governing recommendation uses light white/pale-blue information surfaces, da
 | Secondary text `#526070` on white `#FFFFFF` | 6.43:1 |
 | Navy `#233B59` on pale blue `#F2F7FB` | 10.58:1 |
 
-Check interactive states, focus outlines, image overlays, errors and final sizing in any implementation. The original green wireframes remain structural references only; their palette is superseded by the current written brief (`mamiVio.com/mamivio.com-dev/design-reference/landing-page-design-2026-11-05/DESIGN-BRIEF.md`).
+Check interactive states, focus outlines, image overlays, errors and final sizing in any implementation. The original green wireframes remain structural references only; their palette is superseded by the current written brief (`mamiVio.com/mamivio.com-dev/_project/design/landing-page-design-2026-11-05/DESIGN-BRIEF.md`).

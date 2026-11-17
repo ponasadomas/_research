@@ -20,6 +20,6 @@ Question 4: who is selling to her, and what is working?
   files, one per page and screen size).
 - **Not here:** what we designed from this (design brief, design findings, quiz landing
   description, desktop review, photos) is our own work and stays with the site, in
-  `~/GitHub/mamiVio.com/mamivio.com-dev/design-reference/landing-page-design-2026-11-05/`.
+  `~/GitHub/mamiVio.com/mamivio.com-dev/_project/design/landing-page-design-2026-11-05/`.
   Links to those files were turned into plain paths when the folder was split, and links to
   the screenshots gained the `raw/` prefix. Nothing else in the files was changed.

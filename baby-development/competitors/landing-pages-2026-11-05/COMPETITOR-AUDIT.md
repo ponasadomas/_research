@@ -1,6 +1,6 @@
 # MamiVio complete competitor URL audit
 
-Reviewed 5 November 2026. All **43 supplied URLs** are recorded below, using their original list numbers. The governing synthesis is Design findings and decisions (`mamiVio.com/mamivio.com-dev/design-reference/landing-page-design-2026-11-05/DESIGN-FINDINGS.md`), with a separate quiz description (`mamiVio.com/mamivio.com-dev/design-reference/landing-page-design-2026-11-05/QUIZ-LANDING-DESCRIPTION.md`) and sales landing page brief (`mamiVio.com/mamivio.com-dev/design-reference/landing-page-design-2026-11-05/DESIGN-BRIEF.md`).
+Reviewed 5 November 2026. All **43 supplied URLs** are recorded below, using their original list numbers. The governing synthesis is Design findings and decisions (`mamiVio.com/mamivio.com-dev/_project/design/landing-page-design-2026-11-05/DESIGN-FINDINGS.md`), with a separate quiz description (`mamiVio.com/mamivio.com-dev/_project/design/landing-page-design-2026-11-05/QUIZ-LANDING-DESCRIPTION.md`) and sales landing page brief (`mamiVio.com/mamivio.com-dev/_project/design/landing-page-design-2026-11-05/DESIGN-BRIEF.md`).
 
 The first section follows URLs 1–22 in order. The second groups URLs 23–43 by accessible, indexed-only and replaced/unavailable sources, preserving their original numbers. Each original URL has its own record, including repeated paths on one domain.
 
