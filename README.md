@@ -117,6 +117,10 @@ reading, quoting and merging. Conventions for the collecting step are still to b
 - Counts are counts of quotes, never of people. Say how the posts were chosen, so the
   counts are not read as how common something is.
 - Say what is still unread, and how much.
+- An attempt that found little or nothing is recorded as that, with the reason, at the top
+  of the kind folder's README. Saved pages and empty files are not research.
+- When a script is turned away, do not stop there: follow
+  `~/GitHub/_home/playbooks/collect-through-a-browser.md`.
 - Keep and label provenance: commercial, fictional, second-hand or AI-written passages
   are marked, not removed.
 - When a conclusion changes, record it with the date: what it said, what it says now,
