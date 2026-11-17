@@ -57,19 +57,24 @@ tool or script, for which offer, the question it was meant to answer (see below)
 where its findings page is. A kind with nothing in it says "nothing collected yet". Each
 kind folder's own README says the same for that kind in more detail.
 
-## Three questions, each from a source that can answer it
+## Four questions, each from a source that can answer it
 
-A niche's research is complete when all three are answered. No source is required and
+A niche's research is complete when all four are answered. No source is required and
 none is enough alone.
 
 | Question | Sources that can answer it | Why |
 |---|---|---|
-| Is anyone selling to her, and what is working? | Ads running now, competitor pages and funnels | An ad that runs for months is proof of money |
-| What does she pay for, and was she satisfied? | Reviews of books, apps and courses | Only buyers write them |
-| What hurts, and how does she say it? | Reddit, forums, comment sections | Anonymous, long and unguarded |
+| 1. Who is she, and what is her life like? | Our own data (quiz answers, buyers, email replies), ad platform audience data, the people who follow and comment on competitors, published surveys and statistics, communities | The other three questions are all about her. The avatar is written from this evidence, not imagined |
+| 2. What hurts, what does she want, and how does she say it? | Reddit, forums, comment sections | Anonymous, long and unguarded. Includes the result she is really paying for |
+| 3. What is she buying for this, what does she pay, and how did it go? | First: what she says she bought, bestseller lists and store charts, marketplaces. Then: reviews of what sells most | Only buyers know. Find where the money goes before choosing whose reviews to read |
+| 4. Who is selling to her, and what is working? | Ads running now, competitor pages and funnels | An ad that runs for months is proof of money |
 
-- The first question is the quick check (step 2 of `~/GitHub/_home/playbooks/new-niche.md`):
-  it decides whether the niche is worth entering. The other two are the deeper research.
+- **Question 3 has an order.** First map what she spends on: which kinds of thing (apps,
+  books, courses, classes, a person), which products, what prices. Then read reviews of
+  the ones that sell most: where they let her down and what delighted her. Reviews of
+  products picked without the map may miss where the money is.
+- Question 4 is the quick check (step 2 of `~/GitHub/_home/playbooks/new-niche.md`): it
+  decides whether the niche is worth entering. The others are the deeper research.
 - A community shows who posts there, not the market. Reddit is mostly American, younger
   and English-speaking, people post more when things are bad, and many who post never
   buy. Its counts never show how common a problem is.

@@ -22,13 +22,14 @@ Rules for all research: `../README.md`.
 Findings page (the short one): not written yet. It will be
 `~/GitHub/_home/library/avatars/baby-development/findings/`.
 
-## The three questions
+## The four questions
 
 | Question | Answered from | State |
 |---|---|---|
-| Is anyone selling to her, and what is working? | `competitors/`, the Ad Library sweep, `sales-letters/` | Partly: competitors done, ads only in the shared sweep |
-| What does she pay for, and was she satisfied? | `reviews/`, `books/` | Answered for apps (159 quotes); not answered for books (5 quotes) or courses |
-| What hurts, and how does she say it? | `reddit/` | Answered; one source only |
+| 1. Who is she, and what is her life like? | nothing collected for it | **Not answered.** Pieces are scattered through the Reddit quotes; mamiVio's own quiz data has not been used |
+| 2. What hurts, what does she want, and how does she say it? | `reddit/` | Answered; one source only |
+| 3. What is she buying, what does she pay, and how did it go? | `reviews/`, `books/` | Half answered. Reviews of 9 apps were read (159 quotes), but nobody first mapped what she spends on, so the apps were picked without it. Books: 5 quotes. Courses, classes, toys: nothing |
+| 4. Who is selling to her, and what is working? | `competitors/`, the Ad Library sweep, `sales-letters/` | Partly: competitors done, ads only in the shared sweep |
 
 ## Reddit originals are not in this folder
 
