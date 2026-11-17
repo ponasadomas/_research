@@ -1,0 +1,29 @@
+{
+  "original_filename": "workingmoms_comments.jsonl.zst",
+  "original_bytes": 276120686,
+  "original_sha256": "8d9baf50e2daae428a64c19d92904f49d737f0a98fbda4c28a982f11b2091652",
+  "concatenation_order": [
+    "_raw/reddit-deep/archive-files/workingmoms_comments.jsonl.zst.parts/0000.part",
+    "_raw/reddit-deep/archive-files/workingmoms_comments.jsonl.zst.parts/0001.part",
+    "_raw/reddit-deep/archive-files/workingmoms_comments.jsonl.zst.parts/0002.part"
+  ],
+  "pieces": [
+    {
+      "file": "_raw/reddit-deep/archive-files/workingmoms_comments.jsonl.zst.parts/0000.part",
+      "bytes": 95000000,
+      "sha256": "fcd0a5466efc20a3a0be1edca39b8d174eb72417b958f6f33b5974d1c161bc34"
+    },
+    {
+      "file": "_raw/reddit-deep/archive-files/workingmoms_comments.jsonl.zst.parts/0001.part",
+      "bytes": 95000000,
+      "sha256": "bdd54a239311c5e06d18da5ccac73786260f48af7036318b56ceae112b85c3d9"
+    },
+    {
+      "file": "_raw/reddit-deep/archive-files/workingmoms_comments.jsonl.zst.parts/0002.part",
+      "bytes": 86120686,
+      "sha256": "86c3724e7a96701fef743edb08f776bdc991680b4a17afa1dc6f41ef68cb7ede"
+    }
+  ],
+  "reassembly": "Concatenate the piece files in listed order as binary; resulting bytes reproduce the original JSONL.zst exactly.",
+  "temporary_unsplit_copy": "/tmp/mamivio-reddit-unsplit/workingmoms_comments.jsonl.zst"
+}

@@ -1,0 +1,20 @@
+{
+  "source_file": "_raw/reddit-deep/archive-files/BabyBumps_submissions.jsonl.zst",
+  "output": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumps_submissions.jsonl.gz",
+  "window_start": "2025-07-01T00:00:00+00:00",
+  "window_end_exclusive": "2026-01-01T00:00:00+00:00",
+  "source_records_scanned": 611459,
+  "selected_records": 30806,
+  "unique_ids": 30806,
+  "duplicate_ids": 0,
+  "min_date": "2025-07-01T00:02:23+00:00",
+  "max_date": "2025-12-31T23:46:11+00:00",
+  "text_status": {
+    "present": 22799,
+    "removed": 3754,
+    "empty": 4188,
+    "deleted": 65
+  },
+  "compressed_bytes": 17387833,
+  "sha256": "850e8830f171fa1e66848ced87e8d84e2aff1c1b1d9db7026aef73b05b8c9cba"
+}

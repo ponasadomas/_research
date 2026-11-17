@@ -1,0 +1,20 @@
+{
+  "source_file": "_raw/reddit-deep/archive-files/BabyBumpsandBeyondAu_submissions.jsonl.zst",
+  "output": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumpsandBeyondAu_submissions.jsonl.gz",
+  "window_start": "2025-07-01T00:00:00+00:00",
+  "window_end_exclusive": "2026-01-01T00:00:00+00:00",
+  "source_records_scanned": 17296,
+  "selected_records": 4902,
+  "unique_ids": 4902,
+  "duplicate_ids": 0,
+  "min_date": "2025-07-01T00:00:27+00:00",
+  "max_date": "2025-12-31T23:57:55+00:00",
+  "text_status": {
+    "present": 4539,
+    "empty": 300,
+    "removed": 52,
+    "deleted": 11
+  },
+  "compressed_bytes": 2464773,
+  "sha256": "3aa8a72c6cb55f6c748d8550796fa2fb65a85bbe41984a7762585b9b13aeb610"
+}

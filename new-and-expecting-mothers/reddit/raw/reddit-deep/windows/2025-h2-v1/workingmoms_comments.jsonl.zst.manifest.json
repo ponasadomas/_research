@@ -1,0 +1,19 @@
+{
+  "source_file": "_raw/reddit-deep/archive-files/workingmoms_comments.jsonl.zst",
+  "output": "_raw/reddit-deep/windows/2025-h2-v1/workingmoms_comments.jsonl.gz",
+  "window_start": "2025-07-01T00:00:00+00:00",
+  "window_end_exclusive": "2026-01-01T00:00:00+00:00",
+  "source_records_scanned": 1344743,
+  "selected_records": 125533,
+  "unique_ids": 125533,
+  "duplicate_ids": 0,
+  "min_date": "2025-07-01T00:02:09+00:00",
+  "max_date": "2025-12-31T23:59:23+00:00",
+  "text_status": {
+    "present": 123101,
+    "removed": 2299,
+    "deleted": 133
+  },
+  "compressed_bytes": 31240311,
+  "sha256": "833d61fb9a2d08d525ab7f1de2371e110813dee7837ba138e5c5965ff7349099"
+}

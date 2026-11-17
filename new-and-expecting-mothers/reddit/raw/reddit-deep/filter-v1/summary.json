@@ -1,0 +1,130 @@
+{
+  "window": "2025-07-01 inclusive to2026-01-01 exclusive",
+  "total_posts": 112665,
+  "tiers": {
+    "A": 8284,
+    "C": 38463,
+    "B": 51253,
+    "unavailable": 14665
+  },
+  "by_subreddit": {
+    "BabyBumpsCanada": {
+      "A": 286,
+      "C": 1701,
+      "B": 1318,
+      "unavailable": 619
+    },
+    "BabyBumps": {
+      "B": 11565,
+      "C": 9671,
+      "A": 1563,
+      "unavailable": 8007
+    },
+    "BabyBumpsandBeyondAu": {
+      "B": 1995,
+      "C": 2185,
+      "A": 359,
+      "unavailable": 363
+    },
+    "BabyLedWeaning": {
+      "C": 803,
+      "B": 934,
+      "unavailable": 152,
+      "A": 107
+    },
+    "BeyondTheBumpUK": {
+      "C": 1360,
+      "B": 1950,
+      "unavailable": 398,
+      "A": 268
+    },
+    "ExclusivelyPumping": {
+      "C": 4708,
+      "B": 5246,
+      "A": 1183,
+      "unavailable": 308
+    },
+    "NewParents": {
+      "B": 16167,
+      "C": 10343,
+      "unavailable": 3105,
+      "A": 2555
+    },
+    "beyondthebump": {
+      "C": 6634,
+      "B": 9671,
+      "A": 1295,
+      "unavailable": 1238
+    },
+    "workingmoms": {
+      "C": 1058,
+      "B": 2407,
+      "unavailable": 475,
+      "A": 668
+    }
+  },
+  "by_primary_topic": {
+    "household_support": {
+      "A": 1260,
+      "C": 3953,
+      "B": 7744,
+      "unavailable": 856
+    },
+    "other": {
+      "C": 10321,
+      "B": 7198,
+      "A": 631,
+      "unavailable": 10276
+    },
+    "sleep_routines": {
+      "A": 2021,
+      "C": 5035,
+      "B": 9470,
+      "unavailable": 432
+    },
+    "pregnancy_birth": {
+      "A": 1130,
+      "B": 8603,
+      "C": 6356,
+      "unavailable": 1886
+    },
+    "pumping_feeding": {
+      "C": 6910,
+      "A": 1856,
+      "B": 9842,
+      "unavailable": 580
+    },
+    "registry_gear": {
+      "C": 1642,
+      "B": 1366,
+      "A": 247,
+      "unavailable": 261
+    },
+    "work_return": {
+      "B": 1618,
+      "C": 646,
+      "A": 351,
+      "unavailable": 104
+    },
+    "solids_food": {
+      "C": 2215,
+      "B": 3243,
+      "unavailable": 161,
+      "A": 487
+    },
+    "development_play": {
+      "C": 1385,
+      "A": 301,
+      "B": 2169,
+      "unavailable": 109
+    }
+  },
+  "tier_A_card_chunks": 131,
+  "tier_A_cards": 8284,
+  "safety_flags_are_review_flags_not_automatic_drops": true,
+  "relevance_ranking_or_topN_cap": false,
+  "triaged": 0,
+  "kept_after_human_triage": 0,
+  "full_posts_read": 0,
+  "original_comments_read": 0
+}

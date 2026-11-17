@@ -1,0 +1,106 @@
+[
+  {
+    "logical_original_file": "_raw/reddit-deep/archive-files/BabyLedWeaning_submissions.jsonl.zst",
+    "preserved_paths": [
+      "_raw/reddit-deep/archive-files/BabyLedWeaning_submissions.jsonl.zst"
+    ],
+    "bytes": 7589155,
+    "sha256": "87b54916d566433bd7b77553ba8efe4bbd5855b17f504cc614ce2890f2bf8012",
+    "matches_download": true
+  },
+  {
+    "logical_original_file": "_raw/reddit-deep/archive-files/NewParents_submissions.jsonl.zst",
+    "preserved_paths": [
+      "_raw/reddit-deep/archive-files/NewParents_submissions.jsonl.zst"
+    ],
+    "bytes": 82515869,
+    "sha256": "efe1200831bedc3254d8d26649fae5718be127c6a668d50c257e9ab429107057",
+    "matches_download": true
+  },
+  {
+    "logical_original_file": "_raw/reddit-deep/archive-files/BabyLedWeaning_comments.jsonl.zst",
+    "preserved_paths": [
+      "_raw/reddit-deep/archive-files/BabyLedWeaning_comments.jsonl.zst"
+    ],
+    "bytes": 38884103,
+    "sha256": "d77cab200b9040cd81ff16ece16eac63f77833fb10c40a2ac9ae588e7483d10b",
+    "matches_download": true
+  },
+  {
+    "logical_original_file": "_raw/reddit-deep/archive-files/workingmoms_submissions.jsonl.zst",
+    "preserved_paths": [
+      "_raw/reddit-deep/archive-files/workingmoms_submissions.jsonl.zst"
+    ],
+    "bytes": 25763446,
+    "sha256": "b5a085c0dfbf38c8c454e25658cf3d7fd0afba740f5e7a66826c6c016123009f",
+    "matches_download": true
+  },
+  {
+    "logical_original_file": "_raw/reddit-deep/archive-files/workingmoms_comments.jsonl.zst",
+    "preserved_paths": [
+      "_raw/reddit-deep/archive-files/workingmoms_comments.jsonl.zst.parts/0000.part",
+      "_raw/reddit-deep/archive-files/workingmoms_comments.jsonl.zst.parts/0001.part",
+      "_raw/reddit-deep/archive-files/workingmoms_comments.jsonl.zst.parts/0002.part"
+    ],
+    "bytes": 276120686,
+    "sha256": "8d9baf50e2daae428a64c19d92904f49d737f0a98fbda4c28a982f11b2091652",
+    "matches_download": true
+  },
+  {
+    "logical_original_file": "_raw/reddit-deep/archive-files/BeyondTheBumpUK_submissions.jsonl.zst",
+    "preserved_paths": [
+      "_raw/reddit-deep/archive-files/BeyondTheBumpUK_submissions.jsonl.zst"
+    ],
+    "bytes": 5256908,
+    "sha256": "3d7b4639c912db8fb65611c50c6700e36673dd1329fdbb1353834b19ecff0f10",
+    "matches_download": true
+  },
+  {
+    "logical_original_file": "_raw/reddit-deep/archive-files/BabyBumpsCanada_submissions.jsonl.zst",
+    "preserved_paths": [
+      "_raw/reddit-deep/archive-files/BabyBumpsCanada_submissions.jsonl.zst"
+    ],
+    "bytes": 9796797,
+    "sha256": "8c7a88831704e57fd2cd17a56edb10fc3788d1d813890af99a10f6ad281f9dd2",
+    "matches_download": true
+  },
+  {
+    "logical_original_file": "_raw/reddit-deep/archive-files/BabyBumpsandBeyondAu_submissions.jsonl.zst",
+    "preserved_paths": [
+      "_raw/reddit-deep/archive-files/BabyBumpsandBeyondAu_submissions.jsonl.zst"
+    ],
+    "bytes": 7010872,
+    "sha256": "f3952287ac093261f0e8234c4c2a674e1ac2eb9f1630246bb42d7a457c0fcd3b",
+    "matches_download": true
+  },
+  {
+    "logical_original_file": "_raw/reddit-deep/archive-files/ExclusivelyPumping_submissions.jsonl.zst",
+    "preserved_paths": [
+      "_raw/reddit-deep/archive-files/ExclusivelyPumping_submissions.jsonl.zst"
+    ],
+    "bytes": 27762064,
+    "sha256": "1c6261f0b80573e11463e376163b15ebc7ac80e180f364b592af54f7d763c5d3",
+    "matches_download": true
+  },
+  {
+    "logical_original_file": "_raw/reddit-deep/archive-files/beyondthebump_submissions.jsonl.zst",
+    "preserved_paths": [
+      "_raw/reddit-deep/archive-files/beyondthebump_submissions.jsonl.zst.parts/0000.part",
+      "_raw/reddit-deep/archive-files/beyondthebump_submissions.jsonl.zst.parts/0001.part"
+    ],
+    "bytes": 153157403,
+    "sha256": "5ed83341f9034de1c73f8e45a7e3ea1b09d9f3c88c79ac0f7d67dfabca5a18e3",
+    "matches_download": true
+  },
+  {
+    "logical_original_file": "_raw/reddit-deep/archive-files/BabyBumps_submissions.jsonl.zst",
+    "preserved_paths": [
+      "_raw/reddit-deep/archive-files/BabyBumps_submissions.jsonl.zst.parts/0000.part",
+      "_raw/reddit-deep/archive-files/BabyBumps_submissions.jsonl.zst.parts/0001.part",
+      "_raw/reddit-deep/archive-files/BabyBumps_submissions.jsonl.zst.parts/0002.part"
+    ],
+    "bytes": 271387133,
+    "sha256": "d3d9d85f6c117777a03874f0d910a5d5b66f79ce8f1193f93258904be48264eb",
+    "matches_download": true
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "candidate_posts": 8284,
+  "available_comments_in_units": 19258,
+  "identifiable_OP_replies": 2735,
+  "units_with_comment_source": 775,
+  "units_without_comment_source": 7509,
+  "units_with_missing_comment_parents": 0,
+  "reading_chunks": 865,
+  "reading_bytes": 32426499,
+  "oversize_untruncated_thread_chunks": 85,
+  "by_subreddit": {
+    "BabyBumpsCanada": {
+      "posts": 286,
+      "comments": 0,
+      "chunks": 16
+    },
+    "BabyBumps": {
+      "posts": 1563,
+      "comments": 0,
+      "chunks": 107
+    },
+    "BabyBumpsandBeyondAu": {
+      "posts": 359,
+      "comments": 0,
+      "chunks": 21
+    },
+    "BabyLedWeaning": {
+      "posts": 107,
+      "comments": 1262,
+      "chunks": 31
+    },
+    "BeyondTheBumpUK": {
+      "posts": 268,
+      "comments": 0,
+      "chunks": 18
+    },
+    "ExclusivelyPumping": {
+      "posts": 1183,
+      "comments": 0,
+      "chunks": 71
+    },
+    "NewParents": {
+      "posts": 2555,
+      "comments": 0,
+      "chunks": 159
+    },
+    "beyondthebump": {
+      "posts": 1295,
+      "comments": 0,
+      "chunks": 90
+    },
+    "workingmoms": {
+      "posts": 668,
+      "comments": 17996,
+      "chunks": 352
+    }
+  },
+  "comment_relationships": {
+    "BabyLedWeaning": {
+      "window_comments": 22046,
+      "comments_joined_to_A_posts": 1262,
+      "comments_for_non_A_or_outside_window_posts": 20784
+    },
+    "workingmoms": {
+      "window_comments": 125533,
+      "comments_joined_to_A_posts": 17996,
+      "comments_for_non_A_or_outside_window_posts": 107537
+    }
+  },
+  "human_triaged": 0,
+  "kept_after_human_triage": 0,
+  "read": 0,
+  "quotes": 0
+}

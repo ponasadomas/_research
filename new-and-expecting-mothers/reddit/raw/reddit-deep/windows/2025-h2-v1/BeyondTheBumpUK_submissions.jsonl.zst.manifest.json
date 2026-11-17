@@ -1,0 +1,20 @@
+{
+  "source_file": "_raw/reddit-deep/archive-files/BeyondTheBumpUK_submissions.jsonl.zst",
+  "output": "_raw/reddit-deep/windows/2025-h2-v1/BeyondTheBumpUK_submissions.jsonl.gz",
+  "window_start": "2025-07-01T00:00:00+00:00",
+  "window_end_exclusive": "2026-01-01T00:00:00+00:00",
+  "source_records_scanned": 11672,
+  "selected_records": 3976,
+  "unique_ids": 3976,
+  "duplicate_ids": 0,
+  "min_date": "2025-07-01T00:00:58+00:00",
+  "max_date": "2025-12-31T22:36:04+00:00",
+  "text_status": {
+    "present": 3578,
+    "empty": 362,
+    "removed": 26,
+    "deleted": 10
+  },
+  "compressed_bytes": 2329964,
+  "sha256": "8fbbb293e21e87ac00dc81a3f3701227c1c279fcfc0a9d565ffffda189da8031"
+}

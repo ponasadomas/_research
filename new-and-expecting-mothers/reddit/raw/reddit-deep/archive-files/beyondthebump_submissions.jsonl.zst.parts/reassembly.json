@@ -1,0 +1,23 @@
+{
+  "original_filename": "beyondthebump_submissions.jsonl.zst",
+  "original_bytes": 153157403,
+  "original_sha256": "5ed83341f9034de1c73f8e45a7e3ea1b09d9f3c88c79ac0f7d67dfabca5a18e3",
+  "concatenation_order": [
+    "_raw/reddit-deep/archive-files/beyondthebump_submissions.jsonl.zst.parts/0000.part",
+    "_raw/reddit-deep/archive-files/beyondthebump_submissions.jsonl.zst.parts/0001.part"
+  ],
+  "pieces": [
+    {
+      "file": "_raw/reddit-deep/archive-files/beyondthebump_submissions.jsonl.zst.parts/0000.part",
+      "bytes": 95000000,
+      "sha256": "d179411a42a5213606848d87af3b01edb06117fac0746bf63f60248b1e489c2c"
+    },
+    {
+      "file": "_raw/reddit-deep/archive-files/beyondthebump_submissions.jsonl.zst.parts/0001.part",
+      "bytes": 58157403,
+      "sha256": "e4c025ca2d4ea39cd3b0e578aedc7c7a0187320e1561ebef2c59f0ac4cb1a1cb"
+    }
+  ],
+  "reassembly": "Concatenate the piece files in listed order as binary; resulting bytes reproduce the original JSONL.zst exactly.",
+  "temporary_unsplit_copy": "/tmp/mamivio-reddit-unsplit/beyondthebump_submissions.jsonl.zst"
+}

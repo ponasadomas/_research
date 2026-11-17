@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-24",
+  "baseline_commit": "2613feb3",
+  "original_batch03_frozen": "_raw/reddit-deep/aug-dec-2025-wave-v1/assignments/batch-03.json",
+  "reader_acknowledged_no_overlap": true,
+  "current_owners": [
+    {
+      "reader": "mse_completion_02",
+      "manifest": "batch-01.json",
+      "cards": 2199
+    },
+    {
+      "reader": "mse_completion_03",
+      "manifest": "batch-02.json",
+      "cards": 2193
+    },
+    {
+      "reader": "reviews_media",
+      "manifest": "batch-03-after-transfer.json",
+      "cards": 1585
+    },
+    {
+      "reader": "root",
+      "manifest": "batch-04.json",
+      "cards": 620
+    }
+  ],
+  "total_cards": 6597
+}

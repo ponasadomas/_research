@@ -1,0 +1,178 @@
+---
+dataset_info:
+  features:
+  - name: start_date
+    dtype: string
+  - name: end_date
+    dtype: string
+  - name: thread_id
+    dtype: string
+  - name: subreddit
+    dtype: string
+  - name: subreddit_id
+    dtype: string
+  - name: total_score
+    dtype: int64
+  - name: text
+    dtype: string
+  - name: num_messages
+    dtype: int64
+  - name: avg_score
+    dtype: float64
+  splits:
+  - name: tifu
+    num_bytes: 454388196
+    num_examples: 208970
+  - name: Documentaries
+    num_bytes: 93629662
+    num_examples: 54210
+  - name: explainlikeimfive
+    num_bytes: 1046681120
+    num_examples: 652525
+  - name: WritingPrompts
+    num_bytes: 845178305
+    num_examples: 211245
+  - name: changemyview
+    num_bytes: 951562359
+    num_examples: 134667
+  - name: LifeProTips
+    num_bytes: 270244448
+    num_examples: 237375
+  - name: todayilearned
+    num_bytes: 922018228
+    num_examples: 667200
+  - name: science
+    num_bytes: 293085684
+    num_examples: 153849
+  - name: askscience
+    num_bytes: 485441735
+    num_examples: 212470
+  - name: ifyoulikeblank
+    num_bytes: 79838466
+    num_examples: 84536
+  - name: Foodforthought
+    num_bytes: 47246819
+    num_examples: 18475
+  - name: IWantToLearn
+    num_bytes: 74180798
+    num_examples: 42927
+  - name: bestof
+    num_bytes: 107926710
+    num_examples: 44408
+  - name: IAmA
+    num_bytes: 387869949
+    num_examples: 177616
+  - name: socialskills
+    num_bytes: 208582458
+    num_examples: 103156
+  - name: programming
+    num_bytes: 350054262
+    num_examples: 168154
+  - name: gardening
+    num_bytes: 349336406
+    num_examples: 365384
+  - name: Damnthatsinteresting
+    num_bytes: 153439357
+    num_examples: 166914
+  - name: lifehacks
+    num_bytes: 33642034
+    num_examples: 36265
+  - name: travel
+    num_bytes: 354429861
+    num_examples: 204434
+  - name: relationship_advice
+    num_bytes: 3779011482
+    num_examples: 1553725
+  - name: philosophy
+    num_bytes: 206723923
+    num_examples: 44796
+  - name: Fitness
+    num_bytes: 666442392
+    num_examples: 371800
+  - name: YouShouldKnow
+    num_bytes: 57320879
+    num_examples: 30239
+  - name: history
+    num_bytes: 130094622
+    num_examples: 53636
+  - name: books
+    num_bytes: 324225643
+    num_examples: 179976
+  - name: technology
+    num_bytes: 418616319
+    num_examples: 225749
+  - name: UpliftingNews
+    num_bytes: 68698295
+    num_examples: 39274
+  - name: GetMotivated
+    num_bytes: 75648561
+    num_examples: 52652
+  - name: gadgets
+    num_bytes: 55725657
+    num_examples: 33467
+  - name: space
+    num_bytes: 186780078
+    num_examples: 117530
+  - name: sports
+    num_bytes: 92005983
+    num_examples: 79903
+  - name: Showerthoughts
+    num_bytes: 842958842
+    num_examples: 1337755
+  - name: personalfinance
+    num_bytes: 1855551236
+    num_examples: 847951
+  - name: buildapc
+    num_bytes: 4208530709
+    num_examples: 1892762
+  - name: EatCheapAndHealthy
+    num_bytes: 65934639
+    num_examples: 38706
+  - name: boardgames
+    num_bytes: 398914878
+    num_examples: 191826
+  - name: malefashionadvice
+    num_bytes: 335564558
+    num_examples: 231363
+  - name: femalefashionadvice
+    num_bytes: 114962358
+    num_examples: 49612
+  - name: scifi
+    num_bytes: 86198725
+    num_examples: 50268
+  - name: Fantasy
+    num_bytes: 288057115
+    num_examples: 116359
+  - name: Games
+    num_bytes: 540015295
+    num_examples: 211345
+  - name: bodyweightfitness
+    num_bytes: 146251112
+    num_examples: 74165
+  - name: SkincareAddiction
+    num_bytes: 518704351
+    num_examples: 288116
+  - name: podcasts
+    num_bytes: 62920098
+    num_examples: 46116
+  - name: suggestmeabook
+    num_bytes: 244723416
+    num_examples: 174635
+  - name: AskHistorians
+    num_bytes: 638056364
+    num_examples: 151306
+  - name: mildlyinteresting
+    num_bytes: 419997082
+    num_examples: 782806
+  - name: DIY
+    num_bytes: 218417925
+    num_examples: 149760
+  - name: gaming
+    num_bytes: 1760077944
+    num_examples: 1838783
+  download_size: 15593798957
+  dataset_size: 26315907338
+---
+# Dataset Card for "REDDIT_threaded"
+
+[More Information needed](https://github.com/huggingface/datasets/blob/main/CONTRIBUTING.md#how-to-contribute-to-the-dataset-cards)

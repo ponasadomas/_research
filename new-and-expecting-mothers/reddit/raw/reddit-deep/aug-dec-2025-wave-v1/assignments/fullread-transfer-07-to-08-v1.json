@@ -1,0 +1,616 @@
+{
+  "date": "2026-10-24",
+  "reason": "Transfer all unstarted final20frozenviews from07 to existing01reader after its audit; no topic ranking or newcards.",
+  "donor_confirmed_all_tail_unread": true,
+  "source_manifest": "scratchpad/reddit-augdec-07/full-read-v1/manifest.json",
+  "source_manifest_sha256": "cb56cac73f72bb17b6c57c3c91209910c913c77fa919f006a6743195fa42dc6b",
+  "source_chunks": [
+    {
+      "chunk": 41,
+      "file": "scratchpad/reddit-augdec-07/full-read-v1/full-41.txt",
+      "post_ids": [
+        "1oax05z",
+        "1oazquc",
+        "1ob0326",
+        "1ob8gwu"
+      ],
+      "sha256": "be929fb8a76eae3241ae6249971ee654805e85d497092d20c2d8c13aaf8b3bb5",
+      "units": [
+        {
+          "post_id": "1oax05z",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1oax05z.txt",
+          "sha256": "18ae287034fd239826a46755b1bfba24a549809d96014640ac8bb5717f18679c"
+        },
+        {
+          "post_id": "1oazquc",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1oazquc.txt",
+          "sha256": "93acc05f7a3135bc65a40a00edc284c4267b9a91600d5240b8b87d73d0f71465"
+        },
+        {
+          "post_id": "1ob0326",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ob0326.txt",
+          "sha256": "502ad95283914f321b32c60646f8650e6dd29c656828a0e4852c3d7098df2df6"
+        },
+        {
+          "post_id": "1ob8gwu",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ob8gwu.txt",
+          "sha256": "b40d851b3c533f102a4e1d616b94eb93dcb73b25f2309db811bfa3c8ce8de4e8"
+        }
+      ]
+    },
+    {
+      "chunk": 42,
+      "file": "scratchpad/reddit-augdec-07/full-read-v1/full-42.txt",
+      "post_ids": [
+        "1objasv",
+        "1obobip"
+      ],
+      "sha256": "1214f659e648bb8569d15dd88d097b23a68a20e04d9160522400f96f83fb7ed8",
+      "units": [
+        {
+          "post_id": "1objasv",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1objasv.txt",
+          "sha256": "46fe0a06edbd651796dfab2417b304306a38cbccf19cc7d4ef3aa6d32bb50775"
+        },
+        {
+          "post_id": "1obobip",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1obobip.txt",
+          "sha256": "04f8782db3a2bd9696765aebd8cf0639329660d01a97f4d7a91c2d61683dd884"
+        }
+      ]
+    },
+    {
+      "chunk": 43,
+      "file": "scratchpad/reddit-augdec-07/full-read-v1/full-43.txt",
+      "post_ids": [
+        "1obp3ha"
+      ],
+      "sha256": "6e22cda7881cfc1bdcf8ab086be45b501cce40ca71597345eaaf3b84b8589848",
+      "units": [
+        {
+          "post_id": "1obp3ha",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1obp3ha.txt",
+          "sha256": "354fa773674bc18316ac9afd29da1c4b2e930e1ccc4b15e00f76e19560daee41"
+        }
+      ]
+    },
+    {
+      "chunk": 44,
+      "file": "scratchpad/reddit-augdec-07/full-read-v1/full-44.txt",
+      "post_ids": [
+        "1oce5q7",
+        "1ocjwnn",
+        "1ocw6r1",
+        "1od98zg"
+      ],
+      "sha256": "6d8068ed8030c46af19503908920307a47ef71a35089c303bb264319c120b34f",
+      "units": [
+        {
+          "post_id": "1oce5q7",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1oce5q7.txt",
+          "sha256": "2a7af4b2f978f1237b9261719883be73786593b3a1b18a100b7b60d48b8943fb"
+        },
+        {
+          "post_id": "1ocjwnn",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ocjwnn.txt",
+          "sha256": "887b5cb0c0813429de749706e7ba85ca221c93ad2c501a7b19e59fa9faef8be7"
+        },
+        {
+          "post_id": "1ocw6r1",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ocw6r1.txt",
+          "sha256": "cfbf7d1abc6bb99798e431aa6bc88012c1e8dc4f34c3c809cc156679f507ee37"
+        },
+        {
+          "post_id": "1od98zg",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1od98zg.txt",
+          "sha256": "c2d45378cf8ad54c1c1e5924fda08ce79f07c9e5870ee30d9460831ecc074dd0"
+        }
+      ]
+    },
+    {
+      "chunk": 45,
+      "file": "scratchpad/reddit-augdec-07/full-read-v1/full-45.txt",
+      "post_ids": [
+        "1odbz8u",
+        "1oefo7e",
+        "1oejwqb",
+        "1ofkotp"
+      ],
+      "sha256": "5951ce40f4687450fb42dcd13a8a02d6b75cd900a286e57a19ba14fabddf7d7b",
+      "units": [
+        {
+          "post_id": "1odbz8u",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1odbz8u.txt",
+          "sha256": "c03711385dc2f0f1775780a4fc29e279abc8156dc2860a0aca7d6b8e3dc45ac5"
+        },
+        {
+          "post_id": "1oefo7e",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1oefo7e.txt",
+          "sha256": "53cae4244674a5fca4907af8ae6d0deef23700c3a1ae4da87f1a7c327de6ee4c"
+        },
+        {
+          "post_id": "1oejwqb",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1oejwqb.txt",
+          "sha256": "0131656cd1f12286735368b19518e6aab8dea1a119f29f94bd34ef7a85f8192d"
+        },
+        {
+          "post_id": "1ofkotp",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ofkotp.txt",
+          "sha256": "14256e5fa32c3620401c5bfdd83fb6a0a43cb3a0177f7aa94e83d5a43286e92c"
+        }
+      ]
+    },
+    {
+      "chunk": 46,
+      "file": "scratchpad/reddit-augdec-07/full-read-v1/full-46.txt",
+      "post_ids": [
+        "1ofl5dl",
+        "1og8qdh",
+        "1ogazwz",
+        "1ogjep2",
+        "1ogl0pv"
+      ],
+      "sha256": "2a2adf0af620d3de9aebb54f9831e83f15c746b01f27ce9c90c764ed4f8f5fde",
+      "units": [
+        {
+          "post_id": "1ofl5dl",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ofl5dl.txt",
+          "sha256": "5e7dbf6bc3b4d4c0d2392a59ae0a2b2616d7a5d713c81da9d3073ac3332c450d"
+        },
+        {
+          "post_id": "1og8qdh",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1og8qdh.txt",
+          "sha256": "fbcb77a5b42f4e66ee8c629c1074a5f78f5deb35e736a28414f940c462f18fb3"
+        },
+        {
+          "post_id": "1ogazwz",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ogazwz.txt",
+          "sha256": "8c00bbdecd1ad34cce8da9d66e367ae48b857519fa26cab72e34b14a72716e16"
+        },
+        {
+          "post_id": "1ogjep2",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ogjep2.txt",
+          "sha256": "e0ca36f890689da976458e2e5c7bfa2b4766f37a8f36d7b5f7cfd6eee6cda9f0"
+        },
+        {
+          "post_id": "1ogl0pv",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ogl0pv.txt",
+          "sha256": "004a53bd9bd59f96a6f93c9e86763acea13be8e40ee3533a5351f55c5863db4c"
+        }
+      ]
+    },
+    {
+      "chunk": 47,
+      "file": "scratchpad/reddit-augdec-07/full-read-v1/full-47.txt",
+      "post_ids": [
+        "1oh0mzo",
+        "1ohc7oa",
+        "1ohjtsa",
+        "1ohqrvj"
+      ],
+      "sha256": "40ba9f58f1f9de98a3d6f09f457c9b4e8c175d16b8794f89b4b37a04c54e6eab",
+      "units": [
+        {
+          "post_id": "1oh0mzo",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1oh0mzo.txt",
+          "sha256": "76b1a6b3d82f7ca60315a3f09d70b0b0472de343c504b60c1acc799c8722d31d"
+        },
+        {
+          "post_id": "1ohc7oa",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ohc7oa.txt",
+          "sha256": "63b7217f2b7e2e37a76e5d7a9f97615d07ec7a5925a83307fd531b6c1b42bab7"
+        },
+        {
+          "post_id": "1ohjtsa",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ohjtsa.txt",
+          "sha256": "af3623705fc515b12e1c7cffa28ddb458053265ab5e74e3b17b9dd7818613215"
+        },
+        {
+          "post_id": "1ohqrvj",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ohqrvj.txt",
+          "sha256": "2a4ef3012f24ddd04c818d2007846e9f7bd26ac6c5d63dc0b4d3db6ef1bd7984"
+        }
+      ]
+    },
+    {
+      "chunk": 48,
+      "file": "scratchpad/reddit-augdec-07/full-read-v1/full-48.txt",
+      "post_ids": [
+        "1oht7n4",
+        "1ohyq8t",
+        "1oi8zk2"
+      ],
+      "sha256": "3394fb4c56f70a7904d7e6b2ddf52e1854d3731b027eb4ba6dc563aeeeaedf90",
+      "units": [
+        {
+          "post_id": "1oht7n4",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1oht7n4.txt",
+          "sha256": "c9c792c62c665ed8537ce23c3da13d8ff4222cd304d4bfb96709588f85cf2df3"
+        },
+        {
+          "post_id": "1ohyq8t",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ohyq8t.txt",
+          "sha256": "cb8d5dc4c0ba7cca87e7ea031d431fb27ce71d471f38932a462d778661392084"
+        },
+        {
+          "post_id": "1oi8zk2",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1oi8zk2.txt",
+          "sha256": "18f87f8a54c111843dbb015bf783342dfbbfea7bf9d1a5e05d1f65a36eb60a33"
+        }
+      ]
+    },
+    {
+      "chunk": 49,
+      "file": "scratchpad/reddit-augdec-07/full-read-v1/full-49.txt",
+      "post_ids": [
+        "1oivdbk",
+        "1ojaxip",
+        "1ojewym"
+      ],
+      "sha256": "bb6973a5165ae112223516446c3cfe8d9736f515d9ba3210022204c6cf0f93cb",
+      "units": [
+        {
+          "post_id": "1oivdbk",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1oivdbk.txt",
+          "sha256": "1c80cbc593f432fc0c0a5fe5350519280768a3dd215f5981151fbff2f143d0fb"
+        },
+        {
+          "post_id": "1ojaxip",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ojaxip.txt",
+          "sha256": "04fb235101078dcb969517f50ed9769282e948492193ef4867340d4478d38efe"
+        },
+        {
+          "post_id": "1ojewym",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ojewym.txt",
+          "sha256": "8b4ff1f779b9bf0ad1437efad597da9abdde69b2a0cdfda6a058cbafea081916"
+        }
+      ]
+    },
+    {
+      "chunk": 50,
+      "file": "scratchpad/reddit-augdec-07/full-read-v1/full-50.txt",
+      "post_ids": [
+        "1ojg1gu",
+        "1ojv9v9"
+      ],
+      "sha256": "528c6e8b058e59fb35e68025d986d563fe3f3a36bcbfceb00785ce5c0c816259",
+      "units": [
+        {
+          "post_id": "1ojg1gu",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ojg1gu.txt",
+          "sha256": "9253162e44c5078e1cabaa1ab3c9dcefd37f2f9edb1a431b5bc4d8226f42660b"
+        },
+        {
+          "post_id": "1ojv9v9",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ojv9v9.txt",
+          "sha256": "ae835ad219b36f68e8e1aa2d984d18fce98257486d56ce5e30f1ad35c488fd88"
+        }
+      ]
+    },
+    {
+      "chunk": 51,
+      "file": "scratchpad/reddit-augdec-07/full-read-v1/full-51.txt",
+      "post_ids": [
+        "1ok3dg8",
+        "1okua2b",
+        "1ol8ufu"
+      ],
+      "sha256": "61a60b09b5f76b17eb9ea236d2ea078aa2b2184202750956f8ea75fa260af3c4",
+      "units": [
+        {
+          "post_id": "1ok3dg8",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ok3dg8.txt",
+          "sha256": "283bb821c9ab060a6e7b3ebe2c5c13617831b1773a5b1e77a65767532dca4f31"
+        },
+        {
+          "post_id": "1okua2b",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1okua2b.txt",
+          "sha256": "56b4dc8f419426a061cc581560d778eceeab005439488aba557c58b6283f9e92"
+        },
+        {
+          "post_id": "1ol8ufu",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ol8ufu.txt",
+          "sha256": "7fea2e5e97c165cfd83b66024595a13a186fd1a6c2764bda28004e51ebb8c19a"
+        }
+      ]
+    },
+    {
+      "chunk": 52,
+      "file": "scratchpad/reddit-augdec-07/full-read-v1/full-52.txt",
+      "post_ids": [
+        "1olyh01",
+        "1omyy8a",
+        "1on7o3x"
+      ],
+      "sha256": "c3adfeb5d86f0c76dda9612827f5f5ffc5855bac7a29035d7ffde17503343b0d",
+      "units": [
+        {
+          "post_id": "1olyh01",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1olyh01.txt",
+          "sha256": "eb58eda7ef6ac98459b5fc5df367cb4b8770dfc4abe1353eaaa6e3e86a44d99e"
+        },
+        {
+          "post_id": "1omyy8a",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1omyy8a.txt",
+          "sha256": "5c41db03da705e7d7e5dabb5b3cabf008e25e9445c75d4ce43dba4f0d80ae73e"
+        },
+        {
+          "post_id": "1on7o3x",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1on7o3x.txt",
+          "sha256": "ce73bb73ff3890b37e9bffd7da91c8c611134e1d20b425395162a568ed92d104"
+        }
+      ]
+    },
+    {
+      "chunk": 53,
+      "file": "scratchpad/reddit-augdec-07/full-read-v1/full-53.txt",
+      "post_ids": [
+        "1oodgz7",
+        "1op0ob3",
+        "1opec7n"
+      ],
+      "sha256": "c9683f5ddcb1bc1fa6e16d1bbb1622dbbf4bd33e36cfc0ef77588ea23ee4c376",
+      "units": [
+        {
+          "post_id": "1oodgz7",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1oodgz7.txt",
+          "sha256": "9a7e747f2b10c40dba15d5aa3dca31b853dabc5c5e5f968002c9536d7abffbc3"
+        },
+        {
+          "post_id": "1op0ob3",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1op0ob3.txt",
+          "sha256": "8054089117603de76d8fee7deb10b0c22bee61784cf83cb292ca92fbd05cbb14"
+        },
+        {
+          "post_id": "1opec7n",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1opec7n.txt",
+          "sha256": "df204c5ccd52dd3761e273e2b686502bea3de8dac505567e4e61eb7e919721a5"
+        }
+      ]
+    },
+    {
+      "chunk": 54,
+      "file": "scratchpad/reddit-augdec-07/full-read-v1/full-54.txt",
+      "post_ids": [
+        "1opo8ha"
+      ],
+      "sha256": "f373dac2788873458f8cdb15fcf77e7d30835d23f2f7dca7006f11a281dc83d3",
+      "units": [
+        {
+          "post_id": "1opo8ha",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1opo8ha.txt",
+          "sha256": "900674c1a4ad0872f9e273cee6da2e1ba8ee3571e9c0f3fedd7437b21821fe43"
+        }
+      ]
+    },
+    {
+      "chunk": 55,
+      "file": "scratchpad/reddit-augdec-07/full-read-v1/full-55.txt",
+      "post_ids": [
+        "1opq9z0"
+      ],
+      "sha256": "104c7e14484d1c7f96c97120f2a21056bfd9b717d542a178b7aacf384ae36415",
+      "units": [
+        {
+          "post_id": "1opq9z0",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1opq9z0.txt",
+          "sha256": "74f5e472164f6aa7a53582a2d682f54123c0297f7b9c3415ddb67cecd20dee29"
+        }
+      ]
+    },
+    {
+      "chunk": 56,
+      "file": "scratchpad/reddit-augdec-07/full-read-v1/full-56.txt",
+      "post_ids": [
+        "1opy2dl",
+        "1oq4552",
+        "1oqa34n"
+      ],
+      "sha256": "13f867076205377bdb922545f650842c0e9955ea4ccc8463f3c59827c64b31d5",
+      "units": [
+        {
+          "post_id": "1opy2dl",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1opy2dl.txt",
+          "sha256": "fb0708378108b942a17993045ffda729389734c2d0dd43139f3ca621b017a716"
+        },
+        {
+          "post_id": "1oq4552",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1oq4552.txt",
+          "sha256": "b1a461b1ad82dfa1cf819659fd9f5052b07ba203554794bd3180d5edc8b92c98"
+        },
+        {
+          "post_id": "1oqa34n",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1oqa34n.txt",
+          "sha256": "2655918e4b5742199521385126b9fee970b977a3a3d6624020ae10cad66596d3"
+        }
+      ]
+    },
+    {
+      "chunk": 57,
+      "file": "scratchpad/reddit-augdec-07/full-read-v1/full-57.txt",
+      "post_ids": [
+        "1oqw0qu",
+        "1or1uok",
+        "1or3yee",
+        "1or6ud5"
+      ],
+      "sha256": "8ea6a78b6d40009264facd50d7b02624c9e2627814c26af4723de43d9f3f216a",
+      "units": [
+        {
+          "post_id": "1oqw0qu",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1oqw0qu.txt",
+          "sha256": "1760c073a2d459bcff72f9945ffa5d2d54f0738ce14990364063372331385378"
+        },
+        {
+          "post_id": "1or1uok",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1or1uok.txt",
+          "sha256": "384efe1a8fe6fec55d7edbb5aa7c87fe8e92578bd0faec093c33e4c1cc552084"
+        },
+        {
+          "post_id": "1or3yee",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1or3yee.txt",
+          "sha256": "a14f062d6ae85dfc52b45d22ec0ce45b309b8e426f9d9142a5806b7b9a152476"
+        },
+        {
+          "post_id": "1or6ud5",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1or6ud5.txt",
+          "sha256": "4701690ba184f24c5dd73ff8f7ff6e958472289641b74e867e816083218765a4"
+        }
+      ]
+    },
+    {
+      "chunk": 58,
+      "file": "scratchpad/reddit-augdec-07/full-read-v1/full-58.txt",
+      "post_ids": [
+        "1or950y",
+        "1os4y9h",
+        "1ot26h5",
+        "1otgmb3"
+      ],
+      "sha256": "29364f8c824a7c0a7b62328c67982b7c1eb45809aa284bbd252f8ee7801195f6",
+      "units": [
+        {
+          "post_id": "1or950y",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1or950y.txt",
+          "sha256": "499aa469f6b14b235e67a4a1c9720d9a8acd6d38a3159a5de0660d274ed9aac9"
+        },
+        {
+          "post_id": "1os4y9h",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1os4y9h.txt",
+          "sha256": "b76b16caad6b4fe537f52b07c2f10d3646fd9f2368497bd99a108d4d2ee983e0"
+        },
+        {
+          "post_id": "1ot26h5",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ot26h5.txt",
+          "sha256": "d39106ad7f62eb7adbcb1995d71526b9b14c172ab82f53264184d96b90f439ed"
+        },
+        {
+          "post_id": "1otgmb3",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1otgmb3.txt",
+          "sha256": "a51d2299112c6742b03ab1f8be476cd8cc1df4d3bfb8fa92bf1f49f3e24a92c2"
+        }
+      ]
+    },
+    {
+      "chunk": 59,
+      "file": "scratchpad/reddit-augdec-07/full-read-v1/full-59.txt",
+      "post_ids": [
+        "1oth19r",
+        "1otl5sk",
+        "1otnmdo",
+        "1otunox"
+      ],
+      "sha256": "b58464f38b734017d3cd9dc0b81771ceda6f0ead935126197466d70231a0783f",
+      "units": [
+        {
+          "post_id": "1oth19r",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1oth19r.txt",
+          "sha256": "1bc141a37855bd63ed65c1eecc9c4fde0fd40c1ff9844035329d9702549e8a40"
+        },
+        {
+          "post_id": "1otl5sk",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1otl5sk.txt",
+          "sha256": "4107ded36d859aa693efe1a4a13d4fce7f5db7a82a28d866d476d58dc0ba6d17"
+        },
+        {
+          "post_id": "1otnmdo",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1otnmdo.txt",
+          "sha256": "490a652237f52306ccbb764b38b81ec16e07c606afea6ae8994dfc95aec51bc5"
+        },
+        {
+          "post_id": "1otunox",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1otunox.txt",
+          "sha256": "4c7de810d143ff08a221fc578ffe96915108345554b43ac5125aae8b2b715ea6"
+        }
+      ]
+    },
+    {
+      "chunk": 60,
+      "file": "scratchpad/reddit-augdec-07/full-read-v1/full-60.txt",
+      "post_ids": [
+        "1ou6qds",
+        "1ou7c28"
+      ],
+      "sha256": "17b58e84cb1d18f65981c55a5c17c77592882edf99d23dc0320732c196705995",
+      "units": [
+        {
+          "post_id": "1ou6qds",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ou6qds.txt",
+          "sha256": "51f2b2b2195b0c5c0b0f2c5fb32254b757931383eea4b7f005198b7c7331de54"
+        },
+        {
+          "post_id": "1ou7c28",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ou7c28.txt",
+          "sha256": "53d50bc676180bad4ccaf615cecdb58ca1cf39ea439b4cb9f6d14685812baca5"
+        }
+      ]
+    }
+  ],
+  "post_ids": [
+    "1oax05z",
+    "1oazquc",
+    "1ob0326",
+    "1ob8gwu",
+    "1objasv",
+    "1obobip",
+    "1obp3ha",
+    "1oce5q7",
+    "1ocjwnn",
+    "1ocw6r1",
+    "1od98zg",
+    "1odbz8u",
+    "1oefo7e",
+    "1oejwqb",
+    "1ofkotp",
+    "1ofl5dl",
+    "1og8qdh",
+    "1ogazwz",
+    "1ogjep2",
+    "1ogl0pv",
+    "1oh0mzo",
+    "1ohc7oa",
+    "1ohjtsa",
+    "1ohqrvj",
+    "1oht7n4",
+    "1ohyq8t",
+    "1oi8zk2",
+    "1oivdbk",
+    "1ojaxip",
+    "1ojewym",
+    "1ojg1gu",
+    "1ojv9v9",
+    "1ok3dg8",
+    "1okua2b",
+    "1ol8ufu",
+    "1olyh01",
+    "1omyy8a",
+    "1on7o3x",
+    "1oodgz7",
+    "1op0ob3",
+    "1opec7n",
+    "1opo8ha",
+    "1opq9z0",
+    "1opy2dl",
+    "1oq4552",
+    "1oqa34n",
+    "1oqw0qu",
+    "1or1uok",
+    "1or3yee",
+    "1or6ud5",
+    "1or950y",
+    "1os4y9h",
+    "1ot26h5",
+    "1otgmb3",
+    "1oth19r",
+    "1otl5sk",
+    "1otnmdo",
+    "1otunox",
+    "1ou6qds",
+    "1ou7c28"
+  ],
+  "units": 60,
+  "original07_fullscope": 186,
+  "current07_fullscope": 126,
+  "new_reader": "mse_completion_02",
+  "prefix": "rad08"
+}

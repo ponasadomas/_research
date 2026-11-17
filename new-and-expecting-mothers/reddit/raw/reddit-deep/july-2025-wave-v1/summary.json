@@ -1,0 +1,207 @@
+{
+  "calendar_selection_start": "2025-07-01T00:00:00+00:00",
+  "calendar_selection_end_exclusive": "2025-08-01T00:00:00+00:00",
+  "source_followup_window_end_exclusive": "2026-01-01T00:00:00+00:00",
+  "all_six_month_A_candidates": 8284,
+  "July_A_candidates": 1661,
+  "August_December_A_candidates_unselected_untriaged_unread": 6623,
+  "ranking_or_topN_cap": false,
+  "by_subreddit": {
+    "BabyBumps": {
+      "A_candidates": 357,
+      "primary_topics": {
+        "pregnancy_birth": 176,
+        "household_support": 59,
+        "development_play": 12,
+        "pumping_feeding": 21,
+        "work_return": 6,
+        "other": 43,
+        "solids_food": 9,
+        "registry_gear": 17,
+        "sleep_routines": 14
+      },
+      "comment_source_available": false,
+      "identifiable_OP_replies": 0,
+      "non_OP_auxiliary_comments_unread": 0,
+      "triage_card_chunks": 6,
+      "primary_reading_chunks": 26
+    },
+    "BabyBumpsCanada": {
+      "A_candidates": 58,
+      "primary_topics": {
+        "household_support": 8,
+        "sleep_routines": 7,
+        "pregnancy_birth": 14,
+        "other": 7,
+        "pumping_feeding": 9,
+        "development_play": 3,
+        "registry_gear": 9,
+        "work_return": 1
+      },
+      "comment_source_available": false,
+      "identifiable_OP_replies": 0,
+      "non_OP_auxiliary_comments_unread": 0,
+      "triage_card_chunks": 1,
+      "primary_reading_chunks": 4
+    },
+    "BabyBumpsandBeyondAu": {
+      "A_candidates": 80,
+      "primary_topics": {
+        "work_return": 3,
+        "sleep_routines": 14,
+        "pregnancy_birth": 24,
+        "registry_gear": 7,
+        "household_support": 9,
+        "pumping_feeding": 5,
+        "other": 7,
+        "solids_food": 5,
+        "development_play": 6
+      },
+      "comment_source_available": false,
+      "identifiable_OP_replies": 0,
+      "non_OP_auxiliary_comments_unread": 0,
+      "triage_card_chunks": 2,
+      "primary_reading_chunks": 5
+    },
+    "BabyLedWeaning": {
+      "A_candidates": 17,
+      "primary_topics": {
+        "solids_food": 13,
+        "pumping_feeding": 3,
+        "sleep_routines": 1
+      },
+      "comment_source_available": true,
+      "identifiable_OP_replies": 26,
+      "non_OP_auxiliary_comments_unread": 177,
+      "triage_card_chunks": 1,
+      "primary_reading_chunks": 2
+    },
+    "BeyondTheBumpUK": {
+      "A_candidates": 43,
+      "primary_topics": {
+        "pumping_feeding": 8,
+        "sleep_routines": 13,
+        "registry_gear": 1,
+        "work_return": 2,
+        "solids_food": 2,
+        "other": 3,
+        "household_support": 10,
+        "development_play": 2,
+        "pregnancy_birth": 2
+      },
+      "comment_source_available": false,
+      "identifiable_OP_replies": 0,
+      "non_OP_auxiliary_comments_unread": 0,
+      "triage_card_chunks": 1,
+      "primary_reading_chunks": 4
+    },
+    "ExclusivelyPumping": {
+      "A_candidates": 233,
+      "primary_topics": {
+        "pumping_feeding": 214,
+        "pregnancy_birth": 1,
+        "solids_food": 4,
+        "sleep_routines": 5,
+        "other": 6,
+        "work_return": 2,
+        "household_support": 1
+      },
+      "comment_source_available": false,
+      "identifiable_OP_replies": 0,
+      "non_OP_auxiliary_comments_unread": 0,
+      "triage_card_chunks": 4,
+      "primary_reading_chunks": 15
+    },
+    "NewParents": {
+      "A_candidates": 469,
+      "primary_topics": {
+        "other": 37,
+        "pumping_feeding": 54,
+        "sleep_routines": 227,
+        "household_support": 44,
+        "registry_gear": 17,
+        "work_return": 17,
+        "solids_food": 37,
+        "development_play": 29,
+        "pregnancy_birth": 7
+      },
+      "comment_source_available": false,
+      "identifiable_OP_replies": 0,
+      "non_OP_auxiliary_comments_unread": 0,
+      "triage_card_chunks": 8,
+      "primary_reading_chunks": 32
+    },
+    "beyondthebump": {
+      "A_candidates": 252,
+      "primary_topics": {
+        "pumping_feeding": 27,
+        "sleep_routines": 91,
+        "pregnancy_birth": 23,
+        "solids_food": 18,
+        "household_support": 50,
+        "development_play": 15,
+        "other": 16,
+        "registry_gear": 3,
+        "work_return": 9
+      },
+      "comment_source_available": false,
+      "identifiable_OP_replies": 0,
+      "non_OP_auxiliary_comments_unread": 0,
+      "triage_card_chunks": 4,
+      "primary_reading_chunks": 18
+    },
+    "workingmoms": {
+      "A_candidates": 152,
+      "primary_topics": {
+        "household_support": 57,
+        "work_return": 44,
+        "solids_food": 5,
+        "sleep_routines": 19,
+        "pregnancy_birth": 7,
+        "development_play": 5,
+        "pumping_feeding": 6,
+        "other": 9
+      },
+      "comment_source_available": true,
+      "identifiable_OP_replies": 592,
+      "non_OP_auxiliary_comments_unread": 3004,
+      "triage_card_chunks": 3,
+      "primary_reading_chunks": 21
+    }
+  },
+  "by_primary_topic": {
+    "household_support": 238,
+    "sleep_routines": 391,
+    "pregnancy_birth": 254,
+    "other": 128,
+    "pumping_feeding": 347,
+    "development_play": 72,
+    "registry_gear": 54,
+    "work_return": 84,
+    "solids_food": 93
+  },
+  "by_any_topic": {
+    "household_support": 673,
+    "work_return": 399,
+    "sleep_routines": 593,
+    "pregnancy_birth": 475,
+    "pumping_feeding": 543,
+    "registry_gear": 139,
+    "solids_food": 268,
+    "development_play": 162
+  },
+  "triage_card_chunks": 30,
+  "primary_reading_chunks": 127,
+  "primary_reading_utf8_bytes": 4662766,
+  "complete_post_body_bytes": 1977621,
+  "OP_reply_body_bytes": 187055,
+  "identifiable_OP_replies": 618,
+  "available_non_OP_auxiliary_comments": 3181,
+  "auxiliary_compressed_bytes": 979769,
+  "auxiliary_comment_files": 164,
+  "human_triaged": 0,
+  "human_kept": 0,
+  "full_primary_units_read": 0,
+  "auxiliary_comments_read": 0,
+  "quotes": 0
+}

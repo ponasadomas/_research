@@ -1,0 +1,272 @@
+# Reddit Data Archive & Analysis Pipeline
+
+## 📊 Overview
+
+A comprehensive pipeline for archiving, processing, and analyzing Reddit data from 2005 to 2025. This repository contains tools for downloading Reddit's historical data, converting it to optimized formats, and performing detailed schema analysis and community studies.
+
+## 🗂️ Repository Structure
+
+```bash
+├── scripts/                           # Analysis scripts
+├── analysis/                          # Analysis methods and visualizations
+│   ├── original_schema_analysis/      # Schema evolution analysis
+│   │   ├── comments/                  # Comment schema analysis results
+│   │   ├── figures/                   # Schema analysis visualizations
+│   │   └── submissions/               # Submission schema analysis results
+│   │       ├── analysis_report_2005.txt
+│   │       ├── analysis_report_2006.txt
+│   │       └── ...
+│   └── parquet_subreddits_analysis/   # Analysis of Parquet-converted data
+│       ├── comments/                  # Comment data analysis
+│       ├── figures/                   # Subreddit analysis visualizations
+│       └── submissions/               # Submission data analysis
+│
+├── analyzed_subreddits/               # Focused subreddit case studies
+│   ├── comments/                      # Subreddit-specific comment archives
+│   │   └── RC_funny.parquet          # r/funny comments (empty as of now)
+│   ├── reddit-media/                  # Media organized by subreddit and date
+│   │   ├── content-hashed/           # Deduplicated media (content addressing)
+│   │   ├── images/                   # Image media
+│   │   │   └── r_funny/              # Organized by subreddit
+│   │   │       └── 2025/01/01/      # Daily structure for temporal analysis
+│   │   └── videos/                   # Video media
+│   │       └── r_funny/              # Organized by subreddit
+│   │           └── 2025/01/01/      # Daily structure
+│   └── submissions/                   # Subreddit-specific submission archives
+│       └── RS_funny.parquet          # r/funny submissions (empty as of now)
+│
+├── converted_parquet/                 # Optimized Parquet format (year-partitioned)
+│   ├── comments/                      # Comments 2005-2025
+│   │   ├── 2005/ ── 2025/            # Year partitions for efficient querying
+│   └── submissions/                   # Submissions 2005-2025
+│       ├── 2005/ ── 2025/            # Year partitions
+│
+├── original_dump/                     # Raw downloaded Reddit archives
+│   ├── comments/                      # Monthly comment archives (ZST compressed)
+│   │   ├── RC_2005-12.zst ── RC_2025-12.zst  # Complete 2005-2025 coverage
+│   │   └── schema_analysis/           # Schema analysis directory
+│   └── submissions/                   # Monthly submission archives
+│       ├── RS_2005-06.zst ── RS_2025-12.zst  # Complete 2005-2025 coverage
+│       └── schema_analysis/           # Schema evolution analysis reports
+│           ├── analysis_report_2005.txt
+│           └── ...
+│
+├── subreddits_2025-01_*               # Subreddit metadata (currently old January 2025 snapshot)
+│   ├── type_public.jsonl              # 2.78M public subreddits
+│   ├── type_restricted.jsonl          # 1.92M restricted subreddits
+│   ├── type_private.jsonl             # 182K private subreddits
+│   └── type_other.jsonl               # 100 other/archived subreddits
+│
+├── .gitattributes                     # Git LFS configuration for large files
+└── README.md                          # This documentation file
+```
+
+## 🏆 **Data Validation Layer**
+
+The **original_schema_analysis** acts as a **data quality validation layer** before any substantive analysis.
+
+### **Phase 1 vs Phase 2 Analysis**
+```
+Original Schema Analysis              vs       Parquet Subreddits Analysis
+─────────────────────────────────────────────────────────────────────────────
+Raw data quality assessment                   Processed data insights
+Longitudinal (2005-2025)                      Cross-sectional (subreddit focus)
+Technical schema evolution                    Social/community patterns
+Data engineering perspective                  Social science perspective
+Low-level field statistics                    High-level behavioral patterns
+"What fields exist?"                          "What do people do?"
+```
+
+## 📈 Dataset Statistics
+
+### Subreddit Ecosystem (January 2025)
+- **Total Subreddits:** 21,865,152
+- **Public Communities:** 2,776,279 (12.7%)
+- **Restricted:** 1,923,526 (8.8%)
+- **Private:** 182,045 (0.83%)
+- **User Profiles:** 16,982,966 (77.7%)
+
+### Content Scale (January 2025 Example)
+- **Monthly Submissions:** ~39.9 million
+- **Monthly Comments:** ~500+ million (estimated)
+- **NSFW Content:** 39.6% of submissions
+- **Media Posts:** 34.3% on reddit media domains
+
+### Largest Communities
+1. **r/funny:** 66.3M subscribers (public)
+2. **r/announcements:** 305.6M (private)
+3. **r/XboxSeriesX:** 5.3M (largest restricted)
+
+## 🛠️ Pipeline Stages
+
+### Stage 1: Data Acquisition
+- Download monthly Pushshift/Reddit archives
+- Compressed ZST format for efficiency
+- Complete coverage: 2005-2025
+
+### Stage 2: Schema Analysis
+- Field-by-field statistical analysis
+- Type distribution tracking
+- Null/empty value profiling
+- Schema evolution tracking (2005-2018 complete more coming soon)
+
+### Stage 3: Format Conversion
+- ZST → JSONL decompression
+- JSONL → Parquet conversion
+- Year-based partitioning for query efficiency
+- Columnar optimization for analytical queries
+
+### Stage 4: Community Analysis
+- Subreddit categorization (public/private/restricted/user)
+- Subscriber distribution analysis
+- Media organization by community
+- Case studies of specific subreddits
+
+## 🔬 Analysis Tools
+
+### Schema Analyzer
+- Processes JSONL files at 6,000-7,000 lines/second
+- Tracks 156 unique fields in submissions
+- Monitors type consistency and null rates
+- Generates comprehensive statistical reports
+
+### Subreddit Classifier
+- Categorizes 21.8M subreddits by type
+- Analyzes subscriber distributions
+- Identifies community growth patterns
+- Exports categorized datasets
+
+### Media Organizer
+- Content-addressable storage for deduplication
+- Daily organization (YYYY/MM/DD)
+- Subreddit-based categorization
+- Thumbnail generation
+
+## 💾 Data Formats
+
+### Original Data
+- **Format:** ZST-compressed JSONL
+- **Compression:** Zstandard (high ratio)
+- **Structure:** Monthly files (RC/RS_YYYY-MM.zst)
+
+### Processed Data
+- **Format:** Apache Parquet
+- **Compression:** Zst (columnar)
+- **Partitioning:** Year-based (2005-2025)
+- **Optimization:** Column pruning, predicate pushdown
+
+### Metadata
+- **Format:** JSONL
+- **Categorization:** Subreddit type classification
+- **Timestamps:** Unix epoch seconds
+
+
+## 🔧 Technical Design Decisions
+
+### Compression Strategy: Why ZST → JSONL → Parquet?
+
+This pipeline employs a tiered compression strategy based on access patterns:
+
+#### **Original Archives (ZST Compressed)**
+- **Format:** `.zst` (Zstandard) compressed JSONL
+- **Why ZST?** 6:1 compression ratio (36GB → 6GB) vs gzip's 4:1
+- **Trade-off:** 39.7s decompression time vs 26.8s raw read
+- **Decision:** Keep only for archival; decompress once to JSONL
+
+#### **Analytical Storage (Parquet)**
+- **Format:** Apache Parquet with zst compression
+- **Why Parquet?** Columnar storage enables:
+  - Selective column reads (read 2/17 columns = 15s vs 55s)
+  - Built-in compression (36GB → 7GB = 5:1 ratio)
+  - Predicate pushdown (skip irrelevant rows)
+- **Benchmark:** Metadata read in 4.9s vs 26.8s JSONL read
+
+## ⚡ Performance Benchmarks
+
+### File Processing Speeds (36GB Reddit Comments, Nov 2016)
+
+| Format | Size | Read Time | Compression | Notes |
+|--------|------|-----------|-------------|-------|
+| **ZST Compressed** | 6.0GB | 39.7s | 6:1 | Requires decompression penalty |
+| **JSONL Raw** | 36GB | 26.8s | 1:1 | Fastest for repeated access |
+| **Parquet** | 7.0GB | 4.9s* | 5:1 | Metadata only; queries 2-15s |
+
+## 🎯 Research Applications
+
+### Community Studies
+- Subreddit lifecycle analysis
+- Moderation pattern tracking
+- Content policy evolution
+- NSFW community dynamics
+
+### Content Analysis
+- Media type evolution (2005-2025)
+- Post engagement metrics
+- Cross-posting behavior
+- Temporal posting patterns
+
+### Network Analysis
+- Cross-community interactions
+- User migration patterns
+- Community overlap studies
+- Influence network mapping
+
+## 📊 Key Findings (Preliminary)
+
+### Subreddit Distribution
+- **Long tail:** 89.4% of subreddits have 0 subscribers
+- **Growth pattern:** Most communities start as user profiles
+- **Restriction trend:** 8.8% of communities are restricted
+- **Private communities:** Mostly large, established groups
+
+### Content Characteristics
+- **Text dominance:** 40.7% of posts are text-only
+- **NSFW prevalence:** 39.6% of content marked adult
+- **Moderation scale:** 32% removed by Reddit, 36% by moderators
+- **Media evolution:** Video posts growing (3% in Jan 2025)
+
+
+## 📄 License & Attribution
+
+### Data Source
+- Reddit Historical Data via Pushshift/Reddit API
+- Subreddit metadata from Reddit API
+- **Note:** Respect Reddit's terms of service and API limits
+
+### Code License
+MIT License - See LICENSE file for details
+
+### Citation
+If using this pipeline for research:
+```
+Reddit Data Analysis Pipeline. (2025). Comprehensive archive and analysis 
+tools for Reddit historical data (2005-2025). GitHub Repository.
+```
+
+## 🆘 Support & Contributing
+
+### Issue Tracking
+- Data quality issues: Report in schema analysis
+- Processing errors: Check file integrity and formats
+- Performance: Consider partitioning and compression settings
+
+### Contributing
+1. Fork repository
+2. Add tests for new analyzers
+3. Document data processing steps
+4. Submit pull request with analysis validation
+
+### Performance Tips
+- Use SSD storage for active processing
+- Enable memory mapping for large files
+- Consider Spark/Dask for distributed processing
+- Implement incremental updates for new data
+
+## 📚 Related Research
+- Social network analysis
+- Community detection algorithms
+- Content moderation studies
+- Temporal pattern analysis
+- Cross-platform comparative studies
+
+---

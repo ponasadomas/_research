@@ -1,0 +1,10 @@
+{
+  "regex": "\\b(?:would|will|willing to|happy to|ready to|want to|[Ii][\u2019']d|[Ii][\u2019']ll)\\b[^.!?\\n]{0,55}\\b(?:pay|spend|hire)\\b|\\bpay someone\\b|\\bpaid\\b[^.!?\\n]{0,60}\\b(?:consultant|coach|course|app|plan|guide|report|subscription|book)\\b",
+  "flags": "IGNORECASE",
+  "input_records": 112665,
+  "recomputed_matches": 1056,
+  "saved_matches": 1056,
+  "saved_not_recomputed": [],
+  "recomputed_not_saved": [],
+  "status": "exact-idset-confirmed"
+}

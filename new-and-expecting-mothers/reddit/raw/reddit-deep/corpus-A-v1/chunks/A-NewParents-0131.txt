@@ -1,0 +1,766 @@
+
+
+======== SOURCE UNIT _raw/reddit-deep/corpus-A-v1/units/NewParents-1p84xgb.txt ========
+REDDIT ARCHIVED ORIGINAL POST AND AVAILABLE COMMENTS
+{
+  "post_id": "1p84xgb",
+  "subreddit": "NewParents",
+  "url": "https://www.reddit.com/r/NewParents/comments/1p84xgb/parents_who_didnt_sleep_train_whats_your_advice/",
+  "date": "2025-11-27T15:26:55+00:00",
+  "title": "Parents who didn’t sleep train, what’s your advice?",
+  "window": "2025-07-01 to2026-01-01 exclusive",
+  "source_post_file": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+  "source_comment_file": null,
+  "archive_comment_records": 0,
+  "op_reply_records_identifiable": 0,
+  "post_reported_num_comments": 65,
+  "comment_source_available": false,
+  "comment_completeness": "comment archive file absent at pinned publisher commit (404)",
+  "missing_referenced_comment_parents": 0,
+  "primary_topic": "sleep_routines",
+  "topics": [
+    "sleep_routines"
+  ],
+  "safety_flag": false,
+  "triage_status": "untriaged",
+  "reading_status": "unread"
+}
+
+=== ORIGINAL POST TITLE ===
+Parents who didn’t sleep train, what’s your advice?
+
+=== ORIGINAL POST BODY ===
+So have a 14 week old, and we’re struggling to put him down to sleep which we’re just giving it a shot as we go. 
+
+He is waking 3 times a night to feed (between 9pm and 8am) and we co sleep. 
+
+My thought to process is to place him in the crib for the first stretch or two at night (when he will let us) and eventually as he wakes less to feed he will start sleeping longer.
+
+Am I completely delusional? We are NOT interested in Ferber or CIO. And we aren’t on a strict time schedule bc he’s still changing so much it just ends in both of us crying lol. But I don’t want to be fighting something that I could be guiding better if that makes sense (I know it’ll differ baby to baby but just trying to see what others do.) 
+
+=== COMMENTS ===
+COMMENT SOURCE UNAVAILABLE. Do not describe this unit as a complete original thread.
+
+
+======== SOURCE UNIT _raw/reddit-deep/corpus-A-v1/units/NewParents-1p89b1m.txt ========
+REDDIT ARCHIVED ORIGINAL POST AND AVAILABLE COMMENTS
+{
+  "post_id": "1p89b1m",
+  "subreddit": "NewParents",
+  "url": "https://www.reddit.com/r/NewParents/comments/1p89b1m/split_nights/",
+  "date": "2025-11-27T18:23:49+00:00",
+  "title": "Split nights",
+  "window": "2025-07-01 to2026-01-01 exclusive",
+  "source_post_file": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+  "source_comment_file": null,
+  "archive_comment_records": 0,
+  "op_reply_records_identifiable": 0,
+  "post_reported_num_comments": 10,
+  "comment_source_available": false,
+  "comment_completeness": "comment archive file absent at pinned publisher commit (404)",
+  "missing_referenced_comment_parents": 0,
+  "primary_topic": "sleep_routines",
+  "topics": [
+    "sleep_routines"
+  ],
+  "safety_flag": false,
+  "triage_status": "untriaged",
+  "reading_status": "unread"
+}
+
+=== ORIGINAL POST TITLE ===
+Split nights
+
+=== ORIGINAL POST BODY ===
+My baby is 16 months now and for the past 3 months he’s been having split nights. His current schedule is: 7:30-wake up, 12:30 to 2:30-nap, and bedtime is 7:45-7:50. And he’ll be up from 2-4am 😞. He’s been on this schedule for almost 3 weeks and continues to have split nights. Can someone please help me! I’m sooo sleep deprived 🥲
+
+=== COMMENTS ===
+COMMENT SOURCE UNAVAILABLE. Do not describe this unit as a complete original thread.
+
+
+======== SOURCE UNIT _raw/reddit-deep/corpus-A-v1/units/NewParents-1p8agi0.txt ========
+REDDIT ARCHIVED ORIGINAL POST AND AVAILABLE COMMENTS
+{
+  "post_id": "1p8agi0",
+  "subreddit": "NewParents",
+  "url": "https://www.reddit.com/r/NewParents/comments/1p8agi0/engineer_friend_of_a_dad_here_i_built_a_nursery/",
+  "date": "2025-11-27T19:12:05+00:00",
+  "title": "Engineer friend of a Dad here. I built a nursery monitor that tracks Mold & CO2 because standard video monitors miss the invisible stuff. Is this anxiety-inducing or helpful?",
+  "window": "2025-07-01 to2026-01-01 exclusive",
+  "source_post_file": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+  "source_comment_file": null,
+  "archive_comment_records": 0,
+  "op_reply_records_identifiable": 0,
+  "post_reported_num_comments": 1,
+  "comment_source_available": false,
+  "comment_completeness": "comment archive file absent at pinned publisher commit (404)",
+  "missing_referenced_comment_parents": 0,
+  "primary_topic": "sleep_routines",
+  "topics": [
+    "sleep_routines"
+  ],
+  "safety_flag": false,
+  "triage_status": "untriaged",
+  "reading_status": "unread"
+}
+
+=== ORIGINAL POST TITLE ===
+Engineer friend of a Dad here. I built a nursery monitor that tracks Mold & CO2 because standard video monitors miss the invisible stuff. Is this anxiety-inducing or helpful?
+
+=== ORIGINAL POST BODY ===
+Hi everyone,
+
+Like many of you, I have the standard video monitor to watch my little one. But being an engineer (and a nervous first-time dad), I couldn't stop worrying about the things the camera couldn't see—specifically the air quality and temperature drafts.
+
+I realized that just because the room is "70°F" doesn't mean the air is healthy.
+
+I built a prototype "Nursery Sentinel" that sticks to the wall. It has no camera and no microphone (privacy was huge for me), but it tracks:
+
+1. Mold Risk: It checks if the exterior walls are getting too cold/damp, predicting mold growth before it starts (huge for respiratory health).
+
+2. "Stuffy" Air (CO2): I learned that high CO2 levels can disrupt sleep. This tells me when to crack the door open to get fresh oxygen in.
+
+3. Drafts: It detects sudden temperature drops near the crib.
+
+4. Zero Light/Noise: It has no blinking LEDs and makes no sound. It sends alerts to my phone only.
+
+My Question: I'm thinking of making a small batch of these for other parents.
+
+If this cost around $99 (runs on batteries, no wires to strangle, no subscription), would you buy it?
+
+Or do you feel like you already have too many gadgets to worry about?
+
+Thanks for the feedback!
+
+=== COMMENTS ===
+COMMENT SOURCE UNAVAILABLE. Do not describe this unit as a complete original thread.
+
+
+======== SOURCE UNIT _raw/reddit-deep/corpus-A-v1/units/NewParents-1p8amya.txt ========
+REDDIT ARCHIVED ORIGINAL POST AND AVAILABLE COMMENTS
+{
+  "post_id": "1p8amya",
+  "subreddit": "NewParents",
+  "url": "https://www.reddit.com/r/NewParents/comments/1p8amya/sleep_consultant_worth_it_or_not/",
+  "date": "2025-11-27T19:19:44+00:00",
+  "title": "Sleep consultant: worth it or not?",
+  "window": "2025-07-01 to2026-01-01 exclusive",
+  "source_post_file": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+  "source_comment_file": null,
+  "archive_comment_records": 0,
+  "op_reply_records_identifiable": 0,
+  "post_reported_num_comments": 17,
+  "comment_source_available": false,
+  "comment_completeness": "comment archive file absent at pinned publisher commit (404)",
+  "missing_referenced_comment_parents": 0,
+  "primary_topic": "sleep_routines",
+  "topics": [
+    "pumping_feeding",
+    "sleep_routines"
+  ],
+  "safety_flag": false,
+  "triage_status": "untriaged",
+  "reading_status": "unread"
+}
+
+=== ORIGINAL POST TITLE ===
+Sleep consultant: worth it or not?
+
+=== ORIGINAL POST BODY ===
+My son sleeps pretty well at night (7.5 hours, bottle, 2-3 hours). But he has started NOT NAPPING AT ALL. He's 14 weeks old. Idk if it's early onset 4 month regression or what. But I'm on the struggle bus and feel like I've tried everything. Also, we use a Snoo at night but never for naps. I'm scared to start transitioning out of the swaddle and Snoo. If you had a sleep consultant - was it worth the money? Who did you use? Did you like them?
+
+=== COMMENTS ===
+COMMENT SOURCE UNAVAILABLE. Do not describe this unit as a complete original thread.
+
+
+======== SOURCE UNIT _raw/reddit-deep/corpus-A-v1/units/NewParents-1p8bq23.txt ========
+REDDIT ARCHIVED ORIGINAL POST AND AVAILABLE COMMENTS
+{
+  "post_id": "1p8bq23",
+  "subreddit": "NewParents",
+  "url": "https://www.reddit.com/r/NewParents/comments/1p8bq23/on_demand_vs_scheduled_feeding_nursing_strike/",
+  "date": "2025-11-27T20:05:56+00:00",
+  "title": "On demand vs scheduled feeding, nursing strike??",
+  "window": "2025-07-01 to2026-01-01 exclusive",
+  "source_post_file": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+  "source_comment_file": null,
+  "archive_comment_records": 0,
+  "op_reply_records_identifiable": 0,
+  "post_reported_num_comments": 1,
+  "comment_source_available": false,
+  "comment_completeness": "comment archive file absent at pinned publisher commit (404)",
+  "missing_referenced_comment_parents": 0,
+  "primary_topic": "pumping_feeding",
+  "topics": [
+    "pumping_feeding",
+    "sleep_routines",
+    "pregnancy_birth"
+  ],
+  "safety_flag": false,
+  "triage_status": "untriaged",
+  "reading_status": "unread"
+}
+
+=== ORIGINAL POST TITLE ===
+On demand vs scheduled feeding, nursing strike??
+
+=== ORIGINAL POST BODY ===
+My baby is 2.5 months old. We have always exclusively nursed. I’ve always followed the 3 hour schedule because he has never cued or fussed earlier than that, except once in a blue moon he would at 2.5 hour mark but not often at all. He was a very sleepy newborn and we struggled with falling asleep during feeds for a while. Around 6 weeks I stopped waking him up at night and did on demand and he started sleeping 6 hour stretches, then 3 after, then 1 or 2. I think he would honestly go longer at first but when I wake up to pump he would wake up and act hungry so I just went with it and nursed him.
+
+After letting him sleep longer at night he doesn’t fall asleep during day feeds anymore. But I still have to wake him up during the day if he is napping to feed on the 3 hour schedule.
+
+The pediatrician said to do every 3 hours during the day and on demand at night, so we do 7 feeds a day.
+
+Baby has recently been on a nursing strike. He started refusing my left side I believe because of flow being slow. It has been a struggle for about a week. He’ll cry just getting in position before latching. Then last feeding he refused both breasts. Again, I think it’s flow because he nursed right side for a few minutes and then started refusing both. So after trying for 30 minutes to get him to eat I gave him 1.5 oz in a bottle and he was fine.
+
+My main question is, is this all because I’m forcing it at a certain time? I mean he seemed hungry, but he could’ve not had a bottle and been ok I think. I just did it because he needed intake I think. He is a super happy and content baby and never cries acting hungry and I just wonder if I should still be forcing the schedule or wait until he tells me he’s hungry, and maybe then he won’t refuse my breasts?
+
+I’m just worried he won’t be hungry and go longer than 3 hours because he’s never been one to go sooner than that.
+
+I am just struggling all around with this nursing strike, worrying if he’s getting enough, number of feedings and wet diaper anxiety, listening to pediatrician, etc.
+
+Thoughts?
+
+Note: baby has gained weight as expected. Birth weight 7 lbs 3 oz. Current 2.5 month weight 12 lbs.
+
+=== COMMENTS ===
+COMMENT SOURCE UNAVAILABLE. Do not describe this unit as a complete original thread.
+
+
+======== SOURCE UNIT _raw/reddit-deep/corpus-A-v1/units/NewParents-1p8bvss.txt ========
+REDDIT ARCHIVED ORIGINAL POST AND AVAILABLE COMMENTS
+{
+  "post_id": "1p8bvss",
+  "subreddit": "NewParents",
+  "url": "https://www.reddit.com/r/NewParents/comments/1p8bvss/sleep_is_a_huge_problem_for_my_4_mo/",
+  "date": "2025-11-27T20:12:54+00:00",
+  "title": "Sleep is a huge problem for my 4 MO",
+  "window": "2025-07-01 to2026-01-01 exclusive",
+  "source_post_file": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+  "source_comment_file": null,
+  "archive_comment_records": 0,
+  "op_reply_records_identifiable": 0,
+  "post_reported_num_comments": 12,
+  "comment_source_available": false,
+  "comment_completeness": "comment archive file absent at pinned publisher commit (404)",
+  "missing_referenced_comment_parents": 0,
+  "primary_topic": "sleep_routines",
+  "topics": [
+    "development_play",
+    "sleep_routines"
+  ],
+  "safety_flag": false,
+  "triage_status": "untriaged",
+  "reading_status": "unread"
+}
+
+=== ORIGINAL POST TITLE ===
+Sleep is a huge problem for my 4 MO
+
+=== ORIGINAL POST BODY ===
+My wife and I are at the end of our rags. 
+
+Firstly, we love our 4 MO boy to bits.
+
+But.. 
+We can do everything right (1.5h wake windows, 40-60 min naps if he lasts that long, bedtime starting at 7:30), a gentle wind down routine to get him into his sleeping sack (he’s arms out recently because he can roll), and without fail, as soon as we enter the dark room with white noise on, he loses his shit. 
+
+I’m not talking about grizzles, I’m talking full on hysterical inconsolable crying and fits. 
+
+This happens basically every time we try and get him to sleep and it’s been a month of this. 
+
+Half the time I don’t know if I’m awake or asleep or dreaming and I work a full time job. I worry about my wife’s full time mothering job too.. 
+
+We are beyond tired, sick of navigating the “don’t do this, do that” contradicting advice, and we almost feel that the only thing we can do now is CIO sleep training.
+
+Yes, he’s likely too young . But, even with a “gentler” approach like pick up put down, he still screams hysterically for hours. 
+It is a constant assault on our constitution and mental health, and we don’t know what to do. 
+
+He is fed every 3 hours. Putting on weight. Showing developmental milestones (interacting socially with us, rolling, laughing, reaching for things, grabbing his feet), but sleep is breaking us all. I do think he has a bit of tension in his body, and seems freakishly strong and his Moro reflex is still there.
+
+A couple nights ago it took 3 hours to put him down, and the only thing that actually reset him was me walking outside at 9:30pm for an hour in the humid summer temperature..
+
+The wake window and sleep routine is unpredictable as it takes anywhere from 30min to 2 hours to get him to actually sleep.
+
+This isn’t sustainable for any of us.
+
+We’ve asked for a sleep consultant to help through a free government service, but am probably going to pay thousands for a private one that comes into our home and puts him to sleep.
+
+Please.. does anyone have any advice ..? 
+
+We love our boy, but my wife and I are very aware that we are harbouring fear and resentment for this and we’ve both had breakdowns out of stress and we just don’t know what to do.
+
+=== COMMENTS ===
+COMMENT SOURCE UNAVAILABLE. Do not describe this unit as a complete original thread.
+
+
+======== SOURCE UNIT _raw/reddit-deep/corpus-A-v1/units/NewParents-1p8cimg.txt ========
+REDDIT ARCHIVED ORIGINAL POST AND AVAILABLE COMMENTS
+{
+  "post_id": "1p8cimg",
+  "subreddit": "NewParents",
+  "url": "https://www.reddit.com/r/NewParents/comments/1p8cimg/feeding_schedule_concern_overfeeding/",
+  "date": "2025-11-27T20:41:43+00:00",
+  "title": "Feeding schedule/ concern overfeeding",
+  "window": "2025-07-01 to2026-01-01 exclusive",
+  "source_post_file": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+  "source_comment_file": null,
+  "archive_comment_records": 0,
+  "op_reply_records_identifiable": 0,
+  "post_reported_num_comments": 4,
+  "comment_source_available": false,
+  "comment_completeness": "comment archive file absent at pinned publisher commit (404)",
+  "missing_referenced_comment_parents": 0,
+  "primary_topic": "pumping_feeding",
+  "topics": [
+    "pumping_feeding",
+    "work_return"
+  ],
+  "safety_flag": false,
+  "triage_status": "untriaged",
+  "reading_status": "unread"
+}
+
+=== ORIGINAL POST TITLE ===
+Feeding schedule/ concern overfeeding
+
+=== ORIGINAL POST BODY ===
+My LO is 5 week 1 day today. He feeds every 2 hours during day and may be 2.5-3 hours at night. I was hoping his feed would get every 3-4 hours which I see is expected at that age group. I am also concerned that we might be overfeeding as he takes ard 3 to 4oz per feeding. We do breastmilk with formula as when I just pump in 3 hr I get ard 3oz. At daytime we do 3-3.5oz breastmilk with formula and night time we mostly do formula ard 4oz.
+Please suggest!! As I am going back to work after 6 weeks and want to set a routine for caregiver in my absence.
+Thank you 
+
+=== COMMENTS ===
+COMMENT SOURCE UNAVAILABLE. Do not describe this unit as a complete original thread.
+
+
+======== SOURCE UNIT _raw/reddit-deep/corpus-A-v1/units/NewParents-1p8hnod.txt ========
+REDDIT ARCHIVED ORIGINAL POST AND AVAILABLE COMMENTS
+{
+  "post_id": "1p8hnod",
+  "subreddit": "NewParents",
+  "url": "https://www.reddit.com/r/NewParents/comments/1p8hnod/parents_who_cosleep_older_and_have_a_new_baby_how/",
+  "date": "2025-11-28T00:52:21+00:00",
+  "title": "Parents who cosleep older and have a new baby- how?!",
+  "window": "2025-07-01 to2026-01-01 exclusive",
+  "source_post_file": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+  "source_comment_file": null,
+  "archive_comment_records": 0,
+  "op_reply_records_identifiable": 0,
+  "post_reported_num_comments": 4,
+  "comment_source_available": false,
+  "comment_completeness": "comment archive file absent at pinned publisher commit (404)",
+  "missing_referenced_comment_parents": 0,
+  "primary_topic": "sleep_routines",
+  "topics": [
+    "sleep_routines",
+    "pregnancy_birth"
+  ],
+  "safety_flag": false,
+  "triage_status": "untriaged",
+  "reading_status": "unread"
+}
+
+=== ORIGINAL POST TITLE ===
+Parents who cosleep older and have a new baby- how?!
+
+=== ORIGINAL POST BODY ===
+Asking more for curiosity than anything- we are a non-co-sleeping family. My brother’s family co-sleeps (mom+4yo) and they have another on the way. They primarily follow Chinese customs for pregnancy and child rearing. I don’t want to be insensitive in asking how they plan to manage things when the new baby arrives, but I hear how awful their sleep already is and feel for them in advance! here asking internet strangers! 
+
+=== COMMENTS ===
+COMMENT SOURCE UNAVAILABLE. Do not describe this unit as a complete original thread.
+
+
+======== SOURCE UNIT _raw/reddit-deep/corpus-A-v1/units/NewParents-1p8s14g.txt ========
+REDDIT ARCHIVED ORIGINAL POST AND AVAILABLE COMMENTS
+{
+  "post_id": "1p8s14g",
+  "subreddit": "NewParents",
+  "url": "https://www.reddit.com/r/NewParents/comments/1p8s14g/fussyness_and_meltdown_on_morning_nap/",
+  "date": "2025-11-28T10:55:28+00:00",
+  "title": "Fussyness and Meltdown on morning nap",
+  "window": "2025-07-01 to2026-01-01 exclusive",
+  "source_post_file": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+  "source_comment_file": null,
+  "archive_comment_records": 0,
+  "op_reply_records_identifiable": 0,
+  "post_reported_num_comments": 3,
+  "comment_source_available": false,
+  "comment_completeness": "comment archive file absent at pinned publisher commit (404)",
+  "missing_referenced_comment_parents": 0,
+  "primary_topic": "sleep_routines",
+  "topics": [
+    "sleep_routines",
+    "household_support"
+  ],
+  "safety_flag": false,
+  "triage_status": "untriaged",
+  "reading_status": "unread"
+}
+
+=== ORIGINAL POST TITLE ===
+Fussyness and Meltdown on morning nap
+
+=== ORIGINAL POST BODY ===
+I’m looking for any advice from someone who’s been through something similar to us.
+
+Our 5 month old has never been a great sleeper, she’s always fought sleep and we do wonder at times if she gets enough sleep.
+
+We’ve started using the Huckleberry App to try and track and plan naps better, and things have improved. It’s not perfect but much better.
+
+During the day when i’m at work, my partner suffers through an absolute meltdown before the first morning nap. About 30 mins before the app says she is due a nap our baby refuses to feed and has a meltdown. Doesn’t want to be cradled, put down, play, nothing works. She just has to rock her to try and settle her. It took 75 mins today before she fell asleep.
+
+This on top of the sleep deprivation is taking it’s toll. 
+
+Anyone had something similar?
+
+=== COMMENTS ===
+COMMENT SOURCE UNAVAILABLE. Do not describe this unit as a complete original thread.
+
+
+======== SOURCE UNIT _raw/reddit-deep/corpus-A-v1/units/NewParents-1p98vqb.txt ========
+REDDIT ARCHIVED ORIGINAL POST AND AVAILABLE COMMENTS
+{
+  "post_id": "1p98vqb",
+  "subreddit": "NewParents",
+  "url": "https://www.reddit.com/r/NewParents/comments/1p98vqb/what_apps_made_life_easier_with_a_newborn/",
+  "date": "2025-11-28T23:03:34+00:00",
+  "title": "What apps made life easier with a newborn?",
+  "window": "2025-07-01 to2026-01-01 exclusive",
+  "source_post_file": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+  "source_comment_file": null,
+  "archive_comment_records": 0,
+  "op_reply_records_identifiable": 0,
+  "post_reported_num_comments": 29,
+  "comment_source_available": false,
+  "comment_completeness": "comment archive file absent at pinned publisher commit (404)",
+  "missing_referenced_comment_parents": 0,
+  "primary_topic": "sleep_routines",
+  "topics": [
+    "sleep_routines",
+    "household_support"
+  ],
+  "safety_flag": false,
+  "triage_status": "untriaged",
+  "reading_status": "unread"
+}
+
+=== ORIGINAL POST TITLE ===
+What apps made life easier with a newborn?
+
+=== ORIGINAL POST BODY ===
+My husband and I are expecting and I’d love your recommendations.
+
+What apps did you actually use (and wish you’d known about sooner) during the newborn stage? Tracking, sleep, feeding, mental health, organization; anything that genuinely helped?
+
+Thanks in advance!
+
+=== COMMENTS ===
+COMMENT SOURCE UNAVAILABLE. Do not describe this unit as a complete original thread.
+
+
+======== SOURCE UNIT _raw/reddit-deep/corpus-A-v1/units/NewParents-1p99tfm.txt ========
+REDDIT ARCHIVED ORIGINAL POST AND AVAILABLE COMMENTS
+{
+  "post_id": "1p99tfm",
+  "subreddit": "NewParents",
+  "url": "https://www.reddit.com/r/NewParents/comments/1p99tfm/favorite_baby_books/",
+  "date": "2025-11-28T23:45:57+00:00",
+  "title": "Favorite baby books",
+  "window": "2025-07-01 to2026-01-01 exclusive",
+  "source_post_file": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+  "source_comment_file": null,
+  "archive_comment_records": 0,
+  "op_reply_records_identifiable": 0,
+  "post_reported_num_comments": 1,
+  "comment_source_available": false,
+  "comment_completeness": "comment archive file absent at pinned publisher commit (404)",
+  "missing_referenced_comment_parents": 0,
+  "primary_topic": "other",
+  "topics": [],
+  "safety_flag": false,
+  "triage_status": "untriaged",
+  "reading_status": "unread"
+}
+
+=== ORIGINAL POST TITLE ===
+Favorite baby books
+
+=== ORIGINAL POST BODY ===
+I’m trying to get some book ideas as a Christmas gift for my baby boy. He is currently 8 weeks old. But I’m looking for books that we can use now and also have him grow into. What are some of your favorites for your baby? Or books you remember loving as a kid?? 
+
+=== COMMENTS ===
+COMMENT SOURCE UNAVAILABLE. Do not describe this unit as a complete original thread.
+
+
+======== SOURCE UNIT _raw/reddit-deep/corpus-A-v1/units/NewParents-1p9bf0p.txt ========
+REDDIT ARCHIVED ORIGINAL POST AND AVAILABLE COMMENTS
+{
+  "post_id": "1p9bf0p",
+  "subreddit": "NewParents",
+  "url": "https://www.reddit.com/r/NewParents/comments/1p9bf0p/lpt_buy_extra_of_the_special_north_pole_wrapping/",
+  "date": "2025-11-29T00:59:03+00:00",
+  "title": "LPT: buy extra of the special North Pole wrapping paper",
+  "window": "2025-07-01 to2026-01-01 exclusive",
+  "source_post_file": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+  "source_comment_file": null,
+  "archive_comment_records": 0,
+  "op_reply_records_identifiable": 0,
+  "post_reported_num_comments": 3,
+  "comment_source_available": false,
+  "comment_completeness": "comment archive file absent at pinned publisher commit (404)",
+  "missing_referenced_comment_parents": 0,
+  "primary_topic": "other",
+  "topics": [],
+  "safety_flag": false,
+  "triage_status": "untriaged",
+  "reading_status": "unread"
+}
+
+=== ORIGINAL POST TITLE ===
+LPT: buy extra of the special North Pole wrapping paper
+
+=== ORIGINAL POST BODY ===
+We're entering our third holiday season with the little one and I realized we'll need more of the special paper that comes from the North Pole.... Only to find out that it's no longer made 😭 so tip for new parents - if you plan on using the same special wrapping paper each year, buy extra! Future you will be thankful that they're not having to scour eBay and Facebook marketplace.
+
+=== COMMENTS ===
+COMMENT SOURCE UNAVAILABLE. Do not describe this unit as a complete original thread.
+
+
+======== SOURCE UNIT _raw/reddit-deep/corpus-A-v1/units/NewParents-1p9c29d.txt ========
+REDDIT ARCHIVED ORIGINAL POST AND AVAILABLE COMMENTS
+{
+  "post_id": "1p9c29d",
+  "subreddit": "NewParents",
+  "url": "https://www.reddit.com/r/NewParents/comments/1p9c29d/milestone_tracking_app/",
+  "date": "2025-11-29T01:29:24+00:00",
+  "title": "Milestone tracking app?",
+  "window": "2025-07-01 to2026-01-01 exclusive",
+  "source_post_file": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+  "source_comment_file": null,
+  "archive_comment_records": 0,
+  "op_reply_records_identifiable": 0,
+  "post_reported_num_comments": 0,
+  "comment_source_available": false,
+  "comment_completeness": "comment archive file absent at pinned publisher commit (404)",
+  "missing_referenced_comment_parents": 0,
+  "primary_topic": "development_play",
+  "topics": [
+    "development_play",
+    "pregnancy_birth"
+  ],
+  "safety_flag": false,
+  "triage_status": "untriaged",
+  "reading_status": "unread"
+}
+
+=== ORIGINAL POST TITLE ===
+Milestone tracking app?
+
+=== ORIGINAL POST BODY ===
+Does anyone use an app to track baby development and milestones that they particularly enjoy? I downloaded the free CDC one but I was hoping for something more like Ovia pregnancy where it gives you milestones/info each week. Thank you! 
+
+=== COMMENTS ===
+COMMENT SOURCE UNAVAILABLE. Do not describe this unit as a complete original thread.
+
+
+======== SOURCE UNIT _raw/reddit-deep/corpus-A-v1/units/NewParents-1p9c5a8.txt ========
+REDDIT ARCHIVED ORIGINAL POST AND AVAILABLE COMMENTS
+{
+  "post_id": "1p9c5a8",
+  "subreddit": "NewParents",
+  "url": "https://www.reddit.com/r/NewParents/comments/1p9c5a8/daycare_exposure_vs_holiday_gatherings/",
+  "date": "2025-11-29T01:33:25+00:00",
+  "title": "Daycare exposure vs holiday gatherings",
+  "window": "2025-07-01 to2026-01-01 exclusive",
+  "source_post_file": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+  "source_comment_file": null,
+  "archive_comment_records": 0,
+  "op_reply_records_identifiable": 0,
+  "post_reported_num_comments": 4,
+  "comment_source_available": false,
+  "comment_completeness": "comment archive file absent at pinned publisher commit (404)",
+  "missing_referenced_comment_parents": 0,
+  "primary_topic": "household_support",
+  "topics": [
+    "household_support"
+  ],
+  "safety_flag": false,
+  "triage_status": "untriaged",
+  "reading_status": "unread"
+}
+
+=== ORIGINAL POST TITLE ===
+Daycare exposure vs holiday gatherings
+
+=== ORIGINAL POST BODY ===
+We were planning to stay home for Christmas as our families live 3-5 hours away. Both sets of parents were planning on coming here for Christmas, but my mom’s hip went out and my father in laws knee also may need surgery soon. I really didn’t want to travel with LO until around 6 months, she will be 5 months Christmas. But now with our parents really not being able to travel, I’m thinking we go to them. My only concern is if we go there, we will be around a lot more people. With it being flu season, I’m hesitant, but she’s in daycare full time so I feel like she’s higher risk to catch something there than at a family gathering. She’s fully vaccinated including RSV, but isn’t able to get flu shot until 6 months. So I guess I just want other’s opinions- do you think she is just as if not more exposed to illness at daycare vs family gathering?
+
+=== COMMENTS ===
+COMMENT SOURCE UNAVAILABLE. Do not describe this unit as a complete original thread.
+
+
+======== SOURCE UNIT _raw/reddit-deep/corpus-A-v1/units/NewParents-1p9fk3r.txt ========
+REDDIT ARCHIVED ORIGINAL POST AND AVAILABLE COMMENTS
+{
+  "post_id": "1p9fk3r",
+  "subreddit": "NewParents",
+  "url": "https://www.reddit.com/r/NewParents/comments/1p9fk3r/my_baby_slept_through_the_night/",
+  "date": "2025-11-29T04:24:09+00:00",
+  "title": "My baby slept through the night",
+  "window": "2025-07-01 to2026-01-01 exclusive",
+  "source_post_file": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+  "source_comment_file": null,
+  "archive_comment_records": 0,
+  "op_reply_records_identifiable": 0,
+  "post_reported_num_comments": 12,
+  "comment_source_available": false,
+  "comment_completeness": "comment archive file absent at pinned publisher commit (404)",
+  "missing_referenced_comment_parents": 0,
+  "primary_topic": "sleep_routines",
+  "topics": [
+    "sleep_routines",
+    "work_return"
+  ],
+  "safety_flag": false,
+  "triage_status": "untriaged",
+  "reading_status": "unread"
+}
+
+=== ORIGINAL POST TITLE ===
+My baby slept through the night
+
+=== ORIGINAL POST BODY ===
+Yep that's it she slept through the night 
+Didnour bed time routine that I've been working on since she was 4 months, she's 5 months now almost 6 months now. 
+
+It felt like heaven. She slept from 7pm to 6am, finally feel like myself after getting to sleep for so long. When she woke up in the morning I was so confused, wondering whose baby is this but yeah. Just wanted to share for a new parents out there who thinks their baby won't sleep through the night. Find a good bedtime routine stick to it and give it some time. 
+
+So well rested for the first time in 5 months, yayyy
+
+=== COMMENTS ===
+COMMENT SOURCE UNAVAILABLE. Do not describe this unit as a complete original thread.
+
+
+======== SOURCE UNIT _raw/reddit-deep/corpus-A-v1/units/NewParents-1p9gl1m.txt ========
+REDDIT ARCHIVED ORIGINAL POST AND AVAILABLE COMMENTS
+{
+  "post_id": "1p9gl1m",
+  "subreddit": "NewParents",
+  "url": "https://www.reddit.com/r/NewParents/comments/1p9gl1m/13_week_old_will_not_sleep_during_the_day/",
+  "date": "2025-11-29T05:18:04+00:00",
+  "title": "13 week old will not sleep during the day",
+  "window": "2025-07-01 to2026-01-01 exclusive",
+  "source_post_file": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+  "source_comment_file": null,
+  "archive_comment_records": 0,
+  "op_reply_records_identifiable": 0,
+  "post_reported_num_comments": 0,
+  "comment_source_available": false,
+  "comment_completeness": "comment archive file absent at pinned publisher commit (404)",
+  "missing_referenced_comment_parents": 0,
+  "primary_topic": "sleep_routines",
+  "topics": [
+    "development_play",
+    "pumping_feeding",
+    "sleep_routines",
+    "registry_gear"
+  ],
+  "safety_flag": false,
+  "triage_status": "untriaged",
+  "reading_status": "unread"
+}
+
+=== ORIGINAL POST TITLE ===
+13 week old will not sleep during the day
+
+=== ORIGINAL POST BODY ===
+Apologies for the long post, first time posting ever will do my best to explain the routine and looking forward to any tips you may have for the daytime naps.
+
+So my baby has always been a very bad daytime sleeper. Up until last week I managed to get him to sleep by breastfeeding ( he's formula fed, breastfeeding for comfort, low supply), however this doesn't work anymore.
+ 
+*Night time
+
+Bedtime is around 7PM and starting around 11 weeks it usually takes about 3-4 attempts with rocking him or walking around for him to fall asleep for the night (from 8 to 11 weeks he would fall asleep on his own and wake up every 4 hours to feed),  he now wakes up for the first time around 4am, and is up for the day at around 7am.
+
+This is all fine and I don't have any complaints about the night time routine and sleep as many would consider me lucky, but the daytime is absolute hell.
+
+*Daytime
+
+When he wakes up, after changing and feeding him, he's very happy, will smile and babble and coo however as the day progreses and he is getting tired he starts being cranky. 
+I was following wake windows but he refuses to fall asleep and will cry and fuss until I pick him back up and walk around or bounce him.
+At some point usually around noon he gets overtired and starts screaming bloody murder for about 30minutes. I will hold him, walk around, bounce, try toys, lights, dark room and sound machine but ultimately it's just waiting it out for him to fall asleep, and he will sleep for around 1-2 hours (contact nap).
+I sometimes manage to get him to sleep around 30mins in the pram walking outside or basically forcing him to sleep by rocking him while he cries.
+
+To note, he never naps in his crib, and never has. Until 8 weeks he exclusively slept while held, because he would always wake up 10 minutes after being put down anywhere (crib, pram, our bed).
+
+I am unsure if this is just a phase like it was for his nighttime sleep but it is exhausting and heartbreaking listening him crying and screaming every day when all he needs to do is sleep. I feel like a failure for not being able to soothe my own baby.
+
+I also do not have a moment for myself during the day considering he wants to be held 90% of the time. I can sometimes get a 10-15 minutes to eat when I put him in the swing and turn on the TV(and then I feel guilty for having the TV on for a baby so small since I was always against screen time)
+
+Do you have any tricks for putting him to sleep during the day? Is it bad for him developmentally if he doesn't nap enough? Does this seem like a phase and if so when will it end?
+
+
+Thank you to however took the time to read it all and respond.
+
+Love from a very tired mom 
+
+
+=== COMMENTS ===
+COMMENT SOURCE UNAVAILABLE. Do not describe this unit as a complete original thread.
+
+
+======== SOURCE UNIT _raw/reddit-deep/corpus-A-v1/units/NewParents-1p9h6ay.txt ========
+REDDIT ARCHIVED ORIGINAL POST AND AVAILABLE COMMENTS
+{
+  "post_id": "1p9h6ay",
+  "subreddit": "NewParents",
+  "url": "https://www.reddit.com/r/NewParents/comments/1p9h6ay/i_feel_like_im_failing_my_son_and_wife_due_to_my/",
+  "date": "2025-11-29T05:50:46+00:00",
+  "title": "I feel like I'm failing my son and wife due to my frustration issues",
+  "window": "2025-07-01 to2026-01-01 exclusive",
+  "source_post_file": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+  "source_comment_file": null,
+  "archive_comment_records": 0,
+  "op_reply_records_identifiable": 0,
+  "post_reported_num_comments": 57,
+  "comment_source_available": false,
+  "comment_completeness": "comment archive file absent at pinned publisher commit (404)",
+  "missing_referenced_comment_parents": 0,
+  "primary_topic": "sleep_routines",
+  "topics": [
+    "sleep_routines",
+    "household_support",
+    "registry_gear",
+    "work_return"
+  ],
+  "safety_flag": false,
+  "triage_status": "untriaged",
+  "reading_status": "unread"
+}
+
+=== ORIGINAL POST TITLE ===
+I feel like I'm failing my son and wife due to my frustration issues
+
+=== ORIGINAL POST BODY ===
+I've always had issues with getting frustrated quickly. It's just in my nature, unfortunately. Thankfully they aren't full blown anger issues. I don't get violent. I don't get mean. I just get really angry really quickly. Thankfully, up until now, I've always been able to compensate with other skills that I excel in. If I get frustrated over a problem at work, I'm able generally able to figure things out. If I get frustrated with a video game, I'm able to either put the game down or practice until I'm able to overcome whatever challenge I'm facing. Etc. 
+
+Being a parent has thrown a HUGE curveball at me.
+
+My son is 3.5 months old. He's an incredible kid. He already seems relatively advanced for his age. He and my wife are the absolute lights of my life. I love them more than anything on this planet. That being said, he's still a baby. And babies cry. And recently, he's been crying a LOT. This is where I feel like a failure.
+
+Whenever he goes into a fit, I eventually (and quickly) end up reaching a "breaking point". I end up so frustrated that I say things I don't want to say. Nothing terribly awful or anything. But things along the lines of "I don't know what the fuck you want" or "Jesus fucking christ just stop fucking crying". I'm sure I give angry looks. I know I give off negative energy. And inevitably I have to hand him over to my wife and just leave the room to cool off for a few minutes. 
+
+I know where the issue is. I'm a very logical person. I approach everything with a "problem-solution" attitude. If the baby is crying, it's because something is wrong. If we find out what is wrong and fix it, baby will stop crying. However, as I'm sure all of you know, that's not always how babies operate. So when he starts crying, I run down my mental checklist. Is he hungry? Does he need to burp? Is he hot/cold? Does he need a diaper change? Is he gassy? Is he overtired or overstimulated? Etc.
+
+Eventually I reach the end of that tree. I've gone over each checkpoint multiple times and he's still screaming. And that triggers the hell out of me. He MUST be crying because of something. But I've checked LITERALLY EVERYTHING and he's fine. So he shouldn't be crying. But he still is. FRUSTRATION ENGAGED. "I DONT KNOW WHAT THE FUCK YOU WANT".
+
+At this point it's almost better that I just leave the room entirely. My wife doesn't need to deal with two upset babies. And it makes me feel like such a fucking failure to both of them. My kid doesn't deserve a dad that gets frustrated so easily. And my wife deserves a husband that can stick it out just as long as she can. I've been trying SO HARD to get better. I just can't seem to control the part of my brain that flicks on.
+
+I'm sure outside factors are playing a huge role right now. Right now my entire life is stress and work. No happiness. No joy. Nothing to look forward to. I wake up. Still tired from the lack of sleep. To go to a job I hate. To deal with people I dislike. Only to come home right as my son is entering his nightly "scream for 2 hours" phase. Followed by having to cook/clean/etc. Only to finally go to bed later than I wanted just to start it all over again. I'm repeating myself, but no fun. No breaks. Nothing to look forward to. Just work, work, work, crying, anger, and exhaustion. With the occasional unfortunate life event sprinkled in (our oven just stopped working so I have to figure that out tomorrow). But not ONE THING to be excited about or look forward to.
+
+I'm just tired, man. And I feel like a jerk saying that considering my wife has had to pick up the slack that I'm dropping. She's been the greatest wife and mom I could've ever asked for. And I just want to be able to roll with the punches the way she does. I don't want to have to hand over our son because I need to step away. I don't want to bring down her mood with my negativity. I just want all three of us to be happy. I don't want to get frustrated so easily. I don't want to be like this. Normally I'm able to regulate my emotions. But that's only because the rest of the world is fairly logical. Babies aren't. 
+
+I dunno.. Just a rant, I guess. I just want to be better for them and I can't figure out how.
+
+=== COMMENTS ===
+COMMENT SOURCE UNAVAILABLE. Do not describe this unit as a complete original thread.

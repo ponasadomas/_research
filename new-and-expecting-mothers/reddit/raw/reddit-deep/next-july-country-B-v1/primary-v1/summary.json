@@ -1,0 +1,27 @@
+{
+  "scope": "ALL847preparedJulycountryBcards, no topics/ranking/cap",
+  "captured_primary_units": 847,
+  "primary_bytes": 1582414,
+  "OP_comment_sources_available": false,
+  "human_triage": 0,
+  "human_full_reads": 0,
+  "duplicate_groups_for_human_review": 19,
+  "assignments": [
+    {
+      "reader": 1,
+      "cards": 292,
+      "card_chunks": 4
+    },
+    {
+      "reader": 2,
+      "cards": 264,
+      "card_chunks": 4
+    },
+    {
+      "reader": 3,
+      "cards": 291,
+      "card_chunks": 4
+    }
+  ],
+  "baseline_read_ID_manifest_sha256": "7475aa9b86209cd59e95d1fbc2ea3c4ca26efe5a2b2a35a2c6292aab00d68d38"
+}

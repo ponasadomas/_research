@@ -1,0 +1,7 @@
+{
+  "input": "explicit-payment-v1/matches.jsonl",
+  "input_count": 1056,
+  "regex": "\\b(?:paid|pay(?:ing)?|bought|buy(?:ing)?|purchas(?:e|ed|ing)|spent)\\b[^.!?\\n]{0,100}\\b(?:app|course|guide|report|PDF|subscription|coach|consultant|program|plan|book|huckleberry|cara|napper|solid starts)\\b|\\b(?:app|course|guide|report|PDF|subscription|coach|consultant|program|huckleberry|cara|napper|solid starts)\\b[^.!?\\n]{0,75}\\b(?:paid|pay(?:ing)?|bought|buy(?:ing)?|purchas(?:e|ed|ing))\\b",
+  "candidate_count": 39,
+  "status": "all untriaged/unread; no purchase assertion"
+}

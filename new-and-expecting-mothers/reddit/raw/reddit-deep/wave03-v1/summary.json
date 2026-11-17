@@ -1,0 +1,59 @@
+{
+  "reddit_full": 6476,
+  "OP": 2150,
+  "aux": 43,
+  "unread_comments": 145386,
+  "unread_bodies": {
+    "A": 2531,
+    "B": 50530,
+    "C": 38463
+  },
+  "wave03": {
+    "country_cards": 847,
+    "country_keeps": 584,
+    "country_drops": 263,
+    "kept_unread": 0,
+    "readers": {
+      "1": {
+        "cards": 292,
+        "keep": 224,
+        "drop": 68,
+        "complete": 224,
+        "eligible": 184,
+        "excluded_after_read": 40
+      },
+      "2": {
+        "cards": 264,
+        "keep": 157,
+        "drop": 107,
+        "complete": 157,
+        "eligible": 123,
+        "excluded_after_read": 34
+      },
+      "3": {
+        "cards": 291,
+        "keep": 203,
+        "drop": 88,
+        "complete": 203,
+        "eligible": 171,
+        "excluded_after_read": 32
+      }
+    },
+    "country_extra_inspections": 5,
+    "root_commercial_cards": 136,
+    "root_full_read_occurrences": 27,
+    "root_full_distinct_ids": 26,
+    "new_full_distinct_ids_total": 597,
+    "new_OP_ids": 1,
+    "country_full_reads_by_subreddit": {
+      "BabyBumpsCanada": 142,
+      "BabyBumpsandBeyondAu": 256,
+      "BeyondTheBumpUK": 186
+    },
+    "country_post_read_status": {
+      "eligible": 478,
+      "excluded_after_read": 106
+    }
+  },
+  "reviews_full": 299
+}

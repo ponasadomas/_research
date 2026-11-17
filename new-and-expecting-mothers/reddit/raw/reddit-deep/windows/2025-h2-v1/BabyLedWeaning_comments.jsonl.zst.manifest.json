@@ -1,0 +1,19 @@
+{
+  "source_file": "_raw/reddit-deep/archive-files/BabyLedWeaning_comments.jsonl.zst",
+  "output": "_raw/reddit-deep/windows/2025-h2-v1/BabyLedWeaning_comments.jsonl.gz",
+  "window_start": "2025-07-01T00:00:00+00:00",
+  "window_end_exclusive": "2026-01-01T00:00:00+00:00",
+  "source_records_scanned": 220916,
+  "selected_records": 22046,
+  "unique_ids": 22046,
+  "duplicate_ids": 0,
+  "min_date": "2025-07-01T00:05:38+00:00",
+  "max_date": "2025-12-31T23:46:43+00:00",
+  "text_status": {
+    "present": 21963,
+    "deleted": 20,
+    "removed": 63
+  },
+  "compressed_bytes": 4878536,
+  "sha256": "3341c1e6d068fd0fabe8a6ace10588e80dd2cb5c571c016577af8ea33b742f8a"
+}

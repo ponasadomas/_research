@@ -1,0 +1,20 @@
+{
+  "source_file": "_raw/reddit-deep/archive-files/ExclusivelyPumping_submissions.jsonl.zst",
+  "output": "_raw/reddit-deep/windows/2025-h2-v1/ExclusivelyPumping_submissions.jsonl.gz",
+  "window_start": "2025-07-01T00:00:00+00:00",
+  "window_end_exclusive": "2026-01-01T00:00:00+00:00",
+  "source_records_scanned": 66904,
+  "selected_records": 11445,
+  "unique_ids": 11445,
+  "duplicate_ids": 0,
+  "min_date": "2025-07-01T00:02:44+00:00",
+  "max_date": "2025-12-31T23:57:13+00:00",
+  "text_status": {
+    "present": 11137,
+    "empty": 95,
+    "removed": 204,
+    "deleted": 9
+  },
+  "compressed_bytes": 6217689,
+  "sha256": "4872f3164f2c7463f8ed4055ad6c66052ddb8e3b0fa1cd03e8b7a2aa8bb11566"
+}

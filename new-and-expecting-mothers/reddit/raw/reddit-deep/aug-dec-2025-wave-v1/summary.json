@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-24",
+  "baseline_commit": "2613feb3",
+  "candidates": 6597,
+  "card_chunks": 110,
+  "by_subreddit": {
+    "BabyBumps": 1206,
+    "BabyBumpsCanada": 228,
+    "BabyBumpsandBeyondAu": 277,
+    "BabyLedWeaning": 89,
+    "BeyondTheBumpUK": 222,
+    "ExclusivelyPumping": 948,
+    "NewParents": 2077,
+    "beyondthebump": 1041,
+    "workingmoms": 509
+  },
+  "primary_units": 6597,
+  "primary_bytes": 17317023,
+  "OP_replies": 2090,
+  "non_OP_comments_separate_unread": 13253,
+  "duplicate_body_groups_for_human_review": 101,
+  "card_triaged": 0,
+  "human_kept": 0,
+  "full_primary_reads": 0,
+  "batch_cards": [
+    2199,
+    2193,
+    2205
+  ],
+  "batch_chunks": [
+    36,
+    37,
+    37
+  ],
+  "baseline_hashes": {
+    "_raw/reddit-deep/final-unhandled-A.jsonl": "c1e4e8eadc12aecfdac1cd700d65f9c0964a2a6e2adb6c7df3cab186fd7d51b4",
+    "_raw/reddit-deep/final-read-post-ids.json": "4ed913c06c558a5dfe6dc11d6b4680c1cf3b34f249556870a285540cf6f62fb9",
+    "_raw/reddit-deep/outside-july-card-queue-v1.jsonl": "789dcdf56631e2bb44b13b97d3a6a04f1e5607f46b989c354293d4805d8eccad",
+    "_raw/reddit-deep/filter-v1/A-candidates.jsonl": "129b112e3a905c16e70e224daa83a62f9a1926520103e7cd18a6a5cd7a2b569e",
+    "_raw/reddit-deep/corpus-A-v1/index.jsonl": "a82ef5ac8404b30543f5f07513b0457d2582a776bf9eee4d6b8fb3f6025ebdb7"
+  }
+}

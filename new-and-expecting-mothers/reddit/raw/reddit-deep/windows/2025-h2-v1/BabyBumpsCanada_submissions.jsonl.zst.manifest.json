@@ -1,0 +1,19 @@
+{
+  "source_file": "_raw/reddit-deep/archive-files/BabyBumpsCanada_submissions.jsonl.zst",
+  "output": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumpsCanada_submissions.jsonl.gz",
+  "window_start": "2025-07-01T00:00:00+00:00",
+  "window_end_exclusive": "2026-01-01T00:00:00+00:00",
+  "source_records_scanned": 28881,
+  "selected_records": 3924,
+  "unique_ids": 3924,
+  "duplicate_ids": 0,
+  "min_date": "2025-07-01T00:01:01+00:00",
+  "max_date": "2025-12-31T23:52:22+00:00",
+  "text_status": {
+    "present": 3305,
+    "removed": 396,
+    "empty": 223
+  },
+  "compressed_bytes": 1853997,
+  "sha256": "ebe65baf85e768b60c622f8c78f6758c179b3ee2ec1c190994bde4f793a08721"
+}

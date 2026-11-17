@@ -1,0 +1,42 @@
+---
+pretty_name: Reddit Subreddits25 Archive
+license: other
+tags:
+- reddit
+- web-archive
+- jsonl
+- zstandard
+---
+
+# Reddit Subreddits25 Archive
+
+This repository contains a compressed Reddit archive organized by subreddit and record type.
+It was prepared from a local bundle named `reddit_torrent_download_bundle`; that bundle did
+not include provenance or licensing documentation, so users must independently verify that
+their use complies with applicable terms, licenses, privacy requirements, and laws.
+
+## Contents
+
+- Files: 79,955 (39,974 comment shards and 39,981 submission shards)
+- Compressed size: 3,965,777,405,390 bytes (approximately 3.97 TB)
+- Encoding: newline-delimited JSON compressed with Zstandard
+- Layout: `data/<comments|submissions>/<sha256-prefix>/<subreddit>_<type>.jsonl.zst`
+
+The two-character hash directory is derived from the original filename and only exists to
+keep repository directories small. `manifest.tsv` records every remote path, compressed size,
+and original filename.
+
+## Reading a shard
+
+```bash
+zstd -dc data/comments/00/example_comments.jsonl.zst | python -m json.tool --json-lines
+```
+
+In Python, use the `zstandard` package and parse one line at a time; shards can be very large.
+Schema and field availability vary across Reddit eras and between comments and submissions.
+
+## Safety and privacy
+
+This historical archive can include deleted, offensive, explicit, or personally identifying
+content. Do not treat continued presence in the archive as consent for reuse. Apply appropriate
+filtering and governance before training models, redistributing excerpts, or exposing records.

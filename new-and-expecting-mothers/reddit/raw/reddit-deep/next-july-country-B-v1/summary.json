@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-24",
+  "status": "Proposed NEXT reading scope; zero human cards triaged, zero original reads, zero quotes.",
+  "selection": "ALL July2025 B candidates inCanada/Australia/UK communities; no topic ranking/cap.",
+  "candidates": 847,
+  "by_community": {
+    "BabyBumpsCanada": 182,
+    "BabyBumpsandBeyondAu": 385,
+    "BeyondTheBumpUK": 280
+  },
+  "card_chunks": 12,
+  "card_bytes": 461220,
+  "OP_comment_sources_available": false,
+  "source_file": "_raw/reddit-deep/filter-v1/B-candidates.jsonl",
+  "source_sha256": "d87721568fd65e2f4bebda0b23afb7e963a5829f89c39fc147a82c90542c0ee8",
+  "plan": "Three readers share all cards; after human triage freeze and read EVERY keep, with actual count determined then. Current continuation B comparison was food/date-specific; this country/date comparison covers all topics."
+}

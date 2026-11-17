@@ -1,0 +1,19 @@
+{
+  "source_file": "_raw/reddit-deep/archive-files/NewParents_submissions.jsonl.zst",
+  "output": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+  "window_start": "2025-07-01T00:00:00+00:00",
+  "window_end_exclusive": "2026-01-01T00:00:00+00:00",
+  "source_records_scanned": 209808,
+  "selected_records": 32170,
+  "unique_ids": 32170,
+  "duplicate_ids": 0,
+  "min_date": "2025-07-01T00:10:10+00:00",
+  "max_date": "2025-12-31T23:57:59+00:00",
+  "text_status": {
+    "present": 29065,
+    "removed": 3088,
+    "deleted": 17
+  },
+  "compressed_bytes": 16332700,
+  "sha256": "64ad1f9387ceda04e8b5106a1e3475874b5118934c1d2c1496e1df369bf67287"
+}

@@ -1,0 +1,29 @@
+{
+  "original_filename": "BabyBumps_submissions.jsonl.zst",
+  "original_bytes": 271387133,
+  "original_sha256": "d3d9d85f6c117777a03874f0d910a5d5b66f79ce8f1193f93258904be48264eb",
+  "concatenation_order": [
+    "_raw/reddit-deep/archive-files/BabyBumps_submissions.jsonl.zst.parts/0000.part",
+    "_raw/reddit-deep/archive-files/BabyBumps_submissions.jsonl.zst.parts/0001.part",
+    "_raw/reddit-deep/archive-files/BabyBumps_submissions.jsonl.zst.parts/0002.part"
+  ],
+  "pieces": [
+    {
+      "file": "_raw/reddit-deep/archive-files/BabyBumps_submissions.jsonl.zst.parts/0000.part",
+      "bytes": 95000000,
+      "sha256": "3e3dc72327d0f2d4afcd2489bcef7278dd67418ae07dfb685ce6c9c71c6b16f0"
+    },
+    {
+      "file": "_raw/reddit-deep/archive-files/BabyBumps_submissions.jsonl.zst.parts/0001.part",
+      "bytes": 95000000,
+      "sha256": "08379ab7fcf83fddb7a076aa6ca11a579e775e2eb1009d0723ac05d3d7f3816a"
+    },
+    {
+      "file": "_raw/reddit-deep/archive-files/BabyBumps_submissions.jsonl.zst.parts/0002.part",
+      "bytes": 81387133,
+      "sha256": "cdfd42c27251fe2776edd2f5ab8d521e71936133c9af0c9efe8a69f57e6d4aef"
+    }
+  ],
+  "reassembly": "Concatenate the piece files in listed order as binary; resulting bytes reproduce the original JSONL.zst exactly.",
+  "temporary_unsplit_copy": "/tmp/mamivio-reddit-unsplit/BabyBumps_submissions.jsonl.zst"
+}
