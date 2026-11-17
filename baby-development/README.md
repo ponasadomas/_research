@@ -19,7 +19,7 @@ Rules for all research: `../README.md`.
 | `statistics/` | Published figures on American first-time mothers, 17 saved sources | 2026-11-17 | 23 figures; most cover all mothers, not first-time mothers |
 | `forums/`, `marketplaces/`, `official-guidance/` | nothing | | Not collected in this niche. The niche-selection research in `../new-and-expecting-mothers/` has all three for the whole market |
 | `quotes/` | 2,970 quotes, one record each, in 12 files; `merged/all.jsonl` is a generated copy | | Every quote checked against its source |
-| `evidence/` | `evidence.md`: the quotes sorted under themes with conclusions (44,500 words, cites 1,086 quotes); counts; readers' notes; the unfilter report | 2026-11-16 | Current |
+| `evidence/` | `evidence.md`: the quotes sorted under themes with conclusions (44,500 words, cites 1,086 quotes); `who-she-is.md`: the same quotes read for who she is (cites all 2,970); counts; readers' notes; the unfilter report | 2026-11-17 | Current |
 
 Findings page (the short one): not written yet. It will be
 `~/GitHub/_home/library/avatars/baby-development/findings/`.
@@ -28,7 +28,7 @@ Findings page (the short one): not written yet. It will be
 
 | Question | Answered from | State |
 |---|---|---|
-| 1. Who is she, and what is her life like? | nothing collected for it | **Not answered.** Pieces are scattered through the Reddit quotes; mamiVio's own quiz data has not been used |
+| 1. Who is she, and what is her life like? | `evidence/who-she-is.md`, `statistics/` | **Partly answered (2026-11-17).** Her daily life, who has a say, what she believes and how she sees herself: answered from the quotes. Her age, income, education and country: the quotes say almost nothing; `statistics/` gives national averages for all mothers, not this buyer. mamiVio's own quiz data does not exist yet |
 | 2. What hurts, what does she want, and how does she say it? | `reddit/` | Answered; one source only |
 | 3. What is she buying, what does she pay, and how did it go? | `reviews/`, `books/` | Half answered. Reviews of 9 apps were read (159 quotes), but nobody first mapped what she spends on, so the apps were picked without it. Books: 5 quotes. Courses, classes, toys: nothing |
 | 4. Who is selling to her, and what is working? | `competitors/`, the Ad Library sweep, `sales-letters/` | Partly: competitors done, ads only in the shared sweep |
@@ -44,13 +44,15 @@ selected from the archive, and who read what, is in `_work/reddit-selection/` an
 
 ## Checking
 
-Run from this folder. All four must report the counts shown and no failures.
+Run from this folder. All five must report the counts shown and no failures.
 
 ```
 python3 -I _tools/check_ids.py                            2970 records, 0 duplicated
 python3 -I _tools/verify_quotes.py                        2970 quotes, 0 failed
 python3 -I _tools/verify_evidence_ids.py                  1086 ids cited, 0 unresolved; 1008 fragments, 0 failed
 python3 -I _tools/audit.py read-v1 read-w2 read-w3        723 assigned, 0 unexplained
+python3 -I _tools/verify_part.py quotes evidence/who-she-is.md 0.05
+                                                          ids mentioned 2970, quotes reproduced 120; OK
 ```
 
 `_tools/history/` holds the scripts and agent briefs used to collect and read this

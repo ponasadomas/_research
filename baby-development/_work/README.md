@@ -8,3 +8,4 @@ read the research; the checks in `_tools/` use `reddit-selection/` and `reading-
 - `sources/`: the old source map and notes on data that was not collected.
 - `scratchpad/`: the agents' working files.
 - `old-README.md`: the study's README before the move.
+- `who-she-is/`: the briefs and the three reading parts behind `evidence/who-she-is.md`.
