@@ -1,0 +1,48 @@
+Emulating viewport: {"deviceScaleFactor":1,"isMobile":true,"hasTouch":true,"isLandscape":false,"width":390,"height":844}
+## Request https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-paywall-trial3%2Findex.html%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0%26from%3Dassessment&title=Kinedu%20%E2%80%94%20Start%20your%20free%20trial&referrer=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&muid=NA&sid=NA&version=6&preview=false&__shared_params__[version]=v3
+Status: 200
+### Request Headers
+- referer:https://webpromo.kinedu.com/
+- upgrade-insecure-requests:1
+- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+- :authority:js.stripe.com
+- :method:GET
+- :path:/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html
+- :scheme:https
+- accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+- accept-encoding:gzip, deflate, br, zstd
+- accept-language:en-GB,en-US;q=0.9,en;q=0.8
+- cookie:__Secure-LinkSessionPresent=true
+- priority:u=0, i
+- sec-fetch-dest:iframe
+- sec-fetch-mode:navigate
+- sec-fetch-site:cross-site
+- sec-fetch-storage-access:active
+- sec-fetch-user:?1
+### Response Headers
+- accept-ranges:bytes
+- access-control-allow-origin:*
+- age:443269
+- alt-svc:h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+- cache-control:max-age=31536000
+- content-encoding:br
+- content-length:122
+- content-security-policy:base-uri 'none'; connect-src 'self' https://r.stripe.com; default-src 'self'; font-src 'none'; form-action 'none'; frame-src https://m.stripe.network; img-src https://q.stripe.com; media-src 'none'; object-src 'none'; script-src 'self'; style-src 'self'; worker-src 'none'; report-uri https://q.stripe.com/csp-report
+- content-security-policy-report-only:base-uri 'none'; connect-src 'self' https://r.stripe.com; default-src 'self'; font-src 'none'; form-action 'none'; frame-src https://m.stripe.network; img-src https://q.stripe.com; media-src 'none'; object-src 'none'; script-src 'self'; style-src 'self'; worker-src 'none'; report-uri https://q.stripe.com/csp-report
+- content-type:text/html; charset=utf-8
+- date:Mon, 02 Nov 2026 16:48:49 GMT
+- etag:"3437aaddcdf6922d623e172c2d6f9278"
+- last-modified:Mon, 16 Mar 2026 22:03:13 GMT
+- origin-agent-cluster:?1
+- server:Fastly
+- strict-transport-security:max-age=31556926; includeSubDomains; preload
+- timing-allow-origin:*
+- vary:Accept-Encoding
+- via:1.1 varnish
+- x-cache:HIT
+- x-cache-hits:130185
+- x-content-type-options:nosniff
+- x-request-id:179284f9-3011-467e-b291-55318399e092
+- x-served-by:cache-ber1080033-BER
+### Response Body
+<Response body not available anymore>

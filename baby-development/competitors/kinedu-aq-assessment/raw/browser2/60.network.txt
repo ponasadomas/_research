@@ -1,0 +1,41 @@
+Emulating viewport: {"deviceScaleFactor":1,"isMobile":true,"hasTouch":true,"isLandscape":false,"width":390,"height":844}
+## Request https://js.stripe.com/v3/
+Status: 200
+### Request Headers
+- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+- referer:https://webpromo.kinedu.com/
+- :authority:js.stripe.com
+- :method:GET
+- :path:/v3/
+- :scheme:https
+- accept:*/*
+- accept-encoding:gzip, deflate, br, zstd
+- accept-language:en-GB,en-US;q=0.9,en;q=0.8
+- cookie:__Secure-LinkSessionPresent=true
+- if-modified-since:Fri, 30 Oct 2026 21:06:24 GMT
+- if-none-match:W/"3c68f0bab3449348beb2c13ca5f49d16"
+- sec-fetch-dest:script
+- sec-fetch-mode:no-cors
+- sec-fetch-site:cross-site
+- sec-fetch-storage-access:active
+### Response Headers
+- access-control-allow-origin:*
+- age:54
+- alt-svc:h3=":443"; ma=86400
+- cache-control:max-age=120
+- content-encoding:br
+- content-type:text/javascript; charset=utf-8
+- date:Tue, 03 Nov 2026 10:46:59 GMT
+- etag:W/"daf1db9bff2f3c92655f750c9942c4ff"
+- last-modified:Mon, 02 Nov 2026 22:30:01 GMT
+- server:Cloudfront
+- strict-transport-security:max-age=31556926; includeSubDomains; preload
+- timing-allow-origin:*
+- vary:Accept-Encoding
+- via:1.1 f6b9514ab9239076a9af0bb69d273eb8.cloudfront.net (CloudFront)
+- x-amz-cf-id:Itw3tpbl3isc1FDQGI4iSZPUHQFoc24hNDeEG3c80n1Bs6n2wuy17g==
+- x-amz-cf-pop:AMS58-P2
+- x-cache:Hit from cloudfront
+- x-content-type-options:nosniff
+### Response Body
+<Response body not available anymore>

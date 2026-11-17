@@ -1,0 +1,15 @@
+1. Collected on 2026-11-02 using paced curl requests; no browser opened.
+2. Saved 229 requests: 223 HTTP 200, four HTTP 422, two HTTP 400; no transport failures.
+3. Birthdate format is YYYY-MM-DD; assessment requests need no language field.
+4. The day-15 age-zero DOB is future and fails; nominal ages 1–49 return ages 0–48.
+5. All API ages 0–48 are covered; ages 49, 50, 51 return age_range.
+6. Initial questions contain 373 unique IDs and 49 distinct ordered age lists.
+7. Adjacent lists share 16–35 IDs: overlapping age windows in one shared bank.
+8. Initial list sizes range from 39 down to 22; calibration disappears at age 37.
+9. GW28/GW32/GW36 subtract 3/2/1 whole months below chronological age 24.
+10. Corrected age clamps at zero; GW37 is uncorrected; correction stops at 24 months.
+11. All-one gives eight extension items at ages 0–41; all-zero unexpectedly gives on_pace at age 1.
+12. Extensions use 77 IDs, all already present among initial questions.
+13. Reports add 35 inventory-only IDs: 408 recovered IDs match both client dictionaries.
+14. questions.csv preserves roles, exact ages, raw fields, varying rates, contexts, and sources.
+15. ENUMERATION.md and age-map.md document results; unreachable server IDs remain unproven.

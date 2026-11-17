@@ -1,0 +1,12 @@
+COMPLETED — 1886/1886 requests; 1886/1886 complete reports.
+Coverage: 49/49 full ages; 0 missing requests; 0 unusable responses.
+HTTP: 200=1886; transport failures: 0.
+Rounded expected-count control: 44/49 observed matches; 5 exceptions; 0 unknown ages.
+Band formula: 1042/1042 numeric reports match; 0 mismatches.
+Nonmonotonic devAge ages: 16, 23, 25, 30, 32.
+Integrity: 1886 bodies, headers and source hashes verified; 0 schema issues.
+Pacing: 2.0s sleep before every request; minimum completion-to-next-start gap 2.001633s.
+Artifacts: scoring-table.csv; SCORING-TABLE.md; logs/phase5-validation.json.
+Collector: python3 scripts/collect_scoring_table.py (resumable; saved files immutable).
+Offline rebuild: python3 scripts/build_scoring_table.py.
+All requested reports collected.

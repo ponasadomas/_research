@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://www.cdc.gov/act-early/milestones/index.html",
+    "body": "methodology-index.html",
+    "status": 200,
+    "retrieved": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "note": ""
+  },
+  {
+    "url": "https://www.cdc.gov/act-early/about/index.html",
+    "body": "methodology-about.html",
+    "status": 200,
+    "retrieved": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "note": ""
+  },
+  {
+    "url": "https://www.cdc.gov/act-early/about/developmental-monitoring-and-screening.html",
+    "body": "methodology-screening.html",
+    "status": 200,
+    "retrieved": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "note": ""
+  },
+  {
+    "url": "https://www.cdc.gov/act-early/milestones/key-points.html",
+    "body": "methodology-key-points.html",
+    "status": 200,
+    "retrieved": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "note": ""
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35132439/",
+    "body": null,
+    "status": 0,
+    "retrieved": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "note": "SOCKS proxy closed connection; curl exit 97"
+  },
+  {
+    "url": "https://publications.aap.org/pediatrics/article/149/3/e2021052138/184748/Evidence-Informed-Milestones-for-Developmental",
+    "body": "methodology-aap-study.html",
+    "status": 403,
+    "retrieved": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "note": ""
+  },
+  {
+    "url": "https://stacks.cdc.gov/view/cdc/114810",
+    "body": "methodology-stacks-study.html",
+    "status": 404,
+    "retrieved": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "note": ""
+  }
+]

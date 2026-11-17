@@ -1,0 +1,12 @@
+COMPLETED: 2064/2064 assessment requests; 2064/2064 complete reports.
+Coverage: 49/49 complete ages; 196/196 complete age-area sweeps.
+HTTP: 200=2064; transport failures=0.
+Proxy: NL; 1 country check(s); wrapper only; sequential; 2.0s sleep.
+Ascending rows: 2033 planned; 1665 numeric area months; 243 below_floor; 125 area not_enough.
+Baselines: per-item area grouping; exact decimal rate sums; nearest-integer rounding with .5 ties to even.
+Glitches: 33 age-area groups with 36 observed decreases; exact K values in AREA-TABLE.md.
+Descending order checks: 24/24 numeric-month pairs match; 24/24 exposed area records match.
+Repeated area/count checks: 5462 comparisons; 0 conflicts.
+Abort streak: 0; HTTP codes=[]; curl codes=[].
+Outputs: area-table.csv, AREA-TABLE.md, raw/api/area-sweep/requests.jsonl, logs/phase6-validation.json.
+Recipe: choose returned age and its served area IDs, count Yes, then look up K; hidden or unmeasured months stay unknown.

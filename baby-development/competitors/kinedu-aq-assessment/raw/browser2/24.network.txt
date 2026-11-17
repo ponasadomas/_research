@@ -1,0 +1,33 @@
+Emulating viewport: {"deviceScaleFactor":1,"isMobile":true,"hasTouch":true,"isLandscape":false,"width":390,"height":844}
+## Request https://www.facebook.com/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment&rl=&if=false&ts=1793702685140&iw=false&sw=390&sh=844&v=2.9.433&r=stable&ec=0&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&cs_est=true&ler=empty&cdl=API_unavailable&plt=296.09999990463257&tz=120&it=1793702684818&coo=false&expv2[0]=mr1&expv2[1]=pl1&expv2[2]=el3&expv2[3]=bc1&expv2[4]=ra0&expv2[5]=rp0&expv2[6]=ct3&expv2[7]=hf1&expv2[8]=sd1&expv2[9]=sp1&expv2[10]=ek1&expv2[11]=pc1&expv2[12]=gs1&expv2[13]=zs1&expv2[14]=cp1&expv2[15]=es1&expv2[16]=ac1&expv2[17]=so1&expv2[18]=wc1&expv2[19]=la1&expv2[20]=sf1&expv2[21]=da1&expv2[22]=io1&expv2[23]=ae1&expv2[24]=sx1&expv2[25]=if1&expv2[26]=fd1&expv2[27]=bg1&expv2[28]=mg1&expv2[29]=kl1&expv2[30]=sg1&expv2[31]=mk1&expv2[32]=sn1&expv2[33]=ec1&expv2[34]=mp1&expv2[35]=ps1&expv2[36]=fx1&expv2[37]=vt1&expv2[38]=dp1&expv2[39]=fw1&expv2[40]=cn1&expv2[41]=tz1&expv2[42]=pe1&expv2[43]=ee1&expv2[44]=bu1&expv2[45]=ta1&expv2[46]=ot1&expv2[47]=hv1&expv2[48]=ep1&expv2[49]=rh0&expv2[50]=ah0&expv2[51]=nv1&expv2[52]=oq0&rqm=GET
+Status: 200
+### Request Headers
+- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+- referer:https://webpromo.kinedu.com/
+- :authority:www.facebook.com
+- :method:GET
+- :path:/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment&rl=&if=false&ts=1793702685140&iw=false&sw=390&sh=844&v=2.9.433&r=stable&ec=0&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&cs_est=true&ler=empty&cdl=API_unavailable&plt=296.09999990463257&tz=120&it=1793702684818&coo=false&expv2[0]=mr1&expv2[1]=pl1&expv2[2]=el3&expv2[3]=bc1&expv2[4]=ra0&expv2[5]=rp0&expv2[6]=ct3&expv2[7]=hf1&expv2[8]=sd1&expv2[9]=sp1&expv2[10]=ek1&expv2[11]=pc1&expv2[12]=gs1&expv2[13]=zs1&expv2[14]=cp1&expv2[15]=es1&expv2[16]=ac1&expv2[17]=so1&expv2[18]=wc1&expv2[19]=la1&expv2[20]=sf1&expv2[21]=da1&expv2[22]=io1&expv2[23]=ae1&expv2[24]=sx1&expv2[25]=if1&expv2[26]=fd1&expv2[27]=bg1&expv2[28]=mg1&expv2[29]=kl1&expv2[30]=sg1&expv2[31]=mk1&expv2[32]=sn1&expv2[33]=ec1&expv2[34]=mp1&expv2[35]=ps1&expv2[36]=fx1&expv2[37]=vt1&expv2[38]=dp1&expv2[39]=fw1&expv2[40]=cn1&expv2[41]=tz1&expv2[42]=pe1&expv2[43]=ee1&expv2[44]=bu1&expv2[45]=ta1&expv2[46]=ot1&expv2[47]=hv1&expv2[48]=ep1&expv2[49]=rh0&expv2[50]=ah0&expv2[51]=nv1&expv2[52]=oq0&rqm=GET
+- :scheme:https
+- accept:image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+- accept-encoding:gzip, deflate, br, zstd
+- accept-language:en-GB,en-US;q=0.9,en;q=0.8
+- cookie:datr=-ptbaj6fxu4hWou6V3jGNsm2; sb=wQ53ao9xysKFy-7EObZvB4X5; fr=0BHSNN5RhjjeBfDHt..Bq6bnw..AAA.0.0.Bq6br0.AWdt5Anbngv9PARg-1_UdDDVFgg
+- priority:u=1, i
+- sec-fetch-dest:image
+- sec-fetch-mode:no-cors
+- sec-fetch-site:cross-site
+- sec-fetch-storage-access:active
+### Response Headers
+- access-control-allow-credentials:true
+- access-control-allow-origin:
+- alt-svc:h3=":443"; ma=86400
+- content-length:0
+- content-type:text/plain
+- cross-origin-resource-policy:cross-origin
+- date:Tue, 03 Nov 2026 10:44:45 GMT
+- server:proxygen-bolt
+- set-cookie:
+- strict-transport-security:max-age=31536000; includeSubDomains
+- x-fb-connection-quality:EXCELLENT; q=0.9, rtt=2, rtx=0, c=10, mss=1380, tbw=4531, tp=-1, tpl=-1, uplat=0, ullat=0
+### Response Body
+<Response body not available anymore>

@@ -1,0 +1,11 @@
+HTTP/2 200 
+cache-control: public, max-age=0, must-revalidate
+content-type: application/json
+date: Tue, 03 Nov 2026 00:14:34 GMT
+server: Vercel
+strict-transport-security: max-age=63072000
+vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch
+x-matched-path: /api/assessment
+x-vercel-cache: MISS
+x-vercel-id: fra1::iad1::mp6gb-1793664874265-c0f5d6d73fa3
+

@@ -1,0 +1,23 @@
+{
+  "result": "passed",
+  "cdc_milestones": 144,
+  "kinedu_questions": 408,
+  "matched": 71,
+  "unmatched_cdc": 73,
+  "duplicate_cdc_matches": 0,
+  "duplicate_kinedu_matches": 0,
+  "rate_bearing_raw_observations_checked": 2173,
+  "questions_with_no_numeric_rates": 35,
+  "rate_conflicts": 0,
+  "extrapolated_values": 0,
+  "unestimated_before_only": 47,
+  "unestimated_after_only": 1,
+  "unestimated_no_rates": 3,
+  "summary_lines": 12,
+  "input_sha256": {
+    "questions.csv": "8e2dcbfe84e1b5f3f10e19bfe03e46d8185f0545ebd2bc2f8e0eba4f9a26719b",
+    "raw/cdc/cdc-milestones.csv": "b69537ee88f441b0510191730951957ce1b5ffec2445575fbc85c7582433f06b",
+    "raw/cdc/matches.json": "e47d96be29cd24c0167f1f6b5fb634ff4c2862179a8d3a6ad26c7109b14b021d",
+    "raw/cdc/unmatched-reasons.json": "a64b0ad1c8b9f7d9acb2f7e7f83acf0f58ec8fc839b8ad52e2cf44181e002aed"
+  }
+}

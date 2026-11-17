@@ -1,0 +1,2455 @@
+"use strict";
+(self.webpackChunk_N_E = self.webpackChunk_N_E || []).push([
+  [562], {
+    5562: function(e, a, o) {
+      o.d(a, {
+        default: function() {
+          return T
+        }
+      });
+      var s = o(7437),
+        r = o(2265),
+        n = o(6125),
+        t = o(5668),
+        i = o(7578);
+      o(8487), o(1121);
+      var l = o(9845);
+      let d = {
+          Physical: "#32AFE0",
+          Cognitive: "#3EB646",
+          Language: "#F99848",
+          "Social-Emotional": "#D1296D"
+        },
+        c = {
+          Physical: {
+            bg: "#F1FAFE",
+            border: "#BFE4F6"
+          },
+          Cognitive: {
+            bg: "#F2FAF2",
+            border: "#C9E9CB"
+          },
+          Language: {
+            bg: "#FFF8EF",
+            border: "#FBDFBC"
+          },
+          "Social-Emotional": {
+            bg: "#FDF1F6",
+            border: "#F3C6D8"
+          }
+        },
+        u = {
+          Physical: "/aq-classic/physical.png",
+          Cognitive: "/aq-classic/cognitive.png",
+          Language: "/aq-classic/language.png",
+          "Social-Emotional": "/aq-classic/social-emotional.png"
+        },
+        m = {
+          brand: "#0086D8",
+          paper: "#FAF9F6",
+          ink: "#23303E",
+          sub: "#5F6B78",
+          faint: "#98A1AC",
+          line: "#ECE8DF",
+          cta: "#F99848",
+          zone: "rgba(138, 210, 143, .45)"
+        },
+        p = n.FB;
+
+      function b(e, a) {
+        var o, s;
+        return "es" === a ? null !== (o = t[String(e.id)]) && void 0 !== o ? o : e.title : "pt" === a && null !== (s = i[String(e.id)]) && void 0 !== s ? s : e.title
+      }
+      let h = {
+          en: {
+            Physical: "Physical",
+            Cognitive: "Cognitive",
+            Language: "Language",
+            "Social-Emotional": "Social-Emotional"
+          },
+          es: {
+            Physical: "F\xedsica",
+            Cognitive: "Cognitiva",
+            Language: "Lenguaje",
+            "Social-Emotional": "Socioemocional"
+          },
+          pt: {
+            Physical: "F\xedsica",
+            Cognitive: "Cognitiva",
+            Language: "Linguagem",
+            "Social-Emotional": "Socioemocional"
+          }
+        },
+        g = function(e, a) {
+          var o;
+          let s = arguments.length > 2 && void 0 !== arguments[2] && arguments[2],
+            r = null !== (o = h[a][e]) && void 0 !== o ? o : e;
+          return s && "Social-Emotional" === e ? "en" === a ? "Social-Emot." : "Socioemoc." : r
+        },
+        _ = {
+          en: {
+            hook_eyebrow: "Be honest",
+            hook2_query: "“is it normal that my baby…”",
+            hook2_g1: "is it normal that my baby doesn’t crawl yet",
+            hook2_g2: "is it normal that my baby doesn’t say words",
+            hook2_h1a: "Have you ever searched",
+            hook2_h1b: "something like this?",
+            hook2_a1: "\uD83D\uDE48 Yes… more than once",
+            hook2_a2: "\uD83D\uDE2E‍\uD83D\uDCA8 Literally today",
+            hook3_h1a: "Have you ever searched",
+            hook3_h1b: "this online?",
+            hook3_yes: "\uD83D\uDE48 Yes… honestly, yes",
+            hook3_no: "\uD83D\uDE42 No, not really",
+            hook_q_rolling: "“should my baby be rolling over by now?”",
+            hook_q_walking: "“should my baby be walking by now?”",
+            hook_q_talking: "“when should my baby start talking?”",
+            hook_q_crawling: "“my baby isn’t crawling yet”",
+            hook_query: "“should my baby be rolling over by now?”",
+            hook_h1a: "How many times have you searched",
+            hook_h1b: "something like this?",
+            hook_sub: "The answer isn’t on Google — it’s in what your baby does today. Answer it and get their real reading, free in 5 minutes.",
+            hook_a1: "\uD83D\uDE48 This week, honestly",
+            hook_a2: "\uD83D\uDE4B I’ve lost count",
+            hook_foot: "Built and psychometrically evaluated by Kinedu with 2,135 caregivers.",
+            hook_why_title_a: "In 5 minutes you’ll see this —",
+            hook_why_title_b: "but for YOUR baby.",
+            hook_why_cta2: "Show me my baby’s →",
+            hook_why_cta: "Start — it’s free →",
+            hook_ad_title: "{area} — mapped ✓",
+            hook_ad_sub: "{n} of 4 areas in.",
+            hook_ad_forming: "{name}’s reading is already taking shape.",
+            hook_ad_cta: "Next: {area} →",
+            hook_note_notyet: "At {age} months, {n} out of 10 babies don’t do this yet either.",
+            hook_note_ahead: "That one’s ahead — less than half at {age} months do it.",
+            hero_h1: "See what your baby is building right now",
+            hero_sub: "Answer about what they do today and see which skills are opening up — compared to what’s typical at their exact age.",
+            hero_cta: "Start FREE assessment →",
+            trust_time: "⏱ 5–10 minutes",
+            trust_card: "\uD83D\uDD12 No credit card",
+            trust_report: "\uD83D\uDCC4 Instant results",
+            preview_eyebrow: "You’ll get a reading like this",
+            preview_line: "“At 6 months, showing the skills of a typical",
+            preview_line2: ".”",
+            preview_months: "months",
+            at_least20: "around 8",
+            around16: "around 7",
+            around12: "around 6",
+            around18: "around 7",
+            band_zone: "The green zone is what we usually see at this age.",
+            sample_note: "Example — not a real child’s result.",
+            honest: "\uD83C\uDF31 **About half the answers will be “Not yet” — and that’s fine.** We ask right at the edge of what your baby is building: that’s what real measurement looks like.",
+            science: "Created and psychometrically evaluated by Kinedu with 2,135 caregivers. Michael C. Frank, of Stanford, advised on the early review of the 0–24 month milestones.",
+            disclaimer: "Development surveillance, not diagnosis.",
+            primer_title: "Before we start",
+            primer_sub: "30 seconds that make the measurement better",
+            primer_q_title: "Questions picked for their exact age",
+            primer_q_body: "A 5-month-old and a 7-month-old don’t see the same list.",
+            primer_two: "There are only two answers",
+            primer_half_title: "About half will be “Not yet” — and that’s fine",
+            primer_cta: "Start the questions →",
+            child_title: "Every baby gets their own questions.",
+            hook_child_sub: "Tell us their birthdate and we’ll build their set — chosen for their exact age, not a generic list.",
+            name_label: "Name",
+            optional: "(optional)",
+            name_ph: "E.g., Emma",
+            dob_label: "Date of birth",
+            preterm_q: "Born before 37 weeks?",
+            weeks_label: "Weeks of gestation",
+            aap_note: "We’ll use their corrected age, as the American Academy of Pediatrics recommends, until age 2 — and we’ll say so.",
+            check_date: "Please check the birthdate.",
+            conn_error: "Connection hiccup — try again.",
+            preparing: "Preparing…",
+            see_questions: "See {name}’s questions →",
+            over48_title: "What a big kid",
+            over48_body: "This assessment is built and validated for ages 0 to 48 months, so we can’t give {name} a fair reading here. Kinedu still has activity plans and expert content for the whole family.",
+            over48_cta: "Explore Kinedu →",
+            assessment_for: "Assessment for {name}",
+            assessment_plain: "Assessment",
+            area_of: "Area {i} of {n}",
+            going_further: "Going further",
+            ext_note: "{name} passed everything we asked. These run a bit ahead of their age, to see just how far along they are.",
+            back: "‹ Back",
+            next_prefix: "Next:",
+            see_reading: "See {name}’s reading →",
+            your_baby: "your baby",
+            your_baby_cap: "Your baby",
+            email_eyebrow: "Their full reading, to your inbox",
+            email_title: "Where should we save {name}’s reading?",
+            email_sub: "We’ll keep it linked to your email so you can come back — and re-measure later, which is where the real story shows.",
+            email_ph: "you@email.com",
+            email_btn: "Save it",
+            ready: "{name}’s reading is ready!",
+            ready_generic: "The reading is ready!",
+            is_showing: "is {age} months old, showing the skills of",
+            at_least_conn: "at least",
+            a_typical: "a typical",
+            month_old: "-month-old",
+            zone_at: "The green zone is what we usually see at {age} months. The dot is their reading.",
+            born_at: "Born at {weeks} weeks, so this reading uses their corrected age (AAP).",
+            born_at_flow: "Born at {weeks} weeks, so we use their corrected age (AAP).",
+            see_breakdown: "See the area breakdown ▾",
+            one_process: "In the first year, areas mostly move as one process.",
+            more_needed: "more answers needed",
+            few_more: "a few more and we’ll tell you",
+            around_lbl: "around",
+            at_least_lbl: "at least",
+            months_lbl: "months",
+            passed_all: "passed everything we asked",
+            strongest_today: "their strongest area today",
+            activities_eyebrow: "Activities to focus on now",
+            get_activities: "Get daily activities for {name} →",
+            continue_answering: "Continue answering",
+            sticky_cta: "Start {name}’s plan — 7 days free",
+            sticky_your: "your baby",
+            sticky_note: "No commitment \xb7 the plan turns this into daily activities",
+            month: "Month",
+            day: "Day",
+            year: "Year",
+            done_title: "All done!",
+            done_sub: "We compared what you told us about {name} against what’s typical at their exact age. Their reading is ready.",
+            done_answers: "{n} answers",
+            done_areas: "4 areas",
+            email_b1: "Come back to their reading anytime",
+            email_b2: "We’ll tell you when it’s time to re-measure",
+            email_micro: "No spam — just their development.",
+            opening_eyebrow: "What’s opening up for {name} right now",
+            opening_more: "+{n} more in the full profile",
+            locked_hint: "Tap to unlock",
+            unlock_cta: "Unlock {name}’s full profile + daily activities →",
+            unlock_note: "7 days free \xb7 no commitment",
+            retro_note: "Their answers are already saved — it opens instantly.",
+            picked_for: "Chosen for {name} at {age} months",
+            reading_done: "This reading is already complete — unlocking adds depth by area, it doesn’t change the number.",
+            gift_eyebrow: "A free activity for today",
+            gift_line: "Chosen at {name}’s level in {area}",
+            gift_locked: "The daily plan of 3 + the Top 10 are waiting in the app",
+            email_b3: "The Kinedu parents’ guide (PDF), as a gift",
+            every_pace: "Every child develops at their own pace. This helps you understand their unique journey — not compare them to others."
+          },
+          es: {
+            hook_eyebrow: "S\xe9 honesta",
+            hook2_query: "“\xbfes normal que mi beb\xe9…?”",
+            hook2_g1: "es normal que mi beb\xe9 no gatee todav\xeda",
+            hook2_g2: "es normal que mi beb\xe9 no diga palabras",
+            hook2_h1a: "\xbfAlguna vez has buscado",
+            hook2_h1b: "algo as\xed?",
+            hook2_a1: "\uD83D\uDE48 S\xed… m\xe1s de una vez",
+            hook2_a2: "\uD83D\uDE2E‍\uD83D\uDCA8 Literal hoy",
+            hook3_h1a: "\xbfAlguna vez has buscado",
+            hook3_h1b: "esto en internet?",
+            hook3_yes: "\uD83D\uDE48 S\xed… la verdad, s\xed",
+            hook3_no: "\uD83D\uDE42 No, la verdad no",
+            hook_q_rolling: "“\xbfmi beb\xe9 ya se deber\xeda girar?”",
+            hook_q_walking: "“\xbfmi beb\xe9 ya deber\xeda estar caminando?”",
+            hook_q_talking: "“\xbfcu\xe1ndo empiezan a hablar los beb\xe9s?”",
+            hook_q_crawling: "“mi beb\xe9 no gatea todav\xeda”",
+            hook_query: "“\xbfmi beb\xe9 ya se deber\xeda girar?”",
+            hook_h1a: "\xbfCu\xe1ntas veces has buscado",
+            hook_h1b: "algo as\xed?",
+            hook_sub: "La respuesta no est\xe1 en Google — est\xe1 en lo que tu beb\xe9 hace hoy. Resp\xf3ndelo y recibe su lectura real, gratis en 5 minutos.",
+            hook_a1: "\uD83D\uDE48 Esta semana, la verdad",
+            hook_a2: "\uD83D\uDE4B Ya perd\xed la cuenta",
+            hook_foot: "Creado y evaluado psicom\xe9tricamente por Kinedu con 2,135 cuidadores.",
+            hook_why_title_a: "En 5 minutos vas a ver esto —",
+            hook_why_title_b: "pero de TU beb\xe9.",
+            hook_why_cta2: "Quiero ver la de mi beb\xe9 →",
+            hook_why_cta: "Empezar — es gratis →",
+            hook_ad_title: "{area} — mapeada ✓",
+            hook_ad_sub: "{n} de 4 \xe1reas listas.",
+            hook_ad_forming: "La lectura de {name} ya est\xe1 tomando forma.",
+            hook_ad_cta: "Sigue: {area} →",
+            hook_note_notyet: "A los {age} meses, {n} de cada 10 beb\xe9s tampoco lo hacen todav\xeda.",
+            hook_note_ahead: "Eso va adelante — menos de la mitad a los {age} meses ya lo hace.",
+            hero_h1: "Mira lo que tu beb\xe9 est\xe1 construyendo ahora",
+            hero_sub: "Responde sobre lo que hace hoy y descubre las habilidades que se est\xe1n abriendo — comparado con lo t\xedpico a su edad exacta.",
+            hero_cta: "Empezar evaluaci\xf3n GRATIS →",
+            trust_time: "⏱ 5–10 minutos",
+            trust_card: "\uD83D\uDD12 Sin tarjeta",
+            trust_report: "\uD83D\uDCC4 Resultados al instante",
+            preview_eyebrow: "Recibir\xe1s una lectura como esta",
+            preview_line: "“Tiene 6 meses y muestra las habilidades de una ni\xf1a t\xedpica de",
+            preview_line2: ".”",
+            preview_months: "meses",
+            at_least20: "alrededor de 8",
+            around16: "alrededor de 7",
+            around12: "alrededor de 6",
+            around18: "alrededor de 7",
+            band_zone: "La zona verde es lo usual a su edad.",
+            sample_note: "Ejemplo — no es el resultado de un ni\xf1o real.",
+            honest: "\uD83C\uDF31 **La mitad de las respuestas ser\xe1n “A\xfan no” — y est\xe1 bien.** Preguntamos justo al borde de lo que tu beb\xe9 est\xe1 construyendo: as\xed es como se mide de verdad.",
+            science: "Creado y evaluado psicom\xe9tricamente por Kinedu con 2,135 cuidadores hispanohablantes. Michael C. Frank, de Stanford, asesor\xf3 en la revisi\xf3n temprana de los hitos de 0 a 24 meses.",
+            disclaimer: "Seguimiento del desarrollo, no diagn\xf3stico.",
+            primer_title: "Antes de empezar",
+            primer_sub: "30 segundos que hacen mejor la medici\xf3n",
+            primer_q_title: "Preguntas elegidas para su edad exacta",
+            primer_q_body: "Un beb\xe9 de 5 meses y uno de 7 no ven la misma lista.",
+            primer_two: "Solo hay dos respuestas",
+            primer_half_title: "La mitad ser\xe1n “A\xfan no” — y est\xe1 bien",
+            primer_cta: "Empezar las preguntas →",
+            child_title: "Cada beb\xe9 tiene sus propias preguntas.",
+            hook_child_sub: "Dinos cu\xe1ndo naci\xf3 y armamos las suyas — elegidas para su edad exacta, no una lista gen\xe9rica.",
+            name_label: "Nombre",
+            optional: "(opcional)",
+            name_ph: "Ej., Emma",
+            dob_label: "Fecha de nacimiento",
+            preterm_q: "\xbfNaci\xf3 antes de las 37 semanas?",
+            weeks_label: "Semanas de gestaci\xf3n",
+            aap_note: "Usaremos su edad corregida, como recomienda la Academia Americana de Pediatr\xeda, hasta los 2 a\xf1os — y te lo diremos.",
+            check_date: "Revisa la fecha de nacimiento.",
+            conn_error: "Fall\xf3 la conexi\xf3n — intenta de nuevo.",
+            preparing: "Preparando…",
+            see_questions: "Ver las preguntas de {name} →",
+            over48_title: "Qu\xe9 grande est\xe1",
+            over48_body: "Esta evaluaci\xf3n est\xe1 construida y validada para 0 a 48 meses, as\xed que no podemos darle a {name} una lectura justa aqu\xed. Kinedu tiene planes de actividades y contenido de expertos para toda la familia.",
+            over48_cta: "Conocer Kinedu →",
+            assessment_for: "Evaluaci\xf3n de {name}",
+            assessment_plain: "Evaluaci\xf3n",
+            area_of: "\xc1rea {i} de {n}",
+            going_further: "Yendo m\xe1s lejos",
+            ext_note: "{name} pas\xf3 todo lo que preguntamos. Estas van un poco adelante de su edad, para ver qu\xe9 tan lejos llega.",
+            back: "‹ Atr\xe1s",
+            next_prefix: "Siguiente:",
+            see_reading: "Ver la lectura de {name} →",
+            your_baby: "tu beb\xe9",
+            your_baby_cap: "Tu beb\xe9",
+            email_eyebrow: "Su lectura completa, a tu correo",
+            email_title: "\xbfD\xf3nde guardamos la lectura de {name}?",
+            email_sub: "La dejamos ligada a tu correo para que puedas volver — y medir de nuevo despu\xe9s, que es donde se ve la historia real.",
+            email_ph: "tu@correo.com",
+            email_btn: "Guardar",
+            ready: "\xa1La lectura de {name} est\xe1 lista!",
+            ready_generic: "\xa1La lectura est\xe1 lista!",
+            is_showing: "tiene {age} meses y muestra las habilidades de",
+            at_least_conn: "al menos",
+            a_typical: "un ni\xf1o t\xedpico de",
+            month_old: " meses",
+            zone_at: "La zona verde es lo que solemos ver a los {age} meses. El punto es su lectura.",
+            born_at: "Como naci\xf3 a las {weeks} semanas, esta lectura usa su edad corregida (AAP).",
+            born_at_flow: "Como naci\xf3 a las {weeks} semanas, usamos su edad corregida (AAP).",
+            see_breakdown: "Ver el desglose por \xe1rea ▾",
+            one_process: "En el primer a\xf1o, las \xe1reas se mueven casi como un solo proceso.",
+            more_needed: "faltan respuestas",
+            few_more: "unas preguntas m\xe1s y te decimos",
+            around_lbl: "alrededor de",
+            at_least_lbl: "al menos",
+            months_lbl: "meses",
+            passed_all: "pas\xf3 todo lo que preguntamos",
+            strongest_today: "su \xe1rea m\xe1s fuerte hoy",
+            activities_eyebrow: "Actividades para enfocarse ahora",
+            get_activities: "Actividades diarias para {name} →",
+            continue_answering: "Seguir contestando",
+            sticky_cta: "Empieza el plan de {name} — 7 d\xedas gratis",
+            sticky_your: "tu beb\xe9",
+            sticky_note: "Sin compromiso \xb7 el plan convierte esto en actividades diarias",
+            month: "Mes",
+            day: "D\xeda",
+            year: "A\xf1o",
+            done_title: "\xa1Terminaste!",
+            done_sub: "Comparamos lo que nos contaste de {name} contra lo t\xedpico de su edad exacta. Su lectura est\xe1 lista.",
+            done_answers: "{n} respuestas",
+            done_areas: "4 \xe1reas",
+            email_b1: "Vuelve a su lectura cuando quieras",
+            email_b2: "Te avisamos cuando toque medir de nuevo",
+            email_micro: "Sin spam — solo su desarrollo.",
+            opening_eyebrow: "Lo que se est\xe1 abriendo para {name} ahora",
+            opening_more: "+{n} m\xe1s en el perfil completo",
+            locked_hint: "Toca para desbloquear",
+            unlock_cta: "Desbloquear el perfil completo de {name} + actividades diarias →",
+            unlock_note: "7 d\xedas gratis \xb7 sin compromiso",
+            retro_note: "Sus respuestas ya est\xe1n guardadas — se abre al instante.",
+            picked_for: "Elegidas para los {age} meses de {name}",
+            reading_done: "Su lectura ya est\xe1 completa — desbloquear agrega el detalle por \xe1rea, no cambia el n\xfamero.",
+            gift_eyebrow: "Una actividad de regalo para hoy",
+            gift_line: "Elegida al nivel de {name} en {area}",
+            gift_locked: "El plan diario de 3 + el Top 10 te esperan en el app",
+            email_b3: "La gu\xeda para padres de Kinedu (PDF), de regalo",
+            every_pace: "Cada ni\xf1o se desarrolla a su propio ritmo. Esto te ayuda a entender su camino \xfanico — no a compararlo con otros."
+          },
+          pt: {
+            hook_eyebrow: "Seja honesta",
+            hook2_query: "“\xe9 normal que meu beb\xea…?”",
+            hook2_g1: "\xe9 normal que meu beb\xea ainda n\xe3o engatinhe",
+            hook2_g2: "\xe9 normal que meu beb\xea n\xe3o fale palavras",
+            hook2_h1a: "Voc\xea j\xe1 pesquisou",
+            hook2_h1b: "algo assim?",
+            hook2_a1: "\uD83D\uDE48 Sim… mais de uma vez",
+            hook2_a2: "\uD83D\uDE2E‍\uD83D\uDCA8 Literalmente hoje",
+            hook3_h1a: "Voc\xea j\xe1 pesquisou",
+            hook3_h1b: "isso na internet?",
+            hook3_yes: "\uD83D\uDE48 Sim… sinceramente, sim",
+            hook3_no: "\uD83D\uDE42 N\xe3o, na verdade n\xe3o",
+            hook_q_rolling: "“meu beb\xea j\xe1 deveria estar rolando?”",
+            hook_q_walking: "“meu beb\xea j\xe1 deveria estar andando?”",
+            hook_q_talking: "“quando os beb\xeas come\xe7am a falar?”",
+            hook_q_crawling: "“meu beb\xea ainda n\xe3o engatinha”",
+            hook_query: "“meu beb\xea j\xe1 deveria estar rolando?”",
+            hook_h1a: "Quantas vezes voc\xea j\xe1 pesquisou",
+            hook_h1b: "algo assim?",
+            hook_sub: "A resposta n\xe3o est\xe1 no Google — est\xe1 no que o seu beb\xea faz hoje. Responda e receba a leitura real, gr\xe1tis em 5 minutos.",
+            hook_a1: "\uD83D\uDE48 Esta semana, sinceramente",
+            hook_a2: "\uD83D\uDE4B J\xe1 perdi a conta",
+            hook_foot: "Criado e avaliado psicometricamente pela Kinedu com 2.135 cuidadores.",
+            hook_why_title_a: "Em 5 minutos voc\xea vai ver isto —",
+            hook_why_title_b: "mas do SEU beb\xea.",
+            hook_why_cta2: "Quero ver a do meu beb\xea →",
+            hook_why_cta: "Come\xe7ar — \xe9 gr\xe1tis →",
+            hook_ad_title: "{area} — mapeada ✓",
+            hook_ad_sub: "{n} de 4 \xe1reas prontas.",
+            hook_ad_forming: "A leitura de {name} j\xe1 est\xe1 tomando forma.",
+            hook_ad_cta: "Pr\xf3xima: {area} →",
+            hook_note_notyet: "Aos {age} meses, {n} de cada 10 beb\xeas tamb\xe9m ainda n\xe3o fazem isso.",
+            hook_note_ahead: "Isso est\xe1 \xe0 frente — menos da metade aos {age} meses j\xe1 faz.",
+            hero_h1: "Veja o que seu beb\xea est\xe1 construindo agora",
+            hero_sub: "Responda sobre o que ele faz hoje e descubra as habilidades que est\xe3o se abrindo — comparado com o t\xedpico na idade exata dele.",
+            hero_cta: "Come\xe7ar avalia\xe7\xe3o GR\xc1TIS →",
+            trust_time: "⏱ 5–10 minutos",
+            trust_card: "\uD83D\uDD12 Sem cart\xe3o",
+            trust_report: "\uD83D\uDCC4 Resultados na hora",
+            preview_eyebrow: "Voc\xea receber\xe1 uma leitura como esta",
+            preview_line: "“Tem 6 meses e mostra as habilidades de uma crian\xe7a t\xedpica de",
+            preview_line2: ".”",
+            preview_months: "meses",
+            at_least20: "cerca de 8",
+            around16: "cerca de 7",
+            around12: "cerca de 6",
+            around18: "cerca de 7",
+            band_zone: "A zona verde \xe9 o usual nessa idade.",
+            sample_note: "Exemplo — n\xe3o \xe9 o resultado de uma crian\xe7a real.",
+            honest: "\uD83C\uDF31 **Metade das respostas ser\xe1 “Ainda n\xe3o” — e est\xe1 tudo bem.** Perguntamos bem na fronteira do que seu beb\xea est\xe1 construindo: \xe9 assim que se mede de verdade.",
+            science: "Criado e avaliado psicometricamente pela Kinedu com 2.135 cuidadores hispanofalantes. Michael C. Frank, de Stanford, assessorou a revis\xe3o inicial dos marcos de 0 a 24 meses.",
+            disclaimer: "Acompanhamento do desenvolvimento, n\xe3o diagn\xf3stico.",
+            primer_title: "Antes de come\xe7ar",
+            primer_sub: "30 segundos que melhoram a medi\xe7\xe3o",
+            primer_q_title: "Perguntas escolhidas para a idade exata",
+            primer_q_body: "Um beb\xea de 5 meses e um de 7 n\xe3o veem a mesma lista.",
+            primer_two: "S\xf3 existem duas respostas",
+            primer_half_title: "Metade ser\xe1 “Ainda n\xe3o” — e est\xe1 tudo bem",
+            primer_cta: "Come\xe7ar as perguntas →",
+            child_title: "Cada beb\xea tem suas pr\xf3prias perguntas.",
+            hook_child_sub: "Conte quando nasceu e montamos as dele — escolhidas para a idade exata, n\xe3o uma lista gen\xe9rica.",
+            name_label: "Nome",
+            optional: "(opcional)",
+            name_ph: "Ex., Emma",
+            dob_label: "Data de nascimento",
+            preterm_q: "Nasceu antes das 37 semanas?",
+            weeks_label: "Semanas de gesta\xe7\xe3o",
+            aap_note: "Usaremos a idade corrigida, como recomenda a Academia Americana de Pediatria, at\xe9 os 2 anos — e avisaremos.",
+            check_date: "Confira a data de nascimento.",
+            conn_error: "A conex\xe3o falhou — tente de novo.",
+            preparing: "Preparando…",
+            see_questions: "Ver as perguntas de {name} →",
+            over48_title: "Como est\xe1 grande",
+            over48_body: "Esta avalia\xe7\xe3o \xe9 constru\xedda e validada para 0 a 48 meses, ent\xe3o n\xe3o podemos dar a {name} uma leitura justa aqui. A Kinedu tem planos de atividades e conte\xfado de especialistas para toda a fam\xedlia.",
+            over48_cta: "Conhecer a Kinedu →",
+            assessment_for: "Avalia\xe7\xe3o de {name}",
+            assessment_plain: "Avalia\xe7\xe3o",
+            area_of: "\xc1rea {i} de {n}",
+            going_further: "Indo mais longe",
+            ext_note: "{name} passou em tudo o que perguntamos. Estas v\xe3o um pouco al\xe9m da idade, para ver at\xe9 onde chega.",
+            back: "‹ Voltar",
+            next_prefix: "Pr\xf3xima:",
+            see_reading: "Ver a leitura de {name} →",
+            your_baby: "seu beb\xea",
+            your_baby_cap: "Seu beb\xea",
+            email_eyebrow: "A leitura completa, no seu e-mail",
+            email_title: "Onde guardamos a leitura de {name}?",
+            email_sub: "Deixamos ligada ao seu e-mail para voc\xea voltar — e medir de novo depois, que \xe9 onde a hist\xf3ria real aparece.",
+            email_ph: "voce@email.com",
+            email_btn: "Salvar",
+            ready: "A leitura de {name} est\xe1 pronta!",
+            ready_generic: "A leitura est\xe1 pronta!",
+            is_showing: "tem {age} meses e mostra as habilidades de",
+            at_least_conn: "pelo menos",
+            a_typical: "uma crian\xe7a t\xedpica de",
+            month_old: " meses",
+            zone_at: "A zona verde \xe9 o que costumamos ver aos {age} meses. O ponto \xe9 a leitura.",
+            born_at: "Como nasceu com {weeks} semanas, esta leitura usa a idade corrigida (AAP).",
+            born_at_flow: "Como nasceu com {weeks} semanas, usamos a idade corrigida (AAP).",
+            see_breakdown: "Ver o detalhe por \xe1rea ▾",
+            one_process: "No primeiro ano, as \xe1reas se movem quase como um \xfanico processo.",
+            more_needed: "faltam respostas",
+            few_more: "mais algumas e te contamos",
+            around_lbl: "cerca de",
+            at_least_lbl: "pelo menos",
+            months_lbl: "meses",
+            passed_all: "passou em tudo o que perguntamos",
+            strongest_today: "a \xe1rea mais forte hoje",
+            activities_eyebrow: "Atividades para focar agora",
+            get_activities: "Atividades di\xe1rias para {name} →",
+            continue_answering: "Continuar respondendo",
+            sticky_cta: "Comece o plano de {name} — 7 dias gr\xe1tis",
+            sticky_your: "seu beb\xea",
+            sticky_note: "Sem compromisso \xb7 o plano transforma isto em atividades di\xe1rias",
+            month: "M\xeas",
+            day: "Dia",
+            year: "Ano",
+            done_title: "Pronto!",
+            done_sub: "Comparamos o que voc\xea nos contou sobre {name} com o t\xedpico na idade exata. A leitura est\xe1 pronta.",
+            done_answers: "{n} respostas",
+            done_areas: "4 \xe1reas",
+            email_b1: "Volte \xe0 leitura quando quiser",
+            email_b2: "Avisamos quando for hora de medir de novo",
+            email_micro: "Sem spam — s\xf3 o desenvolvimento.",
+            opening_eyebrow: "O que est\xe1 se abrindo para {name} agora",
+            opening_more: "+{n} mais no perfil completo",
+            locked_hint: "Toque para desbloquear",
+            unlock_cta: "Desbloquear o perfil completo de {name} + atividades di\xe1rias →",
+            unlock_note: "7 dias gr\xe1tis \xb7 sem compromisso",
+            retro_note: "As respostas j\xe1 est\xe3o guardadas — abre na hora.",
+            picked_for: "Escolhidas para os {age} meses de {name}",
+            reading_done: "A leitura j\xe1 est\xe1 completa — desbloquear adiciona o detalhe por \xe1rea, n\xe3o muda o n\xfamero.",
+            gift_eyebrow: "Uma atividade de presente para hoje",
+            gift_line: "Escolhida no n\xedvel de {name} em {area}",
+            gift_locked: "O plano di\xe1rio de 3 + o Top 10 esperam por voc\xea no app",
+            email_b3: "O guia para pais da Kinedu (PDF), de presente",
+            every_pace: "Cada crian\xe7a se desenvolve no seu pr\xf3prio ritmo. Isto ajuda voc\xea a entender o caminho \xfanico dela — n\xe3o a compar\xe1-la com outras."
+          }
+        },
+        x = {
+          en: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+          es: ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"],
+          pt: ["Janeiro", "Fevereiro", "Mar\xe7o", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"]
+        },
+        f = (e, a, o) => {
+          var s, r;
+          let n = null !== (r = null !== (s = _[e][a]) && void 0 !== s ? s : _.en[a]) && void 0 !== r ? r : "";
+          return o ? y(n, o) : n
+        };
+
+      function v(e, a) {
+        var o, s, r;
+        let n = null !== (r = null === (o = p[e]) || void 0 === o ? void 0 : o[a]) && void 0 !== r ? r : null === (s = p.en) || void 0 === s ? void 0 : s[a];
+        return "string" == typeof n ? n : ""
+      }
+
+      function y(e, a) {
+        return e.replace(/\{(\w+)\}/g, (e, o) => {
+          var s;
+          return String(null !== (s = a[o]) && void 0 !== s ? s : "")
+        })
+      }
+
+      function j(e, a) {
+        var o;
+        let s = p[e]._bands,
+          r = {
+            building: "ratio_low",
+            on_pace: "ratio_mid",
+            little_ahead: "ratio_high",
+            well_ahead: "ratio_top"
+          } [a];
+        return null !== (o = null == s ? void 0 : s[null != r ? r : ""]) && void 0 !== o ? o : ""
+      }
+      let k = e => Math.max(2, Math.min(98, (e - .7) / .6 * 100));
+
+      function q(e) {
+        e("quiz_answer", "paywall_handoff"), (0, l.iA)("InitiateCheckout", {
+          content_category: "acquisition",
+          content_name: "assessment-hook"
+        }), location.href = function() {
+          let e;
+          try {
+            e = new URLSearchParams(location.search)
+          } catch (a) {
+            e = new URLSearchParams
+          }
+          let a = (e.get("paywall") || "").trim();
+          /^[a-z0-9][a-z0-9-]{0,31}$/.test(a) || (a = "trial3"), e.set("from", "assessment");
+          let o = e.toString();
+          return "/aq-paywall-".concat(a, "/index.html").concat(o ? "?".concat(o) : "")
+        }()
+      }
+
+      function w(e) {
+        let {
+          children: a
+        } = e;
+        return (0, s.jsxs)("div", {
+          className: "min-h-screen",
+          style: {
+            background: m.paper,
+            color: m.ink,
+            fontFamily: "'Plus Jakarta Sans', -apple-system, sans-serif"
+          },
+          children: [(0, s.jsx)("style", {
+            children: "html, body { background: ".concat(m.paper, " !important; }")
+          }), (0, s.jsx)("link", {
+            href: "https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap",
+            rel: "stylesheet"
+          }), (0, s.jsx)("div", {
+            className: "mx-auto flex min-h-screen w-full max-w-md flex-col px-4 pb-10 pt-5",
+            children: a
+          })]
+        })
+      }
+
+      function S() {
+        return (0, s.jsx)("img", {
+          src: "/aq-classic/kinedu.png",
+          alt: "Kinedu",
+          className: "mx-auto mb-3 h-7 w-auto"
+        })
+      }
+
+      function N(e) {
+        let {
+          lang: a
+        } = e;
+        return (0, s.jsx)("p", {
+          className: "mt-4 pb-2 text-center text-[11px]",
+          style: {
+            color: m.faint
+          },
+          children: f(a, "disclaimer")
+        })
+      }
+
+      function C(e) {
+        let {
+          onClick: a,
+          children: o,
+          disabled: r,
+          color: n = m.cta
+        } = e;
+        return (0, s.jsx)("button", {
+          onClick: a,
+          disabled: r,
+          className: "mt-5 w-full rounded-full px-6 py-4 text-[16px] font-extrabold text-white transition-transform active:scale-[0.98] disabled:opacity-40",
+          style: {
+            background: n,
+            boxShadow: "0 6px 18px ".concat(n, "4D")
+          },
+          children: o
+        })
+      }
+
+      function D(e) {
+        let {
+          children: a,
+          style: o
+        } = e;
+        return (0, s.jsx)("div", {
+          className: "mb-3 rounded-2xl border bg-white p-4",
+          style: {
+            borderColor: m.line,
+            boxShadow: "0 1px 3px rgba(30,42,56,.05)",
+            ...o
+          },
+          children: a
+        })
+      }
+
+      function E(e) {
+        let {
+          children: a
+        } = e;
+        return (0, s.jsx)("p", {
+          className: "mb-1.5 text-[10px] font-bold uppercase tracking-[0.11em]",
+          style: {
+            color: m.faint
+          },
+          children: a
+        })
+      }
+
+      function A(e) {
+        let {
+          ratio: a,
+          mini: o,
+          color: r = m.brand
+        } = e;
+        return (0, s.jsxs)("div", {
+          className: "relative w-full rounded-full ".concat(o ? "mt-2 h-2" : "h-2.5"),
+          style: {
+            background: o ? "#EFECE5" : "#ECE8DF"
+          },
+          children: [(0, s.jsx)("span", {
+            className: "absolute inset-y-0 rounded-full",
+            style: {
+              left: "38%",
+              width: "24%",
+              background: m.zone
+            }
+          }), (0, s.jsx)("span", {
+            className: "absolute top-1/2 -translate-x-1/2 -translate-y-1/2 rounded-full border-white shadow ".concat(o ? "h-3.5 w-3.5 border-[2.5px]" : "h-[18px] w-[18px] border-[3px]"),
+            style: {
+              left: "".concat(k(a), "%"),
+              background: r,
+              borderStyle: "solid"
+            }
+          })]
+        })
+      }
+      let z = {
+        en: ["S", "M", "T", "W", "T", "F", "S"],
+        es: ["D", "L", "M", "M", "J", "V", "S"],
+        pt: ["D", "S", "T", "Q", "Q", "S", "S"]
+      };
+
+      function F(e) {
+        let {
+          lang: a,
+          y: o,
+          m: n,
+          d: t,
+          onPick: i
+        } = e, l = new Date, [d, c] = (0, r.useState)("" !== o ? Number(o) : l.getFullYear()), [u, p] = (0, r.useState)("" !== n ? Number(n) : l.getMonth()), b = new Date(d, u, 1).getDay(), h = new Date(d, u + 1, 0).getDate(), g = Array.from({
+          length: 6
+        }, (e, a) => l.getFullYear() - a), _ = e => new Date(d, u, e) > l, v = e => "" !== o && Number(o) === d && Number(n) === u && Number(t) === e, y = d === l.getFullYear() && u >= l.getMonth();
+        return (0, s.jsxs)("div", {
+          className: "mt-1 rounded-2xl border-2 bg-white p-3",
+          style: {
+            borderColor: "#D8E4F0"
+          },
+          children: [(0, s.jsxs)("div", {
+            className: "flex items-center gap-1.5",
+            children: [(0, s.jsx)("button", {
+              type: "button",
+              onClick: () => {
+                0 === u ? (p(11), c(d - 1)) : p(u - 1)
+              },
+              "aria-label": "prev",
+              className: "flex h-8 w-8 items-center justify-center rounded-full text-[15px] font-bold",
+              style: {
+                color: m.brand,
+                background: "#EAF3FC"
+              },
+              children: "‹"
+            }), (0, s.jsx)("select", {
+              value: u,
+              onChange: e => p(Number(e.target.value)),
+              className: "min-w-0 flex-1 appearance-none rounded-lg bg-transparent px-2 py-1.5 text-center text-[14.5px] font-extrabold",
+              style: {
+                color: m.ink
+              },
+              "aria-label": f(a, "month"),
+              children: x[a].map((e, a) => (0, s.jsx)("option", {
+                value: a,
+                children: e
+              }, e))
+            }), (0, s.jsx)("select", {
+              value: d,
+              onChange: e => c(Number(e.target.value)),
+              className: "appearance-none rounded-lg bg-transparent px-2 py-1.5 text-center text-[14.5px] font-extrabold",
+              style: {
+                color: m.ink
+              },
+              "aria-label": f(a, "year"),
+              children: g.map(e => (0, s.jsx)("option", {
+                value: e,
+                children: e
+              }, e))
+            }), (0, s.jsx)("button", {
+              type: "button",
+              onClick: () => {
+                11 === u ? (p(0), c(d + 1)) : p(u + 1)
+              },
+              disabled: y,
+              "aria-label": "next",
+              className: "flex h-8 w-8 items-center justify-center rounded-full text-[15px] font-bold disabled:opacity-30",
+              style: {
+                color: m.brand,
+                background: "#EAF3FC"
+              },
+              children: "›"
+            })]
+          }), (0, s.jsxs)("div", {
+            className: "mt-2 grid grid-cols-7 text-center",
+            children: [z[a].map((e, a) => (0, s.jsx)("span", {
+              className: "py-1 text-[10.5px] font-bold",
+              style: {
+                color: m.faint
+              },
+              children: e
+            }, a)), Array.from({
+              length: b
+            }).map((e, a) => (0, s.jsx)("span", {}, "p".concat(a))), Array.from({
+              length: h
+            }, (e, a) => a + 1).map(e => (0, s.jsx)("button", {
+              type: "button",
+              disabled: _(e),
+              onClick: () => i(d, u, e),
+              className: "mx-auto flex h-9 w-9 items-center justify-center rounded-full text-[13.5px] font-semibold transition-colors disabled:opacity-25",
+              style: v(e) ? {
+                background: m.brand,
+                color: "#fff",
+                fontWeight: 800
+              } : {
+                color: m.ink
+              },
+              children: e
+            }, e))]
+          })]
+        })
+      }
+      let P = {
+        en: "Measure it in 5 min →",
+        es: "M\xeddelo en 5 min →",
+        pt: "Me\xe7a em 5 min →"
+      };
+
+      function T() {
+        var e, a, o, n, t, i, h, _, x, k, z, T, M, R, I, L;
+        let {
+          initial: B
+        } = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : {}, [U, O] = (0, r.useState)(null), [V] = (0, r.useState)(() => {
+          if (B) return B.hookQKey;
+          try {
+            let e = new URLSearchParams(location.search).get("q") || "";
+            return ["walking", "talking", "crawling", "rolling"].includes(e) ? "hook_q_" + e : "hook_query"
+          } catch (e) {
+            return "hook_query"
+          }
+        }), [J] = (0, r.useState)(() => {
+          if (B) return B.heroVar;
+          try {
+            let e = new URLSearchParams(location.search).get("h");
+            return "2" === e || "3" === e ? e : "1"
+          } catch (e) {
+            return "1"
+          }
+        }), [G] = (0, r.useState)(() => B ? B.lang : function() {
+          try {
+            let e = (new URLSearchParams(location.search).get("lang") || "").toLowerCase();
+            if (e.startsWith("es")) return "es";
+            if (e.startsWith("pt")) return "pt"
+          } catch (e) {}
+          return "en"
+        }()), [W] = (0, r.useState)(() => {
+          if (B) return B.noCapture;
+          try {
+            return "0" === new URLSearchParams(location.search).get("capture")
+          } catch (e) {
+            return !1
+          }
+        }), {
+          track: K,
+          lead: Y
+        } = function(e) {
+          let a = (0, r.useRef)({});
+          return (0, r.useEffect)(() => {
+            var e, o, s, r, n, t;
+            let i = new URLSearchParams(location.search),
+              l = String(window.__kinedu_sid || "");
+            if (!l) try {
+              (l = localStorage.getItem("kinedu_session_id") || "") || (l = null !== (s = null === (e = (o = crypto).randomUUID) || void 0 === e ? void 0 : e.call(o)) && void 0 !== s ? s : String(Math.random()).slice(2), localStorage.setItem("kinedu_session_id", l))
+            } catch (e) {
+              l = null !== (t = null === (r = (n = crypto).randomUUID) || void 0 === r ? void 0 : r.call(n)) && void 0 !== t ? t : "s-".concat(Date.now(), "-").concat(Math.random().toString(36).slice(2))
+            }
+            let d = "qa" === i.get("env") || "webpromo.kinedu.com" !== location.hostname ? "qa" : "prod";
+            a.current = {
+              session_id: l,
+              environment: d,
+              test_id: (i.get("test_id") || "aq-assessment").slice(0, 80),
+              variant: (i.get("v") || i.get("ui") || "classic").slice(0, 20),
+              utm_source: i.get("utm_source"),
+              utm_medium: i.get("utm_medium"),
+              utm_campaign: i.get("utm_campaign"),
+              utm_content: i.get("utm_content"),
+              utm_term: i.get("utm_term"),
+              fbclid: i.get("fbclid"),
+              gclid: i.get("gclid"),
+              ttclid: i.get("ttclid"),
+              landing_url: location.href,
+              referrer: document.referrer || null
+            }
+          }, []), {
+            track: (0, r.useCallback)((o, s) => {
+              let r = a.current;
+              r.session_id && fetch("/api/track", {
+                method: "POST",
+                keepalive: !0,
+                headers: {
+                  "Content-Type": "application/json"
+                },
+                body: JSON.stringify({
+                  event_name: o,
+                  screen: null != s ? s : null,
+                  environment: r.environment,
+                  language: e,
+                  test_id: r.test_id,
+                  variant: r.variant,
+                  session_id: r.session_id,
+                  utm_source: r.utm_source,
+                  utm_medium: r.utm_medium,
+                  utm_campaign: r.utm_campaign,
+                  utm_content: r.utm_content,
+                  utm_term: r.utm_term,
+                  fbclid: r.fbclid,
+                  gclid: r.gclid,
+                  ttclid: r.ttclid,
+                  landing_url: r.landing_url,
+                  referrer: r.referrer,
+                  user_agent: navigator.userAgent
+                })
+              }).catch(() => {})
+            }, [e]),
+            lead: (0, r.useCallback)((o, s) => {
+              let r = a.current;
+              return fetch("/api/lead", {
+                method: "POST",
+                headers: {
+                  "Content-Type": "application/json"
+                },
+                body: JSON.stringify({
+                  email: o,
+                  name: s,
+                  environment: r.environment,
+                  language: e,
+                  test_id: r.test_id,
+                  variant: r.variant,
+                  session_id: r.session_id,
+                  utm_source: r.utm_source,
+                  utm_medium: r.utm_medium,
+                  utm_campaign: r.utm_campaign,
+                  landing_url: r.landing_url
+                })
+              })
+            }, [e])
+          }
+        }(G), [H, Q] = (0, r.useState)({
+          s: "hero"
+        }), [, $] = (0, r.useState)(0), [X, Z] = (0, r.useState)(""), [ee, ea] = (0, r.useState)(""), [eo, es] = (0, r.useState)(""), [er, en] = (0, r.useState)(""), et = "" !== ee && "" !== eo && "" !== er ? "".concat(er, "-").concat(String(Number(ee) + 1).padStart(2, "0"), "-").concat(String(eo).padStart(2, "0")) : "", [ei, el] = (0, r.useState)(!1), [ed, ec] = (0, r.useState)(34), [eu, em] = (0, r.useState)(null), [ep, eb] = (0, r.useState)(!1), [eh, eg] = (0, r.useState)([]), [e_, ex] = (0, r.useState)([]), [ef, ev] = (0, r.useState)([]), ey = (0, r.useRef)(new Map), [ej, ek] = (0, r.useState)(null), [eq, ew] = (0, r.useState)(null), [eS, eN] = (0, r.useState)([]), [eC, eD] = (0, r.useState)(null), [eE, eA] = (0, r.useState)([]), [ez, eF] = (0, r.useState)(!1), [eP, eT] = (0, r.useState)(!1), [eM, eR] = (0, r.useState)(!1), [eI, eL] = (0, r.useState)(""), [eB, eU] = (0, r.useState)("");
+        (0, r.useEffect)(() => {
+          K("funnel_started", "assessment")
+        }, []), (0, r.useEffect)(() => {
+          "portrait" === H.s && ej && (K("quiz_answer", "portrait_shown"), (0, l.iA)("ViewContent", {
+            content_category: "acquisition",
+            content_name: "assessment-hook"
+          }))
+        }, [H.s]);
+        let eO = X.trim() || f(G, "your_baby"),
+          eV = (0, r.useMemo)(() => eh.map((e, a) => {
+            let o = [];
+            return e.anchor && o.push(e.anchor), o.push(...e.items), a < e_.length && o.push(e_[a]), o
+          }), [eh, e_]),
+          eJ = async () => {
+            eR(!0), eL("");
+            try {
+              var e;
+              let a = await fetch("/api/assessment", {
+                  method: "POST",
+                  headers: {
+                    "Content-Type": "application/json"
+                  },
+                  body: JSON.stringify({
+                    action: "start",
+                    birthdate: et,
+                    gestationalWeeks: ei ? ed : null
+                  })
+                }),
+                o = await a.json();
+              if (422 === a.status && (null == o ? void 0 : o.error) === "age_range") {
+                K("quiz_answer", "age_range"), Q({
+                  s: "age_range"
+                });
+                return
+              }
+              if (!a.ok) {
+                eL(f(G, "check_date"));
+                return
+              }
+              em(o.ageMonths), eb(o.corrected), eg(o.sections), ex(null !== (e = o.calibration) && void 0 !== e ? e : []), K("quiz_started", "child"), Q({
+                s: "area",
+                idx: 0,
+                q: 0
+              })
+            } catch (e) {
+              eL(f(G, "conn_error"))
+            } finally {
+              eR(!1)
+            }
+          }, eG = async e => {
+            eR(!0);
+            try {
+              var a, o, s, r;
+              let n = await fetch("/api/assessment", {
+                  method: "POST",
+                  headers: {
+                    "Content-Type": "application/json"
+                  },
+                  body: JSON.stringify({
+                    action: "result",
+                    ageMonths: eu,
+                    extended: e,
+                    answers: [...ey.current.entries()].map(e => {
+                      let [a, o] = e;
+                      return {
+                        id: a,
+                        y: o
+                      }
+                    })
+                  })
+                }),
+                t = await n.json();
+              if ("extension" === t.stage && !e) {
+                ev(t.items), K("extension_started", "extension"), Q({
+                  s: "extension",
+                  q: 0
+                });
+                return
+              }
+              ek(t.basic), ew(null !== (a = t.detail) && void 0 !== a ? a : null), eN(null !== (o = t.skills) && void 0 !== o ? o : []), eD(null !== (s = t.activity) && void 0 !== s ? s : null), eA(null !== (r = t.floorActivities) && void 0 !== r ? r : []), K("funnel_completed", "celebrate"), Q({
+                s: "celebrate"
+              })
+            } catch (e) {
+              eL(f(G, "conn_error"))
+            } finally {
+              eR(!1)
+            }
+          };
+        if ("hero" === H.s) {
+          let e = e => f(G, e).replace(/[“”]/g, ""),
+            a = e => {
+              K("quiz_answer", e), Q({
+                s: "why"
+              }), window.scrollTo(0, 0)
+            },
+            o = (e, o) => (0, s.jsx)("button", {
+              onClick: () => a(o),
+              className: "w-full rounded-2xl border-2 bg-white py-4 text-left text-[15.5px] font-extrabold shadow-sm transition-all active:scale-95",
+              style: {
+                borderColor: "#DFDAD0",
+                color: m.ink,
+                paddingLeft: 18
+              },
+              children: f(G, e)
+            }, e),
+            r = e => (null == B ? void 0 : B.heroCta) ? (0, s.jsx)(C, {
+              onClick: () => a("hook_cta"),
+              children: P[G]
+            }) : (0, s.jsx)("div", {
+              className: "mt-6 grid gap-2.5",
+              children: e
+            }),
+            n = (0, s.jsx)("div", {
+              className: "mt-6 flex items-center justify-center gap-2",
+              children: ["Physical", "Cognitive", "Language", "Social-Emotional"].map(e => {
+                var a, o;
+                return (0, s.jsx)("span", {
+                  className: "flex h-8 w-8 items-center justify-center rounded-full",
+                  style: {
+                    background: (null !== (a = c[e]) && void 0 !== a ? a : {
+                      bg: "#EAF3FC"
+                    }).bg,
+                    border: "1.5px solid ".concat((null !== (o = c[e]) && void 0 !== o ? o : {
+                      border: "#BFE4F6"
+                    }).border)
+                  },
+                  children: (0, s.jsx)("img", {
+                    src: u[e],
+                    alt: "",
+                    style: {
+                      width: 18,
+                      height: 18
+                    }
+                  })
+                }, e)
+              })
+            }),
+            t = (0, s.jsxs)(s.Fragment, {
+              children: [n, (0, s.jsx)("p", {
+                className: "mt-2.5 text-center text-[11.5px]",
+                style: {
+                  color: m.faint
+                },
+                children: f(G, "hook_foot")
+              })]
+            }),
+            i = (0, s.jsxs)(s.Fragment, {
+              children: [(0, s.jsx)("div", {
+                "aria-hidden": !0,
+                className: "pointer-events-none absolute -right-16 -top-14 h-44 w-44 rounded-full",
+                style: {
+                  background: "#D1296D",
+                  opacity: .07
+                }
+              }), (0, s.jsx)("div", {
+                "aria-hidden": !0,
+                className: "pointer-events-none absolute -bottom-16 -left-20 h-52 w-52 rounded-full",
+                style: {
+                  background: "#32AFE0",
+                  opacity: .09
+                }
+              })]
+            }),
+            l = (a, o) => (0, s.jsxs)(s.Fragment, {
+              children: [(0, s.jsxs)("div", {
+                className: "flex items-center gap-2.5 rounded-full border bg-white px-4 py-3.5 shadow-md",
+                style: {
+                  borderColor: "#DFDAD0"
+                },
+                children: [(0, s.jsxs)("svg", {
+                  viewBox: "0 0 24 24",
+                  className: "h-5 w-5 shrink-0",
+                  fill: "none",
+                  stroke: "#9AA0A6",
+                  strokeWidth: "2.2",
+                  strokeLinecap: "round",
+                  children: [(0, s.jsx)("circle", {
+                    cx: "11",
+                    cy: "11",
+                    r: "7"
+                  }), (0, s.jsx)("path", {
+                    d: "M20 20l-3.5-3.5"
+                  })]
+                }), (0, s.jsx)("span", {
+                  className: "text-[15.5px] font-semibold",
+                  style: {
+                    color: m.ink
+                  },
+                  children: f(G, a)
+                }), (0, s.jsx)("span", {
+                  className: "ml-auto h-5 w-[2px] animate-pulse",
+                  style: {
+                    background: m.brand
+                  }
+                })]
+              }), o.length > 0 && (0, s.jsx)("div", {
+                className: "mx-3 rounded-b-2xl border border-t-0 bg-white/80 px-4 pb-2.5 pt-2",
+                style: {
+                  borderColor: "#EDE8DF"
+                },
+                children: o.map(a => (0, s.jsxs)("p", {
+                  className: "flex items-center gap-2.5 py-1 text-[13px]",
+                  style: {
+                    color: "#A9B0BA"
+                  },
+                  children: [(0, s.jsxs)("svg", {
+                    viewBox: "0 0 24 24",
+                    className: "h-3.5 w-3.5 shrink-0",
+                    fill: "none",
+                    stroke: "#C6CBD3",
+                    strokeWidth: "2.2",
+                    strokeLinecap: "round",
+                    children: [(0, s.jsx)("circle", {
+                      cx: "11",
+                      cy: "11",
+                      r: "7"
+                    }), (0, s.jsx)("path", {
+                      d: "M20 20l-3.5-3.5"
+                    })]
+                  }), e(a)]
+                }, a))
+              })]
+            }),
+            d = (e, a) => (0, s.jsxs)("h1", {
+              className: "mx-auto mt-6 max-w-[22ch] text-center text-[24px] font-extrabold leading-tight",
+              style: {
+                color: m.brand,
+                letterSpacing: "-0.02em"
+              },
+              children: [f(G, e), " ", (0, s.jsx)("span", {
+                className: "whitespace-nowrap",
+                style: {
+                  backgroundImage: "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='42' height='9' viewBox='0 0 42 9'%3E%3Cpath d='M1 6 Q 6 1 11 6 T 21 6 T 31 6 T 41 6' fill='none' stroke='%23FFBD15' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E\")",
+                  backgroundRepeat: "repeat-x",
+                  backgroundPosition: "0 100%",
+                  backgroundSize: "42px 9px",
+                  paddingBottom: 7
+                },
+                children: f(G, a)
+              })]
+            });
+          return "3" === J ? (0, s.jsxs)(w, {
+            children: [(0, s.jsx)(S, {}), (0, s.jsxs)("div", {
+              className: "relative my-auto px-1",
+              children: [i, (0, s.jsx)("div", {
+                className: "mb-5",
+                children: d("hook3_h1a", "hook3_h1b")
+              }), l("hook2_query", []), r((0, s.jsxs)(s.Fragment, {
+                children: [o("hook3_yes", "hook3_yes"), o("hook3_no", "hook3_no")]
+              })), t]
+            }), (0, s.jsx)(N, {
+              lang: G
+            })]
+          }) : "2" === J ? (0, s.jsxs)(w, {
+            children: [(0, s.jsx)(S, {}), (0, s.jsxs)("div", {
+              className: "relative my-auto px-1",
+              children: [i, l("hook2_query", ["hook2_g1", "hook2_g2"]), d("hook2_h1a", "hook2_h1b"), (0, s.jsx)("p", {
+                className: "mt-3 text-center text-[13.5px] leading-relaxed",
+                style: {
+                  color: m.sub
+                },
+                children: f(G, "hook_sub")
+              }), r((0, s.jsxs)(s.Fragment, {
+                children: [o("hook2_a1", "hook_yes_always"), o("hook2_a2", "hook_yes_week")]
+              })), t]
+            }), (0, s.jsx)(N, {
+              lang: G
+            })]
+          }) : (0, s.jsxs)(w, {
+            children: [(0, s.jsx)(S, {}), (0, s.jsxs)("div", {
+              className: "relative my-auto px-1",
+              children: [i, l(V, ["hook_q_crawling", "hook_q_talking"].filter(e => e !== V)), d("hook_h1a", "hook_h1b"), (0, s.jsx)("p", {
+                className: "mt-3 text-center text-[13.5px] leading-relaxed",
+                style: {
+                  color: m.sub
+                },
+                children: f(G, "hook_sub")
+              }), r((0, s.jsxs)(s.Fragment, {
+                children: [o("hook_a1", "hook_yes_week"), o("hook_a2", "hook_yes_always")]
+              })), t]
+            }), (0, s.jsx)(N, {
+              lang: G
+            })]
+          })
+        }
+        if ("why" === H.s) return (0, s.jsxs)(w, {
+          children: [(0, s.jsx)(S, {}), (0, s.jsx)("div", {
+            className: "px-1 text-center",
+            children: (0, s.jsxs)("h1", {
+              className: "mx-auto mt-1 max-w-[22ch] text-[23px] font-extrabold leading-tight",
+              style: {
+                color: m.brand,
+                letterSpacing: "-0.02em"
+              },
+              children: [f(G, "hook_why_title_a"), (0, s.jsx)("br", {}), f(G, "hook_why_title_b")]
+            })
+          }), (0, s.jsxs)(D, {
+            style: {
+              marginTop: 14
+            },
+            children: [(0, s.jsx)(E, {
+              children: f(G, "preview_eyebrow")
+            }), (0, s.jsxs)("p", {
+              className: "text-[12.5px]",
+              children: [f(G, "preview_line"), " ", (0, s.jsxs)("b", {
+                style: {
+                  color: m.brand
+                },
+                children: ["7", "en" === G ? "-month-old" : " " + f(G, "preview_months")]
+              }), f(G, "preview_line2")]
+            }), (0, s.jsxs)("div", {
+              className: "mt-2 flex items-center gap-2",
+              children: [(0, s.jsx)("div", {
+                className: "flex-1",
+                children: (0, s.jsx)(A, {
+                  ratio: 7 / 6
+                })
+              }), (0, s.jsxs)("span", {
+                className: "whitespace-nowrap text-[10.5px]",
+                style: {
+                  color: m.faint
+                },
+                children: ["→ ", v(G, "band_axis_faster")]
+              })]
+            }), (0, s.jsx)("p", {
+              className: "mt-1.5 text-[10.5px]",
+              style: {
+                color: m.faint
+              },
+              children: f(G, "band_zone")
+            }), (0, s.jsx)("div", {
+              className: "mt-2.5 grid grid-cols-2 gap-2",
+              children: [{
+                area: "Physical",
+                key: "at_least20",
+                pos: 90
+              }, {
+                area: "Cognitive",
+                key: "around16",
+                pos: 78
+              }, {
+                area: "Language",
+                key: "around12",
+                pos: 50
+              }, {
+                area: "Social-Emotional",
+                key: "around18",
+                pos: 78
+              }].map(e => (0, s.jsxs)("div", {
+                className: "rounded-xl border p-2.5",
+                style: {
+                  background: c[e.area].bg,
+                  borderColor: c[e.area].border
+                },
+                children: [(0, s.jsxs)("span", {
+                  className: "flex items-center gap-1.5 text-[11.5px] font-bold",
+                  children: [(0, s.jsx)("img", {
+                    src: u[e.area],
+                    alt: "",
+                    className: "h-[18px] w-[18px]"
+                  }), g(e.area, G, !0)]
+                }), (0, s.jsxs)("div", {
+                  className: "mt-1 text-[13.5px] font-extrabold",
+                  style: {
+                    color: d[e.area]
+                  },
+                  children: [f(G, e.key), " ", (0, s.jsx)("span", {
+                    className: "text-[10px] font-normal",
+                    style: {
+                      color: m.faint
+                    },
+                    children: f(G, "preview_months")
+                  })]
+                }), (0, s.jsx)(A, {
+                  ratio: .7 + e.pos / 100 * .6,
+                  mini: !0,
+                  color: d[e.area]
+                })]
+              }, e.area))
+            }), (0, s.jsx)("p", {
+              className: "mt-2 text-center text-[10px]",
+              style: {
+                color: m.faint
+              },
+              children: f(G, "sample_note")
+            })]
+          }), (0, s.jsxs)("div", {
+            className: "px-1 text-center",
+            children: [(0, s.jsx)(C, {
+              onClick: () => {
+                K("quiz_answer", "why_continue"), Q({
+                  s: "child"
+                }), window.scrollTo(0, 0)
+              },
+              children: f(G, "hook_why_cta2")
+            }), (0, s.jsxs)("div", {
+              className: "mt-1 flex flex-wrap items-center justify-center gap-x-3 gap-y-1 text-[11.5px] font-semibold",
+              style: {
+                color: m.sub
+              },
+              children: [(0, s.jsx)("span", {
+                children: f(G, "trust_time")
+              }), (0, s.jsx)("span", {
+                children: f(G, "trust_report")
+              })]
+            })]
+          }), (0, s.jsx)(N, {
+            lang: G
+          })]
+        });
+        if ("child" === H.s) return (0, s.jsxs)(w, {
+          children: [(0, s.jsx)(S, {}), (0, s.jsxs)("div", {
+            className: "my-auto",
+            children: [(0, s.jsx)("div", {
+              className: "mb-4 h-1.5 overflow-hidden rounded-full",
+              style: {
+                background: "#ECE8DF"
+              },
+              children: (0, s.jsx)("div", {
+                className: "h-full rounded-full",
+                style: {
+                  width: "15%",
+                  background: m.brand
+                }
+              })
+            }), (0, s.jsx)("h2", {
+              className: "text-center text-[21px] font-extrabold",
+              style: {
+                color: m.brand,
+                letterSpacing: "-0.015em"
+              },
+              children: f(G, "child_title")
+            }), (0, s.jsx)("p", {
+              className: "mt-1.5 text-center text-[13px] leading-relaxed",
+              style: {
+                color: m.sub
+              },
+              children: f(G, "hook_child_sub")
+            }), (0, s.jsxs)("label", {
+              className: "mt-5 block",
+              children: [(0, s.jsxs)("span", {
+                className: "text-[12.5px] font-bold",
+                style: {
+                  color: m.sub
+                },
+                children: [f(G, "name_label"), " ", (0, s.jsx)("span", {
+                  className: "font-normal",
+                  children: f(G, "optional")
+                })]
+              }), (0, s.jsx)("input", {
+                type: "text",
+                value: X,
+                onChange: e => Z(e.target.value),
+                placeholder: f(G, "name_ph"),
+                className: "mt-1 w-full rounded-2xl border-2 bg-white px-4 py-3 text-center text-[16px]",
+                style: {
+                  borderColor: "#D8E4F0"
+                }
+              })]
+            }), (0, s.jsxs)("div", {
+              className: "mt-4",
+              children: [(0, s.jsx)("span", {
+                className: "text-[12.5px] font-bold",
+                style: {
+                  color: m.sub
+                },
+                children: f(G, "dob_label")
+              }), (0, s.jsx)(F, {
+                lang: G,
+                y: er,
+                m: ee,
+                d: eo,
+                onPick: (e, a, o) => {
+                  en(String(e)), ea(String(a)), es(String(o))
+                }
+              })]
+            }), (0, s.jsxs)("div", {
+              className: "mt-4 rounded-xl border p-3.5",
+              style: {
+                borderColor: "#E4E0D8",
+                background: "#FDFCFA"
+              },
+              children: [(0, s.jsxs)("label", {
+                className: "flex cursor-pointer items-center justify-between",
+                children: [(0, s.jsx)("span", {
+                  className: "text-[13px] font-bold",
+                  style: {
+                    color: "#4A5560"
+                  },
+                  children: f(G, "preterm_q")
+                }), (0, s.jsx)("input", {
+                  type: "checkbox",
+                  checked: ei,
+                  onChange: e => el(e.target.checked),
+                  className: "h-4 w-4"
+                })]
+              }), ei && (0, s.jsxs)("div", {
+                className: "mt-2.5",
+                children: [(0, s.jsxs)("span", {
+                  className: "text-[12.5px] font-bold",
+                  style: {
+                    color: m.sub
+                  },
+                  children: [f(G, "weeks_label"), ": ", ed]
+                }), (0, s.jsx)("input", {
+                  type: "range",
+                  min: 24,
+                  max: 36,
+                  value: ed,
+                  onChange: e => ec(Number(e.target.value)),
+                  className: "mt-1 w-full"
+                }), (0, s.jsx)("div", {
+                  className: "mt-2 rounded-lg p-2.5 text-[11.5px]",
+                  style: {
+                    background: "#EAF3FC",
+                    color: "#33689E"
+                  },
+                  children: f(G, "aap_note")
+                })]
+              })]
+            }), eI && (0, s.jsx)("p", {
+              className: "mt-3 text-center text-sm font-semibold text-red-600",
+              children: eI
+            }), (0, s.jsx)(C, {
+              onClick: eJ,
+              disabled: eM || !et,
+              children: eM ? f(G, "preparing") : f(G, "see_questions", {
+                name: eO
+              })
+            }), (0, s.jsx)(N, {
+              lang: G
+            })]
+          })]
+        });
+        if ("age_range" === H.s) return (0, s.jsxs)(w, {
+          children: [(0, s.jsx)(S, {}), (0, s.jsxs)("div", {
+            className: "my-auto text-center",
+            children: [(0, s.jsx)("div", {
+              className: "text-4xl",
+              children: "\uD83D\uDC99"
+            }), (0, s.jsxs)("h2", {
+              className: "mt-2 text-[20px] font-extrabold",
+              style: {
+                color: m.brand
+              },
+              children: [f(G, "over48_title"), X.trim() ? ", ".concat(X.trim()) : "", "!"]
+            }), (0, s.jsx)(D, {
+              style: {
+                marginTop: 14,
+                textAlign: "left"
+              },
+              children: (0, s.jsx)("p", {
+                className: "text-[13px] leading-relaxed",
+                style: {
+                  color: m.sub
+                },
+                children: f(G, "over48_body", {
+                  name: eO
+                })
+              })
+            }), (0, s.jsx)(C, {
+              onClick: () => {
+                K("quiz_answer", "over48_cta"), q(K)
+              },
+              children: f(G, "over48_cta")
+            }), (0, s.jsx)(N, {
+              lang: G
+            })]
+          })]
+        });
+        if ("area" === H.s || "extension" === H.s) {
+          let r = "extension" === H.s,
+            l = r ? eh.length : H.idx,
+            p = r ? ef : null !== (a = eV[l]) && void 0 !== a ? a : [],
+            _ = r ? "" : null !== (o = null === (e = eh[l]) || void 0 === e ? void 0 : e.area) && void 0 !== o ? o : "",
+            x = r ? m.brand : null !== (n = d[_]) && void 0 !== n ? n : m.brand,
+            y = r ? "/aq-classic/kinedu.png" : u[_],
+            j = p.filter(e => ey.current.has(e.id)).length,
+            k = j === p.length && p.length > 0,
+            q = !r && l + 1 < eh.length ? eh[l + 1].area : null;
+          return (0, s.jsxs)(w, {
+            children: [(0, s.jsxs)("div", {
+              className: "sticky top-0 z-20 -mx-4 px-4 pb-2.5 pt-3",
+              style: {
+                background: "rgba(250,249,246,.94)",
+                backdropFilter: "blur(6px)",
+                borderBottom: "1px solid #ECE8DF"
+              },
+              children: [(0, s.jsx)("div", {
+                className: "flex items-center justify-between",
+                children: (0, s.jsx)("span", {
+                  className: "text-[12.5px] font-bold",
+                  style: {
+                    color: "#4A5560"
+                  },
+                  children: X.trim() ? f(G, "assessment_for", {
+                    name: X.trim()
+                  }) : f(G, "assessment_plain")
+                })
+              }), (0, s.jsx)("div", {
+                className: "mt-2 flex gap-1.5",
+                children: eh.map((e, a) => {
+                  var o, n, t;
+                  let i = (null !== (o = eV[a]) && void 0 !== o ? o : []).filter(e => ey.current.has(e.id)).length,
+                    c = (null !== (n = eV[a]) && void 0 !== n ? n : []).length || 1;
+                  return (0, s.jsx)("div", {
+                    className: "h-1.5 flex-1 overflow-hidden rounded-full",
+                    style: {
+                      background: "#ECE8DF"
+                    },
+                    children: (0, s.jsx)("div", {
+                      className: "h-full rounded-full transition-all",
+                      style: {
+                        background: null !== (t = d[e.area]) && void 0 !== t ? t : m.brand,
+                        width: !r && a > l ? "0%" : "".concat(i / c * 100, "%")
+                      }
+                    })
+                  }, a)
+                })
+              }), (0, s.jsxs)("div", {
+                className: "mt-2.5 flex items-center gap-2.5",
+                children: [(0, s.jsx)("span", {
+                  className: "flex h-9 w-9 shrink-0 items-center justify-center rounded-full",
+                  style: {
+                    background: (null !== (t = c[_]) && void 0 !== t ? t : {
+                      bg: "#EAF3FC"
+                    }).bg
+                  },
+                  children: (0, s.jsx)("img", {
+                    src: y,
+                    alt: "",
+                    className: "h-6 w-6"
+                  })
+                }), (0, s.jsxs)("div", {
+                  className: "min-w-0",
+                  children: [(0, s.jsx)("p", {
+                    className: "text-[9.5px] font-bold uppercase tracking-[0.1em]",
+                    style: {
+                      color: x
+                    },
+                    children: r ? f(G, "going_further") : f(G, "area_of", {
+                      i: l + 1,
+                      n: eh.length
+                    })
+                  }), (0, s.jsx)("h2", {
+                    className: "truncate text-[16px] font-extrabold leading-tight",
+                    style: {
+                      letterSpacing: "-0.01em"
+                    },
+                    children: r ? v(G, "deep_title") : g(_, G)
+                  }), !r && null != eu && (0, s.jsx)("p", {
+                    className: "truncate text-[10px]",
+                    style: {
+                      color: m.faint
+                    },
+                    children: f(G, "picked_for", {
+                      age: eu,
+                      name: eO
+                    })
+                  })]
+                }), (0, s.jsx)("span", {
+                  className: "ml-auto rounded-full px-2.5 py-1 text-[12px] font-extrabold tabular-nums",
+                  style: {
+                    color: x,
+                    background: (null !== (i = c[_]) && void 0 !== i ? i : {
+                      bg: "#EAF3FC"
+                    }).bg
+                  },
+                  children: "".concat(j, "/").concat(p.length)
+                })]
+              })]
+            }), ep && (0, s.jsx)("div", {
+              className: "mb-3 rounded-lg p-2.5 text-[11.5px]",
+              style: {
+                background: "#EAF3FC",
+                color: "#33689E"
+              },
+              children: f(G, "born_at_flow", {
+                weeks: ed
+              })
+            }), (0, s.jsxs)("div", {
+              className: "mt-3 overflow-hidden rounded-3xl border bg-white",
+              style: {
+                border: "2px solid ".concat(x),
+                boxShadow: "0 8px 26px ".concat(x, "22")
+              },
+              children: [r && (0, s.jsx)("p", {
+                className: "px-4 pb-1 text-[12px] leading-relaxed",
+                style: {
+                  color: m.sub
+                },
+                children: f(G, "ext_note", {
+                  name: eO === f(G, "your_baby") ? f(G, "your_baby_cap") : eO
+                })
+              }), (0, s.jsx)("div", {
+                className: "divide-y",
+                style: {
+                  borderColor: "#F5F2EC"
+                },
+                children: p.map(e => {
+                  var a;
+                  let o = ey.current.get(e.id),
+                    n = (null !== (a = c[r ? "Physical" : _]) && void 0 !== a ? a : {
+                      bg: "#F1FAFE"
+                    }).bg;
+                  return (0, s.jsx)("div", {
+                    className: "transition-colors duration-300",
+                    style: void 0 !== o ? {
+                      background: n
+                    } : {},
+                    children: (0, s.jsxs)("div", {
+                      className: "flex items-center justify-between gap-3 px-4 py-3.5",
+                      children: [(0, s.jsx)("p", {
+                        className: "text-[13.2px] leading-snug",
+                        style: void 0 !== o ? {
+                          color: "#4A5560"
+                        } : {},
+                        children: b(e, G)
+                      }), (0, s.jsxs)("div", {
+                        className: "flex w-[132px] shrink-0 justify-end gap-1.5",
+                        children: [(0, s.jsx)("button", {
+                          onClick: () => {
+                            ey.current.set(e.id, 0), $(e => e + 1)
+                          },
+                          className: "rounded-full border-[1.5px] px-3 py-2 text-[11px] font-bold transition-all duration-150 active:scale-95",
+                          style: 0 === o ? {
+                            background: "#fff",
+                            borderColor: x,
+                            color: x,
+                            fontWeight: 800,
+                            boxShadow: "0 1px 6px ".concat(x, "33")
+                          } : {
+                            background: "#fff",
+                            borderColor: "#DFDAD0",
+                            color: "#7C8794",
+                            opacity: 1 === o ? .55 : 1
+                          },
+                          children: v(G, "chip_not_yet")
+                        }), (0, s.jsx)("button", {
+                          onClick: () => {
+                            ey.current.set(e.id, 1), $(e => e + 1)
+                          },
+                          className: "rounded-full border-[1.5px] px-3.5 py-2 text-[11px] font-bold transition-all duration-150 active:scale-95",
+                          style: 1 === o ? {
+                            background: x,
+                            borderColor: x,
+                            color: "#fff",
+                            boxShadow: "0 2px 8px ".concat(x, "55")
+                          } : {
+                            background: "#fff",
+                            borderColor: "#DFDAD0",
+                            color: "#7C8794",
+                            opacity: 0 === o ? .55 : 1
+                          },
+                          children: v(G, "chip_yes")
+                        })]
+                      })]
+                    })
+                  }, e.id)
+                })
+              }), (0, s.jsxs)("div", {
+                className: "flex items-center justify-between px-4 py-3.5",
+                children: [!r && l > 0 ? (0, s.jsx)("button", {
+                  className: "text-[12.5px] font-bold",
+                  style: {
+                    color: m.faint
+                  },
+                  onClick: () => {
+                    Q({
+                      s: "area",
+                      idx: l - 1,
+                      q: 0
+                    }), window.scrollTo(0, 0)
+                  },
+                  children: f(G, "back")
+                }) : (0, s.jsx)("span", {}), (0, s.jsx)("button", {
+                  onClick: () => {
+                    if (k && !eM) {
+                      if (r) {
+                        eG(!0);
+                        return
+                      }
+                      K("quiz_answer", "area_".concat(_)), q ? (Q({
+                        s: "areadone",
+                        idx: l
+                      }), window.scrollTo(0, 0)) : eG(!1)
+                    }
+                  },
+                  disabled: !k || eM,
+                  className: "rounded-full px-5 py-2.5 text-[13px] font-extrabold text-white transition-transform active:scale-[0.98] disabled:opacity-40",
+                  style: {
+                    background: r || !q ? x : null !== (h = d[q]) && void 0 !== h ? h : m.brand
+                  },
+                  children: eM ? "…" : r || !q ? f(G, "see_reading", {
+                    name: eO
+                  }) : "".concat(f(G, "next_prefix"), " ").concat(g(q, G), " ›")
+                })]
+              })]
+            }), (0, s.jsx)(N, {
+              lang: G
+            })]
+          })
+        }
+        if ("areadone" === H.s) {
+          let e = H.idx,
+            a = null !== (k = null === (_ = eh[e]) || void 0 === _ ? void 0 : _.area) && void 0 !== k ? k : "",
+            o = null !== (z = null === (x = eh[e + 1]) || void 0 === x ? void 0 : x.area) && void 0 !== z ? z : null,
+            r = null !== (T = d[a]) && void 0 !== T ? T : m.brand,
+            n = eh.filter(e => e.area);
+          return (0, s.jsxs)(w, {
+            children: [(0, s.jsx)(S, {}), (0, s.jsxs)("div", {
+              className: "my-auto text-center",
+              children: [(0, s.jsx)("div", {
+                className: "mx-auto flex h-14 w-14 items-center justify-center rounded-full",
+                style: {
+                  background: (null !== (M = c[a]) && void 0 !== M ? M : {
+                    bg: "#EAF3FC",
+                    border: "#BFE4F6"
+                  }).bg
+                },
+                children: (0, s.jsx)("img", {
+                  src: u[a],
+                  alt: "",
+                  className: "h-7 w-7"
+                })
+              }), (0, s.jsx)("h2", {
+                className: "mt-3 text-[20px] font-extrabold",
+                style: {
+                  color: r,
+                  letterSpacing: "-0.015em"
+                },
+                children: f(G, "hook_ad_title", {
+                  area: g(a, G)
+                })
+              }), (0, s.jsx)("p", {
+                className: "mt-1.5 text-[13.5px] leading-relaxed",
+                style: {
+                  color: m.sub
+                },
+                children: e >= 1 ? f(G, "hook_ad_forming", {
+                  name: eO
+                }) : f(G, "hook_ad_sub", {
+                  n: e + 1
+                })
+              }), (0, s.jsx)("div", {
+                className: "mx-auto mt-5 flex items-center justify-center gap-2.5",
+                children: n.map((a, o) => {
+                  var r, n;
+                  return (0, s.jsx)("span", {
+                    className: "flex h-10 w-10 items-center justify-center rounded-full",
+                    style: o <= e ? {
+                      background: (null !== (r = c[a.area]) && void 0 !== r ? r : {
+                        bg: "#EAF3FC"
+                      }).bg,
+                      border: "2px solid ".concat(null !== (n = d[a.area]) && void 0 !== n ? n : m.brand)
+                    } : {
+                      background: "#F1EEE7",
+                      border: "2px solid #E4DFD5",
+                      opacity: .55
+                    },
+                    children: (0, s.jsx)("img", {
+                      src: u[a.area],
+                      alt: "",
+                      className: "h-5 w-5"
+                    })
+                  }, a.area)
+                })
+              }), o && (0, s.jsx)(C, {
+                color: null !== (R = d[o]) && void 0 !== R ? R : m.brand,
+                onClick: () => {
+                  Q({
+                    s: "area",
+                    idx: e + 1,
+                    q: 0
+                  }), window.scrollTo(0, 0)
+                },
+                children: f(G, "hook_ad_cta", {
+                  area: g(o, G)
+                })
+              })]
+            }), (0, s.jsx)(N, {
+              lang: G
+            })]
+          })
+        }
+        if ("celebrate" === H.s) {
+          let e = ey.current.size;
+          return (0, s.jsxs)(w, {
+            children: [(0, s.jsx)(S, {}), (0, s.jsxs)("div", {
+              className: "my-auto text-center",
+              children: [(0, s.jsx)("div", {
+                className: "text-6xl",
+                children: "\uD83C\uDF89"
+              }), (0, s.jsx)("h2", {
+                className: "mt-3 text-[24px] font-extrabold",
+                style: {
+                  color: m.brand,
+                  letterSpacing: "-0.015em"
+                },
+                children: f(G, "done_title")
+              }), (0, s.jsx)("p", {
+                className: "mx-auto mt-2 max-w-[34ch] text-[14px] leading-relaxed",
+                style: {
+                  color: m.sub
+                },
+                children: f(G, "done_sub", {
+                  name: eO
+                })
+              }), (0, s.jsxs)("div", {
+                className: "mt-4 flex items-center justify-center gap-2",
+                children: [(0, s.jsxs)("span", {
+                  className: "rounded-full border bg-white px-3.5 py-1.5 text-[12px] font-bold",
+                  style: {
+                    borderColor: m.line,
+                    color: m.sub
+                  },
+                  children: ["✅ ", f(G, "done_answers", {
+                    n: e
+                  })]
+                }), (0, s.jsxs)("span", {
+                  className: "rounded-full border bg-white px-3.5 py-1.5 text-[12px] font-bold",
+                  style: {
+                    borderColor: m.line,
+                    color: m.sub
+                  },
+                  children: [(0, s.jsxs)("span", {
+                    className: "mr-1 inline-flex items-center gap-0.5",
+                    children: [(0, s.jsx)("img", {
+                      src: u.Physical,
+                      alt: "",
+                      className: "h-3.5 w-3.5"
+                    }), (0, s.jsx)("img", {
+                      src: u.Cognitive,
+                      alt: "",
+                      className: "h-3.5 w-3.5"
+                    }), (0, s.jsx)("img", {
+                      src: u.Language,
+                      alt: "",
+                      className: "h-3.5 w-3.5"
+                    }), (0, s.jsx)("img", {
+                      src: u["Social-Emotional"],
+                      alt: "",
+                      className: "h-3.5 w-3.5"
+                    })]
+                  }), f(G, "done_areas")]
+                })]
+              }), (0, s.jsx)(C, {
+                onClick: () => Q(W ? {
+                  s: "portrait"
+                } : {
+                  s: "email"
+                }),
+                children: f(G, "see_reading", {
+                  name: eO
+                })
+              })]
+            })]
+          })
+        }
+        if ("email" === H.s) {
+          let e = /^\S+@\S+\.\S+$/.test(eB.trim()),
+            a = async () => {
+              if (e && !eM) {
+                eR(!0);
+                try {
+                  await Y(eB.trim(), X.trim())
+                } catch (e) {}
+                try {
+                  sessionStorage.setItem("kinedu_email", eB.trim())
+                } catch (e) {}
+                if ((0, l.iA)("Lead", {
+                    content_category: "acquisition",
+                    content_name: "assessment-hook"
+                  }), ej && "ok" === ej.state) {
+                  let e = [];
+                  for (let a of ["Physical", "Cognitive", "Language", "Social-Emotional"]) {
+                    let o = eS.find(e => e.area === a && e.items.some(e => "open" === e.status)),
+                      s = null == o ? void 0 : o.items.find(e => "open" === e.status);
+                    o && s && e.push(b({
+                      id: s.id,
+                      area: a,
+                      skill: o.skill,
+                      title: s.title
+                    }, G))
+                  }
+                  fetch("/api/send-reading", {
+                    method: "POST",
+                    headers: {
+                      "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify({
+                      email: eB.trim(),
+                      name: X.trim(),
+                      lang: G,
+                      ageMonths: ej.ageMonths,
+                      devAge: ej.devAge,
+                      capped: ej.capped,
+                      bandLine: "well_ahead" === ej.band || "little_ahead" === ej.band ? j(G, ej.band) : void 0,
+                      opening: e[0],
+                      openingCount: Math.max(e.length - 1, 0),
+                      activityTitle: eC ? eC.title[G] || eC.title.en : void 0
+                    }),
+                    keepalive: !0
+                  }).then(e => e.json()).then(e => {
+                    e && e.ok && K("quiz_answer", "reading_email_sent")
+                  }).catch(() => {})
+                }
+                eR(!1), K("quiz_answer", "email_captured"), Q({
+                  s: "portrait"
+                })
+              }
+            };
+          return (0, s.jsxs)(w, {
+            children: [(0, s.jsx)(S, {}), (0, s.jsxs)("div", {
+              className: "my-auto",
+              children: [(0, s.jsx)("div", {
+                className: "text-center text-5xl",
+                children: "\uD83D\uDC8C"
+              }), (0, s.jsx)("h2", {
+                className: "mt-3 text-center text-[21px] font-extrabold leading-snug",
+                style: {
+                  color: m.brand,
+                  letterSpacing: "-0.015em"
+                },
+                children: f(G, "email_title", {
+                  name: eO
+                })
+              }), (0, s.jsxs)("div", {
+                className: "mx-auto mt-4 max-w-[40ch]",
+                children: [(0, s.jsxs)("p", {
+                  className: "flex items-start gap-2 text-[13.5px] leading-relaxed",
+                  style: {
+                    color: m.sub
+                  },
+                  children: [(0, s.jsx)("span", {
+                    className: "mt-px font-extrabold",
+                    style: {
+                      color: m.cta
+                    },
+                    children: "✓"
+                  }), f(G, "email_b1")]
+                }), (0, s.jsxs)("p", {
+                  className: "mt-1.5 flex items-start gap-2 text-[13.5px] leading-relaxed",
+                  style: {
+                    color: m.sub
+                  },
+                  children: [(0, s.jsx)("span", {
+                    className: "mt-px font-extrabold",
+                    style: {
+                      color: m.cta
+                    },
+                    children: "✓"
+                  }), f(G, "email_b2")]
+                }), (0, s.jsxs)("p", {
+                  className: "mt-1.5 flex items-start gap-2 text-[13.5px] leading-relaxed",
+                  style: {
+                    color: m.sub
+                  },
+                  children: [(0, s.jsx)("span", {
+                    className: "mt-px font-extrabold",
+                    style: {
+                      color: m.cta
+                    },
+                    children: "✓"
+                  }), f(G, "email_b3")]
+                })]
+              }), (0, s.jsx)("input", {
+                type: "email",
+                value: eB,
+                onChange: e => eU(e.target.value),
+                onKeyDown: e => {
+                  "Enter" === e.key && a()
+                },
+                placeholder: f(G, "email_ph"),
+                className: "mt-4 w-full rounded-2xl border-2 bg-white px-4 py-3.5 text-center text-[16px]",
+                style: {
+                  borderColor: "#D8E4F0"
+                }
+              }), (0, s.jsx)("button", {
+                disabled: !e || eM,
+                onClick: a,
+                className: "mt-3 w-full rounded-full px-6 py-4 text-[16px] font-extrabold text-white transition-transform active:scale-[0.98] disabled:opacity-40",
+                style: {
+                  background: "linear-gradient(100deg, #83C580, ".concat(m.cta, ")"),
+                  boxShadow: "0 6px 18px rgba(117,183,83,.30)"
+                },
+                children: eM ? "…" : "".concat(f(G, "email_btn"), " →")
+              }), (0, s.jsx)("p", {
+                className: "mt-2.5 text-center text-[11px]",
+                style: {
+                  color: m.faint
+                },
+                children: f(G, "email_micro")
+              }), (0, s.jsx)(N, {
+                lang: G
+              })]
+            })]
+          })
+        }
+        if ("portrait" === H.s) {
+          if (!ej) return null;
+          if ("below_floor" === ej.state) return (0, s.jsxs)(w, {
+            children: [(0, s.jsx)(S, {}), (0, s.jsxs)("div", {
+              className: "my-auto",
+              children: [(0, s.jsx)("h2", {
+                className: "text-center text-[19px] font-extrabold",
+                style: {
+                  color: m.brand
+                },
+                children: v(G, "floor_title")
+              }), (0, s.jsxs)(D, {
+                style: {
+                  marginTop: 12
+                },
+                children: [(0, s.jsx)(E, {
+                  children: f(G, "activities_eyebrow")
+                }), (eE.length ? eE.map(e => e.title[G] || e.title.en) : function(e, a) {
+                  var o, s, r;
+                  let n = null !== (r = null === (o = p[e]) || void 0 === o ? void 0 : o[a]) && void 0 !== r ? r : null === (s = p.en) || void 0 === s ? void 0 : s[a];
+                  return Array.isArray(n) ? n : []
+                }(G, "floor_activities")).map((e, a) => (0, s.jsxs)("div", {
+                  className: "flex items-center gap-2.5 border-b py-2 text-[13px] last:border-b-0",
+                  style: {
+                    borderColor: "#F1EEE7"
+                  },
+                  children: [(0, s.jsx)("span", {
+                    className: "flex h-8 w-8 shrink-0 items-center justify-center rounded-lg text-[15px]",
+                    style: {
+                      background: "#F0F6FB"
+                    },
+                    children: ["\uD83E\uDDF8", "\uD83D\uDCD6", "\uD83C\uDFB5"][a % 3]
+                  }), (0, s.jsx)("span", {
+                    children: e
+                  })]
+                }, a)), (0, s.jsx)("div", {
+                  className: "mt-2.5 rounded-lg p-3 text-[12px] leading-relaxed",
+                  style: {
+                    background: "#F6F9FC",
+                    color: m.sub
+                  },
+                  children: v(G, "floor_note")
+                })]
+              }), (0, s.jsx)(C, {
+                onClick: () => q(K),
+                children: f(G, "get_activities", {
+                  name: eO
+                })
+              }), (0, s.jsx)(N, {
+                lang: G
+              })]
+            })]
+          });
+          if ("ok" !== ej.state) return (0, s.jsxs)(w, {
+            children: [(0, s.jsx)(S, {}), (0, s.jsxs)("div", {
+              className: "my-auto text-center",
+              children: [(0, s.jsx)("h2", {
+                className: "text-[19px] font-extrabold",
+                style: {
+                  color: m.brand
+                },
+                children: v(G, "not_enough")
+              }), (0, s.jsx)(C, {
+                onClick: () => Q({
+                  s: "area",
+                  idx: 0,
+                  q: 0
+                }),
+                children: f(G, "continue_answering")
+              })]
+            })]
+          });
+          let e = ej.devAge,
+            a = e / Math.max(ej.ageMonths, 1),
+            o = y(v(G, "dev_detail_name"), {
+              age: ej.ageMonths,
+              name: eO === f(G, "your_baby") ? f(G, "your_baby_cap") : eO,
+              D: ej.capped ? "".concat(e, "+") : e
+            }),
+            r = [];
+          for (let e of ["Physical", "Cognitive", "Language", "Social-Emotional"]) {
+            let a = eS.find(a => a.area === e && a.items.some(e => "open" === e.status)),
+              o = null == a ? void 0 : a.items.find(e => "open" === e.status);
+            a && o && r.push({
+              area: e,
+              title: b({
+                id: o.id,
+                area: e,
+                skill: a.skill,
+                title: o.title
+              }, G)
+            })
+          }
+          let n = ej.ageMonths >= 24,
+            t = (eq && "ok" === eq.state && eq.areas && !eq.areasDefaultHidden ? eq.areas : []).filter(e => "ok" === e.state),
+            i = t.length ? t.reduce((e, a) => a.months > e.months ? a : e) : null,
+            l = null !== (L = null !== (I = null == i ? void 0 : i.area) && void 0 !== I ? I : ej.teaserArea) && void 0 !== L ? L : null;
+          return (0, s.jsxs)(w, {
+            children: [(0, s.jsx)(S, {}), (0, s.jsxs)("div", {
+              className: "flex flex-col pb-24 text-center",
+              children: [(0, s.jsx)("div", {
+                className: "text-4xl",
+                children: "\uD83C\uDF89"
+              }), (0, s.jsx)("h2", {
+                className: "mt-1 text-[20px] font-extrabold",
+                style: {
+                  color: m.brand,
+                  letterSpacing: "-0.01em"
+                },
+                children: X.trim() ? f(G, "ready", {
+                  name: X.trim()
+                }) : f(G, "ready_generic")
+              }), (0, s.jsxs)(D, {
+                style: {
+                  marginTop: 14,
+                  textAlign: "left",
+                  order: n ? 2 : 1
+                },
+                children: [(0, s.jsx)(E, {
+                  children: v(G, "picture_title")
+                }), (0, s.jsx)("p", {
+                  className: "text-[17px] font-bold leading-snug",
+                  children: o
+                }), ("well_ahead" === ej.band || "little_ahead" === ej.band) && (0, s.jsxs)("span", {
+                  className: "mt-2.5 inline-flex items-center gap-1.5 rounded-full px-3 py-1.5 text-[12px] font-bold",
+                  style: {
+                    background: "#EAF5E9",
+                    color: "#3E7C3E"
+                  },
+                  children: ["✦ ", j(G, ej.band)]
+                }), ej.capped && (0, s.jsx)("p", {
+                  className: "mt-2 text-[12px] leading-relaxed",
+                  style: {
+                    color: m.sub
+                  },
+                  children: v(G, "ceiling_note")
+                }), (0, s.jsxs)("div", {
+                  className: "mt-3.5 flex items-center gap-2",
+                  children: [(0, s.jsx)("div", {
+                    className: "flex-1",
+                    children: (0, s.jsx)(A, {
+                      ratio: a
+                    })
+                  }), (0, s.jsxs)("span", {
+                    className: "whitespace-nowrap text-[10.5px]",
+                    style: {
+                      color: m.faint
+                    },
+                    children: ["→ ", v(G, "band_axis_faster")]
+                  })]
+                }), (0, s.jsx)("p", {
+                  className: "mt-1.5 text-[10.5px]",
+                  style: {
+                    color: m.faint
+                  },
+                  children: f(G, "zone_at", {
+                    age: ej.ageMonths
+                  })
+                }), (0, s.jsxs)("p", {
+                  className: "mt-2.5 rounded-lg p-2.5 text-[11.5px] leading-relaxed",
+                  style: {
+                    background: "#F3F8F1",
+                    color: "#3E7C3E"
+                  },
+                  children: ["✓ ", f(G, "reading_done")]
+                }), ep && (0, s.jsx)("p", {
+                  className: "mt-2.5 rounded-lg p-2.5 text-[11.5px]",
+                  style: {
+                    background: "#EAF3FC",
+                    color: "#33689E"
+                  },
+                  children: f(G, "born_at", {
+                    weeks: ed
+                  })
+                })]
+              }), (0, s.jsxs)(D, {
+                style: {
+                  textAlign: "left",
+                  order: n ? 3 : 2
+                },
+                children: [(0, s.jsx)(E, {
+                  children: v(G, "areas_title")
+                }), (0, s.jsx)("div", {
+                  className: "grid grid-cols-2 gap-2.5",
+                  children: ["Physical", "Cognitive", "Language", "Social-Emotional"].map(e => {
+                    var a;
+                    let o = null !== (a = c[e]) && void 0 !== a ? a : {
+                      bg: "#fff",
+                      border: m.line
+                    };
+                    if (l === e) {
+                      let a = i && i.area === e ? i : null;
+                      return (0, s.jsxs)("div", {
+                        className: "relative rounded-xl border p-3 text-left",
+                        style: {
+                          background: o.bg,
+                          borderColor: o.border
+                        },
+                        children: [(0, s.jsxs)("span", {
+                          className: "flex items-center gap-1.5 text-[12px] font-bold",
+                          children: [(0, s.jsx)("img", {
+                            src: u[e],
+                            alt: "",
+                            className: "h-[18px] w-[18px]"
+                          }), g(e, G, !0)]
+                        }), a ? (0, s.jsxs)(s.Fragment, {
+                          children: [(0, s.jsxs)("div", {
+                            className: "mt-1.5 text-[15px] font-extrabold",
+                            style: {
+                              color: d[e],
+                              letterSpacing: "-0.01em"
+                            },
+                            children: [a.atLeast ? f(G, "at_least_lbl") : f(G, "around_lbl"), " ", a.months, " ", f(G, "months_lbl")]
+                          }), (0, s.jsx)(A, {
+                            ratio: a.months / Math.max(ej.ageMonths, 1),
+                            mini: !0,
+                            color: d[e]
+                          })]
+                        }) : (0, s.jsxs)("div", {
+                          className: "mt-1.5 text-[13px] font-extrabold leading-snug",
+                          style: {
+                            color: d[e]
+                          },
+                          children: ["✦ ", f(G, "strongest_today")]
+                        })]
+                      }, e)
+                    }
+                    return (0, s.jsxs)("button", {
+                      onClick: () => q(K),
+                      className: "relative rounded-xl border p-3 text-left active:scale-[0.98]",
+                      style: {
+                        background: o.bg,
+                        borderColor: o.border
+                      },
+                      children: [(0, s.jsx)("span", {
+                        className: "absolute right-2.5 top-2.5 text-[13px]",
+                        children: "\uD83D\uDD12"
+                      }), (0, s.jsxs)("span", {
+                        className: "flex items-center gap-1.5 text-[12px] font-bold",
+                        children: [(0, s.jsx)("img", {
+                          src: u[e],
+                          alt: "",
+                          className: "h-[18px] w-[18px]"
+                        }), g(e, G, !0)]
+                      }), (0, s.jsxs)("div", {
+                        className: "mt-1.5 select-none text-[15px] font-extrabold blur-[6px]",
+                        style: {
+                          color: d[e],
+                          letterSpacing: "-0.01em"
+                        },
+                        "aria-hidden": "true",
+                        children: [f(G, "around_lbl"), " 88"]
+                      }), (0, s.jsx)("div", {
+                        className: "text-[10.5px]",
+                        style: {
+                          color: "#7C8794"
+                        },
+                        children: f(G, "locked_hint")
+                      }), (0, s.jsx)("div", {
+                        className: "mt-2",
+                        children: (0, s.jsx)("div", {
+                          className: "relative h-2 rounded-full blur-[3px]",
+                          style: {
+                            background: "#EFECE5"
+                          },
+                          children: (0, s.jsx)("span", {
+                            className: "absolute inset-y-0 rounded-full",
+                            style: {
+                              left: "38%",
+                              width: "24%",
+                              background: m.zone
+                            }
+                          })
+                        })
+                      })]
+                    }, e)
+                  })
+                }), ej.teaserArea && (0, s.jsxs)("p", {
+                  className: "mt-3 text-[12.5px] leading-relaxed",
+                  style: {
+                    color: m.sub
+                  },
+                  children: ["✨ ", y(v(G, "teaser"), {
+                    name: g(ej.teaserArea, G)
+                  })]
+                })]
+              }), r.length > 0 && (0, s.jsxs)(D, {
+                style: {
+                  textAlign: "left",
+                  order: n ? 1 : 3
+                },
+                children: [(0, s.jsx)(E, {
+                  children: f(G, "opening_eyebrow", {
+                    name: eO
+                  })
+                }), (0, s.jsxs)("div", {
+                  className: "flex items-center gap-2.5 py-1.5 text-[13px]",
+                  children: [(0, s.jsx)("img", {
+                    src: u[r[0].area],
+                    alt: "",
+                    className: "h-[18px] w-[18px] shrink-0"
+                  }), (0, s.jsx)("span", {
+                    children: r[0].title
+                  })]
+                }), r.slice(1, 3).map(e => (0, s.jsxs)("button", {
+                  onClick: () => q(K),
+                  className: "flex w-full items-center gap-2.5 border-t py-2 text-left text-[13px]",
+                  style: {
+                    borderColor: "#F1EEE7"
+                  },
+                  children: [(0, s.jsx)("img", {
+                    src: u[e.area],
+                    alt: "",
+                    className: "h-[18px] w-[18px] shrink-0"
+                  }), (0, s.jsx)("span", {
+                    className: "select-none blur-[5px]",
+                    "aria-hidden": "true",
+                    children: e.title
+                  }), (0, s.jsx)("span", {
+                    className: "ml-auto shrink-0 text-[12px]",
+                    children: "\uD83D\uDD12"
+                  })]
+                }, e.area)), r.length > 1 && (0, s.jsx)("p", {
+                  className: "mt-2 text-[11px]",
+                  style: {
+                    color: m.faint
+                  },
+                  children: f(G, "opening_more", {
+                    n: Math.max(r.length - 1, 1)
+                  })
+                })]
+              }), (0, s.jsx)("p", {
+                className: "mx-auto mt-1 max-w-[44ch] text-[11.5px] leading-relaxed",
+                style: {
+                  color: m.faint,
+                  order: 5
+                },
+                children: f(G, "every_pace")
+              }), (0, s.jsx)("div", {
+                style: {
+                  order: 6
+                },
+                children: (0, s.jsx)(N, {
+                  lang: G
+                })
+              })]
+            }), (0, s.jsx)("div", {
+              className: "fixed inset-x-0 bottom-0 border-t px-4 pb-3 pt-3",
+              style: {
+                background: "rgba(250,249,246,.96)",
+                borderColor: m.line,
+                backdropFilter: "blur(4px)"
+              },
+              children: (0, s.jsxs)("div", {
+                className: "mx-auto w-full max-w-md",
+                children: [(0, s.jsx)("button", {
+                  onClick: () => q(K),
+                  className: "w-full rounded-2xl py-3.5 text-[15.5px] font-extrabold text-white active:scale-[0.98]",
+                  style: {
+                    background: m.cta
+                  },
+                  children: f(G, "unlock_cta", {
+                    name: X.trim() || f(G, "sticky_your")
+                  })
+                }), (0, s.jsx)("p", {
+                  className: "mt-1.5 text-center text-[11px]",
+                  style: {
+                    color: m.faint
+                  },
+                  children: f(G, "unlock_note")
+                }), (0, s.jsx)("p", {
+                  className: "mt-0.5 text-center text-[10.5px]",
+                  style: {
+                    color: m.faint
+                  },
+                  children: f(G, "retro_note")
+                })]
+              })
+            })]
+          })
+        }
+        return null
+      }
+    },
+    9845: function(e, a, o) {
+      function s(e, a) {
+        if ("function" == typeof window.fbq) try {
+          var o, s, r;
+          window.fbq("track", e, null != a ? a : {}, {
+            eventID: null !== (r = null === (o = (s = crypto).randomUUID) || void 0 === o ? void 0 : o.call(s)) && void 0 !== r ? r : "10000000-1000-4000-8000-100000000000".replace(/[018]/g, e => (Number(e) ^ crypto.getRandomValues(new Uint8Array(1))[0] & 15 >> Number(e) / 4).toString(16))
+          })
+        } catch (e) {
+          console.warn("[pixel]", e)
+        }
+      }
+      o.d(a, {
+        iA: function() {
+          return s
+        },
+        lN: function() {
+          return n
+        }
+      });
+      let r = "kinedu_first_touch";
+
+      function n() {
+        let e = localStorage.getItem(r);
+        if (e) try {
+          return JSON.parse(e)
+        } catch (e) {}
+        let a = new URLSearchParams(window.location.search),
+          o = {
+            utm_source: a.get("utm_source"),
+            utm_medium: a.get("utm_medium"),
+            utm_campaign: a.get("utm_campaign"),
+            utm_content: a.get("utm_content"),
+            utm_term: a.get("utm_term"),
+            fbclid: a.get("fbclid"),
+            gclid: a.get("gclid"),
+            ttclid: a.get("ttclid"),
+            referrer: document.referrer || null,
+            landing_url: window.location.href,
+            landed_at: new Date().toISOString()
+          };
+        return localStorage.setItem(r, JSON.stringify(o)), o
+      }
+    },
+    6125: function(e) {
+      e.exports = JSON.parse('{"FB":{"es":{"picture_title":"La foto de hoy","dev_detail_name":"Con {age} meses, {name} muestra las habilidades de un ni\xf1o t\xedpico de {D} meses.","at_least":"{name}+ meses","around":"alrededor de {name} meses","faster_note":"En este momento {name} est\xe1 avanzando m\xe1s r\xe1pido de lo que solemos ver a esta edad.","band_axis_slower":"m\xe1s pausado","band_axis_faster":"m\xe1s r\xe1pido","band_axis_note":"la banda verde es el rango habitual para su edad","band_axis_capped":" \xb7 su punto es un l\xedmite inferior","ceiling_note":"Un “+” significa que pas\xf3 todas las preguntas de esa \xe1rea: su nivel est\xe1 por encima de lo que estas preguntas alcanzan a medir, as\xed que el n\xfamero es un piso, no un tope.","areas_title":"Por \xe1rea","needs_more":"faltan respuestas para ubicar esta \xe1rea","not_enough":"a\xfan no hay suficientes respuestas","area_in_range":"dentro del rango habitual para su edad","area_above_range":"por arriba del rango habitual","teaser":"{name} se ve como su \xe1rea m\xe1s fuerte — desbloquea el perfil completo para ver las cuatro.","row_reading":"General","row_strongest":"\xc1rea m\xe1s fuerte","row_opening":"Abri\xe9ndose ahora","floor_title":"Por d\xf3nde empezar","floor_note":"Si tienes cualquier inquietud sobre el desarrollo de tu hijo, tu pediatra es la persona indicada para platicarlo.","floor_activities":["Narra lo que hacen juntos — comidas, vestirse, paseos.","Baja al piso y sigue su iniciativa en el juego.","Lean el mismo cuento corto a diario y nombren lo que ven."],"reassure":"Cada ni\xf1o se desarrolla a su propio ritmo. Esto ayuda a entender su viaje \xfanico, no a compararlo con otros.","celebrate_title":"\xa1Listo! \uD83C\uDF89","celebrate_sub":"Gracias por conocer mejor a {name}. Su retrato est\xe1 listo.","see_portrait":"Ver su retrato","chip_yes":"S\xed","chip_not_yet":"A\xfan no","next_label":"Siguiente","see_results_btn":"Ver los resultados de {name}","deep_title":"M\xe1s detalle por \xe1rea","deep_reading_complete":"Su lectura ya est\xe1 completa. Estas preguntas extra no cambian el n\xfamero general — afinan el detalle de cada \xe1rea y cada habilidad.","primer1_title":"C\xf3mo contestar","primer1_body":"Solo hay dos respuestas, y ninguna es mala. Lo importante es que todas las mam\xe1s contesten con la misma regla — as\xed la lectura de tu hijo es comparable.","primer1_yes":"**S\xed** — ya lo hace de forma constante, no una sola vez.","primer1_not":"**A\xfan no** — todav\xeda no lo hace, o no est\xe1s segura. Ante la duda, \\"A\xfan no\\".","primer1_none":"Un \\"A\xfan no\\" es tan \xfatil como un \\"S\xed\\". Los dos nos dicen d\xf3nde est\xe1.","primer2_title":"Vas a ver cosas que todav\xeda no hace","primer2_body":"Es a prop\xf3sito. Preguntamos justo en el borde de lo que {name} est\xe1 aprendiendo, porque ah\xed es donde se ve su avance. Una pregunta que todos los ni\xf1os de su edad ya pasan no nos dice nada.","primer2_half":"Espera contestar \\"A\xfan no\\" como a la mitad. Es normal, y es lo que hace precisa la lectura.","primer2_older":"Algunas van a sonar muy grandes para \xe9l. Tambi\xe9n son a prop\xf3sito.","primer3_title":"Elegidas para su edad exacta","primer3_body":"Estas preguntas no son una lista gen\xe9rica: se escogieron para los {n} meses de {name}, de un cat\xe1logo de m\xe1s de 400 hitos.","primer3_pace":"Son entre 5 y 10 minutos. Puedes guardar y seguir despu\xe9s.","primer_next":"Siguiente","primer_start":"Empezar","primer_skip":"Saltar esta introducci\xf3n","_bands":{"ratio_top":"Ya hay mucho en su lugar, y nuevas habilidades siguen abri\xe9ndose.","ratio_high":"Hay bastante abri\xe9ndose en este momento.","ratio_mid":"Una foto estable de lo que est\xe1 practicando hoy.","ratio_low":"Sus habilidades se construyen a su propio ritmo.","below_floor":"Vale la pena explorarlo acompa\xf1ada. Estas actividades son un buen lugar para empezar."}},"en":{"picture_title":"Today\'s picture","dev_detail_name":"At {age} months, {name} is showing the skills of a typical {D}-month-old.","at_least":"{name}+ months","around":"around {name} months","faster_note":"Right now {name} is picking things up faster than we usually see at this age.","band_axis_slower":"slower","band_axis_faster":"faster","band_axis_note":"the green band is the usual range for this age","band_axis_capped":" \xb7 their dot is a lower bound","ceiling_note":"A “+” means they passed every question in that area: their level is above what these questions can reach, so the number is a floor, not a ceiling.","areas_title":"By area","needs_more":"more answers needed to place this area","not_enough":"not enough answers yet","area_in_range":"within the usual range for their age","area_above_range":"above the usual range","teaser":"{name} looks like their strongest area — unlock the full profile to see all four.","row_reading":"Overall","row_strongest":"Strongest area","row_opening":"Opening up now","floor_title":"Where to start","floor_note":"If you have any concerns about your child\'s development, your pediatrician is the right person to ask.","floor_activities":["Narrate what you do together — meals, dressing, walks.","Get on the floor and follow their lead in play.","Read the same short book daily and name what you both see."],"reassure":"Every child develops at their own pace. This helps you understand their unique journey — not compare them to others.","celebrate_title":"All done! \uD83C\uDF89","celebrate_sub":"Thank you for getting to know {name} better. Their portrait is ready.","see_portrait":"See their portrait","chip_yes":"Yes","chip_not_yet":"Not yet","next_label":"Next","see_results_btn":"See {name}\'s results","deep_title":"More detail by area","deep_reading_complete":"Their reading is already complete. These extra questions don\'t change the overall number — they sharpen the detail of each area and skill.","primer1_title":"How to answer","primer1_body":"There are only two answers and neither is a bad one. What matters is that everyone answers by the same rule — that is what makes your child\'s reading comparable.","primer1_yes":"**Yes** — they do it consistently, not just once.","primer1_not":"**Not yet** — they don\'t do it yet, or you\'re not sure. When in doubt, \\"Not yet\\".","primer1_none":"A \\"Not yet\\" is just as useful as a \\"Yes\\". Both tell us where they are.","primer2_title":"You\'ll see things they can\'t do yet","primer2_body":"That\'s on purpose. We ask right at the edge of what {name} is learning, because that is where progress shows. A question every child their age already passes tells us nothing.","primer2_half":"Expect to answer \\"Not yet\\" about half the time. That is normal, and it is what makes the reading precise.","primer2_older":"A few will sound far too old for them. Those are deliberate too.","primer3_title":"Chosen for their exact age","primer3_body":"These aren\'t a generic list: they were picked for {name} at {n} months, from a catalogue of more than 400 milestones.","primer3_pace":"It takes 5 to 10 minutes. You can save and come back.","primer_next":"Next","primer_start":"Start","primer_skip":"Skip this intro","_bands":{"ratio_top":"A lot is already in place, and new skills keep opening up.","ratio_high":"There\'s plenty opening up right now.","ratio_mid":"A steady picture of what they\'re practicing today.","ratio_low":"Skills are building at their own rhythm.","below_floor":"Worth exploring together. These activities are a good place to start."}},"pt":{"picture_title":"A foto de hoje","dev_detail_name":"Aos {age} meses, {name} est\xe1 mostrando as habilidades de uma crian\xe7a t\xedpica de {D} meses.","at_least":"{name}+ meses","around":"cerca de {name} meses","faster_note":"Neste momento {name} est\xe1 avan\xe7ando mais r\xe1pido do que costumamos ver nesta idade.","band_axis_slower":"mais devagar","band_axis_faster":"mais r\xe1pido","band_axis_note":"a faixa verde \xe9 o intervalo habitual para essa idade","band_axis_capped":" \xb7 o ponto dele \xe9 um limite inferior","ceiling_note":"Um “+” significa que ele passou por todas as perguntas dessa \xe1rea: o n\xedvel dele est\xe1 acima do que estas perguntas conseguem medir, ent\xe3o o n\xfamero \xe9 um piso, n\xe3o um teto.","areas_title":"Por \xe1rea","needs_more":"faltam respostas para situar esta \xe1rea","not_enough":"ainda n\xe3o h\xe1 respostas suficientes","area_in_range":"dentro da faixa habitual para a idade","area_above_range":"acima da faixa habitual","teaser":"{name} parece ser a \xe1rea mais forte dele — desbloqueie o perfil completo para ver as quatro.","row_reading":"Geral","row_strongest":"\xc1rea mais forte","row_opening":"Se abrindo agora","floor_title":"Por onde come\xe7ar","floor_note":"Se voc\xea tiver qualquer d\xfavida sobre o desenvolvimento do seu filho, o pediatra \xe9 a pessoa certa para conversar.","floor_activities":["Narre o que voc\xeas fazem juntos — refei\xe7\xf5es, hora de vestir, passeios.","Sente no ch\xe3o e siga a iniciativa dele na brincadeira.","Leiam o mesmo livrinho todos os dias e nomeiem o que voc\xeas veem."],"reassure":"Cada crian\xe7a se desenvolve no seu pr\xf3prio ritmo. Isto ajuda voc\xea a entender a jornada \xfanica dela — n\xe3o a compar\xe1-la com outras.","celebrate_title":"Tudo pronto! \uD83C\uDF89","celebrate_sub":"Obrigado por conhecer {name} um pouco melhor. O retrato dele est\xe1 pronto.","see_portrait":"Ver o retrato dele","chip_yes":"Sim","chip_not_yet":"Ainda n\xe3o","next_label":"Pr\xf3ximo","see_results_btn":"Ver os resultados de {name}","deep_title":"Mais detalhe por \xe1rea","deep_reading_complete":"A leitura dele j\xe1 est\xe1 completa. Estas perguntas extras n\xe3o mudam o n\xfamero geral — elas afinam o detalhe de cada \xe1rea e cada habilidade.","primer1_title":"Como responder","primer1_body":"H\xe1 apenas duas respostas, e nenhuma \xe9 ruim. O que importa \xe9 que todos respondam pela mesma regra — \xe9 isso que torna a leitura do seu filho compar\xe1vel.","primer1_yes":"**Sim** — j\xe1 faz de forma consistente, n\xe3o s\xf3 uma vez.","primer1_not":"**Ainda n\xe3o** — ainda n\xe3o faz, ou voc\xea n\xe3o tem certeza. Na d\xfavida, \\"Ainda n\xe3o\\".","primer1_none":"Um \\"Ainda n\xe3o\\" \xe9 t\xe3o \xfatil quanto um \\"Sim\\". Os dois dizem onde ele est\xe1.","primer2_title":"Voc\xea vai ver coisas que ele ainda n\xe3o faz","primer2_body":"\xc9 de prop\xf3sito. Perguntamos bem na borda do que {name} est\xe1 aprendendo, porque \xe9 ali que o avan\xe7o aparece. Uma pergunta que toda crian\xe7a dessa idade j\xe1 passa n\xe3o diz nada.","primer2_half":"Espere responder \\"Ainda n\xe3o\\" em cerca de metade. \xc9 normal, e \xe9 o que torna a leitura precisa.","primer2_older":"Algumas v\xe3o soar grandes demais para ele. Essas tamb\xe9m s\xe3o propositais.","primer3_title":"Escolhidas para a idade exata dele","primer3_body":"Estas n\xe3o s\xe3o uma lista gen\xe9rica: foram escolhidas para {name} aos {n} meses, de um cat\xe1logo de mais de 400 marcos.","primer3_pace":"Leva de 5 a 10 minutos. Voc\xea pode salvar e voltar depois.","primer_next":"Pr\xf3ximo","primer_start":"Come\xe7ar","primer_skip":"Pular esta introdu\xe7\xe3o","_bands":{"ratio_top":"Muita coisa j\xe1 est\xe1 no lugar, e novas habilidades seguem se abrindo.","ratio_high":"Tem bastante coisa se abrindo neste momento.","ratio_mid":"Uma foto est\xe1vel do que ele est\xe1 praticando hoje.","ratio_low":"As habilidades se constroem no ritmo dele.","below_floor":"Vale a pena explorar junto. Estas atividades s\xe3o um bom lugar para come\xe7ar."}}}}')
+    },
+    5668: function(e) {
+      e.exports = JSON.parse('{"1":"Abre la mano para tomar algo que le das.","3":"Mueve los brazos cuando ve algo que le gusta.","4":"Se pone en cuclillas para recoger cosas mientras camina.","5":"Imita lo que hacen sus amigos al jugar, como construir torres cuando ellos lo hacen.","6":"Cambia su atenci\xf3n entre dos objetos.","7":"Intenta copiar las palabras que dices.","9":"Boca abajo, puede levantar la parte superior de su cuerpo.","12":"Busca juguetes escondidos.","14":"Sostiene dos objetos con una mano.","15":"Camina o se desplaza apoy\xe1ndose en muebles grandes.","16":"Da un par de pasos por s\xed solo.","17":"Gatea.","19":"Sigue instrucciones simples de un paso (como \'Recoge el juguete\').","20":"Levanta los brazos para que lo cargues.","21":"Se mantiene encogido, con los brazos y las rodillas pegados al cuerpo.","22":"Saluda o se despide con movimientos de la mano.","23":"Balbucea como si conversara contigo y respeta turnos al hablar.","24":"Dice al menos una palabra con significado, como \'eta\' para \'galleta\'.","26":"Mira fijamente a la persona que le habla.","27":"Mira las cosas o personas cuando dices su nombre.","28":"Elige prestar atenci\xf3n a una persona o situaci\xf3n.","30":"Sostiene la cabeza por s\xed solo.","31":"Repite sonidos como \'baba\' o \'dada\'.","32":"Nombra correctamente al menos tres objetos.","33":"Intenta sentarse cuando est\xe1 boca arriba mientras lo jalas de las manos.","34":"Mete objetos en espacios peque\xf1os, como monedas en una alcanc\xeda.","35":"Prueba la causa y efecto dejando caer un objeto para ver si lo recoges.","36":"Muestra preferencia por ciertas personas.","37":"Se estira para alcanzar lo que quiere moviendo su cuerpo.","38":"Se sobresalta con los sonidos fuertes.","39":"Prueba qu\xe9 tan alto puede llegar cuando trepa.","40":"Explora su propio cuerpo con las manos.","41":"Se lleva las manos a la boca.","43":"Cuando presionas o apoyas sus pies contra una superficie firme, estira las piernas.","47":"Enrosca y desenrosca la tapa de una botella.","51":"Reacciona a diferentes tonos de voz.","53":"Copia lo que hacen sus cuidadores, como sacar un tel\xe9fono de juguete de una bolsa y decir \'hola\'.","54":"Imita un sonido como \'pa\' despu\xe9s de que lo dices.","55":"Copia sonidos de animales.","57":"Activa y detiene un juguete por s\xed solo.","63":"Observa con curiosidad y atenci\xf3n mientras haces cosas.","64":"Usa un brazo para levantar la parte superior de su cuerpo cuando est\xe1 boca abajo.","67":"Sabe qu\xe9 significa \'no\'.","69":"Identifica a los animales por su sonido.","71":"Da vuelta a las p\xe1ginas de un libro.","72":"Sube escaleras gateando.","73":"Agarra objetos y se los lleva a la boca.","75":"Boca abajo, levanta la cabeza por un momento.","78":"Se molesta cuando interrumpen su juego.","79":"Da a conocer lo que le gusta y lo que no con expresiones faciales.","81":"Se mira las manos por unos segundos.","82":"Explora y toca una mano con la otra a prop\xf3sito.","84":"Comparte sus juguetes con otros ni\xf1os.","85":"Ayuda a vestirse y desvestirse moviendo las partes del cuerpo correctas.","86":"Boca arriba, levanta y patalea con las piernas.","88":"Pide ayuda con gestos.","89":"Se mantiene concentrado en algo o alguien por un rato (1 minuto).","90":"Escucha a las personas hablar.","91":"Gira la cabeza hacia ambos lados cuando lo cargan en posici\xf3n vertical.","92":"Se voltea hacia ambos lados por s\xed solo.","93":"Le gustan m\xe1s las cosas suaves que las \xe1speras.","95":"Reacciona al verse en un espejo.","97":"Reconoce a sus cuidadores.","102":"Muestra inter\xe9s por las cosas desconocidas a su alrededor y las explora.","103":"Puede usar correctamente algunos objetos cotidianos (como beber de una taza o marcar un tel\xe9fono).","108":"Repite sonidos o acciones para que la gente lo mire.","109":"Entiende frases de tres palabras, como \'\xa1Mira, un perro!\'","110":"Cuando escucha su nombre, se acerca a la persona gateando, caminando o volteando hacia ella.","111":"Se comporta diferente con adultos conocidos y desconocidos.","112":"Se r\xede a carcajadas.","113":"Pasa de sentado a parado apoy\xe1ndose en un objeto grande, como un mueble.","114":"Se agarra los pies con las manos mientras est\xe1 boca arriba.","115":"Se apoya en codos y antebrazos para levantar la parte superior del cuerpo cuando est\xe1 boca abajo.","116":"Se arrastra para alcanzar algo que quiere.","117":"Presta atenci\xf3n a lugares y cosas nuevas.","118":"Se sienta por s\xed solo.","120":"Reconoce su reflejo en el espejo.","122":"Se calma al escuchar voces conocidas.","124":"Camina cuando alguien lo lleva de las manos.","126":"Les \'habla\' a otros beb\xe9s con balbuceos.","129":"Responde positivamente a los gestos de cari\xf1o.","130":"Controla su torso y cuello cuando un cuidador lo sostiene con los pies en el suelo.","131":"Agarra tu dedo o un objeto que pongas en su mano.","132":"Mantiene la cabeza estable, aunque todav\xeda necesita apoyo cuando lo cargan en posici\xf3n vertical.","133":"Agarra dos cosas, una en cada mano.","135":"Suelta a prop\xf3sito las cosas que sostiene.","136":"Boca arriba, mantiene las piernas abiertas en posici\xf3n de mariposa.","138":"Responde positivamente al contacto f\xedsico.","139":"Abre y cierra puertas y cajones usando las manijas.","140":"Usa una cosa para mover o empujar otra.","143":"Responde con balbuceos cuando le hablas.","144":"Gira la cabeza hacia la mano despu\xe9s de una caricia en la mejilla.","145":"Mira en la direcci\xf3n de un ruido.","146":"Abre y cierra las manos cuando le tocas la palma.","148":"Entiende reglas simples, como pintar en el papel y no en la mesa.","149":"Sacude objetos.","150":"Muestra el reflejo de Moro al levantar los brazos y estirar la espalda y el cuello cuando se sobresalta.","151":"Se voltea de boca abajo a boca arriba.","152":"Agarra las cosas con toda la mano.","153":"Se estira hacia algo y lo agarra.","157":"Relaciona sonidos con objetos, como el timbre con la puerta.","158":"Extiende los brazos hacia el frente cuando est\xe1 boca abajo.","159":"Estira brazos y piernas cuando est\xe1 boca abajo.","160":"Gira balance\xe1ndose de lado a lado mientras est\xe1 boca abajo.","162":"Boca arriba, levanta la cabeza y hace el esfuerzo de sentarse.","164":"Se mueve en diferentes direcciones al gatear.","165":"Cambia objetos de una mano a la otra.","168":"Patea una pelota mientras lo ayudan a caminar.","172":"Mete cosas en recipientes.","173":"Se coloca en posici\xf3n de gateo sobre manos y rodillas.","179":"Apila dos o m\xe1s bloques para hacer una torre.","182":"Camina por espacios angostos.","183":"Busca un objeto que se le cay\xf3 al suelo.","185":"Despeja el camino para agarrar lo que busca.","186":"Se siente t\xedmido o ansioso al conocer adultos nuevos.","188":"Toma conciencia de su entorno.","189":"Imita gestos simples despu\xe9s de verlos.","193":"Muestra el reflejo de Babinski al abrir los dedos del pie cuando le tocan la planta.","196":"Usa sonidos como \'m, n, p, t, d\' al balbucear.","197":"Hace sonidos de vocales como \'eh\' o \'ah\'.","199":"Entiende que los objetos tienen diferentes formas, texturas y tama\xf1os.","201":"Mantiene los pu\xf1os cerrados con fuerza.","203":"Descubre cosas escondidas bajo cobijas o mantas.","206":"Busca un juguete que acaba de ser escondido.","207":"Boca arriba, levanta las piernas unos 10 cm (4 pulgadas) del suelo.","208":"Pasa de estar parado a sentado sin ayuda.","209":"Pasa de estar sentado a ponerse de rodillas.","212":"Le gustan m\xe1s unas texturas que otras.","214":"Puede mirar un objeto o persona a la distancia de su brazo.","216":"Boca arriba, gira la cabeza a la izquierda y a la derecha.","217":"Golpea dos cosas entre s\xed.","218":"Copia expresiones faciales.","223":"Jala las cosas para acercarlas.","227":"Se sienta derecho y estable cuando se apoya en cojines o muebles.","230":"Gatea por encima o alrededor de obst\xe1culos.","235":"Saca objetos de un recipiente.","236":"Muestra el reflejo de succi\xf3n al succionar cuando algo le toca el paladar.","239":"Avanza impuls\xe1ndose con las piernas mientras est\xe1 boca abajo.","240":"Mira fijamente los rostros de las personas.","241":"Ayuda con tareas cotidianas, como recoger los juguetes.","243":"Reacciona diferente a las cosas calientes y fr\xedas.","245":"Se para sosteni\xe9ndose de algo.","247":"Hace sonidos guturales, como \'ga\' o \'gu\'.","249":"Llama a sus cuidadores \'mam\xe1\' o \'pap\xe1\'.","251":"Sostiene cosas usando todos los dedos menos el pulgar.","252":"Interact\xfaa con personas que conoce sonriendo o hablando.","258":"Te da algo cuando se lo pides.","262":"Se mece hacia adelante y hacia atr\xe1s en posici\xf3n de gateo.","267":"Rueda o se mueve para llegar a donde quiere.","269":"Intenta agarrar algo mientras est\xe1 boca abajo.","270":"Pasa de estar acostado a sentado sin ayuda.","271":"Se para por un momento con ayuda.","272":"Usa los brazos y las manos para ayudarse a mantenerse sentado sin caerse.","278":"Se\xf1ala los objetos que quiere.","279":"Se\xf1ala cosas que conoce cuando dices su nombre.","281":"Gira la cabeza para seguir objetos con la mirada.","283":"Sonr\xede cuando las personas hacen contacto visual.","285":"Sonr\xede por instinto; suele pasar al azar, sobre todo mientras duerme.","288":"Sostiene objetos grandes, como un oso de peluche, con ambas manos.","289":"Muestra el reflejo de b\xfasqueda al abrir la boca y voltear hacia tu mano cuando le acaricias la mejilla.","294":"Agarra un objeto peque\xf1o que pongas en sus manos.","295":"Sostiene objetos peque\xf1os con los dedos \xedndice.","296":"Sostiene cosas con las puntas de los dedos.","298":"Usa ambas manos juntas para manipular objetos, como abrir una caja.","299":"Se estira hacia un objeto con ambas manos.","301":"Usa diferentes tonos en su balbuceo.","303":"Mira a la persona que le habla.","304":"Tiene reacciones positivas, como sonre\xedr, o negativas, como estornudar, ante diferentes olores.","306":"Puede usar una cuchara por s\xed solo.","307":"Puede se\xf1alar al menos una parte del cuerpo cuando se lo pides.","308":"Expresa amor a las personas conocidas, como abraz\xe1ndolas.","309":"Puede caminar mientras sostiene un juguete peque\xf1o.","310":"Mueve juguetes con ruedas.","312":"Aplasta plastilina entre sus manos.","314":"Apila tres o m\xe1s bloques.","315":"Intenta cantar las canciones que conoce.","317":"Encuentra un objeto escondido debajo de varias cobijas.","325":"Pasa de estar parado a ponerse en cuclillas con fluidez, sin sentarse.","329":"Juega a imaginar, como darle de comer a una mu\xf1eca.","330":"Garabatea moviendo todo el brazo desde el hombro.","333":"Escucha con inter\xe9s cuando le hablas.","334":"Sabe la diferencia entre uno, dos y muchos.","335":"Mueve una parte del cuerpo cuando se lo pides.","338":"Aplaude o toca un instrumento al ritmo de una canci\xf3n.","340":"Te muestra cosas se\xf1al\xe1ndolas.","349":"Disfruta jugar solo.","350":"Se mantiene de pie firme sin necesitar apoyo.","352":"Nombra o se\xf1ala diferentes instrumentos de juguete.","353":"Repite palabras que escucha en conversaciones.","354":"Se divierte cuando juega con adultos.","355":"Empuja o jala juguetes mientras camina.","357":"Pasa cosas peque\xf1as de una caja a otra usando el pulgar y el \xedndice.","360":"Se\xf1ala a sus cuidadores, como \'mam\xe1\' o \'pap\xe1\'.","362":"Arruga papel usando ambas manos.","363":"Imita gestos con las manos, como aplaudir, saludar y se\xf1alar.","366":"Relaciona los sonidos de animales con la imagen correcta, como se\xf1alar al perro cuando dices \'guau\'.","368":"Responde preguntas simples con se\xf1as, acciones o palabras.","373":"Dice alrededor de 50 palabras.","375":"Dice cuatro o m\xe1s palabras.","377":"Usa toda la mano para sostener una crayola.","378":"Sostiene objetos peque\xf1os usando el pulgar y el \xedndice.","382":"Sube escaleras con un adulto, alternando los pies.","385":"Sabe la diferencia entre \'arriba\' y \'abajo\'.","386":"Sabe la diferencia entre \'adelante\' y \'atr\xe1s\'.","387":"Sabe la diferencia entre \'adentro\' y \'afuera\'.","391":"Usa palabras con la letra P, como \'pap\xe1\' o \'pelota\'.","394":"Usa palabras con la letra M, como \'mam\xe1\' o \'m\xe1s\'.","395":"Intenta decir la letra T poniendo la lengua detr\xe1s de los dientes.","396":"Se\xf1ala un objeto verde cuando se lo pides.","397":"Se\xf1ala un objeto azul cuando se lo pides.","398":"Se\xf1ala un objeto rojo cuando se lo pides.","399":"Se\xf1ala un objeto amarillo cuando se lo pides.","406":"Copia c\xf3mo los adultos usan las cosas (como fingir que habla por tel\xe9fono despu\xe9s de ver a mam\xe1 hacerlo).","408":"Derriba torres de bloques.","411":"Ayuda a quitarse la ropa, como bajarse los pantalones.","413":"Gatea hacia atr\xe1s para bajar algunos escalones.","414":"Hace bolitas de papel o plastilina con las manos.","415":"Da pasos cortos e inestables por s\xed solo.","417":"Se mueve al ritmo de la m\xfasica.","419":"Junta dos palabras para formar una frase corta, como \'m\xe1s galleta\'.","421":"Completa tareas de dos pasos, como \'Busca tu juguete y tr\xe1elo aqu\xed\'.","427":"Nombra figuras simples como el c\xedrculo, el tri\xe1ngulo o el cuadrado.","429":"Puede se\xf1alar un c\xedrculo.","430":"Se\xf1ala un tri\xe1ngulo.","431":"Se\xf1ala un cuadrado.","435":"Reconoce los nombres de personas conocidas.","436":"Presta atenci\xf3n unos minutos a un adulto que le lee un libro.","437":"Nombra objetos conocidos cuando se lo pides.","438":"Pasa de estar sentado a parado sin ayuda.","439":"Puede pronunciar diez o m\xe1s palabras.","441":"Sabe qu\xe9 cosas pertenecen a los miembros de la familia, como la bolsa de mam\xe1 o la cartera de pap\xe1.","443":"Mueve los brazos en c\xedrculos o de lado a lado, copiando tus movimientos.","445":"Nombra uno o dos alimentos.","451":"Nombra los sentimientos de un personaje en un cuento usando im\xe1genes, como se\xf1alar al personaje feliz.","452":"Copia sonidos cotidianos, como el de un coche o un tel\xe9fono.","454":"Juega y se divierte con otros ni\xf1os.","456":"Avienta una pelota por encima del hombro a una distancia de hasta 3 metros (10 pies).","457":"Recoge las cosas despu\xe9s de aventarlas.","458":"Detiene una pelota que rueda con las manos o el cuerpo.","459":"Juega con objetos mientras est\xe1 de pie.","461":"Explora por su cuenta con un cuidador cerca.","463":"Pega cosas en papel.","464":"Imita a los miembros de la familia durante el juego.","465":"Pide dos o tres cosas por su nombre, como \'mamila\' o \'comida\'.","467":"Rasga papel con ambas manos.","468":"Identifica los sonidos de instrumentos musicales, como tambores o guitarra.","469":"Repite los nombres de las partes del cuerpo cuando los escucha.","470":"Puede levantarse desde una posici\xf3n en cuclillas por s\xed solo.","471":"Baja escaleras con un adulto, alternando los pies.","472":"Encuentra el camino en lugares conocidos, como el cuarto de sus pap\xe1s.","475":"Participa en juegos de imaginaci\xf3n, como disfrazarse o actuar como bombero.","476":"Puede comer por s\xed solo, con o sin cubiertos.","478":"Se\xf1ala o nombra personajes de cuentos conocidos.","481":"Solo mueve la mu\xf1eca al garabatear.","483":"Nombra lugares en im\xe1genes, como parque, casa, mercado.","484":"Ya no se le caen las cosas por accidente.","490":"Dice palabras simples con la letra T, como \'tren\' o \'gato\'.","502":"Clasifica objetos por su tama\xf1o, como encontrar todos los bloques chiquitos en una pila de bloques.","503":"Clasifica cosas por su forma, como encontrar todos los bloques triangulares.","505":"Conoce entre 100 y 300 palabras de uso diario.","509":"Identifica a un ni\xf1o y una ni\xf1a en una imagen.","516":"Dibuja o pinta l\xedneas horizontales.","518":"Dibuja o pinta l\xedneas verticales.","519":"Puede dibujar o pintar con movimientos circulares.","521":"Ordena objetos por color, como encontrar todos los bloques rojos.","523":"Entiende la diferencia entre \'grande\' y \'chico\'.","524":"Completa oraciones de libros o canciones conocidas llenando los espacios.","527":"Describe caracter\xedsticas de objetos, animales o personas (por ejemplo, dice \'roja\' y se\xf1ala una pelota roja).","528":"Patea una pelota estando de pie.","529":"Intenta atrapar una pelota extendiendo los brazos hacia el frente.","530":"Bota una pelota en el suelo.","532":"Forma figuras con plastilina (como un animal).","534":"Usa palabras posesivas, como \'m\xedo\'.","536":"Hace tiras largas de plastilina rod\xe1ndola con las manos o sobre la mesa.","537":"Canta algunas palabras de una canci\xf3n.","538":"Sube por rampas caminando.","540":"Comunica una idea completa con una palabra, como \'parque\' para decir \'ll\xe9vame al parque\'.","544":"Habla brevemente de actividades recientes usando una o dos palabras.","551":"Copia lo que hacen los adultos al jugar, como arrullar y darle de comer a una mu\xf1eca como si fuera un beb\xe9.","558":"Mete cosas como un cord\xf3n en un agujero peque\xf1o.","559":"Dibuja l\xedneas en papel usando su dedo.","564":"Responde preguntas simples sobre una imagen (por ejemplo, si le preguntas \'\xbfde qu\xe9 color son las hojas?\', responde \'verdes\').","565":"Usa correctamente objetos de cuidado personal como el cepillo de pelo y el cepillo de dientes.","566":"Responde preguntas simples sobre un cuento.","568":"Nombra o se\xf1ala las herramientas que se usan en diferentes trabajos (como el estetoscopio del doctor).","569":"Entiende qu\xe9 es hablar fuerte y qu\xe9 es hablar bajito, y sabe cu\xe1ndo usar cada uno, como cu\xe1ndo hablar en voz baja.","572":"Nombra las cosas por su sonido, como decir \'tel\xe9fono\' cuando suena.","573":"Nombra m\xe1s de tres partes del cuerpo.","574":"Sabe para qu\xe9 sirven ciertas partes del cuerpo, como que los o\xeddos son para escuchar.","577":"Prefiere unos alimentos sobre otros.","579":"Identifica a quienes ayudan en la comunidad (como un doctor, un polic\xeda o un bombero).","587":"Dice palabras simples con la letra B, como \'beb\xe9\' o \'boca\'.","588":"Copia acciones f\xe1ciles, como agitar una sonaja.","589":"Pide ayuda balbuceando.","600":"Muestra cari\xf1o espont\xe1neamente a sus amigos.","602":"Muestra empat\xeda cuando ve a un amigo llorar (por ejemplo, intenta consolarlo).","603":"Sabe que algunas cosas le pertenecen y otras no.","606":"Puede abrir un cierre grande.","607":"Puede desabrochar un bot\xf3n grande de su ropa.","608":"Puede bajarse los pantalones.","609":"Sabe quitarse los zapatos.","610":"Se pone zapatos sin agujetas.","611":"Se pone una camisa sin botones.","612":"Se pone los pantalones.","613":"Puede hacer tareas con tres pasos claros, como \'Pon la manzana en el plato, toma agua y luego l\xedmpiate la cara\'.","614":"Nombra correctamente las cosas de uso diario.","615":"Diferencia entre \'sobre\', \'encima\' y \'debajo\', como poner algo debajo de la mesa cuando se lo pides.","617":"Habla con oraciones de cuatro a cinco palabras.","618":"Puede decir su nombre, su edad y su g\xe9nero.","619":"Llama a un amigo por su nombre.","620":"Dice palabras en plural (como coches, perros y gatos).","621":"Usa palabras como \'yo\', \'m\xed\' y \'t\xfa\'.","622":"La mayor\xeda de las personas le entienden cuando habla.","623":"Puede platicar usando de dos a tres oraciones.","625":"Incluye a otras personas o mascotas en sus juegos de imaginaci\xf3n.","627":"Empareja objetos con sus im\xe1genes en los libros.","628":"Entiende el significado de \'dos\' con una se\xf1a de los dedos.","631":"Da vuelta a las p\xe1ginas de un libro una por una.","632":"Apila 6 o m\xe1s bloques para hacer torres.","633":"Gira cosas que dan vueltas, como perillas de juguete o llaves del agua.","634":"Puede abrir y cerrar todo tipo de tapas, como las de frascos, pasta de dientes y botellas de agua.","635":"Trepa con facilidad, como en una escalera de los juegos del parque o en escalones.","637":"Agarra velocidad al moverse, casi como si corriera.","638":"Anda en triciclo.","639":"Puede subir escaleras sosteni\xe9ndose de algo y poniendo un pie despu\xe9s del otro.","640":"Se inclina hacia adelante sin caerse.","641":"Se sienta solo en una silla peque\xf1a.","642":"Patea una pelota hacia una direcci\xf3n espec\xedfica.","643":"Corre hacia una pelota y la patea.","644":"Avienta una pelota grande por encima de su cabeza con ambas manos.","645":"Asigna roles en juegos de imaginaci\xf3n con otros.","646":"Act\xfaa historias siguiendo un orden claro.","647":"Inventa cosas o personajes en sus juegos de imaginaci\xf3n.","648":"Le gusta m\xe1s jugar con amigos que solo.","649":"Coopera con otros ni\xf1os, como trabajar juntos para lograr algo.","650":"Resuelve problemas con otros ni\xf1os, como compartir juguetes o tomar turnos.","651":"Mezcla temas reales y de fantas\xeda al hablar.","653":"Habla de lo que le interesa.","655":"Canta una canci\xf3n de memoria.","656":"Usa oraciones de al menos cinco palabras.","657":"Cuenta una historia.","658":"Dice su nombre y apellido.","659":"Identifica tres o m\xe1s n\xfameros importantes para \xe9l o ella, como su edad o el n\xfamero de su casa.","660":"Nombra dos o m\xe1s colores.","661":"Puede contar cuando se lo pides.","664":"Recuerda partes de un cuento del d\xeda anterior.","665":"Reconoce cosas iguales y cuando son un poco diferentes, como un objeto fuera de lugar.","667":"Puede usar las tijeras correctamente con el pulgar hacia arriba.","670":"Brinca en un pie por 2 segundos.","671":"Mantiene el equilibrio en un pie por dos segundos o m\xe1s.","672":"Atrapa una pelota que rebota.","673":"Corta comida con un cuchillo para ni\xf1os bajo supervisi\xf3n.","674":"Sirve agua de una jarra a una taza con ambas manos.","675":"Come solo con un tenedor, usando toda la mano.","676":"Sube escaleras sin ayuda y sin detenerse de nada.","680":"Salta hacia adelante.","681":"Salta en su lugar con ambos pies.","682":"Salta hacia atr\xe1s.","683":"Se para en una pierna con un poco de ayuda.","684":"Da pasos apoyando el tal\xf3n y luego la punta del pie.","685":"Camina hacia atr\xe1s.","686":"Bebe de una taza con una mano.","687":"Apila 9 o m\xe1s bloques.","688":"Dice palabras simples con la letra N, como \'no\' o \'nena\'.","689":"Dice palabras simples con la letra D, como \'dedo\' o \'d\xeda\'.","690":"Dice palabras simples con la letra K, como \'kilo\' o \'karate\'.","691":"Dice palabras simples con la letra G, como \'gato\' o \'agua\'.","692":"Dice palabras simples con la letra F (como \'foca\' o \'flor\').","693":"Dice palabras simples con la letra Y, como \'yo\' o \'ya\'.","694":"Puede decir qui\xe9nes son sus amigos entre los ni\xf1os que conoce.","695":"Usa los dedos para decir su edad.","696":"Combina sustantivos y verbos, como \'mam\xe1 va\'.","698":"Habla de su d\xeda.","699":"Puede platicar usando cuatro oraciones seguidas.","700":"Responde preguntas b\xe1sicas de \'\xbfqui\xe9n?\', \'\xbfqu\xe9?\' y \'\xbfd\xf3nde?\'.","701":"Dice palabras que riman, como gato-pato.","702":"Nombra partes del cuerpo m\xe1s peque\xf1as (por ejemplo, el codo y las cejas).","703":"Entiende acciones cotidianas, como jugar o correr.","704":"Nombra y describe sus dibujos.","705":"Entiende cu\xe1ndo algo es largo o corto.","706":"Salta hacia adelante con ambos pies a la vez.","707":"Hace que sus juguetes \'hablen\' durante el juego de imaginaci\xf3n.","708":"Se para de puntitas sin ayuda.","709":"Baja las escaleras solo, alternando los pies y usando apoyo.","710":"Baja las escaleras solo, sin detenerse de nada.","711":"Sabe detenerse cuando corre.","712":"Camina de puntitas por cinco pasos.","713":"Salta desde una altura de unos 45 cm (18 pulgadas).","714":"Interact\xfaa con objetos en movimiento (por ejemplo, patea una pelota que se est\xe1 moviendo).","715":"Salta desde un escal\xf3n peque\xf1o.","716":"Al aventar, usa el cuerpo para apuntar (cambia el peso, mueve el brazo).","717":"Atrapa una pelota grande con los brazos y se mantiene firme.","718":"Atrapa una pelota en el aire solo con las manos.","721":"Mueve los brazos en direcci\xf3n opuesta a las piernas al correr.","723":"Corre con los codos doblados.","725":"Puede dar vueltas r\xe1pidas al correr, sin caerse ni detenerse.","726":"Corre con confianza en diferentes superficies, como concreto y pasto.","727":"Corre con direcci\xf3n.","728":"Entiende la diferencia entre \'pesado\' y \'ligero\'.","741":"Cuenta del 1 al 30.","756":"Levanta 5 dedos para indicar 5.","912":"Habla de noticias del peri\xf3dico, la radio, la televisi\xf3n u otras fuentes.","915":"Da instrucciones.","948":"Adapta el tono de su voz a diferentes situaciones (hace preguntas con tono ascendente, muestra sorpresa).","1027":"Agarra y suelta objetos con precisi\xf3n para construir estructuras con materiales de interior (bloques) y de exterior (palitos, hojas).","1127":"Identifica situaciones y actividades que disfruta.","1147":"Juega junto a otro ni\xf1o, pero sin interactuar directamente.","1152":"Se voltea de boca arriba a boca abajo."}')
+    },
+    7578: function(e) {
+      e.exports = JSON.parse('{"1":"Abre a m\xe3o para pegar algo que voc\xea d\xe1.","3":"Mexe os bra\xe7os quando v\xea algo de que gosta.","4":"Se agacha para pegar coisas enquanto anda.","5":"Imita o que os amigos fazem na brincadeira, como construir torres quando eles constroem.","6":"Muda a aten\xe7\xe3o entre dois objetos.","7":"Tenta imitar as palavras que voc\xea fala.","9":"De barriga para baixo, consegue levantar a parte de cima do corpo.","12":"Procura brinquedos escondidos.","14":"Segura dois objetos com uma s\xf3 m\xe3o.","15":"Anda se apoiando em m\xf3veis grandes.","16":"D\xe1 alguns passos sem ajuda.","17":"Engatinha.","19":"Segue instru\xe7\xf5es simples de um passo (como \'Pega o brinquedo\').","20":"Levanta os bra\xe7os para pedir colo.","21":"Fica em posi\xe7\xe3o encolhida, com os bra\xe7os e os joelhos perto do corpo.","22":"Diz oi ou tchau com movimentos das m\xe3os.","23":"Balbucia como se estivesse conversando com voc\xea e respeita a vez de cada um falar.","24":"Fala pelo menos uma palavra com significado, como \'\xe1ua\' para \'\xe1gua\'.","26":"Olha fixamente para a pessoa que est\xe1 falando.","27":"Olha para as coisas ou pessoas quando voc\xea diz o nome delas.","28":"Escolhe prestar aten\xe7\xe3o em uma pessoa ou situa\xe7\xe3o.","30":"Sustenta a cabe\xe7a sem ajuda.","31":"Repete sons como \'baba\' ou \'dada\'.","32":"Nomeia pelo menos tr\xeas objetos corretamente.","33":"Tenta sentar quando est\xe1 de barriga para cima e voc\xea puxa pelas m\xe3os.","34":"Coloca objetos em espa\xe7os pequenos, como moedas em um cofrinho.","35":"Testa causa e efeito ao soltar um objeto para ver se voc\xea o pega.","36":"Demonstra prefer\xeancia por certas pessoas.","37":"Mexe o corpo para alcan\xe7ar as coisas que quer.","38":"Se assusta com sons altos.","39":"Testa at\xe9 que altura consegue chegar ao escalar.","40":"Explora o pr\xf3prio corpo com as m\xe3os.","41":"Leva as m\xe3os \xe0 boca.","43":"Quando voc\xea pressiona ou apoia os p\xe9s da crian\xe7a em uma superf\xedcie firme, ela estica as pernas.","47":"Rosqueia e desrosqueia a tampa de uma garrafa.","51":"Reage a diferentes tons de voz.","53":"Imita o que os cuidadores fazem, como tirar um telefone de brinquedo da bolsa e dizer \'al\xf4\'.","54":"Imita um som como \'pa\' depois de voc\xea falar.","55":"Imita sons de animais.","57":"Liga e desliga um brinquedo sem ajuda.","63":"Observa com curiosidade e aten\xe7\xe3o enquanto voc\xea faz as coisas.","64":"Usa um bra\xe7o para levantar a parte de cima do corpo quando est\xe1 de barriga para baixo.","67":"Entende o significado de \'n\xe3o\'.","69":"Identifica animais pelo som que fazem.","71":"Vira as p\xe1ginas de um livro.","72":"Sobe escadas engatinhando.","73":"Pega objetos e leva \xe0 boca.","75":"De barriga para baixo, levanta a cabe\xe7a por um curto per\xedodo.","78":"Demonstra inc\xf4modo quando a brincadeira \xe9 interrompida.","79":"Mostra do que gosta e do que n\xe3o gosta por meio de express\xf5es faciais.","81":"Olha fixamente para as pr\xf3prias m\xe3os por alguns segundos.","82":"Explora e toca uma das m\xe3os com a outra de prop\xf3sito.","84":"Divide os brinquedos com outras crian\xe7as.","85":"Ajuda a vestir e tirar a roupa movendo as partes certas do corpo.","86":"De barriga para cima, levanta e chuta as pernas.","88":"Pede ajuda por meio de gestos.","89":"Mant\xe9m a aten\xe7\xe3o em algo ou algu\xe9m por um tempo (1 minuto).","90":"Escuta as pessoas conversando.","91":"Vira a cabe\xe7a para os dois lados quando est\xe1 na posi\xe7\xe3o vertical.","92":"Rola para os dois lados sem ajuda.","93":"Gosta mais de coisas macias do que de coisas \xe1speras.","95":"Reage ao se ver no espelho.","97":"Reconhece os cuidadores.","102":"Demonstra interesse pelas coisas desconhecidas ao redor e as explora.","103":"Usa corretamente alguns objetos do dia a dia (como beber em um copo ou discar em um telefone).","108":"Repete sons ou a\xe7\xf5es para chamar a aten\xe7\xe3o das pessoas.","109":"Entende frases de tr\xeas palavras, como \'Olha, um cachorro!\'","110":"Quando escuta o pr\xf3prio nome, se aproxima da pessoa engatinhando, andando ou virando na dire\xe7\xe3o dela.","111":"Age de um jeito com adultos conhecidos e de outro com adultos desconhecidos.","112":"D\xe1 risada alta.","113":"Passa da posi\xe7\xe3o sentada para de p\xe9 com o apoio de um objeto grande, como um m\xf3vel.","114":"Segura os p\xe9s com as m\xe3os quando est\xe1 de barriga para cima.","115":"Apoia a parte de cima do corpo nos cotovelos e antebra\xe7os quando est\xe1 de barriga para baixo.","116":"Se arrasta para alcan\xe7ar algo que quer.","117":"Presta aten\xe7\xe3o em lugares e coisas novas.","118":"Se senta sem apoio.","120":"Reconhece o pr\xf3prio reflexo no espelho.","122":"Se acalma ao ouvir vozes conhecidas.","124":"Anda quando algu\xe9m segura pelas m\xe3os.","126":"\'Conversa\' com outros beb\xeas por meio de balbucios.","129":"Responde de forma positiva a gestos de carinho.","130":"Controla o tronco e o pesco\xe7o quando um cuidador segura a crian\xe7a com os p\xe9s no ch\xe3o.","131":"Segura o seu dedo ou um objeto colocado na m\xe3o.","132":"Mant\xe9m a cabe\xe7a est\xe1vel, mas ainda precisa de apoio quando est\xe1 no colo na posi\xe7\xe3o vertical.","133":"Segura duas coisas, uma em cada m\xe3o.","135":"Solta de prop\xf3sito as coisas que est\xe1 segurando.","136":"De barriga para cima, fica com as pernas abertas em posi\xe7\xe3o de borboleta.","138":"Responde de forma positiva ao toque.","139":"Abre e fecha portas e gavetas usando as ma\xe7anetas e puxadores.","140":"Usa uma coisa para mover ou empurrar outra.","143":"Responde com balbucios quando voc\xea fala.","144":"Vira a cabe\xe7a em dire\xe7\xe3o \xe0 m\xe3o depois de um carinho na bochecha.","145":"Olha na dire\xe7\xe3o de um barulho.","146":"Abre e fecha as m\xe3os quando voc\xea toca a palma.","148":"Entende regras simples, como pintar no papel e n\xe3o na mesa.","149":"Sacode objetos.","150":"Apresenta o reflexo de Moro: levanta os bra\xe7os e estica as costas e o pesco\xe7o ao se assustar.","151":"Vira de barriga para baixo para barriga para cima.","152":"Pega as coisas com a m\xe3o inteira.","153":"Estica o bra\xe7o para alcan\xe7ar algo e pega.","157":"Relaciona o som ao objeto, como a campainha \xe0 porta.","158":"Estica os bra\xe7os para a frente quando est\xe1 de barriga para baixo.","159":"Estica os bra\xe7os e as pernas quando est\xe1 de barriga para baixo.","160":"Gira se balan\xe7ando de um lado para o outro quando est\xe1 de barriga para baixo.","162":"De barriga para cima, levanta a cabe\xe7a e faz for\xe7a para sentar.","164":"Se move em diferentes dire\xe7\xf5es ao engatinhar.","165":"Passa as coisas de uma m\xe3o para a outra.","168":"Chuta uma bola enquanto recebe ajuda para andar.","172":"Coloca coisas dentro de recipientes.","173":"Fica na posi\xe7\xe3o de engatinhar, com apoio nas m\xe3os e nos joelhos.","179":"Empilha dois ou mais blocos para fazer uma torre.","182":"Anda por espa\xe7os estreitos.","183":"Procura um objeto que derrubou no ch\xe3o.","185":"Tira o que est\xe1 no caminho para pegar o que quer.","186":"Demonstra timidez ou ansiedade ao conhecer adultos novos.","188":"Passa a perceber o ambiente ao redor.","189":"Imita gestos simples depois de v\xea-los.","193":"Apresenta o reflexo de Babinski: abre os dedos do p\xe9 quando a sola do p\xe9 \xe9 tocada.","196":"Usa sons como \'m, n, p, t, d\' ao balbuciar.","197":"Faz sons de vogais, como \'\xea\' ou \'\xe1\'.","199":"Entende que os objetos t\xeam formas, texturas e tamanhos diferentes.","201":"Segura e fecha os punhos com for\xe7a.","203":"Descobre coisas escondidas embaixo de cobertores ou mantas.","206":"Procura um brinquedo que acabou de ser escondido.","207":"De barriga para cima, levanta as pernas cerca de 10 cm do ch\xe3o.","208":"Passa da posi\xe7\xe3o de p\xe9 para a sentada sem ajuda.","209":"Passa da posi\xe7\xe3o sentada para a de joelhos.","212":"Gosta mais de umas texturas do que de outras.","214":"Consegue olhar para um objeto ou pessoa \xe0 dist\xe2ncia de um bra\xe7o.","216":"De barriga para cima, vira a cabe\xe7a para a esquerda e para a direita.","217":"Bate duas coisas uma na outra.","218":"Imita express\xf5es faciais.","223":"Puxa as coisas para perto.","227":"Se senta com o corpo ereto e firme quando se apoia em almofadas ou m\xf3veis.","230":"Engatinha por cima ou em volta de obst\xe1culos.","235":"Tira objetos de dentro de um recipiente.","236":"Apresenta o reflexo de suc\xe7\xe3o: suga quando algo toca o c\xe9u da boca.","239":"Avan\xe7a se impulsionando com as pernas quando est\xe1 de barriga para baixo.","240":"Olha fixamente para o rosto das pessoas.","241":"Ajuda em tarefas do dia a dia, como guardar os brinquedos.","243":"Reage de formas diferentes a coisas quentes e frias.","245":"Fica de p\xe9 segurando em algo.","247":"Faz sons guturais, como \'ga\' ou \'gu\'.","249":"Chama os cuidadores de \'mam\xe3e\' ou \'papai\'.","251":"Segura as coisas usando todos os dedos, menos o polegar.","252":"Interage com pessoas conhecidas sorrindo e/ou falando.","258":"Entrega algo a voc\xea quando pede.","262":"Se balan\xe7a para a frente e para tr\xe1s na posi\xe7\xe3o de engatinhar.","267":"Rola ou se movimenta para chegar aonde quer.","269":"Tenta pegar algo quando est\xe1 de barriga para baixo.","270":"Passa da posi\xe7\xe3o deitada para a sentada sem ajuda.","271":"Fica de p\xe9 por pouco tempo com ajuda.","272":"Usa os bra\xe7os e as m\xe3os para se apoiar e sentar sem cair.","278":"Aponta para os objetos que quer.","279":"Aponta para coisas que conhece quando voc\xea diz o nome delas.","281":"Vira a cabe\xe7a para acompanhar objetos com os olhos.","283":"Sorri quando as pessoas fazem contato visual.","285":"Sorri por instinto; isso costuma acontecer de forma aleat\xf3ria, principalmente durante o sono.","288":"Segura objetos grandes, como um ursinho de pel\xfacia, com as duas m\xe3os.","289":"Apresenta o reflexo de busca: abre a boca e vira em dire\xe7\xe3o \xe0 sua m\xe3o quando voc\xea faz carinho na bochecha.","294":"Pega um objeto pequeno colocado nas m\xe3os.","295":"Segura objetos pequenos com os dedos indicadores.","296":"Segura as coisas com as pontas dos dedos.","298":"Usa as duas m\xe3os juntas para manipular objetos, como abrir uma caixa.","299":"Estica as duas m\xe3os para alcan\xe7ar um objeto.","301":"Usa tons diferentes ao balbuciar.","303":"Olha para a pessoa que est\xe1 falando com a crian\xe7a.","304":"Tem rea\xe7\xf5es positivas, como sorrir, ou negativas, como espirrar, diante de cheiros diferentes.","306":"Consegue usar a colher sem ajuda.","307":"Consegue apontar para pelo menos uma parte do corpo quando voc\xea pede.","308":"Demonstra carinho por pessoas conhecidas, como dando abra\xe7os.","309":"Consegue andar segurando um brinquedo pequeno.","310":"Movimenta brinquedos com rodinhas.","312":"Aperta massinha entre as m\xe3os.","314":"Empilha tr\xeas ou mais blocos.","315":"Tenta cantar junto com m\xfasicas conhecidas.","317":"Encontra um objeto escondido embaixo de v\xe1rios cobertores.","325":"Passa da posi\xe7\xe3o de p\xe9 para a de c\xf3coras com fluidez, sem sentar.","329":"Brinca de faz de conta, como dar comidinha para uma boneca.","330":"Rabisca movimentando o bra\xe7o inteiro a partir do ombro.","333":"Escuta com interesse quando voc\xea fala.","334":"Sabe a diferen\xe7a entre um, dois e muitos.","335":"Mexe uma parte do corpo quando voc\xea pede.","338":"Bate palmas ou toca um instrumento no ritmo de uma m\xfasica.","340":"Mostra coisas a voc\xea apontando para elas.","349":"Gosta de brincar por conta pr\xf3pria.","350":"Fica de p\xe9 com firmeza, sem precisar de apoio.","352":"Nomeia ou aponta para diferentes instrumentos de brinquedo.","353":"Repete palavras que ouve em conversas.","354":"Se diverte ao brincar com adultos.","355":"Empurra ou puxa brinquedos enquanto anda.","357":"Passa coisas pequenas de uma caixa para outra usando o polegar e o indicador.","360":"Aponta para os cuidadores, como \'mam\xe3e\' ou \'papai\'.","362":"Amassa papel usando as duas m\xe3os.","363":"Imita gestos com as m\xe3os, como bater palmas, acenar e apontar.","366":"Relaciona os sons dos animais com a imagem certa, como apontar para o cachorro quando voc\xea diz \'au au\'.","368":"Responde a perguntas simples com sinais, a\xe7\xf5es ou palavras.","373":"Fala cerca de 50 palavras.","375":"Fala quatro ou mais palavras.","377":"Usa a m\xe3o inteira para segurar o giz de cera.","378":"Segura objetos pequenos usando o polegar e o indicador.","382":"Sobe escadas com um adulto, alternando os p\xe9s.","385":"Sabe a diferen\xe7a entre \'em cima\' e \'embaixo\'.","386":"Sabe a diferen\xe7a entre \'na frente\' e \'atr\xe1s\'.","387":"Sabe a diferen\xe7a entre \'dentro\' e \'fora\'.","391":"Usa palavras com a letra P, como \'papai\' ou \'sapo\'.","394":"Usa palavras com a letra M, como \'mam\xe3e\' ou \'m\xe3o\'.","395":"Tenta falar a letra T colocando a l\xedngua atr\xe1s dos dentes.","396":"Aponta para um objeto verde quando voc\xea pede.","397":"Aponta para um objeto azul quando voc\xea pede.","398":"Aponta para um objeto vermelho quando voc\xea pede.","399":"Aponta para um objeto amarelo quando voc\xea pede.","406":"Imita como os adultos usam as coisas (como fingir que fala ao telefone depois de ver a m\xe3e fazendo isso).","408":"Derruba torres de blocos.","411":"Ajuda a tirar a roupa, como abaixar a cal\xe7a.","413":"Engatinha de costas para descer alguns degraus.","414":"Faz bolinhas de papel ou de massinha com as m\xe3os.","415":"D\xe1 passos curtos e sem firmeza sem ajuda.","417":"Se movimenta no ritmo da m\xfasica.","419":"Junta duas palavras para formar uma frase curta, como \'mais bolacha\'.","421":"Completa tarefas de dois passos, como \'Acha o seu brinquedo e traz aqui\'.","427":"Nomeia formas simples, como c\xedrculo, tri\xe2ngulo ou quadrado.","429":"Consegue apontar para um c\xedrculo.","430":"Aponta para um tri\xe2ngulo.","431":"Aponta para um quadrado.","435":"Reconhece os nomes de pessoas conhecidas.","436":"Presta aten\xe7\xe3o em um adulto lendo um livro por alguns minutos.","437":"Nomeia objetos conhecidos quando voc\xea pede.","438":"Passa da posi\xe7\xe3o sentada para de p\xe9 sem ajuda.","439":"Consegue pronunciar dez ou mais palavras.","441":"Sabe quais coisas pertencem a cada pessoa da fam\xedlia, como a bolsa da m\xe3e ou a carteira do pai.","443":"Balan\xe7a os bra\xe7os em c\xedrculos ou de um lado para o outro, imitando os seus movimentos.","445":"Nomeia um ou dois alimentos.","451":"Nomeia os sentimentos de um personagem de uma hist\xf3ria usando as imagens, como apontar para o personagem feliz.","452":"Imita sons do dia a dia, como o de um carro ou de um telefone.","454":"Brinca e se diverte com outras crian\xe7as.","456":"Joga uma bola por cima do ombro a at\xe9 3 metros de dist\xe2ncia.","457":"Vai buscar as coisas depois de jog\xe1-las.","458":"Para uma bola que est\xe1 rolando com as m\xe3os ou com o corpo.","459":"Brinca com objetos enquanto est\xe1 de p\xe9.","461":"Explora por conta pr\xf3pria com um cuidador por perto.","463":"Cola coisas no papel.","464":"Imita as pessoas da fam\xedlia durante a brincadeira.","465":"Pede duas ou tr\xeas coisas pelo nome, como \'mamadeira\' ou \'comida\'.","467":"Rasga papel com as duas m\xe3os.","468":"Identifica os sons de instrumentos musicais, como tambor ou viol\xe3o.","469":"Repete os nomes das partes do corpo quando os escuta.","470":"Consegue levantar da posi\xe7\xe3o de c\xf3coras sem ajuda.","471":"Desce escadas com um adulto, alternando os p\xe9s.","472":"Encontra o caminho em lugares conhecidos, como o quarto dos pais.","475":"Participa de brincadeiras de faz de conta, como se fantasiar ou agir como bombeiro.","476":"Consegue comer sem ajuda, com ou sem talheres.","478":"Aponta para personagens de hist\xf3rias conhecidas ou os nomeia.","481":"Move s\xf3 o punho ao rabiscar.","483":"Nomeia lugares em imagens, como parque, casa, mercado.","484":"J\xe1 n\xe3o deixa as coisas ca\xedrem sem querer.","490":"Fala palavras simples com a letra T, como \'tatu\' ou \'pato\'.","502":"Separa os objetos por tamanho, como achar todos os blocos pequenos em um monte de blocos.","503":"Separa as coisas por forma, como achar todos os blocos triangulares.","505":"Conhece mais ou menos de 100 a 300 palavras do dia a dia.","509":"Identifica um menino e uma menina em uma imagem.","516":"Desenha ou pinta linhas horizontais.","518":"Desenha ou pinta linhas verticais.","519":"Consegue desenhar ou pintar com movimentos circulares.","521":"Organiza os objetos por cor, como achar todos os blocos vermelhos.","523":"Entende a diferen\xe7a entre \'grande\' e \'pequeno\'.","524":"Completa frases de livros ou m\xfasicas conhecidas preenchendo os espa\xe7os.","527":"Descreve caracter\xedsticas de objetos, animais ou pessoas (por exemplo, diz \'vermelha\' e aponta para uma bola vermelha).","528":"Chuta uma bola enquanto est\xe1 de p\xe9.","529":"Tenta pegar uma bola esticando os bra\xe7os para a frente.","530":"Quica uma bola no ch\xe3o.","532":"Faz formas com massinha (como um animal).","534":"Usa palavras de posse, como \'meu\'.","536":"Faz tiras compridas de massinha rolando com as m\xe3os ou sobre a mesa.","537":"Canta algumas palavras de uma m\xfasica.","538":"Sobe rampas andando.","540":"Comunica uma ideia completa com uma palavra, como \'parque\' para dizer \'me leva ao parque\'.","544":"Fala brevemente sobre atividades recentes usando uma ou duas palavras.","551":"Imita o que os adultos fazem ao brincar, como ninar e dar comidinha para uma boneca como se fosse um beb\xea.","558":"Enfia coisas como um cord\xe3o em um buraco pequeno.","559":"Desenha linhas no papel usando o dedo.","564":"Responde a perguntas simples sobre uma imagem (por exemplo, se voc\xea pergunta \'de que cor s\xe3o as folhas?\', responde \'verdes\').","565":"Usa corretamente objetos de cuidado pessoal, como a escova de cabelo e a escova de dentes.","566":"Responde a perguntas simples sobre uma hist\xf3ria.","568":"Nomeia ou aponta para as ferramentas usadas em diferentes profiss\xf5es (como o estetosc\xf3pio do m\xe9dico).","569":"Entende o que \xe9 falar alto e falar baixo, e sabe quando usar cada um, como quando falar em voz baixa.","572":"Nomeia as coisas pelo som que fazem, como dizer \'telefone\' quando ele toca.","573":"Nomeia mais de tr\xeas partes do corpo.","574":"Sabe para que servem certas partes do corpo, como que as orelhas servem para ouvir.","577":"Prefere alguns alimentos a outros.","579":"Identifica quem ajuda na comunidade (como m\xe9dico, policial ou bombeiro).","587":"Fala palavras simples com a letra B, como \'beb\xea\' ou \'bola\'.","588":"Imita a\xe7\xf5es f\xe1ceis, como sacudir um chocalho.","589":"Pede ajuda balbuciando.","600":"Demonstra carinho pelos amigos de forma espont\xe2nea.","602":"Demonstra empatia ao ver um amigo chorando (por exemplo, tenta consolar).","603":"Sabe que algumas coisas s\xe3o suas e outras n\xe3o.","606":"Consegue abrir um z\xedper grande.","607":"Consegue desabotoar um bot\xe3o grande da roupa.","608":"Consegue abaixar a cal\xe7a.","609":"Sabe tirar os sapatos.","610":"Cal\xe7a sapatos sem cadar\xe7o.","611":"Veste uma camiseta sem bot\xf5es.","612":"Veste a cal\xe7a.","613":"Consegue fazer tarefas com tr\xeas passos claros, como \'Coloca a ma\xe7\xe3 no prato, bebe um pouco de \xe1gua e depois limpa o rosto\'.","614":"Nomeia corretamente as coisas do dia a dia.","615":"Diferencia \'sobre\', \'em cima de\' e \'embaixo de\', como colocar algo embaixo da mesa quando voc\xea pede.","617":"Fala com frases de quatro a cinco palavras.","618":"Consegue dizer o pr\xf3prio nome, a idade e o g\xeanero.","619":"Chama um amigo pelo nome.","620":"Fala palavras no plural (como carros, cachorros e gatos).","621":"Usa palavras como \'eu\', \'mim\' e \'voc\xea\'.","622":"A maioria das pessoas entende quando a crian\xe7a fala.","623":"Consegue conversar usando duas ou tr\xeas frases.","625":"Inclui outras pessoas ou animais de estima\xe7\xe3o nas brincadeiras de faz de conta.","627":"Relaciona objetos com as imagens deles nos livros.","628":"Entende o significado de \'dois\' com um sinal de dedos.","631":"Vira as p\xe1ginas de um livro uma por uma.","632":"Empilha 6 ou mais blocos para fazer torres.","633":"Gira coisas que rodam, como ma\xe7anetas de brinquedo ou torneiras.","634":"Consegue abrir e fechar todo tipo de tampa, como de potes, pasta de dente e garrafas de \xe1gua.","635":"Escala com facilidade, como em uma escada do parquinho ou em degraus.","637":"Ganha velocidade ao se movimentar, quase como se corresse.","638":"Anda de triciclo.","639":"Consegue subir escadas segurando em algo e colocando um p\xe9 depois do outro.","640":"Se inclina para a frente sem cair.","641":"Se senta em uma cadeira pequena sem ajuda.","642":"Chuta uma bola em uma dire\xe7\xe3o espec\xedfica.","643":"Corre at\xe9 a bola e chuta.","644":"Joga uma bola grande por cima da cabe\xe7a com as duas m\xe3os.","645":"Distribui pap\xe9is nas brincadeiras de faz de conta com outras pessoas.","646":"Encena hist\xf3rias seguindo uma ordem clara.","647":"Inventa coisas ou personagens nas brincadeiras de faz de conta.","648":"Gosta mais de brincar com amigos do que de brincar sem companhia.","649":"Coopera com outras crian\xe7as, como trabalhar em conjunto para conseguir algo.","650":"Resolve problemas com outras crian\xe7as, como dividir brinquedos ou revezar a vez.","651":"Mistura assuntos reais e de fantasia ao falar.","653":"Fala sobre o que tem interesse.","655":"Canta uma m\xfasica de mem\xf3ria.","656":"Usa frases com pelo menos cinco palavras.","657":"Conta uma hist\xf3ria.","658":"Fala o nome e o sobrenome.","659":"Identifica tr\xeas ou mais n\xfameros importantes para si, como a idade ou o n\xfamero da casa.","660":"Nomeia duas ou mais cores.","661":"Consegue contar quando voc\xea pede.","664":"Lembra partes de uma hist\xf3ria do dia anterior.","665":"Reconhece coisas iguais e quando s\xe3o um pouco diferentes, como um objeto fora do lugar.","667":"Consegue usar a tesoura corretamente, com o polegar para cima.","670":"Pula em um p\xe9 s\xf3 por 2 segundos.","671":"Se equilibra em um p\xe9 s\xf3 por dois segundos ou mais.","672":"Pega uma bola que quica.","673":"Corta comida com uma faca infantil sob supervis\xe3o.","674":"Serve \xe1gua de uma jarra em um copo com as duas m\xe3os.","675":"Come sem ajuda com um garfo, usando a m\xe3o inteira.","676":"Sobe escadas sem ajuda e sem se segurar em nada.","680":"Pula para a frente.","681":"Pula no mesmo lugar com os dois p\xe9s.","682":"Pula para tr\xe1s.","683":"Fica de p\xe9 em uma perna s\xf3 com um pouco de ajuda.","684":"D\xe1 passos apoiando primeiro o calcanhar e depois a ponta do p\xe9.","685":"Anda para tr\xe1s.","686":"Bebe em um copo com uma m\xe3o.","687":"Empilha 9 ou mais blocos.","688":"Fala palavras simples com a letra N, como \'nariz\' ou \'banana\'.","689":"Fala palavras simples com a letra D, como \'dedo\' ou \'dia\'.","690":"Fala palavras simples com o som da letra K, como \'casa\' ou \'boca\'.","691":"Fala palavras simples com a letra G, como \'gato\' ou \'\xe1gua\'.","692":"Fala palavras simples com a letra F (como \'foca\' ou \'flor\').","693":"Fala palavras simples com o som da letra I, como \'ioi\xf4\' ou \'maio\'.","694":"Consegue dizer quem s\xe3o os amigos entre as crian\xe7as que conhece.","695":"Usa os dedos para mostrar a idade.","696":"Combina substantivos e verbos, como \'mam\xe3e vai\'.","698":"Fala sobre o pr\xf3prio dia.","699":"Consegue conversar usando quatro frases seguidas.","700":"Responde a perguntas b\xe1sicas de \'quem?\', \'o qu\xea?\' e \'onde?\'.","701":"Fala palavras que rimam, como pato-gato.","702":"Nomeia partes menores do corpo (por exemplo, o cotovelo e as sobrancelhas).","703":"Entende a\xe7\xf5es do dia a dia, como brincar e correr.","704":"Nomeia e descreve os pr\xf3prios desenhos.","705":"Entende quando algo \xe9 comprido ou curto.","706":"Pula para a frente com os dois p\xe9s ao mesmo tempo.","707":"Faz os brinquedos \'falarem\' durante as brincadeiras de faz de conta.","708":"Fica na ponta dos p\xe9s sem ajuda.","709":"Desce escadas sem ajuda, alternando os p\xe9s e usando apoio.","710":"Desce escadas sem ajuda e sem se segurar em nada.","711":"Sabe parar quando est\xe1 correndo.","712":"Anda na ponta dos p\xe9s por cinco passos.","713":"Pula de uma altura de cerca de 45 cm.","714":"Interage com objetos em movimento (por exemplo, chuta uma bola que est\xe1 se movendo).","715":"Pula de um degrau pequeno.","716":"Ao lan\xe7ar, usa o corpo para mirar (transfere o peso, movimenta o bra\xe7o).","717":"Pega uma bola grande com os bra\xe7os e se mant\xe9m firme.","718":"Pega uma bola no ar s\xf3 com as m\xe3os.","721":"Movimenta os bra\xe7os na dire\xe7\xe3o oposta \xe0 das pernas ao correr.","723":"Corre com os cotovelos dobrados.","725":"Consegue fazer curvas r\xe1pidas ao correr, sem cair nem parar.","726":"Corre com confian\xe7a em diferentes superf\xedcies, como concreto e grama.","727":"Corre com dire\xe7\xe3o.","728":"Entende a diferen\xe7a entre \'pesado\' e \'leve\'.","741":"Conta de 1 a 30.","756":"Levanta 5 dedos para indicar 5.","912":"Fala sobre not\xedcias de jornal, r\xe1dio, TV ou outras fontes.","915":"D\xe1 instru\xe7\xf5es.","948":"Adapta o tom de voz a diferentes situa\xe7\xf5es (faz perguntas com entona\xe7\xe3o ascendente, demonstra surpresa).","1027":"Pega e solta objetos com precis\xe3o para construir estruturas com materiais de dentro de casa (blocos) e de fora (gravetos, folhas).","1127":"Identifica situa\xe7\xf5es e atividades de que gosta.","1147":"Brinca ao lado de outra crian\xe7a, mas sem interagir diretamente.","1152":"Vira de barriga para cima para barriga para baixo."}')
+    },
+    8487: function(e) {
+      e.exports = {}
+    },
+    1121: function(e) {
+      e.exports = {}
+    }
+  }
+]);

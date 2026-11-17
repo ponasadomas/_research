@@ -1,0 +1,36 @@
+Emulating viewport: {"deviceScaleFactor":1,"isMobile":true,"hasTouch":true,"isLandscape":false,"width":390,"height":844}
+## Request https://webpromo.kinedu.com/api/track
+Status: 200
+### Request Headers
+- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+- content-type:application/json
+- referer:https://webpromo.kinedu.com/aq-assessment
+- :authority:webpromo.kinedu.com
+- :method:POST
+- :path:/api/track
+- :scheme:https
+- accept:*/*
+- accept-encoding:gzip, deflate, br, zstd
+- accept-language:en-GB,en-US;q=0.9,en;q=0.8
+- content-length:531
+- cookie:_fbp=fb.1.1793637782396.52484787607683365; __stripe_mid=27201454-a8df-47c6-a60c-0408ff5564d916f8a7
+- origin:https://webpromo.kinedu.com
+- priority:u=1, i
+- sec-fetch-dest:empty
+- sec-fetch-mode:cors
+- sec-fetch-site:same-origin
+### Request Body
+Saved to /tmp/kinedu-browser/raw/api/browser2/49.request.network-request.
+### Response Headers
+- cache-control:public, max-age=0, must-revalidate
+- content-encoding:br
+- content-type:application/json
+- date:Tue, 03 Nov 2026 10:46:54 GMT
+- server:Vercel
+- strict-transport-security:max-age=63072000
+- vary:RSC, Next-Router-State-Tree, Next-Router-Prefetch
+- x-matched-path:/api/track
+- x-vercel-cache:MISS
+- x-vercel-id:fra1::iad1::n6b42-1793702814048-da5a4922ee9e
+### Response Body
+Saved to /tmp/kinedu-browser/raw/api/browser2/49.response.network-response.

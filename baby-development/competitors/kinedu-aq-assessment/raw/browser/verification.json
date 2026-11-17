@@ -1,0 +1,216 @@
+{
+  "ageMonths": 12,
+  "corrected": false,
+  "question_count": 39,
+  "age12_id_rate_title_order_equal": true,
+  "area_dom_text_and_order_equal": {
+    "Physical": true,
+    "Cognitive": true,
+    "Language": true,
+    "Social-Emotional": true
+  },
+  "A_B_start_bytes_equal": true,
+  "phase2_start_json_equal": true,
+  "results": {
+    "A": {
+      "answers": 39,
+      "yes": 28,
+      "extended": false,
+      "phase3_reference": "raw/api/scoring/C_age12_rate_ge50.json",
+      "phase3_bytes_equal": true,
+      "sha256": "3377816538b9c46300b5ce85cd856246a1163d7baa41c25604e0b0aae635d36d",
+      "byte_length": 58084,
+      "basic": {
+        "state": "ok",
+        "band": "well_ahead",
+        "devAge": 14,
+        "capped": false,
+        "ageMonths": 12,
+        "tier": "basic",
+        "areasLocked": true,
+        "teaserArea": "Physical"
+      },
+      "detail": {
+        "state": "ok",
+        "band": "well_ahead",
+        "devAge": 14,
+        "capped": false,
+        "ageMonths": 12,
+        "tier": "detail",
+        "areas": [
+          {
+            "area": "Physical",
+            "state": "ok",
+            "months": 14,
+            "atLeast": false
+          },
+          {
+            "area": "Cognitive",
+            "state": "ok",
+            "months": 16,
+            "atLeast": false
+          },
+          {
+            "area": "Language",
+            "state": "ok",
+            "months": 12,
+            "atLeast": false
+          },
+          {
+            "area": "Social-Emotional",
+            "state": "ok",
+            "months": 16,
+            "atLeast": false
+          }
+        ],
+        "areasDefaultHidden": false
+      }
+    },
+    "B": {
+      "answers": 47,
+      "yes": 47,
+      "extended": true,
+      "phase3_reference": "raw/api/scoring/E_age12_extension_all_one.json",
+      "phase3_bytes_equal": true,
+      "sha256": "8cc3e26d3448faef084eff3f42bafed641cbd80dabc21790215bebd59bd47fc6",
+      "byte_length": 63263,
+      "basic": {
+        "state": "ok",
+        "band": "well_ahead",
+        "devAge": 42,
+        "capped": true,
+        "ageMonths": 12,
+        "tier": "basic",
+        "areasLocked": true,
+        "teaserArea": "Language"
+      },
+      "detail": {
+        "state": "ok",
+        "band": "well_ahead",
+        "devAge": 42,
+        "capped": true,
+        "ageMonths": 12,
+        "tier": "detail",
+        "areas": [
+          {
+            "area": "Physical",
+            "state": "ok",
+            "months": 32,
+            "atLeast": true
+          },
+          {
+            "area": "Cognitive",
+            "state": "ok",
+            "months": 34,
+            "atLeast": true
+          },
+          {
+            "area": "Language",
+            "state": "ok",
+            "months": 26,
+            "atLeast": true
+          },
+          {
+            "area": "Social-Emotional",
+            "state": "ok",
+            "months": 40,
+            "atLeast": true
+          }
+        ],
+        "areasDefaultHidden": false
+      }
+    }
+  },
+  "screenshots": [
+    {
+      "file": "screenshots/01-hero.png",
+      "width": 390,
+      "height": 910,
+      "sha256": "148e34cef276007520e5d7f52e04c2aac6cee9c2957b5f9d30d8321e45c78312"
+    },
+    {
+      "file": "screenshots/02-hero-desktop.png",
+      "width": 1280,
+      "height": 851,
+      "sha256": "f97db4480ecf2b23195f8db72196a5b17d84902a5d9d3c7e5711e6e928efa920"
+    },
+    {
+      "file": "screenshots/03-primer.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "3f382c343bb015b3ba2452eba5fd1b54bac3e901844caf977820d799e0e10ff0"
+    },
+    {
+      "file": "screenshots/04-child.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "ae4e81172851e9ea79dc7d07cfa920775b004cacb6cedeebee60645eda51f333"
+    },
+    {
+      "file": "screenshots/05-child-prematurity.png",
+      "width": 390,
+      "height": 911,
+      "sha256": "80217dee192da47b798eb9c14e1549170c9284e96508364f300499fa7abda68e"
+    },
+    {
+      "file": "screenshots/06-area-physical.png",
+      "width": 390,
+      "height": 950,
+      "sha256": "2d343825cbd2b0da27c74202cef8cc863fff4c14bf165a662a9f6cbf778e0aac"
+    },
+    {
+      "file": "screenshots/07-area-cognitive.png",
+      "width": 390,
+      "height": 1078,
+      "sha256": "19cbeb86f7da0d3b26f65696ff5a6f7789c9a758f706f2f2b75deeadf7669094"
+    },
+    {
+      "file": "screenshots/08-area-language.png",
+      "width": 390,
+      "height": 951,
+      "sha256": "36e4a096ca7c6d483f1a30482d55b9175290c857042caa41e714c4a8251d500e"
+    },
+    {
+      "file": "screenshots/09-area-social-emotional.png",
+      "width": 390,
+      "height": 975,
+      "sha256": "047eadf8e53b9df4a8f6e8b56febcc6cdb9584efcbcf26f5e30d60dd0743f76f"
+    },
+    {
+      "file": "screenshots/10-celebrate.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "e626a27f3fea80795a6f7d7a20d9495e205afa0ebb7f1e75d4a928975bbc1325"
+    },
+    {
+      "file": "screenshots/11-portrait.png",
+      "width": 390,
+      "height": 1226,
+      "sha256": "dd12291e040f902b9d2effa82e94045af7e4f8a5d7e9dbfbf877575688f724ad"
+    },
+    {
+      "file": "screenshots/12-paywall-first-screen.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "26bbd6ef0cf441d7096855b89b4036eb908ecf52fb7fb60c3406d8cb93dfce98"
+    },
+    {
+      "file": "screenshots/13-extension.png",
+      "width": 390,
+      "height": 866,
+      "sha256": "eb6c1d69127b4ef829eb32d3d9e157ad7616ee4830f1c680e5fa75f58b54f69a"
+    },
+    {
+      "file": "screenshots/14-celebrate-extension.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "cb6a718ec75d92899cc529eed19be8bfecb0a54327d8cf8c1f8f40b78147eb47"
+    },
+    {
+      "file": "screenshots/15-portrait-extension.png",
+      "width": 390,
+      "height": 1279,
+      "sha256": "baf913721cb7e570c377e57ddfe1db1305f97b1ed425ee571a9cfdafbe0a183b"
+    }
+  ]
+}

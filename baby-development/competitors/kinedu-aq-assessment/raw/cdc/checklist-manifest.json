@@ -1,0 +1,145 @@
+[
+  {
+    "age_months": 2,
+    "source_url": "https://www.cdc.gov/act-early/milestones/2-months.html",
+    "source_file": "raw/cdc/legacy-2mo.html",
+    "sha256": "9f4e3c9c92933e30ad92d4e8cffa7bc200c08f23995375e6d313d7e86f93a1d7",
+    "milestone_count": 11,
+    "domains": {
+      "Social/Emotional": 4,
+      "Language/Communication": 2,
+      "Cognitive": 2,
+      "Movement/Physical": 3
+    }
+  },
+  {
+    "age_months": 4,
+    "source_url": "https://www.cdc.gov/act-early/milestones/4-months.html",
+    "source_file": "raw/cdc/legacy-4mo.html",
+    "sha256": "2ae98ca5ec775d63411b2db1b81fe2084875d8b547b71d8294e048f5485a3ae8",
+    "milestone_count": 13,
+    "domains": {
+      "Social/Emotional": 3,
+      "Language/Communication": 3,
+      "Cognitive": 2,
+      "Movement/Physical": 5
+    }
+  },
+  {
+    "age_months": 6,
+    "source_url": "https://www.cdc.gov/act-early/milestones/6-months.html",
+    "source_file": "raw/cdc/legacy-6mo.html",
+    "sha256": "ffd072760636c9d5a6a335ed4ad8a77c3c196a91a4e495086169863058b11862",
+    "milestone_count": 12,
+    "domains": {
+      "Social/Emotional": 3,
+      "Language/Communication": 3,
+      "Cognitive": 3,
+      "Movement/Physical": 3
+    }
+  },
+  {
+    "age_months": 9,
+    "source_url": "https://www.cdc.gov/act-early/milestones/9-months.html",
+    "source_file": "raw/cdc/legacy-9mo.html",
+    "sha256": "e5d3e3f38354082ce858c17992bb9f646657761a525b49d5587602a321c52dc8",
+    "milestone_count": 13,
+    "domains": {
+      "Social/Emotional": 5,
+      "Language/Communication": 2,
+      "Cognitive": 2,
+      "Movement/Physical": 4
+    }
+  },
+  {
+    "age_months": 12,
+    "source_url": "https://www.cdc.gov/act-early/milestones/1-year.html",
+    "source_file": "raw/cdc/legacy-1yr.html",
+    "sha256": "105b1ab190fa30a7ad324e619ae30dcddafad79acc361f238070a35c719876c4",
+    "milestone_count": 10,
+    "domains": {
+      "Social/Emotional": 1,
+      "Language/Communication": 3,
+      "Cognitive": 2,
+      "Movement/Physical": 4
+    }
+  },
+  {
+    "age_months": 15,
+    "source_url": "https://www.cdc.gov/act-early/milestones/15-months.html",
+    "source_file": "raw/cdc/15mo.html",
+    "sha256": "34bf6605f60761bdd00edddf39443ff6ff730c5e47932a8e5b040b7c8569e935",
+    "milestone_count": 13,
+    "domains": {
+      "Social/Emotional": 5,
+      "Language/Communication": 4,
+      "Cognitive": 2,
+      "Movement/Physical": 2
+    }
+  },
+  {
+    "age_months": 18,
+    "source_url": "https://www.cdc.gov/act-early/milestones/18-months.html",
+    "source_file": "raw/cdc/legacy-18mo.html",
+    "sha256": "329e2f5be543142c6100093aca23d8b6fbae4c60c14b355dc99e3a1e1d7b765f",
+    "milestone_count": 15,
+    "domains": {
+      "Social/Emotional": 5,
+      "Language/Communication": 2,
+      "Cognitive": 2,
+      "Movement/Physical": 6
+    }
+  },
+  {
+    "age_months": 24,
+    "source_url": "https://www.cdc.gov/act-early/milestones/2-years.html",
+    "source_file": "raw/cdc/legacy-2yr.html",
+    "sha256": "13870544d7bcab3e6c95de133672338c8dd5d615a739af7dc199239f4c1a2142",
+    "milestone_count": 13,
+    "domains": {
+      "Social/Emotional": 2,
+      "Language/Communication": 4,
+      "Cognitive": 3,
+      "Movement/Physical": 4
+    }
+  },
+  {
+    "age_months": 30,
+    "source_url": "https://www.cdc.gov/act-early/milestones/30-months.html",
+    "source_file": "raw/cdc/legacy-30mo.html",
+    "sha256": "20aeff2d3ff1a8973c2d60dec77db57ba64819beeba543f80009e3fc1fbf9e11",
+    "milestone_count": 15,
+    "domains": {
+      "Social/Emotional": 3,
+      "Language/Communication": 4,
+      "Cognitive": 4,
+      "Movement/Physical": 4
+    }
+  },
+  {
+    "age_months": 36,
+    "source_url": "https://www.cdc.gov/act-early/milestones/3-years.html",
+    "source_file": "raw/cdc/legacy-3yr.html",
+    "sha256": "1f7fa67132e3d4f6f64586424166631f3871f2620e43a2d2aad74a629fbcd4a6",
+    "milestone_count": 12,
+    "domains": {
+      "Social/Emotional": 2,
+      "Language/Communication": 5,
+      "Cognitive": 2,
+      "Movement/Physical": 3
+    }
+  },
+  {
+    "age_months": 48,
+    "source_url": "https://www.cdc.gov/act-early/milestones/4-years.html",
+    "source_file": "raw/cdc/legacy-4yr.html",
+    "sha256": "2a8804700ff5778ed41f2db794faf5c167a8074eb6c032135011c2715dfd266b",
+    "milestone_count": 17,
+    "domains": {
+      "Social/Emotional": 6,
+      "Language/Communication": 4,
+      "Cognitive": 3,
+      "Movement/Physical": 4
+    }
+  }
+]

@@ -1,0 +1,599 @@
+{
+  "records": 446,
+  "global_count_lookup": {
+    "groups": 250,
+    "records": 364,
+    "repeated_groups": 50,
+    "records_in_repeated_groups": 164,
+    "prediction_comparisons": 114,
+    "conflict_groups": []
+  },
+  "numeric_count_lookup_ignoring_age": {
+    "groups": 112,
+    "records": 227,
+    "repeated_groups": 35,
+    "records_in_repeated_groups": 150,
+    "prediction_comparisons": 115,
+    "conflict_groups": []
+  },
+  "area_count_lookup": {
+    "groups": 229,
+    "records": 908,
+    "repeated_groups": 92,
+    "records_in_repeated_groups": 771,
+    "prediction_comparisons": 679,
+    "conflict_groups": []
+  },
+  "curve_stability": {
+    "groups": 48,
+    "records": 5776,
+    "repeated_groups": 48,
+    "records_in_repeated_groups": 5776,
+    "prediction_comparisons": 5728,
+    "conflict_groups": []
+  },
+  "skills": {
+    "total": 5776,
+    "reached_status_matches": 5776,
+    "childPct_matches": 5776
+  },
+  "bands": {
+    "on_pace": {
+      "n": 58,
+      "min": [
+        0.95,
+        "raw/api/scoring/M_band_age20_count33.json"
+      ],
+      "max": [
+        1.05,
+        "raw/api/scoring/M_band_age20_count34.json"
+      ]
+    },
+    "well_ahead": {
+      "n": 131,
+      "min": [
+        1.1521739130434783,
+        "raw/api/result_age46_all_yes_numeric.json"
+      ],
+      "max": [
+        21.0,
+        "raw/api/scoring/M_band_age01_count34.json"
+      ]
+    },
+    "little_ahead": {
+      "n": 14,
+      "min": [
+        1.064516129032258,
+        "raw/api/scoring/M_age31_same_age12_all_one.json"
+      ],
+      "max": [
+        1.15,
+        "raw/api/scoring/M_band_exact_115_dev46_age40.json"
+      ]
+    },
+    "building": {
+      "n": 24,
+      "min": [
+        0.6875,
+        "raw/api/scoring/M_age48_same_age12_all_one.json"
+      ],
+      "max": [
+        0.9428571428571428,
+        "raw/api/scoring/M_age35_same_age12_all_one.json"
+      ]
+    }
+  },
+  "aggregations": {
+    "total": 176,
+    "exact_matches": {
+      "mean_floor": 49,
+      "mean_round_half_up": 24,
+      "mean_ceil": 24,
+      "median_floor": 24,
+      "median_round_half_up": 24,
+      "median_ceil": 24,
+      "min_floor": 2,
+      "min_round_half_up": 2,
+      "min_ceil": 2,
+      "max_floor": 2,
+      "max_round_half_up": 2,
+      "max_ceil": 2
+    }
+  },
+  "band_formula": {
+    "total": 227,
+    "matches": 227,
+    "mismatches": []
+  },
+  "secure_attachment_norm_inverse": {
+    "results": [
+      {
+        "yes": 0,
+        "fraction": 0.0,
+        "predicted": 1,
+        "actual": 1,
+        "capped": false,
+        "area_predicted": 0,
+        "area_actual": 0
+      },
+      {
+        "yes": 1,
+        "fraction": 0.09090909090909091,
+        "predicted": 1,
+        "actual": 1,
+        "capped": false,
+        "area_predicted": 0,
+        "area_actual": 0
+      },
+      {
+        "yes": 2,
+        "fraction": 0.18181818181818182,
+        "predicted": 1,
+        "actual": 1,
+        "capped": false,
+        "area_predicted": 0,
+        "area_actual": 0
+      },
+      {
+        "yes": 3,
+        "fraction": 0.2727272727272727,
+        "predicted": 1,
+        "actual": 1,
+        "capped": false,
+        "area_predicted": 0,
+        "area_actual": 0
+      },
+      {
+        "yes": 4,
+        "fraction": 0.36363636363636365,
+        "predicted": 2,
+        "actual": 2,
+        "capped": false,
+        "area_predicted": 2,
+        "area_actual": 2
+      },
+      {
+        "yes": 5,
+        "fraction": 0.45454545454545453,
+        "predicted": 3,
+        "actual": 3,
+        "capped": false,
+        "area_predicted": 2,
+        "area_actual": 4
+      },
+      {
+        "yes": 6,
+        "fraction": 0.5454545454545454,
+        "predicted": 4,
+        "actual": 4,
+        "capped": false,
+        "area_predicted": 4,
+        "area_actual": 4
+      },
+      {
+        "yes": 7,
+        "fraction": 0.6363636363636364,
+        "predicted": 5,
+        "actual": 5,
+        "capped": false,
+        "area_predicted": 6,
+        "area_actual": 4
+      },
+      {
+        "yes": 8,
+        "fraction": 0.7272727272727273,
+        "predicted": 6,
+        "actual": 6,
+        "capped": false,
+        "area_predicted": 6,
+        "area_actual": 6
+      },
+      {
+        "yes": 9,
+        "fraction": 0.8181818181818182,
+        "predicted": 9,
+        "actual": 9,
+        "capped": false,
+        "area_predicted": 10,
+        "area_actual": 8
+      },
+      {
+        "yes": 10,
+        "fraction": 0.9090909090909091,
+        "predicted": 14,
+        "actual": 14,
+        "capped": false,
+        "area_predicted": 14,
+        "area_actual": 14
+      },
+      {
+        "yes": 11,
+        "fraction": 1.0,
+        "predicted": 17,
+        "actual": 15,
+        "capped": true,
+        "area_predicted": 16,
+        "area_actual": 16
+      }
+    ],
+    "global_uncapped_matches": 11,
+    "global_uncapped_total": 11,
+    "area_uncapped_matches": 8,
+    "area_uncapped_total": 11
+  },
+  "age12_full_area_lookup": {
+    "Physical": {
+      "ids": [
+        4,
+        135,
+        309,
+        330,
+        355,
+        415,
+        470,
+        471,
+        538
+      ],
+      "count_to_outputs": {
+        "0": [
+          {
+            "state": "ok",
+            "months": 8,
+            "atLeast": false
+          }
+        ],
+        "1": [
+          {
+            "state": "ok",
+            "months": 8,
+            "atLeast": false
+          }
+        ],
+        "2": [
+          {
+            "state": "ok",
+            "months": 8,
+            "atLeast": false
+          }
+        ],
+        "3": [
+          {
+            "state": "ok",
+            "months": 10,
+            "atLeast": false
+          }
+        ],
+        "4": [
+          {
+            "state": "ok",
+            "months": 12,
+            "atLeast": false
+          }
+        ],
+        "5": [
+          {
+            "state": "ok",
+            "months": 12,
+            "atLeast": false
+          }
+        ],
+        "6": [
+          {
+            "state": "ok",
+            "months": 12,
+            "atLeast": false
+          }
+        ],
+        "7": [
+          {
+            "state": "ok",
+            "months": 14,
+            "atLeast": false
+          }
+        ],
+        "8": [
+          {
+            "state": "ok",
+            "months": 18,
+            "atLeast": false
+          }
+        ],
+        "9": [
+          {
+            "state": "ok",
+            "months": 20,
+            "atLeast": true
+          }
+        ]
+      },
+      "decreasing_transitions_to_count": []
+    },
+    "Cognitive": {
+      "ids": [
+        5,
+        19,
+        53,
+        183,
+        335,
+        338,
+        406,
+        436,
+        472
+      ],
+      "count_to_outputs": {
+        "0": [
+          {
+            "state": "ok",
+            "months": 8,
+            "atLeast": false
+          }
+        ],
+        "1": [
+          {
+            "state": "ok",
+            "months": 8,
+            "atLeast": false
+          }
+        ],
+        "2": [
+          {
+            "state": "ok",
+            "months": 2,
+            "atLeast": false
+          }
+        ],
+        "3": [
+          {
+            "state": "ok",
+            "months": 0,
+            "atLeast": false
+          }
+        ],
+        "4": [
+          {
+            "state": "ok",
+            "months": 12,
+            "atLeast": false
+          }
+        ],
+        "5": [
+          {
+            "state": "ok",
+            "months": 12,
+            "atLeast": false
+          }
+        ],
+        "6": [
+          {
+            "state": "ok",
+            "months": 12,
+            "atLeast": false
+          }
+        ],
+        "7": [
+          {
+            "state": "ok",
+            "months": 16,
+            "atLeast": false
+          }
+        ],
+        "8": [
+          {
+            "state": "ok",
+            "months": 16,
+            "atLeast": true
+          }
+        ],
+        "9": [
+          {
+            "state": "ok",
+            "months": 16,
+            "atLeast": true
+          }
+        ]
+      },
+      "decreasing_transitions_to_count": [
+        2,
+        3
+      ]
+    },
+    "Language": {
+      "ids": [
+        7,
+        31,
+        32,
+        54,
+        109,
+        126,
+        279,
+        360,
+        368,
+        688
+      ],
+      "count_to_outputs": {
+        "0": [
+          {
+            "state": "ok",
+            "months": 6,
+            "atLeast": false
+          }
+        ],
+        "1": [
+          {
+            "state": "ok",
+            "months": 6,
+            "atLeast": false
+          }
+        ],
+        "2": [
+          {
+            "state": "ok",
+            "months": 6,
+            "atLeast": false
+          }
+        ],
+        "3": [
+          {
+            "state": "ok",
+            "months": 8,
+            "atLeast": false
+          }
+        ],
+        "4": [
+          {
+            "state": "ok",
+            "months": 8,
+            "atLeast": false
+          }
+        ],
+        "5": [
+          {
+            "state": "ok",
+            "months": 10,
+            "atLeast": false
+          }
+        ],
+        "6": [
+          {
+            "state": "ok",
+            "months": 12,
+            "atLeast": false
+          }
+        ],
+        "7": [
+          {
+            "state": "ok",
+            "months": 14,
+            "atLeast": false
+          }
+        ],
+        "8": [
+          {
+            "state": "ok",
+            "months": 16,
+            "atLeast": false
+          }
+        ],
+        "9": [
+          {
+            "state": "ok",
+            "months": 20,
+            "atLeast": true
+          }
+        ],
+        "10": [
+          {
+            "state": "ok",
+            "months": 20,
+            "atLeast": true
+          }
+        ]
+      },
+      "decreasing_transitions_to_count": []
+    },
+    "Social-Emotional": {
+      "ids": [
+        85,
+        103,
+        308,
+        340,
+        349,
+        441,
+        454,
+        476,
+        565,
+        611,
+        686
+      ],
+      "count_to_outputs": {
+        "0": [
+          {
+            "state": "ok",
+            "months": 6,
+            "atLeast": false
+          }
+        ],
+        "1": [
+          {
+            "state": "ok",
+            "months": 6,
+            "atLeast": false
+          }
+        ],
+        "2": [
+          {
+            "state": "ok",
+            "months": 6,
+            "atLeast": false
+          }
+        ],
+        "3": [
+          {
+            "state": "ok",
+            "months": 0,
+            "atLeast": false
+          }
+        ],
+        "4": [
+          {
+            "state": "ok",
+            "months": 8,
+            "atLeast": false
+          }
+        ],
+        "5": [
+          {
+            "state": "ok",
+            "months": 10,
+            "atLeast": false
+          }
+        ],
+        "6": [
+          {
+            "state": "ok",
+            "months": 12,
+            "atLeast": false
+          }
+        ],
+        "7": [
+          {
+            "state": "ok",
+            "months": 12,
+            "atLeast": false
+          }
+        ],
+        "8": [
+          {
+            "state": "ok",
+            "months": 16,
+            "atLeast": false
+          }
+        ],
+        "9": [
+          {
+            "state": "ok",
+            "months": 24,
+            "atLeast": false
+          }
+        ],
+        "10": [
+          {
+            "state": "ok",
+            "months": 36,
+            "atLeast": true
+          }
+        ],
+        "11": [
+          {
+            "state": "ok",
+            "months": 36,
+            "atLeast": true
+          }
+        ]
+      },
+      "decreasing_transitions_to_count": [
+        3
+      ]
+    }
+  }
+}

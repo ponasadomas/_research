@@ -1,0 +1,22 @@
+Emulating viewport: {"deviceScaleFactor":1,"isMobile":true,"hasTouch":true,"isLandscape":false,"width":390,"height":844}
+## Request https://scripts.clarity.ms/0.8.72/clarity.js
+Status: 200
+### Request Headers
+- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+- referer:https://webpromo.kinedu.com/
+### Response Headers
+- x-azure-ref:20261102T164302Z-174dd6db9dd2tjfvhC1WAWhz30000000038000000000xcud
+- cache-control:public, max-age=86400
+- x-ms-version:2018-03-28
+- content-encoding:br
+- etag:W/"0x8DF295DE4085679"
+- x-fd-int-roxy-purgeid:0
+- x-ms-request-id:7270b2a0-e01e-003c-679a-6a071c000000
+- access-control-allow-origin:*
+- x-cache:TCP_HIT
+- date:Mon, 02 Nov 2026 16:43:02 GMT
+- content-type:application/javascript;charset=utf-8
+- vary:Accept-Encoding
+- last-modified:Tue, 13 Oct 2026 19:12:14 GMT
+### Response Body
+Saved to /tmp/kinedu-browser/raw/B-25.network-response.

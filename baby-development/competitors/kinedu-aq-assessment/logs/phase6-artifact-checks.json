@@ -1,0 +1,161 @@
+{
+  "csv_rows_checked_against_raw": 2033,
+  "manifest_requests": 2064,
+  "raw_bodies": 2064,
+  "raw_headers": 2064,
+  "age_headings": 49,
+  "area_tables": 196,
+  "summary_lines": 12,
+  "hash_header_payload_and_pacing_audit": "passed",
+  "minimum_gap_seconds": 2.00209,
+  "no_numeric_group_count": 19,
+  "no_numeric_groups": [
+    {
+      "age": 0,
+      "area": "Language",
+      "n": 7
+    },
+    {
+      "age": 1,
+      "area": "Language",
+      "n": 7
+    },
+    {
+      "age": 39,
+      "area": "Language",
+      "n": 7
+    },
+    {
+      "age": 40,
+      "area": "Language",
+      "n": 7
+    },
+    {
+      "age": 41,
+      "area": "Language",
+      "n": 7
+    },
+    {
+      "age": 45,
+      "area": "Physical",
+      "n": 7
+    },
+    {
+      "age": 45,
+      "area": "Cognitive",
+      "n": 7
+    },
+    {
+      "age": 46,
+      "area": "Physical",
+      "n": 7
+    },
+    {
+      "age": 46,
+      "area": "Cognitive",
+      "n": 6
+    },
+    {
+      "age": 46,
+      "area": "Language",
+      "n": 7
+    },
+    {
+      "age": 46,
+      "area": "Social-Emotional",
+      "n": 7
+    },
+    {
+      "age": 47,
+      "area": "Physical",
+      "n": 7
+    },
+    {
+      "age": 47,
+      "area": "Cognitive",
+      "n": 4
+    },
+    {
+      "age": 47,
+      "area": "Language",
+      "n": 6
+    },
+    {
+      "age": 47,
+      "area": "Social-Emotional",
+      "n": 7
+    },
+    {
+      "age": 48,
+      "area": "Physical",
+      "n": 6
+    },
+    {
+      "age": 48,
+      "area": "Cognitive",
+      "n": 3
+    },
+    {
+      "age": 48,
+      "area": "Language",
+      "n": 6
+    },
+    {
+      "age": 48,
+      "area": "Social-Emotional",
+      "n": 7
+    }
+  ],
+  "order_checks": [
+    {
+      "age": 3,
+      "area": "Physical",
+      "expected": 11,
+      "report_pairs": 11,
+      "numeric_pairs": 6,
+      "month_matches": 6,
+      "interior_numeric_pairs": 5,
+      "area_pairs": 6,
+      "area_matches": 6,
+      "unexposed_K": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "mismatches": []
+    },
+    {
+      "age": 12,
+      "area": "Cognitive",
+      "expected": 10,
+      "report_pairs": 10,
+      "numeric_pairs": 10,
+      "month_matches": 10,
+      "interior_numeric_pairs": 8,
+      "area_pairs": 10,
+      "area_matches": 10,
+      "unexposed_K": [],
+      "mismatches": []
+    },
+    {
+      "age": 30,
+      "area": "Language",
+      "expected": 10,
+      "report_pairs": 10,
+      "numeric_pairs": 8,
+      "month_matches": 8,
+      "interior_numeric_pairs": 7,
+      "area_pairs": 8,
+      "area_matches": 8,
+      "unexposed_K": [
+        0,
+        1
+      ],
+      "mismatches": []
+    }
+  ],
+  "first_request": "2026-11-02T22:53:26.994825+00:00",
+  "last_response": "2026-11-03T00:18:48.751649+00:00"
+}

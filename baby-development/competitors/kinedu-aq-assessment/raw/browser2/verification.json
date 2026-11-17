@@ -1,0 +1,224 @@
+{
+  "ageMonths": 12,
+  "corrected": false,
+  "question_count": 39,
+  "age12_id_rate_title_order_equal": true,
+  "all_on_screen_titles_match": true,
+  "answer_count": 39,
+  "yes": 28,
+  "answers_follow_live_rates": true,
+  "extended": false,
+  "basic": {
+    "state": "ok",
+    "band": "well_ahead",
+    "devAge": 14,
+    "capped": false,
+    "ageMonths": 12,
+    "tier": "basic",
+    "areasLocked": true,
+    "teaserArea": "Physical"
+  },
+  "detail": {
+    "state": "ok",
+    "band": "well_ahead",
+    "devAge": 14,
+    "capped": false,
+    "ageMonths": 12,
+    "tier": "detail",
+    "areas": [
+      {
+        "area": "Physical",
+        "state": "ok",
+        "months": 14,
+        "atLeast": false
+      },
+      {
+        "area": "Cognitive",
+        "state": "ok",
+        "months": 16,
+        "atLeast": false
+      },
+      {
+        "area": "Language",
+        "state": "ok",
+        "months": 12,
+        "atLeast": false
+      },
+      {
+        "area": "Social-Emotional",
+        "state": "ok",
+        "months": 16,
+        "atLeast": false
+      }
+    ],
+    "areasDefaultHidden": false
+  },
+  "classic_comparisons": [
+    {
+      "file": "raw/api/browser2/start.request.json",
+      "reference": "raw/api/browser/A-start.request.json",
+      "bytes_equal": true,
+      "byte_length": 67,
+      "sha256": "55cd4c98d0b3e76c903eaa88e075a6fc00f68f755da0890c2478c40b417cc7ab"
+    },
+    {
+      "file": "raw/api/browser2/start.response.json",
+      "reference": "raw/api/browser/A-start.response.json",
+      "bytes_equal": true,
+      "byte_length": 5332,
+      "sha256": "7928143b25e63bc4ffd51514f60893f9598cd712d8bcfbd5825b5f81c9df7c1b"
+    },
+    {
+      "file": "raw/api/browser2/result.request.json",
+      "reference": "raw/api/browser/A-result.request.json",
+      "bytes_equal": true,
+      "byte_length": 714,
+      "sha256": "3519bfdcafecfbf5496c5f2a7f038efa7400980b654183a6edfd9136420bd73a"
+    },
+    {
+      "file": "raw/api/browser2/result.response.json",
+      "reference": "raw/api/browser/A-result.response.json",
+      "bytes_equal": true,
+      "byte_length": 58084,
+      "sha256": "3377816538b9c46300b5ce85cd856246a1163d7baa41c25604e0b0aae635d36d"
+    }
+  ],
+  "screenshots": [
+    {
+      "file": "screenshots/funnel2/01-hero.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "5f21545942102cb447c9240b3d3d8c0a52cb155536b2edce60f77be40809ccaa"
+    },
+    {
+      "file": "screenshots/funnel2/02-hero-desktop.png",
+      "width": 1280,
+      "height": 844,
+      "sha256": "60cc657d1234584bc0b9d0db6b4b460c636651ebf2b69a79d2f70f4c57a9abc7"
+    },
+    {
+      "file": "screenshots/funnel2/03-primer-1.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "b8a6b5ca1dc91c416cecd2139f76fd5b2eec98c91c42f5d8fc067eee37d96978"
+    },
+    {
+      "file": "screenshots/funnel2/04-primer-2.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "2894be5c7e867a8c40caf746d67d05e71d655227426ce861774e50343facc3d9"
+    },
+    {
+      "file": "screenshots/funnel2/05-primer-3.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "83970250c51beacc73c85838939da6e0e5217e9e79432a388cfdf594204365d3"
+    },
+    {
+      "file": "screenshots/funnel2/06-child.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "3450dfcfd54a9218c894a6785dc4c4d0c4ff36d3dcb476b7e202abf9d2403868"
+    },
+    {
+      "file": "screenshots/funnel2/07-area-physical.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "7d80758c225f69c99e5429a73aaf1ed242785038f31bcce0d5f822c9d252ad5e"
+    },
+    {
+      "file": "screenshots/funnel2/08-area-cognitive.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "8f21836c47404f4297ddb0883f7020b5b6dc93c2a5c0608402bfeb05e219c024"
+    },
+    {
+      "file": "screenshots/funnel2/09-area-language.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "8780310bd1ec5740cf5630a8a47e2db97887e0e669ffe135f3d68e3f3860f9e7"
+    },
+    {
+      "file": "screenshots/funnel2/10-area-social-emotional.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "3d5145e7954f1bec137e932d05683a4ef2ff47c608d02908daabf98015b76003"
+    },
+    {
+      "file": "screenshots/funnel2/11-last-question.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "7bad370dd2f13886c3b52a9dbf10fddcfdced76bbfad4d79e61406d59105c421"
+    },
+    {
+      "file": "screenshots/funnel2/12-celebrate.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "0a50ca12b63c020fd457f1b9e8b9a14928a61417862e7d4509dc0c9d15f235ee"
+    },
+    {
+      "file": "screenshots/funnel2/13-email-empty.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "8409fa2844825259a6f9d5f2521bf16018c20dc39c24d5e7fd00aad3663ed84f"
+    },
+    {
+      "file": "screenshots/funnel2/14-email-filled.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "f775886da1ed93d5302ec3e600aff43ef86e4efb6470de866215cc934cafda4e"
+    },
+    {
+      "file": "screenshots/funnel2/15-portrait.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "93cbc20a7de8bd8451a146e05d95bcb367719a98c217b493cfe79f44e097b5c6"
+    },
+    {
+      "file": "screenshots/funnel2/16-paywall-first-screen.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "04e95466ba337852cb60130056d9bf18eae68308148c8bdec27c1cd8b454c06d"
+    }
+  ],
+  "placeholder_count": 4,
+  "placeholder_values": [
+    "●● months",
+    "●● months",
+    "●● months",
+    "●● months"
+  ],
+  "placeholder_filters": [
+    "blur(4px)",
+    "blur(4px)",
+    "blur(4px)",
+    "blur(4px)"
+  ],
+  "other_hidden_report_nodes": [],
+  "network_counts": {
+    "requests": 82,
+    "tracks": 12,
+    "assessment": 2,
+    "lead": 1,
+    "send_reading": 0,
+    "facebook_events": 5,
+    "clarity_collect": 20
+  },
+  "hosts": {
+    "": 1,
+    "connect.facebook.net": 4,
+    "fonts.googleapis.com": 2,
+    "fonts.gstatic.com": 2,
+    "js.stripe.com": 3,
+    "k.clarity.ms": 20,
+    "kejbdjndbnbjgmefkgdddjlbokphdefk": 4,
+    "m.stripe.com": 1,
+    "m.stripe.network": 2,
+    "scripts.clarity.ms": 2,
+    "webpromo.kinedu.com": 34,
+    "www.clarity.ms": 2,
+    "www.facebook.com": 5
+  },
+  "paywall_navigation_url": "https://webpromo.kinedu.com/aq-paywall-trial3/index.html?from=assessment",
+  "paywall_displayed_url": "https://webpromo.kinedu.com/aq-paywall-trial3/index.html?from=assessment&offer=p79-t7"
+}

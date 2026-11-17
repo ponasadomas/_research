@@ -1,0 +1,7659 @@
+{
+ "generated": "2026-11-10",
+ "source": "Kinedu /api/assessment start responses captured 2026-11-02",
+ "areas": [
+  "Physical",
+  "Cognitive",
+  "Language",
+  "Social-Emotional"
+ ],
+ "questions": [
+  {
+   "id": 1,
+   "area": "Physical",
+   "skill": "Early movements and coordination",
+   "text_en": "Opens their hand to take something you give them.",
+   "text_es": "Abre la mano para tomar algo que le das.",
+   "text_pt": "Abre a mão para pegar algo que você dá.",
+   "rate_by_age": {
+    "3": 0.48
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 3,
+   "area": "Language",
+   "skill": "Communicating through gestures",
+   "text_en": "Moves their arms around when they see something they like.",
+   "text_es": "Mueve los brazos cuando ve algo que le gusta.",
+   "text_pt": "Mexe os braços quando vê algo de que gosta.",
+   "rate_by_age": {
+    "0": 0.75,
+    "1": 0.7,
+    "2": 0.71,
+    "3": 0.77,
+    "4": 0.87,
+    "5": 0.92,
+    "6": 0.93
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 4,
+   "area": "Physical",
+   "skill": "First Steps",
+   "text_en": "Squats to pick things up while walking.",
+   "text_es": "Se pone en cuclillas para recoger cosas mientras camina.",
+   "text_pt": "Se agacha para pegar coisas enquanto anda.",
+   "rate_by_age": {
+    "12": 0.52
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 5,
+   "area": "Cognitive",
+   "skill": "Imitating",
+   "text_en": "Imitates what friends do in play, such as building towers when they do.",
+   "text_es": "Imita lo que hacen sus amigos al jugar, como construir torres cuando ellos lo hacen.",
+   "text_pt": "Imita o que os amigos fazem na brincadeira, como construir torres quando eles constroem.",
+   "rate_by_age": {
+    "11": 0.33,
+    "12": 0.51,
+    "13": 0.63
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 6,
+   "area": "Physical",
+   "skill": "Developing the senses",
+   "text_en": "Shifts their focus between two objects.",
+   "text_es": "Cambia su atención entre dos objetos.",
+   "text_pt": "Muda a atenção entre dois objetos.",
+   "rate_by_age": {
+    "2": 0.61
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 7,
+   "area": "Language",
+   "skill": "First Words",
+   "text_en": "Tries to copy the words you say.",
+   "text_es": "Intenta copiar las palabras que dices.",
+   "text_pt": "Tenta imitar as palavras que você fala.",
+   "rate_by_age": {
+    "7": 0.38,
+    "8": 0.43,
+    "9": 0.53,
+    "10": 0.65,
+    "11": 0.66,
+    "12": 0.72
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 9,
+   "area": "Physical",
+   "skill": "Crawling",
+   "text_en": "When lying on their tummy, they can lift their upper body.",
+   "text_es": "Boca abajo, puede levantar la parte superior de su cuerpo.",
+   "text_pt": "De barriga para baixo, consegue levantar a parte de cima do corpo.",
+   "rate_by_age": {
+    "1": 0.68
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 12,
+   "area": "Cognitive",
+   "skill": "Early knowledge and curiosity",
+   "text_en": "Searches for hidden toys.",
+   "text_es": "Busca juguetes escondidos.",
+   "text_pt": "Procura brinquedos escondidos.",
+   "rate_by_age": {
+    "8": 0.44,
+    "9": 0.63,
+    "10": 0.79
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 14,
+   "area": "Physical",
+   "skill": "Developing hand coordination",
+   "text_en": "Holds two objects with one hand.",
+   "text_es": "Sostiene dos objetos con una mano.",
+   "text_pt": "Segura dois objetos com uma só mão.",
+   "rate_by_age": {
+    "13": 0.47,
+    "14": 0.59
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 15,
+   "area": "Physical",
+   "skill": "First Steps",
+   "text_en": "Walks or cruises while holding onto big furniture.",
+   "text_es": "Camina o se desplaza apoyándose en muebles grandes.",
+   "text_pt": "Anda se apoiando em móveis grandes.",
+   "rate_by_age": {
+    "6": 0.41,
+    "8": 0.51,
+    "9": 0.61
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 16,
+   "area": "Physical",
+   "skill": "First Steps",
+   "text_en": "Takes a couple of steps on their own.",
+   "text_es": "Da un par de pasos por sí solo.",
+   "text_pt": "Dá alguns passos sem ajuda.",
+   "rate_by_age": {
+    "11": 0.43
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 17,
+   "area": "Physical",
+   "skill": "Crawling",
+   "text_en": "Crawls.",
+   "text_es": "Gatea.",
+   "text_pt": "Engatinha.",
+   "rate_by_age": {
+    "8": 0.5
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 19,
+   "area": "Cognitive",
+   "skill": "Developing memory and attention",
+   "text_en": "Follows simple, one-step instructions (like 'Pick up the toy').",
+   "text_es": "Sigue instrucciones simples de un paso (como 'Recoge el juguete').",
+   "text_pt": "Segue instruções simples de um passo (como 'Pega o brinquedo').",
+   "rate_by_age": {
+    "10": 0.25,
+    "11": 0.5,
+    "12": 0.65
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 20,
+   "area": "Social-Emotional",
+   "skill": "Secure Attachment",
+   "text_en": "Lifts their arms to be carried.",
+   "text_es": "Levanta los brazos para que lo cargues.",
+   "text_pt": "Levanta os braços para pedir colo.",
+   "rate_by_age": {
+    "4": 0.21,
+    "5": 0.51,
+    "6": 0.72,
+    "7": 0.83,
+    "8": 0.92
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 21,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Stays curled up with arms and knees close to their body.",
+   "text_es": "Se mantiene encogido, con los brazos y las rodillas pegados al cuerpo.",
+   "text_pt": "Fica em posição encolhida, com os braços e os joelhos perto do corpo.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 22,
+   "area": "Language",
+   "skill": "Communicating through gestures",
+   "text_en": "Says hello or goodbye with hand movements.",
+   "text_es": "Saluda o se despide con movimientos de la mano.",
+   "text_pt": "Diz oi ou tchau com movimentos das mãos.",
+   "rate_by_age": {
+    "1": 0.13,
+    "8": 0.47,
+    "9": 0.63,
+    "13": 0.91
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 23,
+   "area": "Language",
+   "skill": "Babbling",
+   "text_en": "Babbles like they are in conversation with you and takes turns talking.",
+   "text_es": "Balbucea como si conversara contigo y respeta turnos al hablar.",
+   "text_pt": "Balbucia como se estivesse conversando com você e respeita a vez de cada um falar.",
+   "rate_by_age": {
+    "3": 0.37,
+    "4": 0.23,
+    "5": 0.36,
+    "6": 0.4,
+    "7": 0.59
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 24,
+   "area": "Language",
+   "skill": "First Words",
+   "text_en": "Says at least one word with meaning, like saying 'hi' or 'coo' for 'cookie.'",
+   "text_es": "Dice al menos una palabra con significado, como 'eta' para 'galleta'.",
+   "text_pt": "Fala pelo menos uma palavra com significado, como 'áua' para 'água'.",
+   "rate_by_age": {
+    "13": 0.38,
+    "14": 0.45,
+    "15": 0.56,
+    "16": 0.67
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 26,
+   "area": "Social-Emotional",
+   "skill": "First interactions",
+   "text_en": "Stares at the person who is talking to them.",
+   "text_es": "Mira fijamente a la persona que le habla.",
+   "text_pt": "Olha fixamente para a pessoa que está falando.",
+   "rate_by_age": {
+    "0": 0.61,
+    "1": 0.8,
+    "4": 0.97,
+    "5": 0.98,
+    "7": 0.98
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 27,
+   "area": "Language",
+   "skill": "Basic Vocabulary",
+   "text_en": "Looks at things or people when called by name.",
+   "text_es": "Mira las cosas o personas cuando dices su nombre.",
+   "text_pt": "Olha para as coisas ou pessoas quando você diz o nome delas.",
+   "rate_by_age": {
+    "6": 0.66,
+    "7": 0.59,
+    "14": 0.91,
+    "15": 0.92
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 28,
+   "area": "Cognitive",
+   "skill": "Developing memory and attention",
+   "text_en": "Chooses to pay attention to a person or situation.",
+   "text_es": "Elige prestar atención a una persona o situación.",
+   "text_pt": "Escolhe prestar atenção em uma pessoa ou situação.",
+   "rate_by_age": {
+    "0": 0.79,
+    "1": 0.8
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 30,
+   "area": "Physical",
+   "skill": "Head Control",
+   "text_en": "Holds their head up on their own.",
+   "text_es": "Sostiene la cabeza por sí solo.",
+   "text_pt": "Sustenta a cabeça sem ajuda.",
+   "rate_by_age": {
+    "2": 0.43
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 31,
+   "area": "Language",
+   "skill": "Babbling",
+   "text_en": "Repeats 'baba' or 'dada' kind of sounds.",
+   "text_es": "Repite sonidos como 'baba' o 'dada'.",
+   "text_pt": "Repete sons como 'baba' ou 'dada'.",
+   "rate_by_age": {
+    "2": 0.09,
+    "3": 0.15,
+    "4": 0.15,
+    "5": 0.27,
+    "6": 0.51,
+    "12": 0.89
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 32,
+   "area": "Language",
+   "skill": "Basic Vocabulary",
+   "text_en": "Names at least three objects correctly.",
+   "text_es": "Nombra correctamente al menos tres objetos.",
+   "text_pt": "Nomeia pelo menos três objetos corretamente.",
+   "rate_by_age": {
+    "12": 0.27,
+    "13": 0.41,
+    "14": 0.55,
+    "15": 0.68,
+    "16": 0.72,
+    "20": 0.88
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 33,
+   "area": "Physical",
+   "skill": "Rolling Over and Sitting Up",
+   "text_en": "Tries to sit up when lying on their back while you pull them up by the hands.",
+   "text_es": "Intenta sentarse cuando está boca arriba mientras lo jalas de las manos.",
+   "text_pt": "Tenta sentar quando está de barriga para cima e você puxa pelas mãos.",
+   "rate_by_age": {
+    "0": 0.69,
+    "1": 0.48,
+    "2": 0.6
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 34,
+   "area": "Physical",
+   "skill": "Developing finger dexterity",
+   "text_en": "Inserts objects in small spaces, like coins in a piggy bank.",
+   "text_es": "Mete objetos en espacios pequeños, como monedas en una alcancía.",
+   "text_pt": "Coloca objetos em espaços pequenos, como moedas em um cofrinho.",
+   "rate_by_age": {
+    "13": 0.52
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 35,
+   "area": "Cognitive",
+   "skill": "Object Exploration",
+   "text_en": "Tests cause and effect by dropping an object and seeing if you'll pick it up.",
+   "text_es": "Prueba la causa y efecto dejando caer un objeto para ver si lo recoges.",
+   "text_pt": "Testa causa e efeito ao soltar um objeto para ver se você o pega.",
+   "rate_by_age": {
+    "5": 0.3,
+    "6": 0.6,
+    "7": 0.78
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 36,
+   "area": "Social-Emotional",
+   "skill": "Secure Attachment",
+   "text_en": "Shows preference for certain people.",
+   "text_es": "Muestra preferencia por ciertas personas.",
+   "text_pt": "Demonstra preferência por certas pessoas.",
+   "rate_by_age": {
+    "2": 0.13,
+    "3": 0.23,
+    "4": 0.4,
+    "5": 0.71,
+    "6": 0.83
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 37,
+   "area": "Cognitive",
+   "skill": "Object Exploration",
+   "text_en": "Reaches for things they want by moving their body.",
+   "text_es": "Se estira para alcanzar lo que quiere moviendo su cuerpo.",
+   "text_pt": "Mexe o corpo para alcançar as coisas que quer.",
+   "rate_by_age": {
+    "3": 0.58
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 38,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Gets startled by loud sounds.",
+   "text_es": "Se sobresalta con los sonidos fuertes.",
+   "text_pt": "Se assusta com sons altos.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 39,
+   "area": "Physical",
+   "skill": "Crawling",
+   "text_en": "Tries to see how high they can go when climbing.",
+   "text_es": "Prueba qué tan alto puede llegar cuando trepa.",
+   "text_pt": "Testa até que altura consegue chegar ao escalar.",
+   "rate_by_age": {
+    "9": 0.48
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 40,
+   "area": "Cognitive",
+   "skill": "Object Exploration",
+   "text_en": "Explores their own body using their hands.",
+   "text_es": "Explora su propio cuerpo con las manos.",
+   "text_pt": "Explora o próprio corpo com as mãos.",
+   "rate_by_age": {
+    "4": 0.34,
+    "5": 0.66,
+    "9": 0.82
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 41,
+   "area": "Cognitive",
+   "skill": "Object Exploration",
+   "text_en": "Brings their hands to their mouth.",
+   "text_es": "Se lleva las manos a la boca.",
+   "text_pt": "Leva as mãos à boca.",
+   "rate_by_age": {
+    "0": 0.88,
+    "1": 0.92,
+    "2": 0.96,
+    "3": 0.98,
+    "4": 0.97,
+    "5": 0.97,
+    "6": 0.98
+   },
+   "roles": [
+    "anchor"
+   ]
+  },
+  {
+   "id": 43,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "When you press or hold their feet against a firm surface, they stretch their legs.",
+   "text_es": "Cuando presionas o apoyas sus pies contra una superficie firme, estira las piernas.",
+   "text_pt": "Quando você pressiona ou apoia os pés da criança em uma superfície firme, ela estica as pernas.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 47,
+   "area": "Physical",
+   "skill": "Developing hand coordination",
+   "text_en": "Screws and unscrews a bottle cap.",
+   "text_es": "Enrosca y desenrosca la tapa de una botella.",
+   "text_pt": "Rosqueia e desrosqueia a tampa de uma garrafa.",
+   "rate_by_age": {
+    "15": 0.44,
+    "16": 0.57,
+    "17": 0.68,
+    "18": 0.73
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 51,
+   "area": "Social-Emotional",
+   "skill": "First interactions",
+   "text_en": "Reacts to different tones of voice.",
+   "text_es": "Reacciona a diferentes tonos de voz.",
+   "text_pt": "Reage a diferentes tons de voz.",
+   "rate_by_age": {
+    "0": 0.34,
+    "1": 0.4,
+    "2": 0.75,
+    "8": 0.98
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 53,
+   "area": "Cognitive",
+   "skill": "Imitating",
+   "text_en": "Copies what caregivers do, like taking a toy phone from a purse and saying 'hello.'",
+   "text_es": "Copia lo que hacen sus cuidadores, como sacar un teléfono de juguete de una bolsa y decir 'hola'.",
+   "text_pt": "Imita o que os cuidadores fazem, como tirar um telefone de brinquedo da bolsa e dizer 'alô'.",
+   "rate_by_age": {
+    "12": 0.32,
+    "13": 0.51
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 54,
+   "area": "Language",
+   "skill": "First Words",
+   "text_en": "Imitates a sound like 'pa' after you say it.",
+   "text_es": "Imita un sonido como 'pa' después de que lo dices.",
+   "text_pt": "Imita um som como 'pa' depois de você falar.",
+   "rate_by_age": {
+    "7": 0.31,
+    "8": 0.43,
+    "9": 0.54,
+    "10": 0.62,
+    "11": 0.63,
+    "12": 0.68
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 55,
+   "area": "Language",
+   "skill": "First Words",
+   "text_en": "Copies animal sounds.",
+   "text_es": "Copia sonidos de animales.",
+   "text_pt": "Imita sons de animais.",
+   "rate_by_age": {
+    "13": 0.37,
+    "14": 0.46,
+    "15": 0.57,
+    "16": 0.66,
+    "17": 0.7
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 57,
+   "area": "Physical",
+   "skill": "Developing hand coordination",
+   "text_en": "Starts and stops a toy on their own.",
+   "text_es": "Activa y detiene un juguete por sí solo.",
+   "text_pt": "Liga e desliga um brinquedo sem ajuda.",
+   "rate_by_age": {
+    "10": 0.56
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 63,
+   "area": "Cognitive",
+   "skill": "Developing memory and attention",
+   "text_en": "Watches curiously and intently while you do things.",
+   "text_es": "Observa con curiosidad y atención mientras haces cosas.",
+   "text_pt": "Observa com curiosidade e atenção enquanto você faz as coisas.",
+   "rate_by_age": {
+    "0": 0.36,
+    "1": 0.21,
+    "3": 0.5,
+    "10": 0.98
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 64,
+   "area": "Physical",
+   "skill": "Crawling",
+   "text_en": "Uses one arm to lift their upper body while on their tummy.",
+   "text_es": "Usa un brazo para levantar la parte superior de su cuerpo cuando está boca abajo.",
+   "text_pt": "Usa um braço para levantar a parte de cima do corpo quando está de barriga para baixo.",
+   "rate_by_age": {
+    "7": 0.43
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 67,
+   "area": "Language",
+   "skill": "Basic Vocabulary",
+   "text_en": "Knows what 'no' means.",
+   "text_es": "Sabe qué significa 'no'.",
+   "text_pt": "Entende o significado de 'não'.",
+   "rate_by_age": {
+    "6": 0.54,
+    "7": 0.54,
+    "8": 0.57,
+    "16": 0.92
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 69,
+   "area": "Cognitive",
+   "skill": "Early knowledge and curiosity",
+   "text_en": "Identifies animals by their sound.",
+   "text_es": "Identifica a los animales por su sonido.",
+   "text_pt": "Identifica animais pelo som que fazem.",
+   "rate_by_age": {
+    "0": 0.28,
+    "13": 0.36,
+    "14": 0.45,
+    "15": 0.57
+   },
+   "roles": [
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 71,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Turns pages of a book.",
+   "text_es": "Da vuelta a las páginas de un libro.",
+   "text_pt": "Vira as páginas de um livro.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 72,
+   "area": "Physical",
+   "skill": "Crawling",
+   "text_en": "Crawls up stairs.",
+   "text_es": "Sube escaleras gateando.",
+   "text_pt": "Sobe escadas engatinhando.",
+   "rate_by_age": {
+    "10": 0.37,
+    "11": 0.57
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 73,
+   "area": "Cognitive",
+   "skill": "Object Exploration",
+   "text_en": "Grabs objects and puts them in their mouth.",
+   "text_es": "Agarra objetos y se los lleva a la boca.",
+   "text_pt": "Pega objetos e leva à boca.",
+   "rate_by_age": {
+    "2": 0.42
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 75,
+   "area": "Physical",
+   "skill": "Head Control",
+   "text_en": "When lying on their tummy, they lift their head for a short time.",
+   "text_es": "Boca abajo, levanta la cabeza por un momento.",
+   "text_pt": "De barriga para baixo, levanta a cabeça por um curto período.",
+   "rate_by_age": {
+    "0": 0.7
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 78,
+   "area": "Social-Emotional",
+   "skill": "Developing Independence",
+   "text_en": "Gets upset when playtime is interrupted.",
+   "text_es": "Se molesta cuando interrumpen su juego.",
+   "text_pt": "Demonstra incômodo quando a brincadeira é interrompida.",
+   "rate_by_age": {
+    "3": 0.47,
+    "4": 0.45,
+    "5": 0.62,
+    "6": 0.71,
+    "7": 0.76,
+    "8": 0.84
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 79,
+   "area": "Language",
+   "skill": "Communicating through gestures",
+   "text_en": "Lets likes and dislikes be known by making facial expressions.",
+   "text_es": "Da a conocer lo que le gusta y lo que no con expresiones faciales.",
+   "text_pt": "Mostra do que gosta e do que não gosta por meio de expressões faciais.",
+   "rate_by_age": {
+    "0": 0.81,
+    "1": 0.79,
+    "2": 0.76,
+    "3": 0.8,
+    "4": 0.86,
+    "7": 0.94,
+    "8": 0.95,
+    "9": 0.95
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 81,
+   "area": "Cognitive",
+   "skill": "Object Exploration",
+   "text_en": "Stares at their hands for a few seconds.",
+   "text_es": "Se mira las manos por unos segundos.",
+   "text_pt": "Olha fixamente para as próprias mãos por alguns segundos.",
+   "rate_by_age": {
+    "2": 0.52
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 82,
+   "area": "Cognitive",
+   "skill": "Object Exploration",
+   "text_en": "Purposefully explores and touches one hand using the other.",
+   "text_es": "Explora y toca una mano con la otra a propósito.",
+   "text_pt": "Explora e toca uma das mãos com a outra de propósito.",
+   "rate_by_age": {
+    "2": 0.45,
+    "3": 0.78
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 84,
+   "area": "Social-Emotional",
+   "skill": "Developing empathy and cooperation",
+   "text_en": "Shares their toys with other kids.",
+   "text_es": "Comparte sus juguetes con otros niños.",
+   "text_pt": "Divide os brinquedos com outras crianças.",
+   "rate_by_age": {
+    "31": 0.58,
+    "32": 0.6,
+    "33": 0.65,
+    "34": 0.67,
+    "35": 0.66,
+    "36": 0.67,
+    "37": 0.71,
+    "38": 0.71,
+    "39": 0.73,
+    "40": 0.73,
+    "41": 0.73,
+    "6": 0.43,
+    "13": 0.43
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 85,
+   "area": "Social-Emotional",
+   "skill": "Self-Care and Autonomy",
+   "text_en": "Helps with the dressing and undressing processes by moving the right body parts.",
+   "text_es": "Ayuda a vestirse y desvestirse moviendo las partes del cuerpo correctas.",
+   "text_pt": "Ajuda a vestir e tirar a roupa movendo as partes certas do corpo.",
+   "rate_by_age": {
+    "7": 0.86,
+    "8": 0.88,
+    "9": 0.7,
+    "10": 0.74,
+    "11": 0.8,
+    "12": 0.85,
+    "16": 0.95,
+    "17": 0.96
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 86,
+   "area": "Physical",
+   "skill": "Early movements and coordination",
+   "text_en": "When lying on their back, they lift and kick their legs.",
+   "text_es": "Boca arriba, levanta y patalea con las piernas.",
+   "text_pt": "De barriga para cima, levanta e chuta as pernas.",
+   "rate_by_age": {
+    "2": 0.97,
+    "3": 0.97,
+    "4": 0.98
+   },
+   "roles": [
+    "anchor"
+   ]
+  },
+  {
+   "id": 88,
+   "area": "Language",
+   "skill": "Communicating through gestures",
+   "text_en": "Asks for help through gestures.",
+   "text_es": "Pide ayuda con gestos.",
+   "text_pt": "Pede ajuda por meio de gestos.",
+   "rate_by_age": {
+    "8": 0.34,
+    "9": 0.49,
+    "10": 0.64
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 89,
+   "area": "Cognitive",
+   "skill": "Developing memory and attention",
+   "text_en": "Stays focused on something or someone for a while (1 minute).",
+   "text_es": "Se mantiene concentrado en algo o alguien por un rato (1 minuto).",
+   "text_pt": "Mantém a atenção em algo ou alguém por um tempo (1 minuto).",
+   "rate_by_age": {
+    "0": 0.67,
+    "1": 0.78,
+    "7": 0.97
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 90,
+   "area": "Cognitive",
+   "skill": "Developing memory and attention",
+   "text_en": "Listens to people talking.",
+   "text_es": "Escucha a las personas hablar.",
+   "text_pt": "Escuta as pessoas conversando.",
+   "rate_by_age": {
+    "0": 0.34,
+    "1": 0.18,
+    "2": 0.25,
+    "3": 0.48,
+    "4": 0.78
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 91,
+   "area": "Physical",
+   "skill": "Head Control",
+   "text_en": "Turns their head both ways when held upright.",
+   "text_es": "Gira la cabeza hacia ambos lados cuando lo cargan en posición vertical.",
+   "text_pt": "Vira a cabeça para os dois lados quando está na posição vertical.",
+   "rate_by_age": {
+    "0": 0.67
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 92,
+   "area": "Physical",
+   "skill": "Rolling Over and Sitting Up",
+   "text_en": "Rolls over both ways on their own.",
+   "text_es": "Se voltea hacia ambos lados por sí solo.",
+   "text_pt": "Rola para os dois lados sem ajuda.",
+   "rate_by_age": {
+    "5": 0.5
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 93,
+   "area": "Physical",
+   "skill": "Developing the senses",
+   "text_en": "Likes soft things more than rough ones.",
+   "text_es": "Le gustan más las cosas suaves que las ásperas.",
+   "text_pt": "Gosta mais de coisas macias do que de coisas ásperas.",
+   "rate_by_age": {
+    "7": 0.47
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 95,
+   "area": "Social-Emotional",
+   "skill": "Developing self-awareness",
+   "text_en": "Reacts when they see themselves in a mirror.",
+   "text_es": "Reacciona al verse en un espejo.",
+   "text_pt": "Reage ao se ver no espelho.",
+   "rate_by_age": {
+    "0": 0.85,
+    "1": 0.77,
+    "2": 0.68
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 97,
+   "area": "Social-Emotional",
+   "skill": "Secure Attachment",
+   "text_en": "Recognizes caregivers.",
+   "text_es": "Reconoce a sus cuidadores.",
+   "text_pt": "Reconhece os cuidadores.",
+   "rate_by_age": {
+    "0": 0.56,
+    "1": 0.73,
+    "6": 0.98
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 102,
+   "area": "Cognitive",
+   "skill": "Object Exploration",
+   "text_en": "Acts interested in unfamiliar things around them by exploring.",
+   "text_es": "Muestra interés por las cosas desconocidas a su alrededor y las explora.",
+   "text_pt": "Demonstra interesse pelas coisas desconhecidas ao redor e as explora.",
+   "rate_by_age": {
+    "0": 0.16,
+    "1": 0.25,
+    "2": 0.63
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 103,
+   "area": "Social-Emotional",
+   "skill": "Developing Independence",
+   "text_en": "Can correctly use some everyday items (like sipping from a cup or dialing a phone).",
+   "text_es": "Puede usar correctamente algunos objetos cotidianos (como beber de una taza o marcar un teléfono).",
+   "text_pt": "Usa corretamente alguns objetos do dia a dia (como beber em um copo ou discar em um telefone).",
+   "rate_by_age": {
+    "8": 0.1,
+    "9": 0.17,
+    "10": 0.31,
+    "11": 0.53,
+    "12": 0.71,
+    "13": 0.79,
+    "14": 0.87,
+    "18": 0.93
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 108,
+   "area": "Social-Emotional",
+   "skill": "First interactions",
+   "text_en": "Repeats sounds or actions to get people to look.",
+   "text_es": "Repite sonidos o acciones para que la gente lo mire.",
+   "text_pt": "Repete sons ou ações para chamar a atenção das pessoas.",
+   "rate_by_age": {
+    "5": 0.21,
+    "6": 0.36,
+    "7": 0.52,
+    "8": 0.78,
+    "9": 0.84
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 109,
+   "area": "Language",
+   "skill": "Basic Vocabulary",
+   "text_en": "Understands three-word phrases, like 'Look, a dog!'",
+   "text_es": "Entiende frases de tres palabras, como '¡Mira, un perro!'",
+   "text_pt": "Entende frases de três palavras, como 'Olha, um cachorro!'",
+   "rate_by_age": {
+    "9": 0.53,
+    "10": 0.61,
+    "11": 0.62,
+    "12": 0.72
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 110,
+   "area": "Social-Emotional",
+   "skill": "Developing self-awareness",
+   "text_en": "When they hear their name, they move toward the person by crawling, walking, or turning in their direction.",
+   "text_es": "Cuando escucha su nombre, se acerca a la persona gateando, caminando o volteando hacia ella.",
+   "text_pt": "Quando escuta o próprio nome, se aproxima da pessoa engatinhando, andando ou virando na direção dela.",
+   "rate_by_age": {
+    "1": 0.39,
+    "2": 0.26,
+    "3": 0.25,
+    "4": 0.35,
+    "5": 0.6,
+    "6": 0.75,
+    "7": 0.88
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 111,
+   "area": "Social-Emotional",
+   "skill": "Secure Attachment",
+   "text_en": "Acts differently when around familiar and unfamiliar adults.",
+   "text_es": "Se comporta diferente con adultos conocidos y desconocidos.",
+   "text_pt": "Age de um jeito com adultos conhecidos e de outro com adultos desconhecidos.",
+   "rate_by_age": {
+    "0": 0.21,
+    "1": 0.13,
+    "2": 0.24,
+    "3": 0.48,
+    "4": 0.73
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 112,
+   "area": "Social-Emotional",
+   "skill": "First interactions",
+   "text_en": "Laughs out loud.",
+   "text_es": "Se ríe a carcajadas.",
+   "text_pt": "Dá risada alta.",
+   "rate_by_age": {
+    "3": 0.38,
+    "4": 0.68,
+    "9": 0.98
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 113,
+   "area": "Physical",
+   "skill": "Standing Up",
+   "text_en": "Goes from sitting to standing with the aid of a large object, like furniture.",
+   "text_es": "Pasa de sentado a parado apoyándose en un objeto grande, como un mueble.",
+   "text_pt": "Passa da posição sentada para de pé com o apoio de um objeto grande, como um móvel.",
+   "rate_by_age": {
+    "7": 0.61
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 114,
+   "area": "Physical",
+   "skill": "Early movements and coordination",
+   "text_en": "Grabs their feet with their hands while lying on their back.",
+   "text_es": "Se agarra los pies con las manos mientras está boca arriba.",
+   "text_pt": "Segura os pés com as mãos quando está de barriga para cima.",
+   "rate_by_age": {
+    "4": 0.55
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 115,
+   "area": "Physical",
+   "skill": "Head Control",
+   "text_en": "Props up their upper body with their elbows and forearms when they're on their belly.",
+   "text_es": "Se apoya en codos y antebrazos para levantar la parte superior del cuerpo cuando está boca abajo.",
+   "text_pt": "Apoia a parte de cima do corpo nos cotovelos e antebraços quando está de barriga para baixo.",
+   "rate_by_age": {
+    "3": 0.57
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 116,
+   "area": "Physical",
+   "skill": "Crawling",
+   "text_en": "Drags to get something they want.",
+   "text_es": "Se arrastra para alcanzar algo que quiere.",
+   "text_pt": "Se arrasta para alcançar algo que quer.",
+   "rate_by_age": {
+    "6": 0.45
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 117,
+   "area": "Cognitive",
+   "skill": "Object Exploration",
+   "text_en": "Pays attention to new places and things.",
+   "text_es": "Presta atención a lugares y cosas nuevas.",
+   "text_pt": "Presta atenção em lugares e coisas novas.",
+   "rate_by_age": {
+    "0": 0.19,
+    "1": 0.23,
+    "2": 0.62,
+    "8": 0.98,
+    "9": 0.97
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 118,
+   "area": "Physical",
+   "skill": "Rolling Over and Sitting Up",
+   "text_en": "Sits independently.",
+   "text_es": "Se sienta por sí solo.",
+   "text_pt": "Se senta sem apoio.",
+   "rate_by_age": {
+    "6": 0.59
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 120,
+   "area": "Social-Emotional",
+   "skill": "Developing self-awareness",
+   "text_en": "Recognizes their reflection in the mirror.",
+   "text_es": "Reconoce su reflejo en el espejo.",
+   "text_pt": "Reconhece o próprio reflexo no espelho.",
+   "rate_by_age": {
+    "13": 0.38,
+    "14": 0.43,
+    "15": 0.51,
+    "16": 0.61,
+    "17": 0.7,
+    "18": 0.75,
+    "19": 0.81
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 122,
+   "area": "Social-Emotional",
+   "skill": "Secure Attachment",
+   "text_en": "Becomes calm when hearing voices they know.",
+   "text_es": "Se calma al escuchar voces conocidas.",
+   "text_pt": "Se acalma ao ouvir vozes conhecidas.",
+   "rate_by_age": {
+    "0": 0.77,
+    "1": 0.88
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 124,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Walks when someone is holding them by their hands.",
+   "text_es": "Camina cuando alguien lo lleva de las manos.",
+   "text_pt": "Anda quando alguém segura pelas mãos.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 126,
+   "area": "Language",
+   "skill": "Babbling",
+   "text_en": "Talks to other babies with babbles.",
+   "text_es": "Les 'habla' a otros bebés con balbuceos.",
+   "text_pt": "'Conversa' com outros bebês por meio de balbucios.",
+   "rate_by_age": {
+    "5": 0.21,
+    "7": 0.31,
+    "8": 0.48,
+    "9": 0.6,
+    "11": 0.72,
+    "12": 0.69,
+    "13": 0.7,
+    "14": 0.75
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 129,
+   "area": "Social-Emotional",
+   "skill": "Secure Attachment",
+   "text_en": "Responds positively to loving gestures.",
+   "text_es": "Responde positivamente a los gestos de cariño.",
+   "text_pt": "Responde de forma positiva a gestos de carinho.",
+   "rate_by_age": {
+    "0": 0.46,
+    "1": 0.77,
+    "3": 0.96
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 130,
+   "area": "Physical",
+   "skill": "Early movements and coordination",
+   "text_en": "Has control of their torso and neck when held by a caregiver with their feet on the ground.",
+   "text_es": "Controla su torso y cuello cuando un cuidador lo sostiene con los pies en el suelo.",
+   "text_pt": "Controla o tronco e o pescoço quando um cuidador segura a criança com os pés no chão.",
+   "rate_by_age": {
+    "3": 0.49
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 131,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Grabs your finger or an object placed in their hand.",
+   "text_es": "Agarra tu dedo o un objeto que pongas en su mano.",
+   "text_pt": "Segura o seu dedo ou um objeto colocado na mão.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 132,
+   "area": "Physical",
+   "skill": "Head Control",
+   "text_en": "Keeps their head stable but still requires support when carried in an upright position.",
+   "text_es": "Mantiene la cabeza estable, aunque todavía necesita apoyo cuando lo cargan en posición vertical.",
+   "text_pt": "Mantém a cabeça estável, mas ainda precisa de apoio quando está no colo na posição vertical.",
+   "rate_by_age": {
+    "0": 0.6
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 133,
+   "area": "Physical",
+   "skill": "Early movements and coordination",
+   "text_en": "Grabs two things, one in each hand.",
+   "text_es": "Agarra dos cosas, una en cada mano.",
+   "text_pt": "Segura duas coisas, uma em cada mão.",
+   "rate_by_age": {
+    "5": 0.56
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 135,
+   "area": "Physical",
+   "skill": "Developing hand coordination",
+   "text_en": "Lets go of things they're holding on purpose.",
+   "text_es": "Suelta a propósito las cosas que sostiene.",
+   "text_pt": "Solta de propósito as coisas que está segurando.",
+   "rate_by_age": {
+    "2": 0.53,
+    "3": 0.46,
+    "4": 0.55,
+    "11": 0.98,
+    "12": 0.98
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 136,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Lies on their back with legs open in a butterfly position.",
+   "text_es": "Boca arriba, mantiene las piernas abiertas en posición de mariposa.",
+   "text_pt": "De barriga para cima, fica com as pernas abertas em posição de borboleta.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 138,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Responds positively to touch.",
+   "text_es": "Responde positivamente al contacto físico.",
+   "text_pt": "Responde de forma positiva ao toque.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 139,
+   "area": "Physical",
+   "skill": "Developing hand coordination",
+   "text_en": "Opens and closes doors and drawers using the handles.",
+   "text_es": "Abre y cierra puertas y cajones usando las manijas.",
+   "text_pt": "Abre e fecha portas e gavetas usando as maçanetas e puxadores.",
+   "rate_by_age": {
+    "10": 0.63
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 140,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Uses one thing to move or push something else.",
+   "text_es": "Usa una cosa para mover o empujar otra.",
+   "text_pt": "Usa uma coisa para mover ou empurrar outra.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 143,
+   "area": "Language",
+   "skill": "Babbling",
+   "text_en": "Answers with babbles when you talk to them.",
+   "text_es": "Responde con balbuceos cuando le hablas.",
+   "text_pt": "Responde com balbucios quando você fala.",
+   "rate_by_age": {
+    "2": 0.18,
+    "3": 0.43,
+    "4": 0.26,
+    "5": 0.41,
+    "6": 0.44,
+    "7": 0.63
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 144,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Turns their head towards the hand after a cheek stroke.",
+   "text_es": "Gira la cabeza hacia la mano después de una caricia en la mejilla.",
+   "text_pt": "Vira a cabeça em direção à mão depois de um carinho na bochecha.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 145,
+   "area": "Physical",
+   "skill": "Developing the senses",
+   "text_en": "Looks in the direction of a noise.",
+   "text_es": "Mira en la dirección de un ruido.",
+   "text_pt": "Olha na direção de um barulho.",
+   "rate_by_age": {
+    "0": 0.52
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 146,
+   "area": "Physical",
+   "skill": "Early movements and coordination",
+   "text_en": "Opens and closes their hands when you touch their palm.",
+   "text_es": "Abre y cierra las manos cuando le tocas la palma.",
+   "text_pt": "Abre e fecha as mãos quando você toca a palma.",
+   "rate_by_age": {
+    "6": 0.98
+   },
+   "roles": [
+    "anchor"
+   ]
+  },
+  {
+   "id": 148,
+   "area": "Cognitive",
+   "skill": "Early knowledge and curiosity",
+   "text_en": "Understands simple rules, like using paint on paper, not the table.",
+   "text_es": "Entiende reglas simples, como pintar en el papel y no en la mesa.",
+   "text_pt": "Entende regras simples, como pintar no papel e não na mesa.",
+   "rate_by_age": {
+    "16": 0.41,
+    "17": 0.54,
+    "18": 0.63,
+    "19": 0.72,
+    "20": 0.71
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 149,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Shakes objects.",
+   "text_es": "Sacude objetos.",
+   "text_pt": "Sacode objetos.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 150,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Shows the Moro Reflex by raising their arms and stretching their back and neck when startled.",
+   "text_es": "Muestra el reflejo de Moro al levantar los brazos y estirar la espalda y el cuello cuando se sobresalta.",
+   "text_pt": "Apresenta o reflexo de Moro: levanta os braços e estica as costas e o pescoço ao se assustar.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 151,
+   "area": "Physical",
+   "skill": "Rolling Over and Sitting Up",
+   "text_en": "Rolls from tummy to back.",
+   "text_es": "Se voltea de boca abajo a boca arriba.",
+   "text_pt": "Vira de barriga para baixo para barriga para cima.",
+   "rate_by_age": {
+    "1": 0.54,
+    "5": 0.55
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 152,
+   "area": "Physical",
+   "skill": "Developing finger dexterity",
+   "text_en": "Grabs things with their whole hand.",
+   "text_es": "Agarra las cosas con toda la mano.",
+   "text_pt": "Pega as coisas com a mão inteira.",
+   "rate_by_age": {
+    "2": 0.54
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 153,
+   "area": "Physical",
+   "skill": "Early movements and coordination",
+   "text_en": "Reaches for something and grabs it.",
+   "text_es": "Se estira hacia algo y lo agarra.",
+   "text_pt": "Estica o braço para alcançar algo e pega.",
+   "rate_by_age": {
+    "4": 0.59
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 157,
+   "area": "Cognitive",
+   "skill": "Developing memory and attention",
+   "text_en": "Matches sound to object, such as a doorbell with the door.",
+   "text_es": "Relaciona sonidos con objetos, como el timbre con la puerta.",
+   "text_pt": "Relaciona o som ao objeto, como a campainha à porta.",
+   "rate_by_age": {
+    "6": 0.41,
+    "7": 0.44,
+    "8": 0.66,
+    "9": 0.76
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 158,
+   "area": "Physical",
+   "skill": "Crawling",
+   "text_en": "Extends arms out in front while on their belly.",
+   "text_es": "Extiende los brazos hacia el frente cuando está boca abajo.",
+   "text_pt": "Estica os braços para a frente quando está de barriga para baixo.",
+   "rate_by_age": {
+    "1": 0.48,
+    "2": 0.45,
+    "3": 0.49
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 159,
+   "area": "Physical",
+   "skill": "Early movements and coordination",
+   "text_en": "Extends arms and legs when lying on their tummy.",
+   "text_es": "Estira brazos y piernas cuando está boca abajo.",
+   "text_pt": "Estica os braços e as pernas quando está de barriga para baixo.",
+   "rate_by_age": {
+    "0": 0.66
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 160,
+   "area": "Physical",
+   "skill": "Rolling Over and Sitting Up",
+   "text_en": "Turns by rocking side to side while on their tummy.",
+   "text_es": "Gira balanceándose de lado a lado mientras está boca abajo.",
+   "text_pt": "Gira se balançando de um lado para o outro quando está de barriga para baixo.",
+   "rate_by_age": {
+    "1": 0.34,
+    "5": 0.49
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 162,
+   "area": "Physical",
+   "skill": "Rolling Over and Sitting Up",
+   "text_en": "Lying on their back, they lift their head and make an effort to sit up.",
+   "text_es": "Boca arriba, levanta la cabeza y hace el esfuerzo de sentarse.",
+   "text_pt": "De barriga para cima, levanta a cabeça e faz força para sentar.",
+   "rate_by_age": {
+    "0": 0.67,
+    "1": 0.42,
+    "2": 0.49
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 164,
+   "area": "Physical",
+   "skill": "Crawling",
+   "text_en": "Moves in different directions when crawling.",
+   "text_es": "Se mueve en diferentes direcciones al gatear.",
+   "text_pt": "Se move em diferentes direções ao engatinhar.",
+   "rate_by_age": {
+    "8": 0.44
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 165,
+   "area": "Physical",
+   "skill": "Early movements and coordination",
+   "text_en": "Switches things between their hands.",
+   "text_es": "Cambia objetos de una mano a la otra.",
+   "text_pt": "Passa as coisas de uma mão para a outra.",
+   "rate_by_age": {
+    "5": 0.5
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 168,
+   "area": "Physical",
+   "skill": "Kicking",
+   "text_en": "Kicks a ball while being helped to walk.",
+   "text_es": "Patea una pelota mientras lo ayudan a caminar.",
+   "text_pt": "Chuta uma bola enquanto recebe ajuda para andar.",
+   "rate_by_age": {
+    "9": 0.56,
+    "10": 0.56
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 172,
+   "area": "Physical",
+   "skill": "Developing finger dexterity",
+   "text_en": "Puts things into containers.",
+   "text_es": "Mete cosas en recipientes.",
+   "text_pt": "Coloca coisas dentro de recipientes.",
+   "rate_by_age": {
+    "9": 0.43
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 173,
+   "area": "Physical",
+   "skill": "Crawling",
+   "text_en": "Gets into a crawling position on hands and knees.",
+   "text_es": "Se coloca en posición de gateo sobre manos y rodillas.",
+   "text_pt": "Fica na posição de engatinhar, com apoio nas mãos e nos joelhos.",
+   "rate_by_age": {
+    "7": 0.55
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 179,
+   "area": "Physical",
+   "skill": "Developing hand coordination",
+   "text_en": "Stacks two or more blocks to make a tower.",
+   "text_es": "Apila dos o más bloques para hacer una torre.",
+   "text_pt": "Empilha dois ou mais blocos para fazer uma torre.",
+   "rate_by_age": {
+    "14": 0.42,
+    "15": 0.57
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 182,
+   "area": "Physical",
+   "skill": "Walking",
+   "text_en": "Walks on narrow spaces.",
+   "text_es": "Camina por espacios angostos.",
+   "text_pt": "Anda por espaços estreitos.",
+   "rate_by_age": {
+    "13": 0.53,
+    "14": 0.63
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 183,
+   "area": "Cognitive",
+   "skill": "Early knowledge and curiosity",
+   "text_en": "Looks for an item they dropped on the floor.",
+   "text_es": "Busca un objeto que se le cayó al suelo.",
+   "text_pt": "Procura um objeto que derrubou no chão.",
+   "rate_by_age": {
+    "2": 0.6,
+    "3": 0.54,
+    "4": 0.56,
+    "5": 0.63,
+    "12": 0.97
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 185,
+   "area": "Cognitive",
+   "skill": "Object Exploration",
+   "text_en": "Clears the path to grab what they're after.",
+   "text_es": "Despeja el camino para agarrar lo que busca.",
+   "text_pt": "Tira o que está no caminho para pegar o que quer.",
+   "rate_by_age": {
+    "6": 0.58,
+    "7": 0.76
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 186,
+   "area": "Social-Emotional",
+   "skill": "Secure Attachment",
+   "text_en": "Feels shy or anxious when meeting new adults.",
+   "text_es": "Se siente tímido o ansioso al conocer adultos nuevos.",
+   "text_pt": "Demonstra timidez ou ansiedade ao conhecer adultos novos.",
+   "rate_by_age": {
+    "6": 0.27,
+    "7": 0.41,
+    "8": 0.55,
+    "9": 0.68,
+    "10": 0.81
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 188,
+   "area": "Cognitive",
+   "skill": "Developing memory and attention",
+   "text_en": "Becomes aware of their surroundings.",
+   "text_es": "Toma conciencia de su entorno.",
+   "text_pt": "Passa a perceber o ambiente ao redor.",
+   "rate_by_age": {
+    "0": 0.84,
+    "1": 0.79
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 189,
+   "area": "Cognitive",
+   "skill": "Imitating",
+   "text_en": "Imitates simple gestures after seeing them.",
+   "text_es": "Imita gestos simples después de verlos.",
+   "text_pt": "Imita gestos simples depois de vê-los.",
+   "rate_by_age": {
+    "7": 0.24,
+    "8": 0.49,
+    "9": 0.7,
+    "10": 0.83,
+    "14": 0.96,
+    "15": 0.96
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 193,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Demonstrates the Babinski Reflex by spreading their toes when the sole of their foot is touched.",
+   "text_es": "Muestra el reflejo de Babinski al abrir los dedos del pie cuando le tocan la planta.",
+   "text_pt": "Apresenta o reflexo de Babinski: abre os dedos do pé quando a sola do pé é tocada.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 196,
+   "area": "Language",
+   "skill": "Babbling",
+   "text_en": "Uses sounds like 'm, n, p, t, d' when babbling.",
+   "text_es": "Usa sonidos como 'm, n, p, t, d' al balbucear.",
+   "text_pt": "Usa sons como 'm, n, p, t, d' ao balbuciar.",
+   "rate_by_age": {
+    "0": 0.12,
+    "1": 0.1,
+    "2": 0.18,
+    "3": 0.36,
+    "4": 0.5,
+    "5": 0.64,
+    "6": 0.78
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 197,
+   "area": "Language",
+   "skill": "Babbling",
+   "text_en": "Makes vowel sounds like 'eh' or 'ah'.",
+   "text_es": "Hace sonidos de vocales como 'eh' o 'ah'.",
+   "text_pt": "Faz sons de vogais, como 'ê' ou 'á'.",
+   "rate_by_age": {
+    "0": 0.37,
+    "1": 0.49,
+    "2": 0.8,
+    "4": 0.92
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 199,
+   "area": "Cognitive",
+   "skill": "Early knowledge and curiosity",
+   "text_en": "Understands that objects have different shapes, textures, and sizes.",
+   "text_es": "Entiende que los objetos tienen diferentes formas, texturas y tamaños.",
+   "text_pt": "Entende que os objetos têm formas, texturas e tamanhos diferentes.",
+   "rate_by_age": {
+    "3": 0.19,
+    "11": 0.2,
+    "13": 0.38,
+    "14": 0.49,
+    "15": 0.63
+   },
+   "roles": [
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 201,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Holds and clenches their fists tightly.",
+   "text_es": "Mantiene los puños cerrados con fuerza.",
+   "text_pt": "Segura e fecha os punhos com força.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 203,
+   "area": "Cognitive",
+   "skill": "Early knowledge and curiosity",
+   "text_en": "Discovers things hidden under blankets or covers.",
+   "text_es": "Descubre cosas escondidas bajo cobijas o mantas.",
+   "text_pt": "Descobre coisas escondidas embaixo de cobertores ou mantas.",
+   "rate_by_age": {
+    "6": 0.25,
+    "7": 0.31,
+    "8": 0.6,
+    "9": 0.76
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 206,
+   "area": "Cognitive",
+   "skill": "Early knowledge and curiosity",
+   "text_en": "Looks for a toy that was just hidden.",
+   "text_es": "Busca un juguete que acaba de ser escondido.",
+   "text_pt": "Procura um brinquedo que acabou de ser escondido.",
+   "rate_by_age": {
+    "3": 0.44,
+    "4": 0.34,
+    "5": 0.45,
+    "6": 0.64,
+    "7": 0.69,
+    "8": 0.82
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 207,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Lifts their legs about 4 inches (10 cm) off the ground when lying on their back.",
+   "text_es": "Boca arriba, levanta las piernas unos 10 cm (4 pulgadas) del suelo.",
+   "text_pt": "De barriga para cima, levanta as pernas cerca de 10 cm do chão.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 208,
+   "area": "Physical",
+   "skill": "Standing Up",
+   "text_en": "Goes from standing to sitting without help.",
+   "text_es": "Pasa de estar parado a sentado sin ayuda.",
+   "text_pt": "Passa da posição de pé para a sentada sem ajuda.",
+   "rate_by_age": {
+    "8": 0.51,
+    "9": 0.55
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 209,
+   "area": "Physical",
+   "skill": "Standing Up",
+   "text_en": "Moves from sitting to being on their knees.",
+   "text_es": "Pasa de estar sentado a ponerse de rodillas.",
+   "text_pt": "Passa da posição sentada para a de joelhos.",
+   "rate_by_age": {
+    "6": 0.52,
+    "7": 0.61
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 212,
+   "area": "Physical",
+   "skill": "Developing the senses",
+   "text_en": "Likes some textures more than others.",
+   "text_es": "Le gustan más unas texturas que otras.",
+   "text_pt": "Gosta mais de umas texturas do que de outras.",
+   "rate_by_age": {
+    "6": 0.63
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 214,
+   "area": "Physical",
+   "skill": "Developing the senses",
+   "text_en": "Can look at an object or person at arm's length.",
+   "text_es": "Puede mirar un objeto o persona a la distancia de su brazo.",
+   "text_pt": "Consegue olhar para um objeto ou pessoa à distância de um braço.",
+   "rate_by_age": {
+    "0": 0.34
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 216,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "When lying on their back, they turn their head to the left and right.",
+   "text_es": "Boca arriba, gira la cabeza a la izquierda y a la derecha.",
+   "text_pt": "De barriga para cima, vira a cabeça para a esquerda e para a direita.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 217,
+   "area": "Cognitive",
+   "skill": "Object Exploration",
+   "text_en": "Hits two things together.",
+   "text_es": "Golpea dos cosas entre sí.",
+   "text_pt": "Bate duas coisas uma na outra.",
+   "rate_by_age": {
+    "4": 0.28,
+    "5": 0.57
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 218,
+   "area": "Cognitive",
+   "skill": "Imitating",
+   "text_en": "Copies facial expressions.",
+   "text_es": "Copia expresiones faciales.",
+   "text_pt": "Imita expressões faciais.",
+   "rate_by_age": {
+    "4": 0.69,
+    "5": 0.63,
+    "6": 0.64,
+    "7": 0.59,
+    "8": 0.74,
+    "9": 0.8
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 223,
+   "area": "Physical",
+   "skill": "Developing hand coordination",
+   "text_en": "Pulls things closer to them.",
+   "text_es": "Jala las cosas para acercarlas.",
+   "text_pt": "Puxa as coisas para perto.",
+   "rate_by_age": {
+    "7": 0.97,
+    "8": 0.98,
+    "9": 0.98,
+    "10": 0.98
+   },
+   "roles": [
+    "anchor"
+   ]
+  },
+  {
+   "id": 227,
+   "area": "Physical",
+   "skill": "Rolling Over and Sitting Up",
+   "text_en": "Sits upright and steady when leaning on pillows or furniture.",
+   "text_es": "Se sienta derecho y estable cuando se apoya en cojines o muebles.",
+   "text_pt": "Se senta com o corpo ereto e firme quando se apoia em almofadas ou móveis.",
+   "rate_by_age": {
+    "0": 0.67,
+    "1": 0.56,
+    "2": 0.59
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 230,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Crawls over or around obstacles.",
+   "text_es": "Gatea por encima o alrededor de obstáculos.",
+   "text_pt": "Engatinha por cima ou em volta de obstáculos.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 235,
+   "area": "Physical",
+   "skill": "Developing finger dexterity",
+   "text_en": "Takes objects out of a container.",
+   "text_es": "Saca objetos de un recipiente.",
+   "text_pt": "Tira objetos de dentro de um recipiente.",
+   "rate_by_age": {
+    "6": 0.34,
+    "13": 0.97
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 236,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Displays the Sucking Reflex by sucking when something touches the roof of their mouth.",
+   "text_es": "Muestra el reflejo de succión al succionar cuando algo le toca el paladar.",
+   "text_pt": "Apresenta o reflexo de sucção: suga quando algo toca o céu da boca.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 239,
+   "area": "Physical",
+   "skill": "Crawling",
+   "text_en": "Moves forward with their legs while lying on their tummy.",
+   "text_es": "Avanza impulsándose con las piernas mientras está boca abajo.",
+   "text_pt": "Avança se impulsionando com as pernas quando está de barriga para baixo.",
+   "rate_by_age": {
+    "1": 0.67,
+    "3": 0.58,
+    "4": 0.57
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 240,
+   "area": "Social-Emotional",
+   "skill": "First interactions",
+   "text_en": "Stares at people's faces.",
+   "text_es": "Mira fijamente los rostros de las personas.",
+   "text_pt": "Olha fixamente para o rosto das pessoas.",
+   "rate_by_age": {
+    "0": 0.73,
+    "2": 0.94
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 241,
+   "area": "Social-Emotional",
+   "skill": "Developing Independence",
+   "text_en": "Helps with everyday chores, such as cleaning up toys.",
+   "text_es": "Ayuda con tareas cotidianas, como recoger los juguetes.",
+   "text_pt": "Ajuda em tarefas do dia a dia, como guardar os brinquedos.",
+   "rate_by_age": {
+    "2": 0.16,
+    "15": 0.32,
+    "16": 0.44,
+    "17": 0.54,
+    "18": 0.65,
+    "19": 0.73,
+    "20": 0.77,
+    "21": 0.76,
+    "22": 0.76,
+    "3": 0.1
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 243,
+   "area": "Physical",
+   "skill": "Developing the senses",
+   "text_en": "Shows different reactions to hot and cold things.",
+   "text_es": "Reacciona diferente a las cosas calientes y frías.",
+   "text_pt": "Reage de formas diferentes a coisas quentes e frias.",
+   "rate_by_age": {
+    "6": 0.63
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 245,
+   "area": "Physical",
+   "skill": "Standing Up",
+   "text_en": "Stands while holding on to something.",
+   "text_es": "Se para sosteniéndose de algo.",
+   "text_pt": "Fica de pé segurando em algo.",
+   "rate_by_age": {
+    "5": 0.52
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 247,
+   "area": "Language",
+   "skill": "Babbling",
+   "text_en": "Makes guttural sounds, like 'ga' or 'gu'.",
+   "text_es": "Hace sonidos guturales, como 'ga' o 'gu'.",
+   "text_pt": "Faz sons guturais, como 'ga' ou 'gu'.",
+   "rate_by_age": {
+    "0": 0.5,
+    "1": 0.72,
+    "2": 0.89,
+    "3": 0.9,
+    "5": 0.89
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 249,
+   "area": "Language",
+   "skill": "First Words",
+   "text_en": "Refers to caregivers as 'mama' or 'papa.'",
+   "text_es": "Llama a sus cuidadores 'mamá' o 'papá'.",
+   "text_pt": "Chama os cuidadores de 'mamãe' ou 'papai'.",
+   "rate_by_age": {
+    "6": 0.65,
+    "8": 0.57,
+    "9": 0.58,
+    "10": 0.65
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 251,
+   "area": "Physical",
+   "skill": "Developing finger dexterity",
+   "text_en": "Holds things using all their fingers except the thumb.",
+   "text_es": "Sostiene cosas usando todos los dedos menos el pulgar.",
+   "text_pt": "Segura as coisas usando todos os dedos, menos o polegar.",
+   "rate_by_age": {
+    "1": 0.66,
+    "3": 0.59,
+    "4": 0.64
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 252,
+   "area": "Social-Emotional",
+   "skill": "Secure Attachment",
+   "text_en": "Interacts with people they are familiar with by smiling and/or talking.",
+   "text_es": "Interactúa con personas que conoce sonriendo o hablando.",
+   "text_pt": "Interage com pessoas conhecidas sorrindo e/ou falando.",
+   "rate_by_age": {
+    "2": 0.2,
+    "3": 0.34,
+    "4": 0.51,
+    "5": 0.77
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 258,
+   "area": "Language",
+   "skill": "Basic Vocabulary",
+   "text_en": "Gives you something when you ask for it.",
+   "text_es": "Te da algo cuando se lo pides.",
+   "text_pt": "Entrega algo a você quando pede.",
+   "rate_by_age": {
+    "9": 0.47,
+    "10": 0.61,
+    "11": 0.69,
+    "17": 0.9
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 262,
+   "area": "Physical",
+   "skill": "Crawling",
+   "text_en": "Rocks back and forth in the crawling position.",
+   "text_es": "Se mece hacia adelante y hacia atrás en posición de gateo.",
+   "text_pt": "Se balança para a frente e para trás na posição de engatinhar.",
+   "rate_by_age": {
+    "7": 0.56
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 267,
+   "area": "Physical",
+   "skill": "Crawling",
+   "text_en": "Rolls or moves around to go where they want.",
+   "text_es": "Rueda o se mueve para llegar a donde quiere.",
+   "text_pt": "Rola ou se movimenta para chegar aonde quer.",
+   "rate_by_age": {
+    "4": 0.37,
+    "5": 0.47
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 269,
+   "area": "Physical",
+   "skill": "Crawling",
+   "text_en": "Tries to grab something while on their tummy.",
+   "text_es": "Intenta agarrar algo mientras está boca abajo.",
+   "text_pt": "Tenta pegar algo quando está de barriga para baixo.",
+   "rate_by_age": {
+    "1": 0.42,
+    "3": 0.41
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 270,
+   "area": "Physical",
+   "skill": "Rolling Over and Sitting Up",
+   "text_en": "Goes from lying to sitting without help.",
+   "text_es": "Pasa de estar acostado a sentado sin ayuda.",
+   "text_pt": "Passa da posição deitada para a sentada sem ajuda.",
+   "rate_by_age": {
+    "8": 0.56
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 271,
+   "area": "Physical",
+   "skill": "Standing Up",
+   "text_en": "Stands briefly with help.",
+   "text_es": "Se para por un momento con ayuda.",
+   "text_pt": "Fica de pé por pouco tempo com ajuda.",
+   "rate_by_age": {
+    "14": 0.97,
+    "15": 0.97
+   },
+   "roles": [
+    "anchor"
+   ]
+  },
+  {
+   "id": 272,
+   "area": "Physical",
+   "skill": "Rolling Over and Sitting Up",
+   "text_en": "Uses their arms and hands to help them sit without falling over.",
+   "text_es": "Usa los brazos y las manos para ayudarse a mantenerse sentado sin caerse.",
+   "text_pt": "Usa os braços e as mãos para se apoiar e sentar sem cair.",
+   "rate_by_age": {
+    "5": 0.57
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 278,
+   "area": "Language",
+   "skill": "Communicating through gestures",
+   "text_en": "Points to objects they want.",
+   "text_es": "Señala los objetos que quiere.",
+   "text_pt": "Aponta para os objetos que quer.",
+   "rate_by_age": {
+    "10": 0.48,
+    "11": 0.67
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 279,
+   "area": "Language",
+   "skill": "Basic Vocabulary",
+   "text_en": "Points to things they know when you say their name.",
+   "text_es": "Señala cosas que conoce cuando dices su nombre.",
+   "text_pt": "Aponta para coisas que conhece quando você diz o nome delas.",
+   "rate_by_age": {
+    "11": 0.28,
+    "12": 0.42,
+    "13": 0.61,
+    "14": 0.68,
+    "15": 0.73
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 281,
+   "area": "Cognitive",
+   "skill": "Object Exploration",
+   "text_en": "Turns their head to follow objects with their eyes.",
+   "text_es": "Gira la cabeza para seguir objetos con la mirada.",
+   "text_pt": "Vira a cabeça para acompanhar objetos com os olhos.",
+   "rate_by_age": {
+    "0": 0.37,
+    "1": 0.65
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 283,
+   "area": "Social-Emotional",
+   "skill": "Secure Attachment",
+   "text_en": "Smiles when people make eye contact.",
+   "text_es": "Sonríe cuando las personas hacen contacto visual.",
+   "text_pt": "Sorri quando as pessoas fazem contato visual.",
+   "rate_by_age": {
+    "0": 0.36,
+    "1": 0.65
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 285,
+   "area": "Physical",
+   "skill": "Newborn Reflexes and Posture",
+   "text_en": "Smiles instinctively; this usually happens randomly, especially while sleeping.",
+   "text_es": "Sonríe por instinto; suele pasar al azar, sobre todo mientras duerme.",
+   "text_pt": "Sorri por instinto; isso costuma acontecer de forma aleatória, principalmente durante o sono.",
+   "rate_by_age": {
+    "0": 0.92,
+    "1": 0.96,
+    "5": 0.98
+   },
+   "roles": [
+    "anchor"
+   ]
+  },
+  {
+   "id": 288,
+   "area": "Physical",
+   "skill": "Early movements and coordination",
+   "text_en": "Holds large objects, like a teddy bear, with both hands.",
+   "text_es": "Sostiene objetos grandes, como un oso de peluche, con ambas manos.",
+   "text_pt": "Segura objetos grandes, como um ursinho de pelúcia, com as duas mãos.",
+   "rate_by_age": {
+    "4": 0.64
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 289,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Shows the Rooting Reflex by opening their mouth and turning toward your hand when you stroke their cheek.",
+   "text_es": "Muestra el reflejo de búsqueda al abrir la boca y voltear hacia tu mano cuando le acaricias la mejilla.",
+   "text_pt": "Apresenta o reflexo de busca: abre a boca e vira em direção à sua mão quando você faz carinho na bochecha.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 294,
+   "area": "Physical",
+   "skill": "Early movements and coordination",
+   "text_en": "Grabs a small object placed in their hands.",
+   "text_es": "Agarra un objeto pequeño que pongas en sus manos.",
+   "text_pt": "Pega um objeto pequeno colocado nas mãos.",
+   "rate_by_age": {
+    "0": 0.31,
+    "2": 0.53
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 295,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Holds small objects with the forefingers.",
+   "text_es": "Sostiene objetos pequeños con los dedos índice.",
+   "text_pt": "Segura objetos pequenos com os dedos indicadores.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 296,
+   "area": "Physical",
+   "skill": "Developing finger dexterity",
+   "text_en": "Holds things with their fingertips.",
+   "text_es": "Sostiene cosas con las puntas de los dedos.",
+   "text_pt": "Segura as coisas com as pontas dos dedos.",
+   "rate_by_age": {
+    "8": 0.43
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 298,
+   "area": "Physical",
+   "skill": "Developing hand coordination",
+   "text_en": "Uses both hands together to manipulate objects, like opening a box.",
+   "text_es": "Usa ambas manos juntas para manipular objetos, como abrir una caja.",
+   "text_pt": "Usa as duas mãos juntas para manipular objetos, como abrir uma caixa.",
+   "rate_by_age": {
+    "7": 0.5
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 299,
+   "area": "Physical",
+   "skill": "Early movements and coordination",
+   "text_en": "Reaches for an object with both hands.",
+   "text_es": "Se estira hacia un objeto con ambas manos.",
+   "text_pt": "Estica as duas mãos para alcançar um objeto.",
+   "rate_by_age": {
+    "4": 0.62
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 301,
+   "area": "Language",
+   "skill": "Babbling",
+   "text_en": "Uses different tones in their babbling.",
+   "text_es": "Usa diferentes tonos en su balbuceo.",
+   "text_pt": "Usa tons diferentes ao balbuciar.",
+   "rate_by_age": {
+    "0": 0.13,
+    "1": 0.1,
+    "2": 0.19,
+    "3": 0.48,
+    "4": 0.47,
+    "5": 0.73,
+    "10": 0.96,
+    "11": 0.94
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 303,
+   "area": "Physical",
+   "skill": "Developing the senses",
+   "text_en": "Looks at the person speaking to them.",
+   "text_es": "Mira a la persona que le habla.",
+   "text_pt": "Olha para a pessoa que está falando com a criança.",
+   "rate_by_age": {
+    "0": 0.57
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 304,
+   "area": "Physical",
+   "skill": "Developing the senses",
+   "text_en": "Has positive reactions like smiling or negative ones like sneezing to different smells.",
+   "text_es": "Tiene reacciones positivas, como sonreír, o negativas, como estornudar, ante diferentes olores.",
+   "text_pt": "Tem reações positivas, como sorrir, ou negativas, como espirrar, diante de cheiros diferentes.",
+   "rate_by_age": {
+    "9": 0.47
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 306,
+   "area": "Social-Emotional",
+   "skill": "Developing Independence",
+   "text_en": "Can use a spoon independently.",
+   "text_es": "Puede usar una cuchara por sí solo.",
+   "text_pt": "Consegue usar a colher sem ajuda.",
+   "rate_by_age": {
+    "13": 0.19,
+    "14": 0.28,
+    "15": 0.39,
+    "16": 0.52,
+    "17": 0.64,
+    "18": 0.72,
+    "19": 0.79,
+    "22": 0.86
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 307,
+   "area": "Language",
+   "skill": "Basic Vocabulary",
+   "text_en": "Can point to at least one body part when asked.",
+   "text_es": "Puede señalar al menos una parte del cuerpo cuando se lo pides.",
+   "text_pt": "Consegue apontar para pelo menos uma parte do corpo quando você pede.",
+   "rate_by_age": {
+    "13": 0.33,
+    "14": 0.45,
+    "15": 0.58,
+    "16": 0.69
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 308,
+   "area": "Social-Emotional",
+   "skill": "Secure Attachment",
+   "text_en": "Expresses love to those familiar, like hugging them.",
+   "text_es": "Expresa amor a las personas conocidas, como abrazándolas.",
+   "text_pt": "Demonstra carinho por pessoas conhecidas, como dando abraços.",
+   "rate_by_age": {
+    "9": 0.46,
+    "10": 0.58,
+    "11": 0.72,
+    "12": 0.82,
+    "17": 0.9,
+    "18": 0.91
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 309,
+   "area": "Physical",
+   "skill": "First Steps",
+   "text_en": "Can walk while holding a small toy.",
+   "text_es": "Puede caminar mientras sostiene un juguete pequeño.",
+   "text_pt": "Consegue andar segurando um brinquedo pequeno.",
+   "rate_by_age": {
+    "12": 0.51
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 310,
+   "area": "Physical",
+   "skill": "Developing hand coordination",
+   "text_en": "Moves toys with wheels.",
+   "text_es": "Mueve juguetes con ruedas.",
+   "text_pt": "Movimenta brinquedos com rodinhas.",
+   "rate_by_age": {
+    "9": 0.41,
+    "16": 0.95
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 312,
+   "area": "Physical",
+   "skill": "Developing hand coordination",
+   "text_en": "Presses clay between their hands.",
+   "text_es": "Aplasta plastilina entre sus manos.",
+   "text_pt": "Aperta massinha entre as mãos.",
+   "rate_by_age": {
+    "18": 0.37,
+    "19": 0.52,
+    "20": 0.63,
+    "2": 0.04
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 314,
+   "area": "Physical",
+   "skill": "Developing hand coordination",
+   "text_en": "Stacks three or more blocks.",
+   "text_es": "Apila tres o más bloques.",
+   "text_pt": "Empilha três ou mais blocos.",
+   "rate_by_age": {
+    "16": 0.37,
+    "17": 0.5,
+    "18": 0.65,
+    "19": 0.73
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 315,
+   "area": "Cognitive",
+   "skill": "Developing musical skills",
+   "text_en": "Tries to sing along with songs they know.",
+   "text_es": "Intenta cantar las canciones que conoce.",
+   "text_pt": "Tenta cantar junto com músicas conhecidas.",
+   "rate_by_age": {
+    "13": 0.34,
+    "14": 0.42,
+    "15": 0.52,
+    "16": 0.62,
+    "18": 0.69
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 317,
+   "area": "Cognitive",
+   "skill": "Early knowledge and curiosity",
+   "text_en": "Finds an object hidden under several covers.",
+   "text_es": "Encuentra un objeto escondido debajo de varias cobijas.",
+   "text_pt": "Encontra um objeto escondido embaixo de vários cobertores.",
+   "rate_by_age": {
+    "16": 0.42,
+    "17": 0.55,
+    "18": 0.67
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 325,
+   "area": "Physical",
+   "skill": "Standing Up",
+   "text_en": "Goes from standing to squatting smoothly without sitting.",
+   "text_es": "Pasa de estar parado a ponerse en cuclillas con fluidez, sin sentarse.",
+   "text_pt": "Passa da posição de pé para a de cócoras com fluidez, sem sentar.",
+   "rate_by_age": {
+    "10": 0.5
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 329,
+   "area": "Cognitive",
+   "skill": "Imagining",
+   "text_en": "Plays make-believe, like feeding a doll.",
+   "text_es": "Juega a imaginar, como darle de comer a una muñeca.",
+   "text_pt": "Brinca de faz de conta, como dar comidinha para uma boneca.",
+   "rate_by_age": {
+    "14": 0.68,
+    "21": 0.85
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 330,
+   "area": "Physical",
+   "skill": "Scribbling",
+   "text_en": "Scribbles by moving their entire arm from the shoulder.",
+   "text_es": "Garabatea moviendo todo el brazo desde el hombro.",
+   "text_pt": "Rabisca movimentando o braço inteiro a partir do ombro.",
+   "rate_by_age": {
+    "11": 0.44,
+    "12": 0.54,
+    "13": 0.61,
+    "14": 0.52,
+    "15": 0.63
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 333,
+   "area": "Cognitive",
+   "skill": "Developing memory and attention",
+   "text_en": "Listens with interest when you speak to them.",
+   "text_es": "Escucha con interés cuando le hablas.",
+   "text_pt": "Escuta com interesse quando você fala.",
+   "rate_by_age": {
+    "3": 0.3,
+    "4": 0.38,
+    "5": 0.5,
+    "6": 0.75,
+    "13": 0.97
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 334,
+   "area": "Cognitive",
+   "skill": "Concept learning and logical thinking",
+   "text_en": "Knows the difference between one, two, and many.",
+   "text_es": "Sabe la diferencia entre uno, dos y muchos.",
+   "text_pt": "Sabe a diferença entre um, dois e muitos.",
+   "rate_by_age": {
+    "21": 0.6,
+    "22": 0.64,
+    "23": 0.65,
+    "25": 0.62
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 335,
+   "area": "Cognitive",
+   "skill": "Imitating",
+   "text_en": "Moves a body part when asked to.",
+   "text_es": "Mueve una parte del cuerpo cuando se lo pides.",
+   "text_pt": "Mexe uma parte do corpo quando você pede.",
+   "rate_by_age": {
+    "10": 0.19,
+    "11": 0.37,
+    "12": 0.52
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 338,
+   "area": "Cognitive",
+   "skill": "Developing musical skills",
+   "text_en": "Claps or taps an instrument to the rhythm of a song.",
+   "text_es": "Aplaude o toca un instrumento al ritmo de una canción.",
+   "text_pt": "Bate palmas ou toca um instrumento no ritmo de uma música.",
+   "rate_by_age": {
+    "8": 0.17,
+    "9": 0.17,
+    "10": 0.3,
+    "11": 0.48,
+    "12": 0.64
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 340,
+   "area": "Social-Emotional",
+   "skill": "First interactions",
+   "text_en": "Shows you things by pointing.",
+   "text_es": "Te muestra cosas señalándolas.",
+   "text_pt": "Mostra coisas a você apontando para elas.",
+   "rate_by_age": {
+    "9": 0.2,
+    "10": 0.44,
+    "11": 0.64,
+    "12": 0.74,
+    "13": 0.77,
+    "14": 0.8,
+    "15": 0.82,
+    "16": 0.83
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 349,
+   "area": "Social-Emotional",
+   "skill": "Developing Independence",
+   "text_en": "Enjoys playing on their own.",
+   "text_es": "Disfruta jugar solo.",
+   "text_pt": "Gosta de brincar por conta própria.",
+   "rate_by_age": {
+    "2": 0.73,
+    "3": 0.75,
+    "4": 0.83,
+    "5": 0.77,
+    "6": 0.84,
+    "10": 0.97,
+    "11": 0.98,
+    "12": 0.97
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 350,
+   "area": "Physical",
+   "skill": "Standing Up",
+   "text_en": "Stands steadily without needing support.",
+   "text_es": "Se mantiene de pie firme sin necesitar apoyo.",
+   "text_pt": "Fica de pé com firmeza, sem precisar de apoio.",
+   "rate_by_age": {
+    "11": 0.41
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 352,
+   "area": "Cognitive",
+   "skill": "Musical Skills",
+   "text_en": "Names or points at different toy instruments.",
+   "text_es": "Nombra o señala diferentes instrumentos de juguete.",
+   "text_pt": "Nomeia ou aponta para diferentes instrumentos de brinquedo.",
+   "rate_by_age": {
+    "27": 0.53,
+    "28": 0.51,
+    "29": 0.57,
+    "4": 0.41
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 353,
+   "area": "Language",
+   "skill": "First Words",
+   "text_en": "Repeats words overheard in conversation.",
+   "text_es": "Repite palabras que escucha en conversaciones.",
+   "text_pt": "Repete palavras que ouve em conversas.",
+   "rate_by_age": {
+    "18": 0.36,
+    "19": 0.44,
+    "20": 0.56
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 354,
+   "area": "Social-Emotional",
+   "skill": "First interactions",
+   "text_en": "Has fun when playing with adults.",
+   "text_es": "Se divierte cuando juega con adultos.",
+   "text_pt": "Se diverte ao brincar com adultos.",
+   "rate_by_age": {
+    "2": 0.34,
+    "3": 0.74
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 355,
+   "area": "Physical",
+   "skill": "First Steps",
+   "text_en": "Pushes or pulls toys while walking.",
+   "text_es": "Empuja o jala juguetes mientras camina.",
+   "text_pt": "Empurra ou puxa brinquedos enquanto anda.",
+   "rate_by_age": {
+    "12": 0.47
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 357,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Moves small things from one box to another, using thumb and forefinger.",
+   "text_es": "Pasa cosas pequeñas de una caja a otra usando el pulgar y el índice.",
+   "text_pt": "Passa coisas pequenas de uma caixa para outra usando o polegar e o indicador.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 360,
+   "area": "Language",
+   "skill": "Basic Vocabulary",
+   "text_en": "Points to caregivers, like 'Mom' or 'Dad'.",
+   "text_es": "Señala a sus cuidadores, como 'mamá' o 'papá'.",
+   "text_pt": "Aponta para os cuidadores, como 'mamãe' ou 'papai'.",
+   "rate_by_age": {
+    "12": 0.39,
+    "13": 0.57,
+    "14": 0.67,
+    "15": 0.72,
+    "19": 0.85
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 362,
+   "area": "Physical",
+   "skill": "Developing hand coordination",
+   "text_en": "Wrinkles paper using both hands.",
+   "text_es": "Arruga papel usando ambas manos.",
+   "text_pt": "Amassa papel usando as duas mãos.",
+   "rate_by_age": {
+    "7": 0.43
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 363,
+   "area": "Cognitive",
+   "skill": "Imitating",
+   "text_en": "Mimics hand gestures, such as clapping, waving, and pointing.",
+   "text_es": "Imita gestos con las manos, como aplaudir, saludar y señalar.",
+   "text_pt": "Imita gestos com as mãos, como bater palmas, acenar e apontar.",
+   "rate_by_age": {
+    "13": 0.46,
+    "14": 0.54
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 366,
+   "area": "Language",
+   "skill": "Basic Vocabulary",
+   "text_en": "Matches animal sounds with the right pictures, like pointing to a dog when you say 'woof'.",
+   "text_es": "Relaciona los sonidos de animales con la imagen correcta, como señalar al perro cuando dices 'guau'.",
+   "text_pt": "Relaciona os sons dos animais com a imagem certa, como apontar para o cachorro quando você diz 'au au'.",
+   "rate_by_age": {
+    "14": 0.32,
+    "15": 0.44,
+    "16": 0.56,
+    "17": 0.62,
+    "18": 0.67
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 368,
+   "area": "Language",
+   "skill": "Basic Vocabulary",
+   "text_en": "Answers simple questions with signs, actions, or words.",
+   "text_es": "Responde preguntas simples con señas, acciones o palabras.",
+   "text_pt": "Responde a perguntas simples com sinais, ações ou palavras.",
+   "rate_by_age": {
+    "10": 0.5,
+    "11": 0.41,
+    "12": 0.57,
+    "13": 0.7,
+    "18": 0.86
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 373,
+   "area": "Language",
+   "skill": "First Words",
+   "text_en": "Speaks around 50 words.",
+   "text_es": "Dice alrededor de 50 palabras.",
+   "text_pt": "Fala cerca de 50 palavras.",
+   "rate_by_age": {
+    "25": 0.48,
+    "26": 0.53,
+    "27": 0.58,
+    "28": 0.6,
+    "29": 0.64,
+    "30": 0.67,
+    "33": 0.64,
+    "35": 0.66,
+    "14": 0.03
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 375,
+   "area": "Language",
+   "skill": "First Words",
+   "text_en": "Says four or more words.",
+   "text_es": "Dice cuatro o más palabras.",
+   "text_pt": "Fala quatro ou mais palavras.",
+   "rate_by_age": {
+    "17": 0.37,
+    "18": 0.46,
+    "19": 0.53,
+    "3": 0.21
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 377,
+   "area": "Physical",
+   "skill": "Scribbling",
+   "text_en": "Uses their whole hand to hold a crayon.",
+   "text_es": "Usa toda la mano para sostener una crayola.",
+   "text_pt": "Usa a mão inteira para segurar o giz de cera.",
+   "rate_by_age": {
+    "11": 0.57
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 378,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Holds small objects using their thumb and forefinger.",
+   "text_es": "Sostiene objetos pequeños usando el pulgar y el índice.",
+   "text_pt": "Segura objetos pequenos usando o polegar e o indicador.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 382,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Climbs stairs with an adult, switching feet.",
+   "text_es": "Sube escaleras con un adulto, alternando los pies.",
+   "text_pt": "Sobe escadas com um adulto, alternando os pés.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 385,
+   "area": "Cognitive",
+   "skill": "Early knowledge and curiosity",
+   "text_en": "Knows the difference 'up' and 'down.'",
+   "text_es": "Sabe la diferencia entre 'arriba' y 'abajo'.",
+   "text_pt": "Sabe a diferença entre 'em cima' e 'embaixo'.",
+   "rate_by_age": {
+    "15": 0.4,
+    "16": 0.54,
+    "17": 0.64,
+    "20": 0.7
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 386,
+   "area": "Cognitive",
+   "skill": "Concept learning and logical thinking",
+   "text_en": "Knows the difference between 'front' and 'back'.",
+   "text_es": "Sabe la diferencia entre 'adelante' y 'atrás'.",
+   "text_pt": "Sabe a diferença entre 'na frente' e 'atrás'.",
+   "rate_by_age": {
+    "21": 0.44,
+    "22": 0.49,
+    "23": 0.53,
+    "24": 0.53,
+    "25": 0.46,
+    "26": 0.52,
+    "27": 0.52,
+    "28": 0.54,
+    "29": 0.56,
+    "30": 0.59,
+    "14": 0.23
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 387,
+   "area": "Cognitive",
+   "skill": "Early knowledge and curiosity",
+   "text_en": "Knows the difference between 'inside' and 'outside.'",
+   "text_es": "Sabe la diferencia entre 'adentro' y 'afuera'.",
+   "text_pt": "Sabe a diferença entre 'dentro' e 'fora'.",
+   "rate_by_age": {
+    "14": 0.33,
+    "15": 0.46,
+    "16": 0.59
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 391,
+   "area": "Language",
+   "skill": "Early Phonetics",
+   "text_en": "Uses words with the letter P, like 'pass' or 'drop'.",
+   "text_es": "Usa palabras con la letra P, como 'papá' o 'pelota'.",
+   "text_pt": "Usa palavras com a letra P, como 'papai' ou 'sapo'.",
+   "rate_by_age": {
+    "15": 0.63,
+    "16": 0.66,
+    "17": 0.66,
+    "18": 0.68,
+    "19": 0.63
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 394,
+   "area": "Language",
+   "skill": "Early Phonetics",
+   "text_en": "Uses words with the letter M, like 'mommy' or 'moon'.",
+   "text_es": "Usa palabras con la letra M, como 'mamá' o 'más'.",
+   "text_pt": "Usa palavras com a letra M, como 'mamãe' ou 'mão'.",
+   "rate_by_age": {
+    "23": 0.89,
+    "24": 0.89
+   },
+   "roles": [
+    "anchor"
+   ]
+  },
+  {
+   "id": 395,
+   "area": "Language",
+   "skill": "First Words",
+   "text_en": "Tries to say the letter T by putting their tongue behind their teeth.",
+   "text_es": "Intenta decir la letra T poniendo la lengua detrás de los dientes.",
+   "text_pt": "Tenta falar a letra T colocando a língua atrás dos dentes.",
+   "rate_by_age": {
+    "17": 0.3,
+    "18": 0.37,
+    "19": 0.44,
+    "20": 0.55
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 396,
+   "area": "Cognitive",
+   "skill": null,
+   "text_en": "Points to a green object when asked to.",
+   "text_es": "Señala un objeto verde cuando se lo pides.",
+   "text_pt": "Aponta para um objeto verde quando você pede.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 397,
+   "area": "Cognitive",
+   "skill": "Learning about shapes and colors",
+   "text_en": "Points to a blue object when you ask.",
+   "text_es": "Señala un objeto azul cuando se lo pides.",
+   "text_pt": "Aponta para um objeto azul quando você pede.",
+   "rate_by_age": {
+    "25": 0.85
+   },
+   "roles": [
+    "anchor"
+   ]
+  },
+  {
+   "id": 398,
+   "area": "Cognitive",
+   "skill": "Learning about shapes and colors",
+   "text_en": "Points to a red object when you ask.",
+   "text_es": "Señala un objeto rojo cuando se lo pides.",
+   "text_pt": "Aponta para um objeto vermelho quando você pede.",
+   "rate_by_age": {
+    "0": 0.6
+   },
+   "roles": [
+    "calibration"
+   ]
+  },
+  {
+   "id": 399,
+   "area": "Cognitive",
+   "skill": null,
+   "text_en": "Points to a yellow object when you ask.",
+   "text_es": "Señala un objeto amarillo cuando se lo pides.",
+   "text_pt": "Aponta para um objeto amarelo quando você pede.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 406,
+   "area": "Cognitive",
+   "skill": "Imitating",
+   "text_en": "Copies how adults use things (like pretending to talk on the phone after seeing mom do it).",
+   "text_es": "Copia cómo los adultos usan las cosas (como fingir que habla por teléfono después de ver a mamá hacerlo).",
+   "text_pt": "Imita como os adultos usam as coisas (como fingir que fala ao telefone depois de ver a mãe fazendo isso).",
+   "rate_by_age": {
+    "10": 0.18,
+    "11": 0.37,
+    "12": 0.6
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 408,
+   "area": "Physical",
+   "skill": "Developing hand coordination",
+   "text_en": "Knocks down block towers.",
+   "text_es": "Derriba torres de bloques.",
+   "text_pt": "Derruba torres de blocos.",
+   "rate_by_age": {
+    "9": 0.42
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 411,
+   "area": "Social-Emotional",
+   "skill": "Self-Care and Autonomy",
+   "text_en": "Helps in removing clothes, such as pulling down pants.",
+   "text_es": "Ayuda a quitarse la ropa, como bajarse los pantalones.",
+   "text_pt": "Ajuda a tirar a roupa, como abaixar a calça.",
+   "rate_by_age": {
+    "16": 0.32,
+    "17": 0.4,
+    "18": 0.49,
+    "19": 0.58,
+    "20": 0.66,
+    "21": 0.74,
+    "2": 0.36,
+    "3": 0.31
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 413,
+   "area": "Physical",
+   "skill": "Crawling",
+   "text_en": "Crawls backward to go down a few steps.",
+   "text_es": "Gatea hacia atrás para bajar algunos escalones.",
+   "text_pt": "Engatinha de costas para descer alguns degraus.",
+   "rate_by_age": {
+    "13": 0.48,
+    "14": 0.6
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 414,
+   "area": "Physical",
+   "skill": "Hand Coordination",
+   "text_en": "Rolls small paper or playdough balls with their hands.",
+   "text_es": "Hace bolitas de papel o plastilina con las manos.",
+   "text_pt": "Faz bolinhas de papel ou de massinha com as mãos.",
+   "rate_by_age": {
+    "16": 0.1,
+    "17": 0.1,
+    "27": 0.35,
+    "28": 0.41,
+    "29": 0.47,
+    "30": 0.55,
+    "35": 0.6
+   },
+   "roles": [
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 415,
+   "area": "Physical",
+   "skill": "First Steps",
+   "text_en": "Takes unsteady and short steps alone.",
+   "text_es": "Da pasos cortos e inestables por sí solo.",
+   "text_pt": "Dá passos curtos e sem firmeza sem ajuda.",
+   "rate_by_age": {
+    "12": 0.46
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 417,
+   "area": "Cognitive",
+   "skill": "Developing musical skills",
+   "text_en": "Moves to the rhythm of music.",
+   "text_es": "Se mueve al ritmo de la música.",
+   "text_pt": "Se movimenta no ritmo da música.",
+   "rate_by_age": {
+    "6": 0.55,
+    "7": 0.43,
+    "8": 0.58,
+    "9": 0.6,
+    "10": 0.73,
+    "11": 0.81,
+    "16": 0.93
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 419,
+   "area": "Language",
+   "skill": "Developing conversational skills",
+   "text_en": "Puts two words together to make a brief phrase, like 'more cookie'.",
+   "text_es": "Junta dos palabras para formar una frase corta, como 'más galleta'.",
+   "text_pt": "Junta duas palavras para formar uma frase curta, como 'mais bolacha'.",
+   "rate_by_age": {
+    "21": 0.45,
+    "22": 0.54
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 421,
+   "area": "Cognitive",
+   "skill": "Developing memory and attention",
+   "text_en": "Completes tasks with two steps, like 'Find your toy, bring it here.'",
+   "text_es": "Completa tareas de dos pasos, como 'Busca tu juguete y tráelo aquí'.",
+   "text_pt": "Completa tarefas de dois passos, como 'Acha o seu brinquedo e traz aqui'.",
+   "rate_by_age": {
+    "13": 0.34,
+    "14": 0.44,
+    "15": 0.57,
+    "22": 0.87
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 427,
+   "area": "Cognitive",
+   "skill": "Learning about shapes and colors",
+   "text_en": "Names simple shapes like a circle, triangle, or square.",
+   "text_es": "Nombra figuras simples como el círculo, el triángulo o el cuadrado.",
+   "text_pt": "Nomeia formas simples, como círculo, triângulo ou quadrado.",
+   "rate_by_age": {
+    "7": 0.35,
+    "19": 0.35,
+    "33": 0.57,
+    "34": 0.6,
+    "35": 0.61,
+    "36": 0.6,
+    "37": 0.69,
+    "38": 0.7,
+    "39": 0.71,
+    "40": 0.76,
+    "41": 0.73,
+    "42": 0.78,
+    "45": 0.78,
+    "46": 0.78,
+    "21": 0.41
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 429,
+   "area": "Cognitive",
+   "skill": "Learning about shapes and colors",
+   "text_en": "Can point to a circle.",
+   "text_es": "Puede señalar un círculo.",
+   "text_pt": "Consegue apontar para um círculo.",
+   "rate_by_age": {
+    "28": 0.52,
+    "29": 0.58,
+    "30": 0.61
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 430,
+   "area": "Cognitive",
+   "skill": "Learning about shapes and colors",
+   "text_en": "Points to a triangle.",
+   "text_es": "Señala un triángulo.",
+   "text_pt": "Aponta para um triângulo.",
+   "rate_by_age": {
+    "34": 0.57,
+    "35": 0.57,
+    "36": 0.58,
+    "37": 0.62,
+    "38": 0.69,
+    "39": 0.7,
+    "40": 0.78,
+    "41": 0.78,
+    "43": 0.76,
+    "44": 0.68,
+    "45": 0.7,
+    "46": 0.7,
+    "47": 0.7,
+    "27": 0.62,
+    "28": 0.39,
+    "30": 0.44
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 431,
+   "area": "Cognitive",
+   "skill": "Learning about shapes and colors",
+   "text_en": "Points to a square.",
+   "text_es": "Señala un cuadrado.",
+   "text_pt": "Aponta para um quadrado.",
+   "rate_by_age": {
+    "28": 0.46,
+    "29": 0.51,
+    "30": 0.54,
+    "31": 0.57
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 435,
+   "area": "Cognitive",
+   "skill": "Developing memory and attention",
+   "text_en": "Recognizes the names of familiar people.",
+   "text_es": "Reconoce los nombres de personas conocidas.",
+   "text_pt": "Reconhece os nomes de pessoas conhecidas.",
+   "rate_by_age": {
+    "3": 0.03,
+    "15": 0.34,
+    "16": 0.43,
+    "17": 0.54,
+    "18": 0.67,
+    "19": 0.72
+   },
+   "roles": [
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 436,
+   "area": "Cognitive",
+   "skill": "Developing memory and attention",
+   "text_en": "Pays attention to an adult reading a book for a few minutes.",
+   "text_es": "Presta atención unos minutos a un adulto que le lee un libro.",
+   "text_pt": "Presta atenção em um adulto lendo um livro por alguns minutos.",
+   "rate_by_age": {
+    "12": 0.35,
+    "13": 0.4,
+    "14": 0.43,
+    "15": 0.54
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 437,
+   "area": "Language",
+   "skill": "First Words",
+   "text_en": "Names familiar objects when asked.",
+   "text_es": "Nombra objetos conocidos cuando se lo pides.",
+   "text_pt": "Nomeia objetos conhecidos quando você pede.",
+   "rate_by_age": {
+    "0": 0.33,
+    "17": 0.32,
+    "18": 0.42,
+    "19": 0.51,
+    "20": 0.62,
+    "2": 0.19
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 438,
+   "area": "Physical",
+   "skill": "Standing Up",
+   "text_en": "Goes from sitting to standing without help.",
+   "text_es": "Pasa de estar sentado a parado sin ayuda.",
+   "text_pt": "Passa da posição sentada para de pé sem ajuda.",
+   "rate_by_age": {
+    "11": 0.44
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 439,
+   "area": "Language",
+   "skill": "First Words",
+   "text_en": "Is able to pronounce ten or more words.",
+   "text_es": "Puede pronunciar diez o más palabras.",
+   "text_pt": "Consegue pronunciar dez ou mais palavras.",
+   "rate_by_age": {
+    "10": 0.02,
+    "14": 0.07,
+    "21": 0.51,
+    "22": 0.58
+   },
+   "roles": [
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 441,
+   "area": "Social-Emotional",
+   "skill": "Secure Attachment",
+   "text_en": "Knows which things belong to family members, like Mom's purse or Dad's wallet.",
+   "text_es": "Sabe qué cosas pertenecen a los miembros de la familia, como la bolsa de mamá o la cartera de papá.",
+   "text_pt": "Sabe quais coisas pertencem a cada pessoa da família, como a bolsa da mãe ou a carteira do pai.",
+   "rate_by_age": {
+    "2": 0.04,
+    "11": 0.15,
+    "12": 0.24,
+    "13": 0.38,
+    "14": 0.48,
+    "15": 0.62,
+    "16": 0.72,
+    "17": 0.77,
+    "18": 0.72,
+    "19": 0.8,
+    "21": 0.88
+   },
+   "roles": [
+    "anchor",
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 443,
+   "area": "Cognitive",
+   "skill": "Imitating",
+   "text_en": "Swings arms in circles or side to side, copying your moves.",
+   "text_es": "Mueve los brazos en círculos o de lado a lado, copiando tus movimientos.",
+   "text_pt": "Balança os braços em círculos ou de um lado para o outro, imitando os seus movimentos.",
+   "rate_by_age": {
+    "2": 0.17,
+    "16": 0.47,
+    "17": 0.6,
+    "18": 0.65,
+    "19": 0.71
+   },
+   "roles": [
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 445,
+   "area": "Language",
+   "skill": "First Words",
+   "text_en": "Names one or two foods.",
+   "text_es": "Nombra uno o dos alimentos.",
+   "text_pt": "Nomeia um ou dois alimentos.",
+   "rate_by_age": {
+    "16": 0.34,
+    "17": 0.43,
+    "18": 0.54,
+    "19": 0.59,
+    "3": 0.16
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 451,
+   "area": "Social-Emotional",
+   "skill": "Emotional Recognition and Expression",
+   "text_en": "Names a character's feelings in a story using pictures, like pointing to the happy character.",
+   "text_es": "Nombra los sentimientos de un personaje en un cuento usando imágenes, como señalar al personaje feliz.",
+   "text_pt": "Nomeia os sentimentos de um personagem de uma história usando as imagens, como apontar para o personagem feliz.",
+   "rate_by_age": {
+    "20": 0.58,
+    "21": 0.57,
+    "22": 0.64,
+    "23": 0.66,
+    "24": 0.64,
+    "25": 0.65,
+    "26": 0.66,
+    "27": 0.69,
+    "28": 0.7,
+    "29": 0.76,
+    "30": 0.77,
+    "0": 0.37,
+    "7": 0.37
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 452,
+   "area": "Cognitive",
+   "skill": "Imitating",
+   "text_en": "Copies everyday sounds, like a car or phone.",
+   "text_es": "Copia sonidos cotidianos, como el de un coche o un teléfono.",
+   "text_pt": "Imita sons do dia a dia, como o de um carro ou de um telefone.",
+   "rate_by_age": {
+    "16": 0.4,
+    "17": 0.5,
+    "18": 0.63,
+    "19": 0.68
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 454,
+   "area": "Social-Emotional",
+   "skill": "First interactions",
+   "text_en": "Plays and has fun with other kids.",
+   "text_es": "Juega y se divierte con otros niños.",
+   "text_pt": "Brinca e se diverte com outras crianças.",
+   "rate_by_age": {
+    "7": 0.2,
+    "8": 0.41,
+    "9": 0.6,
+    "10": 0.73,
+    "11": 0.82,
+    "12": 0.77,
+    "13": 0.78,
+    "14": 0.82
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 456,
+   "area": "Physical",
+   "skill": "Throwing and Catching",
+   "text_en": "Throws a ball overhand within 10 feet (3 meters).",
+   "text_es": "Avienta una pelota por encima del hombro a una distancia de hasta 3 metros (10 pies).",
+   "text_pt": "Joga uma bola por cima do ombro a até 3 metros de distância.",
+   "rate_by_age": {
+    "17": 0.37,
+    "18": 0.48,
+    "19": 0.58,
+    "2": 0.41,
+    "3": 0.36
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 457,
+   "area": "Physical",
+   "skill": "Throwing and Catching",
+   "text_en": "Retrieves items after throwing them.",
+   "text_es": "Recoge las cosas después de aventarlas.",
+   "text_pt": "Vai buscar as coisas depois de jogá-las.",
+   "rate_by_age": {
+    "17": 0.94,
+    "18": 0.95
+   },
+   "roles": [
+    "anchor"
+   ]
+  },
+  {
+   "id": 458,
+   "area": "Physical",
+   "skill": "Throwing and Catching",
+   "text_en": "Stops a rolling ball with hands or body.",
+   "text_es": "Detiene una pelota que rueda con las manos o el cuerpo.",
+   "text_pt": "Para uma bola que está rolando com as mãos ou com o corpo.",
+   "rate_by_age": {
+    "8": 0.58
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 459,
+   "area": "Physical",
+   "skill": "Standing Up",
+   "text_en": "Plays with objects while standing up.",
+   "text_es": "Juega con objetos mientras está de pie.",
+   "text_pt": "Brinca com objetos enquanto está de pé.",
+   "rate_by_age": {
+    "10": 0.39
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 461,
+   "area": "Social-Emotional",
+   "skill": "Developing Independence",
+   "text_en": "Explores on their own with a caregiver nearby.",
+   "text_es": "Explora por su cuenta con un cuidador cerca.",
+   "text_pt": "Explora por conta própria com um cuidador por perto.",
+   "rate_by_age": {
+    "5": 0.4,
+    "6": 0.74,
+    "7": 0.47,
+    "8": 0.71,
+    "13": 0.96,
+    "14": 0.97,
+    "15": 0.96
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 463,
+   "area": "Physical",
+   "skill": "Finger dexterity",
+   "text_en": "Glues things onto paper.",
+   "text_es": "Pega cosas en papel.",
+   "text_pt": "Cola coisas no papel.",
+   "rate_by_age": {
+    "26": 0.5,
+    "27": 0.52,
+    "28": 0.54,
+    "29": 0.57,
+    "30": 0.7,
+    "4": 0.25,
+    "14": 0.25
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 464,
+   "area": "Cognitive",
+   "skill": "Imitating",
+   "text_en": "Imitates family members during play.",
+   "text_es": "Imita a los miembros de la familia durante el juego.",
+   "text_pt": "Imita as pessoas da família durante a brincadeira.",
+   "rate_by_age": {
+    "5": 0.01,
+    "19": 0.3,
+    "20": 0.44,
+    "21": 0.57,
+    "22": 0.61,
+    "0": 0.18,
+    "7": 0.01
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 465,
+   "area": "Language",
+   "skill": "Developing conversational skills",
+   "text_en": "Asks for two or three things by their name, like 'bottle' or 'food'.",
+   "text_es": "Pide dos o tres cosas por su nombre, como 'mamila' o 'comida'.",
+   "text_pt": "Pede duas ou três coisas pelo nome, como 'mamadeira' ou 'comida'.",
+   "rate_by_age": {
+    "8": 0.76,
+    "16": 0.65,
+    "17": 0.65,
+    "18": 0.64
+   },
+   "roles": [
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 467,
+   "area": "Physical",
+   "skill": "Developing hand coordination",
+   "text_en": "Rips paper with both hands.",
+   "text_es": "Rasga papel con ambas manos.",
+   "text_pt": "Rasga papel com as duas mãos.",
+   "rate_by_age": {
+    "8": 0.57
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 468,
+   "area": "Cognitive",
+   "skill": "Musical Skills",
+   "text_en": "Identifies the sounds of musical instruments, like drums or guitar.",
+   "text_es": "Identifica los sonidos de instrumentos musicales, como tambores o guitarra.",
+   "text_pt": "Identifica os sons de instrumentos musicais, como tambor ou violão.",
+   "rate_by_age": {
+    "26": 0.44,
+    "30": 0.46,
+    "31": 0.49,
+    "32": 0.5,
+    "33": 0.55,
+    "34": 0.58,
+    "35": 0.57,
+    "36": 0.56,
+    "1": 0.17,
+    "5": 0.17,
+    "6": 0.17,
+    "13": 0.17
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 469,
+   "area": "Language",
+   "skill": "First Words",
+   "text_en": "Repeats names of body parts when they're said.",
+   "text_es": "Repite los nombres de las partes del cuerpo cuando los escucha.",
+   "text_pt": "Repete os nomes das partes do corpo quando os escuta.",
+   "rate_by_age": {
+    "20": 0.4,
+    "21": 0.49,
+    "22": 0.56
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 470,
+   "area": "Physical",
+   "skill": "Standing Up",
+   "text_en": "Can stand up from a squat all alone.",
+   "text_es": "Puede levantarse desde una posición en cuclillas por sí solo.",
+   "text_pt": "Consegue levantar da posição de cócoras sem ajuda.",
+   "rate_by_age": {
+    "12": 0.5
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 471,
+   "area": "Physical",
+   "skill": "Walking",
+   "text_en": "Descends stairs with an adult, switching feet.",
+   "text_es": "Baja escaleras con un adulto, alternando los pies.",
+   "text_pt": "Desce escadas com um adulto, alternando os pés.",
+   "rate_by_age": {
+    "11": 0.42,
+    "12": 0.52,
+    "13": 0.57,
+    "14": 0.65
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 472,
+   "area": "Cognitive",
+   "skill": "Developing memory and attention",
+   "text_en": "Finds their way in familiar places, such as their parent's room.",
+   "text_es": "Encuentra el camino en lugares conocidos, como el cuarto de sus papás.",
+   "text_pt": "Encontra o caminho em lugares conhecidos, como o quarto dos pais.",
+   "rate_by_age": {
+    "10": 0.21,
+    "11": 0.45,
+    "12": 0.6,
+    "17": 0.93,
+    "18": 0.93,
+    "19": 0.94,
+    "20": 0.93
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 475,
+   "area": "Cognitive",
+   "skill": "Imagining",
+   "text_en": "Engages in pretend play, like dressing up or acting like a firefighter.",
+   "text_es": "Participa en juegos de imaginación, como disfrazarse o actuar como bombero.",
+   "text_pt": "Participa de brincadeiras de faz de conta, como se fantasiar ou agir como bombeiro.",
+   "rate_by_age": {
+    "26": 0.38,
+    "27": 0.44,
+    "28": 0.51,
+    "29": 0.58,
+    "36": 0.79,
+    "4": 0.03
+   },
+   "roles": [
+    "anchor",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 476,
+   "area": "Social-Emotional",
+   "skill": "Developing Independence",
+   "text_en": "Can feed independently, with or without utensils.",
+   "text_es": "Puede comer por sí solo, con o sin cubiertos.",
+   "text_pt": "Consegue comer sem ajuda, com ou sem talheres.",
+   "rate_by_age": {
+    "9": 0.19,
+    "10": 0.3,
+    "11": 0.46,
+    "12": 0.6,
+    "13": 0.73,
+    "14": 0.79,
+    "15": 0.85,
+    "16": 0.87,
+    "17": 0.88,
+    "18": 0.89
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 478,
+   "area": "Cognitive",
+   "skill": "Developing memory and attention",
+   "text_en": "Points to or names characters from familiar stories.",
+   "text_es": "Señala o nombra personajes de cuentos conocidos.",
+   "text_pt": "Aponta para personagens de histórias conhecidas ou os nomeia.",
+   "rate_by_age": {
+    "7": 0.03,
+    "17": 0.32,
+    "18": 0.42,
+    "19": 0.53,
+    "20": 0.63,
+    "2": 0.04,
+    "3": 0.03
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 481,
+   "area": "Physical",
+   "skill": "Scribbling",
+   "text_en": "Only moves their wrist while scribbling.",
+   "text_es": "Solo mueve la muñeca al garabatear.",
+   "text_pt": "Move só o punho ao rabiscar.",
+   "rate_by_age": {
+    "9": 0.06,
+    "20": 0.34,
+    "21": 0.54,
+    "22": 0.58,
+    "23": 0.63,
+    "24": 0.64
+   },
+   "roles": [
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 483,
+   "area": "Language",
+   "skill": "Developing conversational skills",
+   "text_en": "Names places in pictures, like park, home, market.",
+   "text_es": "Nombra lugares en imágenes, como parque, casa, mercado.",
+   "text_pt": "Nomeia lugares em imagens, como parque, casa, mercado.",
+   "rate_by_age": {
+    "24": 0.46,
+    "25": 0.54
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 484,
+   "area": "Physical",
+   "skill": "Developing hand coordination",
+   "text_en": "Doesn't drop things accidentally anymore.",
+   "text_es": "Ya no se le caen las cosas por accidente.",
+   "text_pt": "Já não deixa as coisas caírem sem querer.",
+   "rate_by_age": {
+    "16": 0.31,
+    "17": 0.42,
+    "18": 0.57,
+    "19": 0.71,
+    "3": 0.01
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 490,
+   "area": "Language",
+   "skill": "Early Phonetics",
+   "text_en": "Says simple words with the letter T, like 'toy' or 'mat'.",
+   "text_es": "Dice palabras simples con la letra T, como 'tren' o 'gato'.",
+   "text_pt": "Fala palavras simples com a letra T, como 'tatu' ou 'pato'.",
+   "rate_by_age": {
+    "21": 0.48,
+    "22": 0.54,
+    "23": 0.6
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 502,
+   "area": "Cognitive",
+   "skill": "Learning about shapes and colors",
+   "text_en": "Sorts objects by their size, like finding all the little blocks from a pile of blocks.",
+   "text_es": "Clasifica objetos por su tamaño, como encontrar todos los bloques chiquitos en una pila de bloques.",
+   "text_pt": "Separa os objetos por tamanho, como achar todos os blocos pequenos em um monte de blocos.",
+   "rate_by_age": {
+    "26": 0.54,
+    "27": 0.56,
+    "29": 0.47,
+    "30": 0.55
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 503,
+   "area": "Cognitive",
+   "skill": "Learning about shapes and colors",
+   "text_en": "Sorts things by their shape, like finding all the triangular blocks.",
+   "text_es": "Clasifica cosas por su forma, como encontrar todos los bloques triangulares.",
+   "text_pt": "Separa as coisas por forma, como achar todos os blocos triangulares.",
+   "rate_by_age": {
+    "33": 0.47,
+    "34": 0.5,
+    "35": 0.52,
+    "36": 0.53,
+    "37": 0.63,
+    "38": 0.66,
+    "39": 0.66,
+    "40": 0.76,
+    "41": 0.75,
+    "42": 0.79,
+    "43": 0.79,
+    "44": 0.74,
+    "45": 0.74,
+    "46": 0.74,
+    "8": 0.14,
+    "9": 0.14,
+    "11": 0.14,
+    "12": 0.14,
+    "15": 0.14,
+    "16": 0.14,
+    "17": 0.14,
+    "19": 0.14,
+    "21": 0.19
+   },
+   "roles": [
+    "anchor",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 505,
+   "area": "Language",
+   "skill": "Basic Vocabulary",
+   "text_en": "Knows roughly 100 to 300 everyday words.",
+   "text_es": "Conoce entre 100 y 300 palabras de uso diario.",
+   "text_pt": "Conhece mais ou menos de 100 a 300 palavras do dia a dia.",
+   "rate_by_age": {
+    "19": 0.36,
+    "20": 0.52,
+    "0": 0.05,
+    "7": 0.05
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 509,
+   "area": "Social-Emotional",
+   "skill": "Developing self-awareness",
+   "text_en": "Identifies a boy and a girl in an image.",
+   "text_es": "Identifica a un niño y una niña en una imagen.",
+   "text_pt": "Identifica um menino e uma menina em uma imagem.",
+   "rate_by_age": {
+    "19": 0.31,
+    "20": 0.36,
+    "21": 0.46,
+    "22": 0.52,
+    "23": 0.57,
+    "24": 0.58,
+    "25": 0.62,
+    "26": 0.67,
+    "27": 0.65,
+    "28": 0.67,
+    "29": 0.65
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 516,
+   "area": "Physical",
+   "skill": "Scribbling",
+   "text_en": "Draws or paints horizontal lines.",
+   "text_es": "Dibuja o pinta líneas horizontales.",
+   "text_pt": "Desenha ou pinta linhas horizontais.",
+   "rate_by_age": {
+    "21": 0.36,
+    "22": 0.43,
+    "23": 0.51,
+    "24": 0.62,
+    "25": 0.67
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 518,
+   "area": "Physical",
+   "skill": "Scribbling",
+   "text_en": "Draws or paints vertical lines.",
+   "text_es": "Dibuja o pinta líneas verticales.",
+   "text_pt": "Desenha ou pinta linhas verticais.",
+   "rate_by_age": {
+    "23": 0.39,
+    "24": 0.45,
+    "25": 0.52,
+    "26": 0.58
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 519,
+   "area": "Physical",
+   "skill": "Scribbling",
+   "text_en": "Can draw or paint in circular motions.",
+   "text_es": "Puede dibujar o pintar con movimientos circulares.",
+   "text_pt": "Consegue desenhar ou pintar com movimentos circulares.",
+   "rate_by_age": {
+    "14": 0.02,
+    "26": 0.5,
+    "27": 0.55,
+    "28": 0.6,
+    "29": 0.65,
+    "30": 0.71
+   },
+   "roles": [
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 521,
+   "area": "Cognitive",
+   "skill": null,
+   "text_en": "Arranges items by color, like finding all the red blocks.",
+   "text_es": "Ordena objetos por color, como encontrar todos los bloques rojos.",
+   "text_pt": "Organiza os objetos por cor, como achar todos os blocos vermelhos.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 523,
+   "area": "Cognitive",
+   "skill": "Concept learning and logical thinking",
+   "text_en": "Understands the difference between 'big' and 'small'.",
+   "text_es": "Entiende la diferencia entre 'grande' y 'chico'.",
+   "text_pt": "Entende a diferença entre 'grande' e 'pequeno'.",
+   "rate_by_age": {
+    "20": 0.57,
+    "21": 0.59,
+    "22": 0.66,
+    "24": 0.62,
+    "0": 0.45,
+    "7": 0.45
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 524,
+   "area": "Cognitive",
+   "skill": "Memory and Attention",
+   "text_en": "Completes sentences from familiar books or songs by filling in the blanks.",
+   "text_es": "Completa oraciones de libros o canciones conocidas llenando los espacios.",
+   "text_pt": "Completa frases de livros ou músicas conhecidas preenchendo os espaços.",
+   "rate_by_age": {
+    "14": 0.03,
+    "21": 0.36,
+    "22": 0.43,
+    "23": 0.49,
+    "24": 0.53
+   },
+   "roles": [
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 527,
+   "area": "Language",
+   "skill": "Basic Vocabulary",
+   "text_en": "Describes characteristics of objects, animals, or people (e.g., says 'red' and points at a red ball).",
+   "text_es": "Describe características de objetos, animales o personas (por ejemplo, dice 'roja' y señala una pelota roja).",
+   "text_pt": "Descreve características de objetos, animais ou pessoas (por exemplo, diz 'vermelha' e aponta para uma bola vermelha).",
+   "rate_by_age": {
+    "23": 0.4,
+    "24": 0.45,
+    "25": 0.54,
+    "26": 0.6,
+    "27": 0.66
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 528,
+   "area": "Physical",
+   "skill": "Kicking",
+   "text_en": "Kicks a ball while standing.",
+   "text_es": "Patea una pelota estando de pie.",
+   "text_pt": "Chuta uma bola enquanto está de pé.",
+   "rate_by_age": {
+    "10": 0.41,
+    "11": 0.56,
+    "14": 0.6
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 529,
+   "area": "Physical",
+   "skill": "Throwing and Catching",
+   "text_en": "Tries to catch a ball by extending their arms forward.",
+   "text_es": "Intenta atrapar una pelota extendiendo los brazos hacia el frente.",
+   "text_pt": "Tenta pegar uma bola esticando os braços para a frente.",
+   "rate_by_age": {
+    "14": 0.46,
+    "15": 0.6,
+    "16": 0.69
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 530,
+   "area": "Physical",
+   "skill": "Throwing and Catching",
+   "text_en": "Bounces a ball on the floor.",
+   "text_es": "Bota una pelota en el suelo.",
+   "text_pt": "Quica uma bola no chão.",
+   "rate_by_age": {
+    "16": 0.46,
+    "17": 0.54,
+    "18": 0.66,
+    "19": 0.71
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 532,
+   "area": "Physical",
+   "skill": "Finger dexterity",
+   "text_en": "Forms playdough shapes (like an animal).",
+   "text_es": "Forma figuras con plastilina (como un animal).",
+   "text_pt": "Faz formas com massinha (como um animal).",
+   "rate_by_age": {
+    "22": 0.04,
+    "23": 0.06,
+    "24": 0.07,
+    "33": 0.38,
+    "34": 0.48,
+    "35": 0.5,
+    "36": 0.52,
+    "37": 0.57,
+    "38": 0.59,
+    "39": 0.6,
+    "40": 0.62,
+    "41": 0.66,
+    "42": 0.66,
+    "44": 0.71,
+    "9": 0.04
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 534,
+   "area": "Language",
+   "skill": "First Words",
+   "text_en": "Uses possessive words, such as 'mine'.",
+   "text_es": "Usa palabras posesivas, como 'mío'.",
+   "text_pt": "Usa palavras de posse, como 'meu'.",
+   "rate_by_age": {
+    "22": 0.46,
+    "23": 0.54,
+    "24": 0.57
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 536,
+   "area": "Physical",
+   "skill": "Hand Coordination",
+   "text_en": "Rolls playdough to make long strips by using hands or the table.",
+   "text_es": "Hace tiras largas de plastilina rodándola con las manos o sobre la mesa.",
+   "text_pt": "Faz tiras compridas de massinha rolando com as mãos ou sobre a mesa.",
+   "rate_by_age": {
+    "1": 0.02,
+    "29": 0.37,
+    "30": 0.43,
+    "31": 0.49,
+    "32": 0.58,
+    "33": 0.64,
+    "35": 0.64,
+    "37": 0.65
+   },
+   "roles": [
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 537,
+   "area": "Cognitive",
+   "skill": "Musical Skills",
+   "text_en": "Sings a few words from a song.",
+   "text_es": "Canta algunas palabras de una canción.",
+   "text_pt": "Canta algumas palavras de uma música.",
+   "rate_by_age": {
+    "23": 0.86,
+    "24": 0.87,
+    "26": 0.84,
+    "28": 0.84,
+    "29": 0.86,
+    "30": 0.88,
+    "31": 0.88,
+    "32": 0.9
+   },
+   "roles": [
+    "anchor"
+   ]
+  },
+  {
+   "id": 538,
+   "area": "Physical",
+   "skill": "Walking",
+   "text_en": "Walks up ramps.",
+   "text_es": "Sube por rampas caminando.",
+   "text_pt": "Sobe rampas andando.",
+   "rate_by_age": {
+    "10": 0.58,
+    "12": 0.54
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 540,
+   "area": "Language",
+   "skill": "Developing conversational skills",
+   "text_en": "Communicates a full idea with one word, like 'park' for 'take me to the park'.",
+   "text_es": "Comunica una idea completa con una palabra, como 'parque' para decir 'llévame al parque'.",
+   "text_pt": "Comunica uma ideia completa com uma palavra, como 'parque' para dizer 'me leva ao parque'.",
+   "rate_by_age": {
+    "20": 0.49,
+    "21": 0.57,
+    "0": 0.65,
+    "7": 0.65
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 544,
+   "area": "Language",
+   "skill": "Developing conversational skills",
+   "text_en": "Speaks briefly about recent activities using one or two words.",
+   "text_es": "Habla brevemente de actividades recientes usando una o dos palabras.",
+   "text_pt": "Fala brevemente sobre atividades recentes usando uma ou duas palavras.",
+   "rate_by_age": {
+    "19": 0.51,
+    "22": 0.41,
+    "23": 0.5,
+    "24": 0.53,
+    "25": 0.59,
+    "26": 0.63,
+    "27": 0.64,
+    "28": 0.64,
+    "29": 0.64,
+    "2": 0.24
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 551,
+   "area": "Cognitive",
+   "skill": "Imitating",
+   "text_en": "Copies what adults do when playing, like pretends to rock and feed a doll like a baby.",
+   "text_es": "Copia lo que hacen los adultos al jugar, como arrullar y darle de comer a una muñeca como si fuera un bebé.",
+   "text_pt": "Imita o que os adultos fazem ao brincar, como ninar e dar comidinha para uma boneca como se fosse um bebê.",
+   "rate_by_age": {
+    "19": 0.5,
+    "20": 0.6,
+    "2": 0.13
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 558,
+   "area": "Physical",
+   "skill": "Finger dexterity",
+   "text_en": "Inserts things like string into a small hole.",
+   "text_es": "Mete cosas como un cordón en un agujero pequeño.",
+   "text_pt": "Enfia coisas como um cordão em um buraco pequeno.",
+   "rate_by_age": {
+    "17": 0.27,
+    "32": 0.43,
+    "33": 0.49,
+    "34": 0.51,
+    "35": 0.57,
+    "36": 0.56,
+    "37": 0.57,
+    "38": 0.61,
+    "39": 0.63,
+    "40": 0.65,
+    "41": 0.66,
+    "8": 0.27,
+    "9": 0.27,
+    "11": 0.27,
+    "12": 0.27,
+    "16": 0.27,
+    "19": 0.27
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 559,
+   "area": "Physical",
+   "skill": "Scribbling",
+   "text_en": "Draws lines on paper using their finger.",
+   "text_es": "Dibuja líneas en papel usando su dedo.",
+   "text_pt": "Desenha linhas no papel usando o dedo.",
+   "rate_by_age": {
+    "19": 0.29,
+    "20": 0.41,
+    "21": 0.53,
+    "22": 0.57,
+    "23": 0.65,
+    "24": 0.67
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 564,
+   "area": "Language",
+   "skill": "Developing conversational skills",
+   "text_en": "Answers simple questions about an image (e.g., if asked 'what color are the leaves?' they respond 'green').",
+   "text_es": "Responde preguntas simples sobre una imagen (por ejemplo, si le preguntas '¿de qué color son las hojas?', responde 'verdes').",
+   "text_pt": "Responde a perguntas simples sobre uma imagem (por exemplo, se você pergunta 'de que cor são as folhas?', responde 'verdes').",
+   "rate_by_age": {
+    "23": 0.47,
+    "24": 0.53
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 565,
+   "area": "Social-Emotional",
+   "skill": "Self-Care and Autonomy",
+   "text_en": "Uses personal care tools like a hairbrush and toothbrush correctly.",
+   "text_es": "Usa correctamente objetos de cuidado personal como el cepillo de pelo y el cepillo de dientes.",
+   "text_pt": "Usa corretamente objetos de cuidado pessoal, como a escova de cabelo e a escova de dentes.",
+   "rate_by_age": {
+    "10": 0.32,
+    "11": 0.49,
+    "12": 0.55,
+    "13": 0.66,
+    "14": 0.77,
+    "15": 0.83,
+    "19": 0.94,
+    "20": 0.95
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 566,
+   "area": "Language",
+   "skill": "Basic Vocabulary",
+   "text_en": "Answers simple questions about a story.",
+   "text_es": "Responde preguntas simples sobre un cuento.",
+   "text_pt": "Responde a perguntas simples sobre uma história.",
+   "rate_by_age": {
+    "27": 0.34,
+    "28": 0.38,
+    "29": 0.43,
+    "30": 0.51,
+    "31": 0.55,
+    "32": 0.62,
+    "33": 0.57,
+    "34": 0.59,
+    "35": 0.59,
+    "36": 0.59,
+    "6": 0.04,
+    "8": 0.01,
+    "9": 0.01,
+    "12": 0.02,
+    "13": 0.02,
+    "17": 0.03
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 568,
+   "area": "Cognitive",
+   "skill": "Concept learning and logical thinking",
+   "text_en": "Names or points to tools used in different jobs (like a doctor's stethoscope).",
+   "text_es": "Nombra o señala las herramientas que se usan en diferentes trabajos (como el estetoscopio del doctor).",
+   "text_pt": "Nomeia ou aponta para as ferramentas usadas em diferentes profissões (como o estetoscópio do médico).",
+   "rate_by_age": {
+    "30": 0.42,
+    "31": 0.47,
+    "32": 0.55,
+    "35": 0.63,
+    "36": 0.62,
+    "37": 0.63,
+    "6": 0.03
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 569,
+   "area": "Cognitive",
+   "skill": "Concept learning and logical thinking",
+   "text_en": "Understands what loud and soft volume is. Knows how to apply each, like when to talk quietly.",
+   "text_es": "Entiende qué es hablar fuerte y qué es hablar bajito, y sabe cuándo usar cada uno, como cuándo hablar en voz baja.",
+   "text_pt": "Entende o que é falar alto e falar baixo, e sabe quando usar cada um, como quando falar em voz baixa.",
+   "rate_by_age": {
+    "21": 0.65,
+    "22": 0.69,
+    "25": 0.64
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 572,
+   "area": "Language",
+   "skill": "Basic Vocabulary",
+   "text_en": "Names things by their sounds, like saying 'phone' when it rings.",
+   "text_es": "Nombra las cosas por su sonido, como decir 'teléfono' cuando suena.",
+   "text_pt": "Nomeia as coisas pelo som que fazem, como dizer 'telefone' quando ele toca.",
+   "rate_by_age": {
+    "21": 0.42,
+    "22": 0.49,
+    "23": 0.57,
+    "31": 0.85
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 573,
+   "area": "Language",
+   "skill": "First Words",
+   "text_en": "Names more than three body parts.",
+   "text_es": "Nombra más de tres partes del cuerpo.",
+   "text_pt": "Nomeia mais de três partes do corpo.",
+   "rate_by_age": {
+    "20": 0.44,
+    "21": 0.53
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 574,
+   "area": "Cognitive",
+   "skill": "Concept learning and logical thinking",
+   "text_en": "Knows what certain body parts do, like ears are for hearing.",
+   "text_es": "Sabe para qué sirven ciertas partes del cuerpo, como que los oídos son para escuchar.",
+   "text_pt": "Sabe para que servem certas partes do corpo, como que as orelhas servem para ouvir.",
+   "rate_by_age": {
+    "16": 0.25,
+    "23": 0.52,
+    "24": 0.52,
+    "25": 0.46,
+    "26": 0.45,
+    "27": 0.57,
+    "28": 0.59,
+    "29": 0.58
+   },
+   "roles": [
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 577,
+   "area": "Physical",
+   "skill": "Developing the senses",
+   "text_en": "Prefers some foods over others.",
+   "text_es": "Prefiere unos alimentos sobre otros.",
+   "text_pt": "Prefere alguns alimentos a outros.",
+   "rate_by_age": {
+    "6": 0.46
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 579,
+   "area": "Cognitive",
+   "skill": "Concept learning and logical thinking",
+   "text_en": "Identifies community helpers (like a doctor, policeman, or firefighter).",
+   "text_es": "Identifica a quienes ayudan en la comunidad (como un doctor, un policía o un bombero).",
+   "text_pt": "Identifica quem ajuda na comunidade (como médico, policial ou bombeiro).",
+   "rate_by_age": {
+    "6": 0.05,
+    "30": 0.45,
+    "31": 0.5,
+    "32": 0.59,
+    "13": 0.05
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 587,
+   "area": "Language",
+   "skill": "Early Phonetics",
+   "text_en": "Says simple words with the letter B, like 'bye' or 'baby'.",
+   "text_es": "Dice palabras simples con la letra B, como 'bebé' o 'boca'.",
+   "text_pt": "Fala palavras simples com a letra B, como 'bebê' ou 'bola'.",
+   "rate_by_age": {
+    "32": 0.81,
+    "33": 0.85,
+    "34": 0.85,
+    "37": 0.85
+   },
+   "roles": [
+    "anchor"
+   ]
+  },
+  {
+   "id": 588,
+   "area": "Cognitive",
+   "skill": "Imitating",
+   "text_en": "Copies easy actions, like shaking a rattle.",
+   "text_es": "Copia acciones fáciles, como agitar una sonaja.",
+   "text_pt": "Imita ações fáceis, como sacudir um chocalho.",
+   "rate_by_age": {
+    "2": 0.47,
+    "3": 0.49,
+    "4": 0.51,
+    "5": 0.67,
+    "11": 0.95
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 589,
+   "area": "Language",
+   "skill": "Babbling",
+   "text_en": "Asks for help by babbling.",
+   "text_es": "Pide ayuda balbuceando.",
+   "text_pt": "Pede ajuda balbuciando.",
+   "rate_by_age": {
+    "3": 0.22,
+    "4": 0.14,
+    "5": 0.25,
+    "6": 0.29,
+    "7": 0.47,
+    "8": 0.63
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 600,
+   "area": "Social-Emotional",
+   "skill": null,
+   "text_en": "Spontaneously shows affection towards their friends.",
+   "text_es": "Muestra cariño espontáneamente a sus amigos.",
+   "text_pt": "Demonstra carinho pelos amigos de forma espontânea.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 602,
+   "area": "Social-Emotional",
+   "skill": "Developing empathy and cooperation",
+   "text_en": "Shows empathy when they see a crying friend (e.g., will try to comfort them).",
+   "text_es": "Muestra empatía cuando ve a un amigo llorar (por ejemplo, intenta consolarlo).",
+   "text_pt": "Demonstra empatia ao ver um amigo chorando (por exemplo, tenta consolar).",
+   "rate_by_age": {
+    "20": 0.64,
+    "21": 0.66,
+    "22": 0.69,
+    "23": 0.72,
+    "24": 0.74,
+    "25": 0.7,
+    "26": 0.76,
+    "27": 0.74,
+    "28": 0.76,
+    "30": 0.82
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 603,
+   "area": "Social-Emotional",
+   "skill": "Self-awareness and Self-efficacy",
+   "text_en": "Knows that some things belong to them and some don't.",
+   "text_es": "Sabe que algunas cosas le pertenecen y otras no.",
+   "text_pt": "Sabe que algumas coisas são suas e outras não.",
+   "rate_by_age": {
+    "24": 0.86,
+    "27": 0.77,
+    "28": 0.75,
+    "29": 0.77,
+    "30": 0.74,
+    "31": 0.76,
+    "32": 0.76,
+    "33": 0.79,
+    "34": 0.81,
+    "36": 0.79,
+    "37": 0.83
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 606,
+   "area": "Social-Emotional",
+   "skill": "Self-Care and Autonomy",
+   "text_en": "Can open a big zipper.",
+   "text_es": "Puede abrir un cierre grande.",
+   "text_pt": "Consegue abrir um zíper grande.",
+   "rate_by_age": {
+    "15": 0.1,
+    "22": 0.41,
+    "23": 0.47,
+    "24": 0.48,
+    "25": 0.58,
+    "26": 0.61,
+    "27": 0.63,
+    "28": 0.65,
+    "29": 0.72,
+    "30": 0.73,
+    "31": 0.75,
+    "4": 0.05,
+    "14": 0.07
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 607,
+   "area": "Social-Emotional",
+   "skill": "Self-Care and Autonomy",
+   "text_en": "Can undo a big button on their clothes.",
+   "text_es": "Puede desabrochar un botón grande de su ropa.",
+   "text_pt": "Consegue desabotoar um botão grande da roupa.",
+   "rate_by_age": {
+    "19": 0.03,
+    "42": 0.43,
+    "43": 0.45,
+    "44": 0.47,
+    "45": 0.52,
+    "46": 0.54,
+    "47": 0.55,
+    "48": 0.57,
+    "22": 0.08,
+    "23": 0.1,
+    "24": 0.11,
+    "25": 0.09,
+    "26": 0.1,
+    "27": 0.12,
+    "28": 0.14,
+    "29": 0.14,
+    "30": 0.15,
+    "31": 0.17,
+    "32": 0.21,
+    "33": 0.21,
+    "34": 0.24,
+    "35": 0.25,
+    "36": 0.27,
+    "37": 0.29,
+    "38": 0.32,
+    "39": 0.36,
+    "40": 0.36,
+    "41": 0.41
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 608,
+   "area": "Social-Emotional",
+   "skill": "Self-Care and Autonomy",
+   "text_en": "Can pull pants down.",
+   "text_es": "Puede bajarse los pantalones.",
+   "text_pt": "Consegue abaixar a calça.",
+   "rate_by_age": {
+    "4": 0.03,
+    "21": 0.33,
+    "22": 0.38,
+    "23": 0.44,
+    "24": 0.49,
+    "25": 0.58,
+    "26": 0.63,
+    "27": 0.65,
+    "28": 0.69,
+    "29": 0.76,
+    "30": 0.78,
+    "31": 0.8,
+    "14": 0.04
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 609,
+   "area": "Social-Emotional",
+   "skill": "Self-Care and Autonomy",
+   "text_en": "Knows how to take off their shoes.",
+   "text_es": "Sabe quitarse los zapatos.",
+   "text_pt": "Sabe tirar os sapatos.",
+   "rate_by_age": {
+    "15": 0.47,
+    "16": 0.54,
+    "17": 0.62,
+    "18": 0.68,
+    "19": 0.72,
+    "20": 0.76,
+    "23": 0.86,
+    "25": 0.9
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 610,
+   "area": "Social-Emotional",
+   "skill": "Self-Care and Autonomy",
+   "text_en": "Puts on shoes without laces.",
+   "text_es": "Se pone zapatos sin agujetas.",
+   "text_pt": "Calça sapatos sem cadarço.",
+   "rate_by_age": {
+    "31": 0.6,
+    "32": 0.64,
+    "33": 0.67,
+    "34": 0.71,
+    "35": 0.7,
+    "36": 0.71,
+    "37": 0.77,
+    "38": 0.79,
+    "39": 0.8,
+    "40": 0.81,
+    "41": 0.83
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 611,
+   "area": "Social-Emotional",
+   "skill": "Self-Care and Autonomy",
+   "text_en": "Puts on a shirt without buttons.",
+   "text_es": "Se pone una camisa sin botones.",
+   "text_pt": "Veste uma camiseta sem botões.",
+   "rate_by_age": {
+    "11": 0,
+    "12": 0.02,
+    "26": 0.1,
+    "31": 0.19,
+    "33": 0.25,
+    "34": 0.29,
+    "35": 0.31,
+    "36": 0.34,
+    "42": 0.52,
+    "43": 0.56,
+    "44": 0.6,
+    "45": 0.63,
+    "46": 0.64,
+    "47": 0.65,
+    "48": 0.66,
+    "38": 0.4,
+    "39": 0.43,
+    "40": 0.46,
+    "41": 0.5
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 612,
+   "area": "Social-Emotional",
+   "skill": "Self-Care and Autonomy",
+   "text_en": "Puts their pants on.",
+   "text_es": "Se pone los pantalones.",
+   "text_pt": "Veste a calça.",
+   "rate_by_age": {
+    "32": 0.38,
+    "33": 0.43,
+    "34": 0.47,
+    "35": 0.51,
+    "36": 0.52,
+    "37": 0.57,
+    "38": 0.63,
+    "39": 0.65,
+    "40": 0.68,
+    "41": 0.7,
+    "42": 0.73,
+    "43": 0.75,
+    "44": 0.75,
+    "45": 0.78,
+    "8": 0.02,
+    "9": 0.01,
+    "11": 0,
+    "12": 0.04,
+    "15": 0.01,
+    "16": 0.01,
+    "17": 0.01,
+    "19": 0.03
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 613,
+   "area": "Cognitive",
+   "skill": "Memory and Attention",
+   "text_en": "Can do tasks with three clear steps, like 'Put the apple on the plate, have some water, and then clean your face'.",
+   "text_es": "Puede hacer tareas con tres pasos claros, como 'Pon la manzana en el plato, toma agua y luego límpiate la cara'.",
+   "text_pt": "Consegue fazer tarefas com três passos claros, como 'Coloca a maçã no prato, bebe um pouco de água e depois limpa o rosto'.",
+   "rate_by_age": {
+    "20": 0.32,
+    "21": 0.41,
+    "22": 0.46,
+    "23": 0.52,
+    "24": 0.6
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 614,
+   "area": "Language",
+   "skill": "First Words",
+   "text_en": "Names everyday things correctly.",
+   "text_es": "Nombra correctamente las cosas de uso diario.",
+   "text_pt": "Nomeia corretamente as coisas do dia a dia.",
+   "rate_by_age": {
+    "21": 0.41,
+    "22": 0.49,
+    "23": 0.56
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 615,
+   "area": "Cognitive",
+   "skill": null,
+   "text_en": "Differentiates between 'on,' 'over,' and 'under', like putting something under the table when asked.",
+   "text_es": "Diferencia entre 'sobre', 'encima' y 'debajo', como poner algo debajo de la mesa cuando se lo pides.",
+   "text_pt": "Diferencia 'sobre', 'em cima de' e 'embaixo de', como colocar algo embaixo da mesa quando você pede.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 617,
+   "area": "Language",
+   "skill": "Conversational Skills",
+   "text_en": "Talks in sentences with four to five words.",
+   "text_es": "Habla con oraciones de cuatro a cinco palabras.",
+   "text_pt": "Fala com frases de quatro a cinco palavras.",
+   "rate_by_age": {
+    "36": 0.75,
+    "37": 0.78,
+    "38": 0.8,
+    "39": 0.79,
+    "40": 0.85,
+    "41": 0.84
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 618,
+   "area": "Social-Emotional",
+   "skill": "Self-awareness and Self-efficacy",
+   "text_en": "Can say their first name, age, and gender.",
+   "text_es": "Puede decir su nombre, su edad y su género.",
+   "text_pt": "Consegue dizer o próprio nome, a idade e o gênero.",
+   "rate_by_age": {
+    "20": 0.24,
+    "28": 0.58,
+    "29": 0.46,
+    "30": 0.44,
+    "31": 0.48,
+    "32": 0.56,
+    "33": 0.62,
+    "34": 0.65,
+    "35": 0.67,
+    "36": 0.69,
+    "37": 0.76,
+    "38": 0.82,
+    "1": 0.24,
+    "4": 0.24,
+    "5": 0.24,
+    "6": 0.24,
+    "13": 0.24
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 619,
+   "area": "Social-Emotional",
+   "skill": "Developing peer relationships",
+   "text_en": "Calls a friend by their name.",
+   "text_es": "Llama a un amigo por su nombre.",
+   "text_pt": "Chama um amigo pelo nome.",
+   "rate_by_age": {
+    "4": 0.78,
+    "22": 0.78,
+    "23": 0.76,
+    "24": 0.72,
+    "25": 0.73,
+    "26": 0.75,
+    "27": 0.75,
+    "29": 0.8,
+    "30": 0.82
+   },
+   "roles": [
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 620,
+   "area": "Language",
+   "skill": "Grammar",
+   "text_en": "Says plural words (like cars, dogs, and cats).",
+   "text_es": "Dice palabras en plural (como coches, perros y gatos).",
+   "text_pt": "Fala palavras no plural (como carros, cachorros e gatos).",
+   "rate_by_age": {
+    "31": 0.5,
+    "32": 0.55,
+    "33": 0.6,
+    "34": 0.64,
+    "35": 0.66,
+    "36": 0.64,
+    "37": 0.68,
+    "38": 0.7,
+    "39": 0.72,
+    "40": 0.76,
+    "41": 0.78,
+    "44": 0.76,
+    "1": 0.21,
+    "5": 0.21,
+    "6": 0.21,
+    "13": 0.21
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 621,
+   "area": "Language",
+   "skill": "Grammar",
+   "text_en": "Uses words like 'I,' 'me,' and 'you'.",
+   "text_es": "Usa palabras como 'yo', 'mí' y 'tú'.",
+   "text_pt": "Usa palavras como 'eu', 'mim' e 'você'.",
+   "rate_by_age": {
+    "26": 0.58,
+    "27": 0.55,
+    "28": 0.6,
+    "29": 0.64,
+    "30": 0.67,
+    "31": 0.68
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 622,
+   "area": "Language",
+   "skill": "Conversational Skills",
+   "text_en": "Most people understand them when they speak.",
+   "text_es": "La mayoría de las personas le entienden cuando habla.",
+   "text_pt": "A maioria das pessoas entende quando a criança fala.",
+   "rate_by_age": {
+    "32": 0.64,
+    "33": 0.57,
+    "34": 0.55,
+    "35": 0.56,
+    "36": 0.58,
+    "37": 0.65,
+    "38": 0.64,
+    "39": 0.65,
+    "40": 0.69,
+    "41": 0.72,
+    "42": 0.72,
+    "43": 0.73,
+    "44": 0.78,
+    "45": 0.78,
+    "9": 0.45,
+    "10": 0.45,
+    "11": 0.45,
+    "16": 0.45,
+    "19": 0.45,
+    "20": 0.45
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 623,
+   "area": "Language",
+   "skill": "Conversational Skills",
+   "text_en": "Can chat using two to three sentences.",
+   "text_es": "Puede platicar usando de dos a tres oraciones.",
+   "text_pt": "Consegue conversar usando duas ou três frases.",
+   "rate_by_age": {
+    "30": 0.71,
+    "31": 0.67,
+    "32": 0.65,
+    "34": 0.69,
+    "36": 0.67,
+    "37": 0.72
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 625,
+   "area": "Cognitive",
+   "skill": "Imagining",
+   "text_en": "Brings other people or pets into imaginative games.",
+   "text_es": "Incluye a otras personas o mascotas en sus juegos de imaginación.",
+   "text_pt": "Inclui outras pessoas ou animais de estimação nas brincadeiras de faz de conta.",
+   "rate_by_age": {
+    "23": 0.48,
+    "24": 0.53,
+    "25": 0.59,
+    "33": 0.85
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 627,
+   "area": "Cognitive",
+   "skill": "Developing memory and attention",
+   "text_en": "Pairs items with their pictures in books.",
+   "text_es": "Empareja objetos con sus imágenes en los libros.",
+   "text_pt": "Relaciona objetos com as imagens deles nos livros.",
+   "rate_by_age": {
+    "17": 0.46,
+    "18": 0.57,
+    "19": 0.65,
+    "20": 0.7,
+    "3": 0.03
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 628,
+   "area": "Cognitive",
+   "skill": "Counting",
+   "text_en": "Understands the meaning of 'two' with a finger sign.",
+   "text_es": "Entiende el significado de 'dos' con una seña de los dedos.",
+   "text_pt": "Entende o significado de 'dois' com um sinal de dedos.",
+   "rate_by_age": {
+    "21": 0.63,
+    "22": 0.64,
+    "25": 0.56
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 631,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Turns book pages one by one.",
+   "text_es": "Da vuelta a las páginas de un libro una por una.",
+   "text_pt": "Vira as páginas de um livro uma por uma.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 632,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Stacks 6 or more blocks to make towers.",
+   "text_es": "Apila 6 o más bloques para hacer torres.",
+   "text_pt": "Empilha 6 ou mais blocos para fazer torres.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 633,
+   "area": "Physical",
+   "skill": "Developing hand coordination",
+   "text_en": "Turns things that spin, like toy knobs or faucets.",
+   "text_es": "Gira cosas que dan vueltas, como perillas de juguete o llaves del agua.",
+   "text_pt": "Gira coisas que rodam, como maçanetas de brinquedo ou torneiras.",
+   "rate_by_age": {
+    "15": 0.47,
+    "16": 0.6
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 634,
+   "area": "Physical",
+   "skill": "Hand Coordination",
+   "text_en": "Can open and close all types of lids, like jars, toothpaste, and water bottles.",
+   "text_es": "Puede abrir y cerrar todo tipo de tapas, como las de frascos, pasta de dientes y botellas de agua.",
+   "text_pt": "Consegue abrir e fechar todo tipo de tampa, como de potes, pasta de dente e garrafas de água.",
+   "rate_by_age": {
+    "21": 0.66,
+    "22": 0.68
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 635,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Climbs with ease, such as on a playground ladder or steps.",
+   "text_es": "Trepa con facilidad, como en una escalera de los juegos del parque o en escalones.",
+   "text_pt": "Escala com facilidade, como em uma escada do parquinho ou em degraus.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 637,
+   "area": "Physical",
+   "skill": "Running",
+   "text_en": "Picks up speed when moving around, similar to running.",
+   "text_es": "Agarra velocidad al moverse, casi como si corriera.",
+   "text_pt": "Ganha velocidade ao se movimentar, quase como se corresse.",
+   "rate_by_age": {
+    "19": 0.96,
+    "20": 0.97
+   },
+   "roles": [
+    "anchor"
+   ]
+  },
+  {
+   "id": 638,
+   "area": "Physical",
+   "skill": "Balance",
+   "text_en": "Rides a tricycle.",
+   "text_es": "Anda en triciclo.",
+   "text_pt": "Anda de triciclo.",
+   "rate_by_age": {
+    "22": 0.04,
+    "23": 0.05,
+    "24": 0.07,
+    "35": 0.41,
+    "36": 0.42,
+    "37": 0.48,
+    "38": 0.54,
+    "39": 0.59,
+    "40": 0.63,
+    "41": 0.66,
+    "42": 0.68,
+    "43": 0.68,
+    "44": 0.73,
+    "45": 0.71,
+    "46": 0.73,
+    "47": 0.74,
+    "48": 0.78
+   },
+   "roles": [
+    "anchor",
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 639,
+   "area": "Physical",
+   "skill": "Walking",
+   "text_en": "Can climb stairs by holding onto something and using one foot after the other.",
+   "text_es": "Puede subir escaleras sosteniéndose de algo y poniendo un pie después del otro.",
+   "text_pt": "Consegue subir escadas segurando em algo e colocando um pé depois do outro.",
+   "rate_by_age": {
+    "1": 0.09,
+    "20": 0.54
+   },
+   "roles": [
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 640,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Bends forward without falling.",
+   "text_es": "Se inclina hacia adelante sin caerse.",
+   "text_pt": "Se inclina para a frente sem cair.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 641,
+   "area": "Physical",
+   "skill": "Balance",
+   "text_en": "Sits on a small chair on their own.",
+   "text_es": "Se sienta solo en una silla pequeña.",
+   "text_pt": "Se senta em uma cadeira pequena sem ajuda.",
+   "rate_by_age": {
+    "3": 0.48,
+    "31": 0.93,
+    "32": 0.93,
+    "33": 0.94,
+    "34": 0.95,
+    "35": 0.94,
+    "36": 0.93,
+    "37": 0.95,
+    "38": 0.96,
+    "39": 0.96,
+    "40": 0.96,
+    "41": 0.97,
+    "43": 0.97
+   },
+   "roles": [
+    "anchor",
+    "calibration"
+   ]
+  },
+  {
+   "id": 642,
+   "area": "Physical",
+   "skill": "Kicking",
+   "text_en": "Kicks a ball towards a specific direction.",
+   "text_es": "Patea una pelota hacia una dirección específica.",
+   "text_pt": "Chuta uma bola em uma direção específica.",
+   "rate_by_age": {
+    "25": 0.44,
+    "26": 0.5,
+    "27": 0.55,
+    "28": 0.61,
+    "14": 0.04
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 643,
+   "area": "Physical",
+   "skill": "Kicking",
+   "text_en": "Runs to a ball and kicks it.",
+   "text_es": "Corre hacia una pelota y la patea.",
+   "text_pt": "Corre até a bola e chuta.",
+   "rate_by_age": {
+    "13": 0.49,
+    "15": 0.37,
+    "16": 0.52,
+    "17": 0.66
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 644,
+   "area": "Physical",
+   "skill": "Throwing and Catching",
+   "text_en": "Throws a big ball over their head with both hands.",
+   "text_es": "Avienta una pelota grande por encima de su cabeza con ambas manos.",
+   "text_pt": "Joga uma bola grande por cima da cabeça com as duas mãos.",
+   "rate_by_age": {
+    "26": 0.48,
+    "27": 0.53,
+    "28": 0.58,
+    "29": 0.65,
+    "30": 0.71
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 645,
+   "area": "Cognitive",
+   "skill": "Imagining",
+   "text_en": "Assigns roles in make-believe play with others.",
+   "text_es": "Asigna roles en juegos de imaginación con otros.",
+   "text_pt": "Distribui papéis nas brincadeiras de faz de conta com outras pessoas.",
+   "rate_by_age": {
+    "8": 0.01,
+    "31": 0.42,
+    "32": 0.5,
+    "33": 0.56,
+    "38": 0.73,
+    "39": 0.75,
+    "40": 0.75,
+    "43": 0.76,
+    "44": 0.75,
+    "1": 0.01,
+    "5": 0.01
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 646,
+   "area": "Cognitive",
+   "skill": "Imagining",
+   "text_en": "Acts out stories following a clear order.",
+   "text_es": "Actúa historias siguiendo un orden claro.",
+   "text_pt": "Encena histórias seguindo uma ordem clara.",
+   "rate_by_age": {
+    "32": 0.39,
+    "33": 0.44,
+    "34": 0.51,
+    "35": 0.55,
+    "36": 0.56,
+    "37": 0.66,
+    "38": 0.67,
+    "39": 0.69,
+    "40": 0.71,
+    "41": 0.74,
+    "42": 0.75,
+    "43": 0.75,
+    "44": 0.76,
+    "9": 0,
+    "10": 0,
+    "18": 0.01
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 647,
+   "area": "Cognitive",
+   "skill": "Imagining",
+   "text_en": "Makes up things or people in pretend play.",
+   "text_es": "Inventa cosas o personajes en sus juegos de imaginación.",
+   "text_pt": "Inventa coisas ou personagens nas brincadeiras de faz de conta.",
+   "rate_by_age": {
+    "5": 0.02,
+    "31": 0.41,
+    "32": 0.49,
+    "33": 0.54,
+    "34": 0.6,
+    "37": 0.68,
+    "38": 0.71,
+    "40": 0.74,
+    "41": 0.74
+   },
+   "roles": [
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 648,
+   "area": "Social-Emotional",
+   "skill": "Developing empathy and cooperation",
+   "text_en": "Likes playing with friends more than alone.",
+   "text_es": "Le gusta más jugar con amigos que solo.",
+   "text_pt": "Gosta mais de brincar com amigos do que de brincar sem companhia.",
+   "rate_by_age": {
+    "32": 0.59,
+    "33": 0.61,
+    "34": 0.64,
+    "35": 0.67,
+    "36": 0.68,
+    "37": 0.67,
+    "38": 0.72,
+    "39": 0.74,
+    "40": 0.76,
+    "41": 0.77,
+    "45": 0.81
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 649,
+   "area": "Social-Emotional",
+   "skill": "Developing empathy and cooperation",
+   "text_en": "Cooperates with other kids, like working together to achieve something.",
+   "text_es": "Coopera con otros niños, como trabajar juntos para lograr algo.",
+   "text_pt": "Coopera com outras crianças, como trabalhar em conjunto para conseguir algo.",
+   "rate_by_age": {
+    "25": 0.16,
+    "42": 0.6,
+    "43": 0.62,
+    "44": 0.67,
+    "45": 0.69,
+    "46": 0.7,
+    "47": 0.7,
+    "48": 0.71
+   },
+   "roles": [
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 650,
+   "area": "Social-Emotional",
+   "skill": "Developing empathy and cooperation",
+   "text_en": "Solves problems with other kids, like sharing toys or taking turns.",
+   "text_es": "Resuelve problemas con otros niños, como compartir juguetes o tomar turnos.",
+   "text_pt": "Resolve problemas com outras crianças, como dividir brinquedos ou revezar a vez.",
+   "rate_by_age": {
+    "29": 0.17,
+    "38": 0.41,
+    "39": 0.43,
+    "40": 0.48,
+    "41": 0.51,
+    "42": 0.58,
+    "43": 0.58,
+    "44": 0.61,
+    "45": 0.62,
+    "46": 0.64,
+    "47": 0.66,
+    "48": 0.65,
+    "10": 0.05,
+    "15": 0.05,
+    "18": 0.03,
+    "20": 0.05,
+    "21": 0.05
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 651,
+   "area": "Cognitive",
+   "skill": "Imagining",
+   "text_en": "Mixes real and fantasy topics when talking.",
+   "text_es": "Mezcla temas reales y de fantasía al hablar.",
+   "text_pt": "Mistura assuntos reais e de fantasia ao falar.",
+   "rate_by_age": {
+    "32": 0.46,
+    "33": 0.51,
+    "34": 0.56,
+    "35": 0.62,
+    "36": 0.63,
+    "37": 0.67,
+    "38": 0.71,
+    "39": 0.74,
+    "40": 0.72,
+    "41": 0.73,
+    "42": 0.75,
+    "43": 0.76,
+    "8": 0,
+    "12": 0,
+    "17": 0.06,
+    "20": 0.04
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 653,
+   "area": "Social-Emotional",
+   "skill": "Self-awareness and Self-efficacy",
+   "text_en": "Talks about what they are interested in.",
+   "text_es": "Habla de lo que le interesa.",
+   "text_pt": "Fala sobre o que tem interesse.",
+   "rate_by_age": {
+    "25": 0.63,
+    "26": 0.7,
+    "27": 0.7,
+    "28": 0.71,
+    "29": 0.69,
+    "30": 0.69,
+    "31": 0.7,
+    "34": 0.79,
+    "35": 0.79
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 655,
+   "area": "Cognitive",
+   "skill": "Musical Skills",
+   "text_en": "Sings a song from memory.",
+   "text_es": "Canta una canción de memoria.",
+   "text_pt": "Canta uma música de memória.",
+   "rate_by_age": {
+    "18": 0.18,
+    "32": 0.59,
+    "39": 0.75,
+    "41": 0.77,
+    "42": 0.81,
+    "45": 0.74
+   },
+   "roles": [
+    "anchor",
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 656,
+   "area": "Language",
+   "skill": "Conversational Skills",
+   "text_en": "Uses sentences with at least five words.",
+   "text_es": "Usa oraciones de al menos cinco palabras.",
+   "text_pt": "Usa frases com pelo menos cinco palavras.",
+   "rate_by_age": {
+    "33": 0.62,
+    "34": 0.6,
+    "35": 0.6,
+    "36": 0.61,
+    "37": 0.68,
+    "38": 0.7,
+    "39": 0.7,
+    "40": 0.76,
+    "41": 0.77,
+    "42": 0.78,
+    "43": 0.78,
+    "44": 0.84,
+    "45": 0.81,
+    "46": 0.83
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 657,
+   "area": "Language",
+   "skill": "Conversational Skills",
+   "text_en": "Tells a story.",
+   "text_es": "Cuenta una historia.",
+   "text_pt": "Conta uma história.",
+   "rate_by_age": {
+    "20": 0.14,
+    "25": 0.17,
+    "38": 0.55,
+    "39": 0.58,
+    "40": 0.61,
+    "41": 0.67,
+    "42": 0.7,
+    "43": 0.69,
+    "44": 0.7,
+    "45": 0.7,
+    "46": 0.69,
+    "47": 0.67,
+    "48": 0.67,
+    "10": 0.14,
+    "15": 0.14,
+    "18": 0.14,
+    "21": 0.14
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 658,
+   "area": "Social-Emotional",
+   "skill": "Self-awareness and Self-efficacy",
+   "text_en": "Says their first and last name.",
+   "text_es": "Dice su nombre y apellido.",
+   "text_pt": "Fala o nome e o sobrenome.",
+   "rate_by_age": {
+    "32": 0.47,
+    "33": 0.51,
+    "34": 0.55,
+    "35": 0.58,
+    "36": 0.59,
+    "37": 0.66,
+    "38": 0.71,
+    "39": 0.71,
+    "40": 0.72,
+    "41": 0.77,
+    "45": 0.79,
+    "1": 0.33,
+    "5": 0.33,
+    "8": 0.33,
+    "9": 0.33,
+    "11": 0.33,
+    "12": 0.33,
+    "16": 0.33,
+    "17": 0.33,
+    "19": 0.33
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 659,
+   "area": "Cognitive",
+   "skill": "Concept learning and logical thinking",
+   "text_en": "Identifies three or more numbers with personal importance, like their age or house number.",
+   "text_es": "Identifica tres o más números importantes para él o ella, como su edad o el número de su casa.",
+   "text_pt": "Identifica três ou mais números importantes para si, como a idade ou o número da casa.",
+   "rate_by_age": {
+    "23": 0.46,
+    "24": 0.52,
+    "25": 0.49,
+    "26": 0.5,
+    "27": 0.58,
+    "14": 0.28
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 660,
+   "area": "Cognitive",
+   "skill": "Learning about shapes and colors",
+   "text_en": "Names two or more colors.",
+   "text_es": "Nombra dos o más colores.",
+   "text_pt": "Nomeia duas ou mais cores.",
+   "rate_by_age": {
+    "5": 0.73,
+    "6": 0.73,
+    "27": 0.86,
+    "34": 0.86,
+    "35": 0.85
+   },
+   "roles": [
+    "anchor",
+    "calibration"
+   ]
+  },
+  {
+   "id": 661,
+   "area": "Cognitive",
+   "skill": "Counting",
+   "text_en": "Can count when asked to.",
+   "text_es": "Puede contar cuando se lo pides.",
+   "text_pt": "Consegue contar quando você pede.",
+   "rate_by_age": {
+    "23": 0.59,
+    "26": 0.52,
+    "27": 0.59
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 664,
+   "area": "Cognitive",
+   "skill": "Memory and Attention",
+   "text_en": "Recalls bits of a story from the day before.",
+   "text_es": "Recuerda partes de un cuento del día anterior.",
+   "text_pt": "Lembra partes de uma história do dia anterior.",
+   "rate_by_age": {
+    "1": 0.02,
+    "31": 0.6,
+    "39": 0.82,
+    "40": 0.84,
+    "41": 0.84,
+    "44": 0.85
+   },
+   "roles": [
+    "anchor",
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 665,
+   "area": "Cognitive",
+   "skill": "Concept learning and logical thinking",
+   "text_en": "Recognizes things that are the same and when they're a bit different, like an item that is out of place.",
+   "text_es": "Reconoce cosas iguales y cuando son un poco diferentes, como un objeto fuera de lugar.",
+   "text_pt": "Reconhece coisas iguais e quando são um pouco diferentes, como um objeto fora do lugar.",
+   "rate_by_age": {
+    "9": 0.05,
+    "30": 0.28,
+    "32": 0.3,
+    "42": 0.64,
+    "43": 0.64,
+    "44": 0.68,
+    "45": 0.7,
+    "46": 0.7,
+    "47": 0.71,
+    "48": 0.67,
+    "22": 0.06,
+    "23": 0.09,
+    "24": 0.09,
+    "25": 0.16,
+    "26": 0.13,
+    "27": 0.14,
+    "28": 0.15,
+    "29": 0.18,
+    "31": 0.25,
+    "33": 0.34,
+    "34": 0.36,
+    "35": 0.4,
+    "36": 0.41,
+    "37": 0.46,
+    "38": 0.5,
+    "39": 0.53,
+    "40": 0.57,
+    "41": 0.59
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 667,
+   "area": "Physical",
+   "skill": "Finger dexterity",
+   "text_en": "Can use scissors correctly with the thumb up.",
+   "text_es": "Puede usar las tijeras correctamente con el pulgar hacia arriba.",
+   "text_pt": "Consegue usar a tesoura corretamente, com o polegar para cima.",
+   "rate_by_age": {
+    "16": 0.02,
+    "18": 0.02,
+    "20": 0.02,
+    "29": 0.15,
+    "37": 0.35,
+    "38": 0.4,
+    "39": 0.44,
+    "40": 0.49,
+    "41": 0.52,
+    "42": 0.59,
+    "43": 0.66,
+    "44": 0.67,
+    "45": 0.63,
+    "46": 0.66,
+    "47": 0.64,
+    "48": 0.64,
+    "10": 0.02,
+    "21": 0.02,
+    "32": 0.19,
+    "33": 0.23,
+    "34": 0.26,
+    "35": 0.3,
+    "36": 0.31
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 670,
+   "area": "Physical",
+   "skill": "Jumping and Skipping",
+   "text_en": "Hops on one foot for 2 seconds.",
+   "text_es": "Brinca en un pie por 2 segundos.",
+   "text_pt": "Pula em um pé só por 2 segundos.",
+   "rate_by_age": {
+    "22": 0.02,
+    "23": 0.02,
+    "24": 0.03,
+    "28": 0.08,
+    "31": 0.14,
+    "38": 0.38,
+    "39": 0.44,
+    "40": 0.47,
+    "41": 0.52,
+    "42": 0.6,
+    "43": 0.61,
+    "44": 0.6,
+    "45": 0.61,
+    "46": 0.67,
+    "47": 0.65,
+    "48": 0.68,
+    "10": 0.02,
+    "18": 0.02,
+    "20": 0.04,
+    "21": 0.02,
+    "25": 0.1,
+    "26": 0.05,
+    "27": 0.06,
+    "29": 0.09,
+    "30": 0.11,
+    "37": 0.36
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 671,
+   "area": "Physical",
+   "skill": "Balance",
+   "text_en": "Balances on one foot for two seconds or more.",
+   "text_es": "Mantiene el equilibrio en un pie por dos segundos o más.",
+   "text_pt": "Se equilibra em um pé só por dois segundos ou mais.",
+   "rate_by_age": {
+    "31": 0.52,
+    "32": 0.58,
+    "33": 0.63
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 672,
+   "area": "Physical",
+   "skill": "Throwing and Catching",
+   "text_en": "Catches a bounced ball.",
+   "text_es": "Atrapa una pelota que rebota.",
+   "text_pt": "Pega uma bola que quica.",
+   "rate_by_age": {
+    "13": 0.02,
+    "27": 0.16,
+    "36": 0.41,
+    "37": 0.45,
+    "38": 0.5,
+    "39": 0.54,
+    "40": 0.58,
+    "41": 0.61,
+    "42": 0.65,
+    "43": 0.68,
+    "44": 0.67,
+    "45": 0.7,
+    "46": 0.71,
+    "47": 0.73,
+    "48": 0.72,
+    "15": 0.02,
+    "18": 0.04
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 673,
+   "area": "Social-Emotional",
+   "skill": "Self-Care and Autonomy",
+   "text_en": "Cuts food with a kid's knife with supervision.",
+   "text_es": "Corta comida con un cuchillo para niños bajo supervisión.",
+   "text_pt": "Corta comida com uma faca infantil sob supervisão.",
+   "rate_by_age": {
+    "42": 0.43,
+    "43": 0.46,
+    "44": 0.48,
+    "45": 0.5,
+    "46": 0.52,
+    "47": 0.53,
+    "48": 0.51,
+    "22": 0.04,
+    "23": 0.08,
+    "24": 0.07,
+    "25": 0.09,
+    "26": 0.1,
+    "27": 0.1,
+    "28": 0.13,
+    "29": 0.15,
+    "30": 0.15,
+    "31": 0.17,
+    "32": 0.19,
+    "33": 0.22,
+    "34": 0.24,
+    "35": 0.25,
+    "36": 0.29,
+    "37": 0.31,
+    "38": 0.37,
+    "39": 0.4,
+    "40": 0.41,
+    "41": 0.43
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 674,
+   "area": "Social-Emotional",
+   "skill": "Self-Care and Autonomy",
+   "text_en": "Pours water from a pitcher into a cup with both hands.",
+   "text_es": "Sirve agua de una jarra a una taza con ambas manos.",
+   "text_pt": "Serve água de uma jarra em um copo com as duas mãos.",
+   "rate_by_age": {
+    "26": 0.2,
+    "39": 0.61,
+    "40": 0.62,
+    "41": 0.64,
+    "42": 0.65,
+    "43": 0.64,
+    "44": 0.64,
+    "45": 0.71,
+    "46": 0.72,
+    "47": 0.74,
+    "48": 0.73,
+    "10": 0.01,
+    "18": 0.04,
+    "20": 0.06,
+    "21": 0.09
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 675,
+   "area": "Social-Emotional",
+   "skill": "Self-Care and Autonomy",
+   "text_en": "Feeds independently with a fork, using the whole hand.",
+   "text_es": "Come solo con un tenedor, usando toda la mano.",
+   "text_pt": "Come sem ajuda com um garfo, usando a mão inteira.",
+   "rate_by_age": {
+    "19": 0.59,
+    "20": 0.67,
+    "21": 0.77,
+    "23": 0.74,
+    "24": 0.79,
+    "26": 0.9,
+    "27": 0.9,
+    "28": 0.92,
+    "29": 0.94,
+    "31": 0.94,
+    "2": 0.05
+   },
+   "roles": [
+    "anchor",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 676,
+   "area": "Physical",
+   "skill": "Walking",
+   "text_en": "Walks up stairs without help or holding on.",
+   "text_es": "Sube escaleras sin ayuda y sin detenerse de nada.",
+   "text_pt": "Sobe escadas sem ajuda e sem se segurar em nada.",
+   "rate_by_age": {
+    "21": 0.12,
+    "41": 0.73
+   },
+   "roles": [
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 680,
+   "area": "Physical",
+   "skill": "Jumping and Skipping",
+   "text_en": "Jumps forward.",
+   "text_es": "Salta hacia adelante.",
+   "text_pt": "Pula para a frente.",
+   "rate_by_age": {
+    "20": 0.49,
+    "21": 0.58,
+    "22": 0.64,
+    "0": 0.53,
+    "7": 0.53
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 681,
+   "area": "Physical",
+   "skill": "Jumping and Skipping",
+   "text_en": "Jumps in place with both feet.",
+   "text_es": "Salta en su lugar con ambos pies.",
+   "text_pt": "Pula no mesmo lugar com os dois pés.",
+   "rate_by_age": {
+    "20": 0.65
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 682,
+   "area": "Physical",
+   "skill": "Jumping and Skipping",
+   "text_en": "Jumps backward.",
+   "text_es": "Salta hacia atrás.",
+   "text_pt": "Pula para trás.",
+   "rate_by_age": {
+    "35": 0.4,
+    "36": 0.41,
+    "37": 0.48,
+    "38": 0.5,
+    "39": 0.56,
+    "40": 0.59,
+    "41": 0.61,
+    "42": 0.64,
+    "43": 0.65,
+    "44": 0.61,
+    "45": 0.66,
+    "46": 0.71,
+    "47": 0.72,
+    "48": 0.72,
+    "15": 0.02,
+    "20": 0.05,
+    "22": 0.03,
+    "23": 0.03,
+    "24": 0.06,
+    "25": 0.16,
+    "28": 0.14,
+    "29": 0.17,
+    "30": 0.19,
+    "31": 0.24
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 683,
+   "area": "Physical",
+   "skill": "Balance",
+   "text_en": "Stands on one leg with some help.",
+   "text_es": "Se para en una pierna con un poco de ayuda.",
+   "text_pt": "Fica de pé em uma perna só com um pouco de ajuda.",
+   "rate_by_age": {
+    "13": 0.22,
+    "20": 0.53,
+    "21": 0.51,
+    "22": 0.58,
+    "23": 0.63,
+    "0": 0.22,
+    "7": 0.22
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 684,
+   "area": "Physical",
+   "skill": "Walking",
+   "text_en": "Takes steps using heel-to-toe motion.",
+   "text_es": "Da pasos apoyando el talón y luego la punta del pie.",
+   "text_pt": "Dá passos apoiando primeiro o calcanhar e depois a ponta do pé.",
+   "rate_by_age": {
+    "8": 0.06,
+    "31": 0.42,
+    "32": 0.48,
+    "33": 0.53,
+    "34": 0.57,
+    "36": 0.64,
+    "39": 0.71,
+    "40": 0.71,
+    "41": 0.67,
+    "42": 0.67,
+    "43": 0.67,
+    "44": 0.67,
+    "1": 0.06,
+    "5": 0.06,
+    "12": 0.03,
+    "17": 0.04
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 685,
+   "area": "Physical",
+   "skill": "Walking",
+   "text_en": "Walks backward.",
+   "text_es": "Camina hacia atrás.",
+   "text_pt": "Anda para trás.",
+   "rate_by_age": {
+    "17": 0.54,
+    "18": 0.63,
+    "19": 0.69
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 686,
+   "area": "Social-Emotional",
+   "skill": "Self-Care and Autonomy",
+   "text_en": "Drinks from a cup with one hand.",
+   "text_es": "Bebe de una taza con una mano.",
+   "text_pt": "Bebe em um copo com uma mão.",
+   "rate_by_age": {
+    "11": 0.05,
+    "12": 0.22,
+    "20": 0.38,
+    "21": 0.46,
+    "22": 0.54,
+    "23": 0.64,
+    "24": 0.66,
+    "25": 0.69,
+    "26": 0.75,
+    "30": 0.87,
+    "0": 0.05,
+    "7": 0.05
+   },
+   "roles": [
+    "anchor",
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 687,
+   "area": "Physical",
+   "skill": "Hand Coordination",
+   "text_en": "Stacks 9 or more blocks.",
+   "text_es": "Apila 9 o más bloques.",
+   "text_pt": "Empilha 9 ou mais blocos.",
+   "rate_by_age": {
+    "27": 0.45,
+    "28": 0.51,
+    "29": 0.57,
+    "30": 0.65,
+    "4": 0.15
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 688,
+   "area": "Language",
+   "skill": "Early Phonetics",
+   "text_en": "Says simple words with the letter N, like 'nap' or 'banana'.",
+   "text_es": "Dice palabras simples con la letra N, como 'no' o 'nena'.",
+   "text_pt": "Fala palavras simples com a letra N, como 'nariz' ou 'banana'.",
+   "rate_by_age": {
+    "7": 0.37,
+    "11": 0.37,
+    "12": 0.37
+   },
+   "roles": [
+    "calibration"
+   ]
+  },
+  {
+   "id": 689,
+   "area": "Language",
+   "skill": "Early Phonetics",
+   "text_en": "Says simple words with the letter D, like 'mad' or 'day'.",
+   "text_es": "Dice palabras simples con la letra D, como 'dedo' o 'día'.",
+   "text_pt": "Fala palavras simples com a letra D, como 'dedo' ou 'dia'.",
+   "rate_by_age": {
+    "35": 0.8
+   },
+   "roles": [
+    "anchor"
+   ]
+  },
+  {
+   "id": 690,
+   "area": "Language",
+   "skill": "Early Phonetics",
+   "text_en": "Says simple words with the letter K, like 'keys' or 'okay'.",
+   "text_es": "Dice palabras simples con la letra K, como 'kilo' o 'karate'.",
+   "text_pt": "Fala palavras simples com o som da letra K, como 'casa' ou 'boca'.",
+   "rate_by_age": {
+    "25": 0.59
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 691,
+   "area": "Language",
+   "skill": "Early Phonetics",
+   "text_en": "Says simple words with the letter G, like 'dog' or 'get'.",
+   "text_es": "Dice palabras simples con la letra G, como 'gato' o 'agua'.",
+   "text_pt": "Fala palavras simples com a letra G, como 'gato' ou 'água'.",
+   "rate_by_age": {
+    "25": 0.56,
+    "26": 0.6,
+    "27": 0.65
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 692,
+   "area": "Language",
+   "skill": "Early Phonetics",
+   "text_en": "Says simple words with the letter F (like 'fish' or 'if').",
+   "text_es": "Dice palabras simples con la letra F (como 'foca' o 'flor').",
+   "text_pt": "Fala palavras simples com a letra F (como 'foca' ou 'flor').",
+   "rate_by_age": {
+    "19": 0.14,
+    "28": 0.56,
+    "29": 0.59,
+    "30": 0.63,
+    "31": 0.63,
+    "32": 0.64,
+    "35": 0.66,
+    "36": 0.67,
+    "37": 0.72,
+    "38": 0.7,
+    "4": 0.04
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 693,
+   "area": "Language",
+   "skill": "Early Phonetics",
+   "text_en": "Says simple words with the letter Y, like 'yes' or 'year'.",
+   "text_es": "Dice palabras simples con la letra Y, como 'yo' o 'ya'.",
+   "text_pt": "Fala palavras simples com o som da letra I, como 'ioiô' ou 'maio'.",
+   "rate_by_age": {
+    "6": 0.15,
+    "24": 0.58
+   },
+   "roles": [
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 694,
+   "area": "Social-Emotional",
+   "skill": "Developing peer relationships",
+   "text_en": "Can say who their friends are among kids they know.",
+   "text_es": "Puede decir quiénes son sus amigos entre los niños que conoce.",
+   "text_pt": "Consegue dizer quem são os amigos entre as crianças que conhece.",
+   "rate_by_age": {
+    "21": 0.27,
+    "32": 0.62,
+    "33": 0.64,
+    "34": 0.68,
+    "35": 0.71,
+    "36": 0.72,
+    "37": 0.7,
+    "38": 0.77,
+    "39": 0.79,
+    "40": 0.81,
+    "41": 0.81,
+    "42": 0.83,
+    "45": 0.86
+   },
+   "roles": [
+    "anchor",
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 695,
+   "area": "Language",
+   "skill": "Basic Vocabulary",
+   "text_en": "Uses fingers to tell their age.",
+   "text_es": "Usa los dedos para decir su edad.",
+   "text_pt": "Usa os dedos para mostrar a idade.",
+   "rate_by_age": {
+    "26": 0.37,
+    "27": 0.43,
+    "28": 0.45,
+    "29": 0.49,
+    "30": 0.55,
+    "31": 0.57,
+    "32": 0.57,
+    "33": 0.57,
+    "34": 0.57,
+    "4": 0.03,
+    "8": 0.01,
+    "11": 0.03,
+    "12": 0.05,
+    "16": 0.09,
+    "17": 0.1,
+    "19": 0.14
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 696,
+   "area": "Language",
+   "skill": "Grammar",
+   "text_en": "Combines nouns and verbs, like 'mommy go'.",
+   "text_es": "Combina sustantivos y verbos, como 'mamá va'.",
+   "text_pt": "Combina substantivos e verbos, como 'mamãe vai'.",
+   "rate_by_age": {
+    "21": 0.88,
+    "22": 0.92
+   },
+   "roles": [
+    "anchor"
+   ]
+  },
+  {
+   "id": 698,
+   "area": "Language",
+   "skill": "Conversational Skills",
+   "text_en": "Talks about their day.",
+   "text_es": "Habla de su día.",
+   "text_pt": "Fala sobre o próprio dia.",
+   "rate_by_age": {
+    "33": 0.63,
+    "34": 0.62,
+    "35": 0.64,
+    "36": 0.64,
+    "37": 0.67,
+    "38": 0.69,
+    "39": 0.7,
+    "40": 0.74,
+    "41": 0.76,
+    "42": 0.77,
+    "43": 0.77
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 699,
+   "area": "Language",
+   "skill": "Conversational Skills",
+   "text_en": "Can have a chat using four sentences in a row.",
+   "text_es": "Puede platicar usando cuatro oraciones seguidas.",
+   "text_pt": "Consegue conversar usando quatro frases seguidas.",
+   "rate_by_age": {
+    "10": 0.1,
+    "31": 0.36,
+    "38": 0.49,
+    "39": 0.54,
+    "40": 0.59,
+    "41": 0.63,
+    "42": 0.67,
+    "43": 0.67,
+    "44": 0.7,
+    "45": 0.69,
+    "46": 0.7,
+    "47": 0.73,
+    "48": 0.68,
+    "15": 0.1,
+    "18": 0.1,
+    "20": 0.1,
+    "21": 0.1
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 700,
+   "area": "Language",
+   "skill": "Basic Vocabulary",
+   "text_en": "Responds to basic 'who?,' 'what?,' and 'where?' questions.",
+   "text_es": "Responde preguntas básicas de '¿quién?', '¿qué?' y '¿dónde?'.",
+   "text_pt": "Responde a perguntas básicas de 'quem?', 'o quê?' e 'onde?'.",
+   "rate_by_age": {
+    "23": 0.43,
+    "24": 0.48,
+    "25": 0.55,
+    "26": 0.6
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 701,
+   "area": "Language",
+   "skill": "Grammar",
+   "text_en": "Says words that rhyme, like cat-hat.",
+   "text_es": "Dice palabras que riman, como gato-pato.",
+   "text_pt": "Fala palavras que rimam, como pato-gato.",
+   "rate_by_age": {
+    "26": 0.13,
+    "28": 0.13,
+    "42": 0.43,
+    "43": 0.46,
+    "44": 0.52,
+    "45": 0.53,
+    "46": 0.55,
+    "47": 0.55,
+    "48": 0.53,
+    "22": 0.05,
+    "23": 0.07,
+    "24": 0.1,
+    "25": 0.11,
+    "27": 0.1,
+    "29": 0.19,
+    "30": 0.19,
+    "31": 0.21,
+    "32": 0.29,
+    "33": 0.26,
+    "34": 0.28,
+    "35": 0.31,
+    "36": 0.33,
+    "37": 0.33,
+    "38": 0.37,
+    "39": 0.4,
+    "40": 0.36,
+    "41": 0.41
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 702,
+   "area": "Language",
+   "skill": "First Words",
+   "text_en": "Names smaller body parts (e.g., elbow and eyebrows).",
+   "text_es": "Nombra partes del cuerpo más pequeñas (por ejemplo, el codo y las cejas).",
+   "text_pt": "Nomeia partes menores do corpo (por exemplo, o cotovelo e as sobrancelhas).",
+   "rate_by_age": {
+    "4": 0.05,
+    "13": 0.04,
+    "24": 0.41,
+    "25": 0.48,
+    "26": 0.52,
+    "27": 0.6,
+    "28": 0.6,
+    "29": 0.62,
+    "30": 0.66,
+    "31": 0.66,
+    "32": 0.67,
+    "14": 0.04
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 703,
+   "area": "Language",
+   "skill": "Basic Vocabulary",
+   "text_en": "Understands everyday actions, like play, run.",
+   "text_es": "Entiende acciones cotidianas, como jugar o correr.",
+   "text_pt": "Entende ações do dia a dia, como brincar e correr.",
+   "rate_by_age": {
+    "20": 0.61,
+    "25": 0.86,
+    "26": 0.87,
+    "27": 0.9,
+    "28": 0.9,
+    "29": 0.88,
+    "30": 0.89
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 704,
+   "area": "Language",
+   "skill": "Conversational Skills",
+   "text_en": "Names and describes their drawings.",
+   "text_es": "Nombra y describe sus dibujos.",
+   "text_pt": "Nomeia e descreve os próprios desenhos.",
+   "rate_by_age": {
+    "28": 0.57,
+    "29": 0.58,
+    "30": 0.58,
+    "31": 0.61,
+    "32": 0.56,
+    "33": 0.65,
+    "34": 0.64,
+    "35": 0.64,
+    "36": 0.64,
+    "37": 0.67,
+    "38": 0.7,
+    "1": 0.29,
+    "5": 0.29
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 705,
+   "area": "Cognitive",
+   "skill": "Concept learning and logical thinking",
+   "text_en": "Understands when something is long or short.",
+   "text_es": "Entiende cuándo algo es largo o corto.",
+   "text_pt": "Entende quando algo é comprido ou curto.",
+   "rate_by_age": {
+    "33": 0.43,
+    "34": 0.49,
+    "35": 0.55,
+    "36": 0.56,
+    "37": 0.58,
+    "38": 0.61,
+    "39": 0.62,
+    "40": 0.63,
+    "41": 0.64,
+    "42": 0.67,
+    "43": 0.67,
+    "44": 0.71,
+    "10": 0.05,
+    "11": 0.05,
+    "15": 0.05,
+    "16": 0.05,
+    "18": 0.05,
+    "19": 0.07,
+    "20": 0.06
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 706,
+   "area": "Physical",
+   "skill": "Jumping and Skipping",
+   "text_en": "Jumps ahead with both feet at once.",
+   "text_es": "Salta hacia adelante con ambos pies a la vez.",
+   "text_pt": "Pula para a frente com os dois pés ao mesmo tempo.",
+   "rate_by_age": {
+    "17": 0.17,
+    "25": 0.49,
+    "26": 0.44,
+    "27": 0.52,
+    "28": 0.6,
+    "29": 0.69,
+    "30": 0.72
+   },
+   "roles": [
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 707,
+   "area": "Cognitive",
+   "skill": "Imagining",
+   "text_en": "Has toys 'talk' during pretend play.",
+   "text_es": "Hace que sus juguetes 'hablen' durante el juego de imaginación.",
+   "text_pt": "Faz os brinquedos 'falarem' durante as brincadeiras de faz de conta.",
+   "rate_by_age": {
+    "15": 0.04,
+    "28": 0.41,
+    "29": 0.46,
+    "30": 0.54,
+    "31": 0.59,
+    "37": 0.79,
+    "38": 0.82
+   },
+   "roles": [
+    "anchor",
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 708,
+   "area": "Physical",
+   "skill": "Balance",
+   "text_en": "Stands on their tiptoes without help.",
+   "text_es": "Se para de puntitas sin ayuda.",
+   "text_pt": "Fica na ponta dos pés sem ajuda.",
+   "rate_by_age": {
+    "15": 0.59
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 709,
+   "area": "Physical",
+   "skill": "Walking",
+   "text_en": "Walks down the stairs unassisted, switching feet and using support.",
+   "text_es": "Baja las escaleras solo, alternando los pies y usando apoyo.",
+   "text_pt": "Desce escadas sem ajuda, alternando os pés e usando apoio.",
+   "rate_by_age": {
+    "23": 0.55,
+    "24": 0.6,
+    "25": 0.66
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 710,
+   "area": "Physical",
+   "skill": "Walking",
+   "text_en": "Walks down the stairs alone without holding on.",
+   "text_es": "Baja las escaleras solo, sin detenerse de nada.",
+   "text_pt": "Desce escadas sem ajuda e sem se segurar em nada.",
+   "rate_by_age": {
+    "27": 0.2,
+    "34": 0.51,
+    "35": 0.55,
+    "36": 0.57,
+    "37": 0.6,
+    "38": 0.65,
+    "39": 0.69,
+    "40": 0.67,
+    "41": 0.68,
+    "42": 0.68,
+    "43": 0.68,
+    "44": 0.68,
+    "45": 0.68,
+    "46": 0.68,
+    "47": 0.68,
+    "11": 0.01,
+    "16": 0.01,
+    "19": 0.03
+   },
+   "roles": [
+    "anchor",
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 711,
+   "area": "Physical",
+   "skill": "Running",
+   "text_en": "Knows how to stop when running.",
+   "text_es": "Sabe detenerse cuando corre.",
+   "text_pt": "Sabe parar quando está correndo.",
+   "rate_by_age": {
+    "20": 0.57,
+    "28": 0.93,
+    "29": 0.94,
+    "30": 0.95
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 712,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Tiptoes for five steps.",
+   "text_es": "Camina de puntitas por cinco pasos.",
+   "text_pt": "Anda na ponta dos pés por cinco passos.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 713,
+   "area": "Physical",
+   "skill": "Jumping and Skipping",
+   "text_en": "Jumps down from a height of about 18 inches.",
+   "text_es": "Salta desde una altura de unos 45 cm (18 pulgadas).",
+   "text_pt": "Pula de uma altura de cerca de 45 cm.",
+   "rate_by_age": {
+    "21": 0.08,
+    "29": 0.36,
+    "30": 0.43,
+    "31": 0.49,
+    "32": 0.58,
+    "34": 0.65,
+    "6": 0.07,
+    "13": 0.07
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 714,
+   "area": "Physical",
+   "skill": "Kicking",
+   "text_en": "Interacts with moving objects, (for example, kicks a ball that is moving).",
+   "text_es": "Interactúa con objetos en movimiento (por ejemplo, patea una pelota que se está moviendo).",
+   "text_pt": "Interage com objetos em movimento (por exemplo, chuta uma bola que está se movendo).",
+   "rate_by_age": {
+    "21": 0.48,
+    "22": 0.53,
+    "23": 0.58,
+    "24": 0.61,
+    "25": 0.67
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 715,
+   "area": "Physical",
+   "skill": "Jumping and Skipping",
+   "text_en": "Jumps down a small step.",
+   "text_es": "Salta desde un escalón pequeño.",
+   "text_pt": "Pula de um degrau pequeno.",
+   "rate_by_age": {
+    "21": 0.52,
+    "22": 0.56,
+    "23": 0.61,
+    "24": 0.62,
+    "25": 0.66,
+    "26": 0.67
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 716,
+   "area": "Physical",
+   "skill": "Throwing and Catching",
+   "text_en": "When throwing, uses the body to aim (shifts weight, moves arm).",
+   "text_es": "Al aventar, usa el cuerpo para apuntar (cambia el peso, mueve el brazo).",
+   "text_pt": "Ao lançar, usa o corpo para mirar (transfere o peso, movimenta o braço).",
+   "rate_by_age": {
+    "31": 0.49,
+    "32": 0.53,
+    "33": 0.55,
+    "34": 0.6,
+    "35": 0.64,
+    "36": 0.64,
+    "39": 0.71,
+    "40": 0.74,
+    "1": 0.02,
+    "5": 0.02,
+    "8": 0.02,
+    "17": 0.04
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 717,
+   "area": "Physical",
+   "skill": "Throwing and Catching",
+   "text_en": "Catches a big ball with their arms and stays steady.",
+   "text_es": "Atrapa una pelota grande con los brazos y se mantiene firme.",
+   "text_pt": "Pega uma bola grande com os braços e se mantém firme.",
+   "rate_by_age": {
+    "24": 0.46,
+    "25": 0.49,
+    "26": 0.54,
+    "27": 0.58,
+    "28": 0.65
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 718,
+   "area": "Physical",
+   "skill": "Throwing and Catching",
+   "text_en": "Catches a ball with just their hands in the air.",
+   "text_es": "Atrapa una pelota en el aire solo con las manos.",
+   "text_pt": "Pega uma bola no ar só com as mãos.",
+   "rate_by_age": {
+    "25": 0.07,
+    "29": 0.12,
+    "30": 0.14,
+    "42": 0.48,
+    "43": 0.51,
+    "44": 0.53,
+    "45": 0.56,
+    "46": 0.56,
+    "47": 0.6,
+    "48": 0.61,
+    "22": 0.04,
+    "23": 0.05,
+    "24": 0.06,
+    "26": 0.07,
+    "27": 0.09,
+    "28": 0.1,
+    "31": 0.19,
+    "32": 0.22,
+    "33": 0.21,
+    "34": 0.24,
+    "35": 0.26,
+    "36": 0.28,
+    "37": 0.32,
+    "38": 0.34,
+    "39": 0.36,
+    "40": 0.38,
+    "41": 0.46
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 721,
+   "area": "Physical",
+   "skill": "Running",
+   "text_en": "Arms move in the opposite direction of legs while running.",
+   "text_es": "Mueve los brazos en dirección opuesta a las piernas al correr.",
+   "text_pt": "Movimenta os braços na direção oposta à das pernas ao correr.",
+   "rate_by_age": {
+    "31": 0.58
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 723,
+   "area": "Physical",
+   "skill": "Running",
+   "text_en": "Runs with bent elbows.",
+   "text_es": "Corre con los codos doblados.",
+   "text_pt": "Corre com os cotovelos dobrados.",
+   "rate_by_age": {
+    "31": 0.52,
+    "32": 0.58,
+    "33": 0.61,
+    "34": 0.66
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 725,
+   "area": "Physical",
+   "skill": "Running",
+   "text_en": "Can make quick turns while running, without falling or stopping.",
+   "text_es": "Puede dar vueltas rápidas al correr, sin caerse ni detenerse.",
+   "text_pt": "Consegue fazer curvas rápidas ao correr, sem cair nem parar.",
+   "rate_by_age": {
+    "9": 0.01,
+    "31": 0.5,
+    "32": 0.56,
+    "33": 0.59,
+    "34": 0.64,
+    "6": 0.01,
+    "13": 0.03
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 726,
+   "area": "Physical",
+   "skill": "Running",
+   "text_en": "Runs with confidence on different surfaces, like concrete and grass.",
+   "text_es": "Corre con confianza en diferentes superficies, como concreto y pasto.",
+   "text_pt": "Corre com confiança em diferentes superfícies, como concreto e grama.",
+   "rate_by_age": {
+    "17": 0.47,
+    "18": 0.6,
+    "19": 0.71,
+    "24": 0.91,
+    "25": 0.94,
+    "26": 0.94,
+    "27": 0.95
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 727,
+   "area": "Physical",
+   "skill": "Running",
+   "text_en": "Runs with direction.",
+   "text_es": "Corre con dirección.",
+   "text_pt": "Corre com direção.",
+   "rate_by_age": {
+    "13": 0.57,
+    "15": 0.62,
+    "16": 0.69,
+    "21": 0.96,
+    "22": 0.96,
+    "23": 0.97
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 728,
+   "area": "Cognitive",
+   "skill": "Concept learning and logical thinking",
+   "text_en": "Understands the difference between 'heavy' and 'light'.",
+   "text_es": "Entiende la diferencia entre 'pesado' y 'ligero'.",
+   "text_pt": "Entende a diferença entre 'pesado' e 'leve'.",
+   "rate_by_age": {
+    "24": 0.47,
+    "25": 0.41,
+    "26": 0.4,
+    "27": 0.48,
+    "28": 0.57
+   },
+   "roles": [
+    "item"
+   ]
+  },
+  {
+   "id": 741,
+   "area": "Cognitive",
+   "skill": "Counting",
+   "text_en": "Counts from 1 to 30.",
+   "text_es": "Cuenta del 1 al 30.",
+   "text_pt": "Conta de 1 a 30.",
+   "rate_by_age": {
+    "27": 0.04,
+    "28": 0.05,
+    "42": 0.3,
+    "43": 0.31,
+    "44": 0.33,
+    "45": 0.35,
+    "46": 0.36,
+    "47": 0.47,
+    "48": 0.46,
+    "22": 0.03,
+    "23": 0.03,
+    "24": 0.04,
+    "25": 0.08,
+    "26": 0.12,
+    "29": 0.06,
+    "30": 0.08,
+    "31": 0.08,
+    "32": 0.1,
+    "33": 0.12,
+    "34": 0.12,
+    "35": 0.14,
+    "36": 0.15,
+    "37": 0.15,
+    "38": 0.18,
+    "39": 0.19,
+    "40": 0.21,
+    "41": 0.25
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 756,
+   "area": "Cognitive",
+   "skill": "Counting",
+   "text_en": "Holds up 5 fingers to mean 5.",
+   "text_es": "Levanta 5 dedos para indicar 5.",
+   "text_pt": "Levanta 5 dedos para indicar 5.",
+   "rate_by_age": {
+    "42": 0.69,
+    "43": 0.7,
+    "44": 0.69,
+    "45": 0.75,
+    "46": 0.75,
+    "47": 0.8,
+    "48": 0.84,
+    "32": 0.3
+   },
+   "roles": [
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 912,
+   "area": "Language",
+   "skill": "Conversational Skills",
+   "text_en": "Talks about news from newspapers, radio, TV, or other sources.",
+   "text_es": "Habla de noticias del periódico, la radio, la televisión u otras fuentes.",
+   "text_pt": "Fala sobre notícias de jornal, rádio, TV ou outras fontes.",
+   "rate_by_age": {
+    "10": 0.25,
+    "42": 0.37,
+    "43": 0.38,
+    "44": 0.45,
+    "45": 0.48,
+    "46": 0.52,
+    "47": 0.64,
+    "48": 0.64,
+    "22": 0.25,
+    "23": 0.25,
+    "24": 0.25,
+    "25": 0.25,
+    "26": 0.25,
+    "27": 0.25,
+    "28": 0.25,
+    "29": 0.25,
+    "30": 0.25,
+    "31": 0.25,
+    "32": 0.25,
+    "33": 0.25,
+    "34": 0.13,
+    "35": 0.2,
+    "36": 0.17,
+    "37": 0.16,
+    "38": 0.23,
+    "39": 0.25,
+    "40": 0.3,
+    "41": 0.35
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 915,
+   "area": "Language",
+   "skill": "Conversational Skills",
+   "text_en": "Gives instructions.",
+   "text_es": "Da instrucciones.",
+   "text_pt": "Dá instruções.",
+   "rate_by_age": {
+    "32": 0.47,
+    "33": 0.47,
+    "34": 0.31,
+    "35": 0.45,
+    "36": 0.39,
+    "42": 0.61,
+    "43": 0.66,
+    "44": 0.67,
+    "45": 0.7,
+    "46": 0.73,
+    "47": 0.81,
+    "48": 0.78,
+    "26": 0.47,
+    "28": 0.47
+   },
+   "roles": [
+    "calibration",
+    "extension",
+    "item"
+   ]
+  },
+  {
+   "id": 948,
+   "area": "Language",
+   "skill": "Phonetics",
+   "text_en": "Adapts speech tone for different situations (asks questions with rising tone, shows surprise).",
+   "text_es": "Adapta el tono de su voz a diferentes situaciones (hace preguntas con tono ascendente, muestra sorpresa).",
+   "text_pt": "Adapta o tom de voz a diferentes situações (faz perguntas com entonação ascendente, demonstra surpresa).",
+   "rate_by_age": {
+    "18": 0.69,
+    "32": 0.69,
+    "33": 0.69,
+    "34": 0.69,
+    "35": 0.69,
+    "36": 0.69,
+    "42": 0.73,
+    "43": 0.76,
+    "44": 0.74,
+    "45": 0.75,
+    "46": 0.8,
+    "47": 0.84,
+    "48": 0.83
+   },
+   "roles": [
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 1027,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Grasps and releases objects with precision to build structures with indoor (blocks) and outdoor materials (sticks, leaves).",
+   "text_es": "Agarra y suelta objetos con precisión para construir estructuras con materiales de interior (bloques) y de exterior (palitos, hojas).",
+   "text_pt": "Pega e solta objetos com precisão para construir estruturas com materiais de dentro de casa (blocos) e de fora (gravetos, folhas).",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  },
+  {
+   "id": 1127,
+   "area": "Social-Emotional",
+   "skill": "Self-awareness and Self-efficacy",
+   "text_en": "Identifies situations and activities they they enjoy.",
+   "text_es": "Identifica situaciones y actividades que disfruta.",
+   "text_pt": "Identifica situações e atividades de que gosta.",
+   "rate_by_age": {
+    "15": 0.39,
+    "30": 0.23,
+    "42": 0.7,
+    "43": 0.75,
+    "44": 0.72,
+    "45": 0.8,
+    "46": 0.77,
+    "47": 0.84,
+    "48": 0.83
+   },
+   "roles": [
+    "calibration",
+    "item"
+   ]
+  },
+  {
+   "id": 1147,
+   "area": "Social-Emotional",
+   "skill": "Developing empathy and cooperation",
+   "text_en": "Plays alongside another child but doesn't interact directly.",
+   "text_es": "Juega junto a otro niño, pero sin interactuar directamente.",
+   "text_pt": "Brinca ao lado de outra criança, mas sem interagir diretamente.",
+   "rate_by_age": {
+    "31": 0.67,
+    "32": 0.72,
+    "33": 0.76,
+    "35": 0.81,
+    "36": 0.81,
+    "37": 0.84,
+    "38": 0.86,
+    "39": 0.85,
+    "40": 0.87,
+    "41": 0.86,
+    "43": 0.89,
+    "44": 0.89
+   },
+   "roles": [
+    "anchor",
+    "item"
+   ]
+  },
+  {
+   "id": 1152,
+   "area": "Physical",
+   "skill": null,
+   "text_en": "Rolls from back to belly.",
+   "text_es": "Se voltea de boca arriba a boca abajo.",
+   "text_pt": "Vira de barriga para cima para barriga para baixo.",
+   "rate_by_age": {},
+   "roles": [
+    "report_only"
+   ]
+  }
+ ]
+}

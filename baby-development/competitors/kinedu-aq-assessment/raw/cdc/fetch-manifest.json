@@ -1,0 +1,210 @@
+[
+  {
+    "requested_url": "https://www.cdc.gov/ncbddd/actearly/milestones/index.html",
+    "effective_url": "https://www.cdc.gov/ncbddd/actearly/milestones/index.html",
+    "http_status": 404,
+    "retrieved_date": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "body_file": "raw/cdc/index.html",
+    "headers_file": "raw/cdc/index.headers.txt",
+    "body_sha256": "a6b66cdebef567c41fa89c8ee3a601dac20060d81d83738b60efcd680b7ecb93"
+  },
+  {
+    "requested_url": "https://www.cdc.gov/act-early/milestones/index.html",
+    "effective_url": "https://www.cdc.gov/act-early/milestones/index.html",
+    "http_status": 200,
+    "retrieved_date": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "body_file": "raw/cdc/current-index.html",
+    "headers_file": "raw/cdc/current-index.headers.txt",
+    "body_sha256": "2c354505788a57a6c2f7c7cca2b968849692d2f0d81be4c1208161bebaffaf4f"
+  },
+  {
+    "requested_url": "https://www.cdc.gov/ncbddd/actearly/milestones/milestones-2mo.html",
+    "effective_url": "https://www.cdc.gov/act-early/milestones/2-months.html",
+    "http_status": 200,
+    "retrieved_date": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "body_file": "raw/cdc/legacy-2mo.html",
+    "headers_file": "raw/cdc/legacy-2mo.headers.txt",
+    "body_sha256": "9f4e3c9c92933e30ad92d4e8cffa7bc200c08f23995375e6d313d7e86f93a1d7"
+  },
+  {
+    "requested_url": "https://www.cdc.gov/ncbddd/actearly/milestones/milestones-4mo.html",
+    "effective_url": "https://www.cdc.gov/act-early/milestones/4-months.html",
+    "http_status": 200,
+    "retrieved_date": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "body_file": "raw/cdc/legacy-4mo.html",
+    "headers_file": "raw/cdc/legacy-4mo.headers.txt",
+    "body_sha256": "2ae98ca5ec775d63411b2db1b81fe2084875d8b547b71d8294e048f5485a3ae8"
+  },
+  {
+    "requested_url": "https://www.cdc.gov/ncbddd/actearly/milestones/milestones-6mo.html",
+    "effective_url": "https://www.cdc.gov/act-early/milestones/6-months.html",
+    "http_status": 200,
+    "retrieved_date": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "body_file": "raw/cdc/legacy-6mo.html",
+    "headers_file": "raw/cdc/legacy-6mo.headers.txt",
+    "body_sha256": "ffd072760636c9d5a6a335ed4ad8a77c3c196a91a4e495086169863058b11862"
+  },
+  {
+    "requested_url": "https://www.cdc.gov/ncbddd/actearly/milestones/milestones-9mo.html",
+    "effective_url": "https://www.cdc.gov/act-early/milestones/9-months.html",
+    "http_status": 200,
+    "retrieved_date": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "body_file": "raw/cdc/legacy-9mo.html",
+    "headers_file": "raw/cdc/legacy-9mo.headers.txt",
+    "body_sha256": "e5d3e3f38354082ce858c17992bb9f646657761a525b49d5587602a321c52dc8"
+  },
+  {
+    "requested_url": "https://www.cdc.gov/ncbddd/actearly/milestones/milestones-1yr.html",
+    "effective_url": "https://www.cdc.gov/act-early/milestones/1-year.html",
+    "http_status": 200,
+    "retrieved_date": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "body_file": "raw/cdc/legacy-1yr.html",
+    "headers_file": "raw/cdc/legacy-1yr.headers.txt",
+    "body_sha256": "105b1ab190fa30a7ad324e619ae30dcddafad79acc361f238070a35c719876c4"
+  },
+  {
+    "requested_url": "https://www.cdc.gov/ncbddd/actearly/milestones/milestones-15mo.html",
+    "effective_url": "https://www.cdc.gov/ncbddd/actearly/milestones/milestones-15mo.html",
+    "http_status": 404,
+    "retrieved_date": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "body_file": "raw/cdc/legacy-15mo.html",
+    "headers_file": "raw/cdc/legacy-15mo.headers.txt",
+    "body_sha256": "a6b66cdebef567c41fa89c8ee3a601dac20060d81d83738b60efcd680b7ecb93"
+  },
+  {
+    "requested_url": "https://www.cdc.gov/ncbddd/actearly/milestones/milestones-18mo.html",
+    "effective_url": "https://www.cdc.gov/act-early/milestones/18-months.html",
+    "http_status": 200,
+    "retrieved_date": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "body_file": "raw/cdc/legacy-18mo.html",
+    "headers_file": "raw/cdc/legacy-18mo.headers.txt",
+    "body_sha256": "329e2f5be543142c6100093aca23d8b6fbae4c60c14b355dc99e3a1e1d7b765f"
+  },
+  {
+    "requested_url": "https://www.cdc.gov/ncbddd/actearly/milestones/milestones-2yr.html",
+    "effective_url": "https://www.cdc.gov/act-early/milestones/2-years.html",
+    "http_status": 200,
+    "retrieved_date": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "body_file": "raw/cdc/legacy-2yr.html",
+    "headers_file": "raw/cdc/legacy-2yr.headers.txt",
+    "body_sha256": "13870544d7bcab3e6c95de133672338c8dd5d615a739af7dc199239f4c1a2142"
+  },
+  {
+    "requested_url": "https://www.cdc.gov/ncbddd/actearly/milestones/milestones-30mo.html",
+    "effective_url": "https://www.cdc.gov/act-early/milestones/30-months.html",
+    "http_status": 200,
+    "retrieved_date": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "body_file": "raw/cdc/legacy-30mo.html",
+    "headers_file": "raw/cdc/legacy-30mo.headers.txt",
+    "body_sha256": "20aeff2d3ff1a8973c2d60dec77db57ba64819beeba543f80009e3fc1fbf9e11"
+  },
+  {
+    "requested_url": "https://www.cdc.gov/ncbddd/actearly/milestones/milestones-3yr.html",
+    "effective_url": "https://www.cdc.gov/act-early/milestones/3-years.html",
+    "http_status": 200,
+    "retrieved_date": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "body_file": "raw/cdc/legacy-3yr.html",
+    "headers_file": "raw/cdc/legacy-3yr.headers.txt",
+    "body_sha256": "1f7fa67132e3d4f6f64586424166631f3871f2620e43a2d2aad74a629fbcd4a6"
+  },
+  {
+    "requested_url": "https://www.cdc.gov/ncbddd/actearly/milestones/milestones-4yr.html",
+    "effective_url": "https://www.cdc.gov/act-early/milestones/4-years.html",
+    "http_status": 200,
+    "retrieved_date": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "body_file": "raw/cdc/legacy-4yr.html",
+    "headers_file": "raw/cdc/legacy-4yr.headers.txt",
+    "body_sha256": "2a8804700ff5778ed41f2db794faf5c167a8074eb6c032135011c2715dfd266b"
+  },
+  {
+    "requested_url": "https://www.cdc.gov/act-early/milestones/15-months.html",
+    "effective_url": "https://www.cdc.gov/act-early/milestones/15-months.html",
+    "http_status": 200,
+    "retrieved_date": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "body_file": "raw/cdc/15mo.html",
+    "headers_file": "raw/cdc/15mo.headers.txt",
+    "body_sha256": "34bf6605f60761bdd00edddf39443ff6ff730c5e47932a8e5b040b7c8569e935"
+  },
+  {
+    "requested_url": "https://www.cdc.gov/act-early/milestones/index.html",
+    "effective_url": "https://www.cdc.gov/act-early/milestones/index.html",
+    "http_status": 200,
+    "retrieved_date": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "body_file": "raw/cdc/methodology-index.html",
+    "headers_file": "raw/cdc/methodology-index.headers",
+    "body_sha256": "2c354505788a57a6c2f7c7cca2b968849692d2f0d81be4c1208161bebaffaf4f"
+  },
+  {
+    "requested_url": "https://www.cdc.gov/act-early/about/index.html",
+    "effective_url": "https://www.cdc.gov/act-early/about/index.html",
+    "http_status": 200,
+    "retrieved_date": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "body_file": "raw/cdc/methodology-about.html",
+    "headers_file": "raw/cdc/methodology-about.headers",
+    "body_sha256": "ad8961cff8025b8e2bc4c3f7ce5c53162717c12255095aa0a85f228eec799e1d"
+  },
+  {
+    "requested_url": "https://www.cdc.gov/act-early/about/developmental-monitoring-and-screening.html",
+    "effective_url": "https://www.cdc.gov/act-early/about/developmental-monitoring-and-screening.html",
+    "http_status": 200,
+    "retrieved_date": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "body_file": "raw/cdc/methodology-screening.html",
+    "headers_file": "raw/cdc/methodology-screening.headers",
+    "body_sha256": "d50173452259005e4d61f363936db14affd1db039e47f98057fadf7c5f651835"
+  },
+  {
+    "requested_url": "https://www.cdc.gov/act-early/milestones/key-points.html",
+    "effective_url": "https://www.cdc.gov/act-early/milestones/key-points.html",
+    "http_status": 200,
+    "retrieved_date": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "body_file": "raw/cdc/methodology-key-points.html",
+    "headers_file": "raw/cdc/methodology-key-points.headers",
+    "body_sha256": "5b0d28ff0b8ca998dfc47b09c8a90e35fed6dbdb0ce89afd7292390f5878f009"
+  },
+  {
+    "requested_url": "https://pubmed.ncbi.nlm.nih.gov/35132439/",
+    "http_status": 0,
+    "body_file": null,
+    "note": "SOCKS proxy closed connection; curl exit 97",
+    "transport": "scripts/proxy_curl.sh",
+    "retrieved_date": "2026-11-03"
+  },
+  {
+    "requested_url": "https://publications.aap.org/pediatrics/article/149/3/e2021052138/184748/Evidence-Informed-Milestones-for-Developmental",
+    "effective_url": "https://publications.aap.org/pediatrics/article/149/3/e2021052138/184748/Evidence-Informed-Milestones-for-Developmental",
+    "http_status": 403,
+    "retrieved_date": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "body_file": "raw/cdc/methodology-aap-study.html",
+    "headers_file": "raw/cdc/methodology-aap-study.headers",
+    "body_sha256": "461de508d7211191f344619115aa8bb64db173ea3486c8afa11dfc2929e21c95"
+  },
+  {
+    "requested_url": "https://stacks.cdc.gov/view/cdc/114810",
+    "effective_url": "https://stacks.cdc.gov/view/cdc/114810",
+    "http_status": 404,
+    "retrieved_date": "2026-11-03",
+    "transport": "scripts/proxy_curl.sh",
+    "body_file": "raw/cdc/methodology-stacks-study.html",
+    "headers_file": "raw/cdc/methodology-stacks-study.headers",
+    "body_sha256": "37487944788b53f7520c145ef40582cc73b84a694968c88b5489484eea069db8"
+  }
+]

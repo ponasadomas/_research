@@ -1,0 +1,1731 @@
+[
+  {
+    "run": "A",
+    "reqid": 53,
+    "method": "GET",
+    "listed_url": "https://www.facebook.com/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source... <truncated>",
+    "status": "200",
+    "url": "https://www.facebook.com/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&rl=&if=false&ts=1793637908294&iw=false&sw=390&sh=844&v=2.9.433&r=stable&ec=0&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&cs_est=true&ler=empty&cdl=API_unavailable&plt=64.59999990463257&tz=120&it=1793637908279&coo=false&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv1&expv2[51]=oq0&rqm=GET",
+    "metadata_file": "raw/browser/A-53.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://webpromo.kinedu.com/\n- :authority:www.facebook.com\n- :method:GET\n- :path:/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&rl=&if=false&ts=1793637908294&iw=false&sw=390&sh=844&v=2.9.433&r=stable&ec=0&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&cs_est=true&ler=empty&cdl=API_unavailable&plt=64.59999990463257&tz=120&it=1793637908279&coo=false&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv1&expv2[51]=oq0&rqm=GET\n- :scheme:https\n- accept:image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- cookie:datr=-ptbaj6fxu4hWou6V3jGNsm2; sb=wQ53ao9xysKFy-7EObZvB4X5\n- priority:u=1, i\n- sec-fetch-dest:image\n- sec-fetch-mode:no-cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "www.facebook.com",
+    "path": "/tr/",
+    "query": {
+      "id": [
+        "2089634224620932"
+      ],
+      "ev": [
+        "PageView"
+      ],
+      "dl": [
+        "https://webpromo.kinedu.com/aq-assessment?vid=c1991816-d75d-4e46-a05d-cc40924c2ea8&paywall=trial3&offer=p79-t7&newusers=1&placement=assessment-landing&utm_source=assessment-landing&utm_medium=partner&ui=classic&capture=0"
+      ],
+      "rl": [
+        ""
+      ],
+      "if": [
+        "false"
+      ],
+      "ts": [
+        "1793637908294"
+      ],
+      "iw": [
+        "false"
+      ],
+      "sw": [
+        "390"
+      ],
+      "sh": [
+        "844"
+      ],
+      "v": [
+        "2.9.433"
+      ],
+      "r": [
+        "stable"
+      ],
+      "ec": [
+        "0"
+      ],
+      "o": [
+        "20509"
+      ],
+      "aems": [
+        "0;0"
+      ],
+      "fbp": [
+        "fb.1.1793637782396.52484787607683365"
+      ],
+      "cs_est": [
+        "true"
+      ],
+      "ler": [
+        "empty"
+      ],
+      "cdl": [
+        "API_unavailable"
+      ],
+      "plt": [
+        "64.59999990463257"
+      ],
+      "tz": [
+        "120"
+      ],
+      "it": [
+        "1793637908279"
+      ],
+      "coo": [
+        "false"
+      ],
+      "expv2[0]": [
+        "pl0"
+      ],
+      "expv2[1]": [
+        "el3"
+      ],
+      "expv2[2]": [
+        "bc1"
+      ],
+      "expv2[3]": [
+        "ra0"
+      ],
+      "expv2[4]": [
+        "rp0"
+      ],
+      "expv2[5]": [
+        "im1"
+      ],
+      "expv2[6]": [
+        "hf1"
+      ],
+      "expv2[7]": [
+        "sd1"
+      ],
+      "expv2[8]": [
+        "sp1"
+      ],
+      "expv2[9]": [
+        "ek1"
+      ],
+      "expv2[10]": [
+        "pc1"
+      ],
+      "expv2[11]": [
+        "gs1"
+      ],
+      "expv2[12]": [
+        "zs1"
+      ],
+      "expv2[13]": [
+        "cp1"
+      ],
+      "expv2[14]": [
+        "es1"
+      ],
+      "expv2[15]": [
+        "ac1"
+      ],
+      "expv2[16]": [
+        "so1"
+      ],
+      "expv2[17]": [
+        "wc1"
+      ],
+      "expv2[18]": [
+        "la1"
+      ],
+      "expv2[19]": [
+        "sf1"
+      ],
+      "expv2[20]": [
+        "da1"
+      ],
+      "expv2[21]": [
+        "io1"
+      ],
+      "expv2[22]": [
+        "ae1"
+      ],
+      "expv2[23]": [
+        "sx1"
+      ],
+      "expv2[24]": [
+        "if1"
+      ],
+      "expv2[25]": [
+        "fd1"
+      ],
+      "expv2[26]": [
+        "bg1"
+      ],
+      "expv2[27]": [
+        "mg1"
+      ],
+      "expv2[28]": [
+        "kl1"
+      ],
+      "expv2[29]": [
+        "sg1"
+      ],
+      "expv2[30]": [
+        "mk1"
+      ],
+      "expv2[31]": [
+        "sn1"
+      ],
+      "expv2[32]": [
+        "ec1"
+      ],
+      "expv2[33]": [
+        "mp1"
+      ],
+      "expv2[34]": [
+        "ps1"
+      ],
+      "expv2[35]": [
+        "fx1"
+      ],
+      "expv2[36]": [
+        "vt1"
+      ],
+      "expv2[37]": [
+        "dp1"
+      ],
+      "expv2[38]": [
+        "fw1"
+      ],
+      "expv2[39]": [
+        "cn1"
+      ],
+      "expv2[40]": [
+        "tz1"
+      ],
+      "expv2[41]": [
+        "pe1"
+      ],
+      "expv2[42]": [
+        "ee1"
+      ],
+      "expv2[43]": [
+        "bu1"
+      ],
+      "expv2[44]": [
+        "ta1"
+      ],
+      "expv2[45]": [
+        "ot1"
+      ],
+      "expv2[46]": [
+        "hv1"
+      ],
+      "expv2[47]": [
+        "ep1"
+      ],
+      "expv2[48]": [
+        "rh0"
+      ],
+      "expv2[49]": [
+        "ah0"
+      ],
+      "expv2[50]": [
+        "nv1"
+      ],
+      "expv2[51]": [
+        "oq0"
+      ],
+      "rqm": [
+        "GET"
+      ]
+    },
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "assessment"
+  },
+  {
+    "run": "A",
+    "reqid": 85,
+    "method": "GET",
+    "listed_url": "https://www.facebook.com/tr/?id=2089634224620932&ev=ViewContent&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_sou... <truncated>",
+    "status": "200",
+    "url": "https://www.facebook.com/tr/?id=2089634224620932&ev=ViewContent&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&rl=&if=false&ts=1793638074164&iw=false&cd[content_category]=acquisition&cd[content_name]=assessment-classic&sw=390&sh=844&v=2.9.433&r=stable&ec=1&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&ler=empty&cdl=API_unavailable&plt=64.59999990463257&tz=120&it=1793637908279&coo=false&eid=83a681ea-5324-42a6-bdc5-189b3db2168c&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=mt0&expv2[46]=ot1&expv2[47]=hv1&expv2[48]=ep1&expv2[49]=rh0&expv2[50]=ah0&expv2[51]=nv1&expv2[52]=oq0&rqm=GET",
+    "metadata_file": "raw/browser/A-85.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://webpromo.kinedu.com/\n- :authority:www.facebook.com\n- :method:GET\n- :path:/tr/?id=2089634224620932&ev=ViewContent&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&rl=&if=false&ts=1793638074164&iw=false&cd[content_category]=acquisition&cd[content_name]=assessment-classic&sw=390&sh=844&v=2.9.433&r=stable&ec=1&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&ler=empty&cdl=API_unavailable&plt=64.59999990463257&tz=120&it=1793637908279&coo=false&eid=83a681ea-5324-42a6-bdc5-189b3db2168c&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=mt0&expv2[46]=ot1&expv2[47]=hv1&expv2[48]=ep1&expv2[49]=rh0&expv2[50]=ah0&expv2[51]=nv1&expv2[52]=oq0&rqm=GET\n- :scheme:https\n- accept:image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- cookie:datr=-ptbaj6fxu4hWou6V3jGNsm2; sb=wQ53ao9xysKFy-7EObZvB4X5\n- priority:u=1, i\n- sec-fetch-dest:image\n- sec-fetch-mode:no-cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "www.facebook.com",
+    "path": "/tr/",
+    "query": {
+      "id": [
+        "2089634224620932"
+      ],
+      "ev": [
+        "ViewContent"
+      ],
+      "dl": [
+        "https://webpromo.kinedu.com/aq-assessment?vid=c1991816-d75d-4e46-a05d-cc40924c2ea8&paywall=trial3&offer=p79-t7&newusers=1&placement=assessment-landing&utm_source=assessment-landing&utm_medium=partner&ui=classic&capture=0"
+      ],
+      "rl": [
+        ""
+      ],
+      "if": [
+        "false"
+      ],
+      "ts": [
+        "1793638074164"
+      ],
+      "iw": [
+        "false"
+      ],
+      "cd[content_category]": [
+        "acquisition"
+      ],
+      "cd[content_name]": [
+        "assessment-classic"
+      ],
+      "sw": [
+        "390"
+      ],
+      "sh": [
+        "844"
+      ],
+      "v": [
+        "2.9.433"
+      ],
+      "r": [
+        "stable"
+      ],
+      "ec": [
+        "1"
+      ],
+      "o": [
+        "20509"
+      ],
+      "aems": [
+        "0;0"
+      ],
+      "fbp": [
+        "fb.1.1793637782396.52484787607683365"
+      ],
+      "ler": [
+        "empty"
+      ],
+      "cdl": [
+        "API_unavailable"
+      ],
+      "plt": [
+        "64.59999990463257"
+      ],
+      "tz": [
+        "120"
+      ],
+      "it": [
+        "1793637908279"
+      ],
+      "coo": [
+        "false"
+      ],
+      "eid": [
+        "83a681ea-5324-42a6-bdc5-189b3db2168c"
+      ],
+      "expv2[0]": [
+        "pl0"
+      ],
+      "expv2[1]": [
+        "el3"
+      ],
+      "expv2[2]": [
+        "bc1"
+      ],
+      "expv2[3]": [
+        "ra0"
+      ],
+      "expv2[4]": [
+        "rp0"
+      ],
+      "expv2[5]": [
+        "im1"
+      ],
+      "expv2[6]": [
+        "hf1"
+      ],
+      "expv2[7]": [
+        "sd1"
+      ],
+      "expv2[8]": [
+        "sp1"
+      ],
+      "expv2[9]": [
+        "ek1"
+      ],
+      "expv2[10]": [
+        "pc1"
+      ],
+      "expv2[11]": [
+        "gs1"
+      ],
+      "expv2[12]": [
+        "zs1"
+      ],
+      "expv2[13]": [
+        "cp1"
+      ],
+      "expv2[14]": [
+        "es1"
+      ],
+      "expv2[15]": [
+        "ac1"
+      ],
+      "expv2[16]": [
+        "so1"
+      ],
+      "expv2[17]": [
+        "wc1"
+      ],
+      "expv2[18]": [
+        "la1"
+      ],
+      "expv2[19]": [
+        "sf1"
+      ],
+      "expv2[20]": [
+        "da1"
+      ],
+      "expv2[21]": [
+        "io1"
+      ],
+      "expv2[22]": [
+        "ae1"
+      ],
+      "expv2[23]": [
+        "sx1"
+      ],
+      "expv2[24]": [
+        "if1"
+      ],
+      "expv2[25]": [
+        "fd1"
+      ],
+      "expv2[26]": [
+        "bg1"
+      ],
+      "expv2[27]": [
+        "mg1"
+      ],
+      "expv2[28]": [
+        "kl1"
+      ],
+      "expv2[29]": [
+        "sg1"
+      ],
+      "expv2[30]": [
+        "mk1"
+      ],
+      "expv2[31]": [
+        "sn1"
+      ],
+      "expv2[32]": [
+        "ec1"
+      ],
+      "expv2[33]": [
+        "mp1"
+      ],
+      "expv2[34]": [
+        "ps1"
+      ],
+      "expv2[35]": [
+        "fx1"
+      ],
+      "expv2[36]": [
+        "vt1"
+      ],
+      "expv2[37]": [
+        "dp1"
+      ],
+      "expv2[38]": [
+        "fw1"
+      ],
+      "expv2[39]": [
+        "cn1"
+      ],
+      "expv2[40]": [
+        "tz1"
+      ],
+      "expv2[41]": [
+        "pe1"
+      ],
+      "expv2[42]": [
+        "ee1"
+      ],
+      "expv2[43]": [
+        "bu1"
+      ],
+      "expv2[44]": [
+        "ta1"
+      ],
+      "expv2[45]": [
+        "mt0"
+      ],
+      "expv2[46]": [
+        "ot1"
+      ],
+      "expv2[47]": [
+        "hv1"
+      ],
+      "expv2[48]": [
+        "ep1"
+      ],
+      "expv2[49]": [
+        "rh0"
+      ],
+      "expv2[50]": [
+        "ah0"
+      ],
+      "expv2[51]": [
+        "nv1"
+      ],
+      "expv2[52]": [
+        "oq0"
+      ],
+      "rqm": [
+        "GET"
+      ]
+    },
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "assessment"
+  },
+  {
+    "run": "A",
+    "reqid": 89,
+    "method": "GET",
+    "listed_url": "https://www.facebook.com/tr/?id=2089634224620932&ev=InitiateCheckout&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26ut... <truncated>",
+    "status": "200",
+    "url": "https://www.facebook.com/tr/?id=2089634224620932&ev=InitiateCheckout&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&rl=&if=false&ts=1793638127572&iw=false&cd[content_category]=acquisition&cd[content_name]=assessment-classic&sw=390&sh=844&v=2.9.433&r=stable&ec=2&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&ler=empty&cdl=API_unavailable&plt=64.59999990463257&tz=120&it=1793637908279&coo=false&eid=b59034b2-1743-4305-98b6-6262b47ae023&expv2[0]=pl0&expv2[1]=el2&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv1&expv2[51]=oq0&rqm=GET",
+    "metadata_file": "raw/browser/A-89.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://webpromo.kinedu.com/\n- :authority:www.facebook.com\n- :method:GET\n- :path:/tr/?id=2089634224620932&ev=InitiateCheckout&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&rl=&if=false&ts=1793638127572&iw=false&cd[content_category]=acquisition&cd[content_name]=assessment-classic&sw=390&sh=844&v=2.9.433&r=stable&ec=2&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&ler=empty&cdl=API_unavailable&plt=64.59999990463257&tz=120&it=1793637908279&coo=false&eid=b59034b2-1743-4305-98b6-6262b47ae023&expv2[0]=pl0&expv2[1]=el2&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv1&expv2[51]=oq0&rqm=GET\n- :scheme:https\n- accept:image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- cookie:datr=-ptbaj6fxu4hWou6V3jGNsm2; sb=wQ53ao9xysKFy-7EObZvB4X5\n- priority:u=1, i\n- sec-fetch-dest:image\n- sec-fetch-mode:no-cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "www.facebook.com",
+    "path": "/tr/",
+    "query": {
+      "id": [
+        "2089634224620932"
+      ],
+      "ev": [
+        "InitiateCheckout"
+      ],
+      "dl": [
+        "https://webpromo.kinedu.com/aq-assessment?vid=c1991816-d75d-4e46-a05d-cc40924c2ea8&paywall=trial3&offer=p79-t7&newusers=1&placement=assessment-landing&utm_source=assessment-landing&utm_medium=partner&ui=classic&capture=0"
+      ],
+      "rl": [
+        ""
+      ],
+      "if": [
+        "false"
+      ],
+      "ts": [
+        "1793638127572"
+      ],
+      "iw": [
+        "false"
+      ],
+      "cd[content_category]": [
+        "acquisition"
+      ],
+      "cd[content_name]": [
+        "assessment-classic"
+      ],
+      "sw": [
+        "390"
+      ],
+      "sh": [
+        "844"
+      ],
+      "v": [
+        "2.9.433"
+      ],
+      "r": [
+        "stable"
+      ],
+      "ec": [
+        "2"
+      ],
+      "o": [
+        "20509"
+      ],
+      "aems": [
+        "0;0"
+      ],
+      "fbp": [
+        "fb.1.1793637782396.52484787607683365"
+      ],
+      "ler": [
+        "empty"
+      ],
+      "cdl": [
+        "API_unavailable"
+      ],
+      "plt": [
+        "64.59999990463257"
+      ],
+      "tz": [
+        "120"
+      ],
+      "it": [
+        "1793637908279"
+      ],
+      "coo": [
+        "false"
+      ],
+      "eid": [
+        "b59034b2-1743-4305-98b6-6262b47ae023"
+      ],
+      "expv2[0]": [
+        "pl0"
+      ],
+      "expv2[1]": [
+        "el2"
+      ],
+      "expv2[2]": [
+        "bc1"
+      ],
+      "expv2[3]": [
+        "ra0"
+      ],
+      "expv2[4]": [
+        "rp0"
+      ],
+      "expv2[5]": [
+        "im1"
+      ],
+      "expv2[6]": [
+        "hf1"
+      ],
+      "expv2[7]": [
+        "sd1"
+      ],
+      "expv2[8]": [
+        "sp1"
+      ],
+      "expv2[9]": [
+        "ek1"
+      ],
+      "expv2[10]": [
+        "pc1"
+      ],
+      "expv2[11]": [
+        "gs1"
+      ],
+      "expv2[12]": [
+        "zs1"
+      ],
+      "expv2[13]": [
+        "cp1"
+      ],
+      "expv2[14]": [
+        "es1"
+      ],
+      "expv2[15]": [
+        "ac1"
+      ],
+      "expv2[16]": [
+        "so1"
+      ],
+      "expv2[17]": [
+        "wc1"
+      ],
+      "expv2[18]": [
+        "la1"
+      ],
+      "expv2[19]": [
+        "sf1"
+      ],
+      "expv2[20]": [
+        "da1"
+      ],
+      "expv2[21]": [
+        "io1"
+      ],
+      "expv2[22]": [
+        "ae1"
+      ],
+      "expv2[23]": [
+        "sx1"
+      ],
+      "expv2[24]": [
+        "if1"
+      ],
+      "expv2[25]": [
+        "fd1"
+      ],
+      "expv2[26]": [
+        "bg1"
+      ],
+      "expv2[27]": [
+        "mg1"
+      ],
+      "expv2[28]": [
+        "kl1"
+      ],
+      "expv2[29]": [
+        "sg1"
+      ],
+      "expv2[30]": [
+        "mk1"
+      ],
+      "expv2[31]": [
+        "sn1"
+      ],
+      "expv2[32]": [
+        "ec1"
+      ],
+      "expv2[33]": [
+        "mp1"
+      ],
+      "expv2[34]": [
+        "ps1"
+      ],
+      "expv2[35]": [
+        "fx1"
+      ],
+      "expv2[36]": [
+        "vt1"
+      ],
+      "expv2[37]": [
+        "dp1"
+      ],
+      "expv2[38]": [
+        "fw1"
+      ],
+      "expv2[39]": [
+        "cn1"
+      ],
+      "expv2[40]": [
+        "tz1"
+      ],
+      "expv2[41]": [
+        "pe1"
+      ],
+      "expv2[42]": [
+        "ee1"
+      ],
+      "expv2[43]": [
+        "bu1"
+      ],
+      "expv2[44]": [
+        "ta1"
+      ],
+      "expv2[45]": [
+        "ot1"
+      ],
+      "expv2[46]": [
+        "hv1"
+      ],
+      "expv2[47]": [
+        "ep1"
+      ],
+      "expv2[48]": [
+        "rh0"
+      ],
+      "expv2[49]": [
+        "ah0"
+      ],
+      "expv2[50]": [
+        "nv1"
+      ],
+      "expv2[51]": [
+        "oq0"
+      ],
+      "rqm": [
+        "GET"
+      ]
+    },
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "paywall"
+  },
+  {
+    "run": "A",
+    "reqid": 99,
+    "method": "GET",
+    "listed_url": "https://www.facebook.com/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-paywall-trial3%2Findex.html%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-lan... <truncated>",
+    "status": "200",
+    "url": "https://www.facebook.com/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-paywall-trial3%2Findex.html%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0%26from%3Dassessment&rl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&if=false&ts=1793638127900&iw=false&sw=390&sh=844&v=2.9.433&r=stable&ec=0&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&cs_est=true&ler=empty&cdl=API_unavailable&tz=120&it=1793638127889&coo=false&expv2[0]=pl1&expv2[1]=el2&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=ct2&expv2[6]=hf1&expv2[7]=pt1&expv2[8]=sd1&expv2[9]=sp1&expv2[10]=ek1&expv2[11]=pc1&expv2[12]=gs1&expv2[13]=zs1&expv2[14]=cp1&expv2[15]=es1&expv2[16]=ac1&expv2[17]=so1&expv2[18]=wc1&expv2[19]=la1&expv2[20]=sf1&expv2[21]=da1&expv2[22]=io1&expv2[23]=ae1&expv2[24]=sx1&expv2[25]=if1&expv2[26]=fd1&expv2[27]=bg1&expv2[28]=mg1&expv2[29]=kl1&expv2[30]=sg1&expv2[31]=mk1&expv2[32]=sn1&expv2[33]=ec1&expv2[34]=mp1&expv2[35]=ps1&expv2[36]=fx1&expv2[37]=vt1&expv2[38]=dp1&expv2[39]=fw1&expv2[40]=cn1&expv2[41]=tz1&expv2[42]=pe1&expv2[43]=ee1&expv2[44]=bu1&expv2[45]=ta1&expv2[46]=ot1&expv2[47]=hv1&expv2[48]=ep1&expv2[49]=rh0&expv2[50]=ah0&expv2[51]=nv1&expv2[52]=oq0&rqm=GET",
+    "metadata_file": "raw/browser/A-99.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://webpromo.kinedu.com/\n- :authority:www.facebook.com\n- :method:GET\n- :path:/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-paywall-trial3%2Findex.html%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0%26from%3Dassessment&rl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&if=false&ts=1793638127900&iw=false&sw=390&sh=844&v=2.9.433&r=stable&ec=0&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&cs_est=true&ler=empty&cdl=API_unavailable&tz=120&it=1793638127889&coo=false&expv2[0]=pl1&expv2[1]=el2&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=ct2&expv2[6]=hf1&expv2[7]=pt1&expv2[8]=sd1&expv2[9]=sp1&expv2[10]=ek1&expv2[11]=pc1&expv2[12]=gs1&expv2[13]=zs1&expv2[14]=cp1&expv2[15]=es1&expv2[16]=ac1&expv2[17]=so1&expv2[18]=wc1&expv2[19]=la1&expv2[20]=sf1&expv2[21]=da1&expv2[22]=io1&expv2[23]=ae1&expv2[24]=sx1&expv2[25]=if1&expv2[26]=fd1&expv2[27]=bg1&expv2[28]=mg1&expv2[29]=kl1&expv2[30]=sg1&expv2[31]=mk1&expv2[32]=sn1&expv2[33]=ec1&expv2[34]=mp1&expv2[35]=ps1&expv2[36]=fx1&expv2[37]=vt1&expv2[38]=dp1&expv2[39]=fw1&expv2[40]=cn1&expv2[41]=tz1&expv2[42]=pe1&expv2[43]=ee1&expv2[44]=bu1&expv2[45]=ta1&expv2[46]=ot1&expv2[47]=hv1&expv2[48]=ep1&expv2[49]=rh0&expv2[50]=ah0&expv2[51]=nv1&expv2[52]=oq0&rqm=GET\n- :scheme:https\n- accept:image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- cookie:datr=-ptbaj6fxu4hWou6V3jGNsm2; sb=wQ53ao9xysKFy-7EObZvB4X5\n- priority:u=1, i\n- sec-fetch-dest:image\n- sec-fetch-mode:no-cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "www.facebook.com",
+    "path": "/tr/",
+    "query": {
+      "id": [
+        "2089634224620932"
+      ],
+      "ev": [
+        "PageView"
+      ],
+      "dl": [
+        "https://webpromo.kinedu.com/aq-paywall-trial3/index.html?vid=c1991816-d75d-4e46-a05d-cc40924c2ea8&paywall=trial3&offer=p79-t7&newusers=1&placement=assessment-landing&utm_source=assessment-landing&utm_medium=partner&ui=classic&capture=0&from=assessment"
+      ],
+      "rl": [
+        "https://webpromo.kinedu.com/aq-assessment?vid=c1991816-d75d-4e46-a05d-cc40924c2ea8&paywall=trial3&offer=p79-t7&newusers=1&placement=assessment-landing&utm_source=assessment-landing&utm_medium=partner&ui=classic&capture=0"
+      ],
+      "if": [
+        "false"
+      ],
+      "ts": [
+        "1793638127900"
+      ],
+      "iw": [
+        "false"
+      ],
+      "sw": [
+        "390"
+      ],
+      "sh": [
+        "844"
+      ],
+      "v": [
+        "2.9.433"
+      ],
+      "r": [
+        "stable"
+      ],
+      "ec": [
+        "0"
+      ],
+      "o": [
+        "20509"
+      ],
+      "aems": [
+        "0;0"
+      ],
+      "fbp": [
+        "fb.1.1793637782396.52484787607683365"
+      ],
+      "cs_est": [
+        "true"
+      ],
+      "ler": [
+        "empty"
+      ],
+      "cdl": [
+        "API_unavailable"
+      ],
+      "tz": [
+        "120"
+      ],
+      "it": [
+        "1793638127889"
+      ],
+      "coo": [
+        "false"
+      ],
+      "expv2[0]": [
+        "pl1"
+      ],
+      "expv2[1]": [
+        "el2"
+      ],
+      "expv2[2]": [
+        "bc1"
+      ],
+      "expv2[3]": [
+        "ra0"
+      ],
+      "expv2[4]": [
+        "rp0"
+      ],
+      "expv2[5]": [
+        "ct2"
+      ],
+      "expv2[6]": [
+        "hf1"
+      ],
+      "expv2[7]": [
+        "pt1"
+      ],
+      "expv2[8]": [
+        "sd1"
+      ],
+      "expv2[9]": [
+        "sp1"
+      ],
+      "expv2[10]": [
+        "ek1"
+      ],
+      "expv2[11]": [
+        "pc1"
+      ],
+      "expv2[12]": [
+        "gs1"
+      ],
+      "expv2[13]": [
+        "zs1"
+      ],
+      "expv2[14]": [
+        "cp1"
+      ],
+      "expv2[15]": [
+        "es1"
+      ],
+      "expv2[16]": [
+        "ac1"
+      ],
+      "expv2[17]": [
+        "so1"
+      ],
+      "expv2[18]": [
+        "wc1"
+      ],
+      "expv2[19]": [
+        "la1"
+      ],
+      "expv2[20]": [
+        "sf1"
+      ],
+      "expv2[21]": [
+        "da1"
+      ],
+      "expv2[22]": [
+        "io1"
+      ],
+      "expv2[23]": [
+        "ae1"
+      ],
+      "expv2[24]": [
+        "sx1"
+      ],
+      "expv2[25]": [
+        "if1"
+      ],
+      "expv2[26]": [
+        "fd1"
+      ],
+      "expv2[27]": [
+        "bg1"
+      ],
+      "expv2[28]": [
+        "mg1"
+      ],
+      "expv2[29]": [
+        "kl1"
+      ],
+      "expv2[30]": [
+        "sg1"
+      ],
+      "expv2[31]": [
+        "mk1"
+      ],
+      "expv2[32]": [
+        "sn1"
+      ],
+      "expv2[33]": [
+        "ec1"
+      ],
+      "expv2[34]": [
+        "mp1"
+      ],
+      "expv2[35]": [
+        "ps1"
+      ],
+      "expv2[36]": [
+        "fx1"
+      ],
+      "expv2[37]": [
+        "vt1"
+      ],
+      "expv2[38]": [
+        "dp1"
+      ],
+      "expv2[39]": [
+        "fw1"
+      ],
+      "expv2[40]": [
+        "cn1"
+      ],
+      "expv2[41]": [
+        "tz1"
+      ],
+      "expv2[42]": [
+        "pe1"
+      ],
+      "expv2[43]": [
+        "ee1"
+      ],
+      "expv2[44]": [
+        "bu1"
+      ],
+      "expv2[45]": [
+        "ta1"
+      ],
+      "expv2[46]": [
+        "ot1"
+      ],
+      "expv2[47]": [
+        "hv1"
+      ],
+      "expv2[48]": [
+        "ep1"
+      ],
+      "expv2[49]": [
+        "rh0"
+      ],
+      "expv2[50]": [
+        "ah0"
+      ],
+      "expv2[51]": [
+        "nv1"
+      ],
+      "expv2[52]": [
+        "oq0"
+      ],
+      "rqm": [
+        "GET"
+      ]
+    },
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "paywall"
+  },
+  {
+    "run": "A",
+    "reqid": 114,
+    "method": "GET",
+    "listed_url": "https://www.facebook.com/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source... <truncated>",
+    "status": "200",
+    "url": "https://www.facebook.com/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&rl=&if=false&ts=1793638134209&iw=false&sw=390&sh=844&v=2.9.433&r=stable&ec=3&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&cs_est=true&ler=empty&cdl=API_unavailable&plt=64.59999990463257&tz=120&it=1793638134206&coo=false&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv1&expv2[51]=oq0&rqm=GET",
+    "metadata_file": "raw/browser/A-114.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://webpromo.kinedu.com/\n- :authority:www.facebook.com\n- :method:GET\n- :path:/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&rl=&if=false&ts=1793638134209&iw=false&sw=390&sh=844&v=2.9.433&r=stable&ec=3&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&cs_est=true&ler=empty&cdl=API_unavailable&plt=64.59999990463257&tz=120&it=1793638134206&coo=false&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv1&expv2[51]=oq0&rqm=GET\n- :scheme:https\n- accept:image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- cookie:datr=-ptbaj6fxu4hWou6V3jGNsm2; sb=wQ53ao9xysKFy-7EObZvB4X5\n- priority:u=1, i\n- sec-fetch-dest:image\n- sec-fetch-mode:no-cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "www.facebook.com",
+    "path": "/tr/",
+    "query": {
+      "id": [
+        "2089634224620932"
+      ],
+      "ev": [
+        "PageView"
+      ],
+      "dl": [
+        "https://webpromo.kinedu.com/aq-assessment?vid=c1991816-d75d-4e46-a05d-cc40924c2ea8&paywall=trial3&offer=p79-t7&newusers=1&placement=assessment-landing&utm_source=assessment-landing&utm_medium=partner&ui=classic&capture=0"
+      ],
+      "rl": [
+        ""
+      ],
+      "if": [
+        "false"
+      ],
+      "ts": [
+        "1793638134209"
+      ],
+      "iw": [
+        "false"
+      ],
+      "sw": [
+        "390"
+      ],
+      "sh": [
+        "844"
+      ],
+      "v": [
+        "2.9.433"
+      ],
+      "r": [
+        "stable"
+      ],
+      "ec": [
+        "3"
+      ],
+      "o": [
+        "20509"
+      ],
+      "aems": [
+        "0;0"
+      ],
+      "fbp": [
+        "fb.1.1793637782396.52484787607683365"
+      ],
+      "cs_est": [
+        "true"
+      ],
+      "ler": [
+        "empty"
+      ],
+      "cdl": [
+        "API_unavailable"
+      ],
+      "plt": [
+        "64.59999990463257"
+      ],
+      "tz": [
+        "120"
+      ],
+      "it": [
+        "1793638134206"
+      ],
+      "coo": [
+        "false"
+      ],
+      "expv2[0]": [
+        "pl0"
+      ],
+      "expv2[1]": [
+        "el3"
+      ],
+      "expv2[2]": [
+        "bc1"
+      ],
+      "expv2[3]": [
+        "ra0"
+      ],
+      "expv2[4]": [
+        "rp0"
+      ],
+      "expv2[5]": [
+        "im1"
+      ],
+      "expv2[6]": [
+        "hf1"
+      ],
+      "expv2[7]": [
+        "sd1"
+      ],
+      "expv2[8]": [
+        "sp1"
+      ],
+      "expv2[9]": [
+        "ek1"
+      ],
+      "expv2[10]": [
+        "pc1"
+      ],
+      "expv2[11]": [
+        "gs1"
+      ],
+      "expv2[12]": [
+        "zs1"
+      ],
+      "expv2[13]": [
+        "cp1"
+      ],
+      "expv2[14]": [
+        "es1"
+      ],
+      "expv2[15]": [
+        "ac1"
+      ],
+      "expv2[16]": [
+        "so1"
+      ],
+      "expv2[17]": [
+        "wc1"
+      ],
+      "expv2[18]": [
+        "la1"
+      ],
+      "expv2[19]": [
+        "sf1"
+      ],
+      "expv2[20]": [
+        "da1"
+      ],
+      "expv2[21]": [
+        "io1"
+      ],
+      "expv2[22]": [
+        "ae1"
+      ],
+      "expv2[23]": [
+        "sx1"
+      ],
+      "expv2[24]": [
+        "if1"
+      ],
+      "expv2[25]": [
+        "fd1"
+      ],
+      "expv2[26]": [
+        "bg1"
+      ],
+      "expv2[27]": [
+        "mg1"
+      ],
+      "expv2[28]": [
+        "kl1"
+      ],
+      "expv2[29]": [
+        "sg1"
+      ],
+      "expv2[30]": [
+        "mk1"
+      ],
+      "expv2[31]": [
+        "sn1"
+      ],
+      "expv2[32]": [
+        "ec1"
+      ],
+      "expv2[33]": [
+        "mp1"
+      ],
+      "expv2[34]": [
+        "ps1"
+      ],
+      "expv2[35]": [
+        "fx1"
+      ],
+      "expv2[36]": [
+        "vt1"
+      ],
+      "expv2[37]": [
+        "dp1"
+      ],
+      "expv2[38]": [
+        "fw1"
+      ],
+      "expv2[39]": [
+        "cn1"
+      ],
+      "expv2[40]": [
+        "tz1"
+      ],
+      "expv2[41]": [
+        "pe1"
+      ],
+      "expv2[42]": [
+        "ee1"
+      ],
+      "expv2[43]": [
+        "bu1"
+      ],
+      "expv2[44]": [
+        "ta1"
+      ],
+      "expv2[45]": [
+        "ot1"
+      ],
+      "expv2[46]": [
+        "hv1"
+      ],
+      "expv2[47]": [
+        "ep1"
+      ],
+      "expv2[48]": [
+        "rh0"
+      ],
+      "expv2[49]": [
+        "ah0"
+      ],
+      "expv2[50]": [
+        "nv1"
+      ],
+      "expv2[51]": [
+        "oq0"
+      ],
+      "rqm": [
+        "GET"
+      ]
+    },
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "return_from_paywall"
+  },
+  {
+    "run": "B",
+    "reqid": 24,
+    "method": "GET",
+    "listed_url": "https://www.facebook.com/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source... <truncated>",
+    "status": "200",
+    "url": "https://www.facebook.com/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&rl=&if=false&ts=1793638163720&iw=false&sw=390&sh=844&v=2.9.433&r=stable&ec=0&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&cs_est=true&ler=empty&cdl=API_unavailable&plt=68.80000019073486&tz=120&it=1793638163705&coo=false&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv0&expv2[51]=oq0&rqm=GET",
+    "metadata_file": "raw/browser/B-24.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://webpromo.kinedu.com/\n- :authority:www.facebook.com\n- :method:GET\n- :path:/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&rl=&if=false&ts=1793638163720&iw=false&sw=390&sh=844&v=2.9.433&r=stable&ec=0&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&cs_est=true&ler=empty&cdl=API_unavailable&plt=68.80000019073486&tz=120&it=1793638163705&coo=false&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv0&expv2[51]=oq0&rqm=GET\n- :scheme:https\n- accept:image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- cookie:datr=-ptbaj6fxu4hWou6V3jGNsm2; sb=wQ53ao9xysKFy-7EObZvB4X5\n- priority:u=1, i\n- sec-fetch-dest:image\n- sec-fetch-mode:no-cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "www.facebook.com",
+    "path": "/tr/",
+    "query": {
+      "id": [
+        "2089634224620932"
+      ],
+      "ev": [
+        "PageView"
+      ],
+      "dl": [
+        "https://webpromo.kinedu.com/aq-assessment?vid=c1991816-d75d-4e46-a05d-cc40924c2ea8&paywall=trial3&offer=p79-t7&newusers=1&placement=assessment-landing&utm_source=assessment-landing&utm_medium=partner&ui=classic&capture=0"
+      ],
+      "rl": [
+        ""
+      ],
+      "if": [
+        "false"
+      ],
+      "ts": [
+        "1793638163720"
+      ],
+      "iw": [
+        "false"
+      ],
+      "sw": [
+        "390"
+      ],
+      "sh": [
+        "844"
+      ],
+      "v": [
+        "2.9.433"
+      ],
+      "r": [
+        "stable"
+      ],
+      "ec": [
+        "0"
+      ],
+      "o": [
+        "20509"
+      ],
+      "aems": [
+        "0;0"
+      ],
+      "fbp": [
+        "fb.1.1793637782396.52484787607683365"
+      ],
+      "cs_est": [
+        "true"
+      ],
+      "ler": [
+        "empty"
+      ],
+      "cdl": [
+        "API_unavailable"
+      ],
+      "plt": [
+        "68.80000019073486"
+      ],
+      "tz": [
+        "120"
+      ],
+      "it": [
+        "1793638163705"
+      ],
+      "coo": [
+        "false"
+      ],
+      "expv2[0]": [
+        "pl0"
+      ],
+      "expv2[1]": [
+        "el3"
+      ],
+      "expv2[2]": [
+        "bc1"
+      ],
+      "expv2[3]": [
+        "ra0"
+      ],
+      "expv2[4]": [
+        "rp0"
+      ],
+      "expv2[5]": [
+        "im1"
+      ],
+      "expv2[6]": [
+        "hf1"
+      ],
+      "expv2[7]": [
+        "sd1"
+      ],
+      "expv2[8]": [
+        "sp1"
+      ],
+      "expv2[9]": [
+        "ek1"
+      ],
+      "expv2[10]": [
+        "pc1"
+      ],
+      "expv2[11]": [
+        "gs1"
+      ],
+      "expv2[12]": [
+        "zs1"
+      ],
+      "expv2[13]": [
+        "cp1"
+      ],
+      "expv2[14]": [
+        "es1"
+      ],
+      "expv2[15]": [
+        "ac1"
+      ],
+      "expv2[16]": [
+        "so1"
+      ],
+      "expv2[17]": [
+        "wc1"
+      ],
+      "expv2[18]": [
+        "la1"
+      ],
+      "expv2[19]": [
+        "sf1"
+      ],
+      "expv2[20]": [
+        "da1"
+      ],
+      "expv2[21]": [
+        "io1"
+      ],
+      "expv2[22]": [
+        "ae1"
+      ],
+      "expv2[23]": [
+        "sx1"
+      ],
+      "expv2[24]": [
+        "if1"
+      ],
+      "expv2[25]": [
+        "fd1"
+      ],
+      "expv2[26]": [
+        "bg1"
+      ],
+      "expv2[27]": [
+        "mg1"
+      ],
+      "expv2[28]": [
+        "kl1"
+      ],
+      "expv2[29]": [
+        "sg1"
+      ],
+      "expv2[30]": [
+        "mk1"
+      ],
+      "expv2[31]": [
+        "sn1"
+      ],
+      "expv2[32]": [
+        "ec1"
+      ],
+      "expv2[33]": [
+        "mp1"
+      ],
+      "expv2[34]": [
+        "ps1"
+      ],
+      "expv2[35]": [
+        "fx1"
+      ],
+      "expv2[36]": [
+        "vt1"
+      ],
+      "expv2[37]": [
+        "dp1"
+      ],
+      "expv2[38]": [
+        "fw1"
+      ],
+      "expv2[39]": [
+        "cn1"
+      ],
+      "expv2[40]": [
+        "tz1"
+      ],
+      "expv2[41]": [
+        "pe1"
+      ],
+      "expv2[42]": [
+        "ee1"
+      ],
+      "expv2[43]": [
+        "bu1"
+      ],
+      "expv2[44]": [
+        "ta1"
+      ],
+      "expv2[45]": [
+        "ot1"
+      ],
+      "expv2[46]": [
+        "hv1"
+      ],
+      "expv2[47]": [
+        "ep1"
+      ],
+      "expv2[48]": [
+        "rh0"
+      ],
+      "expv2[49]": [
+        "ah0"
+      ],
+      "expv2[50]": [
+        "nv0"
+      ],
+      "expv2[51]": [
+        "oq0"
+      ],
+      "rqm": [
+        "GET"
+      ]
+    },
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "assessment"
+  },
+  {
+    "run": "B",
+    "reqid": 58,
+    "method": "GET",
+    "listed_url": "https://www.facebook.com/tr/?id=2089634224620932&ev=ViewContent&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_sou... <truncated>",
+    "status": "200",
+    "url": "https://www.facebook.com/tr/?id=2089634224620932&ev=ViewContent&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&rl=&if=false&ts=1793638277129&iw=false&cd[content_category]=acquisition&cd[content_name]=assessment-classic&sw=390&sh=844&v=2.9.433&r=stable&ec=1&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&ler=empty&cdl=API_unavailable&plt=68.80000019073486&tz=120&it=1793638163705&coo=false&eid=3e67df57-d2a3-42f4-91ce-33ed1b8ff6c0&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv0&expv2[51]=oq0&rqm=GET",
+    "metadata_file": "raw/browser/B-58.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://webpromo.kinedu.com/\n- :authority:www.facebook.com\n- :method:GET\n- :path:/tr/?id=2089634224620932&ev=ViewContent&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&rl=&if=false&ts=1793638277129&iw=false&cd[content_category]=acquisition&cd[content_name]=assessment-classic&sw=390&sh=844&v=2.9.433&r=stable&ec=1&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&ler=empty&cdl=API_unavailable&plt=68.80000019073486&tz=120&it=1793638163705&coo=false&eid=3e67df57-d2a3-42f4-91ce-33ed1b8ff6c0&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv0&expv2[51]=oq0&rqm=GET\n- :scheme:https\n- accept:image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- cookie:datr=-ptbaj6fxu4hWou6V3jGNsm2; sb=wQ53ao9xysKFy-7EObZvB4X5\n- priority:u=1, i\n- sec-fetch-dest:image\n- sec-fetch-mode:no-cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": false,
+    "host": "www.facebook.com",
+    "path": "/tr/",
+    "query": {
+      "id": [
+        "2089634224620932"
+      ],
+      "ev": [
+        "ViewContent"
+      ],
+      "dl": [
+        "https://webpromo.kinedu.com/aq-assessment?vid=c1991816-d75d-4e46-a05d-cc40924c2ea8&paywall=trial3&offer=p79-t7&newusers=1&placement=assessment-landing&utm_source=assessment-landing&utm_medium=partner&ui=classic&capture=0"
+      ],
+      "rl": [
+        ""
+      ],
+      "if": [
+        "false"
+      ],
+      "ts": [
+        "1793638277129"
+      ],
+      "iw": [
+        "false"
+      ],
+      "cd[content_category]": [
+        "acquisition"
+      ],
+      "cd[content_name]": [
+        "assessment-classic"
+      ],
+      "sw": [
+        "390"
+      ],
+      "sh": [
+        "844"
+      ],
+      "v": [
+        "2.9.433"
+      ],
+      "r": [
+        "stable"
+      ],
+      "ec": [
+        "1"
+      ],
+      "o": [
+        "20509"
+      ],
+      "aems": [
+        "0;0"
+      ],
+      "fbp": [
+        "fb.1.1793637782396.52484787607683365"
+      ],
+      "ler": [
+        "empty"
+      ],
+      "cdl": [
+        "API_unavailable"
+      ],
+      "plt": [
+        "68.80000019073486"
+      ],
+      "tz": [
+        "120"
+      ],
+      "it": [
+        "1793638163705"
+      ],
+      "coo": [
+        "false"
+      ],
+      "eid": [
+        "3e67df57-d2a3-42f4-91ce-33ed1b8ff6c0"
+      ],
+      "expv2[0]": [
+        "pl0"
+      ],
+      "expv2[1]": [
+        "el3"
+      ],
+      "expv2[2]": [
+        "bc1"
+      ],
+      "expv2[3]": [
+        "ra0"
+      ],
+      "expv2[4]": [
+        "rp0"
+      ],
+      "expv2[5]": [
+        "im1"
+      ],
+      "expv2[6]": [
+        "hf1"
+      ],
+      "expv2[7]": [
+        "sd1"
+      ],
+      "expv2[8]": [
+        "sp1"
+      ],
+      "expv2[9]": [
+        "ek1"
+      ],
+      "expv2[10]": [
+        "pc1"
+      ],
+      "expv2[11]": [
+        "gs1"
+      ],
+      "expv2[12]": [
+        "zs1"
+      ],
+      "expv2[13]": [
+        "cp1"
+      ],
+      "expv2[14]": [
+        "es1"
+      ],
+      "expv2[15]": [
+        "ac1"
+      ],
+      "expv2[16]": [
+        "so1"
+      ],
+      "expv2[17]": [
+        "wc1"
+      ],
+      "expv2[18]": [
+        "la1"
+      ],
+      "expv2[19]": [
+        "sf1"
+      ],
+      "expv2[20]": [
+        "da1"
+      ],
+      "expv2[21]": [
+        "io1"
+      ],
+      "expv2[22]": [
+        "ae1"
+      ],
+      "expv2[23]": [
+        "sx1"
+      ],
+      "expv2[24]": [
+        "if1"
+      ],
+      "expv2[25]": [
+        "fd1"
+      ],
+      "expv2[26]": [
+        "bg1"
+      ],
+      "expv2[27]": [
+        "mg1"
+      ],
+      "expv2[28]": [
+        "kl1"
+      ],
+      "expv2[29]": [
+        "sg1"
+      ],
+      "expv2[30]": [
+        "mk1"
+      ],
+      "expv2[31]": [
+        "sn1"
+      ],
+      "expv2[32]": [
+        "ec1"
+      ],
+      "expv2[33]": [
+        "mp1"
+      ],
+      "expv2[34]": [
+        "ps1"
+      ],
+      "expv2[35]": [
+        "fx1"
+      ],
+      "expv2[36]": [
+        "vt1"
+      ],
+      "expv2[37]": [
+        "dp1"
+      ],
+      "expv2[38]": [
+        "fw1"
+      ],
+      "expv2[39]": [
+        "cn1"
+      ],
+      "expv2[40]": [
+        "tz1"
+      ],
+      "expv2[41]": [
+        "pe1"
+      ],
+      "expv2[42]": [
+        "ee1"
+      ],
+      "expv2[43]": [
+        "bu1"
+      ],
+      "expv2[44]": [
+        "ta1"
+      ],
+      "expv2[45]": [
+        "ot1"
+      ],
+      "expv2[46]": [
+        "hv1"
+      ],
+      "expv2[47]": [
+        "ep1"
+      ],
+      "expv2[48]": [
+        "rh0"
+      ],
+      "expv2[49]": [
+        "ah0"
+      ],
+      "expv2[50]": [
+        "nv0"
+      ],
+      "expv2[51]": [
+        "oq0"
+      ],
+      "rqm": [
+        "GET"
+      ]
+    },
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": "raw/api/browser/B-58.response.body",
+    "phase": "assessment"
+  }
+]

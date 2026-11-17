@@ -1,0 +1,171 @@
+{
+  "overall": {
+    "matched": 71,
+    "numeric": 20,
+    "observed": 14,
+    "interpolated": 6,
+    "verdicts": {
+      "consistent": 7,
+      "stricter/later": 11,
+      "clearly later": 0,
+      "high >95%": 2,
+      "not estimable": 51
+    },
+    "median": 0.7375,
+    "below_75": 11
+  },
+  "observed_only": {
+    "matched": 14,
+    "numeric": 14,
+    "observed": 14,
+    "interpolated": 0,
+    "verdicts": {
+      "consistent": 3,
+      "stricter/later": 9,
+      "clearly later": 0,
+      "high >95%": 2,
+      "not estimable": 0
+    },
+    "median": 0.675,
+    "below_75": 9
+  },
+  "exact_only": {
+    "matched": 53,
+    "numeric": 14,
+    "observed": 9,
+    "interpolated": 5,
+    "verdicts": {
+      "consistent": 5,
+      "stricter/later": 8,
+      "clearly later": 0,
+      "high >95%": 1,
+      "not estimable": 39
+    },
+    "median": 0.7225,
+    "below_75": 8
+  },
+  "exact_observed_only": {
+    "matched": 9,
+    "numeric": 9,
+    "observed": 9,
+    "interpolated": 0,
+    "verdicts": {
+      "consistent": 2,
+      "stricter/later": 6,
+      "clearly later": 0,
+      "high >95%": 1,
+      "not estimable": 0
+    },
+    "median": 0.67,
+    "below_75": 6
+  },
+  "by_cdc_domain": {
+    "Social/Emotional": {
+      "matched": 14,
+      "numeric": 5,
+      "observed": 3,
+      "interpolated": 2,
+      "verdicts": {
+        "consistent": 3,
+        "stricter/later": 1,
+        "clearly later": 0,
+        "high >95%": 1,
+        "not estimable": 9
+      },
+      "median": 0.868,
+      "below_75": 1
+    },
+    "Language/Communication": {
+      "matched": 17,
+      "numeric": 8,
+      "observed": 5,
+      "interpolated": 3,
+      "verdicts": {
+        "consistent": 3,
+        "stricter/later": 5,
+        "clearly later": 0,
+        "high >95%": 0,
+        "not estimable": 9
+      },
+      "median": 0.7225,
+      "below_75": 5
+    },
+    "Cognitive": {
+      "matched": 15,
+      "numeric": 2,
+      "observed": 1,
+      "interpolated": 1,
+      "verdicts": {
+        "consistent": 1,
+        "stricter/later": 1,
+        "clearly later": 0,
+        "high >95%": 0,
+        "not estimable": 13
+      },
+      "median": 0.6971428571428572,
+      "below_75": 1
+    },
+    "Movement/Physical": {
+      "matched": 25,
+      "numeric": 5,
+      "observed": 5,
+      "interpolated": 0,
+      "verdicts": {
+        "consistent": 0,
+        "stricter/later": 4,
+        "clearly later": 0,
+        "high >95%": 1,
+        "not estimable": 20
+      },
+      "median": 0.57,
+      "below_75": 4
+    }
+  },
+  "by_age_band": {
+    "0–12": {
+      "matched": 35,
+      "numeric": 10,
+      "observed": 5,
+      "interpolated": 5,
+      "verdicts": {
+        "consistent": 5,
+        "stricter/later": 3,
+        "clearly later": 0,
+        "high >95%": 2,
+        "not estimable": 25
+      },
+      "median": 0.8321428571428572,
+      "below_75": 3
+    },
+    "13–24": {
+      "matched": 15,
+      "numeric": 3,
+      "observed": 2,
+      "interpolated": 1,
+      "verdicts": {
+        "consistent": 2,
+        "stricter/later": 1,
+        "clearly later": 0,
+        "high >95%": 0,
+        "not estimable": 12
+      },
+      "median": 0.868,
+      "below_75": 1
+    },
+    "25–48": {
+      "matched": 21,
+      "numeric": 7,
+      "observed": 7,
+      "interpolated": 0,
+      "verdicts": {
+        "consistent": 0,
+        "stricter/later": 7,
+        "clearly later": 0,
+        "high >95%": 0,
+        "not estimable": 14
+      },
+      "median": 0.58,
+      "below_75": 7
+    }
+  }
+}

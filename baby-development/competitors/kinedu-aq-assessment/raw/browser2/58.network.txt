@@ -1,0 +1,37 @@
+Emulating viewport: {"deviceScaleFactor":1,"isMobile":true,"hasTouch":true,"isLandscape":false,"width":390,"height":844}
+## Request https://webpromo.kinedu.com/aq-paywall-trial3/index.html?from=assessment
+Status: 200
+### Request Headers
+- referer:https://webpromo.kinedu.com/aq-assessment
+- upgrade-insecure-requests:1
+- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+- :authority:webpromo.kinedu.com
+- :method:GET
+- :path:/aq-paywall-trial3/index.html?from=assessment
+- :scheme:https
+- accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+- accept-encoding:gzip, deflate, br, zstd
+- accept-language:en-GB,en-US;q=0.9,en;q=0.8
+- cookie:_fbp=fb.1.1793637782396.52484787607683365; __stripe_mid=27201454-a8df-47c6-a60c-0408ff5564d916f8a7
+- priority:u=0, i
+- sec-fetch-dest:document
+- sec-fetch-mode:navigate
+- sec-fetch-site:same-origin
+- sec-fetch-user:?1
+### Response Headers
+- access-control-allow-origin:*
+- age:5443
+- cache-control:public, max-age=0, must-revalidate
+- content-disposition:inline; filename="index.html"
+- content-encoding:br
+- content-type:text/html; charset=utf-8
+- date:Tue, 03 Nov 2026 10:47:52 GMT
+- etag:W/"f5ce31f182ed15fba55c6e55accb8efe"
+- last-modified:Tue, 03 Nov 2026 09:17:08 GMT
+- server:Vercel
+- strict-transport-security:max-age=63072000
+- x-matched-path:/aq-paywall-trial3/index.html
+- x-vercel-cache:HIT
+- x-vercel-id:fra1::9xmv6-1793702872056-9a3b60378a31
+### Response Body
+Saved to /tmp/kinedu-browser/raw/api/browser2/58.response.network-response.

@@ -1,0 +1,23 @@
+{"requests": 348, "budget": 350, "summary": "/home/thinkpad/GitHub/mamiVio.com/research/kinedu-aq-assessment/raw/api/scoring/summary.csv"}
+{
+  "report": "SCORING.md",
+  "audit": {
+    "requests": 348,
+    "budget": 350,
+    "http_status_counts": {
+      "200": 346,
+      "400": 2
+    },
+    "first_request": "2026-11-02T15:51:15.075733+00:00",
+    "last_response": "2026-11-02T16:07:14.765018+00:00",
+    "minimum_response_to_next_request_gap_seconds": 0.500671,
+    "hashes_verified": 348,
+    "raw_files_match_manifest": true,
+    "transport_failures": 0,
+    "endpoint": "https://webpromo.kinedu.com/api/assessment",
+    "all_actions": "result"
+  },
+  "heldout_global": "40/40",
+  "heldout_area": "83/83",
+  "random_global": "6/6"
+}

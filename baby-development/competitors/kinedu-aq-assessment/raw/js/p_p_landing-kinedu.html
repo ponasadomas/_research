@@ -1,0 +1,829 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<!-- Microsoft Clarity: mismo proyecto que kinedu.com ("Kinedu Landing Page"); solo en producción -->
+<script>if(location.hostname==="webpromo.kinedu.com"){(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y)})(window,document,"clarity","script","x8ou6ay6eb");}</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Kinedu — Your baby's brain quiz</title>
+<!-- Meta Pixel (mismo id que el paywall y el layout de Next; los HTML estáticos
+     no pasan por el layout, así que cada uno carga el suyo) -->
+<script>
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+  document,'script','https://connect.facebook.net/en_US/fbevents.js');
+  /* Sin configuración automática (Martha, 20-oct-2026): el pixel no lee texto de botones ni de la página (respuestas del quiz, nombre del bebé). Los eventos explícitos no cambian. */
+  fbq('set', 'autoConfig', false, '2089634224620932');
+  fbq('init', '2089634224620932'); fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" alt="" src="https://www.facebook.com/tr?id=2089634224620932&ev=PageView&noscript=1"/></noscript>
+
+<meta name="robots" content="noindex">
+
+<!-- /aq-quiz-storytelling-short — mitad B del experimento de captura.
+
+     Es el MISMO quiz que /aq-quiz-brain (mismas preguntas, mismos datos
+     sorpresa, mismas imágenes, mismo loader) pero SIN las dos pantallas de
+     captura: 5 pantallas en vez de 7, y al terminar el loader se va directo
+     al paywall. La cuenta de Kinedu ya no se crea aquí — la crea el paywall
+     cuando la persona va a pagar (su sheet ya pide nombre y correo si no
+     encuentra identidad en sessionStorage).
+
+     Lo que se mide: la versión larga se queda con el correo aunque la
+     persona no compre (esos leads entran a la base de Kinedu); esta baja la
+     fricción pero pierde a quien abandona el paywall. Por eso TODO lo demás
+     tiene que ser idéntico: cualquier otra diferencia contamina el
+     experimento. Si algo hay que cambiar aquí, se cambia en las dos.
+
+     Las imágenes NO se duplican: se apunta a /aq-quiz-brain/*.png para que
+     las dos variantes muestren exactamente el mismo arte (y para que editar
+     una no deje a la otra desactualizada).
+
+     Sin dependencias externas a propósito (ni fuentes ni pixel de Meta): el
+     tráfico llega de un partner, no de Meta, y cada script de terceros es
+     latencia extra en la primera impresión de gente que aún no nos conoce. -->
+
+<style>
+  :root{
+    /* Paleta del quiz original de Leadpages (se respeta para que el partner
+       no vea un cambio de marca a media campaña). */
+    --blue:#0099ff; --blue-dark:#007acc; --blue-tint:#eef7ff;
+    --ink:#2c3e50; --muted:#4b5563; --hair:#e0e0e0; --red:#d93b3b;
+    --sans:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html{background:#fff}
+  body{
+    margin:0;font-family:var(--sans);color:var(--ink);background:#fff;
+    -webkit-font-smoothing:antialiased;
+    min-height:100dvh;display:flex;flex-direction:column;
+  }
+  header{display:flex;justify-content:center;padding:calc(14px + env(safe-area-inset-top)) 0 6px}
+  header img{height:26px;width:auto}
+
+  /* Mobile-first: 480px es el ancho máximo de contenido en todo el proyecto. */
+  .wrap{width:100%;max-width:480px;margin:0 auto;padding:0 20px;flex:1;display:flex;flex-direction:column}
+  /* El bloque se centra en el espacio libre: el sobrante se reparte arriba y
+     abajo en vez de amontonarse en un solo lado. Se probó pegarlo arriba (deja
+     un hueco enorme al final) y empujar las opciones abajo (deja el hueco en
+     medio, peor); centrado es lo único que se ve equilibrado en pantallas de
+     alturas tan distintas. Clave: la pantalla NO lleva flex:1 — si se estira,
+     el centrado del padre no tiene sobrante que repartir. */
+  /* El padding de abajo no es estético: sin él no hay scroll suficiente para
+     subir la caja del dato por encima de la barra sticky. */
+  main{flex:1;display:flex;flex-direction:column;justify-content:center;padding:18px 0 96px}
+
+  .screen{display:none;animation:fade .28s ease}
+  .screen.on{display:flex;flex-direction:column;flex:0 0 auto}
+  @keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+
+  h1{font-size:clamp(21px,5.6vw,25px);line-height:1.28;font-weight:700;letter-spacing:-.01em;margin:0 0 18px;text-wrap:balance}
+  .lead{font-size:16px;line-height:1.5;color:var(--muted);margin:0 0 18px}
+  .sub{font-size:16px;line-height:1.5;color:var(--muted);margin:-8px 0 18px}
+
+  /* Grid 2x2 igual que el original; la opción "todas / plan equilibrado"
+     ocupa el ancho completo porque es la respuesta que queremos que pese. */
+  .opts{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .opt{
+    display:flex;align-items:center;justify-content:center;text-align:center;
+    min-height:84px;padding:14px 12px;
+    background:#fff;border:2px solid var(--hair);border-radius:12px;
+    font-family:var(--sans);font-size:15px;line-height:1.3;font-weight:600;color:var(--ink);
+    cursor:pointer;transition:border-color .15s ease,background .15s ease,transform .1s ease;
+  }
+  .opt.wide{grid-column:1 / -1;min-height:64px}
+  .opt:active{transform:scale(.985)}
+  .opt[aria-checked="true"]{border-color:var(--blue);background:var(--blue-tint);color:var(--blue-dark)}
+  .opt:focus-visible{outline:3px solid rgba(0,153,255,.35);outline-offset:2px}
+
+  /* Feedback educativo de las pantallas 1 y 2: el "premio" por responder. */
+  /* La barra de navegación va pegada abajo: sin este margen de scroll,
+     alinear por el final dejaba la imagen justo DETRÁS de la barra. */
+  .feedback{scroll-margin-bottom:104px;margin:18px 0 0;padding:16px;border:1px solid var(--hair);border-radius:14px;background:#fafcff;animation:fade .3s ease}
+  .feedback p{margin:0;font-size:15.5px;line-height:1.55;color:var(--muted)}
+  .feedback strong{color:var(--ink)}
+  .feedback img{display:block;width:100%;max-width:290px;height:auto;margin:16px auto 0}
+
+  .loader{margin:6px 0 0}
+  .loader-bar{height:6px;border-radius:99px;background:#E8EDF3;overflow:hidden}
+  .loader-bar span{display:block;height:100%;width:0;border-radius:99px;background:var(--blue);
+    transition:width .35s cubic-bezier(.4,0,.2,1)}
+  .loader-steps{list-style:none;margin:14px 0 0;padding:0;display:flex;flex-direction:column;gap:9px}
+  .loader-steps li{display:flex;align-items:center;gap:9px;font-size:14.5px;color:#9AA3AE;
+    opacity:.55;transition:opacity .3s,color .3s}
+  .loader-steps li::before{content:"";width:17px;height:17px;flex:0 0 17px;border-radius:50%;
+    border:2px solid #D6DCE4;background:#fff;transition:background .3s,border-color .3s}
+  .loader-steps li.done{opacity:1;color:var(--ink)}
+  .loader-steps li.done::before{background:var(--blue) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12'%3E%3Cpath d='M2.5 6.3l2.3 2.3 4.7-4.9' fill='none' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center/11px no-repeat;border-color:var(--blue)}
+  @media (prefers-reduced-motion: reduce){ .loader-bar span{transition:none} }
+
+  .hero-img{display:block;width:100%;max-width:320px;height:auto;margin:10px auto 0}
+
+  .err{margin:12px 0 0;font-size:14px;font-weight:600;line-height:1.45;color:var(--red)}
+
+  /* Barra de navegación: sticky (no fixed) para que quede pegada abajo sin
+     flotar por encima del contenido al hacer scroll. Como el body mide
+     100dvh, se ve igual que en el original. */
+  .nav{
+    position:sticky;bottom:0;z-index:5;
+    background:rgba(255,255,255,.96);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);
+    border-top:1px solid var(--hair);
+  }
+  .nav-inner{
+    width:100%;max-width:480px;margin:0 auto;
+    padding:12px 20px calc(12px + env(safe-area-inset-bottom));
+    display:flex;align-items:center;gap:8px;
+  }
+  /* nowrap + botones angostos: en 320px "Page 2 of 5" se partía en dos líneas
+     y desalineaba la barra. */
+  .page-label{flex:1;text-align:center;white-space:nowrap;font-size:13px;font-weight:600;color:var(--muted);font-variant-numeric:tabular-nums}
+  .nav button{
+    font-family:var(--sans);font-size:15px;font-weight:700;border-radius:10px;padding:12px 14px;cursor:pointer;
+    transition:background .2s ease,opacity .2s ease;
+  }
+  #btnPrev{background:#fff;border:1.5px solid var(--hair);color:var(--muted)}
+  #btnNext{background:var(--blue);border:none;color:#fff;min-width:92px}
+  @media (min-width:360px){
+    .nav-inner{gap:12px}
+    .nav button{padding:12px 20px}
+    #btnNext{min-width:104px}
+  }
+  #btnNext:hover{background:var(--blue-dark)}
+  .nav button:disabled{opacity:.5;cursor:default}
+
+  .progress{height:3px;background:#f0f2f5}
+  .progress span{display:block;height:100%;width:0;background:var(--blue);transition:width .3s ease}
+
+  [hidden]{display:none !important}
+  @media (prefers-reduced-motion: reduce){
+    .screen,.feedback{animation:none}
+    .progress span{transition:none}
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header><img src="/promo-flash/Kinedu_Logo_Color.png" alt="Kinedu"></header>
+
+  <main>
+    <!-- ---------- 1. Conexiones por segundo ---------- -->
+    <section class="screen on" id="s1">
+      <h1 id="q1" data-i18n="q1">Right now, your baby&rsquo;s brain is growing faster than ever! Can you guess how many connections are forming every second?</h1>
+      <div class="opts" role="radiogroup" aria-labelledby="q1" data-group="brain_guess">
+        <button type="button" class="opt" role="radio" aria-checked="false" data-val="100" data-i18n="q1_a">100</button>
+        <button type="button" class="opt" role="radio" aria-checked="false" data-val="1000" data-i18n="q1_b">1,000</button>
+        <button type="button" class="opt" role="radio" aria-checked="false" data-val="1000000" data-i18n="q1_c">1,000,000</button>
+        <button type="button" class="opt" role="radio" aria-checked="false" data-val="dont_know" data-i18n="q1_d">I don&rsquo;t know, just tell me!</button>
+      </div>
+      <div class="feedback" id="fb1" hidden>
+        <p data-i18n="fb1"><strong>More than 1 million connections form every second</strong> &mdash; like a lightning storm in your baby&rsquo;s brain! And the good news? You can help guide that growth through simple everyday actions.</p>
+        <!-- Las imágenes viven en /aq-quiz-brain/: las dos variantes comparten
+             el mismo arte, no se duplican los PNG. -->
+        <img src="/aq-quiz-brain/brain-connections.png" width="512" height="414" alt="" loading="eager">
+      </div>
+      <p class="err" id="e1" hidden></p>
+    </section>
+
+    <!-- ---------- 2. Qué recomiendan los expertos ---------- -->
+    <section class="screen" id="s2">
+      <h1 id="q2" data-i18n="q2">Which of these do you think experts recommend most to support brain development?</h1>
+      <div class="opts" role="radiogroup" aria-labelledby="q2" data-group="expert_pick">
+        <button type="button" class="opt" role="radio" aria-checked="false" data-val="play" data-i18n="q2_a">Playing with your baby</button>
+        <button type="button" class="opt" role="radio" aria-checked="false" data-val="relationships" data-i18n="q2_b">Forming loving relationships</button>
+        <button type="button" class="opt" role="radio" aria-checked="false" data-val="routines" data-i18n="q2_c">Establishing routines</button>
+        <button type="button" class="opt" role="radio" aria-checked="false" data-val="reading" data-i18n="q2_d">Reading to your baby</button>
+        <button type="button" class="opt wide" role="radio" aria-checked="false" data-val="all" data-i18n="q2_e">All of the above</button>
+      </div>
+      <div class="feedback" id="fb2" hidden>
+        <p data-i18n="fb2"><strong>It&rsquo;s all of the above!</strong> Every giggle, cuddle, routine, and story shapes your baby&rsquo;s brain. And the best part? <strong>With just 5 minutes a day,</strong> you can make a huge difference in their lives.</p>
+        <img src="/aq-quiz-brain/all-of-the-above.png" width="512" height="376" alt="" loading="lazy">
+      </div>
+      <p class="err" id="e2" hidden></p>
+    </section>
+
+    <!-- ---------- 3. Edad del bebé ---------- -->
+    <section class="screen" id="s3">
+      <p class="lead" data-i18n="s3_intro">Kinedu is here to help! We provide playful ideas that build skills and personalize your experience.</p>
+      <h1 id="q3" data-i18n="q3">How old is your baby?</h1>
+      <div class="opts" role="radiogroup" aria-labelledby="q3" data-group="baby_age">
+        <button type="button" class="opt" role="radio" aria-checked="false" data-val="0-3" data-i18n="q3_a">0-3 months</button>
+        <button type="button" class="opt" role="radio" aria-checked="false" data-val="4-6" data-i18n="q3_b">4-6 months</button>
+        <button type="button" class="opt" role="radio" aria-checked="false" data-val="7-12" data-i18n="q3_c">7-12 months</button>
+        <button type="button" class="opt" role="radio" aria-checked="false" data-val="over" data-i18n="q3_d">Over a year</button>
+      </div>
+      <p class="err" id="e3" hidden></p>
+    </section>
+
+    <!-- ---------- 4. Área de desarrollo ---------- -->
+    <section class="screen" id="s4">
+      <h1 id="q4" data-i18n="q4">Which area of development would you like to focus on?</h1>
+      <div class="opts" role="radiogroup" aria-labelledby="q4" data-group="focus_area">
+        <button type="button" class="opt" role="radio" aria-checked="false" data-val="physical" data-i18n="q4_a">Physical</button>
+        <button type="button" class="opt" role="radio" aria-checked="false" data-val="cognitive" data-i18n="q4_b">Cognitive</button>
+        <button type="button" class="opt" role="radio" aria-checked="false" data-val="linguistic" data-i18n="q4_c">Linguistic</button>
+        <button type="button" class="opt" role="radio" aria-checked="false" data-val="social_emotional" data-i18n="q4_d">Social-Emotional</button>
+        <button type="button" class="opt wide" role="radio" aria-checked="false" data-val="balanced" data-i18n="q4_e">A balanced plan</button>
+      </div>
+      <p class="err" id="e4" hidden></p>
+    </section>
+
+    <!-- ---------- 5. Plan en construcción (última pantalla) ---------- -->
+    <section class="screen" id="s5">
+      <h1 data-i18n="s5_title">Great! We&rsquo;re creating your baby&rsquo;s personalized plan.</h1>
+      <!-- Único copy que cambia respecto al quiz largo: allá el subtítulo pide
+           nombre y correo porque eso es lo que sigue; aquí lo que sigue es el
+           paywall, así que prometer una captura que no existe sería mentir. -->
+      <p class="sub" data-i18n="s5_sub">Give us a few seconds while we put it together.</p>
+      <img class="hero-img" src="/aq-quiz-brain/personalized-plan.png" width="512" height="464" alt="" loading="lazy">
+
+      <!-- Loader real, no decorativo: la pantalla ya prometía "estamos creando
+           tu plan" pero no pasaba nada, así que se leía como relleno y dejaba
+           un hueco blanco enorme hasta los botones. Ahora la espera se ve
+           trabajando y encadena sola con el paywall. -->
+      <div class="loader" id="planLoader">
+        <div class="loader-bar"><span id="planBar"></span></div>
+        <ul class="loader-steps">
+          <li data-i18n="s5_step1">Reading your answers</li>
+          <li data-i18n="s5_step2">Choosing activities for their age</li>
+          <li data-i18n="s5_step3">Putting the plan together</li>
+        </ul>
+      </div>
+    </section>
+  </main>
+</div>
+
+<nav class="nav">
+  <div class="progress"><span id="progressBar"></span></div>
+  <div class="nav-inner">
+    <button type="button" id="btnPrev" data-i18n="nav_prev" hidden>Previous</button>
+    <span class="page-label" id="pageLabel">Page 1 of 5</span>
+    <button type="button" id="btnNext" data-i18n="nav_next">Next</button>
+  </div>
+</nav>
+
+<!-- i18n compartido (EN/ES/PT): idioma de ?lang= o del navegador.
+     Nota: este archivo inyecta un campo de nombre cuando el link trae
+     ?newusers=1, pero solo si encuentra un input[type=email] en la página.
+     Aquí no hay ninguno, así que la inyección es no-op y no aparece nada
+     suelto. Ver insertNameField() en /promo-i18n.js. -->
+<script src="/promo-i18n.js"></script>
+<script>
+(function () {
+  'use strict';
+
+  /* ============================================================
+   * /aq-quiz-storytelling-short — quiz de adquisición SIN captura.
+   * 5 pantallas -> paywall. La cuenta la crea el paywall al pagar.
+   * Mismas convenciones que las landings de promo (storage keys,
+   * /api/track, ?env=, ?v=, first-touch de utms).
+   * ============================================================ */
+
+  var LANGUAGE = (window.PROMO_LANG || 'en');
+  var TOTAL = 5;
+
+  /* test_id propio: si compartiera el del quiz largo, los dos brazos del
+     experimento caerían en el mismo bucket y no se podrían comparar.
+     El link del partner puede seguir sirviendo cualquier experimento con
+     ?test_id=&v=. La variante se recorta a 20 chars porque /api/track la
+     rechaza más larga (y un evento perdido no se recupera). */
+  var TEST_ID = 'aq-quiz-storytelling-short';
+  /* 'quiz-storytelling-short' no cabe en los 20 chars del validador de
+     /api/track, así que la variante va sin el prefijo 'quiz-'. */
+  var VARIANT = 'storytelling-short';
+  (function () {
+    try {
+      var sp = new URLSearchParams(location.search);
+      var tid = (sp.get('test_id') || '').trim();
+      var v = (sp.get('v') || '').trim();
+      if (tid) TEST_ID = tid.slice(0, 80);
+      if (v) VARIANT = v.slice(0, 20);
+    } catch (_) {}
+  })();
+
+  window.PROMO_TRANSLATIONS = {
+    en: {
+      q1: "Right now, your baby&rsquo;s brain is growing faster than ever! Can you guess how many connections are forming every second?",
+      q1_a: "100", q1_b: "1,000", q1_c: "1,000,000", q1_d: "I don&rsquo;t know, just tell me!",
+      fb1: "<strong>More than 1 million connections form every second</strong> &mdash; like a lightning storm in your baby&rsquo;s brain! And the good news? You can help guide that growth through simple everyday actions.",
+      q2: "Which of these do you think experts recommend most to support brain development?",
+      q2_a: "Playing with your baby", q2_b: "Forming loving relationships",
+      q2_c: "Establishing routines", q2_d: "Reading to your baby", q2_e: "All of the above",
+      fb2: "<strong>It&rsquo;s all of the above!</strong> Every giggle, cuddle, routine, and story shapes your baby&rsquo;s brain. And the best part? <strong>With just 5 minutes a day,</strong> you can make a huge difference in their lives.",
+      s3_intro: "Kinedu is here to help! We provide playful ideas that build skills and personalize your experience.",
+      q3: "How old is your baby?",
+      q3_a: "0-3 months", q3_b: "4-6 months", q3_c: "7-12 months", q3_d: "Over a year",
+      q4: "Which area of development would you like to focus on?",
+      q4_a: "Physical", q4_b: "Cognitive", q4_c: "Linguistic", q4_d: "Social-Emotional", q4_e: "A balanced plan",
+      s5_title: "Great! We&rsquo;re creating your baby&rsquo;s personalized plan.",
+      s5_sub: "Give us a few seconds while we put it together.",
+      s5_step1: "Reading your answers",
+      s5_step2: "Choosing activities for their age",
+      s5_step3: "Putting the plan together",
+      nav_next: "Next", nav_prev: "Previous", page_of: "Page {n} of {total}",
+      err_pick: "Pick an option to continue."
+    },
+    es: {
+      q1: "En este momento, el cerebro de tu bebé crece más rápido que nunca. ¿Cuántas conexiones crees que se forman cada segundo?",
+      q1_a: "100", q1_b: "1,000", q1_c: "1,000,000", q1_d: "No sé, ¡dime tú!",
+      fb1: "<strong>Se forman más de 1 millón de conexiones cada segundo</strong> &mdash; como una tormenta eléctrica dentro del cerebro de tu bebé. ¿Y la buena noticia? Tú puedes guiar ese crecimiento con acciones sencillas del día a día.",
+      q2: "¿Cuál de estas crees que los expertos recomiendan más para el desarrollo del cerebro?",
+      q2_a: "Jugar con tu bebé", q2_b: "Crear vínculos de amor",
+      q2_c: "Establecer rutinas", q2_d: "Leerle a tu bebé", q2_e: "Todas las anteriores",
+      fb2: "<strong>¡Son todas!</strong> Cada risa, cada abrazo, cada rutina y cada cuento moldean el cerebro de tu bebé. ¿Y lo mejor? <strong>Con solo 5 minutos al día</strong> puedes hacer una diferencia enorme en su vida.",
+      s3_intro: "¡Kinedu está aquí para ayudarte! Te damos ideas de juego que desarrollan habilidades y personalizamos tu experiencia.",
+      q3: "¿Qué edad tiene tu bebé?",
+      q3_a: "0-3 meses", q3_b: "4-6 meses", q3_c: "7-12 meses", q3_d: "Más de un año",
+      q4: "¿En qué área del desarrollo te gustaría enfocarte?",
+      q4_a: "Física", q4_b: "Cognitiva", q4_c: "Lingüística", q4_d: "Socioemocional", q4_e: "Un plan equilibrado",
+      s5_title: "¡Perfecto! Estamos creando el plan personalizado de tu bebé.",
+      s5_sub: "Danos unos segundos mientras lo armamos.",
+      s5_step1: "Leyendo tus respuestas",
+      s5_step2: "Eligiendo actividades para su edad",
+      s5_step3: "Armando el plan",
+      nav_next: "Siguiente", nav_prev: "Anterior", page_of: "Página {n} de {total}",
+      err_pick: "Elige una opción para continuar."
+    },
+    pt: {
+      q1: "Neste momento, o cérebro do seu bebê está crescendo mais rápido do que nunca. Quantas conexões você acha que se formam a cada segundo?",
+      q1_a: "100", q1_b: "1.000", q1_c: "1.000.000", q1_d: "Não sei, me conta!",
+      fb1: "<strong>Mais de 1 milhão de conexões se formam a cada segundo</strong> &mdash; como uma tempestade de raios dentro do cérebro do seu bebê! E a boa notícia? Você pode guiar esse crescimento com ações simples do dia a dia.",
+      q2: "Qual destas você acha que os especialistas mais recomendam para o desenvolvimento do cérebro?",
+      q2_a: "Brincar com seu bebê", q2_b: "Criar vínculos de afeto",
+      q2_c: "Estabelecer rotinas", q2_d: "Ler para seu bebê", q2_e: "Todas as anteriores",
+      fb2: "<strong>São todas!</strong> Cada risada, cada abraço, cada rotina e cada história moldam o cérebro do seu bebê. E o melhor? <strong>Com só 5 minutos por dia</strong> você faz uma diferença enorme na vida dele.",
+      s3_intro: "A Kinedu está aqui para ajudar! Damos ideias de brincadeiras que desenvolvem habilidades e personalizamos sua experiência.",
+      q3: "Quantos meses tem seu bebê?",
+      q3_a: "0-3 meses", q3_b: "4-6 meses", q3_c: "7-12 meses", q3_d: "Mais de um ano",
+      q4: "Em qual área do desenvolvimento você quer focar?",
+      q4_a: "Física", q4_b: "Cognitiva", q4_c: "Linguística", q4_d: "Socioemocional", q4_e: "Um plano equilibrado",
+      s5_title: "Pronto! Estamos criando o plano personalizado do seu bebê.",
+      s5_sub: "Só um instante enquanto montamos tudo.",
+      s5_step1: "Lendo suas respostas",
+      s5_step2: "Escolhendo atividades para a idade",
+      s5_step3: "Montando o plano",
+      nav_next: "Avançar", nav_prev: "Voltar", page_of: "Página {n} de {total}",
+      err_pick: "Escolha uma opção para continuar."
+    },
+    fr: {
+      q1: "En ce moment, le cerveau de votre bébé grandit plus vite que jamais&nbsp;! Devinez combien de connexions se forment chaque seconde&nbsp;?",
+      q1_a: "100", q1_b: "1&nbsp;000", q1_c: "1&nbsp;000&nbsp;000", q1_d: "Je ne sais pas, dites-le-moi&nbsp;!",
+      fb1: "<strong>Plus d&rsquo;1 million de connexions se forment chaque seconde</strong> &mdash; comme un orage d&rsquo;éclairs dans le cerveau de votre bébé&nbsp;! La bonne nouvelle&nbsp;? Vous pouvez guider cette croissance par des gestes simples du quotidien.",
+      q2: "Selon vous, que recommandent le plus les experts pour soutenir le développement du cerveau&nbsp;?",
+      q2_a: "Jouer avec votre bébé", q2_b: "Créer des liens affectifs",
+      q2_c: "Établir des routines", q2_d: "Lire à votre bébé", q2_e: "Toutes les réponses",
+      fb2: "<strong>C&rsquo;est tout à la fois&nbsp;!</strong> Chaque rire, câlin, routine et histoire façonne le cerveau de votre bébé. Le meilleur&nbsp;? <strong>Avec seulement 5 minutes par jour,</strong> vous pouvez faire une énorme différence dans sa vie.",
+      s3_intro: "Kinedu est là pour vous aider&nbsp;! Des idées ludiques qui développent des compétences, avec une expérience personnalisée.",
+      q3: "Quel âge a votre bébé&nbsp;?",
+      q3_a: "0-3 mois", q3_b: "4-6 mois", q3_c: "7-12 mois", q3_d: "Plus d&rsquo;un an",
+      q4: "Quel domaine du développement souhaitez-vous travailler&nbsp;?",
+      q4_a: "Physique", q4_b: "Cognitif", q4_c: "Langage", q4_d: "Socio-émotionnel", q4_e: "Un plan équilibré",
+      s5_title: "Parfait&nbsp;! Nous créons le plan personnalisé de votre bébé.",
+      s5_sub: "Donnez-nous quelques secondes pour tout préparer.",
+      s5_step1: "Lecture de vos réponses",
+      s5_step2: "Sélection d&rsquo;activités pour son âge",
+      s5_step3: "Assemblage du plan",
+      nav_next: "Suivant", nav_prev: "Précédent", page_of: "Page {n} sur {total}",
+      err_pick: "Choisissez une option pour continuer."
+    },
+    de: {
+      q1: "Genau jetzt wächst das Gehirn deines Babys schneller als je zuvor! Kannst du erraten, wie viele Verbindungen jede Sekunde entstehen?",
+      q1_a: "100", q1_b: "1.000", q1_c: "1.000.000", q1_d: "Keine Ahnung &mdash; sag es mir!",
+      fb1: "<strong>Über 1 Million Verbindungen entstehen jede Sekunde</strong> &mdash; wie ein Blitzgewitter im Gehirn deines Babys! Die gute Nachricht? Mit einfachen Alltagsmomenten kannst du dieses Wachstum begleiten.",
+      q2: "Was empfehlen Experten deiner Meinung nach am meisten, um die Gehirnentwicklung zu fördern?",
+      q2_a: "Mit deinem Baby spielen", q2_b: "Liebevolle Beziehungen aufbauen",
+      q2_c: "Routinen etablieren", q2_d: "Deinem Baby vorlesen", q2_e: "Alles zusammen",
+      fb2: "<strong>Alles zusammen!</strong> Jedes Lachen, Kuscheln, jede Routine und jede Geschichte formt das Gehirn deines Babys. Das Beste? <strong>Mit nur 5 Minuten am Tag</strong> kannst du einen riesigen Unterschied machen.",
+      s3_intro: "Kinedu hilft dir dabei! Spielerische Ideen, die Fähigkeiten aufbauen &mdash; persönlich auf euch zugeschnitten.",
+      q3: "Wie alt ist dein Baby?",
+      q3_a: "0-3 Monate", q3_b: "4-6 Monate", q3_c: "7-12 Monate", q3_d: "Über ein Jahr",
+      q4: "Auf welchen Entwicklungsbereich möchtest du dich konzentrieren?",
+      q4_a: "Körperlich", q4_b: "Kognitiv", q4_c: "Sprache", q4_d: "Sozial-emotional", q4_e: "Ein ausgewogener Plan",
+      s5_title: "Super! Wir erstellen den persönlichen Plan für dein Baby.",
+      s5_sub: "Gib uns ein paar Sekunden, während wir alles zusammenstellen.",
+      s5_step1: "Deine Antworten werden gelesen",
+      s5_step2: "Aktivitäten für sein Alter werden ausgewählt",
+      s5_step3: "Der Plan wird zusammengestellt",
+      nav_next: "Weiter", nav_prev: "Zurück", page_of: "Seite {n} von {total}",
+      err_pick: "Wähle eine Option, um fortzufahren."
+    },
+    it: {
+      q1: "Proprio ora il cervello del tuo bimbo cresce più veloce che mai! Indovina quante connessioni si formano ogni secondo?",
+      q1_a: "100", q1_b: "1.000", q1_c: "1.000.000", q1_d: "Non lo so, dimmelo tu!",
+      fb1: "<strong>Più di 1 milione di connessioni si formano ogni secondo</strong> &mdash; come un temporale di fulmini nel cervello del tuo bimbo! La buona notizia? Puoi guidare questa crescita con semplici gesti quotidiani.",
+      q2: "Quale di queste cose pensi che gli esperti raccomandino di più per sostenere lo sviluppo del cervello?",
+      q2_a: "Giocare con il tuo bimbo", q2_b: "Creare legami affettuosi",
+      q2_c: "Stabilire delle routine", q2_d: "Leggere al tuo bimbo", q2_e: "Tutte le precedenti",
+      fb2: "<strong>Tutte le precedenti!</strong> Ogni risata, coccola, routine e storia modella il cervello del tuo bimbo. La parte migliore? <strong>Con soli 5 minuti al giorno</strong> puoi fare un&rsquo;enorme differenza nella sua vita.",
+      s3_intro: "Kinedu è qui per aiutarti! Idee giocose che sviluppano abilità, con un&rsquo;esperienza personalizzata.",
+      q3: "Quanti mesi ha il tuo bimbo?",
+      q3_a: "0-3 mesi", q3_b: "4-6 mesi", q3_c: "7-12 mesi", q3_d: "Più di un anno",
+      q4: "Su quale area dello sviluppo vuoi concentrarti?",
+      q4_a: "Fisica", q4_b: "Cognitiva", q4_c: "Linguistica", q4_d: "Socio-emotiva", q4_e: "Un piano equilibrato",
+      s5_title: "Perfetto! Stiamo creando il piano personalizzato del tuo bimbo.",
+      s5_sub: "Dacci qualche secondo mentre mettiamo tutto insieme.",
+      s5_step1: "Lettura delle tue risposte",
+      s5_step2: "Scelta delle attività per la sua età",
+      s5_step3: "Composizione del piano",
+      nav_next: "Avanti", nav_prev: "Indietro", page_of: "Pagina {n} di {total}",
+      err_pick: "Scegli un&rsquo;opzione per continuare."
+    }
+  };
+  if (window.applyI18n) window.applyI18n();
+
+  // -------- Helpers de tracking (mismas storage keys que promo-*) --------
+  function uuidV4() {
+    if (typeof crypto !== 'undefined' && crypto.randomUUID) return crypto.randomUUID();
+    /* Fallback sin Math.random: aleatoriedad criptográfica o nada. */
+    var b = crypto.getRandomValues(new Uint8Array(16));
+    b[6] = (b[6] & 0x0f) | 0x40; b[8] = (b[8] & 0x3f) | 0x80;
+    var h = Array.prototype.map.call(b, function (n) { return (n + 0x100).toString(16).slice(1); }).join('');
+    return h.slice(0,8)+'-'+h.slice(8,12)+'-'+h.slice(12,16)+'-'+h.slice(16,20)+'-'+h.slice(20);
+  }
+  var __memSessionId = null;
+  function getSessionId() {
+    /* Igual que getFbEventId: sin storage, id en memoria — la sesión se parte
+       entre páginas pero la página VIVE y cada usuario es único. */
+    try {
+      var s = localStorage.getItem('kinedu_session_id');
+      if (!s) { s = uuidV4(); localStorage.setItem('kinedu_session_id', s); }
+      return s;
+    } catch (e) {
+      if (!__memSessionId) __memSessionId = uuidV4();
+      return __memSessionId;
+    }
+  }
+  function captureFirstTouch() {
+    /* Sin storage: first-touch efímero armado del URL actual — se pierde la
+       herencia entre visitas, pero no la atribución de ESTA ni la página. */
+    try { return captureFirstTouchConStorage(); } catch (e) {
+      var p = new URLSearchParams(window.location.search);
+      return {
+        utm_source: p.get('utm_source'), utm_medium: p.get('utm_medium'),
+        utm_campaign: p.get('utm_campaign'), utm_content: p.get('utm_content'),
+        utm_term: p.get('utm_term'), fbclid: p.get('fbclid'),
+        gclid: p.get('gclid'), ttclid: p.get('ttclid'),
+        referrer: document.referrer || null,
+        landing_url: window.location.href,
+        landed_at: new Date().toISOString()
+      };
+    }
+  }
+  function captureFirstTouchConStorage() {
+    var stored = localStorage.getItem('kinedu_first_touch');
+    if (stored) {
+      try {
+        var ft0 = JSON.parse(stored);
+        /* Si ESTE link trae utms, mandan sobre lo guardado: lo que se mide es
+           la campaña del partner que la persona acaba de tocar, no su primera
+           visita histórica al sitio. */
+        var cur = new URLSearchParams(window.location.search);
+        /* placement= tambien dispara la actualizacion: un link de partner sin
+           utms (no paso por /p) heredaria la campana vieja guardada — y el
+           socio perderia la atribucion de esa compra. */
+        if (cur.get('utm_source') || cur.get('utm_campaign') || cur.get('placement') || cur.get('fbclid') || cur.get('gclid') || cur.get('ttclid')) {
+          ['utm_source','utm_medium','utm_campaign','utm_content','utm_term','fbclid','gclid','ttclid'].forEach(function (k) {
+            if (cur.get(k)) ft0[k] = cur.get(k);
+          });
+          ft0.landing_url = window.location.href;
+          localStorage.setItem('kinedu_first_touch', JSON.stringify(ft0));
+        }
+        return ft0;
+      } catch (_) {}
+    }
+    var p = new URLSearchParams(window.location.search);
+    var ft = {
+      utm_source:   p.get('utm_source'),
+      utm_medium:   p.get('utm_medium'),
+      utm_campaign: p.get('utm_campaign'),
+      utm_content:  p.get('utm_content'),
+      utm_term:     p.get('utm_term'),
+      fbclid:       p.get('fbclid'),
+      gclid:        p.get('gclid'),
+      ttclid:       p.get('ttclid'),
+      referrer:     document.referrer || null,
+      landing_url:  window.location.href,
+      landed_at:    new Date().toISOString()
+    };
+    localStorage.setItem('kinedu_first_touch', JSON.stringify(ft));
+    return ft;
+  }
+  function getRequestedEnv() {
+    try {
+      var urlEnv = new URLSearchParams(window.location.search).get('env');
+      if (urlEnv === 'qa' || urlEnv === 'prod') {
+        sessionStorage.setItem('kinedu_env_override', urlEnv);
+        return urlEnv;
+      }
+      var stored = sessionStorage.getItem('kinedu_env_override');
+      if (stored === 'qa' || stored === 'prod') return stored;
+    } catch (_) {}
+    /* Sin ?env y sin override guardado: lo decide el HOST. Solo el dominio
+       real de produccion es prod; QA, previews de Vercel y localhost reportan
+       como qa. Antes el default era 'prod' a secas y una prueba en el dominio
+       QA sin ?env=qa inflaba las metricas reales del socio. */
+    try {
+      if (window.location.hostname !== 'webpromo.kinedu.com') return 'qa';
+    } catch (_) {}
+    return 'prod';
+  }
+  /* No decide nada aquí (esta variante ni siquiera crea la cuenta), pero el
+     flag viaja al evento para poder comparar la mezcla de links contra el
+     quiz largo y contra las landings de CRM. */
+  function linkMarkedNewUsers() {
+    try { return new URLSearchParams(window.location.search).get('newusers') === '1'; }
+    catch (_) { return false; }
+  }
+
+  var SESSION_ID = getSessionId();
+  captureFirstTouch();
+  try {
+    sessionStorage.setItem('kinedu_lang', LANGUAGE);
+    sessionStorage.setItem('kinedu_test_id', TEST_ID);
+    sessionStorage.setItem('kinedu_variant', VARIANT);
+    localStorage.setItem('kinedu_variant__' + TEST_ID, VARIANT);
+  } catch (_) {}
+
+  function trackToSupabase(eventName, opts) {
+    opts = opts || {};
+    var ft = captureFirstTouch();
+    try {
+      fetch('/api/track', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          event_name:   eventName,
+          environment:  getRequestedEnv(),
+          language:     LANGUAGE,
+          test_id:      TEST_ID,
+          variant:      VARIANT,
+          session_id:   SESSION_ID,
+          screen:       opts.screen || null,
+          properties:   opts.properties || {},
+          utm_source:   ft.utm_source,
+          utm_medium:   ft.utm_medium,
+          utm_campaign: ft.utm_campaign,
+          utm_content:  ft.utm_content,
+          utm_term:     ft.utm_term,
+          fbclid:       ft.fbclid,
+          gclid:        ft.gclid,
+          ttclid:       ft.ttclid,
+          referrer:     ft.referrer,
+          landing_url:  ft.landing_url,
+          user_agent:   navigator.userAgent || null
+        }),
+        keepalive: true
+      }).catch(function () {});
+    } catch (e) { console.warn('[track failed]', eventName, e); }
+  }
+
+  // -------- Estado del quiz --------
+  /* Las 4 respuestas viajan al paywall por sessionStorage para personalizarlo
+     (la edad del bebé cambia el título que verá esa persona). */
+  var quiz = { brain_guess: null, expert_pick: null, baby_age: null, focus_area: null };
+  var STEP_KEY = { 1: 'brain_guess', 2: 'expert_pick', 3: 'baby_age', 4: 'focus_area' };
+  var STEP_QUESTION = {
+    1: 'brain_connections', 2: 'expert_recommendation', 3: 'baby_age', 4: 'focus_area'
+  };
+  function saveQuiz() {
+    try { sessionStorage.setItem('kinedu_quiz', JSON.stringify(quiz)); } catch (_) {}
+  }
+
+  var current = 1;
+  var completed = false;
+
+  var btnNext = document.getElementById('btnNext');
+  var btnPrev = document.getElementById('btnPrev');
+  var pageLabel = document.getElementById('pageLabel');
+  var progressBar = document.getElementById('progressBar');
+
+  function screenEl(n) { return document.getElementById('s' + n); }
+  function errEl(n) { return document.getElementById('e' + n); }
+  function showErr(n, msg) {
+    var el = errEl(n);
+    if (!el) return;
+    el.innerHTML = msg;
+    el.hidden = false;
+  }
+  function clearErr(n) { var el = errEl(n); if (el) el.hidden = true; }
+
+  function render() {
+    for (var i = 1; i <= TOTAL; i++) screenEl(i).classList.toggle('on', i === current);
+    btnPrev.hidden = current === 1;
+    /* A diferencia del quiz largo, la última pantalla NO tiene un CTA propio
+       dentro del contenido, así que el Next de la barra se queda visible: es
+       la salida para quien no quiere esperar los ~3.4s del loader. */
+    btnNext.hidden = false;
+    pageLabel.innerHTML = window.PROMO_T('page_of')
+      .replace('{n}', String(current)).replace('{total}', String(TOTAL));
+    progressBar.style.width = Math.round((current / TOTAL) * 100) + '%';
+    window.scrollTo(0, 0);
+  }
+
+  function validate(n) {
+    var key = STEP_KEY[n];
+    if (!key) return true;              // pantalla 5: nada que validar
+    if (!quiz[key]) { showErr(n, window.PROMO_T('err_pick')); return false; }
+    clearErr(n);
+    return true;
+  }
+
+  /* Destino final. El id del paywall llega por ?paywall= y termina en un path,
+     así que se valida contra un patrón cerrado: sin esto, un link malicioso
+     podría mandar a la gente a cualquier ruta del dominio. Se reenvía el query
+     completo (offer, utms, env, lang, placement, test_id, v…) tal cual. */
+  function paywallUrl() {
+    var sp;
+    try { sp = new URLSearchParams(location.search); } catch (_) { sp = new URLSearchParams(); }
+    var id = (sp.get('paywall') || '').trim();
+    if (!/^[a-z0-9][a-z0-9-]{0,31}$/.test(id)) id = 'trial3';
+    sp.set('from', 'quiz-storytelling-short');
+    var qs = sp.toString();
+    return '/aq-paywall-' + id + '/index.html' + (qs ? '?' + qs : '');
+  }
+
+  /* Cierre del funnel. En el quiz largo esto pasaba después de registrar la
+     cuenta; aquí no hay registro que hacer, así que las respuestas del quiz
+     (que allá viajaban en 'user_registered') se cuelgan de 'funnel_completed'
+     para no perder ese corte en los datos. */
+  function finish(trigger) {
+    if (completed) return;
+    completed = true;
+    stopPlanLoader();
+    try {
+      sessionStorage.setItem('kinedu_lang', LANGUAGE);
+      sessionStorage.setItem('kinedu_test_id', TEST_ID);
+      sessionStorage.setItem('kinedu_variant', VARIANT);
+    } catch (_) {}
+    saveQuiz();
+
+    var dest = paywallUrl();
+    trackToSupabase('funnel_completed', {
+      screen: 'quiz_5',
+      properties: {
+        paywall: dest,
+        trigger: trigger,
+        link_newusers: linkMarkedNewUsers(),
+        brain_guess: quiz.brain_guess,
+        expert_pick: quiz.expert_pick,
+        baby_age: quiz.baby_age,
+        focus_area: quiz.focus_area
+      }
+    });
+    /* replace y no assign: el back del paywall debe regresar al origen del
+       partner, no a un quiz ya contestado. */
+    location.replace(dest);
+  }
+
+  /* Loader de la pantalla 5. La promesa ("estamos creando tu plan") necesita
+     verse trabajando: una espera con avance visible se tolera mucho mejor que
+     una pantalla quieta, y de paso llena el hueco blanco que quedaba hasta los
+     botones. Al terminar encadena SOLO al paywall — un toque menos justo donde
+     más gente abandona. Total ~3.4s: suficiente para que se sienta un cálculo
+     real, corto para no aburrir. */
+  var planTimers = [];
+  function stopPlanLoader() {
+    planTimers.forEach(clearTimeout);
+    planTimers = [];
+  }
+  function runPlanLoader() {
+    stopPlanLoader();
+    var bar = document.getElementById('planBar');
+    var pasos = [].slice.call(document.querySelectorAll('#planLoader .loader-steps li'));
+    if (!bar || !pasos.length) return;
+    pasos.forEach(function (li) { li.classList.remove('done'); });
+    bar.style.width = '0%';
+    var marcas = [900, 1900, 2900];
+    marcas.forEach(function (t, i) {
+      planTimers.push(setTimeout(function () {
+        pasos[i].classList.add('done');
+        bar.style.width = Math.round(((i + 1) / pasos.length) * 100) + '%';
+      }, t));
+    });
+    planTimers.push(setTimeout(function () {
+      /* Solo avanza si el usuario sigue aquí: pudo haberle dado "Anterior". */
+      if (current === 5) finish('loader');
+    }, 3400));
+  }
+
+  function goTo(n) {
+    current = Math.min(Math.max(n, 1), TOTAL);
+    render();
+    if (current === 5) runPlanLoader(); else stopPlanLoader();
+  }
+  function goNext() {
+    if (!validate(current)) return;
+    if (current >= TOTAL) { finish('tap'); return; }
+    goTo(current + 1);
+  }
+
+  btnNext.addEventListener('click', goNext);
+  btnPrev.addEventListener('click', function () { goTo(current - 1); });
+
+  // -------- Opciones (radiogroups) --------
+  document.querySelectorAll('.opts').forEach(function (group) {
+    var key = group.getAttribute('data-group');
+    group.addEventListener('click', function (ev) {
+      var btn = ev.target.closest('.opt');
+      if (!btn || !group.contains(btn)) return;
+      group.querySelectorAll('.opt').forEach(function (o) {
+        o.setAttribute('aria-checked', String(o === btn));
+      });
+      var step = Number(group.closest('.screen').id.slice(1)); // s3 -> 3
+      quiz[key] = btn.getAttribute('data-val');
+      saveQuiz();
+      clearErr(step);
+
+      /* Pantallas 1 y 2: cualquier respuesta revela el dato educativo. Ese
+         "premio" es lo que sostiene el quiz — por eso no se avanza solo. */
+      var fb = document.getElementById('fb' + step);
+      if (fb && fb.hidden) {
+        fb.hidden = false;
+        screenEl(step).classList.add('revealed');
+        if (step === 1) warmImages();
+        /* La caja aparece DEBAJO de las opciones: en pantallas chicas nace
+           fuera de vista y se siente como que el toque no hizo nada.
+           Dos detalles que costaron: hay que alinear por el FINAL (block:'end')
+           para que se vea la imagen completa y no solo el texto; y hay que
+           esperar a que la imagen cargue, porque mientras mide 0 el scroll se
+           queda corto justo por su altura. */
+        try {
+          var suave = !window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+          /* scrollIntoView no basta: la barra de navegación es sticky y flota
+             SOBRE el contenido, así que alinear con el borde del viewport
+             dejaba la imagen escondida detrás de ella. Se calcula el destino a
+             mano, descontando la altura real de la barra. */
+          var alFinal = function () {
+            var barra = document.querySelector('.nav');
+            var alto = barra ? barra.getBoundingClientRect().height : 0;
+            var ultimo = fb.querySelector('img') || fb;
+            var fondo = ultimo.getBoundingClientRect().bottom + window.pageYOffset;
+            var destino = Math.max(0, fondo - window.innerHeight + alto + 16);
+            window.scrollTo({ top: destino, behavior: suave ? 'smooth' : 'auto' });
+            /* Hay navegadores donde el scroll suave simplemente no corre (se
+               comprobó en pruebas: con 'smooth' se quedaba en 0 y con 'auto'
+               sí llegaba). Si a los 400 ms no se movió, se fuerza — vale más
+               un salto seco que dejar la imagen escondida tras la barra. */
+            setTimeout(function () {
+              if (Math.abs(window.pageYOffset - destino) > 8) window.scrollTo(0, destino);
+            }, 400);
+          };
+          var img = fb.querySelector('img');
+          if (img && !img.complete) {
+            img.addEventListener('load', alFinal, { once: true });
+            img.addEventListener('error', alFinal, { once: true });
+          }
+          setTimeout(alFinal, 80);
+        } catch (_) { /* sin scroll no se rompe nada */ }
+      }
+
+      trackToSupabase('quiz_answer', {
+        screen: 'quiz_' + step,
+        properties: { step: step, question: STEP_QUESTION[step], answer: quiz[key] }
+      });
+    });
+  });
+
+  /* Las imágenes de las pantallas 2 y 5 son lazy (viven en secciones ocultas).
+     En cuanto hay señal de que la persona sigue en el quiz se precargan, para
+     que el feedback no aparezca con un hueco en blanco. Rutas absolutas: el
+     arte vive en /aq-quiz-brain/, compartido entre las dos variantes. */
+  var warmed = false;
+  function warmImages() {
+    if (warmed) return; warmed = true;
+    ['/aq-quiz-brain/all-of-the-above.png', '/aq-quiz-brain/personalized-plan.png'].forEach(function (src) {
+      var im = new Image(); im.src = src;
+    });
+  }
+
+  // -------- Boot --------
+  render();
+  trackToSupabase('funnel_started', {
+    screen: 'quiz_1',
+    properties: { variant_assigned: VARIANT, link_newusers: linkMarkedNewUsers() }
+  });
+
+  /* Precarga del paywall: a los 4s (los que rebotan ya se fueron) se pide el
+     HTML del paywall con prioridad baja — el brinco quiz→paywall deja de ser
+     una carga en frío en el webview de IG, donde se nos pierde ~10-25% entre
+     "terminó el quiz" y "el paywall arrancó". Safari ignora prefetch: ahí no
+     ayuda pero tampoco estorba. */
+  setTimeout(function () {
+    try {
+      var l = document.createElement('link');
+      l.rel = 'prefetch';
+      l.as = 'document';
+      l.href = paywallUrl();
+      document.head.appendChild(l);
+    } catch (_) {}
+  }, 4000);
+
+
+  console.log('[aq-quiz-storytelling-short] ready · test=' + TEST_ID + ' v=' + VARIANT +
+              ' lang=' + LANGUAGE + ' sid=' + SESSION_ID.slice(0, 8));
+})();
+</script>
+</body>
+</html>

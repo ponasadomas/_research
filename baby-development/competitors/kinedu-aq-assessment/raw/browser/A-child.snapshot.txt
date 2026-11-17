@@ -1,0 +1,72 @@
+uid=3_0 RootWebArea "Kinedu — Your baby’s development, right now" url="https://webpromo.kinedu.com/aq-assessment?vid=c1991816-d75d-4e46-a05d-cc40924c2ea8&paywall=trial3&offer=p79-t7&newusers=1&placement=assessment-landing&utm_source=assessment-landing&utm_medium=partner&ui=classic&capture=0"
+  uid=3_1 alert atomic live="assertive" relevant="additions text"
+  uid=3_2 image "Kinedu" url="https://webpromo.kinedu.com/aq-classic/kinedu.png"
+  uid=8_0 heading "Tell us about your baby" level="2"
+  uid=8_1 "Name"
+  uid=8_2 " "
+  uid=8_3 "(optional)"
+  uid=8_4 textbox "Name (optional)"
+  uid=3_6 "Date of birth"
+  uid=8_5 button "prev"
+  uid=8_6 combobox "Month" expandable haspopup="menu" value="November"
+    uid=8_7 option "January"
+    uid=8_8 option "February"
+    uid=8_9 option "March"
+    uid=8_10 option "April"
+    uid=8_11 option "May"
+    uid=8_12 option "June"
+    uid=8_13 option "July"
+    uid=8_14 option "August"
+    uid=8_15 option "September"
+    uid=8_16 option "October"
+    uid=8_17 option "November" selected
+    uid=8_18 option "December"
+  uid=8_19 combobox "Year" expandable haspopup="menu" value="2026"
+    uid=8_20 option "2026" selected
+    uid=8_21 option "2025"
+    uid=8_22 option "2024"
+    uid=8_23 option "2023"
+    uid=8_24 option "2022"
+    uid=8_25 option "2021"
+  uid=8_26 button "next" disableable disabled
+  uid=8_27 "S"
+  uid=8_28 "M"
+  uid=8_29 "T"
+  uid=8_30 "W"
+  uid=8_31 "T"
+  uid=8_32 "F"
+  uid=8_33 "S"
+  uid=8_34 button "1"
+  uid=8_35 button "2"
+  uid=8_36 button "3" disableable disabled
+  uid=8_37 button "4" disableable disabled
+  uid=8_38 button "5" disableable disabled
+  uid=8_39 button "6" disableable disabled
+  uid=8_40 button "7" disableable disabled
+  uid=8_41 button "8" disableable disabled
+  uid=8_42 button "9" disableable disabled
+  uid=8_43 button "10" disableable disabled
+  uid=8_44 button "11" disableable disabled
+  uid=8_45 button "12" disableable disabled
+  uid=8_46 button "13" disableable disabled
+  uid=8_47 button "14" disableable disabled
+  uid=8_48 button "15" disableable disabled
+  uid=8_49 button "16" disableable disabled
+  uid=8_50 button "17" disableable disabled
+  uid=8_51 button "18" disableable disabled
+  uid=8_52 button "19" disableable disabled
+  uid=8_53 button "20" disableable disabled
+  uid=8_54 button "21" disableable disabled
+  uid=8_55 button "22" disableable disabled
+  uid=8_56 button "23" disableable disabled
+  uid=8_57 button "24" disableable disabled
+  uid=8_58 button "25" disableable disabled
+  uid=8_59 button "26" disableable disabled
+  uid=8_60 button "27" disableable disabled
+  uid=8_61 button "28" disableable disabled
+  uid=8_62 button "29" disableable disabled
+  uid=8_63 button "30" disableable disabled
+  uid=8_64 "Born before 37 weeks?"
+  uid=8_65 checkbox "Born before 37 weeks?"
+  uid=8_66 button "See your baby’s questions →" disableable disabled
+  uid=8_67 "Development surveillance, not diagnosis."

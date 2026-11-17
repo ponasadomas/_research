@@ -1,0 +1,30 @@
+Emulating viewport: {"deviceScaleFactor":1,"isMobile":true,"hasTouch":true,"isLandscape":false,"width":390,"height":844}
+## Request https://n.clarity.ms/collect
+Status: 204
+### Request Headers
+- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+- accept:application/x-clarity-gzip
+- referer:https://webpromo.kinedu.com/
+- accept-encoding:gzip, deflate, br, zstd
+- accept-language:en-GB,en-US;q=0.9,en;q=0.8
+- connection:keep-alive
+- content-length:2369
+- cookie:MUID=31B0558876D16AD42592424F775E6B3C
+- host:n.clarity.ms
+- origin:https://webpromo.kinedu.com
+- sec-fetch-dest:empty
+- sec-fetch-mode:cors
+- sec-fetch-site:cross-site
+- sec-fetch-storage-access:active
+### Request Body
+Saved to /tmp/kinedu-browser/raw/A-83.network-request.
+### Response Headers
+- access-control-allow-credentials:true
+- access-control-allow-origin:https://webpromo.kinedu.com
+- connection:keep-alive
+- date:Mon, 02 Nov 2026 16:47:53 GMT
+- request-context:appId=cid-v1:a449a586-8786-487f-a449-dc1b282a2628
+- server:nginx
+- vary:Origin
+### Response Body
+<Response body not available anymore>

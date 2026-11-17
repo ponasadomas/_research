@@ -1,0 +1,1544 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<!-- Microsoft Clarity: mismo proyecto que kinedu.com ("Kinedu Landing Page"); solo en producción -->
+<script>if(location.hostname==="webpromo.kinedu.com"){(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y)})(window,document,"clarity","script","x8ou6ay6eb");}</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Kinedu — Start your free trial</title>
+
+<!-- Meta Pixel (mirrors app/layout.tsx — static HTMLs don't pass through Next layout) -->
+<script>
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+  document,'script','https://connect.facebook.net/en_US/fbevents.js');
+  /* Sin configuración automática (Martha, 20-oct-2026): el pixel no lee texto de botones ni de la página (respuestas del quiz, nombre del bebé). Los eventos explícitos no cambian. */
+  fbq('set', 'autoConfig', false, '2089634224620932');
+  fbq('init', '2089634224620932'); fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" alt="" src="https://www.facebook.com/tr?id=2089634224620932&ev=PageView&noscript=1"/></noscript>
+
+<!-- Stripe.js — el payment sheet monta el Embedded Checkout DENTRO de esta página -->
+<script src="https://js.stripe.com/v3/" async></script>
+
+<style>
+  :root{
+    --bg:#FFFFFF; --ink:#12100F; --muted:#6E6575; --hair:#EFEAEF;
+    --orange:#E0733D; --orange-dark:#C85F2C; --orange-tint:#FDF1E9;
+    --green:#3EB6A8; --gold:#F2B33D; --red:#E5484D;
+    --sans:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  }
+  *{-webkit-tap-highlight-color:transparent}
+  html{background:var(--bg)}
+  body{margin:0;font-family:var(--sans);color:var(--ink);background:var(--bg);min-height:100dvh;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:480px;margin:0 auto;padding:0 20px calc(14px + env(safe-area-inset-bottom));display:flex;flex-direction:column;min-height:100dvh;box-sizing:border-box}
+
+  /* Barra superior: la flecha "<" solo aparece a partir de la pantalla 2, pero
+     el hueco se reserva siempre para que el logo no salte entre pantallas. */
+  .topbar{display:grid;grid-template-columns:40px 1fr 40px;align-items:center;padding:calc(10px + env(safe-area-inset-top)) 0 2px}
+  .back{width:40px;height:40px;border:none;background:none;padding:0;cursor:pointer;display:flex;align-items:center;justify-content:center;border-radius:999px;visibility:hidden}
+  .back svg{width:11px;height:19px}
+  .back.on{visibility:visible}
+  .back:active{background:#F5F2F5}
+  .logo{height:24px;width:auto;margin:0 auto;display:block}
+
+  main{flex:1;display:flex;flex-direction:column;justify-content:center;text-align:center;padding:4px 0 10px}
+  .screen{display:none;flex-direction:column;align-items:center;animation:fade .32s ease both}
+  .screen.on{display:flex}
+  @keyframes fade{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+  h1{font-size:clamp(24px,6.6vw,30px);line-height:1.16;letter-spacing:-.022em;margin:0 0 18px;font-weight:800;text-wrap:balance}
+  h1 b{color:var(--orange);font-weight:800}
+
+  .art{width:100%;max-width:400px;height:auto;display:block;margin:0 auto}
+  .art--bell{max-width:230px;margin:10px auto 18px}
+
+  /* ---- Pantalla 3: badges + reseña ---- */
+  .badges{display:flex;gap:10px;justify-content:center;width:100%;margin:0 0 16px}
+  .badge{flex:1 1 0;min-width:0;display:flex;align-items:center;justify-content:center;gap:2px;background:#FBFAFB;border:1px solid var(--hair);border-radius:16px;padding:10px 4px}
+  .badge svg{width:22px;height:48px;flex:none}
+  .badge .flip{transform:scaleX(-1)}
+  .badge-txt{font-size:12.5px;font-weight:700;line-height:1.2;letter-spacing:-.01em;text-wrap:balance}
+
+  .review{width:100%;box-sizing:border-box;background:#fff;border:1px solid var(--hair);border-radius:18px;box-shadow:0 14px 30px -20px rgba(28,21,34,.35);padding:16px 16px 14px;text-align:left}
+  .stars{display:flex;gap:3px;margin:0 0 9px}
+  .stars svg{width:16px;height:16px}
+  .review p{margin:0;font-size:13.5px;line-height:1.5;color:#3B3440}
+  .review .who{margin:10px 0 0;font-size:13px;font-weight:700;color:var(--muted)}
+
+  /* ---- Bloque de cierre (idéntico en las 3 pantallas) ---- */
+  .foot{padding:2px 0 0}
+  .nopay{display:flex;align-items:center;justify-content:center;gap:7px;font-size:14.5px;font-weight:600;color:#3B3440;margin:0 0 12px}
+  .nopay svg{width:15px;height:15px;flex:none}
+  .cta{display:block;width:100%;box-sizing:border-box;background:var(--orange);color:#fff;border:none;border-radius:15px;padding:18px 20px;font-size:17.5px;font-weight:700;font-family:var(--sans);letter-spacing:-.01em;box-shadow:0 12px 26px -12px rgba(224,115,61,.65);cursor:pointer;transition:transform .15s ease,background .2s ease}
+  .cta:hover{background:var(--orange-dark)}
+  .cta:active{transform:scale(.985)}
+  .fine{font-size:11px;line-height:1.45;color:#A79FAD;margin:11px 0 0;text-align:center}
+  .links{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:4px 8px;margin:9px 0 0;font-size:11px;color:#A79FAD}
+  .links a{color:#A79FAD;text-decoration:none;cursor:pointer}
+  .links a:hover{text-decoration:underline}
+  .links span{opacity:.5}
+  .restore-note{font-size:11.5px;line-height:1.5;color:var(--muted);background:#FAF8FA;border:1px solid var(--hair);border-radius:10px;padding:9px 11px;margin:9px 0 0;text-align:center}
+
+  /* ============ Payment sheet (misma página, patrón de promo-gift) ============ */
+  .backdrop{position:fixed;inset:0;background:rgba(28,21,34,.45);opacity:0;pointer-events:none;transition:opacity .3s ease;z-index:40}
+  .backdrop.on{opacity:1;pointer-events:auto}
+  .sheet{position:fixed;left:0;right:0;bottom:0;z-index:50;background:#fff;border-radius:22px 22px 0 0;box-shadow:0 -18px 50px -12px rgba(28,21,34,.35);transform:translateY(105%);transition:transform .45s cubic-bezier(.3,1,.4,1);max-width:480px;margin:0 auto;padding:10px 20px calc(18px + env(safe-area-inset-bottom));box-sizing:border-box;max-height:92dvh;overflow-y:auto}
+  .sheet.on{transform:translateY(0)}
+  .handle{width:42px;height:5px;border-radius:999px;background:#E4DEE4;margin:4px auto 14px}
+  .sh-head{display:flex;align-items:center;justify-content:space-between;margin:0 0 12px}
+  .sh-title{font-size:17px;font-weight:800;letter-spacing:-.015em}
+  .sh-close{border:none;background:#F3F0F3;color:#6E6575;width:30px;height:30px;border-radius:999px;font-size:15px;cursor:pointer;line-height:1}
+  .sh-summary{display:flex;align-items:center;justify-content:space-between;gap:10px;background:#FAF8FA;border:1px solid var(--hair);border-radius:12px;padding:12px 14px;margin:0 0 14px}
+  .sh-summary .l{font-size:14px;font-weight:600;text-align:left}
+  .sh-summary .l small{display:block;font-weight:400;color:var(--muted);font-size:12px;margin-top:2px}
+  .sh-summary .r{font-size:17px;font-weight:800;letter-spacing:-.02em;white-space:nowrap;text-align:right}
+  .sh-summary .r small{display:block;font-size:11px;color:var(--muted);font-weight:500}
+  .field{margin:0 0 10px;text-align:left}
+  .field label{display:block;font-size:12px;font-weight:600;color:var(--muted);margin:0 0 5px}
+  .field input{width:100%;box-sizing:border-box;border:1.5px solid #E4DEE4;border-radius:10px;padding:12px;font-size:16px;font-family:var(--sans);color:var(--ink);outline:none;-webkit-appearance:none}
+  .field input:focus{border-color:var(--orange)}
+  .sh-btn{display:block;width:100%;box-sizing:border-box;background:var(--orange);color:#fff;border:none;border-radius:12px;padding:15px;font-size:16px;font-weight:700;font-family:var(--sans);cursor:pointer;transition:background .2s ease,opacity .2s ease}
+  .sh-btn:hover{background:var(--orange-dark)}
+  .sh-btn:disabled{opacity:.65;cursor:default}
+  .sh-err{font-size:13px;font-weight:600;color:var(--red);line-height:1.45;margin:10px 0 0;text-align:left}
+  .sh-premium{text-align:center;padding:16px 0 8px}
+  .sh-premium .emoji{font-size:36px}
+  .sh-premium h3{font-size:19px;font-weight:800;letter-spacing:-.02em;margin:10px 0 6px}
+  .sh-premium p{font-size:14px;color:var(--muted);line-height:1.5;margin:0}
+  #stripeMount{min-height:320px;margin:2px -6px 0}
+  .disclosure{font-size:11.5px;color:#A79FAD;line-height:1.5;margin:10px 0 0;text-align:center}
+  .sh-loading{display:flex;align-items:center;justify-content:center;gap:10px;color:var(--muted);font-size:14px;padding:26px 0}
+  .spinner{width:18px;height:18px;border:2.5px solid #F0E5DC;border-top-color:var(--orange);border-radius:50%;animation:spin .8s linear infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
+
+  [hidden]{display:none !important}
+  /* Pantallas cortas (iPhone SE): el arte cede espacio antes que el copy. */
+  @media (max-height:700px){
+    .art{max-width:300px}
+    .art--bell{max-width:170px;margin:4px auto 12px}
+    h1{margin-bottom:12px}
+    .review p{font-size:12.5px}
+  }
+  @media (prefers-reduced-motion: reduce){
+    .screen{animation:none}
+    .sheet,.backdrop{transition-duration:.01s}
+  }
+  .plans{display:flex;flex-direction:column;gap:10px;margin:0 0 12px}
+  /* <button> centra su texto por defecto (UA stylesheet): la fila se alinea a
+     la izquierda de forma explícita — feedback de Martha 2-sep. */
+  .plan{position:relative;display:flex;align-items:center;gap:14px;width:100%;box-sizing:border-box;min-height:64px;text-align:left;background:#fff;border:2px solid #E4DEE7;border-radius:16px;padding:14px 16px;cursor:pointer;font-family:var(--sans);color:var(--ink);transition:border-color .15s ease,background .15s ease,transform .1s ease;-webkit-appearance:none;appearance:none}
+  .plan:active{transform:scale(.99)}
+  .plan:focus-visible{outline:3px solid rgba(224,115,61,.35);outline-offset:2px}
+  .plan.sel{border-color:var(--orange);background:var(--orange-tint);box-shadow:0 10px 24px -16px rgba(224,115,61,.55)}
+  .plan .pl{flex:1;min-width:0;display:flex;flex-direction:column;align-items:flex-start;gap:3px;text-align:left}
+  .plan .pname{font-size:16px;font-weight:800;line-height:1.15;letter-spacing:-.01em}
+  .plan .psub{font-size:12px;color:#8B8292;line-height:1.3}
+  .plan .pprice{flex:none;display:flex;flex-direction:column;align-items:flex-end;text-align:right;white-space:nowrap;line-height:1.05}
+  .plan .pprice b{font-size:18px;font-weight:800;letter-spacing:-.015em}
+  .plan.sel .pprice b{color:var(--orange-dark)}
+  .plan .pprice small{font-size:11px;font-weight:600;color:#8B8292;margin-top:2px}
+  .plan .radio{width:24px;height:24px;flex:none;border-radius:999px;border:2px solid #D8D2DE;display:grid;place-items:center;background:#fff;transition:border-color .15s ease,background .15s ease}
+  .plan.sel .radio{border-color:var(--orange);background:var(--orange)}
+  .plan .radio svg{width:13px;height:13px;display:none}
+  .plan.sel .radio svg{display:block}
+  .plan-tag{position:absolute;top:-10px;right:14px;background:var(--orange);color:#fff;font-size:10px;font-weight:800;letter-spacing:.06em;border-radius:99px;padding:3px 10px;text-transform:uppercase;box-shadow:0 2px 6px -2px rgba(224,115,61,.6)}
+  .plan-tag[hidden]{display:none}
+  .plan-tag.intro{background:#6D28D9;box-shadow:0 2px 6px -2px rgba(109,40,217,.6)}
+  /* Dos planes en pantallas cortas (Safari móvil deja ~650-750px): todo el
+     paywall cabe sin scroll — testimonio a 4 líneas, laureles y filas más
+     compactos (Martha, 2-sep). Solo aplica con el selector (body.dos-planes),
+     así los links de siempre no cambian. */
+  /* Filas SIEMPRE de la misma altura y el texto chico en una sola línea:
+     una fila más alta llama más la atención y sesga la elección (Martha, 2-sep). */
+  .dos-planes .plan{height:64px;min-height:64px;padding-top:0;padding-bottom:0}
+  .dos-planes .plan .pl{gap:2px}
+  .dos-planes .plan .psub{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
+  .dos-planes .plan .pname{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
+  /* Con dos planes: legal en 2 renglones y links del pie en 1 (Martha, 2-sep). */
+  .dos-planes .fine{font-size:9.5px;line-height:1.3;letter-spacing:-.01em;margin-top:8px}
+  .dos-planes .links{flex-wrap:nowrap;white-space:nowrap;gap:0 6px;font-size:10px;letter-spacing:-.01em;margin-top:6px}
+  @media (max-width: 360px){ .dos-planes .links{font-size:9px} .dos-planes .fine{font-size:9px} }
+  @media (max-height: 840px){
+    .dos-planes h1{font-size:clamp(20px,5.6vw,25px);margin-bottom:10px}
+    .dos-planes .badges{margin-bottom:10px}
+    .dos-planes .badge{padding:9px 4px;border-radius:14px}
+    .dos-planes .badge svg{height:44px;width:20px}
+    .dos-planes .badge-txt{font-size:12px}
+    .dos-planes .review{padding:11px 13px 9px;border-radius:14px}
+    .dos-planes .stars{margin-bottom:6px}
+    .dos-planes .stars svg{width:14px;height:14px}
+    .dos-planes .review p{font-size:13px;line-height:1.42;display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden}
+    .dos-planes .review .who{margin-top:6px;font-size:12px}
+    .dos-planes .nopay{margin-bottom:8px;font-size:13.5px}
+    .dos-planes .plans{gap:8px;margin-bottom:10px}
+    .dos-planes .plan{height:58px;min-height:58px;padding:0 14px;gap:10px}
+    .dos-planes .plan .pname{font-size:15px}
+    .dos-planes .plan .psub{font-size:11.5px}
+    .dos-planes .plan .pprice b{font-size:17px}
+    .dos-planes .cta{padding:14px 20px;font-size:16.5px;border-radius:13px}
+    .dos-planes main{padding:0 0 6px}
+  }
+  @media (max-height: 760px){
+    .dos-planes .badge{padding:7px 4px}
+    .dos-planes .badge svg{height:38px;width:18px}
+    .dos-planes .review p{font-size:12.5px;line-height:1.4;-webkit-line-clamp:4}
+  }
+  @media (max-height: 680px){
+    .dos-planes .review p{-webkit-line-clamp:3}
+    .dos-planes h1{font-size:clamp(19px,5.2vw,22px);margin-bottom:8px}
+    .dos-planes .badge svg{height:28px}
+  }
+  .plan.solo{cursor:default}
+  .plan.solo:active{transform:none}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="topbar">
+    <button class="back" id="back" aria-label="Back">
+      <svg viewBox="0 0 11 19" fill="none" aria-hidden="true"><path d="M9.5 1.5 2 9.5l7.5 8" stroke="#12100F" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </button>
+    <img class="logo" src="/promo-flash/Kinedu_Logo_Color.png" alt="Kinedu">
+    <span></span>
+  </div>
+
+  <main>
+    <!-- ══════════ Pantalla 1 — valor ══════════ -->
+    <section class="screen on" id="s1">
+      <h1 id="h1" data-i18n="s1_title">Know EXACTLY what to do with your baby every day</h1>
+
+      <!-- Captura REAL de la app, una por idioma (las mandó Martha). Antes
+           había un SVG dibujado a mano: se veía bien pero no era el producto,
+           y en un paywall de tráfico frío la evidencia real pesa más que el
+           control del vector. La imagen se elige por idioma para que una mamá
+           en México no vea la app en inglés — el src se fija desde JS porque
+           el idioma se resuelve ahí (?lang= o navegador). WebP (~85 KB) con
+           PNG de respaldo; medidas declaradas para que el texto no brinque. -->
+      <picture id="heroArt">
+        <source id="heroWebp" srcset="/aq-paywall-trial3/hero-app-en.webp" type="image/webp">
+        <img class="art" id="heroImg" src="/aq-paywall-trial3/hero-app-en.png"
+             width="871" height="835" alt="" aria-hidden="true"
+             fetchpriority="high" decoding="async">
+      </picture>
+    </section>
+
+    <!-- ══════════ Pantalla 2 — recordatorio del trial ══════════ -->
+    <section class="screen" id="s2">
+      <h1 data-i18n="s2_title">We'll send you a reminder before your free trial ends</h1>
+      <svg class="art art--bell" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <!-- Campana plana de una sola pieza: cualquier sombra o "onda de
+             sonido" acaba tapada por el badge y se lee como un borrón. -->
+        <circle cx="100" cy="34" r="9.5" fill="#B9B2BC"/>
+        <path d="M100 40c-28 0-44 20-44 48v22c0 16-8 26-16 34h120c-8-8-16-18-16-34V88c0-28-16-48-44-48z" fill="#C9C3CB"/>
+        <path d="M85 150c0 17 30 17 30 0z" fill="#B9B2BC"/>
+        <circle cx="152" cy="52" r="25" fill="#FFFFFF"/>
+        <circle cx="152" cy="52" r="21" fill="#E5484D"/>
+        <text x="152" y="60" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-serif" font-size="24" font-weight="800" fill="#FFFFFF">1</text>
+      </svg>
+    </section>
+
+    <!-- ══════════ Pantalla 3 — prueba social ══════════ -->
+    <section class="screen" id="s3">
+      <h1 data-i18n="s3_title">Start your 7-day <b>FREE</b> trial to continue.</h1>
+
+      <div class="badges">
+        <div class="badge">
+          <svg viewBox="0 0 34 74" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <path d="M27 70C11 57 8 30 20 6" stroke="#B0A8B4" stroke-width="2.2" stroke-linecap="round"/>
+            <ellipse cx="19" cy="63" rx="9" ry="4.3" fill="#B0A8B4" transform="rotate(-52 19 63)"/>
+            <ellipse cx="14.5" cy="52" rx="9" ry="4.3" fill="#B0A8B4" transform="rotate(-40 14.5 52)"/>
+            <ellipse cx="10.5" cy="41" rx="9" ry="4.3" fill="#B0A8B4" transform="rotate(-24 10.5 41)"/>
+            <ellipse cx="9.5" cy="29" rx="9" ry="4.3" fill="#B0A8B4" transform="rotate(-8 9.5 29)"/>
+            <ellipse cx="10.5" cy="18" rx="9" ry="4.3" fill="#B0A8B4" transform="rotate(10 10.5 18)"/>
+            <ellipse cx="14.5" cy="8" rx="9" ry="4.3" fill="#B0A8B4" transform="rotate(28 14.5 8)"/>
+          </svg>
+          <span class="badge-txt" data-i18n="badge_appday">8M families</span>
+          <svg class="flip" viewBox="0 0 34 74" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <path d="M27 70C11 57 8 30 20 6" stroke="#B0A8B4" stroke-width="2.2" stroke-linecap="round"/>
+            <ellipse cx="19" cy="63" rx="9" ry="4.3" fill="#B0A8B4" transform="rotate(-52 19 63)"/>
+            <ellipse cx="14.5" cy="52" rx="9" ry="4.3" fill="#B0A8B4" transform="rotate(-40 14.5 52)"/>
+            <ellipse cx="10.5" cy="41" rx="9" ry="4.3" fill="#B0A8B4" transform="rotate(-24 10.5 41)"/>
+            <ellipse cx="9.5" cy="29" rx="9" ry="4.3" fill="#B0A8B4" transform="rotate(-8 9.5 29)"/>
+            <ellipse cx="10.5" cy="18" rx="9" ry="4.3" fill="#B0A8B4" transform="rotate(10 10.5 18)"/>
+            <ellipse cx="14.5" cy="8" rx="9" ry="4.3" fill="#B0A8B4" transform="rotate(28 14.5 8)"/>
+          </svg>
+        </div>
+        <div class="badge">
+          <svg viewBox="0 0 34 74" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <path d="M27 70C11 57 8 30 20 6" stroke="#B0A8B4" stroke-width="2.2" stroke-linecap="round"/>
+            <ellipse cx="19" cy="63" rx="9" ry="4.3" fill="#B0A8B4" transform="rotate(-52 19 63)"/>
+            <ellipse cx="14.5" cy="52" rx="9" ry="4.3" fill="#B0A8B4" transform="rotate(-40 14.5 52)"/>
+            <ellipse cx="10.5" cy="41" rx="9" ry="4.3" fill="#B0A8B4" transform="rotate(-24 10.5 41)"/>
+            <ellipse cx="9.5" cy="29" rx="9" ry="4.3" fill="#B0A8B4" transform="rotate(-8 9.5 29)"/>
+            <ellipse cx="10.5" cy="18" rx="9" ry="4.3" fill="#B0A8B4" transform="rotate(10 10.5 18)"/>
+            <ellipse cx="14.5" cy="8" rx="9" ry="4.3" fill="#B0A8B4" transform="rotate(28 14.5 8)"/>
+          </svg>
+          <span class="badge-txt" data-i18n="badge_editors">25K+ 5&#8209;star reviews</span>
+          <svg class="flip" viewBox="0 0 34 74" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <path d="M27 70C11 57 8 30 20 6" stroke="#B0A8B4" stroke-width="2.2" stroke-linecap="round"/>
+            <ellipse cx="19" cy="63" rx="9" ry="4.3" fill="#B0A8B4" transform="rotate(-52 19 63)"/>
+            <ellipse cx="14.5" cy="52" rx="9" ry="4.3" fill="#B0A8B4" transform="rotate(-40 14.5 52)"/>
+            <ellipse cx="10.5" cy="41" rx="9" ry="4.3" fill="#B0A8B4" transform="rotate(-24 10.5 41)"/>
+            <ellipse cx="9.5" cy="29" rx="9" ry="4.3" fill="#B0A8B4" transform="rotate(-8 9.5 29)"/>
+            <ellipse cx="10.5" cy="18" rx="9" ry="4.3" fill="#B0A8B4" transform="rotate(10 10.5 18)"/>
+            <ellipse cx="14.5" cy="8" rx="9" ry="4.3" fill="#B0A8B4" transform="rotate(28 14.5 8)"/>
+          </svg>
+        </div>
+      </div>
+
+      <div class="review">
+        <div class="stars" aria-hidden="true">
+          <svg viewBox="0 0 20 20"><path d="M10 1.6l2.6 5.3 5.8.8-4.2 4.1 1 5.8L10 14.9l-5.2 2.7 1-5.8L1.6 7.7l5.8-.8z" fill="#F2B33D"/></svg>
+          <svg viewBox="0 0 20 20"><path d="M10 1.6l2.6 5.3 5.8.8-4.2 4.1 1 5.8L10 14.9l-5.2 2.7 1-5.8L1.6 7.7l5.8-.8z" fill="#F2B33D"/></svg>
+          <svg viewBox="0 0 20 20"><path d="M10 1.6l2.6 5.3 5.8.8-4.2 4.1 1 5.8L10 14.9l-5.2 2.7 1-5.8L1.6 7.7l5.8-.8z" fill="#F2B33D"/></svg>
+          <svg viewBox="0 0 20 20"><path d="M10 1.6l2.6 5.3 5.8.8-4.2 4.1 1 5.8L10 14.9l-5.2 2.7 1-5.8L1.6 7.7l5.8-.8z" fill="#F2B33D"/></svg>
+          <svg viewBox="0 0 20 20"><path d="M10 1.6l2.6 5.3 5.8.8-4.2 4.1 1 5.8L10 14.9l-5.2 2.7 1-5.8L1.6 7.7l5.8-.8z" fill="#F2B33D"/></svg>
+        </div>
+        <p data-i18n="review">Great great app especially for the nicu mommies trying to figure out what to do with their children’s adjusted age. Just had twins so trying to make sure I am doing appropriate activities with them was very important and this app has been on point every week!</p>
+        <p class="who" data-i18n="review_who">Nurse.Camille · App Store</p>
+      </div>
+    </section>
+  </main>
+
+  <!-- Bloque de cierre compartido: en las 3 pantallas es idéntico salvo el
+       texto del botón, así que vive fuera de las secciones (un solo nodo = un
+       solo listener y cero parpadeo del CTA al cambiar de pantalla). -->
+  <footer class="foot">
+    <p class="nopay" id="nopay">
+      <svg viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M2.5 8.5l3.5 3.5 7.5-8" stroke="#3EB6A8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <span data-i18n="nopay">No Payment Due Now</span>
+    </p>
+    <div class="plans" id="plans" hidden>
+      <button type="button" class="plan sel" data-offer="p59">
+        <span class="plan-tag" id="planTag" hidden></span>
+        <span class="pl"><b class="pname" data-i18n="plan_yearly">Annual</b><small class="psub" id="planYearSub"></small></span>
+        <span class="pprice"><b data-price2="p59">$59.99</b><small data-i18n="plan_per_year">/year</small></span>
+        <span class="radio"><svg viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M2.5 8.5l3.5 3.5 7.5-8" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+      </button>
+      <button type="button" class="plan" data-offer="m13">
+        <span class="plan-tag" hidden></span>
+        <span class="pl"><b class="pname" data-i18n="plan_monthly">Monthly</b><small class="psub" data-i18n="plan_monthly_sub">Cancel anytime</small></span>
+        <span class="pprice"><b data-price2="m13">$12.99</b><small data-i18n="plan_per_month">/month</small></span>
+        <span class="radio"><svg viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M2.5 8.5l3.5 3.5 7.5-8" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+      </button>
+    </div>
+    <button class="cta" id="cta">Try for $0</button>
+    <p class="fine" id="fine" data-i18n="fine_trial" data-price-tpl>By tapping Start Free Trial, you agree to be charged {offer}/year after your 7-day trial unless you cancel.</p>
+    <p class="links">
+      <a id="restore" role="button" tabindex="0" data-i18n="link_restore">Restore Purchase</a>
+      <span>·</span>
+      <a href="https://www.kinedu.com/terms" target="_blank" rel="noopener" data-i18n="link_terms">Terms &amp; Conditions</a>
+      <span>·</span>
+      <a href="https://www.kinedu.com/privacy" target="_blank" rel="noopener" data-i18n="link_privacy">Privacy Policy</a>
+    </p>
+    <p class="restore-note" id="restoreNote" hidden data-i18n="restore_note"></p>
+  </footer>
+</div>
+
+<div class="backdrop" id="backdrop"></div>
+<div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-label="Checkout">
+  <div class="handle"></div>
+  <div class="sh-head">
+    <span class="sh-title" data-i18n="sh_title">Start your free trial</span>
+    <button class="sh-close" id="shClose" aria-label="Close">&#10005;</button>
+  </div>
+  <div class="sh-summary">
+    <span class="l"><span data-i18n="sh_plan">Kinedu Premium · 1 year</span><small data-i18n="sh_trial">7 days free, cancel anytime</small></span>
+    <span class="r"><span data-price="offer">$79.99</span><small data-i18n="sh_after">after the trial</small></span>
+  </div>
+
+  <!-- Paso 1: correo + nombre. Solo se ve si alguien entró DIRECTO al paywall
+       (sin pasar por el quiz): en el flujo normal ya venimos con cuenta. -->
+  <form id="emailStep" novalidate hidden>
+    <div class="field">
+      <label for="promoName" data-i18n="sh_name_label">Your name</label>
+      <input id="promoName" name="name" type="text" autocomplete="given-name" maxlength="60" placeholder="Maria" data-i18n-ph="sh_name_ph">
+    </div>
+    <div class="field">
+      <label for="shEmail" data-i18n="sh_email_label">Your email</label>
+      <input id="shEmail" type="email" inputmode="email" autocomplete="email" placeholder="mom@email.com" data-i18n-ph="sh_email_ph">
+    </div>
+    <button type="submit" class="sh-btn" id="shContinue" data-i18n="sh_continue">Continue</button>
+    <p class="sh-err" id="shErr" hidden></p>
+  </form>
+
+  <!-- Ya premium: no se le cobra de nuevo (misma guarda que las promos) -->
+  <div class="sh-premium" id="premiumState" hidden>
+    <div class="emoji">&#127881;</div>
+    <h3 data-i18n="premium_title">You already have full access</h3>
+    <p data-i18n="premium_sub">Open the Kinedu app — no need to pay again.</p>
+  </div>
+
+  <!-- Paso 2: Stripe Embedded Checkout -->
+  <div id="payStep" hidden>
+    <div class="sh-loading" id="payLoading"><span class="spinner"></span><span data-i18n="sh_loading">Loading secure checkout…</span></div>
+    <div id="stripeMount"></div>
+    <p class="disclosure" id="disclosure"></p>
+  </div>
+</div>
+
+<!-- Oferta ANTES de los scripts compartidos: promo-price.js lee ?offer= de la
+     URL al ejecutarse y su default es p49 (el de las promos). En adquisición el
+     default es p79-t7, así que si el link no trae oferta la escribimos en la
+     URL con replaceState — así el precio localizado, el checkout y el link que
+     el usuario pueda compartir apuntan todos a la MISMA oferta. -->
+<script>
+(function () {
+  'use strict';
+  var ALLOWED = ['p49','p49-t7','p59','p59-t7','p79-t7','p39','p39-t7','p79-i30','p59-w1','p49-y499','p49-y699'];
+  var DEFAULT_OFFER = 'p79-t7';
+  var offer = DEFAULT_OFFER;
+  try {
+    var sp = new URLSearchParams(location.search);
+    var o = sp.get('offer');
+    if (o && ALLOWED.indexOf(o) !== -1) {
+      offer = o;
+    } else if (history.replaceState) {
+      sp.set('offer', DEFAULT_OFFER);
+      history.replaceState(null, '', location.pathname + '?' + sp.toString() + location.hash);
+    }
+    sessionStorage.setItem('kinedu_offer', offer);
+  } catch (e) { /* nunca romper el paywall por la URL */ }
+  window.__AQ_OFFER = offer;
+  /* Segundo plan (mensual), opcional: solo llega si el dashboard armó el link
+     con dos botones. Sin él, este paywall es EXACTAMENTE el de siempre. */
+  var ALLOWED2 = ALLOWED.concat(['m13']); // el de abajo puede ser CUALQUIER precio
+  var offer2 = null;
+  try {
+    var o2 = new URLSearchParams(location.search).get('offer2');
+    if (o2 && o2 !== offer && ALLOWED2.indexOf(o2) !== -1) offer2 = o2;
+  } catch (e) {}
+  window.__AQ_OFFER2 = offer2;
+
+  /* Fallback USD del texto legal ANTES de promo-i18n: su default generico es
+     $49.99 (el de promos) y este paywall puede estar cobrando $79.99 — si el
+     precio localizado tarda o falla, el fine print prometeria un cobro que no
+     es. Mismos montos que displayUsd en src/lib/prices/offers. */
+  var USD = { 'p49':'$49.99','p49-t7':'$49.99','p39':'$39.99','p39-t7':'$39.99','p59':'$59.99','p59-t7':'$59.99','p79-t7':'$79.99','p79-i30':'$79.99' };
+  window.PROMO_PRICE_FALLBACK = { offer: USD[offer] || '$79.99', anchor: '$79.99', save: 0 };
+})();
+</script>
+
+<!-- i18n compartido (EN/ES/PT) + precio localizado (misma tabla que cobra Stripe) -->
+<script src="/promo-i18n.js"></script>
+<script src="/promo-price.js"></script>
+<script>
+(function () {
+  'use strict';
+
+  /* ============================================================
+   * /aq-paywall-trial3 — paywall de ADQUISICIÓN (tráfico frío).
+   * Réplica del paywall de 3 pantallas que hoy corre en Superwall:
+   *   1) valor  →  2) recordatorio del trial  →  3) prueba social + cobro.
+   * Es la segunda pieza del mundo Acquisition (src/lib/acquisition.ts):
+   * el quiz (/aq-quiz-brain) YA capturó nombre y correo y YA creó la cuenta,
+   * así que aquí solo se vende y se cobra — el correo y el token de Kinedu
+   * llegan por sessionStorage. Si alguien entra DIRECTO (sin quiz), el sheet
+   * pide correo y nombre y registra con /api/register-promo.
+   * Convenciones idénticas a las landings de promo: i18n compartido, precio
+   * localizado por tokens, /api/track, Stripe Embedded Checkout en un sheet.
+   * ============================================================ */
+
+  var TEST_ID = 'aq-paywall-trial3';
+  var VARIANT = 'trial3';
+  var LANGUAGE = (window.PROMO_LANG || 'en');
+  var OFFER = window.__AQ_OFFER || 'p79-t7';
+  /* Las ofertas con sufijo -t7 son las que traen 7 días gratis (offers.ts).
+     Sin trial, este paywall miente: no hay "$0 hoy" ni recordatorio que dar. */
+  var IS_TRIAL = /-t7$/.test(OFFER);
+
+  window.PROMO_TRANSLATIONS = {
+    en: {
+      s1_title: "Know EXACTLY what to do with your baby every day",
+      s2_title: "We&rsquo;ll send you a reminder before your free trial ends",
+      s3_title: "Start your 7-day <b>FREE</b> trial to continue.",
+      s3_title_notrial: "Get <b>Kinedu Premium</b> to continue.",
+      badge_appday: "8M families",
+      badge_editors: "25K+ 5&#8209;star reviews",
+      review: "Great great app especially for the nicu mommies trying to figure out what to do with their children’s adjusted age. Just had twins so trying to make sure I am doing appropriate activities with them was very important and this app has been on point every week!",
+      review_who: "Nurse.Camille · App Store",
+      nopay: "No Payment Due Now",
+      cta1: "Try for $0",
+      cta2: "Continue for FREE",
+      cta3: "Start Free Trial",
+      cta1_notrial: "Get Kinedu Premium",
+      cta3_notrial: "Get Kinedu Premium",
+      fine_trial: "By tapping Start Free Trial, you agree to be charged {offer}/year after your 7-day trial unless you cancel.",
+      fine_notrial: "By tapping the button, you agree to be charged {offer}/year, renewed every year until you cancel.",
+      plan_yearly: "Annual", plan_monthly: "Monthly", plan_per_year: "/year", plan_per_month: "/month", plan_monthly_sub: "Cancel anytime",
+      fine_month: "By tapping the button, you agree to be charged {offer}/month, renewed every month until you cancel.",
+      sh_plan_month: "Kinedu Premium &middot; monthly", sh_trial_month: "One payment a month &middot; cancel anytime",
+      disclosure_month: "By subscribing, you authorize Kinedu to charge you {offer} today and on each monthly renewal until you cancel. Cancel anytime.",
+      plan_trial_tag: "{d} DAYS FREE", plan_intro_tag: "INTRO PRICE", plan_intro_per: "1 month", plan_trial_per: "today", plan_name_trial: "FREE for {d} days", plan_name_intro: "{d}-day trial", plan_after_sub: "Then {year}/yr", fine_intro: "By tapping the button, you agree to pay {intro} today for your first {d} days and {offer}/year from day {d}, renewed yearly until you cancel.", sh_trial_intro: "{intro} today · then {offer}/year from day {d}", disclosure_intro: "By subscribing, you authorize a charge of {intro} today for your first {d} days and {offer}/year from day {d} and on each renewal until you cancel. Cancel anytime.", plan_save_tag: "SAVE {pct}%", plan_year_sub: "{mo}/mo · {year} billed yearly",
+      link_restore: "Restore Purchase",
+      link_terms: "Terms &amp; Conditions",
+      link_privacy: "Privacy Policy",
+      restore_note: "Already subscribed? Open the Kinedu app and sign in with the same email — your Premium is already there.",
+      sh_title: "Start your free trial",
+      sh_title_notrial: "Complete your purchase",
+      sh_plan: "Kinedu Premium · 1 year",
+      sh_trial: "7 days free, cancel anytime",
+      sh_trial_notrial: "One payment a year · cancel anytime",
+      sh_after: "after the trial",
+      sh_after_notrial: "billed today",
+      sh_name_label: "Your name",
+      sh_name_ph: "e.g. Maria",
+      sh_email_label: "Your email",
+      sh_email_ph: "mom@email.com",
+      sh_continue: "Continue",
+      sh_finding: "Setting up your account…",
+      sh_loading: "Loading secure checkout…",
+      premium_title: "You already have full access",
+      premium_sub: "Open the Kinedu app — no need to pay again.",
+      err_name: "Please tell us your name so we can set up your account.",
+      err_email: "Please enter a valid email — this is where your Kinedu account lives.",
+      err_generic: "Hmm, that didn't go through. Please check your email and try again.",
+      disclosure: "By subscribing, you authorize Kinedu to charge you {offer} today and the regular annual price on each renewal until you cancel. Cancel anytime.",
+      disclosure_trial: "$0 due today. By starting your trial, you authorize Kinedu to charge you {offer} when your 7-day free trial ends, and the regular annual price on each renewal until you cancel. Cancel anytime.",
+      /* Mockups de la app (van dentro del SVG, se escriben desde JS) */
+      mock_chip: "Adaptation",
+      mock_title: "Social Behaviour",
+      mock_plan: "Today's plan",
+      mock_act1: "Tummy time",
+      mock_act2: "Peekaboo",
+      mock_act3: "Sing along"
+    },
+    es: {
+      s1_title: "Descubre EXACTAMENTE qué hacer con tu bebé cada día",
+      s2_title: "Te avisaremos antes de que termine tu prueba gratis",
+      s3_title: "Empieza tu prueba <b>GRATIS</b> de 7 días para continuar.",
+      s3_title_notrial: "Activa <b>Kinedu Premium</b> para continuar.",
+      badge_appday: "8M de familias",
+      badge_editors: "+25 mil reseñas de 5 estrellas",
+      review: "La aplicación tiene un costo que vale la pena pagar. Esta hecha por profesionales que se preocupan por la salud integral de los bebés. […]",
+      review_who: "Eslimg · App Store México",
+      nopay: "Hoy no pagas nada",
+      cta1: "Pruébala por $0",
+      cta2: "Continuar GRATIS",
+      cta3: "Empezar mi prueba gratis",
+      cta1_notrial: "Quiero Kinedu Premium",
+      cta3_notrial: "Quiero Kinedu Premium",
+      fine_trial: "Al tocar Empezar mi prueba gratis, aceptas que se te cobren {offer} al año cuando terminen tus 7 días de prueba, a menos que canceles.",
+      fine_notrial: "Al tocar el botón, aceptas que se te cobren {offer} al año, con renovación cada año hasta que canceles.",
+      plan_yearly: "Anual", plan_monthly: "Mensual", plan_per_year: "/a&ntilde;o", plan_per_month: "/mes", plan_monthly_sub: "Cancela cuando quieras",
+      fine_month: "Al tocar el bot&oacute;n, aceptas que se te cobren {offer} al mes, con renovaci&oacute;n mensual hasta que canceles.",
+      sh_plan_month: "Kinedu Premium &middot; mensual", sh_trial_month: "Un pago al mes &middot; cancela cuando quieras",
+      disclosure_month: "Al suscribirte, autorizas a Kinedu a cobrarte {offer} hoy y en cada renovaci&oacute;n mensual hasta que canceles. Puedes cancelar cuando quieras.",
+      plan_trial_tag: "{d} DÍAS GRATIS", plan_intro_tag: "PRECIO INTRO", plan_intro_per: "1 mes", plan_trial_per: "hoy", plan_name_trial: "GRATIS por {d} días", plan_name_intro: "{d} días de prueba", plan_after_sub: "Luego {year} al año", fine_intro: "Al tocar el botón, aceptas pagar {intro} hoy por tus primeros {d} días y {offer} al año desde el día {d}, renovable cada año hasta que canceles.", sh_trial_intro: "{intro} hoy · luego {offer} al año desde el día {d}", disclosure_intro: "Al suscribirte, autorizas un cargo de {intro} hoy por tus primeros {d} días y {offer} al año desde el día {d} y en cada renovación hasta que canceles. Puedes cancelar cuando quieras.", plan_save_tag: "AHORRA {pct}%", plan_year_sub: "{mo}/mes · {year} al año",
+      link_restore: "Restaurar compra",
+      link_terms: "Términos y condiciones",
+      link_privacy: "Aviso de privacidad",
+      restore_note: "¿Ya te suscribiste? Abre la app de Kinedu e inicia sesión con el mismo correo — tu Premium ya está ahí.",
+      sh_title: "Empieza tu prueba gratis",
+      sh_title_notrial: "Completa tu compra",
+      sh_plan: "Kinedu Premium · 1 año",
+      sh_trial: "7 días gratis · cancela cuando quieras",
+      sh_trial_notrial: "Un solo pago al año · cancela cuando quieras",
+      sh_after: "al terminar la prueba",
+      sh_after_notrial: "se cobra hoy",
+      sh_name_label: "Tu nombre",
+      sh_name_ph: "ej. María",
+      sh_email_label: "Tu correo",
+      sh_email_ph: "mama@correo.com",
+      sh_continue: "Continuar",
+      sh_finding: "Preparando tu cuenta…",
+      sh_loading: "Cargando pago seguro…",
+      premium_title: "Ya tienes acceso completo",
+      premium_sub: "Abre la app de Kinedu — no necesitas pagar de nuevo.",
+      err_name: "Escribe tu nombre para crear tu cuenta.",
+      err_email: "Escribe un correo válido — ahí vive tu cuenta de Kinedu.",
+      err_generic: "Algo no salió. Revisa tu correo e inténtalo de nuevo.",
+      disclosure: "Al suscribirte, autorizas a Kinedu a cobrarte {offer} hoy y el precio regular anual en cada renovación hasta que canceles. Puedes cancelar cuando quieras.",
+      disclosure_trial: "Hoy pagas $0. Al iniciar tu prueba, autorizas a Kinedu a cobrarte {offer} cuando terminen tus 7 días gratis, y el precio regular anual en cada renovación hasta que canceles. Puedes cancelar cuando quieras.",
+      mock_chip: "Adaptación",
+      mock_title: "Conducta social",
+      mock_plan: "Plan de hoy",
+      mock_act1: "Boca abajo",
+      mock_act2: "¿Dónde está?",
+      mock_act3: "A cantar"
+    },
+    pt: {
+      s1_title: "Saiba EXATAMENTE o que fazer com seu bebê todos os dias",
+      s2_title: "Vamos te avisar antes que seu teste grátis termine",
+      s3_title: "Comece seu teste <b>GRÁTIS</b> de 7 dias para continuar.",
+      s3_title_notrial: "Ative o <b>Kinedu Premium</b> para continuar.",
+      badge_appday: "8M de famílias",
+      badge_editors: "+25 mil avaliações 5 estrelas",
+      review: "Para ser pai ou mãe existe manual SIM, com toda certeza o Kinedu tem me ajudado nesta nova fase da minha vida desde então. […]",
+      review_who: "Thom031190 · App Store Brasil",
+      nopay: "Você não paga nada hoje",
+      cta1: "Experimentar grátis",
+      cta2: "Continuar GRÁTIS",
+      cta3: "Começar meu teste grátis",
+      cta1_notrial: "Quero o Kinedu Premium",
+      cta3_notrial: "Quero o Kinedu Premium",
+      fine_trial: "Ao tocar em Começar meu teste grátis, você concorda em ser cobrado {offer} por ano quando seus 7 dias de teste terminarem, a menos que cancele.",
+      fine_notrial: "Ao tocar no botão, você concorda em ser cobrado {offer} por ano, com renovação anual até você cancelar.",
+      plan_yearly: "Anual", plan_monthly: "Mensal", plan_per_year: "/ano", plan_per_month: "/m&ecirc;s", plan_monthly_sub: "Cancele quando quiser",
+      fine_month: "Ao tocar no bot&atilde;o, voc&ecirc; concorda em pagar {offer} por m&ecirc;s, renovado mensalmente at&eacute; voc&ecirc; cancelar.",
+      sh_plan_month: "Kinedu Premium &middot; mensal", sh_trial_month: "Um pagamento por m&ecirc;s &middot; cancele quando quiser",
+      disclosure_month: "Ao assinar, voc&ecirc; autoriza a Kinedu a cobrar {offer} hoje e em cada renova&ccedil;&atilde;o mensal at&eacute; voc&ecirc; cancelar. Cancele quando quiser.",
+      plan_trial_tag: "{d} DIAS GRÁTIS", plan_intro_tag: "PREÇO INTRO", plan_intro_per: "1 mês", plan_trial_per: "hoje", plan_name_trial: "GRÁTIS por {d} dias", plan_name_intro: "{d} dias de teste", plan_after_sub: "Depois {year} por ano", fine_intro: "Ao tocar no botão, você aceita pagar {intro} hoje pelos primeiros {d} dias e {offer} por ano a partir do dia {d}, renovado anualmente até cancelar.", sh_trial_intro: "{intro} hoje · depois {offer} por ano a partir do dia {d}", disclosure_intro: "Ao assinar, você autoriza uma cobrança de {intro} hoje pelos primeiros {d} dias e {offer} por ano a partir do dia {d} e em cada renovação até cancelar. Cancele quando quiser.", plan_save_tag: "ECONOMIZE {pct}%", plan_year_sub: "{mo}/mês · {year} por ano",
+      link_restore: "Restaurar compra",
+      link_terms: "Termos e condições",
+      link_privacy: "Política de privacidade",
+      restore_note: "Já assinou? Abra o app da Kinedu e entre com o mesmo e-mail — seu Premium já está lá.",
+      sh_title: "Comece seu teste grátis",
+      sh_title_notrial: "Finalize sua compra",
+      sh_plan: "Kinedu Premium · 1 ano",
+      sh_trial: "7 dias grátis · cancele quando quiser",
+      sh_trial_notrial: "Um pagamento por ano · cancele quando quiser",
+      sh_after: "depois do teste",
+      sh_after_notrial: "cobrado hoje",
+      sh_name_label: "Seu nome",
+      sh_name_ph: "ex. Maria",
+      sh_email_label: "Seu e-mail",
+      sh_email_ph: "mae@email.com",
+      sh_continue: "Continuar",
+      sh_finding: "Preparando sua conta…",
+      sh_loading: "Carregando pagamento seguro…",
+      premium_title: "Você já tem acesso completo",
+      premium_sub: "Abra o app da Kinedu — não precisa pagar de novo.",
+      err_name: "Escreva seu nome para criarmos sua conta.",
+      err_email: "Digite um e-mail válido — é nele que fica sua conta Kinedu.",
+      err_generic: "Algo não deu certo. Confira seu e-mail e tente de novo.",
+      disclosure: "Ao assinar, você autoriza a Kinedu a cobrar {offer} hoje e o preço anual regular em cada renovação até você cancelar. Cancele quando quiser.",
+      disclosure_trial: "Hoje você paga $0. Ao iniciar seu teste, você autoriza a Kinedu a cobrar {offer} quando seus 7 dias grátis terminarem, e o preço anual regular em cada renovação até cancelar. Cancele quando quiser.",
+      mock_chip: "Adaptação",
+      mock_title: "Conduta social",
+      mock_plan: "Plano de hoje",
+      mock_act1: "De barriga",
+      mock_act2: "Cadê você?",
+      mock_act3: "Vamos cantar"
+    },
+    fr: {
+      s1_title: "Sachez EXACTEMENT quoi faire avec votre bébé chaque jour",
+      s2_title: "Nous vous enverrons un rappel avant la fin de votre essai gratuit",
+      s3_title: "Commencez vos 7 jours d&rsquo;essai <b>GRATUIT</b> pour continuer.",
+      s3_title_notrial: "Passez à <b>Kinedu Premium</b> pour continuer.",
+      badge_appday: "8M de familles",
+      badge_editors: "25K+ avis 5 étoiles",
+      nopay: "Aucun paiement aujourd&rsquo;hui",
+      cta1: "Essayer gratuitement",
+      cta2: "Continuer GRATUITEMENT",
+      cta3: "Commencer l&rsquo;essai gratuit",
+      cta1_notrial: "Passer à Kinedu Premium",
+      cta3_notrial: "Passer à Kinedu Premium",
+      fine_trial: "En appuyant sur Commencer l&rsquo;essai gratuit, vous acceptez d&rsquo;être facturé(e) {offer}/an après vos 7 jours d&rsquo;essai, sauf annulation.",
+      fine_notrial: "En appuyant sur le bouton, vous acceptez d&rsquo;être facturé(e) {offer}/an, renouvelé chaque année jusqu&rsquo;à annulation.",
+      plan_yearly: "Annuel", plan_monthly: "Mensuel", plan_per_year: "/an", plan_per_month: "/mois", plan_monthly_sub: "Annulez &agrave; tout moment",
+      fine_month: "En appuyant sur le bouton, vous acceptez d&rsquo;&ecirc;tre factur&eacute; {offer}/mois, renouvel&eacute; chaque mois jusqu&rsquo;&agrave; annulation.",
+      sh_plan_month: "Kinedu Premium &middot; mensuel", sh_trial_month: "Un paiement par mois &middot; annulez &agrave; tout moment",
+      disclosure_month: "En vous abonnant, vous autorisez Kinedu &agrave; vous facturer {offer} aujourd&rsquo;hui et &agrave; chaque renouvellement mensuel jusqu&rsquo;&agrave; annulation.",
+      plan_trial_tag: "{d} JOURS OFFERTS", plan_intro_tag: "PRIX INTRO", plan_intro_per: "1 mois", plan_trial_per: "aujourd’hui", plan_name_trial: "GRATUIT pendant {d} jours", plan_name_intro: "Essai de {d} jours", plan_after_sub: "Puis {year} par an", fine_intro: "En appuyant, vous acceptez de payer {intro} aujourd’hui pour vos {d} premiers jours, puis {offer} par an dès le jour {d}, renouvelé chaque année jusqu’à annulation.", sh_trial_intro: "{intro} aujourd’hui · puis {offer} par an dès le jour {d}", disclosure_intro: "En vous abonnant, vous autorisez un débit de {intro} aujourd’hui pour vos {d} premiers jours, puis {offer} par an dès le jour {d} et à chaque renouvellement jusqu’à annulation.", plan_save_tag: "ÉCONOMISEZ {pct}%", plan_year_sub: "{mo}/mois · {year} par an",
+      link_restore: "Restaurer l&rsquo;achat",
+      link_terms: "Conditions générales",
+      link_privacy: "Politique de confidentialité",
+      restore_note: "Déjà abonné(e)&nbsp;? Ouvrez l&rsquo;appli Kinedu et connectez-vous avec le même e-mail &mdash; votre Premium vous attend.",
+      sh_title: "Commencez votre essai gratuit",
+      sh_title_notrial: "Finalisez votre achat",
+      sh_plan: "Kinedu Premium · 1 an",
+      sh_trial: "7 jours gratuits, annulez à tout moment",
+      sh_trial_notrial: "Un paiement par an · annulez à tout moment",
+      sh_after: "après l&rsquo;essai",
+      sh_after_notrial: "facturé aujourd&rsquo;hui",
+      sh_name_label: "Votre nom",
+      sh_name_ph: "ex. Marie",
+      sh_email_label: "Votre e-mail",
+      sh_email_ph: "maman@email.com",
+      sh_continue: "Continuer",
+      sh_finding: "Création de votre compte…",
+      sh_loading: "Chargement du paiement sécurisé…",
+      premium_title: "Vous avez déjà l&rsquo;accès complet",
+      premium_sub: "Ouvrez l&rsquo;appli Kinedu &mdash; pas besoin de payer à nouveau.",
+      err_name: "Dites-nous votre nom pour créer votre compte.",
+      err_email: "Veuillez saisir un e-mail valide &mdash; c&rsquo;est là que vit votre compte Kinedu.",
+      err_generic: "Hmm, ça n&rsquo;a pas fonctionné. Vérifiez votre e-mail et réessayez.",
+      disclosure: "En vous abonnant, vous autorisez Kinedu à vous facturer {offer} aujourd&rsquo;hui, puis le prix annuel en vigueur à chaque renouvellement jusqu&rsquo;à annulation. Annulez à tout moment.",
+      disclosure_trial: "Aucun paiement aujourd&rsquo;hui. En commençant votre essai, vous autorisez Kinedu à vous facturer {offer} à la fin de vos 7 jours gratuits, puis le prix annuel en vigueur à chaque renouvellement jusqu&rsquo;à annulation. Annulez à tout moment.",
+      mock_chip: "Adaptation",
+      mock_title: "Comportement social",
+      mock_plan: "Plan du jour",
+      mock_act1: "Temps sur le ventre",
+      mock_act2: "Coucou-caché",
+      mock_act3: "Chantons ensemble"
+    },
+    de: {
+      s1_title: "Wisse GENAU, was du jeden Tag mit deinem Baby machen kannst",
+      s2_title: "Wir erinnern dich, bevor deine kostenlose Testphase endet",
+      s3_title: "Starte deine 7-tägige <b>GRATIS</b>-Testphase, um fortzufahren.",
+      s3_title_notrial: "Hol dir <b>Kinedu Premium</b>, um fortzufahren.",
+      badge_appday: "8 Mio. Familien",
+      badge_editors: "25K+ 5-Sterne-Bewertungen",
+      nopay: "Heute keine Zahlung fällig",
+      cta1: "Kostenlos testen",
+      cta2: "GRATIS weitermachen",
+      cta3: "Gratis-Test starten",
+      cta1_notrial: "Kinedu Premium holen",
+      cta3_notrial: "Kinedu Premium holen",
+      fine_trial: "Mit Tippen auf „Gratis-Test starten“ stimmst du zu, dass dir nach deiner 7-tägigen Testphase {offer}/Jahr berechnet wird, sofern du nicht kündigst.",
+      fine_notrial: "Mit Tippen auf den Button stimmst du zu, dass dir {offer}/Jahr berechnet wird, jährlich verlängert, bis du kündigst.",
+      plan_yearly: "J&auml;hrlich", plan_monthly: "Monatlich", plan_per_year: "/Jahr", plan_per_month: "/Monat", plan_monthly_sub: "Jederzeit k&uuml;ndbar",
+      fine_month: "Mit Tippen auf den Button stimmst du zu, dass dir {offer}/Monat berechnet wird, monatlich verl&auml;ngert bis zur K&uuml;ndigung.",
+      sh_plan_month: "Kinedu Premium &middot; monatlich", sh_trial_month: "Eine Zahlung pro Monat &middot; jederzeit k&uuml;ndbar",
+      disclosure_month: "Mit dem Abo autorisierst du Kinedu, dir heute {offer} zu berechnen sowie bei jeder monatlichen Verl&auml;ngerung, bis du k&uuml;ndigst.",
+      plan_trial_tag: "{d} TAGE GRATIS", plan_intro_tag: "INTRO-PREIS", plan_intro_per: "1 Monat", plan_trial_per: "heute", plan_name_trial: "{d} Tage GRATIS", plan_name_intro: "{d} Tage testen", plan_after_sub: "Danach {year} pro Jahr", fine_intro: "Mit Tippen stimmst du zu: heute {intro} für die ersten {d} Tage, ab Tag {d} {offer} pro Jahr, jährlich verlängert bis zur Kündigung.", sh_trial_intro: "{intro} heute · danach {offer} pro Jahr ab Tag {d}", disclosure_intro: "Mit dem Abo autorisierst du Kinedu, heute {intro} für die ersten {d} Tage und ab Tag {d} {offer} pro Jahr sowie bei jeder Verlängerung zu berechnen, bis du kündigst.", plan_save_tag: "{pct}% SPAREN", plan_year_sub: "{mo}/Monat · {year} pro Jahr",
+      link_restore: "Kauf wiederherstellen",
+      link_terms: "AGB",
+      link_privacy: "Datenschutz",
+      restore_note: "Schon abonniert? Öffne die Kinedu-App und melde dich mit derselben E-Mail an &mdash; dein Premium ist schon da.",
+      sh_title: "Starte deine kostenlose Testphase",
+      sh_title_notrial: "Kauf abschließen",
+      sh_plan: "Kinedu Premium · 1 Jahr",
+      sh_trial: "7 Tage gratis, jederzeit kündbar",
+      sh_trial_notrial: "Eine Zahlung pro Jahr · jederzeit kündbar",
+      sh_after: "nach der Testphase",
+      sh_after_notrial: "heute berechnet",
+      sh_name_label: "Dein Name",
+      sh_name_ph: "z. B. Maria",
+      sh_email_label: "Deine E-Mail",
+      sh_email_ph: "mama@email.com",
+      sh_continue: "Weiter",
+      sh_finding: "Dein Konto wird eingerichtet…",
+      sh_loading: "Sicherer Checkout wird geladen…",
+      premium_title: "Du hast bereits vollen Zugriff",
+      premium_sub: "Öffne die Kinedu-App &mdash; du musst nicht noch mal zahlen.",
+      err_name: "Bitte sag uns deinen Namen, damit wir dein Konto einrichten können.",
+      err_email: "Bitte gib eine gültige E-Mail ein &mdash; dort lebt dein Kinedu-Konto.",
+      err_generic: "Hmm, das hat nicht geklappt. Bitte prüfe deine E-Mail und versuch es noch mal.",
+      disclosure: "Mit dem Abo autorisierst du Kinedu, dir heute {offer} zu berechnen und bei jeder Verlängerung den regulären Jahrespreis, bis du kündigst. Jederzeit kündbar.",
+      disclosure_trial: "Heute keine Zahlung fällig. Mit dem Start deiner Testphase autorisierst du Kinedu, dir {offer} zu berechnen, wenn deine 7-tägige Gratis-Testphase endet, und bei jeder Verlängerung den regulären Jahrespreis, bis du kündigst. Jederzeit kündbar.",
+      mock_chip: "Anpassung",
+      mock_title: "Sozialverhalten",
+      mock_plan: "Plan für heute",
+      mock_act1: "Bauchlage",
+      mock_act2: "Kuckuck!",
+      mock_act3: "Gemeinsam singen"
+    },
+    it: {
+      s1_title: "Sappi ESATTAMENTE cosa fare con il tuo bimbo ogni giorno",
+      s2_title: "Ti manderemo un promemoria prima della fine della prova gratuita",
+      s3_title: "Inizia i tuoi 7 giorni di prova <b>GRATIS</b> per continuare.",
+      s3_title_notrial: "Passa a <b>Kinedu Premium</b> per continuare.",
+      badge_appday: "8M di famiglie",
+      badge_editors: "25K+ recensioni a 5 stelle",
+      nopay: "Nessun pagamento oggi",
+      cta1: "Provala gratis",
+      cta2: "Continua GRATIS",
+      cta3: "Inizia la prova gratuita",
+      cta1_notrial: "Passa a Kinedu Premium",
+      cta3_notrial: "Passa a Kinedu Premium",
+      fine_trial: "Toccando Inizia la prova gratuita, accetti l&rsquo;addebito di {offer}/anno dopo i 7 giorni di prova, salvo annullamento.",
+      fine_notrial: "Toccando il pulsante, accetti l&rsquo;addebito di {offer}/anno, rinnovato ogni anno finché non annulli.",
+      plan_yearly: "Annuale", plan_monthly: "Mensile", plan_per_year: "/anno", plan_per_month: "/mese", plan_monthly_sub: "Annulla quando vuoi",
+      fine_month: "Toccando il pulsante accetti l&rsquo;addebito di {offer}/mese, rinnovato ogni mese fino alla disdetta.",
+      sh_plan_month: "Kinedu Premium &middot; mensile", sh_trial_month: "Un pagamento al mese &middot; annulla quando vuoi",
+      disclosure_month: "Abbonandoti autorizzi Kinedu ad addebitarti {offer} oggi e a ogni rinnovo mensile fino alla disdetta.",
+      plan_trial_tag: "{d} GIORNI GRATIS", plan_intro_tag: "PREZZO INTRO", plan_intro_per: "1 mese", plan_trial_per: "oggi", plan_name_trial: "GRATIS per {d} giorni", plan_name_intro: "Prova di {d} giorni", plan_after_sub: "Poi {year} all’anno", fine_intro: "Toccando il pulsante accetti di pagare {intro} oggi per i primi {d} giorni e {offer} all’anno dal giorno {d}, rinnovato ogni anno fino alla disdetta.", sh_trial_intro: "{intro} oggi · poi {offer} all’anno dal giorno {d}", disclosure_intro: "Abbonandoti autorizzi un addebito di {intro} oggi per i primi {d} giorni e {offer} all’anno dal giorno {d} e a ogni rinnovo fino alla disdetta. Annulla quando vuoi.", plan_save_tag: "RISPARMIA {pct}%", plan_year_sub: "{mo}/mese · {year} all\'anno",
+      link_restore: "Ripristina acquisto",
+      link_terms: "Termini e condizioni",
+      link_privacy: "Informativa privacy",
+      restore_note: "Già abbonata? Apri l&rsquo;app Kinedu e accedi con la stessa email &mdash; il tuo Premium è già lì.",
+      sh_title: "Inizia la tua prova gratuita",
+      sh_title_notrial: "Completa il tuo acquisto",
+      sh_plan: "Kinedu Premium · 1 anno",
+      sh_trial: "7 giorni gratis, annulli quando vuoi",
+      sh_trial_notrial: "Un pagamento all&rsquo;anno · annulli quando vuoi",
+      sh_after: "dopo la prova",
+      sh_after_notrial: "addebitato oggi",
+      sh_name_label: "Il tuo nome",
+      sh_name_ph: "es. Maria",
+      sh_email_label: "La tua email",
+      sh_email_ph: "mamma@email.com",
+      sh_continue: "Continua",
+      sh_finding: "Stiamo creando il tuo account…",
+      sh_loading: "Caricamento del pagamento sicuro…",
+      premium_title: "Hai già l&rsquo;accesso completo",
+      premium_sub: "Apri l&rsquo;app Kinedu &mdash; non serve pagare di nuovo.",
+      err_name: "Dicci il tuo nome per creare il tuo account.",
+      err_email: "Inserisci un&rsquo;email valida &mdash; è lì che vive il tuo account Kinedu.",
+      err_generic: "Hmm, qualcosa è andato storto. Controlla la tua email e riprova.",
+      disclosure: "Abbonandoti, autorizzi Kinedu ad addebitarti {offer} oggi e il prezzo annuale regolare a ogni rinnovo finché non annulli. Annulli quando vuoi.",
+      disclosure_trial: "Oggi non paghi nulla. Iniziando la prova, autorizzi Kinedu ad addebitarti {offer} al termine dei 7 giorni gratuiti e il prezzo annuale regolare a ogni rinnovo finché non annulli. Annulli quando vuoi.",
+      mock_chip: "Adattamento",
+      mock_title: "Comportamento sociale",
+      mock_plan: "Piano di oggi",
+      mock_act1: "Pancia in giù",
+      mock_act2: "Cucù",
+      mock_act3: "Cantiamo insieme"
+    }
+  };
+  if (window.applyI18n) window.applyI18n();
+
+  function T(k) { return window.PROMO_T ? window.PROMO_T(k) : k; }
+  /* Plantilla CRUDA (con los tokens {offer}/{anchor}/{save} sin rellenar).
+     T() ya los rellena, y eso sirve para pintar de inmediato — pero lo que se
+     guarda en dataset.i18nRaw tiene que conservar el token, porque es de ahí
+     de donde promo-price.js re-renderiza cuando llega el precio local. */
+  function raw(k) {
+    var t = window.PROMO_TRANSLATIONS || {};
+    var d = t[LANGUAGE] || {};
+    return d[k] != null ? d[k] : ((t.en && t.en[k] != null) ? t.en[k] : k);
+  }
+
+  /* Los textos que viven DENTRO del SVG no se pueden marcar con data-i18n
+     (applyI18n escribe innerHTML y en <text> eso no es fiable en todos los
+     navegadores): se escriben aquí, igual que el tag de promo-gift. El
+     textLength del SVG los encoge para que quepan en cualquier idioma. */
+  [['mockChip','mock_chip'],['mockTitle','mock_title'],['mockPlan','mock_plan'],
+   ['mockAct1','mock_act1'],['mockAct2','mock_act2'],['mockAct3','mock_act3']]
+    .forEach(function (pair) {
+      try { document.getElementById(pair[0]).textContent = T(pair[1]); } catch (_) {}
+    });
+
+  /* Experimento: ?test_id=<id> y ?v=<variante> sirven ese experimento. A
+     diferencia de las promos (que usan variantes de una sola letra), aquí la
+     variante es el id del paywall — se acepta cualquier slug corto. */
+  (function () {
+    try {
+      var sp = new URLSearchParams(location.search);
+      var tid = sp.get('test_id');
+      var vv = sp.get('v');
+      /* Mismo recorte que /api/track (rechaza >80): sin el, un test_id largo
+         hacia que TODOS los eventos del paywall devolvieran 400 en silencio. */
+      if (tid) TEST_ID = String(tid).slice(0, 80);
+      if (vv && /^[A-Za-z0-9_-]{1,20}$/.test(vv)) VARIANT = vv;
+    } catch (_) {}
+  })();
+  window.__PROMO_META = { testId: TEST_ID, variant: VARIANT };
+
+  // -------- Helpers de tracking (mismas claves de storage que kinedu-track.js) --------
+  function uuidV4() {
+    if (typeof crypto !== 'undefined' && crypto.randomUUID) return crypto.randomUUID();
+    return ([1e7] + -1e3 + -4e3 + -8e3 + -1e11).replace(/[018]/g, function (c) {
+      return (Number(c) ^ (crypto.getRandomValues(new Uint8Array(1))[0] & (15 >> (Number(c) / 4)))).toString(16);
+    });
+  }
+  function getCookie(name) {
+    var escaped = name.replace(/([.$?*|{}()[\]\\\/+^])/g, '\\$1');
+    var m = document.cookie.match(new RegExp('(?:^|; )' + escaped + '=([^;]*)'));
+    return m ? decodeURIComponent(m[1]) : null;
+  }
+  function getFbp() { return getCookie('_fbp'); }
+  function getFbc() {
+    var hasFbclid = new URLSearchParams(location.search).has('fbclid');
+    return hasFbclid ? getCookie('_fbc') : null;
+  }
+  var __memFbEventId = null;
+  function getFbEventId() {
+    /* try/catch + memoria: en webviews con storage bloqueado, localStorage
+       LANZA — y como esto corre en el nivel superior del script, la
+       excepción mataba la página completa: pantalla muerta para un click
+       pagado (auditoría 25-ago). */
+    try {
+      var id = localStorage.getItem('fb_event_id');
+      if (!id) { id = uuidV4(); localStorage.setItem('fb_event_id', id); }
+      return id;
+    } catch (e) {
+      if (!__memFbEventId) __memFbEventId = uuidV4();
+      return __memFbEventId;
+    }
+  }
+  var __memSessionId = null;
+  function getSessionId() {
+    /* Igual que getFbEventId: sin storage, id en memoria — la sesión se parte
+       entre páginas pero la página VIVE y cada usuario es único. */
+    try {
+      var s = localStorage.getItem('kinedu_session_id');
+      if (!s) { s = uuidV4(); localStorage.setItem('kinedu_session_id', s); }
+      return s;
+    } catch (e) {
+      if (!__memSessionId) __memSessionId = uuidV4();
+      return __memSessionId;
+    }
+  }
+  function captureFirstTouch() {
+    /* Sin storage: first-touch efímero armado del URL actual — se pierde la
+       herencia entre visitas, pero no la atribución de ESTA ni la página. */
+    try { return captureFirstTouchConStorage(); } catch (e) {
+      var p = new URLSearchParams(window.location.search);
+      return {
+        utm_source: p.get('utm_source'), utm_medium: p.get('utm_medium'),
+        utm_campaign: p.get('utm_campaign'), utm_content: p.get('utm_content'),
+        utm_term: p.get('utm_term'), fbclid: p.get('fbclid'),
+        gclid: p.get('gclid'), ttclid: p.get('ttclid'),
+        referrer: document.referrer || null,
+        landing_url: window.location.href,
+        landed_at: new Date().toISOString()
+      };
+    }
+  }
+  function captureFirstTouchConStorage() {
+    var stored = localStorage.getItem('kinedu_first_touch');
+    if (stored) {
+      try {
+        var ft0 = JSON.parse(stored);
+        /* Si ESTE link trae utms, mandan sobre lo guardado: la campaña que se
+           mide es la del anuncio que la persona acaba de tocar. */
+        var cur = new URLSearchParams(location.search);
+        /* placement= tambien dispara la actualizacion: un link de partner sin
+           utms (no paso por /p) heredaria la campana vieja guardada — y el
+           socio perderia la atribucion de esa compra. */
+        if (cur.get('utm_source') || cur.get('utm_campaign') || cur.get('placement') || cur.get('fbclid') || cur.get('gclid') || cur.get('ttclid')) {
+          ['utm_source','utm_medium','utm_campaign','utm_content','utm_term','fbclid','gclid','ttclid'].forEach(function (k) {
+            if (cur.get(k)) ft0[k] = cur.get(k);
+          });
+          ft0.landing_url = location.href;
+          localStorage.setItem('kinedu_first_touch', JSON.stringify(ft0));
+        }
+        return ft0;
+      } catch (_) {}
+    }
+    var p = new URLSearchParams(location.search);
+    var ft = {
+      utm_source:   p.get('utm_source'),
+      utm_medium:   p.get('utm_medium'),
+      utm_campaign: p.get('utm_campaign'),
+      utm_content:  p.get('utm_content'),
+      utm_term:     p.get('utm_term'),
+      fbclid:       p.get('fbclid'),
+      gclid:        p.get('gclid'),
+      ttclid:       p.get('ttclid'),
+      referrer:     document.referrer || null,
+      landing_url:  location.href,
+      landed_at:    new Date().toISOString()
+    };
+    localStorage.setItem('kinedu_first_touch', JSON.stringify(ft));
+    return ft;
+  }
+  function getRequestedEnv() {
+    try {
+      var urlEnv = new URLSearchParams(location.search).get('env');
+      if (urlEnv === 'qa' || urlEnv === 'prod') {
+        sessionStorage.setItem('kinedu_env_override', urlEnv);
+        return urlEnv;
+      }
+      var stored = sessionStorage.getItem('kinedu_env_override');
+      if (stored === 'qa' || stored === 'prod') return stored;
+    } catch (_) {}
+    /* Sin ?env y sin override guardado: lo decide el HOST. Solo el dominio
+       real de produccion es prod; QA, previews de Vercel y localhost reportan
+       como qa. Antes el default era 'prod' a secas y una prueba en el dominio
+       QA sin ?env=qa inflaba las metricas reales del socio. */
+    try {
+      if (window.location.hostname !== 'webpromo.kinedu.com') return 'qa';
+    } catch (_) {}
+    return 'prod';
+  }
+
+  var SESSION_ID = getSessionId();
+  captureFirstTouch();
+  /* La pantalla de vuelta de Stripe lee estas tres para atribuir la compra. */
+  try {
+    sessionStorage.setItem('kinedu_lang', LANGUAGE);
+    sessionStorage.setItem('kinedu_test_id', TEST_ID);
+    sessionStorage.setItem('kinedu_variant', VARIANT);
+    localStorage.setItem('kinedu_variant__' + TEST_ID, VARIANT);
+  } catch (_) {}
+
+  function trackToSupabase(eventName, opts) {
+    opts = opts || {};
+    var ft = captureFirstTouch();
+    try {
+      fetch('/api/track', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          event_name:   eventName,
+          environment:  getRequestedEnv(),
+          language:     LANGUAGE,
+          test_id:      TEST_ID,
+          variant:      VARIANT,
+          /* Adquisición nunca es win-back: quien llega aquí no tiene cuenta. */
+          winback:      false,
+          session_id:   SESSION_ID,
+          screen:       opts.screen || null,
+          properties:   opts.properties || {},
+          utm_source:   ft.utm_source,
+          utm_medium:   ft.utm_medium,
+          utm_campaign: ft.utm_campaign,
+          utm_content:  ft.utm_content,
+          utm_term:     ft.utm_term,
+          fbclid:       ft.fbclid,
+          gclid:        ft.gclid,
+          ttclid:       ft.ttclid,
+          referrer:     ft.referrer,
+          landing_url:  ft.landing_url,
+          user_agent:   navigator.userAgent || null
+        }),
+        keepalive: true
+      });
+    } catch (e) { console.warn('[track failed]', eventName, e); }
+  }
+
+  /* Beacon TEMPRANO de vista: si algo más abajo truena o el webview mata la
+     página a media carga, la vista ya quedó registrada (el conteo del
+     dashboard es por sesión única, así que convivir con el del boot no
+     infla nada). */
+  trackToSupabase('paywall_viewed', {
+    screen: 'paywall_early',
+    properties: { phase: 'early', offer: OFFER, trial: IS_TRIAL }
+  });
+  function captureLead(input) {
+    var ft = captureFirstTouch();
+    try {
+      fetch('/api/lead', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          name: input.name, email: input.email,
+          test_id: TEST_ID, variant: VARIANT, winback: false,
+          session_id: SESSION_ID, language: LANGUAGE, environment: getRequestedEnv(),
+          utm_source: ft.utm_source, utm_medium: ft.utm_medium,
+          utm_campaign: ft.utm_campaign, utm_content: ft.utm_content,
+          utm_term: ft.utm_term, fbclid: ft.fbclid, gclid: ft.gclid,
+          ttclid: ft.ttclid, referrer: ft.referrer, landing_url: ft.landing_url
+        }),
+        keepalive: true
+      });
+    } catch (e) { console.warn('[captureLead failed]', e); }
+  }
+  function trackPixelEvent(name, params) {
+    if (typeof window.fbq !== 'function') return;
+    try { window.fbq('track', name, params || {}, { eventID: uuidV4() /* fresco por evento: el id congelado hacía que Meta dedupara eventos repetidos (25-ago) */ }); }
+    catch (e) { console.warn('[pixel]', e); }
+  }
+
+  /* La captura de la app existe en los 3 idiomas: se cambia apenas se sabe
+     cuál toca, antes de que el navegador empiece a bajar la de inglés. */
+  (function localizeHero() {
+    try {
+      var l = (window.PROMO_LANG || document.documentElement.lang || 'en').slice(0, 2);
+      if (l !== 'es' && l !== 'pt') return;
+      /* Cada idioma trae su propio tamaño; se declaran para que el espacio
+         reservado sea el correcto y el texto de abajo no dé un brinco. */
+      var DIM = { es: [888, 865], pt: [871, 865] };
+      var img = document.getElementById('heroImg');
+      document.getElementById('heroWebp').srcset = '/aq-paywall-trial3/hero-app-' + l + '.webp';
+      img.src = '/aq-paywall-trial3/hero-app-' + l + '.png';
+      img.width = DIM[l][0];
+      img.height = DIM[l][1];
+    } catch (_) { /* se queda la de inglés */ }
+  })();
+
+
+  // -------- Ofertas sin trial: este paywall se adapta, no miente --------
+  /* La pantalla 2 (recordatorio) y el "$0 hoy" solo existen si hay prueba
+     gratis. Con ?offer=p49 (sin trial) se salta la 2 y cambia el copy. */
+  var FLOW = IS_TRIAL ? [1, 2, 3] : [1, 3];
+  if (!IS_TRIAL) {
+    try {
+      document.getElementById('nopay').hidden = true;
+      var fineEl = document.getElementById('fine');
+      fineEl.setAttribute('data-i18n', 'fine_notrial');
+      fineEl.dataset.i18nRaw = raw('fine_notrial');
+      fineEl.innerHTML = window.PROMO_FILL(raw('fine_notrial'));
+      var s3h = document.querySelector('#s3 h1');
+      s3h.setAttribute('data-i18n', 's3_title_notrial');
+      s3h.innerHTML = T('s3_title_notrial');
+      document.querySelector('.sh-title').innerHTML = T('sh_title_notrial');
+      document.querySelector('[data-i18n="sh_trial"]').innerHTML = T('sh_trial_notrial');
+      document.querySelector('[data-i18n="sh_after"]').innerHTML = T('sh_after_notrial');
+    } catch (_) {}
+  }
+
+  // -------- Dos planes (opcional): solo si el link trae ?offer2= --------
+  /* Sin offer2 este bloque NO corre y el paywall es idéntico al de siempre
+     (pedido de Martha 2-sep: los links viejos no pueden cambiar). */
+  var OFFER_MES = window.__AQ_OFFER2 || null;
+  if (OFFER_MES) { try { document.body.classList.add('dos-planes'); } catch (_) {} }
+  if (!OFFER_MES) {
+    try { var plansSinUso = document.getElementById('plans'); if (plansSinUso) plansSinUso.remove(); } catch (_) {}
+    /* Intro price con UN botón (id p..-i..): el legal legacy diría "hoy pagas
+       el anual", y hoy se cobra el primer mes. Solo corre para esas ofertas;
+       los links de siempre no entran aquí (Martha, 2-sep). */
+    /* Ofertas intro: -i30 ($3.99/30 días), -w1 ($1/semana). Los links de siempre (-t7 o sin sufijo) no entran. */
+    if (/-[iw]\d+$/.test(OFFER)) fetch('/api/localized-price?offer=' + encodeURIComponent(OFFER))
+      .then(function (r) { return r.json(); })
+      .then(function (d) {
+        if (!d || !d.intro || !d.offer) return;
+        window.__INTRO_NOW = d.intro; window.__IS_TRIAL_NOW = false; window.__INTRO_DIAS = d.trialDays || 30;
+        /* T() rellena {offer} con PROMO_PRICE; si el precio local aún no llegó,
+           mete el respaldo en dólares ($79.99 en un paywall en pesos — captura
+           de Martha 3-sep). Se fija el localizado antes de pintar nada. */
+        try { window.PROMO_PRICE = d; } catch (_) {}
+        var fineEl = document.getElementById('fine');
+        fineEl.innerHTML = raw('fine_intro').replace(/\{intro\}/g, d.intro).replace(/\{d\}/g, String(d.trialDays || 30)).replace(/\{offer\}/g, d.offer);
+        fineEl.dataset.i18nRaw = fineEl.innerHTML;
+        document.getElementById('nopay').hidden = true;
+        document.querySelector('[data-i18n="sh_trial"]').innerHTML = raw('sh_trial_intro').replace(/\{intro\}/g, d.intro).replace(/\{d\}/g, String(d.trialDays || 30)).replace(/\{offer\}/g, d.offer);
+        document.querySelector('[data-i18n="sh_after"]').innerHTML = T('sh_after_notrial');
+        var pr = document.querySelector('.sh-summary [data-price="offer"]');
+        if (pr) { pr.removeAttribute('data-price'); pr.textContent = d.intro; }
+      })
+      .catch(function () {});
+  } else (function () {
+  // -------- Selector de plan: anual (?offer=) + mensual (?offer2=) --------
+  var OFFER_ANUAL = OFFER;
+  var PLAN_PRICES = {};
+  /* Las tarjetas nacen con ids de ejemplo; se les pone la oferta real del link. */
+  (function () {
+    var cards = document.querySelectorAll('#plans .plan');
+    if (cards[0]) { cards[0].setAttribute('data-offer', OFFER_ANUAL); cards[0].querySelector('[data-price2]').setAttribute('data-price2', OFFER_ANUAL); }
+    if (cards[1]) { cards[1].setAttribute('data-offer', OFFER_MES); cards[1].querySelector('[data-price2]').setAttribute('data-price2', OFFER_MES); }
+  })();
+  function fmtComo(ejemplo, monto) {
+    /* Reusa el formato localizado ("MX$999", "€59.99") cambiando solo el número. */
+    var entero = Math.round(monto);
+    return String(ejemplo).replace(/[\d.,]+/, String(entero));
+  }
+  function pintaTarjeta(idx, d, otro) {
+    var card = document.querySelectorAll('#plans .plan')[idx];
+    if (!card || !d) return;
+    var mes = d.interval === 'month';
+    var name = card.querySelector('.pname'), per = card.querySelector('.pprice small'), sub = card.querySelector('.psub'), tag = card.querySelector('.plan-tag');
+    /* Título en bold = el estado del plan, como en el app (Martha, 2-sep):
+       "GRATIS por 7 días" / "30 días de prueba" / "Mensual" / "Anual". */
+    var dias = String(d.trialDays || 30);
+    if (name) name.innerHTML = d.intro ? T('plan_name_intro').replace('{d}', dias) : (!mes && d.trialDays > 0) ? T('plan_name_trial').replace('{d}', dias) : T(mes ? 'plan_monthly' : 'plan_yearly');
+    /* Precio grande de la fila (Martha, 2-sep): con intro es lo que se paga
+       HOY (el primer mes) y con trial es 0; el anual real va en la línea de
+       abajo. Sin trial ni intro, el precio de siempre. */
+    var big = card.querySelector('[data-price2]');
+    if (d.intro) {
+      if (big) big.textContent = d.intro;
+      if (per) per.innerHTML = ''; /* sin letra chica: la línea de abajo ya lo explica (Martha, 2-sep) */
+      if (sub) sub.innerHTML = T('plan_after_sub').replace('{d}', dias).replace('{year}', d.offer);
+    } else if (!mes && d.trialDays > 0) {
+      if (big) big.textContent = fmtComo(d.offer, 0);
+      if (per) per.innerHTML = '';
+      if (sub) sub.innerHTML = T('plan_after_sub').replace('{d}', dias).replace('{year}', d.offer);
+    } else {
+      if (big && d.offer) big.textContent = d.offer;
+      if (per) per.innerHTML = T(mes ? 'plan_per_month' : 'plan_per_year');
+      if (sub) sub.innerHTML = mes ? T('plan_monthly_sub') : (d.amount ? T('plan_year_sub').replace('{mo}', fmtComo(d.offer, d.amount / 12)).replace('{year}', d.offer) : '');
+    }
+    if (tag) {
+      /* Regla de Martha: con trial la etiqueta dice los días gratis; sin
+         trial, la fila de arriba muestra el ahorro REAL contra la de abajo
+         (mensual×12 o el otro anual). Si no hay ahorro, no hay etiqueta. */
+      tag.classList.toggle('intro', !!d.intro);
+      if (d.intro) { tag.hidden = true; /* sin etiqueta: el título ya dice "N días de prueba" (Martha, 2-sep) */ }
+      else if (d.trialDays > 0) { tag.hidden = true; /* el título ya dice "GRATIS por N días" */ }
+      else if (idx === 0 && otro && otro.amount && d.amount) {
+        var eq = otro.interval === 'month' ? otro.amount * 12 : otro.amount;
+        var pct = Math.round((1 - d.amount / eq) * 100);
+        tag.innerHTML = T('plan_save_tag').replace('{pct}', String(pct)); tag.hidden = !(pct > 0);
+      } else tag.hidden = true;
+    }
+  }
+  function updatePlanTag() {
+    var A = PLAN_PRICES[OFFER_ANUAL], B = PLAN_PRICES[OFFER_MES];
+    pintaTarjeta(0, A, B); pintaTarjeta(1, B, A);
+  }
+  function applyPlanTexts() {
+    var d = PLAN_PRICES[OFFER];
+    var price = (d && d.offer) || (window.PROMO_PRICE_FALLBACK && window.PROMO_PRICE_FALLBACK.offer) || '$59.99';
+    try { window.PROMO_PRICE = d || { offer: price }; } catch (_) {}
+    var mensual = !!(d && d.interval === 'month');
+    /* Intro price: se cobra hoy el primer mes, así que NO es trial aunque
+       Stripe lo modele con trial_period_days (Martha, 2-sep). */
+    var intro = (d && d.intro) ? d.intro : null;
+    var trial = !!(d && d.trialDays > 0) && !intro;
+    window.__IS_TRIAL_NOW = trial; window.__INTRO_NOW = intro; window.__INTRO_DIAS = (d && d.trialDays) || 30;
+    try {
+      document.getElementById('fine').innerHTML = raw(intro ? 'fine_intro' : mensual ? 'fine_month' : (trial ? 'fine_trial' : 'fine_notrial')).replace(/\{intro\}/g, intro || '').replace(/\{d\}/g, String((d && d.trialDays) || 30)).replace(/\{offer\}/g, price);
+      /* promo-price.js re-pinta #fine desde dataset.i18nRaw cuando llega SU
+         fetch del precio (carrera con este). Le dejamos el texto ya resuelto
+         para que pinte lo mismo y no regrese al legal de trial/sin trial. */
+      try { document.getElementById('fine').dataset.i18nRaw = document.getElementById('fine').innerHTML; } catch (_) {}
+      document.getElementById('nopay').hidden = !trial;
+      /* Solo en la pantalla de venta: en las anteriores el CTA dice otra cosa. */
+      if (typeof FLOW === 'undefined' || FLOW[idx] === 3) document.getElementById('cta').textContent = T(trial ? 'cta3' : 'cta3_notrial');
+      document.querySelector('.sh-title').innerHTML = T(trial ? 'sh_title' : 'sh_title_notrial');
+      /* El título de la pantalla de venta también sigue al plan elegido. */
+      var s3h = document.querySelector('#s3 h1');
+      if (s3h) { s3h.setAttribute('data-i18n', trial ? 's3_title' : 's3_title_notrial'); s3h.innerHTML = T(trial ? 's3_title' : 's3_title_notrial'); }
+      document.querySelector('[data-i18n="sh_plan"]').innerHTML = T(mensual ? 'sh_plan_month' : 'sh_plan');
+      document.querySelector('[data-i18n="sh_trial"]').innerHTML = (intro ? raw('sh_trial_intro').replace(/\{intro\}/g, intro).replace(/\{d\}/g, String((d && d.trialDays) || 30)).replace(/\{offer\}/g, price) : T(mensual ? 'sh_trial_month' : (trial ? 'sh_trial' : 'sh_trial_notrial')));
+      document.querySelector('[data-i18n="sh_after"]').innerHTML = T(trial ? 'sh_after' : 'sh_after_notrial');
+      var pr = document.querySelector('.sh-summary [data-price="offer"]');
+      /* Intro: lo que se cobra HOY es el primer mes, no el anual. Se quita
+         data-price para que promo-price.js no lo vuelva a poner en el anual. */
+      if (pr) { if (intro) pr.removeAttribute('data-price'); pr.textContent = intro || price; }
+    } catch (_) {}
+    updatePlanTag();
+  }
+  [OFFER_ANUAL].concat(OFFER_MES ? [OFFER_MES] : []).forEach(function (id) {
+    fetch('/api/localized-price?offer=' + encodeURIComponent(id))
+      .then(function (r) { return r.json(); })
+      .then(function (d) {
+        PLAN_PRICES[id] = d;
+        var el = document.querySelector('[data-price2="' + id + '"]');
+        if (el && d && d.offer) el.textContent = d.offer;
+        applyPlanTexts();
+      })
+      .catch(function () {});
+  });
+  Array.prototype.forEach.call(document.querySelectorAll('#plans .plan'), function (btn) {
+    btn.addEventListener('click', function () {
+      var id = btn.getAttribute('data-offer');
+      if (!id || id === OFFER) return;
+      OFFER = id;
+      window.__AQ_OFFER = id;
+      try { sessionStorage.setItem('kinedu_offer', id); } catch (_) {}
+      try {
+        var sp = new URLSearchParams(location.search); sp.set('offer', id);
+        history.replaceState(null, '', location.pathname + '?' + sp.toString() + location.hash);
+      } catch (_) {}
+      Array.prototype.forEach.call(document.querySelectorAll('#plans .plan'), function (b) { b.classList.toggle('sel', b === btn); });
+      applyPlanTexts();
+      trackToSupabase('plan_selected', { screen: 'paywall_3', properties: { offer: id } });
+    });
+  });
+
+  })();
+
+  // -------- Navegación entre pantallas --------
+  var idx = 0; // posición dentro de FLOW
+  var ctaBtn = document.getElementById('cta');
+  var backBtn = document.getElementById('back');
+
+  function ctaKey(screen) {
+    if (screen === 2) return 'cta2';
+    if (screen === 3) return IS_TRIAL ? 'cta3' : 'cta3_notrial';
+    return IS_TRIAL ? 'cta1' : 'cta1_notrial';
+  }
+  function render() {
+    var screen = FLOW[idx];
+    [1, 2, 3].forEach(function (n) {
+      document.getElementById('s' + n).classList.toggle('on', n === screen);
+    });
+    backBtn.classList.toggle('on', idx > 0);
+    var plansEl = document.getElementById('plans');
+    if (plansEl) plansEl.hidden = screen !== 3;
+    ctaBtn.textContent = T(ctaKey(screen));
+    try { window.scrollTo(0, 0); } catch (_) {}
+  }
+  render();
+
+  ctaBtn.addEventListener('click', function () {
+    if (idx < FLOW.length - 1) {
+      idx++;
+      render();
+      trackToSupabase('paywall_step', {
+        screen: 'paywall_' + FLOW[idx],
+        properties: { screen: FLOW[idx], offer: OFFER }
+      });
+      return;
+    }
+    openSheet();
+  });
+  backBtn.addEventListener('click', function () {
+    if (idx === 0) return;
+    idx--;
+    render();
+    trackToSupabase('paywall_step', {
+      screen: 'paywall_' + FLOW[idx],
+      properties: { screen: FLOW[idx], direction: 'back', offer: OFFER }
+    });
+  });
+
+  // -------- Restaurar compra --------
+  /* En web no existe el "restore" de la App Store: la suscripción vive en la
+     cuenta de Kinedu, así que lo honesto es decirle dónde está su Premium en
+     vez de un botón que no puede hacer nada. */
+  (function () {
+    var note = document.getElementById('restoreNote');
+    var link = document.getElementById('restore');
+    function toggle() {
+      note.hidden = !note.hidden;
+      if (!note.hidden) trackToSupabase('restore_tapped', { screen: 'paywall_' + FLOW[idx] });
+    }
+    link.addEventListener('click', toggle);
+    link.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggle(); }
+    });
+  })();
+
+  // -------- Payment sheet (patrón de promo-gift) --------
+  var sheet = document.getElementById('sheet');
+  var backdrop = document.getElementById('backdrop');
+  var emailStep = document.getElementById('emailStep');
+  var payStep = document.getElementById('payStep');
+  var premiumState = document.getElementById('premiumState');
+  var emailInput = document.getElementById('shEmail');
+  var nameInput = document.getElementById('promoName');
+  var continueBtn = document.getElementById('shContinue');
+  var errEl = document.getElementById('shErr');
+  var EMAIL_RE = /^\S+@\S+\.\S+$/;
+  var submitting = false;
+  var sheetOpened = false;
+
+  function storedIdentity() {
+    try {
+      var email = sessionStorage.getItem('kinedu_email');
+      var token = sessionStorage.getItem('kinedu_user_token');
+      if (email && EMAIL_RE.test(email) && token) return { email: email, token: token };
+    } catch (_) {}
+    return null;
+  }
+
+  function openSheet() {
+    sheet.classList.add('on');
+    backdrop.classList.add('on');
+    var id = storedIdentity();
+    trackToSupabase('checkout_sheet_opened', {
+      screen: 'payment_sheet',
+      properties: { offer: OFFER, had_account: !!id }
+    });
+    if (sheetOpened) return; // reabrir no vuelve a montar el widget
+    sheetOpened = true;
+    if (id) {
+      /* Camino normal: el quiz ya creó la cuenta, aquí solo se cobra. */
+      mountStripe(id.email, id.token);
+    } else {
+      /* Entrada directa al paywall (sin quiz): hay que crear la cuenta antes
+         de cobrar, si no la compra caería en ningún lado. */
+      emailStep.hidden = false;
+      prefillFromUrl();
+      try { (nameInput.value ? emailInput : nameInput).focus(); } catch (_) {}
+    }
+  }
+  function closeSheet() {
+    sheet.classList.remove('on');
+    backdrop.classList.remove('on');
+  }
+  document.getElementById('shClose').addEventListener('click', closeSheet);
+  backdrop.addEventListener('click', closeSheet);
+
+  /* Prefill: ?email= / ?name= (por si el link ya los trae). */
+  function prefillFromUrl() {
+    try {
+      var sp = new URLSearchParams(location.search);
+      var pre = sp.get('email');
+      if (pre) pre = pre.replace(/ /g, '+'); // el '+' de gmail llega como espacio
+      if (pre && EMAIL_RE.test(pre.trim())) emailInput.value = pre.trim();
+      var nm = sp.get('name');
+      if (nm && nm.trim()) nameInput.value = nm.trim().slice(0, 60);
+      var storedName = sessionStorage.getItem('kinedu_name');
+      if (!nameInput.value && storedName) nameInput.value = storedName;
+      /* El funnel del assessment ya capturó el correo: no pedirlo dos veces. */
+      var storedEmail = sessionStorage.getItem('kinedu_email');
+      if (!emailInput.value && storedEmail && EMAIL_RE.test(storedEmail)) emailInput.value = storedEmail;
+    } catch (_) {}
+  }
+
+  function showErr(msg) { errEl.textContent = msg; errEl.hidden = false; }
+  function setSubmitting(on) {
+    submitting = on;
+    continueBtn.disabled = on;
+    emailInput.disabled = on;
+    nameInput.disabled = on;
+    continueBtn.textContent = on ? T('sh_finding') : T('sh_continue');
+  }
+
+  emailStep.addEventListener('submit', function (e) {
+    e.preventDefault();
+    if (submitting) return;
+    var email = emailInput.value.trim();
+    var name = nameInput.value.trim();
+    if (!name) { nameInput.focus(); showErr(T('err_name')); return; }
+    if (!EMAIL_RE.test(email)) { emailInput.focus(); showErr(T('err_email')); return; }
+    errEl.hidden = true;
+    setSubmitting(true);
+
+    var pixelParams = { content_category: 'acquisition', test_id: TEST_ID, variant: VARIANT, language: LANGUAGE };
+    trackPixelEvent('Lead', pixelParams);
+    trackPixelEvent('CompleteRegistration', pixelParams);
+    trackToSupabase('form_submitted', {
+      screen: 'payment_sheet',
+      properties: { email_domain: email.split('@')[1] }
+    });
+    captureLead({ name: name, email: email });
+
+    fetch('/api/register-promo', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        name: name, email: email, env: getRequestedEnv(),
+        fbp: getFbp(), fbc: getFbc(), fb_event_id: getFbEventId()
+      })
+    })
+      .then(function (res) { return res.json().catch(function () { return {}; }).then(function (b) { return { ok: res.ok, body: b, status: res.status }; }); })
+      .then(function (r) {
+        if (!r.ok) throw new Error((r.body && (r.body.detail || r.body.error)) || ('http_' + r.status));
+        if (!r.body.userToken) throw new Error('register_promo_no_token');
+
+        trackToSupabase('user_registered', { properties: { is_premium: r.body.isPremium === true } });
+
+        /* Ya premium: no se le cobra otra vez (misma guarda que las promos). */
+        if (r.body.isPremium === true) {
+          trackToSupabase('already_premium', {});
+          emailStep.hidden = true;
+          premiumState.hidden = false;
+          return;
+        }
+        /* Aquí NO se bloquea a usuarios nuevos como en CRM: en adquisición la
+           cuenta se crea en este momento, es la razón de ser del flujo. */
+        try {
+          sessionStorage.setItem('kinedu_user_token', r.body.userToken);
+          sessionStorage.setItem('kinedu_email', email);
+          sessionStorage.setItem('kinedu_name', name);
+          sessionStorage.setItem('kinedu_is_new', r.body.isNewUser === true ? '1' : '0');
+          if (r.body.accessCode) sessionStorage.setItem('kinedu_access_code', r.body.accessCode);
+        } catch (_) {}
+        trackToSupabase('funnel_completed', {});
+        mountStripe(email, r.body.userToken);
+      })
+      .catch(function (err) {
+        var msg = String(err && err.message || err);
+        console.error('[aq-paywall register error]', msg);
+        trackToSupabase('register_failed', { properties: { error: msg } });
+        /* Throttle 406 del backend: si este tab YA validó este correo, reusar
+           el token en vez de dejar a la persona atorada. */
+        var id = storedIdentity();
+        if (id && id.email.toLowerCase() === email.toLowerCase()) {
+          trackToSupabase('register_retry_reused_token', {});
+          mountStripe(id.email, id.token);
+          return;
+        }
+        setSubmitting(false);
+        showErr(T('err_generic'));
+      });
+  });
+
+  /* Monta el Stripe Embedded Checkout dentro del sheet (mismo API y misma
+     metadata que /checkout-stripe — solo cambia DÓNDE vive el widget). */
+  function mountStripe(email, userToken) {
+    emailStep.hidden = true;
+    payStep.hidden = false;
+
+    var offerPrice = (window.PROMO_PRICE && window.PROMO_PRICE.offer) || '$79.99';
+    document.getElementById('disclosure').textContent =
+      raw(window.__INTRO_NOW ? 'disclosure_intro' : (typeof window.__IS_TRIAL_NOW === 'boolean' ? window.__IS_TRIAL_NOW : IS_TRIAL) ? 'disclosure_trial' : (window.__AQ_OFFER2 && OFFER === window.__AQ_OFFER2 ? 'disclosure_month' : 'disclosure')).replace(/\{intro\}/g, window.__INTRO_NOW || '').replace(/\{d\}/g, String(window.__INTRO_DIAS || 30)).replace(/\{offer\}/g, offerPrice);
+
+    var ft = captureFirstTouch();
+    Promise.all([
+      fetch('/api/stripe-checkout-session').then(function (r) { return r.json(); }),
+      fetch('/api/stripe-checkout-session', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          email: email,
+          userToken: userToken,
+          testId: TEST_ID,
+          variant: VARIANT,
+          offer: OFFER,
+          lang: LANGUAGE,
+          winback: false,
+          /* Va a la metadata de Stripe: la pantalla de vuelta sabe así si la
+             cuenta es nueva sin depender del sessionStorage (que no siempre
+             sobrevive el redirect de Stripe en móvil). */
+          isNew: (function () {
+            try { return sessionStorage.getItem('kinedu_is_new') === '1'; } catch (_) { return false; }
+          })(),
+          utms: {
+            utm_source: ft.utm_source, utm_medium: ft.utm_medium,
+            utm_campaign: ft.utm_campaign, utm_content: ft.utm_content
+          }
+        })
+      }).then(function (r) { return r.json(); })
+    ])
+      .then(function (results) {
+        var pk = results[0] && results[0].publishableKey;
+        var sess = results[1] || {};
+        if (!pk) throw new Error('no_publishable_key');
+        if (!sess.clientSecret) throw new Error(sess.error || 'no_client_secret');
+        if (typeof Stripe !== 'function') throw new Error('stripe_js_not_loaded');
+        return Stripe(pk).initEmbeddedCheckout({ clientSecret: sess.clientSecret });
+      })
+      .then(function (checkout) {
+        document.getElementById('payLoading').hidden = true;
+        checkout.mount('#stripeMount');
+        trackToSupabase('stripe_widget_mounted', { screen: 'payment_sheet', properties: { offer: OFFER } });
+        trackPixelEvent('InitiateCheckout', { content_category: 'acquisition', test_id: TEST_ID, variant: VARIANT });
+      })
+      .catch(function (err) {
+        console.error('[aq-paywall stripe mount error]', err);
+        trackToSupabase('stripe_mount_failed', { properties: { error: String(err && err.message || err) } });
+        /* Fallback: el flujo clásico en página aparte sigue funcionando con
+           la misma sesión guardada. */
+        window.location.href = '/checkout-stripe';
+      });
+  }
+
+  // -------- Boot --------
+  /* quizData() no existe en esta página (vive en el quiz); referenciarla
+     tumbaba el script aquí y NINGÚN visitante registraba paywall_viewed ni
+     page_hidden — el embudo mostraba ~0 vistas de paywall con 400+ reales.
+     El dato viaja por sessionStorage (kinedu_quiz), se lee directo y a
+     prueba de fallos. */
+  var bootBabyAge = null;
+  try { bootBabyAge = (JSON.parse(sessionStorage.getItem('kinedu_quiz') || '{}').baby_age) || null; } catch (_) {}
+  trackToSupabase('paywall_viewed', {
+    screen: 'paywall_1',
+    properties: {
+      screen: 1,
+      offer: OFFER,
+      trial: IS_TRIAL,
+      from_quiz: !!storedIdentity(),
+      baby_age: bootBabyAge
+    }
+  });
+  document.addEventListener('visibilitychange', function () {
+    if (document.visibilityState === 'hidden') {
+      trackToSupabase('page_hidden', { screen: 'paywall_' + FLOW[idx], properties: { sheet_open: sheet.classList.contains('on'), focused: (document.activeElement && document.activeElement.id) || null } });
+    }
+  });
+  /* Diagnóstico (9-sep): en la variante de UN botón de HeartyApp el 75% se
+     va a los 4-6 s de abrir el sheet sin enviar el formulario (antes 30%).
+     Se registra qué campo tocan y cualquier error de JS para ver en qué
+     paso exacto se rompe en el navegador in-app de Instagram/iOS 26. */
+  [nameInput, emailInput].forEach(function (el) {
+    el.addEventListener('focus', function () {
+      trackToSupabase('field_focused', { screen: 'payment_sheet', properties: { field: el.id, offer: OFFER } });
+    });
+  });
+  window.addEventListener('error', function (ev) {
+    try { trackToSupabase('js_error', { screen: 'paywall_' + FLOW[idx], properties: { msg: String(ev.message || '').slice(0, 160), src: String(ev.filename || '').slice(-60), line: ev.lineno || null, sheet_open: sheet.classList.contains('on') } }); } catch (_) {}
+  });
+
+  console.log('[aq-paywall-trial3] ready · test=' + TEST_ID + ' v=' + VARIANT +
+              ' offer=' + OFFER + ' lang=' + LANGUAGE + ' sid=' + SESSION_ID.slice(0, 8));
+})();
+
+/* ── Mixpanel: S_WebPromoPage al ver el paywall (misma convención que las
+   otras landings; token prod pendiente de Tech). ───────────────── */
+(function () {
+  try {
+    var MIXPANEL_TOKEN = { prod: 'EDIT_ME_PROD_TOKEN', qa: 'd60021dc9bc0a498baadcd26d4c31272' };
+    var env = 'prod';
+    try {
+      var o = sessionStorage.getItem('kinedu_env_override');
+      if (o === 'qa' || o === 'prod') env = o;
+    } catch (_) {}
+    var token = MIXPANEL_TOKEN[env];
+    if (!token || token.indexOf('EDIT_ME') === 0) return;
+    var ft = {};
+    try { ft = JSON.parse(localStorage.getItem('kinedu_first_touch') || '{}'); } catch (_) {}
+    var sid = 'anon';
+    try { sid = localStorage.getItem('kinedu_session_id') || 'anon'; } catch (_) {}
+    var em = null;
+    try { em = sessionStorage.getItem('kinedu_email'); } catch (_) {}
+    var payload = [{ event: 'S_WebPromoPage', properties: {
+      token: token, distinct_id: sid,
+      test_id: (window.__PROMO_META || {}).testId || null,
+      variant: (window.__PROMO_META || {}).variant || null,
+      page: location.pathname,
+      user_email: em || null,
+      utm_source: ft.utm_source || null, utm_medium: ft.utm_medium || null,
+      utm_campaign: ft.utm_campaign || null, utm_content: ft.utm_content || null
+    } }];
+    fetch('https://api.mixpanel.com/track?ip=1', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: 'data=' + encodeURIComponent(btoa(unescape(encodeURIComponent(JSON.stringify(payload)))))
+    }).catch(function () {});
+  } catch (_) { /* analytics must never break the page */ }
+})();
+</script>
+</body>
+</html>

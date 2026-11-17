@@ -1,0 +1,34 @@
+Emulating viewport: {"deviceScaleFactor":1,"isMobile":true,"hasTouch":true,"isLandscape":false,"width":390,"height":844}
+## Request https://scripts.clarity.ms/0.8.77-beta/clarity.js
+Status: 200
+### Request Headers
+- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+- referer:https://webpromo.kinedu.com/
+- :authority:scripts.clarity.ms
+- :method:GET
+- :path:/0.8.77-beta/clarity.js
+- :scheme:https
+- accept:*/*
+- accept-encoding:gzip, deflate, br, zstd
+- accept-language:en-GB,en-US;q=0.9,en;q=0.8
+- cookie:MUID=31B0558876D16AD42592424F775E6B3C
+- sec-fetch-dest:script
+- sec-fetch-mode:no-cors
+- sec-fetch-site:cross-site
+- sec-fetch-storage-access:active
+### Response Headers
+- access-control-allow-origin:*
+- cache-control:public, max-age=86400
+- content-encoding:br
+- content-type:application/javascript;charset=utf-8
+- date:Tue, 03 Nov 2026 10:44:45 GMT
+- etag:W/"0x8DF35DE7830B684"
+- last-modified:Thu, 29 Oct 2026 17:02:52 GMT
+- vary:Accept-Encoding
+- x-azure-ref:20261103T104445Z-1749df4f94fh4nrghC1AMSczbn0000000bkg00000000e8wx
+- x-cache:TCP_HIT
+- x-fd-int-roxy-purgeid:0
+- x-ms-request-id:6c39a88a-a01e-0002-42ad-699063000000
+- x-ms-version:2018-03-28
+### Response Body
+Saved to /tmp/kinedu-browser/raw/api/browser2/22.response.network-response.

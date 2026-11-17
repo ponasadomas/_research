@@ -1,0 +1,33 @@
+Emulating viewport: {"deviceScaleFactor":1,"isMobile":true,"hasTouch":true,"isLandscape":false,"width":390,"height":844}
+## Request https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-paywall-trial3%2Findex.html%3Ffrom%3Dassessment%26offer%3Dp79-t7&title=Kinedu%20%E2%80%94%20Start%20your%20free%20trial&referrer=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment&muid=27201454-a8df-47c6-a60c-0408ff5564d916f8a7&sid=NA&version=6&preview=false&__shared_params__[version]=v3
+Status: 200
+### Request Headers
+- referer:https://webpromo.kinedu.com/
+- upgrade-insecure-requests:1
+- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+### Response Headers
+- accept-ranges:bytes
+- access-control-allow-origin:*
+- age:443269
+- alt-svc:h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+- cache-control:max-age=31536000
+- content-encoding:br
+- content-length:122
+- content-security-policy:base-uri 'none'; connect-src 'self' https://r.stripe.com; default-src 'self'; font-src 'none'; form-action 'none'; frame-src https://m.stripe.network; img-src https://q.stripe.com; media-src 'none'; object-src 'none'; script-src 'self'; style-src 'self'; worker-src 'none'; report-uri https://q.stripe.com/csp-report
+- content-security-policy-report-only:base-uri 'none'; connect-src 'self' https://r.stripe.com; default-src 'self'; font-src 'none'; form-action 'none'; frame-src https://m.stripe.network; img-src https://q.stripe.com; media-src 'none'; object-src 'none'; script-src 'self'; style-src 'self'; worker-src 'none'; report-uri https://q.stripe.com/csp-report
+- content-type:text/html; charset=utf-8
+- date:Mon, 02 Nov 2026 16:48:49 GMT
+- etag:"3437aaddcdf6922d623e172c2d6f9278"
+- last-modified:Mon, 16 Mar 2026 22:03:13 GMT
+- origin-agent-cluster:?1
+- server:Fastly
+- timing-allow-origin:*
+- vary:Accept-Encoding
+- via:1.1 varnish
+- x-cache:HIT
+- x-cache-hits:130185
+- x-content-type-options:nosniff
+- x-request-id:179284f9-3011-467e-b291-55318399e092
+- x-served-by:cache-ber1080033-BER
+### Response Body
+<Response body not available anymore>

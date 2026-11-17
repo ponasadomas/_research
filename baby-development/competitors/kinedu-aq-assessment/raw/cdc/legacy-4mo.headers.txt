@@ -1,0 +1,25 @@
+HTTP/2 301 
+content-length: 0
+access-control-allow-headers: Access-Control-Allow-Headers, Origin, Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers
+access-control-allow-origin: *
+access-control-expose-headers: Request-Context
+cache-control: public, max-age=300
+location: /act-early/milestones/4-months.html
+request-context: appId=cid-v1:2622e9c6-4e75-4e1f-9006-c7d931da325f
+x-azure-ref: 20261103T170114Z-r156744c488mzdbnhC1DM1mvys0000000hrg000000004ebh
+date: Tue, 03 Nov 2026 17:12:32 GMT
+set-cookie: akamai_visit_id=92477b5c2595293e52aZ; expires=Thu, 02-Nov-2028 17:12:32 GMT; path=/; domain=.cdc.gov; secure; SameSite=None
+strict-transport-security: max-age=31536000 ; includeSubDomains ; preload
+
+HTTP/2 200 
+content-type: text/html
+access-control-allow-headers: Access-Control-Allow-Headers, Origin, Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers
+access-control-allow-origin: *
+access-control-expose-headers: Request-Context
+request-context: appId=cid-v1:2622e9c6-4e75-4e1f-9006-c7d931da325f
+x-azure-ref: 20261103T170319Z-r156744c488rw428hC1DM1uzd00000000psg000000005byp
+date: Tue, 03 Nov 2026 17:12:33 GMT
+set-cookie: akamai_visit_id=92477b5c2595293e54eZ; expires=Thu, 02-Nov-2028 17:12:33 GMT; path=/; domain=.cdc.gov; secure; SameSite=None
+strict-transport-security: max-age=31536000 ; includeSubDomains ; preload
+set-cookie: Akamai-Request-ID=92477b5c2595293e54eZ; path=/; domain=.cdc.gov; secure; SameSite=none
+

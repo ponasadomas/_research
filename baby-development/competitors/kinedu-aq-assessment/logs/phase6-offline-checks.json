@@ -1,0 +1,30 @@
+{
+  "network_requests_in_checks": 0,
+  "payloads_verified": 2064,
+  "distinct_interior_descending_profiles": 25,
+  "returned_age12_source": "raw/api/start_age13_gw-null.json",
+  "returned_age12_n": {
+    "Physical": 9,
+    "Cognitive": 9,
+    "Language": 10,
+    "Social-Emotional": 11
+  },
+  "simulated_abort": {
+    "http_statuses": [
+      429,
+      403,
+      503
+    ],
+    "requests_before_abort": 3,
+    "requests_on_restart": 0,
+    "sleep_seconds_before_each": [
+      2.0,
+      2.0,
+      2.0
+    ],
+    "modified_request_rejected": true
+  },
+  "builder_response_cases_verified": 8,
+  "builder_first_exposed_value_cases_verified": 3,
+  "numeric_zero_preserved": true
+}

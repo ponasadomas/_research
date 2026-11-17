@@ -1,0 +1,29 @@
+Emulating viewport: {"deviceScaleFactor":1,"isMobile":true,"hasTouch":true,"isLandscape":false,"width":390,"height":844}
+## Request https://webpromo.kinedu.com/aq-paywall-trial3/hero-app-en.webp
+Status: 304
+### Request Headers
+- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+- referer:https://webpromo.kinedu.com/aq-paywall-trial3/index.html?from=assessment
+- :authority:webpromo.kinedu.com
+- :method:GET
+- :path:/aq-paywall-trial3/hero-app-en.webp
+- :scheme:https
+- accept:image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+- accept-encoding:gzip, deflate, br, zstd
+- accept-language:en-GB,en-US;q=0.9,en;q=0.8
+- cookie:_fbp=fb.1.1793637782396.52484787607683365; __stripe_mid=27201454-a8df-47c6-a60c-0408ff5564d916f8a7
+- if-modified-since:Fri, 30 Oct 2026 01:30:38 GMT
+- if-none-match:"1c2f1efcb3cb98aa2c6d43c642bda19c"
+- priority:u=1, i
+- sec-fetch-dest:image
+- sec-fetch-mode:no-cors
+- sec-fetch-site:same-origin
+### Response Headers
+- cache-control:public, max-age=0, must-revalidate
+- date:Tue, 03 Nov 2026 10:47:52 GMT
+- etag:"1c2f1efcb3cb98aa2c6d43c642bda19c"
+- server:Vercel
+- x-vercel-cache:HIT
+- x-vercel-id:fra1::pw6cq-1793702872142-63fea7702071
+### Response Body
+<Response body not available anymore>

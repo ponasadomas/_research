@@ -1,0 +1,12 @@
+HTTP/2 200 
+content-type: text/html
+access-control-allow-headers: Access-Control-Allow-Headers, Origin, Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers
+access-control-allow-origin: *
+access-control-expose-headers: Request-Context
+request-context: appId=cid-v1:2622e9c6-4e75-4e1f-9006-c7d931da325f
+x-azure-ref: 20261103T171239Z-r156744c488w2p5nhC1DM17ae40000000pm000000000ctgg
+date: Tue, 03 Nov 2026 17:12:39 GMT
+set-cookie: akamai_visit_id=92477b5c2595993ec50Z; expires=Thu, 02-Nov-2028 17:12:39 GMT; path=/; domain=.cdc.gov; secure; SameSite=None
+strict-transport-security: max-age=31536000 ; includeSubDomains ; preload
+set-cookie: Akamai-Request-ID=92477b5c2595993ec50Z; path=/; domain=.cdc.gov; secure; SameSite=none
+

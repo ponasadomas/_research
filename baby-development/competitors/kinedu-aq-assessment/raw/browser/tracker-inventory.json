@@ -1,0 +1,2655 @@
+[
+  {
+    "run": "A",
+    "reqid": 42,
+    "method": "GET",
+    "listed_url": "https://www.clarity.ms/tag/x8ou6ay6eb",
+    "status": "200",
+    "url": "https://www.clarity.ms/tag/x8ou6ay6eb",
+    "metadata_file": "raw/browser/A-42.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://webpromo.kinedu.com/\n- accept:*/*\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:www.clarity.ms\n- sec-fetch-dest:script\n- sec-fetch-mode:no-cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "www.clarity.ms",
+    "path": "/tag/x8ou6ay6eb",
+    "query": {},
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "assessment"
+  },
+  {
+    "run": "A",
+    "reqid": 43,
+    "method": "GET",
+    "listed_url": "https://connect.facebook.net/en_US/fbevents.js",
+    "status": "200",
+    "url": "https://connect.facebook.net/en_US/fbevents.js",
+    "metadata_file": "raw/browser/A-43.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://webpromo.kinedu.com/",
+    "response_body_unavailable": true,
+    "host": "connect.facebook.net",
+    "path": "/en_US/fbevents.js",
+    "query": {},
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "assessment"
+  },
+  {
+    "run": "A",
+    "reqid": 51,
+    "method": "GET",
+    "listed_url": "https://connect.facebook.net/signals/config/2089634224620932?v=2.9.433&r=stable&domain=webpromo.kinedu.com&hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153... <truncated>",
+    "status": "200",
+    "url": "https://connect.facebook.net/signals/config/2089634224620932?v=2.9.433&r=stable&domain=webpromo.kinedu.com&hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+    "metadata_file": "raw/browser/A-51.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://webpromo.kinedu.com/",
+    "response_body_unavailable": true,
+    "host": "connect.facebook.net",
+    "path": "/signals/config/2089634224620932",
+    "query": {
+      "v": [
+        "2.9.433"
+      ],
+      "r": [
+        "stable"
+      ],
+      "domain": [
+        "webpromo.kinedu.com"
+      ],
+      "hme": [
+        "4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703"
+      ],
+      "ex_m": [
+        "118,242,171,27,82,83,162,78,77,11,181,102,20,153,141,46,85,90,149,176,183,8,4,5,7,6,3,103,115,32,17,31,18,33,34,35,37,55,163,87,126,22,24,51,47,49,48,95,104,108,124,160,164,53,125,29,26,133,79,43,166,165,167,157,155,30,42,66,123,178,80,21,128,93,76,23,97,98,130,96,151,150,154,109,177,180,41,56,127,54,161,72,185,110,184,211,263,84,283,282,281,14,25,28,40,62,117,68,10,73,111,112,113,119,144,38,36,146,147,148,143,142,172,86,175,173,174,57,69,67,137,19,179,52,333,334,335,332,349,371,256,238,70,239,237,374,365,59,257,121,145,92,135,61,134,140,139,65,74,168,88,89,129,44,39,60,63,114,182,1,138,16,136,12,2,64,105,15,75,71,132,101,100,187,188,106,107,9,116,186,58,158,99,91,81,131,120,169,50,159,0,94,152,156,170,45,122,13,189"
+      ]
+    },
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "assessment"
+  },
+  {
+    "run": "A",
+    "reqid": 53,
+    "method": "GET",
+    "listed_url": "https://www.facebook.com/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source... <truncated>",
+    "status": "200",
+    "url": "https://www.facebook.com/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&rl=&if=false&ts=1793637908294&iw=false&sw=390&sh=844&v=2.9.433&r=stable&ec=0&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&cs_est=true&ler=empty&cdl=API_unavailable&plt=64.59999990463257&tz=120&it=1793637908279&coo=false&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv1&expv2[51]=oq0&rqm=GET",
+    "metadata_file": "raw/browser/A-53.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://webpromo.kinedu.com/\n- :authority:www.facebook.com\n- :method:GET\n- :path:/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&rl=&if=false&ts=1793637908294&iw=false&sw=390&sh=844&v=2.9.433&r=stable&ec=0&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&cs_est=true&ler=empty&cdl=API_unavailable&plt=64.59999990463257&tz=120&it=1793637908279&coo=false&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv1&expv2[51]=oq0&rqm=GET\n- :scheme:https\n- accept:image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- cookie:datr=-ptbaj6fxu4hWou6V3jGNsm2; sb=wQ53ao9xysKFy-7EObZvB4X5\n- priority:u=1, i\n- sec-fetch-dest:image\n- sec-fetch-mode:no-cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "www.facebook.com",
+    "path": "/tr/",
+    "query": {
+      "id": [
+        "2089634224620932"
+      ],
+      "ev": [
+        "PageView"
+      ],
+      "dl": [
+        "https://webpromo.kinedu.com/aq-assessment?vid=c1991816-d75d-4e46-a05d-cc40924c2ea8&paywall=trial3&offer=p79-t7&newusers=1&placement=assessment-landing&utm_source=assessment-landing&utm_medium=partner&ui=classic&capture=0"
+      ],
+      "rl": [
+        ""
+      ],
+      "if": [
+        "false"
+      ],
+      "ts": [
+        "1793637908294"
+      ],
+      "iw": [
+        "false"
+      ],
+      "sw": [
+        "390"
+      ],
+      "sh": [
+        "844"
+      ],
+      "v": [
+        "2.9.433"
+      ],
+      "r": [
+        "stable"
+      ],
+      "ec": [
+        "0"
+      ],
+      "o": [
+        "20509"
+      ],
+      "aems": [
+        "0;0"
+      ],
+      "fbp": [
+        "fb.1.1793637782396.52484787607683365"
+      ],
+      "cs_est": [
+        "true"
+      ],
+      "ler": [
+        "empty"
+      ],
+      "cdl": [
+        "API_unavailable"
+      ],
+      "plt": [
+        "64.59999990463257"
+      ],
+      "tz": [
+        "120"
+      ],
+      "it": [
+        "1793637908279"
+      ],
+      "coo": [
+        "false"
+      ],
+      "expv2[0]": [
+        "pl0"
+      ],
+      "expv2[1]": [
+        "el3"
+      ],
+      "expv2[2]": [
+        "bc1"
+      ],
+      "expv2[3]": [
+        "ra0"
+      ],
+      "expv2[4]": [
+        "rp0"
+      ],
+      "expv2[5]": [
+        "im1"
+      ],
+      "expv2[6]": [
+        "hf1"
+      ],
+      "expv2[7]": [
+        "sd1"
+      ],
+      "expv2[8]": [
+        "sp1"
+      ],
+      "expv2[9]": [
+        "ek1"
+      ],
+      "expv2[10]": [
+        "pc1"
+      ],
+      "expv2[11]": [
+        "gs1"
+      ],
+      "expv2[12]": [
+        "zs1"
+      ],
+      "expv2[13]": [
+        "cp1"
+      ],
+      "expv2[14]": [
+        "es1"
+      ],
+      "expv2[15]": [
+        "ac1"
+      ],
+      "expv2[16]": [
+        "so1"
+      ],
+      "expv2[17]": [
+        "wc1"
+      ],
+      "expv2[18]": [
+        "la1"
+      ],
+      "expv2[19]": [
+        "sf1"
+      ],
+      "expv2[20]": [
+        "da1"
+      ],
+      "expv2[21]": [
+        "io1"
+      ],
+      "expv2[22]": [
+        "ae1"
+      ],
+      "expv2[23]": [
+        "sx1"
+      ],
+      "expv2[24]": [
+        "if1"
+      ],
+      "expv2[25]": [
+        "fd1"
+      ],
+      "expv2[26]": [
+        "bg1"
+      ],
+      "expv2[27]": [
+        "mg1"
+      ],
+      "expv2[28]": [
+        "kl1"
+      ],
+      "expv2[29]": [
+        "sg1"
+      ],
+      "expv2[30]": [
+        "mk1"
+      ],
+      "expv2[31]": [
+        "sn1"
+      ],
+      "expv2[32]": [
+        "ec1"
+      ],
+      "expv2[33]": [
+        "mp1"
+      ],
+      "expv2[34]": [
+        "ps1"
+      ],
+      "expv2[35]": [
+        "fx1"
+      ],
+      "expv2[36]": [
+        "vt1"
+      ],
+      "expv2[37]": [
+        "dp1"
+      ],
+      "expv2[38]": [
+        "fw1"
+      ],
+      "expv2[39]": [
+        "cn1"
+      ],
+      "expv2[40]": [
+        "tz1"
+      ],
+      "expv2[41]": [
+        "pe1"
+      ],
+      "expv2[42]": [
+        "ee1"
+      ],
+      "expv2[43]": [
+        "bu1"
+      ],
+      "expv2[44]": [
+        "ta1"
+      ],
+      "expv2[45]": [
+        "ot1"
+      ],
+      "expv2[46]": [
+        "hv1"
+      ],
+      "expv2[47]": [
+        "ep1"
+      ],
+      "expv2[48]": [
+        "rh0"
+      ],
+      "expv2[49]": [
+        "ah0"
+      ],
+      "expv2[50]": [
+        "nv1"
+      ],
+      "expv2[51]": [
+        "oq0"
+      ],
+      "rqm": [
+        "GET"
+      ]
+    },
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "assessment"
+  },
+  {
+    "run": "A",
+    "reqid": 54,
+    "method": "GET",
+    "listed_url": "https://scripts.clarity.ms/0.8.72/clarity.js",
+    "status": "200",
+    "url": "https://scripts.clarity.ms/0.8.72/clarity.js",
+    "metadata_file": "raw/browser/A-54.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://webpromo.kinedu.com/",
+    "response_body_unavailable": true,
+    "host": "scripts.clarity.ms",
+    "path": "/0.8.72/clarity.js",
+    "query": {},
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "assessment"
+  },
+  {
+    "run": "A",
+    "reqid": 55,
+    "method": "POST",
+    "listed_url": "https://n.clarity.ms/collect",
+    "status": "204",
+    "url": "https://n.clarity.ms/collect",
+    "metadata_file": "raw/browser/A-55.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:3522\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:n.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": false,
+    "host": "n.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/A-55.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": "raw/api/browser/A-55.response.body",
+    "phase": "assessment"
+  },
+  {
+    "run": "A",
+    "reqid": 56,
+    "method": "POST",
+    "listed_url": "https://n.clarity.ms/collect",
+    "status": "204",
+    "url": "https://n.clarity.ms/collect",
+    "metadata_file": "raw/browser/A-56.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:306\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:n.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "n.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/A-56.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": null,
+    "phase": "assessment"
+  },
+  {
+    "run": "A",
+    "reqid": 58,
+    "method": "POST",
+    "listed_url": "https://n.clarity.ms/collect",
+    "status": "204",
+    "url": "https://n.clarity.ms/collect",
+    "metadata_file": "raw/browser/A-58.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:290\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:n.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "n.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/A-58.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": null,
+    "phase": "assessment"
+  },
+  {
+    "run": "A",
+    "reqid": 59,
+    "method": "POST",
+    "listed_url": "https://n.clarity.ms/collect",
+    "status": "204",
+    "url": "https://n.clarity.ms/collect",
+    "metadata_file": "raw/browser/A-59.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:291\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:n.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "n.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/A-59.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": null,
+    "phase": "assessment"
+  },
+  {
+    "run": "A",
+    "reqid": 61,
+    "method": "POST",
+    "listed_url": "https://n.clarity.ms/collect",
+    "status": "204",
+    "url": "https://n.clarity.ms/collect",
+    "metadata_file": "raw/browser/A-61.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:1577\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:n.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "n.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/A-61.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": null,
+    "phase": "assessment"
+  },
+  {
+    "run": "A",
+    "reqid": 62,
+    "method": "POST",
+    "listed_url": "https://n.clarity.ms/collect",
+    "status": "204",
+    "url": "https://n.clarity.ms/collect",
+    "metadata_file": "raw/browser/A-62.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:2209\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:n.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "n.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/A-62.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": null,
+    "phase": "assessment"
+  },
+  {
+    "run": "A",
+    "reqid": 63,
+    "method": "POST",
+    "listed_url": "https://n.clarity.ms/collect",
+    "status": "204",
+    "url": "https://n.clarity.ms/collect",
+    "metadata_file": "raw/browser/A-63.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:1140\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:n.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "n.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/A-63.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": null,
+    "phase": "assessment"
+  },
+  {
+    "run": "A",
+    "reqid": 66,
+    "method": "POST",
+    "listed_url": "https://n.clarity.ms/collect",
+    "status": "204",
+    "url": "https://n.clarity.ms/collect",
+    "metadata_file": "raw/browser/A-66.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:2648\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:n.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "n.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/A-66.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": null,
+    "phase": "assessment"
+  },
+  {
+    "run": "A",
+    "reqid": 67,
+    "method": "POST",
+    "listed_url": "https://n.clarity.ms/collect",
+    "status": "204",
+    "url": "https://n.clarity.ms/collect",
+    "metadata_file": "raw/browser/A-67.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:310\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:n.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "n.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/A-67.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": null,
+    "phase": "assessment"
+  },
+  {
+    "run": "A",
+    "reqid": 70,
+    "method": "POST",
+    "listed_url": "https://n.clarity.ms/collect",
+    "status": "204",
+    "url": "https://n.clarity.ms/collect",
+    "metadata_file": "raw/browser/A-70.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:3110\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:n.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "n.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/A-70.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": null,
+    "phase": "assessment"
+  },
+  {
+    "run": "A",
+    "reqid": 73,
+    "method": "POST",
+    "listed_url": "https://n.clarity.ms/collect",
+    "status": "204",
+    "url": "https://n.clarity.ms/collect",
+    "metadata_file": "raw/browser/A-73.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:3035\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:n.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "n.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/A-73.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": null,
+    "phase": "assessment"
+  },
+  {
+    "run": "A",
+    "reqid": 76,
+    "method": "POST",
+    "listed_url": "https://n.clarity.ms/collect",
+    "status": "204",
+    "url": "https://n.clarity.ms/collect",
+    "metadata_file": "raw/browser/A-76.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:3010\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:n.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "n.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/A-76.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": null,
+    "phase": "assessment"
+  },
+  {
+    "run": "A",
+    "reqid": 83,
+    "method": "POST",
+    "listed_url": "https://n.clarity.ms/collect",
+    "status": "204",
+    "url": "https://n.clarity.ms/collect",
+    "metadata_file": "raw/browser/A-83.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:2369\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:n.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "n.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/A-83.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": null,
+    "phase": "assessment"
+  },
+  {
+    "run": "A",
+    "reqid": 85,
+    "method": "GET",
+    "listed_url": "https://www.facebook.com/tr/?id=2089634224620932&ev=ViewContent&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_sou... <truncated>",
+    "status": "200",
+    "url": "https://www.facebook.com/tr/?id=2089634224620932&ev=ViewContent&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&rl=&if=false&ts=1793638074164&iw=false&cd[content_category]=acquisition&cd[content_name]=assessment-classic&sw=390&sh=844&v=2.9.433&r=stable&ec=1&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&ler=empty&cdl=API_unavailable&plt=64.59999990463257&tz=120&it=1793637908279&coo=false&eid=83a681ea-5324-42a6-bdc5-189b3db2168c&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=mt0&expv2[46]=ot1&expv2[47]=hv1&expv2[48]=ep1&expv2[49]=rh0&expv2[50]=ah0&expv2[51]=nv1&expv2[52]=oq0&rqm=GET",
+    "metadata_file": "raw/browser/A-85.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://webpromo.kinedu.com/\n- :authority:www.facebook.com\n- :method:GET\n- :path:/tr/?id=2089634224620932&ev=ViewContent&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&rl=&if=false&ts=1793638074164&iw=false&cd[content_category]=acquisition&cd[content_name]=assessment-classic&sw=390&sh=844&v=2.9.433&r=stable&ec=1&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&ler=empty&cdl=API_unavailable&plt=64.59999990463257&tz=120&it=1793637908279&coo=false&eid=83a681ea-5324-42a6-bdc5-189b3db2168c&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=mt0&expv2[46]=ot1&expv2[47]=hv1&expv2[48]=ep1&expv2[49]=rh0&expv2[50]=ah0&expv2[51]=nv1&expv2[52]=oq0&rqm=GET\n- :scheme:https\n- accept:image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- cookie:datr=-ptbaj6fxu4hWou6V3jGNsm2; sb=wQ53ao9xysKFy-7EObZvB4X5\n- priority:u=1, i\n- sec-fetch-dest:image\n- sec-fetch-mode:no-cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "www.facebook.com",
+    "path": "/tr/",
+    "query": {
+      "id": [
+        "2089634224620932"
+      ],
+      "ev": [
+        "ViewContent"
+      ],
+      "dl": [
+        "https://webpromo.kinedu.com/aq-assessment?vid=c1991816-d75d-4e46-a05d-cc40924c2ea8&paywall=trial3&offer=p79-t7&newusers=1&placement=assessment-landing&utm_source=assessment-landing&utm_medium=partner&ui=classic&capture=0"
+      ],
+      "rl": [
+        ""
+      ],
+      "if": [
+        "false"
+      ],
+      "ts": [
+        "1793638074164"
+      ],
+      "iw": [
+        "false"
+      ],
+      "cd[content_category]": [
+        "acquisition"
+      ],
+      "cd[content_name]": [
+        "assessment-classic"
+      ],
+      "sw": [
+        "390"
+      ],
+      "sh": [
+        "844"
+      ],
+      "v": [
+        "2.9.433"
+      ],
+      "r": [
+        "stable"
+      ],
+      "ec": [
+        "1"
+      ],
+      "o": [
+        "20509"
+      ],
+      "aems": [
+        "0;0"
+      ],
+      "fbp": [
+        "fb.1.1793637782396.52484787607683365"
+      ],
+      "ler": [
+        "empty"
+      ],
+      "cdl": [
+        "API_unavailable"
+      ],
+      "plt": [
+        "64.59999990463257"
+      ],
+      "tz": [
+        "120"
+      ],
+      "it": [
+        "1793637908279"
+      ],
+      "coo": [
+        "false"
+      ],
+      "eid": [
+        "83a681ea-5324-42a6-bdc5-189b3db2168c"
+      ],
+      "expv2[0]": [
+        "pl0"
+      ],
+      "expv2[1]": [
+        "el3"
+      ],
+      "expv2[2]": [
+        "bc1"
+      ],
+      "expv2[3]": [
+        "ra0"
+      ],
+      "expv2[4]": [
+        "rp0"
+      ],
+      "expv2[5]": [
+        "im1"
+      ],
+      "expv2[6]": [
+        "hf1"
+      ],
+      "expv2[7]": [
+        "sd1"
+      ],
+      "expv2[8]": [
+        "sp1"
+      ],
+      "expv2[9]": [
+        "ek1"
+      ],
+      "expv2[10]": [
+        "pc1"
+      ],
+      "expv2[11]": [
+        "gs1"
+      ],
+      "expv2[12]": [
+        "zs1"
+      ],
+      "expv2[13]": [
+        "cp1"
+      ],
+      "expv2[14]": [
+        "es1"
+      ],
+      "expv2[15]": [
+        "ac1"
+      ],
+      "expv2[16]": [
+        "so1"
+      ],
+      "expv2[17]": [
+        "wc1"
+      ],
+      "expv2[18]": [
+        "la1"
+      ],
+      "expv2[19]": [
+        "sf1"
+      ],
+      "expv2[20]": [
+        "da1"
+      ],
+      "expv2[21]": [
+        "io1"
+      ],
+      "expv2[22]": [
+        "ae1"
+      ],
+      "expv2[23]": [
+        "sx1"
+      ],
+      "expv2[24]": [
+        "if1"
+      ],
+      "expv2[25]": [
+        "fd1"
+      ],
+      "expv2[26]": [
+        "bg1"
+      ],
+      "expv2[27]": [
+        "mg1"
+      ],
+      "expv2[28]": [
+        "kl1"
+      ],
+      "expv2[29]": [
+        "sg1"
+      ],
+      "expv2[30]": [
+        "mk1"
+      ],
+      "expv2[31]": [
+        "sn1"
+      ],
+      "expv2[32]": [
+        "ec1"
+      ],
+      "expv2[33]": [
+        "mp1"
+      ],
+      "expv2[34]": [
+        "ps1"
+      ],
+      "expv2[35]": [
+        "fx1"
+      ],
+      "expv2[36]": [
+        "vt1"
+      ],
+      "expv2[37]": [
+        "dp1"
+      ],
+      "expv2[38]": [
+        "fw1"
+      ],
+      "expv2[39]": [
+        "cn1"
+      ],
+      "expv2[40]": [
+        "tz1"
+      ],
+      "expv2[41]": [
+        "pe1"
+      ],
+      "expv2[42]": [
+        "ee1"
+      ],
+      "expv2[43]": [
+        "bu1"
+      ],
+      "expv2[44]": [
+        "ta1"
+      ],
+      "expv2[45]": [
+        "mt0"
+      ],
+      "expv2[46]": [
+        "ot1"
+      ],
+      "expv2[47]": [
+        "hv1"
+      ],
+      "expv2[48]": [
+        "ep1"
+      ],
+      "expv2[49]": [
+        "rh0"
+      ],
+      "expv2[50]": [
+        "ah0"
+      ],
+      "expv2[51]": [
+        "nv1"
+      ],
+      "expv2[52]": [
+        "oq0"
+      ],
+      "rqm": [
+        "GET"
+      ]
+    },
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "assessment"
+  },
+  {
+    "run": "A",
+    "reqid": 86,
+    "method": "POST",
+    "listed_url": "https://n.clarity.ms/collect",
+    "status": "204",
+    "url": "https://n.clarity.ms/collect",
+    "metadata_file": "raw/browser/A-86.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:3137\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:n.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "n.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/A-86.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": null,
+    "phase": "assessment"
+  },
+  {
+    "run": "A",
+    "reqid": 89,
+    "method": "GET",
+    "listed_url": "https://www.facebook.com/tr/?id=2089634224620932&ev=InitiateCheckout&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26ut... <truncated>",
+    "status": "200",
+    "url": "https://www.facebook.com/tr/?id=2089634224620932&ev=InitiateCheckout&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&rl=&if=false&ts=1793638127572&iw=false&cd[content_category]=acquisition&cd[content_name]=assessment-classic&sw=390&sh=844&v=2.9.433&r=stable&ec=2&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&ler=empty&cdl=API_unavailable&plt=64.59999990463257&tz=120&it=1793637908279&coo=false&eid=b59034b2-1743-4305-98b6-6262b47ae023&expv2[0]=pl0&expv2[1]=el2&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv1&expv2[51]=oq0&rqm=GET",
+    "metadata_file": "raw/browser/A-89.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://webpromo.kinedu.com/\n- :authority:www.facebook.com\n- :method:GET\n- :path:/tr/?id=2089634224620932&ev=InitiateCheckout&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&rl=&if=false&ts=1793638127572&iw=false&cd[content_category]=acquisition&cd[content_name]=assessment-classic&sw=390&sh=844&v=2.9.433&r=stable&ec=2&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&ler=empty&cdl=API_unavailable&plt=64.59999990463257&tz=120&it=1793637908279&coo=false&eid=b59034b2-1743-4305-98b6-6262b47ae023&expv2[0]=pl0&expv2[1]=el2&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv1&expv2[51]=oq0&rqm=GET\n- :scheme:https\n- accept:image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- cookie:datr=-ptbaj6fxu4hWou6V3jGNsm2; sb=wQ53ao9xysKFy-7EObZvB4X5\n- priority:u=1, i\n- sec-fetch-dest:image\n- sec-fetch-mode:no-cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "www.facebook.com",
+    "path": "/tr/",
+    "query": {
+      "id": [
+        "2089634224620932"
+      ],
+      "ev": [
+        "InitiateCheckout"
+      ],
+      "dl": [
+        "https://webpromo.kinedu.com/aq-assessment?vid=c1991816-d75d-4e46-a05d-cc40924c2ea8&paywall=trial3&offer=p79-t7&newusers=1&placement=assessment-landing&utm_source=assessment-landing&utm_medium=partner&ui=classic&capture=0"
+      ],
+      "rl": [
+        ""
+      ],
+      "if": [
+        "false"
+      ],
+      "ts": [
+        "1793638127572"
+      ],
+      "iw": [
+        "false"
+      ],
+      "cd[content_category]": [
+        "acquisition"
+      ],
+      "cd[content_name]": [
+        "assessment-classic"
+      ],
+      "sw": [
+        "390"
+      ],
+      "sh": [
+        "844"
+      ],
+      "v": [
+        "2.9.433"
+      ],
+      "r": [
+        "stable"
+      ],
+      "ec": [
+        "2"
+      ],
+      "o": [
+        "20509"
+      ],
+      "aems": [
+        "0;0"
+      ],
+      "fbp": [
+        "fb.1.1793637782396.52484787607683365"
+      ],
+      "ler": [
+        "empty"
+      ],
+      "cdl": [
+        "API_unavailable"
+      ],
+      "plt": [
+        "64.59999990463257"
+      ],
+      "tz": [
+        "120"
+      ],
+      "it": [
+        "1793637908279"
+      ],
+      "coo": [
+        "false"
+      ],
+      "eid": [
+        "b59034b2-1743-4305-98b6-6262b47ae023"
+      ],
+      "expv2[0]": [
+        "pl0"
+      ],
+      "expv2[1]": [
+        "el2"
+      ],
+      "expv2[2]": [
+        "bc1"
+      ],
+      "expv2[3]": [
+        "ra0"
+      ],
+      "expv2[4]": [
+        "rp0"
+      ],
+      "expv2[5]": [
+        "im1"
+      ],
+      "expv2[6]": [
+        "hf1"
+      ],
+      "expv2[7]": [
+        "sd1"
+      ],
+      "expv2[8]": [
+        "sp1"
+      ],
+      "expv2[9]": [
+        "ek1"
+      ],
+      "expv2[10]": [
+        "pc1"
+      ],
+      "expv2[11]": [
+        "gs1"
+      ],
+      "expv2[12]": [
+        "zs1"
+      ],
+      "expv2[13]": [
+        "cp1"
+      ],
+      "expv2[14]": [
+        "es1"
+      ],
+      "expv2[15]": [
+        "ac1"
+      ],
+      "expv2[16]": [
+        "so1"
+      ],
+      "expv2[17]": [
+        "wc1"
+      ],
+      "expv2[18]": [
+        "la1"
+      ],
+      "expv2[19]": [
+        "sf1"
+      ],
+      "expv2[20]": [
+        "da1"
+      ],
+      "expv2[21]": [
+        "io1"
+      ],
+      "expv2[22]": [
+        "ae1"
+      ],
+      "expv2[23]": [
+        "sx1"
+      ],
+      "expv2[24]": [
+        "if1"
+      ],
+      "expv2[25]": [
+        "fd1"
+      ],
+      "expv2[26]": [
+        "bg1"
+      ],
+      "expv2[27]": [
+        "mg1"
+      ],
+      "expv2[28]": [
+        "kl1"
+      ],
+      "expv2[29]": [
+        "sg1"
+      ],
+      "expv2[30]": [
+        "mk1"
+      ],
+      "expv2[31]": [
+        "sn1"
+      ],
+      "expv2[32]": [
+        "ec1"
+      ],
+      "expv2[33]": [
+        "mp1"
+      ],
+      "expv2[34]": [
+        "ps1"
+      ],
+      "expv2[35]": [
+        "fx1"
+      ],
+      "expv2[36]": [
+        "vt1"
+      ],
+      "expv2[37]": [
+        "dp1"
+      ],
+      "expv2[38]": [
+        "fw1"
+      ],
+      "expv2[39]": [
+        "cn1"
+      ],
+      "expv2[40]": [
+        "tz1"
+      ],
+      "expv2[41]": [
+        "pe1"
+      ],
+      "expv2[42]": [
+        "ee1"
+      ],
+      "expv2[43]": [
+        "bu1"
+      ],
+      "expv2[44]": [
+        "ta1"
+      ],
+      "expv2[45]": [
+        "ot1"
+      ],
+      "expv2[46]": [
+        "hv1"
+      ],
+      "expv2[47]": [
+        "ep1"
+      ],
+      "expv2[48]": [
+        "rh0"
+      ],
+      "expv2[49]": [
+        "ah0"
+      ],
+      "expv2[50]": [
+        "nv1"
+      ],
+      "expv2[51]": [
+        "oq0"
+      ],
+      "rqm": [
+        "GET"
+      ]
+    },
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "paywall"
+  },
+  {
+    "run": "A",
+    "reqid": 90,
+    "method": "GET",
+    "listed_url": "https://js.stripe.com/v3/",
+    "status": "200",
+    "url": "https://js.stripe.com/v3/",
+    "metadata_file": "raw/browser/A-90.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://webpromo.kinedu.com/\n- :authority:js.stripe.com\n- :method:GET\n- :path:/v3/\n- :scheme:https\n- accept:*/*\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- cookie:__Secure-LinkSessionPresent=true\n- sec-fetch-dest:script\n- sec-fetch-mode:no-cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "js.stripe.com",
+    "path": "/v3/",
+    "query": {},
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "paywall"
+  },
+  {
+    "run": "A",
+    "reqid": 96,
+    "method": "GET",
+    "listed_url": "https://www.clarity.ms/tag/x8ou6ay6eb",
+    "status": "200",
+    "url": "https://www.clarity.ms/tag/x8ou6ay6eb",
+    "metadata_file": "raw/browser/A-96.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://webpromo.kinedu.com/\n- accept:*/*\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:www.clarity.ms\n- sec-fetch-dest:script\n- sec-fetch-mode:no-cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "www.clarity.ms",
+    "path": "/tag/x8ou6ay6eb",
+    "query": {},
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "paywall"
+  },
+  {
+    "run": "A",
+    "reqid": 97,
+    "method": "GET",
+    "listed_url": "https://connect.facebook.net/en_US/fbevents.js",
+    "status": "200",
+    "url": "https://connect.facebook.net/en_US/fbevents.js",
+    "metadata_file": "raw/browser/A-97.network.txt",
+    "request_headers_text": "- referer:https://webpromo.kinedu.com/",
+    "response_body_unavailable": true,
+    "host": "connect.facebook.net",
+    "path": "/en_US/fbevents.js",
+    "query": {},
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "paywall"
+  },
+  {
+    "run": "A",
+    "reqid": 98,
+    "method": "GET",
+    "listed_url": "https://connect.facebook.net/signals/config/2089634224620932?v=2.9.433&r=stable&domain=webpromo.kinedu.com&hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153... <truncated>",
+    "status": "200",
+    "url": "https://connect.facebook.net/signals/config/2089634224620932?v=2.9.433&r=stable&domain=webpromo.kinedu.com&hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+    "metadata_file": "raw/browser/A-98.network.txt",
+    "request_headers_text": "- referer:https://webpromo.kinedu.com/",
+    "response_body_unavailable": true,
+    "host": "connect.facebook.net",
+    "path": "/signals/config/2089634224620932",
+    "query": {
+      "v": [
+        "2.9.433"
+      ],
+      "r": [
+        "stable"
+      ],
+      "domain": [
+        "webpromo.kinedu.com"
+      ],
+      "hme": [
+        "4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703"
+      ],
+      "ex_m": [
+        "118,242,171,27,82,83,162,78,77,11,181,102,20,153,141,46,85,90,149,176,183,8,4,5,7,6,3,103,115,32,17,31,18,33,34,35,37,55,163,87,126,22,24,51,47,49,48,95,104,108,124,160,164,53,125,29,26,133,79,43,166,165,167,157,155,30,42,66,123,178,80,21,128,93,76,23,97,98,130,96,151,150,154,109,177,180,41,56,127,54,161,72,185,110,184,211,263,84,283,282,281,14,25,28,40,62,117,68,10,73,111,112,113,119,144,38,36,146,147,148,143,142,172,86,175,173,174,57,69,67,137,19,179,52,333,334,335,332,349,371,256,238,70,239,237,374,365,59,257,121,145,92,135,61,134,140,139,65,74,168,88,89,129,44,39,60,63,114,182,1,138,16,136,12,2,64,105,15,75,71,132,101,100,187,188,106,107,9,116,186,58,158,99,91,81,131,120,169,50,159,0,94,152,156,170,45,122,13,189"
+      ]
+    },
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "paywall"
+  },
+  {
+    "run": "A",
+    "reqid": 99,
+    "method": "GET",
+    "listed_url": "https://www.facebook.com/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-paywall-trial3%2Findex.html%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-lan... <truncated>",
+    "status": "200",
+    "url": "https://www.facebook.com/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-paywall-trial3%2Findex.html%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0%26from%3Dassessment&rl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&if=false&ts=1793638127900&iw=false&sw=390&sh=844&v=2.9.433&r=stable&ec=0&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&cs_est=true&ler=empty&cdl=API_unavailable&tz=120&it=1793638127889&coo=false&expv2[0]=pl1&expv2[1]=el2&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=ct2&expv2[6]=hf1&expv2[7]=pt1&expv2[8]=sd1&expv2[9]=sp1&expv2[10]=ek1&expv2[11]=pc1&expv2[12]=gs1&expv2[13]=zs1&expv2[14]=cp1&expv2[15]=es1&expv2[16]=ac1&expv2[17]=so1&expv2[18]=wc1&expv2[19]=la1&expv2[20]=sf1&expv2[21]=da1&expv2[22]=io1&expv2[23]=ae1&expv2[24]=sx1&expv2[25]=if1&expv2[26]=fd1&expv2[27]=bg1&expv2[28]=mg1&expv2[29]=kl1&expv2[30]=sg1&expv2[31]=mk1&expv2[32]=sn1&expv2[33]=ec1&expv2[34]=mp1&expv2[35]=ps1&expv2[36]=fx1&expv2[37]=vt1&expv2[38]=dp1&expv2[39]=fw1&expv2[40]=cn1&expv2[41]=tz1&expv2[42]=pe1&expv2[43]=ee1&expv2[44]=bu1&expv2[45]=ta1&expv2[46]=ot1&expv2[47]=hv1&expv2[48]=ep1&expv2[49]=rh0&expv2[50]=ah0&expv2[51]=nv1&expv2[52]=oq0&rqm=GET",
+    "metadata_file": "raw/browser/A-99.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://webpromo.kinedu.com/\n- :authority:www.facebook.com\n- :method:GET\n- :path:/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-paywall-trial3%2Findex.html%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0%26from%3Dassessment&rl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&if=false&ts=1793638127900&iw=false&sw=390&sh=844&v=2.9.433&r=stable&ec=0&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&cs_est=true&ler=empty&cdl=API_unavailable&tz=120&it=1793638127889&coo=false&expv2[0]=pl1&expv2[1]=el2&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=ct2&expv2[6]=hf1&expv2[7]=pt1&expv2[8]=sd1&expv2[9]=sp1&expv2[10]=ek1&expv2[11]=pc1&expv2[12]=gs1&expv2[13]=zs1&expv2[14]=cp1&expv2[15]=es1&expv2[16]=ac1&expv2[17]=so1&expv2[18]=wc1&expv2[19]=la1&expv2[20]=sf1&expv2[21]=da1&expv2[22]=io1&expv2[23]=ae1&expv2[24]=sx1&expv2[25]=if1&expv2[26]=fd1&expv2[27]=bg1&expv2[28]=mg1&expv2[29]=kl1&expv2[30]=sg1&expv2[31]=mk1&expv2[32]=sn1&expv2[33]=ec1&expv2[34]=mp1&expv2[35]=ps1&expv2[36]=fx1&expv2[37]=vt1&expv2[38]=dp1&expv2[39]=fw1&expv2[40]=cn1&expv2[41]=tz1&expv2[42]=pe1&expv2[43]=ee1&expv2[44]=bu1&expv2[45]=ta1&expv2[46]=ot1&expv2[47]=hv1&expv2[48]=ep1&expv2[49]=rh0&expv2[50]=ah0&expv2[51]=nv1&expv2[52]=oq0&rqm=GET\n- :scheme:https\n- accept:image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- cookie:datr=-ptbaj6fxu4hWou6V3jGNsm2; sb=wQ53ao9xysKFy-7EObZvB4X5\n- priority:u=1, i\n- sec-fetch-dest:image\n- sec-fetch-mode:no-cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "www.facebook.com",
+    "path": "/tr/",
+    "query": {
+      "id": [
+        "2089634224620932"
+      ],
+      "ev": [
+        "PageView"
+      ],
+      "dl": [
+        "https://webpromo.kinedu.com/aq-paywall-trial3/index.html?vid=c1991816-d75d-4e46-a05d-cc40924c2ea8&paywall=trial3&offer=p79-t7&newusers=1&placement=assessment-landing&utm_source=assessment-landing&utm_medium=partner&ui=classic&capture=0&from=assessment"
+      ],
+      "rl": [
+        "https://webpromo.kinedu.com/aq-assessment?vid=c1991816-d75d-4e46-a05d-cc40924c2ea8&paywall=trial3&offer=p79-t7&newusers=1&placement=assessment-landing&utm_source=assessment-landing&utm_medium=partner&ui=classic&capture=0"
+      ],
+      "if": [
+        "false"
+      ],
+      "ts": [
+        "1793638127900"
+      ],
+      "iw": [
+        "false"
+      ],
+      "sw": [
+        "390"
+      ],
+      "sh": [
+        "844"
+      ],
+      "v": [
+        "2.9.433"
+      ],
+      "r": [
+        "stable"
+      ],
+      "ec": [
+        "0"
+      ],
+      "o": [
+        "20509"
+      ],
+      "aems": [
+        "0;0"
+      ],
+      "fbp": [
+        "fb.1.1793637782396.52484787607683365"
+      ],
+      "cs_est": [
+        "true"
+      ],
+      "ler": [
+        "empty"
+      ],
+      "cdl": [
+        "API_unavailable"
+      ],
+      "tz": [
+        "120"
+      ],
+      "it": [
+        "1793638127889"
+      ],
+      "coo": [
+        "false"
+      ],
+      "expv2[0]": [
+        "pl1"
+      ],
+      "expv2[1]": [
+        "el2"
+      ],
+      "expv2[2]": [
+        "bc1"
+      ],
+      "expv2[3]": [
+        "ra0"
+      ],
+      "expv2[4]": [
+        "rp0"
+      ],
+      "expv2[5]": [
+        "ct2"
+      ],
+      "expv2[6]": [
+        "hf1"
+      ],
+      "expv2[7]": [
+        "pt1"
+      ],
+      "expv2[8]": [
+        "sd1"
+      ],
+      "expv2[9]": [
+        "sp1"
+      ],
+      "expv2[10]": [
+        "ek1"
+      ],
+      "expv2[11]": [
+        "pc1"
+      ],
+      "expv2[12]": [
+        "gs1"
+      ],
+      "expv2[13]": [
+        "zs1"
+      ],
+      "expv2[14]": [
+        "cp1"
+      ],
+      "expv2[15]": [
+        "es1"
+      ],
+      "expv2[16]": [
+        "ac1"
+      ],
+      "expv2[17]": [
+        "so1"
+      ],
+      "expv2[18]": [
+        "wc1"
+      ],
+      "expv2[19]": [
+        "la1"
+      ],
+      "expv2[20]": [
+        "sf1"
+      ],
+      "expv2[21]": [
+        "da1"
+      ],
+      "expv2[22]": [
+        "io1"
+      ],
+      "expv2[23]": [
+        "ae1"
+      ],
+      "expv2[24]": [
+        "sx1"
+      ],
+      "expv2[25]": [
+        "if1"
+      ],
+      "expv2[26]": [
+        "fd1"
+      ],
+      "expv2[27]": [
+        "bg1"
+      ],
+      "expv2[28]": [
+        "mg1"
+      ],
+      "expv2[29]": [
+        "kl1"
+      ],
+      "expv2[30]": [
+        "sg1"
+      ],
+      "expv2[31]": [
+        "mk1"
+      ],
+      "expv2[32]": [
+        "sn1"
+      ],
+      "expv2[33]": [
+        "ec1"
+      ],
+      "expv2[34]": [
+        "mp1"
+      ],
+      "expv2[35]": [
+        "ps1"
+      ],
+      "expv2[36]": [
+        "fx1"
+      ],
+      "expv2[37]": [
+        "vt1"
+      ],
+      "expv2[38]": [
+        "dp1"
+      ],
+      "expv2[39]": [
+        "fw1"
+      ],
+      "expv2[40]": [
+        "cn1"
+      ],
+      "expv2[41]": [
+        "tz1"
+      ],
+      "expv2[42]": [
+        "pe1"
+      ],
+      "expv2[43]": [
+        "ee1"
+      ],
+      "expv2[44]": [
+        "bu1"
+      ],
+      "expv2[45]": [
+        "ta1"
+      ],
+      "expv2[46]": [
+        "ot1"
+      ],
+      "expv2[47]": [
+        "hv1"
+      ],
+      "expv2[48]": [
+        "ep1"
+      ],
+      "expv2[49]": [
+        "rh0"
+      ],
+      "expv2[50]": [
+        "ah0"
+      ],
+      "expv2[51]": [
+        "nv1"
+      ],
+      "expv2[52]": [
+        "oq0"
+      ],
+      "rqm": [
+        "GET"
+      ]
+    },
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "paywall"
+  },
+  {
+    "run": "A",
+    "reqid": 103,
+    "method": "GET",
+    "listed_url": "https://scripts.clarity.ms/0.8.72/clarity.js",
+    "status": "200",
+    "url": "https://scripts.clarity.ms/0.8.72/clarity.js",
+    "metadata_file": "raw/browser/A-103.network.txt",
+    "request_headers_text": "- referer:https://webpromo.kinedu.com/",
+    "response_body_unavailable": true,
+    "host": "scripts.clarity.ms",
+    "path": "/0.8.72/clarity.js",
+    "query": {},
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "paywall"
+  },
+  {
+    "run": "A",
+    "reqid": 104,
+    "method": "POST",
+    "listed_url": "https://b.clarity.ms/collect",
+    "status": "204",
+    "url": "https://b.clarity.ms/collect",
+    "metadata_file": "raw/browser/A-104.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:771\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:b.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "b.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/A-104.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": null,
+    "phase": "paywall"
+  },
+  {
+    "run": "A",
+    "reqid": 105,
+    "method": "GET",
+    "listed_url": "https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-paywall-trial3%2Findex.html%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dass... <truncated>",
+    "status": "200",
+    "url": "https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-paywall-trial3%2Findex.html%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0%26from%3Dassessment&title=Kinedu%20%E2%80%94%20Start%20your%20free%20trial&referrer=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&muid=NA&sid=NA&version=6&preview=false&__shared_params__[version]=v3",
+    "metadata_file": "raw/browser/A-105.network.txt",
+    "request_headers_text": "- referer:https://webpromo.kinedu.com/\n- upgrade-insecure-requests:1\n- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- :authority:js.stripe.com\n- :method:GET\n- :path:/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html\n- :scheme:https\n- accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- cookie:__Secure-LinkSessionPresent=true\n- priority:u=0, i\n- sec-fetch-dest:iframe\n- sec-fetch-mode:navigate\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active\n- sec-fetch-user:?1",
+    "response_body_unavailable": true,
+    "host": "js.stripe.com",
+    "path": "/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html",
+    "query": {},
+    "fragment": "url=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-paywall-trial3%2Findex.html%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0%26from%3Dassessment&title=Kinedu%20%E2%80%94%20Start%20your%20free%20trial&referrer=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&muid=NA&sid=NA&version=6&preview=false&__shared_params__[version]=v3",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "paywall"
+  },
+  {
+    "run": "A",
+    "reqid": 106,
+    "method": "POST",
+    "listed_url": "https://b.clarity.ms/collect",
+    "status": "204",
+    "url": "https://b.clarity.ms/collect",
+    "metadata_file": "raw/browser/A-106.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:9241\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:b.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "b.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/A-106.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": null,
+    "phase": "paywall"
+  },
+  {
+    "run": "A",
+    "reqid": 107,
+    "method": "GET",
+    "listed_url": "https://js.stripe.com/v3/fingerprinted/js/m-outer-15a2b40a058ddff1cffdb63779fe3de1.js",
+    "status": "200",
+    "url": "https://js.stripe.com/v3/fingerprinted/js/m-outer-15a2b40a058ddff1cffdb63779fe3de1.js",
+    "metadata_file": "raw/browser/A-107.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html\n- :authority:js.stripe.com\n- :method:GET\n- :path:/v3/fingerprinted/js/m-outer-15a2b40a058ddff1cffdb63779fe3de1.js\n- :scheme:https\n- accept:*/*\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- cookie:__Secure-LinkSessionPresent=true\n- sec-fetch-dest:script\n- sec-fetch-mode:no-cors\n- sec-fetch-site:same-origin\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "js.stripe.com",
+    "path": "/v3/fingerprinted/js/m-outer-15a2b40a058ddff1cffdb63779fe3de1.js",
+    "query": {},
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "paywall"
+  },
+  {
+    "run": "A",
+    "reqid": 109,
+    "method": "GET",
+    "listed_url": "https://m.stripe.network/inner.html#url=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-paywall-trial3%2Findex.html%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dasse... <truncated>",
+    "status": "200",
+    "url": "https://m.stripe.network/inner.html#url=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-paywall-trial3%2Findex.html%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0%26from%3Dassessment&title=Kinedu%20%E2%80%94%20Start%20your%20free%20trial&referrer=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&muid=NA&sid=NA&version=6&preview=false&__shared_params__[version]=v3",
+    "metadata_file": "raw/browser/A-109.network.txt",
+    "request_headers_text": "- referer:https://js.stripe.com/\n- upgrade-insecure-requests:1\n- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- :authority:m.stripe.network\n- :method:GET\n- :path:/inner.html\n- :scheme:https\n- accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- priority:u=0, i\n- sec-fetch-dest:iframe\n- sec-fetch-mode:navigate\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "m.stripe.network",
+    "path": "/inner.html",
+    "query": {},
+    "fragment": "url=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-paywall-trial3%2Findex.html%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0%26from%3Dassessment&title=Kinedu%20%E2%80%94%20Start%20your%20free%20trial&referrer=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&muid=NA&sid=NA&version=6&preview=false&__shared_params__[version]=v3",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "paywall"
+  },
+  {
+    "run": "A",
+    "reqid": 111,
+    "method": "GET",
+    "listed_url": "https://m.stripe.network/out-4.5.45.js",
+    "status": "200",
+    "url": "https://m.stripe.network/out-4.5.45.js",
+    "metadata_file": "raw/browser/A-111.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://m.stripe.network/inner.html\n- :authority:m.stripe.network\n- :method:GET\n- :path:/out-4.5.45.js\n- :scheme:https\n- accept:*/*\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- sec-fetch-dest:script\n- sec-fetch-mode:no-cors\n- sec-fetch-site:same-origin\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "m.stripe.network",
+    "path": "/out-4.5.45.js",
+    "query": {},
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "paywall"
+  },
+  {
+    "run": "A",
+    "reqid": 112,
+    "method": "POST",
+    "listed_url": "https://m.stripe.com/6",
+    "status": "200",
+    "url": "https://m.stripe.com/6",
+    "metadata_file": "raw/browser/A-112.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- content-type:text/plain;charset=UTF-8\n- referer:https://m.stripe.network/\n- :authority:m.stripe.com\n- :method:POST\n- :path:/6\n- :scheme:https\n- accept:*/*\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- content-length:5076\n- cookie:m=6162727e-f472-49b2-9bd3-c569ac1abb3674f185; __Secure-LinkSessionPresent=true\n- origin:https://m.stripe.network\n- priority:u=1, i\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "m.stripe.com",
+    "path": "/6",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/A-112.request.body",
+    "request_body_note": "Non-JSON body; see saved body file.",
+    "response_body_file": null,
+    "phase": "paywall"
+  },
+  {
+    "run": "A",
+    "reqid": 113,
+    "method": "POST",
+    "listed_url": "https://b.clarity.ms/collect",
+    "status": "204",
+    "url": "https://b.clarity.ms/collect",
+    "metadata_file": "raw/browser/A-113.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:984\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:b.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "b.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/A-113.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": null,
+    "phase": "paywall"
+  },
+  {
+    "run": "A",
+    "reqid": 114,
+    "method": "GET",
+    "listed_url": "https://www.facebook.com/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source... <truncated>",
+    "status": "200",
+    "url": "https://www.facebook.com/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&rl=&if=false&ts=1793638134209&iw=false&sw=390&sh=844&v=2.9.433&r=stable&ec=3&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&cs_est=true&ler=empty&cdl=API_unavailable&plt=64.59999990463257&tz=120&it=1793638134206&coo=false&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv1&expv2[51]=oq0&rqm=GET",
+    "metadata_file": "raw/browser/A-114.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://webpromo.kinedu.com/\n- :authority:www.facebook.com\n- :method:GET\n- :path:/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&rl=&if=false&ts=1793638134209&iw=false&sw=390&sh=844&v=2.9.433&r=stable&ec=3&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&cs_est=true&ler=empty&cdl=API_unavailable&plt=64.59999990463257&tz=120&it=1793638134206&coo=false&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv1&expv2[51]=oq0&rqm=GET\n- :scheme:https\n- accept:image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- cookie:datr=-ptbaj6fxu4hWou6V3jGNsm2; sb=wQ53ao9xysKFy-7EObZvB4X5\n- priority:u=1, i\n- sec-fetch-dest:image\n- sec-fetch-mode:no-cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "www.facebook.com",
+    "path": "/tr/",
+    "query": {
+      "id": [
+        "2089634224620932"
+      ],
+      "ev": [
+        "PageView"
+      ],
+      "dl": [
+        "https://webpromo.kinedu.com/aq-assessment?vid=c1991816-d75d-4e46-a05d-cc40924c2ea8&paywall=trial3&offer=p79-t7&newusers=1&placement=assessment-landing&utm_source=assessment-landing&utm_medium=partner&ui=classic&capture=0"
+      ],
+      "rl": [
+        ""
+      ],
+      "if": [
+        "false"
+      ],
+      "ts": [
+        "1793638134209"
+      ],
+      "iw": [
+        "false"
+      ],
+      "sw": [
+        "390"
+      ],
+      "sh": [
+        "844"
+      ],
+      "v": [
+        "2.9.433"
+      ],
+      "r": [
+        "stable"
+      ],
+      "ec": [
+        "3"
+      ],
+      "o": [
+        "20509"
+      ],
+      "aems": [
+        "0;0"
+      ],
+      "fbp": [
+        "fb.1.1793637782396.52484787607683365"
+      ],
+      "cs_est": [
+        "true"
+      ],
+      "ler": [
+        "empty"
+      ],
+      "cdl": [
+        "API_unavailable"
+      ],
+      "plt": [
+        "64.59999990463257"
+      ],
+      "tz": [
+        "120"
+      ],
+      "it": [
+        "1793638134206"
+      ],
+      "coo": [
+        "false"
+      ],
+      "expv2[0]": [
+        "pl0"
+      ],
+      "expv2[1]": [
+        "el3"
+      ],
+      "expv2[2]": [
+        "bc1"
+      ],
+      "expv2[3]": [
+        "ra0"
+      ],
+      "expv2[4]": [
+        "rp0"
+      ],
+      "expv2[5]": [
+        "im1"
+      ],
+      "expv2[6]": [
+        "hf1"
+      ],
+      "expv2[7]": [
+        "sd1"
+      ],
+      "expv2[8]": [
+        "sp1"
+      ],
+      "expv2[9]": [
+        "ek1"
+      ],
+      "expv2[10]": [
+        "pc1"
+      ],
+      "expv2[11]": [
+        "gs1"
+      ],
+      "expv2[12]": [
+        "zs1"
+      ],
+      "expv2[13]": [
+        "cp1"
+      ],
+      "expv2[14]": [
+        "es1"
+      ],
+      "expv2[15]": [
+        "ac1"
+      ],
+      "expv2[16]": [
+        "so1"
+      ],
+      "expv2[17]": [
+        "wc1"
+      ],
+      "expv2[18]": [
+        "la1"
+      ],
+      "expv2[19]": [
+        "sf1"
+      ],
+      "expv2[20]": [
+        "da1"
+      ],
+      "expv2[21]": [
+        "io1"
+      ],
+      "expv2[22]": [
+        "ae1"
+      ],
+      "expv2[23]": [
+        "sx1"
+      ],
+      "expv2[24]": [
+        "if1"
+      ],
+      "expv2[25]": [
+        "fd1"
+      ],
+      "expv2[26]": [
+        "bg1"
+      ],
+      "expv2[27]": [
+        "mg1"
+      ],
+      "expv2[28]": [
+        "kl1"
+      ],
+      "expv2[29]": [
+        "sg1"
+      ],
+      "expv2[30]": [
+        "mk1"
+      ],
+      "expv2[31]": [
+        "sn1"
+      ],
+      "expv2[32]": [
+        "ec1"
+      ],
+      "expv2[33]": [
+        "mp1"
+      ],
+      "expv2[34]": [
+        "ps1"
+      ],
+      "expv2[35]": [
+        "fx1"
+      ],
+      "expv2[36]": [
+        "vt1"
+      ],
+      "expv2[37]": [
+        "dp1"
+      ],
+      "expv2[38]": [
+        "fw1"
+      ],
+      "expv2[39]": [
+        "cn1"
+      ],
+      "expv2[40]": [
+        "tz1"
+      ],
+      "expv2[41]": [
+        "pe1"
+      ],
+      "expv2[42]": [
+        "ee1"
+      ],
+      "expv2[43]": [
+        "bu1"
+      ],
+      "expv2[44]": [
+        "ta1"
+      ],
+      "expv2[45]": [
+        "ot1"
+      ],
+      "expv2[46]": [
+        "hv1"
+      ],
+      "expv2[47]": [
+        "ep1"
+      ],
+      "expv2[48]": [
+        "rh0"
+      ],
+      "expv2[49]": [
+        "ah0"
+      ],
+      "expv2[50]": [
+        "nv1"
+      ],
+      "expv2[51]": [
+        "oq0"
+      ],
+      "rqm": [
+        "GET"
+      ]
+    },
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "return_from_paywall"
+  },
+  {
+    "run": "A",
+    "reqid": 115,
+    "method": "POST",
+    "listed_url": "https://n.clarity.ms/collect",
+    "status": "204",
+    "url": "https://n.clarity.ms/collect",
+    "metadata_file": "raw/browser/A-115.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:4061\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:n.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": false,
+    "host": "n.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/A-115.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": "raw/api/browser/A-115.response.body",
+    "phase": "return_from_paywall"
+  },
+  {
+    "run": "B",
+    "reqid": 13,
+    "method": "GET",
+    "listed_url": "https://www.clarity.ms/tag/x8ou6ay6eb",
+    "status": "200",
+    "url": "https://www.clarity.ms/tag/x8ou6ay6eb",
+    "metadata_file": "raw/browser/B-13.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://webpromo.kinedu.com/\n- accept:*/*\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:www.clarity.ms\n- sec-fetch-dest:script\n- sec-fetch-mode:no-cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": false,
+    "host": "www.clarity.ms",
+    "path": "/tag/x8ou6ay6eb",
+    "query": {},
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": "raw/api/browser/B-13.response.body",
+    "phase": "assessment"
+  },
+  {
+    "run": "B",
+    "reqid": 14,
+    "method": "GET",
+    "listed_url": "https://connect.facebook.net/en_US/fbevents.js",
+    "status": "200",
+    "url": "https://connect.facebook.net/en_US/fbevents.js",
+    "metadata_file": "raw/browser/B-14.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://webpromo.kinedu.com/",
+    "response_body_unavailable": false,
+    "host": "connect.facebook.net",
+    "path": "/en_US/fbevents.js",
+    "query": {},
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": "raw/api/browser/B-14.response.body",
+    "phase": "assessment"
+  },
+  {
+    "run": "B",
+    "reqid": 23,
+    "method": "GET",
+    "listed_url": "https://connect.facebook.net/signals/config/2089634224620932?v=2.9.433&r=stable&domain=webpromo.kinedu.com&hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153... <truncated>",
+    "status": "200",
+    "url": "https://connect.facebook.net/signals/config/2089634224620932?v=2.9.433&r=stable&domain=webpromo.kinedu.com&hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+    "metadata_file": "raw/browser/B-23.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://webpromo.kinedu.com/",
+    "response_body_unavailable": false,
+    "host": "connect.facebook.net",
+    "path": "/signals/config/2089634224620932",
+    "query": {
+      "v": [
+        "2.9.433"
+      ],
+      "r": [
+        "stable"
+      ],
+      "domain": [
+        "webpromo.kinedu.com"
+      ],
+      "hme": [
+        "4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703"
+      ],
+      "ex_m": [
+        "118,242,171,27,82,83,162,78,77,11,181,102,20,153,141,46,85,90,149,176,183,8,4,5,7,6,3,103,115,32,17,31,18,33,34,35,37,55,163,87,126,22,24,51,47,49,48,95,104,108,124,160,164,53,125,29,26,133,79,43,166,165,167,157,155,30,42,66,123,178,80,21,128,93,76,23,97,98,130,96,151,150,154,109,177,180,41,56,127,54,161,72,185,110,184,211,263,84,283,282,281,14,25,28,40,62,117,68,10,73,111,112,113,119,144,38,36,146,147,148,143,142,172,86,175,173,174,57,69,67,137,19,179,52,333,334,335,332,349,371,256,238,70,239,237,374,365,59,257,121,145,92,135,61,134,140,139,65,74,168,88,89,129,44,39,60,63,114,182,1,138,16,136,12,2,64,105,15,75,71,132,101,100,187,188,106,107,9,116,186,58,158,99,91,81,131,120,169,50,159,0,94,152,156,170,45,122,13,189"
+      ]
+    },
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": "raw/api/browser/B-23.response.body",
+    "phase": "assessment"
+  },
+  {
+    "run": "B",
+    "reqid": 24,
+    "method": "GET",
+    "listed_url": "https://www.facebook.com/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source... <truncated>",
+    "status": "200",
+    "url": "https://www.facebook.com/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&rl=&if=false&ts=1793638163720&iw=false&sw=390&sh=844&v=2.9.433&r=stable&ec=0&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&cs_est=true&ler=empty&cdl=API_unavailable&plt=68.80000019073486&tz=120&it=1793638163705&coo=false&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv0&expv2[51]=oq0&rqm=GET",
+    "metadata_file": "raw/browser/B-24.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://webpromo.kinedu.com/\n- :authority:www.facebook.com\n- :method:GET\n- :path:/tr/?id=2089634224620932&ev=PageView&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&rl=&if=false&ts=1793638163720&iw=false&sw=390&sh=844&v=2.9.433&r=stable&ec=0&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&cs_est=true&ler=empty&cdl=API_unavailable&plt=68.80000019073486&tz=120&it=1793638163705&coo=false&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv0&expv2[51]=oq0&rqm=GET\n- :scheme:https\n- accept:image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- cookie:datr=-ptbaj6fxu4hWou6V3jGNsm2; sb=wQ53ao9xysKFy-7EObZvB4X5\n- priority:u=1, i\n- sec-fetch-dest:image\n- sec-fetch-mode:no-cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": true,
+    "host": "www.facebook.com",
+    "path": "/tr/",
+    "query": {
+      "id": [
+        "2089634224620932"
+      ],
+      "ev": [
+        "PageView"
+      ],
+      "dl": [
+        "https://webpromo.kinedu.com/aq-assessment?vid=c1991816-d75d-4e46-a05d-cc40924c2ea8&paywall=trial3&offer=p79-t7&newusers=1&placement=assessment-landing&utm_source=assessment-landing&utm_medium=partner&ui=classic&capture=0"
+      ],
+      "rl": [
+        ""
+      ],
+      "if": [
+        "false"
+      ],
+      "ts": [
+        "1793638163720"
+      ],
+      "iw": [
+        "false"
+      ],
+      "sw": [
+        "390"
+      ],
+      "sh": [
+        "844"
+      ],
+      "v": [
+        "2.9.433"
+      ],
+      "r": [
+        "stable"
+      ],
+      "ec": [
+        "0"
+      ],
+      "o": [
+        "20509"
+      ],
+      "aems": [
+        "0;0"
+      ],
+      "fbp": [
+        "fb.1.1793637782396.52484787607683365"
+      ],
+      "cs_est": [
+        "true"
+      ],
+      "ler": [
+        "empty"
+      ],
+      "cdl": [
+        "API_unavailable"
+      ],
+      "plt": [
+        "68.80000019073486"
+      ],
+      "tz": [
+        "120"
+      ],
+      "it": [
+        "1793638163705"
+      ],
+      "coo": [
+        "false"
+      ],
+      "expv2[0]": [
+        "pl0"
+      ],
+      "expv2[1]": [
+        "el3"
+      ],
+      "expv2[2]": [
+        "bc1"
+      ],
+      "expv2[3]": [
+        "ra0"
+      ],
+      "expv2[4]": [
+        "rp0"
+      ],
+      "expv2[5]": [
+        "im1"
+      ],
+      "expv2[6]": [
+        "hf1"
+      ],
+      "expv2[7]": [
+        "sd1"
+      ],
+      "expv2[8]": [
+        "sp1"
+      ],
+      "expv2[9]": [
+        "ek1"
+      ],
+      "expv2[10]": [
+        "pc1"
+      ],
+      "expv2[11]": [
+        "gs1"
+      ],
+      "expv2[12]": [
+        "zs1"
+      ],
+      "expv2[13]": [
+        "cp1"
+      ],
+      "expv2[14]": [
+        "es1"
+      ],
+      "expv2[15]": [
+        "ac1"
+      ],
+      "expv2[16]": [
+        "so1"
+      ],
+      "expv2[17]": [
+        "wc1"
+      ],
+      "expv2[18]": [
+        "la1"
+      ],
+      "expv2[19]": [
+        "sf1"
+      ],
+      "expv2[20]": [
+        "da1"
+      ],
+      "expv2[21]": [
+        "io1"
+      ],
+      "expv2[22]": [
+        "ae1"
+      ],
+      "expv2[23]": [
+        "sx1"
+      ],
+      "expv2[24]": [
+        "if1"
+      ],
+      "expv2[25]": [
+        "fd1"
+      ],
+      "expv2[26]": [
+        "bg1"
+      ],
+      "expv2[27]": [
+        "mg1"
+      ],
+      "expv2[28]": [
+        "kl1"
+      ],
+      "expv2[29]": [
+        "sg1"
+      ],
+      "expv2[30]": [
+        "mk1"
+      ],
+      "expv2[31]": [
+        "sn1"
+      ],
+      "expv2[32]": [
+        "ec1"
+      ],
+      "expv2[33]": [
+        "mp1"
+      ],
+      "expv2[34]": [
+        "ps1"
+      ],
+      "expv2[35]": [
+        "fx1"
+      ],
+      "expv2[36]": [
+        "vt1"
+      ],
+      "expv2[37]": [
+        "dp1"
+      ],
+      "expv2[38]": [
+        "fw1"
+      ],
+      "expv2[39]": [
+        "cn1"
+      ],
+      "expv2[40]": [
+        "tz1"
+      ],
+      "expv2[41]": [
+        "pe1"
+      ],
+      "expv2[42]": [
+        "ee1"
+      ],
+      "expv2[43]": [
+        "bu1"
+      ],
+      "expv2[44]": [
+        "ta1"
+      ],
+      "expv2[45]": [
+        "ot1"
+      ],
+      "expv2[46]": [
+        "hv1"
+      ],
+      "expv2[47]": [
+        "ep1"
+      ],
+      "expv2[48]": [
+        "rh0"
+      ],
+      "expv2[49]": [
+        "ah0"
+      ],
+      "expv2[50]": [
+        "nv0"
+      ],
+      "expv2[51]": [
+        "oq0"
+      ],
+      "rqm": [
+        "GET"
+      ]
+    },
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": null,
+    "phase": "assessment"
+  },
+  {
+    "run": "B",
+    "reqid": 25,
+    "method": "GET",
+    "listed_url": "https://scripts.clarity.ms/0.8.72/clarity.js",
+    "status": "200",
+    "url": "https://scripts.clarity.ms/0.8.72/clarity.js",
+    "metadata_file": "raw/browser/B-25.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://webpromo.kinedu.com/",
+    "response_body_unavailable": false,
+    "host": "scripts.clarity.ms",
+    "path": "/0.8.72/clarity.js",
+    "query": {},
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": "raw/api/browser/B-25.response.body",
+    "phase": "assessment"
+  },
+  {
+    "run": "B",
+    "reqid": 26,
+    "method": "POST",
+    "listed_url": "https://r.clarity.ms/collect",
+    "status": "204",
+    "url": "https://r.clarity.ms/collect",
+    "metadata_file": "raw/browser/B-26.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:3527\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:r.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": false,
+    "host": "r.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/B-26.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": "raw/api/browser/B-26.response.body",
+    "phase": "assessment"
+  },
+  {
+    "run": "B",
+    "reqid": 29,
+    "method": "POST",
+    "listed_url": "https://r.clarity.ms/collect",
+    "status": "204",
+    "url": "https://r.clarity.ms/collect",
+    "metadata_file": "raw/browser/B-29.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:1592\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:r.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": false,
+    "host": "r.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/B-29.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": "raw/api/browser/B-29.response.body",
+    "phase": "assessment"
+  },
+  {
+    "run": "B",
+    "reqid": 30,
+    "method": "POST",
+    "listed_url": "https://r.clarity.ms/collect",
+    "status": "204",
+    "url": "https://r.clarity.ms/collect",
+    "metadata_file": "raw/browser/B-30.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:2218\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:r.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": false,
+    "host": "r.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/B-30.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": "raw/api/browser/B-30.response.body",
+    "phase": "assessment"
+  },
+  {
+    "run": "B",
+    "reqid": 34,
+    "method": "POST",
+    "listed_url": "https://r.clarity.ms/collect",
+    "status": "204",
+    "url": "https://r.clarity.ms/collect",
+    "metadata_file": "raw/browser/B-34.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:2802\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:r.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": false,
+    "host": "r.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/B-34.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": "raw/api/browser/B-34.response.body",
+    "phase": "assessment"
+  },
+  {
+    "run": "B",
+    "reqid": 35,
+    "method": "POST",
+    "listed_url": "https://r.clarity.ms/collect",
+    "status": "204",
+    "url": "https://r.clarity.ms/collect",
+    "metadata_file": "raw/browser/B-35.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:1395\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:r.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": false,
+    "host": "r.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/B-35.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": "raw/api/browser/B-35.response.body",
+    "phase": "assessment"
+  },
+  {
+    "run": "B",
+    "reqid": 38,
+    "method": "POST",
+    "listed_url": "https://r.clarity.ms/collect",
+    "status": "204",
+    "url": "https://r.clarity.ms/collect",
+    "metadata_file": "raw/browser/B-38.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:2461\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:r.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": false,
+    "host": "r.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/B-38.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": "raw/api/browser/B-38.response.body",
+    "phase": "assessment"
+  },
+  {
+    "run": "B",
+    "reqid": 41,
+    "method": "POST",
+    "listed_url": "https://r.clarity.ms/collect",
+    "status": "204",
+    "url": "https://r.clarity.ms/collect",
+    "metadata_file": "raw/browser/B-41.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:2959\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:r.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": false,
+    "host": "r.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/B-41.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": "raw/api/browser/B-41.response.body",
+    "phase": "assessment"
+  },
+  {
+    "run": "B",
+    "reqid": 44,
+    "method": "POST",
+    "listed_url": "https://r.clarity.ms/collect",
+    "status": "204",
+    "url": "https://r.clarity.ms/collect",
+    "metadata_file": "raw/browser/B-44.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:2976\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:r.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": false,
+    "host": "r.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/B-44.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": "raw/api/browser/B-44.response.body",
+    "phase": "assessment"
+  },
+  {
+    "run": "B",
+    "reqid": 49,
+    "method": "POST",
+    "listed_url": "https://r.clarity.ms/collect",
+    "status": "204",
+    "url": "https://r.clarity.ms/collect",
+    "metadata_file": "raw/browser/B-49.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:2827\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:r.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": false,
+    "host": "r.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/B-49.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": "raw/api/browser/B-49.response.body",
+    "phase": "assessment"
+  },
+  {
+    "run": "B",
+    "reqid": 56,
+    "method": "POST",
+    "listed_url": "https://r.clarity.ms/collect",
+    "status": "204",
+    "url": "https://r.clarity.ms/collect",
+    "metadata_file": "raw/browser/B-56.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:2179\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:r.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": false,
+    "host": "r.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/B-56.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": "raw/api/browser/B-56.response.body",
+    "phase": "assessment"
+  },
+  {
+    "run": "B",
+    "reqid": 58,
+    "method": "GET",
+    "listed_url": "https://www.facebook.com/tr/?id=2089634224620932&ev=ViewContent&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_sou... <truncated>",
+    "status": "200",
+    "url": "https://www.facebook.com/tr/?id=2089634224620932&ev=ViewContent&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&rl=&if=false&ts=1793638277129&iw=false&cd[content_category]=acquisition&cd[content_name]=assessment-classic&sw=390&sh=844&v=2.9.433&r=stable&ec=1&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&ler=empty&cdl=API_unavailable&plt=68.80000019073486&tz=120&it=1793638163705&coo=false&eid=3e67df57-d2a3-42f4-91ce-33ed1b8ff6c0&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv0&expv2[51]=oq0&rqm=GET",
+    "metadata_file": "raw/browser/B-58.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- referer:https://webpromo.kinedu.com/\n- :authority:www.facebook.com\n- :method:GET\n- :path:/tr/?id=2089634224620932&ev=ViewContent&dl=https%3A%2F%2Fwebpromo.kinedu.com%2Faq-assessment%3Fvid%3Dc1991816-d75d-4e46-a05d-cc40924c2ea8%26paywall%3Dtrial3%26offer%3Dp79-t7%26newusers%3D1%26placement%3Dassessment-landing%26utm_source%3Dassessment-landing%26utm_medium%3Dpartner%26ui%3Dclassic%26capture%3D0&rl=&if=false&ts=1793638277129&iw=false&cd[content_category]=acquisition&cd[content_name]=assessment-classic&sw=390&sh=844&v=2.9.433&r=stable&ec=1&o=20509&aems=0%3B0&fbp=fb.1.1793637782396.52484787607683365&ler=empty&cdl=API_unavailable&plt=68.80000019073486&tz=120&it=1793638163705&coo=false&eid=3e67df57-d2a3-42f4-91ce-33ed1b8ff6c0&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv0&expv2[51]=oq0&rqm=GET\n- :scheme:https\n- accept:image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- cookie:datr=-ptbaj6fxu4hWou6V3jGNsm2; sb=wQ53ao9xysKFy-7EObZvB4X5\n- priority:u=1, i\n- sec-fetch-dest:image\n- sec-fetch-mode:no-cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": false,
+    "host": "www.facebook.com",
+    "path": "/tr/",
+    "query": {
+      "id": [
+        "2089634224620932"
+      ],
+      "ev": [
+        "ViewContent"
+      ],
+      "dl": [
+        "https://webpromo.kinedu.com/aq-assessment?vid=c1991816-d75d-4e46-a05d-cc40924c2ea8&paywall=trial3&offer=p79-t7&newusers=1&placement=assessment-landing&utm_source=assessment-landing&utm_medium=partner&ui=classic&capture=0"
+      ],
+      "rl": [
+        ""
+      ],
+      "if": [
+        "false"
+      ],
+      "ts": [
+        "1793638277129"
+      ],
+      "iw": [
+        "false"
+      ],
+      "cd[content_category]": [
+        "acquisition"
+      ],
+      "cd[content_name]": [
+        "assessment-classic"
+      ],
+      "sw": [
+        "390"
+      ],
+      "sh": [
+        "844"
+      ],
+      "v": [
+        "2.9.433"
+      ],
+      "r": [
+        "stable"
+      ],
+      "ec": [
+        "1"
+      ],
+      "o": [
+        "20509"
+      ],
+      "aems": [
+        "0;0"
+      ],
+      "fbp": [
+        "fb.1.1793637782396.52484787607683365"
+      ],
+      "ler": [
+        "empty"
+      ],
+      "cdl": [
+        "API_unavailable"
+      ],
+      "plt": [
+        "68.80000019073486"
+      ],
+      "tz": [
+        "120"
+      ],
+      "it": [
+        "1793638163705"
+      ],
+      "coo": [
+        "false"
+      ],
+      "eid": [
+        "3e67df57-d2a3-42f4-91ce-33ed1b8ff6c0"
+      ],
+      "expv2[0]": [
+        "pl0"
+      ],
+      "expv2[1]": [
+        "el3"
+      ],
+      "expv2[2]": [
+        "bc1"
+      ],
+      "expv2[3]": [
+        "ra0"
+      ],
+      "expv2[4]": [
+        "rp0"
+      ],
+      "expv2[5]": [
+        "im1"
+      ],
+      "expv2[6]": [
+        "hf1"
+      ],
+      "expv2[7]": [
+        "sd1"
+      ],
+      "expv2[8]": [
+        "sp1"
+      ],
+      "expv2[9]": [
+        "ek1"
+      ],
+      "expv2[10]": [
+        "pc1"
+      ],
+      "expv2[11]": [
+        "gs1"
+      ],
+      "expv2[12]": [
+        "zs1"
+      ],
+      "expv2[13]": [
+        "cp1"
+      ],
+      "expv2[14]": [
+        "es1"
+      ],
+      "expv2[15]": [
+        "ac1"
+      ],
+      "expv2[16]": [
+        "so1"
+      ],
+      "expv2[17]": [
+        "wc1"
+      ],
+      "expv2[18]": [
+        "la1"
+      ],
+      "expv2[19]": [
+        "sf1"
+      ],
+      "expv2[20]": [
+        "da1"
+      ],
+      "expv2[21]": [
+        "io1"
+      ],
+      "expv2[22]": [
+        "ae1"
+      ],
+      "expv2[23]": [
+        "sx1"
+      ],
+      "expv2[24]": [
+        "if1"
+      ],
+      "expv2[25]": [
+        "fd1"
+      ],
+      "expv2[26]": [
+        "bg1"
+      ],
+      "expv2[27]": [
+        "mg1"
+      ],
+      "expv2[28]": [
+        "kl1"
+      ],
+      "expv2[29]": [
+        "sg1"
+      ],
+      "expv2[30]": [
+        "mk1"
+      ],
+      "expv2[31]": [
+        "sn1"
+      ],
+      "expv2[32]": [
+        "ec1"
+      ],
+      "expv2[33]": [
+        "mp1"
+      ],
+      "expv2[34]": [
+        "ps1"
+      ],
+      "expv2[35]": [
+        "fx1"
+      ],
+      "expv2[36]": [
+        "vt1"
+      ],
+      "expv2[37]": [
+        "dp1"
+      ],
+      "expv2[38]": [
+        "fw1"
+      ],
+      "expv2[39]": [
+        "cn1"
+      ],
+      "expv2[40]": [
+        "tz1"
+      ],
+      "expv2[41]": [
+        "pe1"
+      ],
+      "expv2[42]": [
+        "ee1"
+      ],
+      "expv2[43]": [
+        "bu1"
+      ],
+      "expv2[44]": [
+        "ta1"
+      ],
+      "expv2[45]": [
+        "ot1"
+      ],
+      "expv2[46]": [
+        "hv1"
+      ],
+      "expv2[47]": [
+        "ep1"
+      ],
+      "expv2[48]": [
+        "rh0"
+      ],
+      "expv2[49]": [
+        "ah0"
+      ],
+      "expv2[50]": [
+        "nv0"
+      ],
+      "expv2[51]": [
+        "oq0"
+      ],
+      "rqm": [
+        "GET"
+      ]
+    },
+    "fragment": "",
+    "request_body_file": null,
+    "response_body_file": "raw/api/browser/B-58.response.body",
+    "phase": "assessment"
+  },
+  {
+    "run": "B",
+    "reqid": 59,
+    "method": "POST",
+    "listed_url": "https://r.clarity.ms/collect",
+    "status": "204",
+    "url": "https://r.clarity.ms/collect",
+    "metadata_file": "raw/browser/B-59.network.txt",
+    "request_headers_text": "- user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n- accept:application/x-clarity-gzip\n- referer:https://webpromo.kinedu.com/\n- accept-encoding:gzip, deflate, br, zstd\n- accept-language:en-GB,en-US;q=0.9,en;q=0.8\n- connection:keep-alive\n- content-length:3323\n- cookie:MUID=31B0558876D16AD42592424F775E6B3C\n- host:r.clarity.ms\n- origin:https://webpromo.kinedu.com\n- sec-fetch-dest:empty\n- sec-fetch-mode:cors\n- sec-fetch-site:cross-site\n- sec-fetch-storage-access:active",
+    "response_body_unavailable": false,
+    "host": "r.clarity.ms",
+    "path": "/collect",
+    "query": {},
+    "fragment": "",
+    "request_body_file": "raw/api/browser/B-59.request.body",
+    "request_body_note": "Gzip payload exported through MCP as lossy UTF-8 text; cannot decode events.",
+    "response_body_file": "raw/api/browser/B-59.response.body",
+    "phase": "assessment"
+  }
+]
