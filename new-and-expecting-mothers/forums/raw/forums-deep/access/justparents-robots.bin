@@ -1,0 +1,8 @@
+Sitemap: https://www.justparents.co.uk/sitemap.xml
+
+User-agent: *
+Disallow: /activate/
+Disallow: /ajax/
+Disallow: /cdn-cgi/
+Disallow: /cron/
+Disallow: /admin/

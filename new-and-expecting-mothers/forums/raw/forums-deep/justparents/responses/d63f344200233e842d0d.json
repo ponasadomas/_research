@@ -1,0 +1,28 @@
+{
+  "requested_url": "https://www.justparents.co.uk/forums/birth-labour/",
+  "final_url": "https://www.justparents.co.uk/forums/birth-labour/",
+  "status": 200,
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 12:36:40 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Cache-Control": "private, no-store, no-cache, must-revalidate, max-age=0",
+    "pragma": "no-cache",
+    "expires": "0",
+    "Set-Cookie": "jp_session=5ba1b92c7232b28fdceacc5b2da6b7d7; path=/; secure; HttpOnly; SameSite=Lax",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Accept-Encoding",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=QgqA7VFxJTANcIKyH8LNzyUIXtK7ZrnyV6YGbSaRgQG83asQ6O87W3%2Bocy0r%2FFfKwIVWslHjSHAhDrARi9CtHMk9yuiLG6Zz0d8QneY1hSX6Enq4uwW02q2DQKUBsnyN5tmQDxBv8BQ%3D\"}]}",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "zstd",
+    "CF-RAY": "a4f90749c84b13ba-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "fetched_at": "2026-10-24T12:36:40.569127+00:00",
+  "bytes": 60619,
+  "sha256": "36f2ced93948aef72c4bde7779c8dc98c23de7db6e9a2b097af633afa5719475",
+  "raw_file": "_raw/forums-deep/justparents/responses/d63f344200233e842d0d.html"
+}

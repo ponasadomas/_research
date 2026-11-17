@@ -1,0 +1,8 @@
+{
+  "slug": "pregnancyorg",
+  "kind": "robots",
+  "requested_url": "https://www.pregnancy.org/robots.txt",
+  "fetched_at": "2026-10-24T12:23:59.102218+00:00",
+  "status": null,
+  "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'www.optum.comrobots.txt\\', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host=\\'www.optum.comrobots.txt\\', port=443): Failed to resolve \\'www.optum.comrobots.txt\\' ([Errno -2] Name or service not known)\"))'))"
+}

@@ -1,0 +1,23 @@
+{
+  "Date": "Sat, 24 Oct 2026 12:29:25 GMT",
+  "Content-Type": "application/json; charset=utf-8",
+  "Transfer-Encoding": "chunked",
+  "Connection": "close",
+  "Set-Cookie": "prov=25192326-55de-4187-b15f-0e15d591a964; expires=Sun, 24 Oct 2027 12:29:25 GMT; domain=.stackexchange.com; path=/; secure; samesite=none; httponly",
+  "set-cookie": "prov=25192326-55de-4187-b15f-0e15d591a964; expires=Sun, 24 Oct 2027 12:29:25 GMT; domain=.stackexchange.com; path=/; secure; samesite=none; httponly",
+  "CF-Ray": "a4f8fcabcea7b80a-RIX",
+  "CF-Cache-Status": "DYNAMIC",
+  "Access-Control-Allow-Origin": "*",
+  "Cache-Control": "private",
+  "x-request-guid": "b559497f-5724-4f94-9bac-b404dd1def7c",
+  "Server": "cloudflare",
+  "x-worker-origin-response-time": "248000000",
+  "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+  "Vary": "accept-encoding",
+  "access-control-allow-credentials": "false",
+  "access-control-allow-methods": "GET, POST",
+  "content-security-policy": "upgrade-insecure-requests; frame-ancestors 'self' https://stackexchange.com",
+  "x-clacks-overhead": "GNU Terry Pratchett",
+  "x-content-type-options": "nosniff",
+  "x-providence-cookie": "25192326-55de-4187-b15f-0e15d591a964"
+}

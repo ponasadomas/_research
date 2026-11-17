@@ -1,0 +1,34 @@
+{
+  "slug": "bubhub",
+  "kind": "robots",
+  "requested_url": "https://www.bubhub.com.au/robots.txt",
+  "fetched_at": "2026-10-24T12:27:09.710974+00:00",
+  "status": 200,
+  "final_url": "https://bubhub.com.au/robots.txt",
+  "headers": {
+    "Connection": "Keep-Alive",
+    "Keep-Alive": "timeout=5, max=100",
+    "X-Powered-By": "PHP/8.2.35",
+    "X-Robots-Tag": "noindex, follow",
+    "Link": "<https://bubhub.com.au/wp-json/>; rel=\"https://api.w.org/\"",
+    "Content-Type": "text/plain; charset=utf-8",
+    "Content-Length": "124",
+    "Content-Encoding": "gzip",
+    "Vary": "Accept-Encoding",
+    "Date": "Sat, 24 Oct 2026 12:27:18 GMT",
+    "Server": "LiteSpeed",
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000"
+  },
+  "bytes": 171,
+  "sha256": "59d858589a7aad3bc15348397d572496478793ac170978eb5d3c647d3da35d8f",
+  "raw_file": "_raw/forums-deep/access/bubhub-robots.bin",
+  "redirects": [
+    {
+      "status": 301,
+      "url": "https://www.bubhub.com.au/robots.txt",
+      "location": "https://bubhub.com.au/robots.txt"
+    }
+  ],
+  "title": "",
+  "policy_excerpt": "# START YOAST BLOCK\n# ---------------------------\nUser-agent: *\nDisallow:\n\nSitemap: https://bubhub.com.au/sitemap_index.xml\n# ---------------------------\n# END YOAST BLOCK"
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "llli",
+  "kind": "robots",
+  "requested_url": "https://forums.llli.org/robots.txt",
+  "fetched_at": "2026-10-24T12:27:11.901672+00:00",
+  "status": null,
+  "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'forums.llli.org\\', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"HTTPSConnection(host=\\'forums.llli.org\\', port=443): Failed to resolve \\'forums.llli.org\\' ([Errno -2] Name or service not known)\"))'))"
+}

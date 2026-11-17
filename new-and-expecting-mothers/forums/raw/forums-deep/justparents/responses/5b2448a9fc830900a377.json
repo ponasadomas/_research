@@ -1,0 +1,28 @@
+{
+  "requested_url": "https://www.justparents.co.uk/forums/topic-918/",
+  "final_url": "https://www.justparents.co.uk/forums/topic-918/",
+  "status": 200,
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 12:40:38 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Cache-Control": "private, no-store, no-cache, must-revalidate, max-age=0",
+    "pragma": "no-cache",
+    "expires": "0",
+    "Set-Cookie": "jp_session=c39e727ae5899da95d9539e6d948166f; path=/; secure; HttpOnly; SameSite=Lax",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Accept-Encoding",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=lWGKrQvSNFqKlHS%2B1SFKoPeGd3SNJLf3gVsH57EXGnZnn5UTG0Y%2FJE65ONj%2Bg0MV%2FOvvcVVbNC8PefmDur6M%2BO%2B5U5Au9NM6sf60A3fIrtOQRroDBSrA%2BYGEPgipoCl4aDdbJeJD4pI%3D\"}]}",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "zstd",
+    "CF-RAY": "a4f90d1649b5abf3-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "fetched_at": "2026-10-24T12:40:38.094962+00:00",
+  "bytes": 30684,
+  "sha256": "73e21bdc3da2592e07320f0abc05a58339aa23205e3abda1556dad066a780611",
+  "raw_file": "_raw/forums-deep/justparents/responses/5b2448a9fc830900a377.html"
+}

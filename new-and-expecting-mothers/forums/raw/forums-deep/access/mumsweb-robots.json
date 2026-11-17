@@ -1,0 +1,8 @@
+{
+  "slug": "mumsweb",
+  "kind": "robots",
+  "requested_url": "https://www.mumsweb.com/robots.txt",
+  "fetched_at": "2026-10-24T12:27:10.864038+00:00",
+  "status": null,
+  "error": "ConnectionError(MaxRetryError('HTTPConnectionPool(host=\\'www.mumsweb.com.au\\', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host=\\'www.mumsweb.com.au\\', port=80): Failed to resolve \\'www.mumsweb.com.au\\' ([Errno -2] Name or service not known)\"))'))"
+}

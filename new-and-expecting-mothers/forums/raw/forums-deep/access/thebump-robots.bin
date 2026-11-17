@@ -1,0 +1,11 @@
+Sitemap: https://forums.thebump.com/sitemapindex.xml
+Sitemap: https://forums.thebump.com/kb/sitemap-index.xml
+User-agent: *
+Disallow: /entry/
+Disallow: /messages/
+Disallow: /profile/comments/
+Disallow: /profile/discussions/
+Disallow: /search/
+Disallow: /sso/
+Disallow: /sso/
+Disallow: /profile/

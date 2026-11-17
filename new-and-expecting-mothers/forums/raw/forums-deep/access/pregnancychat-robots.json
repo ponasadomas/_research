@@ -1,0 +1,8 @@
+{
+  "slug": "pregnancychat",
+  "kind": "robots",
+  "requested_url": "https://www.pregnancychat.com/robots.txt",
+  "fetched_at": "2026-10-24T12:24:00.329267+00:00",
+  "status": null,
+  "error": "ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='www.pregnancychat.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pregnancychat.com', port=443) at 0x7f759d7a0e10>, 'Connection to www.pregnancychat.com timed out. (connect timeout=22)'))\"))"
+}

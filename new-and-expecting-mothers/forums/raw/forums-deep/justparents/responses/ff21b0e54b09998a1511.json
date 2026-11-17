@@ -1,0 +1,28 @@
+{
+  "requested_url": "https://www.justparents.co.uk/forums/work-childcare/page/3/",
+  "final_url": "https://www.justparents.co.uk/forums/work-childcare/page/3/",
+  "status": 200,
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 12:33:46 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Cache-Control": "private, no-store, no-cache, must-revalidate, max-age=0",
+    "pragma": "no-cache",
+    "expires": "0",
+    "Set-Cookie": "jp_session=00874f73ec0ebe1532769cd0183f6ab4; path=/; secure; HttpOnly; SameSite=Lax",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Accept-Encoding",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=silzvsBwM%2F3MuJ0L2d42b%2Bs%2Bw4QlDoX7I9XClYGJmvSUCrzi0SnNiUKvb%2B5g5PViZ5lxRqLYUxf7tmlLjL7q9X6CNaNlflifQIbMjROBeIAfn3lGZXNILdLroeftTGZ%2BGJPdcqfz5Nc%3D\"}]}",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "zstd",
+    "CF-RAY": "a4f903075dade4e3-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "fetched_at": "2026-10-24T12:33:46.108375+00:00",
+  "bytes": 77430,
+  "sha256": "5732a2191948db6451e1ca2c4a05b4b1b9cfc54e5bf003addc3e3508839ab1f0",
+  "raw_file": "_raw/forums-deep/justparents/responses/ff21b0e54b09998a1511.html"
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "netmums",
+  "kind": "landing",
+  "requested_url": "https://www.netmums.com/coffeehouse/",
+  "fetched_at": "2026-10-24T12:23:58.189161+00:00",
+  "status": 403,
+  "final_url": "https://www.netmums.com/coffeehouse",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 12:23:58 GMT",
+    "Content-Type": "text/html",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Vary": "Accept-Encoding",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=KV3Zj09YeTqt9%2BPXJMuSh61Ofda2hohcg8rlwBBWT3Cgjt5m90GVeBwhXSd%2BDQzruQBPkbx%2FqXHHsXWpxdgoMRiSgu0vPxCZ%2Bz1hwZtQ9kRMLuk5st%2BZZaoD4Wr3Si1ZhA%3D%3D\"}]}",
+    "cf-cache-status": "DYNAMIC",
+    "Content-Encoding": "gzip",
+    "CF-RAY": "a4f8f4ad0edee4ea-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "bytes": 153,
+  "sha256": "e12aae679a43c26bb331c97d8ac451e5022e297a519c6fac65b727e4049023f9",
+  "raw_file": "_raw/forums-deep/access/netmums-landing.bin",
+  "redirects": [
+    {
+      "status": 301,
+      "url": "https://www.netmums.com/coffeehouse/",
+      "location": "https://www.netmums.com/coffeehouse"
+    }
+  ],
+  "title": "403 Forbidden",
+  "policy_excerpt": ""
+}

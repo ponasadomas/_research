@@ -1,0 +1,8 @@
+{
+  "slug": "mumschat",
+  "kind": "robots",
+  "requested_url": "https://mums.chat/robots.txt",
+  "fetched_at": "2026-10-24T12:23:56.864610+00:00",
+  "status": null,
+  "error": "SSLError(MaxRetryError(\"HTTPSConnectionPool(host='mums.chat', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1081)')))\"))"
+}

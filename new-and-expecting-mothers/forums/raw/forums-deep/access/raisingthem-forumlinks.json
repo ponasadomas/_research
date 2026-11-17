@@ -1,0 +1,29 @@
+{
+  "slug": "raisingthem",
+  "kind": "forumlinks",
+  "requested_url": "https://raisingthem.com/",
+  "fetched_at": "2026-10-24T12:31:27.022867+00:00",
+  "status": 200,
+  "final_url": "https://raisingthem.com/",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 12:31:27 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "last-modified": "Sat, 24 Oct 2026 12:31:27 GMT",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=HKTltLpf1tSjhHPobQfTiJoQw9eLEGD%2FCs0VO36Df8OZCZdEi%2FwbRfSztrY9%2B5Nl9XcF%2FANnPvlM%2B%2Bj83nAtMzDuXHNOqrHT%2FzQkrs0jMaRnW7EfjM0j3Xr03V153nQ%2FzXg%3D\"}]}",
+    "vary": "Accept-Encoding",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "Content-Encoding": "zstd",
+    "CF-RAY": "a4f8ffa21c7be4e9-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "bytes": 55506,
+  "sha256": "e61ee6c501a3cf35a61f998d480c180e65736c94251ec09708ececf3d0fa8c94",
+  "raw_file": "_raw/forums-deep/access/raisingthem-forumlinks.bin",
+  "redirects": [],
+  "title": "Raising Them - Advice on How to Raise Kids",
+  "policy_excerpt": ""
+}

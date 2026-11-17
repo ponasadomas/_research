@@ -1,0 +1,31 @@
+{
+  "slug": "magicmum",
+  "kind": "robots",
+  "requested_url": "https://www.magicmum.com/robots.txt",
+  "fetched_at": "2026-10-24T12:25:20.948311+00:00",
+  "status": 200,
+  "final_url": "https://www.magicmum.com/robots.txt",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 12:25:21 GMT",
+    "Content-Type": "text/plain",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "x-edge-cache": "miss",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=oeHrf7BchBw4EtiBlchGU2rJQnpKhGWp6hQCnRTG3a4npajcmVvuOjAWhS0tmJhA69ZZEPPpfKXm5PnRBaTHP%2BQPDtRdE9RB%2BuxDeTHA1QtH2f%2Bw93z4wMP1UgVMhMp79pBd\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "gzip",
+    "vary": "accept-encoding",
+    "Server": "cloudflare",
+    "last-modified": "Sat, 24 Oct 2026 12:25:21 GMT",
+    "Cache-Control": "max-age=14400",
+    "cf-cache-status": "MISS",
+    "CF-RAY": "a4f8f6b23e34e4e9-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "bytes": 464,
+  "sha256": "8c959011d90d3902142bc9d0747a49a280053f0afc99632eebbf3b17d02bcc1c",
+  "raw_file": "_raw/forums-deep/access/magicmum-robots.bin",
+  "redirects": [],
+  "title": "",
+  "policy_excerpt": "User-agent: Mediapartners-Google*\nDisallow:\n\nUser-agent: *\nDisallow: /19331762/\n\n# SEO tools: no crawling (owner, 29 September 2026)\nUser-agent: AhrefsBot\nUser-agent: SemrushBot\nUser-agent: MJ12bot\nUser-agent: DotBot\nUser-agent: PetalBot\nUser-agent: Bytespider\nUser-agent: BLEXBot\nUser-agent: DataForSeoBot\nUser-agent: serpstatbot\nUser-agent: Barkrowler\nDisallow: /\n\nSitemap: https://www.magicmum.com/sitemap.xml\nSitemap: https://www.magicmum.com/sitemap-news.xml\n"
+}

@@ -1,0 +1,21 @@
+{
+  "requested_url": "https://www.hellobee.com/terms-of-use/",
+  "final_url": "https://www.hellobee.com/terms-of-use/",
+  "status": 200,
+  "fetched_at": "2026-10-24T12:24:51.720176+00:00",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 12:24:51 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Content-Length": "14671",
+    "Last-Modified": "Sat, 24 Oct 2026 07:56:14 GMT",
+    "Connection": "keep-alive",
+    "Keep-Alive": "timeout=60",
+    "Vary": "Accept-Encoding",
+    "ETag": "\"6adc649e-394f\"",
+    "Content-Encoding": "gzip",
+    "Expires": "Sat, 24 Oct 2026 12:24:54 GMT",
+    "Cache-Control": "max-age=3, public, must-revalidate",
+    "X-Frame-Options": "SAMEORIGIN"
+  },
+  "raw_file": "_raw/forums-deep/access/hellobee-terms.bin"
+}

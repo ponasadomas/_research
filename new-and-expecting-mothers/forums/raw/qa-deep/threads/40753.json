@@ -1,0 +1,72 @@
+{
+  "question": {
+    "tags": [
+      "newborn",
+      "covid19"
+    ],
+    "owner": {
+      "account_id": 1454870,
+      "reputation": 123,
+      "user_id": 39893,
+      "user_type": "registered",
+      "profile_image": "https://i.sstatic.net/jrO71.jpg?s=256",
+      "display_name": "Joshua Aslan Smith",
+      "link": "https://parenting.stackexchange.com/users/39893/joshua-aslan-smith"
+    },
+    "is_answered": true,
+    "view_count": 1758,
+    "accepted_answer_id": 40754,
+    "answer_count": 1,
+    "score": 2,
+    "last_activity_date": 1605199573,
+    "creation_date": 1605196412,
+    "last_edit_date": 1605197309,
+    "question_id": 40753,
+    "content_license": "CC BY-SA 4.0",
+    "link": "https://parenting.stackexchange.com/questions/40753/can-i-contact-the-ssa-to-get-my-babys-ssn-before-the-card-arrives-to-apply-for",
+    "title": "Can I contact the SSA to get my baby&#39;s SSN before the card arrives to apply for insurance ahead of time?",
+    "body": "<p>I had a newborn last month and we applied for the SSN with the birth paperwork, but have yet to receive a card. Our State (PA) has a 2 week paperwork time based on the <a href=\"https://faq.ssa.gov/en-us/Topic/article/KA-01969\" rel=\"nofollow noreferrer\">SSA website</a> and then SSA has 2 weeks on their own. I've been looking around to see if there's guidance on anyway to get the SSN number ahead of the card arriving in the mail but haven't found any. I would like to avoid going to an SSA office if possible with exposure risk to my newborn.</p>\n<p>Also, I fully understand this may not be possible at all. Just trying to see if we can get him on my wife's insurance any faster.</p>\n"
+  },
+  "answers": [
+    {
+      "owner": {
+        "account_id": 1780022,
+        "reputation": 63542,
+        "user_id": 6524,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/40931bddde219f1a9e4514d2f4cfa826?s=256&d=identicon&r=PG",
+        "display_name": "Joe",
+        "link": "https://parenting.stackexchange.com/users/6524/joe"
+      },
+      "is_accepted": true,
+      "score": 4,
+      "last_activity_date": 1605199573,
+      "creation_date": 1605199573,
+      "answer_id": 40754,
+      "question_id": 40753,
+      "content_license": "CC BY-SA 4.0",
+      "body": "<p>You should not need a SSN to enroll your newborn in your health insurance provider.  Check with your insurer for their exact method of handling this, but in general, you can add a newborn without a SSN.</p>\n<p>For example, from <a href=\"https://help.zenefits.com/Medical_Dental_Vision/Enrolling_in_Coverage/FAQs_About_Enrolling_in_Coverage/Can_I_Enroll_My_Dependent_in_Insurance_Without_an_SSN/#:%7E:text=If%20you%27re%20a%20new,newborn%20to%20your%20existing%20coverage.\" rel=\"nofollow noreferrer\">this article by a major benefits company</a>, they note:</p>\n<blockquote>\n<p>If you're a new parent who needs to enroll a newborn within 27 days of their birth (a qualifying life event), you don't need to provide an SSN when adding your newborn to your existing coverage. Newborns often don't receive an SSN until several weeks after their birth, but must be enrolled as a dependent within 27  days of birth.</p>\n</blockquote>\n<p>They go on to suggest that if a SSN is &quot;required&quot; by the page, to put in a dummy value (like 111-22-3333), and then update it later with the insurer; I would not necessarily suggest doing that unless your insurer tells you to, but they should be able to tell you what the specific right answer is for them (or perhaps add the newborn for you on the phone).</p>\n<p>To directly answer the question as asked, though, unfortunately going into the office is the answer.  As <a href=\"https://www.stilt.com/blog/2020/09/temporary-social-security-card/\" rel=\"nofollow noreferrer\">this blog post explains</a>, temporary cards <em>are</em> available, but only in the office - otherwise you have to wait for the mail!</p>\n"
+    }
+  ],
+  "comments": [
+    {
+      "owner": {
+        "account_id": 190624,
+        "reputation": 2544,
+        "user_id": 31496,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/0eb07ddb42ad7121a9b57508dd0b89ce?s=256&d=identicon&r=PG",
+        "display_name": "Bart van Ingen Schenau",
+        "link": "https://parenting.stackexchange.com/users/31496/bart-van-ingen-schenau"
+      },
+      "edited": false,
+      "score": 1,
+      "creation_date": 1605198254,
+      "post_id": 40753,
+      "comment_id": 85453,
+      "content_license": "CC BY-SA 4.0",
+      "body": "Presumably you want your baby on your wife&#39;s insurance asap to make sure any medical bills will be covered by the insurance. In addition to what you asked for in your question, you could also check with the insurance company what their policy is around newborns and within what time frame you should register your child to get coverage from the date of birth if they offer that option."
+    }
+  ]
+}

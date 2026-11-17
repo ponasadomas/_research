@@ -1,0 +1,20 @@
+HTTP/2 200 
+date: Sat, 24 Oct 2026 12:22:26 GMT
+content-type: text/plain; charset=UTF-8
+cf-ray: a4f8f2695b55e4dd-RIX
+cf-cache-status: DYNAMIC
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+etag: W/"606c71b1-2a"
+last-modified: Tue, 06 Apr 2021 14:35:29 GMT
+server: cloudflare
+vary: Accept-Encoding
+ki-cf-cache-status: BYPASS
+x-content-type-options: nosniff
+x-edge-location-klb: 1
+ki-cache-type: None
+ki-edge: v=28.6.0;mv=99.9.9
+ki-origin: g1p
+set-cookie: __cf_bm=UgfvxDJI7yDWk7HFA06lpI_z9hcjvP40aLCo_VvvgJc-1792844545.4969404-1.0.1.1-Bf.WXq9PMck0vsP6yUfX5ujYcZYb8kmBf3qlnsNq5EKijgso7Jiv.o23uON7mykjLnf89Cdp0UxhOZw8B1_v6jB5sVG9v9ulGPnr5sLjqTxQlSz0Cekcg3BVwIrOmSIb; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.twinstuff.com; Expires=Sat, 24 Oct 2026 12:52:26 GMT
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ogRX8vGar3nYT4Q3taNtFsc4Xw8rAXzqsNpqE6yN4jhQM%2Fu235mjMh4s6OKZncy7aQdwTG%2FW2Vb1NNJbLHft452g6Qpf0wvLy6p6SV5pvd68g7G1uKpM3CpmiaQaOQts9u%2BE"}]}
+alt-svc: h3=":443"; ma=86400
+

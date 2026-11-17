@@ -1,0 +1,32 @@
+{
+  "slug": "heymammy-babies",
+  "kind": "board1",
+  "requested_url": "https://www.heymammy.com/viewforum.php?f=15",
+  "fetched_at": "2026-10-24T12:26:19.972515+00:00",
+  "status": 200,
+  "final_url": "https://www.heymammy.com/viewforum.php?f=15",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 12:26:20 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Cache-Control": "private, no-cache=\"set-cookie\"",
+    "Expires": "Sat, 24 Oct 2026 12:26:20 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Set-Cookie": "phpbb3_2brq_u=1; expires=Sun, 24-Oct-2027 12:26:20 GMT; path=/; secure; HttpOnly, phpbb3_2brq_k=; expires=Sun, 24-Oct-2027 12:26:20 GMT; path=/; secure; HttpOnly, phpbb3_2brq_sid=f8cddc00a93aa1140965c1d9b5dfe2f1; expires=Sun, 24-Oct-2027 12:26:20 GMT; path=/; secure; HttpOnly",
+    "Vary": "Accept-Encoding",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ZZCfG6IBpJ4IsYP%2FaTrACepWh4zkq4KIlIiO%2F8EQHhuxusKg%2FJdIVfaxKi4sopCfxLhMahxIuXOsU6rmI9VZJfcSiD22uC%2BkBgJZiLw81Gu79EYfI7o8fttN4s%2BgNM8r3R6w\"}]}",
+    "cf-cache-status": "DYNAMIC",
+    "Content-Encoding": "zstd",
+    "CF-RAY": "a4f8f8230c05042f-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "bytes": 38552,
+  "sha256": "544582020c30f4a21a05a67ef1d8d160c607895824c2ace0950c55a239487fe7",
+  "raw_file": "_raw/forums-deep/access/heymammy-babies-board1.bin",
+  "redirects": [],
+  "title": "heymammy.com - Babies",
+  "policy_excerpt": ""
+}

@@ -1,0 +1,15 @@
+HTTP/2 200 
+date: Sat, 24 Oct 2026 12:26:24 GMT
+content-type: text/plain; charset=utf-8
+content-length: 1248
+cache-control: private, no-cache, max-age=0
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+server: cloudflare
+x-frame-options: SAMEORIGIN
+cf-cache-status: BYPASS
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=P%2BqiOkzflwb1ZawbTBE71gnhkC8qcqByUbar4MiApAgmQJcdXwB8WhNA11Iqi%2FxGumFSFrOLBmtk8c3u3q6vfqOrzA1nv43DQRi8yIDKQqa3RTt%2B4FCkWrXBRpElhSWX%2BjXxnSBzGzs%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: a4f8f8380c2fdd68-RIX
+alt-svc: h3=":443"; ma=86400
+

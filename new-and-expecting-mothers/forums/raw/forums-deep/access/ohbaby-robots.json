@@ -1,0 +1,27 @@
+{
+  "slug": "ohbaby",
+  "kind": "robots",
+  "requested_url": "https://www.ohbaby.co.nz/robots.txt",
+  "fetched_at": "2026-10-24T12:27:09.709632+00:00",
+  "status": 200,
+  "final_url": "https://www.ohbaby.co.nz/robots.txt",
+  "headers": {
+    "Content-Length": "183",
+    "Content-Type": "text/plain",
+    "Date": "Sat, 24 Oct 2026 12:27:10 GMT",
+    "Accept-Ranges": "bytes",
+    "Access-Control-Expose-Headers": "Request-Context",
+    "Content-Encoding": "gzip",
+    "ETag": "\"f29da89f3c1d51:0\"",
+    "Last-Modified": "Fri, 03 Jan 2020 05:02:46 GMT",
+    "Set-Cookie": "TiPMix=35.14640521070817; path=/; HttpOnly; Domain=www.ohbaby.co.nz; Max-Age=3600; Secure; SameSite=None, x-ms-routing-name=self; path=/; HttpOnly; Domain=www.ohbaby.co.nz; Max-Age=3600; Secure; SameSite=None, TiPMix=38.88234316512795; path=/; HttpOnly; Domain=www.ohbaby.co.nz; Max-Age=3600, x-ms-routing-name=self; path=/; HttpOnly; Domain=www.ohbaby.co.nz; Max-Age=3600",
+    "Vary": "Accept-Encoding",
+    "Request-Context": "appId=cid-v1:c60b4abd-32bd-4a7c-b1e2-055bf30d1d78"
+  },
+  "bytes": 73,
+  "sha256": "fc2b0d43152277273fa63a2b331ab95f8bb278d78546a921b22ac6b2c09f17dc",
+  "raw_file": "_raw/forums-deep/access/ohbaby-robots.bin",
+  "redirects": [],
+  "title": "",
+  "policy_excerpt": "Sitemap: https://www.ohbaby.co.nz/sitemap.xml\r\nUser-agent: *\r\nDisallow:\r\n"
+}

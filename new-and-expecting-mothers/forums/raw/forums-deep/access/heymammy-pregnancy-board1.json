@@ -1,0 +1,32 @@
+{
+  "slug": "heymammy-pregnancy",
+  "kind": "board1",
+  "requested_url": "https://www.heymammy.com/viewforum.php?f=79",
+  "fetched_at": "2026-10-24T12:26:35.726624+00:00",
+  "status": 200,
+  "final_url": "https://www.heymammy.com/viewforum.php?f=79",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 12:26:36 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Cache-Control": "private, no-cache=\"set-cookie\"",
+    "Expires": "Sat, 24 Oct 2026 12:26:36 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Set-Cookie": "phpbb3_2brq_u=1; expires=Sun, 24-Oct-2027 12:26:35 GMT; path=/; secure; HttpOnly, phpbb3_2brq_k=; expires=Sun, 24-Oct-2027 12:26:35 GMT; path=/; secure; HttpOnly, phpbb3_2brq_sid=8a9078c98cc19b9985b0abdcf7ddf16b; expires=Sun, 24-Oct-2027 12:26:35 GMT; path=/; secure; HttpOnly",
+    "Vary": "Accept-Encoding",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2B0kHqtObq8aYWGAIsqpBrAPlYNWv80ea50W57e6eE2KebnAYPb151y0dfQYEsqthSa6QZ3IpaEtUNSdQ9pOvt0w0Cbo9CKWbk0A6p%2BiN%2FDNUd8v8OkibJd3hYRsu2g1AmGCR\"}]}",
+    "cf-cache-status": "DYNAMIC",
+    "Content-Encoding": "zstd",
+    "CF-RAY": "a4f8f8857f7dceba-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "bytes": 41665,
+  "sha256": "4ced84eb09bb7fc7098ff6c32f37248f263187083817a2f643a4434079f722c0",
+  "raw_file": "_raw/forums-deep/access/heymammy-pregnancy-board1.bin",
+  "redirects": [],
+  "title": "heymammy.com - Pregnancy",
+  "policy_excerpt": ""
+}

@@ -1,0 +1,46 @@
+{
+  "compiled_date": "2026-10-25",
+  "capture_date_UTC": "2026-10-24",
+  "published_files": 2,
+  "published_bytes": 55769181,
+  "whole_native_records_scanned": 117713,
+  "window_posts": 15226,
+  "readable_bodies": 15088,
+  "unavailable_bodies": 138,
+  "commercial_cards": 391,
+  "full_originals": 122,
+  "eligible": 107,
+  "excluded_after_read": 15,
+  "unread_keeps": 0,
+  "card_drop_bodies_unread": 269,
+  "unmatched_bodies_unread": 14697,
+  "readable_bodies_unread": 14966,
+  "OP_replies_read": 0,
+  "comments_source_unavailable_communities": 2,
+  "readers": {
+    "3": {
+      "cards": 128,
+      "kept_full": 64,
+      "drops": 64,
+      "eligible": 53,
+      "excluded_after_read": 11,
+      "quotes": 21
+    },
+    "4": {
+      "cards": 142,
+      "kept_full": 15,
+      "drops": 127,
+      "eligible": 14,
+      "excluded_after_read": 1,
+      "quotes": 13
+    },
+    "5": {
+      "cards": 121,
+      "kept_full": 43,
+      "drops": 78,
+      "eligible": 40,
+      "excluded_after_read": 3,
+      "quotes": 22
+    }
+  }
+}

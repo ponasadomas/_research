@@ -1,0 +1,413 @@
+{
+  "question": {
+    "tags": [
+      "infant",
+      "safety"
+    ],
+    "owner": {
+      "account_id": 1796213,
+      "reputation": 3431,
+      "user_id": 21986,
+      "user_type": "registered",
+      "accept_rate": 100,
+      "profile_image": "https://www.gravatar.com/avatar/991a4a6ddb04ff0a0d0ca93849f9b0ac?s=256&d=identicon&r=PG&f=y&so-version=2",
+      "display_name": "learner101",
+      "link": "https://parenting.stackexchange.com/users/21986/learner101"
+    },
+    "is_answered": true,
+    "view_count": 7728,
+    "accepted_answer_id": 40816,
+    "answer_count": 5,
+    "score": 12,
+    "last_activity_date": 1606389996,
+    "creation_date": 1606114516,
+    "last_edit_date": 1606143069,
+    "question_id": 40815,
+    "content_license": "CC BY-SA 4.0",
+    "link": "https://parenting.stackexchange.com/questions/40815/baby-proofing-the-space-between-fridge-and-wall",
+    "title": "Baby proofing the space between fridge and wall",
+    "body": "<p><em>I'm not sure if this belong here or in home improvement SE, but neither sites have a baby proofing tag.</em></p>\n<p>How does one go about baby proofing the gap between the back of the fridge and the wall? There are wires and machinery and whatnot, and my <strong>10 month old</strong> son likes to explore with his finger back there. It's recommended to have a 2 inch gap for air circulation, so I'm guessing I can't just close the gap.</p>\n<p>Here's a diagram of how the setup looks:</p>\n<pre><code>         wall                                        wall\n ---------------------[     kitchen entrance     ]----------- \n|   ________________  &lt;---- danger zone\n|  |                |\n|  |                |\n|  |   fridge       |\n|  |                |\n|  |________________|\n</code></pre>\n<p>Since the way to kitchen is right by the fridge, I can't place chairs or any furniture there to keep him out, since it'd block the entrance to the kitchen. So far we've just been saying no every time and picking him up and placing him elsewhere if he doesn't listen.</p>\n<p>I'm also open to suggestions about teaching my son not to do this, if I can't baby proof it.</p>\n"
+  },
+  "answers": [
+    {
+      "owner": {
+        "account_id": 18868,
+        "reputation": 2931,
+        "user_id": 7479,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/6c2dd6a39d3f38f1bb47a8c1fe8325e2?s=256&d=identicon&r=PG",
+        "display_name": "sleske",
+        "link": "https://parenting.stackexchange.com/users/7479/sleske"
+      },
+      "is_accepted": true,
+      "score": 23,
+      "last_activity_date": 1606135143,
+      "last_edit_date": 1606135143,
+      "creation_date": 1606128334,
+      "answer_id": 40816,
+      "question_id": 40815,
+      "content_license": "CC BY-SA 4.0",
+      "body": "<p>First off, to alleviate your fears - while the backside of a fridge is not usually meant to be touched, there should not be any serious danger from touching it. There are not hot elements to burn you, and no exposed wires with dangerous voltages - if the fridge follows the safety regulations. There are, however, possibly some sharp metal parts and it's possible to do serious damage by tugging on something (though a small child would probably not be strong enough to do damage).</p>\n<p>That said - the simplest solution would probably be to install some sort of panel to block the gap. You could get a piece of wood to cover it, and install it vertically in front of the gap. Like this:</p>\n<pre><code>         wall                                        wall\n -----------------------[     kitchen entrance     ]----------- \n|   ________________  | &lt;---- vertical wood panel, bolted to wall\n|  |                |\n|  |                |\n|  |   fridge       |\n|  |                |\n|  |________________|\n</code></pre>\n<p>You could affix the panel to the back wall using a simple angle bracket fastener. Since it's a small panel, fastening it on one side only should be enough. It will not look pretty, but it's only for a year or two.</p>\n<p>Alternatively, you could go all the way and get a kitchen cabinet to build the fridge into. However, that will be much more work and cost, and you may need a new fridge, as not all fridges can be installed into a cabinet.</p>\n<p>For details, feel free to ask on <a href=\"https://diy.stackexchange.com/\">https://diy.stackexchange.com/</a> .</p>\n<p>In addition to that, start teaching your child that reaching behind the fridge is dangerous. To alleviate his curiosity, you could show him what the back looks like, maybe let him touch it once, and let him learn that it has sharp parts that hurt to touch (supervise this, of course). That way, he'll learn that touching it is not a good idea.</p>\n"
+    },
+    {
+      "owner": {
+        "account_id": 20043063,
+        "reputation": 89,
+        "user_id": 39986,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/42e23861b81007a458dde6d85e1f3b9e?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "George",
+        "link": "https://parenting.stackexchange.com/users/39986/george"
+      },
+      "is_accepted": false,
+      "score": 8,
+      "last_activity_date": 1606147179,
+      "creation_date": 1606147179,
+      "answer_id": 40818,
+      "question_id": 40815,
+      "content_license": "CC BY-SA 4.0",
+      "body": "<p>Pool Noodles.<br />\nThey can be trimmed to fix any gap that is smaller than them. They are not permanent (in case you are renting). With one put in the gap, if he reaches back there, all that will happen is that the pool noodle will be pushed back, then as an advantage, you will also know if he tried to explore while you back was turned.</p>\n"
+    },
+    {
+      "owner": {
+        "account_id": 13559803,
+        "reputation": 581,
+        "user_id": 37944,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/14e77b3ef21b2a9ce7a9717579be7631?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "fraxinus",
+        "link": "https://parenting.stackexchange.com/users/37944/fraxinus"
+      },
+      "is_accepted": false,
+      "score": 9,
+      "last_activity_date": 1606153944,
+      "creation_date": 1606153944,
+      "answer_id": 40820,
+      "question_id": 40815,
+      "content_license": "CC BY-SA 4.0",
+      "body": "<p>Don't worry.</p>\n<p>First, there is nothing dangerous on the backside of a modern (1980 or newer) fridge, except for a great deal of dust and probably spider webs. The kid will probably find enough dust elsewhere. Wires are isolated, tubes get hot to touch but not hot enough to cause real damage.</p>\n<p>Second, nothing bad will actually happen if you push the fridge to the wall. If the fridge is the older design with a radiator on the back, you at worst will lose some of its efficiency. $1 or $2 more on the electricity bill. Well, most of them have a grid on the top-back that will not allow the radiator to touch the wall and close the gap. If the fridge is the newer design with the sidewalls and the top acting as radiator, you will lose nothing.</p>\n<p>Third, don't plan anything permanent. After a month or two your son will start exploring different dangerous things.</p>\n"
+    },
+    {
+      "owner": {
+        "account_id": 1014544,
+        "reputation": 101,
+        "user_id": 39992,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/c146ad513add2ad3e9ea1a7695f84284?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Josh Barr",
+        "link": "https://parenting.stackexchange.com/users/39992/josh-barr"
+      },
+      "is_accepted": false,
+      "score": 10,
+      "last_activity_date": 1606157687,
+      "creation_date": 1606157687,
+      "answer_id": 40821,
+      "question_id": 40815,
+      "content_license": "CC BY-SA 4.0",
+      "body": "<p>Pool noodles are a great idea, though my favored go-to here is pipe insulation. You can find it in black and rubberized, which tends to blend into the background really well. I wouldn't worry about the kid dislodging it if you get the right size - make it a tight fit. Don't worry about ventilation, just don't run it up very far. I also put it underneath the fridge - this is good for more than just keeping little fingers out it also keeps under/behind the fridge from becoming a Cheerio and dustbunny graveyard.</p>\n"
+    },
+    {
+      "owner": {
+        "account_id": 12596817,
+        "reputation": 476,
+        "user_id": 32568,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/sUEEh.jpg?s=256",
+        "display_name": "Pam",
+        "link": "https://parenting.stackexchange.com/users/32568/pam"
+      },
+      "is_accepted": false,
+      "score": 2,
+      "last_activity_date": 1606389996,
+      "creation_date": 1606389996,
+      "answer_id": 40833,
+      "question_id": 40815,
+      "content_license": "CC BY-SA 4.0",
+      "body": "<p>Slightly different answer that might be useful for future readers.</p>\n<p>We had some success baby-proofing with perspex sheets and velcro patches. My toddler was forever emptying the lower shelves in our bookcase. My husband bought some large, rigid, clear perspex sheets (maybe 1m by 0.6m? big enough to cover the bottom two shelves of our bookcases). He fitted them by putting sticky velcro tape on the shelves and perspex. We could remove them when we wanted to get a DVD or book, but they were effectively an invisible force-field for the toddler. He didn't try to pull them off (but the velcro was relatively strong).</p>\n<p>If you get a piece of perspex of the right size (or wood as suggested in the other answer), and then just velcro it on to the side of your fridge so it creates a barrier between fingers and nasty parts. Adults can remove or reposition it as needed, toddler can't get in behind the fridge (and if they are successful in removing it, you'll at least hear the velcro as it rips apart), panel is re-usable to block off the next dangerous thing, sticky velcro can be removed later, no screw holes to patch up.</p>\n"
+    }
+  ],
+  "comments": [
+    {
+      "owner": {
+        "account_id": 128901,
+        "reputation": 103,
+        "user_id": 29880,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/lppfE.png?s=256",
+        "display_name": "J...",
+        "link": "https://parenting.stackexchange.com/users/29880/j"
+      },
+      "edited": false,
+      "score": 1,
+      "creation_date": 1606145155,
+      "post_id": 40815,
+      "comment_id": 85752,
+      "content_license": "CC BY-SA 4.0",
+      "body": "I leave a two-step collapsible step-stool there for accessing the top cabinet shelves.  It fills the space, letting it breathe, and keeps cats out... suspect it would do the same for an infant, at least until they get big enough to haul it out of there themselves."
+    },
+    {
+      "owner": {
+        "account_id": 15912597,
+        "reputation": 101,
+        "user_id": 38001,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/42b34d9dcc460757618f2fd035f0c512?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "eps",
+        "link": "https://parenting.stackexchange.com/users/38001/eps"
+      },
+      "edited": false,
+      "score": 0,
+      "creation_date": 1606160791,
+      "post_id": 40815,
+      "comment_id": 85761,
+      "content_license": "CC BY-SA 4.0",
+      "body": "It is very common for fridges to be shoved into enclosures with no space on either side.  Yes, you might lose a tiny amount of efficiency but as long as you clean it every couple months for dust buildup you&#39;ll be perfectly fine and way ahead of what most people do (never clean the back)."
+    },
+    {
+      "owner": {
+        "account_id": 5711979,
+        "reputation": 321,
+        "user_id": 26750,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/a0bcf85ca259d5c6654c758cf2ee4683?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Kat",
+        "link": "https://parenting.stackexchange.com/users/26750/kat"
+      },
+      "edited": false,
+      "score": 0,
+      "creation_date": 1606254295,
+      "post_id": 40815,
+      "comment_id": 85781,
+      "content_license": "CC BY-SA 4.0",
+      "body": "Two inches doesn&#39;t seem like enough for a baby to get to the back of a fridge. At most they should be able to stick their arm in the gaps on the sides. How big is this gap?"
+    },
+    {
+      "owner": {
+        "account_id": 5182392,
+        "reputation": 445,
+        "user_id": 22177,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/55DUG.jpg?s=256",
+        "display_name": "Amazon Dies In Darkness",
+        "link": "https://parenting.stackexchange.com/users/22177/amazon-dies-in-darkness"
+      },
+      "edited": false,
+      "score": 0,
+      "creation_date": 1606272650,
+      "post_id": 40815,
+      "comment_id": 85782,
+      "content_license": "CC BY-SA 4.0",
+      "body": "That&#39;s where you put the mouse traps.  Babies learn quickly. ;)  Okay, in all seriousness, I used a toilet paper holder.  Screwed it into the wall behind the fridge.  It allowed airflow, but kept the little ones out."
+    },
+    {
+      "owner": {
+        "account_id": 1796213,
+        "reputation": 3431,
+        "user_id": 21986,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/991a4a6ddb04ff0a0d0ca93849f9b0ac?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "learner101",
+        "link": "https://parenting.stackexchange.com/users/21986/learner101"
+      },
+      "reply_to_user": {
+        "account_id": 5711979,
+        "reputation": 321,
+        "user_id": 26750,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/a0bcf85ca259d5c6654c758cf2ee4683?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Kat",
+        "link": "https://parenting.stackexchange.com/users/26750/kat"
+      },
+      "edited": false,
+      "score": 0,
+      "creation_date": 1606283526,
+      "post_id": 40815,
+      "comment_id": 85783,
+      "content_license": "CC BY-SA 4.0",
+      "body": "@Kat 2-3 inches. And yes, all he does is stick his hand in the gap."
+    },
+    {
+      "owner": {
+        "account_id": 103001,
+        "reputation": 101,
+        "user_id": 39987,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/c877a65a343d0ad03a2d4c2b82029c46?s=256&d=identicon&r=PG",
+        "display_name": "Mashmagar",
+        "link": "https://parenting.stackexchange.com/users/39987/mashmagar"
+      },
+      "edited": false,
+      "score": 18,
+      "creation_date": 1606147612,
+      "post_id": 40816,
+      "comment_id": 85753,
+      "content_license": "CC BY-SA 4.0",
+      "body": "I don&#39;t see how this design would involve the wood touching the back of the fridge or even significantly impede airflow. Contacting the manufacturer seems like undue caution."
+    },
+    {
+      "owner": {
+        "account_id": 1780022,
+        "reputation": 63542,
+        "user_id": 6524,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/40931bddde219f1a9e4514d2f4cfa826?s=256&d=identicon&r=PG",
+        "display_name": "Joe",
+        "link": "https://parenting.stackexchange.com/users/6524/joe"
+      },
+      "edited": false,
+      "score": 7,
+      "creation_date": 1606154576,
+      "post_id": 40818,
+      "comment_id": 85756,
+      "content_license": "CC BY-SA 4.0",
+      "body": "I would not suggest using anything that was potentially flammable in such a situation; while it should not get that hot, if something goes wrong it could.  This seems more likely to cause a problem when the baby pushes it in and ends up overheating the fridge..."
+    },
+    {
+      "owner": {
+        "account_id": 2638908,
+        "reputation": 101,
+        "user_id": 7960,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/eJ0IS.png?s=256",
+        "display_name": "NotThatGuy",
+        "link": "https://parenting.stackexchange.com/users/7960/notthatguy"
+      },
+      "reply_to_user": {
+        "account_id": 939235,
+        "reputation": 5323,
+        "user_id": 33055,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/zOso6.jpg?s=256",
+        "display_name": "Timur Shtatland",
+        "link": "https://parenting.stackexchange.com/users/33055/timur-shtatland"
+      },
+      "edited": false,
+      "score": 2,
+      "creation_date": 1606174871,
+      "post_id": 40816,
+      "comment_id": 85768,
+      "content_license": "CC BY-SA 4.0",
+      "body": "@TimurShtatland Companies are often overly cautious about helping with DIY sort of things (especially ones that may go against recommended practices) to avoid getting sued. They will likely just recommend <i>not</i> filling the gap, letting a professional handyman figure it out or that you buy their tailor-made gap-filler, on the off chance that they happen to sell one."
+    },
+    {
+      "owner": {
+        "account_id": 1779824,
+        "reputation": 291,
+        "user_id": 26760,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/9e6c41dfd6d23ea6dc57bd68170dbca7?s=256&d=identicon&r=PG",
+        "display_name": "Tim",
+        "link": "https://parenting.stackexchange.com/users/26760/tim"
+      },
+      "edited": false,
+      "score": 8,
+      "creation_date": 1606223332,
+      "post_id": 40820,
+      "comment_id": 85775,
+      "content_license": "CC BY-SA 4.0",
+      "body": "Love the last para..."
+    },
+    {
+      "owner": {
+        "account_id": 2717324,
+        "reputation": 409,
+        "user_id": 33670,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/MnkGM.jpg?s=256",
+        "display_name": "FreeMan",
+        "link": "https://parenting.stackexchange.com/users/33670/freeman"
+      },
+      "edited": false,
+      "score": 8,
+      "creation_date": 1606229605,
+      "post_id": 40816,
+      "comment_id": 85776,
+      "content_license": "CC BY-SA 4.0",
+      "body": "+1 for allowing supervised exploration! Especially if you guide him to hurting himself (slightly, I&#39;m not suggesting a hospital-visit style injury) he&#39;ll lose interest quickly. Kids are curious, but they&#39;re rarely masochistic. Also, a few strong magnets glued to a piece of plywood will likely hold the board to the side of the fridge well enough to keep a tyke from getting behind there once he&#39;s learned that there&#39;s nothing interesting/not painful to explore. Leave the wood a few inches off the floor to allow cool air in, then go up 2-3 feet - sufficient to keep him out yet allow air flow."
+    },
+    {
+      "owner": {
+        "account_id": 5457015,
+        "reputation": 101,
+        "user_id": 32216,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/x1byc.jpg?s=256",
+        "display_name": "BruceWayne",
+        "link": "https://parenting.stackexchange.com/users/32216/brucewayne"
+      },
+      "edited": false,
+      "score": 3,
+      "creation_date": 1606246239,
+      "post_id": 40816,
+      "comment_id": 85778,
+      "content_license": "CC BY-SA 4.0",
+      "body": "Also, OP doesn&#39;t have to necessarily install a panel that goes all the way up to the top of the fridge. Just enough for a 10m-1 year old to not reach. And I&#39;d bet after a few times of finding a panel instead of a fun gap to stick his hands in, he&#39;ll move on and OP could remove the panel after a few days of lost interest."
+    },
+    {
+      "owner": {
+        "account_id": 391098,
+        "reputation": 101,
+        "user_id": 28939,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/iux9g.png?s=256",
+        "display_name": "davidbak",
+        "link": "https://parenting.stackexchange.com/users/28939/davidbak"
+      },
+      "edited": false,
+      "score": 1,
+      "creation_date": 1606250896,
+      "post_id": 40818,
+      "comment_id": 85779,
+      "content_license": "CC BY-SA 4.0",
+      "body": "or pulls it out and stuffs it in the oven and leaves it there ..."
+    },
+    {
+      "owner": {
+        "account_id": 5109620,
+        "reputation": 101,
+        "user_id": 39058,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-twCUNUcC7jc/AAAAAAAAAAI/AAAAAAAABgw/-xFwOg7Mv_A/s256-rj/photo.jpg",
+        "display_name": "A C",
+        "link": "https://parenting.stackexchange.com/users/39058/a-c"
+      },
+      "reply_to_user": {
+        "account_id": 1796213,
+        "reputation": 3431,
+        "user_id": 21986,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/991a4a6ddb04ff0a0d0ca93849f9b0ac?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "learner101",
+        "link": "https://parenting.stackexchange.com/users/21986/learner101"
+      },
+      "edited": false,
+      "score": 4,
+      "creation_date": 1606285038,
+      "post_id": 40816,
+      "comment_id": 85785,
+      "content_license": "CC BY-SA 4.0",
+      "body": "@learner101 just remember that many magnets strong enough to hold the board to the fridge will also be capable of &quot;snapping&quot; together with a great amount of force!"
+    },
+    {
+      "owner": {
+        "account_id": 58219,
+        "reputation": 353,
+        "user_id": 6975,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/afc5b8351b0622aab55049c7a48a6fca?s=256&d=identicon&r=PG",
+        "display_name": "Emilio M Bumachar",
+        "link": "https://parenting.stackexchange.com/users/6975/emilio-m-bumachar"
+      },
+      "edited": false,
+      "score": 0,
+      "creation_date": 1606327823,
+      "post_id": 40816,
+      "comment_id": 85793,
+      "content_license": "CC BY-SA 4.0",
+      "body": "If you&#39;re going to let him touch it once, unplug it before just in case."
+    }
+  ]
+}

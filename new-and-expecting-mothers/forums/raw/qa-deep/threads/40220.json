@@ -1,0 +1,129 @@
+{
+  "question": {
+    "tags": [
+      "newborn",
+      "milk",
+      "temperatures"
+    ],
+    "owner": {
+      "account_id": 6197039,
+      "reputation": 500,
+      "user_id": 38224,
+      "user_type": "registered",
+      "profile_image": "https://i.sstatic.net/tsXON.png?s=256",
+      "display_name": "Jo&#227;o Matos",
+      "link": "https://parenting.stackexchange.com/users/38224/jo%c3%a3o-matos"
+    },
+    "is_answered": true,
+    "view_count": 396,
+    "accepted_answer_id": 40222,
+    "answer_count": 1,
+    "score": 5,
+    "last_activity_date": 1594916004,
+    "creation_date": 1594887343,
+    "last_edit_date": 1594916004,
+    "question_id": 40220,
+    "content_license": "CC BY-SA 4.0",
+    "link": "https://parenting.stackexchange.com/questions/40220/is-it-ok-to-cool-down-artificial-milk-in-the-fridge",
+    "title": "Is it ok to cool down artificial milk in the fridge?",
+    "body": "<p>In line with <a href=\"https://parenting.stackexchange.com/q/26939/38224\">other posted questions</a> whose answers suggest there is no problem feeding your baby with milk at room temperature, I would like to know if the same applies to colder <strong>artificial</strong> milk?</p>\n<p>To provide some context, I realised that my baby (about 6 months old) is rejecting the milk in hot summer days, but accepts it if it staged in the fridge for a while.</p>\n<p>Thank you for your attention.</p>\n"
+  },
+  "answers": [
+    {
+      "owner": {
+        "account_id": 1780022,
+        "reputation": 63542,
+        "user_id": 6524,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/40931bddde219f1a9e4514d2f4cfa826?s=256&d=identicon&r=PG",
+        "display_name": "Joe",
+        "link": "https://parenting.stackexchange.com/users/6524/joe"
+      },
+      "is_accepted": true,
+      "score": 5,
+      "last_activity_date": 1594908919,
+      "creation_date": 1594908919,
+      "answer_id": 40222,
+      "question_id": 40220,
+      "content_license": "CC BY-SA 4.0",
+      "body": "<p>Formula can be stored in the fridge for a short period of time, just as any other milk product; the general recommendation is to store it no longer than 24 hours, so that seems longer than the timeframe you are describing (I assume you will make it in the morning, say, and then use it throughout the day).</p>\n<p>Some references for that timeframe are <a href=\"https://kidshealth.org/en/parents/formulafeed-storing.html\" rel=\"noreferrer\">kidshealth</a>, the <a href=\"https://www.cdc.gov/nutrition/infantandtoddlernutrition/formula-feeding/infant-formula-preparation-and-storage.html\" rel=\"noreferrer\">CDC</a>, the <a href=\"https://my.clevelandclinic.org/health/articles/15576-preparing-and-storing-baby-formula\" rel=\"noreferrer\">Cleveland Clinic</a>, etc.; they consistently agree that while freshly prepared is best, 24 hours in the fridge is okay also.  One of the major manufacturers of formula, <a href=\"https://www.enfamil.com/articles/safe-bottle-preparation\" rel=\"noreferrer\">Enfamil, also agrees</a>.</p>\n<p>From the CDC link above:</p>\n<blockquote>\n<p>Prepared infant formula can spoil if it is left out at room temperature.\nUse prepared infant formula within 2 hours of preparation and within one hour from when feeding begins.\nIf you do not start to use the prepared infant formula within 2 hours, immediately store the bottle in the fridge and use it within 24 hours.</p>\n</blockquote>\n<p>In all of these cases, they are referring to formula that has not been exposed to the baby - meaning, it can be prepared in advance, but any portion that is served to the baby should be discarded after the baby is finished with that meal, not re-stored in the fridge.</p>\n<p>No requirement for warming is present; they're pretty consistent in agreeing that you <em>can</em> warm it, but do not <em>have</em> to.  The rationale for that would be the same as for non-artificial milks as in the linked question.  From the CDC for example (link as above):</p>\n<blockquote>\n<p>Baby’s milk or infant formula does not need to be warmed before feeding</p>\n</blockquote>\n<p>Do be careful to give the formula a good stir or shake before feeding if it is refrigerated; while formula will generally contain agents to help it stay dissolved, it's still a good idea to make sure it's all homogeneous.</p>\n"
+    }
+  ],
+  "comments": [
+    {
+      "owner": {
+        "account_id": 6197039,
+        "reputation": 500,
+        "user_id": 38224,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/tsXON.png?s=256",
+        "display_name": "Jo&#227;o Matos",
+        "link": "https://parenting.stackexchange.com/users/38224/jo%c3%a3o-matos"
+      },
+      "edited": false,
+      "score": 0,
+      "creation_date": 1594915973,
+      "post_id": 40222,
+      "comment_id": 84092,
+      "content_license": "CC BY-SA 4.0",
+      "body": "just to be clear, the milk can be ingested at fridge temperature?"
+    },
+    {
+      "owner": {
+        "account_id": 1780022,
+        "reputation": 63542,
+        "user_id": 6524,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/40931bddde219f1a9e4514d2f4cfa826?s=256&d=identicon&r=PG",
+        "display_name": "Joe",
+        "link": "https://parenting.stackexchange.com/users/6524/joe"
+      },
+      "reply_to_user": {
+        "account_id": 6197039,
+        "reputation": 500,
+        "user_id": 38224,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/tsXON.png?s=256",
+        "display_name": "Jo&#227;o Matos",
+        "link": "https://parenting.stackexchange.com/users/38224/jo%c3%a3o-matos"
+      },
+      "edited": false,
+      "score": 2,
+      "creation_date": 1594916846,
+      "post_id": 40222,
+      "comment_id": 84094,
+      "content_license": "CC BY-SA 4.0",
+      "body": "That&#39;s what the CDC says, yes - if the baby prefers it cold, then that&#39;s fine."
+    },
+    {
+      "owner": {
+        "account_id": 3674367,
+        "reputation": 72549,
+        "user_id": 9327,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://i.sstatic.net/jlp4Q.png?s=256",
+        "display_name": "anongoodnurse",
+        "link": "https://parenting.stackexchange.com/users/9327/anongoodnurse"
+      },
+      "reply_to_user": {
+        "account_id": 6197039,
+        "reputation": 500,
+        "user_id": 38224,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/tsXON.png?s=256",
+        "display_name": "Jo&#227;o Matos",
+        "link": "https://parenting.stackexchange.com/users/38224/jo%c3%a3o-matos"
+      },
+      "edited": false,
+      "score": 1,
+      "creation_date": 1594923016,
+      "post_id": 40222,
+      "comment_id": 84095,
+      "content_license": "CC BY-SA 4.0",
+      "body": "@Jo&#227;oMatos - Though Joe didn&#39;t directly say why, he&#39;s right; it&#39;s ok to serve your baby cold milk if they prefer. The problem is with neonates and younger babies who don&#39;t regulate their body temperatures as well as a six-month old does. I personally wouldn&#39;t feed an <i>early</i> infant cold milk, but your baby is past that stage."
+    }
+  ]
+}

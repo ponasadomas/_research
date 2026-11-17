@@ -1,0 +1,27 @@
+{
+  "slug": "babyledweaning",
+  "kind": "robots",
+  "requested_url": "https://www.babyledweaning.com/robots.txt",
+  "fetched_at": "2026-10-24T12:23:58.686952+00:00",
+  "status": 200,
+  "final_url": "https://www.babyledweaning.com/robots.txt",
+  "headers": {
+    "Connection": "Keep-Alive",
+    "Keep-Alive": "timeout=5, max=100",
+    "X-Robots-Tag": "noindex, follow",
+    "Link": "<https://www.babyledweaning.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "Content-Type": "text/plain; charset=utf-8",
+    "Content-Length": "133",
+    "Content-Encoding": "gzip",
+    "Vary": "Accept-Encoding",
+    "Date": "Sat, 24 Oct 2026 12:23:58 GMT",
+    "Server": "LiteSpeed",
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000"
+  },
+  "bytes": 180,
+  "sha256": "a3d45e48ea9e3c6d9c04032e63e6d7bf45f321bdb8e7a528b8ac652bb6d50e8d",
+  "raw_file": "_raw/forums-deep/access/babyledweaning-robots.bin",
+  "redirects": [],
+  "title": "",
+  "policy_excerpt": "# START YOAST BLOCK\n# ---------------------------\nUser-agent: *\nDisallow:\n\nSitemap: https://www.babyledweaning.com/sitemap_index.xml\n# ---------------------------\n# END YOAST BLOCK"
+}

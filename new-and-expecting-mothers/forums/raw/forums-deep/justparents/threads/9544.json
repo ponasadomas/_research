@@ -1,0 +1,68 @@
+{
+  "url": "https://www.justparents.co.uk/forums/topic-9544/",
+  "title": "family friendly hotel in London?",
+  "listed_replies": 1,
+  "last_reply_as_displayed": "7 months ago by MollyUK",
+  "board": "activities",
+  "listing_raw_file": "_raw/forums-deep/justparents/responses/640f3207066bccf8a1ac.html",
+  "thread_id": "jp-9544",
+  "pagination_complete": true,
+  "visible_pages_fetched": 1,
+  "visible_post_count": 2,
+  "listed_expected_posts": 2,
+  "listed_count_matches": true,
+  "pages": [
+    {
+      "requested_url": "https://www.justparents.co.uk/forums/topic-9544/",
+      "final_url": "https://www.justparents.co.uk/forums/topic-9544/",
+      "status": 200,
+      "headers": {
+        "Date": "Sat, 24 Oct 2026 12:38:46 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Server": "cloudflare",
+        "Cache-Control": "private, no-store, no-cache, must-revalidate, max-age=0",
+        "pragma": "no-cache",
+        "expires": "0",
+        "Set-Cookie": "jp_session=a799fe3d504095dc578bda6e6675b9ac; path=/; secure; HttpOnly; SameSite=Lax",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=hzJVePbQEwbgj3LPUpnz7Qb9Zfay3y3ZAe4%2Ft4f4ohStfLtXpsijArQPFRpx5vQagR4qgdvxlZHc8h7Fl5jUPjPYZiqbagd8%2BmNTPmx1%2FZqrK8M3sRUn7I%2BYIGy8ZzWep95pXwtw%2Bxk%3D\"}]}",
+        "cf-cache-status": "DYNAMIC",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Content-Encoding": "zstd",
+        "CF-RAY": "a4f90a5a5d49e4d0-RIX",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "fetched_at": "2026-10-24T12:38:46.100751+00:00",
+      "bytes": 32049,
+      "sha256": "51ba4e683bed7ae1282f1c2d8c3df859695952693d4c75692513b18c8c79743a",
+      "raw_file": "_raw/forums-deep/justparents/responses/f96e40bf9e5584983564.html"
+    }
+  ],
+  "posts": [
+    {
+      "post_id": "85006",
+      "author_handle": "Alison1968",
+      "date_as_displayed": "Posted 14 years 5 months ago",
+      "body": "Does anyone have a recommendation of a family friendly hotel in London? Mum, Dad and three boys all under 10 would appreciate any thoughts!",
+      "permalink": "https://www.justparents.co.uk/forums/topic-9544/#85006",
+      "raw_file": "_raw/forums-deep/justparents/responses/f96e40bf9e5584983564.html",
+      "page_url": "https://www.justparents.co.uk/forums/topic-9544/",
+      "role": "original_post",
+      "original_post_id": "85006"
+    },
+    {
+      "post_id": "93791",
+      "author_handle": "MollyUK",
+      "date_as_displayed": "Posted 7 months 6 days ago",
+      "body": "We’ve done London a couple of times with kids and the main thing I’d say is look for somewhere with a bit of space rather than a standard hotel room - it makes a huge difference with three children.\nAparthotels or family rooms tend to work really well so you’re not all squeezed in.\nLocation-wise, somewhere central but slightly quieter (like around South Bank or near Kensington) can be a good balance - easy to get around but not too hectic at night.\nAlso worth checking if they include breakfast - saves a lot of hassle in the mornings with kids.",
+      "permalink": "https://www.justparents.co.uk/forums/topic-9544/#93791",
+      "raw_file": "_raw/forums-deep/justparents/responses/f96e40bf9e5584983564.html",
+      "page_url": "https://www.justparents.co.uk/forums/topic-9544/",
+      "role": "response",
+      "original_post_id": "85006"
+    }
+  ]
+}

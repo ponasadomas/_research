@@ -1,0 +1,30 @@
+{
+  "slug": "babycenteraustralia",
+  "kind": "landing",
+  "requested_url": "https://www.babycenter.com.au/community",
+  "fetched_at": "2026-10-24T12:23:57.980891+00:00",
+  "status": 200,
+  "final_url": "https://www.babycenter.com.au/community",
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "Cache-Control": "private, no-cache, no-store, max-age=0, must-revalidate",
+    "ETag": "\"psyt0nh1v96k6r\"",
+    "Vary": "Accept-Encoding",
+    "Content-Encoding": "gzip",
+    "Date": "Sat, 24 Oct 2026 12:23:58 GMT",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive, Transfer-Encoding",
+    "Set-Cookie": "geoCC=LT; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.babycenter.com.au, geoRegion=; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.babycenter.com.au, geoDMA=; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.babycenter.com.au, geoCity=VILNIUS; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.babycenter.com.au, geoZip=; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.babycenter.com.au",
+    "X-Robots-Tag": "bingbot: noarchive",
+    "X-XSS-Protection": "1; mode=block",
+    "x-frame-options": "SAMEORIGIN",
+    "x-content-type-options": "nosniff",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+  },
+  "bytes": 306196,
+  "sha256": "d39b14f504af08d405eba24f9f5f20eff75d26dd2e703982ac9078c29ef9315b",
+  "raw_file": "_raw/forums-deep/access/babycenteraustralia-landing.bin",
+  "redirects": [],
+  "title": "Community | BabyCenter",
+  "policy_excerpt": ""
+}

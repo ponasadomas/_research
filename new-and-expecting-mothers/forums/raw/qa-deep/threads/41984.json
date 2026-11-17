@@ -1,0 +1,469 @@
+{
+  "question": {
+    "tags": [
+      "newborn",
+      "health",
+      "safety"
+    ],
+    "owner": {
+      "account_id": 4249802,
+      "reputation": 425,
+      "user_id": 41828,
+      "user_type": "registered",
+      "profile_image": "https://i.sstatic.net/ZJz2Z.png?s=256",
+      "display_name": "Asaprab",
+      "link": "https://parenting.stackexchange.com/users/41828/asaprab"
+    },
+    "is_answered": true,
+    "view_count": 10086,
+    "answer_count": 3,
+    "score": 15,
+    "last_activity_date": 1731950275,
+    "creation_date": 1633334701,
+    "question_id": 41984,
+    "content_license": "CC BY-SA 4.0",
+    "link": "https://parenting.stackexchange.com/questions/41984/is-it-safe-to-store-and-use-a-desktop-computer-for-long-hours-next-to-babys-cri",
+    "title": "Is it safe to store and use a desktop computer for long hours next to baby&#39;s crib?",
+    "body": "<p>I'm a software developer by profession. And I like working in my bedroom. And my 2-month-old son's baby bed is in there as well. I'm curious about the radiation and the thermal effect on my growing baby.</p>\n"
+  },
+  "answers": [
+    {
+      "owner": {
+        "account_id": 7698209,
+        "reputation": 3753,
+        "user_id": 28667,
+        "user_type": "registered",
+        "profile_image": "https://lh6.googleusercontent.com/-te2ZteQ2y14/AAAAAAAAAAI/AAAAAAAAALI/xUAT-j1dxMA/s256-rj/photo.jpg",
+        "display_name": "Calvin Smythe",
+        "link": "https://parenting.stackexchange.com/users/28667/calvin-smythe"
+      },
+      "is_accepted": false,
+      "score": 34,
+      "last_activity_date": 1731950275,
+      "last_edit_date": 1731950275,
+      "creation_date": 1633357272,
+      "answer_id": 41985,
+      "question_id": 41984,
+      "content_license": "CC BY-SA 4.0",
+      "body": "<p>Working in the same room your son sleeps is more an issue of the sounds and light of your monitor you make while working rather than the electromagnetic radiation.  If possible, it'd be good for nap times if you could work in a different location.  If working in your bedroom is all you've got, try using a sound machine to mask the noises of you working.</p>\n<p>The radiation that your computer emits is extremely low.  You monitor is the greatest emitter of electromagnetic radiation and the effects of it are only noticeable if you spend prolonged time less than 1 foot away from your monitor.  (See: <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2787304/\" rel=\"nofollow noreferrer\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2787304/</a>) Note: This study is related to rats and old-fashioned CRT monitors (rather than current LCD displays) were placed 20cm from the rat cages.  Bottom line, you've got to be <em>really</em> close to a vintage monitor for electromagnetic radiation from a PC monitor to have an impact.</p>\n<p>Additionally, new monitors emit significantly less electromagnetic radiation than the old CRT monitors.  [Note: I didn't specify that CRT Monitors emitted a dangerous level of X-Ray radiation that is no longer an issue.]</p>\n<p>If you can move where you work, I'd recommend it.  Blue light and the random sounds you make without even noticing will disrupt sleep, which can impact your son's development, demeanor and amount of time awake at night.</p>\n<p>Blue light on the other hand is a problem — not just for your son but for you and anyone else who uses electronic devices.  Blue light is linked to disrupted sleep cycles and insomnia (See: <a href=\"https://archive.cdc.gov/#/details?url=https://www.cdc.gov/niosh/emres/longhourstraining/color.html\" rel=\"nofollow noreferrer\">https://archive.cdc.gov/#/details?url=https://www.cdc.gov/niosh/emres/longhourstraining/color.html</a>)</p>\n<p>More anecdotally, when you work you make a lot of irregular sounds.  The action on your keyboard combined with altered breathing as your work can disrupt a child's sleep.  With my three sons, my wife and I had to move each one out of our room by 6 months old because they would wake at night just by us turning over in bed as we slept.</p>\n<p>All this is moot if you are not able to work anywhere else, but you can mitigate the effects of blue light and the noise of working.  Use a sound machine to mask noise and turn your screen monitor brightness down and color correct your monitor to reduce blue light — not sure what OS you develop on but Ubuntu/Linux has a setting that allows for a &quot;Night Light&quot; blue light reduction.</p>\n<p>Hope this helps.</p>\n"
+    },
+    {
+      "owner": {
+        "account_id": 22942646,
+        "reputation": 91,
+        "user_id": 41832,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/81311f1ad57c96aa93640c34b622bd4b?s=256&d=identicon&r=PG",
+        "display_name": "user41832",
+        "link": "https://parenting.stackexchange.com/users/41832/user41832"
+      },
+      "is_accepted": false,
+      "score": 9,
+      "last_activity_date": 1633389194,
+      "creation_date": 1633389194,
+      "answer_id": 41987,
+      "question_id": 41984,
+      "content_license": "CC BY-SA 4.0",
+      "body": "<p>&quot;Radiation&quot; is a very broad term. It includes things like visible light, or the infrared light emitted by your body. What is harmful is ionizing radiation. A computer does not emit ionizing radiation. There is ionizing background radiation present all the time in our environment at low levels.</p>\n<p>Re thermal effects, a computer puts out heat, but so does your own body. If it's too warm in the room, then you can turn on the AC.</p>\n<p>In summary, there is zero hazard to your baby from your computer due to radiation or thermal effects.</p>\n"
+    },
+    {
+      "owner": {
+        "account_id": 13559803,
+        "reputation": 581,
+        "user_id": 37944,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/14e77b3ef21b2a9ce7a9717579be7631?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "fraxinus",
+        "link": "https://parenting.stackexchange.com/users/37944/fraxinus"
+      },
+      "is_accepted": false,
+      "score": 3,
+      "last_activity_date": 1633420531,
+      "creation_date": 1633420531,
+      "answer_id": 41989,
+      "question_id": 41984,
+      "content_license": "CC BY-SA 4.0",
+      "body": "<p>The fears of computer largely stem from CRT (cathode ray tube, the &quot;bulky&quot; kind) monitors from the past. They were fully replaced by LCDs (liquid crystal displays, the &quot;flat&quot; ones) in 2000-2010 and never appeared in mass-produced portable computers in the first place.</p>\n<p>CRT monitors did emit x-rays that are a known health issue. Bigger monitors / TV sets emitted disproportionately more. In the last decade of the CRT development (say, 1990-2000) the x-rays were somewhat mitigated by lead additives in the glass that made the tubes even heavier (not that they were lightweight in the first place).</p>\n<p>The problem completely went away when the tubes were replaced with LCDs. They have different working principle and completely lack a mechanism to generate dangerous radiation of any kind.</p>\n<hr />\n<p>Today, all the health risks related to computers are completely visible and manageable, including the light, the heat, the noise and the attention grabbing.</p>\n"
+    }
+  ],
+  "comments": [
+    {
+      "owner": {
+        "account_id": 190624,
+        "reputation": 2544,
+        "user_id": 31496,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/0eb07ddb42ad7121a9b57508dd0b89ce?s=256&d=identicon&r=PG",
+        "display_name": "Bart van Ingen Schenau",
+        "link": "https://parenting.stackexchange.com/users/31496/bart-van-ingen-schenau"
+      },
+      "edited": false,
+      "score": 30,
+      "creation_date": 1633353763,
+      "post_id": 41984,
+      "comment_id": 89480,
+      "content_license": "CC BY-SA 4.0",
+      "body": "What forms/sources of radiation are you worried about? What kind of thermal effects are you worried about?"
+    },
+    {
+      "owner": {
+        "account_id": 11357901,
+        "reputation": 316,
+        "user_id": 41684,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/a233664230524227966976d885423b04?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "QuestionablePresence",
+        "link": "https://parenting.stackexchange.com/users/41684/questionablepresence"
+      },
+      "edited": false,
+      "score": 5,
+      "creation_date": 1633429103,
+      "post_id": 41984,
+      "comment_id": 89492,
+      "content_license": "CC BY-SA 4.0",
+      "body": "Not worried about constant light and noise but about EM radiation?"
+    },
+    {
+      "owner": {
+        "account_id": 474597,
+        "reputation": 229,
+        "user_id": 6593,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/93234f6c046fc1554f9fb2c471fb09ec?s=256&d=identicon&r=PG",
+        "display_name": "Carl Witthoft",
+        "link": "https://parenting.stackexchange.com/users/6593/carl-witthoft"
+      },
+      "edited": false,
+      "score": 18,
+      "creation_date": 1633443945,
+      "post_id": 41984,
+      "comment_id": 89496,
+      "content_license": "CC BY-SA 4.0",
+      "body": "It is a shame that the educational process for software experts doesnt include basic electronics, which would eliminate confusion at this level."
+    },
+    {
+      "owner": {
+        "account_id": 8917701,
+        "reputation": 101,
+        "user_id": 32570,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/7096c9a8c4f9f550983e1b472ee95538?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Pablo H",
+        "link": "https://parenting.stackexchange.com/users/32570/pablo-h"
+      },
+      "edited": false,
+      "score": 4,
+      "creation_date": 1633452296,
+      "post_id": 41984,
+      "comment_id": 89505,
+      "content_license": "CC BY-SA 4.0",
+      "body": "Apart from the noise from (rotating) hard disks and fans, some electronic devices make high-pitch low-volume noise. You probably don&#39;t notice that noise anymore. A little kid does notice such noises, sometimes (anecdotal evidence: lightbulb). Noise might make babies and kids nervous/restless (without apparent reason unless you notice the noise)."
+    },
+    {
+      "owner": {
+        "account_id": 22957548,
+        "reputation": 1,
+        "user_id": 41846,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/f1aa0990a1f6e4b19467e7d1c16d6ceb?s=256&d=identicon&r=PG",
+        "display_name": "Thomas",
+        "link": "https://parenting.stackexchange.com/users/41846/thomas"
+      },
+      "edited": false,
+      "score": 0,
+      "creation_date": 1633511983,
+      "post_id": 41984,
+      "comment_id": 89529,
+      "content_license": "CC BY-SA 4.0",
+      "body": "Adding to other answers: What you should not use in same room as baby are printers. Inkjets just &#39;smell&#39;, but laser printers create ozone, which is not healthy. Take the printing outside the room."
+    },
+    {
+      "owner": {
+        "account_id": 5570295,
+        "reputation": 346,
+        "user_id": 28666,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/cacf59af8a8aeffa8229f913e5d7015b?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Caterpillaraoz",
+        "link": "https://parenting.stackexchange.com/users/28666/caterpillaraoz"
+      },
+      "edited": false,
+      "score": 0,
+      "creation_date": 1633542234,
+      "post_id": 41984,
+      "comment_id": 89541,
+      "content_license": "CC BY-SA 4.0",
+      "body": "I&#39;d be more concerned about the vaporization of all the anti-flame stuff on the boards"
+    },
+    {
+      "owner": {
+        "account_id": 3654094,
+        "reputation": 101,
+        "user_id": 29230,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/f5YBIEo6.png?s=256",
+        "display_name": "maxathousand",
+        "link": "https://parenting.stackexchange.com/users/29230/maxathousand"
+      },
+      "reply_to_user": {
+        "account_id": 474597,
+        "reputation": 229,
+        "user_id": 6593,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/93234f6c046fc1554f9fb2c471fb09ec?s=256&d=identicon&r=PG",
+        "display_name": "Carl Witthoft",
+        "link": "https://parenting.stackexchange.com/users/6593/carl-witthoft"
+      },
+      "edited": false,
+      "score": 7,
+      "creation_date": 1633545030,
+      "post_id": 41984,
+      "comment_id": 89543,
+      "content_license": "CC BY-SA 4.0",
+      "body": "@CarlWitthoft Even if the software curriculum did include cursory electronics courses, this seems like a perfectly reasonable question for a new parent to ask. Others here probably know more than what is taught in a one-semester Introduction to Electronics course. OP should be encouraged to continue asking questions, not berated for not knowing something you may find obvious."
+    },
+    {
+      "owner": {
+        "account_id": 6229027,
+        "reputation": 254,
+        "user_id": 26734,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/acYd0.png?s=256",
+        "display_name": "Toby Speight",
+        "link": "https://parenting.stackexchange.com/users/26734/toby-speight"
+      },
+      "edited": false,
+      "score": 4,
+      "creation_date": 1633416943,
+      "post_id": 41987,
+      "comment_id": 89489,
+      "content_license": "CC BY-SA 4.0",
+      "body": "&quot;<i>turn on the AC</i>&quot;?  This is a bedroom in a residential house, not an office with air-conditioning!"
+    },
+    {
+      "owner": {
+        "account_id": 1642711,
+        "reputation": 101,
+        "user_id": 9180,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/QQAJV.jpg?s=256",
+        "display_name": "Ivo",
+        "link": "https://parenting.stackexchange.com/users/9180/ivo"
+      },
+      "reply_to_user": {
+        "account_id": 6229027,
+        "reputation": 254,
+        "user_id": 26734,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/acYd0.png?s=256",
+        "display_name": "Toby Speight",
+        "link": "https://parenting.stackexchange.com/users/26734/toby-speight"
+      },
+      "edited": false,
+      "score": 14,
+      "creation_date": 1633420313,
+      "post_id": 41987,
+      "comment_id": 89490,
+      "content_license": "CC BY-SA 4.0",
+      "body": "@TobySpeight in some areas in the world it&#39;s very common to have AC in residential houses"
+    },
+    {
+      "owner": {
+        "account_id": 8066002,
+        "reputation": 101,
+        "user_id": 26445,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/afab93d01607adc980e2fe3eebdb04a6?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "fyrepenguin",
+        "link": "https://parenting.stackexchange.com/users/26445/fyrepenguin"
+      },
+      "edited": false,
+      "score": 3,
+      "creation_date": 1633447523,
+      "post_id": 41987,
+      "comment_id": 89500,
+      "content_license": "CC BY-SA 4.0",
+      "body": "Or even in apartments. And in some places, many people have separate window unit AC systems, including in bedrooms"
+    },
+    {
+      "owner": {
+        "account_id": 2717324,
+        "reputation": 409,
+        "user_id": 33670,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/MnkGM.jpg?s=256",
+        "display_name": "FreeMan",
+        "link": "https://parenting.stackexchange.com/users/33670/freeman"
+      },
+      "edited": false,
+      "score": 3,
+      "creation_date": 1633448245,
+      "post_id": 41985,
+      "comment_id": 89501,
+      "content_license": "CC BY-SA 4.0",
+      "body": "&quot;If possible, it&#39;d be good for nap times if you could work in a different location.&quot; OTOH, it&#39;s good for a kid to learn how to fall asleep and stay asleep even in a noisy environment. We <i>never</i> put our kids in a &quot;cone of silence&quot; for sleeping and it paid off when our 6 month old slept through the 2nd half of a basketball playoff game with a dozen people yelling and shouting just outside his bedroom door."
+    },
+    {
+      "owner": {
+        "account_id": 2717324,
+        "reputation": 409,
+        "user_id": 33670,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/MnkGM.jpg?s=256",
+        "display_name": "FreeMan",
+        "link": "https://parenting.stackexchange.com/users/33670/freeman"
+      },
+      "edited": false,
+      "score": 0,
+      "creation_date": 1633448391,
+      "post_id": 41985,
+      "comment_id": 89502,
+      "content_license": "CC BY-SA 4.0",
+      "body": "&quot;With my three sons, my wife and I had to move each one out of our room by 6 months old because they would wake at night just by us turning over in bed as we slept.&quot; Another benefit to <i>only</i> having the kids sleep in the same room on &quot;special&quot; occasions like nightmares, or when we didn&#39;t have central AC so he slept in the one air conditioned room we had in the house so he didn&#39;t melt into a puddle over night."
+    },
+    {
+      "owner": {
+        "account_id": 3231852,
+        "reputation": 111,
+        "user_id": 16423,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-KUzcFjFWJxk/AAAAAAAAAAI/AAAAAAAAACk/vuVBBRqFkTo/s256-rj/photo.jpg",
+        "display_name": "Nobody",
+        "link": "https://parenting.stackexchange.com/users/16423/nobody"
+      },
+      "edited": false,
+      "score": 0,
+      "creation_date": 1633458598,
+      "post_id": 41985,
+      "comment_id": 89508,
+      "content_license": "CC BY-SA 4.0",
+      "body": "There is also <a href=\"https://en.wikipedia.org/wiki/Electromagnetically_induced_acoustic_noise\" rel=\"nofollow noreferrer\">en.wikipedia.org/wiki/&hellip;</a> and high pitched noises which the parents might not even be able to hear, but which might be painfully loud for a baby. I still remember when I was 18 or 20 or so and was trying to explain in a foreign language to a train conductor that the train was producing a painfully loud noise and the (middle aged) train conductor could barely hear it at all."
+    },
+    {
+      "owner": {
+        "account_id": 5263661,
+        "reputation": 101,
+        "user_id": 41843,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/469837e228452c7a56cf9e28502775d3?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Brady Gilg",
+        "link": "https://parenting.stackexchange.com/users/41843/brady-gilg"
+      },
+      "reply_to_user": {
+        "account_id": 6229027,
+        "reputation": 254,
+        "user_id": 26734,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/acYd0.png?s=256",
+        "display_name": "Toby Speight",
+        "link": "https://parenting.stackexchange.com/users/26734/toby-speight"
+      },
+      "edited": false,
+      "score": 6,
+      "creation_date": 1633459416,
+      "post_id": 41987,
+      "comment_id": 89510,
+      "content_license": "CC BY-SA 4.0",
+      "body": "@TobySpeight Your comment is so shocking to me that I&#39;m curious where you&#39;re from. Certainly here in Arizona, the majority of the population would literally die without AC."
+    },
+    {
+      "owner": {
+        "account_id": 1203224,
+        "reputation": 556,
+        "user_id": 3021,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/BzMXB.jpg?s=256",
+        "display_name": "Grant",
+        "link": "https://parenting.stackexchange.com/users/3021/grant"
+      },
+      "reply_to_user": {
+        "account_id": 5263661,
+        "reputation": 101,
+        "user_id": 41843,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/469837e228452c7a56cf9e28502775d3?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Brady Gilg",
+        "link": "https://parenting.stackexchange.com/users/41843/brady-gilg"
+      },
+      "edited": false,
+      "score": 3,
+      "creation_date": 1633467224,
+      "post_id": 41987,
+      "comment_id": 89514,
+      "content_license": "CC BY-SA 4.0",
+      "body": "@BradyGilg I was curious too. Their profile says Scotland. Apparently a warm summer day in Scotland is around 15-17C (59-63F). Cool enough that AC isn&#39;t really a requirement. Arizona on the other hand has highs around 40C/105F - where yeah, people may literally die in the heat."
+    },
+    {
+      "owner": {
+        "account_id": 22651,
+        "reputation": 101,
+        "user_id": 33491,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/itvGlqzj.png?s=256",
+        "display_name": "Don Branson",
+        "link": "https://parenting.stackexchange.com/users/33491/don-branson"
+      },
+      "reply_to_user": {
+        "account_id": 1642711,
+        "reputation": 101,
+        "user_id": 9180,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/QQAJV.jpg?s=256",
+        "display_name": "Ivo",
+        "link": "https://parenting.stackexchange.com/users/9180/ivo"
+      },
+      "edited": false,
+      "score": 1,
+      "creation_date": 1633468158,
+      "post_id": 41987,
+      "comment_id": 89515,
+      "content_license": "CC BY-SA 4.0",
+      "body": "@IvoBeckers In fairness, it&#39;s only common in those few areas closer to the equator than Scotland. ;)"
+    },
+    {
+      "owner": {
+        "account_id": 5263661,
+        "reputation": 101,
+        "user_id": 41843,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/469837e228452c7a56cf9e28502775d3?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Brady Gilg",
+        "link": "https://parenting.stackexchange.com/users/41843/brady-gilg"
+      },
+      "reply_to_user": {
+        "account_id": 1203224,
+        "reputation": 556,
+        "user_id": 3021,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/BzMXB.jpg?s=256",
+        "display_name": "Grant",
+        "link": "https://parenting.stackexchange.com/users/3021/grant"
+      },
+      "edited": false,
+      "score": 0,
+      "creation_date": 1633469445,
+      "post_id": 41987,
+      "comment_id": 89517,
+      "content_license": "CC BY-SA 4.0",
+      "body": "@Grant I wish we had highs of 105F. This summer the high was 118F (48C)."
+    },
+    {
+      "owner": {
+        "account_id": 6229027,
+        "reputation": 254,
+        "user_id": 26734,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/acYd0.png?s=256",
+        "display_name": "Toby Speight",
+        "link": "https://parenting.stackexchange.com/users/26734/toby-speight"
+      },
+      "edited": false,
+      "score": 1,
+      "creation_date": 1633503837,
+      "post_id": 41987,
+      "comment_id": 89521,
+      "content_license": "CC BY-SA 4.0",
+      "body": "I&#39;ve now looked at OP&#39;s profile, but unfortunately I have no idea whether air-con is normal in Sri Lankan homes, so not sure whether that part of this answer is helpful."
+    }
+  ]
+}

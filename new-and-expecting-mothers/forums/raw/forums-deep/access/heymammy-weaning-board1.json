@@ -1,0 +1,32 @@
+{
+  "slug": "heymammy-weaning",
+  "kind": "board1",
+  "requested_url": "https://www.heymammy.com/viewforum.php?f=39",
+  "fetched_at": "2026-10-24T12:26:35.318809+00:00",
+  "status": 200,
+  "final_url": "https://www.heymammy.com/viewforum.php?f=39",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 12:26:35 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Cache-Control": "private, no-cache=\"set-cookie\"",
+    "Expires": "Sat, 24 Oct 2026 12:26:35 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Set-Cookie": "phpbb3_2brq_u=1; expires=Sun, 24-Oct-2027 12:26:35 GMT; path=/; secure; HttpOnly, phpbb3_2brq_k=; expires=Sun, 24-Oct-2027 12:26:35 GMT; path=/; secure; HttpOnly, phpbb3_2brq_sid=7991a5c584dfacaa85ceeee672e1ca20; expires=Sun, 24-Oct-2027 12:26:35 GMT; path=/; secure; HttpOnly",
+    "Vary": "Accept-Encoding",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=zBVjSBHD53qJ9TN8b8JP%2Fg9kd6%2FaEaTNZQcWkkHwsFr5hcEEzRJ6Of%2BFKEWeU9CEgNTA8Q1e8aAdG8EQkRec96bTY%2F5rOWyt4K6gC9Vp0eeTqlsj2zQe4lvVNMbhJ3ZCBcOl\"}]}",
+    "cf-cache-status": "DYNAMIC",
+    "Content-Encoding": "zstd",
+    "CF-RAY": "a4f8f882e980e4e1-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "bytes": 34033,
+  "sha256": "4ccaac871b7ca890784969d33ec3a420e670471ef7eb8cc6dcdb1056c1f7ae99",
+  "raw_file": "_raw/forums-deep/access/heymammy-weaning-board1.bin",
+  "redirects": [],
+  "title": "heymammy.com - Weaning",
+  "policy_excerpt": ""
+}

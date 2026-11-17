@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-gb">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <link href="./mobiquo/smartbanner/manifest.json" rel="manifest">
+        
+        <meta name="apple-itunes-app" content="app-id=307880732, affiliate-data=at=10lR7C, app-argument=tapatalk://www.heymammy.com/?ttfid=109270" />
+        
+<title>heymammy.com - User Control Panel - Terms of use</title>
+
+	<link rel="alternate" type="application/atom+xml" title="Feed - heymammy.com" href="/app.php/feed?sid=ae144c09172403f282da383c0517a341">			<link rel="alternate" type="application/atom+xml" title="Feed - New Topics" href="/app.php/feed/topics?sid=ae144c09172403f282da383c0517a341">				
+
+<!--
+	phpBB style name: Allan Style - SUBSILVER
+	Based on style:   prosilver (this is the default phpBB3 style)
+	Based on style:   subsilver2 (this is the default phpBB3 style)
+	Original author:  Tom Beddard ( http://www.subBlue.com/ )
+	Modified by old:   Allan, SKRS, Foxs ( https://phpbbx.ru/ )
+	Modified by :   Merlin ( https://forum-gta.ru/ )
+-->
+
+<script>
+	WebFontConfig = {
+		google: {
+			families: ['Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese']
+		}
+	};
+
+	(function(d) {
+		var wf = d.createElement('script'), s = d.scripts[0];
+		wf.src = 'https://cdn.jsdelivr.net/npm/webfontloader@1.6.28/webfontloader.min.js';
+		wf.async = true;
+		s.parentNode.insertBefore(wf, s);
+	})(document);
+</script>
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="./styles/SUBSILVER/theme/stylesheet.css?assets_version=76" rel="stylesheet">
+<link href="./styles/SUBSILVER/theme/en/stylesheet.css?assets_version=76" rel="stylesheet">
+
+
+
+
+<!--[if lte IE 9]>
+	<link href="./styles/SUBSILVER/theme/tweaks.css?assets_version=76" rel="stylesheet">
+<![endif]-->
+
+
+<link href="./ext/alfredoramos/simplespoiler/styles/all/theme/css/common.css?assets_version=76" rel="stylesheet" media="screen">
+<link href="./ext/alfredoramos/simplespoiler/styles/prosilver/theme/css/style.css?assets_version=76" rel="stylesheet" media="screen">
+<link href="./ext/alfredoramos/simplespoiler/styles/prosilver/theme/css/colors.css?assets_version=76" rel="stylesheet" media="screen">
+<link href="./ext/naguissa/thanksforposts/styles/all/theme/thanks.css?assets_version=76" rel="stylesheet" media="screen">
+<link href="./ext/tatiana5/profilesideswitcher/styles/prosilver/theme/profile_side_switcher.css?assets_version=76" rel="stylesheet" media="screen">
+<link href="./ext/tatiana5/profilesideswitcher/styles/prosilver/theme/en/profile_side_switcher.css?assets_version=76" rel="stylesheet" media="screen">
+
+
+
+</head>
+<body id="phpbb" class="nojs notouch section-ucp ltr ">
+
+<div id="header-subsilver" >
+	<a id="top" class="top-anchor" accesskey="t"></a>
+		<div class="headerbar" role="banner">
+					<div class="inner">
+
+			<div id="site-description" class="site-description">
+				<a id="logo" class="logo" href="./index.php?sid=ae144c09172403f282da383c0517a341" title="Board index">
+					<span class="site_logo"></span>
+				</a>
+				<h1>heymammy.com</h1>
+				<p></p>
+				<p class="skiplink"><a href="#start_here">Skip to content</a></p>
+			</div>
+
+									
+			</div>
+					</div>
+</div>
+
+
+<div id="wrap" class="wrap">
+	<div id="page-header">
+				<div class="navbar-top" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-main" class="nav-main linklist" role="menubar">
+
+		<li id="quick-links" class="quick-links dropdown-container responsive-menu hidden" data-skip-responsive="true">
+			<a href="#" class="dropdown-trigger">
+				<i class="icon fa-bars fa-fw" aria-hidden="true"></i><span>Quick links</span>
+			</a>
+			<div class="dropdown">
+				<div class="pointer"><div class="pointer-inner"></div></div>
+				<ul class="dropdown-contents" role="menu">
+					
+					
+										<li class="separator"></li>
+
+									</ul>
+			</div>
+		</li>
+
+				<li data-skip-responsive="true">
+			<a href="/app.php/help/faq?sid=ae144c09172403f282da383c0517a341" rel="help" title="Frequently Asked Questions" role="menuitem">
+				<i class="icon fa-question-circle fa-fw" aria-hidden="true"></i><span>FAQ</span>
+			</a>
+		</li>
+						
+			<li class="rightside"  data-skip-responsive="true">
+			<a href="./ucp.php?mode=login&amp;redirect=ucp.php%3Fmode%3Dterms&amp;sid=ae144c09172403f282da383c0517a341" title="Login" accesskey="x" role="menuitem">
+				<i class="icon fa-power-off fa-fw" aria-hidden="true"></i><span>Login</span>
+			</a>
+		</li>
+					<li class="rightside" data-skip-responsive="true">
+				<a href="./ucp.php?mode=register&amp;sid=ae144c09172403f282da383c0517a341" role="menuitem">
+					<i class="icon fa-pencil-square-o  fa-fw" aria-hidden="true"></i><span>Register</span>
+				</a>
+			</li>
+						</ul>
+
+	</div>
+</div>
+
+<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-breadcrumbs" class="nav-breadcrumbs linklist navlinks" role="menubar">
+				
+		
+		<li class="breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList">
+
+			
+							<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope><a itemprop="item" href="./index.php?sid=ae144c09172403f282da383c0517a341" accesskey="h" data-navbar-reference="index"><i class="icon fa-home fa-fw"></i><span itemprop="name">Board index</span></a><meta itemprop="position" content="1" /></span>
+
+			
+					</li>
+
+		
+			</ul>
+
+	</div>
+</div>
+
+	</div>
+
+	
+	<a id="start_here" class="anchor"></a>
+	<div id="page-body" class="page-body" role="main">
+		
+			<script type="text/javascript">
+	// <![CDATA[
+		var pss_cont = document.getElementById('page-body');
+		pss_cont.className += ' leftsided';
+	// ]]>
+	</script>
+
+
+	<div class="panel">
+		<div class="inner">
+		<div class="content">
+			<h2 class="sitename-title">heymammy.com - Terms of use</h2>
+			<div class="agreement">By accessing “heymammy.com” (hereinafter “we”, “us”, “our”, “heymammy.com”, “https://www.heymammy.com”), you agree to be legally bound by the following terms. If you do not agree to be legally bound by all of the following terms then please do not access and/or use “heymammy.com”. We may change these at any time and we’ll do our utmost in informing you, though it would be prudent to review this regularly yourself as your continued usage of “heymammy.com” after changes mean you agree to be legally bound by these terms as they are updated and/or amended.
+	<br><br>
+	Our forums are powered by phpBB (hereinafter “they”, “them”, “their”, “phpBB software”, “www.phpbb.com”, “phpBB Limited”, “phpBB Teams”) which is a bulletin board solution released under the “<a href="http://opensource.org/licenses/gpl-2.0.php">GNU General Public License v2</a>” (hereinafter “GPL”) and can be downloaded from <a href="https://www.phpbb.com/">www.phpbb.com</a>. The phpBB software only facilitates internet based discussions; phpBB Limited is not responsible for what we allow and/or disallow as permissible content and/or conduct. For further information about phpBB, please see: <a href="https://www.phpbb.com/">https://www.phpbb.com/</a>.
+	<br><br>
+	You agree not to post any abusive, obscene, vulgar, slanderous, hateful, threatening, sexually-orientated or any other material that may violate any laws be it of your country, the country where “heymammy.com” is hosted or International Law. Doing so may lead to you being immediately and permanently banned, with notification of your Internet Service Provider if deemed required by us. The IP address of all posts are recorded to aid in enforcing these conditions. You agree that “heymammy.com” have the right to remove, edit, move or close any topic at any time should we see fit. As a user you agree to any information you have entered to being stored in a database. While this information will not be disclosed to any third party without your consent, neither “heymammy.com” nor phpBB shall be held responsible for any hacking attempt that may lead to the data being compromised.
+	</div>
+		</div>
+		</div>
+	</div>
+
+
+			</div>
+
+
+<div id="page-footer" class="page-footer" role="contentinfo">
+	<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-footer" class="nav-footer linklist" role="menubar">
+		<li class="breadcrumbs">
+									<span class="crumb"><a href="./index.php?sid=ae144c09172403f282da383c0517a341" data-navbar-reference="index"><i class="icon fa-home fa-fw" aria-hidden="true"></i><span>Board index</span></a></span>					</li>
+		
+				<li class="rightside">All times are <span title="UTC+1">UTC+01:00</span></li>
+							<li class="rightside">
+				<a href="./ucp.php?mode=delete_cookies&amp;sid=ae144c09172403f282da383c0517a341" data-ajax="true" data-refresh="true" role="menuitem">
+					<i class="icon fa-trash fa-fw" aria-hidden="true"></i><span>Delete cookies</span>
+				</a>
+			</li>
+																<li class="rightside" data-last-responsive="true">
+				<a href="./memberlist.php?mode=contactadmin&amp;sid=ae144c09172403f282da383c0517a341" role="menuitem">
+					<i class="icon fa-envelope fa-fw" aria-hidden="true"></i><span>Contact us</span>
+				</a>
+			</li>
+			</ul>
+
+	</div>
+</div>
+
+	<div class="copyright">
+				Developer Style from the Gaming <a href="https://forum-gta.ru/">GTA</a> Forum.
+		<p class="footer-row">
+			<span class="footer-copyright">Powered by <a href="https://www.phpbb.com/">phpBB</a>&reg; Forum Software &copy; phpBB Limited</span>
+		</p>
+						<p class="footer-row" role="menu">
+			<a class="footer-link" href="./ucp.php?mode=privacy&amp;sid=ae144c09172403f282da383c0517a341" title="Privacy" role="menuitem">
+				<span class="footer-link-text">Privacy</span>
+			</a>
+			|
+			<a class="footer-link" href="./ucp.php?mode=terms&amp;sid=ae144c09172403f282da383c0517a341" title="Terms" role="menuitem">
+				<span class="footer-link-text">Terms</span>
+			</a>
+		</p>
+					</div>
+
+	<div id="darkenwrapper" class="darkenwrapper" data-ajax-error-title="AJAX error" data-ajax-error-text="Something went wrong when processing your request." data-ajax-error-text-abort="User aborted request." data-ajax-error-text-timeout="Your request timed out; please try again." data-ajax-error-text-parsererror="Something went wrong with the request and the server returned an invalid reply.">
+		<div id="darken" class="darken">&nbsp;</div>
+	</div>
+
+	<div id="phpbb_alert" class="phpbb_alert" data-l-err="Error" data-l-timeout-processing-req="Request timed out.">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<h3 class="alert_title">&nbsp;</h3><p class="alert_text"></p>
+	</div>
+	<div id="phpbb_confirm" class="phpbb_alert">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<div class="alert_text"></div>
+	</div>
+</div>
+
+</div>
+
+<div>
+	<a id="bottom" class="anchor" accesskey="z"></a>
+	</div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>window.jQuery || document.write('\x3Cscript src="./assets/javascript/jquery-3.6.0.min.js?assets_version=76">\x3C/script>');</script><script src="./assets/javascript/core.js?assets_version=76"></script>
+	<script>
+		(function($){
+			var $fa_cdn = $('head').find('link[rel="stylesheet"]').first(),
+				$span = $('<span class="fa" style="display:none"></span>').appendTo('body');
+			if ($span.css('fontFamily') !== 'FontAwesome' ) {
+				$fa_cdn.after('<link href="./assets/css/font-awesome.min.css" rel="stylesheet">');
+				$fa_cdn.remove();
+			}
+			$span.remove();
+		})(jQuery);
+	</script>
+
+
+
+<script src="./ext/naguissa/thanksforposts/styles/all/theme/thanks.js?assets_version=76"></script>
+<script src="./styles/prosilver/template/forum_fn.js?assets_version=76"></script>
+<script src="./styles/prosilver/template/ajax.js?assets_version=76"></script>
+<script src="./styles/SUBSILVER/template/jquery-ui.js?assets_version=76"></script>
+<script src="./styles/SUBSILVER/template/collapse.js?assets_version=76"></script>
+<script src="https://unpkg.com/details-element-polyfill@2.4.0/dist/details-element-polyfill.js"></script>
+<script src="./ext/alfredoramos/simplespoiler/styles/all/theme/js/spoiler.js?assets_version=76"></script>
+
+
+
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a4f8f781ce3fdd68',t:'MTc5Mjg0NDc1NA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

@@ -1,0 +1,129 @@
+{
+  "question": {
+    "tags": [
+      "infant",
+      "formula"
+    ],
+    "owner": {
+      "account_id": 19221869,
+      "reputation": 31,
+      "user_id": 39272,
+      "user_type": "unregistered",
+      "profile_image": "https://www.gravatar.com/avatar/0ef7300c2b93bd402273744d897f29d2?s=256&d=identicon&r=PG",
+      "display_name": "Emily Smith",
+      "link": "https://parenting.stackexchange.com/users/39272/emily-smith"
+    },
+    "is_answered": true,
+    "view_count": 6034,
+    "answer_count": 1,
+    "score": 3,
+    "last_activity_date": 1597349466,
+    "creation_date": 1596511415,
+    "last_edit_date": 1597349466,
+    "question_id": 40302,
+    "content_license": "CC BY-SA 4.0",
+    "link": "https://parenting.stackexchange.com/questions/40302/enfamil-powder-left-outside-in-heat",
+    "title": "Enfamil Powder Left Outside in Heat",
+    "body": "<p>I had the Enfamil formula delivered to my house when I was out of town. The temperature was a high of 108F that day and it was sitting outside for the day before I got home to take it in. Can I use that formula powder now or did it go bad?</p>\n"
+  },
+  "answers": [
+    {
+      "owner": {
+        "account_id": 939235,
+        "reputation": 5323,
+        "user_id": 33055,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/zOso6.jpg?s=256",
+        "display_name": "Timur Shtatland",
+        "link": "https://parenting.stackexchange.com/users/33055/timur-shtatland"
+      },
+      "is_accepted": false,
+      "score": 8,
+      "last_activity_date": 1596728668,
+      "last_edit_date": 1596728668,
+      "creation_date": 1596582354,
+      "answer_id": 40305,
+      "question_id": 40302,
+      "content_license": "CC BY-SA 4.0",
+      "body": "<p><strong>You should contact the manufacturer directly.</strong> Stability of infant formulas depends on many factors including the amount and type of fats in the formula. The storage conditions on the can are often not very specific. Some cans say to store at room temperature and to avoid excessive heat. Such directions are only somewhat helpful in your case.</p>\n<p>Some other common sense considerations are that there are many areas in the world with temperatures such as 108F or above being common. Shipping to these areas in mostly non refrigerated trucks probably subjects the infant formula to such high temperatures for extended time, with exposures for a day probably being routine. So if 108F for a day were a huge problem, the established manufacturers would have heard multiple complaints by now.</p>\n<p>Finally, FWIW, there is one published study of one common type of “spoilage”, fat autoxidation, during storage of powdered infant formula, albeit from a different manufacturer. The researchers found no evidence of fat autoxidation up to 55C (131F) for 3 days, which is higher than the temperature in your case (108F).</p>\n<p><strong>Reference:</strong></p>\n<p><em>Cesa S, Casadei MA, Cerreto F, Paolicelli P. Infant Milk Formulas: Effect of Storage Conditions on the Stability of Powdered Products towards Autoxidation. Foods. 2015;4(3):487-500. Published 2015 Sep 22. doi:10.3390/foods4030487 : <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5224537/\" rel=\"noreferrer\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5224537/</a></em></p>\n<hr />\n<p><strong>DETAILS:</strong></p>\n<p><a href=\"https://i.sstatic.net/JkToQ.jpg\" rel=\"noreferrer\"><img src=\"https://i.sstatic.net/JkToQ.jpg\" alt=\"Figure 1 from Cesa et al., 2015\" /></a></p>\n<p>Figure 1 from Cesa <em>et al.</em>, 2015. Nanograms of malondialdehyde (MDA) found in 1 g of infant milk formula stored at 55 °C sealed in the original package. Error bars are relative standard deviation (%RSD). <em>Note: malondialdehyde (MDA) is the most important secondary product of fat autoxidation, and is usually used as an indicator of fat autoxidation. Fat autoxidation is one of the major types of &quot;spoilage&quot; of powdered infant formulas in <strong>sealed, unopened</strong> cans.</em></p>\n"
+    }
+  ],
+  "comments": [
+    {
+      "owner": {
+        "account_id": 8049,
+        "reputation": 10334,
+        "user_id": 147,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.sstatic.net/UNO2C.jpg?s=256",
+        "display_name": "deworde",
+        "link": "https://parenting.stackexchange.com/users/147/deworde"
+      },
+      "edited": false,
+      "score": 2,
+      "creation_date": 1596529899,
+      "post_id": 40302,
+      "comment_id": 84265,
+      "content_license": "CC BY-SA 4.0",
+      "body": "Hi Emily, I think with a question of child safety, any responsible answer would simply direct you to either the <a href=\"https://www.enfamil.com/\" rel=\"nofollow noreferrer\">Enfamil website</a> or to the guidelines on the product. For the same reason the site doesn&#39;t allow medical advice: if someone told you X would be fine and your child got sick (or if someone with a subtly different situation misapplied that advice), that would be appalling."
+    },
+    {
+      "owner": {
+        "account_id": 3674367,
+        "reputation": 72549,
+        "user_id": 9327,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://i.sstatic.net/jlp4Q.png?s=256",
+        "display_name": "anongoodnurse",
+        "link": "https://parenting.stackexchange.com/users/9327/anongoodnurse"
+      },
+      "edited": false,
+      "score": 0,
+      "creation_date": 1596564702,
+      "post_id": 40302,
+      "comment_id": 84270,
+      "content_license": "CC BY-SA 4.0",
+      "body": "@Emily, Can you please edit your post to include how old your baby is, what the &quot;best by&quot; and &quot;use by&quot; dates are on your can, and whether the baby is formula fed, or if you only supplement breastfeeding? Was the package in the sun or the shade? Thanks."
+    },
+    {
+      "owner": {
+        "account_id": 460022,
+        "reputation": 13472,
+        "user_id": 4348,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/180e84ff9ac31adb32548846e6cc9702?s=256&d=identicon&r=PG",
+        "display_name": "SomeShinyObject",
+        "link": "https://parenting.stackexchange.com/users/4348/someshinyobject"
+      },
+      "edited": false,
+      "score": 0,
+      "creation_date": 1596607238,
+      "post_id": 40302,
+      "comment_id": 84273,
+      "content_license": "CC BY-SA 4.0",
+      "body": "Comments are not for extended discussion; this conversation has been <a href=\"https://chat.stackexchange.com/rooms/111434/discussion-on-question-by-emily-smith-enfamil-powder-left-outside-in-heat\">moved to chat</a>."
+    },
+    {
+      "owner": {
+        "account_id": 3674367,
+        "reputation": 72549,
+        "user_id": 9327,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://i.sstatic.net/jlp4Q.png?s=256",
+        "display_name": "anongoodnurse",
+        "link": "https://parenting.stackexchange.com/users/9327/anongoodnurse"
+      },
+      "edited": false,
+      "score": 1,
+      "creation_date": 1596661570,
+      "post_id": 40305,
+      "comment_id": 84280,
+      "content_license": "CC BY-SA 4.0",
+      "body": "Great common sense (and researched) answer! Formula &quot;going bad&quot; is usually one of two things: bacterial contamination (can&#39;t be the case in an unopened can, but is once mixed) and rancidity (fat oxidation.) There is a point at which nutrients (e.g. proteins) can degrade, but not in one day."
+    }
+  ]
+}

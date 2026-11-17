@@ -1,0 +1,249 @@
+id	label	job	reason
+39411	drop	clinical	Requests infant vitamin supplementation dose and benefit.
+39418	drop	outside_scope	Older-child behavior, school learning, paternity or relationship question without a concrete infant/pregnancy preparation job.
+39425	drop	individual_safety	Individual injury, poisoning, physiological safety or sleep-safety determination; outside ordinary practical-report scope.
+39445	drop	personal_reproductive_family_choice	Personal reproductive or paternity-disclosure decision, outside practical preparation report scope.
+39471	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+39479	keep	registry	Concrete gear, household preparation, maintenance, budget or product-claim decision; inspect full discussion for practical and free alternatives.
+39486	drop	safety_or_sensitive	Sensitive minor/abuse, violence, complex clinical disability, acute distress, coercive-control, legal or crisis-centered account; excluded without quotation.
+39499	drop	safety_or_sensitive	Sensitive minor/abuse, violence, complex clinical disability, acute distress, coercive-control, legal or crisis-centered account; excluded without quotation.
+39509	drop	outside_scope	Older-child behavior, school learning, paternity or relationship question without a concrete infant/pregnancy preparation job.
+39519	drop	outside_scope	Older-child behavior, school learning, paternity or relationship question without a concrete infant/pregnancy preparation job.
+39571	keep	other_travel	Concrete baby-travel logistics and equipment constraints; retain practical alternatives, not medical clearance.
+39575	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+39604	drop	individual_safety	Individual injury, poisoning, physiological safety or sleep-safety determination; outside ordinary practical-report scope.
+39607	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+39642	drop	safety_or_sensitive	Sensitive minor/abuse, violence, complex clinical disability, acute distress, coercive-control, legal or crisis-centered account; excluded without quotation.
+39678	keep	registry	Concrete gear, household preparation, maintenance, budget or product-claim decision; inspect full discussion for practical and free alternatives.
+39714	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+39719	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+39721	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+39747	drop	personal_reproductive_family_choice	Personal reproductive or paternity-disclosure decision, outside practical preparation report scope.
+39751	drop	individual_safety	Individual injury, poisoning, physiological safety or sleep-safety determination; outside ordinary practical-report scope.
+39753	keep	pumping_work	Return-to-work, childcare handoff or simultaneous work/care constraint; inspect full content for clinical exclusions.
+39759	keep	play	Concrete awake interaction, activity or learning-resource decision; retain capability limits and low-cost countervoices.
+39779	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+39796	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+39801	keep	postpartum	Household preparation, sibling transition, caregiving boundaries or practical shared support; safety reconsidered at full read.
+39804	keep	play	Concrete awake interaction, activity or learning-resource decision; retain capability limits and low-cost countervoices.
+39838	drop	safety_or_sensitive	Sensitive minor/abuse, violence, complex clinical disability, acute distress, coercive-control, legal or crisis-centered account; excluded without quotation.
+39839	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+39853	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+39854	keep	registry	Concrete gear, household preparation, maintenance, budget or product-claim decision; inspect full discussion for practical and free alternatives.
+39895	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+39925	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+39932	drop	outside_scope	Older-child behavior, school learning, paternity or relationship question without a concrete infant/pregnancy preparation job.
+39938	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+39955	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+40024	drop	outside_scope	Older-child behavior, school learning, paternity or relationship question without a concrete infant/pregnancy preparation job.
+40051	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+40055	drop	safety_or_sensitive	Sensitive minor/abuse, violence, complex clinical disability, acute distress, coercive-control, legal or crisis-centered account; excluded without quotation.
+40070	keep	other_weaning_boundaries	Parent requests a concrete transition after a failed free method and feeling touched out; no lactation-treatment guidance.
+40100	drop	outside_scope	Older-child behavior, school learning, paternity or relationship question without a concrete infant/pregnancy preparation job.
+40123	keep	registry	Concrete gear, household preparation, maintenance, budget or product-claim decision; inspect full discussion for practical and free alternatives.
+40126	drop	outside_scope	Older-child behavior, school learning, paternity or relationship question without a concrete infant/pregnancy preparation job.
+40152	drop	outside_scope	Older-child behavior, school learning, paternity or relationship question without a concrete infant/pregnancy preparation job.
+40158	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+40173	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+40177	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+40206	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+40220	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+40226	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+40246	drop	individual_safety	Individual injury, poisoning, physiological safety or sleep-safety determination; outside ordinary practical-report scope.
+40257	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+40302	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+40318	drop	safety_or_sensitive	Sensitive minor/abuse, violence, complex clinical disability, acute distress, coercive-control, legal or crisis-centered account; excluded without quotation.
+40332	keep	solids	Concrete everyday food transition, meal planning, feeding-tool or family-mealtime friction; no individualized treatment protocols.
+40334	keep	play	Concrete awake interaction, activity or learning-resource decision; retain capability limits and low-cost countervoices.
+40388	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+40394	keep	registry	Concrete gear, household preparation, maintenance, budget or product-claim decision; inspect full discussion for practical and free alternatives.
+40400	drop	safety_or_sensitive	Sensitive minor/abuse, violence, complex clinical disability, acute distress, coercive-control, legal or crisis-centered account; excluded without quotation.
+40419	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+40435	drop	safety_or_sensitive	Sensitive minor/abuse, violence, complex clinical disability, acute distress, coercive-control, legal or crisis-centered account; excluded without quotation.
+40444	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+40464	keep	solids	Concrete everyday food transition, meal planning, feeding-tool or family-mealtime friction; no individualized treatment protocols.
+40507	keep	play	Concrete awake interaction, activity or learning-resource decision; retain capability limits and low-cost countervoices.
+40509	drop	safety_or_sensitive	Sensitive minor/abuse, violence, complex clinical disability, acute distress, coercive-control, legal or crisis-centered account; excluded without quotation.
+40522	drop	individual_safety	Individual injury, poisoning, physiological safety or sleep-safety determination; outside ordinary practical-report scope.
+40548	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+40575	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+40576	keep	other_caregiver_environment	Concrete baby interaction or household/caregiver adaptation; not a diagnostic question.
+40584	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+40611	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+40613	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+40615	keep	pumping_work	Return-to-work, childcare handoff or simultaneous work/care constraint; inspect full content for clinical exclusions.
+40617	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+40646	keep	play	Concrete awake interaction, activity or learning-resource decision; retain capability limits and low-cost countervoices.
+40677	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+40721	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+40753	keep	other_newborn_admin	Concrete newborn paperwork and insurance timing problem; historical process claims remain unverified.
+40769	keep	play	Concrete awake interaction, activity or learning-resource decision; retain capability limits and low-cost countervoices.
+40771	keep	play	Concrete awake interaction, activity or learning-resource decision; retain capability limits and low-cost countervoices.
+40806	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+40814	drop	safety_or_sensitive	Sensitive minor/abuse, violence, complex clinical disability, acute distress, coercive-control, legal or crisis-centered account; excluded without quotation.
+40815	keep	registry	Concrete gear, household preparation, maintenance, budget or product-claim decision; inspect full discussion for practical and free alternatives.
+40875	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+40972	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+40977	drop	individual_safety	Individual injury, poisoning, physiological safety or sleep-safety determination; outside ordinary practical-report scope.
+40990	keep	solids	Concrete everyday food transition, meal planning, feeding-tool or family-mealtime friction; no individualized treatment protocols.
+41017	keep	solids	Concrete everyday food transition, meal planning, feeding-tool or family-mealtime friction; no individualized treatment protocols.
+41034	keep	play	Concrete awake interaction, activity or learning-resource decision; retain capability limits and low-cost countervoices.
+41053	keep	play	Concrete awake interaction, activity or learning-resource decision; retain capability limits and low-cost countervoices.
+41090	keep	play	Concrete awake interaction, activity or learning-resource decision; retain capability limits and low-cost countervoices.
+41100	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+41187	drop	outside_scope	Older-child behavior, school learning, paternity or relationship question without a concrete infant/pregnancy preparation job.
+41204	keep	play	Concrete awake interaction, activity or learning-resource decision; retain capability limits and low-cost countervoices.
+41213	drop	safety_or_sensitive	Sensitive minor/abuse, violence, complex clinical disability, acute distress, coercive-control, legal or crisis-centered account; excluded without quotation.
+41214	keep	other_caregiver_environment	Concrete baby interaction or household/caregiver adaptation; not a diagnostic question.
+41259	keep	postpartum	Household preparation, sibling transition, caregiving boundaries or practical shared support; safety reconsidered at full read.
+41275	keep	other_caregiver_environment	Concrete baby interaction or household/caregiver adaptation; not a diagnostic question.
+41305	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+41352	keep	postpartum	Household preparation, sibling transition, caregiving boundaries or practical shared support; safety reconsidered at full read.
+41358	keep	play	Concrete awake interaction, activity or learning-resource decision; retain capability limits and low-cost countervoices.
+41373	drop	outside_scope	Older-child behavior, school learning, paternity or relationship question without a concrete infant/pregnancy preparation job.
+41374	drop	safety_or_sensitive	Sensitive minor/abuse, violence, complex clinical disability, acute distress, coercive-control, legal or crisis-centered account; excluded without quotation.
+41459	keep	solids	Concrete everyday food transition, meal planning, feeding-tool or family-mealtime friction; no individualized treatment protocols.
+41461	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+41475	drop	safety_or_sensitive	Sensitive minor/abuse, violence, complex clinical disability, acute distress, coercive-control, legal or crisis-centered account; excluded without quotation.
+41500	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+41506	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+41511	keep	play	Concrete awake interaction, activity or learning-resource decision; retain capability limits and low-cost countervoices.
+41524	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+41530	keep	pumping_work	Return-to-work, childcare handoff or simultaneous work/care constraint; inspect full content for clinical exclusions.
+41573	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+41575	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+41580	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+41610	keep	postpartum	Household preparation, sibling transition, caregiving boundaries or practical shared support; safety reconsidered at full read.
+41639	drop	outside_scope	Older-child behavior, school learning, paternity or relationship question without a concrete infant/pregnancy preparation job.
+41680	drop	outside_scope	Older-child behavior, school learning, paternity or relationship question without a concrete infant/pregnancy preparation job.
+41689	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+41691	drop	outside_scope	Older-child behavior, school learning, paternity or relationship question without a concrete infant/pregnancy preparation job.
+41695	drop	safety_or_sensitive	Sensitive minor/abuse, violence, complex clinical disability, acute distress, coercive-control, legal or crisis-centered account; excluded without quotation.
+41707	drop	safety_or_sensitive	Sensitive minor/abuse, violence, complex clinical disability, acute distress, coercive-control, legal or crisis-centered account; excluded without quotation.
+41767	keep	registry	Concrete gear, household preparation, maintenance, budget or product-claim decision; inspect full discussion for practical and free alternatives.
+41819	drop	safety_or_sensitive	Sensitive minor/abuse, violence, complex clinical disability, acute distress, coercive-control, legal or crisis-centered account; excluded without quotation.
+41852	drop	safety_or_sensitive	Sensitive minor/abuse, violence, complex clinical disability, acute distress, coercive-control, legal or crisis-centered account; excluded without quotation.
+41867	drop	individual_safety	Individual injury, poisoning, physiological safety or sleep-safety determination; outside ordinary practical-report scope.
+41883	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+41901	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+41928	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+41943	keep	registry	Concrete gear, household preparation, maintenance, budget or product-claim decision; inspect full discussion for practical and free alternatives.
+41948	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+41949	drop	individual_safety	Individual injury, poisoning, physiological safety or sleep-safety determination; outside ordinary practical-report scope.
+41951	keep	other_travel	Concrete baby-travel logistics and equipment constraints; retain practical alternatives, not medical clearance.
+41967	keep	postpartum	Household preparation, sibling transition, caregiving boundaries or practical shared support; safety reconsidered at full read.
+41984	drop	individual_safety	Individual injury, poisoning, physiological safety or sleep-safety determination; outside ordinary practical-report scope.
+42001	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+42008	keep	play	Concrete awake interaction, activity or learning-resource decision; retain capability limits and low-cost countervoices.
+42021	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+42024	keep	postpartum	Household preparation, sibling transition, caregiving boundaries or practical shared support; safety reconsidered at full read.
+42025	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+42060	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+42068	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+42085	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+42111	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+42112	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+42120	keep	registry	Concrete gear, household preparation, maintenance, budget or product-claim decision; inspect full discussion for practical and free alternatives.
+42148	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+42153	keep	solids	Concrete everyday food transition, meal planning, feeding-tool or family-mealtime friction; no individualized treatment protocols.
+42158	keep	solids	Concrete everyday food transition, meal planning, feeding-tool or family-mealtime friction; no individualized treatment protocols.
+42166	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+42170	keep	play	Concrete awake interaction, activity or learning-resource decision; retain capability limits and low-cost countervoices.
+42177	keep	pumping_work	Return-to-work, childcare handoff or simultaneous work/care constraint; inspect full content for clinical exclusions.
+42186	drop	individual_safety	Individual injury, poisoning, physiological safety or sleep-safety determination; outside ordinary practical-report scope.
+42213	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+42221	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+42226	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+42227	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+42252	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+42275	keep	other_travel	Concrete baby-travel logistics and equipment constraints; retain practical alternatives, not medical clearance.
+42293	keep	registry	Concrete gear, household preparation, maintenance, budget or product-claim decision; inspect full discussion for practical and free alternatives.
+42366	drop	safety_or_sensitive	Sensitive minor/abuse, violence, complex clinical disability, acute distress, coercive-control, legal or crisis-centered account; excluded without quotation.
+42370	drop	outside_scope	Older-child behavior, school learning, paternity or relationship question without a concrete infant/pregnancy preparation job.
+42371	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+42387	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+42391	drop	outside_scope	Personal naming preference and family relationship grievance without a concrete baby-preparation artifact job.
+42397	keep	postpartum	Household preparation, sibling transition, caregiving boundaries or practical shared support; safety reconsidered at full read.
+42416	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+42427	keep	play	Concrete awake interaction, activity or learning-resource decision; retain capability limits and low-cost countervoices.
+42454	drop	individual_safety	Individual injury, poisoning, physiological safety or sleep-safety determination; outside ordinary practical-report scope.
+42490	keep	play	Concrete awake interaction, activity or learning-resource decision; retain capability limits and low-cost countervoices.
+42509	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+42537	drop	individual_safety	Individual injury, poisoning, physiological safety or sleep-safety determination; outside ordinary practical-report scope.
+42664	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+42691	keep	registry	Concrete gear, household preparation, maintenance, budget or product-claim decision; inspect full discussion for practical and free alternatives.
+42695	keep	solids	Concrete everyday food transition, meal planning, feeding-tool or family-mealtime friction; no individualized treatment protocols.
+42726	keep	postpartum	Household preparation, sibling transition, caregiving boundaries or practical shared support; safety reconsidered at full read.
+42730	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+42737	drop	safety_or_sensitive	Sensitive minor/abuse, violence, complex clinical disability, acute distress, coercive-control, legal or crisis-centered account; excluded without quotation.
+42745	keep	registry	Concrete gear, household preparation, maintenance, budget or product-claim decision; inspect full discussion for practical and free alternatives.
+42782	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+42801	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+42821	drop	individual_safety	Individual injury, poisoning, physiological safety or sleep-safety determination; outside ordinary practical-report scope.
+42832	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+42844	keep	solids	Concrete everyday food transition, meal planning, feeding-tool or family-mealtime friction; no individualized treatment protocols.
+42847	drop	individual_safety	Individual injury, poisoning, physiological safety or sleep-safety determination; outside ordinary practical-report scope.
+42868	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+42884	keep	play	Concrete awake interaction, activity or learning-resource decision; retain capability limits and low-cost countervoices.
+42912	drop	outside_scope	Older-child behavior, school learning, paternity or relationship question without a concrete infant/pregnancy preparation job.
+42919	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+42929	keep	solids	Concrete everyday food transition, meal planning, feeding-tool or family-mealtime friction; no individualized treatment protocols.
+42951	keep	registry	Concrete gear, household preparation, maintenance, budget or product-claim decision; inspect full discussion for practical and free alternatives.
+42961	keep	solids	Concrete everyday food transition, meal planning, feeding-tool or family-mealtime friction; no individualized treatment protocols.
+42964	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+42976	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+43000	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+43013	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+43015	keep	other_travel	Concrete baby-travel logistics and equipment constraints; retain practical alternatives, not medical clearance.
+43029	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+43047	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+43053	keep	registry	Concrete gear, household preparation, maintenance, budget or product-claim decision; inspect full discussion for practical and free alternatives.
+43076	keep	solids	Concrete everyday food transition, meal planning, feeding-tool or family-mealtime friction; no individualized treatment protocols.
+43078	keep	other_caregiver_environment	Concrete baby interaction or household/caregiver adaptation; not a diagnostic question.
+43199	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+43217	keep	play	Concrete awake interaction, activity or learning-resource decision; retain capability limits and low-cost countervoices.
+43286	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+43330	keep	solids	Concrete everyday food transition, meal planning, feeding-tool or family-mealtime friction; no individualized treatment protocols.
+43337	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+43347	keep	pumping_work	Bottle-transition methods and tool attempts with sleep/supply worry; inspect complete thread for clinical boundaries.
+43358	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+43369	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+43405	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+43424	keep	pumping_work	Return-to-work, childcare handoff or simultaneous work/care constraint; inspect full content for clinical exclusions.
+43450	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+43460	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+43467	drop	safety_or_sensitive	Sensitive minor/abuse, violence, complex clinical disability, acute distress, coercive-control, legal or crisis-centered account; excluded without quotation.
+43474	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+43507	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+43517	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+43564	keep	solids	Concrete everyday food transition, meal planning, feeding-tool or family-mealtime friction; no individualized treatment protocols.
+43599	keep	postpartum	Household preparation, sibling transition, caregiving boundaries or practical shared support; safety reconsidered at full read.
+43624	keep	solids	Concrete everyday food transition, meal planning, feeding-tool or family-mealtime friction; no individualized treatment protocols.
+43646	drop	outside_scope	Older-child behavior, school learning, paternity or relationship question without a concrete infant/pregnancy preparation job.
+43664	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+43688	keep	registry	Concrete gear, household preparation, maintenance, budget or product-claim decision; inspect full discussion for practical and free alternatives.
+43761	keep	registry	Concrete gear, household preparation, maintenance, budget or product-claim decision; inspect full discussion for practical and free alternatives.
+43812	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+43839	keep	pumping_work	Return-to-work, childcare handoff or simultaneous work/care constraint; inspect full content for clinical exclusions.
+43846	drop	outside_scope	Older-child behavior, school learning, paternity or relationship question without a concrete infant/pregnancy preparation job.
+43919	keep	registry	Concrete gear, household preparation, maintenance, budget or product-claim decision; inspect full discussion for practical and free alternatives.
+43932	keep	postpartum	Household preparation, sibling transition, caregiving boundaries or practical shared support; safety reconsidered at full read.
+43950	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+43989	drop	safety_or_sensitive	Sensitive minor/abuse, violence, complex clinical disability, acute distress, coercive-control, legal or crisis-centered account; excluded without quotation.
+44019	keep	pumping_work	Return-to-work, childcare handoff or simultaneous work/care constraint; inspect full content for clinical exclusions.
+44091	keep	registry	Concrete gear, household preparation, maintenance, budget or product-claim decision; inspect full discussion for practical and free alternatives.
+44103	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+44105	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+44146	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+44197	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+44312	keep	solids	Concrete everyday food transition, meal planning, feeding-tool or family-mealtime friction; no individualized treatment protocols.
+44360	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+44407	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+44419	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+44455	keep	sleep	Ordinary household sleep routine, tool expectations, failed attempts or shared-care constraints; no clinical recommendation or sleep guarantee.
+44459	keep	registry	Concrete gear, household preparation, maintenance, budget or product-claim decision; inspect full discussion for practical and free alternatives.
+44481	drop	outside_scope	Older-child behavior, school learning, paternity or relationship question without a concrete infant/pregnancy preparation job.
+44521	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+44534	drop	clinical	Primary question is individualized symptoms, growth, feeding adequacy, medicines, nutritional/physiological effects or clinician-directed care; no clinical instructions harvested for marketing.
+44570	drop	individual_safety	Individual injury, poisoning, physiological safety or sleep-safety determination; outside ordinary practical-report scope.
+47011	keep	postpartum	Household preparation, sibling transition, caregiving boundaries or practical shared support; safety reconsidered at full read.

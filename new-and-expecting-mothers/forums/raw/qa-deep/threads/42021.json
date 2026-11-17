@@ -1,0 +1,70 @@
+{
+  "question": {
+    "tags": [
+      "newborn",
+      "health",
+      "growth"
+    ],
+    "owner": {
+      "account_id": 4249802,
+      "reputation": 425,
+      "user_id": 41828,
+      "user_type": "registered",
+      "profile_image": "https://i.sstatic.net/ZJz2Z.png?s=256",
+      "display_name": "Asaprab",
+      "link": "https://parenting.stackexchange.com/users/41828/asaprab"
+    },
+    "is_answered": true,
+    "view_count": 253,
+    "answer_count": 1,
+    "score": 2,
+    "last_activity_date": 1635094474,
+    "creation_date": 1634111118,
+    "question_id": 42021,
+    "content_license": "CC BY-SA 4.0",
+    "link": "https://parenting.stackexchange.com/questions/42021/does-my-baby-grow-enough",
+    "title": "Does my baby grow enough?",
+    "body": "<p>I'm curious about the growth of my 2 months oldie. At birth he's 3.2kg and 56cm in length. After 2 months he's 62cm in height and weigh 4.6kg. In growth chart he's in the green line. But I'm worried because I always see he is very small in size. How does he grow inside, but without appearing outside?</p>\n"
+  },
+  "answers": [
+    {
+      "owner": {
+        "account_id": 20553,
+        "reputation": 10800,
+        "user_id": 7798,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/431cd43aaf713caa80316e852a87a840?s=256&d=identicon&r=PG",
+        "display_name": "Paul Johnson",
+        "link": "https://parenting.stackexchange.com/users/7798/paul-johnson"
+      },
+      "is_accepted": false,
+      "score": 4,
+      "last_activity_date": 1634117546,
+      "creation_date": 1634117546,
+      "answer_id": 42022,
+      "question_id": 42021,
+      "content_license": "CC BY-SA 4.0",
+      "body": "<p>Part of the answer is maths. Your baby is growing in all three dimensions, not just height. Growth in height from 56cm to 62cm is an 11% increase. An 11% increase in all 3 dimensions multiplies up to a 36% increase in volume, and hence weight.</p>\n<p>3.2kg plus 36% works out to 4.3kg, which is not far from the 4.6kg he actually is. The extra is because he is putting more flesh on his bones (and hence becoming chubbier) rather than making the bones longer.</p>\n<p>As for the question &quot;is he growing enough?&quot;, as long as he is on the curve I wouldn't worry. Because you see him every day you don't notice his growth. If you had to leave him with someone else for a week then when you got back you would doubtless think &quot;gosh, he got so much bigger&quot;. Try taking some photos and looking back later on to see what I mean.</p>\n<p>You will also find that growth in height often comes in spurts; he'll stay about the same for a while, and then suddenly (over a month or so) shoot up taller.</p>\n"
+    }
+  ],
+  "comments": [
+    {
+      "owner": {
+        "account_id": 22334634,
+        "reputation": 21,
+        "user_id": 41963,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/965af6b8df662e0ff0bce24443341338?s=256&d=identicon&r=PG",
+        "display_name": "Irene",
+        "link": "https://parenting.stackexchange.com/users/41963/irene"
+      },
+      "edited": false,
+      "score": 0,
+      "creation_date": 1635094474,
+      "post_id": 42021,
+      "comment_id": 89692,
+      "content_license": "CC BY-SA 4.0",
+      "body": "@Paul Johnson provided a great answer. I would like to add that children grow unevenly; you can notice the same changes in teenagers. If you want to understand infants better, I highly recommend reading <b>&quot;The First Twelve Months of Life: Your Baby&#39;s Growth Month by Month Mass Market Paperback&quot;</b> by <i>Frank Caplan</i>. This book is quite old but still classic that helps parents through the years."
+    }
+  ]
+}

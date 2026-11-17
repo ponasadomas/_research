@@ -1,0 +1,68 @@
+{
+  "url": "https://www.justparents.co.uk/forums/topic-6434/",
+  "title": "Manitoba's new resort",
+  "listed_replies": 1,
+  "last_reply_as_displayed": "18 years ago by hapydazy",
+  "board": "activities",
+  "listing_raw_file": "_raw/forums-deep/justparents/responses/640f3207066bccf8a1ac.html",
+  "thread_id": "jp-6434",
+  "pagination_complete": true,
+  "visible_pages_fetched": 1,
+  "visible_post_count": 2,
+  "listed_expected_posts": 2,
+  "listed_count_matches": true,
+  "pages": [
+    {
+      "requested_url": "https://www.justparents.co.uk/forums/topic-6434/",
+      "final_url": "https://www.justparents.co.uk/forums/topic-6434/",
+      "status": 200,
+      "headers": {
+        "Date": "Sat, 24 Oct 2026 12:39:28 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Server": "cloudflare",
+        "Cache-Control": "private, no-store, no-cache, must-revalidate, max-age=0",
+        "pragma": "no-cache",
+        "expires": "0",
+        "Set-Cookie": "jp_session=1e8bd2ae4ddbd1ec29c1b3ddd6888255; path=/; secure; HttpOnly; SameSite=Lax",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=LQVOHGt8Ohni4KFxGzLsR8PDDx8v5o1PX%2BpScKSofjpVLXzY1VSQdyezSCm2uLfDe9o%2Brk3KMn2F9YRK2WKcgyJFTiY4daqTO2PlA2hUOJ6MbPT6WNBV3swKAiWiMZHkNcR5u7w39Us%3D\"}]}",
+        "cf-cache-status": "DYNAMIC",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Content-Encoding": "zstd",
+        "CF-RAY": "a4f90b616875e4e3-RIX",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "fetched_at": "2026-10-24T12:39:28.191807+00:00",
+      "bytes": 31511,
+      "sha256": "69bac8a235c58694a43f0069d2c429054c3f1d9faafbaa8b8634332e18a9f5a3",
+      "raw_file": "_raw/forums-deep/justparents/responses/f1f65cf3b61f3eb516e6.html"
+    }
+  ],
+  "posts": [
+    {
+      "post_id": "63184",
+      "author_handle": "glowingsun",
+      "date_as_displayed": "Posted 18 years 1 month ago",
+      "body": "Manitoba now has lux resort. i can't wait to try it out on my honeymoon one day. 😇",
+      "permalink": "https://www.justparents.co.uk/forums/topic-6434/#63184",
+      "raw_file": "_raw/forums-deep/justparents/responses/f1f65cf3b61f3eb516e6.html",
+      "page_url": "https://www.justparents.co.uk/forums/topic-6434/",
+      "role": "original_post",
+      "original_post_id": "63184"
+    },
+    {
+      "post_id": "63220",
+      "author_handle": "hapydazy",
+      "date_as_displayed": "Posted 18 years 1 month ago",
+      "body": "I'll have to keep it in mind for any customers I have that want a nice resort in Manitoba!  Good luck gettin there for your honeymoon someday!",
+      "permalink": "https://www.justparents.co.uk/forums/topic-6434/#63220",
+      "raw_file": "_raw/forums-deep/justparents/responses/f1f65cf3b61f3eb516e6.html",
+      "page_url": "https://www.justparents.co.uk/forums/topic-6434/",
+      "role": "response",
+      "original_post_id": "63184"
+    }
+  ]
+}

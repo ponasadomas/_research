@@ -1,0 +1,57 @@
+{
+  "url": "https://www.justparents.co.uk/forums/topic-9519/",
+  "title": "baby hasn't been immunised and has been invited to a party.",
+  "listed_replies": 0,
+  "last_reply_as_displayed": "14 years ago by jea",
+  "board": "baby",
+  "listing_raw_file": "_raw/forums-deep/justparents/responses/2a831e07472164cb29d8.html",
+  "thread_id": "jp-9519",
+  "pagination_complete": true,
+  "visible_pages_fetched": 1,
+  "visible_post_count": 1,
+  "listed_expected_posts": 1,
+  "listed_count_matches": true,
+  "pages": [
+    {
+      "requested_url": "https://www.justparents.co.uk/forums/topic-9519/",
+      "final_url": "https://www.justparents.co.uk/forums/topic-9519/",
+      "status": 200,
+      "headers": {
+        "Date": "Sat, 24 Oct 2026 12:32:54 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Server": "cloudflare",
+        "Cache-Control": "private, no-store, no-cache, must-revalidate, max-age=0",
+        "pragma": "no-cache",
+        "expires": "0",
+        "Set-Cookie": "jp_session=11cb9be642eb2551db3a0b1b25077db5; path=/; secure; HttpOnly; SameSite=Lax",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=aJe4NEXpDiqqBG6q7W%2Bgha9ZubtCBhfkOfufF%2BlnLB4EgmBS84PBWOa%2B8wBPxejYzGLaBFF%2Bnblc%2FtpiL1GJ5DTwqKL657dHxB4lbcbFBbsX%2BsWlLt5Z7ZSueNA4QlgZ%2BceSpVsx0Sc%3D\"}]}",
+        "cf-cache-status": "DYNAMIC",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Content-Encoding": "zstd",
+        "CF-RAY": "a4f901c37b7ea866-RIX",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "fetched_at": "2026-10-24T12:32:54.273543+00:00",
+      "bytes": 30612,
+      "sha256": "8f19cd62989fee3ac20111b481ebd779958a2f1635f4d4a26b2bf94e2a4945b1",
+      "raw_file": "_raw/forums-deep/justparents/responses/89f2974b90690b67fd66.html"
+    }
+  ],
+  "posts": [
+    {
+      "post_id": "84920",
+      "author_handle": "jea",
+      "date_as_displayed": "Posted 14 years 7 months ago",
+      "body": "Our baby hasn't had her 8 week injections yet as she has had a cold so I had to re-schedule for next week.  However my husband wants to take her to our neices 5th birthday party.  What is recommended?  Thanks.",
+      "permalink": "https://www.justparents.co.uk/forums/topic-9519/#84920",
+      "raw_file": "_raw/forums-deep/justparents/responses/89f2974b90690b67fd66.html",
+      "page_url": "https://www.justparents.co.uk/forums/topic-9519/",
+      "role": "original_post",
+      "original_post_id": "84920"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "url": "https://www.justparents.co.uk/forums/topic-10735/",
+  "title": "Work from home travel business",
+  "listed_replies": 1,
+  "last_reply_as_displayed": "8 years ago by Fillip",
+  "board": "work-childcare",
+  "listing_raw_file": "_raw/forums-deep/justparents/responses/8b1099b62f85f4640548.html",
+  "thread_id": "jp-10735",
+  "pagination_complete": true,
+  "visible_pages_fetched": 1,
+  "visible_post_count": 2,
+  "listed_expected_posts": 2,
+  "listed_count_matches": true,
+  "pages": [
+    {
+      "requested_url": "https://www.justparents.co.uk/forums/topic-10735/",
+      "final_url": "https://www.justparents.co.uk/forums/topic-10735/",
+      "status": 200,
+      "headers": {
+        "Date": "Sat, 24 Oct 2026 12:34:05 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Server": "cloudflare",
+        "Cache-Control": "private, no-store, no-cache, must-revalidate, max-age=0",
+        "pragma": "no-cache",
+        "expires": "0",
+        "Set-Cookie": "jp_session=523438e573a88bba94c7b1332f0a7131; path=/; secure; HttpOnly; SameSite=Lax",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=J0Z2RCKgCcWibTO8GfwO4LsgAB7Kt%2BNdLHjY8HEF79jcgZblykt7yp%2Fa5JO5wDxb7h3IP59jXWWfvMTKQt8RhbpOY3xOFnBVn2pK1%2BioaZ7wE0gCnPEofkaCl%2FfANDOzbkDWHavGpF0%3D\"}]}",
+        "cf-cache-status": "DYNAMIC",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Content-Encoding": "zstd",
+        "CF-RAY": "a4f9037fec7fe4dd-RIX",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "fetched_at": "2026-10-24T12:34:05.400602+00:00",
+      "bytes": 31323,
+      "sha256": "611bfd51da6bf776737379c39f4865b1f300f0e818391c15bbd545cdce2e6413",
+      "raw_file": "_raw/forums-deep/justparents/responses/d2513c137c99d9fd0fa3.html"
+    }
+  ],
+  "posts": [
+    {
+      "post_id": "91075",
+      "author_handle": "tlwtravel",
+      "date_as_displayed": "Posted 8 years 2 months ago",
+      "body": "Do you love to travel?",
+      "permalink": "https://www.justparents.co.uk/forums/topic-10735/#91075",
+      "raw_file": "_raw/forums-deep/justparents/responses/d2513c137c99d9fd0fa3.html",
+      "page_url": "https://www.justparents.co.uk/forums/topic-10735/",
+      "role": "original_post",
+      "original_post_id": "91075"
+    },
+    {
+      "post_id": "91098",
+      "author_handle": "Fillip",
+      "date_as_displayed": "Posted 8 years 2 months ago",
+      "body": "Yes, I do!",
+      "permalink": "https://www.justparents.co.uk/forums/topic-10735/#91098",
+      "raw_file": "_raw/forums-deep/justparents/responses/d2513c137c99d9fd0fa3.html",
+      "page_url": "https://www.justparents.co.uk/forums/topic-10735/",
+      "role": "response",
+      "original_post_id": "91075"
+    }
+  ]
+}

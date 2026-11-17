@@ -1,0 +1,33 @@
+{
+  "slug": "justparents-feeding",
+  "kind": "board1",
+  "requested_url": "https://www.justparents.co.uk/forums/feeding/",
+  "fetched_at": "2026-10-24T12:28:17.070919+00:00",
+  "status": 200,
+  "final_url": "https://www.justparents.co.uk/forums/feeding/",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 12:28:17 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Cache-Control": "private, no-store, no-cache, must-revalidate, max-age=0",
+    "pragma": "no-cache",
+    "expires": "0",
+    "Set-Cookie": "jp_session=a4819c8129073a0d269e94e3027b734a; path=/; secure; HttpOnly; SameSite=Lax",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Accept-Encoding",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=zP5P3m0N%2BCwS8siQxbuU0PpH2OU6%2FKkqTyin%2B%2Fwm8R8GvChoJd2xqDBMX2RXAtPxdod1erlhdM%2BP8T8%2F9DJ8xXqKzZnkBrhZ%2FtJF%2F9opemksAS0%2FIUne%2FJUU4Tm2X76qaP9yAJof7fg%3D\"}]}",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "zstd",
+    "CF-RAY": "a4f8fafeda26a875-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "bytes": 85373,
+  "sha256": "4c6c9f56fe994ad49b2ea20a241cd12231dc9272949b3da5f1076ca761d46d13",
+  "raw_file": "_raw/forums-deep/access/justparents-feeding-board1.bin",
+  "redirects": [],
+  "title": "Feeding &amp; Mealtimes Forum - JustParents",
+  "policy_excerpt": ""
+}

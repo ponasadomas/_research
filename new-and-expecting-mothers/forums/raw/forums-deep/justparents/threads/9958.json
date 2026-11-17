@@ -1,0 +1,68 @@
+{
+  "url": "https://www.justparents.co.uk/forums/topic-9958/",
+  "title": "The Glucose Test",
+  "listed_replies": 1,
+  "last_reply_as_displayed": "10 years ago by Widow",
+  "board": "second-trimester",
+  "listing_raw_file": "_raw/forums-deep/justparents/responses/e157088f394f231d1184.html",
+  "thread_id": "jp-9958",
+  "pagination_complete": true,
+  "visible_pages_fetched": 1,
+  "visible_post_count": 2,
+  "listed_expected_posts": 2,
+  "listed_count_matches": true,
+  "pages": [
+    {
+      "requested_url": "https://www.justparents.co.uk/forums/topic-9958/",
+      "final_url": "https://www.justparents.co.uk/forums/topic-9958/",
+      "status": 200,
+      "headers": {
+        "Date": "Sat, 24 Oct 2026 12:37:32 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Server": "cloudflare",
+        "Cache-Control": "private, no-store, no-cache, must-revalidate, max-age=0",
+        "pragma": "no-cache",
+        "expires": "0",
+        "Set-Cookie": "jp_session=c8b1c74c5ca520338cbe145b54c9671b; path=/; secure; HttpOnly; SameSite=Lax",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=r2bzDaz69%2FNrY7jOPEw6cjQM28b82rov2jMw6sPqZjXZufCFk%2BY6yW2dU%2F84Pyg1MVG64R8X7qK1B9CDyHcWLYN2sT0JEtCJXZBKFf912k%2F2xvfitQn61oeyyo0TMU2naeInr%2BqE9d4%3D\"}]}",
+        "cf-cache-status": "DYNAMIC",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Content-Encoding": "zstd",
+        "CF-RAY": "a4f9088e6a354580-RIX",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "fetched_at": "2026-10-24T12:37:32.515369+00:00",
+      "bytes": 31986,
+      "sha256": "0b359637fe182b682eb4313865281c01abccdf4b959a0c08285f2d09d256fae0",
+      "raw_file": "_raw/forums-deep/justparents/responses/96d4081dfe1af398e82a.html"
+    }
+  ],
+  "posts": [
+    {
+      "post_id": "86337",
+      "author_handle": "Amelia88",
+      "date_as_displayed": "Posted 10 years 8 months ago",
+      "body": "Some people say they don't find drinking the glucose drink too bad. For me, I thought it was pretty awful! Just syrupy, sweet, thick, and it was just a lot in one go!\nI thankfully got normal results - I've heard of people having to go back and drink even more of it to do a 3 hour glucose test rather than the 1 hour test.\nWhat did you think of the glucose test? Were your results normal? If they were outside the normal range, what kind of monitoring did you need?",
+      "permalink": "https://www.justparents.co.uk/forums/topic-9958/#86337",
+      "raw_file": "_raw/forums-deep/justparents/responses/96d4081dfe1af398e82a.html",
+      "page_url": "https://www.justparents.co.uk/forums/topic-9958/",
+      "role": "original_post",
+      "original_post_id": "86337"
+    },
+    {
+      "post_id": "86360",
+      "author_handle": "Widow",
+      "date_as_displayed": "Posted 10 years 8 months ago",
+      "body": "Yuck, I remember this test and I hated it as well.  I'm honestly surprised I didn't end up getting sick from it.  I know I sure felt nauseous.  I did have to go back for the longer test.  I was worried the entire time but it came back normal thankfully.",
+      "permalink": "https://www.justparents.co.uk/forums/topic-9958/#86360",
+      "raw_file": "_raw/forums-deep/justparents/responses/96d4081dfe1af398e82a.html",
+      "page_url": "https://www.justparents.co.uk/forums/topic-9958/",
+      "role": "response",
+      "original_post_id": "86337"
+    }
+  ]
+}

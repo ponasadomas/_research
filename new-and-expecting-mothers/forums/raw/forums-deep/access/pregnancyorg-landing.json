@@ -1,0 +1,8 @@
+{
+  "slug": "pregnancyorg",
+  "kind": "landing",
+  "requested_url": "https://www.pregnancy.org/bulletinboards/",
+  "fetched_at": "2026-10-24T12:23:59.744373+00:00",
+  "status": null,
+  "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'www.optum.combulletinboards\\', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host=\\'www.optum.combulletinboards\\', port=443): Failed to resolve \\'www.optum.combulletinboards\\' ([Errno -2] Name or service not known)\"))'))"
+}

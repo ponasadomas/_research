@@ -1,0 +1,68 @@
+[
+  {
+    "community": "sleeptrain",
+    "source_url": "https://huggingface.co/datasets/yikeee/reddit-subreddits25/resolve/ea497c510aa68765c07ed744ec9f84d68bbedf7f/data/submissions/37/sleeptrain_submissions.jsonl.zst",
+    "final_url": "https://us.aws.cdn.hf.co/xet-bridge-us/6a7d57764e56b32e86f829c1/3b7c7e96da8b538493bf440d923a4376f41ebfdd1cb58fb178230462b19ef7ad?xip=vSammbysOiU&X-Xet-Cas-Uid=public&response-content-disposition=inline%3B+filename*%3DUTF-8%27%27sleeptrain_submissions.jsonl.zst%3B+filename%3D%22sleeptrain_submissions.jsonl.zst%22%3B&user_id=public&Expires=1792876555&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly91cy5hd3MuY2RuLmhmLmNvL3hldC1icmlkZ2UtdXMvNmE3ZDU3NzY0ZTU2YjMyZTg2ZjgyOWMxLzNiN2M3ZTk2ZGE4YjUzODQ5M2JmNDQwZDkyM2E0Mzc2ZjQxZWJmZGQxY2I1OGZiMTc4MjMwNDYyYjE5ZWY3YWRcXD94aXA9dlNhbW1ieXNPaVUmWC1YZXQtQ2FzLVVpZD1wdWJsaWMmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1pbmxpbmUlM0IrZmlsZW5hbWUlMkElM0RVVEYtOCUyNyUyN3NsZWVwdHJhaW5fc3VibWlzc2lvbnMuanNvbmwuenN0JTNCK2ZpbGVuYW1lJTNEJTIyc2xlZXB0cmFpbl9zdWJtaXNzaW9ucy5qc29ubC56c3QlMjIlM0ImdXNlcl9pZD1wdWJsaWMiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVwb2NoVGltZSI6MTc5Mjg3NjU1NX19fV19&Signature=MEUCIDgmXHLIeHcgal~vwYojsEG59ro7p3T73PX5qmdQ4qfCAiEAoRnJQ3Kb18u57Tcwmp2n5bMLQ6RDUw4FaAVitzLI1p4_&Key-Pair-Id=01KXEF4KZ1B6FV465MAWR4M21F&Hash-Algorithm=SHA256",
+    "status": 200,
+    "redirects": [
+      {
+        "status": 302,
+        "url": "https://huggingface.co/datasets/yikeee/reddit-subreddits25/resolve/ea497c510aa68765c07ed744ec9f84d68bbedf7f/data/submissions/37/sleeptrain_submissions.jsonl.zst"
+      }
+    ],
+    "publisher_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f",
+    "manifest_bytes": 55333761,
+    "captured_utc": "2026-10-24T20:15:56.085851+00:00",
+    "headers": {
+      "content-type": "application/octet-stream",
+      "accept-ranges": "bytes",
+      "content-disposition": "inline; filename*=UTF-8''sleeptrain_submissions.jsonl.zst; filename=\"sleeptrain_submissions.jsonl.zst\";",
+      "etag": "\"3b7c7e96da8b538493bf440d923a4376f41ebfdd1cb58fb178230462b19ef7ad\"",
+      "content-security-policy": "default-src 'none'; media-src 'self'; sandbox allow-same-origin",
+      "access-control-allow-headers": "Content-Range, Content-Type, Content-Disposition, ETag",
+      "access-control-expose-headers": "*",
+      "content-length": "55333761",
+      "vary": "origin, access-control-request-method, access-control-request-headers",
+      "access-control-allow-origin": "*",
+      "x-request-id": "01M5QRWFSE9YXWGETRXADE04HT",
+      "x-hf-cdn-pop": "aws-eu-west-3",
+      "date": "Sat, 24 Oct 2026 20:15:55 GMT"
+    },
+    "file": "_raw/report-purchase-archive-wave03/archive-files/sleeptrain_submissions.jsonl.zst",
+    "bytes": 55333761,
+    "sha256": "257816ebb3768b6491d400a1b6a2429403dc8d6edd5d7f99d67dcbe718589c0e"
+  },
+  {
+    "community": "parentsnark",
+    "source_url": "https://huggingface.co/datasets/yikeee/reddit-subreddits25/resolve/ea497c510aa68765c07ed744ec9f84d68bbedf7f/data/submissions/f0/parentsnark_submissions.jsonl.zst",
+    "final_url": "https://us.aws.cdn.hf.co/xet-bridge-us/6a7d57764e56b32e86f829c1/c8176dfaa0a25e55a040510b6059792814790659adab29aa6f4ba1830bd34f11?xip=vSammbysOiU&response-content-disposition=inline%3B+filename*%3DUTF-8%27%27parentsnark_submissions.jsonl.zst%3B+filename%3D%22parentsnark_submissions.jsonl.zst%22%3B&X-Xet-Cas-Uid=public&user_id=public&Expires=1792876558&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly91cy5hd3MuY2RuLmhmLmNvL3hldC1icmlkZ2UtdXMvNmE3ZDU3NzY0ZTU2YjMyZTg2ZjgyOWMxL2M4MTc2ZGZhYTBhMjVlNTVhMDQwNTEwYjYwNTk3OTI4MTQ3OTA2NTlhZGFiMjlhYTZmNGJhMTgzMGJkMzRmMTFcXD94aXA9dlNhbW1ieXNPaVUmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1pbmxpbmUlM0IrZmlsZW5hbWUlMkElM0RVVEYtOCUyNyUyN3BhcmVudHNuYXJrX3N1Ym1pc3Npb25zLmpzb25sLnpzdCUzQitmaWxlbmFtZSUzRCUyMnBhcmVudHNuYXJrX3N1Ym1pc3Npb25zLmpzb25sLnpzdCUyMiUzQiZYLVhldC1DYXMtVWlkPXB1YmxpYyZ1c2VyX2lkPXB1YmxpYyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRXBvY2hUaW1lIjoxNzkyODc2NTU4fX19XX0_&Signature=MEQCIGlxZp~rTmwdQmilUNeoDP7~PIX-yRAXxBU~mCWpLxiuAiAuuO3-t8B35oDP3qOt-sVbCkXERVJU7dRUwGFwgAHpOg__&Key-Pair-Id=01KXEF4KZ1B6FV465MAWR4M21F&Hash-Algorithm=SHA256",
+    "status": 200,
+    "redirects": [
+      {
+        "status": 302,
+        "url": "https://huggingface.co/datasets/yikeee/reddit-subreddits25/resolve/ea497c510aa68765c07ed744ec9f84d68bbedf7f/data/submissions/f0/parentsnark_submissions.jsonl.zst"
+      }
+    ],
+    "publisher_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f",
+    "manifest_bytes": 435420,
+    "captured_utc": "2026-10-24T20:15:58.676827+00:00",
+    "headers": {
+      "content-type": "application/octet-stream",
+      "accept-ranges": "bytes",
+      "content-disposition": "inline; filename*=UTF-8''parentsnark_submissions.jsonl.zst; filename=\"parentsnark_submissions.jsonl.zst\";",
+      "etag": "\"c8176dfaa0a25e55a040510b6059792814790659adab29aa6f4ba1830bd34f11\"",
+      "content-security-policy": "default-src 'none'; media-src 'self'; sandbox allow-same-origin",
+      "access-control-allow-headers": "Content-Range, Content-Type, Content-Disposition, ETag",
+      "access-control-expose-headers": "*",
+      "content-length": "435420",
+      "vary": "origin, access-control-request-method, access-control-request-headers",
+      "access-control-allow-origin": "*",
+      "x-request-id": "01M5QRWJARMSRK0778EYZWD2TE",
+      "x-hf-cdn-pop": "aws-eu-west-3",
+      "date": "Sat, 24 Oct 2026 20:15:58 GMT"
+    },
+    "file": "_raw/report-purchase-archive-wave03/archive-files/parentsnark_submissions.jsonl.zst",
+    "bytes": 435420,
+    "sha256": "db734f41f91671e4f37c9f2ee05cd0c7ab6e472e3c610c393a14a1b53c8b5e3b"
+  }
+]

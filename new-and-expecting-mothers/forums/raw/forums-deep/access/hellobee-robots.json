@@ -1,0 +1,27 @@
+{
+  "slug": "hellobee",
+  "kind": "robots",
+  "requested_url": "https://boards.hellobee.com/robots.txt",
+  "fetched_at": "2026-10-24T12:23:57.829525+00:00",
+  "status": 200,
+  "final_url": "https://boards.hellobee.com/robots.txt",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 12:23:58 GMT",
+    "Content-Type": "text/plain; charset=utf-8",
+    "Content-Length": "778",
+    "Last-Modified": "Mon, 07 Sep 2015 08:26:14 GMT",
+    "Connection": "keep-alive",
+    "Keep-Alive": "timeout=60",
+    "ETag": "\"55ed4a26-30a\"",
+    "Expires": "Sat, 24 Oct 2026 13:23:58 GMT",
+    "Cache-Control": "max-age=3600",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload; always;",
+    "Accept-Ranges": "bytes"
+  },
+  "bytes": 778,
+  "sha256": "d4cea538cccfdf6c824fd6db2919ed88751cb12c586ca8d99fd7356963af6232",
+  "raw_file": "_raw/forums-deep/access/hellobee-robots.bin",
+  "redirects": [],
+  "title": "",
+  "policy_excerpt": "User-agent: * \r\nDisallow: /cgi-bin/ \r\nDisallow: /images/\r\nDisallow: /avatars/\r\nDisallow: /common/\r\nDisallow: /dummy/\r\nDisallow: /content/\r\nDisallow: /wp-content/\r\nDisallow: /wp-includes/\r\nDisallow: /wp-admin/\r\nDisallow: /bb-templates/\r\nDisallow: /my-templates/\r\nDisallow: /bb-plugins/\r\nDisallow: /my-plugins/\r\nDisallow: /login/\r\nDisallow: /register/\r\nDisallow: /recover/\r\nDisallow: /profile/\r\nDisallow: /view/\r\nDisallow: /search/\r\nDisallow: /?search=*\r\nDisallow: /?s=*\r\nDisallow: /?q=*\r\nDisallow: /page/*/?s=*\r\nDisallow: /page/*/?pollresult=*\r\nDisallow: /index.php?s=*\r\nDisallow: /index.php?pollresult=*\r\nDisallow: /?\r\nDisallow: /?*\r\nDisallow: /*?*\r\nDisallow: */?*\r\nDisallow: *?*\r\nDisallow: *?\r\nDisallow: ?*\r\nAllow: /common/style.css\r\nAllow: /common/script.js\r\nCrawl-Delay: 10\r\n"
+}

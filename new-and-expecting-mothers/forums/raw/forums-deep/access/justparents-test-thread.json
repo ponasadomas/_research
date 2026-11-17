@@ -1,0 +1,33 @@
+{
+  "slug": "justparents-test",
+  "kind": "thread",
+  "requested_url": "https://www.justparents.co.uk/forums/topic-9863/",
+  "fetched_at": "2026-10-24T12:28:28.731291+00:00",
+  "status": 200,
+  "final_url": "https://www.justparents.co.uk/forums/topic-9863/",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 12:28:28 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Cache-Control": "private, no-store, no-cache, must-revalidate, max-age=0",
+    "pragma": "no-cache",
+    "expires": "0",
+    "Set-Cookie": "jp_session=bc268bc712dcb7ffb3d74b2b10fffe4c; path=/; secure; HttpOnly; SameSite=Lax",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Accept-Encoding",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2BUKibFBjszZ5Sj%2Fs4qesxgG8D3e75VVEMtOb%2FILWqDCz6lBDOj3CKf43GUHt%2BgTap6yoMGIftMDfJOc28C7M1T%2FZmJMQ1%2BnHTjSJhbepQO%2Fn98YtvfJwGzT1HScPQo3bDRZE%2Bvg0T8Y%3D\"}]}",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "zstd",
+    "CF-RAY": "a4f8fb47bdf5a89f-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "bytes": 62848,
+  "sha256": "e060c6aba755e7a0e170285b9ed27eb0cf63e15641048895e8f13c83607b0dd1",
+  "raw_file": "_raw/forums-deep/access/justparents-test-thread.bin",
+  "redirects": [],
+  "title": "How long would you breastfeed for?",
+  "policy_excerpt": ""
+}

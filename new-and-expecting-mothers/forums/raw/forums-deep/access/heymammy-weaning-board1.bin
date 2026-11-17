@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-gb">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <link href="./mobiquo/smartbanner/manifest.json" rel="manifest">
+        
+        <meta name="apple-itunes-app" content="app-id=307880732, affiliate-data=at=10lR7C, app-argument=tapatalk://www.heymammy.com/?ttfid=109270&fid=39&page=1&perpage=25&location=forum" />
+        
+<title>heymammy.com - Weaning</title>
+
+	<link rel="alternate" type="application/atom+xml" title="Feed - heymammy.com" href="/app.php/feed?sid=7991a5c584dfacaa85ceeee672e1ca20">			<link rel="alternate" type="application/atom+xml" title="Feed - New Topics" href="/app.php/feed/topics?sid=7991a5c584dfacaa85ceeee672e1ca20">		<link rel="alternate" type="application/atom+xml" title="Feed - Forum - Weaning" href="/app.php/feed/forum/39?sid=7991a5c584dfacaa85ceeee672e1ca20">		
+
+<!--
+	phpBB style name: Allan Style - SUBSILVER
+	Based on style:   prosilver (this is the default phpBB3 style)
+	Based on style:   subsilver2 (this is the default phpBB3 style)
+	Original author:  Tom Beddard ( http://www.subBlue.com/ )
+	Modified by old:   Allan, SKRS, Foxs ( https://phpbbx.ru/ )
+	Modified by :   Merlin ( https://forum-gta.ru/ )
+-->
+
+<script>
+	WebFontConfig = {
+		google: {
+			families: ['Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese']
+		}
+	};
+
+	(function(d) {
+		var wf = d.createElement('script'), s = d.scripts[0];
+		wf.src = 'https://cdn.jsdelivr.net/npm/webfontloader@1.6.28/webfontloader.min.js';
+		wf.async = true;
+		s.parentNode.insertBefore(wf, s);
+	})(document);
+</script>
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="./styles/SUBSILVER/theme/stylesheet.css?assets_version=76" rel="stylesheet">
+<link href="./styles/SUBSILVER/theme/en/stylesheet.css?assets_version=76" rel="stylesheet">
+
+
+
+
+<!--[if lte IE 9]>
+	<link href="./styles/SUBSILVER/theme/tweaks.css?assets_version=76" rel="stylesheet">
+<![endif]-->
+
+
+<link href="./ext/alfredoramos/simplespoiler/styles/all/theme/css/common.css?assets_version=76" rel="stylesheet" media="screen">
+<link href="./ext/alfredoramos/simplespoiler/styles/prosilver/theme/css/style.css?assets_version=76" rel="stylesheet" media="screen">
+<link href="./ext/alfredoramos/simplespoiler/styles/prosilver/theme/css/colors.css?assets_version=76" rel="stylesheet" media="screen">
+<link href="./ext/naguissa/thanksforposts/styles/all/theme/thanks.css?assets_version=76" rel="stylesheet" media="screen">
+<link href="./ext/tatiana5/profilesideswitcher/styles/prosilver/theme/profile_side_switcher.css?assets_version=76" rel="stylesheet" media="screen">
+<link href="./ext/tatiana5/profilesideswitcher/styles/prosilver/theme/en/profile_side_switcher.css?assets_version=76" rel="stylesheet" media="screen">
+
+
+
+</head>
+<body id="phpbb" class="nojs notouch section-viewforum ltr ">
+
+<div id="header-subsilver" >
+	<a id="top" class="top-anchor" accesskey="t"></a>
+		<div class="headerbar" role="banner">
+					<div class="inner">
+
+			<div id="site-description" class="site-description">
+				<a id="logo" class="logo" href="./index.php?sid=7991a5c584dfacaa85ceeee672e1ca20" title="Board index">
+					<span class="site_logo"></span>
+				</a>
+				<h1>heymammy.com</h1>
+				<p></p>
+				<p class="skiplink"><a href="#start_here">Skip to content</a></p>
+			</div>
+
+									
+			</div>
+					</div>
+</div>
+
+
+<div id="wrap" class="wrap">
+	<div id="page-header">
+				<div class="navbar-top" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-main" class="nav-main linklist" role="menubar">
+
+		<li id="quick-links" class="quick-links dropdown-container responsive-menu hidden" data-skip-responsive="true">
+			<a href="#" class="dropdown-trigger">
+				<i class="icon fa-bars fa-fw" aria-hidden="true"></i><span>Quick links</span>
+			</a>
+			<div class="dropdown">
+				<div class="pointer"><div class="pointer-inner"></div></div>
+				<ul class="dropdown-contents" role="menu">
+					
+					
+										<li class="separator"></li>
+
+									</ul>
+			</div>
+		</li>
+
+				<li data-skip-responsive="true">
+			<a href="/app.php/help/faq?sid=7991a5c584dfacaa85ceeee672e1ca20" rel="help" title="Frequently Asked Questions" role="menuitem">
+				<i class="icon fa-question-circle fa-fw" aria-hidden="true"></i><span>FAQ</span>
+			</a>
+		</li>
+						
+			<li class="rightside"  data-skip-responsive="true">
+			<a href="./ucp.php?mode=login&amp;redirect=viewforum.php%3Ff%3D39&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" title="Login" accesskey="x" role="menuitem">
+				<i class="icon fa-power-off fa-fw" aria-hidden="true"></i><span>Login</span>
+			</a>
+		</li>
+					<li class="rightside" data-skip-responsive="true">
+				<a href="./ucp.php?mode=register&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" role="menuitem">
+					<i class="icon fa-pencil-square-o  fa-fw" aria-hidden="true"></i><span>Register</span>
+				</a>
+			</li>
+						</ul>
+
+	</div>
+</div>
+
+<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-breadcrumbs" class="nav-breadcrumbs linklist navlinks" role="menubar">
+				
+		
+		<li class="breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList">
+
+			
+							<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope><a itemprop="item" href="./index.php?sid=7991a5c584dfacaa85ceeee672e1ca20" accesskey="h" data-navbar-reference="index"><i class="icon fa-home fa-fw"></i><span itemprop="name">Board index</span></a><meta itemprop="position" content="1" /></span>
+
+											
+								<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="7"><a itemprop="item" href="./viewforum.php?f=7&amp;sid=7991a5c584dfacaa85ceeee672e1ca20"><span itemprop="name">Pregnancy &amp; Parenting</span></a><meta itemprop="position" content="2" /></span>
+															
+								<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="15"><a itemprop="item" href="./viewforum.php?f=15&amp;sid=7991a5c584dfacaa85ceeee672e1ca20"><span itemprop="name">Babies</span></a><meta itemprop="position" content="3" /></span>
+															
+								<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="39"><a itemprop="item" href="./viewforum.php?f=39&amp;sid=7991a5c584dfacaa85ceeee672e1ca20"><span itemprop="name">Weaning</span></a><meta itemprop="position" content="4" /></span>
+							
+					</li>
+
+		
+			</ul>
+
+	</div>
+</div>
+
+	</div>
+
+	
+	<a id="start_here" class="anchor"></a>
+	<div id="page-body" class="page-body" role="main">
+		
+			<script type="text/javascript">
+	// <![CDATA[
+		var pss_cont = document.getElementById('page-body');
+		pss_cont.className += ' leftsided';
+	// ]]>
+	</script>
+<h2 class="forum-title"><a href="./viewforum.php?f=39&amp;sid=7991a5c584dfacaa85ceeee672e1ca20">Weaning</a></h2>
+
+
+
+
+
+	<div class="panel">
+		<div class="inner">
+		<strong>You do not have the required permissions to view or read topics within this forum.</strong>
+		</div>
+	</div>
+
+	
+		<form action="./ucp.php?mode=login&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" method="post">
+
+		<div class="panel">
+			<div class="inner">
+
+			<div class="content">
+				<h3><a href="./ucp.php?mode=login&amp;redirect=viewforum.php%3Ff%3D39&amp;sid=7991a5c584dfacaa85ceeee672e1ca20">Login</a>&nbsp; &bull; &nbsp;<a href="./ucp.php?mode=register&amp;sid=7991a5c584dfacaa85ceeee672e1ca20">Register</a></h3>
+
+				<fieldset class="fields1">
+				<dl>
+					<dt><label for="username">Username:</label></dt>
+					<dd><input type="text" tabindex="1" name="username" id="username" size="25" value="" class="inputbox autowidth" /></dd>
+				</dl>
+				<dl>
+					<dt><label for="password">Password:</label></dt>
+					<dd><input type="password" tabindex="2" id="password" name="password" size="25" class="inputbox autowidth" autocomplete="off" /></dd>
+					<dd><label for="autologin"><input type="checkbox" name="autologin" id="autologin" tabindex="3" /> Remember me</label></dd>					<dd><label for="viewonline"><input type="checkbox" name="viewonline" id="viewonline" tabindex="4" /> Hide my online status this session</label></dd>
+				</dl>
+				<dl>
+					<dt>&nbsp;</dt>
+					<dd><input type="submit" name="login" tabindex="5" value="Login" class="button1" /></dd>
+				</dl>
+				<input type="hidden" name="redirect" value="./viewforum.php?f=39&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" />
+<input type="hidden" name="creation_time" value="1792844795" />
+<input type="hidden" name="form_token" value="757414ccbfb2f8ef52320c8842201406ae4695a1" />
+
+				
+				</fieldset>
+			</div>
+
+			</div>
+		</div>
+
+		</form>
+
+	
+
+
+		<div class="panel">
+		<div class="inner">
+			<strong>This category has no forums.</strong>
+		</div>
+	</div>
+	
+
+
+<div class="action-bar actions-jump">
+	
+		<div class="jumpbox dropdown-container dropdown-container-right dropdown-up dropdown-left dropdown-button-control" id="jumpbox">
+			<span title="Jump to" class="button button-secondary dropdown-trigger dropdown-select">
+				<span>Jump to</span>
+				<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+			</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																				<li><a href="./viewforum.php?f=1&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-forum-link"> <span> Site Information</span></a></li>
+																<li><a href="./viewforum.php?f=73&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Competitions</span></a></li>
+																<li><a href="./viewforum.php?f=3&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Introduce yourself</span></a></li>
+																<li><a href="./viewforum.php?f=113&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; About the Board</span></a></li>
+																<li><a href="./viewforum.php?f=145&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Your Suggestions</span></a></li>
+																<li><a href="./viewforum.php?f=170&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-forum-link"> <span> Covid-19 chat</span></a></li>
+																<li><a href="./viewforum.php?f=7&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-cat-link"> <span> Pregnancy &amp; Parenting</span></a></li>
+																<li><a href="./viewforum.php?f=5&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Announcements</span></a></li>
+																<li><a href="./viewforum.php?f=53&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Trying to conceive</span></a></li>
+																<li><a href="./viewforum.php?f=55&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Trying to conceive with assistance</span></a></li>
+																<li><a href="./viewforum.php?f=79&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Pregnancy</span></a></li>
+																<li><a href="./viewforum.php?f=105&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; First Trimester</span></a></li>
+																<li><a href="./viewforum.php?f=107&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Second Trimester</span></a></li>
+																<li><a href="./viewforum.php?f=109&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Third Trimester</span></a></li>
+																<li><a href="./viewforum.php?f=9&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Pregnancies in Difficulty</span></a></li>
+																<li><a href="./viewforum.php?f=13&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Baby Names</span></a></li>
+																<li><a href="./viewforum.php?f=11&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Pregnancy Loss</span></a></li>
+																<li><a href="./viewforum.php?f=25&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Labour &amp; Delivery</span></a></li>
+																<li><a href="./viewforum.php?f=89&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Birth Stories</span></a></li>
+																<li><a href="./viewforum.php?f=15&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Babies</span></a></li>
+																<li><a href="./viewforum.php?f=35&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Formula Feeding</span></a></li>
+																<li><a href="./viewforum.php?f=37&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Breastfeeding</span></a></li>
+																<li><a href="./viewforum.php?f=39&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Weaning</span></a></li>
+																<li><a href="./viewforum.php?f=17&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Toddlers and up to 5 years</span></a></li>
+																<li><a href="./viewforum.php?f=57&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Toilet Training</span></a></li>
+																<li><a href="./viewforum.php?f=19&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Primary School</span></a></li>
+																<li><a href="./viewforum.php?f=21&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Secondary School</span></a></li>
+																<li><a href="./viewforum.php?f=31&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Twins, Triplets, and more</span></a></li>
+																<li><a href="./viewforum.php?f=77&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Adoption &amp; Fostering</span></a></li>
+																<li><a href="./viewforum.php?f=33&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Premature Babies</span></a></li>
+																<li><a href="./viewforum.php?f=63&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Special Needs &amp; Long term illness</span></a></li>
+																<li><a href="./viewforum.php?f=59&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Childcare</span></a></li>
+																<li><a href="./viewforum.php?f=165&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; College Life</span></a></li>
+																<li><a href="./viewforum.php?f=154&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; For those studying</span></a></li>
+																<li><a href="./viewforum.php?f=83&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-cat-link"> <span> Groups</span></a></li>
+																<li><a href="./viewforum.php?f=29&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Birth Clubs</span></a></li>
+																<li><a href="./viewforum.php?f=41&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Teenage years</span></a></li>
+																<li><a href="./viewforum.php?f=43&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Parenting Alone</span></a></li>
+																<li><a href="./viewforum.php?f=45&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Partner working away from home</span></a></li>
+																<li><a href="./viewforum.php?f=23&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Grandparents</span></a></li>
+																<li><a href="./viewforum.php?f=47&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Living Abroad</span></a></li>
+																<li><a href="./viewforum.php?f=27&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Babies Due Date</span></a></li>
+																<li><a href="./viewforum.php?f=81&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-cat-link"> <span> Non Baby Talk</span></a></li>
+																<li><a href="./viewforum.php?f=71&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; GENERAL CHIT CHAT</span></a></li>
+																<li><a href="./viewforum.php?f=87&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Let off steam</span></a></li>
+																<li><a href="./viewforum.php?f=138&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Am I being unreasonable</span></a></li>
+																<li><a href="./viewforum.php?f=85&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Polls</span></a></li>
+																<li><a href="./viewforum.php?f=65&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Relationships</span></a></li>
+																<li><a href="./viewforum.php?f=168&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Support forum</span></a></li>
+																<li><a href="./viewforum.php?f=169&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Support</span></a></li>
+																<li><a href="./viewforum.php?f=49&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Health</span></a></li>
+																<li><a href="./viewforum.php?f=51&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Childrens Health</span></a></li>
+																<li><a href="./viewforum.php?f=171&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Perimenopause and Menopause</span></a></li>
+																<li><a href="./viewforum.php?f=61&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Finances</span></a></li>
+																<li><a href="./viewforum.php?f=162&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Employment</span></a></li>
+																<li><a href="./viewforum.php?f=97&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Fitness &amp; Nutrition</span></a></li>
+																<li><a href="./viewforum.php?f=101&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Weight Watchers</span></a></li>
+																<li><a href="./viewforum.php?f=103&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Slimming World</span></a></li>
+																<li><a href="./viewforum.php?f=139&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Runners Forum</span></a></li>
+																<li><a href="./viewforum.php?f=144&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Cooking &amp; Recipes</span></a></li>
+																<li><a href="./viewforum.php?f=99&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Recipes</span></a></li>
+																<li><a href="./viewforum.php?f=119&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Food Club</span></a></li>
+																<li><a href="./viewforum.php?f=135&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Slow Cooker</span></a></li>
+																<li><a href="./viewforum.php?f=143&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Restaurant review/recommendation</span></a></li>
+																<li><a href="./viewforum.php?f=117&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; House &amp; Home</span></a></li>
+																<li><a href="./viewforum.php?f=123&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Show me your ...</span></a></li>
+																<li><a href="./viewforum.php?f=152&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Home Ideas</span></a></li>
+																<li><a href="./viewforum.php?f=131&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Gardening</span></a></li>
+																<li><a href="./viewforum.php?f=115&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Crafts</span></a></li>
+																<li><a href="./viewforum.php?f=146&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Craft Shop</span></a></li>
+																<li><a href="./viewforum.php?f=121&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Bloggers</span></a></li>
+																<li><a href="./viewforum.php?f=95&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Holidays</span></a></li>
+																<li><a href="./viewforum.php?f=141&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Trip Reports</span></a></li>
+																<li><a href="./viewforum.php?f=157&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Camping in Ireland</span></a></li>
+																<li><a href="./viewforum.php?f=158&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Camping Abroad</span></a></li>
+																<li><a href="./viewforum.php?f=159&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Theme Park Holidays</span></a></li>
+																<li><a href="./viewforum.php?f=172&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; City breaks</span></a></li>
+																<li><a href="./viewforum.php?f=147&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Depression</span></a></li>
+																<li><a href="./viewforum.php?f=133&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Beauty &amp; Fashion</span></a></li>
+																<li><a href="./viewforum.php?f=93&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; TV, Movies &amp; Celebrities</span></a></li>
+																<li><a href="./viewforum.php?f=91&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; In the News</span></a></li>
+																<li><a href="./viewforum.php?f=125&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Sport</span></a></li>
+																<li><a href="./viewforum.php?f=137&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Pet Corner</span></a></li>
+																<li><a href="./viewforum.php?f=142&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Weather</span></a></li>
+																<li><a href="./viewforum.php?f=69&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Special Offers</span></a></li>
+																<li><a href="./viewforum.php?f=127&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; I know i could google but i couldn't be arsed</span></a></li>
+																<li><a href="./viewforum.php?f=160&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Festivities &amp; Occasions</span></a></li>
+																<li><a href="./viewforum.php?f=67&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-forum-link"> <span> Buy &amp; Sell</span></a></li>
+																<li><a href="./viewforum.php?f=155&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Free Section</span></a></li>
+																<li><a href="./viewforum.php?f=153&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-forum-link"> <span> Small Business/Services Available</span></a></li>
+																<li><a href="./viewforum.php?f=149&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-forum-link"> <span> Anonymous</span></a></li>
+																<li><a href="./viewforum.php?f=161&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-forum-link"> <span> Advice/Anon</span></a></li>
+																<li><a href="./viewforum.php?f=163&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-forum-link"> <span> Tech forum</span></a></li>
+																<li><a href="./viewforum.php?f=166&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-forum-link"> <span> Books and Literature</span></a></li>
+																<li><a href="./viewforum.php?f=167&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" class="jumpbox-forum-link"> <span> Bereavement</span></a></li>
+											</ul>
+		</div>
+	</div>
+
+	</div>
+
+
+
+
+			</div>
+
+
+<div id="page-footer" class="page-footer" role="contentinfo">
+	<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-footer" class="nav-footer linklist" role="menubar">
+		<li class="breadcrumbs">
+									<span class="crumb"><a href="./index.php?sid=7991a5c584dfacaa85ceeee672e1ca20" data-navbar-reference="index"><i class="icon fa-home fa-fw" aria-hidden="true"></i><span>Board index</span></a></span>					</li>
+		
+				<li class="rightside">All times are <span title="UTC+1">UTC+01:00</span></li>
+							<li class="rightside">
+				<a href="./ucp.php?mode=delete_cookies&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" data-ajax="true" data-refresh="true" role="menuitem">
+					<i class="icon fa-trash fa-fw" aria-hidden="true"></i><span>Delete cookies</span>
+				</a>
+			</li>
+																<li class="rightside" data-last-responsive="true">
+				<a href="./memberlist.php?mode=contactadmin&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" role="menuitem">
+					<i class="icon fa-envelope fa-fw" aria-hidden="true"></i><span>Contact us</span>
+				</a>
+			</li>
+			</ul>
+
+	</div>
+</div>
+
+	<div class="copyright">
+				Developer Style from the Gaming <a href="https://forum-gta.ru/">GTA</a> Forum.
+		<p class="footer-row">
+			<span class="footer-copyright">Powered by <a href="https://www.phpbb.com/">phpBB</a>&reg; Forum Software &copy; phpBB Limited</span>
+		</p>
+						<p class="footer-row" role="menu">
+			<a class="footer-link" href="./ucp.php?mode=privacy&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" title="Privacy" role="menuitem">
+				<span class="footer-link-text">Privacy</span>
+			</a>
+			|
+			<a class="footer-link" href="./ucp.php?mode=terms&amp;sid=7991a5c584dfacaa85ceeee672e1ca20" title="Terms" role="menuitem">
+				<span class="footer-link-text">Terms</span>
+			</a>
+		</p>
+					</div>
+
+	<div id="darkenwrapper" class="darkenwrapper" data-ajax-error-title="AJAX error" data-ajax-error-text="Something went wrong when processing your request." data-ajax-error-text-abort="User aborted request." data-ajax-error-text-timeout="Your request timed out; please try again." data-ajax-error-text-parsererror="Something went wrong with the request and the server returned an invalid reply.">
+		<div id="darken" class="darken">&nbsp;</div>
+	</div>
+
+	<div id="phpbb_alert" class="phpbb_alert" data-l-err="Error" data-l-timeout-processing-req="Request timed out.">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<h3 class="alert_title">&nbsp;</h3><p class="alert_text"></p>
+	</div>
+	<div id="phpbb_confirm" class="phpbb_alert">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<div class="alert_text"></div>
+	</div>
+</div>
+
+</div>
+
+<div>
+	<a id="bottom" class="anchor" accesskey="z"></a>
+	</div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>window.jQuery || document.write('\x3Cscript src="./assets/javascript/jquery-3.6.0.min.js?assets_version=76">\x3C/script>');</script><script src="./assets/javascript/core.js?assets_version=76"></script>
+	<script>
+		(function($){
+			var $fa_cdn = $('head').find('link[rel="stylesheet"]').first(),
+				$span = $('<span class="fa" style="display:none"></span>').appendTo('body');
+			if ($span.css('fontFamily') !== 'FontAwesome' ) {
+				$fa_cdn.after('<link href="./assets/css/font-awesome.min.css" rel="stylesheet">');
+				$fa_cdn.remove();
+			}
+			$span.remove();
+		})(jQuery);
+	</script>
+
+
+
+<script src="./ext/naguissa/thanksforposts/styles/all/theme/thanks.js?assets_version=76"></script>
+<script src="./styles/prosilver/template/forum_fn.js?assets_version=76"></script>
+<script src="./styles/prosilver/template/ajax.js?assets_version=76"></script>
+<script src="./styles/SUBSILVER/template/jquery-ui.js?assets_version=76"></script>
+<script src="./styles/SUBSILVER/template/collapse.js?assets_version=76"></script>
+<script src="https://unpkg.com/details-element-polyfill@2.4.0/dist/details-element-polyfill.js"></script>
+<script src="./ext/alfredoramos/simplespoiler/styles/all/theme/js/spoiler.js?assets_version=76"></script>
+
+
+
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a4f8f882e980e4e1',t:'MTc5Mjg0NDc5NQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

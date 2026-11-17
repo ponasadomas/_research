@@ -1,0 +1,21 @@
+User-agent: Mediapartners-Google*
+Disallow:
+
+User-agent: *
+Disallow: /19331762/
+
+# SEO tools: no crawling (owner, 29 September 2026)
+User-agent: AhrefsBot
+User-agent: SemrushBot
+User-agent: MJ12bot
+User-agent: DotBot
+User-agent: PetalBot
+User-agent: Bytespider
+User-agent: BLEXBot
+User-agent: DataForSeoBot
+User-agent: serpstatbot
+User-agent: Barkrowler
+Disallow: /
+
+Sitemap: https://www.magicmum.com/sitemap.xml
+Sitemap: https://www.magicmum.com/sitemap-news.xml

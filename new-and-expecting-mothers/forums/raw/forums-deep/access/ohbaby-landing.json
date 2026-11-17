@@ -1,0 +1,27 @@
+{
+  "slug": "ohbaby",
+  "kind": "landing",
+  "requested_url": "https://www.ohbaby.co.nz/forum/",
+  "fetched_at": "2026-10-24T12:27:10.434186+00:00",
+  "status": 200,
+  "final_url": "https://www.ohbaby.co.nz/forum/",
+  "headers": {
+    "Content-Length": "17036",
+    "Content-Type": "text/html",
+    "Date": "Sat, 24 Oct 2026 12:27:11 GMT",
+    "Access-Control-Expose-Headers": "Request-Context",
+    "Cache-Control": "private,No-Store",
+    "Content-Encoding": "gzip",
+    "Expires": "Thu, 22 Oct 2026 12:27:10 GMT",
+    "Pragma": "no-cache",
+    "Set-Cookie": "TiPMix=81.25382621362401; path=/; HttpOnly; Domain=www.ohbaby.co.nz; Max-Age=3600; Secure; SameSite=None, x-ms-routing-name=self; path=/; HttpOnly; Domain=www.ohbaby.co.nz; Max-Age=3600; Secure; SameSite=None, TiPMix=14.429469228824665; path=/; HttpOnly; Domain=www.ohbaby.co.nz; Max-Age=3600, x-ms-routing-name=self; path=/; HttpOnly; Domain=www.ohbaby.co.nz; Max-Age=3600, wwf10lVisit=LV=2026%2D10%2D24+12%3A27%3A11; expires=Sun, 24-Oct-2027 12:27:10 GMT; path=/; HttpOnly, wwf10sID=SID=44946%2D683a5z1z9e3cc6ef8f185188773148; path=/; HttpOnly, ASPSESSIONIDQWCSCRAT=FNJPKNCCCHKGJBJNDCCJGPNI; secure; path=/; HttpOnly",
+    "Vary": "Accept-Encoding",
+    "Request-Context": "appId=cid-v1:c60b4abd-32bd-4a7c-b1e2-055bf30d1d78"
+  },
+  "bytes": 91946,
+  "sha256": "4fb5f152e76c18bde5fed2395a4508ddfb0b53ca6d4e4db53b10a2a5ac88929f",
+  "raw_file": "_raw/forums-deep/access/ohbaby-landing.bin",
+  "redirects": [],
+  "title": "OHbaby! Forums",
+  "policy_excerpt": ""
+}

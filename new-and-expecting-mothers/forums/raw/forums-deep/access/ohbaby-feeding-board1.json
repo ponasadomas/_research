@@ -1,0 +1,33 @@
+{
+  "slug": "ohbaby-feeding",
+  "kind": "board1",
+  "requested_url": "https://www.ohbaby.co.nz/forum/forum_topics.asp?FID=36&title=infant-toddler-feeding",
+  "fetched_at": "2026-10-24T12:27:49.865494+00:00",
+  "status": 200,
+  "final_url": "https://www.ohbaby.co.nz/forum/infant-toddler-feeding_forum36.html",
+  "headers": {
+    "Content-Length": "12756",
+    "Content-Type": "text/html",
+    "Date": "Sat, 24 Oct 2026 12:27:49 GMT",
+    "Access-Control-Expose-Headers": "Request-Context",
+    "Cache-Control": "private,No-Store",
+    "Content-Encoding": "gzip",
+    "Expires": "Thu, 22 Oct 2026 12:27:50 GMT",
+    "Pragma": "no-cache",
+    "Set-Cookie": "wwf10sID=SID=45028%2D916d6313b4a58bcz653f5193287037; path=/; HttpOnly, wwf10lVisit=LV=2026%2D10%2D24+12%3A27%3A50; expires=Sun, 24-Oct-2027 12:27:50 GMT; path=/; HttpOnly, ASPSESSIONIDQWCSCRAT=FBKPKNCCDMFCCNAPKGJFGCND; secure; path=/; HttpOnly",
+    "Vary": "Accept-Encoding",
+    "Request-Context": "appId=cid-v1:c60b4abd-32bd-4a7c-b1e2-055bf30d1d78"
+  },
+  "bytes": 53706,
+  "sha256": "5235d8893b0da631f63a2d595d87a3084c4a32dab1c3d7b268bb3530602b5f26",
+  "raw_file": "_raw/forums-deep/access/ohbaby-feeding-board1.bin",
+  "redirects": [
+    {
+      "status": 301,
+      "url": "https://www.ohbaby.co.nz/forum/forum_topics.asp?FID=36&title=infant-toddler-feeding",
+      "location": "https://www.ohbaby.co.nz/forum/infant-toddler-feeding_forum36.html"
+    }
+  ],
+  "title": "Infant/toddler feeding - OHbaby! Forums - Page 1",
+  "policy_excerpt": ""
+}

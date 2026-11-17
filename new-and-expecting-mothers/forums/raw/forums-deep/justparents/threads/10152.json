@@ -1,0 +1,79 @@
+{
+  "url": "https://www.justparents.co.uk/forums/topic-10152/",
+  "title": "Tennis court business",
+  "listed_replies": 2,
+  "last_reply_as_displayed": "8 years ago by denisehilton",
+  "board": "work-childcare",
+  "listing_raw_file": "_raw/forums-deep/justparents/responses/8b1099b62f85f4640548.html",
+  "thread_id": "jp-10152",
+  "pagination_complete": true,
+  "visible_pages_fetched": 1,
+  "visible_post_count": 3,
+  "listed_expected_posts": 3,
+  "listed_count_matches": true,
+  "pages": [
+    {
+      "requested_url": "https://www.justparents.co.uk/forums/topic-10152/",
+      "final_url": "https://www.justparents.co.uk/forums/topic-10152/",
+      "status": 200,
+      "headers": {
+        "Date": "Sat, 24 Oct 2026 12:34:04 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Server": "cloudflare",
+        "Cache-Control": "private, no-store, no-cache, must-revalidate, max-age=0",
+        "pragma": "no-cache",
+        "expires": "0",
+        "Set-Cookie": "jp_session=a8831f57875d38c8d4a2b20f615c7ad9; path=/; secure; HttpOnly; SameSite=Lax",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=LaVopcPOf0DGPCRYqQSCEzYxNWI77%2BgyWuicnrRp1GGfHJmXncDC2X%2FVzNLnrOHT05KgU1UztCNlljijSxLdK%2F3QPFmOytKF3SrFN5haJNKgVJ3Z94p5%2BD%2Bg9I6EGSeyZ%2FwWD9SABtg%3D\"}]}",
+        "cf-cache-status": "DYNAMIC",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Content-Encoding": "zstd",
+        "CF-RAY": "a4f903787c00dd68-RIX",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "fetched_at": "2026-10-24T12:34:04.202489+00:00",
+      "bytes": 32493,
+      "sha256": "fc38bebc5ca21af1ee69834fa07f98839defe910888e5e60f8eed229b2a3dee7",
+      "raw_file": "_raw/forums-deep/justparents/responses/b6cbd77dcb86393659f9.html"
+    }
+  ],
+  "posts": [
+    {
+      "post_id": "87515",
+      "author_handle": "RossBell",
+      "date_as_displayed": "Posted 9 years 11 months ago",
+      "body": "Hi all,\nI am planning to do a business on tennis court renting. I would like to get your advice on this.",
+      "permalink": "https://www.justparents.co.uk/forums/topic-10152/#87515",
+      "raw_file": "_raw/forums-deep/justparents/responses/b6cbd77dcb86393659f9.html",
+      "page_url": "https://www.justparents.co.uk/forums/topic-10152/",
+      "role": "original_post",
+      "original_post_id": "87515"
+    },
+    {
+      "post_id": "90173",
+      "author_handle": "Vendi",
+      "date_as_displayed": "Posted 8 years 7 months ago",
+      "body": "Very interesting idea.",
+      "permalink": "https://www.justparents.co.uk/forums/topic-10152/#90173",
+      "raw_file": "_raw/forums-deep/justparents/responses/b6cbd77dcb86393659f9.html",
+      "page_url": "https://www.justparents.co.uk/forums/topic-10152/",
+      "role": "response",
+      "original_post_id": "87515"
+    },
+    {
+      "post_id": "91118",
+      "author_handle": "denisehilton",
+      "date_as_displayed": "Posted 8 years 1 month ago",
+      "body": "If you already own a tennis court then this may work but buying a tennis court and renting it doesn't sound too feasible to me.",
+      "permalink": "https://www.justparents.co.uk/forums/topic-10152/#91118",
+      "raw_file": "_raw/forums-deep/justparents/responses/b6cbd77dcb86393659f9.html",
+      "page_url": "https://www.justparents.co.uk/forums/topic-10152/",
+      "role": "response",
+      "original_post_id": "87515"
+    }
+  ]
+}

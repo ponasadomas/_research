@@ -1,0 +1,11 @@
+{
+  "window_records_rescanned": 15226,
+  "initial_frozen_candidates": 72,
+  "additional_disjoint_candidates": 319,
+  "community_counts": {
+    "sleeptrain": 319
+  },
+  "payment_regex": "\\b(?:paid|bought|purchas(?:e|ed|es|ing)|refund(?:s|ed|ing)?)\\b|\\b(?:spent|spend(?:ing)?|charg(?:e|ed|es|ing)|order(?:ed|ing)?|invest(?:ed|ing)?|subscrib(?:ed|e)|subscription)\\b|[$£€]\\s*\\d[\\d,.]*|\\b(?:USD|GBP|CAD|AUD|NZD|EUR)\\s*\\d|\\b\\d[\\d,.]*\\s*(?:USD|GBP|CAD|AUD|NZD|EUR|dollars?|pounds?|euros?)\\b",
+  "artifact_regex": "\\b(?:reports?|pdfs?|plans?|guides?|schedules?|customi[sz](?:ed|ation)|personali[sz](?:ed|ation)|tailored|huckleberry|baby\\W*sleep\\W*answers|taking\\W*cara\\W*babies|tcb|little\\W*ones|moms?\\W*on\\W*call|moc|precious\\W*little\\W*sleep|pls|sleep\\W*(?:sense|lady|science|wise|wave|consultant|coach)|happy\\W*baby|hey\\W*sleepy\\W*baby|tinyhood|wee\\W*bee\\W*dreaming|wbd)\\b|\\b(?:baby\\W*sleep\\W*made\\W*simple|happy\\W*hive|blissful\\W*baby\\W*expert|pampers\\W*sleep\\W*coach|gerber\\W*sleep\\W*coach|napper|cara(?:\\W*s)?\\W*(?:course|program|guide)|full\\W*feedings?|little\\W*[zw]\\W*sleep|sleep\\W*training\\W*(?:course|program))\\b",
+  "no_initial_file_or_unit_rewritten": true
+}

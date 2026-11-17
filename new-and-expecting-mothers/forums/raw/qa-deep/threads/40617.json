@@ -1,0 +1,131 @@
+{
+  "question": {
+    "tags": [
+      "newborn"
+    ],
+    "owner": {
+      "account_id": 2380388,
+      "reputation": 1,
+      "user_id": 39686,
+      "user_type": "registered",
+      "profile_image": "https://www.gravatar.com/avatar/8a9a3a6219f31120493f211ef77e58dc?s=256&d=identicon&r=PG",
+      "display_name": "rawat",
+      "link": "https://parenting.stackexchange.com/users/39686/rawat"
+    },
+    "is_answered": true,
+    "view_count": 228,
+    "closed_date": 1601978611,
+    "answer_count": 1,
+    "score": -2,
+    "last_activity_date": 1601978119,
+    "creation_date": 1601975167,
+    "question_id": 40617,
+    "link": "https://parenting.stackexchange.com/questions/40617/calcarea-phosphorica-6x",
+    "closed_reason": "Not suitable for this site",
+    "title": "Calcarea Phosphorica 6x",
+    "body": "<p>Many of my friends and even some relatives are suggesting to give <strong>Calcarea Phosphorica 6x</strong> (homeopathic medicine) to my baby (4.2 months old). I have few questions regarding it.</p>\n<ol>\n<li>Should we give it? Is it really mandatory?</li>\n<li>If yes then when should we start?</li>\n<li>After reading about it, I reckon its a type of salt so does it really depends on a brand for example Dr.Reckeweg (below) or any brand would suffice?</li>\n</ol>\n<p><a href=\"https://i.sstatic.net/CTNka.png\" rel=\"nofollow noreferrer\"><img src=\"https://i.sstatic.net/CTNka.png\" alt=\"enter image description here\" /></a></p>\n<p>Will appreciate any help or guidance in this.</p>\n<p>Thanks</p>\n"
+  },
+  "answers": [
+    {
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "user36162"
+      },
+      "is_accepted": false,
+      "score": 12,
+      "last_activity_date": 1601978119,
+      "creation_date": 1601978119,
+      "answer_id": 40618,
+      "question_id": 40617,
+      "content_license": "CC BY-SA 4.0",
+      "body": "<p><a href=\"https://www.nhs.uk/conditions/homeopathy/\" rel=\"noreferrer\">Homeopathy is a waste of money</a></p>\n<p>It has no effect besides placebo. You never need it, for anything.</p>\n"
+    }
+  ],
+  "comments": [
+    {
+      "owner": {
+        "account_id": 3007589,
+        "reputation": 8375,
+        "user_id": 13196,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/TGGMQ.jpg?s=256",
+        "display_name": "Erik",
+        "link": "https://parenting.stackexchange.com/users/13196/erik"
+      },
+      "edited": false,
+      "score": 1,
+      "creation_date": 1601976753,
+      "post_id": 40617,
+      "comment_id": 85123,
+      "content_license": "CC BY-SA 4.0",
+      "body": "Requesting medical advice is off-topic here. You&#39;ll have to contact a doctor."
+    },
+    {
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "user36162"
+      },
+      "reply_to_user": {
+        "account_id": 3007589,
+        "reputation": 8375,
+        "user_id": 13196,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/TGGMQ.jpg?s=256",
+        "display_name": "Erik",
+        "link": "https://parenting.stackexchange.com/users/13196/erik"
+      },
+      "edited": false,
+      "score": 6,
+      "creation_date": 1601977843,
+      "post_id": 40617,
+      "comment_id": 85124,
+      "content_license": "CC BY-SA 4.0",
+      "body": "@Erik: homeopathic remedies aren&#39;t medicine, though. There&#39;s a simple answer which is a resounding no, this is of no use for anything."
+    },
+    {
+      "owner": {
+        "account_id": 3007589,
+        "reputation": 8375,
+        "user_id": 13196,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/TGGMQ.jpg?s=256",
+        "display_name": "Erik",
+        "link": "https://parenting.stackexchange.com/users/13196/erik"
+      },
+      "edited": false,
+      "score": 1,
+      "creation_date": 1601977903,
+      "post_id": 40617,
+      "comment_id": 85125,
+      "content_license": "CC BY-SA 4.0",
+      "body": "@dxh if that&#39;s the stance of this site, I&#39;d totally agree with you that homeopathy doesn&#39;t do anything, but I wasn&#39;t sure."
+    },
+    {
+      "owner": {
+        "account_id": 20553,
+        "reputation": 10800,
+        "user_id": 7798,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/431cd43aaf713caa80316e852a87a840?s=256&d=identicon&r=PG",
+        "display_name": "Paul Johnson",
+        "link": "https://parenting.stackexchange.com/users/7798/paul-johnson"
+      },
+      "reply_to_user": {
+        "account_id": 3007589,
+        "reputation": 8375,
+        "user_id": 13196,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/TGGMQ.jpg?s=256",
+        "display_name": "Erik",
+        "link": "https://parenting.stackexchange.com/users/13196/erik"
+      },
+      "edited": false,
+      "score": 0,
+      "creation_date": 1602059450,
+      "post_id": 40617,
+      "comment_id": 85127,
+      "content_license": "CC BY-SA 4.0",
+      "body": "@Erik This site doesn&#39;t have a &quot;stance&quot; on any issues except its scope. However like the rest of Stack Exchange it does value evidence-based answers, and the evidence on homoeopathy is very clear."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "url": "https://www.justparents.co.uk/forums/topic-1569/",
+  "title": "Drayton Manor",
+  "listed_replies": 2,
+  "last_reply_as_displayed": "19 years ago by shell",
+  "board": "activities",
+  "listing_raw_file": "_raw/forums-deep/justparents/responses/ddc50d0aca6bc97a8019.html",
+  "thread_id": "jp-1569",
+  "pagination_complete": true,
+  "visible_pages_fetched": 1,
+  "visible_post_count": 3,
+  "listed_expected_posts": 3,
+  "listed_count_matches": true,
+  "pages": [
+    {
+      "requested_url": "https://www.justparents.co.uk/forums/topic-1569/",
+      "final_url": "https://www.justparents.co.uk/forums/topic-1569/",
+      "status": 200,
+      "headers": {
+        "Date": "Sat, 24 Oct 2026 12:40:26 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Server": "cloudflare",
+        "Cache-Control": "private, no-store, no-cache, must-revalidate, max-age=0",
+        "pragma": "no-cache",
+        "expires": "0",
+        "Set-Cookie": "jp_session=4039441d31ca1801210e8de816e14856; path=/; secure; HttpOnly; SameSite=Lax",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=bA%2BA22w2cAElJtR13cI1cqfNkqX4njU9ltR1lKq0lgfr0vM%2FMUoDrtVwWLgT%2Ffl%2FxBA%2B5pITiwo3i9H2D%2F7hbrv%2FnudBEyAliKqpcUtey2bnxOC%2BYzAko6%2B0K4ax8DqTEaAT3MaMpN4%3D\"}]}",
+        "cf-cache-status": "DYNAMIC",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Content-Encoding": "zstd",
+        "CF-RAY": "a4f90ccafa6ce4ce-RIX",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "fetched_at": "2026-10-24T12:40:26.041150+00:00",
+      "bytes": 32740,
+      "sha256": "84f1f88d8d01442444e34e1c2a7bdcf1c7ce39d1e897f385865ba4e966412aef",
+      "raw_file": "_raw/forums-deep/justparents/responses/10c604b7f77312972216.html"
+    }
+  ],
+  "posts": [
+    {
+      "post_id": "14056",
+      "author_handle": "shell",
+      "date_as_displayed": "Posted 19 years 3 months ago",
+      "body": "Well I am going to drayton Manor on the 15th of July I am so looking forward to it. There wil be my Sister and her Hubby and the twins.  Alex will be with his dad on that day.\nHas anyone been before?\nI love the rides.\nShell.xx",
+      "permalink": "https://www.justparents.co.uk/forums/topic-1569/#14056",
+      "raw_file": "_raw/forums-deep/justparents/responses/10c604b7f77312972216.html",
+      "page_url": "https://www.justparents.co.uk/forums/topic-1569/",
+      "role": "original_post",
+      "original_post_id": "14056"
+    },
+    {
+      "post_id": "14067",
+      "author_handle": "hipmomma",
+      "date_as_displayed": "Posted 19 years 3 months ago",
+      "body": "Its ace, small enough that you dont have to que for hours but big enough to have some decent rides! not far from me actually! have an ace time! xXx",
+      "permalink": "https://www.justparents.co.uk/forums/topic-1569/#14067",
+      "raw_file": "_raw/forums-deep/justparents/responses/10c604b7f77312972216.html",
+      "page_url": "https://www.justparents.co.uk/forums/topic-1569/",
+      "role": "response",
+      "original_post_id": "14056"
+    },
+    {
+      "post_id": "14073",
+      "author_handle": "shell",
+      "date_as_displayed": "Posted 19 years 3 months ago",
+      "body": "I know they are building new rides all the time I am sure I will have a good time.   Going to do some sandwiches to take also which will be good, and really looking forward to it.\nShell.\nxx",
+      "permalink": "https://www.justparents.co.uk/forums/topic-1569/#14073",
+      "raw_file": "_raw/forums-deep/justparents/responses/10c604b7f77312972216.html",
+      "page_url": "https://www.justparents.co.uk/forums/topic-1569/",
+      "role": "response",
+      "original_post_id": "14056"
+    }
+  ]
+}

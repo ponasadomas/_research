@@ -1,0 +1,98 @@
+{
+  "question": {
+    "tags": [
+      "breastfeeding",
+      "milk"
+    ],
+    "owner": {
+      "account_id": 10991861,
+      "reputation": 393,
+      "user_id": 41679,
+      "user_type": "registered",
+      "profile_image": "https://i.sstatic.net/0eZhT.jpg?s=256",
+      "display_name": "Daniel Walker",
+      "link": "https://parenting.stackexchange.com/users/41679/daniel-walker"
+    },
+    "is_answered": true,
+    "view_count": 1413,
+    "accepted_answer_id": 43338,
+    "answer_count": 1,
+    "score": 3,
+    "last_activity_date": 1680882189,
+    "creation_date": 1680838599,
+    "question_id": 43337,
+    "content_license": "CC BY-SA 4.0",
+    "link": "https://parenting.stackexchange.com/questions/43337/yogurt-like-substance-in-bottle-of-breast-milk",
+    "title": "Yogurt-like substance in bottle of breast milk",
+    "body": "<p>My wife has been expressing breast milk for our two-week-old daughter.  The other day, I pulled a bottle of breast milk from the fridge and noticed that it had a thick (maybe half an inch) layer of what looked like yogurt on top of the milk.  I don't know for how long that particular bottle had been in the fridge but it was definitely less than 24 hours.</p>\n<p>What is that yogurt-like substance and is it safe to give to my daughter?</p>\n"
+  },
+  "answers": [
+    {
+      "owner": {
+        "account_id": 4948536,
+        "reputation": 19410,
+        "user_id": 11249,
+        "user_type": "moderator",
+        "profile_image": "https://i.sstatic.net/3RVO7.png?s=256",
+        "display_name": "Stephie",
+        "link": "https://parenting.stackexchange.com/users/11249/stephie"
+      },
+      "is_accepted": true,
+      "score": 8,
+      "last_activity_date": 1680882189,
+      "last_edit_date": 1680882189,
+      "creation_date": 1680881211,
+      "answer_id": 43338,
+      "question_id": 43337,
+      "content_license": "CC BY-SA 4.0",
+      "body": "<p><em>Caveat: This post can not judge the safety of the milk, especially without further details. It is intended to offer a possible explanation, from personal experience and as backed by different others.</em></p>\n<p>Your wife’s breast milk is a natural milk that has not undergone any treatment unlike most cow milk found in stores. Any mammal’s milk contains watery and fatty components and if left to stand, the majority of the fatty bits float to the top and the watery parts collect at the lower part of the container. Sometimes you’ll see two, sometimes even three distinct layers.</p>\n<p>Just swirl or shake the container and the fat should disperse again and you can feed the milk as usual.</p>\n<p>——-</p>\n<p>For those who are wanting more details: the fatty part in cow’s milk is what forms the cream. Traditionally the milk was left overnight and the cream layer scooped out with flat spoons. Modem milk production removes basically all the fat by centrifugation and the desired fat content is then achieved by adding some of the fat back in. As consumers have come to expect their milk to be homogeneous in texture, the milk is homogenized, which means that the fat droplets are made so small that they no longer float to the top and stay in suspension instead.</p>\n"
+    }
+  ],
+  "comments": [
+    {
+      "owner": {
+        "account_id": 4948536,
+        "reputation": 19410,
+        "user_id": 11249,
+        "user_type": "moderator",
+        "profile_image": "https://i.sstatic.net/3RVO7.png?s=256",
+        "display_name": "Stephie",
+        "link": "https://parenting.stackexchange.com/users/11249/stephie"
+      },
+      "edited": false,
+      "score": 1,
+      "creation_date": 1680874379,
+      "post_id": 43337,
+      "comment_id": 92769,
+      "content_license": "CC BY-SA 4.0",
+      "body": "Any other observations beyond texture? Was the bottle possibly not clean? Can you exclude that it was just fat? Have you for example ever seen raw, unhomogenized milk (cow or sheep)?"
+    },
+    {
+      "owner": {
+        "account_id": 10991861,
+        "reputation": 393,
+        "user_id": 41679,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/0eZhT.jpg?s=256",
+        "display_name": "Daniel Walker",
+        "link": "https://parenting.stackexchange.com/users/41679/daniel-walker"
+      },
+      "reply_to_user": {
+        "account_id": 4948536,
+        "reputation": 19410,
+        "user_id": 11249,
+        "user_type": "moderator",
+        "profile_image": "https://i.sstatic.net/3RVO7.png?s=256",
+        "display_name": "Stephie",
+        "link": "https://parenting.stackexchange.com/users/11249/stephie"
+      },
+      "edited": false,
+      "score": 0,
+      "creation_date": 1680878740,
+      "post_id": 43337,
+      "comment_id": 92770,
+      "content_license": "CC BY-SA 4.0",
+      "body": "The bottle was clean.  I don’t have any experience with unhomogenized milk."
+    }
+  ]
+}

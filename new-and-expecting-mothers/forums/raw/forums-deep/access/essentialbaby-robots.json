@@ -1,0 +1,8 @@
+{
+  "slug": "essentialbaby",
+  "kind": "robots",
+  "requested_url": "https://www.essentialbaby.com.au/robots.txt",
+  "fetched_at": "2026-10-24T12:23:56.333155+00:00",
+  "status": null,
+  "error": "SSLError(MaxRetryError(\"HTTPSConnectionPool(host='www.essentialbaby.com.au', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1081)')))\"))"
+}

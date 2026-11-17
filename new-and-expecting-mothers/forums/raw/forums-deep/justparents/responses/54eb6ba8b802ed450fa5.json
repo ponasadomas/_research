@@ -1,0 +1,28 @@
+{
+  "requested_url": "https://www.justparents.co.uk/forums/third-trimester/",
+  "final_url": "https://www.justparents.co.uk/forums/third-trimester/",
+  "status": 200,
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 12:36:09 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Cache-Control": "private, no-store, no-cache, must-revalidate, max-age=0",
+    "pragma": "no-cache",
+    "expires": "0",
+    "Set-Cookie": "jp_session=875c81f808671b7713280d118409f347; path=/; secure; HttpOnly; SameSite=Lax",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Accept-Encoding",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=RDyW1Q8WXYuZa1okL2AXmk%2FGO94GJjUP8eIbdUOvhQAy%2Bd85so1zQiSMX%2F8bITWWgJH5xeCyikE2y7881FyDf%2BBsGeeFvkWJGFgtsb8dW8yypT4Mv1YrfVfZb9ZqnnK7P9RYooz532U%3D\"}]}",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "zstd",
+    "CF-RAY": "a4f906865ad3e4d6-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "fetched_at": "2026-10-24T12:36:09.294331+00:00",
+  "bytes": 65056,
+  "sha256": "c4b62547398a806296d735194c072a7f67c2be25fa628d53ec1f737e700aaf19",
+  "raw_file": "_raw/forums-deep/justparents/responses/54eb6ba8b802ed450fa5.html"
+}

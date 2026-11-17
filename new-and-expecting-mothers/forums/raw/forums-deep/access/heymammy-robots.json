@@ -1,0 +1,29 @@
+{
+  "slug": "heymammy",
+  "kind": "robots",
+  "requested_url": "https://www.heymammy.com/robots.txt",
+  "fetched_at": "2026-10-24T12:25:20.947721+00:00",
+  "status": 200,
+  "final_url": "https://www.heymammy.com/robots.txt",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 12:25:21 GMT",
+    "Content-Type": "text/plain; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=YF5bGuJ%2BdpRW1TVB41gPXAX9AbHN2iJJ2YjKk4R1PeJITG61jS4gMZVVdBHCUYsQBeFGI4skBuSxrsqEWmkz7BHDdk8D1lPwzYRZZguKlDwz5hWoglumK4%2BePtHKoKaidiOT\"}]}",
+    "Cf-Cache-Status": "MISS",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Vary": "Accept-Encoding",
+    "Cache-Control": "max-age=14400",
+    "Content-Encoding": "zstd",
+    "CF-RAY": "a4f8f6b23cdfe4e0-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "bytes": 2866,
+  "sha256": "064263a4bb65e64f5221666ea49f50bfdf7e5c42d579b430197e8e9028320c92",
+  "raw_file": "_raw/forums-deep/access/heymammy-robots.bin",
+  "redirects": [],
+  "title": "",
+  "policy_excerpt": "# As a condition of accessing this website, you agree to abide by the following\n# content signals:\n\n# (a)  If a Content-Signal = yes, you may collect content for the corresponding\n#      use.\n# (b)  If a Content-Signal = no, you may not collect content for the\n#      corresponding use.\n# (c)  If the website operator does not include a Content-Signal for a\n#      corresponding use, the website operator neither grants nor restricts\n#      permission via Content-Signal with respect to the corresponding use.\n\n# The content signals and their meanings are:\n\n# search:   building a search index and providing search results (e.g., returning\n#           hyperlinks and short excerpts from your website's contents). Search does not\n#           include providing AI-generated search summaries.\n# ai-input: inputting content into one or more AI models (e.g., retrieval\n#           augmented generation, grounding, or other real-time taking of content for\n#           generative AI search answers).\n# ai-train: training or fine-tuning AI models.\n# use:      how AI systems may consume the content (immediate, reference, or full).\n\n# ANY RESTRICTIONS EXPRESSED VIA CONTENT SIGNALS ARE EXPRESS RESERVATIONS OF\n# RIGHTS UNDER ARTICLE 4 OF THE EUROPEAN UNION DIRECTIVE 2019/790 ON COPYRIGHT\n# AND RELATED RIGHTS IN THE DIGITAL SINGLE MARKET.\n\n# BEGIN Cloudflare Managed content\n\n\nUser-agent: *\nContent-Signal: search=yes,ai-train=no,use=reference\nAllow: /\n\n# Training crawlers\nUser-agent: Amazonbot\nDisallow: /\n\nUser-agent: Applebot-Extended\nDisallow: /\n\nUser-agent: Bytespider\nDisallow: /\n\nUser-agent: CCBot\nDisallow: /\n\nUser-agent: ClaudeBot\nDisallow: /\n\nUser-agent: Diffbot\nDisallow: /\n\nUser-agent: Google-Extended\nDisallow: /\n\nUser-agent: GPTBot\nDisallow: /\n\nUser-agent: omgili\nDisallow: /\n\nUser-agent: ant"
+}

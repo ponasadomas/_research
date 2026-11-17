@@ -1,0 +1,27 @@
+{
+  "slug": "bubhub",
+  "kind": "homepage",
+  "requested_url": "https://bubhub.com.au/",
+  "fetched_at": "2026-10-24T12:31:15.012582+00:00",
+  "status": 200,
+  "final_url": "https://bubhub.com.au/",
+  "headers": {
+    "Connection": "Keep-Alive",
+    "Keep-Alive": "timeout=5, max=100",
+    "X-Powered-By": "PHP/8.2.35",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Link": "<https://bubhub.com.au/wp-json/>; rel=\"https://api.w.org/\", <https://bubhub.com.au/wp-json/wp/v2/pages/2911>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://bubhub.com.au/>; rel=shortlink",
+    "Content-Length": "27768",
+    "Content-Encoding": "gzip",
+    "Vary": "Accept-Encoding",
+    "Date": "Sat, 24 Oct 2026 12:31:26 GMT",
+    "Server": "LiteSpeed",
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000"
+  },
+  "bytes": 94849,
+  "sha256": "604e662278aa8006abe600e04566f4ff164697c3f89a8c95a5fd82fa0d69205f",
+  "raw_file": "_raw/forums-deep/access/bubhub-homepage.bin",
+  "redirects": [],
+  "title": "The Bub Hub | Australia&#039;s Best Pregnancy Baby Parenting Website",
+  "policy_excerpt": ""
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "hellobee",
+  "kind": "landing",
+  "requested_url": "https://boards.hellobee.com/",
+  "fetched_at": "2026-10-24T12:23:58.205496+00:00",
+  "status": 200,
+  "final_url": "https://boards.hellobee.com/",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 12:23:58 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Keep-Alive": "timeout=60",
+    "Vary": "Accept-Encoding",
+    "Content-Encoding": "gzip",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload; always;"
+  },
+  "bytes": 49393,
+  "sha256": "c245b1beb7f929d2a09ba263134238f8adfa10595466dc7acfac37d4b7776949",
+  "raw_file": "_raw/forums-deep/access/hellobee-landing.bin",
+  "redirects": [],
+  "title": "Hellobee Boards",
+  "policy_excerpt": ""
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "rollercoaster",
+  "kind": "landing",
+  "requested_url": "https://rollercoaster.ie/community/",
+  "fetched_at": "2026-10-24T12:25:21.199644+00:00",
+  "status": 403,
+  "final_url": "https://rollercoaster.ie/community/",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 12:25:21 GMT",
+    "Content-Type": "text/html",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}",
+    "ki-edge": "v=28.6.0;mv=99.9.9",
+    "set-cookie": "__cf_bm=KcMzQmM0U9RHKWvzBF91YWZvEBlRib7L7F3vvgav4Vc-1792844721.232859-1.0.1.1-MfnjRv0JlDNnjeyDiCNlJ8HuEwc6RFG_9ZWVVsVwyZZpcImix0mK.KGK9kSjhw0MgQcRivpXFT8sv2IIY8_5c.VXD9sJn1ypUNXJRTuej7IK_42Kh83iJJY58ezDTDAW; HttpOnly; SameSite=None; Secure; Path=/; Domain=rollercoaster.ie; Expires=Sat, 24 Oct 2026 12:55:21 GMT",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=EIo2c8547caKBGPZdgu%2FgSPc7Ic9emwsSt44CJ51gMatFoCWAQBWbbVk77WzWqEvg7HkxV%2FXVlZfjRYuW3nS56vyE3BU19J5s7CIu7bK%2FGh%2F%2FCLCBRFezLpY%2FlCDGNoTw%2Bc%3D\"}]}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "a4f8f6b3bae4e4ce-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "bytes": 103,
+  "sha256": "f261423d1da97890ff6bfccd31ff4ee0b74f69351cf75095fbe791cb16cbf5bd",
+  "raw_file": "_raw/forums-deep/access/rollercoaster-landing.bin",
+  "redirects": [],
+  "title": "Error 403 Forbidden",
+  "policy_excerpt": ""
+}

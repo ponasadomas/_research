@@ -1,0 +1,16 @@
+Sitemap: https://forums.moneysavingexpert.com/sitemapindex.xml
+User-agent: Claude-User
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: Perplexity-User
+Allow: /
+User-agent: *
+Disallow: /entry/
+Disallow: /*.rss$
+Disallow: /messages/
+Disallow: /profile/
+Disallow: /search?
+Disallow: /categories/root/
+Disallow: /discussion/comment/
+Disallow: /categories/game-over/*?competition-status=opened

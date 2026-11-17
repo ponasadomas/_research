@@ -1,0 +1,64 @@
+{
+  "question": {
+    "tags": [
+      "toddler",
+      "noise"
+    ],
+    "owner": {
+      "account_id": 3319177,
+      "reputation": 221,
+      "user_id": 29958,
+      "user_type": "registered",
+      "profile_image": "https://i.sstatic.net/dTTna.jpg?s=256",
+      "display_name": "scipper",
+      "link": "https://parenting.stackexchange.com/users/29958/scipper"
+    },
+    "is_answered": true,
+    "view_count": 144,
+    "answer_count": 1,
+    "score": 1,
+    "last_activity_date": 1603367237,
+    "creation_date": 1603365987,
+    "question_id": 40677,
+    "content_license": "CC BY-SA 4.0",
+    "link": "https://parenting.stackexchange.com/questions/40677/first-sounds-based-on-parents-native-language",
+    "title": "First &quot;sounds&quot; based on parents native language?",
+    "body": "<p>Now, our second child starts making noises (he is 5 month old), I realized, that these sounds are very similar to the sounds our daughter made, when she was in that age.</p>\n<p>The sounds are something like &quot;irrr&quot; and &quot;grrr&quot; (many rolling R's :) ), and we asked ourselves, if this is related to our language (we are german native speaker).</p>\n<p>And, what we are really curious about, if this is the case, what are the first sounds of other languages?</p>\n"
+  },
+  "answers": [
+    {
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "user36162"
+      },
+      "is_accepted": false,
+      "score": 4,
+      "last_activity_date": 1603367237,
+      "creation_date": 1603367237,
+      "answer_id": 40678,
+      "question_id": 40677,
+      "content_license": "CC BY-SA 4.0",
+      "body": "<p>From <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5421641/\" rel=\"nofollow noreferrer\">Subtlety of Ambient-Language Effects in Babbling: A Study of English- and Chinese-Learning Infants at 8, 10, and 12 Months</a>, it seems like there is not an easily detectible language effect on infant vocalization:</p>\n<blockquote>\n<p>In summary, with a methodology designed to limit possible bias effects, we did not find significant differences from chance performance for language identification in our overall dataset of 1917 utterances from English- and Chinese-learning infants at 8, 10, and 12 months. The results support the conclusion that infant babbling is based primarily on vocalization patterns <em>common</em> to both of these very different ambient languages.</p>\n</blockquote>\n"
+    }
+  ],
+  "comments": [
+    {
+      "owner": {
+        "account_id": 3319177,
+        "reputation": 221,
+        "user_id": 29958,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/dTTna.jpg?s=256",
+        "display_name": "scipper",
+        "link": "https://parenting.stackexchange.com/users/29958/scipper"
+      },
+      "edited": false,
+      "score": 0,
+      "creation_date": 1603453317,
+      "post_id": 40678,
+      "comment_id": 85288,
+      "content_license": "CC BY-SA 4.0",
+      "body": "Thank you, for the answer. Very interesting, that there are studies about this. But a little bit disappointing, that there are no meaningful differences."
+    }
+  ]
+}

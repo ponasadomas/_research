@@ -1,0 +1,14 @@
+{
+  "listing_unique": 1356,
+  "filtered_cards": 480,
+  "decisions": 480,
+  "kept": 343,
+  "dropped": 137,
+  "missing_decisions": [],
+  "triage_files": [
+    "agent-mse-triage01.tsv",
+    "agent-mse-triage02.tsv",
+    "parent-mse-triage03.tsv",
+    "parent-mse-triage04.tsv"
+  ]
+}

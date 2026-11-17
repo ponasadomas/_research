@@ -1,0 +1,38 @@
+{
+  "slug": "diaperswappers",
+  "kind": "robots",
+  "requested_url": "https://www.diaperswappers.com/robots.txt",
+  "fetched_at": "2026-10-24T12:23:59.110254+00:00",
+  "status": 200,
+  "final_url": "https://diaperswappers.com/robots.txt",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 12:24:01 GMT",
+    "Content-Type": "text/plain; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "link": "<https://diaperswappers.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=t0OXMoIhjUJsZID1MZg9b5GOU5cu%2F%2FB2E8JfXVNZ7dXWubJzWw1QbTHZxWMRIpIJ22le9gIcEuwOef8fSqg5G%2BOf9H2mocfb82sf9oWTSyIjEoJH%2B%2BtMK2kqEJH%2FPEKZ%2B6ijqzA%3D\"}]}",
+    "vary": "Accept-Encoding",
+    "Server": "cloudflare",
+    "x-turbo-charged-by": "LiteSpeed",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "last-modified": "Sat, 24 Oct 2026 12:24:01 GMT",
+    "Cache-Control": "max-age=14400",
+    "cf-cache-status": "MISS",
+    "Content-Encoding": "zstd",
+    "CF-RAY": "a4f8f4b9f814e4cc-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "bytes": 119,
+  "sha256": "6d4d8d627e2152343fe055eae5f56e272578106444abec1074cbcec36c6d2553",
+  "raw_file": "_raw/forums-deep/access/diaperswappers-robots.bin",
+  "redirects": [
+    {
+      "status": 301,
+      "url": "https://www.diaperswappers.com/robots.txt",
+      "location": "https://diaperswappers.com/robots.txt"
+    }
+  ],
+  "title": "",
+  "policy_excerpt": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\nSitemap: https://diaperswappers.com/wp-sitemap.xml\n"
+}

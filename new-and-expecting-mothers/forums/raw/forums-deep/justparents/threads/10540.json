@@ -1,0 +1,68 @@
+{
+  "url": "https://www.justparents.co.uk/forums/topic-10540/",
+  "title": "Daughter problem",
+  "listed_replies": 1,
+  "last_reply_as_displayed": "8 years ago by Vendi",
+  "board": "work-childcare",
+  "listing_raw_file": "_raw/forums-deep/justparents/responses/8b1099b62f85f4640548.html",
+  "thread_id": "jp-10540",
+  "pagination_complete": true,
+  "visible_pages_fetched": 1,
+  "visible_post_count": 2,
+  "listed_expected_posts": 2,
+  "listed_count_matches": true,
+  "pages": [
+    {
+      "requested_url": "https://www.justparents.co.uk/forums/topic-10540/",
+      "final_url": "https://www.justparents.co.uk/forums/topic-10540/",
+      "status": 200,
+      "headers": {
+        "Date": "Sat, 24 Oct 2026 12:34:09 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Server": "cloudflare",
+        "Cache-Control": "private, no-store, no-cache, must-revalidate, max-age=0",
+        "pragma": "no-cache",
+        "expires": "0",
+        "Set-Cookie": "jp_session=0748d84b7eedd988ffae9def9414d01f; path=/; secure; HttpOnly; SameSite=Lax",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=odDF7ErMrdqEx97V85HXdMGj1CeIk8dnLzBGxLRd3A6tldoGaZj%2BMymjTZ8vtMMpdRY%2FEae3DIPsWY%2BC3U1pOqImCbMTuspxL4R%2FqT9pSGJqS3x39p52iRwhOEMrzl2kvJQy62Mzopc%3D\"}]}",
+        "cf-cache-status": "DYNAMIC",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Content-Encoding": "zstd",
+        "CF-RAY": "a4f903965a76a86c-RIX",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "fetched_at": "2026-10-24T12:34:08.983958+00:00",
+      "bytes": 32260,
+      "sha256": "226e29fcdf406f325e646ae5807b36092009dd24c715a1140aa26d8de63a40cc",
+      "raw_file": "_raw/forums-deep/justparents/responses/117279da0b4f7d361191.html"
+    }
+  ],
+  "posts": [
+    {
+      "post_id": "89511",
+      "author_handle": "nicolejones",
+      "date_as_displayed": "Posted 8 years 9 months ago",
+      "body": "My daughter is going to be 2 at the end of February. She won't drink out of any sippy cup. Even just cups with straws. She has no problem drinking a juice box. She still drinks milk from a bottle in the morning with breakfast. At the naptime and bedtime, she uses the bottle for drinking. My question is should I keep allowing this? She'll eventually drink from a sippy cup? Else should I gradually take it away altogether and let her cry? I'm just worried she won't drink any milk if I stop giving her the bottle. She'll drink a juice box again and again. She also drinks water but only from her bottle. Please give me useful tips. She is my first child. I do not know how to change her this habit.",
+      "permalink": "https://www.justparents.co.uk/forums/topic-10540/#89511",
+      "raw_file": "_raw/forums-deep/justparents/responses/117279da0b4f7d361191.html",
+      "page_url": "https://www.justparents.co.uk/forums/topic-10540/",
+      "role": "original_post",
+      "original_post_id": "89511"
+    },
+    {
+      "post_id": "90172",
+      "author_handle": "Vendi",
+      "date_as_displayed": "Posted 8 years 7 months ago",
+      "body": "My son had been drinking from a bottle before three years, then switched to a cup",
+      "permalink": "https://www.justparents.co.uk/forums/topic-10540/#90172",
+      "raw_file": "_raw/forums-deep/justparents/responses/117279da0b4f7d361191.html",
+      "page_url": "https://www.justparents.co.uk/forums/topic-10540/",
+      "role": "response",
+      "original_post_id": "89511"
+    }
+  ]
+}

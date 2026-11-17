@@ -1,0 +1,28 @@
+{
+  "slug": "pregnancyforum",
+  "kind": "robots",
+  "requested_url": "https://www.pregnancyforum.org.uk/robots.txt",
+  "fetched_at": "2026-10-24T12:23:57.586919+00:00",
+  "status": 404,
+  "final_url": "https://pregnancyforum.org.uk/robots.txt",
+  "headers": {
+    "Server": "nginx",
+    "Date": "Sat, 24 Oct 2026 12:23:57 GMT",
+    "Content-Type": "text/html",
+    "Content-Length": "2002",
+    "Connection": "keep-alive",
+    "x-ray": "wnp509:0.000/wn509:0.000/wa509:D=347"
+  },
+  "bytes": 2002,
+  "sha256": "128424a600cff230c8ac013ad2687c53254b314b06a7772c07e2e0a73d28e73b",
+  "raw_file": "_raw/forums-deep/access/pregnancyforum-robots.bin",
+  "redirects": [
+    {
+      "status": 301,
+      "url": "https://www.pregnancyforum.org.uk/robots.txt",
+      "location": "https://pregnancyforum.org.uk/robots.txt"
+    }
+  ],
+  "title": "404 Not Found",
+  "policy_excerpt": "<!doctype html>\n<html>\n<head>\n    <title>404 Not Found</title>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width\">\n    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>\n    <style>\n        body, html {\n            height: 100%;\n            margin: 0;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            background-color: #f1f4f5;\n            color: #37474f;\n            font-family: 'Open Sans', sans-serif;\n        }\n        .container {\n            display: flex;\n            width: 535px;\n        }\n        .container-code{\n            min-width: 250px;\n            text-align: center;\n        }\n        .container-text {\n            min-width: 250px;\n            padding-left: 20px;\n        }\n        .error_code {\n            display: block;\n            font-size: 92px;\n            font-weight: 700;\n            margin-top: -25px;\n        }\n        .error_brief {\n            display: block;\n            font-size: 18px;\n            font-weight: 700;\n            margin-bottom: 15px;\n        }\n\n        @media (max-width: 768px) {\n            .container {\n                display: flex;\n                flex-direction: column;\n                width: 100%;\n            }\n            .container-text{\n                padding: 30px;\n                text-align: center;\n                min-width: auto;\n            }\n            .container-code{\n                min-width: auto;\n                text-align: center;\n                margin-top: 100px;\n            }\n        }\n    </style>\n</head>\n<body>\n<div class=\"container\">\n    <div class=\"container-code\">\n        <span class=\"error_code\">404</span>\n        <span class=\"error_des"
+}

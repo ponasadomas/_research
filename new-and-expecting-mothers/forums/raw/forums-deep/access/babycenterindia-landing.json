@@ -1,0 +1,36 @@
+{
+  "slug": "babycenterindia",
+  "kind": "landing",
+  "requested_url": "https://www.babycenter.in/community",
+  "fetched_at": "2026-10-24T12:23:57.616307+00:00",
+  "status": 200,
+  "final_url": "https://community.babycentre.co.uk/",
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "Cache-Control": "private, no-cache, no-store, max-age=0, must-revalidate",
+    "ETag": "\"16uour6ml1f6u51\"",
+    "Vary": "Accept-Encoding",
+    "Content-Encoding": "gzip",
+    "Date": "Sat, 24 Oct 2026 12:23:57 GMT",
+    "Content-Length": "65023",
+    "Connection": "keep-alive",
+    "Set-Cookie": "geoCC=LT; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.babycentre.co.uk, geoRegion=; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.babycentre.co.uk, geoDMA=; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.babycentre.co.uk, geoCity=VILNIUS; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.babycentre.co.uk, geoZip=; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.babycentre.co.uk",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+    "X-XSS-Protection": "1; mode=block",
+    "x-frame-options": "SAMEORIGIN",
+    "x-content-type-options": "nosniff",
+    "Akamai-Cache-Status": "Miss from child, Miss from parent"
+  },
+  "bytes": 319138,
+  "sha256": "fd490941c56f87c888bedd7b9a6e4fd5b1c9ccd2ed3dd6dd2379d83b1acef089",
+  "raw_file": "_raw/forums-deep/access/babycenterindia-landing.bin",
+  "redirects": [
+    {
+      "status": 301,
+      "url": "https://www.babycenter.in/community",
+      "location": "https://community.babycentre.co.uk/"
+    }
+  ],
+  "title": "Community | BabyCentre",
+  "policy_excerpt": ""
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "bellybelly",
+  "kind": "robots",
+  "requested_url": "https://www.bellybelly.com.au/robots.txt",
+  "fetched_at": "2026-10-24T12:23:56.224548+00:00",
+  "status": 200,
+  "final_url": "https://www.bellybelly.com.au/robots.txt",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 12:23:56 GMT",
+    "Content-Type": "text/plain; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Access-Control-Allow-Origin": "*",
+    "Cache-Control": "public, s-maxage=31536000, max-age=60, must-revalidate",
+    "Strict-Transport-Security": "max-age=15552000; preload",
+    "X-Content-Type-Options": "nosniff",
+    "Vary": "accept-encoding",
+    "set-cookie": "__cf_bm=OAipNOuderK8QhmxIDwclbg2rWAOgJ_fjPze4sHNRVk-1792844636.2783897-1.0.1.1-kXAt3fU1_fvEoKH8_DeJv5anjLgheZwERNPS1b_S9e1JvRlwOJr6KrSozwKg7pbt7oAxsA_JewEZVcxmybDxh8Q6e2WR.r5UQQH38Aoltb.KfiRm8keCrfrDbla.9BPl; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.bellybelly.com.au; Expires=Sat, 24 Oct 2026 12:53:56 GMT",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=vr0vgZQrLzofwHkKKjvrHyqDJAHWgoXakcyid8u0Lhk31YE2RxjaubyzktVqxeFL%2BrAAQNk1Pyilq1RYTNABiudzmet4phsysnj00ilvA8DryYhuYynk78MJ7bExFFDIS2cMXbYAQg%3D%3D\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}",
+    "Content-Encoding": "zstd",
+    "Server": "cloudflare",
+    "CF-RAY": "a4f8f4a0b809e4e5-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "bytes": 9939,
+  "sha256": "369746a52dd3e41495bbe5d795362fe944fb7c97486ff55213db44d5df86f02d",
+  "raw_file": "_raw/forums-deep/access/bellybelly-robots.bin",
+  "redirects": [],
+  "title": "",
+  "policy_excerpt": "# Prevent Crawling Unnecessary Endpoints - Dynamically added by BigScoots\nUser-agent: *\nDisallow: /cdn-cgi/\nDisallow: /wp-admin/\nDisallow: /wp-json/\nDisallow: /*?s=\nDisallow: /*?attachment_id=\nDisallow: /*?add-to-cart=\nDisallow: /*&add-to-cart=\nDisallow: /*?add_to_wishlist=\nDisallow: /*&add_to_wishlist=\n\nUser-agent: Googlebot\nAllow: *.js\nAllow: *.css\nAllow: /wp-admin/admin-ajax.php\nDisallow: /?s=\nDisallow: /search/\nDisallow: /wp-admin\nDisallow: /*/feed/\nDisallow: /wp-login.php\nDisallow: /wp-register.php\nDisallow: /trackback/\n\nUser-agent: *\nAllow: /wp-admin/admin-ajax.php\nDisallow: /wp-admin\nDisallow: /wp-login.php\nDisallow: /trackback/\nDisallow: /wp-register.php\nDisallow: /wp-json/\nDisallow: /cgi-bin/\nDisallow: /xmlrpc.php\nDisallow: /cdn-cgi\n\nDisallow: /forums/members.php\nDisallow: /forums/tags.php\nDisallow: /forums/gallery.php\nDisallow: /forums/reviews.php\nDisallow: /forums/groups.php\nDisallow: /forums/sitemap\nDisallow: /forums/newreply.php\nDisallow: /forums/member.php\nDisallow: /forums/search.php\nDisallow: /forums/subscription.php\nDisallow: /forums/usercp.php\nDisallow: /forums/calendar.php\nDisallow: /102354611/Belly_InPost_Top\nDisallow: /13425667/Belly_InPost_Top\nDisallow: /uploads\n\nAllow: /forums/your-teeth-all-things-dental-182/\nAllow: /forums/your-stories-loss-134/\nAllow: /forums/your-period-contraceptives-203/\nAllow: /forums/your-baby-toddler-baby-buddies-72/\nAllow: /forums/writing-poetry-184/\nAllow: /forums/working-life-employment-job-seeking-160/\nAllow: /forums/working-home-121/\nAllow: /forums/weaning-support-246/\nAllow: /forums/waterbirth-information-discussion-324/\nAllow: /forums/vaginal-birth-after-caesarean-vbac-information-resources-327/\nAllow: /forums/using-doulas-private-midwives-110/\nAllow: /forums/twins-more-83/\nAllow: /forums/ttc-after-late-loss\nAllow:"
+}

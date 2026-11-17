@@ -1,0 +1,50 @@
+{
+  "slug": "madeformums",
+  "kind": "robots",
+  "requested_url": "https://forum.madeformums.com/robots.txt",
+  "fetched_at": "2026-10-24T12:23:57.406968+00:00",
+  "status": 200,
+  "final_url": "https://www.madeformums.com",
+  "headers": {
+    "Connection": "keep-alive",
+    "Content-Length": "67399",
+    "Content-Type": "text/html; charset=utf-8",
+    "backend": "https://content-resolution-service-production.headless.imdserve.com",
+    "X-Proxied-Request": "true",
+    "Cache-Control": "public, max-age=0, s-maxage=900, stale-while-revalidate=86400, stale-if-error=86400",
+    "Content-Encoding": "gzip",
+    "Etag": "a80ca5fc5c26abc65d20d458feadefa03910800a",
+    "Link": "<https://www.madeformums.com/stitcher-assets/madeformums/ad-manager.js>; rel=\"preload\"; as=\"script\", <https://www.madeformums.com/unified/wrapperMessagingWithoutDetection.js>; rel=\"preload\"; as=\"script\", <https://use.typekit.net>; rel=\"preconnect\", <https://cdn.speedcurve.com>; rel=\"dns-prefetch\", <https://www.google-analytics.com>; rel=\"dns-prefetch\", <https://www.googletagmanager.com>; rel=\"dns-prefetch\", <https://ib.adnxs.com>; rel=\"dns-prefetch\", <https://tlx.3lift.com>; rel=\"dns-prefetch\", <https://htlb.casalemedia.com>; rel=\"dns-prefetch\", <https://g2.gumgum.com>; rel=\"dns-prefetch\", <https://a.teads.tv>; rel=\"dns-prefetch\", <https://grid.bidswitch.net>; rel=\"dns-prefetch\"",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-Powered-By": "Next.js",
+    "X-Service-Name": "editorial",
+    "X-Service-Type": "frontend",
+    "X-Xss-Protection": "1; mode=block",
+    "Via": "1.1 varnish, 1.1 varnish",
+    "Accept-Ranges": "bytes",
+    "Age": "1022",
+    "Date": "Sat, 24 Oct 2026 12:23:57 GMT",
+    "X-Served-By": "cache-dub4345-DUB, cache-ber1080020-BER",
+    "X-Cache": "HIT, HIT",
+    "X-Cache-Hits": "51, 0",
+    "X-Timer": "S1792844638.675239,VS0,VE1",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+    "X-Content-Type-Options": "nosniff",
+    "Fastly-GeoIP-CountryCode": "LT",
+    "Access-Control-Allow-Origin": "*",
+    "Vary": "Accept-Encoding, X-Routing-Control-Resolve-Only, routing_service_test"
+  },
+  "bytes": 445439,
+  "sha256": "93a0ae7857070cc1db9ae706672c28df9d04df23adf5417ac157fde0dfcf795d",
+  "raw_file": "_raw/forums-deep/access/madeformums-robots.bin",
+  "redirects": [
+    {
+      "status": 301,
+      "url": "https://forum.madeformums.com/robots.txt",
+      "location": "https://www.madeformums.com"
+    }
+  ],
+  "title": "MadeForMums | Supporting you, from bumps to big kids | MadeForMums",
+  "policy_excerpt": "<!DOCTYPE html><html lang=\"en\" prefix=\"og: https://ogp.me/ns#\" class=\"no-js\"><head><link rel=\"preconnect\" href=\"https://images.immediate.co.uk\"/><link rel=\"preload\" href=\"https://use.typekit.net/sqa2rfw.js\" as=\"script\"/><meta charSet=\"utf-8\"/><script async=\"\" fetchpriority=\"high\" src=\"https://www.madeformums.com/stitcher-assets/madeformums/ad-manager.js\"></script><script async=\"\" fetchpriority=\"high\" src=\"https://www.madeformums.com/unified/wrapperMessagingWithoutDetection.js\"></script><script async=\"\" fetchpriority=\"auto\" src=\"//www.googletagmanager.com/gtm.js?id=GTM-K86F9FM\"></script><script>LUX=(function(){var a=(\"undefined\"!==typeof(LUX)&&\"undefined\"!==typeof(LUX.gaMarks)?LUX.gaMarks:[]);var d=(\"undefined\"!==typeof(LUX)&&\"undefined\"!==typeof(LUX.gaMeasures)?LUX.gaMeasures:[]);var j=\"LUX_start\";var k=window.performance;var l=(\"undefined\"!==typeof(LUX)&&LUX.ns?LUX.ns:(Date.now?Date.now():+(new Date())));if(k&&k.timing&&k.timing.navigationStart){l=k.timing.navigationStart}function f(){if(k&&k.now){return k.now()}var o=Date.now?Date.now():+(new Date());return o-l}function b(n){if(k){if(k.mark){return k.mark(n)}else{if(k.webkitMark){return k.webkitMark(n)}}}a.push({name:n,entryType:\"mark\",startTime:f(),duration:0});return}function m(p,t,n){if(\"undefined\"===typeof(t)&&h(j)){t=j}if(k){if(k.measure){if(t){if(n){return k.measure(p,t,n)}else{return k.measure(p,t)}}else{return k.measure(p)}}else{if(k.webkitMeasure){return k.webkitMeasure(p,t,n)}}}var r=0,o=f();if(t){var s=h(t);if(s){r=s.startTime}else{if(k&&k.timing&&k.timing[t]){r=k.timing[t]-k.timing.navigationStart}else{return}}}if(n){var q=h(n);if(q){o=q.startTime}else{if(k&&k.timing&&k.timing[n]){o=k.timing[n]-k.timing.navigationStart}else{return}}}d.push({name:p,entryType:\"measure\",startTime:r,duration:(o-r)});return}fun"
+}

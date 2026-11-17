@@ -1,0 +1,8 @@
+{
+  "slug": "mummysg",
+  "kind": "landing",
+  "requested_url": "https://www.mummysg.com/forums/",
+  "fetched_at": "2026-10-24T12:25:43.299339+00:00",
+  "status": null,
+  "error": "ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='www.mummysg.com', port=443): Max retries exceeded with url: /forums/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.mummysg.com', port=443) at 0x770e0d802490>, 'Connection to www.mummysg.com timed out. (connect timeout=22)'))\"))"
+}

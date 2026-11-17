@@ -1,0 +1,27 @@
+HTTP/2 200 
+date: Sat, 24 Oct 2026 12:22:02 GMT
+content-type: text/plain;charset=UTF-8
+server: cloudflare
+x-context-cache-key: siteConfig.v2.forums.moneysavingexpert.com.
+x-context-cache-hit: apcu
+p3p: CP="CAO PSA OUR"
+x-request-id: a4f8efe41d8c30fa-FRA
+x-vanilla-version: 2026.018
+vary: Accept-Encoding, Cookie
+strict-transport-security: max-age=604800
+x-content-type-options: nosniff
+x-content-type-options: nosniff
+x-permitted-cross-domain-policies: master-only
+x-xss-protection: 0
+content-security-policy: object-src 'none'; base-uri 'self'; frame-ancestors 'self'
+x-frame-options: SAMEORIGIN
+cache-control: public, max-age=120
+expires: Sat, 24 Oct 2026 12:22:42 GMT
+set-cookie: __cf_bm=fK5LnUBB9NUxfm0_n7qaK1wY.1L7_IAhh286RnywS2Y-1792844522.2372632-1.0.1.1-YxGVVZvsJarcLgwQixvJ1qbmMfU_9aYKcPqDEOWoJ2Wzk1p5oakyOe4A7QQU2cx3YotN7QGavapynzbFdwIoOm.0GaFzmS0Ij1bzPC8yO3KWP1U56aIhA6pYhmOp75wW; HttpOnly; SameSite=None; Secure; Path=/; Domain=forums.moneysavingexpert.com; Expires=Sat, 24 Oct 2026 12:52:02 GMT
+x-backend: cl53303
+x-backend-time: 2026-10-24T12:20:42Z
+last-modified: Sat, 24 Oct 2026 12:22:02 GMT
+cf-cache-status: HIT
+cf-ray: a4f8f1d7ff95e4df-RIX
+alt-svc: h3=":443"; ma=86400
+

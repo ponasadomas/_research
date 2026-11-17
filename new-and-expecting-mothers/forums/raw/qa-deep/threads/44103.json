@@ -1,0 +1,71 @@
+{
+  "question": {
+    "tags": [
+      "newborn",
+      "development",
+      "feeding"
+    ],
+    "owner": {
+      "account_id": 1891677,
+      "reputation": 151,
+      "user_id": 33732,
+      "user_type": "registered",
+      "profile_image": "https://i.sstatic.net/cP8pZ.jpg?s=256",
+      "display_name": "Mark Amery",
+      "link": "https://parenting.stackexchange.com/users/33732/mark-amery"
+    },
+    "is_answered": true,
+    "view_count": 1793,
+    "answer_count": 1,
+    "score": 5,
+    "last_activity_date": 1712560179,
+    "creation_date": 1712515124,
+    "question_id": 44103,
+    "content_license": "CC BY-SA 4.0",
+    "link": "https://parenting.stackexchange.com/questions/44103/why-are-recommended-newborn-feed-volumes-much-bigger-than-typical-stomach-size-f",
+    "title": "Why are recommended newborn feed volumes much bigger than typical stomach size for the same age?",
+    "body": "<p>Many sources will tell you the following supposed facts about a newborn baby's biology, or very similar ones:</p>\n<ul>\n<li>A newborn's stomach is tiny and it remains quite small for a while. For instance, one source says that by day 10, <a href=\"https://www.healthline.com/health/baby/your-newborns-stomach-size-is-smaller-than-you-think\" rel=\"noreferrer\">her stomach is only the size of a golf ball</a>. This is about <strong>40ml</strong>.</li>\n<li>A baby's stomach <a href=\"https://blog.babycues.com/2017/may/stomach-capacity-of-newborns/\" rel=\"noreferrer\">cannot stretch</a>.</li>\n<li>It takes <a href=\"https://www.chop.edu/pages/breastfeeding-tips-beginners\" rel=\"noreferrer\">1-2 hours for consumed breast milk to leave the stomach</a>, while <a href=\"https://healthy.kaiserpermanente.org/health-wellness/health-encyclopedia/he.bottle-feeding-disadvantages-for-babies.tj8029\" rel=\"noreferrer\">formula takes twice as long to digest</a>.</li>\n</ul>\n<p>(I've included arbitrary links to back up each claim by way of example, but I see claims along these lines everywhere, albeit often with somewhat different numbers.)</p>\n<p>Meanwhile, <a href=\"https://www.costco.co.uk/medias/sys_master/images/h86/h17/97084000239646.webp\" rel=\"noreferrer\">infant formula packaging advises giving a baby of age 0-2 weeks <strong>90ml</strong> of formula per feed</a>, and a review of the notes I've kept on my week-old daughter's feeds reveals we gave her a 70ml formula feed on day 6 and an 80ml pumped breast milk feed today, on day 7.</p>\n<p>The apparent contradiction is hopefully obvious; the amounts of liquid we are recommended to feed newborns - and that they can observably consume! - are at some ages <em>more than twice as large</em> as the supposed size of their supposedly inelastic stomachs that the fluid will supposedly take over an hour to pass through. This doesn't seem to just be a matter of babies developing at different speeds, either; I'm not (as far as I can tell) comparing a maximum feed volume against a minimum stomach size or anything like that. Instead the <em>typical</em> amounts we're told a newborn should consume are simply much larger than what we're told a newborn's <em>typical</em> stomach size is.</p>\n<p>My baby thankfully hasn't exploded, but if everything I've been told about her biology is true, I'm not really sure how that can be the case. Is there something I'm missing about how her body works that resolves the paradox - for instance, after a feed of more milk than her stomach size, does milk/formula somehow wait in the oesophagus until there's space in the stomach? (This isn't how I understand the oesophagus to work.) Or, when she's overfed, does milk get forced out of the end of the stomach undigested? (Then what happens to it next? And is this problematic or at least wasteful?) Or is the contradiction real, and the explanation simply that the claims people make about stomach size aren't true?</p>\n"
+  },
+  "answers": [
+    {
+      "owner": {
+        "account_id": 8049,
+        "reputation": 10334,
+        "user_id": 147,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.sstatic.net/UNO2C.jpg?s=256",
+        "display_name": "deworde",
+        "link": "https://parenting.stackexchange.com/users/147/deworde"
+      },
+      "is_accepted": false,
+      "score": 5,
+      "last_activity_date": 1712560179,
+      "creation_date": 1712560179,
+      "answer_id": 44104,
+      "question_id": 44103,
+      "content_license": "CC BY-SA 4.0",
+      "body": "<p>Not a doctor, but the simple answer is that there's a lot more than just a stomach in there. When it says &quot;Baby’s stomach is small and breast milk is easily digested so it will leave the stomach in 1-2 hours&quot;, it's not like it's a flush on a toilet. What it means is that the milk will gradually (but relatively quickly) drain out of her stomach and into the much longer intestines.</p>\n<p>The key part about the stomach being small is that anything that would take time to break down (e.g. solids) would be really bloating and uncomfortable, because that's the bit the stomach is responsible for.</p>\n"
+    }
+  ],
+  "comments": [
+    {
+      "owner": {
+        "account_id": 5182392,
+        "reputation": 445,
+        "user_id": 22177,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/55DUG.jpg?s=256",
+        "display_name": "Amazon Dies In Darkness",
+        "link": "https://parenting.stackexchange.com/users/22177/amazon-dies-in-darkness"
+      },
+      "edited": false,
+      "score": 0,
+      "creation_date": 1712572162,
+      "post_id": 44103,
+      "comment_id": 94671,
+      "content_license": "CC BY-SA 4.0",
+      "body": "+1 for your baby not exploding... that could be every parent&#39;s #1 priority."
+    }
+  ]
+}

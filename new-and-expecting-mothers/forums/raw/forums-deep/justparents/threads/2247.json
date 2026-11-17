@@ -1,0 +1,68 @@
+{
+  "url": "https://www.justparents.co.uk/forums/topic-2247/",
+  "title": "Congratulations Just Parents",
+  "listed_replies": 1,
+  "last_reply_as_displayed": "19 years ago by Rich",
+  "board": "work-childcare",
+  "listing_raw_file": "_raw/forums-deep/justparents/responses/ff21b0e54b09998a1511.html",
+  "thread_id": "jp-2247",
+  "pagination_complete": true,
+  "visible_pages_fetched": 1,
+  "visible_post_count": 2,
+  "listed_expected_posts": 2,
+  "listed_count_matches": true,
+  "pages": [
+    {
+      "requested_url": "https://www.justparents.co.uk/forums/topic-2247/",
+      "final_url": "https://www.justparents.co.uk/forums/topic-2247/",
+      "status": 200,
+      "headers": {
+        "Date": "Sat, 24 Oct 2026 12:35:29 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Server": "cloudflare",
+        "Cache-Control": "private, no-store, no-cache, must-revalidate, max-age=0",
+        "pragma": "no-cache",
+        "expires": "0",
+        "Set-Cookie": "jp_session=623d4a165ebf21aaaae962ebd7932d48; path=/; secure; HttpOnly; SameSite=Lax",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=S6G5uRoWDI6oWmtw2ToTV4%2BSQpgRudIQetToiP4FL8u7lWiwD2R7SwwTR%2Fxmd0MZF21IbHlTW%2BnMSgyukUXi8eIde7ge6RG6wjMx0V%2FeiTingoZYfQsXgsFrE%2FNZfEy7hMxXez%2FNkSI%3D\"}]}",
+        "cf-cache-status": "DYNAMIC",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Content-Encoding": "zstd",
+        "CF-RAY": "a4f9058e3888e4de-RIX",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "fetched_at": "2026-10-24T12:35:29.600924+00:00",
+      "bytes": 32025,
+      "sha256": "22ba5aaecb053340f58b78d08b089908ce9db805c2f2626cf45da2e32eda9687",
+      "raw_file": "_raw/forums-deep/justparents/responses/2e4677d6296ddd81e4e7.html"
+    }
+  ],
+  "posts": [
+    {
+      "post_id": "24935",
+      "author_handle": "Tail-Swish",
+      "date_as_displayed": "Posted 19 years 2 months ago",
+      "body": "Dear Rob and Site Admin\nI would like to congratulate JustParents on their approach to Work at home parents, having just reread your guidelines I will be promoting your website wherever possible in the future.\nThe fact that you welcome owners of small businesses and have no problem in us mentioning our websites, looking for support and generally networking with others is something I had taken for granted until I realised that this is not always the case.\nWell Done Rob and team",
+      "permalink": "https://www.justparents.co.uk/forums/topic-2247/#24935",
+      "raw_file": "_raw/forums-deep/justparents/responses/2e4677d6296ddd81e4e7.html",
+      "page_url": "https://www.justparents.co.uk/forums/topic-2247/",
+      "role": "original_post",
+      "original_post_id": "24935"
+    },
+    {
+      "post_id": "24937",
+      "author_handle": "Rich",
+      "date_as_displayed": "Posted 19 years 2 months ago",
+      "body": "We aim to please  🙂",
+      "permalink": "https://www.justparents.co.uk/forums/topic-2247/#24937",
+      "raw_file": "_raw/forums-deep/justparents/responses/2e4677d6296ddd81e4e7.html",
+      "page_url": "https://www.justparents.co.uk/forums/topic-2247/",
+      "role": "response",
+      "original_post_id": "24935"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "requested_url": "https://www.justparents.co.uk/forums/second-trimester/",
+  "final_url": "https://www.justparents.co.uk/forums/second-trimester/",
+  "status": 200,
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 12:37:15 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Cache-Control": "private, no-store, no-cache, must-revalidate, max-age=0",
+    "pragma": "no-cache",
+    "expires": "0",
+    "Set-Cookie": "jp_session=0d93bacffa8f7c8ddb94c1ea2ee5a4f5; path=/; secure; HttpOnly; SameSite=Lax",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Accept-Encoding",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=oSy7gTFJ3%2F08rIVTcVKohvgpEqgaDjhGteODa3ls9fQmSKN7t2REPzctsYql%2BZC7SriWOfZhM9uKtHfw%2FkmhPaFw13bxFqsSb36AUF850udKco3Xe706FxYCA8iTJtiDbnfSxgFdJ6E%3D\"}]}",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "zstd",
+    "CF-RAY": "a4f908252fcd13ba-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "fetched_at": "2026-10-24T12:37:15.677242+00:00",
+  "bytes": 62185,
+  "sha256": "157fd5a8d3bf499e969260cb3186da164977c6545d296e2b1cbd4f3d1f1d0916",
+  "raw_file": "_raw/forums-deep/justparents/responses/e157088f394f231d1184.html"
+}

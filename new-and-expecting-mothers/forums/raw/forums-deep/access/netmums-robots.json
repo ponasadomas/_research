@@ -1,0 +1,28 @@
+{
+  "slug": "netmums",
+  "kind": "robots",
+  "requested_url": "https://www.netmums.com/robots.txt",
+  "fetched_at": "2026-10-24T12:23:58.013372+00:00",
+  "status": 403,
+  "final_url": "https://www.netmums.com/robots.txt",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 12:23:58 GMT",
+    "Content-Type": "text/html",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Vary": "Accept-Encoding",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=7ZCB8qrB7ANDu0TqFo59JHYdzKpTa%2FGrudDvnXuwz21BZHroq3TyjBCKRjlghJM6kA%2FHo4cKV4aoBWfReGNBr4esRMBnhOpii%2Filb4TrEp8cab6qiYzRQbETamkmwRBm2g%3D%3D\"}]}",
+    "cf-cache-status": "BYPASS",
+    "Content-Encoding": "gzip",
+    "CF-RAY": "a4f8f4abde65b803-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "bytes": 153,
+  "sha256": "e12aae679a43c26bb331c97d8ac451e5022e297a519c6fac65b727e4049023f9",
+  "raw_file": "_raw/forums-deep/access/netmums-robots.bin",
+  "redirects": [],
+  "title": "403 Forbidden",
+  "policy_excerpt": "<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>nginx/1.22.1</center>\r\n</body>\r\n</html>\r\n"
+}

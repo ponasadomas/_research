@@ -1,0 +1,33 @@
+{
+  "slug": "babyandbump",
+  "kind": "robots",
+  "requested_url": "https://forums.babyandbump.com/robots.txt",
+  "fetched_at": "2026-10-24T12:23:56.220160+00:00",
+  "status": 200,
+  "final_url": "https://forums.babyandbump.com/robots.txt",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 12:23:56 GMT",
+    "Content-Type": "text/plain; charset=utf-8",
+    "Content-Length": "210",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Content-Encoding": "gzip",
+    "Vary": "Accept-Encoding",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Accept-Ranges": "bytes",
+    "last-modified": "Sat, 24 Oct 2026 12:23:56 GMT",
+    "Cache-Control": "max-age=14400",
+    "cf-cache-status": "MISS",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=a7E%2BLa6AZyIkKLqlmLcr5f976pai1W28a7lK76bgf7u4Un6Dj8F3bxNe5yrOVxPvWhbhgYkZw87yKqBWaNGEVn9ewRihe26kq6D157tZ39tCRWc%2BW2MZpiMwOuy0pci34nb1yEkYZxC0\"}]}",
+    "CF-RAY": "a4f8f4a0cb07340e-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "bytes": 444,
+  "sha256": "81ef71d950a9d9133887c0591a31a6c1608e517ae0acd9a5d122a8470985353c",
+  "raw_file": "_raw/forums-deep/access/babyandbump-robots.bin",
+  "redirects": [],
+  "title": "",
+  "policy_excerpt": "User-agent: PetalBot\nUser-agent: AspiegelBot\nUser-agent: AhrefsBot\nUser-agent: SemrushBot \nUser-agent: DotBot\nUser-agent: MauiBot\nUser-agent: MJ12bot\nDisallow: /\n\nUser-agent: *\nDisallow: /account/\nDisallow: /attachments/\nDisallow: /goto/\nDisallow: /misc/language\nDisallow: /misc/style\nDisallow: /posts/\nDisallow: /login/\nDisallow: /search/\nDisallow: /whats-new/\nDisallow: /admin.php\nAllow: /\n\nSitemap: https://forums.babyandbump.com/sitemap.xml"
+}

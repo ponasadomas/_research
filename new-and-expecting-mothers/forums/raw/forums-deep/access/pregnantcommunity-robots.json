@@ -1,0 +1,26 @@
+{
+  "slug": "pregnantcommunity",
+  "kind": "robots",
+  "requested_url": "https://www.pregnantcommunity.com/robots.txt",
+  "fetched_at": "2026-10-24T12:23:56.223519+00:00",
+  "status": 200,
+  "final_url": "https://www.pregnantcommunity.com/robots.txt",
+  "headers": {
+    "date": "Sat, 24 Oct 2026 12:23:56 GMT",
+    "server": "Apache",
+    "last-modified": "Thu, 22 Oct 2026 04:09:11 GMT",
+    "etag": "\"88-65e66069ea7c0-gzip\"",
+    "accept-ranges": "bytes",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "content-length": "94",
+    "content-type": "text/plain",
+    "connection": "close"
+  },
+  "bytes": 136,
+  "sha256": "5286d9afb82f2037d221d2241c5595ae30e6c3385533a02859558daa9700f4d0",
+  "raw_file": "_raw/forums-deep/access/pregnantcommunity-robots.bin",
+  "redirects": [],
+  "title": "",
+  "policy_excerpt": "User-Agent: *\nDisallow: /cpx.php\nDisallow: /medios1.php\nDisallow: /toolbar.php\nDisallow: /check_image.php\nDisallow: /check_popunder.php\n"
+}

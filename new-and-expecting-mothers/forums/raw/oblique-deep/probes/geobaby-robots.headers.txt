@@ -1,0 +1,32 @@
+HTTP/2 301 
+date: Sat, 24 Oct 2026 12:26:00 GMT
+content-type: text/html
+location: https://archive.geoclicks.com/categories/geobaby/
+server: cloudflare
+cache-control: max-age=432000
+cf-cache-status: MISS
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+strict-transport-security: max-age=2592000
+x-content-type-options: nosniff
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=QYoHbyY7B80ROApAwwKAUPbG5ZuRQzwKMlZm5us%2FDIMDiEPJPs5Vx6jlobv6dZq6XKSNSldNWt20in4Qd8FmiOCMydw0X9lBmaQBwbfKju8rzz1rjU%2FkS5BZExz0%2F5uVcVs%3D"}]}
+cf-ray: a4f8f7a7f8cbe4e5-RIX
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 200 
+date: Sat, 24 Oct 2026 12:26:01 GMT
+content-type: text/html; charset=utf-8
+cache-control: max-age=14400, s-maxage=14400
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+expires: Sat, 24 Oct 2026 15:17:54 GMT
+last-modified: Sat, 24 Oct 2026 11:17:54 GMT
+link: </js/xf/preamble.min.js?_v=4675f78c>;as=script;rel=preload,</css.php?css=public%3Anormalize.css%2Cpublic%3Afa.css%2Cpublic%3Avariations.less%2Cpublic%3Acore.less%2Cpublic%3Aapp.less&s=4&l=1&d=1792799691&k=ece2b486136e7c528b333354213686dd3be1ce40>;as=style;rel=preload,</js/vendor/vendor-compiled.js?_v=4675f78c>;as=script;rel=preload;fetchpriority=low,</js/xf/core-compiled.js?_v=4675f78c>;as=script;rel=preload;fetchpriority=low,</css.php?css=public%3Anode_list.less%2Cpublic%3Aextra.less&s=4&l=1&d=1792799691&k=e3d6eac5af7bce914f1692afc1cf98c041e0dc17>;as=style;rel=preload;fetchpriority=low
+server: cloudflare
+vary: Accept-Encoding
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=TBlmQShKBNk9Rn18TLKi5JqvLn7CfBIiG6wluS%2FyWeb4z%2FWNgPw%2FiOoG2b0d5UlwUfHiuijPSaTQxaB%2BjnHEVdh%2Fz%2BDo85gc6%2F9Ra3CGN5RDRHrT0FTGu2Jlil%2BDV12%2FXF1rOB%2BVoT0%3D"}]}
+cf-cache-status: HIT
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+cf-ray: a4f8f7ac5d17e4dd-RIX
+alt-svc: h3=":443"; ma=86400
+

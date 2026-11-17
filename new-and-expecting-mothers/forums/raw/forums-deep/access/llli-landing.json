@@ -1,0 +1,8 @@
+{
+  "slug": "llli",
+  "kind": "landing",
+  "requested_url": "https://forums.llli.org/",
+  "fetched_at": "2026-10-24T12:27:11.914215+00:00",
+  "status": null,
+  "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'forums.llli.org\\', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host=\\'forums.llli.org\\', port=443): Failed to resolve \\'forums.llli.org\\' ([Errno -2] Name or service not known)\"))'))"
+}

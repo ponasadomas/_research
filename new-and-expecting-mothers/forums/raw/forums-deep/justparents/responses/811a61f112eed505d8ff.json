@@ -1,0 +1,28 @@
+{
+  "requested_url": "https://www.justparents.co.uk/forums/first-trimester/page/2/",
+  "final_url": "https://www.justparents.co.uk/forums/first-trimester/page/2/",
+  "status": 200,
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 12:37:45 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Cache-Control": "private, no-store, no-cache, must-revalidate, max-age=0",
+    "pragma": "no-cache",
+    "expires": "0",
+    "Set-Cookie": "jp_session=8c00b65f691a179f5a677655023eca27; path=/; secure; HttpOnly; SameSite=Lax",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Accept-Encoding",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=XuGo%2FZNI8nUi97R4LlYpe6z55LtpMvFo1at401fnWx%2Fh5MjC72kADWUo86T8HM3JkJcbiy2I%2F60%2BzQqiXYWffh2SKucF%2FUgCMvL40YDbze4NOV5sJ8nGbYDUYhe7pz%2Fc1FG%2FgC6O6Fo%3D\"}]}",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "zstd",
+    "CF-RAY": "a4f908e15cede1bb-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "fetched_at": "2026-10-24T12:37:45.787596+00:00",
+  "bytes": 37467,
+  "sha256": "daa1d9f62fab5326c58163fe1a3d78ddd0fb5fc846616730664aa0c2ef2b48af",
+  "raw_file": "_raw/forums-deep/justparents/responses/811a61f112eed505d8ff.html"
+}

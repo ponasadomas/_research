@@ -1,0 +1,40 @@
+{
+  "slug": "whattoexpect",
+  "kind": "landing",
+  "requested_url": "https://community.whattoexpect.com/",
+  "fetched_at": "2026-10-24T12:24:00.947452+00:00",
+  "status": 200,
+  "final_url": "https://community.whattoexpect.com/forums/",
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "Cache-Control": "no-store, must-revalidate, no-cache, max-age=0, s-maxage=0",
+    "Expires": "Sat, 24 Oct 2026 11:24:01 GMT",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Content-Encoding": "gzip",
+    "Date": "Sat, 24 Oct 2026 12:24:01 GMT",
+    "Content-Length": "47955",
+    "Connection": "keep-alive",
+    "Vary": "Accept-Encoding",
+    "Set-Cookie": "AWSALBTG=cLVyuwRrHrLrqgLAepR6D/+/HXETp/9XMxyvx+fqGteAtc8ppP0vzIOpW/Q30xW5cIchq5QJF/5jPvJMVsJjI+ZeQpLkEXlM2E+2+PH0bLN0RJroHvCOa6KOAegM+Pkh0M17X8pz7zw+fJcJ8AxX6wOfhDBPnLnOGRHC8qjXDbXz; Expires=Sat, 31 Oct 2026 12:24:01 GMT; Path=/, AWSALBTGCORS=cLVyuwRrHrLrqgLAepR6D/+/HXETp/9XMxyvx+fqGteAtc8ppP0vzIOpW/Q30xW5cIchq5QJF/5jPvJMVsJjI+ZeQpLkEXlM2E+2+PH0bLN0RJroHvCOa6KOAegM+Pkh0M17X8pz7zw+fJcJ8AxX6wOfhDBPnLnOGRHC8qjXDbXz; Expires=Sat, 31 Oct 2026 12:24:01 GMT; Path=/; SameSite=None; Secure, Profile=; expires=Thu, 01 Jan 1970 00:00:00 GMT; domain=.whattoexpect.com; path=/, leadsrc=%7B%7D; domain=.whattoexpect.com; path=/; secure, geoCC=LT; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.whattoexpect.com, geoRegion=; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.whattoexpect.com, geoDMA=; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.whattoexpect.com, geoCity=VILNIUS; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.whattoexpect.com, geoZip=; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.whattoexpect.com",
+    "x-origin": "origin-community.whattoexpect.com",
+    "Akamai-Cache-Status": "Miss from child, Miss from parent",
+    "X-Robots-Tag": "bingbot: noarchive",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Edge-Cache-Tag": "|forums|",
+    "X-Device": "desktop"
+  },
+  "bytes": 254038,
+  "sha256": "55372812f50f1a2cc7bb12feb9c044965afbee69c2f35a234ba132c05a7c1f32",
+  "raw_file": "_raw/forums-deep/access/whattoexpect-landing.bin",
+  "redirects": [
+    {
+      "status": 301,
+      "url": "https://community.whattoexpect.com/",
+      "location": "/forums/"
+    }
+  ],
+  "title": "Pregnancy, Parenting and Baby Community & Forums",
+  "policy_excerpt": ""
+}

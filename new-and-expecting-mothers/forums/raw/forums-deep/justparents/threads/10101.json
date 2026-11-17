@@ -1,0 +1,57 @@
+{
+  "url": "https://www.justparents.co.uk/forums/topic-10101/",
+  "title": "Financial tracking",
+  "listed_replies": 0,
+  "last_reply_as_displayed": "10 years ago by JaydaMoon",
+  "board": "work-childcare",
+  "listing_raw_file": "_raw/forums-deep/justparents/responses/8b1099b62f85f4640548.html",
+  "thread_id": "jp-10101",
+  "pagination_complete": true,
+  "visible_pages_fetched": 1,
+  "visible_post_count": 1,
+  "listed_expected_posts": 1,
+  "listed_count_matches": true,
+  "pages": [
+    {
+      "requested_url": "https://www.justparents.co.uk/forums/topic-10101/",
+      "final_url": "https://www.justparents.co.uk/forums/topic-10101/",
+      "status": 200,
+      "headers": {
+        "Date": "Sat, 24 Oct 2026 12:34:21 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Server": "cloudflare",
+        "Cache-Control": "private, no-store, no-cache, must-revalidate, max-age=0",
+        "pragma": "no-cache",
+        "expires": "0",
+        "Set-Cookie": "jp_session=9a9a3dd3c72271e8f913c27628303e43; path=/; secure; HttpOnly; SameSite=Lax",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=PgFebFK5413BsuuvPh1u3E1eeodNwek0fbcuxuE8%2Flt5dScozSwBwDci5Tikvopp6H4tDKgYGUylFW0q%2FySEyvLVoqNyj9fpXpeMMvvpS%2BOUdTvZqDoxkXetR1oqZsj27OHqLGWZwsc%3D\"}]}",
+        "cf-cache-status": "DYNAMIC",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Content-Encoding": "zstd",
+        "CF-RAY": "a4f903e17d8fe4e9-RIX",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "fetched_at": "2026-10-24T12:34:21.006579+00:00",
+      "bytes": 30623,
+      "sha256": "d4af7bd16748635acc1121d057e34fe0df9e11e29ba2785f3133142ab75905d3",
+      "raw_file": "_raw/forums-deep/justparents/responses/21e831b3e66ff378da46.html"
+    }
+  ],
+  "posts": [
+    {
+      "post_id": "87355",
+      "author_handle": "JaydaMoon",
+      "date_as_displayed": "Posted 10 years 5 months ago",
+      "body": "For those who are self-employed, what system and/or tracking software do you use for your business to know what's being spent and earned?\nI used Quickbooks when I worked for another company. I've heard Quicken is good. Any preference on programs? Is there another one that's better? Do you input as you go, or do it once a month?",
+      "permalink": "https://www.justparents.co.uk/forums/topic-10101/#87355",
+      "raw_file": "_raw/forums-deep/justparents/responses/21e831b3e66ff378da46.html",
+      "page_url": "https://www.justparents.co.uk/forums/topic-10101/",
+      "role": "original_post",
+      "original_post_id": "87355"
+    }
+  ]
+}

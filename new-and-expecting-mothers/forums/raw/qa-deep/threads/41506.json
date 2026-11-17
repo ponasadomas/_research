@@ -1,0 +1,89 @@
+{
+  "question": {
+    "tags": [
+      "newborn"
+    ],
+    "owner": {
+      "account_id": 504225,
+      "reputation": 446,
+      "user_id": 40949,
+      "user_type": "registered",
+      "profile_image": "https://www.gravatar.com/avatar/6ca2769dc497a8c037d3c9b434d0c86e?s=256&d=identicon&r=PG",
+      "display_name": "Sean Duggan",
+      "link": "https://parenting.stackexchange.com/users/40949/sean-duggan"
+    },
+    "is_answered": true,
+    "view_count": 455,
+    "accepted_answer_id": 41507,
+    "answer_count": 2,
+    "score": 5,
+    "last_activity_date": 1618500010,
+    "creation_date": 1618442775,
+    "question_id": 41506,
+    "content_license": "CC BY-SA 4.0",
+    "link": "https://parenting.stackexchange.com/questions/41506/how-do-we-effectively-clear-mucous-out-of-our-newborns-nose-whose-nostrils-are",
+    "title": "How do we effectively clear mucous out of our newborn&#39;s nose, whose nostrils are smaller than the bulb&#39;s tip?",
+    "body": "<p>For all three bulb syringes that we've received in the various baby kits, the tip of the syringe is larger than the opening of our baby boy's nostrils. I've been improvising by holding his head still and holding the surface of the tip against the nostril before releasing the bulb to suck, but I'm not certain of the efficacy and he absolutely hates it. Do they sell smaller syringes? Should I invest in a Frida? Try to use one of the breast-milk syringes (a clean unused one)? I've been trying to mouth suction, but I've never done it before, and I have to do it when my wife isn't watching because she thinks it's gross and unsanitary.</p>\n"
+  },
+  "answers": [
+    {
+      "owner": {
+        "account_id": 1780022,
+        "reputation": 63542,
+        "user_id": 6524,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/40931bddde219f1a9e4514d2f4cfa826?s=256&d=identicon&r=PG",
+        "display_name": "Joe",
+        "link": "https://parenting.stackexchange.com/users/6524/joe"
+      },
+      "is_accepted": true,
+      "score": 4,
+      "last_activity_date": 1618448187,
+      "creation_date": 1618448187,
+      "answer_id": 41507,
+      "question_id": 41506,
+      "content_license": "CC BY-SA 4.0",
+      "body": "<p>It’s supposed to be larger than the nostril - it doesn’t go inside.  It sounds like you’re doing it right - it should go at the entrance to the nostril, after you pushed out all of the air, and then you release the bulb when it’s next to the nostril.</p>\n<p><a href=\"https://www.babyandcompany.com/baby-congestion-snorting-snuffling-sneezing/\" rel=\"nofollow noreferrer\">This article does a nice job of explaining</a>, and also suggests adding a few drops of saline. I would be careful there and talk to your pediatrician before doing that - just to make sure you’re doing it right and to make sure you have the proper precautions to keep the saline safe; that’s their job.  Remember we can’t give medical advice, so ask your doctor for more details on the medical side of things.</p>\n"
+    },
+    {
+      "owner": {
+        "account_id": 939235,
+        "reputation": 5323,
+        "user_id": 33055,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/zOso6.jpg?s=256",
+        "display_name": "Timur Shtatland",
+        "link": "https://parenting.stackexchange.com/users/33055/timur-shtatland"
+      },
+      "is_accepted": false,
+      "score": 5,
+      "last_activity_date": 1618500010,
+      "creation_date": 1618500010,
+      "answer_id": 41510,
+      "question_id": 41506,
+      "content_license": "CC BY-SA 4.0",
+      "body": "<p>We used <a href=\"https://rads.stackoverflow.com/amzn/click/com/B00171WXII\" rel=\"noreferrer\" rel=\"nofollow noreferrer\">NoseFrida</a>. With its clear plastic tube, you can press the tip gently to the baby's nose. <strong>Do not push it in. The tip of the tube should touch the nose and create a seal. For the tiny noses of newborns, the tube <em>cannot</em> and <em>should not</em> go inside the nostril.</strong> You can control the amount of vacuum suction with your mouth.</p>\n<p>Note that you do not get the boogers in your mouth at all: they go up the clear tube less than an inch up, and besides, there is also a filter further up to stop them.</p>\n"
+    }
+  ],
+  "comments": [
+    {
+      "owner": {
+        "account_id": 504225,
+        "reputation": 446,
+        "user_id": 40949,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/6ca2769dc497a8c037d3c9b434d0c86e?s=256&d=identicon&r=PG",
+        "display_name": "Sean Duggan",
+        "link": "https://parenting.stackexchange.com/users/40949/sean-duggan"
+      },
+      "edited": false,
+      "score": 0,
+      "creation_date": 1618876448,
+      "post_id": 41510,
+      "comment_id": 88344,
+      "content_license": "CC BY-SA 4.0",
+      "body": "Thank you. Yours was also a good answer, but the other one was earlier, and more directly to the point of what I needed."
+    }
+  ]
+}

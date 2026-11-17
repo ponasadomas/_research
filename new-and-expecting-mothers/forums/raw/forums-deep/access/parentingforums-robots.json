@@ -1,0 +1,25 @@
+{
+  "slug": "parentingforums",
+  "kind": "robots",
+  "requested_url": "https://www.parentingforums.org/robots.txt",
+  "fetched_at": "2026-10-24T12:23:56.220870+00:00",
+  "status": 200,
+  "final_url": "https://reprightsongs.com/robots.txt",
+  "headers": {
+    "Content-Type": "text/plain",
+    "Date": "Sat, 24 Oct 2026 12:23:57 GMT",
+    "Content-Length": "66"
+  },
+  "bytes": 66,
+  "sha256": "84f7242b69a0d079d88d20a768e20124979f0499d2b0e5b947cc4b32bc07dff9",
+  "raw_file": "_raw/forums-deep/access/parentingforums-robots.bin",
+  "redirects": [
+    {
+      "status": 301,
+      "url": "https://www.parentingforums.org/robots.txt",
+      "location": "https://reprightsongs.com/robots.txt"
+    }
+  ],
+  "title": "",
+  "policy_excerpt": "User-agent: *\nAllow: /\nLLM-Policy: /llms.txt\nSitemap: /sitemap.xml"
+}

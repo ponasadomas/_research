@@ -1,0 +1,417 @@
+{
+  "board": "first-trimester",
+  "expected_displayed_topics": 44,
+  "unique_topics": 44,
+  "pages": [
+    {
+      "requested_url": "https://www.justparents.co.uk/forums/first-trimester/",
+      "final_url": "https://www.justparents.co.uk/forums/first-trimester/",
+      "status": 200,
+      "headers": {
+        "Date": "Sat, 24 Oct 2026 12:37:44 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Server": "cloudflare",
+        "Cache-Control": "private, no-store, no-cache, must-revalidate, max-age=0",
+        "pragma": "no-cache",
+        "expires": "0",
+        "Set-Cookie": "jp_session=c18f637c420e9feccf0fe5dc3266a8b4; path=/; secure; HttpOnly; SameSite=Lax",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ME%2FjFU0nsBzm22P1BYJJPpHtIbwJRJSIswcRaufPOQ3Auas2QfG%2Fhn1mEbV8OSwDQt9Zu%2BLumv6vtxzFrNh0CuPSWmvKqiYKajSNyCaF81QwSxsWZQkiINf%2FHQxeol5dzgGIPrTb0U4%3D\"}]}",
+        "cf-cache-status": "DYNAMIC",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Content-Encoding": "zstd",
+        "CF-RAY": "a4f908d9ba14ceba-RIX",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "fetched_at": "2026-10-24T12:37:44.554647+00:00",
+      "bytes": 85458,
+      "sha256": "40e2708dde64d9ab6389c97792dcd5dd34e1d3c7fa77ba9e1b81211651dfbdba",
+      "raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "requested_url": "https://www.justparents.co.uk/forums/first-trimester/page/2/",
+      "final_url": "https://www.justparents.co.uk/forums/first-trimester/page/2/",
+      "status": 200,
+      "headers": {
+        "Date": "Sat, 24 Oct 2026 12:37:45 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Server": "cloudflare",
+        "Cache-Control": "private, no-store, no-cache, must-revalidate, max-age=0",
+        "pragma": "no-cache",
+        "expires": "0",
+        "Set-Cookie": "jp_session=8c00b65f691a179f5a677655023eca27; path=/; secure; HttpOnly; SameSite=Lax",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=XuGo%2FZNI8nUi97R4LlYpe6z55LtpMvFo1at401fnWx%2Fh5MjC72kADWUo86T8HM3JkJcbiy2I%2F60%2BzQqiXYWffh2SKucF%2FUgCMvL40YDbze4NOV5sJ8nGbYDUYhe7pz%2Fc1FG%2FgC6O6Fo%3D\"}]}",
+        "cf-cache-status": "DYNAMIC",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Content-Encoding": "zstd",
+        "CF-RAY": "a4f908e15cede1bb-RIX",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "fetched_at": "2026-10-24T12:37:45.787596+00:00",
+      "bytes": 37467,
+      "sha256": "daa1d9f62fab5326c58163fe1a3d78ddd0fb5fc846616730664aa0c2ef2b48af",
+      "raw_file": "_raw/forums-deep/justparents/responses/811a61f112eed505d8ff.html"
+    }
+  ],
+  "topics": [
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-11964/",
+      "title": "Experiences Of Well-Being and Social Support in Pregnancy",
+      "listed_replies": 0,
+      "last_reply_as_displayed": "2 years ago by MarniReid",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-10555/",
+      "title": "I just can't believe it",
+      "listed_replies": 3,
+      "last_reply_as_displayed": "5 years ago by Elissa38",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-10722/",
+      "title": "1st month miscarriage?",
+      "listed_replies": 1,
+      "last_reply_as_displayed": "7 years ago by Ayanaben",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-10191/",
+      "title": "First Time Pregnancy Advice",
+      "listed_replies": 9,
+      "last_reply_as_displayed": "8 years ago by jasenhudson5",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-9231/",
+      "title": "16 and pregnant",
+      "listed_replies": 4,
+      "last_reply_as_displayed": "8 years ago by Diana1998",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-10444/",
+      "title": "our first scan!",
+      "listed_replies": 4,
+      "last_reply_as_displayed": "8 years ago by pearl",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-10489/",
+      "title": "I can describe my first trimester",
+      "listed_replies": 2,
+      "last_reply_as_displayed": "8 years ago by Zaidi",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-10519/",
+      "title": "I had hyperemesis with my first",
+      "listed_replies": 1,
+      "last_reply_as_displayed": "8 years ago by RachelJ05",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-10506/",
+      "title": "I just want to seek help",
+      "listed_replies": 0,
+      "last_reply_as_displayed": "8 years ago by martaandy",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-9900/",
+      "title": "What were your cravings?",
+      "listed_replies": 10,
+      "last_reply_as_displayed": "8 years ago by Jella",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-10420/",
+      "title": "Advice needed please",
+      "listed_replies": 1,
+      "last_reply_as_displayed": "9 years ago by Trinity",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-9142/",
+      "title": "Crying all the time?",
+      "listed_replies": 4,
+      "last_reply_as_displayed": "9 years ago by [Deleted User]",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-9445/",
+      "title": "Am I Miscarrying again???",
+      "listed_replies": 4,
+      "last_reply_as_displayed": "9 years ago by leokoki",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-9855/",
+      "title": "How Are You Dealing with The Nausea?",
+      "listed_replies": 12,
+      "last_reply_as_displayed": "9 years ago by mad3333",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-10181/",
+      "title": "Pregnancy help please",
+      "listed_replies": 0,
+      "last_reply_as_displayed": "9 years ago by Alysha5",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-10062/",
+      "title": "The earliest a pregnancy test will work?",
+      "listed_replies": 4,
+      "last_reply_as_displayed": "10 years ago by missiemouse",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-10007/",
+      "title": "How quickly did you start showing?",
+      "listed_replies": 8,
+      "last_reply_as_displayed": "10 years ago by JosieP",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-10028/",
+      "title": "How far along were you when you found out you were expecting",
+      "listed_replies": 4,
+      "last_reply_as_displayed": "10 years ago by JosieP",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-10073/",
+      "title": "hello all i am very worried i used otrivine nasal drops for",
+      "listed_replies": 4,
+      "last_reply_as_displayed": "10 years ago by missiemouse",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-9921/",
+      "title": "Getting your children immunizations.",
+      "listed_replies": 7,
+      "last_reply_as_displayed": "10 years ago by morgoodie",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-8505/",
+      "title": "Bloating in early pregnancy",
+      "listed_replies": 2,
+      "last_reply_as_displayed": "10 years ago by thash1979",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-9534/",
+      "title": "Early bleeding - trying not to worry",
+      "listed_replies": 3,
+      "last_reply_as_displayed": "11 years ago by anyagujraal",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-9791/",
+      "title": "Pregnant, Overwhelmed and Confused :s",
+      "listed_replies": 0,
+      "last_reply_as_displayed": "11 years ago by siena",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-9777/",
+      "title": "time to say Good bye to diapers",
+      "listed_replies": 0,
+      "last_reply_as_displayed": "11 years ago by firstpout",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-9393/",
+      "title": "early pregnancy sickness",
+      "listed_replies": 5,
+      "last_reply_as_displayed": "11 years ago by deenamathew",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-9773/",
+      "title": "Best of babies!",
+      "listed_replies": 0,
+      "last_reply_as_displayed": "11 years ago by teves25",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-9768/",
+      "title": "Please help! Don't feel pregnant anymore... :(",
+      "listed_replies": 0,
+      "last_reply_as_displayed": "11 years ago by Landyoo7",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-9498/",
+      "title": "Having a scan next week at 15 weeks - can they tell boy/gir?",
+      "listed_replies": 6,
+      "last_reply_as_displayed": "14 years ago by jessica886",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-878/",
+      "title": "Spotting in early pregnancy?",
+      "listed_replies": 27,
+      "last_reply_as_displayed": "15 years ago by Kimmi15",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-9240/",
+      "title": "Told gender at 12 week scan",
+      "listed_replies": 9,
+      "last_reply_as_displayed": "15 years ago by sugar",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-9405/",
+      "title": "Torture torture torture!",
+      "listed_replies": 1,
+      "last_reply_as_displayed": "15 years ago by jea",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-9389/",
+      "title": "Have to choose a hospital tomorrow!!",
+      "listed_replies": 1,
+      "last_reply_as_displayed": "15 years ago by jea",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-9163/",
+      "title": "Early Pregnancy",
+      "listed_replies": 5,
+      "last_reply_as_displayed": "15 years ago by Donna1",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-9358/",
+      "title": "7 weeks Pregnant lots of questions",
+      "listed_replies": 1,
+      "last_reply_as_displayed": "15 years ago by shortie2",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-9208/",
+      "title": "my mood swings are pushing the people i love away x",
+      "listed_replies": 4,
+      "last_reply_as_displayed": "16 years ago by ceciliab01",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-9259/",
+      "title": "looks like I am joining you !",
+      "listed_replies": 11,
+      "last_reply_as_displayed": "16 years ago by bunnigirl",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-9262/",
+      "title": "hey all...............",
+      "listed_replies": 6,
+      "last_reply_as_displayed": "16 years ago by jo-jo",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-9181/",
+      "title": "4 weeks pregnant",
+      "listed_replies": 6,
+      "last_reply_as_displayed": "16 years ago by annabos17",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-9059/",
+      "title": "12 weeks prregnant and bleeding help!",
+      "listed_replies": 0,
+      "last_reply_as_displayed": "16 years ago by lauraloo",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-8985/",
+      "title": "7 Weeks pregnant and tummy pains!",
+      "listed_replies": 1,
+      "last_reply_as_displayed": "16 years ago by milkymum",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/a1c8d82b7822a426acdc.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-8942/",
+      "title": "8 weeks pregnant and in pain",
+      "listed_replies": 3,
+      "last_reply_as_displayed": "17 years ago by milkymum",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/811a61f112eed505d8ff.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-7363/",
+      "title": "6 Weeks pregnant and had brown spotting this morning",
+      "listed_replies": 36,
+      "last_reply_as_displayed": "17 years ago by milkymum",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/811a61f112eed505d8ff.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-8914/",
+      "title": "hi newbie 6 weeks peg",
+      "listed_replies": 2,
+      "last_reply_as_displayed": "17 years ago by WelshMum",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/811a61f112eed505d8ff.html"
+    },
+    {
+      "url": "https://www.justparents.co.uk/forums/topic-8496/",
+      "title": "6 weeks an bleeeding",
+      "listed_replies": 2,
+      "last_reply_as_displayed": "17 years ago by Samuel",
+      "board": "first-trimester",
+      "listing_raw_file": "_raw/forums-deep/justparents/responses/811a61f112eed505d8ff.html"
+    }
+  ]
+}

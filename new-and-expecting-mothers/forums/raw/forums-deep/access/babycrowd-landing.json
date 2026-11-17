@@ -1,0 +1,25 @@
+{
+  "slug": "babycrowd",
+  "kind": "landing",
+  "requested_url": "https://www.babycrowd.com/forums/",
+  "fetched_at": "2026-10-24T12:27:10.287505+00:00",
+  "status": 404,
+  "final_url": "https://www.babycrowd.com/forums/",
+  "headers": {
+    "Connection": "Keep-Alive",
+    "Keep-Alive": "timeout=5, max=100",
+    "Cache-Control": "private, no-cache, no-store, must-revalidate, max-age=0",
+    "Pragma": "no-cache",
+    "Content-Type": "text/html",
+    "Content-Length": "1251",
+    "Date": "Sat, 24 Oct 2026 12:27:09 GMT",
+    "Server": "LiteSpeed",
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000"
+  },
+  "bytes": 1251,
+  "sha256": "4c13d452dd5d49671bd93ca32f2b4f85c78e39b6ab0ad1f38d98ed267f8fd896",
+  "raw_file": "_raw/forums-deep/access/babycrowd-landing.bin",
+  "redirects": [],
+  "title": "404 Not Found",
+  "policy_excerpt": ""
+}

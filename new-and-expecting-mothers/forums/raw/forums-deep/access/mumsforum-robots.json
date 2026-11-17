@@ -1,0 +1,8 @@
+{
+  "slug": "mumsforum",
+  "kind": "robots",
+  "requested_url": "https://www.mumsforum.co.uk/robots.txt",
+  "fetched_at": "2026-10-24T12:24:00.516022+00:00",
+  "status": null,
+  "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'www.mumsforum.co.uk\\', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError(\"HTTPSConnection(host=\\'www.mumsforum.co.uk\\', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))'))"
+}

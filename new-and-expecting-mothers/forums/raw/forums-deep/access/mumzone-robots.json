@@ -1,0 +1,28 @@
+{
+  "slug": "mumzone",
+  "kind": "robots",
+  "requested_url": "https://www.mumzone.co.uk/robots.txt",
+  "fetched_at": "2026-10-24T12:27:09.805776+00:00",
+  "status": 200,
+  "final_url": "https://www.mumzone.co.uk/robots.txt",
+  "headers": {
+    "Connection": "Keep-Alive",
+    "Keep-Alive": "timeout=5, max=100",
+    "Link": "<https://www.mumzone.co.uk/wp-json/>; rel=\"https://api.w.org/\"",
+    "Content-Type": "text/plain; charset=utf-8",
+    "Cache-Control": "public, max-age=0",
+    "Expires": "Sat, 24 Oct 2026 12:27:11 GMT",
+    "Content-Length": "122",
+    "Content-Encoding": "gzip",
+    "Vary": "Accept-Encoding,User-Agent",
+    "Date": "Sat, 24 Oct 2026 12:27:11 GMT",
+    "Server": "LiteSpeed",
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000"
+  },
+  "bytes": 167,
+  "sha256": "12673d3745472fc4abc450930d787b1e0c23ff7cf82c87a7fecf2096ab0b2cb2",
+  "raw_file": "_raw/forums-deep/access/mumzone-robots.bin",
+  "redirects": [],
+  "title": "",
+  "policy_excerpt": "User-agent: *\r\nDisallow: /wp-admin/\r\nAllow: /wp-admin/admin-ajax.php\r\n\r\nSitemap: https://www.mumzone.co.uk/sitemap.xml\r\nSitemap: https://www.mumzone.co.uk/sitemap.rss\n"
+}

@@ -1,0 +1,92 @@
+{
+  "question": {
+    "tags": [
+      "toddler",
+      "safety"
+    ],
+    "owner": {
+      "account_id": 10991861,
+      "reputation": 393,
+      "user_id": 41679,
+      "user_type": "registered",
+      "profile_image": "https://i.sstatic.net/0eZhT.jpg?s=256",
+      "display_name": "Daniel Walker",
+      "link": "https://parenting.stackexchange.com/users/41679/daniel-walker"
+    },
+    "is_answered": true,
+    "view_count": 1457,
+    "accepted_answer_id": 42822,
+    "answer_count": 2,
+    "score": 4,
+    "last_activity_date": 1663431785,
+    "creation_date": 1659406545,
+    "question_id": 42821,
+    "content_license": "CC BY-SA 4.0",
+    "link": "https://parenting.stackexchange.com/questions/42821/is-non-toxic-nail-polish-safe-for-toddlers",
+    "title": "Is non-toxic nail polish safe for toddlers",
+    "body": "<p>My wife and I will be leaving our 17 month old daughter with my parents for one week.  My mother wants to paint my daughter's toenails with a non-toxic nail polish (I don't know the brand).</p>\n<p>Does &quot;non-toxic&quot; mean that it would be safe for my daughter to put her toes in her mouth?</p>\n"
+  },
+  "answers": [
+    {
+      "owner": {
+        "account_id": 1780022,
+        "reputation": 63542,
+        "user_id": 6524,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/40931bddde219f1a9e4514d2f4cfa826?s=256&d=identicon&r=PG",
+        "display_name": "Joe",
+        "link": "https://parenting.stackexchange.com/users/6524/joe"
+      },
+      "is_accepted": true,
+      "score": 8,
+      "last_activity_date": 1659408508,
+      "creation_date": 1659408508,
+      "answer_id": 42822,
+      "question_id": 42821,
+      "content_license": "CC BY-SA 4.0",
+      "body": "<p>Non-toxic does not equate to 100% child-safe in general terms; in fact, &quot;non-toxic&quot; is not particularly regulated in many industries, <a href=\"https://www.healthline.com/health/beauty-skin-care/non-toxic-nail-polish#safest-option\" rel=\"noreferrer\">including nail polish</a>.  Manufacturer claims are often unregulated on products intended for adults.  This is not to say it's <em>probably</em> going to be toxic or harmful, but adult-oriented nail polish that claims to be non toxic may not be tested to be safe for children.</p>\n<p>You should be particularly careful with toddlers, as they put <em>everything</em> in their mouth, and while 17 months is probably past the 'toes in mouth' stage, I wouldn't be entirely confident in that.  As pointed out in comments by @anongoodnurse, you also have increased risk for long-term carcinogenic exposure combined with likelihood to eat... definitely worth being more careful.</p>\n<p>Safest is to choose a product that is labeled as intended for children; those are subject to <a href=\"https://www.cpsc.gov/Business--Manufacturing/Business-Education/childrens-products\" rel=\"noreferrer\">more thorough validation by the CPSC</a>, and some polishes seem to indicate they comply with <a href=\"https://www.astm.org/d4236-94r21.html\" rel=\"noreferrer\">ASTM D4236</a>, which is a labelling guideline for art products like paints (which is not what nail polish is, but it's adjacent to the category and thus can conform to the standard).  Particularly pay attention to the ages here; if they say 'all ages' or specifically mention toddlers or infants, as well as clearly labelling or marketing for children (and has the other regulatory indicators from the CPSC and/or ASTM), then it should have been tested with the assumption a baby would possibly eat it.</p>\n"
+    },
+    {
+      "owner": {
+        "account_id": 26061095,
+        "reputation": 1,
+        "user_id": 43408,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/e0f112c30866bc2323ed45435d403ca4?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "AmyB Barry",
+        "link": "https://parenting.stackexchange.com/users/43408/amyb-barry"
+      },
+      "is_accepted": false,
+      "score": -2,
+      "last_activity_date": 1660651982,
+      "last_edit_date": 1660651982,
+      "creation_date": 1660488014,
+      "answer_id": 42843,
+      "question_id": 42821,
+      "content_license": "CC BY-SA 4.0",
+      "body": "<p>Yes, that should be fine. It should not harm the toddler but try and get them to not chew on the polish, if possible.</p>\n"
+    }
+  ],
+  "comments": [
+    {
+      "owner": {
+        "account_id": 3674367,
+        "reputation": 72549,
+        "user_id": 9327,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://i.sstatic.net/jlp4Q.png?s=256",
+        "display_name": "anongoodnurse",
+        "link": "https://parenting.stackexchange.com/users/9327/anongoodnurse"
+      },
+      "edited": false,
+      "score": 2,
+      "creation_date": 1659408143,
+      "post_id": 42821,
+      "comment_id": 91582,
+      "content_license": "CC BY-SA 4.0",
+      "body": "I&#39;m not a toxicologist, so I really don&#39;t know. I suspect that nail polish may well be non-toxic on the nails, but there&#39;s no guarantee that it&#39;s true if in the mouth. I like nail polish on kiddies, too, but only when they don&#39;t chew their nails, suck on their fingers, or scrape it off with their teeth. A 17 month old exposed to even a very low-level carcinogen had a long time to... well, you know. Find out the brand and see what California has to say about it. They are the strictest in the nation on potential carcinogens."
+    }
+  ]
+}

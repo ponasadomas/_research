@@ -1,0 +1,73 @@
+unit	post_id	label	reason
+001	1qu1ua4	drop	Extract is mostly bot/rules rather than usable author context
+002	1vp0rzj	drop	Crosspost duplicate; keep Australian discussion 003
+003	1vp0tme	keep	Cross-segment discovery evidence; read full available index unit
+004	1wiwi42	drop	Isolation account; thin context for the planning question
+005	1wix5bu	drop	Crosspost duplicate of 004
+006	1am1no8	keep	Cross-segment discovery evidence; read full available index unit
+007	1avxl2m	keep	Cross-segment discovery evidence; read full available index unit
+008	1d8hvvf	drop	General day activity; later stage overlaps retained 006
+009	1mdtaip	drop	Account centers on diagnosed postpartum distress; exclude from marketing language bank
+010	hypx40	keep	Cross-segment discovery evidence; read full available index unit
+011	qkh4rs	drop	Partial opening, overlaps ordinary activity evidence retained 006/067
+012	13yd4fd	drop	Extract opens in replies; prefer solids posts with intact initial account
+013	1jm9kvt	keep	Cross-segment discovery evidence; read full available index unit
+014	1lfrdav	keep	Cross-segment discovery evidence; read full available index unit
+015	1su2bsy	keep	Cross-segment discovery evidence; read full available index unit
+016	1uclh5h	drop	Extract opens in replies; prefer intact initial account
+017	1ul8z4t	keep	Cross-segment discovery evidence; read full available index unit
+018	1vnl9z4	keep	Cross-segment discovery evidence; read full available index unit
+019	1wfm13k	keep	Cross-segment discovery evidence; read full available index unit
+020	1x3qdbt	keep	Cross-segment discovery evidence; read full available index unit
+021	zj0bfz	drop	Growth/nutrition concern requires clinician; not ordinary planning
+022	1rebk7y	drop	Family manipulation dominates; avoid marketing around coercive situations
+023	1vjelri	drop	Overlaps no-village discussion retained 003; not independent market validation
+024	1vzv0ev	keep	Cross-segment discovery evidence; read full available index unit
+025	1dkk4n3	keep	Cross-segment discovery evidence; read full available index unit
+026	1fwzsfj	keep	Cross-segment discovery evidence; read full available index unit
+027	1gnt5sv	keep	Cross-segment discovery evidence; read full available index unit
+028	1i5q8sx	keep	Cross-segment discovery evidence; read full available index unit
+029	1ow7gp3	keep	Cross-segment discovery evidence; read full available index unit
+030	1qjko8x	drop	Generic feature question; overlapping stronger sleep evidence
+031	1rs079d	keep	Cross-segment discovery evidence; read full available index unit
+032	1v8sxhg	keep	Cross-segment discovery evidence; read full available index unit
+033	1vey3zc	drop	Thin partial; overlaps retained sleep conflict 032
+034	1wdqxs9	keep	Cross-segment discovery evidence; read full available index unit
+035	1wuervk	keep	Cross-segment discovery evidence; read full available index unit
+036	1x6q8zd	keep	Cross-segment discovery evidence; read full available index unit
+037	1frtd2q	drop	Comment-only partial with exercise instructions; prefer direct question
+038	1qdupyx	keep	Cross-segment discovery evidence; read full available index unit
+039	1rblsh4	drop	Many individualized exercise instructions; prefer intact questions
+040	1rhrm8h	keep	Cross-segment discovery evidence; read full available index unit
+041	1rw0aec	keep	Cross-segment discovery evidence; read full available index unit
+042	1u3g7yu	drop	Opening absent and exercise prescriptions; not target language
+043	1vllbg1	keep	Cross-segment discovery evidence; read full available index unit
+044	1vm965b	keep	Cross-segment discovery evidence; read full available index unit
+045	1x3fwd9	keep	Cross-segment discovery evidence; read full available index unit
+046	1x7l4oo	drop	Opening absent; mostly exercise instructions
+047	1x9ipeb	drop	Opening absent; mostly exercise instructions
+048	cb4tj3	keep	Cross-segment discovery evidence; read full available index unit
+049	104rlng	drop	Opening absent; contains hygiene hacks not suitable to repeat
+050	18hrmh0	drop	Opening absent; mostly individualized schedules/hygiene advice
+051	1g5uv81	drop	Opening absent; prefer intact return-to-work questions
+052	1ghnuth	keep	Cross-segment discovery evidence; read full available index unit
+053	1gj5jjw	keep	Cross-segment discovery evidence; read full available index unit
+054	1jaibwa	keep	Cross-segment discovery evidence; read full available index unit
+055	1oveo2z	keep	Cross-segment discovery evidence; read full available index unit
+056	1t1pnby	keep	Cross-segment discovery evidence; read full available index unit
+057	1tuejbg	keep	Cross-segment discovery evidence; read full available index unit
+058	1vu3h58	keep	Cross-segment discovery evidence; read full available index unit
+059	1w102ou	keep	Cross-segment discovery evidence; read full available index unit
+060	1xb9x31	keep	Cross-segment discovery evidence; read full available index unit
+061	10kin9q	keep	Cross-segment discovery evidence; read full available index unit
+062	16e8cl6	keep	Cross-segment discovery evidence; read full available index unit
+063	1ftatr9	keep	Cross-segment discovery evidence; read full available index unit
+064	1pn5z01	keep	Cross-segment discovery evidence; read full available index unit
+065	1q8jb5g	keep	Cross-segment discovery evidence; read full available index unit
+066	1rcpre4	keep	Cross-segment discovery evidence; read full available index unit
+067	1vz0bhu	keep	Cross-segment discovery evidence; read full available index unit
+068	1wyfq29	keep	Cross-segment discovery evidence; read full available index unit
+069	hmz2hs	drop	Opening absent; overlaps retained activity material
+070	i2cwut	keep	Cross-segment discovery evidence; read full available index unit
+071	pwvuae	keep	Cross-segment discovery evidence; read full available index unit
+072	tiauiq	drop	Long mixed app list; specific app evidence retained elsewhere

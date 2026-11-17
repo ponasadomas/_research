@@ -1,0 +1,50 @@
+{
+  "slug": "madeformums",
+  "kind": "landing",
+  "requested_url": "https://forum.madeformums.com/",
+  "fetched_at": "2026-10-24T12:23:57.726609+00:00",
+  "status": 200,
+  "final_url": "https://www.madeformums.com",
+  "headers": {
+    "Connection": "keep-alive",
+    "Content-Length": "67402",
+    "Content-Type": "text/html; charset=utf-8",
+    "backend": "https://content-resolution-service-production.headless.imdserve.com",
+    "X-Proxied-Request": "true",
+    "Cache-Control": "public, max-age=0, s-maxage=900, stale-while-revalidate=86400, stale-if-error=86400",
+    "Content-Encoding": "gzip",
+    "Etag": "b54310795e8ffdd0193617cfabb5d54e21c8e5df",
+    "Link": "<https://www.madeformums.com/stitcher-assets/madeformums/ad-manager.js>; rel=\"preload\"; as=\"script\", <https://www.madeformums.com/unified/wrapperMessagingWithoutDetection.js>; rel=\"preload\"; as=\"script\", <https://use.typekit.net>; rel=\"preconnect\", <https://cdn.speedcurve.com>; rel=\"dns-prefetch\", <https://www.google-analytics.com>; rel=\"dns-prefetch\", <https://www.googletagmanager.com>; rel=\"dns-prefetch\", <https://ib.adnxs.com>; rel=\"dns-prefetch\", <https://tlx.3lift.com>; rel=\"dns-prefetch\", <https://htlb.casalemedia.com>; rel=\"dns-prefetch\", <https://g2.gumgum.com>; rel=\"dns-prefetch\", <https://a.teads.tv>; rel=\"dns-prefetch\", <https://grid.bidswitch.net>; rel=\"dns-prefetch\"",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-Powered-By": "Next.js",
+    "X-Service-Name": "editorial",
+    "X-Service-Type": "frontend",
+    "X-Xss-Protection": "1; mode=block",
+    "Via": "1.1 varnish, 1.1 varnish",
+    "Accept-Ranges": "bytes",
+    "Date": "Sat, 24 Oct 2026 12:23:57 GMT",
+    "Age": "121",
+    "X-Served-By": "cache-dub4345-DUB, cache-ber1080053-BER",
+    "X-Cache": "HIT, HIT",
+    "X-Cache-Hits": "17, 1",
+    "X-Timer": "S1792844638.920374,VS0,VE1",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+    "X-Content-Type-Options": "nosniff",
+    "Fastly-GeoIP-CountryCode": "LT",
+    "Access-Control-Allow-Origin": "*",
+    "Vary": "Accept-Encoding, X-Routing-Control-Resolve-Only, routing_service_test"
+  },
+  "bytes": 445439,
+  "sha256": "c162cb9bcdaa00f060cbb9efe5c739508559d053b30c710ae19c5e9055712ec2",
+  "raw_file": "_raw/forums-deep/access/madeformums-landing.bin",
+  "redirects": [
+    {
+      "status": 301,
+      "url": "https://forum.madeformums.com/",
+      "location": "https://www.madeformums.com"
+    }
+  ],
+  "title": "MadeForMums | Supporting you, from bumps to big kids | MadeForMums",
+  "policy_excerpt": ""
+}

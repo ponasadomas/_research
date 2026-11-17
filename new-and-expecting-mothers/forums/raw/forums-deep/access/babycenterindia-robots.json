@@ -1,0 +1,38 @@
+{
+  "slug": "babycenterindia",
+  "kind": "robots",
+  "requested_url": "https://www.babycenter.in/robots.txt",
+  "fetched_at": "2026-10-24T12:23:57.242115+00:00",
+  "status": 200,
+  "final_url": "https://www.babycentre.co.uk/",
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "ETag": "\"cnyhv71uo2c45j\"",
+    "Vary": "Accept-Encoding",
+    "Content-Encoding": "gzip",
+    "Content-Length": "100366",
+    "Cache-Control": "public, max-age=18435",
+    "Expires": "Sat, 24 Oct 2026 17:31:12 GMT",
+    "Date": "Sat, 24 Oct 2026 12:23:57 GMT",
+    "Connection": "keep-alive",
+    "Set-Cookie": "geoCC=LT; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.babycentre.co.uk, geoRegion=; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.babycentre.co.uk, geoDMA=; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.babycentre.co.uk, geoCity=VILNIUS; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.babycentre.co.uk, geoZip=; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.babycentre.co.uk",
+    "X-Robots-Tag": "bingbot: noarchive",
+    "X-XSS-Protection": "1; mode=block",
+    "x-frame-options": "SAMEORIGIN",
+    "x-content-type-options": "nosniff",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+    "Akamai-Cache-Status": "Hit from child"
+  },
+  "bytes": 565426,
+  "sha256": "0100e407c42f99b166d9529a6d13a704fdd99b282d3121cb33e9d189b117be46",
+  "raw_file": "_raw/forums-deep/access/babycenterindia-robots.bin",
+  "redirects": [
+    {
+      "status": 301,
+      "url": "https://www.babycenter.in/robots.txt",
+      "location": "https://www.babycentre.co.uk/"
+    }
+  ],
+  "title": "BabyCentre UK | The Most Accurate &amp; Trustworthy Pregnancy &amp; Parenting Information \r\n | BabyCentre",
+  "policy_excerpt": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\" data-next-head=\"\"/><meta name=\"viewport\" content=\"width=device-width\" data-next-head=\"\"/><meta name=\"robots\" content=\"max-image-preview:large\" data-next-head=\"\"/><title data-next-head=\"\">BabyCentre UK | The Most Accurate &amp; Trustworthy Pregnancy &amp; Parenting Information \r\n | BabyCentre</title><meta name=\"description\" content=\"Find information from BabyCentre on pregnancy, children&#x27;s health, parenting &amp; more, including expert advice &amp; weekly newsletters that detail your child&#x27;s…\" data-next-head=\"\"/><link rel=\"canonical\" href=\"https://www.babycentre.co.uk/\" data-next-head=\"\"/><meta name=\"thumbnail\" content=\"https://assets.babycenter.com/ims/2019/03/img_regmodule.svg\" data-next-head=\"\"/><meta name=\"referrer\" content=\"always\" data-next-head=\"\"/><meta property=\"og:locale\" content=\"en_GB\" data-next-head=\"\"/><meta property=\"og:url\" content=\"https://www.babycentre.co.uk/\" data-next-head=\"\"/><meta property=\"og:title\" content=\"BabyCentre UK | The Most Accurate &amp; Trustworthy Pregnancy &amp; Parenting Information \r\n\" data-next-head=\"\"/><meta property=\"og:type\" content=\"website\" data-next-head=\"\"/><meta property=\"og:site_name\" content=\"BabyCenter\" data-next-head=\"\"/><meta property=\"og:image\" content=\"https://assets.babycenter.com/ims/2019/03/img_regmodule.svg\" data-next-head=\"\"/><meta property=\"og:image:width\" content=\"1200\" data-next-head=\"\"/><meta property=\"og:image:height\" content=\"630\" data-next-head=\"\"/><meta property=\"og:image:secure_url\" content=\"https://assets.babycenter.com/ims/2019/03/img_regmodule.svg\" data-next-head=\"\"/><meta property=\"og:description\" content=\"Find information from BabyCentre on pregnancy, children&#x27;s health, parenting &amp; more, including expert advice &amp; week"
+}

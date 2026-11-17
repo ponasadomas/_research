@@ -1,0 +1,8 @@
+{
+  "slug": "babyforumuk",
+  "kind": "landing",
+  "requested_url": "https://www.babyforum.co.uk/",
+  "fetched_at": "2026-10-24T12:23:58.521837+00:00",
+  "status": null,
+  "error": "SSLError(MaxRetryError('HTTPSConnectionPool(host=\\'www.babyforum.co.uk\\', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \\'www.babyforum.co.uk\\'. (_ssl.c:1081)\")))'))"
+}

@@ -1,0 +1,100 @@
+SOURCE: Stack Exchange Parenting, official API v2.3
+THREAD: 41984
+URL: https://parenting.stackexchange.com/questions/41984/is-it-safe-to-store-and-use-a-desktop-computer-for-long-hours-next-to-babys-cri
+CREATED: 2021-10-04T08:05:01+00:00
+TITLE: Is it safe to store and use a desktop computer for long hours next to baby's crib?
+TAGS: newborn,health,safety
+
+
+QUESTION 41984 | owner_id=41828 | license=CC BY-SA 4.0
+I'm a software developer by profession. And I like working in my bedroom. And my 2-month-old son's baby bed is in there as well. I'm curious about the radiation and the thermal effect on my growing baby.
+
+COMMENT 89480 | owner_id=31496
+What forms/sources of radiation are you worried about? What kind of thermal effects are you worried about?
+
+COMMENT 89492 | owner_id=41684
+Not worried about constant light and noise but about EM radiation?
+
+COMMENT 89496 | owner_id=6593
+It is a shame that the educational process for software experts doesnt include basic electronics, which would eliminate confusion at this level.
+
+COMMENT 89505 | owner_id=32570
+Apart from the noise from (rotating) hard disks and fans, some electronic devices make high-pitch low-volume noise. You probably don't notice that noise anymore. A little kid does notice such noises, sometimes (anecdotal evidence: lightbulb). Noise might make babies and kids nervous/restless (without apparent reason unless you notice the noise).
+
+COMMENT 89529 | owner_id=41846
+Adding to other answers: What you should not use in same room as baby are printers. Inkjets just 'smell', but laser printers create ozone, which is not healthy. Take the printing outside the room.
+
+COMMENT 89541 | owner_id=28666
+I'd be more concerned about the vaporization of all the anti-flame stuff on the boards
+
+COMMENT 89543 | owner_id=29230
+@CarlWitthoft Even if the software curriculum did include cursory electronics courses, this seems like a perfectly reasonable question for a new parent to ask. Others here probably know more than what is taught in a one-semester Introduction to Electronics course. OP should be encouraged to continue asking questions, not berated for not knowing something you may find obvious.
+
+
+ANSWER 41985 | owner_id=28667 | license=CC BY-SA 4.0
+Working in the same room your son sleeps is more an issue of the sounds and light of your monitor you make while working rather than the electromagnetic radiation. If possible, it'd be good for nap times if you could work in a different location. If working in your bedroom is all you've got, try using a sound machine to mask the noises of you working.
+
+The radiation that your computer emits is extremely low. You monitor is the greatest emitter of electromagnetic radiation and the effects of it are only noticeable if you spend prolonged time less than 1 foot away from your monitor. (See: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2787304/) Note: This study is related to rats and old-fashioned CRT monitors (rather than current LCD displays) were placed 20cm from the rat cages. Bottom line, you've got to be really close to a vintage monitor for electromagnetic radiation from a PC monitor to have an impact.
+
+Additionally, new monitors emit significantly less electromagnetic radiation than the old CRT monitors. [Note: I didn't specify that CRT Monitors emitted a dangerous level of X-Ray radiation that is no longer an issue.]
+
+If you can move where you work, I'd recommend it. Blue light and the random sounds you make without even noticing will disrupt sleep, which can impact your son's development, demeanor and amount of time awake at night.
+
+Blue light on the other hand is a problem — not just for your son but for you and anyone else who uses electronic devices. Blue light is linked to disrupted sleep cycles and insomnia (See: https://archive.cdc.gov/#/details?url=https://www.cdc.gov/niosh/emres/longhourstraining/color.html)
+
+More anecdotally, when you work you make a lot of irregular sounds. The action on your keyboard combined with altered breathing as your work can disrupt a child's sleep. With my three sons, my wife and I had to move each one out of our room by 6 months old because they would wake at night just by us turning over in bed as we slept.
+
+All this is moot if you are not able to work anywhere else, but you can mitigate the effects of blue light and the noise of working. Use a sound machine to mask noise and turn your screen monitor brightness down and color correct your monitor to reduce blue light — not sure what OS you develop on but Ubuntu/Linux has a setting that allows for a "Night Light" blue light reduction.
+
+Hope this helps.
+
+COMMENT 89501 | owner_id=33670
+"If possible, it'd be good for nap times if you could work in a different location." OTOH, it's good for a kid to learn how to fall asleep and stay asleep even in a noisy environment. We never put our kids in a "cone of silence" for sleeping and it paid off when our 6 month old slept through the 2nd half of a basketball playoff game with a dozen people yelling and shouting just outside his bedroom door.
+
+COMMENT 89502 | owner_id=33670
+"With my three sons, my wife and I had to move each one out of our room by 6 months old because they would wake at night just by us turning over in bed as we slept." Another benefit to only having the kids sleep in the same room on "special" occasions like nightmares, or when we didn't have central AC so he slept in the one air conditioned room we had in the house so he didn't melt into a puddle over night.
+
+COMMENT 89508 | owner_id=16423
+There is also en.wikipedia.org/wiki/… and high pitched noises which the parents might not even be able to hear, but which might be painfully loud for a baby. I still remember when I was 18 or 20 or so and was trying to explain in a foreign language to a train conductor that the train was producing a painfully loud noise and the (middle aged) train conductor could barely hear it at all.
+
+
+ANSWER 41987 | owner_id=41832 | license=CC BY-SA 4.0
+"Radiation" is a very broad term. It includes things like visible light, or the infrared light emitted by your body. What is harmful is ionizing radiation. A computer does not emit ionizing radiation. There is ionizing background radiation present all the time in our environment at low levels.
+
+Re thermal effects, a computer puts out heat, but so does your own body. If it's too warm in the room, then you can turn on the AC.
+
+In summary, there is zero hazard to your baby from your computer due to radiation or thermal effects.
+
+COMMENT 89489 | owner_id=26734
+"turn on the AC"? This is a bedroom in a residential house, not an office with air-conditioning!
+
+COMMENT 89490 | owner_id=9180
+@TobySpeight in some areas in the world it's very common to have AC in residential houses
+
+COMMENT 89500 | owner_id=26445
+Or even in apartments. And in some places, many people have separate window unit AC systems, including in bedrooms
+
+COMMENT 89510 | owner_id=41843
+@TobySpeight Your comment is so shocking to me that I'm curious where you're from. Certainly here in Arizona, the majority of the population would literally die without AC.
+
+COMMENT 89514 | owner_id=3021
+@BradyGilg I was curious too. Their profile says Scotland. Apparently a warm summer day in Scotland is around 15-17C (59-63F). Cool enough that AC isn't really a requirement. Arizona on the other hand has highs around 40C/105F - where yeah, people may literally die in the heat.
+
+COMMENT 89515 | owner_id=33491
+@IvoBeckers In fairness, it's only common in those few areas closer to the equator than Scotland. ;)
+
+COMMENT 89517 | owner_id=41843
+@Grant I wish we had highs of 105F. This summer the high was 118F (48C).
+
+COMMENT 89521 | owner_id=26734
+I've now looked at OP's profile, but unfortunately I have no idea whether air-con is normal in Sri Lankan homes, so not sure whether that part of this answer is helpful.
+
+
+ANSWER 41989 | owner_id=37944 | license=CC BY-SA 4.0
+The fears of computer largely stem from CRT (cathode ray tube, the "bulky" kind) monitors from the past. They were fully replaced by LCDs (liquid crystal displays, the "flat" ones) in 2000-2010 and never appeared in mass-produced portable computers in the first place.
+
+CRT monitors did emit x-rays that are a known health issue. Bigger monitors / TV sets emitted disproportionately more. In the last decade of the CRT development (say, 1990-2000) the x-rays were somewhat mitigated by lead additives in the glass that made the tubes even heavier (not that they were lightweight in the first place).
+
+The problem completely went away when the tubes were replaced with LCDs. They have different working principle and completely lack a mechanism to generate dangerous radiation of any kind.
+
+Today, all the health risks related to computers are completely visible and manageable, including the light, the heat, the noise and the attention grabbing.

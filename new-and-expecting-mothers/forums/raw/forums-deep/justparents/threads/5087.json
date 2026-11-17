@@ -1,0 +1,68 @@
+{
+  "url": "https://www.justparents.co.uk/forums/topic-5087/",
+  "title": "New Here! Introduction to my site...",
+  "listed_replies": 1,
+  "last_reply_as_displayed": "18 years ago by Rob",
+  "board": "work-childcare",
+  "listing_raw_file": "_raw/forums-deep/justparents/responses/4181eb865127ee30d7b1.html",
+  "thread_id": "jp-5087",
+  "pagination_complete": true,
+  "visible_pages_fetched": 1,
+  "visible_post_count": 2,
+  "listed_expected_posts": 2,
+  "listed_count_matches": true,
+  "pages": [
+    {
+      "requested_url": "https://www.justparents.co.uk/forums/topic-5087/",
+      "final_url": "https://www.justparents.co.uk/forums/topic-5087/",
+      "status": 200,
+      "headers": {
+        "Date": "Sat, 24 Oct 2026 12:35:00 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Server": "cloudflare",
+        "Cache-Control": "private, no-store, no-cache, must-revalidate, max-age=0",
+        "pragma": "no-cache",
+        "expires": "0",
+        "Set-Cookie": "jp_session=19fdd7ffe93c994b08fbe5213c17e8ff; path=/; secure; HttpOnly; SameSite=Lax",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=lyczUJtcROJmP93sZ%2Bcmw6eZOJp1spMjLUdr3CR7wCgol46dsDVA6cV42kj4cGlFEF8YT0RhgQLVKR6%2BfnIH29NOdLw5S9pOQ57Y52F4kTzGpIue4ZcsE4bAa1tBMGDigKmUykPLqf8%3D\"}]}",
+        "cf-cache-status": "DYNAMIC",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Content-Encoding": "zstd",
+        "CF-RAY": "a4f904d95e05719d-RIX",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "fetched_at": "2026-10-24T12:35:00.657375+00:00",
+      "bytes": 32466,
+      "sha256": "f328208880747c8ed5d5773eec4a15c35892fbf52088ad014bbf7988083cd5b8",
+      "raw_file": "_raw/forums-deep/justparents/responses/48c4730d9d7d3d8d3b73.html"
+    }
+  ],
+  "posts": [
+    {
+      "post_id": "50808",
+      "author_handle": "craftyncloth",
+      "date_as_displayed": "Posted 18 years 5 months ago",
+      "body": "Hi,\nI'm new to this site but have been a wahm for a few months now. I sell cloth nappies, san pro, Mooncups and handmade cards & jewellery amongst other things!\nNew in this week I have Happy Mama Originals san pro pads - these are a UK exclusive! I also have 100% organic cotton toys made by Sckoon, even the stuffing is organic.\nRight now I have 25% off my cards.\nNice to meet you all x",
+      "permalink": "https://www.justparents.co.uk/forums/topic-5087/#50808",
+      "raw_file": "_raw/forums-deep/justparents/responses/48c4730d9d7d3d8d3b73.html",
+      "page_url": "https://www.justparents.co.uk/forums/topic-5087/",
+      "role": "original_post",
+      "original_post_id": "50808"
+    },
+    {
+      "post_id": "50847",
+      "author_handle": "Rob",
+      "date_as_displayed": "Posted 18 years 5 months ago",
+      "body": "Hi Hazel,\nYou'll notice that we don't allow new members to post links until they've made at least 10 posts on the forums. This is to avoid spammers, and also encourage people to interact with the community and not just use it to promote their own website.\nWelcome to JustParents, and please feel free to post your link in this thread once you've started chatting to us all! 🙂",
+      "permalink": "https://www.justparents.co.uk/forums/topic-5087/#50847",
+      "raw_file": "_raw/forums-deep/justparents/responses/48c4730d9d7d3d8d3b73.html",
+      "page_url": "https://www.justparents.co.uk/forums/topic-5087/",
+      "role": "response",
+      "original_post_id": "50808"
+    }
+  ]
+}
