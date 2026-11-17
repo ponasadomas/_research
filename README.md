@@ -40,6 +40,25 @@ have. An agent that filters research "to be safe" has made the research wrong.
 4. The question it was meant to answer.
 5. Where its findings page is.
 
+## Three questions, each from a source that can answer it
+
+A listener's research is complete when all three are answered. No source is required and
+none is enough alone. Name the question a topic answers in its README.
+
+| Question | Sources that can answer it | Why |
+|---|---|---|
+| Is anyone selling to her, and what is working? | Ads running now, competitor pages and funnels | An ad that runs for months is proof of money |
+| What does she pay for, and was she satisfied? | Reviews of books, apps and courses | Only buyers write them |
+| What hurts, and how does she say it? | Reddit, forums, comment sections | Anonymous, long and unguarded |
+
+- The first question is the quick check (step 2 of `~/GitHub/_home/playbooks/new-niche.md`):
+  it decides whether the niche is worth entering. The other two are the deeper research.
+- A community shows who posts there, not the market. Reddit is mostly American, younger
+  and English-speaking, people post more when things are bad, and many who post never
+  buy. Its counts never show how common a problem is.
+- Sources close or change their access. Research that rests on one source ends when
+  that source does.
+
 ## Three layers
 
 Every topic that collects what people say has three layers. Name each for what it is.
