@@ -1,0 +1,76 @@
+{
+  "ad_id": "2284782542062262",
+  "page_id": "186268468076113",
+  "page_name": "Babylist",
+  "snapshot_page_id": "186268468076113",
+  "snapshot_page_name": "Babylist",
+  "snapshot_identity_differs": false,
+  "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/025-babylist-page.json",
+  "source_file_sha256": "dde70e8c18f3207f84afe706c6f2755c427dfe16d758878c6a2e475652c6807b",
+  "captured_at": "2026-10-24T21:52:19.573Z",
+  "native_is_active": true,
+  "start_timestamp": 1792393200,
+  "start_utc": "2026-10-19T07:00:00+00:00",
+  "displayed_start_date": "Oct 19, 2026",
+  "collation_id": "2138689037041955",
+  "collation_count": 1,
+  "display_format": "DCO",
+  "primary_destination": "https://www.babylist.com/registry/new",
+  "card_destinations": [
+    "https://www.babylist.com/registry/new",
+    "https://www.babylist.com/registry/new"
+  ],
+  "native_body_sha256": "b1f3ae7d6bea3ba7afb0f742e77bb5494f09dede313b87233c60211a05083b00",
+  "native_text_bundle_sha256": "fcce18536602e068182d7ff5d9d94872a83f2244b413b48a5b7bc853180cfbd6",
+  "native_ad_sha256": "b39adb94b614d35ddf16d248395dbf3754350da9ee90eb5a6dd7f091e2fae245",
+  "text_bundle": {
+    "body": "consider this your sign to get free baby stuff 🔮",
+    "top": {
+      "caption": "babylist.com",
+      "cta_text": "Learn more",
+      "cta_type": "LEARN_MORE",
+      "title": "The Best Baby Registry",
+      "link_description": null,
+      "link_url": "https://www.babylist.com/registry/new",
+      "display_format": "DCO",
+      "byline": null,
+      "disclaimer_label": null,
+      "additional_info": null,
+      "extra_links": [],
+      "extra_texts": [],
+      "branded_content": null,
+      "root_reshared_post": null
+    },
+    "cards": [
+      {
+        "body": "consider this your sign to get free baby stuff 🔮",
+        "caption": "",
+        "title": "The Best Baby Registry",
+        "link_description": null,
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://www.babylist.com/registry/new"
+      },
+      {
+        "body": "consider this your sign to get free baby stuff 🔮",
+        "caption": "",
+        "title": "The Best Baby Registry",
+        "link_description": null,
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://www.babylist.com/registry/new"
+      }
+    ]
+  },
+  "excluded_card_media_fields": [
+    "image_crops",
+    "original_image_url",
+    "resized_image_url",
+    "video_hd_url",
+    "video_preview_image_url",
+    "video_sd_url",
+    "watermarked_resized_image_url",
+    "watermarked_video_hd_url",
+    "watermarked_video_sd_url"
+  ]
+}

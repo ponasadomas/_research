@@ -1,0 +1,27 @@
+{
+  "requested_url": "https://firststepmethod.com/onlinecourse/",
+  "final_url": "https://firststepmethod.com/onlinecourse/",
+  "status": 200,
+  "date_utc": "2026-10-24T22:10:52.635550+00:00",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 22:10:52 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "vary": "Accept-Encoding",
+    "x-powered-by": "PHP/8.2.35",
+    "Set-Cookie": "_fbp=fb.1.1792879851198.1566930273.AQECAQIB; expires=Fri, 22 Jan 2027 22:10:51 GMT; Max-Age=7776000; path=/; domain=firststepmethod.com; secure; SameSite=Lax",
+    "link": "<https://firststepmethod.com/wp-json/>; rel=\"https://api.w.org/\", <https://firststepmethod.com/?p=2946>; rel=shortlink",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=elKilXDHMKwfSCwRPpQuC3qev8LeWRMplHU98dmsTUhLUTCDAY4KDRwSqIumHzDnGr4KVddC6TX7F4VEsxbZOX4et0F4NJYlHtqsC9OqSlAXemASWcSUjfUAQCXapUAC2KYMr9ev\"}]}",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "zstd",
+    "CF-RAY": "a4fc505b9cc8a873-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "redirects": [],
+  "raw_file": "_raw/advertiser-map04-direct-discovery/firststep-onlinecourse.body",
+  "sha256": "bcc16aa6e28741e636e96d15044715b3348051418ca5db74ddc55970a766663a",
+  "bytes": 322110
+}

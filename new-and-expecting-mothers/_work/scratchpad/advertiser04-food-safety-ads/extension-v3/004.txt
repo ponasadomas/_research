@@ -1,0 +1,387 @@
+{
+  "ad_id": "2104349103648816",
+  "page_name": "eMeals",
+  "page_id": "138553919372",
+  "snapshot_page_id": "138553919372",
+  "is_active": true,
+  "collation_id": "1263800849176972",
+  "collation_count": 1,
+  "native_start_date": 1772784000,
+  "start_utc": "2026-03-06T08:00:00+00:00",
+  "native_end_date": 1792220400,
+  "end_utc": "2026-10-17T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "MESSENGER",
+    "THREADS"
+  ],
+  "media_count": {
+    "videos": 1,
+    "images": 0,
+    "cards": 0
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "emeals.com/personalized-quiz/",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "display_format": "VIDEO",
+    "body": {
+      "text": "Save your energy for bedtime, not brainstorming dinner."
+    },
+    "title": "Plan. Shop. Cook. Dinner Done!",
+    "link_url": "https://emeals.com/account/quiz/",
+    "cards": []
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+  "raw_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+  "native_locator": {
+    "connection": 0,
+    "edge": 14,
+    "collated_result": 0
+  },
+  "snapshot_sha256": "2b9e9addf21c37e8431f82fd173993aed81451d898bd5a531ff0009ab83678ef"
+}
+
+{
+  "ad_id": "25036465196032009",
+  "page_name": "eMeals",
+  "page_id": "138553919372",
+  "snapshot_page_id": "138553919372",
+  "is_active": true,
+  "collation_id": "2157835774704000",
+  "collation_count": 2,
+  "native_start_date": 1768809600,
+  "start_utc": "2026-01-19T08:00:00+00:00",
+  "native_end_date": 1792825200,
+  "end_utc": "2026-10-24T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "AUDIENCE_NETWORK",
+    "MESSENGER",
+    "THREADS"
+  ],
+  "media_count": {
+    "videos": 0,
+    "images": 0,
+    "cards": 2
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "try.emeals.com",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "display_format": "DCO",
+    "body": {
+      "text": "{{product.brand}}"
+    },
+    "title": "{{product.name}}",
+    "link_description": "{{product.description}}",
+    "link_url": "https://try.emeals.com/tired-of-meal-kits/",
+    "cards": [
+      {
+        "body": "“We used to subscribe to \n👋👋👋👋👋 🍈🥬🥒🥦🥑 \nbut eMeals is so much cheaper and a lot more selection!\" - Kim M.",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://try.emeals.com/tired-of-meal-kits/",
+        "title": "Cancel Your Meal Kit & Try Free Easy Meal Plans",
+        "cta_text": "Learn More"
+      },
+      {
+        "body": "“We used to subscribe to \n👋👋👋👋👋 🍈🥬🥒🥦🥑 \nbut eMeals is so much cheaper and a lot more selection!\" - Kim M.",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://try.emeals.com/tired-of-meal-kits/",
+        "title": "Cancel Your Meal Kit & Try Free Easy Meal Plans",
+        "cta_text": "Learn More"
+      }
+    ]
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+  "raw_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+  "native_locator": {
+    "connection": 0,
+    "edge": 15,
+    "collated_result": 0
+  },
+  "snapshot_sha256": "4eba53eacac439cdb06c9427f358907a688d3c08ec42c51ab791c27782e0d09f"
+}
+
+{
+  "ad_id": "1408794290773898",
+  "page_name": "eMeals",
+  "page_id": "138553919372",
+  "snapshot_page_id": "138553919372",
+  "is_active": true,
+  "collation_id": "3416559801814691",
+  "collation_count": 1,
+  "native_start_date": 1765180800,
+  "start_utc": "2025-12-08T08:00:00+00:00",
+  "native_end_date": 1792825200,
+  "end_utc": "2026-10-24T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "MESSENGER",
+    "THREADS"
+  ],
+  "media_count": {
+    "videos": 0,
+    "images": 1,
+    "cards": 0
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "emeals.com/walmart",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "display_format": "IMAGE",
+    "body": {
+      "text": "That Sunday Night feeling when you realize you forgot to plan dinner this week 😬\n\nlet eMeals + Walmart Grocery do the work for you 🙌\n\nTry eMeals Free for 2 weeks, plus get $10 off your first Walmart Grocery pick up or delivery order"
+    },
+    "title": "Try eMeals for FREE + save $10 off your Walmart order!",
+    "link_description": "Our meal planning app makes dinner time even easier with new recipe inspiration weekly and the ease of Walmart grocery pickup or grocery delivery.",
+    "link_url": "https://emeals.com/grocery-delivery-pickup/walmart-grocery/",
+    "cards": []
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+  "raw_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+  "native_locator": {
+    "connection": 0,
+    "edge": 16,
+    "collated_result": 0
+  },
+  "snapshot_sha256": "48b49a0ea6a1b49a596968e270e70c8bc34ec2b06dea0b7099db8d02496c841a"
+}
+
+{
+  "ad_id": "2069782513877105",
+  "page_name": "eMeals",
+  "page_id": "138553919372",
+  "snapshot_page_id": "138553919372",
+  "is_active": true,
+  "collation_id": "1487937699560793",
+  "collation_count": 1,
+  "native_start_date": 1771315200,
+  "start_utc": "2026-02-17T08:00:00+00:00",
+  "native_end_date": 1792825200,
+  "end_utc": "2026-10-24T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "MESSENGER",
+    "THREADS"
+  ],
+  "media_count": {
+    "videos": 0,
+    "images": 1,
+    "cards": 0
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "emeals.com/quiz/",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "display_format": "IMAGE",
+    "body": {
+      "text": "Save your energy for bedtime, not brainstorming dinner."
+    },
+    "title": "Plan. Shop. Cook. Dinner Done!",
+    "link_url": "https://emeals.com/account/quiz/",
+    "cards": []
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+  "raw_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+  "native_locator": {
+    "connection": 0,
+    "edge": 17,
+    "collated_result": 0
+  },
+  "snapshot_sha256": "45ae2985018254ff4db481c05511096240300e1ce3f991e438aecd1e3a129ea5"
+}
+
+{
+  "ad_id": "1160003072625370",
+  "page_name": "eMeals",
+  "page_id": "138553919372",
+  "snapshot_page_id": "138553919372",
+  "is_active": true,
+  "collation_id": "7643990915620760",
+  "collation_count": 3,
+  "native_start_date": 1768809600,
+  "start_utc": "2026-01-19T08:00:00+00:00",
+  "native_end_date": 1792825200,
+  "end_utc": "2026-10-24T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "AUDIENCE_NETWORK",
+    "MESSENGER",
+    "THREADS"
+  ],
+  "media_count": {
+    "videos": 0,
+    "images": 1,
+    "cards": 0
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "emeals.com",
+    "cta_text": "No button",
+    "cta_type": "NO_BUTTON",
+    "display_format": "IMAGE",
+    "body": {
+      "text": "https://emeals.com/walmart-keto/"
+    },
+    "title": "Keto Meal Plans by eMeals",
+    "link_description": "Our meal planning app provides weekly keto diet meal plans with grocery list that focus on high-fat and low-carb meals.",
+    "link_url": "https://emeals.com/walmart-keto/",
+    "cards": []
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+  "raw_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+  "native_locator": {
+    "connection": 0,
+    "edge": 18,
+    "collated_result": 0
+  },
+  "snapshot_sha256": "5b8957f48f003b697adfe29aa13860af9e0bc390e4fbc071a9543ba8a0366a81"
+}
+
+{
+  "ad_id": "1249215433834864",
+  "page_name": "eMeals",
+  "page_id": "138553919372",
+  "snapshot_page_id": "138553919372",
+  "is_active": true,
+  "collation_id": "1384926233665837",
+  "collation_count": 2,
+  "native_start_date": 1771574400,
+  "start_utc": "2026-02-20T08:00:00+00:00",
+  "native_end_date": 1792738800,
+  "end_utc": "2026-10-23T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "MESSENGER",
+    "THREADS"
+  ],
+  "media_count": {
+    "videos": 1,
+    "images": 0,
+    "cards": 0
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "emeals.com/personalized-quiz/",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "display_format": "VIDEO",
+    "body": {
+      "text": "Save your energy for bedtime, not brainstorming dinner."
+    },
+    "title": "Plan. Shop. Cook. Dinner Done!",
+    "link_url": "https://emeals.com/account/quiz/",
+    "cards": []
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+  "raw_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+  "native_locator": {
+    "connection": 0,
+    "edge": 19,
+    "collated_result": 0
+  },
+  "snapshot_sha256": "7b248cbcce227cdd5e99173217d767072e51a3647a95d8da5f12ff22af21d2ab"
+}
+
+{
+  "ad_id": "1019867427333229",
+  "page_name": "eMeals",
+  "page_id": "138553919372",
+  "snapshot_page_id": "138553919372",
+  "is_active": true,
+  "collation_id": "847740338369672",
+  "collation_count": 1,
+  "native_start_date": 1785999600,
+  "start_utc": "2026-08-06T07:00:00+00:00",
+  "native_end_date": 1791356400,
+  "end_utc": "2026-10-07T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "AUDIENCE_NETWORK",
+    "MESSENGER",
+    "THREADS"
+  ],
+  "media_count": {
+    "videos": 0,
+    "images": 1,
+    "cards": 0
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "try.emeals.com",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "display_format": "IMAGE",
+    "body": {
+      "text": "“We used to subscribe to \n👋👋👋👋👋 🍈🥬🥒🥦🥑 \nbut eMeals is so much cheaper and a lot more selection!\" - Kim M."
+    },
+    "title": "Cancel Your Meal Kit & Try Free Easy Meal Plans",
+    "link_description": "“THIS is so much better than meal kits! You pick the meals that sound good, make ingredient substitutions, and it avoids all that packaging that come with meal kits. I can't imagine running my household without this tool.\"",
+    "link_url": "https://try.emeals.com/tired-of-meal-kits/",
+    "cards": []
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+  "raw_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+  "native_locator": {
+    "connection": 0,
+    "edge": 20,
+    "collated_result": 0
+  },
+  "snapshot_sha256": "ae68f41f60446186d03fa03388f7a840207eb4354c43bbc67d3ab1d271b173c5"
+}
+
+{
+  "ad_id": "1143201975028121",
+  "page_name": "Plan to Eat",
+  "page_id": "119570619324",
+  "snapshot_page_id": "119570619324",
+  "is_active": true,
+  "collation_id": "1114809224745887",
+  "collation_count": 1,
+  "native_start_date": 1792652400,
+  "start_utc": "2026-10-22T07:00:00+00:00",
+  "native_end_date": 1792825200,
+  "end_utc": "2026-10-24T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM"
+  ],
+  "media_count": {
+    "videos": 1,
+    "images": 0,
+    "cards": 0
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "www.plantoeat.com",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "display_format": "VIDEO",
+    "body": {
+      "text": "Turn your saved recipes into real meals!\n\nDownload Plan to Eat today! Free trial @plantoeat_official \n\n#mealplanapp #instagramrecipes #tiktokrecipe"
+    },
+    "link_url": "https://www.plantoeat.com/?utm_source=IG&utm_campaign=boostedOct",
+    "cards": []
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/049b-plan-to-eat-page.json",
+  "raw_sha256": "3c20fd7a5a23f9df0bcd606e3bd157590f70436314d34bffce5a5f1f2e055882",
+  "native_locator": {
+    "connection": 0,
+    "edge": 0,
+    "collated_result": 0
+  },
+  "snapshot_sha256": "6b174cf7370f9568042d7c9e76505cc787a47255f1389d801f6120b80287950e"
+}
+

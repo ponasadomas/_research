@@ -1,0 +1,568 @@
+{
+  "status": "complete_frozen",
+  "files": [
+    {
+      "file": "_raw/offer-followups-wave03/access.jsonl",
+      "bytes": 7922,
+      "sha256": "cf9ff54facb9edc1ac797275bac0a7458b4c2b88bff45e3bbeb23fa9884ceb70"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/illustration-reading.jsonl",
+      "bytes": 537,
+      "sha256": "d5bd78b79ad4b20ebd82a4a355c6765e7294158ce42309caac3ea9a2a97f88d1"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/lead-status.jsonl",
+      "bytes": 2969,
+      "sha256": "a5395ba6023034f8efa3ac3be5487a9240d9110d32a3863535dbc5f3bad2d213"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/curated-home-rendered.json",
+      "bytes": 4022,
+      "sha256": "2a487309e40c4730ffd8663f650d1a9748f00d15ac199b36476dcdab4b8f5f6f"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/curated-home.headers.json",
+      "bytes": 2618,
+      "sha256": "7dadba3c87da07ecf8e02df8da3976850b7fb0ccd4559a4f6a4a6dc3e289a949"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/curated-home.html",
+      "bytes": 701479,
+      "sha256": "06279eeefe50ee6a3bd6e68b258a86b240f87cc26e72f31e3040833146f422c1"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/curated-home.links.json",
+      "bytes": 1402,
+      "sha256": "bcaae42b002124dca5a3cd87babba2e06bfdc764f03496eb35256e917b190921"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/curated-home.txt",
+      "bytes": 3875,
+      "sha256": "e332a4799b51189b7aa7d09f9c855c318cf5a5d5cb05f1f4cdbe9c0080f503fa"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/curated-services-rendered.json",
+      "bytes": 2508,
+      "sha256": "7adb15b4592409ce175ce580d54e32ee03819f9cfcfe8af3f345b30fe1df4808"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/curated-services.headers.json",
+      "bytes": 3262,
+      "sha256": "7add5dc84d76bfb063fb3c3fad1d0a790a54267b9493d61622ffee6f780b98fb"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/curated-services.html",
+      "bytes": 718246,
+      "sha256": "5b5311af834065a05148cc0a6f1c05a76d7ca8dbe5d0346aeefb91c82db57134"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/curated-services.links.json",
+      "bytes": 1323,
+      "sha256": "42dfddefe57a8c15df310a1f6679424ddb3367e0d5391291075950f027696cde"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/curated-services.txt",
+      "bytes": 1903,
+      "sha256": "9a595f17a77bf8ad653eb7c80d1485a5d3b304c5b6397db56617b4ca87481980"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-faqs-expanded.json",
+      "bytes": 11252,
+      "sha256": "c0a9fcabbbe6eae0b9dbedd32fcfe17c8ee7fd94d9dff9b3b0de0d8169249a45"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-faqs-rendered.json",
+      "bytes": 3630,
+      "sha256": "223e1fef026d9478b4bc5b4cf3be3e1ff1677a0223cc63af25c9823cdcc0da39"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-faqs.headers.json",
+      "bytes": 1650,
+      "sha256": "97dc4560976e63bffedbc1371976a33420d75314904c6c85bb2c4b34c7cb1082"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-faqs.html",
+      "bytes": 1260456,
+      "sha256": "e42d694c318951bc898b63d666cd319912fd5479c922d487d577513e693751bf"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-faqs.links.json",
+      "bytes": 1527,
+      "sha256": "44f1aa1f926399c33d2446e20faa27f36eb2c6d7bd67452cee25ebb2c8afc4ad"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-faqs.txt",
+      "bytes": 2595,
+      "sha256": "2997bb9c76af84cbda45013d3ae1dc9e5ba1ed9518d256c34fa04ea303fcc117"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-home-rendered.json",
+      "bytes": 3753,
+      "sha256": "c275099b5fccadd13580e5ea0ae5fedf14b2660d9e0f390b02b3915a7a0d6e89"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-home.headers.json",
+      "bytes": 1647,
+      "sha256": "22569892b010486d57525882b8c9de4c843d9aba5c547ab2c3a75b551f4354e0"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-home.html",
+      "bytes": 976573,
+      "sha256": "d6c487553e834cdaf10d5ccee44af02fb5af152bae4c3ea7295a969165255068"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-home.links.json",
+      "bytes": 1971,
+      "sha256": "291b119c39e0ecacc464583f505f7dba21937a52cf17ebf1d503de329a1fca1a"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-home.txt",
+      "bytes": 3357,
+      "sha256": "4ba33616332091a693aed6176a34cf69345bed84db855e66efaf4688e12f34ce"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-process-rendered.json",
+      "bytes": 6126,
+      "sha256": "d638f0515223e0d66249ff60851ac755b9eb3542817d90ca433ed3558be9af86"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-process.headers.json",
+      "bytes": 1629,
+      "sha256": "7cfb4c26fd358b956bcbed131418b74a86ed4bd73c069985c03a87560f66d106"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-process.html",
+      "bytes": 953018,
+      "sha256": "760a5ee190ae3fdece4f331dec3cd23a222e755ac8102a7d93c6ce08c5a5154f"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-process.links.json",
+      "bytes": 1527,
+      "sha256": "44f1aa1f926399c33d2446e20faa27f36eb2c6d7bd67452cee25ebb2c8afc4ad"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-process.txt",
+      "bytes": 5232,
+      "sha256": "7e2677358b1fd6119469bd202837bb41e6cc5ab5b6d6217ddf8fb16d9decd415"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-services-rendered.json",
+      "bytes": 5704,
+      "sha256": "bdfac2d189ede16a7136104cd046a748b7fbb651d3ce74826a384a412d013d63"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-services.headers.json",
+      "bytes": 1629,
+      "sha256": "70e418c0b95c5e69c7f36ee2767f2cfeda65b291638c2d23ae2f08892234d307"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-services.html",
+      "bytes": 1051372,
+      "sha256": "081e064b55f522622aa626f7243a0cf37c3af9fc68a35cdd2c86b937f56c167e"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-services.links.json",
+      "bytes": 2136,
+      "sha256": "6276c5c93ac88b044f6daaba1cd957237cdb87813d98275c334002396c147271"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-services.txt",
+      "bytes": 4358,
+      "sha256": "1c4c459272d4095587752f885589b181c5405eca2a8af1ce1a047eb0dd8f5aed"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-terms-rendered.json",
+      "bytes": 4368,
+      "sha256": "fea2dc0e3d5de4b4a6d54a4d6c3c7ccdaab3431e61fa939b9fbb5c5a8698e8ed"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-terms.headers.json",
+      "bytes": 1650,
+      "sha256": "c8b49e3ac54d6dd6f24b3efbe34b7672ec614a5d7e19736ca9a7ed860f764d66"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-terms.html",
+      "bytes": 869586,
+      "sha256": "32052b15a6e23301489500b3de76791d792fc1213d41dab0a8a9a9c446ae8613"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-terms.links.json",
+      "bytes": 1485,
+      "sha256": "4cf483afb6ed4a0c7af3b68c76805d662569b5498946d18e5976ee56076760a4"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/nesting-terms.txt",
+      "bytes": 4030,
+      "sha256": "ab3f2b465adef1a253a98d3782b2089c72927304494101a95a5c56461681ebfb"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/stresslessmom-home-rendered.json",
+      "bytes": 4316,
+      "sha256": "33200cd98e084719399667ad86b83070a10df84695f42118c37384ae57e981e7"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/stresslessmom-home.headers.json",
+      "bytes": 1649,
+      "sha256": "39144ffe9c82b72c490c036cc408470b275f94669727452d11fcb1158cd33dc3"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/stresslessmom-home.html",
+      "bytes": 754165,
+      "sha256": "77f42bb46561b4108a81d404e7d33e1379c653cd943e014eb2a5053de6067a6e"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/stresslessmom-home.links.json",
+      "bytes": 2686,
+      "sha256": "6111c8de0c487072ede3a20577a3d900d72cc744474ed46acfdfc4e9165422b6"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/stresslessmom-home.txt",
+      "bytes": 2913,
+      "sha256": "50555dd99776278ccf1713b76cf289638ae2c12d794c411bbf3aadf881f00de0"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/stresslessmom-postpartum-rendered.json",
+      "bytes": 2579,
+      "sha256": "0bb572b473d971e9285dab6a20e1a5d9687a949c9377c3801c5ae3ca02760ea0"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/stresslessmom-postpartum.headers.json",
+      "bytes": 2574,
+      "sha256": "4000098dbe61059a1a8b17538c47ba6c4edf87a9e5117c12d7269d7939a343d8"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/stresslessmom-postpartum.html",
+      "bytes": 663470,
+      "sha256": "a0b2ed639a353d6a949939809741acc44d7224bc576d43d588fd9a783b1ed9e0"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/stresslessmom-postpartum.links.json",
+      "bytes": 2012,
+      "sha256": "1b88209e66ed48b56bd98ba638ce9df26a1b91fe73a95c515eb5d73b66104050"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/stresslessmom-postpartum.txt",
+      "bytes": 1834,
+      "sha256": "376b94efc9094bd4ec7c8399022f6326d6f230705fcb8c6fc33acf4b70d685d4"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/stresslessmom-pregnancy-rendered.json",
+      "bytes": 2413,
+      "sha256": "23a27090c069cd4c56587d4b71f0a861a6f25fbbdd72d428ed72fef9c187a9fc"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/stresslessmom-pregnancy.headers.json",
+      "bytes": 1624,
+      "sha256": "07214dd07d83ba081950d9c0b62b4a41849836e17792257cb6cf68b619e02133"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/stresslessmom-pregnancy.html",
+      "bytes": 660072,
+      "sha256": "53c871c3e1d0baed8ebdff3e1cd0923157e67f3c1325232e854b079a5a5f899c"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/stresslessmom-pregnancy.links.json",
+      "bytes": 2012,
+      "sha256": "1b88209e66ed48b56bd98ba638ce9df26a1b91fe73a95c515eb5d73b66104050"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/stresslessmom-pregnancy.txt",
+      "bytes": 1788,
+      "sha256": "a55a99af60b42cdcaea88016a566b0a3f18521d5820558e8a2ad626172324ab6"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/stresslessmom-vipregnancy-rendered.json",
+      "bytes": 1819,
+      "sha256": "00515237dcb9b098e49885a15b34ec9486a73b58326b863cffc98d554ae50d24"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/stresslessmom-vipregnancy.headers.json",
+      "bytes": 1624,
+      "sha256": "a23c2371adbe196266b19b9ffe47bb918a5f3089b9be92c158b69525a0603ba3"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/stresslessmom-vipregnancy.html",
+      "bytes": 651748,
+      "sha256": "a015dc37824588acfb27c24506fcfd2e919be0354ed30d97fcbe86527b741a90"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/stresslessmom-vipregnancy.links.json",
+      "bytes": 2190,
+      "sha256": "900d714070d2e0328d6ea15836319c5c41ad3394b6f9ee95cdb5dae1a1a63af9"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/stresslessmom-vipregnancy.txt",
+      "bytes": 1214,
+      "sha256": "712bae930d1c337032815997a6fac99bb798a589dc0b277f2f6a5b0f42c9ff19"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/village-babyproofing-rendered.json",
+      "bytes": 5841,
+      "sha256": "4bcdbccaaf8bbe3e43923a9c589b93dd6922e986e5cbf941f63691e22e777dbd"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/village-babyproofing.headers.json",
+      "bytes": 1640,
+      "sha256": "4ccf1007e611e15bc8e57aff867c563d9dd00e153e31d12e461ca690c15e169a"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/village-babyproofing.html",
+      "bytes": 515451,
+      "sha256": "280039c14c924728984f3c56bd7029da1638fb99b65d7a84936cf5515ebc3bc9"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/village-babyproofing.links.json",
+      "bytes": 3132,
+      "sha256": "cb6c128d4833d3df1595f515a90323e51339ec35758b1385e7ad438f3becc3fa"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/village-babyproofing.txt",
+      "bytes": 5099,
+      "sha256": "8e175d062fee16b947c5e2243722aaa58b2f4b4e084a88fb4bcc40961be61c9d"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/village-home-rendered.json",
+      "bytes": 5341,
+      "sha256": "b1ec65edf69349e2ab4bb71cb83ae551457bf6714fee3c91fa7e3ee1671cb0c3"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/village-home.headers.json",
+      "bytes": 1640,
+      "sha256": "655a3f641080c2426dd0f16b9237f008e549880f0b5d121eae6d3e679593fefc"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/village-home.html",
+      "bytes": 433964,
+      "sha256": "98a2523747f8fae01c421657b34c6f0f8c853a27598454d3d5b544e626bbc76b"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/village-home.links.json",
+      "bytes": 3410,
+      "sha256": "15e4af007da54d4dcf541faa757af82ac1be8fb92986811d45f69cc1bbe80f60"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/village-home.txt",
+      "bytes": 3990,
+      "sha256": "903fc37356be8bdaa4ea005a2758e3afc323a744dc574788b4ac01eed05a430e"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/village-inhome-rendered.json",
+      "bytes": 5951,
+      "sha256": "8d83691f49772e58443329eff516522245eb83378471271de90c60ccebf47d4a"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/village-inhome.headers.json",
+      "bytes": 1640,
+      "sha256": "cbd26bd71b88ffc0483c42b0857642a667ec917fa8de6eb2367abcb499ce8ff5"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/village-inhome.html",
+      "bytes": 165110,
+      "sha256": "76c2620c8e8aabda5194fa063e52d129835a4f0ee011a7e6e73999e57ed85490"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/village-inhome.links.json",
+      "bytes": 3301,
+      "sha256": "74fc17fe5644b2f36a6253f8e29f40613a3ab39ed9bd57bc85a4386c255620de"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/village-inhome.txt",
+      "bytes": 5082,
+      "sha256": "07c6c66c60030236476931f0e1271141aec876f25cf58d2b066c41df559fccde"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/village-registry-rendered.json",
+      "bytes": 4976,
+      "sha256": "898dc79d9e63bc33838b7155d6921c8bbc9166a8bf81796b2bef014972da60db"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/village-registry.headers.json",
+      "bytes": 1640,
+      "sha256": "82039fd916d7f73a2770fb4bdfeb468cbcadc3b2c39b227fc8a1482d80597984"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/village-registry.html",
+      "bytes": 364200,
+      "sha256": "37128a5e1a8257074e2eb70682b33f7ecaf123b54dfa7f985c78c331b6a48fac"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/village-registry.links.json",
+      "bytes": 2834,
+      "sha256": "8eb686fe10e2f080fc84245d7460cfd34a22185305ad3561043ea11d08795350"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/village-registry.txt",
+      "bytes": 4550,
+      "sha256": "1cac7b57d18770e4671cc3c4d82ae07d755a2a948222d4ee6749129414ee13b7"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/village-review-link-inspection.json",
+      "bytes": 99,
+      "sha256": "e00df2e15ec859266252a9c14575529d51aaa8e3b752b5a2908c2ca99c4f8f66"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/pages/village-review-visible-inspection.json",
+      "bytes": 1103,
+      "sha256": "5323387e120130c85d70add2d92ea2535fa08d8d0e12292099040088275399c0"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/policies/curatedtogrow.com-robots.headers.json",
+      "bytes": 1762,
+      "sha256": "80989e7f6088beb38f9a08ad76797a9dd144f43ee57210114d7b16856ba080e4"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/policies/curatedtogrow.com-robots.txt",
+      "bytes": 495,
+      "sha256": "9b17e5da77ac76be3db267b5c1829105dd50915a8ea21937f591571af63c3aff"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/policies/nestingnotesco.com-robots.headers.json",
+      "bytes": 1144,
+      "sha256": "ab2036c3521c58597d607cf784462ca079d86dc41e4a06decb8b77784d6e4fb3"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/policies/nestingnotesco.com-robots.txt",
+      "bytes": 496,
+      "sha256": "f6f449b1052ff65648a2bedf4b7345d90b37cc29ddf733d611a0548ec9303306"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/policies/stresslessmom.com-robots.headers.json",
+      "bytes": 1145,
+      "sha256": "16978bc9fb545197ec4112a1b7cdf6683c43f9e2fadead1998ba1c7591eeff89"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/policies/stresslessmom.com-robots.txt",
+      "bytes": 495,
+      "sha256": "6ad34c4fab7b8c587490c052a70d4a89736c460ae5d838d8bde1adaedb08c4c3"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/policies/thevillageparentcommunity.com-robots.headers.json",
+      "bytes": 1007,
+      "sha256": "68b6d4612a5e2d87a34ac4191a052a13761135052204288fb0e2c598cd949a69"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/policies/thevillageparentcommunity.com-robots.txt",
+      "bytes": 28,
+      "sha256": "3bb00d50e6a764de531dfde68b4167ffe81731bd951a42f4d482ca14fd4581f4"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/policy-access.jsonl",
+      "bytes": 1330,
+      "sha256": "902e24cc6d9f4378a5a1fc5095ea571f8294d4d75b09ebc209337b68618ac55c"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/policy-review.jsonl",
+      "bytes": 2034,
+      "sha256": "b80c89f07351a7510bb3f4452e132be86ab46fc47e774f6910930117d32c3772"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/testimonial-reading.jsonl",
+      "bytes": 2430,
+      "sha256": "998f751b86e03311b711a62a9bc328967f4d36e2a6b3d4bf4d1ce0077d61701a"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/testimonial-units/curated-alex.json",
+      "bytes": 684,
+      "sha256": "f9a8cc28df8047da2936b5448df530d72a4085377b2e916527089c24b2b1bb9d"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/testimonial-units/curated-devan.json",
+      "bytes": 535,
+      "sha256": "26564c27c9c5d186e6880b212f596e3bb4002702ff2a6f27320b7ad4098f378a"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/testimonial-units/curated-miriam.json",
+      "bytes": 720,
+      "sha256": "69a49221d624e7cf47248f7c1858bd56c3e020cbdd599bca47852cccf91c6db5"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/testimonial-units/nesting-kiona.json",
+      "bytes": 1168,
+      "sha256": "a813d1843f190b06688bd111d4eb1554929167cd9c4017259908ed5ee8ff69d6"
+    },
+    {
+      "file": "_raw/offer-followups-wave03/unread-review.jsonl",
+      "bytes": 653,
+      "sha256": "d30a5cb7fc74e87e705a6a6d03729e68d2cec01feb8436387c06a7812949961b"
+    },
+    {
+      "file": "competitors/wave03-followup-curatedtogrow.md",
+      "bytes": 2717,
+      "sha256": "43f3714304ed930e19b7a7ee98970fcea39c3dd760a7fd4b5f4d6e89f1158dda"
+    },
+    {
+      "file": "competitors/wave03-followup-nestingnotes.md",
+      "bytes": 3244,
+      "sha256": "14377c41a0fbc1ea654fbf27ea40e9462018a5e5396a878aee9ce9a65b386b98"
+    },
+    {
+      "file": "competitors/wave03-followup-stresslessmom.md",
+      "bytes": 2859,
+      "sha256": "18afc231496e5b56c9029c8fda3f5e86c3fe5269fa0d9313da2ebb9539111ea7"
+    },
+    {
+      "file": "competitors/wave03-followup-village.md",
+      "bytes": 3085,
+      "sha256": "f468e91c24a936b1e95de59a1ec572bb64a3e0fd1b2f38d90154e50c89a92333"
+    },
+    {
+      "file": "scratchpad/offer-followups-wave03/audit.py",
+      "bytes": 8769,
+      "sha256": "e5558576675f72f64f889a960364b154635e5b5f3459d5af9a9c96b553cae451"
+    },
+    {
+      "file": "scratchpad/offer-followups-wave03/capture.py",
+      "bytes": 1619,
+      "sha256": "c9274b2ec7a0667f2661ff4d3de0958fac7acd60ffd4c0ff5a83343b6af8311c"
+    },
+    {
+      "file": "scratchpad/offer-followups-wave03/manual-quote-review.json",
+      "bytes": 1296,
+      "sha256": "0c13e360b94adbabe5a910de2dc9d251a10659de8afa071c211ca6949d506124"
+    },
+    {
+      "file": "scratchpad/offer-followups-wave03/record.py",
+      "bytes": 8712,
+      "sha256": "301f1ac3dc2720bf69cd48e26cca7b257fa98fa45bd9bc19d9ebd9419a0764ea"
+    },
+    {
+      "file": "scratchpad/offer-followups-wave03/strict-verification.txt",
+      "bytes": 74,
+      "sha256": "83c14fe92f721033bc7f5ece978258bc8e8cac50e01ba686f6e0cfc77e80ba2e"
+    },
+    {
+      "file": "scratchpad/offer-followups-wave03/verify_quotes.py",
+      "bytes": 2483,
+      "sha256": "c7a7988170215ac12a561d13b7b451bcb2a40641bbd7d6feca7dfe037444920e"
+    },
+    {
+      "file": "sources/offer-followups-wave03-reading.jsonl",
+      "bytes": 14874,
+      "sha256": "f22c02e48b02beb1de3a7359ad5fc07a5d702cea9d9f45881e7b1c1d16ec5040"
+    },
+    {
+      "file": "sources/offer-followups-wave03-verification.json",
+      "bytes": 1952,
+      "sha256": "1599a7d439d3006af20bebc2094c7b79825da5baaa39743a3c6c141895a530e6"
+    },
+    {
+      "file": "sources/offer-followups-wave03.md",
+      "bytes": 6050,
+      "sha256": "96ff85dc699a0bc533d45deadfa4610545132e9cb3d2d7b633462a47994a7673"
+    },
+    {
+      "file": "synthesis/reader-notes-offer-followups-wave03.md",
+      "bytes": 3926,
+      "sha256": "54dfe1198cacdf1547bf9af86db9eeff5ccda8fdc67a52a29b7e6a2961edaa09"
+    },
+    {
+      "file": "voice/offer-followups-wave03.jsonl",
+      "bytes": 3668,
+      "sha256": "383f0c54c7acc85e267d11527c6dc04ea9ef54b89622e2bdd79cdee0e1a846e3"
+    }
+  ],
+  "verification": "sources/offer-followups-wave03-verification.json",
+  "unread_retained_pages": 0,
+  "independent_transactions_established": 0
+}

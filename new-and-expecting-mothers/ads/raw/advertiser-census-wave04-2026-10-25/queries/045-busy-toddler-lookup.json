@@ -1,0 +1,48 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "Busy Toddler",
+  "captured_at": "2026-10-24T21:58:44.384Z",
+  "suggestions": "ge/\"\n  uid=71_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=71_1 generic\n      uid=71_2 button \"Search for exact phrase Busy Toddler\"\n    uid=71_3 generic description=\"Busy Toddler @thebusytoddler· 497K follow this · Personal blog @busytoddler · 2.4M followers\"\n    uid=71_4 generic description=\"Busy Toddler 9.8K follow this · Education\"\n    uid=71_5 generic description=\"Busy Bees & Bugs & Bees Toddler Groups 336 follow this · In-Home Service\"\n    uid=71_6 generic description=\"Toddler's Busy Place 14 follow this · Education @toddlersbusyplace· 262 followers\"\n    uid=71_7 generic description=\"How To Keep A Toddler Busy 9.1K follow this · Community\"\n    uid=71_8 generic description=\"Keep Toddlers Busy @keeptoddlersbusy· 6.6K follow this · Baby goods/kids goods @keeptoddlersbusy· 21.8K followers\"\n    uid=71_9 generic description=\"Busy Binders & Printables for Toddlers and Preschoolers 6.3K follow this · Education @mommynsonshine· 845 followers\"\n    uid=71_10 generic description=\"Busy Toddlers Corner 4.6K follow this · Education website @busytoddlerscorner· 20 followers\"\n    uid=71_11 generic description=\"Busy Toddlers @busytoddler· 3.3K follow this · Educational Supply Store @busy.toddlersph· 814 followers\"\n    uid=71_12 generic description=\"Busy Toddler, Happy Mom @BusyToddlerHappyMom· 2.4K follow this · Baby goods/kids goods\"\n",
+  "candidates": [
+    {
+      "uid": "71_3",
+      "description": "Busy Toddler @thebusytoddler· 497K follow this · Personal blog @busytoddler · 2.4M followers"
+    },
+    {
+      "uid": "71_4",
+      "description": "Busy Toddler 9.8K follow this · Education"
+    },
+    {
+      "uid": "71_5",
+      "description": "Busy Bees & Bugs & Bees Toddler Groups 336 follow this · In-Home Service"
+    },
+    {
+      "uid": "71_6",
+      "description": "Toddler's Busy Place 14 follow this · Education @toddlersbusyplace· 262 followers"
+    },
+    {
+      "uid": "71_7",
+      "description": "How To Keep A Toddler Busy 9.1K follow this · Community"
+    },
+    {
+      "uid": "71_8",
+      "description": "Keep Toddlers Busy @keeptoddlersbusy· 6.6K follow this · Baby goods/kids goods @keeptoddlersbusy· 21.8K followers"
+    },
+    {
+      "uid": "71_9",
+      "description": "Busy Binders & Printables for Toddlers and Preschoolers 6.3K follow this · Education @mommynsonshine· 845 followers"
+    },
+    {
+      "uid": "71_10",
+      "description": "Busy Toddlers Corner 4.6K follow this · Education website @busytoddlerscorner· 20 followers"
+    },
+    {
+      "uid": "71_11",
+      "description": "Busy Toddlers @busytoddler· 3.3K follow this · Educational Supply Store @busy.toddlersph· 814 followers"
+    },
+    {
+      "uid": "71_12",
+      "description": "Busy Toddler, Happy Mom @BusyToddlerHappyMom· 2.4K follow this · Baby goods/kids goods"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "quotes": 26,
+  "failed": 0,
+  "failures": [],
+  "max_author_aggregate_quoted_words": 23,
+  "max_context_words": 20,
+  "corpus_stats": {
+    "board_inventory_count": 8,
+    "board_listing_pages": 17,
+    "listed_thread_cards": 505,
+    "unique_captured_threads": 505,
+    "captured_thread_pages": 530,
+    "captured_original_posts_and_responses": 3472,
+    "listing_count_mismatches": 0,
+    "thread_count_mismatches": 0,
+    "triaged_cards": 505,
+    "initially_retained_threads": 94,
+    "post_read_drops": 16,
+    "effective_retained_threads": 78,
+    "retained_threads_fully_read": 78,
+    "retained_threads_unread": 0,
+    "frozen_retained_chunks": 17,
+    "retained_chunks_fully_read": 17,
+    "retained_chunks_unread": 0,
+    "quotes": 26,
+    "initially_retained_posts": 706,
+    "effective_retained_posts": 555,
+    "provisional_threads_fully_read": 94,
+    "initial_card_drops": 411,
+    "total_dropped_threads": 427
+  },
+  "checks": "Exact own-post substring, normalized preserved HTML match, quote/context limits, cross-wave author aggregate, unique IDs, source metadata, not-dropped final disposition, full visible pagination/post counts, all required chunk reads."
+}

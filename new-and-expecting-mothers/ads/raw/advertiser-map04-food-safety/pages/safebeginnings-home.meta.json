@@ -1,0 +1,31 @@
+{
+  "slug": "safebeginnings-home",
+  "url": "https://safebeginnings.ca/onlinecourses/",
+  "robots_status": 200,
+  "robots_allowed": true,
+  "robots_file": "_raw/advertiser-map04-food-safety/robots/safebeginnings.ca.txt",
+  "raw_file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-home.html",
+  "text_file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-home.txt",
+  "sha256": "a1f10d60abc39a14373c9cbc4b00e57d0daf9edba6d8f906c56b5e62367d1b81",
+  "bytes": 562466,
+  "utc": "2026-10-24T21:45:51.473197+00:00",
+  "status": 200,
+  "final_url": "https://safebeginnings.ca/onlinecourses/",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:45:48 GMT",
+    "Server": "Apache",
+    "Strict-Transport-Security": "max-age=63072000;",
+    "X-XSS-Protection": "0",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Content-Security-Policy": "frame-ancestors 'self' ; upgrade-insecure-requests;",
+    "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+    "Cache-Control": "no-store, no-cache, must-revalidate",
+    "Pragma": "no-cache",
+    "Link": "<https://safebeginnings.ca/wp-json/>; rel=\"https://api.w.org/\", <https://safebeginnings.ca/wp-json/wp/v2/pages/3926>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://safebeginnings.ca/?p=3926>; rel=shortlink",
+    "Set-Cookie": "PHPSESSID=f65f3645c6879f980d55d263d269448d; path=/; secure; HttpOnly",
+    "Connection": "close",
+    "Transfer-Encoding": "chunked",
+    "Content-Type": "text/html; charset=UTF-8"
+  }
+}

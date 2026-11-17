@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 20:45:37 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "CF-Ray": "a4fbd3843c01e4d0-RIX",
+    "CF-Cache-Status": "HIT",
+    "Cache-Control": "public,max-age=0,must-revalidate",
+    "x-seen-by": "bQAXdg/f3pWGCb3VI6q72A==,",
+    "Content-Language": "en",
+    "ETag": "W/\"bfc847022712f050a4a078673c85445a\"",
+    "Link": "<https://static.parastorage.com/>; rel=preconnect; crossorigin, <https://static.parastorage.com/>; rel=preconnect, <https://static.wixstatic.com/>; rel=preconnect; crossorigin, <https://static.wixstatic.com/>; rel=preconnect, <https://siteassets.parastorage.com>; rel=preconnect; crossorigin",
+    "Server": "cloudflare",
+    "x-wix-request-id": "1792874737.326866540006918475",
+    "Strict-Transport-Security": "max-age=31556952",
+    "Vary": "Accept-Encoding",
+    "server-timing": "cache;desc=miss, varnish;desc=miss_hit, dc;desc=cloudflare",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "RIX",
+    "Set-Cookie": "ssr-caching=cache#desc=miss#varnish=miss_hit#dc#desc=cloudflare; Max-Age=20, sec-fetch-unsupported=1; Path=/; Secure; SameSite=Lax;, __cf_bm=a9j__ChzrFNWcdKAQh_.Ra1rokDYZZsTEoZQdvpKP7k-1792874737.320769-1.0.1.1-RSkX0VpfUWi9js6QV4zt3suYfbkP_d5Hp4Y83jzhJbdSZuIH77Rq8.5lei1nMyp_l3inyDPBjQA2xU2bSQ03TYTUa4iwmJoSvxtPM.zfgWyy15cRu2aAiuBM_QbimKSS; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.stresslessmom.com; Expires=Sat, 24 Oct 2026 21:15:37 GMT",
+    "Content-Encoding": "gzip",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "history": []
+}

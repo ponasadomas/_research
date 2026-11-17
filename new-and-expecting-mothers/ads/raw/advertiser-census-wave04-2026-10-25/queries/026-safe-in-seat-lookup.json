@@ -1,0 +1,48 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "Safe in the Seat",
+  "captured_at": "2026-10-24T21:52:22.768Z",
+  "suggestions": "ge/\"\n  uid=21_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=21_1 generic\n      uid=21_2 button \"Search for exact phrase Safe in the Seat\"\n    uid=21_3 generic description=\"Safe in the Seat @safeintheseat· 70.5K follow this · Product/service @safeintheseat · 936.9K followers\"\n    uid=21_4 generic description=\"Child Seat Safety Limited @ChildSeatSafetyLtd· 6.6K follow this · Public & Government Service @carseatladies· 274 followers\"\n    uid=21_5 generic description=\"Simply Safe Car Seats @simplysafecarseats· 29.3K follow this · Shopping & Retail @simplysafecarseats· 11.4K followers\"\n    uid=21_6 generic description=\"Your Seat Ain't Safe @YourSeatAintSafe· 401 follow this · Clothing (Brand) @yourseataintsafe· 307 followers\"\n    uid=21_7 generic description=\"Safe Seattle @safeseattle.org· 31.1K follow this · Community Organization\"\n    uid=21_8 generic description=\"Safe Journey Car Seats @safejourneycarseats· 14K follow this · Baby goods/kids goods @safejourneycarseats· 2.3K followers\"\n    uid=21_9 generic description=\"Safe In Their Seat @safeintheirseat· 12.9K follow this · Baby goods/kids goods @safeintheirseat· 12.9K followers\"\n    uid=21_10 generic description=\"Car Seat Safety UK @carseatsafetyUK· 3K follow this · Baby goods/kids goods\"\n    uid=21_11 generic description=\"Seattle Peace and Safety 53 follow this · Nonprofit Organization\"\n    uid=21_12 generic description=\"Country Kids Car Seat Safety @countrykidsCPST· 43.2K follow this · Educational Consultant\"\n",
+  "candidates": [
+    {
+      "uid": "21_3",
+      "description": "Safe in the Seat @safeintheseat· 70.5K follow this · Product/service @safeintheseat · 936.9K followers"
+    },
+    {
+      "uid": "21_4",
+      "description": "Child Seat Safety Limited @ChildSeatSafetyLtd· 6.6K follow this · Public & Government Service @carseatladies· 274 followers"
+    },
+    {
+      "uid": "21_5",
+      "description": "Simply Safe Car Seats @simplysafecarseats· 29.3K follow this · Shopping & Retail @simplysafecarseats· 11.4K followers"
+    },
+    {
+      "uid": "21_6",
+      "description": "Your Seat Ain't Safe @YourSeatAintSafe· 401 follow this · Clothing (Brand) @yourseataintsafe· 307 followers"
+    },
+    {
+      "uid": "21_7",
+      "description": "Safe Seattle @safeseattle.org· 31.1K follow this · Community Organization"
+    },
+    {
+      "uid": "21_8",
+      "description": "Safe Journey Car Seats @safejourneycarseats· 14K follow this · Baby goods/kids goods @safejourneycarseats· 2.3K followers"
+    },
+    {
+      "uid": "21_9",
+      "description": "Safe In Their Seat @safeintheirseat· 12.9K follow this · Baby goods/kids goods @safeintheirseat· 12.9K followers"
+    },
+    {
+      "uid": "21_10",
+      "description": "Car Seat Safety UK @carseatsafetyUK· 3K follow this · Baby goods/kids goods"
+    },
+    {
+      "uid": "21_11",
+      "description": "Seattle Peace and Safety 53 follow this · Nonprofit Organization"
+    },
+    {
+      "uid": "21_12",
+      "description": "Country Kids Car Seat Safety @countrykidsCPST· 43.2K follow this · Educational Consultant"
+    }
+  ]
+}

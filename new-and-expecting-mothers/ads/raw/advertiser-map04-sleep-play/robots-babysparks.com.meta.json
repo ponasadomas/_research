@@ -1,0 +1,25 @@
+{
+  "requested_url": "https://babysparks.com/robots.txt",
+  "final_url": "https://babysparks.com/robots.txt",
+  "status": 200,
+  "date_utc": "2026-10-24T21:46:39.094585+00:00",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:46:39 GMT",
+    "Server": "Apache",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Upgrade": "h2,h2c",
+    "Connection": "Upgrade, Keep-Alive",
+    "Last-Modified": "Wed, 14 Oct 2026 17:33:29 GMT",
+    "ETag": "\"2e8-65dd0544fce65-gzip\"",
+    "Accept-Ranges": "bytes",
+    "Vary": "Accept-Encoding",
+    "Content-Encoding": "gzip",
+    "Content-Length": "333",
+    "Keep-Alive": "timeout=2, max=100",
+    "Content-Type": "text/plain"
+  },
+  "redirects": [],
+  "raw_file": "_raw/advertiser-map04-sleep-play/robots-babysparks.com.body",
+  "sha256": "3f2b22077eaa3be6596ad53879dc8b129e2f826a1ffe1c7489e417ef2a2caa2a",
+  "bytes": 744
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "rjfc01-0075",
+    "field": "stage",
+    "before": "pregnancy_late",
+    "after": "unknown",
+    "reason": "Expecting soon does not establish gestational week."
+  },
+  {
+    "id": "rjfc01-0083",
+    "field": "speaker",
+    "before": "expecting_mother",
+    "after": "parent_unspecified",
+    "reason": "First-time parents and future breastfeeding do not explicitly establish mother self-identification."
+  },
+  {
+    "scope": "primary reading ledger and final status",
+    "field": "reader_note_cardinalities",
+    "correction": "EP view00531 originals (not33); view00914 originals (not15). Exact ID/count audits unchanged."
+  },
+  {
+    "id": "rjfc01-0002",
+    "field": "quote_selection",
+    "correction": "Trimmed public book-author name with explicit […] omission; remaining spelling/case/punctuation exact. No participant names included."
+  }
+]

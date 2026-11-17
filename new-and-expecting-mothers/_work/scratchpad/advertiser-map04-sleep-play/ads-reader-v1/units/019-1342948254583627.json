@@ -1,0 +1,38 @@
+{
+  "ad_id": "1342948254583627",
+  "advertiser": "Taking Cara Babies",
+  "page_id": "362568527156955",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/019-taking-cara-babies-page.json",
+  "capture_sha256": "90087c5f484111bbc2fba4fd4f642e2dff76af3b3a8273ceb5b83244053f8008",
+  "native_pointer": "connections[0].edges[24].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=362568527156955",
+  "captured_at": "2026-10-24T21:50:13.463Z",
+  "is_active": true,
+  "start_utc": "2026-09-22T07:00:00+00:00",
+  "display_format": "VIDEO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1342948254583627",
+  "snapshot_sha256": "af0483dfbb776739c6c8e2076dbc320e223664c0dc861f95da8f58d4078c0b82",
+  "text_fields": {
+    "body": {
+      "text": "Those early newborn days can feel like a blur—but you don’t have to figure out sleep alone. The Newborn Sleep Bundle gives you gentle, practical strategies to understand your baby’s cues, create flexible routines, and work toward longer stretches of sleep with confidence."
+    },
+    "title": "Better Newborn Sleep Starts Here",
+    "caption": "www.takingcarababies.com",
+    "link_description": null,
+    "link_url": "https://www.takingcarababies.com/products/newborn-sleep-bundle",
+    "cta_text": "See details",
+    "cta_type": "SEE_DETAILS",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "7f7a499df7794009ccf463a4a95cb4bf4f90ce280be7a4a41739650faffe8e0b",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 1,
+  "cards_count": 0
+}

@@ -1,0 +1,34 @@
+{
+  "records": 6991,
+  "catalogue_records": 6991,
+  "bank_ids": 6991,
+  "restored": 141,
+  "themed_restored_quotes": 141,
+  "themed_recovered_quotes": 4829,
+  "themed_total_quotes": 4970,
+  "query_compatibility": "141 of 141; no exclusions",
+  "revised_markdown_check": "TOTAL 26276 id references, 16271 exact quote pairs, 0 failed",
+  "changed_python_syntax_checked": 61,
+  "exact_inline_fragments": 0,
+  "historical_partial_MSE_units": 15,
+  "historical_MSE_tail_posts": 231,
+  "unread_MSE_tail_posts": 0,
+  "preserved": {
+    "reader_notes_and_run_logs": 47,
+    "source_files": 172,
+    "voice_files": 46
+  },
+  "queue_units": 3807,
+  "queue_stage_combinations": {
+    "reading": 1131,
+    "triage": 2559,
+    "quote_extraction;reading": 19,
+    "reading;triage": 7,
+    "quote_extraction": 76,
+    "reading_partial": 3,
+    "quote_extraction;reading_partial": 11,
+    "reading;reading_partial": 1
+  },
+  "errors": [],
+  "failed": 0
+}

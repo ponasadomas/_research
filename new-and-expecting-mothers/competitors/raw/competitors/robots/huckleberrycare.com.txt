@@ -1,0 +1,7 @@
+SOURCE: https://huckleberrycare.com/robots.txt
+HTTP: 200
+ERROR: 
+
+User-agent: *
+Allow: /
+Sitemap: https://huckleberrycare.com/sitemapindex.xml

@@ -1,0 +1,26 @@
+{
+  "requested_url": "https://napper.app/en/pricing/",
+  "final_url": "https://napper.app/en/pricing/",
+  "status": 200,
+  "date_utc": "2026-10-24T21:47:29.010376+00:00",
+  "headers": {
+    "Age": "0",
+    "Cache-Control": "private, no-cache, no-store, max-age=0, must-revalidate",
+    "Content-Encoding": "gzip",
+    "Content-Type": "text/html; charset=utf-8",
+    "Date": "Sat, 24 Oct 2026 21:47:28 GMT",
+    "Link": "</_next/static/immutable/media/DMSans_Medium-s.p.3d8e7co4dea_j.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/immutable/media/DMSans_Regular-s.p.0kvi_cu7g99ie.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/immutable/media/SaansMedium-s.p.3kjwg035isi_t.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/immutable/media/SaansRegular-s.p.1wofy5u84k-j9.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/immutable/chunks/1busdhx81z5gq.css>; rel=preload; as=\"style\", </_next/static/immutable/chunks/3bd07b-ja_nlu.css>; rel=preload; as=\"style\"",
+    "Server": "Vercel",
+    "Strict-Transport-Security": "max-age=63072000",
+    "Vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+    "X-Matched-Path": "/[locale]/pricing",
+    "X-Powered-By": "Next.js",
+    "X-Vercel-Cache": "MISS",
+    "X-Vercel-Id": "arn1::iad1::2nftq-1792878448107-fac5e0eccd5e",
+    "Transfer-Encoding": "chunked"
+  },
+  "redirects": [],
+  "raw_file": "_raw/advertiser-map04-sleep-play/napper-pricing.body",
+  "sha256": "77ea3bc1ac3b9aac1e521fcccb4910458b7c62c1dadca8c0a980f3692161430d",
+  "bytes": 226841
+}

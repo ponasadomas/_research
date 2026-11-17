@@ -1,0 +1,499 @@
+{
+  "retained_native_ids": 199,
+  "fully_read_native_ids": 199,
+  "unread_native_ids": 0,
+  "failures": 0,
+  "body_and_card_strings_exact_native_containment": true,
+  "source_hashes_verified": true,
+  "duplicate_ids": 0,
+  "media_viewed": 0,
+  "ledger_sha256": "b6a714122c20c5237874e6d869ec3365d792aba8b5d3cbcccf0341823f28c33a",
+  "metrics": {
+    "Huckleberry": {
+      "read": 26,
+      "cards": 0,
+      "types": {
+        "app": 26
+      },
+      "statuses": {
+        "resolved": 26
+      },
+      "oldest_start_utc": "2026-08-19T07:00:00+00:00",
+      "ad_ids": [
+        "1051306501248499",
+        "2537706563307496",
+        "947004957996236",
+        "1057498254000948",
+        "1105792888767097",
+        "1394391819475789",
+        "1032361823171446",
+        "4465899170343664",
+        "1108841534972338",
+        "3173176069534697",
+        "3566430890191631",
+        "1530490542212117",
+        "1387339563584122",
+        "28414681968163870",
+        "1564365485183469",
+        "27986466874365674",
+        "1416484519863837",
+        "1570661731043353",
+        "2096802984559363",
+        "2387174568782376",
+        "1078833968194809",
+        "2228999591009061",
+        "2373263420167883",
+        "2790915594671101",
+        "1066290149448550",
+        "1409429404501686"
+      ],
+      "destinations": [
+        "http://itunes.apple.com/app/id1169136078"
+      ],
+      "page_id": "120943168474518",
+      "distinct_native_body_fields": 6,
+      "distinct_complete_text_field_groups": 6
+    },
+    "BabySparks": {
+      "read": 30,
+      "cards": 0,
+      "types": {
+        "app": 30
+      },
+      "statuses": {
+        "resolved": 30
+      },
+      "oldest_start_utc": "2025-11-18T08:00:00+00:00",
+      "ad_ids": [
+        "834931956135810",
+        "843503284748685",
+        "770421272716626",
+        "1755275065134863",
+        "2847454168788014",
+        "2395496070952341",
+        "1340277434600543",
+        "990517894093421",
+        "844949721412981",
+        "1634740090828783",
+        "3643563125783377",
+        "1985555295320390",
+        "2319124028901608",
+        "1208041571212722",
+        "1369712881638929",
+        "1400655602190636",
+        "2726895154333349",
+        "1372331020981498",
+        "1701114224492830",
+        "913892251366671",
+        "1436255995073879",
+        "3090301137835187",
+        "1011576404834248",
+        "1325728572685750",
+        "2535711786800723",
+        "1661916164782057",
+        "4358587501044054",
+        "29149676754636066",
+        "970320748663941",
+        "1068077952664108"
+      ],
+      "destinations": [
+        "http://play.google.com/store/apps/details?id=com.babysparks.babysparks",
+        "http://itunes.apple.com/app/id794574199"
+      ],
+      "page_id": "168950569926881",
+      "distinct_native_body_fields": 2,
+      "distinct_complete_text_field_groups": 7
+    },
+    "Kinedu": {
+      "read": 30,
+      "cards": 3,
+      "types": {
+        "app": 30
+      },
+      "statuses": {
+        "resolved": 29,
+        "body_template_cards_resolved": 1
+      },
+      "oldest_start_utc": "2026-07-27T07:00:00+00:00",
+      "ad_ids": [
+        "944454782004179",
+        "2080847609175442",
+        "1075378951776630",
+        "1120581387317142",
+        "4112383829054680",
+        "878224415142195",
+        "1618004469754170",
+        "1096526436132817",
+        "2213571185891305",
+        "1533418481916683",
+        "28526471120271766",
+        "1077742801252090",
+        "2215409145701438",
+        "1402761188445193",
+        "1695834831642412",
+        "922756493595108",
+        "1812681989972452",
+        "2961899827485513",
+        "1565316185142883",
+        "1723975422196179",
+        "1404922271054299",
+        "1447882813865945",
+        "1388028569947003",
+        "2137037963917456",
+        "1052002017572779",
+        "1579235167212009",
+        "1605977997612916",
+        "1303238001810663",
+        "1601767578040255",
+        "1783867756120838"
+      ],
+      "destinations": [
+        "http://itunes.apple.com/app/id741277284",
+        "http://play.google.com/store/apps/details?id=com.kinedu.appkinedu"
+      ],
+      "page_id": "443378469063877",
+      "distinct_native_body_fields": 5,
+      "distinct_complete_text_field_groups": 14
+    },
+    "Lovevery": {
+      "read": 30,
+      "cards": 63,
+      "types": {
+        "physical": 30
+      },
+      "statuses": {
+        "body_template_cards_resolved": 16,
+        "resolved": 14
+      },
+      "oldest_start_utc": "2026-05-06T07:00:00+00:00",
+      "ad_ids": [
+        "1992364004708978",
+        "2841199229566482",
+        "900643883054478",
+        "1683133726354180",
+        "974249528924230",
+        "857985013265380",
+        "1102462346064342",
+        "1359873516041583",
+        "1271354688404800",
+        "2092549748024241",
+        "1700969994662884",
+        "2050787376317030",
+        "1603276748183809",
+        "1553416506395539",
+        "1278605054138441",
+        "1378735444097571",
+        "2335166003560112",
+        "1666086047787857",
+        "4322601431290498",
+        "1526942262448878",
+        "1769341327779832",
+        "1073790098675370",
+        "1690031059213862",
+        "1296927065530076",
+        "1743433186868036",
+        "2118641622369025",
+        "1535827751261652",
+        "2004003743559512",
+        "868875005782786",
+        "1350285379948894"
+      ],
+      "destinations": [
+        "https://lovevery.com/products/the-play-kits-the-looker",
+        "https://lovevery.com/products/the-play-kits-the-explorer",
+        "https://lovevery.com/products/the-play-kits-the-thinker",
+        "https://lovevery.com/products/the-play-kits-the-senser",
+        "https://lovevery.com/products/the-play-kits-the-charmer",
+        "https://lovevery.com/products/the-play-kits-the-inspector",
+        "https://try.lovevery.com/looker",
+        "https://lovevery.com/products/part-3-advanced-rules-to-chapter-books",
+        "https://lovevery.com/products/part-2-words-to-books",
+        "https://lovevery.com/products/part-1-hands-on-math",
+        "https://lovevery.com/products/part-1-sounds-to-reading",
+        "https://lovevery.com/products/the-math-skill-set",
+        "https://lovevery.com/products/the-early-reader-club-months-25-26",
+        "https://lovevery.com/products/the-play-kits-the-babbler"
+      ],
+      "page_id": "1859617107640244",
+      "distinct_native_body_fields": 14,
+      "distinct_complete_text_field_groups": 28
+    },
+    "Taking Cara Babies": {
+      "read": 30,
+      "cards": 34,
+      "types": {
+        "physical": 10,
+        "course": 20
+      },
+      "statuses": {
+        "resolved": 21,
+        "body_template_cards_resolved": 9
+      },
+      "oldest_start_utc": "2026-02-14T08:00:00+00:00",
+      "ad_ids": [
+        "1508477723943063",
+        "1970914750512476",
+        "2061913721086129",
+        "1558640872355374",
+        "3422368884606473",
+        "1712637839923273",
+        "1090218896599403",
+        "987883130695383",
+        "1760761164890820",
+        "1102649142288263",
+        "1656267709055002",
+        "877647171364291",
+        "1597664988435483",
+        "1383033579792531",
+        "1670523397346671",
+        "1427722592506489",
+        "2516059152232072",
+        "2486573295160731",
+        "1060279876701018",
+        "2019374035638231",
+        "1569658487467625",
+        "1349118910375350",
+        "1059891566693599",
+        "918036481075566",
+        "801755499621481",
+        "1342948254583627",
+        "27528413290099874",
+        "2289035158322002",
+        "1005608615478682",
+        "1967394830841319"
+      ],
+      "destinations": [
+        "https://www.takingcarababies.com/products/b-e-s-t-swaddle",
+        "https://www.takingcarababies.com/products/b-e-s-t-swaddle?variant=47505834639584",
+        "https://www.takingcarababies.com/products/b-e-s-t-swaddle?variant=47505834672352",
+        "https://www.takingcarababies.com/products/b-e-s-t-swaddle?variant=47505834606816",
+        "https://takingcarababies.com/#classes",
+        "https://www.takingcarababies.com/products/newborn-sleep-bundle",
+        "https://www.takingcarababies.com/products/the-5-24-month-collection",
+        "https://www.takingcarababies.com/products/toddler-sleep-training",
+        "https://www.takingcarababies.com/products/jacky",
+        "https://www.takingcarababies.com/"
+      ],
+      "page_id": "362568527156955",
+      "distinct_native_body_fields": 20,
+      "distinct_complete_text_field_groups": 29
+    },
+    "Napper": {
+      "read": 30,
+      "cards": 0,
+      "types": {
+        "app": 30
+      },
+      "statuses": {
+        "resolved": 30
+      },
+      "oldest_start_utc": "2026-04-08T07:00:00+00:00",
+      "ad_ids": [
+        "962549909842982",
+        "2083551876378456",
+        "4016674795298101",
+        "1493046692294968",
+        "769959179538141",
+        "2160010734544932",
+        "2630200337433856",
+        "1019784520818571",
+        "1054625603652311",
+        "2612597375864311",
+        "1288634789579995",
+        "2132246341042539",
+        "1456242499684128",
+        "1068149375876292",
+        "1387640953430893",
+        "1663778071164846",
+        "1718496382915711",
+        "988367057449604",
+        "1010995991832801",
+        "2903252076704018",
+        "965479459896068",
+        "1355598943354661",
+        "1494752132484861",
+        "2870848713294209",
+        "2468312143672770",
+        "895169396695445",
+        "1395694502407752",
+        "965486819664571",
+        "1804107287225177",
+        "3012147115791671"
+      ],
+      "destinations": [
+        "http://itunes.apple.com/app/id1491340863",
+        "http://play.google.com/store/apps/details?id=com.napper",
+        "http://napper.app/de"
+      ],
+      "page_id": "100208041597677",
+      "distinct_native_body_fields": 12,
+      "distinct_complete_text_field_groups": 23
+    },
+    "The Wonder Weeks": {
+      "read": 23,
+      "cards": 26,
+      "types": {
+        "app": 23
+      },
+      "statuses": {
+        "body_template_cards_resolved": 8,
+        "resolved": 15
+      },
+      "oldest_start_utc": "2026-05-13T07:00:00+00:00",
+      "ad_ids": [
+        "831645552891949",
+        "1741538940594754",
+        "1000955546182567",
+        "28110984745237943",
+        "940553628854291",
+        "1615540000030121",
+        "989765940158852",
+        "2334173044016581",
+        "1405660795109498",
+        "2883194102017768",
+        "1604900317705063",
+        "2260285997879451",
+        "1225629969478110",
+        "1456666623026722",
+        "1306638581446391",
+        "2364490737656480",
+        "831514609570523",
+        "1293555475655697",
+        "1144345728529349",
+        "1427406135499193",
+        "1427828762792165",
+        "4474474839466988",
+        "1430219451870668"
+      ],
+      "destinations": [
+        "http://itunes.apple.com/app/id529815782"
+      ],
+      "page_id": "129492440396348",
+      "distinct_native_body_fields": 7,
+      "distinct_complete_text_field_groups": 15
+    }
+  },
+  "zero_pages": [
+    {
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/044b-mothercould-page.json",
+      "sha256": "50218ff596794b62c67440fd841c6a92780452d1a02cc4df9170657bad447a2b",
+      "expected_page_id": "532857173579541",
+      "query": "Mothercould",
+      "captured_at": "2026-10-24T21:58:40.038Z",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=532857173579541",
+      "native_ads": 0,
+      "visible_no_match": true
+    },
+    {
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/045-busy-toddler-page.json",
+      "sha256": "e527943f8a91c1b39bdce98e828298a183b8114d0ba263e78d68b5061e4019cd",
+      "expected_page_id": "162124217459101",
+      "query": "Busy Toddler",
+      "captured_at": "2026-10-24T21:58:54.289Z",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=162124217459101",
+      "native_ads": 0,
+      "visible_no_match": true
+    }
+  ],
+  "capture_counts": [
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/002-huckleberry-page.json",
+      "native_connection_result_counts": [
+        67
+      ],
+      "loaded_edges": 12,
+      "loaded_collated_ids": 26,
+      "has_next_page": [
+        true
+      ],
+      "rounded_visible_result_text": [
+        "~67 results"
+      ]
+    },
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/003-babysparks-page.json",
+      "native_connection_result_counts": [
+        44
+      ],
+      "loaded_edges": 22,
+      "loaded_collated_ids": 30,
+      "has_next_page": [
+        true
+      ],
+      "rounded_visible_result_text": [
+        "~44 results"
+      ]
+    },
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/004-kinedu-english-page.json",
+      "native_connection_result_counts": [
+        208
+      ],
+      "loaded_edges": 18,
+      "loaded_collated_ids": 30,
+      "has_next_page": [
+        true
+      ],
+      "rounded_visible_result_text": [
+        "~210 results"
+      ]
+    },
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/005-lovevery-page.json",
+      "native_connection_result_counts": [
+        323
+      ],
+      "loaded_edges": 30,
+      "loaded_collated_ids": 30,
+      "has_next_page": [
+        true
+      ],
+      "rounded_visible_result_text": [
+        "~320 results"
+      ]
+    },
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/019-taking-cara-babies-page.json",
+      "native_connection_result_counts": [
+        96
+      ],
+      "loaded_edges": 29,
+      "loaded_collated_ids": 30,
+      "has_next_page": [
+        true
+      ],
+      "rounded_visible_result_text": [
+        "~96 results"
+      ]
+    },
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/020-napper-page.json",
+      "native_connection_result_counts": [
+        178
+      ],
+      "loaded_edges": 21,
+      "loaded_collated_ids": 30,
+      "has_next_page": [
+        true
+      ],
+      "rounded_visible_result_text": [
+        "~180 results"
+      ]
+    },
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/046c-wonder-weeks-page.json",
+      "native_connection_result_counts": [
+        27
+      ],
+      "loaded_edges": 20,
+      "loaded_collated_ids": 23,
+      "has_next_page": [
+        false
+      ],
+      "rounded_visible_result_text": [
+        "~27 results"
+      ]
+    }
+  ],
+  "scope_limit": "All retained loaded native text on seven exact Page captures; not every Library result, creative image/video, or campaign."
+}

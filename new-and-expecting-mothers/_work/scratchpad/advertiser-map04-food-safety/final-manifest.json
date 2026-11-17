@@ -1,0 +1,984 @@
+{
+  "task": "Food and childproofing current monetization/identity candidates; root solely owns Chrome and current Ad Library proof",
+  "observed_local_date": "2026-10-25 Europe/Vilnius",
+  "page_jobs": 36,
+  "primary_HTTP200": 33,
+  "unresolved_policy_or_transport_no_target_request": 3,
+  "saved_robots_hosts": 20,
+  "candidate_rows": 16,
+  "core_candidates": 9,
+  "all_current_ad_statuses_unverified_here": true,
+  "new_voice_records": 0,
+  "source_hash_or_reference_errors": [],
+  "files": [
+    {
+      "file": "_raw/ads-running/exact-solid-starts.json",
+      "sha256": "0cfd6cfa6f228a0c2f05ab51d08878993f013e52735eb15660d68be30ebd23bb",
+      "bytes": 279368,
+      "ownership": "existing_frozen_dependency_read_only"
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/access.jsonl",
+      "sha256": "130af50812633796bac7ff0f3e509cfff2a1d5ede6bd7e8ff488690e715ce5e1",
+      "bytes": 70651
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/candidates.json",
+      "sha256": "4c850ab200642d2fb048dffdc035557e700706e91d76277e34b001ee7ac7e77a",
+      "bytes": 22129
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/discovery-01.json",
+      "sha256": "22da0d89f9b53ba0981d81c927d9c4eb2760ba92f0fae49d21f655a820f38240",
+      "bytes": 33741
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/discovery-02.json",
+      "sha256": "62cbec00c9292fc22119b6006ca89f77a061e23fe68526ced46677806128fedc",
+      "bytes": 36198
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/discovery-03.json",
+      "sha256": "f554d207f95312c2a950f681ffb2c72a1e2cff672e4973c10d1771623e180d81",
+      "bytes": 34759
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/discovery-04.json",
+      "sha256": "780c9182c1fdb5eafdefd537c9d9afe1286322480e596f1889dac26faea0d49f",
+      "bytes": 35673
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/discovery-05.json",
+      "sha256": "1ae64485adcd3fe2ae15858b7186da8468c385ba4c3d8ff750cc235a33754fbe",
+      "bytes": 37792
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/page-id-proof.json",
+      "sha256": "b74e1ebe0204d9d473fc6ff4e7e2b47c02da56a97dead8837b3eb84256e579b9",
+      "bytes": 741
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/101-app.html",
+      "sha256": "dc5ee229ab773f66e5d188f732be11daf1d57b4ce9b9356dde8da810a1aba314",
+      "bytes": 1489004
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/101-app.links.json",
+      "sha256": "68195fcf4655789f998b0ad25936c0988a5af53a1295d227f41ad5829424854c",
+      "bytes": 1460
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/101-app.meta.json",
+      "sha256": "235b4afd8231cf355f8988e692218d4e8b18a2f0ed6d43557b38c58e408f8be8",
+      "bytes": 1205
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/101-app.txt",
+      "sha256": "ca93b462fafca626569a8fab028a458a3b7bb99fb754d4e6ac8bdc2f17e95faf",
+      "bytes": 13478
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/101-firstmonth.html",
+      "sha256": "dfea8fb04ad3b925225f8252c08eb0799b972ca838d3466d4e35e7dcbecb4878",
+      "bytes": 2776161
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/101-firstmonth.links.json",
+      "sha256": "57c8010416b07f52626f38033306e050ea53585960405b8367c82b7c834ab22c",
+      "bytes": 1355
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/101-firstmonth.meta.json",
+      "sha256": "92af78aef72d102773bcd7b1fa0f3039624316f4fde6a49223b4da85da1dc46e",
+      "bytes": 1268
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/101-firstmonth.txt",
+      "sha256": "f5ad6a9ec439b1ed2a890ca68b317d4b84ac12973f29a5cc8eb5a5fb37dac237",
+      "bytes": 7907
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/101-home.html",
+      "sha256": "36f722df53d37b147aedac4b7a55b68ddaf9878a45291503f6d10f6210981d4e",
+      "bytes": 1976146
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/101-home.links.json",
+      "sha256": "0054e978e6f68b99d0afa6ffa99c3408d95c86a8e919b987fb7a810a83ba24c7",
+      "bytes": 1918
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/101-home.meta.json",
+      "sha256": "6baee9356be4b2ba5ab92fcc19bac9793a7bfc729014fd55fa3bd0d2e39fe6b7",
+      "bytes": 1204
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/101-home.txt",
+      "sha256": "776195beaf81f4bf856056c1692a02109ffd3e758a3edaeb9f5f29a0637dd3bb",
+      "bytes": 17473
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/blw-app.html",
+      "sha256": "a8e8d1a4cb49d6a7cdebbbeb02ccbaf701ce9b20dd6321d6c9c45f6902b9b5fe",
+      "bytes": 327887
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/blw-app.links.json",
+      "sha256": "1490e9972efcc6b83418d039c0999f92a6482a8f42eaa07efac0ae11c5187eb3",
+      "bytes": 2429
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/blw-app.meta.json",
+      "sha256": "01c9f3f60948e478ddcda56b1831b3e1a6c1031d13af969a7c755156386f1b72",
+      "bytes": 1648
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/blw-app.txt",
+      "sha256": "3ad6eb3a5597fe0065e3873e9517d3603e8cb049898d501542c7afcfb6b4306d",
+      "bytes": 3539
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/blw-apple-us.html",
+      "sha256": "9e70919ec9ce85109820640f422cc9a62aee9e685272d4414847111ea1370b32",
+      "bytes": 735216
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/blw-apple-us.links.json",
+      "sha256": "fc258cd635c4a25cf2311793d7e075e2d16c719bb6b9f435603089baacb587a2",
+      "bytes": 11813
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/blw-apple-us.meta.json",
+      "sha256": "a9c040232dc6c4e952c30e4256df421cbceb9b21e218afe954280734b98bff55",
+      "bytes": 2643
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/blw-apple-us.txt",
+      "sha256": "c20f64a5c1aba125ac2626ea7a810ff9b6843b26fc0ebefd3f81128baf489704",
+      "bytes": 26025
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/boobtofood-balanced.html",
+      "sha256": "8ff155b3ec91e0666d9fd95d64114a3ace65eaecb82481592d610b5bbc1fa10b",
+      "bytes": 416755
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/boobtofood-balanced.links.json",
+      "sha256": "18d738491544450dfb0fdb76f6f239eb9d22732dd3299309dfc806f271429889",
+      "bytes": 2182
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/boobtofood-balanced.meta.json",
+      "sha256": "e50a868cae1da775a83704c484d424b5388b48ca04c22c2593f7b765b46a4327",
+      "bytes": 3156
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/boobtofood-balanced.txt",
+      "sha256": "251903a1211a910b5d8cdbe6283db0b58c5ac3e44538738eebc59f01a9f8c48d",
+      "bytes": 5046
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/boobtofood-home.html",
+      "sha256": "109cbc5e1d2a238a3b624443ad3631a4b27ab224cf0cf06dc57a627b35e2de4f",
+      "bytes": 460492
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/boobtofood-home.links.json",
+      "sha256": "84ad84521d8467a53794a9fdd6ca8c6a07d383774037627549ae9b8de74e6cba",
+      "bytes": 2349
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/boobtofood-home.meta.json",
+      "sha256": "06b7bcdeaae1728dc977602ed9d9721fac0a421c67fe87fc63c25c127669ed20",
+      "bytes": 2835
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/boobtofood-home.txt",
+      "sha256": "4a4b6900475a7207cd224760b68ce8595fad7fa3f94af2e185bd029d3edcc125",
+      "bytes": 7367
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/feedinglittles-app.html",
+      "sha256": "8457687897ebe242387a075543268d79a2d5850f441dd9c5bacd1289508f0814",
+      "bytes": 120315
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/feedinglittles-app.links.json",
+      "sha256": "587704882115ffb2fa9e0d087a1adbe6d988e21af3c84fa8ba9adeface870a5f",
+      "bytes": 2192
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/feedinglittles-app.meta.json",
+      "sha256": "5e776777284cef44295224ebb232148e600d946bc62a631b8e1614c6f8dac470",
+      "bytes": 2941
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/feedinglittles-app.txt",
+      "sha256": "6e0f1e8140d5f03c5873815fa13df9d209115b4a763e90517d5b820ab956401d",
+      "bytes": 6908
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/feedinglittles-home.html",
+      "sha256": "fed2dcb6cb93b107156f0f7395a74c1c96e6a7c303e390826502fe4eaa7e3413",
+      "bytes": 132449
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/feedinglittles-home.links.json",
+      "sha256": "4c5e81af5dd43434a4950a802516da202194a0f8cebc4351f43fccf2223f8136",
+      "bytes": 1988
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/feedinglittles-home.meta.json",
+      "sha256": "0937228c9dc26a29cca1ae69f2575905e92bb10ad9055906d93194b401be8a61",
+      "bytes": 4524
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/feedinglittles-home.txt",
+      "sha256": "f2ca592b8ab0f851e140f5eb9febb329000f6f5ed214a83b1af9aaaf1a51d20f",
+      "bytes": 5552
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/feedinglittles-infant.html",
+      "sha256": "9e999c98f6716e0609834a2efd2fc7f6ed555c57835cb7966a2012cf911912cf",
+      "bytes": 181089
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/feedinglittles-infant.links.json",
+      "sha256": "03a52f216c5c793d2fc226302a14fa9d46687d20a76e71e934f8d10833295160",
+      "bytes": 2455
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/feedinglittles-infant.meta.json",
+      "sha256": "81474b0edb6c24c98670349dd2b42495a48127f8c8d8dc4cdbce027fe760310b",
+      "bytes": 2963
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/feedinglittles-infant.txt",
+      "sha256": "a10ef73e0e3d5a38dda991f80fe3b0fdb374a2c41cf0ca51647f2347afb1fcf4",
+      "bytes": 11947
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/feedinglittles-toddler.html",
+      "sha256": "6a3819d248fe7c2f936d09d30f7e4b5f56433ee3867059033c1f3bb5a89a64e1",
+      "bytes": 183383
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/feedinglittles-toddler.links.json",
+      "sha256": "b871dafbcd89b9b95cd41896eb38e2e623ac275165c0e2a18ffca1988b44d0ff",
+      "bytes": 2315
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/feedinglittles-toddler.meta.json",
+      "sha256": "89801fe0d9e0a2c62012a363fefe63dffdcef675cf9d73dd402e58d777f28992",
+      "bytes": 2952
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/feedinglittles-toddler.txt",
+      "sha256": "6dde90262f257cc65ce1935f5f2398a6a46266fb5d8ca743f08b857c659d1373",
+      "bytes": 12426
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/keic-home.html",
+      "sha256": "6f24931b9cad23409ee4c2809afac5818d98b683e4dc0bd2c7d586f1ad2abd89",
+      "bytes": 300719
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/keic-home.links.json",
+      "sha256": "e7cd2f27df78e77df02d9e8a44b499d1a47d885fb63a0d8737c99d62312b4d03",
+      "bytes": 2841
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/keic-home.meta.json",
+      "sha256": "8c0f001dc50b70151e80dcde5f52f8c45b50ab11d0a393f573805fd8fab6f593",
+      "bytes": 1472
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/keic-home.txt",
+      "sha256": "aa4a594e7b2ed0db372fc7dd13937a3c56ea2dec036141f9db9c90e5698366d0",
+      "bytes": 6811
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/keic-shop.html",
+      "sha256": "2e95b21859469fa656c1e4ddd0f5c6e8ae3f60a81cf262523509889c61c237f9",
+      "bytes": 264153
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/keic-shop.links.json",
+      "sha256": "88f9b0d2fb6a1f8877d5b2276411ab3c99d1d06972746d8de1de76a88d8ee93d",
+      "bytes": 5707
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/keic-shop.meta.json",
+      "sha256": "9595d42e2eb797d07efa574d6511e24d347905be2020630ed64f0d0b3f0ced7c",
+      "bytes": 1368
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/keic-shop.txt",
+      "sha256": "d544e54894c335258fe5e734abb5d018415e281474bc76e92dcea6dc56f64224",
+      "bytes": 7023
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/keic-weekdays.html",
+      "sha256": "fa1dc2f4b098d985020842c972a805044555bca0967b3ce85ee13af79dc720c8",
+      "bytes": 289760
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/keic-weekdays.links.json",
+      "sha256": "9280199ed54e22755ec3bee10c86d0e584d4fda0c3baecd6f01cc60828d35309",
+      "bytes": 3534
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/keic-weekdays.meta.json",
+      "sha256": "796c60273c912fc27c18ac7c3e8c1bd102c4c8875e4b5f8808d093d9e72cab83",
+      "bytes": 1538
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/keic-weekdays.txt",
+      "sha256": "30bf7c59a02b0e2bf91f5e51b32ec4af6bbb572fb2a13b442184e35db5f97fec",
+      "bytes": 6705
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/littlelunches-home.html",
+      "sha256": "a91e5c35aa2d81694e6c1498e6f175be811b40bf4778f2a4dbb71de144248f9c",
+      "bytes": 99658
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/littlelunches-home.links.json",
+      "sha256": "cb6acf83f791cbfb68ebe611d8e7060a3bc05d436e531fe00bcb62b5e64463f2",
+      "bytes": 2485
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/littlelunches-home.meta.json",
+      "sha256": "b52454f4a17c0d30e07c01602c53f39d848a3c9b572da08783e9384302be5c7b",
+      "bytes": 1454
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/littlelunches-home.txt",
+      "sha256": "f671b0ce2552aba2617d50fe808a5a250a22039799762dfc15b78dee4c41da32",
+      "bytes": 9906
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/littlelunches-pricing.html",
+      "sha256": "4fa27a53ea1c52aa73cb68fd75e38400a6c6509a803eb8cf80d2ed745d761392",
+      "bytes": 57914
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/littlelunches-pricing.links.json",
+      "sha256": "fab6220cd046a4af76734efc8bab80c8797e196e76854037f52df5fcbf30e5a8",
+      "bytes": 2270
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/littlelunches-pricing.meta.json",
+      "sha256": "640ccb8deafbb24700a921449001ea699b0e6279f97820e1ac1d857e2ea87090",
+      "bytes": 1459
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/littlelunches-pricing.txt",
+      "sha256": "64d56bd9fcd2fea8364a37edc3a1d37360bdd9e2c9ab2a4494ec390f3634c8e6",
+      "bytes": 1992
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/littlespoon-babyblends.html",
+      "sha256": "9087d66ad470e6c1fc8851cb943e0622cf1589dade2240ea9407d6d2e7effef0",
+      "bytes": 2011204
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/littlespoon-babyblends.links.json",
+      "sha256": "da09c1d50c5763df12c9beff3be9e400d8f4237667ae55d4c4b20d36c8825c04",
+      "bytes": 6931
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/littlespoon-babyblends.meta.json",
+      "sha256": "40dd044b2b5093b94d2a468104cb94040cca2adf32bd5fe5b98cbb8d8d2b0a41",
+      "bytes": 1721
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/littlespoon-babyblends.txt",
+      "sha256": "489eb0c117e71e57d14df25313e25ecc9e4a71e9141eb701d052a4c5b387251c",
+      "bytes": 20249
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/littlespoon-home.html",
+      "sha256": "3b574ea810e085cc59fcb90322a785dab1523349f09632271e3f480bfd84be9d",
+      "bytes": 311164
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/littlespoon-home.links.json",
+      "sha256": "29d843d696124fede31a18b8cbe6b722af1b57ab86a8ffbbf6c82382c53a0fad",
+      "bytes": 1818
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/littlespoon-home.meta.json",
+      "sha256": "b36fdfa9a300c3599576b9505b6d5a8530d1fd7559e28218f432f200295327c5",
+      "bytes": 1664
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/littlespoon-home.txt",
+      "sha256": "7f5a3640740d666acfb5250ba273799b0b1133449604c6326a8a60ce20dfc432",
+      "bytes": 18301
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/nurturednest-safety.html",
+      "sha256": "6c3bb3963723728114a9450e65c52de4445861cfca5f7b7c16ef4bc888f4fa3d",
+      "bytes": 291230
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/nurturednest-safety.links.json",
+      "sha256": "d76a68c36c5d8e23970f1b2c44f475c2e93aaaba7a44df3cd8e2cef76a1b725c",
+      "bytes": 2428
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/nurturednest-safety.meta.json",
+      "sha256": "1eda67cce2dbb501b5f5cb561f69f8ee965c67fea65743752b2bb13ce211400b",
+      "bytes": 3136
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/nurturednest-safety.txt",
+      "sha256": "1deccde76c5e9001df8f5e101e8c575b84efbdfac010b12d826d1bc01cadff4a",
+      "bytes": 14476
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/nurturelife-home.html",
+      "sha256": "f052634d7599c8a0c37d0df360195dcafb85ba04a120b1ff19525937df7cfed0",
+      "bytes": 95353
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/nurturelife-home.links.json",
+      "sha256": "5da971e1476e7a5e29d5a6d5d2c9912d188599b8a3d8cb36332530eb4c535955",
+      "bytes": 1902
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/nurturelife-home.meta.json",
+      "sha256": "9124bbff27a63243ce34fec3701c7b5e44e75b240106eb81ea2b54afdfdf492c",
+      "bytes": 1691
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/nurturelife-home.txt",
+      "sha256": "a6d2a791b11d0ac79a8683cffeaeddefba5e74761be56637a4e74d6c7be4c837",
+      "bytes": 13567
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/pom-online.html",
+      "sha256": "1867031d0239a596b31ee43183a28a575361a8cf13b3a003f224785c42334429",
+      "bytes": 1237117
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/pom-online.links.json",
+      "sha256": "fee8b7d4701056f19c8f24e62c01009f93340190d64e1d5a5a9a0e026e87dce5",
+      "bytes": 431
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/pom-online.meta.json",
+      "sha256": "fc3d89e740e91c0cb82d0b5da8753f862a5eaf19902eedddfaabfed8682bb381",
+      "bytes": 1221
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/pom-online.txt",
+      "sha256": "9210d7fd54f0f0d3cf921699cb0b9e8bb5314b8ac29f84fb344d7e8ba0db01c8",
+      "bytes": 4723
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-cad.html",
+      "sha256": "1bef347a7e42ca5d359f0f16be0c780d47cfdc0c373236fa216e432887413b32",
+      "bytes": 533117
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-cad.links.json",
+      "sha256": "3bd570a2db3b0195ad67c96b1a2425a76ae5a9c9d3bb8311857de63e99fd6ff3",
+      "bytes": 2274
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-cad.meta.json",
+      "sha256": "e0d014674764d64067f24c3ad7f351618b3f217e7e056a2bc3506f38f0822e85",
+      "bytes": 1523
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-cad.txt",
+      "sha256": "63784a3008b8a218f6f0676a3dadb2f93a5e05ea294bb1ca655404b2c1a4dd2d",
+      "bytes": 7459
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-consult.html",
+      "sha256": "3d011550fcc29abbaf84cab04a37b45f792c0bbd3a719ee8e9503e90ba9a009e",
+      "bytes": 600988
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-consult.links.json",
+      "sha256": "71b4ef8709ba77b693e609032cbf61b94744fbb8646ce8b7ee6fd756153a8316",
+      "bytes": 1684
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-consult.meta.json",
+      "sha256": "7f1eb78cb760ef307887809c3f9abd004e930e18c240e02662e9fccf9aadf492",
+      "bytes": 1523
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-consult.txt",
+      "sha256": "4954bdd266b99ee8567d11d48be081ee4a437d3c5f59b16e7c56e28f7060eff8",
+      "bytes": 10553
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-course.html",
+      "sha256": "ba1b6bd4d40b5a61bfb8fe272b48e297a966da6b30829774f18ab5235e805f2f",
+      "bytes": 598052
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-course.links.json",
+      "sha256": "832bd987b2912ebdf983a8d0945bfb841534cf3acc3b325996da4bf559192cfd",
+      "bytes": 2030
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-course.meta.json",
+      "sha256": "ad2288ab47caee69e2b523e8de352eae123ba39c9bf22f13602d6ea090101b1d",
+      "bytes": 1575
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-course.txt",
+      "sha256": "5b1ffdd8caea31ab39fc3c7f9fd5041079ef9bba6e2248235d956bde96fbab80",
+      "bytes": 11017
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-home.html",
+      "sha256": "a1f10d60abc39a14373c9cbc4b00e57d0daf9edba6d8f906c56b5e62367d1b81",
+      "bytes": 562466
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-home.links.json",
+      "sha256": "63782b521bf3515a16418b99f90073f74e527e5c4888c4ffcb55472c97c1f424",
+      "bytes": 1725
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-home.meta.json",
+      "sha256": "0e65546150831c6edc3d5bd7b7a6665f8e7d696989468b60a653891ef3ff64ed",
+      "bytes": 1524
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-home.txt",
+      "sha256": "e7c78e5ab228cb41981ec27611596ad14d4a38af437fcaa79cc55fafe7658f1c",
+      "bytes": 6507
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/safenest-services.html",
+      "sha256": "f6a517b5a6662218441b0d2196527e7d7ec5dba3893805f2136ff2e3bc5b30e7",
+      "bytes": 70427
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/safenest-services.links.json",
+      "sha256": "7c2e20507eabc0939038498cf8e3736879bd4f8135da199e2306d1cfd93cab2e",
+      "bytes": 578
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/safenest-services.meta.json",
+      "sha256": "37e8e8153d712613ccc7fb46484292d3d8db842ad76908a5bf3ce5a1293303a9",
+      "bytes": 1223
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/safenest-services.txt",
+      "sha256": "2835eb03ac9333f89e7dac6e917256cc2e8f7b29528cd9164f2ef942a55fe535",
+      "bytes": 2651
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/solidstarts-app.html",
+      "sha256": "5ff2ff1a10891894a4a7f0379faefaa4f5a5add03d1da91dd64aaa0e9ce5f00a",
+      "bytes": 322471
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/solidstarts-app.links.json",
+      "sha256": "a77be2aaa3408d7cba771056e339965c1ad17af354434297f838f52d8248b9e3",
+      "bytes": 2572
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/solidstarts-app.meta.json",
+      "sha256": "c3b538cc34c8701b86150f95911083918b0a7f44207ba343089ac16f8ff9f71b",
+      "bytes": 2404
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/solidstarts-app.txt",
+      "sha256": "04535be8a6a378ad58a9ad57bcb4a02dff79e21308c3064a0f54f34ec3822707",
+      "bytes": 4567
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/solidstarts-home.html",
+      "sha256": "9306867eebabcd3b49cfb4ee5f2276dbb44247e0ddd1a182c83de7fa04422b9b",
+      "bytes": 217547
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/solidstarts-home.links.json",
+      "sha256": "56e62a83e3f9885d3a74084ab5304635bb84fbc5b4576e2ba0f33f81fc699273",
+      "bytes": 2390
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/solidstarts-home.meta.json",
+      "sha256": "4cc753ecc03c495908c22a0215525a38066005fa1b1d446c55fa72a3b225b9fe",
+      "bytes": 2491
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/solidstarts-home.txt",
+      "sha256": "81561ddb0d8ae517c7b800773c987dc3b49e30a68aeefbca48f0092bb8e6fbfe",
+      "bytes": 3432
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/tinyhood-safety.html",
+      "sha256": "5ddd0d403e8de4f71bd96cf9d7278b84307761d3f56e477918a621dec0dc52fe",
+      "bytes": 100267
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/tinyhood-safety.links.json",
+      "sha256": "579d89e3bfd6fc884f34ac087eeb32fa2673f53643cb9fa46fe0206f5e652ad2",
+      "bytes": 956
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/tinyhood-safety.meta.json",
+      "sha256": "3fc35b878e4b99b2158717fbea0cbd95cfaca2ead15031308dc66ee7df8ae718",
+      "bytes": 1151
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/tinyhood-safety.txt",
+      "sha256": "10c35b1c3b4a39021687fd683d130f3a7a25647e545b50b34439bef2c76a0ace",
+      "bytes": 2625
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/tinyorganics-home.html",
+      "sha256": "b33b86455c9b05228aca4e75f18450c15e5b2f93d84f97000c275b10093d278a",
+      "bytes": 202743
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/tinyorganics-home.links.json",
+      "sha256": "fdadc6b107b56d77a72001e6e8cad28fa0a4a9109fa93588645805c6c5059e54",
+      "bytes": 2396
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/tinyorganics-home.meta.json",
+      "sha256": "1e26f4552241078b7f87dc08fae43782255e658a2d911e6338b6104128e01f67",
+      "bytes": 4458
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/tinyorganics-home.txt",
+      "sha256": "99626e04bc54826269d20eec52d78efb8d1e05c59a1921f8c3b8f758d8362b54",
+      "bytes": 5172
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/tinyorganics-item.html",
+      "sha256": "824876812aa6b6e458bcc74bf55a34fb5ee18a2fa57efcbb56b738f1af0bc1da",
+      "bytes": 239756
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/tinyorganics-item.links.json",
+      "sha256": "1aa73b32f1df8ee409ddaa3ab5285d509a98bf6a61974e2df71bd05c4db1a2f8",
+      "bytes": 2400
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/tinyorganics-item.meta.json",
+      "sha256": "d72c07152414a7b9094c5af882c5e2601a97e2c37bdbeac3e4a3e21ab14d8e82",
+      "bytes": 4845
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/tinyorganics-item.txt",
+      "sha256": "2ee1c4e8dd3476a7af4108f5b4d6d0b8affb3423865f7857b2a7e7770310c10f",
+      "bytes": 5046
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/tinyorganics-menu.html",
+      "sha256": "c96c0cd5b481063a9481efa48fd0f7a37873aa838e21b6bac77c064e3b89c9ed",
+      "bytes": 423510
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/tinyorganics-menu.links.json",
+      "sha256": "3038059a7120da87ccccba8925c434867d35830cee86ce7149d00b2baaa4a260",
+      "bytes": 3130
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/tinyorganics-menu.meta.json",
+      "sha256": "d94cc23fe0b5b7cb5348f14aba001719b48b3bcdd7b52e1ab9b290c4749b1651",
+      "bytes": 4620
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/tinyorganics-menu.txt",
+      "sha256": "564377be0aaa7a4baf55a08bb59974872579caccde02d06bf652ca44fecf7938",
+      "bytes": 4021
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/village-safety.html",
+      "sha256": "31434baf4804ce7f0a01cef3d91288f01b5d53dc05a6450d37cf3ba9f3993e4a",
+      "bytes": 514387
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/village-safety.links.json",
+      "sha256": "0dfcfa664c9b6475651d2ab688c7b30c217506ba26c0bf176969cbd6dcf94ee5",
+      "bytes": 996
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/village-safety.meta.json",
+      "sha256": "33381786de176188d2ef83c226f05a333d3f3cefc7a90462fdcf611f319f59a3",
+      "bytes": 2194
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/pages/village-safety.txt",
+      "sha256": "f7b3d9a6b20547791108dddd722b1108c4dc5c6953628bc08af84149eb3be925",
+      "bytes": 5201
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/report-seller-identity-existing.json",
+      "sha256": "fa1ef3fdccb3811584f1cb7d0e4ff2dd7860d9bcd961504bd280ff22c248ba26",
+      "bytes": 581
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/apps.apple.com.json",
+      "sha256": "e6eff8eda7fa302d3bbf9cea8786aab15813930d8383bdc130f45cc5bde4951e",
+      "bytes": 2481
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/apps.apple.com.txt",
+      "sha256": "c21b0e8b8f4defbaa32015dbcbf74eae73f6528b211c524f18e34bc75863a2c5",
+      "bytes": 506
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/babyproofinghelp.com.json",
+      "sha256": "3e5732af7e8d3023c70664c9ae2df67f5e8a0e354833b5c477db8520d2f09f64",
+      "bytes": 215
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/babyproofinghelp.com.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/blwmeals.com.json",
+      "sha256": "81347dbba4dd738c405d2939c1581f19a6e6c30cef24e23171bd71e472ba5385",
+      "bytes": 1350
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/blwmeals.com.txt",
+      "sha256": "1ea412c45fc7047da2580662ce093eea1ecf8c777ff4a6c896553a602ef20277",
+      "bytes": 24
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/blwmealsapp.com.json",
+      "sha256": "200192baff4d58cf5e90f96b98e8f9fa0377d4ccb9be641f6f242fe36f9b349c",
+      "bytes": 243
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/blwmealsapp.com.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/boobtofood.com.json",
+      "sha256": "1ae312848db035e7ab89bc161b35075fa7cf8b14e1ee3d767e9bf7ea96c9bc32",
+      "bytes": 2424
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/boobtofood.com.txt",
+      "sha256": "a46b21153e6f0eff2d05ed32084ab04e3d92fcc1969a64cbb0f13d46092d97fa",
+      "bytes": 3648
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/feedinglittles.com.json",
+      "sha256": "f6389046beaf296feddb25315bc3a7ebdcd11fb6d140752ab9f07e4635d5d7dc",
+      "bytes": 2448
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/feedinglittles.com.txt",
+      "sha256": "874c316f40c0e6b433d63b74508e84bc5b825eed57afb6235af77d6e72c0930e",
+      "bytes": 3668
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/kidseatincolor.com.json",
+      "sha256": "3569dbd048c6c9516d6ba745a6bba5de26eeaf448a2a5592bf76dd58e734804b",
+      "bytes": 955
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/kidseatincolor.com.txt",
+      "sha256": "296fe0ded9d286e21f3f153396ad47cbb5b8254fa16e02f6046c24340e8d6a81",
+      "bytes": 265
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/nurturednest.org.json",
+      "sha256": "af5a3e0032767d5933e84c1ebd0db5c0bcf1792a7e4b22251b6c4075dcb9ed12",
+      "bytes": 2392
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/nurturednest.org.txt",
+      "sha256": "92d0dfdfcccf96c578a5ad63cb88afa8e44a60d14e18f979525a8c3fe31bd874",
+      "bytes": 3658
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/safebeginnings.ca.json",
+      "sha256": "fb6468293b0d2c0d26710c87f2b61f97804be8db34e9873e16e2bff3a7a30a76",
+      "bytes": 875
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/safebeginnings.ca.txt",
+      "sha256": "ecc489612c2d05e4ad1e7077d7b6212be28830c78c65ee3d994651c3c73ea2d8",
+      "bytes": 269
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/solidstarts.com.json",
+      "sha256": "0bd867068562be07f231d1e41ccaed51b1ef81f751bbba57e103f9f00b206f95",
+      "bytes": 1074
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/solidstarts.com.txt",
+      "sha256": "04bfff3a97dcd137523602f6a3a611f6272e26b1fa3d40bc95897a5851e19da2",
+      "bytes": 99
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/thevillageparentcommunity.com.json",
+      "sha256": "f3ed4f6464b81dd93fec084b66631b496759900ddeb8c5e93ed590f77e72d586",
+      "bytes": 1067
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/thevillageparentcommunity.com.txt",
+      "sha256": "3bb00d50e6a764de531dfde68b4167ffe81731bd951a42f4d482ca14fd4581f4",
+      "bytes": 28
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/www.101beforeone.com.json",
+      "sha256": "0a36abd70c4c0acc7b93210756653979d7a475810b62d8abb437e03f77e7a5a3",
+      "bytes": 778
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/www.101beforeone.com.txt",
+      "sha256": "b4a311c18d938c9fef9e6ec7f4ece25a79fbc9574aa3590f08de4d46d0b9a003",
+      "bytes": 1511
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/www.babyproofinghelp.com.json",
+      "sha256": "510a418bffc62d1d985e19a7ee1bac23f995113985ae3ed3a816e4b27927b0ad",
+      "bytes": 223
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/www.babyproofinghelp.com.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/www.littlelunches.com.json",
+      "sha256": "5cbcea558c9348def2e5cc917e515c34bb61c9e96e6169bc7cc22b8b19ac70ca",
+      "bytes": 524
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/www.littlelunches.com.txt",
+      "sha256": "12437d519296fcbbe1d8f33051877994955c8707ad947a5eaa9b0c269ff2ea99",
+      "bytes": 147
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/www.littlespoon.com.json",
+      "sha256": "279b90d0c4330ccdb66eb60cd46d390553e8bcaa5b934ac360f200d5a2de60fe",
+      "bytes": 1299
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/www.littlespoon.com.txt",
+      "sha256": "737cfcc16f58ec1808ec033752aea1fe9e94f1fb0c7ada1bf50e9cd4367adf76",
+      "bytes": 186
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/www.nurturelife.com.json",
+      "sha256": "208f1f8fc426f11a1a1d005de12d4cf4f8dd23aa407fde5ce7c4fe7abeaf8f74",
+      "bytes": 1316
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/www.nurturelife.com.txt",
+      "sha256": "017a48723debc0a9b132f421b9f55940e3032a0e2200f9d58b5a99f9e6603ea5",
+      "bytes": 124
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/www.pombaby.com.json",
+      "sha256": "9db1ca3b33caea6188f4f68b4b1ddfb2d56a74303ddd51bd196db6b13bd4e15f",
+      "bytes": 768
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/www.pombaby.com.txt",
+      "sha256": "62b2cc8df76915c6cabef766e16ae0d1d0a75e9ae7a41a8c9b6e8c93e9c35e7f",
+      "bytes": 1506
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/www.safenestbabyproofing.com.json",
+      "sha256": "65001a47ec8b618a4d0c27667133e28c82e57785ed4ad7cddbc52dbddb6c85d4",
+      "bytes": 787
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/www.safenestbabyproofing.com.txt",
+      "sha256": "0dbade000b5865cbe2508328ac188770b1613eef97ce3091c3c587d4095a02f1",
+      "bytes": 1518
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/www.tinyhood.com.json",
+      "sha256": "2d029761ff4e75fdf433eb4b4b684c22dc894a0f78b41ef66e5afe88b90af83c",
+      "bytes": 813
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/www.tinyhood.com.txt",
+      "sha256": "cc202eaceea3ce07779017c73ed764a82c6fcbeb208e0d173acd0973b6655e4a",
+      "bytes": 124
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/www.tinyorganics.com.json",
+      "sha256": "93c62d382c6e8cd0f3229b26b134d7ef3505aeed02eb8f286d2fb5f37ebbd0da",
+      "bytes": 2405
+    },
+    {
+      "file": "_raw/advertiser-map04-food-safety/robots/www.tinyorganics.com.txt",
+      "sha256": "5158d706ceb9aeba598355dc24807f14c831ea830b046b3848d2383f42239841",
+      "bytes": 3676
+    },
+    {
+      "file": "_raw/market-wave-03/pages/bedtimecoach.html",
+      "sha256": "f6cf6e7d79552f6e7cd7065e816da2ad684e71d09afead7f2e36f15bd74c74d2",
+      "bytes": 95239,
+      "ownership": "existing_frozen_dependency_read_only"
+    },
+    {
+      "file": "_raw/market-wave-03/pages/dawnly.html",
+      "sha256": "d54d32d1506c7e94696104ce7e0e7e156d256636763bae2ddca16e281b7d0891",
+      "bytes": 158909,
+      "ownership": "existing_frozen_dependency_read_only"
+    },
+    {
+      "file": "scratchpad/advertiser-map04-food-safety/build_candidates.py",
+      "sha256": "2801eee909e8cab338ddf7800a95b892888d031eb5538748155e021dd1b357a2",
+      "bytes": 10159
+    },
+    {
+      "file": "scratchpad/advertiser-map04-food-safety/capture.py",
+      "sha256": "f8d192b6106e3eadfd36c4687085dec828af3ebca9592aaf14f10ce0ba7440d9",
+      "bytes": 3513
+    },
+    {
+      "file": "scratchpad/advertiser-map04-food-safety/jobs-home.json",
+      "sha256": "00af616309935b003d0bc8902ce7914c256fd81b0b58e82c3b1d478dc462a419",
+      "bytes": 553
+    },
+    {
+      "file": "scratchpad/advertiser-map04-food-safety/jobs-offers1.json",
+      "sha256": "65adfb3413caa798923a338dadfd42f11807f35a1d619a81df2f80489ef84821",
+      "bytes": 626
+    },
+    {
+      "file": "scratchpad/advertiser-map04-food-safety/jobs-offers2.json",
+      "sha256": "0d9ab4a55383c12aeeb5c3eeb0c804eee0d0d8da0e7f321d885cc42f55553346",
+      "bytes": 505
+    },
+    {
+      "file": "scratchpad/advertiser-map04-food-safety/jobs-offers3.json",
+      "sha256": "d8fe09fcd1173551d75e278786c92b69b7d2b28c9a1e5573d9dd8db7c62b8262",
+      "bytes": 419
+    },
+    {
+      "file": "scratchpad/advertiser-map04-food-safety/jobs-offers4.json",
+      "sha256": "a4f6afc5866632946a68e405543c809d6d9ad2efbd697272bd0859d91b215d86",
+      "bytes": 206
+    },
+    {
+      "file": "scratchpad/advertiser-map04-food-safety/offer-fact-locators.json",
+      "sha256": "3abd90f7fd7362494447d826cb3e6273a441b1a9e3f47bf7d5ac371e656da8a6",
+      "bytes": 1945
+    },
+    {
+      "file": "synthesis/reader-notes-advertiser-map04-food-safety.md",
+      "sha256": "f684a8986ab2b0b2982e18ce4f7387c74faf52fbbe9295bf2ce90fe0cb9580c1",
+      "bytes": 15679
+    }
+  ],
+  "utc": "2026-10-24T21:55:14.665756+00:00"
+}

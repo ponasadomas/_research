@@ -1,0 +1,84 @@
+{
+  "ad_id": "1271354688404800",
+  "advertiser": "Lovevery",
+  "page_id": "1859617107640244",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/005-lovevery-page.json",
+  "capture_sha256": "90a8b882dbb1767b9749a6e1fc440e0cf6a15ce0443a164b39221c0ba9fae64d",
+  "native_pointer": "connections[0].edges[8].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=1859617107640244",
+  "captured_at": "2026-10-24T21:46:30.893Z",
+  "is_active": true,
+  "start_utc": "2026-06-18T07:00:00+00:00",
+  "display_format": "DCO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1271354688404800",
+  "snapshot_sha256": "d7e97b88463eac7f2086a7b05361202831a216ef8e41481e59f4a82b3691b7ee",
+  "text_fields": {
+    "body": {
+      "text": "{{product.brand}}"
+    },
+    "title": "{{product.name}}",
+    "caption": "lovevery.com",
+    "link_description": "{{product.description}}",
+    "link_url": "https://lovevery.com/products/the-play-kits-the-looker",
+    "cta_text": "Shop now",
+    "cta_type": "SHOP_NOW",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": [
+      {
+        "body": "Your 3-month-old doesn't see what you see. 👀\nSee why high-contrast black-and-white patterns and pops of red are designed to capture babies' attention during the earliest months.",
+        "title": "NEW in The Looker Play Kit",
+        "caption": "lovevery.com",
+        "link_description": " ",
+        "link_url": "https://lovevery.com/products/the-play-kits-the-looker",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      },
+      {
+        "body": "Your 3-month-old doesn't see what you see. 👀\nSee why high-contrast black-and-white patterns and pops of red are designed to capture babies' attention during the earliest months.",
+        "title": "NEW in The Looker Play Kit",
+        "caption": "lovevery.com",
+        "link_description": " ",
+        "link_url": "https://lovevery.com/products/the-play-kits-the-looker",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      },
+      {
+        "body": "Your 3-month-old doesn't see what you see. 👀\nSee why high-contrast black-and-white patterns and pops of red are designed to capture babies' attention during the earliest months.",
+        "title": "NEW in The Looker Play Kit",
+        "caption": "lovevery.com",
+        "link_description": " ",
+        "link_url": "https://lovevery.com/products/the-play-kits-the-looker",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      },
+      {
+        "body": "Your 3-month-old doesn't see what you see. 👀\nSee why high-contrast black-and-white patterns and pops of red are designed to capture babies' attention during the earliest months.",
+        "title": "NEW in The Looker Play Kit",
+        "caption": "lovevery.com",
+        "link_description": " ",
+        "link_url": "https://lovevery.com/products/the-play-kits-the-looker",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      },
+      {
+        "body": "Your 3-month-old doesn't see what you see. 👀\nSee why high-contrast black-and-white patterns and pops of red are designed to capture babies' attention during the earliest months.",
+        "title": "NEW in The Looker Play Kit",
+        "caption": "lovevery.com",
+        "link_description": " ",
+        "link_url": "https://lovevery.com/products/the-play-kits-the-looker",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      }
+    ]
+  },
+  "text_fields_sha256": "b765a47952afddf8449fe575acde4a26d9f341aed059074f79bc73c774267bfd",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 0,
+  "cards_count": 5
+}

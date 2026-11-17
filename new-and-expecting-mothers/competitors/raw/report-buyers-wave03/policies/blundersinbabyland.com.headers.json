@@ -1,0 +1,28 @@
+{
+  "status": 200,
+  "url": "https://blundersinbabyland.com/robots.txt",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 20:09:36 GMT",
+    "Content-Type": "text/plain; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "x-dns-prefetch-control": "on",
+    "x-frame-options": "SAMEORIGIN",
+    "content-security-policy": "frame-ancestors 'self';, upgrade-insecure-requests",
+    "link": "<https://blundersinbabyland.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=GOju3WNIXxLqO%2BcgNddQbPPheL587Jz7B5pT8ZRjVxSSDlG1Q%2BC2%2FD6lNyARWgUoiP33HXeJoBuMucvpd6nPMoGGyHbe%2B%2FQPY16rIWHvIXccxWxzS%2BysoB9wAm12Vb4FTcGmjeGa%2BzEa\"}]}",
+    "x-litespeed-cache": "hit",
+    "etag": "W/\"69-1792739945;br\"",
+    "vary": "Accept-Encoding",
+    "Server": "cloudflare",
+    "platform": "hostinger",
+    "panel": "hpanel",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "x-turbo-charged-by": "LiteSpeed",
+    "Speculation-Rules": "\"/cdn-cgi/speculation\"",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "EXPIRED",
+    "Content-Encoding": "zstd",
+    "CF-RAY": "a4fb9ec51cfae4cb-RIX"
+  }
+}

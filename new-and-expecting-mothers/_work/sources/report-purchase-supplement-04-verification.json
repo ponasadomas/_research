@@ -1,0 +1,44 @@
+{
+  "status": "passed",
+  "errors": [],
+  "counts": {
+    "assigned_cards": 142,
+    "card_views": 13,
+    "triaged": 142,
+    "kept": 15,
+    "dropped_unread": 127,
+    "full_originals": 15,
+    "partial_originals": 0,
+    "available_OP_replies_read": 0,
+    "auxiliary_reads": 0,
+    "eligible": 14,
+    "excluded_after_full_read": 1,
+    "quotes": 13,
+    "quoted_originals": 13,
+    "research_only_quotes": 13,
+    "explicit_spending_originals": 2,
+    "standalone_customized_written_report_purchases_established": 0
+  },
+  "native_units_checked": 15,
+  "native_quotes_checked": 13,
+  "manual_quote_context_checks": 13,
+  "card_view_hashes_checked": 13,
+  "card_hashes_checked": 142,
+  "read_view_hashes_checked": 4,
+  "note_id_checks": [
+    {
+      "file": "sources/report-purchase-supplement-04.md",
+      "distinct_ids": 6,
+      "mentions": 6
+    },
+    {
+      "file": "synthesis/reader-notes-report-purchase-supplement-04.md",
+      "distinct_ids": 13,
+      "mentions": 16
+    }
+  ],
+  "strict_verifier": "report-purchase-supplement-04.jsonl: 13 quotes, 0 failed\nTOTAL 13 quotes, 0 failed",
+  "dependence_review": "dependence-candidates.json; same-author groups manually resolved in notes",
+  "comment_source": "Unavailable for both published communities; no OP or live-thread completeness claimed",
+  "raw_immutable": true
+}

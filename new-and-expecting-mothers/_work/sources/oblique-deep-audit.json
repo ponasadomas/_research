@@ -1,0 +1,32 @@
+{
+  "frozen_utc": "2026-10-24T12:51:52.163363+00:00",
+  "voice_file": "voice/oblique-deep-01.jsonl",
+  "voice_sha256": "0acae1a521d13ba0ca003f7ec22be473cdaba0a8ac5a9740fee2ffde22f2e44a",
+  "quotes": 57,
+  "quoted_threads": 24,
+  "strict_failures": [],
+  "per_original_post_25_word_cap": true,
+  "statuses": {
+    "read_complete": {
+      "threads": 29,
+      "pages": 46,
+      "posts": 307
+    },
+    "safety_excluded_not_read": {
+      "threads": 1,
+      "pages": 3,
+      "posts": 27
+    },
+    "unread": {
+      "threads": 496,
+      "pages": 822,
+      "posts": 5824
+    }
+  },
+  "unread_chunks": 121,
+  "metadata_correction_log": "sources/oblique-deep-metadata-corrections.json",
+  "metadata_corrected_utc": "2026-10-24T13:06:08.565374+00:00",
+  "quoted_context_supplement": "sources/oblique-deep-quoted-context-audit.json",
+  "all48_supplement_posts_read": true,
+  "quote_interpretation_changes": 0
+}

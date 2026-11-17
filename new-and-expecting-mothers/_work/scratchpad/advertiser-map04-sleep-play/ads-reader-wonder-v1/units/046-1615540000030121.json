@@ -1,0 +1,57 @@
+{
+  "ad_id": "1615540000030121",
+  "advertiser": "The Wonder Weeks",
+  "page_id": "129492440396348",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/046c-wonder-weeks-page.json",
+  "capture_sha256": "948f6c6250040a7b35df1a5e488a4b2c6d6c28ab0e2105574f96ea2b27fcbc9b",
+  "native_pointer": "connections[0].edges[3].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=129492440396348",
+  "captured_at": "2026-10-24T22:03:04.532Z",
+  "is_active": true,
+  "start_utc": "2026-09-25T07:00:00+00:00",
+  "display_format": "DCO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1615540000030121",
+  "snapshot_sha256": "9e03b9e94298c1b07b137763c5cbad909faa790ab42e676de223dbc84c1a14fb",
+  "text_fields": {
+    "body": {
+      "text": "Stuck in parenting limbo? 🤔\nGet instant answers to your baby's development & behavior puzzles!\nJoin millions of confident parents with The Wonder Weeks App.\nStart your clear and peaceful journey today! 👶 #1 baby app. \nDownload now and breathe a sigh of relief!"
+    },
+    "title": "Parenting Just Got Easier 👶",
+    "caption": "itunes.apple.com",
+    "link_description": null,
+    "link_url": "http://itunes.apple.com/app/id529815782",
+    "cta_text": "Download",
+    "cta_type": "DOWNLOAD",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": [
+      {
+        "body": "Stuck in parenting limbo? 🤔\nGet instant answers to your baby's development & behavior puzzles!\nJoin millions of confident parents with The Wonder Weeks App.\nStart your clear and peaceful journey today! 👶 #1 baby app. \nDownload now and breathe a sigh of relief!",
+        "title": "Parenting Just Got Easier 👶",
+        "caption": "",
+        "link_description": null,
+        "link_url": "http://itunes.apple.com/app/id529815782",
+        "cta_text": "Download",
+        "cta_type": "DOWNLOAD"
+      },
+      {
+        "body": "Stuck in parenting limbo? 🤔\nGet instant answers to your baby's development & behavior puzzles!\nJoin millions of confident parents with The Wonder Weeks App.\nStart your clear and peaceful journey today! 👶 #1 baby app. \nDownload now and breathe a sigh of relief!",
+        "title": "Parenting Just Got Easier 👶",
+        "caption": "",
+        "link_description": null,
+        "link_url": "http://itunes.apple.com/app/id529815782",
+        "cta_text": "Download",
+        "cta_type": "DOWNLOAD"
+      }
+    ]
+  },
+  "text_fields_sha256": "06b066e4efa942fb1362bd718c908ae7a780de5d1c841bafb5b1a999d3e45439",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 0,
+  "cards_count": 2
+}

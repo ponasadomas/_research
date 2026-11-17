@@ -1,0 +1,22 @@
+{
+  "kind": "advertiser_UI_selection",
+  "query": "The Wonder Weeks",
+  "expected_name": "The Wonder Weeks",
+  "chosen": {
+    "uid": "80_3",
+    "description": "The Wonder Weeks @WonderWeeks· 201.1K follow this · Book @thewonderweeks· 217.1K followers"
+  },
+  "click_response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Successfully clicked on the element\nPage navigated to https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=129492440396348."
+      }
+    ]
+  },
+  "observed": {
+    "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=129492440396348",
+    "title": "Ad Library"
+  },
+  "captured_at": "2026-10-24T22:01:46.259Z"
+}

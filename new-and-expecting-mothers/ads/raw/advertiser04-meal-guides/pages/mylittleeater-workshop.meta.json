@@ -1,0 +1,33 @@
+{
+  "slug": "mylittleeater-workshop",
+  "url": "https://mylittleeater.com/workshop-hm",
+  "robots_status": 200,
+  "robots_allowed": true,
+  "robots_file": "_raw/advertiser04-meal-guides/robots/mylittleeater.com.txt",
+  "raw_file": "_raw/advertiser04-meal-guides/pages/mylittleeater-workshop.html",
+  "text_file": "_raw/advertiser04-meal-guides/pages/mylittleeater-workshop.txt",
+  "sha256": "c5b5bc0c5cad009cd1536a7771bae9f26e0558417b27252350b5d1049607d5f2",
+  "bytes": 149806,
+  "utc": "2026-10-24T22:15:59.212857+00:00",
+  "status": 200,
+  "final_url": "https://mylittleeater.com/workshop-hm/?fbclid=IwZXh0bgNhZW0BMABwZG9mBWFkaWQBqzhqU7oLoHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHhD-xJEHN_a-Qdm6e2f0z4OrS4XkusEBp7pu4zrvaJ6lL-K0KQUvsu5gbqBP_aem_nASYM30Oc4ier5Zr_Kja7w&utm_source=fb&utm_medium=Facebook_Mobile_Feed&utm_campaign=How+to+start+solids+workshop+leads+campaign&utm_content=Me+%26+Aila+-+ready+for+a+plan",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 22:15:59 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "x-powered-by": "PHP/8.3.36",
+    "content-security-policy": "block-all-mixed-content",
+    "link": "<https://mylittleeater.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=a9h2zw1IK2JZ6Hs0mUDWp5tyn345XcdSaqVOitDG10ItBEKLeOyQWBgs%2B1PcpZwgAj1wI2gxjF2CysY5ME2xfAP9egv6TeA8xirH4cFZN5cYfauqwiXZUeGGCpUr4miD1mR54w%3D%3D\"}]}",
+    "x-litespeed-cache": "hit",
+    "Server-Timing": "cfCacheStatus;desc=\"DYNAMIC\"",
+    "vary": "Accept-Encoding",
+    "Server": "cloudflare",
+    "x-turbo-charged-by": "LiteSpeed",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "CF-RAY": "a4fc57e24c2ce4da-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  }
+}

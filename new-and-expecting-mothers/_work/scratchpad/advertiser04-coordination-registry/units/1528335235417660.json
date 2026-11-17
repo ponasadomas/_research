@@ -1,0 +1,106 @@
+{
+  "ad_id": "1528335235417660",
+  "page_id": "119605771104265",
+  "page_name": "ohai.ai",
+  "snapshot_page_id": "119605771104265",
+  "snapshot_page_name": "ohai.ai",
+  "snapshot_identity_differs": false,
+  "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/040b-ohai-page.json",
+  "source_file_sha256": "e8f13eeef8b03e7f32868018caad2b637208b47a3727b023e95f9251f8e54266",
+  "captured_at": "2026-10-24T21:57:07.874Z",
+  "native_is_active": true,
+  "start_timestamp": 1786345200,
+  "start_utc": "2026-08-10T07:00:00+00:00",
+  "displayed_start_date": "Aug 10, 2026",
+  "collation_id": "1859005988840775",
+  "collation_count": 1,
+  "display_format": "DCO",
+  "primary_destination": "https://ohai.ai/?utm_source=meta&utm_medium=paidIGretargeting&utm_campaign=voicechat&utm_content=4A_AI_Driving_Nathanael",
+  "card_destinations": [
+    "https://ohai.ai/?utm_source=meta&utm_medium=paidIGretargeting&utm_campaign=voicechat&utm_content=4A_AI_Driving_Nathanael",
+    "https://ohai.ai/?utm_source=meta&utm_medium=paidIGretargeting&utm_campaign=voicechat&utm_content=4A_AI_Driving_Nathanael",
+    "https://ohai.ai/?utm_source=meta&utm_medium=paidIGretargeting&utm_campaign=voicechat&utm_content=4A_AI_Driving_Nathanael",
+    "https://ohai.ai/?utm_source=meta&utm_medium=paidIGretargeting&utm_campaign=voicechat&utm_content=4A_AI_Driving_Nathanael",
+    "https://ohai.ai/?utm_source=meta&utm_medium=paidIGretargeting&utm_campaign=voicechat&utm_content=4A_AI_Driving_Nathanael"
+  ],
+  "native_body_sha256": "4428e555047db9f0eb45cbf5f2d09823be88ff161318aa78da359d9fd39492f5",
+  "native_text_bundle_sha256": "54bd39375ca41ee89c3ca4e12ba038a986f212df1764fbafd3f53465b686f231",
+  "native_ad_sha256": "0082ed664cbb8cd2dea766f790351b66280b25e4bb7adda28ae669a631e235a3",
+  "text_bundle": {
+    "body": "{{product.brand}}",
+    "top": {
+      "caption": "ohai.ai",
+      "cta_text": "Learn more",
+      "cta_type": "LEARN_MORE",
+      "title": "{{product.name}}",
+      "link_description": "{{product.description}}",
+      "link_url": "https://ohai.ai/?utm_source=meta&utm_medium=paidIGretargeting&utm_campaign=voicechat&utm_content=4A_AI_Driving_Nathanael",
+      "display_format": "DCO",
+      "byline": null,
+      "disclaimer_label": null,
+      "additional_info": null,
+      "extra_links": [],
+      "extra_texts": [],
+      "branded_content": null,
+      "root_reshared_post": null
+    },
+    "cards": [
+      {
+        "body": "Hands full? Just talk. O listens, organizes, and handles the rest so you don't have to hold it all in your head anymore.",
+        "caption": "",
+        "title": "Just Talk to OHAI",
+        "link_description": "Your thoughts, organized instantly. That's Ohai.",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://ohai.ai/?utm_source=meta&utm_medium=paidIGretargeting&utm_campaign=voicechat&utm_content=4A_AI_Driving_Nathanael"
+      },
+      {
+        "body": "Hands full? Just talk. O listens, organizes, and handles the rest so you don't have to hold it all in your head anymore.",
+        "caption": "",
+        "title": "Just Talk to OHAI",
+        "link_description": "Your thoughts, organized instantly. That's Ohai.",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://ohai.ai/?utm_source=meta&utm_medium=paidIGretargeting&utm_campaign=voicechat&utm_content=4A_AI_Driving_Nathanael"
+      },
+      {
+        "body": "Hands full? Just talk. O listens, organizes, and handles the rest so you don't have to hold it all in your head anymore.",
+        "caption": "",
+        "title": "Just Talk to OHAI",
+        "link_description": "Your thoughts, organized instantly. That's Ohai.",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://ohai.ai/?utm_source=meta&utm_medium=paidIGretargeting&utm_campaign=voicechat&utm_content=4A_AI_Driving_Nathanael"
+      },
+      {
+        "body": "Hands full? Just talk. O listens, organizes, and handles the rest so you don't have to hold it all in your head anymore.",
+        "caption": "",
+        "title": "Just Talk to OHAI",
+        "link_description": "Your thoughts, organized instantly. That's Ohai.",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://ohai.ai/?utm_source=meta&utm_medium=paidIGretargeting&utm_campaign=voicechat&utm_content=4A_AI_Driving_Nathanael"
+      },
+      {
+        "body": "Hands full? Just talk. O listens, organizes, and handles the rest so you don't have to hold it all in your head anymore.",
+        "caption": "",
+        "title": "Just Talk to OHAI",
+        "link_description": "Your thoughts, organized instantly. That's Ohai.",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://ohai.ai/?utm_source=meta&utm_medium=paidIGretargeting&utm_campaign=voicechat&utm_content=4A_AI_Driving_Nathanael"
+      }
+    ]
+  },
+  "excluded_card_media_fields": [
+    "image_crops",
+    "original_image_url",
+    "resized_image_url",
+    "video_hd_url",
+    "video_preview_image_url",
+    "video_sd_url",
+    "watermarked_resized_image_url",
+    "watermarked_video_hd_url",
+    "watermarked_video_sd_url"
+  ]
+}

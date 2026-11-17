@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-24",
+  "query_batches": [
+    {
+      "batch": 1,
+      "queries": [
+        "\"Baby Sleep Answers\" \"plan\" review bought",
+        "\"By Hads\" registry review",
+        "\"Baby Chick\" \"registry review\" review paid",
+        "\"Taylor Made Baby\" registry review purchased"
+      ],
+      "raw_response": "searches/discovery-01.json"
+    },
+    {
+      "batch": 2,
+      "queries": [
+        "\"Baby Sleep Answers\" review \"bought\" -site:babysleepanswers.com",
+        "\"Baby Sleep Answers\" \"personalized\" review -site:babysleepanswers.com",
+        "\"By Hads\" \"registry\" -site:byhads.com",
+        "\"Baby Chick\" \"registry review\" -site:baby-chick.com"
+      ],
+      "raw_response": "searches/discovery-02.json"
+    },
+    {
+      "batch": 3,
+      "queries": [
+        "\"Baby Sleep Answers\" \"review\" -site:reddit.com -site:babysleepanswers.com -site:scribd.com",
+        "\"baby registry audit\" \"paid\" review",
+        "\"Taylor\" \"Strolleria\" \"review\" \"Amanda\"",
+        "\"By Hads\" registry review -site:byhads.com -site:linkedin.com"
+      ],
+      "raw_response": "searches/discovery-03.json"
+    },
+    {
+      "batch": 4,
+      "queries": [
+        "\"Baby Sleep Answers\" \"paid\" \"personalized\" -site:babysleepanswers.com -site:scribd.com",
+        "\"baby registry\" \"consultation\" \"paid\" review -site:reddit.com -site:taylormadebabyco.com",
+        "\"Baby Chick\" \"Registry\" \"bought\" -site:baby-chick.com",
+        "\"registry audit\" \"By Hads\" review"
+      ],
+      "raw_response": "searches/discovery-04.json"
+    },
+    {
+      "batch": 5,
+      "queries": [
+        "\"paid for\" \"registry review\" baby -site:babylist.com",
+        "\"bought\" \"registry audit\" baby",
+        "\"baby registry consultant\" \"I paid\" -site:linkedin.com",
+        "\"Baby Sleep Answers\" \"purchased\" review -site:babysleepanswers.com -site:reddit.com -site:scribd.com -site:pinterest.com"
+      ],
+      "raw_response": "searches/discovery-05.json"
+    }
+  ],
+  "query_count": 20,
+  "search_results_are_discovery_not_original_reads": true,
+  "display_truncation_note": "One combined discovery response was truncated; no quote or full-original reading is based on that display. Every retained primary page/body and all expanded FAQs were displayed completely."
+}

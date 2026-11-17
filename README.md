@@ -22,18 +22,23 @@ have. An agent that filters research "to be safe" has made the research wrong.
 
 ```
 <niche>/
-├── README.md          overview: what exists per kind, what is missing
-├── ads/               ads that are running (the swipe file)
+├── README.md            overview: what exists per kind, the four questions, what is missing
+├── brief.md             what this research set out to answer
+├── ads/                 ads that are running (the swipe file)
 ├── books/
 ├── competitors/
-├── reddit/            and other communities and forums
-├── reviews/           of apps, books and courses
+├── forums/              parents' forums and communities other than Reddit
+├── marketplaces/        marketplace listings and bestseller lists: what is for sale
+├── official-guidance/   what the authorities she trusts say
+├── reddit/
+├── reviews/             of apps, books and courses
 ├── sales-letters/
+├── statistics/          published figures about her
 ├── youtube/
-├── quotes/            every quote pulled from the kinds above, one record each
-├── evidence/          the quotes sorted under themes, counts, readers' notes
-├── _tools/            support: checking scripts
-└── _work/             support: reading ledgers, working files
+├── quotes/              every quote pulled from the kinds above, one record each
+├── evidence/            the quotes sorted under themes, counts, readers' notes
+├── _tools/              support: checking scripts
+└── _work/               support: reading ledgers, working files
 ```
 
 - `<niche>` is the buyer and her problem (for example `baby-development`,

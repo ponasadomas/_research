@@ -1,0 +1,493 @@
+{
+  "scope": "Exactly149 assigned loaded native ad IDs from13 root advertiser-page captures; zero retained unread. No new collection or quotes. New discovery scopes excluded from this freeze.",
+  "retained_native_ad_ids": 149,
+  "full_text_reads": 149,
+  "zero_native_pages": 6,
+  "new_voice_quotes": 0,
+  "media_viewed": 0,
+  "checks_failed": 0,
+  "documentation_missing_links": [],
+  "files": [
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/006-solid-starts-page.json",
+      "sha256": "946a150efa0f1236db0a66d2de3005a989672cde3628e11c49b813c8fcbb65a0",
+      "bytes": 221032,
+      "ownership": "immutable_root_capture"
+    },
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/007-village-page.json",
+      "sha256": "accbb3ba0c4f66e4a513dbb92ba31ea30c1498cf5866620783911e9e489f9cbd",
+      "bytes": 1470,
+      "ownership": "immutable_root_capture"
+    },
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/031b-feeding-littles-page.json",
+      "sha256": "6ac8adda8c521c6e24f33007b30e513519d2d92ca3b874ead12d978fcdf57718",
+      "bytes": 65198,
+      "ownership": "immutable_root_capture"
+    },
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/032-kids-eat-color-page.json",
+      "sha256": "5b1e550ec6d4cc98ed61953718105ff242901b9f267107f523603ea2a5c09bec",
+      "bytes": 1588,
+      "ownership": "immutable_root_capture"
+    },
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/034b-little-lunches-page.json",
+      "sha256": "d583d835d106565484c6c7fcbfd41e70285729f7350df28babf100d0ed8d3fc4",
+      "bytes": 1580,
+      "ownership": "immutable_root_capture"
+    },
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/035-blw-meals-page.json",
+      "sha256": "e3c867fbef45740186b93fe311387c82525ec8f5fb3cbb50c66a957b1c66bb6d",
+      "bytes": 1561,
+      "ownership": "immutable_root_capture"
+    },
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/036-boob-food-page.json",
+      "sha256": "e88d5a61a38addc440558d105c497e088678a58346bc9c7498e9daaeba77ca02",
+      "bytes": 239709,
+      "ownership": "immutable_root_capture"
+    },
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/037b-101beforeone-page.json",
+      "sha256": "138d62868cd4fe019190d383e5b688057545d07a4cd6dd1facf371148d821351",
+      "bytes": 1566,
+      "ownership": "immutable_root_capture"
+    },
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/038-safe-beginnings-page.json",
+      "sha256": "6ff4a28c4229ccae32754f27e17a9770c3d33f4d4ca5f949f3b13a368f15a59b",
+      "bytes": 1627,
+      "ownership": "immutable_root_capture"
+    },
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/039-tinyhood-page.json",
+      "sha256": "fab2b0f1d8e70b5d08597000bc1d89798a47828b42e585f1ea7a070c3e458a47",
+      "bytes": 148710,
+      "ownership": "immutable_root_capture"
+    },
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+      "sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+      "bytes": 154858,
+      "ownership": "immutable_root_capture"
+    },
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/049b-plan-to-eat-page.json",
+      "sha256": "3c20fd7a5a23f9df0bcd606e3bd157590f70436314d34bffce5a5f1f2e055882",
+      "bytes": 6324,
+      "ownership": "immutable_root_capture"
+    },
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/053-tiny-hearts-page.json",
+      "sha256": "eba93fd6598e86cd94c7c42987fb4a1d300c42849f25ec61eb86376f606d9590",
+      "bytes": 170361,
+      "ownership": "immutable_root_capture"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/audit.py",
+      "sha256": "54872a3a690b3bd3e12a2122820303133184766e099425780584edc58a710305",
+      "bytes": 6650,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/extension-lean-v4/001.txt",
+      "sha256": "443e02b8d1b47287c3548c6b052e3470384eaa3d39359db56e22a08df3b1712a",
+      "bytes": 11883,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/extension-lean-v4/002.txt",
+      "sha256": "259200f74bcfb4ee38778f87d62df1deb3b2997dcbda3e30d37b35c8859f94ad",
+      "bytes": 12665,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/extension-lean-v4/003.txt",
+      "sha256": "9fd36f8fd94ce5fd4ead4e8b4c8877edba196dd15a64f52bc17c45cdce2e9097",
+      "bytes": 12883,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/extension-lean-v4/004.txt",
+      "sha256": "5927c2dccfd4a443d6be6ff47bfd3e8cea28a89b3b604c4bf3381ab41d03afb5",
+      "bytes": 11761,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/extension-lean-v4/005.txt",
+      "sha256": "86c7259da7a2425e37a0436bb64b603134494dcf9da0b56448616d858d1ecae4",
+      "bytes": 2723,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/extension-lean-v4/manifest.json",
+      "sha256": "b3031f760bfbaf7778ba4812b6b1cd6aeccceadd619a7b5a5988bfbe7e6e66d7",
+      "bytes": 7134,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/extension-lean-v4/units.jsonl",
+      "sha256": "efea1089b8f5a1e87a32b7899396f2c1123533f355d74ca9fc94e1ace5c781b3",
+      "bytes": 95306,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/extension-v3/001.txt",
+      "sha256": "47fdd3ab6800eb97c01c732baa00a9a611ffa8066f85742b6fac752af052cabe",
+      "bytes": 13381,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/extension-v3/002.txt",
+      "sha256": "3cbca665bf5f7f0c5db96d54a9b24f3c7c4aee997749c595b333a12582f0f7da",
+      "bytes": 13699,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/extension-v3/003.txt",
+      "sha256": "bf56c8c2f6a646fe70d75b5371af77be3f981d287af1b3c7143b934743d3b2bc",
+      "bytes": 13335,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/extension-v3/004.txt",
+      "sha256": "d2e48d8b0072c62810a1abf4cd2c51b257e5725b2ff73b94ec943427ce869ae9",
+      "bytes": 11871,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/extension-v3/005.txt",
+      "sha256": "fcd63b4cc8932d42294fb97d4e544f03ea342d13004252f4d16417dde48a1427",
+      "bytes": 12771,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/extension-v3/006.txt",
+      "sha256": "7f5acde496b8f8bf707288677b42cd6a20e34f413c9fc5b0f0ba006bc444fe03",
+      "bytes": 13435,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/extension-v3/007.txt",
+      "sha256": "5c6493ddaeb758d8cce78805bd6b925cfd3c880478e119ffb715ae60fd2e4f86",
+      "bytes": 11269,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/extension-v3/008.txt",
+      "sha256": "0e8da5708ac642cd7f1385ccb7c900cfe12f9b0c57a0e9481de1ba923fdab9e9",
+      "bytes": 11657,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/extension-v3/009.txt",
+      "sha256": "5c49a4e6f1d9eb090dbbdae692f5b973cd73bfe1b6b848c4d21cdba7578e25c2",
+      "bytes": 4859,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/extension-v3/manifest.json",
+      "sha256": "bdce00e09d5f19be40e29e5114f4437414f4bd9b29b4469c4f50ff81c1ac00ee",
+      "bytes": 8145,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/extension-v3/units.jsonl",
+      "sha256": "efea1089b8f5a1e87a32b7899396f2c1123533f355d74ca9fc94e1ace5c781b3",
+      "bytes": 95306,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/final-page-coverage.json",
+      "sha256": "64a98b1fb0a492fd5340bc9a20db7859b81c6e4d54a84a6948bfea940d77aee5",
+      "bytes": 16224,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v1/001.txt",
+      "sha256": "14fb44d23760e2879a766018ba6ec7b3b08798e4b28d05b9e891f35ddf4dd6b2",
+      "bytes": 12641,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v1/002.txt",
+      "sha256": "20c405497a7adcc10a614bef51abb933a7cfebb5d04bb472175454a9b5fface7",
+      "bytes": 9728,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v1/003.txt",
+      "sha256": "97970f1b4fe883af4f6d5c7bc62b5b0534664785502e77c645af0c26c050b9fb",
+      "bytes": 12686,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v1/004.txt",
+      "sha256": "2be67c073c86fff2f145b5f44a6bb6fd6fa297e191c9c248e714ea53360ae5b7",
+      "bytes": 13099,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v1/005.txt",
+      "sha256": "4c0af285a244fac23da455f6c7c3c55dd52b30a0a78303c93ff5e3d857e60dbc",
+      "bytes": 12579,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v1/006.txt",
+      "sha256": "e3ab8933da04f3a06a2d08642bd3d480934bc3f5fc59bc8e77563140f26cb662",
+      "bytes": 13446,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v1/007.txt",
+      "sha256": "75dab3810f4e96130b6133c6557fef1171648f2ea4eca3028253442d8106887d",
+      "bytes": 13188,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v1/008.txt",
+      "sha256": "9e3bcd26e2742a9835d4599970732738c4ab1b7002b415e27aeecd7c80e1b6fc",
+      "bytes": 11337,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v1/009.txt",
+      "sha256": "5d7627c72775a77dba80ce951f50e0fa8638980c5dbffc690376dba79e5047e3",
+      "bytes": 12288,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v1/010.txt",
+      "sha256": "51187ee6d8e85835aafa7b71b646b1de499715c98aef3e08dbb5c3a1c3ddf0ae",
+      "bytes": 11480,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v1/011.txt",
+      "sha256": "eddf3fbf4cea98850ae15bbd5a05e18566553112e35f2c6ef7f7afac134e6055",
+      "bytes": 10990,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v1/012.txt",
+      "sha256": "8791dd5fd9b7d98bbe64f848baa3c3961408b68f8f2207a661e8e4ec45ccca37",
+      "bytes": 8334,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v1/013.txt",
+      "sha256": "94f38ba53cab2a072f5af44b7d09e74dcc6e3cc8add3201a4de3d1734e60c80b",
+      "bytes": 9546,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v1/014.txt",
+      "sha256": "1dd7be5f1bd511ae739ea997418eb712e992d4aa22d2bcbd41b2ea910650fab2",
+      "bytes": 13360,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v1/015.txt",
+      "sha256": "e6457747fb31fdc18250ffaa13c0b35da062e7b6ad0adc366e4fc6362f8a9807",
+      "bytes": 12296,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v1/016.txt",
+      "sha256": "44d19af8d482025ed64dd1e801161678a72a5554afbd6b9fa68e663e2e2c3445",
+      "bytes": 9340,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v1/017.txt",
+      "sha256": "c44490e31b72c96b771d92d0dc4f0ec72fef00e12665869d7b259aaf9d8d3627",
+      "bytes": 11543,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v1/018.txt",
+      "sha256": "f47712ec21faf0a0db692eb64a8e37c1dc3fb5d234154c4adf7a4d6f18d916dc",
+      "bytes": 12104,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v1/019.txt",
+      "sha256": "cd96e7ca1e0e81813fadd54559997ac10fe8d6329c5d9d08b3478208debafb02",
+      "bytes": 12457,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v1/020.txt",
+      "sha256": "6ebc2360defdc8edf67431be19b552adf5ea90807ee9010d1a1ae9cdf77c363f",
+      "bytes": 12941,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v1/021.txt",
+      "sha256": "70f73ba3200ec757c4d099f8ec01c759b13d6324df76c1390df0840faf41992b",
+      "bytes": 3840,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v1/manifest.json",
+      "sha256": "ee43f27d53494ed11089bbfcad1a393105218b9af8dcc50a4a84059b75dee6fb",
+      "bytes": 18383,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v1/units.jsonl",
+      "sha256": "c012371a905622236d7f2b87fd70e0e607ad1f087de6d6994d153571a4a128b6",
+      "bytes": 211355,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v2/001.txt",
+      "sha256": "c96e8b3a8e41e08c1717a7a8651a278f57c91405b85934bb3d6b0aa8d526ffcb",
+      "bytes": 12620,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v2/002.txt",
+      "sha256": "029d06cff4943d4f9472313a2d84e835a7bb522964dd7396d5079db1391bdcb8",
+      "bytes": 13058,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v2/003.txt",
+      "sha256": "3d459c7b56009ab72374608acb49be9da72e63b62734a8946adea9f5a042c78f",
+      "bytes": 13054,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v2/004.txt",
+      "sha256": "7ed85169fa72210e4dadf4b9d71dae376778793fe6bc8de3a08ce17da9a7da43",
+      "bytes": 11505,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v2/005.txt",
+      "sha256": "25b8a15a80551485f5ffbb63d83fa4ef114dd59414ea363f332d012bdd1395a3",
+      "bytes": 10641,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v2/006.txt",
+      "sha256": "cacbe8042c4bd9416a9f0ef1484e3a6d98ac46461a7bb8d916604131a0018218",
+      "bytes": 11185,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v2/007.txt",
+      "sha256": "1bb89c6b23ad06780b151a84564f0aa87ab27cc60799dedab573a6bced9b63ea",
+      "bytes": 12773,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v2/008.txt",
+      "sha256": "d67e80aa54fbb37f1f0b2f2b0154aa7500474bff088c5a40bc5e8aff9008024b",
+      "bytes": 11690,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v2/009.txt",
+      "sha256": "9ef89380338e59fe92089a2ca0d222108935a64e66bf25e907db11fa501e097c",
+      "bytes": 11142,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v2/010.txt",
+      "sha256": "b0b99c6fbf55121d8f34fbec44b267635b77fef7e0f0324350c5aa8153341531",
+      "bytes": 12439,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v2/011.txt",
+      "sha256": "2db6fe88b72a6f4a29606324bfbd4c1f96137e98ed491fbaca06338ce28b5a50",
+      "bytes": 13056,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v2/012.txt",
+      "sha256": "138e49ba8e181d6147a6a0a6a522decb97c8b73a8981ef44ea98b0010793395d",
+      "bytes": 2898,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v2/manifest.json",
+      "sha256": "6eec47047451fca38c5e8fff47ac028add43808287c5806162771d1b544edc52",
+      "bytes": 15829,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/full-read-v2/units.jsonl",
+      "sha256": "5c9ae516cd67340b521ae32b3d09a15a01d1d0b33553fb629225fd36ca43e8c9",
+      "bytes": 199922,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/partner-metadata-supplement.json",
+      "sha256": "e4dc75da45ec3fad1801219b72a1a4ac563fd4993a11a4a55a170a2d8f950980",
+      "bytes": 5052,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/prepare.py",
+      "sha256": "431a40ac98f955b15bd8b26e880915b96f2db594b76dbb52faa3f203f69e681a",
+      "bytes": 3962,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/reader.py",
+      "sha256": "69307d33d751ab74c2039ea879a75d3e0b756470517675edfef2feb74a79138a",
+      "bytes": 2676,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/reading-progress.jsonl",
+      "sha256": "398cb682822bbed7c7016e54c652258b57818d1d502b4ac084ba707a315b5d3a",
+      "bytes": 11060,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/repeated-copy-groups.json",
+      "sha256": "6971a52564cf3c457a2003114da3fdf8af2d21ade5ee3c8b385b99678ea1b1be",
+      "bytes": 2655,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/taxonomy-normalization.json",
+      "sha256": "6a5c78db0ba1951a5d5794c75b2c5f00f9fb8ceac48fdb3c45954ac15218d8d7",
+      "bytes": 290,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/verification.json",
+      "sha256": "5679c20c7cdb55f25d7c87ffa486ad52ba2fe234bc9ffc36055a5378763c95a1",
+      "bytes": 702,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-food-safety-ads/zero-native-pages.json",
+      "sha256": "f72e70fd65b2a8cbdeb5fa9c5a59001df3c09d1141be2f798d978c8eaf3a31db",
+      "bytes": 4573,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "sources/advertiser04-food-safety-reading.jsonl",
+      "sha256": "38f1c7b00f2cbb8dfb26379c9cd2488fd0f5071f9ee55a01b72d1d1db9aa8fb7",
+      "bytes": 266134,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "synthesis/reader-notes-advertiser04-food-safety-ads.md",
+      "sha256": "41122762e5d351a37d3093f9b7c0a88ac96ca8d00becb26c29fea67e6b4619a0",
+      "bytes": 12411,
+      "ownership": "own_new_output"
+    }
+  ],
+  "utc": "2026-10-24T22:14:17.687231+00:00"
+}

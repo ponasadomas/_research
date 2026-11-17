@@ -1,0 +1,1787 @@
+{
+  "stats": {
+    "board_inventory_count": 8,
+    "board_listing_pages": 17,
+    "listed_thread_cards": 505,
+    "unique_captured_threads": 505,
+    "captured_thread_pages": 530,
+    "captured_original_posts_and_responses": 3472,
+    "listing_count_mismatches": 0,
+    "thread_count_mismatches": 0,
+    "triaged_cards": 505,
+    "initially_retained_threads": 94,
+    "post_read_drops": 16,
+    "effective_retained_threads": 78,
+    "retained_threads_fully_read": 78,
+    "retained_threads_unread": 0,
+    "frozen_retained_chunks": 17,
+    "retained_chunks_fully_read": 17,
+    "retained_chunks_unread": 0,
+    "quotes": 26,
+    "initially_retained_posts": 706,
+    "effective_retained_posts": 555,
+    "provisional_threads_fully_read": 94,
+    "initial_card_drops": 411,
+    "total_dropped_threads": 427
+  },
+  "threads": [
+    {
+      "thread_id": "jp-11006",
+      "board": "feeding",
+      "title": "Returning to Work: Pumping Strategies",
+      "url": "https://www.justparents.co.uk/forums/topic-11006/",
+      "disposition": "keep",
+      "reason": "Ordinary return-to-work pumping logistics question; no response, no payment evidence.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/11006.json",
+      "posts": 1,
+      "final_disposition": "keep",
+      "final_reason": "Ordinary return-to-work pumping logistics question; no response, no payment evidence.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-10762",
+      "board": "feeding",
+      "title": "Trying to express",
+      "url": "https://www.justparents.co.uk/forums/topic-10762/",
+      "disposition": "keep",
+      "reason": "12-hour day/night work handoff and expressing/pump constraints; retain logistics and OP pushback, no clinical advice.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/10762.json",
+      "posts": 4,
+      "final_disposition": "keep",
+      "final_reason": "12-hour day/night work handoff and expressing/pump constraints; retain logistics and OP pushback, no clinical advice.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-001.txt"
+      ],
+      "quotes": [
+        "fdeep01-0001"
+      ]
+    },
+    {
+      "thread_id": "jp-10899",
+      "board": "feeding",
+      "title": "Breastfeeding while working",
+      "url": "https://www.justparents.co.uk/forums/topic-10899/",
+      "disposition": "keep",
+      "reason": "Freelance time-zone work and feeding/sleep workload; no treatment claims.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/10899.json",
+      "posts": 3,
+      "final_disposition": "keep",
+      "final_reason": "Freelance time-zone work and feeding/sleep workload; no treatment claims.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-9955",
+      "board": "feeding",
+      "title": "Storing breastmilk.",
+      "url": "https://www.justparents.co.uk/forums/topic-9955/",
+      "disposition": "keep",
+      "reason": "Expressed-milk storage workflow and equipment; retain operational question, no unsafe reply instructions.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9955.json",
+      "posts": 6,
+      "final_disposition": "keep",
+      "final_reason": "Expressed-milk storage workflow and equipment; retain operational question, no unsafe reply instructions.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-10094",
+      "board": "feeding",
+      "title": "When is the right time to wean?",
+      "url": "https://www.justparents.co.uk/forums/topic-10094/",
+      "disposition": "keep",
+      "reason": "Weaning meaning/decision confusion; adjacent counterevidence, cessation is not necessarily first-solids need.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/10094.json",
+      "posts": 6,
+      "final_disposition": "keep",
+      "final_reason": "Weaning meaning/decision confusion; adjacent counterevidence, cessation is not necessarily first-solids need.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-4091",
+      "board": "feeding",
+      "title": "Best Breast Pump..??",
+      "url": "https://www.justparents.co.uk/forums/topic-4091/",
+      "disposition": "keep",
+      "reason": "Breast-pump choice confusion; purchases sought, not report demand.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/4091.json",
+      "posts": 8,
+      "final_disposition": "keep",
+      "final_reason": "Breast-pump choice confusion; purchases sought, not report demand.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-001.txt"
+      ],
+      "quotes": [
+        "fdeep01-0003"
+      ]
+    },
+    {
+      "thread_id": "jp-9629",
+      "board": "feeding",
+      "title": "Will my next breastfeeding be different?",
+      "url": "https://www.justparents.co.uk/forums/topic-9629/",
+      "disposition": "keep",
+      "reason": "Next-baby feeding expectations and preparation; experience-only, no clinical recommendations.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9629.json",
+      "posts": 5,
+      "final_disposition": "keep",
+      "final_reason": "Next-baby feeding expectations and preparation; experience-only, no clinical recommendations.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-001.txt"
+      ],
+      "quotes": [
+        "fdeep01-0004"
+      ]
+    },
+    {
+      "thread_id": "jp-9037",
+      "board": "feeding",
+      "title": "Breastmilk from bottle- Jess not impressed!",
+      "url": "https://www.justparents.co.uk/forums/topic-9037/",
+      "disposition": "keep",
+      "reason": "Returning-to-work bottle transition and caregiver preparation; retain practical constraints.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9037.json",
+      "posts": 6,
+      "final_disposition": "keep",
+      "final_reason": "Returning-to-work bottle transition and caregiver preparation; retain practical constraints.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-001.txt"
+      ],
+      "quotes": [
+        "fdeep01-0002"
+      ]
+    },
+    {
+      "thread_id": "jp-8844",
+      "board": "feeding",
+      "title": "16 months ans still on jars",
+      "url": "https://www.justparents.co.uk/forums/topic-8844/",
+      "disposition": "keep",
+      "reason": "16month jarred-food convenience versus homemade pressure; adjacent household-meal counterevidence.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/8844.json",
+      "posts": 4,
+      "final_disposition": "keep",
+      "final_reason": "16month jarred-food convenience versus homemade pressure; adjacent household-meal counterevidence.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-8915",
+      "board": "feeding",
+      "title": "Breastfeeding in public",
+      "url": "https://www.justparents.co.uk/forums/topic-8915/",
+      "disposition": "keep",
+      "reason": "Public-feeding confidence and peer support; counterevidence to information-only solution.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/8915.json",
+      "posts": 14,
+      "final_disposition": "keep",
+      "final_reason": "Public-feeding confidence and peer support; counterevidence to information-only solution.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-001.txt",
+        "scratchpad/forums-deep/justparents-kept-feeding-002.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-9121",
+      "board": "feeding",
+      "title": "is breastfeeding right for me.",
+      "url": "https://www.justparents.co.uk/forums/topic-9121/",
+      "disposition": "keep",
+      "reason": "Expecting first mother choosing feeding; emotional preference not a medical diagnosis.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9121.json",
+      "posts": 3,
+      "final_disposition": "keep",
+      "final_reason": "Expecting first mother choosing feeding; emotional preference not a medical diagnosis.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-002.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-8987",
+      "board": "feeding",
+      "title": "My experience with breastfeeding in public",
+      "url": "https://www.justparents.co.uk/forums/topic-8987/",
+      "disposition": "keep",
+      "reason": "Public-feeding lived experience; counterevidence to universal distress.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/8987.json",
+      "posts": 5,
+      "final_disposition": "keep",
+      "final_reason": "Public-feeding lived experience; counterevidence to universal distress.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-002.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-8970",
+      "board": "feeding",
+      "title": "Breastfeeding in Venice, how we got on...",
+      "url": "https://www.justparents.co.uk/forums/topic-8970/",
+      "disposition": "keep",
+      "reason": "Travel/public-feeding practical experience; no legal assertions adopted.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/8970.json",
+      "posts": 7,
+      "final_disposition": "keep",
+      "final_reason": "Travel/public-feeding practical experience; no legal assertions adopted.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-002.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-8050",
+      "board": "feeding",
+      "title": "Breastfeeding and soothers...",
+      "url": "https://www.justparents.co.uk/forums/topic-8050/",
+      "disposition": "keep",
+      "reason": "Expecting-parent soother purchase/preparation tradeoff.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/8050.json",
+      "posts": 10,
+      "final_disposition": "keep",
+      "final_reason": "Expecting-parent soother purchase/preparation tradeoff.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-002.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-8634",
+      "board": "feeding",
+      "title": "Baby nearly 12months doesnt want to wean from breastfeeding",
+      "url": "https://www.justparents.co.uk/forums/topic-8634/",
+      "disposition": "keep",
+      "reason": "Near12month stopping/continuing breastfeeding planning; adjacent, not early-solids inferred.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/8634.json",
+      "posts": 7,
+      "final_disposition": "keep",
+      "final_reason": "Near12month stopping/continuing breastfeeding planning; adjacent, not early-solids inferred.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-002.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-8593",
+      "board": "feeding",
+      "title": "What is 'child led weaning'?",
+      "url": "https://www.justparents.co.uk/forums/topic-8593/",
+      "disposition": "keep",
+      "reason": "Direct BLW concept and food-format confusion.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/8593.json",
+      "posts": 5,
+      "final_disposition": "keep",
+      "final_reason": "Direct BLW concept and food-format confusion.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-002.txt"
+      ],
+      "quotes": [
+        "fdeep01-0005"
+      ]
+    },
+    {
+      "thread_id": "jp-8076",
+      "board": "feeding",
+      "title": "Advice Pleaseeeee",
+      "url": "https://www.justparents.co.uk/forums/topic-8076/",
+      "disposition": "keep",
+      "reason": "Father doing daytime feeds after mother returns to work; original caregiver handoff voice.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/8076.json",
+      "posts": 9,
+      "final_disposition": "drop_after_full_read",
+      "final_reason": "Clinical intake question plus another user challenges age/timeline consistency; no marketing evidence.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-002.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-6817",
+      "board": "feeding",
+      "title": "Failed last time - want to try again",
+      "url": "https://www.justparents.co.uk/forums/topic-6817/",
+      "disposition": "keep",
+      "reason": "Preparing another feeding attempt after earlier difficulty; read for practical support expectations, exclude clinical instructions.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/6817.json",
+      "posts": 16,
+      "final_disposition": "keep",
+      "final_reason": "Preparing another feeding attempt after earlier difficulty; read for practical support expectations, exclude clinical instructions.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-002.txt",
+        "scratchpad/forums-deep/justparents-kept-feeding-003.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-1770",
+      "board": "feeding",
+      "title": "How many of us BF but felt  guilty when you had to stop?",
+      "url": "https://www.justparents.co.uk/forums/topic-1770/",
+      "disposition": "keep",
+      "reason": "Feeding-goal guilt and lived constraints; counterevidence to report fixing emotional/social pressure.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/1770.json",
+      "posts": 41,
+      "final_disposition": "drop_after_full_read",
+      "final_reason": "Clinical/prematurity/medication and emotional-pressure stories dominate; retained only as excluded raw/read record, no marketing evidence.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-003.txt",
+        "scratchpad/forums-deep/justparents-kept-feeding-004.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-6489",
+      "board": "feeding",
+      "title": "my feeding necklace came today",
+      "url": "https://www.justparents.co.uk/forums/topic-6489/",
+      "disposition": "keep",
+      "reason": "Firsthand purchased feeding accessory; equipment spend not report willingness.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/6489.json",
+      "posts": 5,
+      "final_disposition": "keep",
+      "final_reason": "Firsthand purchased feeding accessory; equipment spend not report willingness.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-004.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-6465",
+      "board": "feeding",
+      "title": "Breastfeeding and expressing",
+      "url": "https://www.justparents.co.uk/forums/topic-6465/",
+      "disposition": "keep",
+      "reason": "Expecting mother planning partner feeds and expressing workflow.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/6465.json",
+      "posts": 5,
+      "final_disposition": "keep",
+      "final_reason": "Expecting mother planning partner feeds and expressing workflow.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-004.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-5496",
+      "board": "feeding",
+      "title": "Confused over weaning",
+      "url": "https://www.justparents.co.uk/forums/topic-5496/",
+      "disposition": "keep",
+      "reason": "First weeks of solids confusion around integrating milk and meals; question evidence only.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/5496.json",
+      "posts": 8,
+      "final_disposition": "keep",
+      "final_reason": "First weeks of solids confusion around integrating milk and meals; question evidence only.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-004.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-4514",
+      "board": "feeding",
+      "title": "Breastfeeding when returning to work",
+      "url": "https://www.justparents.co.uk/forums/topic-4514/",
+      "disposition": "keep",
+      "reason": "Expecting return-to-work at4months and pumping/grocery workflow planning.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/4514.json",
+      "posts": 5,
+      "final_disposition": "keep",
+      "final_reason": "Expecting return-to-work at4months and pumping/grocery workflow planning.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-004.txt"
+      ],
+      "quotes": [
+        "fdeep01-0007"
+      ]
+    },
+    {
+      "thread_id": "jp-4483",
+      "board": "feeding",
+      "title": "can anyone recommend a good electric breast pump?",
+      "url": "https://www.justparents.co.uk/forums/topic-4483/",
+      "disposition": "keep",
+      "reason": "Manual pump dissatisfaction and seeking dual/electric purchase; price/infrastructure constraints.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/4483.json",
+      "posts": 8,
+      "final_disposition": "keep",
+      "final_reason": "Manual pump dissatisfaction and seeking dual/electric purchase; price/infrastructure constraints.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-004.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-1646",
+      "board": "feeding",
+      "title": "1st time breastfeeding mum!!",
+      "url": "https://www.justparents.co.uk/forums/topic-1646/",
+      "disposition": "keep",
+      "reason": "Expecting first mother overwhelmed by conflicting information.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/1646.json",
+      "posts": 8,
+      "final_disposition": "keep",
+      "final_reason": "Expecting first mother overwhelmed by conflicting information.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-004.txt"
+      ],
+      "quotes": [
+        "fdeep01-0009"
+      ]
+    },
+    {
+      "thread_id": "jp-3774",
+      "board": "feeding",
+      "title": "first flow breast bottles",
+      "url": "https://www.justparents.co.uk/forums/topic-3774/",
+      "disposition": "keep",
+      "reason": "Bottle purchase to combine breast/other-caregiver feeds.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/3774.json",
+      "posts": 8,
+      "final_disposition": "keep",
+      "final_reason": "Bottle purchase to combine breast/other-caregiver feeds.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-004.txt",
+        "scratchpad/forums-deep/justparents-kept-feeding-005.txt"
+      ],
+      "quotes": [
+        "fdeep01-0010"
+      ]
+    },
+    {
+      "thread_id": "jp-2967",
+      "board": "feeding",
+      "title": "weaning",
+      "url": "https://www.justparents.co.uk/forums/topic-2967/",
+      "disposition": "keep",
+      "reason": "First purees and recipe sources; dated age advice not adopted.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/2967.json",
+      "posts": 28,
+      "final_disposition": "keep",
+      "final_reason": "First purees and recipe sources; dated age advice not adopted.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-005.txt"
+      ],
+      "quotes": [
+        "fdeep01-0006"
+      ]
+    },
+    {
+      "thread_id": "jp-2170",
+      "board": "feeding",
+      "title": "do you think breast feeding would be ok for me?",
+      "url": "https://www.justparents.co.uk/forums/topic-2170/",
+      "disposition": "keep",
+      "reason": "Expecting/planning additional child with3children; available time constraint.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/2170.json",
+      "posts": 11,
+      "final_disposition": "keep",
+      "final_reason": "Expecting/planning additional child with3children; available time constraint.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-005.txt"
+      ],
+      "quotes": [
+        "fdeep01-0008"
+      ]
+    },
+    {
+      "thread_id": "jp-2432",
+      "board": "feeding",
+      "title": "Should i give up breastfeeding?",
+      "url": "https://www.justparents.co.uk/forums/topic-2432/",
+      "disposition": "keep",
+      "reason": "10month breastfeeding social-pressure decision; adjacent counterevidence.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/2432.json",
+      "posts": 15,
+      "final_disposition": "keep",
+      "final_reason": "10month breastfeeding social-pressure decision; adjacent counterevidence.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-005.txt",
+        "scratchpad/forums-deep/justparents-kept-feeding-006.txt"
+      ],
+      "quotes": [
+        "fdeep01-0011"
+      ]
+    },
+    {
+      "thread_id": "jp-2256",
+      "board": "feeding",
+      "title": "guilty",
+      "url": "https://www.justparents.co.uk/forums/topic-2256/",
+      "disposition": "keep",
+      "reason": "Late-pregnancy feeding preference/guilt; no crisis implied, no emotional-pressure marketing.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/2256.json",
+      "posts": 9,
+      "final_disposition": "keep",
+      "final_reason": "Late-pregnancy feeding preference/guilt; no crisis implied, no emotional-pressure marketing.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-006.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-2118",
+      "board": "feeding",
+      "title": "Bottles",
+      "url": "https://www.justparents.co.uk/forums/topic-2118/",
+      "disposition": "keep",
+      "reason": "Bottle format purchase confusion; practical product-choice question.",
+      "card_read_scope": "Complete title and first240characters of original post; keep provisional until complete thread read. Earlier all-corpus001–002 also read, separately logged.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/2118.json",
+      "posts": 5,
+      "final_disposition": "keep",
+      "final_reason": "Bottle format purchase confusion; practical product-choice question.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-feeding-006.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-12170",
+      "board": "baby",
+      "title": "What kitchen blender is better?",
+      "url": "https://www.justparents.co.uk/forums/topic-12170/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/12170.json",
+      "posts": 3,
+      "final_disposition": "keep",
+      "final_reason": "Concrete smoothpuree blenderchoice question; current-ish original post, no purchase or report demand confirmed; genericreplyadvice notexpert evidence.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-001.txt"
+      ],
+      "quotes": [
+        "fdeep02-0009"
+      ]
+    },
+    {
+      "thread_id": "jp-10929",
+      "board": "baby",
+      "title": "How to dress up your baby for a newborn photoshoot?",
+      "url": "https://www.justparents.co.uk/forums/topic-10929/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/10929.json",
+      "posts": 3,
+      "final_disposition": "drop_after_full_read",
+      "final_reason": "Commercial-link wording babyphotography Wokingham based studio question; independent consumer/paidbooking notestablished. Drop promotionalrisk.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-8980",
+      "board": "baby",
+      "title": "Plastic or wooden?",
+      "url": "https://www.justparents.co.uk/forums/topic-8980/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/8980.json",
+      "posts": 15,
+      "final_disposition": "keep",
+      "final_reason": "Toymaterial preferences vary bychild,durability,cleaning; unsupported safetyclaims excluded. Parentpreference/context not paidreport demand.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-10503",
+      "board": "baby",
+      "title": "What are the best ways to support a new parent as a friend?",
+      "url": "https://www.justparents.co.uk/forums/topic-10503/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/10503.json",
+      "posts": 7,
+      "final_disposition": "keep",
+      "final_reason": "Friend asks how tohelp newparents; actual chores,meals,presence andrespectingavailability. Need execution/help not onlyinformation; no reportgift purchase.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-10592",
+      "board": "baby",
+      "title": "New Dad Struggling",
+      "url": "https://www.justparents.co.uk/forums/topic-10592/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/10592.json",
+      "posts": 2,
+      "final_disposition": "drop_after_full_read",
+      "final_reason": "Severe fatherdistress, trauma,sleepdeprivation, anger and self-describeddepression; clinicalsupport boundary, no marketingquote.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-10171",
+      "board": "baby",
+      "title": "New Twins, any advice?",
+      "url": "https://www.justparents.co.uk/forums/topic-10171/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/10171.json",
+      "posts": 4,
+      "final_disposition": "drop_after_full_read",
+      "final_reason": "Prematuretwins feeding/waking safety question; unsupported scheduling advice andnotebookmention not paidreport proof. Drop clinical.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-10184",
+      "board": "baby",
+      "title": "Baby learning toutcomes roll over",
+      "url": "https://www.justparents.co.uk/forums/topic-10184/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/10184.json",
+      "posts": 5,
+      "final_disposition": "drop_after_full_read",
+      "final_reason": "Infantrollover during sleep is safety/clinicalquestion, unsafe reassurance/affiliateadvice; drop not routineplay.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-9482",
+      "board": "baby",
+      "title": "baby signing - who else tried it?",
+      "url": "https://www.justparents.co.uk/forums/topic-9482/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9482.json",
+      "posts": 5,
+      "final_disposition": "keep",
+      "final_reason": "Reported signclassattendance and communicativerelief; brandlink maypromoteprovider, no feeverified. Separate signing fromreplyaboutsinging. No languageeffectiveness claim adopted.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-10027",
+      "board": "baby",
+      "title": "Are you into babywearing?",
+      "url": "https://www.justparents.co.uk/forums/topic-10027/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/10027.json",
+      "posts": 10,
+      "final_disposition": "keep",
+      "final_reason": "Handsfree chores/siblings andcarrierfit/preferences; usedwrap/carrier versus onlinevideos/groups. No safety/weightloss/sleepyhandlingclaim adopted.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-001.txt",
+        "scratchpad/forums-deep/justparents-kept-baby-002.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-9877",
+      "board": "baby",
+      "title": "Your little ones favourite table foods?",
+      "url": "https://www.justparents.co.uk/forums/topic-9877/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9877.json",
+      "posts": 12,
+      "final_disposition": "keep",
+      "final_reason": "1year tablefoodideas andmanyoldertoddlers; tastesvaried/change, familyfood/freepeers. Not first30daysneed or nutrition advice.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-002.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-10012",
+      "board": "baby",
+      "title": "Waking up tired!",
+      "url": "https://www.justparents.co.uk/forums/topic-10012/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/10012.json",
+      "posts": 8,
+      "final_disposition": "keep",
+      "final_reason": "Parenttired evenchildsleeps; freepeerhope appreciated, laterOPgets napwhilepartner takeschildonerrands. Realhelp rather than timetable, unsafe nappingreply excluded.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-002.txt"
+      ],
+      "quotes": [
+        "fdeep02-0010"
+      ]
+    },
+    {
+      "thread_id": "jp-9997",
+      "board": "baby",
+      "title": "Pacifiers: Yay or Nay?",
+      "url": "https://www.justparents.co.uk/forums/topic-9997/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9997.json",
+      "posts": 12,
+      "final_disposition": "keep",
+      "final_reason": "Pacifierpurchase preferences andactual unusedsupplies vary bybaby; medical/safesleep/feedingadvice notadopted. No report need.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-002.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-9952",
+      "board": "baby",
+      "title": "Flying with a baby!",
+      "url": "https://www.justparents.co.uk/forums/topic-9952/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9952.json",
+      "posts": 5,
+      "final_disposition": "keep",
+      "final_reason": "1yearfirstflight worries; OP returnsduringholiday tosay flightmostlyfine, socialreassurance+timing helped. No paidreport; cheaptoys purchased byrespondent.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-002.txt"
+      ],
+      "quotes": [
+        "fdeep02-0015"
+      ]
+    },
+    {
+      "thread_id": "jp-9780",
+      "board": "baby",
+      "title": "Has anyone tried Japanese diapers ?",
+      "url": "https://www.justparents.co.uk/forums/topic-9780/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9780.json",
+      "posts": 2,
+      "final_disposition": "keep",
+      "final_reason": "Seeking Englishreviews of Japanesediapers foundonAmazon; no usefulanswer/purchaseconfirmed.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-002.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-9172",
+      "board": "baby",
+      "title": "Vegan diet for 6 months+",
+      "url": "https://www.justparents.co.uk/forums/topic-9172/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9172.json",
+      "posts": 6,
+      "final_disposition": "keep",
+      "final_reason": "Veganbabyfoodpreference plus homepreparationtime; retain logisticalquestion only, no veganinfantdiet/nutrient/health endorsement.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-002.txt",
+        "scratchpad/forums-deep/justparents-kept-baby-003.txt"
+      ],
+      "quotes": [
+        "fdeep02-0011"
+      ]
+    },
+    {
+      "thread_id": "jp-9000",
+      "board": "baby",
+      "title": "flying with baby",
+      "url": "https://www.justparents.co.uk/forums/topic-9000/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9000.json",
+      "posts": 7,
+      "final_disposition": "keep",
+      "final_reason": "5month internationalflight packing/airline/feedlogistics questions; freeanswers andpositivetripcounterexample. Historicalpolicies notadopted.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-003.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-9219",
+      "board": "baby",
+      "title": "Birthday parties",
+      "url": "https://www.justparents.co.uk/forums/topic-9219/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9219.json",
+      "posts": 3,
+      "final_disposition": "keep",
+      "final_reason": "Firstbirthday activityplanning for mixedages7months–11years; concreteheterogeneousgroupconstraint, not pureinfantplay.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-003.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-9026",
+      "board": "baby",
+      "title": "shall i have another??",
+      "url": "https://www.justparents.co.uk/forums/topic-9026/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9026.json",
+      "posts": 5,
+      "final_disposition": "keep",
+      "final_reason": "Toddler/newborn andsiblingtime planning questions; familytiming personalchoice notreport prescription.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-003.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-8268",
+      "board": "baby",
+      "title": "Please help need your advice",
+      "url": "https://www.justparents.co.uk/forums/topic-8268/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/8268.json",
+      "posts": 3,
+      "final_disposition": "drop_after_full_read",
+      "final_reason": "Warmclimate/AC and boughtbassinet question isinfantsafesleep/temperatureguidance; drop no marketingquote.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-003.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-7835",
+      "board": "baby",
+      "title": "Baby Development",
+      "url": "https://www.justparents.co.uk/forums/topic-7835/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/7835.json",
+      "posts": 7,
+      "final_disposition": "keep",
+      "final_reason": "Tummytime frustration anddevelopment worry; retain question/context only, never milestone guarantee or peer clinical directions.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-003.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-7461",
+      "board": "baby",
+      "title": "Trying to eat a meal when baby crying...what do you do?",
+      "url": "https://www.justparents.co.uk/forums/topic-7461/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/7461.json",
+      "posts": 18,
+      "final_disposition": "keep",
+      "final_reason": "Mealinterruption withchildpriorillness/anxiety; no vulnerablemarketingquotes. OP shiftsmeal towhen shiftworkpartnercanhelp andcredits peer solidarity.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-003.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-7232",
+      "board": "baby",
+      "title": "Im not ready to move Sam into his room lol",
+      "url": "https://www.justparents.co.uk/forums/topic-7232/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/7232.json",
+      "posts": 15,
+      "final_disposition": "drop_after_full_read",
+      "final_reason": "Infantroomtransition/safesleep andseparationanxiety; drop no marketingquote or historicalsleepguidance.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-003.txt",
+        "scratchpad/forums-deep/justparents-kept-baby-004.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-5903",
+      "board": "baby",
+      "title": "Does anyone use non-disposable nappies ?",
+      "url": "https://www.justparents.co.uk/forums/topic-5903/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/5903.json",
+      "posts": 8,
+      "final_disposition": "keep",
+      "final_reason": "Actual full-time clothnappypack order, peersaskcount, another declinesdue upfrontcost+laundry; physicalcost/workflow alternatives, not report purchase.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-004.txt"
+      ],
+      "quotes": [
+        "fdeep02-0012"
+      ]
+    },
+    {
+      "thread_id": "jp-4216",
+      "board": "baby",
+      "title": "Baby Food",
+      "url": "https://www.justparents.co.uk/forums/topic-4216/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/4216.json",
+      "posts": 3,
+      "final_disposition": "keep",
+      "final_reason": "Babyfood stainproblem; tried branded/unbranded cleaningproducts withoutsuccess. Nonclinical householdcost/timeissue, not recipe deficiency.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-004.txt"
+      ],
+      "quotes": [
+        "fdeep02-0013"
+      ]
+    },
+    {
+      "thread_id": "jp-2726",
+      "board": "baby",
+      "title": "What to give a 7 month old",
+      "url": "https://www.justparents.co.uk/forums/topic-2726/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/2726.json",
+      "posts": 11,
+      "final_disposition": "keep",
+      "final_reason": "7month needs sauces/sandwichideas after buyingbabypasta; free familymeal/book/recipereplies. Unsafe historicaldirections notadopted.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-004.txt"
+      ],
+      "quotes": [
+        "fdeep02-0014"
+      ]
+    },
+    {
+      "thread_id": "jp-2079",
+      "board": "baby",
+      "title": "Thomas is growing so fast!",
+      "url": "https://www.justparents.co.uk/forums/topic-2079/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/2079.json",
+      "posts": 12,
+      "final_disposition": "keep",
+      "final_reason": "3monthgiggling/rolling celebration andsiblingbond; ordinarypositivecounterexample, no problem/paidneed inferred.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-004.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-1762",
+      "board": "baby",
+      "title": "*at wits end with 7 month old*",
+      "url": "https://www.justparents.co.uk/forums/topic-1762/",
+      "disposition": "keep_provisional",
+      "reason": "Practical baby-care, purchases, activity/meal ideas, caregiver support or a normal positive counterexample; provisional until full thread read. Clinical instructions in replies excluded.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/1762.json",
+      "posts": 26,
+      "final_disposition": "drop_after_full_read",
+      "final_reason": "Highdistress7month behaviour, harmfulreplyinstructions, OPextremefrustration; exclude marketingquotes. Later£20equipmentintent isunconfirmed, not paidreport.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-baby-004.txt",
+        "scratchpad/forums-deep/justparents-kept-baby-005.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-8081",
+      "board": "work-childcare",
+      "title": "Any ideas for work from home?",
+      "url": "https://www.justparents.co.uk/forums/topic-8081/",
+      "disposition": "keep_provisional",
+      "reason": "Firsthand work/home/caregiving constraints or work choice after baby. Read for structural/cost alternatives, not job recruitment or an assumed report market.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/8081.json",
+      "posts": 11,
+      "final_disposition": "keep",
+      "final_reason": "SAH parent wants modest householdincome without scams; replies mostlyrecruitment, unverifiedearnings excluded. No report request.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-work-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-3051",
+      "board": "work-childcare",
+      "title": "i need a job that i can do from home",
+      "url": "https://www.justparents.co.uk/forums/topic-3051/",
+      "disposition": "keep_provisional",
+      "reason": "Firsthand work/home/caregiving constraints or work choice after baby. Read for structural/cost alternatives, not job recruitment or an assumed report market.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/3051.json",
+      "posts": 7,
+      "final_disposition": "drop_after_full_read",
+      "final_reason": "Pure job-search question with no early-parent caregiving context; drop outside target afterfullread.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-work-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-10545",
+      "board": "work-childcare",
+      "title": "Sharing my freelance experience",
+      "url": "https://www.justparents.co.uk/forums/topic-10545/",
+      "disposition": "keep_provisional",
+      "reason": "Firsthand work/home/caregiving constraints or work choice after baby. Read for structural/cost alternatives, not job recruitment or an assumed report market.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/10545.json",
+      "posts": 4,
+      "final_disposition": "keep",
+      "final_reason": "Parent switched tofreelance afterbaby, now3years later; earns fromwriting but works while child sleeps, sleeptradeoff. Not paidreport or verifiedearnings.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-work-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-9889",
+      "board": "work-childcare",
+      "title": "My Biggest WAH Problem... People Not Understanding",
+      "url": "https://www.justparents.co.uk/forums/topic-9889/",
+      "disposition": "keep_provisional",
+      "reason": "Firsthand work/home/caregiving constraints or work choice after baby. Read for structural/cost alternatives, not job recruitment or an assumed report market.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9889.json",
+      "posts": 11,
+      "final_disposition": "keep",
+      "final_reason": "Work boundaries/recognition; one actual newmother reply says husband assumes idle. School-age anecdotes are adjacent and promotionalreferences excluded.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-work-001.txt"
+      ],
+      "quotes": [
+        "fdeep02-0008"
+      ]
+    },
+    {
+      "thread_id": "jp-9858",
+      "board": "work-childcare",
+      "title": "Do you miss working away from home?",
+      "url": "https://www.justparents.co.uk/forums/topic-9858/",
+      "disposition": "keep_provisional",
+      "reason": "Firsthand work/home/caregiving constraints or work choice after baby. Read for structural/cost alternatives, not job recruitment or an assumed report market.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9858.json",
+      "posts": 8,
+      "final_disposition": "keep",
+      "final_reason": "Mix of positive WAH choices and missedadultconversation; many preferstatusquo, do not assume universal distress or buying need.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-work-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-9862",
+      "board": "work-childcare",
+      "title": "How Did You Get Started Working at Home?",
+      "url": "https://www.justparents.co.uk/forums/topic-9862/",
+      "disposition": "keep_provisional",
+      "reason": "Firsthand work/home/caregiving constraints or work choice after baby. Read for structural/cost alternatives, not job recruitment or an assumed report market.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9862.json",
+      "posts": 7,
+      "final_disposition": "keep",
+      "final_reason": "Income supplement/job choice and homecare; peer mentions actualPayPal payment for app testing, not buyinginformation. Authorcredit/country preserved ifquoted.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-work-001.txt",
+        "scratchpad/forums-deep/justparents-kept-work-002.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-10002",
+      "board": "work-childcare",
+      "title": "English tutoring online.",
+      "url": "https://www.justparents.co.uk/forums/topic-10002/",
+      "disposition": "keep_provisional",
+      "reason": "Firsthand work/home/caregiving constraints or work choice after baby. Read for structural/cost alternatives, not job recruitment or an assumed report market.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/10002.json",
+      "posts": 6,
+      "final_disposition": "keep",
+      "final_reason": "Regularparticipant describes onlineEnglish tutoring toearn aroundbabycare; unverifiedhistoricalearnings/jobs notcurrentrecommendations and not reportspending.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-work-002.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-5414",
+      "board": "work-childcare",
+      "title": "Work at home moms here?",
+      "url": "https://www.justparents.co.uk/forums/topic-5414/",
+      "disposition": "keep_provisional",
+      "reason": "Firsthand work/home/caregiving constraints or work choice after baby. Read for structural/cost alternatives, not job recruitment or an assumed report market.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/5414.json",
+      "posts": 11,
+      "final_disposition": "keep",
+      "final_reason": "Expecting WAH question; replies describe nap/night work and enjoyedhomework, plus promotions/surveyrecruitment excluded.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-work-002.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-4309",
+      "board": "work-childcare",
+      "title": "Any suggestions for me??",
+      "url": "https://www.justparents.co.uk/forums/topic-4309/",
+      "disposition": "keep_provisional",
+      "reason": "Firsthand work/home/caregiving constraints or work choice after baby. Read for structural/cost alternatives, not job recruitment or an assumed report market.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/4309.json",
+      "posts": 3,
+      "final_disposition": "drop_after_full_read",
+      "final_reason": "Business startup/giftbox mechanics with no specifiedearly-parent stage; drop outside caregiving report scope.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-work-002.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-8660",
+      "board": "work-childcare",
+      "title": "Help Not Enough Hours",
+      "url": "https://www.justparents.co.uk/forums/topic-8660/",
+      "disposition": "keep_provisional",
+      "reason": "Firsthand work/home/caregiving constraints or work choice after baby. Read for structural/cost alternatives, not job recruitment or an assumed report market.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/8660.json",
+      "posts": 5,
+      "final_disposition": "keep",
+      "final_reason": "Care all day/work afterbedtime; OP says childcare woulderasepay. Respondentfather says childcaremathdoesnotwork. Structuralbudget/timeconstraint not paidreport proof.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-work-002.txt"
+      ],
+      "quotes": [
+        "fdeep02-0007"
+      ]
+    },
+    {
+      "thread_id": "jp-7103",
+      "board": "work-childcare",
+      "title": "what would you do?",
+      "url": "https://www.justparents.co.uk/forums/topic-7103/",
+      "disposition": "keep_provisional",
+      "reason": "Firsthand work/home/caregiving constraints or work choice after baby. Read for structural/cost alternatives, not job recruitment or an assumed report market.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/7103.json",
+      "posts": 8,
+      "final_disposition": "drop_after_full_read",
+      "final_reason": "Fullreadreveals school-age children, formercontrollingpartner and subsequent dismissal; exclude early-parent marketing use.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-work-002.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-4332",
+      "board": "work-childcare",
+      "title": "suggestions please",
+      "url": "https://www.justparents.co.uk/forums/topic-4332/",
+      "disposition": "keep_provisional",
+      "reason": "Firsthand work/home/caregiving constraints or work choice after baby. Read for structural/cost alternatives, not job recruitment or an assumed report market.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/4332.json",
+      "posts": 10,
+      "final_disposition": "keep",
+      "final_reason": "Weekendwork/childcare and absentfinancialsupport; OP rejects genericdirectselling because acquaintancesalreadyreps. Recruitmentearningsclaims excluded; no reportwillingness.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-work-002.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-2433",
+      "board": "work-childcare",
+      "title": "Im an online bingo chat moderator",
+      "url": "https://www.justparents.co.uk/forums/topic-2433/",
+      "disposition": "keep_provisional",
+      "reason": "Firsthand work/home/caregiving constraints or work choice after baby. Read for structural/cost alternatives, not job recruitment or an assumed report market.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/2433.json",
+      "posts": 9,
+      "final_disposition": "drop_after_full_read",
+      "final_reason": "Bingo-chat career discussion, unspecifiedchildage, jobtraining/unpaidwork mechanics; drop outside early-caregiver reportscope.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-work-002.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-9382",
+      "board": "third-trimester",
+      "title": "Making my Other Children Accept the New Baby",
+      "url": "https://www.justparents.co.uk/forums/topic-9382/",
+      "disposition": "keep_provisional",
+      "reason": "Late-pregnancy household/sibling preparation, bag/checklist, support choices or purchases; include ordinary confidence as counterevidence.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9382.json",
+      "posts": 5,
+      "final_disposition": "keep",
+      "final_reason": "Sibling adjustment and attention logistics with2.5year+10month+35weekpregnancy. Concrete household coordination; no paid report evidence.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-preparation-001.txt"
+      ],
+      "quotes": [
+        "fdeep02-0001"
+      ]
+    },
+    {
+      "thread_id": "jp-10008",
+      "board": "third-trimester",
+      "title": "The annoying things people tell you when you're pregnant",
+      "url": "https://www.justparents.co.uk/forums/topic-10008/",
+      "disposition": "keep_provisional",
+      "reason": "Late-pregnancy household/sibling preparation, bag/checklist, support choices or purchases; include ordinary confidence as counterevidence.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/10008.json",
+      "posts": 6,
+      "final_disposition": "keep",
+      "final_reason": "Social comments differ; some negative, some no such experience. Human respect not an information deficit.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-preparation-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-9894",
+      "board": "third-trimester",
+      "title": "Hospital Bag Essentials",
+      "url": "https://www.justparents.co.uk/forums/topic-9894/",
+      "disposition": "keep_provisional",
+      "reason": "Late-pregnancy household/sibling preparation, bag/checklist, support choices or purchases; include ordinary confidence as counterevidence.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9894.json",
+      "posts": 7,
+      "final_disposition": "keep",
+      "final_reason": "Forgot own belongings/glasses; partner made extra trip. Free crowd checklist; some planned months early and another needed little of packed list.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-preparation-001.txt"
+      ],
+      "quotes": [
+        "fdeep02-0003"
+      ]
+    },
+    {
+      "thread_id": "jp-10061",
+      "board": "third-trimester",
+      "title": "Doulas and delivery",
+      "url": "https://www.justparents.co.uk/forums/topic-10061/",
+      "disposition": "keep_provisional",
+      "reason": "Late-pregnancy household/sibling preparation, bag/checklist, support choices or purchases; include ordinary confidence as counterevidence.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/10061.json",
+      "posts": 2,
+      "final_disposition": "keep",
+      "final_reason": "OP used partner support instead of doula; respondent used hospital antenatal classes+YouTube and felt no need for doula. Payment not established.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-preparation-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-9996",
+      "board": "third-trimester",
+      "title": "Is Cold Feet Normal?",
+      "url": "https://www.justparents.co.uk/forums/topic-9996/",
+      "disposition": "keep_provisional",
+      "reason": "Late-pregnancy household/sibling preparation, bag/checklist, support choices or purchases; include ordinary confidence as counterevidence.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9996.json",
+      "posts": 4,
+      "final_disposition": "drop_after_full_read",
+      "final_reason": "Full read exposes transitional housing, mental-health diagnoses, severe anxiety and financial vulnerability; exclude entirely from marketing evidence.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-preparation-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-9954",
+      "board": "third-trimester",
+      "title": "Did anyone use a body pillow?",
+      "url": "https://www.justparents.co.uk/forums/topic-9954/",
+      "disposition": "keep_provisional",
+      "reason": "Late-pregnancy household/sibling preparation, bag/checklist, support choices or purchases; include ordinary confidence as counterevidence.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9954.json",
+      "posts": 6,
+      "final_disposition": "keep",
+      "final_reason": "Physical product preferences differ sharply; body pillow disliked for bedspace while others liked/purchased. Neither product need implies report demand.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-preparation-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-8327",
+      "board": "third-trimester",
+      "title": "5 days to go until EDD...",
+      "url": "https://www.justparents.co.uk/forums/topic-8327/",
+      "disposition": "keep_provisional",
+      "reason": "Late-pregnancy household/sibling preparation, bag/checklist, support choices or purchases; include ordinary confidence as counterevidence.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/8327.json",
+      "posts": 7,
+      "final_disposition": "keep",
+      "final_reason": "Calm/excited late-pregnancy parent already has bag and car seat ready. Counterexample to universal planning anxiety.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-preparation-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-9608",
+      "board": "second-trimester",
+      "title": "New to pregnancy and this page",
+      "url": "https://www.justparents.co.uk/forums/topic-9608/",
+      "disposition": "keep_provisional",
+      "reason": "Expecting twins parent seeks people to chat with; human community is an alternative, not assumed report demand.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9608.json",
+      "posts": 4,
+      "final_disposition": "keep",
+      "final_reason": "Expecting twin parent specifically wants pregnant friends/chat. Community rather than report.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-preparation-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-9791",
+      "board": "first-trimester",
+      "title": "Pregnant, Overwhelmed and Confused :s",
+      "url": "https://www.justparents.co.uk/forums/topic-9791/",
+      "disposition": "keep_provisional",
+      "reason": "Information overload or newborn gadget-choice confusion; inspect for research solicitation or commercial self-promotion before quoting.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9791.json",
+      "posts": 1,
+      "final_disposition": "keep",
+      "final_reason": "Information overload leads OP to seek face-to-face knowledgeable person and pregnancy events; possible event mention not verified commercial affiliation. Do not assume more reading helps.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-preparation-001.txt"
+      ],
+      "quotes": [
+        "fdeep02-0002"
+      ]
+    },
+    {
+      "thread_id": "jp-9773",
+      "board": "first-trimester",
+      "title": "Best of babies!",
+      "url": "https://www.justparents.co.uk/forums/topic-9773/",
+      "disposition": "keep_provisional",
+      "reason": "Information overload or newborn gadget-choice confusion; inspect for research solicitation or commercial self-promotion before quoting.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9773.json",
+      "posts": 1,
+      "final_disposition": "keep",
+      "final_reason": "Second-time parent with8daynewborn feels new again and asks about sling safety/purchase; equipment-choice question only, no instructions or quote.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-preparation-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-9960",
+      "board": "birth-labour",
+      "title": "Anyone have a crazy birth story?",
+      "url": "https://www.justparents.co.uk/forums/topic-9960/",
+      "disposition": "keep_provisional",
+      "reason": "Information consumed before birth versus actual experience; context-only counterevidence, no medical story marketing quotes.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9960.json",
+      "posts": 3,
+      "final_disposition": "drop_after_full_read",
+      "final_reason": "Clinical birth stories, pain, care disputes and emergency surgery dominate after reading; preserve as excluded read material, no marketing quotes.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-preparation-002.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-9878",
+      "board": "activities",
+      "title": "Finding Local Fun Activities",
+      "url": "https://www.justparents.co.uk/forums/topic-9878/",
+      "disposition": "keep_provisional",
+      "reason": "Infant trip/packing logistics, affordable local activities, free library support or explicit adjacent toddler space constraints. Historical policy advice not adopted.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/9878.json",
+      "posts": 3,
+      "final_disposition": "keep",
+      "final_reason": "Free/nearlyfree local outing discovery; site recommendations, no purchase request. Broad family ages unspecified, not infant demand proof.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-activities-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-8662",
+      "board": "activities",
+      "title": "Had to taste *ALL* food/milk at security at Gatwick",
+      "url": "https://www.justparents.co.uk/forums/topic-8662/",
+      "disposition": "keep_provisional",
+      "reason": "Infant trip/packing logistics, affordable local activities, free library support or explicit adjacent toddler space constraints. Historical policy advice not adopted.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/8662.json",
+      "posts": 9,
+      "final_disposition": "drop_after_full_read",
+      "final_reason": "Old airport security argument and unsupported policy/explosives assertions dominate; exclude commercial evidence, no current guidance inferred.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-activities-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-8555",
+      "board": "activities",
+      "title": "Sterilising abroad",
+      "url": "https://www.justparents.co.uk/forums/topic-8555/",
+      "disposition": "keep_provisional",
+      "reason": "Infant trip/packing logistics, affordable local activities, free library support or explicit adjacent toddler space constraints. Historical policy advice not adopted.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/8555.json",
+      "posts": 8,
+      "final_disposition": "keep",
+      "final_reason": "Travel feeding equipment logistics; OP bought ready-sterilised bottles as buffer against delay/arrival workload. No safety instructions adopted, author overlaps fdeep01.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-activities-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-8027",
+      "board": "activities",
+      "title": "Going away with a 7 week old baby. Help!!",
+      "url": "https://www.justparents.co.uk/forums/topic-8027/",
+      "disposition": "keep_provisional",
+      "reason": "Infant trip/packing logistics, affordable local activities, free library support or explicit adjacent toddler space constraints. Historical policy advice not adopted.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/8027.json",
+      "posts": 2,
+      "final_disposition": "keep",
+      "final_reason": "7week infant first weekend family visit; fears forgetting something, free answer suggests simple checklist. No payment evidence.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-activities-001.txt"
+      ],
+      "quotes": [
+        "fdeep02-0004"
+      ]
+    },
+    {
+      "thread_id": "jp-6995",
+      "board": "activities",
+      "title": "storybook time with aaron",
+      "url": "https://www.justparents.co.uk/forums/topic-6995/",
+      "disposition": "keep_provisional",
+      "reason": "Infant trip/packing logistics, affordable local activities, free library support or explicit adjacent toddler space constraints. Historical policy advice not adopted.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/6995.json",
+      "posts": 4,
+      "final_disposition": "keep",
+      "final_reason": "Followup reveals child age3; adjacent preschool library/social alternative, not infant activity demand. Schedule conflict with preschoolgroup matters.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-activities-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-1789",
+      "board": "activities",
+      "title": "Camping with LO",
+      "url": "https://www.justparents.co.uk/forums/topic-1789/",
+      "disposition": "keep_provisional",
+      "reason": "Infant trip/packing logistics, affordable local activities, free library support or explicit adjacent toddler space constraints. Historical policy advice not adopted.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/1789.json",
+      "posts": 4,
+      "final_disposition": "keep",
+      "final_reason": "14month first campingtrip bytrain; packingweight constraint and booked serviced site. Adjacent olderbaby case.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-activities-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-1307",
+      "board": "activities",
+      "title": "Leeds things to do for nothing.",
+      "url": "https://www.justparents.co.uk/forums/topic-1307/",
+      "disposition": "keep_provisional",
+      "reason": "Infant trip/packing logistics, affordable local activities, free library support or explicit adjacent toddler space constraints. Historical policy advice not adopted.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/1307.json",
+      "posts": 12,
+      "final_disposition": "keep",
+      "final_reason": "Explicit baby outing budget under£10, crowd recommends free/local discounts; budget constraint not report demand or current verified venueprices.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-activities-001.txt"
+      ],
+      "quotes": [
+        "fdeep02-0006"
+      ]
+    },
+    {
+      "thread_id": "jp-1157",
+      "board": "activities",
+      "title": "Anyone travelled with BA to the USA with a LO??",
+      "url": "https://www.justparents.co.uk/forums/topic-1157/",
+      "disposition": "keep_provisional",
+      "reason": "Infant trip/packing logistics, affordable local activities, free library support or explicit adjacent toddler space constraints. Historical policy advice not adopted.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/1157.json",
+      "posts": 2,
+      "final_disposition": "keep",
+      "final_reason": "Booked7hour flight with1yearchild; asks about onboardfood/activities andpacking. Reply policyadvice outdated/unverified.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-activities-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-1130",
+      "board": "activities",
+      "title": "anyone going to babyshow in birmingham??",
+      "url": "https://www.justparents.co.uk/forums/topic-1130/",
+      "disposition": "keep_provisional",
+      "reason": "Infant trip/packing logistics, affordable local activities, free library support or explicit adjacent toddler space constraints. Historical policy advice not adopted.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/1130.json",
+      "posts": 2,
+      "final_disposition": "keep",
+      "final_reason": "Babyshow visit enjoyed, OP won newtickets; respondent says cannot afford ticket. No paid attendance/report purchase proved.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-activities-001.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-707",
+      "board": "activities",
+      "title": "Funactivities for Toddler?",
+      "url": "https://www.justparents.co.uk/forums/topic-707/",
+      "disposition": "keep_provisional",
+      "reason": "Infant trip/packing logistics, affordable local activities, free library support or explicit adjacent toddler space constraints. Historical policy advice not adopted.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/707.json",
+      "posts": 10,
+      "final_disposition": "keep",
+      "final_reason": "2yearold, no car, flat/no garden, groupsclosedholidays. OP rejects nearbysoftplay as poorfit; free ideas appreciated andpermission to republish requested/granted. Strong contextualfit, adjacenttoddler notinfant.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-activities-001.txt",
+        "scratchpad/forums-deep/justparents-kept-activities-002.txt"
+      ],
+      "quotes": [
+        "fdeep02-0005"
+      ]
+    },
+    {
+      "thread_id": "jp-918",
+      "board": "activities",
+      "title": "Portmeirion - North Wales",
+      "url": "https://www.justparents.co.uk/forums/topic-918/",
+      "disposition": "keep_provisional",
+      "reason": "Infant trip/packing logistics, affordable local activities, free library support or explicit adjacent toddler space constraints. Historical policy advice not adopted.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/918.json",
+      "posts": 1,
+      "final_disposition": "keep",
+      "final_reason": "5month parent praises staff/venuesupplied babychange information; relaxedtripcounterexample, no report need.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-activities-002.txt"
+      ],
+      "quotes": []
+    },
+    {
+      "thread_id": "jp-100",
+      "board": "activities",
+      "title": "Whats the youngest age.....",
+      "url": "https://www.justparents.co.uk/forums/topic-100/",
+      "disposition": "keep_provisional",
+      "reason": "Infant trip/packing logistics, affordable local activities, free library support or explicit adjacent toddler space constraints. Historical policy advice not adopted.",
+      "card_read_scope": "Complete title and original-post preview (190characters Baby;160characters otherboards). Not a full thread read.",
+      "raw_thread_json": "_raw/forums-deep/justparents/threads/100.json",
+      "posts": 11,
+      "final_disposition": "keep",
+      "final_reason": "Travel timing preferences differ sharply from4weeks to5years; some easypositiveexperiences, one rejects routines. No uniformanxiety/demand inference.",
+      "read_status": "full",
+      "required_chunks": [
+        "scratchpad/forums-deep/justparents-kept-activities-002.txt"
+      ],
+      "quotes": []
+    }
+  ],
+  "reading_ledgers": [
+    "sources/forums-deep-reading-market.jsonl"
+  ]
+}

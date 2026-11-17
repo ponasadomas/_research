@@ -1,0 +1,28 @@
+{
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:46:31 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "CF-Ray": "a4fc2cb69a12b80d-RIX",
+    "CF-Cache-Status": "DYNAMIC",
+    "Cache-Control": "max-age=0, private, must-revalidate",
+    "Link": "<https://assets.babylist.com/assets/pages.a0784a408d5e5ff1.bundle.css>; rel=preload; as=style; nopush,<https://assets.babylist.com/assets/pages.a0fc3365c5fdd5a0.bundle.js>; rel=preload; as=script; nopush,<https://assets.babylist.com/assets/Maax_-_Light-205TF-7059daa2581c00a91f4c34e514816ebe180c7483d5270ccb648a22da68f195ed.woff2>; rel=preload; as=font; type=font/woff2; crossorigin=anonymous,<https://assets.babylist.com/assets/Maax_-_Regular-205TF-a47f6fbe85bf9a19a6ab16fc49470683798daed370844bcb9971c1fb2d5fbc41.woff2>; rel=preload; as=font; type=font/woff2; crossorigin=anonymous,<https://assets.babylist.com/assets/Maax_-_Medium-205TF-b8533b12d693a21628477f1cce947f9644e3525e835453f4530a27b23af84c2d.woff2>; rel=preload; as=font; type=font/woff2; crossorigin=anonymous,<https://assets.babylist.com/assets/Maax_-_Bold-205TF-b71603c16331bcc80cd01fac34230823f4d34d5bc4511ffab5ef69fad570b4a7.woff2>; rel=preload; as=font; type=font/woff2; crossorigin=anonymous",
+    "Server": "cloudflare",
+    "x-xss-protection": "1; mode=block",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains",
+    "Vary": "Accept-Encoding, Origin",
+    "content-security-policy-report-only": "connect-src 'self' https: 'unsafe-eval' chrome-extension://jcmljanephecacpljcpiogonhhadfpda chrome-extension://fndimceaachflgndliihjdkddlfdhjlc https://*.zoom.us wss://zpns.zoom.us wss://widget-mediator.zopim.com; default-src 'self' https:; font-src 'self' https: data: data: source.zoom.us; img-src 'self' https: data: blob: *.zoom.us https://v2assets.zopim.io https://static.zdassets.com; media-src 'self' https: *.zoom.us; object-src 'none'; script-src 'self' https: 'unsafe-inline' 'unsafe-eval' blob: http://zoom.us *.zoom.us; style-src 'self' https: 'unsafe-inline'; worker-src 'self' https: blob:; report-uri /csp-report",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-download-options": "noopen",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-request-id": "b0d8e4f6-9ffb-4ff8-a184-32a390a77650",
+    "x-runtime": "0.048396",
+    "Set-Cookie": "last_referrer_data=%7B%22last_referrer%22%3A%22unattributed%22%2C%22last_utm_campaign%22%3Anull%2C%22last_utm_content%22%3Anull%2C%22last_utm_coop%22%3Anull%2C%22last_utm_group%22%3Anull%2C%22last_utm_medium%22%3Anull%2C%22last_utm_source%22%3Anull%2C%22last_utm_term%22%3Anull%7D; domain=babylist.com; path=/; Secure; SameSite=None, __cf_bm=DgHDd91HI1DpHM.YYxe52dx.QeqvLrNw_cTCLrd_3Zk-1792878390.8160932-1.0.1.1-oZXsjaCORPXSm23z7Eoyd3p2ktHnJPpVKsZGsISOsMJE1jr8690hEvmjZquK85Aq6ZD_W7UWNW6j2AmG4e0B5RdWr2w3myRaGYu0QwMHuFAaZ5x1ScuZHyHDBfR.hhW0; HttpOnly; SameSite=None; Secure; Path=/; Domain=babylist.com; Expires=Sat, 24 Oct 2026 22:16:31 GMT",
+    "Content-Encoding": "zstd",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "history": []
+}

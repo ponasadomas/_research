@@ -1,0 +1,181 @@
+{
+  "targets": [
+    "1lt7fap",
+    "1m14kxp",
+    "1m4ezom",
+    "1m7h6ho",
+    "1lpm9q2"
+  ],
+  "method": "All nine frozen H2 submission files scanned to EOF; shared exact normalized four-word sequences >=12 and min-length overlap >=0.18; plus Welcome Baby/book keyword check. Detection supports comparison, not authorship/authenticity claims.",
+  "matches": [
+    {
+      "target_id": "1lpm9q2",
+      "matched_id": "1lpm9q2",
+      "subreddit": "NewParents",
+      "title": "What to do with all the baby photos",
+      "source_window": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+      "line": 230,
+      "shared_fourgrams": 44,
+      "minimum_length_overlap": 1.0,
+      "body": "I would like to make a photo album for my daughter but I take so many photos every day of her. How do you all plan on saving your memories? Are you making photo albums or just creating an online album of everything? Any input is appreciated!"
+    },
+    {
+      "target_id": "1lt7fap",
+      "matched_id": "1lt7fap",
+      "subreddit": "NewParents",
+      "title": "Is there a digital baby book that costs the same a physical one? The apps look really cool but are SO expensive!",
+      "source_window": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+      "line": 976,
+      "shared_fourgrams": 82,
+      "minimum_length_overlap": 1.0,
+      "body": "Does anyone know of a digital baby book? Not an app because all the ones I looked at seemed to end up costing hundreds of dollars because you either have to have a subscription or they don’t let you save PDFs of the pages, you have order the book from them. I just want something like the physical book but in a file that has pages with questions and prompts for milestones that I can type into and attach pictures. Then print out myself."
+    },
+    {
+      "target_id": "1m14kxp",
+      "matched_id": "1m14kxp",
+      "subreddit": "NewParents",
+      "title": "Does the welcome baby personalized book help with bonding and newborn prep?",
+      "source_window": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+      "line": 2819,
+      "shared_fourgrams": 141,
+      "minimum_length_overlap": 1.0,
+      "body": "Hi everyone,  \nI keep hearing about this personalized book  I think it’s called the Welcome Baby book— and I wanted to ask if anyone has actually used it.\n\nI’m a first-time mom trying to figure out what’s truly helpful versus what’s just a cute keepsake. Does the book offer practical advice for pregnancy or newborn care?\n\nDoes it help with things like bonding with your baby or preparing for breastfeeding and sleep routines? Or is it mostly just a memory book to look back on later?\n\nI don’t want to buy something that’ll just sit on a shelf, but if it can help even a little with all the new and overwhelming feelings I’m going through, maybe it’s worth it.\n\nI’d love to hear your honest thoughts or experiences with it. Thanks so much"
+    },
+    {
+      "target_id": "1m4ezom",
+      "matched_id": "1m4ezom",
+      "subreddit": "NewParents",
+      "title": "Looking for a photo sharing app",
+      "source_window": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+      "line": 3547,
+      "shared_fourgrams": 146,
+      "minimum_length_overlap": 1.0,
+      "body": "Hi!\n\nI'm looking for recommendations for a photo sharing app.\n\nMy spouse has an iPhone, I have an android.\n\nWe have tried Google Photos for photo sharing, but I've noticed it deletes photos from your phone if you delete them from Google Photos.\n\nAdditionally, one thing that I'm really looking is for the app to notify you to check what pictures I want to share before it automatically uploads it in Google Photos.\n\nAlso, I'd like for it notify me to check the photos every so often (let's say every week?) so I can select my favorite photos. In that way, by the time the year is over, I would have the best photos for a photo album for the year.\n\nWe typically do the photo album in shutterfly, but the organization of the photos and what photos to select is truly time consuming."
+    },
+    {
+      "target_id": "1m7h6ho",
+      "matched_id": "1m7h6ho",
+      "subreddit": "NewParents",
+      "title": "What photo printing service do you like for baby books?",
+      "source_window": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+      "line": 4203,
+      "shared_fourgrams": 130,
+      "minimum_length_overlap": 1.0,
+      "body": "Baby brain and I can’t seem to mentally process online reviews at the moment!\n\nBaby is one month and I am starting to fill his baby book. I am looking for a photo printing service that i can send photos to and it prints with a somewhat regular cadence (could be every time I hit a shipping minimum or every other month). Ideally I could text or upload photos as I like them and then they are stored for an order - as opposed to uploading and ordering in one go. Price is not as much as a consideration but ideally it would be reasonable. I think a mobile app may be nice but could also do a good responsive website. Will likely be uploading while breastfeeding with one hand :) \n\nThanks in advance! "
+    }
+  ],
+  "welcome_book_records": [
+    {
+      "post_id": "1mn28ud",
+      "subreddit": "BabyBumpsCanada",
+      "title": "[ab] Anyone has the Welcome baby book?",
+      "source_window": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumpsCanada_submissions.jsonl.gz",
+      "line": 810,
+      "body": ""
+    },
+    {
+      "post_id": "1lzmxll",
+      "subreddit": "BabyBumps",
+      "title": "I’ve been documenting my pregnancy journey and found a surprisingly fun way to do it",
+      "source_window": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumps_submissions.jsonl.gz",
+      "line": 2479,
+      "body": "So I’m currently 28 weeks and definitely in my nesting + memory-hoarding phase lol. Between trying to capture my bump pics, first kicks, and random mood swings, I realized I was throwing everything into random notes and my camera roll and nothing felt special.\n\nThen I stumbled across this personalized baby book/journal hybrid (it’s called Welcome Baby) that actually helped me turn those scattered memories into something organized and meaningful. It’s not just a scrapbook, it gives little prompts like first time you felt movement or what surprised you most in your second trimester, and even parenting advice tailored to your stage. It kind of made me pause and reflect more deeply than I thought I would. Plus, they have music, lullabies, and wellness trackers which makes it more than just a “book.” It honestly feels like a love letter to your future baby. Anyway, just wanted to share because I didn’t think something app based could feel this personal. If you’re sentimental like me or just overwhelmed with how to remember everything, this might be worth checking out. I'm not affiliated or anything just really vibing with it right now.\n\nCurious if anyone else has found something similar that helps track the emotional side of pregnancy, not just the symptoms?"
+    },
+    {
+      "post_id": "1lzn53i",
+      "subreddit": "BabyBumps",
+      "title": "Started using the Welcome Baby app to create a personalized baby book but didn’t expect it to feel this special",
+      "source_window": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumps_submissions.jsonl.gz",
+      "line": 2481,
+      "body": "So I’m 26 weeks today, and lately I’ve been getting super emotional about how fast this pregnancy is going. It’s like one minute I’m throwing up crackers, and the next I’m tearing up at tiny socks. I’ve been meaning to document more of the journey not just photos, but the little stuff I want to remember later. Like how I felt the first time I heard the heartbeat, or how weirdly specific my dreams have gotten. I didn’t want to just dump it all into my Notes app or a half-finished journal. I found this thing called the Welcome Baby app, and it actually helped me put everything together into a personalized baby book. I didn’t expect to enjoy it as much as I do as it has sweet little prompts, space for photos, milestone reminders, and even advice that feels like it’s coming from a friend instead of Google. Honestly, it’s been kind of grounding. Like a calm little ritual where I can sit, reflect, and feel connected to the baby especially on the days when I feel more like a walking watermelon than a person. Not trying to promote anything, just thought I’d share in case anyone else is feeling a little sentimental or overwhelmed and looking for something meaningful (but easy!) to help capture it all.\n\nWould love to know if anyone else is doing something similar like journaling, memory-keeping, anything that’s helped you slow down a bit and take it all in."
+    },
+    {
+      "post_id": "1m0d4po",
+      "subreddit": "BabyBumps",
+      "title": "Welcome baby should we use baby books to welcome our newborn?",
+      "source_window": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumps_submissions.jsonl.gz",
+      "line": 2687,
+      "body": "Hey all. I just became a parent, and I’m curious if baby books really help in welcoming a newborn. I’ve heard many people say they’re great, but is it true? Also, has anyone used the Welcome Baby books? What’s your experience with them? I’m just trying to figure out if they’re worth it.\n\nLooking forward to hearing your thoughts!"
+    },
+    {
+      "post_id": "1m0lurr",
+      "subreddit": "BabyBumps",
+      "title": "Has anyone used the Welcome Baby app or personalized book? Wondering if it’s worth it for memory keeping",
+      "source_window": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumps_submissions.jsonl.gz",
+      "line": 2752,
+      "body": "Lately I’ve been feeling like this whole experience is moving faster than I can keep up with first kicks, weird cravings, tiny milestones that feel huge. I’ve been trying to find a good way to actually remember all of this (besides random voice notes and half-finished journal entries ). I stumbled on this thing called the Welcome Baby app/book it’s like a personalized baby book that also tracks habits, growth, sleep, and stuff like that. It says it includes tailored advice and little prompts to help you reflect along the way. There’s even music and soothing sounds which sounds kind of dreamy to be honest. Has anyone here tried it? Or maybe something similar? I’m curious if digital tools like this actually help you stay on top of things or if they just become another app I forget about. I really want to be present and hold onto these early moments, but sometimes my brain feels like it’s running on 3 tabs and a dream.\n\nWould love to hear what helped you document things whether you’re expecting now or already on the other side with your little one"
+    },
+    {
+      "post_id": "1mn27ki",
+      "subreddit": "BabyBumps",
+      "title": "Anyone has the Welcome baby book?",
+      "source_window": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumps_submissions.jsonl.gz",
+      "line": 7859,
+      "body": "There’s a website selling a book called welcome.baby but I’m not sure how legit it is. anyone has this book?"
+    },
+    {
+      "post_id": "1m080xs",
+      "subreddit": "BabyBumpsandBeyondAu",
+      "title": "Has anyone used a welcome baby personalized baby memory book with milestone prompts and parenting tips?",
+      "source_window": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumpsandBeyondAu_submissions.jsonl.gz",
+      "line": 415,
+      "body": "I recently came across a personalized baby book (I think it was called something like *Welcome Baby*) that allows you to document your baby’s milestones, include photos, and also gives parenting tips and daily insights. It looked like it also came with helpful features like journaling prompts and relaxing music or sounds for the baby.\n\nJust wondering if anyone here has used something similar and what your experience was like? Was it actually helpful or more of a keepsake type of thing?\n\nWould love to hear your thoughts or if you’ve found something else you liked for capturing those special moments."
+    },
+    {
+      "post_id": "1m086ax",
+      "subreddit": "BabyBumpsandBeyondAu",
+      "title": "Has anyone used a welcome baby personalized book with milestone prompts and parenting tips?",
+      "source_window": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumpsandBeyondAu_submissions.jsonl.gz",
+      "line": 417,
+      "body": "I recently came across a personalized baby book (I think it was called something like *Welcome Baby*) that allows you to document your baby’s milestones, include photos, and also gives parenting tips and daily insights. It looked like it also came with helpful features like journaling prompts and relaxing music or sounds for the baby.\n\nJust wondering if anyone here has used something similar and what your experience was like? Was it actually helpful or more of a keepsake type of thing?\n\nWould love to hear your thoughts or if you’ve found something else you liked for capturing those special moments."
+    },
+    {
+      "post_id": "1m0dj09",
+      "subreddit": "BabyBumpsandBeyondAu",
+      "title": "welcome baby  books really help? need your thoughts, baby bumps and beyond!",
+      "source_window": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumpsandBeyondAu_submissions.jsonl.gz",
+      "line": 422,
+      "body": "Hey everyone,  \nI hope you’re all doing well. I’ve just welcomed my little one into the world, and as a first-time parent, I’m feeling a bit overwhelmed by everything! I’ve always loved books, but I’m unsure how they actually help with raising a baby.\n\nHow do you all use books with your babies? Do they really contribute to their development or bonding? Also, I’ve heard about Welcome Baby books  has anyone used them, and were they worth it?\n\nI’d love to hear your experiences and any advice you might have. Thanks so much for sharing"
+    },
+    {
+      "post_id": "1ojw1r3",
+      "subreddit": "BabyBumpsandBeyondAu",
+      "title": "Anyone tried the welcome.baby book before baby arrives?",
+      "source_window": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumpsandBeyondAu_submissions.jsonl.gz",
+      "line": 3260,
+      "body": "I’m a first-time mum and trying to get prepared and organised. I came across the welcome baby book and it looks really sweet for capturing pregnancy moments and baby milestones later on.\n\nDid you find it helpful and motivating to write in, or did it end up sitting on the shelf once bub arrived?\n\nWould love to hear real experiences before I decide whether to get one. Thanks!"
+    },
+    {
+      "post_id": "1lznlq7",
+      "subreddit": "NewParents",
+      "title": "The Welcome Baby app helped me start a personalized baby book;  kind of became my emotional time capsule",
+      "source_window": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+      "line": 2469,
+      "body": "[removed]"
+    },
+    {
+      "post_id": "1lzpzoq",
+      "subreddit": "NewParents",
+      "title": "Has anyone tried the Welcome Baby app or personalized baby book? Looking for something meaningful to track memories",
+      "source_window": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+      "line": 2485,
+      "body": "[removed]"
+    },
+    {
+      "post_id": "1m14kxp",
+      "subreddit": "NewParents",
+      "title": "Does the welcome baby personalized book help with bonding and newborn prep?",
+      "source_window": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+      "line": 2819,
+      "body": "Hi everyone,  \nI keep hearing about this personalized book  I think it’s called the Welcome Baby book— and I wanted to ask if anyone has actually used it.\n\nI’m a first-time mom trying to figure out what’s truly helpful versus what’s just a cute keepsake. Does the book offer practical advice for pregnancy or newborn care?\n\nDoes it help with things like bonding with your baby or preparing for breastfeeding and sleep routines? Or is it mostly just a memory book to look back on later?\n\nI don’t want to buy something that’ll just sit on a shelf, but if it can help even a little with all the new and overwhelming feelings I’m going through, maybe it’s worth it.\n\nI’d love to hear your honest thoughts or experiences with it. Thanks so much"
+    },
+    {
+      "post_id": "1mjm1h1",
+      "subreddit": "NewParents",
+      "title": "Beware of Welcome.baby",
+      "source_window": "_raw/reddit-deep/windows/2025-h2-v1/NewParents_submissions.jsonl.gz",
+      "line": 6913,
+      "body": "When buying the cute instagram worthy baby book Welcome Baby (welcome.baby), they sign you up for an automatic 1 month ($30.99/month) for their app that is the same as \"What to Expect\" the app that's free on the app store. THEN they refuse to give your money back when you ask for it... so... just watch out."
+    }
+  ]
+}

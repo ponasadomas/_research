@@ -1,0 +1,389 @@
+{
+  "status": "complete",
+  "assigned_cards": 1585,
+  "triage_kept": 1121,
+  "triage_dropped": 464,
+  "full_originals_read": 1121,
+  "OP_replies_read": 50,
+  "auxiliary_non_OP_read": 18,
+  "available_non_OP_unread": 312,
+  "kept_comment_sources_unavailable": 1091,
+  "eligible": 917,
+  "excluded_after_read": 204,
+  "quotes": 207,
+  "quoted_post_ids": 206,
+  "strict_native_failures": 0,
+  "copied_verifier_failures": 0,
+  "files": [
+    {
+      "file": "_raw/reddit-deep/triage/augdec-03.tsv",
+      "sha256": "f38656cd568c9e542a109a41019ebfb2be6a14a08df30a73d989efeb2b44f949",
+      "bytes": 275594
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/audit.py",
+      "sha256": "8bf0f908da2a55972f2892a567bc222749df83595baf07689d5a431755b23066",
+      "bytes": 7475
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/checkpoint.json",
+      "sha256": "356bdad047cd301b2831b6fefdd805600ae977b1cb0bda9d660e5497559593f5",
+      "bytes": 412
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/copied-verifier-output.txt",
+      "sha256": "3506c7e5d30b782f641126bb4a8b68ea48e946110dd6159a4fed99d48509f667",
+      "bytes": 72
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/duplicate-human-review.jsonl",
+      "sha256": "db148672577a8272af3594a5c263992befecebe364e9c29a94f3df1a8192f282",
+      "bytes": 3831
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/exact-body-flag-scope-review.jsonl",
+      "sha256": "bd82ac66a9b92c5f96c0606193ca6b9d52b4b96878c08ec22bd2672d76b4ca70",
+      "bytes": 17088
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/final-coverage.json",
+      "sha256": "ec561ac80f53fab975619480360a7d906ed526c0dcd6ba9162810f09af414cf1",
+      "bytes": 39123
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/manifest.json",
+      "sha256": "006699a93e7e318b2d045c7490a2a8178ecf59b0d09478f4950db191a8f776ab",
+      "bytes": 374096
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-001.txt",
+      "sha256": "5f5bfac516d2969ded23bcebae20410280781bdaeb2ef3b6e57dec73fd97164d",
+      "bytes": 34943
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-002.txt",
+      "sha256": "7bfe17aed8aad424e2faf6dfd38b4dcbd6613cb7750c737b5197b3c2c60781f8",
+      "bytes": 34592
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-003.txt",
+      "sha256": "eed824e097ee726d243186c7710272a2bd8d9fc4b8fe0c8e45e14774319d4bbb",
+      "bytes": 34890
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-004.txt",
+      "sha256": "485f1bb1e77a560a62b2cdc7791a34f2f67ecc1dc59bcd04c18b5bde248aa9f5",
+      "bytes": 34767
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-005.txt",
+      "sha256": "2903ab20779b702cfd89411396b20f64d23f073b85890e2e9117d371bf36ae70",
+      "bytes": 33022
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-006.txt",
+      "sha256": "a63211e0919b49ac8bc6664b899ed578dcad2fd8a4131244059f5c9b7a0fde7a",
+      "bytes": 34690
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-007.txt",
+      "sha256": "ac39adb0e442e44edeca0446bcd1c172f8ba87d9f63ffa7a4b3c71da42b6bb08",
+      "bytes": 34282
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-008.txt",
+      "sha256": "3c8a4a2cc78f068c675df1a3dbfea2c8c60b623688adfd8e2c7194592996a35f",
+      "bytes": 34943
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-009.txt",
+      "sha256": "1ef3ab63f3634eb00740722cfed826bba30241abbb36f51a11c5c16f6cc024c2",
+      "bytes": 28646
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-010.txt",
+      "sha256": "a1d6d0bdd7f01946ed3e398b9faed9e4bb8ca7d7049b3590eb130f6d3d951190",
+      "bytes": 27918
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-011.txt",
+      "sha256": "17a0994e1b663aa5e7d9f8a2cb79454913b1b9e21c774dfe5374426e061901a4",
+      "bytes": 31730
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-012.txt",
+      "sha256": "17849d4556a3e0f7dd1dcc7671ddeace9510c490cf5a9ef790cfad9a34362442",
+      "bytes": 34134
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-013.txt",
+      "sha256": "31601227d368668c3c2c7f791349c4389ed205576501693af6914048ceeb858b",
+      "bytes": 34310
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-014.txt",
+      "sha256": "71880c009697a7840d77c7916dda6e42e40939d6d97671996263e379a9f73652",
+      "bytes": 34418
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-015.txt",
+      "sha256": "415edc4fef8d6a08f7d8c8e3962012963cde4eb38e7cc3b4e3e235245c57f95f",
+      "bytes": 32688
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-016.txt",
+      "sha256": "fd00aba26bd28115cad963ec134b93f51c187abbd3e53f9b81d7ce3cc4029224",
+      "bytes": 34504
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-017.txt",
+      "sha256": "a027595ba88a766a423542c93edb190c4fb8ce8b0cd1672c05c573da12ca0808",
+      "bytes": 34344
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-018.txt",
+      "sha256": "5e8344750196129d41f83cbfda9f458a2db63ad5141d10a693719c2de3d02d84",
+      "bytes": 34949
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-019.txt",
+      "sha256": "02a06c9a2a74f16c08a66c2b3937d71f7fd1b5b842cb99ffc044ca21be86601d",
+      "bytes": 32090
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-020.txt",
+      "sha256": "3d9d4906ca87c962f7566b72b3683bf3e743b0f8c9c772ae9caf40c2bec327d4",
+      "bytes": 34059
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-021.txt",
+      "sha256": "4ee981017ed418db18261a03956f7e3fa0f8cf1ad31a553e4a2d32a5f0a642b9",
+      "bytes": 33582
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-022.txt",
+      "sha256": "1b7731a776b91932129c3c7f4bbdd1c30ed079bba213940d7415c1d7ec57f5f2",
+      "bytes": 34167
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-023.txt",
+      "sha256": "3fbe8838b8fe76d24b0b49d5127e31f940bb0d4b79e7da185f7780bcdcdef95c",
+      "bytes": 34967
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-024.txt",
+      "sha256": "9bacbf75357939237bc665960b67b2b9b5db7a0b4daa599d7a472a4fa2bd84d6",
+      "bytes": 34981
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-025.txt",
+      "sha256": "3d08919ebc9c6820cc5ed34f8d82c2d846e13a4057ac0cc0c484f239840ff6ed",
+      "bytes": 34266
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-026.txt",
+      "sha256": "7d90148e29a7a35e4bff5c5b197dc7e43fdb81b30280dce67755e9a3292bf02f",
+      "bytes": 33333
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-027.txt",
+      "sha256": "4eed726f51b2802e80acdc76df5e3afe2bc9eaaa5733a8cf0b3dd9fd845a1614",
+      "bytes": 34575
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-028.txt",
+      "sha256": "5b9294409518c4795168e6da072b227d4aab875f225b72120c5f4a8f151b1c77",
+      "bytes": 34267
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-029.txt",
+      "sha256": "98ae67afd00ad9ac1700bca12c3abc140aa89ad734f85e948fcfa54122ec333d",
+      "bytes": 33659
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-030.txt",
+      "sha256": "446ea13f587e3656f787a110ae04ebdd60f846f82f3bd4fef30203e2dbe40664",
+      "bytes": 34806
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-031.txt",
+      "sha256": "da57468868bc16aba155f2fdb6770f927d6fc6b9418f1700a4c02c25fdaa1b27",
+      "bytes": 32369
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-032.txt",
+      "sha256": "625201e922fddebd03530f52b846816054ff5697fc13199ca52d8b1f0dc4a2c9",
+      "bytes": 33402
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-033.txt",
+      "sha256": "6489d56353fa02667e38a747e368f205861db6db0ac3b17e80a73e71422e3119",
+      "bytes": 34041
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-034.txt",
+      "sha256": "3f50da690d6be8fd89da281a14548baa8768e99fddbea51dc6d0c39239d7e839",
+      "bytes": 34695
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-035.txt",
+      "sha256": "95454d1e8544de48fd853197dcc4d57b887667efd1d11e18df963d66ffec28d0",
+      "bytes": 34501
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-036.txt",
+      "sha256": "07e5e7cfdfcfb90d61a5f433a41cf4371d9dc55e4aecc2706abc3433909cc3dd",
+      "bytes": 34907
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-037.txt",
+      "sha256": "47217191b648674d3cca90c1206773fb132783951438eb911d937e587351648e",
+      "bytes": 34199
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-038.txt",
+      "sha256": "a6d78609e28ed7d8f35101236b77ad6f2d87ffb3810f2028a8f0407058ec6634",
+      "bytes": 34323
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-039.txt",
+      "sha256": "b5a6aef2b6a9840dd32aaf2e1305978985e732465ff20264ef1b2a48a6c139f8",
+      "bytes": 34167
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-040.txt",
+      "sha256": "56b1a85412f6bd13fcc3a5388950672a13d0af1b2fa5b6dfdf566ee36be1cb68",
+      "bytes": 34103
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-041.txt",
+      "sha256": "f3fb9651ad787b8646b0454325e420aafcd3ac58d2a15f57ab0ce3e2fe9a71b4",
+      "bytes": 32779
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-042.txt",
+      "sha256": "c921b8a623046609cfa825ebaa999fae3bdadbe16b928f5d2cbaeef3efe94feb",
+      "bytes": 34497
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-043.txt",
+      "sha256": "6718afe2e9cf13bc40b723c0a2f64453e0183a207855c87bf5230992abfe8960",
+      "bytes": 34801
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-044.txt",
+      "sha256": "324d15932e89d8ddaa342cfd06807a677e104ea3bde71166b5fc62927d5f0ec5",
+      "bytes": 34633
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-045.txt",
+      "sha256": "035f6dbeef0c67a49527ca2159076f169b6d8f554f38bda1f78da0b8cabd8aa5",
+      "bytes": 34248
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-046.txt",
+      "sha256": "5be298ceb11ce2101dba1e05eecd6b0da1fae0b74760ece887b2cf1ffe77faf0",
+      "bytes": 34240
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-047.txt",
+      "sha256": "2040fe835e84d231718be6ddf746aee2a716981684492b9356f46d220875bd24",
+      "bytes": 34827
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-048.txt",
+      "sha256": "44f40bf13e9737727914f8fed6ff4bc249f2da2a1175673c8684cc138192bdce",
+      "bytes": 34159
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-049.txt",
+      "sha256": "13fe878d59f6a0584a16cf8c28e62fc5842e21239e98e01d1f0c177ce66d0c2b",
+      "bytes": 29288
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-050.txt",
+      "sha256": "cfd81781bc1243d831e9b4fd0df6963ce9a8e79d0f2ff8f301c8d4aa36a71f68",
+      "bytes": 31299
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-051.txt",
+      "sha256": "87c25e4d1602da387c762192aa38aeb924d5657f49801b97a03b87c9bc3e057e",
+      "bytes": 33489
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-052.txt",
+      "sha256": "25403af9e457c0df0aa221126f7b7e5d195f87aafcd443398abef62e957bbd90",
+      "bytes": 32508
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-read-v1/read-053.txt",
+      "sha256": "4a2b201d1e8b46630420368faa1934a27eecc1aec4fa70ae56e5475bd581bfeb",
+      "bytes": 12874
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full-reading-chunks.jsonl",
+      "sha256": "a0d03edee8daf101e1d8d147127418aa9a5cac04fb2ce6aac08483d767f080ab",
+      "bytes": 44181
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/full_reader.py",
+      "sha256": "37b79a8afaacc6679ccd43a9389bd56c92aef25d717a92e6b8b4c6091acac516",
+      "bytes": 5699
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/metadata-corrections.jsonl",
+      "sha256": "7673ed16fde55acde8eaa9ae91449d181e6777242027d66eacffa5752c89f419",
+      "bytes": 428
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/native-audit-output.txt",
+      "sha256": "4afdb3632c848ba352ef729f659e2911399f6163c9d13fb8b9ab5bcc537978be",
+      "bytes": 947
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/reader.py",
+      "sha256": "2f4b28a1424c873cbda5e4aed1093bb782a9b95e91b2ed73c0ba1f6955c09fcc",
+      "bytes": 3031
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/theme-glossary.md",
+      "sha256": "0b0a740d1c0473fe2917d36f8023ee6599f5d8ba1580fd0372d142546a628198",
+      "bytes": 3800
+    },
+    {
+      "file": "scratchpad/reddit-augdec-03/triage-reading-ledger.jsonl",
+      "sha256": "ab8836074eda66ac6c96aa9cd89569d6d44d3fdbfd4be92f0c5ffc322a2ba37c",
+      "bytes": 27823
+    },
+    {
+      "file": "sources/reddit-augdec-03-auxiliary-read.jsonl",
+      "sha256": "2e3d2ec9023d403fabeb141f4f2b7ed4061c9d6d3fe529ba5b1ed643febdda61",
+      "bytes": 6896
+    },
+    {
+      "file": "sources/reddit-augdec-03-reading.jsonl",
+      "sha256": "d50fba709e213ac44c9d9be5144e0e35ec0036ebb6991997e3a78ae26b395df1",
+      "bytes": 625811
+    },
+    {
+      "file": "sources/reddit-augdec-03-verification.json",
+      "sha256": "d1323608c20a19bbd9bc30da86b2985a52e1b1db70b92856ef5c1171d468104a",
+      "bytes": 972
+    },
+    {
+      "file": "sources/reddit-augdec-03.md",
+      "sha256": "aacade1c0775d6bab49cc9506814eb2054bda3f928b04aff0e4028bae9945a5a",
+      "bytes": 8839
+    },
+    {
+      "file": "synthesis/reader-notes-reddit-augdec-03.md",
+      "sha256": "675544a1cd2738261ca266626d88033b6f62a1cc7d604cfde8acfa49b6a8b19e",
+      "bytes": 9396
+    },
+    {
+      "file": "voice/reddit-augdec-03.jsonl",
+      "sha256": "238753a57e71defb577f4ff10e18633e36004d3879b0a2e6d7b29d672671c47b",
+      "bytes": 218665
+    }
+  ]
+}

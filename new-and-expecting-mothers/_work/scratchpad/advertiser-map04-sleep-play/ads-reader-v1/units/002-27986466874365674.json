@@ -1,0 +1,38 @@
+{
+  "ad_id": "27986466874365674",
+  "advertiser": "Huckleberry",
+  "page_id": "120943168474518",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/002-huckleberry-page.json",
+  "capture_sha256": "760e51d7505f6124143e9e4d6f1722142030f237b679ea8871becc64a72e3fb8",
+  "native_pointer": "connections[0].edges[2].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=120943168474518",
+  "captured_at": "2026-10-24T21:45:50.164Z",
+  "is_active": true,
+  "start_utc": "2026-10-02T07:00:00+00:00",
+  "display_format": "IMAGE",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=27986466874365674",
+  "snapshot_sha256": "c5efa8b7ada07ff8d7a65bc0ff9982964632ddb10afaf1c3abf46e30e6f3e81f",
+  "text_fields": {
+    "body": {
+      "text": "The secret to better infant naps? Timing. Huckleberry's SweetSpot notifies you of the ideal time to put your baby down based on their age and unique patterns."
+    },
+    "title": "Tap to Get Naps!",
+    "caption": "apps.apple.com",
+    "link_description": null,
+    "link_url": "http://itunes.apple.com/app/id1169136078",
+    "cta_text": "Install now",
+    "cta_type": "INSTALL_MOBILE_APP",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "1d9422908dd14b6ce696f592bc10c4f6ead0ec53545fe6ca03b55e3ba60e0742",
+  "media_seen": false,
+  "image_count": 1,
+  "video_count": 0,
+  "cards_count": 0
+}

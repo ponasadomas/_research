@@ -1,0 +1,38 @@
+{
+  "ad_id": "1804107287225177",
+  "advertiser": "Napper",
+  "page_id": "100208041597677",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/020-napper-page.json",
+  "capture_sha256": "3f6886f7ea4051f1ad3adbc0f17a258dea8e360603fb788374b4a744a32925b8",
+  "native_pointer": "connections[0].edges[19].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=100208041597677",
+  "captured_at": "2026-10-24T21:50:21.141Z",
+  "is_active": true,
+  "start_utc": "2026-07-17T07:00:00+00:00",
+  "display_format": "VIDEO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1804107287225177",
+  "snapshot_sha256": "bc2de3bddaa8cc1434adf8a20018fda0d978f80d1d79026956e62118a5dcd766",
+  "text_fields": {
+    "body": {
+      "text": "🌸 Únete a millones de papás que encuentran paz en el sueño de su bebé con Napper\n\n ➡️ Descarga la aplicación ahora"
+    },
+    "title": "¡Empieza a usar Napper hoy! 👋",
+    "caption": "itunes.apple.com",
+    "link_description": null,
+    "link_url": "http://itunes.apple.com/app/id1491340863",
+    "cta_text": "Install now",
+    "cta_type": "INSTALL_MOBILE_APP",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "ebf2a4e3b79f1643ff9d1728584f6d9f361416bdbf9e405889e1d00ddd1eb510",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 1,
+  "cards_count": 0
+}

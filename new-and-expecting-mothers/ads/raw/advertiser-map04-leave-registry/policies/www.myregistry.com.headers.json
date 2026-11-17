@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:45:33 GMT",
+    "Content-Type": "text/plain",
+    "Content-Length": "240",
+    "Connection": "keep-alive",
+    "Access-Control-Expose-Headers": "Request-Context",
+    "Content-Encoding": "gzip",
+    "ETag": "\"98e166a66a62dd1:0\"",
+    "Last-Modified": "Thu, 22 Oct 2026 21:16:48 GMT",
+    "Set-Cookie": "ARRAffinity=16d4f14a4e0144dd9c1e6857fec0f8a8cca3b8d3ad08369455a1bbfee6885e95;Path=/;HttpOnly;Secure;Domain=www.myregistry.com, ARRAffinitySameSite=16d4f14a4e0144dd9c1e6857fec0f8a8cca3b8d3ad08369455a1bbfee6885e95;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.myregistry.com",
+    "Vary": "Accept-Encoding",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+    "Request-Context": "appId=cid-v1:94e56466-910b-4bde-9115-ae49aafccb10",
+    "X-Content-Type-Options": "nosniff",
+    "x-azure-ref": "20261024T214532Z-r19b5bb8d9bclqc5hC1WAWc990000000038g00000000h7my",
+    "X-Cache": "CONFIG_NOCACHE",
+    "Accept-Ranges": "bytes"
+  },
+  "redirects": []
+}

@@ -1,0 +1,14 @@
+{
+  "file": "voice/forums-deep-01.jsonl",
+  "quotes": 11,
+  "failed": 0,
+  "max_quote_words": 23,
+  "author_aggregate_word_max": 23,
+  "checks": [
+    "exact post-body substring",
+    "normalized raw HTML text match",
+    "<=25words perpost",
+    "<=25words aggregate perauthor in thiswave",
+    "complete retained thread read"
+  ]
+}

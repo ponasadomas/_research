@@ -1,0 +1,33 @@
+{
+  "slug": "solidstarts-app",
+  "url": "https://solidstarts.com/app/",
+  "robots_status": 200,
+  "robots_allowed": true,
+  "robots_file": "_raw/advertiser-map04-food-safety/robots/solidstarts.com.txt",
+  "raw_file": "_raw/advertiser-map04-food-safety/pages/solidstarts-app.html",
+  "text_file": "_raw/advertiser-map04-food-safety/pages/solidstarts-app.txt",
+  "sha256": "5ff2ff1a10891894a4a7f0379faefaa4f5a5add03d1da91dd64aaa0e9ce5f00a",
+  "bytes": 322471,
+  "utc": "2026-10-24T21:46:31.018192+00:00",
+  "status": 200,
+  "final_url": "https://solidstarts.com/app/",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:46:30 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "Cache-Control": "private, no-cache, no-store, max-age=0, must-revalidate",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=jcxd04gvIjEEY%2BIL45HcxqQtYHIGOHs%2B%2Fi98AKqDvLC3L0J1PVhx6Tarox10p9b1kxNd%2BWGcZgtApATERUjoQDjKjYGks7VmWxyADKsPUx%2F4dZlwbhb3nWzQxdh5yz2HkA%3D%3D\"}]}",
+    "link": "<https://img.solidstarts.com/_next/static/media/Sofia_Pro_Black-s.p.1tv9zbwk9wsmx.otf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/otf\", <https://img.solidstarts.com/_next/static/media/Sofia_Pro_Bold-s.p.11zt-d_mgad3y.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", <https://img.solidstarts.com/_next/static/media/Sofia_Pro_Regular-s.p.0y15ju79ma-ce.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </images/logo.svg>; rel=preload; as=\"image\", <https://img.solidstarts.com/_next/static/chunks/20r6mxz9h88vi.css>; rel=preload; as=\"style\", <https://img.solidstarts.com/_next/static/chunks/0k2qaxijyy-g3.css>; rel=preload; as=\"style\", <https://img.solidstarts.com/_next/static/chunks/289ne-v_jca52.css>; rel=preload; as=\"style\"",
+    "Server": "cloudflare",
+    "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+    "x-middleware-rewrite": "/en-US/app/",
+    "x-powered-by": "Next.js",
+    "x-railway-request-id": "uwICz1h7StaxioIAs_GTAg",
+    "x-railway-edge": "waw1",
+    "x-hikari-trace": "waw1.j60f",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "CF-RAY": "a4fc2cb6fbdf719d-RIX"
+  }
+}

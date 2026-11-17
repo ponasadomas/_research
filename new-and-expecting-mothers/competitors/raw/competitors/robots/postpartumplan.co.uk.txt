@@ -1,0 +1,9 @@
+SOURCE: https://postpartumplan.co.uk/robots.txt
+HTTP: 200
+ERROR: 
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://postpartumplan.co.uk/sitemap.xml

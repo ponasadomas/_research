@@ -1,0 +1,116 @@
+[
+  {
+    "file": "_raw/advertiser-census-wave04-2026-10-25/queries/007-village-page.json",
+    "sha256": "accbb3ba0c4f66e4a513dbb92ba31ea30c1498cf5866620783911e9e489f9cbd",
+    "query": "The Village Parent Community",
+    "expected_page_id": "104277479266731",
+    "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=104277479266731",
+    "captured_at": "2026-10-24T21:46:41.845Z",
+    "connections": [
+      {
+        "count": 0,
+        "edge_count": 0,
+        "page_info": {
+          "end_cursor": "",
+          "has_next_page": false
+        }
+      }
+    ],
+    "ad_ids": []
+  },
+  {
+    "file": "_raw/advertiser-census-wave04-2026-10-25/queries/032-kids-eat-color-page.json",
+    "sha256": "5b1e550ec6d4cc98ed61953718105ff242901b9f267107f523603ea2a5c09bec",
+    "query": "Kids Eat in Color",
+    "expected_page_id": "1883693531911455",
+    "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=1883693531911455",
+    "captured_at": "2026-10-24T21:53:41.855Z",
+    "connections": [
+      {
+        "count": 0,
+        "edge_count": 0,
+        "page_info": {
+          "end_cursor": "",
+          "has_next_page": false
+        }
+      }
+    ],
+    "ad_ids": []
+  },
+  {
+    "file": "_raw/advertiser-census-wave04-2026-10-25/queries/034b-little-lunches-page.json",
+    "sha256": "d583d835d106565484c6c7fcbfd41e70285729f7350df28babf100d0ed8d3fc4",
+    "query": "Little Lunches",
+    "expected_page_id": "125076404980461",
+    "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=125076404980461",
+    "captured_at": "2026-10-24T21:55:07.438Z",
+    "connections": [
+      {
+        "count": 0,
+        "edge_count": 0,
+        "page_info": {
+          "end_cursor": "",
+          "has_next_page": false
+        }
+      }
+    ],
+    "ad_ids": []
+  },
+  {
+    "file": "_raw/advertiser-census-wave04-2026-10-25/queries/035-blw-meals-page.json",
+    "sha256": "e3c867fbef45740186b93fe311387c82525ec8f5fb3cbb50c66a957b1c66bb6d",
+    "query": "BLW Meals",
+    "expected_page_id": "101395885189650",
+    "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=101395885189650",
+    "captured_at": "2026-10-24T21:54:04.473Z",
+    "connections": [
+      {
+        "count": 0,
+        "edge_count": 0,
+        "page_info": {
+          "end_cursor": "",
+          "has_next_page": false
+        }
+      }
+    ],
+    "ad_ids": []
+  },
+  {
+    "file": "_raw/advertiser-census-wave04-2026-10-25/queries/037b-101beforeone-page.json",
+    "sha256": "138d62868cd4fe019190d383e5b688057545d07a4cd6dd1facf371148d821351",
+    "query": "101beforeone",
+    "expected_page_id": "100989669032740",
+    "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=100989669032740",
+    "captured_at": "2026-10-24T21:56:52.370Z",
+    "connections": [
+      {
+        "count": 0,
+        "edge_count": 0,
+        "page_info": {
+          "end_cursor": "",
+          "has_next_page": false
+        }
+      }
+    ],
+    "ad_ids": []
+  },
+  {
+    "file": "_raw/advertiser-census-wave04-2026-10-25/queries/038-safe-beginnings-page.json",
+    "sha256": "6ff4a28c4229ccae32754f27e17a9770c3d33f4d4ca5f949f3b13a368f15a59b",
+    "query": "Safe Beginnings",
+    "expected_page_id": "1501073320132721",
+    "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=1501073320132721",
+    "captured_at": "2026-10-24T21:55:25.256Z",
+    "connections": [
+      {
+        "count": 0,
+        "edge_count": 0,
+        "page_info": {
+          "end_cursor": "",
+          "has_next_page": false
+        }
+      }
+    ],
+    "ad_ids": []
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "ad_id": "1695834831642412",
+  "advertiser": "Kinedu",
+  "page_id": "443378469063877",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/004-kinedu-english-page.json",
+  "capture_sha256": "27428c29add8bef39a61c3f3ad4fe314e3d8aedc024262f3f85921ea78b70ad4",
+  "native_pointer": "connections[0].edges[7].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=443378469063877",
+  "captured_at": "2026-10-24T21:46:24.774Z",
+  "is_active": true,
+  "start_utc": "2026-07-27T07:00:00+00:00",
+  "display_format": "VIDEO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1695834831642412",
+  "snapshot_sha256": "869a0fe2f9a3a1ad9ebbc91e292c0d25149fe35b6bc34a5266e4f95b8a93e60f",
+  "text_fields": {
+    "body": {
+      "text": "Wondering which activities will strengthen your baby's skills? 🤔👶🏻 Discover 1,800+ activities tailored to your baby’s age, milestones, and developmental needs."
+    },
+    "title": "The App Recommended by Pediatricians 👶 👨🏻‍⚕️",
+    "caption": "play.google.com",
+    "link_description": null,
+    "link_url": "http://play.google.com/store/apps/details?id=com.kinedu.appkinedu",
+    "cta_text": "Install now",
+    "cta_type": "INSTALL_MOBILE_APP",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "3724d5a9be96f7adb46ef233ec89927984cd4c91c461582ef0cb6580e0b98ad5",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 1,
+  "cards_count": 0
+}

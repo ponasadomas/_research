@@ -1,0 +1,657 @@
+[
+  {
+    "name": "MyMatLeave",
+    "topic": "leave/pay planning",
+    "buyer": "California employee/parent",
+    "offer_type": "Human-reviewed personalized PDF with optional calls/coaching",
+    "advertised_price": "$249 Plan; $449 Guided; $995 Concierge; coaching custom",
+    "currency_as_stated": "$ symbol only; code absent",
+    "primary_urls": [
+      "https://mymatleave.com/"
+    ],
+    "raw_files": [
+      "_raw/competitors/my-mat-leave--rendered.txt",
+      "_raw/advertiser-map04-leave-registry/pages/mymatleave.html"
+    ],
+    "offer_observed_date": "2026-10-24",
+    "official_facebook_url": null,
+    "candidate_numeric_page_id": null,
+    "facebook_identity_status": "unknown",
+    "current_ads_status": "Root Chrome proof required; no current-active assertion by this reader",
+    "accepted_price_or_sales_verified": false,
+    "notes": "12-page PDF within72h, employer/benefits/due-date inputs, base clarification email. Fresh shell is not a refreshed rendered offer. Footer names Bespoke HR Partners; identity search clue, not confirmed Page."
+  },
+  {
+    "name": "Master Maternity Leave",
+    "topic": "leave/pay planning + business return",
+    "buyer": "Self-employed mother/business owner",
+    "offer_type": "Personal business audit and customized plan + course/community/weekly coaching",
+    "advertised_price": "USD997 once or 3×USD347 (computed total USD1041); private coaching custom",
+    "currency_as_stated": "USD",
+    "primary_urls": [
+      "https://mastermaternityleave.com/blueprint/",
+      "https://mastermaternityleave.com/services/"
+    ],
+    "raw_files": [
+      "_raw/advertiser-map04-leave-registry/pages/master-blueprint.txt",
+      "_raw/advertiser-map04-leave-registry/pages/master-services.txt",
+      "_raw/advertiser-map04-leave-registry/pages/mastermaternity.html"
+    ],
+    "offer_observed_date": "2026-10-25",
+    "official_facebook_url": "https://www.facebook.com/p/Master-Maternity-Leave-100085875948221/",
+    "candidate_numeric_page_id": "106151438925030",
+    "facebook_identity_status": "Root live Chrome verified Library Page; exact source metadata/URL checked locally, ad bodies not counted read here",
+    "current_ads_status": "Fresh root-reported native count with exact source attached; no ad-body, spend or outcome assessment by this reader",
+    "accepted_price_or_sales_verified": false,
+    "notes": "Conditional refund claim; funding/client retention/sales testimonials unverified. Free assessment, no intake submitted.",
+    "official_linked_profile_id": "100085875948221",
+    "root_reported_active_library_results": 3,
+    "root_reported_library_observation_date": "2026-10-25",
+    "library_provenance": "Root native Chrome search-count handoff; own local inspection limited to Page identity metadata/URL, not ad-body reading",
+    "root_library_raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/022-master-maternity-page.json",
+    "root_library_raw_sha256": "fb544e1ed46d5f4bde05a4496eb7028b4d2629365a7e41c65cc4739fdc015c48"
+  },
+  {
+    "name": "My Bump Pay",
+    "topic": "leave/pay + return to work",
+    "buyer": "Working mother/expecting parent; speaking buyers separate",
+    "offer_type": "Book/content, promoted live masterclasses and community",
+    "advertised_price": "No current price or dated enrollment offer shown",
+    "currency_as_stated": "Unstated",
+    "primary_urls": [
+      "https://mybumppay.com/"
+    ],
+    "raw_files": [
+      "_raw/advertiser-map04-leave-registry/pages/mybumppay.txt"
+    ],
+    "offer_observed_date": "2026-10-25",
+    "official_facebook_url": null,
+    "candidate_numeric_page_id": "1041191869395048",
+    "facebook_identity_status": "Root live Chrome verified Library Page; exact source metadata/URL checked locally, ad bodies not counted read here",
+    "current_ads_status": "Fresh root-reported native count with exact source attached; no ad-body, spend or outcome assessment by this reader",
+    "accepted_price_or_sales_verified": false,
+    "notes": "No personalized pay-plan/calculator established. Homepage has undated book-release and COVID-era article copy; current purchase availability/pricing unresolved.",
+    "root_reported_active_library_results": 0,
+    "root_reported_library_observation_date": "2026-10-25",
+    "root_library_raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/028-my-bump-pay-page.json",
+    "root_library_raw_sha256": "51552a14e654ff75d3378538a786774d2ece709cd354f0936c9fa26751456b43",
+    "library_provenance": "Root native Chrome search-count handoff; own local inspection limited to Page identity metadata/URL, not ad-body reading"
+  },
+  {
+    "name": "Nugget Savings",
+    "topic": "UK leave/pay + return to work",
+    "buyer": "UK parent/future parent",
+    "offer_type": "Spreadsheet/planners, annual education/community/call membership",
+    "advertised_price": "£14.99 planner; £29.99/year membership billed annually; Return to Work with Confidence class £24.99",
+    "currency_as_stated": "£ displayed; UK service context",
+    "primary_urls": [
+      "https://www.nuggetsavings.com/",
+      "https://www.nuggetsavings.com/membership-2"
+    ],
+    "raw_files": [
+      "_raw/advertiser-map04-leave-registry/pages/nugget.txt",
+      "_raw/advertiser-map04-leave-registry/pages/nugget-membership.txt"
+    ],
+    "offer_observed_date": "2026-10-25",
+    "official_facebook_url": null,
+    "candidate_numeric_page_id": "681765001686370",
+    "facebook_identity_status": "Root live Chrome verified Library Page; exact source metadata/URL checked locally, ad bodies not counted read here",
+    "current_ads_status": "Fresh root-reported native count with exact source attached; no ad-body, spend or outcome assessment by this reader",
+    "accepted_price_or_sales_verified": false,
+    "notes": "Planner helps plan around known leave-pay amount, explicitly does not calculate that entitlement. Membership includes 1:1 calls, masterclasses/templates. No official Facebook link in these captures.",
+    "root_reported_active_library_results": 4,
+    "root_reported_library_observation_date": "2026-10-25",
+    "root_library_raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/029-nugget-savings-page.json",
+    "root_library_raw_sha256": "4c186c0cbce53010b30dd3329840db662aa7118de6925f8318d9d8a404827271",
+    "library_provenance": "Root native Chrome search-count handoff; own local inspection limited to Page identity metadata/URL, not ad-body reading"
+  },
+  {
+    "name": "Mindful Return",
+    "topic": "return-to-work coordination",
+    "buyer": "Self-paying parent OR employer benefit buyer",
+    "offer_type": "4-week,20-lesson online cohort, moderated community and alumni calls",
+    "advertised_price": "US$499 per person",
+    "currency_as_stated": "FAQ explicitly $499 US",
+    "primary_urls": [
+      "https://www.mindfulreturn.com/e-course/"
+    ],
+    "raw_files": [
+      "_raw/advertiser-map04-leave-registry/pages/mindful-course.txt"
+    ],
+    "offer_observed_date": "2026-10-25",
+    "official_facebook_url": "https://www.facebook.com/mindfulreturn",
+    "candidate_numeric_page_id": "535704306531725",
+    "facebook_identity_status": "Root live Chrome verified Library Page; exact source metadata/URL checked locally, ad bodies not counted read here",
+    "current_ads_status": "Fresh root-reported native count with exact source attached; no ad-body, spend or outcome assessment by this reader",
+    "accepted_price_or_sales_verified": false,
+    "notes": "Global cohort Nov2–27,2026, later2027 sessions. Free guide and hardship scholarships; country courses differ. Employer sponsorship does not establish consumer sales.",
+    "root_reported_active_library_results": 0,
+    "root_reported_library_observation_date": "2026-10-25",
+    "library_provenance": "Root native Chrome search-count handoff; own local inspection limited to Page identity metadata/URL, not ad-body reading",
+    "root_library_raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/027-mindful-return-page.json",
+    "root_library_raw_sha256": "cbdcb2f06d137d09ba98ce7d1e62522189844ac09b9e2a5da01a5d210d9e51c5"
+  },
+  {
+    "name": "Parentaly",
+    "topic": "return-to-work coordination",
+    "buyer": "Employer buyer; employees receive sponsored benefit",
+    "offer_type": "Up to9 career-coaching sessions + coverage/communication/re-onboarding toolkit",
+    "advertised_price": "Employer quote/fee undisclosed; registered employee program says100% employer covered",
+    "currency_as_stated": "Unstated",
+    "primary_urls": [
+      "https://www.parentaly.com/",
+      "https://www.parentaly.com/join/coaching-program/parentaly-coaching-program"
+    ],
+    "raw_files": [
+      "_raw/advertiser-map04-leave-registry/pages/parentaly.txt",
+      "_raw/advertiser-map04-leave-registry/pages/parentaly-coaching.txt"
+    ],
+    "offer_observed_date": "2026-10-25",
+    "official_facebook_url": null,
+    "candidate_numeric_page_id": null,
+    "facebook_identity_status": "unknown",
+    "current_ads_status": "Root Chrome proof required; no current-active assertion by this reader",
+    "accepted_price_or_sales_verified": false,
+    "notes": "Primary B2B benefit, not an employee report purchase. Parent and manager programs; source outcomes/statistics/testimonials are seller claims."
+  },
+  {
+    "name": "Cocoon",
+    "topic": "leave/pay administration",
+    "buyer": "Employer/benefit organization",
+    "offer_type": "Leave-management software, compliance/claims guidance, pay calculations/support",
+    "advertised_price": "Annual per employee fee + one-time implementation; amount undisclosed",
+    "currency_as_stated": "Unstated",
+    "primary_urls": [
+      "https://www.cocoon.com/go/pricing"
+    ],
+    "raw_files": [
+      "_raw/advertiser-map04-leave-registry/pages/cocoon-pricing.txt"
+    ],
+    "offer_observed_date": "2026-10-25",
+    "official_facebook_url": null,
+    "candidate_numeric_page_id": null,
+    "facebook_identity_status": "unknown",
+    "current_ads_status": "Root Chrome proof required; no current-active assertion by this reader",
+    "accepted_price_or_sales_verified": false,
+    "notes": "Core/Complete bundles; current banner says part of TriNet. Claimed average employer savings is not a price or validated ROI."
+  },
+  {
+    "name": "Sparrow",
+    "topic": "leave/pay administration",
+    "buyer": "Employer buyer; employee access requires implemented employer",
+    "offer_type": "TPA + software + personalized leave/payroll plan + specialist",
+    "advertised_price": "Custom proposal after sales consultation",
+    "currency_as_stated": "Unstated",
+    "primary_urls": [
+      "https://sparrow.com/faq/"
+    ],
+    "raw_files": [
+      "_raw/advertiser-map04-leave-registry/pages/sparrow-faq.txt"
+    ],
+    "offer_observed_date": "2026-10-25",
+    "official_facebook_url": "https://www.facebook.com/sparrowinc/",
+    "candidate_numeric_page_id": null,
+    "facebook_identity_status": "Official-site slug; numeric Page ID unresolved",
+    "current_ads_status": "Root Chrome proof required; no current-active assertion by this reader",
+    "accepted_price_or_sales_verified": false,
+    "notes": "Employer procurement, US/Canada leave administration; not direct consumer report sales."
+  },
+  {
+    "name": "Tilt",
+    "topic": "leave/pay administration",
+    "buyer": "Employer/HR/benefits buyer",
+    "offer_type": "Leave software plus optional specialist support",
+    "advertised_price": "Primary pricing blocked403; index displays $2.50/$3.50 PEPM + add-ons/minimum, unverified",
+    "currency_as_stated": "Indexed $ only; code unresolved",
+    "primary_urls": [
+      "https://hellotilt.com/pricing/"
+    ],
+    "raw_files": [
+      "_raw/advertiser-map04-leave-registry/pages/tilt-pricing.html",
+      "_raw/advertiser-map04-leave-registry/search-01.json"
+    ],
+    "offer_observed_date": "2026-10-25",
+    "official_facebook_url": null,
+    "candidate_numeric_page_id": null,
+    "facebook_identity_status": "unknown",
+    "current_ads_status": "Root Chrome proof required; no current-active assertion by this reader",
+    "accepted_price_or_sales_verified": false,
+    "notes": "Index-only commercial lead for price, no original full-read or current-price claim. Access denial respected. Never compare PEPM to parent-report fees."
+  },
+  {
+    "name": "The Starter Set",
+    "topic": "registry/gear decisions",
+    "buyer": "Expecting parent",
+    "offer_type": "Free tailored picks; paid guide call + built registry + email support",
+    "advertised_price": "Free picks; Picks Plus $100 once, no subscription",
+    "currency_as_stated": "$ symbol; code absent",
+    "primary_urls": [
+      "https://www.thestarterset.com/"
+    ],
+    "raw_files": [
+      "_raw/advertiser-map04-leave-registry/pages/starterset.txt"
+    ],
+    "offer_observed_date": "2026-10-25",
+    "official_facebook_url": null,
+    "candidate_numeric_page_id": "459563170566107",
+    "facebook_identity_status": "Root live Chrome verified Library Page; exact source metadata/URL checked locally, ad bodies not counted read here",
+    "current_ads_status": "Fresh root-reported native count with exact source attached; no ad-body, spend or outcome assessment by this reader",
+    "accepted_price_or_sales_verified": false,
+    "notes": "Three picks across80 common items; $100 tier includes1-hour call and30 days email. Historical Oct24 library-ad leads exist; root owns fresh Page/active proof.",
+    "root_reported_active_library_results": 2,
+    "root_reported_library_observation_date": "2026-10-25",
+    "library_provenance": "Root native Chrome search-count handoff; own local inspection limited to Page identity metadata/URL, not ad-body reading",
+    "root_library_raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/023-starter-set-page.json",
+    "root_library_raw_sha256": "15de2a2a39074802f3b190db66946bd640e91ace90bee911e402e189c432e4c0"
+  },
+  {
+    "name": "Safe in the Seat",
+    "topic": "registry/gear decisions",
+    "buyer": "Parent/car-seat caregiver",
+    "offer_type": "Free finder + digital courses/guides + email/photo/video expert help",
+    "advertised_price": "Email question $29.99;45min video $149; course store USD39/99/179. Main comparison card bare27.00, not currency verified.",
+    "currency_as_stated": "Consult page $ only; older course catalog explicitly USD",
+    "primary_urls": [
+      "https://www.safeintheseat.com/consults",
+      "https://courses.safeintheseat.com/store",
+      "https://www.safeintheseat.com/"
+    ],
+    "raw_files": [
+      "_raw/advertiser-map04-leave-registry/pages/sits-consults.txt",
+      "_raw/advertiser-map04-leave-registry/pages/sits-course-store.txt",
+      "_raw/advertiser-map04-leave-registry/pages/safeintheseat.txt"
+    ],
+    "offer_observed_date": "2026-10-25",
+    "official_facebook_url": "https://www.facebook.com/safeintheseat",
+    "candidate_numeric_page_id": "154167085222883",
+    "facebook_identity_status": "Root live Chrome verified Library Page; exact source metadata/URL checked locally, ad bodies not counted read here",
+    "current_ads_status": "Fresh root-reported native count with exact source attached; no ad-body, spend or outcome assessment by this reader",
+    "accepted_price_or_sales_verified": false,
+    "notes": "Video includes1 free month of support; email response promised within24h. Affiliate commissions disclosed. No credential/safety accuracy verified; protected Shopify shop not requested.",
+    "root_reported_active_library_results": 0,
+    "root_reported_library_observation_date": "2026-10-25",
+    "library_provenance": "Root native Chrome search-count handoff; own local inspection limited to Page identity metadata/URL, not ad-body reading",
+    "root_library_raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/026-safe-in-seat-page.json",
+    "root_library_raw_sha256": "041c87ead0d2770c9553e911360eac86739b09f2841847a2e9166492c74d6716"
+  },
+  {
+    "name": "Babylist",
+    "topic": "registry/gear decisions",
+    "buyer": "Parents/gift buyers; commerce/media/health partners distinct",
+    "offer_type": "Universal registry/checklist + gear store + guides",
+    "advertised_price": "Free registry/help advertised in prior official app source; goods priced separately",
+    "currency_as_stated": "Per-item prices; report fee N/A",
+    "primary_urls": [
+      "https://www.babylist.com/",
+      "https://play.google.com/store/apps/details?hl=en_US&id=st.babyli.babylist"
+    ],
+    "raw_files": [
+      "_raw/advertiser-map04-leave-registry/pages/babylist.txt",
+      "_raw/competitors/babylist-googleplay.txt"
+    ],
+    "offer_observed_date": "2026-10-25",
+    "official_facebook_url": "https://www.facebook.com/babylist",
+    "candidate_numeric_page_id": "186268468076113",
+    "facebook_identity_status": "Root live Chrome verified Library Page; exact source metadata/URL checked locally, ad bodies not counted read here",
+    "current_ads_status": "Fresh root-reported native count with exact source attached; no ad-body, spend or outcome assessment by this reader",
+    "accepted_price_or_sales_verified": false,
+    "notes": "Large commerce/platform comparator. Home includes shop, insurance-billed breast-pump service and financial tools; no paid report asserted. Free1:1 consultants are Oct24 app-offer evidence, not newly tested.",
+    "root_reported_active_library_results": 534,
+    "root_reported_library_observation_date": "2026-10-25",
+    "library_provenance": "Root native Chrome search-count handoff; own local inspection limited to Page identity metadata/URL, not ad-body reading",
+    "root_library_raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/025-babylist-page.json",
+    "root_library_raw_sha256": "dde70e8c18f3207f84afe706c6f2755c427dfe16d758878c6a2e475652c6807b"
+  },
+  {
+    "name": "MyRegistry",
+    "topic": "registry/gear decisions",
+    "buyer": "Registry creators, gift givers and retail/business partners",
+    "offer_type": "Free universal registry; cash-fund transaction services/business platform",
+    "advertised_price": "Registry free; cash handling fees USD3.95–6.95 by stated gift band",
+    "currency_as_stated": "USD explicit for handling table",
+    "primary_urls": [
+      "https://www.myregistry.com/",
+      "https://www.myregistry.com/Info/CashGifts.aspx"
+    ],
+    "raw_files": [
+      "_raw/advertiser-map04-leave-registry/pages/myregistry.txt",
+      "_raw/advertiser-map04-leave-registry/pages/myregistry-cash.txt"
+    ],
+    "offer_observed_date": "2026-10-25",
+    "official_facebook_url": "https://www.facebook.com/myregistryllc",
+    "candidate_numeric_page_id": null,
+    "facebook_identity_status": "Official-site slug; numeric Page ID unresolved",
+    "current_ads_status": "Root Chrome proof required; no current-active assertion by this reader",
+    "accepted_price_or_sales_verified": false,
+    "notes": "Fee table concerns moving cash, not advice or report. Separate processor-fee claims not independently validated. Do not infer take rate or revenue from gift counter."
+  },
+  {
+    "name": "GoodBuy Gear",
+    "topic": "registry/gear commerce",
+    "buyer": "Parents/gift buyers; brand-resale partners",
+    "offer_type": "Open-box/used baby gear retailer",
+    "advertised_price": "Item-specific merchandise prices; no planning/report fee identified",
+    "currency_as_stated": "$ displayed; currency code not verified",
+    "primary_urls": [
+      "https://goodbuygear.com/"
+    ],
+    "raw_files": [
+      "_raw/advertiser-map04-leave-registry/pages/goodbuygear.txt"
+    ],
+    "offer_observed_date": "2026-10-25",
+    "official_facebook_url": null,
+    "candidate_numeric_page_id": null,
+    "facebook_identity_status": "unknown",
+    "current_ads_status": "Root Chrome proof required; no current-active assertion by this reader",
+    "accepted_price_or_sales_verified": false,
+    "notes": "Separate large-commerce comparator. Quality/resale/discount claims and product descriptions are unverified, not safety recommendations. No official Facebook link found in captured home."
+  },
+  {
+    "name": "Strolleria",
+    "topic": "registry/gear commerce",
+    "buyer": "Gear shoppers",
+    "offer_type": "Retail storefront; current details uninspected",
+    "advertised_price": "Not verified; no storefront request after agent-policy restriction",
+    "currency_as_stated": "Unknown",
+    "primary_urls": [
+      "https://strolleria.com/agents.md"
+    ],
+    "raw_files": [
+      "_raw/advertiser-map04-leave-registry/policies/strolleria-agents.txt"
+    ],
+    "offer_observed_date": "2026-10-25",
+    "official_facebook_url": null,
+    "candidate_numeric_page_id": null,
+    "facebook_identity_status": "unknown",
+    "current_ads_status": "Root Chrome proof required; no current-active assertion by this reader",
+    "accepted_price_or_sales_verified": false,
+    "notes": "Commerce category from official store policy, not a newly read current catalog. Web Bot Auth/agent identification unmet; no bypass or account."
+  },
+  {
+    "name": "By Hads",
+    "topic": "registry/gear consulting",
+    "buyer": "Expecting parent",
+    "offer_type": "Audit feedback document + call OR full registry curation",
+    "advertised_price": "$350 audit; $750 curation",
+    "currency_as_stated": "$ only; code absent",
+    "primary_urls": [
+      "https://byhads.com/registry.html"
+    ],
+    "raw_files": [
+      "_raw/report-buyers-wave03/pages/byhads-registry.txt"
+    ],
+    "offer_observed_date": "2026-10-24",
+    "official_facebook_url": null,
+    "candidate_numeric_page_id": null,
+    "facebook_identity_status": "unknown",
+    "current_ads_status": "Root Chrome proof required; no current-active assertion by this reader",
+    "accepted_price_or_sales_verified": false,
+    "notes": "Saved complete offer. Service bundles, no actual buyer established. Facebook identity unresolved."
+  },
+  {
+    "name": "Baby Chick Registry Review",
+    "topic": "registry/gear consulting",
+    "buyer": "Expecting parent",
+    "offer_type": "Questionnaire +60min call + written registry feedback",
+    "advertised_price": "Price absent from saved page",
+    "currency_as_stated": "Unknown",
+    "primary_urls": [
+      "https://www.baby-chick.com/services/registry-review/"
+    ],
+    "raw_files": [
+      "_raw/report-buyers-wave03/pages/baby-chick-registry-review.txt"
+    ],
+    "offer_observed_date": "2026-10-24",
+    "official_facebook_url": "https://www.facebook.com/teambabychick/",
+    "candidate_numeric_page_id": null,
+    "facebook_identity_status": "Official-site slug in frozen HTML; numeric Page ID unresolved",
+    "current_ads_status": "Root Chrome proof required; no current-active assertion by this reader",
+    "accepted_price_or_sales_verified": false,
+    "notes": ""
+  },
+  {
+    "name": "The Baby Planner Registry Review",
+    "topic": "registry/gear consulting",
+    "buyer": "Expecting parent",
+    "offer_type": "45min virtual registry call, recording, product links and written summary",
+    "advertised_price": "Price absent from saved page",
+    "currency_as_stated": "Unknown",
+    "primary_urls": [
+      "https://thebabyplanner.co/baby-registry-review"
+    ],
+    "raw_files": [
+      "_raw/report-buyers-wave03/pages/thebabyplanner-registry-review.txt"
+    ],
+    "offer_observed_date": "2026-10-24",
+    "official_facebook_url": null,
+    "candidate_numeric_page_id": null,
+    "facebook_identity_status": "unknown",
+    "current_ads_status": "Root Chrome proof required; no current-active assertion by this reader",
+    "accepted_price_or_sales_verified": false,
+    "notes": "Saved complete offer and hosted endorsements, no independent payment. Facebook identity unresolved."
+  },
+  {
+    "name": "Stress Less Mom",
+    "topic": "registry/preparation consulting",
+    "buyer": "Expecting/postpartum parent",
+    "offer_type": "Free registry review/pregnancy call; premium concierge",
+    "advertised_price": "Free registry review and planning call; premium fee absent",
+    "currency_as_stated": "Unknown",
+    "primary_urls": [
+      "https://www.stresslessmom.com/"
+    ],
+    "raw_files": [
+      "_raw/offer-followups-wave03/pages/stresslessmom-home.txt"
+    ],
+    "offer_observed_date": "2026-10-24",
+    "official_facebook_url": null,
+    "candidate_numeric_page_id": null,
+    "facebook_identity_status": "unknown",
+    "current_ads_status": "Root Chrome proof required; no current-active assertion by this reader",
+    "accepted_price_or_sales_verified": false,
+    "notes": "Free alternative and practical support, no priced written-report offer. No official Facebook link found in frozen home."
+  },
+  {
+    "name": "The Village Parent Community",
+    "topic": "registry/gear consulting + childproofing",
+    "buyer": "Expecting/mobile-child parent; local home-help buyers separate",
+    "offer_type": "Registry concierge; photo-based written childproofing plan + follow-up",
+    "advertised_price": "Registry fee absent; childproofing $75 room/$149 home",
+    "currency_as_stated": "$ only; code absent",
+    "primary_urls": [
+      "https://thevillageparentcommunity.com/registry-concierge",
+      "https://thevillageparentcommunity.com/virtual-baby-proofing"
+    ],
+    "raw_files": [
+      "_raw/offer-followups-wave03/pages/village-registry.txt",
+      "_raw/offer-followups-wave03/pages/village-babyproofing.txt",
+      "_raw/offer-followups-wave03/pages/village-home.links.json"
+    ],
+    "offer_observed_date": "2026-10-24",
+    "official_facebook_url": "https://www.facebook.com/104277479266731",
+    "candidate_numeric_page_id": "104277479266731",
+    "facebook_identity_status": "Official-site numeric link; root separately reports matching live Page header",
+    "current_ads_status": "Root Chrome proof required; no current-active assertion by this reader",
+    "accepted_price_or_sales_verified": false,
+    "notes": "Current root Chrome zero result belongs to root library ledger. Safety qualifications/inspection/local compliance unresolved; seller says certification in progress.",
+    "root_reported_active_library_results": 0,
+    "root_reported_library_observation_date": "2026-10-25",
+    "library_provenance": "Parent /root live Chrome handoff; native saved source/inventory owned by root and not independently inspected here"
+  },
+  {
+    "name": "Curated to Grow",
+    "topic": "registry/play/feeding consulting",
+    "buyer": "Expecting parent/family; clinical service context",
+    "offer_type": "Self-described OT/parent coaching and individualized lists",
+    "advertised_price": "Service price absent; gift-card denominations not service fees",
+    "currency_as_stated": "Unknown",
+    "primary_urls": [
+      "https://www.curatedtogrow.com/home",
+      "https://www.curatedtogrow.com/copy-of-services"
+    ],
+    "raw_files": [
+      "_raw/offer-followups-wave03/pages/curated-home.txt",
+      "_raw/offer-followups-wave03/pages/curated-home.links.json"
+    ],
+    "offer_observed_date": "2026-10-24",
+    "official_facebook_url": "https://www.facebook.com/curatedtogrow",
+    "candidate_numeric_page_id": null,
+    "facebook_identity_status": "Official-site slug; numeric Page ID unresolved",
+    "current_ads_status": "Root Chrome proof required; no current-active assertion by this reader",
+    "accepted_price_or_sales_verified": false,
+    "notes": "Clinical credentials and output not verified; full hosted testimonials do not establish service fee payment."
+  },
+  {
+    "name": "Nesting Notes Co.",
+    "topic": "registry/preparation consulting",
+    "buyer": "Expecting parent; gift buyer",
+    "offer_type": "Consultations, registry notes and implementation bundles",
+    "advertised_price": "US$300 consults / US$400 custom / US$1500 concierge category starts",
+    "currency_as_stated": "Terms explicitly U.S. dollars",
+    "primary_urls": [
+      "https://www.nestingnotesco.com/services",
+      "https://www.nestingnotesco.com/terms-of-service"
+    ],
+    "raw_files": [
+      "_raw/offer-followups-wave03/pages/nesting-services.txt",
+      "_raw/offer-followups-wave03/pages/nesting-terms.txt",
+      "_raw/offer-followups-wave03/pages/nesting-home.links.json"
+    ],
+    "offer_observed_date": "2026-10-24",
+    "official_facebook_url": "https://www.facebook.com/profile.php?id=61583104473956",
+    "candidate_numeric_page_id": "61583104473956",
+    "facebook_identity_status": "Official linked profile ID only; root reports blank live Page header, canonical advertiser Page unresolved",
+    "current_ads_status": "Root Chrome proof required; no current-active assertion by this reader",
+    "accepted_price_or_sales_verified": false,
+    "notes": "Do not call advertiser absence from unresolved profile query. Written notes bundled with calls/practical support, no buyer receipt."
+  },
+  {
+    "name": "Ohai.ai",
+    "topic": "daily household/caregiver handoff coordination",
+    "buyer": "Self-paying individual or household",
+    "offer_type": "AI scheduler and task/reminder/meal assistant; shared caregiver circles",
+    "advertised_price": "$9.99 Individual / $19.99 Duo / $29.99 Group per month; free trial",
+    "currency_as_stated": "$ only on inspected page; code absent",
+    "primary_urls": [
+      "https://www.ohai.ai/how-it-works/"
+    ],
+    "raw_files": [
+      "_raw/advertiser-map04-leave-registry/pages/ohai-how.txt"
+    ],
+    "official_facebook_url": "https://www.facebook.com/ohaidotai/",
+    "notes": "Calendar/email/PDF/photo inputs become assigned tasks, events, reminders and shared daily summaries. No integrations/accounts tested. Unrelated getohai.com index lead excluded for unverified brand identity.",
+    "offer_observed_date": "2026-10-25",
+    "candidate_numeric_page_id": "119605771104265",
+    "facebook_identity_status": "Root live Chrome verified Library Page; exact source metadata/URL checked locally, ad bodies not counted read here",
+    "current_ads_status": "Fresh root-reported native count with exact source attached; no ad-body, spend or outcome assessment by this reader",
+    "accepted_price_or_sales_verified": false,
+    "root_reported_active_library_results": 11,
+    "root_reported_library_observation_date": "2026-10-25",
+    "root_library_raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/040b-ohai-page.json",
+    "root_library_raw_sha256": "e8f13eeef8b03e7f32868018caad2b637208b47a3727b023e95f9251f8e54266",
+    "library_provenance": "Root native Chrome search-count handoff; own local inspection limited to Page identity metadata/URL, not ad-body reading"
+  },
+  {
+    "name": "Maple",
+    "topic": "daily household/caregiver handoff coordination",
+    "buyer": "Existing household subscribers during wind-down",
+    "offer_type": "Former shared family coordination app, now announced sunset",
+    "advertised_price": "Current fee not shown; annual subscriptions no longer renew, monthly remain active until2026-12-31",
+    "currency_as_stated": "Unstated",
+    "primary_urls": [
+      "https://www.growmaple.com/"
+    ],
+    "raw_files": [
+      "_raw/advertiser-map04-leave-registry/pages/maple.txt"
+    ],
+    "official_facebook_url": null,
+    "notes": "Official page says acquired by Wander and closes on December31,2026; accounts inaccessible and data deleted then. Do not promote old Maple+ price or advertising as continuing-growth evidence.",
+    "offer_observed_date": "2026-10-25",
+    "candidate_numeric_page_id": null,
+    "facebook_identity_status": "No official Facebook identity found on current sunset page",
+    "current_ads_status": "Root Chrome proof required; no current-active assertion by this reader",
+    "accepted_price_or_sales_verified": false
+  },
+  {
+    "name": "FamilyWall",
+    "topic": "daily household/caregiver handoff coordination",
+    "buyer": "Self-paying family/household",
+    "offer_type": "Free shared organizer + Premium calendar sync, meals, budget, documents/location tools",
+    "advertised_price": "Premium $4.99/month; ($44.99 billed annually) displayed;30-day free trial",
+    "currency_as_stated": "$ only on English page; code absent",
+    "primary_urls": [
+      "https://www.familywall.com/premium.html?lang=en"
+    ],
+    "raw_files": [
+      "_raw/advertiser-map04-leave-registry/pages/familywall-premium.txt"
+    ],
+    "official_facebook_url": "https://www.facebook.com/Familywall/",
+    "notes": "Premium features are described in text; full feature matrix icons/CSS are not treated as proof every listed feature is free. Store/geographic prices not checked. Hosted testimonials not independent buyers.",
+    "offer_observed_date": "2026-10-25",
+    "candidate_numeric_page_id": "144291815707408",
+    "facebook_identity_status": "Root live Chrome verified Library Page; exact source metadata/URL checked locally, ad bodies not counted read here",
+    "current_ads_status": "Fresh root-reported native count with exact source attached; no ad-body, spend or outcome assessment by this reader",
+    "accepted_price_or_sales_verified": false,
+    "root_reported_active_library_results": 68,
+    "root_reported_library_observation_date": "2026-10-25",
+    "root_library_raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/042-familywall-page.json",
+    "root_library_raw_sha256": "6c4a261be04d0aee222861ab1127974894b1d1ccb78da394d2dd6e892496dd31",
+    "library_provenance": "Root native Chrome search-count handoff; own local inspection limited to Page identity metadata/URL, not ad-body reading"
+  },
+  {
+    "name": "Cozi",
+    "topic": "daily household/caregiver handoff coordination",
+    "buyer": "Self-paying family/household",
+    "offer_type": "Free calendar/lists + Gold organizer + Max AI event/meal tools",
+    "advertised_price": "Free; Gold $39/year; Max $79/year, whole-family access",
+    "currency_as_stated": "$ only; code absent on inspected page",
+    "primary_urls": [
+      "https://www.cozi.com/compare-plans/"
+    ],
+    "raw_files": [
+      "_raw/advertiser-map04-leave-registry/pages/cozi-plans.txt"
+    ],
+    "official_facebook_url": "https://www.facebook.com/CoziFamily/",
+    "notes": "Gold removes in-app ads and adds calendar/reminder tools. Max adds email→events and AI meal/recipe planning. In-app ad-free tier is distinct from whether Cozi buys Meta ads.",
+    "offer_observed_date": "2026-10-25",
+    "candidate_numeric_page_id": "12326449530",
+    "facebook_identity_status": "Root live Chrome verified Library Page; exact source metadata/URL checked locally, ad bodies not counted read here",
+    "current_ads_status": "Fresh root-reported native count with exact source attached; no ad-body, spend or outcome assessment by this reader",
+    "accepted_price_or_sales_verified": false,
+    "root_reported_active_library_results": 6,
+    "root_reported_library_observation_date": "2026-10-25",
+    "root_library_raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/041-cozi-page.json",
+    "root_library_raw_sha256": "b1a9390a90b61993e0d285a3d44f94a4a606da86326a3c1ec5c2619425d9c662",
+    "library_provenance": "Root native Chrome search-count handoff; own local inspection limited to Page identity metadata/URL, not ad-body reading"
+  },
+  {
+    "name": "Skylight Calendar",
+    "topic": "daily household/caregiver handoff coordination — hardware adjacent",
+    "buyer": "Household buying shared display + optional software subscription",
+    "offer_type": "Calendar2 touchscreen hardware, shared app/calendar/task lists; Plus AI imports/meals/rewards",
+    "advertised_price": "Selected Calendar2 Classic $299.99 once plus first Plus month free, then $79/year; separate Plus $79/year",
+    "currency_as_stated": "$ only on inspected product pages; code absent",
+    "primary_urls": [
+      "https://myskylight.com/",
+      "https://myskylight.com/products/the-skylight-calendar-2-classic-white-with-plus-plan",
+      "https://myskylight.com/products/calendar-skylight-plus"
+    ],
+    "raw_files": [
+      "_raw/advertiser-map04-leave-registry/pages/skylight.txt",
+      "_raw/advertiser-map04-leave-registry/pages/skylight-calendar.txt",
+      "_raw/advertiser-map04-leave-registry/pages/skylight-plus.txt"
+    ],
+    "official_facebook_url": "https://facebook.com/ourskylight",
+    "notes": "Physical shared household screen is adjacent, not a report. Listed selected hardware bundle/variant, not every model price. No checkout, account, caregiver workflow or outcome validated.",
+    "offer_observed_date": "2026-10-25",
+    "candidate_numeric_page_id": "620732004665539",
+    "facebook_identity_status": "Root live Chrome verified Library Page; exact source metadata/URL checked locally, ad bodies not counted read here",
+    "current_ads_status": "Fresh root-reported native count with exact source attached; no ad-body, spend or outcome assessment by this reader",
+    "accepted_price_or_sales_verified": false,
+    "root_reported_active_library_results": 878,
+    "root_reported_library_observation_date": "2026-10-25",
+    "root_library_raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/043-skylight-page.json",
+    "root_library_raw_sha256": "4ec970a7be639386523fc6ef0d82f4caec8f95f6cbf924da5cae214dffa7ddc7",
+    "library_provenance": "Root native Chrome search-count handoff; own local inspection limited to Page identity metadata/URL, not ad-body reading"
+  }
+]

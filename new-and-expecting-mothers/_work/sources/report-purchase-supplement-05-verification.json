@@ -1,0 +1,32 @@
+{
+  "counts": {
+    "assigned_cards": 121,
+    "triaged_cards": 121,
+    "kept_cards": 43,
+    "dropped_cards_full_body_unread": 78,
+    "full_originals_read": 43,
+    "partial_originals": 0,
+    "OP_replies_read": 0,
+    "comment_source_unavailable": 43,
+    "statuses": {
+      "eligible": 40,
+      "excluded_after_read": 3
+    },
+    "quotes": 22,
+    "quoted_post_ids": 22,
+    "research_only_quotes": 9,
+    "actual_standalone_custom_report_purchases": 0,
+    "outside_assignment_human_body_inspections": 0
+  },
+  "native_assigned_metadata_verified": 121,
+  "native_full_bodies_verified": 43,
+  "native_whitespace_only_quotes_verified": 22,
+  "native_windows_scanned": {
+    "_raw/report-purchase-archive-wave03/window/sleeptrain_submissions.jsonl.gz": 14920
+  },
+  "checks_failed": 0,
+  "errors": [],
+  "verbatim_policy": "Whitespace only; exact native case/punctuation/Unicode, no typographic normalization",
+  "other_voice_same_work_records": [],
+  "utc": "2026-10-24T20:59:45.775289+00:00"
+}

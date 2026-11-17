@@ -1,0 +1,58 @@
+{
+  "compiled_date": "2026-10-25",
+  "browser": "Chrome DevTools MCP, user-visible browser, port9225",
+  "valid_distinct_advertiser_pages": 43,
+  "pages_with_active_results": 29,
+  "pages_with_zero_results": 14,
+  "excluded_superseded_page_captures": {
+    "008-nesting-notes-page": "Unresolved public profile ID; replaced by 055.",
+    "013-master-maternity-page": "Public profile ID, not advertiser Page; replaced by 022.",
+    "017-baby-sleep-answers-page-ui": "Stale embedded data after SPA transition; replaced by 018.",
+    "047-myregistry-page": "Previous Busy Toddler Page after selection race; replaced by 047c."
+  },
+  "fully_read_page_native_ad_ids": 603,
+  "additional_discovery_only_full_read_ids": [
+    "1762465444948789"
+  ],
+  "full_read_distinct_ad_ids": 604,
+  "full_read_native_occurrences_checked": 615,
+  "full_read_ledgers": {
+    "advertiser04-coordination-registry-reading.jsonl": 141,
+    "advertiser04-direct-discovery-reading.jsonl": 22,
+    "advertiser04-food-safety-reading.jsonl": 149,
+    "advertiser04-meal-guides-reading.jsonl": 33,
+    "advertiser04-root-safety-reading.jsonl": 60,
+    "advertiser04-sleep-play-reading.jsonl": 199
+  },
+  "retained_unread_ad_ids": [],
+  "discovery_body_unread_occurrences": 315,
+  "discovery_body_unread_distinct_ids": 310,
+  "unretained_discovery_snapshots_not_individually_full_read": 419,
+  "explicitly_full_read_discovery_occurrences": 12,
+  "prior_body_TSV_hash_verified_ids": 63,
+  "prior_additional_declared_query_text_read_ids_now_natively_verified": [
+    "1124475943769660",
+    "1804441577549614",
+    "1889792095496859",
+    "2527356304342424",
+    "3262395007292940"
+  ],
+  "prior_total_full_body_read_ids": 68,
+  "overlap_prior_and_wave04": 48,
+  "cumulative_visible_body_read_distinct_ids": 624,
+  "unchanged_committed_voice_files": 46,
+  "unchanged_baseline_voice_inventory_hashes": 43,
+  "voice_quotes": 2162,
+  "new_voice_quotes": 0,
+  "media_viewed": 0,
+  "independent_context_audit_path": "scratchpad/advertiser04-independent-audit/audit.json",
+  "oversized_files": [],
+  "failed": 0,
+  "errors": [],
+  "limits": [
+    "Active-result count is not a budget, unique concept count or customer count.",
+    "No evidence of uninterrupted delivery, profit, ad-attributed sales or accepted prices.",
+    "Whole libraries/creative media/variants uninspected beyond stated captures.",
+    "Remaining canonical Google checks ended with Chrome connection refusal; no zero-spend inference."
+  ]
+}

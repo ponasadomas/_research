@@ -1,0 +1,42 @@
+SOURCE: https://chat.littlelunches.com/robots.txt
+HTTP: 200
+
+# Default rules for all crawlers
+User-agent: *
+Allow: /
+
+# --- Block authentication & private areas ---
+
+
+# --- Block live chat & user-generated content ---
+Disallow: /chat
+
+# --- Block query-based URLs (prefilled prompts, tracking, sessions) ---
+Disallow: /*?
+
+# --- Sitemap ---
+Sitemap: https://chat.littlelunches.com/sitemap.xml
+
+
+# ================================
+# AI / LLM-specific directives
+# ================================
+
+# OpenAI crawlers
+User-agent: GPTBot
+Disallow: /chat
+
+User-agent: ChatGPT-User
+Disallow: /chat
+
+# Anthropic (Claude)
+User-agent: anthropic-ai
+Disallow: /chat
+
+# Common Crawl (used by many LLMs)
+User-agent: CCBot
+Disallow: /chat
+
+# Google AI ingestion (AI Overviews, SGE)
+User-agent: Google-Extended
+Allow: /

@@ -1,0 +1,295 @@
+{
+  "scope": "Exactly33 unique native ad texts from two final sellers,42 read snapshot occurrences, no further source expansion; prior149 frozen unchanged.",
+  "counts": {
+    "unique_native_ad_ids": 33,
+    "full_native_texts_read": 33,
+    "unread_native_ids": [],
+    "snapshot_occurrences_read": 42,
+    "duplicate_discovery_occurrences": 9,
+    "duplicate_same_ID_text_changes": 0,
+    "new_voice_quotes": 0,
+    "media_viewed": 0,
+    "current_offer_HTTP200": 3,
+    "unresolved_policy_transport_probes": 1,
+    "prior149_frozen_files_verified": 80,
+    "prior149_hash_failures": [],
+    "checks_failed": 0,
+    "errors": [],
+    "utc": "2026-10-24T22:24:23.643401+00:00"
+  },
+  "overlap_with_prior149": [],
+  "documentation_missing_links": [],
+  "files": [
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/067-baby-meal-plan-discovery.json",
+      "sha256": "a6ae5976a0d5da2ad3fb44182bdf69134110c1425cbc6693b06afa023102b521",
+      "bytes": 208994,
+      "ownership": "immutable_root_capture"
+    },
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/070-happy-eaters-page.json",
+      "sha256": "a5396129213dd99b5858f8962be015b0dc9b3b7eed347c70b8fe75e245671568",
+      "bytes": 186289,
+      "ownership": "immutable_root_capture"
+    },
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/071-my-little-eater-page.json",
+      "sha256": "01d5d9135206d823989b1abd61e6bb2e4e4f6ea66b2759b0e15c247e297e96bd",
+      "bytes": 19883,
+      "ownership": "immutable_root_capture"
+    },
+    {
+      "file": "_raw/advertiser04-meal-guides/access.jsonl",
+      "sha256": "6b04d0053c37b6ab1e0679c09b997e441b032ef775342560fb7d0fb1b1ddddc6",
+      "bytes": 6074,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "_raw/advertiser04-meal-guides/discovery-offers.json",
+      "sha256": "984c21c23c6873bfc8628f5f93a5c8452ed31516514c3924e35205cc0aa783ba",
+      "bytes": 29499,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "_raw/advertiser04-meal-guides/mealplan-price-markup.json",
+      "sha256": "311cabfa0499649085cee4ec25d020072c916c0ca3fd20068f0ee55303fb328c",
+      "bytes": 1271,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "_raw/advertiser04-meal-guides/native-page-units.jsonl",
+      "sha256": "820bca7b29b4d987316eecd533792ffc5488e6f1056da6ef20985c2de9a2d57b",
+      "bytes": 50408,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "_raw/advertiser04-meal-guides/native-selected.jsonl",
+      "sha256": "791006e00f1260abbb9ec74b4e63cb6dd16bf998cecf2f29337c703c0f137578",
+      "bytes": 16271,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "_raw/advertiser04-meal-guides/offer-evidence.json",
+      "sha256": "1ac1edffbbe9ddffded7517d6c89c0b7acf895053b2ca4d9352097ae2374c327",
+      "bytes": 1552,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "_raw/advertiser04-meal-guides/pages/happy-apple-us.html",
+      "sha256": "59756f33d0dd7f4bb7b3ab78f3a5f2cc78c1ce065618255a635fa74dd7904616",
+      "bytes": 677486,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "_raw/advertiser04-meal-guides/pages/happy-apple-us.links.json",
+      "sha256": "9d27380712bd6a5f6c35a41f5d0fc82c2a6b10e913f083e52551291dcd210f70",
+      "bytes": 11417,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "_raw/advertiser04-meal-guides/pages/happy-apple-us.meta.json",
+      "sha256": "1573308198116102f2de8190f46d486e3663acecf03832acb1790566b8f5f10a",
+      "bytes": 2616,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "_raw/advertiser04-meal-guides/pages/happy-apple-us.txt",
+      "sha256": "3b7ca1343f4e69ae9266ea0cd71e9dcbc0bb5f15941f57456fc544fb31c0d32b",
+      "bytes": 20858,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "_raw/advertiser04-meal-guides/pages/mylittleeater-mealplan.html",
+      "sha256": "4954d63f9e4d43643376162729ea55138bbfa05d4ba7f17e576053107ea4d6ee",
+      "bytes": 244443,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "_raw/advertiser04-meal-guides/pages/mylittleeater-mealplan.links.json",
+      "sha256": "de3663ecc335baf07387a1302dd1ccb195854b6d4b13c71e8dec2079b5ce7f85",
+      "bytes": 2467,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "_raw/advertiser04-meal-guides/pages/mylittleeater-mealplan.meta.json",
+      "sha256": "08febb8a11f83f8016c5f2277b7def6c8733bd2a368ef4022ab8090a6f84b38c",
+      "bytes": 1608,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "_raw/advertiser04-meal-guides/pages/mylittleeater-mealplan.txt",
+      "sha256": "2c0c367c907aa77a8845c6e87f694fb623058085b37cb84fd338e43c52a40a33",
+      "bytes": 9688,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "_raw/advertiser04-meal-guides/pages/mylittleeater-workshop.html",
+      "sha256": "c5b5bc0c5cad009cd1536a7771bae9f26e0558417b27252350b5d1049607d5f2",
+      "bytes": 149806,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "_raw/advertiser04-meal-guides/pages/mylittleeater-workshop.links.json",
+      "sha256": "7c0b163d9662038c22ee3f69cb280e6b3f7a8e94f22f55dba3b3bf88b010fbf9",
+      "bytes": 1870,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "_raw/advertiser04-meal-guides/pages/mylittleeater-workshop.meta.json",
+      "sha256": "6a3d48e9ff66b9b2d13d85ef3ff6455323c0753d4f2367ffe2225b4a8a3251fa",
+      "bytes": 1918,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "_raw/advertiser04-meal-guides/pages/mylittleeater-workshop.txt",
+      "sha256": "75b574cd0e2426e26fd3de039a66b7ca4c8980b2b16e97f9827f83bd3377f47a",
+      "bytes": 6740,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "_raw/advertiser04-meal-guides/robots/apps.apple.com.json",
+      "sha256": "e34dec6e1a04a274c8e5cdd11d2cf799ec78f5b66ea98a2ae29448460542e639",
+      "bytes": 2481,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "_raw/advertiser04-meal-guides/robots/apps.apple.com.txt",
+      "sha256": "c21b0e8b8f4defbaa32015dbcbf74eae73f6528b211c524f18e34bc75863a2c5",
+      "bytes": 506,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "_raw/advertiser04-meal-guides/robots/happyeaters.club.json",
+      "sha256": "628e58efb75d35a77ec77881bb9439ca7dec9b8ac1abcefb6b1c9aef981ab89a",
+      "bytes": 253,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "_raw/advertiser04-meal-guides/robots/happyeaters.club.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "_raw/advertiser04-meal-guides/robots/mylittleeater.com.json",
+      "sha256": "1694b2a8c99ad93e98cb5a759eb05b977ccd48e079ef3747e3a8cb514c862575",
+      "bytes": 1258,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "_raw/advertiser04-meal-guides/robots/mylittleeater.com.txt",
+      "sha256": "a043be6b4e2759e0596c0ff453b1a577dac336a9377544489f21d8010ba1099f",
+      "bytes": 445,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-meal-guides/ad-read-manifest.json",
+      "sha256": "4717e496cab700931a202986bddf0cfca72fb45d5b69721439b16bcf2313dbd1",
+      "bytes": 1241,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-meal-guides/ad-reading-progress.jsonl",
+      "sha256": "d808c6708785f252b73441d1e6be1ad4befbc9cd0a6386cb4a2a832724570a8e",
+      "bytes": 2217,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-meal-guides/ads-01.txt",
+      "sha256": "2174b9f3ed2bcc3784b36c0e510da8551e5cd5b2ee26077b3dc221fab359a760",
+      "bytes": 11447,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-meal-guides/ads-02.txt",
+      "sha256": "5e43d8d0c25b9f4a1ebb31be1421cde51e2abb8afc43d459c0af66aa57c8c074",
+      "bytes": 5673,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-meal-guides/audit.py",
+      "sha256": "1bbc978180a8a6067c16ec4a7e61743c0c593be866fe13ae14afa696bbe069ae",
+      "bytes": 5061,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-meal-guides/capture.py",
+      "sha256": "36556d889b002f7ecd71ec13067ae30eaea09875a0e583584228ad040dad891b",
+      "bytes": 3509,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-meal-guides/final-page-coverage.json",
+      "sha256": "4891d0bee77bdeafa42b974fb3f01e4d8ab608f979157575f342bc7593b156d6",
+      "bytes": 2273,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-meal-guides/jobs1.json",
+      "sha256": "d773de8da92b478c02c14481c1fe8dc5d131b1712556a2cc575300f2daf96986",
+      "bytes": 133,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-meal-guides/jobs2.json",
+      "sha256": "1cd174b7367c08d861d2f3aeb02f4c4b39bdc3a8c86c4bbeec5a795e0485e1f4",
+      "bytes": 113,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-meal-guides/page-ad-read-manifest.json",
+      "sha256": "fe8a3f8bf30900ca7c32df1d02907345fc675ad776a9fb3e32dd058694749fb5",
+      "bytes": 4753,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-meal-guides/page-ads-01.txt",
+      "sha256": "2a259c53fcccf481dfa40e23a58fa5f2e9bd075f3c677f018701e315d16bac72",
+      "bytes": 11722,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-meal-guides/page-ads-02.txt",
+      "sha256": "c2e598f77b1b3deeb9d8cdfb09d2f00df72515913f0661b3be08e2fdf883c3d8",
+      "bytes": 11897,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-meal-guides/page-ads-03.txt",
+      "sha256": "98f282635c26d35da0def19a881f8ae8e4fbd8980bb6837a5e609d4e2cfa7b9c",
+      "bytes": 11318,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-meal-guides/page-ads-04.txt",
+      "sha256": "952b6a16c06495be62d1a0716ab880360d3f8898e7f5c29a619decc3043b7ad1",
+      "bytes": 1611,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-meal-guides/read_pages.py",
+      "sha256": "37986cef7e20f3f78f8ed21a0aa94e2fde72ef76cc2186d8da17565020f904ee",
+      "bytes": 2364,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "scratchpad/advertiser04-meal-guides/verification.json",
+      "sha256": "808c5e5ad811e6d77778dca21ca3163274c0af2f93679b2dc5f8783aaf57b2d0",
+      "bytes": 480,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "sources/advertiser04-meal-guides-reading.jsonl",
+      "sha256": "c4910ebdd7cfa9338b1ceec7746b6408ee12c062cd0faa90388fb291d3333747",
+      "bytes": 47339,
+      "ownership": "own_new_output"
+    },
+    {
+      "file": "synthesis/reader-notes-advertiser04-meal-guides.md",
+      "sha256": "318939fc7b8a6cc86533486216d4b8579450fdb1983a1b431833411cbf32edd9",
+      "bytes": 8958,
+      "ownership": "own_new_output"
+    }
+  ],
+  "utc": "2026-10-24T22:24:59.876917+00:00"
+}

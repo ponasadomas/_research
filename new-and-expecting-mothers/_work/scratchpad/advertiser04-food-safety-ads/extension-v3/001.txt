@@ -1,0 +1,419 @@
+{
+  "ad_id": "25414872794838589",
+  "page_name": "eMeals",
+  "page_id": "138553919372",
+  "snapshot_page_id": "138553919372",
+  "is_active": true,
+  "collation_id": "1358810255432446",
+  "collation_count": 4,
+  "native_start_date": 1767254400,
+  "start_utc": "2026-01-01T08:00:00+00:00",
+  "native_end_date": 1792825200,
+  "end_utc": "2026-10-24T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "MESSENGER",
+    "THREADS"
+  ],
+  "media_count": {
+    "videos": 1,
+    "images": 0,
+    "cards": 0
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "try.emeals.com",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "display_format": "VIDEO",
+    "body": {
+      "text": "Save your energy for bedtime, not brainstorming dinner."
+    },
+    "title": "Plan. Shop. Cook. Dinner Done!",
+    "link_url": "https://try.emeals.com/stress-free/",
+    "cards": []
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+  "raw_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+  "native_locator": {
+    "connection": 0,
+    "edge": 0,
+    "collated_result": 0
+  },
+  "snapshot_sha256": "f7fe2ee638bb0ab96ad80531c5fa94ccc753ee61c056c48e6a2ffe37e6300e7d"
+}
+
+{
+  "ad_id": "2073844973417075",
+  "page_name": "eMeals",
+  "page_id": "138553919372",
+  "snapshot_page_id": "138553919372",
+  "is_active": true,
+  "collation_id": "1358810255432446",
+  "collation_count": null,
+  "native_start_date": 1767340800,
+  "start_utc": "2026-01-02T08:00:00+00:00",
+  "native_end_date": 1792825200,
+  "end_utc": "2026-10-24T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "MESSENGER",
+    "THREADS"
+  ],
+  "media_count": {
+    "videos": 1,
+    "images": 0,
+    "cards": 0
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "try.emeals.com",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "display_format": "VIDEO",
+    "body": {
+      "text": "Save your energy for bedtime, not brainstorming dinner."
+    },
+    "title": "Plan. Shop. Cook. Dinner Done!",
+    "link_url": "https://try.emeals.com/stress-free/",
+    "cards": []
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+  "raw_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+  "native_locator": {
+    "connection": 0,
+    "edge": 0,
+    "collated_result": 1
+  },
+  "snapshot_sha256": "f7fe2ee638bb0ab96ad80531c5fa94ccc753ee61c056c48e6a2ffe37e6300e7d"
+}
+
+{
+  "ad_id": "2272282739959881",
+  "page_name": "eMeals",
+  "page_id": "138553919372",
+  "snapshot_page_id": "138553919372",
+  "is_active": true,
+  "collation_id": "1688866118490157",
+  "collation_count": 3,
+  "native_start_date": 1767168000,
+  "start_utc": "2025-12-31T08:00:00+00:00",
+  "native_end_date": 1792825200,
+  "end_utc": "2026-10-24T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "MESSENGER",
+    "THREADS"
+  ],
+  "media_count": {
+    "videos": 0,
+    "images": 0,
+    "cards": 2
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "try.emeals.com",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "display_format": "DCO",
+    "body": {
+      "text": "{{product.brand}}"
+    },
+    "title": "{{product.name}}",
+    "link_description": "{{product.description}}",
+    "link_url": "https://try.emeals.com/tired-of-meal-kits/",
+    "cards": [
+      {
+        "body": "“We used to subscribe to \n👋👋👋👋👋 🍈🥬🥒🥦🥑 \nbut eMeals is so much cheaper and a lot more selection!\" - Kim M.",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://try.emeals.com/tired-of-meal-kits/",
+        "title": "Cancel Your Meal Kit & Try Free Easy Meal Plans",
+        "cta_text": "Learn More"
+      },
+      {
+        "body": "“We used to subscribe to \n👋👋👋👋👋 🍈🥬🥒🥦🥑 \nbut eMeals is so much cheaper and a lot more selection!\" - Kim M.",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://try.emeals.com/tired-of-meal-kits/",
+        "title": "Cancel Your Meal Kit & Try Free Easy Meal Plans",
+        "cta_text": "Learn More"
+      }
+    ]
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+  "raw_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+  "native_locator": {
+    "connection": 0,
+    "edge": 1,
+    "collated_result": 0
+  },
+  "snapshot_sha256": "5bcda0989122b1d9014a0011d03a2d9ac6b79830641ba594a2f67c560405d4f8"
+}
+
+{
+  "ad_id": "909465895313343",
+  "page_name": "eMeals",
+  "page_id": "138553919372",
+  "snapshot_page_id": "138553919372",
+  "is_active": true,
+  "collation_id": "1688866118490157",
+  "collation_count": null,
+  "native_start_date": 1767081600,
+  "start_utc": "2025-12-30T08:00:00+00:00",
+  "native_end_date": 1792825200,
+  "end_utc": "2026-10-24T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "MESSENGER",
+    "THREADS"
+  ],
+  "media_count": {
+    "videos": 0,
+    "images": 0,
+    "cards": 2
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "try.emeals.com",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "display_format": "DCO",
+    "body": {
+      "text": "{{product.brand}}"
+    },
+    "title": "{{product.name}}",
+    "link_description": "{{product.description}}",
+    "link_url": "https://try.emeals.com/tired-of-meal-kits/",
+    "cards": [
+      {
+        "body": "“We used to subscribe to \n👋👋👋👋👋 🍈🥬🥒🥦🥑 \nbut eMeals is so much cheaper and a lot more selection!\" - Kim M.",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://try.emeals.com/tired-of-meal-kits/",
+        "title": "Cancel Your Meal Kit & Try Free Easy Meal Plans",
+        "cta_text": "Learn More"
+      },
+      {
+        "body": "“We used to subscribe to \n👋👋👋👋👋 🍈🥬🥒🥦🥑 \nbut eMeals is so much cheaper and a lot more selection!\" - Kim M.",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://try.emeals.com/tired-of-meal-kits/",
+        "title": "Cancel Your Meal Kit & Try Free Easy Meal Plans",
+        "cta_text": "Learn More"
+      }
+    ]
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+  "raw_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+  "native_locator": {
+    "connection": 0,
+    "edge": 1,
+    "collated_result": 1
+  },
+  "snapshot_sha256": "8ed2f76e1ed3a7cb0ca6acb4dd8ab0ae6aa46cc3769c390a3ad00c0c3fbefdac"
+}
+
+{
+  "ad_id": "1527225161899010",
+  "page_name": "eMeals",
+  "page_id": "138553919372",
+  "snapshot_page_id": "138553919372",
+  "is_active": true,
+  "collation_id": "1688866118490157",
+  "collation_count": null,
+  "native_start_date": 1767081600,
+  "start_utc": "2025-12-30T08:00:00+00:00",
+  "native_end_date": 1792825200,
+  "end_utc": "2026-10-24T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "MESSENGER",
+    "THREADS"
+  ],
+  "media_count": {
+    "videos": 0,
+    "images": 0,
+    "cards": 2
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "try.emeals.com",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "display_format": "DCO",
+    "body": {
+      "text": "{{product.brand}}"
+    },
+    "title": "{{product.name}}",
+    "link_description": "{{product.description}}",
+    "link_url": "https://try.emeals.com/tired-of-meal-kits/",
+    "cards": [
+      {
+        "body": "“We used to subscribe to \n👋👋👋👋👋 🍈🥬🥒🥦🥑 \nbut eMeals is so much cheaper and a lot more selection!\" - Kim M.",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://try.emeals.com/tired-of-meal-kits/",
+        "title": "Cancel Your Meal Kit & Try Free Easy Meal Plans",
+        "cta_text": "Learn More"
+      },
+      {
+        "body": "“We used to subscribe to \n👋👋👋👋👋 🍈🥬🥒🥦🥑 \nbut eMeals is so much cheaper and a lot more selection!\" - Kim M.",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://try.emeals.com/tired-of-meal-kits/",
+        "title": "Cancel Your Meal Kit & Try Free Easy Meal Plans",
+        "cta_text": "Learn More"
+      }
+    ]
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+  "raw_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+  "native_locator": {
+    "connection": 0,
+    "edge": 1,
+    "collated_result": 2
+  },
+  "snapshot_sha256": "e77fc1942c07ab72d4b9d11418fe0aa5f8927be05f528650bf2b1dfbe9709744"
+}
+
+{
+  "ad_id": "1268120485152483",
+  "page_name": "eMeals",
+  "page_id": "138553919372",
+  "snapshot_page_id": "138553919372",
+  "is_active": true,
+  "collation_id": "1593389735018964",
+  "collation_count": 2,
+  "native_start_date": 1767081600,
+  "start_utc": "2025-12-30T08:00:00+00:00",
+  "native_end_date": 1792825200,
+  "end_utc": "2026-10-24T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "MESSENGER",
+    "THREADS"
+  ],
+  "media_count": {
+    "videos": 0,
+    "images": 1,
+    "cards": 0
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "emeals.com/easy-meals",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "display_format": "IMAGE",
+    "body": {
+      "text": "Tired of trying to figure out what to cook and when to shop??\n\nSave your sanity with easy meal plans + grocery pickup or delivery thanks to eMeals. \n\np.s. you can try FREE today 😎"
+    },
+    "title": "Save Your Sanity with Meal Plans + Grocery Pickup",
+    "link_description": "Copyright 2002-2024, eMeals Inc. The eMeals name and logo is a trademark of eMeals Inc. All Rights Reserved. Terms of Use | Privacy Policy | Sitemap",
+    "link_url": "https://try.emeals.com/healthy",
+    "cards": []
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+  "raw_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+  "native_locator": {
+    "connection": 0,
+    "edge": 2,
+    "collated_result": 0
+  },
+  "snapshot_sha256": "e0ad3381fa25c1d0d840078df9adb4b88106387136e4e7531b33dee0b6c4b60b"
+}
+
+{
+  "ad_id": "4238931593016828",
+  "page_name": "eMeals",
+  "page_id": "138553919372",
+  "snapshot_page_id": "138553919372",
+  "is_active": true,
+  "collation_id": "1593389735018964",
+  "collation_count": null,
+  "native_start_date": 1767081600,
+  "start_utc": "2025-12-30T08:00:00+00:00",
+  "native_end_date": 1792825200,
+  "end_utc": "2026-10-24T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "MESSENGER",
+    "THREADS"
+  ],
+  "media_count": {
+    "videos": 0,
+    "images": 1,
+    "cards": 0
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "emeals.com/easy-meals",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "display_format": "IMAGE",
+    "body": {
+      "text": "Tired of trying to figure out what to cook and when to shop??\n\nSave your sanity with easy meal plans + grocery pickup or delivery thanks to eMeals. \n\np.s. you can try FREE today 😎"
+    },
+    "title": "Save Your Sanity with Meal Plans + Grocery Pickup",
+    "link_description": "Copyright 2002-2024, eMeals Inc. The eMeals name and logo is a trademark of eMeals Inc. All Rights Reserved. Terms of Use | Privacy Policy | Sitemap",
+    "link_url": "https://try.emeals.com/healthy",
+    "cards": []
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+  "raw_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+  "native_locator": {
+    "connection": 0,
+    "edge": 2,
+    "collated_result": 1
+  },
+  "snapshot_sha256": "4de28e43b7da54d358d4f1e202b4acdd0140e6b2bb817d70b3e1a6fd5ea64e2e"
+}
+
+{
+  "ad_id": "2148945109243968",
+  "page_name": "eMeals",
+  "page_id": "138553919372",
+  "snapshot_page_id": "138553919372",
+  "is_active": true,
+  "collation_id": "1297175298802286",
+  "collation_count": 3,
+  "native_start_date": 1767340800,
+  "start_utc": "2026-01-02T08:00:00+00:00",
+  "native_end_date": 1792047600,
+  "end_utc": "2026-10-15T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "MESSENGER",
+    "THREADS"
+  ],
+  "media_count": {
+    "videos": 0,
+    "images": 1,
+    "cards": 0
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "try.emeals.com",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "display_format": "IMAGE",
+    "body": {
+      "text": "“We used to subscribe to \n👋👋👋👋👋 🍈🥬🥒🥦🥑 \nbut eMeals is so much cheaper and a lot more selection!\" - Kim M."
+    },
+    "title": "Cancel Your Meal Kit & Try Free Easy Meal Plans",
+    "link_description": "“THIS is so much better than meal kits! You pick the meals that sound good, make ingredient substitutions, and it avoids all that packaging that come with meal kits. I can't imagine running my household without this tool.\"",
+    "link_url": "https://try.emeals.com/tired-of-meal-kits/",
+    "cards": []
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+  "raw_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+  "native_locator": {
+    "connection": 0,
+    "edge": 3,
+    "collated_result": 0
+  },
+  "snapshot_sha256": "7965cf46bef2faff9727533ea1a2db2d1b83aec1fd914f7354a8462c5a0be27e"
+}
+

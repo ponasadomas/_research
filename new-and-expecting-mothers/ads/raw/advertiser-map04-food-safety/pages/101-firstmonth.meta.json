@@ -1,0 +1,31 @@
+{
+  "slug": "101-firstmonth",
+  "url": "https://www.101beforeone.com/first-month-meal-plan",
+  "robots_status": 200,
+  "robots_allowed": true,
+  "robots_file": "_raw/advertiser-map04-food-safety/robots/www.101beforeone.com.txt",
+  "raw_file": "_raw/advertiser-map04-food-safety/pages/101-firstmonth.html",
+  "text_file": "_raw/advertiser-map04-food-safety/pages/101-firstmonth.txt",
+  "sha256": "dfea8fb04ad3b925225f8252c08eb0799b972ca838d3466d4e35e7dcbecb4878",
+  "bytes": 2776161,
+  "utc": "2026-10-24T21:46:31.791059+00:00",
+  "status": 200,
+  "final_url": "https://www.101beforeone.com/first-month-meal-plan",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Age": "0",
+    "Content-Type": "text/html;charset=utf-8",
+    "Date": "Sat, 24 Oct 2026 21:46:30 GMT",
+    "Etag": "W/\"521ca98613838dc62a09436628e1f8f2--gzip\"",
+    "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+    "Server": "Squarespace",
+    "Set-Cookie": "crumb=BV/x3bsZ2HOFODk3MWM2MDBhZDJkMzNkZGZmZDNlM2Q5NWI1Y2Iz;Secure;Path=/",
+    "Strict-Transport-Security": "max-age=15552000",
+    "Vary": "Accept-Encoding",
+    "X-Content-Type-Options": "nosniff",
+    "X-Contextid": "VHZh2fBU/mxHqBo5w",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Connection": "close",
+    "Transfer-Encoding": "chunked"
+  }
+}

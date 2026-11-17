@@ -1,0 +1,172 @@
+{
+  "changes": [
+    {
+      "id": "odeep02-0007",
+      "field": "speaker",
+      "before": "expecting_mother",
+      "after": "parent_unspecified",
+      "reason": "Selected author has parent/expecting-family context without an explicit self-identification as mother in the cited post; conservative role."
+    },
+    {
+      "id": "odeep02-0020",
+      "field": "speaker",
+      "before": "expecting_mother",
+      "after": "parent_unspecified",
+      "reason": "Selected author has parent/expecting-family context without an explicit self-identification as mother in the cited post; conservative role."
+    },
+    {
+      "id": "odeep02-0031",
+      "field": "speaker",
+      "before": "expecting_mother",
+      "after": "parent_unspecified",
+      "reason": "Selected author has parent/expecting-family context without an explicit self-identification as mother in the cited post; conservative role."
+    },
+    {
+      "id": "odeep02-0036",
+      "field": "speaker",
+      "before": "expecting_mother",
+      "after": "parent_unspecified",
+      "reason": "Selected author has parent/expecting-family context without an explicit self-identification as mother in the cited post; conservative role."
+    },
+    {
+      "id": "odeep02-0038",
+      "field": "speaker",
+      "before": "experienced_mother",
+      "after": "parent_unspecified",
+      "reason": "Selected author has parent/expecting-family context without an explicit self-identification as mother in the cited post; conservative role."
+    },
+    {
+      "id": "odeep02-0039",
+      "field": "speaker",
+      "before": "experienced_mother",
+      "after": "parent_unspecified",
+      "reason": "Selected author has parent/expecting-family context without an explicit self-identification as mother in the cited post; conservative role."
+    },
+    {
+      "id": "odeep02-0040",
+      "field": "speaker",
+      "before": "expecting_mother",
+      "after": "parent_unspecified",
+      "reason": "Selected author has parent/expecting-family context without an explicit self-identification as mother in the cited post; conservative role."
+    },
+    {
+      "id": "odeep02-0062",
+      "field": "speaker",
+      "before": "expecting_mother",
+      "after": "parent_unspecified",
+      "reason": "Selected author has parent/expecting-family context without an explicit self-identification as mother in the cited post; conservative role."
+    },
+    {
+      "id": "odeep02-0066",
+      "field": "speaker",
+      "before": "expecting_mother",
+      "after": "parent_unspecified",
+      "reason": "Selected author has parent/expecting-family context without an explicit self-identification as mother in the cited post; conservative role."
+    },
+    {
+      "id": "odeep02-0070",
+      "field": "speaker",
+      "before": "expecting_mother",
+      "after": "parent_unspecified",
+      "reason": "Selected author has parent/expecting-family context without an explicit self-identification as mother in the cited post; conservative role."
+    },
+    {
+      "id": "odeep02-0016",
+      "field": "stage",
+      "before": "pregnancy_late",
+      "after": "pregnancy_early",
+      "reason": "Stated August 21 due date and May 6 post put pregnancy near 24 weeks, before late pregnancy."
+    },
+    {
+      "id": "odeep02-0028",
+      "field": "speaker",
+      "before": "new_mother",
+      "after": "experienced_mother",
+      "reason": "Author describes experience after first child and contrasts maternal confidence; new_mother overstates current stage."
+    },
+    {
+      "id": "odeep02-0055",
+      "field": "stage",
+      "before": "pregnancy_early",
+      "after": "unknown",
+      "reason": "No sufficiently precise gestational age established at selected-post date; avoid guessed early/late assignment."
+    },
+    {
+      "id": "odeep02-0066",
+      "field": "stage",
+      "before": "pregnancy_early",
+      "after": "unknown",
+      "reason": "No sufficiently precise gestational age established at selected-post date; avoid guessed early/late assignment."
+    },
+    {
+      "id": "odeep02-0093",
+      "field": "stage",
+      "before": "pregnancy_late",
+      "after": "unknown",
+      "reason": "No sufficiently precise gestational age established at selected-post date; avoid guessed early/late assignment."
+    },
+    {
+      "id": "odeep02-0109",
+      "field": "stage",
+      "before": "pregnancy_late",
+      "after": "unknown",
+      "reason": "No sufficiently precise gestational age established at selected-post date; avoid guessed early/late assignment."
+    },
+    {
+      "id": "odeep02-0018",
+      "field": "type",
+      "before": "success_story",
+      "after": "belief",
+      "reason": "Advocacy of feasibility without a detailed first-person use outcome; do not label demonstrated success."
+    },
+    {
+      "id": "odeep02-0018",
+      "field": "themes",
+      "before": [
+        "twins",
+        "food_budget"
+      ],
+      "after": [
+        "twins",
+        "price_value"
+      ],
+      "reason": "Nappy economy belongs to price_value, not food_budget."
+    },
+    {
+      "id": "odeep02-0060",
+      "field": "themes",
+      "before": [
+        "not_enough_time",
+        "tried_failed"
+      ],
+      "after": [
+        "not_enough_time",
+        "price_value"
+      ],
+      "reason": "Remove unnecessary custom theme that duplicates an existing type."
+    },
+    {
+      "id": "odeep02-0111",
+      "field": "type",
+      "before": "success_story",
+      "after": "belief",
+      "reason": "Confirmed group creation is an action, with no demonstrated support outcome yet."
+    },
+    {
+      "id": "odeep02-0018",
+      "field": "context",
+      "before": "Parent reports cloth diapering twins; provides counterevidence to unused kits and workload objections elsewhere.",
+      "after": "Twin-parent OP argues cloth feasibility against workload objections; detailed sustained use and purchase are not established.",
+      "reason": "Align context with conservative belief classification rather than implying demonstrated use."
+    }
+  ],
+  "uncertain_first_visible_threads": {
+    "166090": "First visible post begins as another participant response; originating question is absent from the visible capture.",
+    "166302": "First visible post responds to prior question about hours; originating question is absent from the visible capture.",
+    "166622": "Wanted/borrow title contrasts with first visible sale offer; originating request/role cannot be independently established."
+  },
+  "uncertain_thread_selected_ids": [
+    "odeep02-0095"
+  ],
+  "note": "Each selected quote is from actual author-owned body, not a repeated quotation. Uncertainty concerns original question/OP provenance; frozen is_op unchanged."
+}

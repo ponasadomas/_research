@@ -1,0 +1,45 @@
+# August–December Reddit continuation — complete assigned reading
+
+The owner explicitly authorized “commit and continue the research.” Baseline 1,296 records is committed as 2613feb3. This is a new task, not a restart of any old append-only reader. Existing July, payment, MSE and other voice/raw/corpus files are immutable. Do not spawn agents; reuse this identity. Root plus three readers are active.
+
+Read `templates/00 - Deep Research Playbook.md`, research README, `_tools/brief-reddit-deep-triage.md`, and this brief. All paths below are relative to `mamivio.com/research/global/` unless prefixed templates. Primary source is the same independently published public archive: yikeee/reddit-subreddits25, pinned commit ea497c510aa68765c07ed744ec9f84d68bbedf7f. Rights/provenance, author authenticity and live completeness are unverified. Only saved local sources are needed; no network collection or outreach.
+
+## Entire assignment, not a sample
+
+Your exact batch manifest is stated below. It contains ALL of your assigned still-unhandled August–December tier-A candidates, with no score rank, topic cap or quote target. Read every assigned card in full, not a program-generated classification. Automation may save explicit human decisions and check ID sets; it may not make keep/drop decisions. Do not stop after examples or “enough patterns.” The root has prepared the complete primary unit for every candidate already.
+
+First read every assigned card and write an exact per-ID triage TSV: `post_id`, `label`, `reason`, `card_file`. Labels follow the shared triage brief (keep_play, keep_solids, keep_pumping_work, keep_sleep, keep_postpartum, keep_pregnancy, keep_registry, keep_other, drop). Drops need specific reasons, not generic boilerplate. A title/opening is only a card, not a full original read. Keep ambiguous plausible ordinary tasks for full inspection rather than presuming they are irrelevant. Older-child-only/work-only posts outside new/expecting parent scope may be dropped explicitly; adjacent cases must be identified as adjacent. Do not select only meal planning or report buyers. Keep free successes, people who stopped, actual practical-help preferences, partners, and objections.
+
+Then read EVERY human-kept primary unit completely: full title, full original selftext, ALL available identifiable OP replies. These fresh units are `_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/<subreddit>-<post_id>.txt`; metadata/index `primary-index.jsonl`. Use actual full text in tool output with no truncation, not a summary produced by code. Create your own NEW kept-only reading chunks after triage if helpful; freeze them once, never overwrite. A practical chunk is about 25–40 KB. Some posts can exceed that and must remain intact. Record progress after every chunk, continue through compaction, and send root milestone counts without waiting for a reply.
+
+These are full posts + identifiable OP replies, NOT complete live threads or all non-OP comments. Seven community comment files are unavailable; only workingmoms and BabyLedWeaning have comments. If a reply depends on an unseen parent, inspect the exact native parent in the existing `corpus-A-v1/units/<subreddit>-<id>.txt` or window comment files; log exact auxiliary comment IDs separately. Do not claim all auxiliary comments read. Do not infer OP identity from deleted authors. Every post/reply quote must be from its own author and native timestamp/URL.
+
+## Required outputs and schemas
+
+Unique files/prefix below. No global README/findings/counts/other readers’ edits. Own scratch directory for helpers, output views and checkpoints.
+
+Reading JSONL must account for every triage keep exactly once, even post-read exclusions: `post_id`, `raw_file`, `post_body_read_complete` (actual boolean), `available_identifiable_OP_replies_read` (actual count), `op_reply_ids_read` (exact IDs), `primary_unit_sha256`, `status` (eligible/excluded_after_read or precise partial_unavailable), `reason` (neutral), and actual quote IDs if any. Research records what people actually say and do, in their own words, whatever the subject; sensitive, clinical, crisis and other material is kept and quoted like any other evidence. The owner decides later what to use in copy; research never makes that decision. Log any genuinely unavailable or unread boundary and never call a partial read complete. Any ambiguous card-drop source opened in full also needs an inspection ledger so actual reading is not lost. An OP-only inspection is not a full post-plus-followups read.
+
+Quote JSONL fields: `id`, `source`, `url`, `date`, `speaker`, `stage`, `type`, `themes`, `quote`, `context` <=25 words, `raw_file`; add `source_class=reddit_archive`, `evidence_kind=archived_original`, `archive_dataset`, `archive_commit`, `post_id`, `comment_id` only for comments, `read_scope=full_post_and_available_identifiable_OP_replies` or `full_post_comment_source_unavailable`. Quote raw_file is the immutable individual primary unit, never the card or rewritten kept chunk. Preserve exact case/punctuation/typos; only omission marker ` […] `. No names/usernames in quote/context. Use conservative parent_unspecified/unknown unless the quoted author explicitly establishes role/stage. No demographic inference from pregnancy or a husband reference.
+
+No quotation quota. Preserve concrete triggers, failed attempts, actual orders/payments/refunds, satisfied free/paid users, what changed, resource/household constraints, new practical report jobs, and contrary evidence. Seller claims, conditional interest, gifted gear and actual paid information are different evidence levels. Do not infer receipts, price acceptance, independent buyers or prevalence.
+
+Research records what people actually say and do, in their own words, whatever the subject; sensitive, clinical, crisis and other material is kept and quoted like any other evidence. The owner decides later what to use in copy; research never makes that decision.
+
+Machine exact-body duplicate flags touching this wave are `exact-body-duplicate-flags.jsonl`: 101 groups against ALL nine complete H2 submission files. These are flags for human review, not automatic classifications. Known repeated promotions, copied gifted reviews, and identical crossposts cannot count as independent buyers. If you need a source already covered by an old record, cite it as cross-wave context rather than minting a duplicate excerpt. Choose a representative for repeated bodies and log why. Do not allege fraud from similarity alone.
+
+Finish source ledger + reader notes with actual downloaded→assigned/triaged→kept→full/partial reads→quotes, exact unread paths if any, strongest supporting IDs, disconfirming cases, proposed new tasks and limits. Every substantive note claim needs actual IDs looked up from your file. Verify exact assigned/triage ID set, exact kept/read ID set, immutable unit hashes, full OP reply counts/IDs, all quotes in their OWN post/reply body, correct dates/URLs, unique IDs globally, context/vocabulary, then `verify_quotes.py` on your file to 0 failed. Native post/comment bodies are in the original window gzip files. Count from disk, never running estimates. Save audits to your own new filenames.
+
+Send root progress at triage completion and full-read milestones. Continue automatically through ALL kept originals, never end merely because the triage portion is complete. No commits yourself; root will integrate and commit.
+
+## Your batch 01
+
+Manifest: `_raw/reddit-deep/aug-dec-2025-wave-v1/assignments/batch-01.json` — 2199 exact cards in 36 chunks.
+Triage: `_raw/reddit-deep/triage/augdec-01.tsv`.
+Scratch: `scratchpad/reddit-augdec-01/`.
+Voice: `voice/reddit-augdec-01.jsonl`, IDs `rad01-0001` onward, never reused.
+Full/partial reading ledger: `sources/reddit-augdec-01-reading.jsonl`.
+Auxiliary reads: `sources/reddit-augdec-01-auxiliary-read.jsonl` (create empty if none).
+Source/coverage note: `sources/reddit-augdec-01.md`.
+Reader findings: `synthesis/reader-notes-reddit-augdec-01.md`.
+Audit: `sources/reddit-augdec-01-verification.json`.

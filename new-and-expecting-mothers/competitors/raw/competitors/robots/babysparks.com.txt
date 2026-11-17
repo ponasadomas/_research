@@ -1,0 +1,35 @@
+SOURCE: https://babysparks.com/robots.txt
+HTTP: 200
+ERROR: 
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+# Search engines and AI assistants (OpenAI, Anthropic) - explicitly welcome
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Applebot
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+# Blocked crawlers (also enforced in .htaccess)
+User-agent: Bytespider
+User-agent: Baiduspider
+User-agent: Sogou web spider
+User-agent: YisouSpider
+User-agent: PetalBot
+User-agent: Amazonbot
+User-agent: SemrushBot
+User-agent: AhrefsBot
+User-agent: MJ12bot
+User-agent: DotBot
+Disallow: /
+
+Sitemap: https://babysparks.com/sitemap_index.xml

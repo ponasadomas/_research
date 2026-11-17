@@ -1,0 +1,10 @@
+SOURCE: https://blog.lovevery.com/robots.txt
+HTTP: 200
+ERROR: 
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

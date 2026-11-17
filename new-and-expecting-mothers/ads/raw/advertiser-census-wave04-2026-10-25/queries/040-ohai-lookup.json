@@ -1,0 +1,52 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "Ohai",
+  "captured_at": "2026-10-24T21:55:43.311Z",
+  "suggestions": "ge/\"\n  uid=53_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=53_1 generic description=\"Search for exact phrase Ohai \"Ohai\" Search this exact phrase\"\n      uid=53_2 button \"Search for exact phrase Ohai\"\n    uid=53_3 generic description=\"ohaizo Christopher Isidore 592 0 follow this · Gamer\"\n    uid=53_4 generic description=\"OHAI Nazaré @ohainazare· 73K follow this · Hotel resort @ohainazare· 180.8K followers\"\n    uid=53_5 generic description=\"The Ohaila Khan @theohailakhanofficial· 4.6K follow this · Design & Fashion @theohailakhanofficial · 109.4K followers\"\n    uid=53_6 generic description=\"Ohai @ohaiapp· 540 follow this · App page\"\n    uid=53_7 generic description=\"Ohai 110 follow this · Health Spa @ohaispa· 1.4K followers\"\n    uid=53_8 generic description=\"OHAI @ohailife· 81 follow this · Product/service @ohailife· 6.2K followers\"\n    uid=53_9 generic description=\"Ohai 9 follow this · Gaming Video Creator\"\n    uid=53_10 generic description=\"Ohai 0 follow this · Gaming Video Creator\"\n    uid=53_11 generic description=\"Ohai 0 follow this · Shopping & Retail\"\n    uid=53_12 generic description=\"Ohair.zaniewska 417 follow this · Hair Extensions Service @ohair.zaniewska· 29.9K followers\"\n",
+  "candidates": [
+    {
+      "uid": "53_1",
+      "description": "Search for exact phrase Ohai "
+    },
+    {
+      "uid": "53_3",
+      "description": "ohaizo Christopher Isidore 592 0 follow this · Gamer"
+    },
+    {
+      "uid": "53_4",
+      "description": "OHAI Nazaré @ohainazare· 73K follow this · Hotel resort @ohainazare· 180.8K followers"
+    },
+    {
+      "uid": "53_5",
+      "description": "The Ohaila Khan @theohailakhanofficial· 4.6K follow this · Design & Fashion @theohailakhanofficial · 109.4K followers"
+    },
+    {
+      "uid": "53_6",
+      "description": "Ohai @ohaiapp· 540 follow this · App page"
+    },
+    {
+      "uid": "53_7",
+      "description": "Ohai 110 follow this · Health Spa @ohaispa· 1.4K followers"
+    },
+    {
+      "uid": "53_8",
+      "description": "OHAI @ohailife· 81 follow this · Product/service @ohailife· 6.2K followers"
+    },
+    {
+      "uid": "53_9",
+      "description": "Ohai 9 follow this · Gaming Video Creator"
+    },
+    {
+      "uid": "53_10",
+      "description": "Ohai 0 follow this · Gaming Video Creator"
+    },
+    {
+      "uid": "53_11",
+      "description": "Ohai 0 follow this · Shopping & Retail"
+    },
+    {
+      "uid": "53_12",
+      "description": "Ohair.zaniewska 417 follow this · Hair Extensions Service @ohair.zaniewska· 29.9K followers"
+    }
+  ]
+}

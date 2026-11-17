@@ -1,0 +1,48 @@
+{
+  "complete": true,
+  "parent_packet_originals": 847,
+  "assigned_cards": 291,
+  "human_triaged_cards": 291,
+  "triage_keep": 203,
+  "triage_drop": 88,
+  "full_originals_read": 203,
+  "partial_originals": 0,
+  "unread_kept_ids": [],
+  "OP_replies_read": 0,
+  "post_comment_sources_unavailable": 203,
+  "post_read_statuses": {
+    "eligible": 171,
+    "excluded_after_read": 32
+  },
+  "quotes": 39,
+  "quoted_post_ids": 39,
+  "research_only_quotes": 15,
+  "communities": {
+    "BabyBumpsandBeyondAu": 100,
+    "BeyondTheBumpUK": 54,
+    "BabyBumpsCanada": 49
+  },
+  "extra_duplicate_only_original_inspections": 5,
+  "extra_duplicate_only_comment_sources_unavailable": 5,
+  "exact_body_groups_reviewed": 6,
+  "near_repeat_groups_reviewed": 1,
+  "quoted_duplicate_group_references": {
+    "2": [
+      "rcb03-0010"
+    ],
+    "5": [],
+    "6": [
+      "rcb03-0017"
+    ],
+    "7": [],
+    "13": [],
+    "16": []
+  },
+  "cross_file_same_post_quote_references": {},
+  "manual_random_spotchecks": 20,
+  "strict_native_quote_failures": [],
+  "errors": [],
+  "voice_sha256": "d56151c1310b9f2fd21e82de65840965af6d9f15af85eb15e71cd53a19327b19",
+  "reading_sha256": "96229b5ef1fc24e4650e7e0017cf51435299b1edea4e2dc8d8de5ff97c359620",
+  "triage_sha256": "c261b2cf667501d38963efe3f9b615e0969f1277213282ff42c7f33032e3b024"
+}

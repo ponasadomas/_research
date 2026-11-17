@@ -1,0 +1,20 @@
+{
+  "removed_duplicate": [
+    {
+      "post_id": "1p3ytwt",
+      "quote": "So I'm being gifted a Vista 2018 stroller including the regular stroller attachment, bassinet attachment and cozyganoosh all for free.",
+      "context": "Used stroller is a gift; intended car-seat purchase and claimed support-confirmed compatibility remain separate, with current compatibility and safety unverified.",
+      "stage": "unknown",
+      "type": "question",
+      "themes": [
+        "price_value",
+        "free_alternatives",
+        "personalization"
+      ]
+    }
+  ],
+  "representative_post_id": "1p3ysdn",
+  "existing_quote_id": "rad03-0040",
+  "existing_voice": "voice/reddit-augdec-03.jsonl",
+  "reason": "Previously selected earlier exact-body crosspost; retain existing evidence instead of minting another excerpt or buyer."
+}

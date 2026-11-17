@@ -1,0 +1,33 @@
+{
+  "slug": "solidstarts-home",
+  "url": "https://solidstarts.com/",
+  "robots_status": 200,
+  "robots_allowed": true,
+  "robots_file": "_raw/advertiser-map04-food-safety/robots/solidstarts.com.txt",
+  "raw_file": "_raw/advertiser-map04-food-safety/pages/solidstarts-home.html",
+  "text_file": "_raw/advertiser-map04-food-safety/pages/solidstarts-home.txt",
+  "sha256": "9306867eebabcd3b49cfb4ee5f2276dbb44247e0ddd1a182c83de7fa04422b9b",
+  "bytes": 217547,
+  "utc": "2026-10-24T21:45:44.912783+00:00",
+  "status": 200,
+  "final_url": "https://solidstarts.com/",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:45:44 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "Cache-Control": "private, no-cache, no-store, max-age=0, must-revalidate",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=SnaI6n8amj%2FBDx1uPDamUst1Si8BmLOb%2F3ygH9QI7%2B0D8ew5PuvPSofCLvayrci1lV6MN2KlkOZt6%2B%2FghUa1TKxf7E6SH1UbuRRIRCKa7ev7OhF9CfSgqheHGsdfL71PiQ%3D%3D\"}]}",
+    "link": "<https://img.solidstarts.com/_next/static/media/Sofia_Pro_Black-s.p.1tv9zbwk9wsmx.otf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/otf\", <https://img.solidstarts.com/_next/static/media/Sofia_Pro_Bold-s.p.11zt-d_mgad3y.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", <https://img.solidstarts.com/_next/static/media/Sofia_Pro_Regular-s.p.0y15ju79ma-ce.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </images/logo.svg>; rel=preload; as=\"image\", <https://img.solidstarts.com/_next/static/chunks/20r6mxz9h88vi.css>; rel=preload; as=\"style\", <https://img.solidstarts.com/_next/static/chunks/0k2qaxijyy-g3.css>; rel=preload; as=\"style\", <https://img.solidstarts.com/_next/static/chunks/20d7_egok6v7k.css>; rel=preload; as=\"style\", <https://img.solidstarts.com/_next/static/chunks/3_kvv66_zgp_r.css>; rel=preload; as=\"style\"",
+    "Server": "cloudflare",
+    "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+    "x-middleware-rewrite": "/en-US/",
+    "x-powered-by": "Next.js",
+    "x-railway-request-id": "HsZglZfLSyGNZNyos_GTAg",
+    "x-railway-edge": "waw1",
+    "x-hikari-trace": "waw1.j60f",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "CF-RAY": "a4fc2b961a51e4d2-RIX"
+  }
+}

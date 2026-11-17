@@ -1,0 +1,57 @@
+{
+  "ad_id": "2004003743559512",
+  "advertiser": "Lovevery",
+  "page_id": "1859617107640244",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/005-lovevery-page.json",
+  "capture_sha256": "90a8b882dbb1767b9749a6e1fc440e0cf6a15ce0443a164b39221c0ba9fae64d",
+  "native_pointer": "connections[0].edges[27].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=1859617107640244",
+  "captured_at": "2026-10-24T21:46:30.893Z",
+  "is_active": true,
+  "start_utc": "2026-07-20T07:00:00+00:00",
+  "display_format": "DCO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=2004003743559512",
+  "snapshot_sha256": "a489140f27ed6b0eef9df8361a01f189aa1fb115ee52559c71d20b082ab3c724",
+  "text_fields": {
+    "body": {
+      "text": "{{product.brand}}"
+    },
+    "title": "{{product.name}}",
+    "caption": "lovevery.com",
+    "link_description": "{{product.description}}",
+    "link_url": "https://lovevery.com/products/the-play-kits-the-charmer",
+    "cta_text": "Shop now",
+    "cta_type": "SHOP_NOW",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": [
+      {
+        "body": "Don't give your baby distorted mirrors... here's why 👀",
+        "title": "The Play Kits by Lovevery",
+        "caption": "lovevery.com",
+        "link_description": " ",
+        "link_url": "https://lovevery.com/products/the-play-kits-the-charmer",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      },
+      {
+        "body": "Don't give your baby distorted mirrors... here's why 👀",
+        "title": "The Play Kits by Lovevery",
+        "caption": "lovevery.com",
+        "link_description": " ",
+        "link_url": "https://lovevery.com/products/the-play-kits-the-charmer",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      }
+    ]
+  },
+  "text_fields_sha256": "fbd15b5d018d493a70df66fd13fbbd35fded59f0efab64f2915eab7b0c9f2c78",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 0,
+  "cards_count": 2
+}

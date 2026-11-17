@@ -1,0 +1,48 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "101 before one",
+  "captured_at": "2026-10-24T21:53:46.148Z",
+  "suggestions": "ge/\"\n  uid=35_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=35_1 generic\n      uid=35_2 button \"Search for exact phrase 101 before one\"\n    uid=35_3 generic description=\"YLL-1013-one 508 follow this · Movie\"\n    uid=35_4 generic description=\"TZZ-1014-one 153 follow this · Movie\"\n    uid=35_5 generic description=\"TZZ-1013-one 134 follow this · Movie\"\n    uid=35_6 generic description=\"ZLL-1014-one 233 follow this · Movie\"\n    uid=35_7 generic description=\"SST-1014-one 233 follow this · Movie\"\n    uid=35_8 generic description=\"KLD-1017-oneone 32 follow this · Movie\"\n    uid=35_9 generic description=\"ONEighty Athletics @ONEightyAthletics· 142.6K follow this · Product/service @oneightyathletics· 71K followers\"\n    uid=35_10 generic description=\"OneBag 101 follow this · Bags/Luggage @onebagdk· 57 followers\"\n    uid=35_11 generic description=\"OneRace Events @theonerace.events· 8.8K follow this · Recreation & sports website @theonerace.events· 4.4K followers\"\n    uid=35_12 generic description=\"One Minutes Shop @one.minutes.shop· 864 follow this · Clothing Store @one_minutes____· 80.8K followers\"\n",
+  "candidates": [
+    {
+      "uid": "35_3",
+      "description": "YLL-1013-one 508 follow this · Movie"
+    },
+    {
+      "uid": "35_4",
+      "description": "TZZ-1014-one 153 follow this · Movie"
+    },
+    {
+      "uid": "35_5",
+      "description": "TZZ-1013-one 134 follow this · Movie"
+    },
+    {
+      "uid": "35_6",
+      "description": "ZLL-1014-one 233 follow this · Movie"
+    },
+    {
+      "uid": "35_7",
+      "description": "SST-1014-one 233 follow this · Movie"
+    },
+    {
+      "uid": "35_8",
+      "description": "KLD-1017-oneone 32 follow this · Movie"
+    },
+    {
+      "uid": "35_9",
+      "description": "ONEighty Athletics @ONEightyAthletics· 142.6K follow this · Product/service @oneightyathletics· 71K followers"
+    },
+    {
+      "uid": "35_10",
+      "description": "OneBag 101 follow this · Bags/Luggage @onebagdk· 57 followers"
+    },
+    {
+      "uid": "35_11",
+      "description": "OneRace Events @theonerace.events· 8.8K follow this · Recreation & sports website @theonerace.events· 4.4K followers"
+    },
+    {
+      "uid": "35_12",
+      "description": "One Minutes Shop @one.minutes.shop· 864 follow this · Clothing Store @one_minutes____· 80.8K followers"
+    }
+  ]
+}

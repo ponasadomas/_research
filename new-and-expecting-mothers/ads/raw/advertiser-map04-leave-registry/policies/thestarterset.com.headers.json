@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:45:33 GMT",
+    "Content-Type": "text/plain; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "CF-Ray": "a4fc2b4e5f68e1bb-RIX",
+    "CF-Cache-Status": "HIT",
+    "Content-Encoding": "gzip",
+    "Last-Modified": "Sat, 24 Oct 2026 21:45:33 GMT",
+    "Server": "cloudflare",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "accept-encoding",
+    "content-security-policy": "frame-ancestors 'self'",
+    "surrogate-control": "max-age=43200",
+    "surrogate-key": "www.thestarterset.com 680ce3198bb637f136eaad81",
+    "x-frame-options": "SAMEORIGIN",
+    "x-robots-tag": "noindex",
+    "x-wf-region": "us-east-1",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "redirects": [
+    {
+      "url": "https://thestarterset.com/robots.txt",
+      "status": 301,
+      "headers": {
+        "Date": "Sat, 24 Oct 2026 21:45:33 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "166",
+        "Connection": "keep-alive",
+        "Location": "https://www.thestarterset.com/robots.txt",
+        "set-cookie": "_cfuvid=onZZQmB3abEE7qTwNcBztilBC_UZWeTm7qwW6EYuOUI-1792878332.92109-1.0.1.1-YP8sNroAdUY1Tpgu_bYqEZJFcbu6HUctqyWp0O3MYOU; HttpOnly; SameSite=None; Secure; Path=/; Domain=thestarterset.com",
+        "CF-Ray": "a4fc2b4cbf23e4e8-RIX",
+        "CF-Cache-Status": "BYPASS",
+        "Cache-Control": "private",
+        "Server": "cloudflare",
+        "Strict-Transport-Security": "max-age=31536000",
+        "content-security-policy": "frame-ancestors 'self'",
+        "x-frame-options": "SAMEORIGIN",
+        "x-wf-region": "us-east-1",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

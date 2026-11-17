@@ -1,0 +1,10 @@
+SOURCE: https://wellspringlactation.com/robots.txt
+HTTP: 200
+ERROR: 
+
+User-agent: *
+Allow: /
+Disallow: /keystatic
+Disallow: /api/
+
+Sitemap: https://www.wellspringlactation.com/sitemap-index.xml

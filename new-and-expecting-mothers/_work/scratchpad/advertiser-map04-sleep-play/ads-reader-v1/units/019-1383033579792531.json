@@ -1,0 +1,38 @@
+{
+  "ad_id": "1383033579792531",
+  "advertiser": "Taking Cara Babies",
+  "page_id": "362568527156955",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/019-taking-cara-babies-page.json",
+  "capture_sha256": "90087c5f484111bbc2fba4fd4f642e2dff76af3b3a8273ceb5b83244053f8008",
+  "native_pointer": "connections[0].edges[13].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=362568527156955",
+  "captured_at": "2026-10-24T21:50:13.463Z",
+  "is_active": true,
+  "start_utc": "2026-02-14T08:00:00+00:00",
+  "display_format": "VIDEO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1383033579792531",
+  "snapshot_sha256": "68a4551a3378c093c0bdd547b04feaa10df82555e520abd567f6246ed295b706",
+  "text_fields": {
+    "body": {
+      "text": "You’ve been told sleepless nights are just part of it.\nBut what if they didn’t have to be?\n\nI’m Cara. Neonatal nurse. Mom. Sleep expert. I created a class to help babies and parents rest—starting from the very first weeks.\nLearn how to calm your fussy baby, understand their cues, and set your nights up for success."
+    },
+    "title": "Newborn Sleep Help.",
+    "caption": "www.takingcarababies.com",
+    "link_description": null,
+    "link_url": "https://www.takingcarababies.com/products/newborn-sleep-bundle",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "220d4d4bdbfa0568e225de8459a5295c1c9f07bae248dff21717b1fed8af08a8",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 1,
+  "cards_count": 0
+}

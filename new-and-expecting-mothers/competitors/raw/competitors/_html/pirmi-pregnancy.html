@@ -1,0 +1,3011 @@
+<!doctype html>
+<html class="js" lang="lt">
+ 
+  <head><script data-source-attribution="shopify.exit_interstitial">(()=>{var s=Function.prototype.bind.bind(Function.prototype.call),L=(r,o)=>{for(let a=r;a;a=Object.getPrototypeOf(a)){let u=Object.getOwnPropertyDescriptor(a,o);if(u)return u}throw new TypeError(`${o} is not defined`)},i=(r,o)=>s(L(r,o).get),k=(r,o)=>s(L(r,o).set);var Ct=s(String.prototype.endsWith),f=s(RegExp.prototype.exec),Tt=/^_(self|top|parent)$/i,Dt=/(^|\s)noreferrer(\s|$)/i,A=/^(no-referrer(-when-downgrade)?|same-origin|(strict-)?origin(-when-cross-origin)?|unsafe-url)$/i,$t=/^(never|default|always|origin-when-crossorigin)$/i,C=/^(no-referrer|same-origin|never)$/i,T=r=>{let o=`.${r}`;return a=>a===r||Ct(a,o)},D=(r,o,a)=>r!==void 0&&(r.protocol==="https:"||r.protocol==="http:")&&r.origin!==o&&!a(r.hostname),$=(r,o,a)=>r!==null&&f(Dt,r)!==null?!0:o!==null&&f(A,o)!==null?f(C,o)!==null:a,K=(r,o)=>f(A,r)!==null||f($t,r)!==null?f(C,r)!==null:o,M=(r,{metaKey:o,ctrlKey:a,shiftKey:u,button:y})=>r&&f(Tt,r)===null?r:o||a||u||y===1?"_blank":"";var Kt="http://www.w3.org/2000/svg",Mt="http://www.w3.org/1999/xlink";function U(r){let o=window;if(o.top!==o)return;let a=document,u=o.navigation,y=location.origin,d=URL,E=i(d.prototype,"href"),W=i(d.prototype,"origin"),B=i(d.prototype,"protocol"),F=i(d.prototype,"hostname"),h=s(Event.prototype.preventDefault),q=s(Event.prototype.stopPropagation),b=s(Event.prototype.stopImmediatePropagation),H=s(Event.prototype.composedPath),Y=i(Event.prototype,"type"),j=i(Event.prototype,"cancelable"),G=i(Event.prototype,"defaultPrevented"),V=i(Event.prototype,"bubbles"),X=i(Event.prototype,"cancelBubble"),z=k(Event.prototype,"cancelBubble"),J=i(MouseEvent.prototype,"button"),Q=i(MouseEvent.prototype,"metaKey"),Z=i(MouseEvent.prototype,"ctrlKey"),tt=i(MouseEvent.prototype,"shiftKey"),et=u&&i(NavigateEvent.prototype,"destination"),ot=u&&i(NavigationDestination.prototype,"url"),R=u&&i(NavigateEvent.prototype,"navigationType"),nt=u&&i(NavigateEvent.prototype,"formData"),g=s(Element.prototype.getAttribute),rt=s(Element.prototype.getAttributeNS),st=i(Element.prototype,"localName"),it=i(Element.prototype,"namespaceURI"),ct=s(Document.prototype.querySelector),at=s(Document.prototype.querySelectorAll),lt=i(NodeList.prototype,"length"),pt=s(NodeList.prototype.item),ut=i(Node.prototype,"baseURI"),ft=s(o.open),dt=s(location.assign),gt=s(location.replace),yt=encodeURIComponent,_t=s(String.prototype.startsWith),m=s(o.setTimeout),mt=s(o.addEventListener),Et=s(o.removeEventListener),v=Object.defineProperties,ht=T(r.site),N=E(new d(r.exitPath,y)),bt=`${N}?`,S=(t,e)=>{try{let n=new d(t,e);return{href:E(n),origin:W(n),protocol:B(n),hostname:F(n)}}catch{return}},Rt=(t,e,n)=>{let c=n?"&noreferrer=1":"";return`${N}?q=${yt(t.href)}&trigger=${e}${c}`},w=()=>{let t=at(a,'meta[name="referrer" i][content]'),e=!1;for(let n=0;n<lt(t);n+=1)e=K(g(pt(t,n),"content"),e);return e},P=(t,e,{target:n,noReferrer:c,replaces:l})=>{let p=Rt(t,e,c);if(n){ft(o,p,n,"noopener");return}(l?gt:dt)(location,p)},_,vt=(t,e)=>{_={href:t.href,noReferrer:e},m(o,()=>{_=void 0},0)},x=t=>D(t,y,ht),Nt=t=>t!==void 0&&_t(t.href,bt),St=t=>{let e=S(ot(et(t)));if(Nt(e)){b(t);return}if(!j(t)||R(t)==="traverse"||!x(e)||nt(t)!==null)return;h(t);let n=_;_=void 0;let c={target:"",noReferrer:n!==void 0&&n.href===e.href?n.noReferrer:w(),replaces:R(t)==="replace"};P(e,"navigate",c)},wt=t=>{try{return st(t)}catch{return}},Pt=t=>{let e=g(t,"href");return e===null&&it(t)===Kt?rt(t,Mt,"href"):e},xt=t=>{let e=H(t);for(let n=0;n<e.length;n+=1){let c=e[n],l=wt(c);if(l==="a"||l==="area"){let p=Pt(c);if(p!==null)return{node:c,href:p}}}},Ot=t=>{let e=g(t,"target");if(e!==null)return e;let n=ct(a,"base[target]");return n?g(n,"target"):""},It=t=>{try{return{metaKey:Q(t),ctrlKey:Z(t),shiftKey:tt(t),button:J(t)}}catch{return}},Lt=t=>{let e=!1,n=()=>{e=!0};return v(t,{__proto__:null,preventDefault:{__proto__:null,configurable:!0,value:n},defaultPrevented:{__proto__:null,configurable:!0,get:()=>e},returnValue:{__proto__:null,configurable:!0,get:()=>!e,set:c=>{c||n()}}}),()=>e},kt=(t,e,n)=>{let c=!1,l=()=>{if(c||(c=!0,G(t)))return;h(t);let p=Lt(t);m(o,()=>{p()||n()},0)};if(!V(t)){l();return}mt(o,e,l,{__proto__:null,once:!0}),m(o,()=>{c=!0,Et(o,e,l)},0),v(t,{__proto__:null,stopPropagation:{__proto__:null,configurable:!0,value:()=>{l(),q(t)}},stopImmediatePropagation:{__proto__:null,configurable:!0,value:()=>{l(),b(t)}},cancelBubble:{__proto__:null,configurable:!0,get:()=>X(t),set:p=>{p&&l(),z(t,p)}}})},O=t=>{let e=Y(t),n=It(t);if(!n||e==="auxclick"&&n.button!==1)return;let c=xt(t);if(!c)return;let l=S(c.href,ut(a));if(!x(l))return;let p=$(g(c.node,"rel"),g(c.node,"referrerpolicy"),w()),I=M(Ot(c.node),n);if(!I&&u){vt(l,p);return}let At={target:I,noReferrer:p,replaces:!1};kt(t,e,()=>P(l,e,At))};u?.addEventListener("navigate",St,!0),o.addEventListener("click",O,!0),o.addEventListener("auxclick",O,!0)}U({"site":"pirmizingsniai.lt","exitPath":"\/url"});})();
+//# sourceURL=exit-interstitial.js
+</script>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="theme-color" content="">
+    <link rel="canonical" href="https://pirmizingsniai.lt/products/nesciosios-gidas"><link rel="icon" type="image/png" href="//pirmizingsniai.lt/cdn/shop/files/pirmi_zingsniai_favicon.png?crop=center&height=32&v=1777630654&width=32"><link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin><title>
+      Nėščiosios gidas
+ &ndash; Pirmi žingsniai</title>
+
+    
+
+    
+
+<meta property="og:site_name" content="Pirmi žingsniai">
+<meta property="og:url" content="https://pirmizingsniai.lt/products/nesciosios-gidas">
+<meta property="og:title" content="Nėščiosios gidas">
+<meta property="og:type" content="product">
+<meta property="og:description" content="Pirmi žingsniai"><meta property="og:image" content="http://pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008">
+  <meta property="og:image:secure_url" content="https://pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008">
+  <meta property="og:image:width" content="1024">
+  <meta property="og:image:height" content="1024"><meta property="og:price:amount" content="29,95">
+  <meta property="og:price:currency" content="EUR"><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Nėščiosios gidas">
+<meta name="twitter:description" content="Pirmi žingsniai">
+
+
+    <script src="//pirmizingsniai.lt/cdn/shop/t/3/assets/constants.js?v=132983761750457495441781006079" defer="defer"></script>
+    <script src="//pirmizingsniai.lt/cdn/shop/t/3/assets/pubsub.js?v=25310214064522200911781006079" defer="defer"></script>
+    <script src="//pirmizingsniai.lt/cdn/shop/t/3/assets/global.js?v=7301445359237545521781006079" defer="defer"></script>
+    <script src="//pirmizingsniai.lt/cdn/shop/t/3/assets/details-disclosure.js?v=13653116266235556501781006079" defer="defer"></script>
+    <script src="//pirmizingsniai.lt/cdn/shop/t/3/assets/details-modal.js?v=25581673532751508451781006079" defer="defer"></script>
+    <script src="//pirmizingsniai.lt/cdn/shop/t/3/assets/search-form.js?v=133129549252120666541781006079" defer="defer"></script><script src="//pirmizingsniai.lt/cdn/shop/t/3/assets/animations.js?v=88693664871331136111781006079" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/102429393238/digital_wallets/dialog">
+<meta id="in-context-paypal-metadata" data-shop-id="102429393238" data-venmo-supported="false" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="EUR">
+<link rel="ucp" href="/.well-known/ucp" version="2026-08-25"><link rel="buy" href="/cart/54144289014102:1?ucp/version=2026-08-25&amp;context/payment/0/handler=dev.shopify.shop_pay" payment="dev.shopify.shop_pay com.google.pay dev.shopify.card"><link rel="alternate" type="application/json+oembed" href="https://pirmizingsniai.lt/products/nesciosios-gidas.oembed">
+<script async="async" src="/checkouts/internal/preloads.js?locale=lt-LT"></script>
+<link rel="preconnect" href="https://shop.app" crossorigin="anonymous">
+<script async="async" src="https://shop.app/checkouts/internal/preloads.js?locale=lt-LT&shop_id=102429393238" crossorigin="anonymous"></script>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":102429393238,"countryCode":"LT","currencyCode":"EUR","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/102429393238","merchantName":"Pirmi žingsniai","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","maestro","masterCard","amex"],"total":{"type":"pending","label":"Pirmi žingsniai","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":true}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"6ab0f1c1282fa3630d5c7bea64fdf010","betas":["rich-media-storefront-analytics"],"domain":"pirmizingsniai.lt","predictiveSearch":true,"shopId":102429393238,"locale":"lt"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "i3edwn-jc.myshopify.com";
+Shopify.locale = "lt";
+Shopify.currency = {"active":"EUR","rate":"1.0"};
+Shopify.country = "LT";
+Shopify.theme = {"name":"Copy of Dawn","id":201511797078,"schema_name":"Dawn","schema_version":"15.4.1","theme_store_id":887,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "pirmizingsniai.lt/cdn";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";
+Shopify.shopJsCdnBaseUrl = "https://cdn.shopify.com/shopifycloud/shop-js";
+Shopify.SignInWithShop = Shopify.SignInWithShop || {};
+Shopify.SignInWithShop.User = Shopify.SignInWithShop.User || {};
+Shopify.SignInWithShop.User.recognized = false;</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>
+  window.ShopifyPay = window.ShopifyPay || {};
+  window.ShopifyPay.apiHost = "shop.app\/pay";
+  window.ShopifyPay.redirectState = null;
+</script>
+<script>
+  window.Shopify = window.Shopify || {};
+  window.Shopify.SignInWithShop = window.Shopify.SignInWithShop || {};
+  window.Shopify.SignInWithShop.assetMetrics = { sampleRate: 0.25 };
+  window.Shopify.SignInWithShop.eligible = true;
+</script>
+<script id="shop-js-analytics" type="application/json">{"pageType":"product"}</script>
+<script defer="defer" async type="module" src="https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/loader.init-shop-cart-sync.lt-LT.esm.js"></script>
+<script type="module">
+  await import("https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/loader.init-shop-cart-sync.lt-LT.esm.js");
+
+  window.Shopify.SignInWithShop?.initShopCartSync?.({"fedCMEnabled":true,"windoidEnabled":true,"backendHost":"cGlybWl6aW5nc25pYWkubHQ="});
+
+</script>
+<script>
+  window.Shopify = window.Shopify || {};
+  if (!window.Shopify.featureAssets) window.Shopify.featureAssets = {};
+  window.Shopify.featureAssets['shop-js'] = {"avatar":["modules/v2/loader.avatar.lt-LT.esm.js"],"checkout-modal":["modules/v2/loader.checkout-modal.lt-LT.esm.js"],"init-customer-accounts-sign-up":["modules/v2/loader.init-customer-accounts-sign-up.lt-LT.esm.js"],"init-customer-accounts":["modules/v2/loader.init-customer-accounts.lt-LT.esm.js"],"init-fed-cm":["modules/v2/loader.init-fed-cm.lt-LT.esm.js"],"init-shop-cart-sync":["modules/v2/loader.init-shop-cart-sync.lt-LT.esm.js"],"init-shop-email-lookup-coordinator":["modules/v2/loader.init-shop-email-lookup-coordinator.lt-LT.esm.js"],"init-shop-for-new-customer-accounts":["modules/v2/loader.init-shop-for-new-customer-accounts.lt-LT.esm.js"],"init-shop-user-recognition":["modules/v2/loader.init-shop-user-recognition.lt-LT.esm.js"],"init-windoid":["modules/v2/loader.init-windoid.lt-LT.esm.js"],"lead-capture":["modules/v2/loader.lead-capture.lt-LT.esm.js"],"listener":["modules/v2/loader.listener.lt-LT.esm.js"],"pay-button":["modules/v2/loader.pay-button.lt-LT.esm.js"],"payment-terms":["modules/v2/loader.payment-terms.lt-LT.esm.js"],"shop-button":["modules/v2/loader.shop-button.lt-LT.esm.js"],"shop-cart-sync":["modules/v2/loader.shop-cart-sync.lt-LT.esm.js"],"shop-cash-offers":["modules/v2/loader.shop-cash-offers.lt-LT.esm.js"],"shop-follow-button":["modules/v2/loader.shop-follow-button.lt-LT.esm.js"],"shop-login-button":["modules/v2/loader.shop-login-button.lt-LT.esm.js"],"shop-login":["modules/v2/loader.shop-login.lt-LT.esm.js"],"shop-toast-manager":["modules/v2/loader.shop-toast-manager.lt-LT.esm.js"],"shop-user-recognition":["modules/v2/loader.shop-user-recognition.lt-LT.esm.js"]};
+</script>
+<script id="__st">var __st={"a":102429393238,"offset":10800,"reqid":"9616fa22-0764-4613-9b4b-554352f62a7b-1792841625","pageurl":"pirmizingsniai.lt\/products\/nesciosios-gidas","u":"e14daeb8d67c","p":"product","rtyp":"product","rid":10844064186710};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script id="captcha-bootstrap">!function(){'use strict';const t='contact',e='account',n='new_comment',o=[[t,t],['blogs',n],['comments',n],[t,'customer']],c=[[e,'customer_login'],[e,'guest_login'],[e,'recover_customer_password'],[e,'create_customer']],r=t=>t.map((([t,e])=>`form[action*='/${t}']:not([data-nocaptcha='true']) input[name='form_type'][value='${e}']`)).join(','),a=t=>()=>t?[...document.querySelectorAll(t)].map((t=>t.form)):[];function s(){const t=[...o],e=r(t);return a(e)}const i='password',u='form_key',d=['recaptcha-v3-token','g-recaptcha-response','h-captcha-response',i],f=()=>{try{return window.sessionStorage}catch{return}},m='__shopify_v',_=t=>t.elements[u];function p(t,e,n=!1){try{const o=window.sessionStorage,c=JSON.parse(o.getItem(e)),{data:r}=function(t){const{data:e,action:n}=t;return t[m]||n?{data:e,action:n}:{data:t,action:n}}(c);for(const[e,n]of Object.entries(r))t.elements[e]&&(t.elements[e].value=n);n&&o.removeItem(e)}catch(o){console.error('form repopulation failed',{error:o})}}const l='form_type',E='cptcha';function T(t){t.dataset[E]=!0}const w=window,h=w.document,L='Shopify',v='ce_forms',y='captcha';let A=!1;((t,e)=>{const n=(g='f06e6c50-85a8-45c8-87d0-21a2b65856fe',I='https://cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_hcaptcha.v1.5.3.iife.js',D={infoText:'Saugo „hCaptcha“',privacyText:'Privatumas',termsText:'Sąlygos'},(t,e,n)=>{const o=w[L][v],c=o.bindForm;if(c)return c(t,g,e,D).then(n);var r;o.q.push([[t,g,e,D],n]),r=I,A||(h.body.append(Object.assign(h.createElement('script'),{id:'captcha-provider',async:!0,src:r})),A=!0)});var g,I,D;w[L]=w[L]||{},w[L][v]=w[L][v]||{},w[L][v].q=[],w[L][y]=w[L][y]||{},w[L][y].protect=function(t,e){n(t,void 0,e),T(t)},Object.freeze(w[L][y]),function(t,e,n,w,h,L){const[v,y,A,g]=function(t,e,n){const i=e?o:[],u=t?c:[],d=[...i,...u],f=r(d),m=r(i),_=r(d.filter((([t,e])=>n.includes(e))));return[a(f),a(m),a(_),s()]}(w,h,L),I=t=>{const e=t.target;return e instanceof HTMLFormElement?e:e&&e.form},D=t=>v().includes(t);t.addEventListener('submit',(t=>{const e=I(t);if(!e)return;const n=D(e)&&!e.dataset.hcaptchaBound&&!e.dataset.recaptchaBound,o=_(e),c=g().includes(e)&&(!o||!o.value);(n||c)&&t.preventDefault(),c&&!n&&(function(t){try{if(!f())return;!function(t){const e=f();if(!e)return;const n=_(t);if(!n)return;const o=n.value;o&&e.removeItem(o)}(t);const e=Array.from(Array(32),(()=>Math.random().toString(36)[2])).join('');!function(t,e){_(t)||t.append(Object.assign(document.createElement('input'),{type:'hidden',name:u})),t.elements[u].value=e}(t,e),function(t,e){const n=f();if(!n)return;const o=[...t.querySelectorAll(`input[type='${i}']`)].map((({name:t})=>t)),c=[...d,...o],r={};for(const[a,s]of new FormData(t).entries())c.includes(a)||(r[a]=s);n.setItem(e,JSON.stringify({[m]:1,action:t.action,data:r}))}(t,e)}catch(e){console.error('failed to persist form',e)}}(e),e.submit())}));const S=(t,e)=>{t&&!t.dataset[E]&&(n(t,e.some((e=>e===t))),T(t))};for(const o of['focusin','change'])t.addEventListener(o,(t=>{const e=I(t);D(e)&&S(e,y())}));const B=e.get('form_key'),M=e.get(l),P=B&&M;t.addEventListener('DOMContentLoaded',(()=>{const t=y();if(P)for(const e of t)e.elements[l].value===M&&p(e,B);[...new Set([...A(),...v().filter((t=>'true'===t.dataset.shopifyCaptcha))])].forEach((e=>S(e,t)))}))}(h,new URLSearchParams(w.location.search),n,t,e,['guest_login'])})(!0,!0)}();</script>
+<script integrity="sha256-FYHzja/5XSmzkjz6zHj7s4rACJGFuVoYZdumgoO2Ecs=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//pirmizingsniai.lt/cdn/shopifycloud/storefront/assets/storefront/load_feature-ed94c51f.js" crossorigin="anonymous"></script>
+<script>(function () {var userAgent = navigator.userAgent;var platform = navigator.platform;var maxTouchPoints = navigator.maxTouchPoints || 0;var isIOS = /iPad|iPhone|iPod/.test(platform) || (platform === 'MacIntel' && maxTouchPoints > 1);var isMacSafari = platform.indexOf('Mac') === 0 && /Safari/.test(userAgent) && !/Chrome|Chromium|CriOS|FxiOS|Edg|OPR|Android/.test(userAgent);var isAppleSafari = isIOS || isMacSafari;if (isAppleSafari) {fetch('/sf_private_access_tokens' + location.search).catch(function () {});}function browserMajorVersion(pattern) {var match = userAgent.match(pattern);return match ? parseInt(match[1], 10) : null;}function shouldLoadAutosizesPolyfill() {if (!window.PerformanceObserver?.supportedEntryTypes?.includes('paint')) {return false;}var chromeVersion = browserMajorVersion(/Chrome\/(\d+)/);if (chromeVersion !== null) {return chromeVersion < 126;}var firefoxVersion = browserMajorVersion(/Firefox\/(\d+)/);if (firefoxVersion !== null) {return firefoxVersion < 150;}var safariVersion = isAppleSafari ? browserMajorVersion(/Version\/(\d+).*Safari\//) : null;if (safariVersion !== null) {return safariVersion < 27;}return true;}if (shouldLoadAutosizesPolyfill()) {var autosizesScript = document.createElement('script');autosizesScript.async = true;autosizesScript.crossOrigin = 'anonymous';autosizesScript.src = "//pirmizingsniai.lt/cdn/shopifycloud/storefront/assets/storefront/autosizes-84416378.js";(document.head || document.documentElement).appendChild(autosizesScript);}window.ShopifyAnalytics = window.ShopifyAnalytics || {};window.ShopifyAnalytics.performance = window.ShopifyAnalytics.performance || {};(function () {var LONG_FRAME_THRESHOLD = 50;var longAnimationFrames = [];var activeRafId = null;function collectLongFrames() {var previousTime = null;function rafMonitor(now) {if (activeRafId === null) {return;}var delta = now - previousTime;if (delta > LONG_FRAME_THRESHOLD) {longAnimationFrames.push({startTime: previousTime,endTime: now,});}previousTime = now;activeRafId = requestAnimationFrame(rafMonitor);}previousTime = performance.now();activeRafId = requestAnimationFrame(rafMonitor);}if (!window.PerformanceObserver?.supportedEntryTypes?.includes('long-animation-frame')) {collectLongFrames();var timeoutId = setTimeout(function () {cancelAnimationFrame(activeRafId);}, 10000);window.ShopifyAnalytics.performance.getLongAnimationFrames = function (stopCollection) {if (stopCollection === undefined) {stopCollection = false;}if (stopCollection) {clearTimeout(timeoutId);cancelAnimationFrame(activeRafId);}return longAnimationFrames;};}})();})();</script><script crossorigin="anonymous" defer="defer" src="//pirmizingsniai.lt/cdn/shopifycloud/storefront/assets/shopify_pay/storefront-f0e26bdf.js?v=20250812"></script>
+<script id="shopify-origin-trials" async="async" integrity="sha256-qJbe/jEZBHtr5W/BlA2cKAz3vkXu6vJQyLjgvgCC86g=" src="//cdn.shopify.com/shopifycloud/storefront/assets/storefront/origin_trials-318ab40a.js" crossorigin="anonymous" onload="window.__shopifyOriginTrialsDone = true" onerror="window.__shopifyOriginTrialsDone = true"></script>
+<script>(()=>{var d="shopify:webmcp_adapter_loaded",n=Symbol.for("shopify.webmcp_adapter_loading");function s(c,a,{win:r=window,doc:o=document}={}){function p(){try{return r.localStorage.getItem(d)==="true"}catch{return!1}}function l(){try{r.localStorage.setItem(d,"true")}catch{}}function u(){return typeof(o.modelContext||r.navigator?.modelContext)?.registerTool=="function"}function f(){if(r[n]||!u())return;let t=o.head||o.getElementsByTagName("head")[0];if(!t)return;let e=o.createElement("script");e.type="module",e.crossOrigin="anonymous",a&&(e.integrity=a),e.src=c,e.addEventListener("load",l,{once:!0}),e.addEventListener("error",()=>{r[n]=!1},{once:!0}),t.appendChild(e),r[n]=!0}function _(t){let e=o.getElementById("shopify-origin-trials");if(!e||r.__shopifyOriginTrialsDone){t();return}e.addEventListener("load",t,{once:!0}),e.addEventListener("error",t,{once:!0})}function i(){_(()=>r.setTimeout(f,0))}function m(){o.addEventListener("DOMContentLoaded",i,{once:!0})}p()?i():m()}s("\/\/pirmizingsniai.lt\/cdn\/shopifycloud\/storefront\/assets\/storefront\/webmcp-23c12384.js","sha256-r8Pww6V2udgtSdaVbcRtdZ4Kg+gXP7aLPZOtQSJPrbM=");})();
+</script>
+<script data-source-attribution="shopify.dynamic_checkout.dynamic.init">var Shopify=Shopify||{};Shopify.PaymentButton=Shopify.PaymentButton||{isStorefrontPortableWallets:!0,init:function(){window.Shopify.PaymentButton.init=function(){};var t=document.createElement("script");t.src="https://pirmizingsniai.lt/cdn/shopifycloud/portable-wallets/latest/portable-wallets.lt.js",t.type="module",document.head.appendChild(t)}};
+</script>
+<script data-source-attribution="shopify.dynamic_checkout.buyer_consent">
+  function portableWalletsHideBuyerConsent(e){var t=document.getElementById("shopify-buyer-consent"),n=document.getElementById("shopify-subscription-policy-button");t&&n&&(t.classList.add("hidden"),t.setAttribute("aria-hidden","true"),n.removeEventListener("click",e))}function portableWalletsShowBuyerConsent(e){var t=document.getElementById("shopify-buyer-consent"),n=document.getElementById("shopify-subscription-policy-button");t&&n&&(t.classList.remove("hidden"),t.removeAttribute("aria-hidden"),n.addEventListener("click",e))}window.Shopify?.PaymentButton&&(window.Shopify.PaymentButton.hideBuyerConsent=portableWalletsHideBuyerConsent,window.Shopify.PaymentButton.showBuyerConsent=portableWalletsShowBuyerConsent);
+</script>
+<script data-source-attribution="shopify.dynamic_checkout.cart.bootstrap">document.addEventListener("DOMContentLoaded",(function(){function t(){return document.querySelector("shopify-accelerated-checkout-cart, shopify-accelerated-checkout")}if(t())Shopify.PaymentButton.init();else{new MutationObserver((function(e,n){t()&&(Shopify.PaymentButton.init(),n.disconnect())})).observe(document.body,{childList:!0,subtree:!0})}}));
+</script>
+<script id='scb4127' type='text/javascript' async='' src='https://pirmizingsniai.lt/cdn/shopifycloud/privacy-banner/privacy-banner.js'></script><link id="shopify-accelerated-checkout-styles" rel="stylesheet" media="screen" href="https://pirmizingsniai.lt/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css" crossorigin="anonymous">
+<style id="shopify-accelerated-checkout-cart">
+        #shopify-buyer-consent {
+  margin-top: 1em;
+  display: inline-block;
+  width: 100%;
+}
+
+#shopify-buyer-consent.hidden {
+  display: none;
+}
+
+#shopify-subscription-policy-button {
+  background: none;
+  border: none;
+  padding: 0;
+  text-decoration: underline;
+  font-size: inherit;
+  cursor: pointer;
+}
+
+#shopify-subscription-policy-button::before {
+  box-shadow: none;
+}
+
+      </style>
+<script id="sections-script" data-sections="header" defer="defer" src="//pirmizingsniai.lt/cdn/shop/t/3/compiled_assets/scripts.js?v=90487813905515327061781006079"></script>
+<script id="shopify-cfh-end">window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+
+
+    <style data-shopify>
+      @font-face {
+  font-family: "DM Serif Text";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//pirmizingsniai.lt/cdn/fonts/dm_serif_text/dmseriftext_n4.9b44cd71847531f863145b4a08382f54a13aa00b.woff2") format("woff2"),
+       url("//pirmizingsniai.lt/cdn/fonts/dm_serif_text/dmseriftext_n4.c4ba520d9eb678ccfe1acb3dcce65b0cf2c739fa.woff") format("woff");
+}
+
+      
+      @font-face {
+  font-family: "DM Serif Text";
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("//pirmizingsniai.lt/cdn/fonts/dm_serif_text/dmseriftext_i4.edc7a23c2d0e0cb5cfa4e34d5e6635278b32f15f.woff2") format("woff2"),
+       url("//pirmizingsniai.lt/cdn/fonts/dm_serif_text/dmseriftext_i4.37caa823fbdc6316b8470d0eaac505a6b5ee0d47.woff") format("woff");
+}
+
+      
+      @font-face {
+  font-family: "DM Serif Display";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//pirmizingsniai.lt/cdn/fonts/dm_serif_display/dmserifdisplay_n4.d2fb62d84e79a0e0554bcf26e5e3d5bd86318b17.woff2") format("woff2"),
+       url("//pirmizingsniai.lt/cdn/fonts/dm_serif_display/dmserifdisplay_n4.776a8bf9adeb2bdfa35851c8b8f6488e4bd0da4e.woff") format("woff");
+}
+
+
+      
+        :root,
+        .color-scheme-1 {
+          --color-background: 255,255,255;
+        
+          --gradient-background: #ffffff;
+        
+
+        
+
+        --color-foreground: 18,18,18;
+        --color-background-contrast: 191,191,191;
+        --color-shadow: 18,18,18;
+        --color-button: 51,103,86;
+        --color-button-text: 255,255,255;
+        --color-secondary-button: 255,255,255;
+        --color-secondary-button-text: 51,103,86;
+        --color-link: 51,103,86;
+        --color-badge-foreground: 18,18,18;
+        --color-badge-background: 255,255,255;
+        --color-badge-border: 18,18,18;
+        --payment-terms-background-color: rgb(255 255 255);
+      }
+      
+        
+        .color-scheme-2 {
+          --color-background: 243,243,243;
+        
+          --gradient-background: #f3f3f3;
+        
+
+        
+
+        --color-foreground: 18,18,18;
+        --color-background-contrast: 179,179,179;
+        --color-shadow: 18,18,18;
+        --color-button: 18,18,18;
+        --color-button-text: 243,243,243;
+        --color-secondary-button: 243,243,243;
+        --color-secondary-button-text: 18,18,18;
+        --color-link: 18,18,18;
+        --color-badge-foreground: 18,18,18;
+        --color-badge-background: 243,243,243;
+        --color-badge-border: 18,18,18;
+        --payment-terms-background-color: rgb(243 243 243);
+      }
+      
+        
+        .color-scheme-3 {
+          --color-background: 36,40,51;
+        
+          --gradient-background: #242833;
+        
+
+        
+
+        --color-foreground: 255,255,255;
+        --color-background-contrast: 47,52,66;
+        --color-shadow: 18,18,18;
+        --color-button: 255,255,255;
+        --color-button-text: 0,0,0;
+        --color-secondary-button: 36,40,51;
+        --color-secondary-button-text: 255,255,255;
+        --color-link: 255,255,255;
+        --color-badge-foreground: 255,255,255;
+        --color-badge-background: 36,40,51;
+        --color-badge-border: 255,255,255;
+        --payment-terms-background-color: rgb(36 40 51);
+      }
+      
+        
+        .color-scheme-4 {
+          --color-background: 233,169,96;
+        
+          --gradient-background: #e9a960;
+        
+
+        
+
+        --color-foreground: 255,255,255;
+        --color-background-contrast: 177,106,24;
+        --color-shadow: 18,18,18;
+        --color-button: 255,255,255;
+        --color-button-text: 18,18,18;
+        --color-secondary-button: 233,169,96;
+        --color-secondary-button-text: 255,255,255;
+        --color-link: 255,255,255;
+        --color-badge-foreground: 255,255,255;
+        --color-badge-background: 233,169,96;
+        --color-badge-border: 255,255,255;
+        --payment-terms-background-color: rgb(233 169 96);
+      }
+      
+        
+        .color-scheme-5 {
+          --color-background: 57,100,91;
+        
+          --gradient-background: #39645b;
+        
+
+        
+
+        --color-foreground: 255,255,255;
+        --color-background-contrast: 11,19,17;
+        --color-shadow: 18,18,18;
+        --color-button: 255,255,255;
+        --color-button-text: 51,103,86;
+        --color-secondary-button: 57,100,91;
+        --color-secondary-button-text: 255,255,255;
+        --color-link: 255,255,255;
+        --color-badge-foreground: 255,255,255;
+        --color-badge-background: 57,100,91;
+        --color-badge-border: 255,255,255;
+        --payment-terms-background-color: rgb(57 100 91);
+      }
+      
+
+      body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5 {
+        color: rgba(var(--color-foreground), 0.75);
+        background-color: rgb(var(--color-background));
+      }
+
+      :root {
+        --font-body-family: "DM Serif Text", serif;
+        --font-body-style: normal;
+        --font-body-weight: 400;
+        --font-body-weight-bold: 700;
+
+        --font-heading-family: "DM Serif Display", serif;
+        --font-heading-style: normal;
+        --font-heading-weight: 400;
+
+        --font-body-scale: 1.05;
+        --font-heading-scale: 0.9523809523809523;
+
+        --media-padding: px;
+        --media-border-opacity: 0.05;
+        --media-border-width: 1px;
+        --media-radius: 10px;
+        --media-shadow-opacity: 0.0;
+        --media-shadow-horizontal-offset: 0px;
+        --media-shadow-vertical-offset: 4px;
+        --media-shadow-blur-radius: 5px;
+        --media-shadow-visible: 0;
+
+        --page-width: 120rem;
+        --page-width-margin: 0rem;
+
+        --product-card-image-padding: 0.0rem;
+        --product-card-corner-radius: 0.0rem;
+        --product-card-text-alignment: left;
+        --product-card-border-width: 0.0rem;
+        --product-card-border-opacity: 0.1;
+        --product-card-shadow-opacity: 0.0;
+        --product-card-shadow-visible: 0;
+        --product-card-shadow-horizontal-offset: 0.0rem;
+        --product-card-shadow-vertical-offset: 0.4rem;
+        --product-card-shadow-blur-radius: 0.5rem;
+
+        --collection-card-image-padding: 0.0rem;
+        --collection-card-corner-radius: 0.0rem;
+        --collection-card-text-alignment: left;
+        --collection-card-border-width: 0.0rem;
+        --collection-card-border-opacity: 0.1;
+        --collection-card-shadow-opacity: 0.0;
+        --collection-card-shadow-visible: 0;
+        --collection-card-shadow-horizontal-offset: 0.0rem;
+        --collection-card-shadow-vertical-offset: 0.4rem;
+        --collection-card-shadow-blur-radius: 0.5rem;
+
+        --blog-card-image-padding: 0.0rem;
+        --blog-card-corner-radius: 0.0rem;
+        --blog-card-text-alignment: left;
+        --blog-card-border-width: 0.0rem;
+        --blog-card-border-opacity: 0.1;
+        --blog-card-shadow-opacity: 0.0;
+        --blog-card-shadow-visible: 0;
+        --blog-card-shadow-horizontal-offset: 0.0rem;
+        --blog-card-shadow-vertical-offset: 0.4rem;
+        --blog-card-shadow-blur-radius: 0.5rem;
+
+        --badge-corner-radius: 4.0rem;
+
+        --popup-border-width: 1px;
+        --popup-border-opacity: 0.1;
+        --popup-corner-radius: 0px;
+        --popup-shadow-opacity: 0.05;
+        --popup-shadow-horizontal-offset: 0px;
+        --popup-shadow-vertical-offset: 4px;
+        --popup-shadow-blur-radius: 5px;
+
+        --drawer-border-width: 1px;
+        --drawer-border-opacity: 0.1;
+        --drawer-shadow-opacity: 0.0;
+        --drawer-shadow-horizontal-offset: 0px;
+        --drawer-shadow-vertical-offset: 4px;
+        --drawer-shadow-blur-radius: 5px;
+
+        --spacing-sections-desktop: 0px;
+        --spacing-sections-mobile: 0px;
+
+        --grid-desktop-vertical-spacing: 8px;
+        --grid-desktop-horizontal-spacing: 8px;
+        --grid-mobile-vertical-spacing: 4px;
+        --grid-mobile-horizontal-spacing: 4px;
+
+        --text-boxes-border-opacity: 0.1;
+        --text-boxes-border-width: 0px;
+        --text-boxes-radius: 0px;
+        --text-boxes-shadow-opacity: 0.0;
+        --text-boxes-shadow-visible: 0;
+        --text-boxes-shadow-horizontal-offset: 0px;
+        --text-boxes-shadow-vertical-offset: 4px;
+        --text-boxes-shadow-blur-radius: 5px;
+
+        --buttons-radius: 10px;
+        --buttons-radius-outset: 11px;
+        --buttons-border-width: 1px;
+        --buttons-border-opacity: 1.0;
+        --buttons-shadow-opacity: 0.0;
+        --buttons-shadow-visible: 0;
+        --buttons-shadow-horizontal-offset: 0px;
+        --buttons-shadow-vertical-offset: 4px;
+        --buttons-shadow-blur-radius: 5px;
+        --buttons-border-offset: 0.3px;
+
+        --inputs-radius: 10px;
+        --inputs-border-width: 1px;
+        --inputs-border-opacity: 0.15;
+        --inputs-shadow-opacity: 0.1;
+        --inputs-shadow-horizontal-offset: 0px;
+        --inputs-margin-offset: 4px;
+        --inputs-shadow-vertical-offset: 4px;
+        --inputs-shadow-blur-radius: 5px;
+        --inputs-radius-outset: 11px;
+
+        --variant-pills-radius: 40px;
+        --variant-pills-border-width: 1px;
+        --variant-pills-border-opacity: 0.55;
+        --variant-pills-shadow-opacity: 0.0;
+        --variant-pills-shadow-horizontal-offset: 0px;
+        --variant-pills-shadow-vertical-offset: 4px;
+        --variant-pills-shadow-blur-radius: 5px;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: inherit;
+      }
+
+      html {
+        box-sizing: border-box;
+        font-size: calc(var(--font-body-scale) * 62.5%);
+        height: 100%;
+      }
+
+      body {
+        display: grid;
+        grid-template-rows: auto auto 1fr auto;
+        grid-template-columns: 100%;
+        min-height: 100%;
+        margin: 0;
+        font-size: 1.5rem;
+        letter-spacing: 0.06rem;
+        line-height: calc(1 + 0.8 / var(--font-body-scale));
+        font-family: var(--font-body-family);
+        font-style: var(--font-body-style);
+        font-weight: var(--font-body-weight);
+      }
+
+      @media screen and (min-width: 750px) {
+        body {
+          font-size: 1.6rem;
+        }
+      }
+    </style>
+
+    <link href="//pirmizingsniai.lt/cdn/shop/t/3/assets/base.css?v=159841507637079171801781006079" rel="stylesheet" type="text/css" media="all" />
+    <link rel="stylesheet" href="//pirmizingsniai.lt/cdn/shop/t/3/assets/component-cart-items.css?v=13033300910818915211781006079" media="print" onload="this.media='all'"><link href="//pirmizingsniai.lt/cdn/shop/t/3/assets/component-cart-drawer.css?v=39223250576183958541781006079" rel="stylesheet" type="text/css" media="all" />
+      <link href="//pirmizingsniai.lt/cdn/shop/t/3/assets/component-cart.css?v=164708765130180853531781006079" rel="stylesheet" type="text/css" media="all" />
+      <link href="//pirmizingsniai.lt/cdn/shop/t/3/assets/component-totals.css?v=15906652033866631521781006079" rel="stylesheet" type="text/css" media="all" />
+      <link href="//pirmizingsniai.lt/cdn/shop/t/3/assets/component-price.css?v=47596247576480123001781006079" rel="stylesheet" type="text/css" media="all" />
+      <link href="//pirmizingsniai.lt/cdn/shop/t/3/assets/component-discounts.css?v=152760482443307489271781006079" rel="stylesheet" type="text/css" media="all" />
+
+      <link rel="preload" as="font" href="//pirmizingsniai.lt/cdn/fonts/dm_serif_text/dmseriftext_n4.9b44cd71847531f863145b4a08382f54a13aa00b.woff2" type="font/woff2" crossorigin>
+      
+
+      <link rel="preload" as="font" href="//pirmizingsniai.lt/cdn/fonts/dm_serif_display/dmserifdisplay_n4.d2fb62d84e79a0e0554bcf26e5e3d5bd86318b17.woff2" type="font/woff2" crossorigin>
+      
+<script>
+      if (Shopify.designMode) {
+        document.documentElement.classList.add('shopify-design-mode');
+      }
+    </script>
+  <!-- BEGIN app block: shopify://apps/gempages-builder/blocks/embed-gp-script-head/20b379d4-1b20-474c-a6ca-665c331919f3 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- END app block --><!-- BEGIN app block: shopify://apps/kaching-bundles/blocks/app-embed-block/6c637362-a106-4a32-94ac-94dcfd68cdb8 -->
+<!-- Kaching Bundles App Embed -->
+
+<!-- BEGIN app snippet: app-embed-content -->
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  // Prevent duplicate initialization if both app embeds are enabled
+  if (window.kachingBundlesAppEmbedLoaded) {
+    console.warn('[Kaching Bundles] Multiple app embed blocks detected. Please disable one of them. Skipping duplicate initialization.');
+  } else {
+    window.kachingBundlesAppEmbedLoaded = true;
+    window.kachingBundlesEnabled = true;
+    window.kachingBundlesInitialized = false;
+
+    // Allow calling kachingBundlesInitialize before the script is loaded
+    (() => {
+      let shouldInitialize = false;
+      let realInitialize = null;
+
+      window.kachingBundlesInitialize = () => {
+        if (realInitialize) {
+          realInitialize();
+        } else {
+          shouldInitialize = true;
+        }
+      };
+
+      Object.defineProperty(window, '__kachingBundlesInitializeInternal', {
+        set(fn) {
+          realInitialize = fn;
+          if (shouldInitialize) {
+            shouldInitialize = false;
+            fn();
+          }
+        },
+        get() {
+          return realInitialize;
+        }
+      });
+    })();
+  }
+</script>
+
+
+
+<script id="kaching-bundles-config" type="application/json">
+  {
+    "shopifyDomain": "i3edwn-jc.myshopify.com",
+    "moneyFormat": "€{{amount_with_comma_separator}}",
+    "locale": "lt",
+    "liquidLocale": "lt",
+    "country": "LT",
+    "currencyRate": 1,
+    "marketCurrencyCode": "EUR",
+    "marketId": 114180325718,
+    "productId": 10844064186710,
+    "storefrontAccessToken": "e89b6690f38c602b81528596b15ba2da",
+    "includeSellingPlans": true,
+    "includeAvailableQuantity": true,
+    "customApiHost": null,
+    "appEmbedCheckToken": null,
+    "keepQuantityInput": false,
+    "ignoreDeselect": false,
+    "ignoreUnitPrice": false,
+    "requireCustomerLogin": false,
+    "abTestsRunning": false,
+    "webPixel": true,
+    "b2bCustomer": false,
+    "isLoggedIn": false,
+    "isDeprecatedAppEmbed": false,
+    "preview": false,
+    "defaultTranslations": {
+      "system.out_of_stock": "Mūsų sandėlyje nėra pakankamai prekių, pasirinkite mažesnį kiekį.",
+      "system.invalid_variant": "Atsiprašome, šiuo metu šios prekės neturime.",
+      "system.unavailable_option_value": "neturime",
+      "system.confirm": "Patvirtinti",
+      "system.cancel": "Atšaukti",
+      "system.free": "NEMOKAMA",
+      "system.search": "Ieškoti",
+      "system.sort_by": "Rūšiuoti pagal",
+      "system.sort_relevance": "Aktualumas",
+      "system.sort_newest_first": "Naujausi pirmiausia",
+      "system.sort_price_low_to_high": "Kaina: Mažiausiai → Daugiausiai",
+      "system.sort_price_high_to_low": "Kaina: Daugiausiai → Mažiausiai",
+      "system.no_results_found": "Rezultatų nerasta",
+      "system.no_results_description": "Nerasta jokių prekių, atitinkančių jūsų paiēšką.",
+      "system.clear_search": "Išvalyti paiėšką",
+      "system.no_products_available": "Nėra prieinamų produktų",
+      "system.letters_only": "Galima įvesti tik raides.",
+      "system.numbers_only": "Galima įvesti tik skaičius.",
+      "system.select_variant_alert": "Prašome pasirinkti variantą.",
+      "system.select_variant_placeholder": "Pasirinkti",
+      "system.personalisation_required_alert": "Norėdami tęsti, pridėkite personalizavimą kiekvienai prekei.",
+      "system.quantity": "Kiekis",
+      "system.subscription_plan": "Prenumeratos planas",
+      "system.remove": "Pašalinti",
+      "system.original_price": "Pradinė kaina:",
+      "system.price": "Kaina:"
+
+    },
+    "customSelectors": {
+      "quantity": null,
+      "addToCartButton": null,
+      "variantPicker": null,
+      "price": null,
+      "priceCompare": null,
+      "label": null
+    },
+    "shopCustomStyles": "",
+    "brandColors": {"error":"#D72C2C","border":"#3367564D","overlay":"#000000","badgeText":"#FFFFFF","primaryText":"#121212","primaryAccent":"#336756","secondaryText":"#555555","badgeBackground":"#336756","primaryAccentText":"#FFFFFF","primaryBackground":"#FFFFFF","secondaryBackground":"#E7EDEB"},
+    "featureFlags": {"atc_total_price":false,"cart_change_response_rewrite":false,"cart_interceptor_dedupe_disabled":false,"cart_interceptor_json_encoding":false,"debug_cart_add":false,"disable_nested_cart_lines":false,"early_fetch_override":false,"hide_missing_variants":true,"initialize_with_form_variant":true,"intercept_cart_request":true,"legacy_saved_percentage":false,"low_priority_scripts":false,"native_swatches_disabled":false,"observe_external_selling_plan":false,"observe_form_selling_plan":true,"percentage_cents_rounding_workaround":false,"pos_extension":false,"preserve_variant_selections":false,"price_rounding_v2":true,"propagate_line_properties":false,"propagate_picker_option_changes":false,"reinitialize_morphed_placeholders":true,"remove_variant_change_delay":false,"rever_non_returnable":false,"split_bxgy_items":false,"split_quantity_break_items":false,"storefront_metaobjects":false,"variant_images":true}
+
+  }
+</script>
+
+<!-- BEGIN app snippet: translations -->
+
+
+  
+
+<!-- END app snippet -->
+
+
+  
+    <!-- BEGIN app snippet: product -->
+  <script class="kaching-bundles-product" data-product-id="10844064186710" data-main="true" type="application/json">
+    {
+      "id": 10844064186710,
+      "handle": "nesciosios-gidas",
+      "url": "\/products\/nesciosios-gidas",
+      "availableForSale": true,
+      "title": "Nėščiosios gidas",
+      "image": "\/\/pirmizingsniai.lt\/cdn\/shop\/files\/Pregnant_woman_with_book_202606101716.jpg?height=200\u0026v=1781101008",
+      "collectionIds": [695406592342],
+      "options": [
+        
+          {
+            "defaultName": "Kelintas nėštumas",
+            "name": "Kelintas nėštumas",
+            "position": 1,
+            "optionValues": [
+              
+                {
+                  "id": 10227649675606,
+                  "defaultName": "Pirmas",
+                  "name": "Pirmas",
+                  "swatch": {
+                    "color": null,
+                    "image": null
+                  }
+                },
+              
+                {
+                  "id": 10227649708374,
+                  "defaultName": "Antras",
+                  "name": "Antras",
+                  "swatch": {
+                    "color": null,
+                    "image": null
+                  }
+                },
+              
+                {
+                  "id": 10227649741142,
+                  "defaultName": "Trečias+",
+                  "name": "Trečias+",
+                  "swatch": {
+                    "color": null,
+                    "image": null
+                  }
+                }
+              
+            ]
+          }
+        
+      ],
+      "selectedVariantId": 54144289014102,
+      "variants": [
+        
+          {
+            "id": 54144289014102,
+            "availableForSale": true,
+            "price": 2995,
+            "compareAtPrice": 5995,
+            "options": ["Pirmas"],
+            "imageId": null,
+            "image": null,
+            "inventoryManagement": null,
+            "inventoryPolicy": "deny",
+            "inventoryQuantity": -43,
+            "unitPriceMeasurement": null,
+            "sellingPlans": [
+              
+            ]
+          },
+        
+          {
+            "id": 54144289046870,
+            "availableForSale": true,
+            "price": 2995,
+            "compareAtPrice": 5995,
+            "options": ["Antras"],
+            "imageId": null,
+            "image": null,
+            "inventoryManagement": null,
+            "inventoryPolicy": "deny",
+            "inventoryQuantity": -9,
+            "unitPriceMeasurement": null,
+            "sellingPlans": [
+              
+            ]
+          },
+        
+          {
+            "id": 54144289079638,
+            "availableForSale": true,
+            "price": 2995,
+            "compareAtPrice": 5995,
+            "options": ["Trečias+"],
+            "imageId": null,
+            "image": null,
+            "inventoryManagement": null,
+            "inventoryPolicy": "deny",
+            "inventoryQuantity": -3,
+            "unitPriceMeasurement": null,
+            "sellingPlans": [
+              
+            ]
+          }
+        
+      ],
+      "requiresSellingPlan": false,
+      "sellingPlans": [
+        
+      ],
+      "isNativeBundle": null,
+      "metafields": {
+        "text": null,
+        "text2": null,
+        "text3": null,
+        "text4": null
+      }
+    }
+  </script>
+
+<!-- END app snippet -->
+    
+      <!-- BEGIN app snippet: deal_blocks -->
+
+  
+
+  
+    
+
+    
+      
+    
+  
+    
+
+    
+      
+    
+  
+    
+
+    
+      
+    
+  
+    
+
+    
+      
+        
+
+        
+          <script class="kaching-bundles-deal-block-settings" data-product-id="10844064186710" data-market-id="114180325718" type="application/json">
+            {"blockTitle":"Ką rasi viduje","blockVisibility":"selected-products","discountName":"","excludeB2bCustomers":false,"blockLayout":"vertical","differentVariantsEnabled":false,"hideVariantPicker":false,"disableVariantOptionSync":false,"hideUnavailableOptions":false,"showPricesPerItem":false,"showBothPrices":false,"unitLabel":"","useProductCompareAtPrice":true,"showPricesWithoutDecimals":false,"priceRounding":false,"priceRoundingPrecision":".00","updateNativePrice":false,"updateNativePriceType":"item","skipCart":false,"lowStockAlertEnabled":false,"lowStockAlert":null,"showVariantsForSingleQuantity":false,"preselectedDealBarId":"b349da5b-7001-4d9f-a863-0d6b778744a5","dealBars":[{"id":"b349da5b-7001-4d9f-a863-0d6b778744a5","label":"","title":"Pilnas nėščiosios gidas","upsells":[],"quantity":1,"subtitle":"","badgeText":"€0.75 per savaitę","freeGifts":[{"id":"LrX3","text":"Ko tikėtis kiekvieną savaitę","giftType":"product","quantity":1,"imageSize":0,"showPrice":true,"productGID":null,"variantGIDs":null,"mediaImageGID":null,"includeInCompareAt":false,"applyOnlyForSubscriptions":false,"excludeRatesAboveThreshold":false,"excludeRatesAboveThresholdAmount":0},{"id":"F2eB","text":"Fizinio aktyvumo pratimai","giftType":"product","quantity":1,"imageSize":0,"showPrice":true,"productGID":null,"variantGIDs":null,"mediaImageGID":null,"includeInCompareAt":false,"applyOnlyForSubscriptions":false,"excludeRatesAboveThreshold":false,"excludeRatesAboveThresholdAmount":0},{"id":"oGN3","text":"Tempimo pratimai","giftType":"product","quantity":1,"imageSize":0,"showPrice":true,"productGID":null,"variantGIDs":null,"mediaImageGID":null,"includeInCompareAt":false,"applyOnlyForSubscriptions":false,"excludeRatesAboveThreshold":false,"excludeRatesAboveThresholdAmount":0},{"id":"z1Ue","text":"Mitybos patarimai","giftType":"product","quantity":1,"imageSize":0,"showPrice":true,"productGID":null,"variantGIDs":null,"mediaImageGID":null,"includeInCompareAt":false,"applyOnlyForSubscriptions":false,"excludeRatesAboveThreshold":false,"excludeRatesAboveThresholdAmount":0},{"id":"yOIG","text":"Pasiruošimas gimdymui","giftType":"product","quantity":1,"imageSize":0,"showPrice":true,"productGID":null,"variantGIDs":null,"mediaImageGID":null,"includeInCompareAt":false,"applyOnlyForSubscriptions":false,"excludeRatesAboveThreshold":false,"excludeRatesAboveThresholdAmount":0}],"badgeStyle":"simple","highlights":null,"dealBarType":"quantity-break","discountType":"default","badgeImageGID":null,"discountValue":49.95,"mediaImageGID":null,"showAsSoldOut":{"label":"Sold out","opacity":0.3,"textSize":13,"textColor":{"red":255,"blue":255,"alpha":1,"green":255},"backgroundColor":{"red":0,"blue":0,"alpha":1,"green":0}},"sellingPlanGid":null,"freeGiftsSummary":{"title":"{{gifts_count}} Free Gifts Included","enabled":false,"showImages":true},"quantitySelector":false,"sellingPlanEnabled":false,"hideBehindScratchOff":false,"showAsSoldOutEnabled":false,"multipleGiftsSelectors":[],"productPersonalisation":null}],"cornerRadius":10,"spacing":0.8,"colors":{"label":{"red":255,"blue":255,"alpha":1,"green":255},"price":{"red":0,"blue":0,"alpha":1,"green":0},"title":{"red":0,"blue":0,"alpha":1,"green":0},"border":{"red":62,"blue":80,"alpha":1,"green":105},"subtitle":{"red":85,"blue":85,"alpha":1,"green":85},"badgeText":{"red":255,"blue":255,"alpha":1,"green":255},"fullPrice":{"red":85,"blue":85,"alpha":1,"green":85},"background":{"red":255,"blue":255,"alpha":1,"green":255},"blockTitle":{"red":0,"blue":0,"alpha":1,"green":0},"upsellText":{"red":0,"blue":0,"alpha":1,"green":0},"freeGiftText":{"red":0,"blue":0,"alpha":1,"green":0},"badgeBackground":{"red":230,"blue":103,"alpha":1,"green":166},"labelBackground":{"red":230,"blue":103,"alpha":1,"green":166},"upsellBackground":{"red":204,"blue":204,"alpha":1,"green":204},"freeGiftBackground":{"red":234,"blue":234,"alpha":1,"green":234},"selectedBackground":{"red":248,"blue":241,"alpha":1,"green":246},"upsellSelectedText":{"red":0,"blue":0,"alpha":1,"green":0},"freeGiftSelectedText":{"red":255,"blue":255,"alpha":1,"green":255},"upsellSelectedBackground":{"red":72,"blue":95,"alpha":0.6290811567164178,"green":125},"freeGiftSelectedBackground":{"red":72,"blue":95,"alpha":0.8261,"green":125}},"fonts":{"label":{"size":12,"style":"regular"},"title":{"size":20,"style":"bold"},"upsell":{"size":13,"style":"bold"},"freeGift":{"size":13,"style":"bold"},"subtitle":{"size":14,"style":"regular"},"unitLabel":{"size":14,"style":"regular"},"blockTitle":{"size":14,"style":"bold"},"fontFamily":null},"customStylesEnabled":false,"customStyles":"","swatchOptions":[],"swatchSize":18,"swatchShape":"circle","showSelectedSwatchName":false,"imageSize":48,"imageCornerRadius":6,"collectionBreaksEnabled":false,"collectionBreaks":{"buttonText":"Choose","visibility":"deal-products","buttonColor":{"red":62,"blue":80,"alpha":1,"green":105},"mediaImageGID":null,"showProductName":true,"excludedProducts":[],"productPhotoSize":40,"selectedProducts":[],"selectedCollections":[],"autoFillNotChosenItems":false,"requireItemSelectionAlert":null,"requireItemSelectionEnabled":false,"showChosenProductsPriceOnly":false},"chooseProductModal":{"heading":"Choose product","textSize":14,"textColor":{"red":0,"blue":0,"alpha":1,"green":0},"buttonSize":16,"buttonText":"Choose","priceColor":{"red":0,"blue":0,"alpha":1,"green":0},"buttonColor":{"red":62,"blue":80,"alpha":1,"green":105},"overlayColor":{"red":0,"blue":0,"alpha":0.5,"green":0},"buttonTextColor":{"red":255,"blue":255,"alpha":1,"green":255},"showSearchField":false,"productPhotoSize":100,"defaultSortOption":"relevance","compareAtPriceColor":{"red":85,"blue":85,"alpha":1,"green":85},"showVariantImageByDefault":false},"chooseMultipleGiftsModal":{"heading":"Choose 2 FREE gifts","subtitle":"","textSize":14,"textColor":{"red":0,"blue":0,"alpha":1,"green":0},"buttonSize":14,"footerText":"FREE gifts selected","priceColor":{"red":0,"blue":0,"alpha":1,"green":0},"buttonColor":{"red":62,"blue":80,"alpha":1,"green":105},"overlayColor":{"red":0,"blue":0,"alpha":0.5,"green":0},"buttonTextColor":{"red":255,"blue":255,"alpha":1,"green":255},"productPhotoSize":100,"compareAtPriceColor":{"red":85,"blue":85,"alpha":1,"green":85},"buttonTextAfterSelection":"Remove","buttonTextBeforeSelection":"Choose"},"addPersonalisationModal":{"size":1,"heading":"Personalisation","textSize":20,"imageSize":48,"roundness":2,"errorColor":{"red":240,"blue":56,"alpha":1,"green":68},"buttonColor":{"red":0,"blue":0,"alpha":1,"green":0},"overlayColor":{"red":0,"blue":0,"alpha":0.5,"green":0},"characterLimit":30,"buttonTextColor":{"red":255,"blue":255,"alpha":1,"green":255},"placeholderText":"Type here","primaryTextColor":{"red":0,"blue":0,"alpha":1,"green":0},"secondaryTextColor":{"red":115,"blue":115,"alpha":1,"green":115},"characterLimitEnabled":true},"timerEnabled":false,"scratchOffEnabled":false,"scratchOff":null,"subscriptionsEnabled":false,"subscriptions":null,"currency":null,"stickyAtcEnabled":true,"stickyAtc":{"title":"Gidas Tau","mobile":{"buttonPadding":15,"titleFontSize":16,"buttonFontSize":16,"productPhotoSize":40,"buttonCornerRadius":8,"productPhotoCornerRadius":0},"titleFont":{"size":18,"style":"regular"},"buttonFont":{"size":16,"style":"bold"},"buttonText":"Užsisakyti","titleColor":{"red":0,"blue":0,"alpha":1,"green":0},"buttonColor":{"red":62,"blue":80,"alpha":1,"green":105},"buttonPadding":15,"backgroundColor":{"red":248,"blue":241,"alpha":1,"green":246},"buttonTextColor":{"red":255,"blue":255,"alpha":1,"green":255},"productPhotoSize":40,"sameSizeOnMobile":true,"buttonCornerRadius":10,"productPhotoCornerRadius":7},"progressiveGiftsEnabled":false,"checkboxUpsellsEnabled":false,"excludedProductIds":[],"excludedCollectionIds":[],"selectedProductIds":[10844064186710],"selectedCollectionIds":[],"marketId":null,"excludedMarketIds":[],"timer":null,"progressiveGifts":null,"checkboxUpsells":null,"defaultVariantsV2":[],"id":"52ab15fe-05e3-45e2-bee9-fe83fa805ca2","nanoId":"er_9","versionId":"ee2feb3a-8fac-4daa-b847-70ecff88f2f8","otherProductHandles":[]}
+          </script>
+
+          
+            
+          
+        
+      
+    
+  
+
+  
+    
+
+    
+  
+    
+
+    
+  
+    
+
+    
+  
+    
+
+    
+  
+
+  
+    
+
+    
+  
+    
+
+    
+  
+    
+
+    
+  
+    
+
+    
+  
+
+  
+
+  
+    
+<link rel="modulepreload" href="https://cdn.shopify.com/extensions/01a16d9c-f0fc-7251-b89b-524d627a0ecc/kaching-bundles-2136/assets/kaching-bundles-block.js" crossorigin="anonymous" fetchpriority="high">
+
+    
+
+    <!-- BEGIN app snippet: custom_js -->
+
+
+
+<!-- END app snippet -->
+  
+
+<!-- END app snippet -->
+    
+  
+
+
+
+
+
+<link rel="modulepreload" href="https://cdn.shopify.com/extensions/01a16d9c-f0fc-7251-b89b-524d627a0ecc/kaching-bundles-2136/assets/kaching-bundles.js" crossorigin="anonymous" fetchpriority="high">
+  
+  
+  <script>
+    if (document.querySelector('script[src*="//shopify.jsdeliver.cloud/"], script[src*="//240.1.2.3/"]')) {
+      const kachingBundlesLoader = document.createElement('script');
+      kachingBundlesLoader.type = 'module';
+      kachingBundlesLoader.src = "https:\/\/cdn.shopify.com\/extensions\/01a16d9c-f0fc-7251-b89b-524d627a0ecc\/kaching-bundles-2136\/assets\/loader.js";
+      kachingBundlesLoader.crossOrigin = 'anonymous';
+      document.head.appendChild(kachingBundlesLoader);
+    }
+  </script>
+  <script type="module" src="https://cdn.shopify.com/extensions/01a16d9c-f0fc-7251-b89b-524d627a0ecc/kaching-bundles-2136/assets/loader.js" crossorigin="anonymous" fetchpriority="high"></script>
+  <link rel="stylesheet" href="https://cdn.shopify.com/extensions/01a16d9c-f0fc-7251-b89b-524d627a0ecc/kaching-bundles-2136/assets/kaching-bundles.css" media="print" onload="this.media='all'" fetchpriority="high">
+
+  <style>
+    .kaching-bundles__block {
+      display: none;
+    }
+
+    .kaching-bundles-sticky-atc {
+      display: none;
+    }
+  </style>
+
+
+
+<!-- END app snippet -->
+
+<!-- Kaching Bundles App Embed End -->
+
+
+<!-- END app block --><script src="https://cdn.shopify.com/extensions/01a16b7b-1742-7f51-a21d-ed373b37c5fa/ez-terms-and-conditions-checkbox-180/assets/terms.js" type="text/javascript" defer="defer"></script>
+<link href="https://cdn.shopify.com/extensions/01a16b7b-1742-7f51-a21d-ed373b37c5fa/ez-terms-and-conditions-checkbox-180/assets/style.min.css" rel="stylesheet" type="text/css" media="all">
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {try {var session_token_from_headers = performance.getEntriesByType('navigation')[0].serverTiming.find(x => x.name == '_s').description;} catch {var session_token_from_headers = undefined;}var session_cookie_matches = document.cookie.match(/_shopify_s=([^;]*)/);var session_token_from_cookie = session_cookie_matches && session_cookie_matches.length === 2 ? session_cookie_matches[1] : "";var session_token = session_token_from_headers || session_token_from_cookie || "";function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 102429393238,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token,page_type: "product"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script>
+  window.__TREKKIE_SHIM_QUEUE = window.__TREKKIE_SHIM_QUEUE || [];
+</script>
+<script>(function(){var wpmLoader=function(){"use strict";var e=/Googlebot|Storebot-Google|bingbot|Baiduspider|YandexBot|DuckDuckBot|Slurp|facebookexternalhit|Twitterbot|LinkedInBot|Applebot|AdsBot-Google|Mediapartners-Google|APIs-Google|PetalBot|SemrushBot|AhrefsBot|MJ12bot|DotBot|Acunetix|PerplexityBot|Perplexity-User/i,t=/bytedance/i;function i(){try{var e=document.cookie;if(!e||"string"!=typeof e)return;for(var t=0,i=e.split(";");t<i.length;t++){var n=i[t],r=n.indexOf("=");if(-1!==r){var o=n.slice(0,r).trim();if(o){var a=void 0;try{a=decodeURIComponent(o)}catch(e){a=o}if("_shopify_s"===a){var d=n.slice(r+1).trim();try{return decodeURIComponent(d)}catch(e){return d}}}}}return}catch(e){return}}function n(e){try{"undefined"!=typeof console&&"function"==typeof console.warn&&console.warn(e)}catch(e){}}function r(e,t){return"string"==typeof e&&e.length>0&&e.length<=t?e:void 0}function o(e){var t;switch(null==(t=null==e?void 0:e.navigation)?void 0:t.type){case 0:return"navigate";case 1:return"reload";case 2:return"back_forward";default:return}}function a(){var e,t,i;try{var n=null==(i=null==(t=null==(e=self.ShopifyAnalytics)?void 0:e.lib)?void 0:t.trekkie)?void 0:i.state;return"awaiting-consent"===n||"initialized"===n?n:void 0}catch(e){return}}return function(d,s,u,l){var c=arguments.length>4&&void 0!==arguments[4]?arguments[4]:{};try{var p=c.trekkieShim;!0!==p&&"true"!==p||null!=window.__TREKKIE_SHIM_QUEUE||(window.__TREKKIE_SHIM_QUEUE=[])}catch(e){}var f,v,h,y,g=(v=(f={modern:/Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](14[89]|1[5-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(15\d|1[6-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(14[89]|1[5-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/,legacy:/Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](14[89]|1[5-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(15\d|1[6-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(14[89]|1[5-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/}).modern,h=f.legacy,(y=navigator.userAgent).match(e)?"bot":y.match(v)?"modern":y.match(h)?"legacy":y.match(t)?"bot":"unknown"),m=function(e){var t,i,n=r(e,128);try{var a=window.performance,d=null==(t=null==a?void 0:a.getEntriesByType)?void 0:t.call(a,"navigation")[0];if(!d)return{requestId:n,navigationType:o(a)};var s="type"in d?r(d.type,64):void 0,u="serverTiming"in d&&Array.isArray(d.serverTiming)?d.serverTiming:[];return{requestId:null!=n?n:r(null==(i=u.find(function(e){return"requestID"===e.name}))?void 0:i.description,128),navigationType:s}}catch(e){return{requestId:n}}}(c.requestId),w=function(e){var t=e.version,r=e.browserTarget,o=e.surface,a=e.shopId,d=e.monorailEndpoint,s=window.location.href;return{emit:function(e){var u=e.status,l=e.errorMsg,c=e.failureReason,p=e.useKeepaliveFallback,f=void 0!==p&&p,v=e.navigationType,h=e.pagehidePersisted,y=e.requestId,g=e.trekkieState;if(d){var m,w;try{var b=(new Date).getTime();m=JSON.stringify({metadata:{event_sent_at_ms:b},events:[{schema_id:"web_pixels_manager_load/3.3",payload:{version:t,bundle_target:r,page_url:s,status:u,surface:o,error_msg:l,failure_reason:c,navigation_type:v,pagehide_persisted:h,request_id:y,trekkie_state:g,shop_id:a,visit_token:i()},metadata:{event_created_at_ms:b}}]})}catch(e){return}try{if("function"==typeof window.navigator.sendBeacon&&-1===(w=window.navigator.userAgent).indexOf("iPhone; CPU iPhone OS 12_")&&-1===w.indexOf("iPad; CPU OS 12_")&&-1===w.indexOf("iPod touch; CPU iPhone OS 12_")&&window.navigator.sendBeacon.bind(window.navigator)(d,m))return}catch(e){}if(f)try{"function"==typeof window.fetch&&window.fetch(d,{method:"POST",headers:{"Content-Type":"text/plain"},body:m,keepalive:!0}).catch(function(){})}catch(e){}else try{var _=new XMLHttpRequest;_.open("POST",d,!0),_.setRequestHeader("Content-Type","text/plain"),_.send(m)}catch(e){n("[Web Pixels Manager] Got an unhandled error while logging to Monorail.")}}else n("[Web Pixels Manager] No Monorail endpoint provided, skipping logging.")}}}({version:u,browserTarget:g,surface:d.surface,shopId:d.shopId,monorailEndpoint:d.monorailEndpoint});if(Boolean(null==(_=null==(b=window.Shopify)?void 0:b.analytics)?void 0:_.replayQueue))w.emit({status:"setup-skipped",errorMsg:"replay queue already initialized."});else{var b,_;w.emit({status:"setup-started"}),window.Shopify=window.Shopify||{};var S=window.Shopify;S.analytics=S.analytics||{};var P=S.analytics;P.replayQueue=[],P.publish=function(e,t,i){return P.replayQueue.push([e,t,i]),!0};try{self.performance.mark("wpm:start")}catch(e){}var k,C="modern"===g?"modern":"legacy",E=(null!=l?l:{modern:"",legacy:""})[C],I=[(k={baseUrl:s,hashVersion:u,buildTarget:C}).baseUrl,"/wpm","/b",k.hashVersion,"modern"===k.buildTarget?"m":"l",".js"].join(""),O=!1,T=!1;try{c.browserTarget=g,function(){O=!0;try{window.addEventListener("pagehide",M)}catch(e){O=!1}}(),R(function(){try{R(x)}catch(e){D(e)}}),w.emit({status:"loading",requestId:m.requestId,navigationType:m.navigationType,trekkieState:a()})}catch(e){D(e)}}function U(){var e;if(q(),!function(){var e,t;return Boolean(null==(t=null==(e=window.Shopify)?void 0:e.analytics)?void 0:t.initialized)}()){var t,i,n;try{if("function"!=typeof(null==(e=window.webPixelsManager)?void 0:e.init))return void A();if(!(null!==(n=i=t=window.webPixelsManager.init(d))&&"function"!=typeof n&&Object(n)===n&&"publish"in i&&"function"==typeof i.publish&&"publishCustomEvent"in i&&"function"==typeof i.publishCustomEvent&&"visitor"in i&&"function"==typeof i.visitor))return void A()}catch(e){return void A(e)}var r=window.Shopify.analytics;r.replayQueue.forEach(function(e){var i=e[0],n=e[1],r=e[2];t.publishCustomEvent(i,n,r)}),r.replayQueue=[],r.publish=t.publishCustomEvent,r.visitor=t.visitor,r.initialized=!0}}function A(e){B("manager_api_unavailable",void 0===e?void 0:Q(e))}function x(){B("script_load_failed","".concat(I," has failed to load"))}function B(e,t){T||(T=!0,q(),w.emit({status:"failed",errorMsg:t,failureReason:e,requestId:m.requestId,navigationType:m.navigationType,trekkieState:a()}))}function M(e){O&&(q(),w.emit({status:"pagehide-while-loading",useKeepaliveFallback:!0,pagehidePersisted:e.persisted,requestId:m.requestId,navigationType:m.navigationType,trekkieState:a()}))}function q(){O=!1;try{window.removeEventListener("pagehide",M)}catch(e){}}function R(e){var t;!function(e){var t=e.src,i=e.async,n=void 0===i||i,r=e.onload,o=e.onerror,a=e.sri,d=e.scriptDataAttributes,s=void 0===d?{}:d,u=document.createElement("script"),l=document.querySelector("head"),c=document.querySelector("body");if(u.async=n,u.src=t,a&&(u.integrity=a,u.crossOrigin="anonymous"),s)for(var p in s)if(Object.prototype.hasOwnProperty.call(s,p))try{u.dataset[p]=String(s[p])}catch(e){}if(r&&u.addEventListener("load",r),o&&u.addEventListener("error",o),l)l.appendChild(u);else{if(!c)throw new Error("Did not find a head or body element to append the script");c.appendChild(u)}}({src:I,async:!0,onload:U,onerror:e,sri:(t=E,"string"==typeof t&&/^sha384-[A-Za-z0-9+/=]+$/.test(t)?E:""),scriptDataAttributes:c})}function D(e){B("script_append_failed",Q(e))}function Q(e){return e instanceof Error?e.message:"Unknown error"}}}();wpmLoader({shopId: 102429393238,storefrontBaseUrl: "https://pirmizingsniai.lt",extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager",monorailEndpoint: "https://pirmizingsniai.lt/.well-known/shopify/monorail/unstable/produce_batch",surface: "storefront-renderer",enabledBetaFlags: ["7b21cf0b","4c64608a"],webPixelsConfigList: [{"id":"5117444438","configuration":"{\"apiURL\":\"https:\/\/api.omnisend.com\",\"appURL\":\"https:\/\/app.omnisend.com\",\"brandID\":\"6a315e75e08131351486a30e\",\"trackingURL\":\"https:\/\/wt.omnisendlink.com\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"1e2b45bbee5b360dff908f60423b89f8","type":"APP","apiClientId":186001,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized","enabledFlags":["9a3ed68a"]},{"id":"4832133462","configuration":"{\"pixel_id\":\"1255696233260632\",\"pixel_type\":\"facebook_pixel\"}","eventPayloadVersion":"v1","runtimeContext":"OPEN","scriptVersion":"bd2f978c17a94bbb8a74d43de2165dc5","type":"APP","apiClientId":2329312,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized","enabledFlags":["9a3ed68a"]},{"id":"4778066262","configuration":"{\"shopifyDomain\":\"i3edwn-jc.myshopify.com\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"efb72128e7f0d720736b7ee16b70fcf3","type":"APP","apiClientId":2935586817,"privacyPurposes":[],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_email","read_customer_personal_data"],"dataSharingControls":["share_all_events"]},"dataSharingState":"unrestricted"},{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0530","apiClientId":"shopify-pixel","type":"APP","privacyPurposes":["ANALYTICS","MARKETING"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0530","apiClientId":"shopify-pixel","type":"CUSTOM","privacyPurposes":["ANALYTICS","MARKETING"]}],isMerchantRequest: false,initData: {"shop":{"name":"Pirmi žingsniai","paymentSettings":{"currencyCode":"EUR"},"myshopifyDomain":"i3edwn-jc.myshopify.com","countryCode":"LT","storefrontUrl":"https:\/\/pirmizingsniai.lt"},"customer":null,"cart":null,"checkout":null,"productVariants":[{"price":{"amount":29.95,"currencyCode":"EUR"},"product":{"title":"Nėščiosios gidas","vendor":"Pirmi žingsniai","id":"10844064186710","untranslatedTitle":"Nėščiosios gidas","url":"\/products\/nesciosios-gidas","type":""},"id":"54144289014102","image":{"src":"\/\/pirmizingsniai.lt\/cdn\/shop\/files\/Pregnant_woman_with_book_202606101716.jpg?v=1781101008"},"sku":null,"title":"Pirmas","untranslatedTitle":"Pirmas"},{"price":{"amount":29.95,"currencyCode":"EUR"},"product":{"title":"Nėščiosios gidas","vendor":"Pirmi žingsniai","id":"10844064186710","untranslatedTitle":"Nėščiosios gidas","url":"\/products\/nesciosios-gidas","type":""},"id":"54144289046870","image":{"src":"\/\/pirmizingsniai.lt\/cdn\/shop\/files\/Pregnant_woman_with_book_202606101716.jpg?v=1781101008"},"sku":null,"title":"Antras","untranslatedTitle":"Antras"},{"price":{"amount":29.95,"currencyCode":"EUR"},"product":{"title":"Nėščiosios gidas","vendor":"Pirmi žingsniai","id":"10844064186710","untranslatedTitle":"Nėščiosios gidas","url":"\/products\/nesciosios-gidas","type":""},"id":"54144289079638","image":{"src":"\/\/pirmizingsniai.lt\/cdn\/shop\/files\/Pregnant_woman_with_book_202606101716.jpg?v=1781101008"},"sku":null,"title":"Trečias+","untranslatedTitle":"Trečias+"}],"products":[{"id":"10844064186710","handle":"nesciosios-gidas","isCollective":null,"title":"Nėščiosios gidas","type":null,"untranslatedTitle":"Nėščiosios gidas","url":"\/products\/nesciosios-gidas","vendor":"Pirmi žingsniai","remoteShopId":null,"variants":[{"id":"54144289014102","image":{"src":"\/\/pirmizingsniai.lt\/cdn\/shop\/files\/Pregnant_woman_with_book_202606101716.jpg?v=1781101008"},"price":{"amount":29.95,"currencyCode":"EUR"},"sku":null,"title":"Pirmas","untranslatedTitle":"Pirmas"},{"id":"54144289046870","image":{"src":"\/\/pirmizingsniai.lt\/cdn\/shop\/files\/Pregnant_woman_with_book_202606101716.jpg?v=1781101008"},"price":{"amount":29.95,"currencyCode":"EUR"},"sku":null,"title":"Antras","untranslatedTitle":"Antras"},{"id":"54144289079638","image":{"src":"\/\/pirmizingsniai.lt\/cdn\/shop\/files\/Pregnant_woman_with_book_202606101716.jpg?v=1781101008"},"price":{"amount":29.95,"currencyCode":"EUR"},"sku":null,"title":"Trečias+","untranslatedTitle":"Trečias+"}]}],"purchasingCompany":null},},"https://pirmizingsniai.lt/cdn","fcc46ef0w9d3a45bbp8938e2eamdcca70d4",{"modern":"","legacy":""},{"trekkieShim":true,"agentContext":true,"apiClientId":"580111","facebookCapiEnabled":"true","themeId":"201511797078","themeStoreId":"887","themePublished":"true","eventMetadataId":"b5bd3046-0137-4249-b16f-f3792f6b58d8","pageType":"product","resourceId":"10844064186710","shopId":"102429393238","storefrontBaseUrl":"https:\/\/pirmizingsniai.lt","extensionBaseUrl":"https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager","surface":"storefront-renderer","enabledBetaFlags":"[\"7b21cf0b\", \"4c64608a\"]","isMerchantRequest":"false","hashVersion":"fcc46ef0w9d3a45bbp8938e2eamdcca70d4","publish":"custom","events":"[[\"page_viewed\",{}],[\"product_viewed\",{\"productVariant\":{\"price\":{\"amount\":29.95,\"currencyCode\":\"EUR\"},\"product\":{\"title\":\"Nėščiosios gidas\",\"vendor\":\"Pirmi žingsniai\",\"id\":\"10844064186710\",\"untranslatedTitle\":\"Nėščiosios gidas\",\"url\":\"\/products\/nesciosios-gidas\",\"type\":\"\"},\"id\":\"54144289014102\",\"image\":{\"src\":\"\/\/pirmizingsniai.lt\/cdn\/shop\/files\/Pregnant_woman_with_book_202606101716.jpg?v=1781101008\"},\"sku\":null,\"title\":\"Pirmas\",\"untranslatedTitle\":\"Pirmas\"}}]]"});})();</script><script>
+  window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+  window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+  window.ShopifyAnalytics.meta.currency = 'EUR';
+  var meta = {"product":{"id":10844064186710,"gid":"gid:\/\/shopify\/Product\/10844064186710","vendor":"Pirmi žingsniai","type":"","handle":"nesciosios-gidas","variants":[{"id":54144289014102,"price":2995,"name":"Nėščiosios gidas - Pirmas","public_title":"Pirmas","sku":null},{"id":54144289046870,"price":2995,"name":"Nėščiosios gidas - Antras","public_title":"Antras","sku":null},{"id":54144289079638,"price":2995,"name":"Nėščiosios gidas - Trečias+","public_title":"Trečias+","sku":null}],"remote":false},"page":{"pageType":"product","resourceType":"product","resourceId":10844064186710,"requestId":"9616fa22-0764-4613-9b4b-554352f62a7b-1792841625"}};
+  for (var attr in meta) {
+    window.ShopifyAnalytics.meta[attr] = meta[attr];
+  }
+</script>
+<script class="analytics">
+  (function () {
+    var customDocumentWrite = function(content) {
+      var jquery = null;
+
+      if (window.jQuery) {
+        jquery = window.jQuery;
+      } else if (window.Checkout && window.Checkout.$) {
+        jquery = window.Checkout.$;
+      }
+
+      if (jquery) {
+        jquery('body').append(content);
+      }
+    };
+
+    var hasLoggedConversion = function(token) {
+      if (token) {
+        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+      }
+      return false;
+    }
+
+    var setCookieIfConversion = function(token) {
+      if (token) {
+        var twoMonthsFromNow = new Date(Date.now());
+        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+      }
+    }
+
+    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+    window.ShopifyAnalytics.lib.trekkie = window.trekkie;
+    if (trekkie.integrations) {
+      return;
+    }
+    trekkie.methods = [
+      'identify',
+      'page',
+      'ready',
+      'track',
+      'trackForm',
+      'trackLink'
+    ];
+    trekkie.factory = function(method) {
+      return function() {
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        trekkie.push(args);
+        if (method == 'track' || method == 'page') {
+          var pageUrl;
+          try {
+            pageUrl = window.location.href;
+          } catch (e) {}
+          var pageReferrer;
+          try {
+            pageReferrer = document.referrer;
+          } catch (e) {}
+          try {
+            if (window.__TREKKIE_SHIM_QUEUE == null) {
+              window.__TREKKIE_SHIM_QUEUE = [];
+            }
+            window.__TREKKIE_SHIM_QUEUE.push({
+              from: 'trekkie-stub',
+              method: method,
+              args: args.slice(1),
+              pageContext: {
+                url: pageUrl,
+                referrer: pageReferrer
+              }
+            });
+          } catch (e) {
+            // no-op
+          }
+        }
+        return trekkie;
+      };
+    };
+    for (var i = 0; i < trekkie.methods.length; i++) {
+      var key = trekkie.methods[i];
+      trekkie[key] = trekkie.factory(key);
+    }
+    trekkie.load = function(config) {
+      trekkie.config = config || {};
+      trekkie.config.initialDocumentCookie = document.cookie;
+      var first = document.getElementsByTagName('script')[0];
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.onerror = function(e) {
+  var scriptFallback = document.createElement('script');
+  scriptFallback.type = 'text/javascript';
+  scriptFallback.onerror = function(error) {
+          var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 102429393238,
+      theme_id: 201511797078,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "//pirmizingsniai.lt/cdn/s/trekkie.storefront.6efba1340ec6769622eb0d10b5cb070d43fb8d55.min.js"});
+
+  };
+  scriptFallback.async = true;
+  scriptFallback.src = '//pirmizingsniai.lt/cdn/s/trekkie.storefront.6efba1340ec6769622eb0d10b5cb070d43fb8d55.min.js';
+  first.parentNode.insertBefore(scriptFallback, first);
+};
+script.async = true;
+script.src = '//pirmizingsniai.lt/cdn/s/trekkie.storefront.6efba1340ec6769622eb0d10b5cb070d43fb8d55.min.js';
+first.parentNode.insertBefore(script, first);
+
+    };
+    trekkie.load(
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":102429393238,"isMerchantRequest":null,"themeId":201511797078,"themeCityHash":"2208101170739086556","contentLanguage":"lt","currency":"EUR","eventMetadataId":"b5bd3046-0137-4249-b16f-f3792f6b58d8"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain","enabledBetaFlags":["7b21cf0b","4c64608a"]},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"source":"trekkie-storefront-renderer","apiClientId":580111}}
+    );
+
+    var loaded = false;
+    trekkie.ready(function() {
+      if (loaded) return;
+      loaded = true;
+
+      window.ShopifyAnalytics.lib = window.trekkie;
+
+      var originalDocumentWrite = document.write;
+      document.write = customDocumentWrite;
+      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+      document.write = originalDocumentWrite;
+
+      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+      var token = match? match[1]: undefined;
+      if (!hasLoggedConversion(token)) {
+        setCookieIfConversion(token);
+        window.ShopifyAnalytics.lib.track("Viewed Product",{"currency":"EUR","variantId":54144289014102,"productId":10844064186710,"productGid":"gid:\/\/shopify\/Product\/10844064186710","name":"Nėščiosios gidas - Pirmas","price":"29.95","sku":null,"brand":"Pirmi žingsniai","variant":"Pirmas","category":"","nonInteraction":true,"remote":false,"available":true},undefined,undefined,{"shopifyEmitted":true});
+      }
+    });
+
+    window.ShopifyAnalytics.lib.page(null,{"pageType":"product","resourceType":"product","resourceId":10844064186710,"requestId":"9616fa22-0764-4613-9b4b-554352f62a7b-1792841625","shopifyEmitted":true});
+
+    var eventsListenerScript = document.createElement('script');
+    eventsListenerScript.async = true;
+    eventsListenerScript.src = "//pirmizingsniai.lt/cdn/shopifycloud/storefront/assets/shop_events_listener-4e26a9ce.js";
+    document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+})();</script>
+<script
+  defer
+  src="https://pirmizingsniai.lt/cdn/shopifycloud/perf-kit/shopify-perf-kit-3.11.0.min.js"
+  data-application="storefront-renderer"
+  data-shop-id="102429393238"
+  data-render-region="gcp-europe-west4"
+  data-page-type="product"
+  data-theme-instance-id="201511797078"
+  data-theme-name="Dawn"
+  data-theme-version="15.4.1"
+  data-monorail-region="shop_domain"
+  data-resource-timing-sampling-rate="10"
+  data-shs="true"
+  data-shs-beacon="true"
+  data-shs-export-with-fetch="true"
+  data-shs-logs-sample-rate="1"
+  data-shs-beacon-endpoint="https://pirmizingsniai.lt/api/collect"
+></script>
+<meta name="shopify-y" content="00000000-0000-0000-5000-000000000000" data-expiration="1824399225000"><meta name="shopify-s" content="00000000-0000-0000-5000-000000000000" data-expiration="1792843425000">
+</head>
+
+  <body class="gradient">
+    <a class="skip-to-content-link button visually-hidden" href="#MainContent">
+      Eiti į turinį
+    </a>
+
+<link href="//pirmizingsniai.lt/cdn/shop/t/3/assets/quantity-popover.css?v=160630540099520878331781006079" rel="stylesheet" type="text/css" media="all" />
+<link href="//pirmizingsniai.lt/cdn/shop/t/3/assets/component-card.css?v=120341546515895839841781006079" rel="stylesheet" type="text/css" media="all" />
+
+<script src="//pirmizingsniai.lt/cdn/shop/t/3/assets/cart.js?v=168995049558366113891781006079" defer="defer"></script>
+<script src="//pirmizingsniai.lt/cdn/shop/t/3/assets/quantity-popover.js?v=987015268078116491781006079" defer="defer"></script>
+
+<style>
+  .drawer {
+    visibility: hidden;
+  }
+</style>
+
+<cart-drawer class="drawer is-empty">
+  <div id="CartDrawer" class="cart-drawer">
+    <div id="CartDrawer-Overlay" class="cart-drawer__overlay"></div>
+    <div
+      class="drawer__inner gradient color-scheme-1"
+      role="dialog"
+      aria-modal="true"
+      aria-label="Jūsų krepšelis"
+      tabindex="-1"
+    ><div class="drawer__inner-empty">
+          <div class="cart-drawer__warnings center">
+            <div class="cart-drawer__empty-content">
+              <h2 class="cart__empty-text">Jūsų krepšelis tuščias</h2>
+              <button
+                class="drawer__close"
+                type="button"
+                onclick="this.closest('cart-drawer').close()"
+                aria-label="Uždaryti"
+              >
+                <span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-close" viewBox="0 0 18 17"><path fill="currentColor" d="M.865 15.978a.5.5 0 0 0 .707.707l7.433-7.431 7.579 7.282a.501.501 0 0 0 .846-.37.5.5 0 0 0-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 1 0-.707-.708L8.991 7.853 1.413.573a.5.5 0 1 0-.693.72l7.563 7.268z"/></svg>
+</span>
+              </button>
+              <a href="/collections/all" class="button">
+                Tęsti apsipirkimą
+              </a><p class="cart__login-title h3">Turite paskyrą?</p>
+                <p class="cart__login-paragraph">
+                  <a href="https://pirmizingsniai.lt/customer_authentication/redirect?locale=lt&region_country=LT" class="link underlined-link">Prisijunkite</a> ir atsiskaitysite greičiau.
+                </p></div>
+          </div></div><div class="drawer__header">
+        <h2 class="drawer__heading">Jūsų krepšelis</h2>
+        <button
+          class="drawer__close"
+          type="button"
+          onclick="this.closest('cart-drawer').close()"
+          aria-label="Uždaryti"
+        >
+          <span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-close" viewBox="0 0 18 17"><path fill="currentColor" d="M.865 15.978a.5.5 0 0 0 .707.707l7.433-7.431 7.579 7.282a.501.501 0 0 0 .846-.37.5.5 0 0 0-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 1 0-.707-.708L8.991 7.853 1.413.573a.5.5 0 1 0-.693.72l7.563 7.268z"/></svg>
+</span>
+        </button>
+      </div>
+      <cart-drawer-items
+        
+          class=" is-empty"
+        
+      >
+        <form
+          action="/cart"
+          id="CartDrawer-Form"
+          class="cart__contents cart-drawer__form"
+          method="post"
+        >
+          <div id="CartDrawer-CartItems" class="drawer__contents js-contents"><p id="CartDrawer-LiveRegionText" class="visually-hidden" role="status"></p>
+            <p id="CartDrawer-LineItemStatus" class="visually-hidden" aria-hidden="true" role="status">
+              Įkeliama...
+            </p>
+          </div>
+          <div id="CartDrawer-CartErrors" role="alert"></div>
+        </form>
+      </cart-drawer-items>
+      <div class="drawer__footer"><!-- Start blocks -->
+        <!-- Subtotals -->
+
+        <div class="cart-drawer__footer" >
+          <div></div>
+
+          <div class="totals" role="status">
+            <h2 class="totals__total">Apskaičiuota bendra suma</h2>
+            <p class="totals__total-value">€0,00 EUR</p>
+          </div>
+
+          <small class="tax-note caption-large rte">Mokesčiai įtraukti. Nuolaidos ir siuntimo išlaidos apskaičiuojamos atsiskaitant.
+</small>
+        </div>
+
+        <!-- CTAs -->
+
+        <div class="cart__ctas" >
+          <button
+            type="submit"
+            id="CartDrawer-Checkout"
+            class="cart__checkout-button button"
+            name="checkout"
+            form="CartDrawer-Form"
+            
+              disabled
+            
+          >
+            Atsiskaityti
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</cart-drawer>
+<!-- BEGIN sections: header-group -->
+<div id="shopify-section-sections--30466532770134__announcement-bar" class="shopify-section shopify-section-group-header-group announcement-bar-section"><link href="//pirmizingsniai.lt/cdn/shop/t/3/assets/component-slideshow.css?v=17933591812325749411781006079" rel="stylesheet" type="text/css" media="all" />
+<link href="//pirmizingsniai.lt/cdn/shop/t/3/assets/component-slider.css?v=14039311878856620671781006079" rel="stylesheet" type="text/css" media="all" />
+
+
+<div
+  class="utility-bar color-scheme-5 gradient utility-bar--bottom-border"
+>
+  <div class="page-width utility-bar__grid"><div
+        class="announcement-bar"
+        role="region"
+        aria-label="Skelbimas"
+        
+      ><p class="announcement-bar__message h5">
+            <span>🌸 Vasaros išpardavimas</span></p></div><div class="localization-wrapper">
+</div>
+  </div>
+</div>
+
+
+</div><div id="shopify-section-sections--30466532770134__header" class="shopify-section shopify-section-group-header-group section-header"><link rel="stylesheet" href="//pirmizingsniai.lt/cdn/shop/t/3/assets/component-list-menu.css?v=151968516119678728991781006079" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//pirmizingsniai.lt/cdn/shop/t/3/assets/component-search.css?v=165164710990765432851781006079" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//pirmizingsniai.lt/cdn/shop/t/3/assets/component-menu-drawer.css?v=147478906057189667651781006079" media="print" onload="this.media='all'">
+<link
+  rel="stylesheet"
+  href="//pirmizingsniai.lt/cdn/shop/t/3/assets/component-cart-notification.css?v=54116361853792938221781006079"
+  media="print"
+  onload="this.media='all'"
+><style>
+  header-drawer {
+    justify-self: start;
+    margin-left: -1.2rem;
+  }.scrolled-past-header .header__heading-logo-wrapper {
+      width: 75%;
+    }@media screen and (min-width: 990px) {
+      header-drawer {
+        display: none;
+      }
+    }.menu-drawer-container {
+    display: flex;
+  }
+
+  .list-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .list-menu--inline {
+    display: inline-flex;
+    flex-wrap: wrap;
+  }
+
+  summary.list-menu__item {
+    padding-right: 2.7rem;
+  }
+
+  .list-menu__item {
+    display: flex;
+    align-items: center;
+    line-height: calc(1 + 0.3 / var(--font-body-scale));
+  }
+
+  .list-menu__item--link {
+    text-decoration: none;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    line-height: calc(1 + 0.8 / var(--font-body-scale));
+  }
+
+  @media screen and (min-width: 750px) {
+    .list-menu__item--link {
+      padding-bottom: 0.5rem;
+      padding-top: 0.5rem;
+    }
+  }
+</style><style data-shopify>.header {
+    padding: 10px 3rem 10px 3rem;
+  }
+
+  .section-header {
+    position: sticky; /* This is for fixing a Safari z-index issue. PR #2147 */
+    margin-bottom: 0px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-header {
+      margin-bottom: 0px;
+    }
+  }
+
+  @media screen and (min-width: 990px) {
+    .header {
+      padding-top: 20px;
+      padding-bottom: 20px;
+    }
+  }</style><script src="//pirmizingsniai.lt/cdn/shop/t/3/assets/cart-notification.js?v=133508293167896966491781006079" defer="defer"></script>
+
+<sticky-header
+  
+    data-sticky-type="reduce-logo-size"
+  
+  class="header-wrapper color-scheme-1 gradient header-wrapper--border-bottom"
+><header class="header header--middle-left header--mobile-center page-width header--has-menu header--has-account">
+
+<header-drawer data-breakpoint="tablet">
+  <details id="Details-menu-drawer-container" class="menu-drawer-container">
+    <summary
+      class="header__icon header__icon--menu header__icon--summary link focus-inset"
+      aria-label="Meniu"
+    >
+      <span><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-hamburger" viewBox="0 0 18 16"><path fill="currentColor" d="M1 .5a.5.5 0 1 0 0 1h15.71a.5.5 0 0 0 0-1zM.5 8a.5.5 0 0 1 .5-.5h15.71a.5.5 0 0 1 0 1H1A.5.5 0 0 1 .5 8m0 7a.5.5 0 0 1 .5-.5h15.71a.5.5 0 0 1 0 1H1a.5.5 0 0 1-.5-.5"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-close" viewBox="0 0 18 17"><path fill="currentColor" d="M.865 15.978a.5.5 0 0 0 .707.707l7.433-7.431 7.579 7.282a.501.501 0 0 0 .846-.37.5.5 0 0 0-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 1 0-.707-.708L8.991 7.853 1.413.573a.5.5 0 1 0-.693.72l7.563 7.268z"/></svg>
+</span>
+    </summary>
+    <div id="menu-drawer" class="gradient menu-drawer motion-reduce color-scheme-1">
+      <div class="menu-drawer__inner-container">
+        <div class="menu-drawer__navigation-container">
+          <nav class="menu-drawer__navigation">
+            <ul class="menu-drawer__menu has-submenu list-menu" role="list"><li><a
+                      id="HeaderDrawer-susisiekite"
+                      href="/pages/contact"
+                      class="menu-drawer__menu-item list-menu__item link link--text focus-inset"
+                      
+                    >
+                      Susisiekite
+                    </a></li><li><a
+                      id="HeaderDrawer-visi-gidai"
+                      href="/collections/frontpage"
+                      class="menu-drawer__menu-item list-menu__item link link--text focus-inset"
+                      
+                    >
+                      Visi gidai
+                    </a></li></ul>
+          </nav>
+          <div class="menu-drawer__utility-links"><a
+                href="https://pirmizingsniai.lt/customer_authentication/redirect?locale=lt&region_country=LT"
+                class="menu-drawer__account link focus-inset h5 medium-hide large-up-hide"
+                rel="nofollow"
+              ><span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-account" viewBox="0 0 18 19"><path fill="currentColor" fill-rule="evenodd" d="M6 4.5a3 3 0 1 1 6 0 3 3 0 0 1-6 0m3-4a4 4 0 1 0 0 8 4 4 0 0 0 0-8m5.58 12.15c1.12.82 1.83 2.24 1.91 4.85H1.51c.08-2.6.79-4.03 1.9-4.85C4.66 11.75 6.5 11.5 9 11.5s4.35.26 5.58 1.15M9 10.5c-2.5 0-4.65.24-6.17 1.35C1.27 12.98.5 14.93.5 18v.5h17V18c0-3.07-.77-5.02-2.33-6.15-1.52-1.1-3.67-1.35-6.17-1.35" clip-rule="evenodd"/></svg>
+</span>Prisijungti</a><div class="menu-drawer__localization header-localization">
+</div><ul class="list list-social list-unstyled" role="list"></ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </details>
+</header-drawer>
+<a href="/" class="header__heading-link link link--text focus-inset"><div class="header__heading-logo-wrapper">
+            
+            <img src="//pirmizingsniai.lt/cdn/shop/files/Group_121420255.png?v=1777748434&amp;width=600" alt="Pirmi žingsniai" srcset="//pirmizingsniai.lt/cdn/shop/files/Group_121420255.png?v=1777748434&amp;width=170 170w, //pirmizingsniai.lt/cdn/shop/files/Group_121420255.png?v=1777748434&amp;width=255 255w, //pirmizingsniai.lt/cdn/shop/files/Group_121420255.png?v=1777748434&amp;width=340 340w" width="170" height="47.332361516034986" loading="eager" class="header__heading-logo motion-reduce" sizes="(max-width: 340px) 50vw, 170px">
+          </div></a>
+
+<nav class="header__inline-menu">
+  <ul class="list-menu list-menu--inline" role="list"><li><a
+            id="HeaderMenu-susisiekite"
+            href="/pages/contact"
+            class="header__menu-item list-menu__item link link--text focus-inset"
+            
+          >
+            <span
+            >Susisiekite</span>
+          </a></li><li><a
+            id="HeaderMenu-visi-gidai"
+            href="/collections/frontpage"
+            class="header__menu-item list-menu__item link link--text focus-inset"
+            
+          >
+            <span
+            >Visi gidai</span>
+          </a></li></ul>
+</nav>
+
+<div class="header__icons">
+      <div class="desktop-localization-wrapper">
+</div>
+      
+
+<details-modal class="header__search">
+  <details>
+    <summary
+      class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle"
+      aria-haspopup="dialog"
+      aria-label="Ieškoti"
+    >
+      <span>
+        <span class="svg-wrapper"><svg fill="none" class="icon icon-search" viewBox="0 0 18 19"><path fill="currentColor" fill-rule="evenodd" d="M11.03 11.68A5.784 5.784 0 1 1 2.85 3.5a5.784 5.784 0 0 1 8.18 8.18m.26 1.12a6.78 6.78 0 1 1 .72-.7l5.4 5.4a.5.5 0 1 1-.71.7z" clip-rule="evenodd"/></svg>
+</span>
+        <span class="svg-wrapper header__icon-close"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-close" viewBox="0 0 18 17"><path fill="currentColor" d="M.865 15.978a.5.5 0 0 0 .707.707l7.433-7.431 7.579 7.282a.501.501 0 0 0 .846-.37.5.5 0 0 0-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 1 0-.707-.708L8.991 7.853 1.413.573a.5.5 0 1 0-.693.72l7.563 7.268z"/></svg>
+</span>
+      </span>
+    </summary>
+    <div
+      class="search-modal modal__content gradient"
+      role="dialog"
+      aria-modal="true"
+      aria-label="Ieškoti"
+    >
+      <div class="modal-overlay"></div>
+      <div
+        class="search-modal__content search-modal__content-bottom"
+        tabindex="-1"
+      ><search-form class="search-modal__form"><form action="/search" method="get" role="search" class="search search-modal__form">
+          <div class="field">
+            <input
+              class="search__input field__input"
+              id="Search-In-Modal"
+              type="search"
+              name="q"
+              value=""
+              placeholder="Ieškoti">
+            <label class="field__label" for="Search-In-Modal">Ieškoti</label>
+            <input type="hidden" name="options[prefix]" value="last">
+            <button
+              type="reset"
+              class="reset__button field__button hidden"
+              aria-label="Išvalyti paieškos terminą"
+            >
+              <span class="svg-wrapper"><svg fill="none" stroke="currentColor" class="icon icon-close" viewBox="0 0 18 18"><circle cx="9" cy="9" r="8.5" stroke-opacity=".2"/><path stroke-linecap="round" stroke-linejoin="round" d="M11.83 11.83 6.172 6.17M6.229 11.885l5.544-5.77"/></svg>
+</span>
+            </button>
+            <button class="search__button field__button" aria-label="Ieškoti">
+              <span class="svg-wrapper"><svg fill="none" class="icon icon-search" viewBox="0 0 18 19"><path fill="currentColor" fill-rule="evenodd" d="M11.03 11.68A5.784 5.784 0 1 1 2.85 3.5a5.784 5.784 0 0 1 8.18 8.18m.26 1.12a6.78 6.78 0 1 1 .72-.7l5.4 5.4a.5.5 0 1 1-.71.7z" clip-rule="evenodd"/></svg>
+</span>
+            </button>
+          </div></form></search-form><button
+          type="button"
+          class="search-modal__close-button modal__close-button link link--text focus-inset"
+          aria-label="Uždaryti"
+        >
+          <span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-close" viewBox="0 0 18 17"><path fill="currentColor" d="M.865 15.978a.5.5 0 0 0 .707.707l7.433-7.431 7.579 7.282a.501.501 0 0 0 .846-.37.5.5 0 0 0-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 1 0-.707-.708L8.991 7.853 1.413.573a.5.5 0 1 0-.693.72l7.563 7.268z"/></svg>
+</span>
+        </button>
+      </div>
+    </div>
+  </details>
+</details-modal>
+
+<a
+          href="https://pirmizingsniai.lt/customer_authentication/redirect?locale=lt&region_country=LT"
+          class="header__icon header__icon--account link focus-inset small-hide"
+          rel="nofollow"
+        ><span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-account" viewBox="0 0 18 19"><path fill="currentColor" fill-rule="evenodd" d="M6 4.5a3 3 0 1 1 6 0 3 3 0 0 1-6 0m3-4a4 4 0 1 0 0 8 4 4 0 0 0 0-8m5.58 12.15c1.12.82 1.83 2.24 1.91 4.85H1.51c.08-2.6.79-4.03 1.9-4.85C4.66 11.75 6.5 11.5 9 11.5s4.35.26 5.58 1.15M9 10.5c-2.5 0-4.65.24-6.17 1.35C1.27 12.98.5 14.93.5 18v.5h17V18c0-3.07-.77-5.02-2.33-6.15-1.52-1.1-3.67-1.35-6.17-1.35" clip-rule="evenodd"/></svg>
+</span><span class="visually-hidden">Prisijungti</span>
+        </a><a href="/cart" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble">
+        
+          <span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-cart-empty" viewBox="0 0 40 40"><path fill="currentColor" fill-rule="evenodd" d="M15.75 11.8h-3.16l-.77 11.6a5 5 0 0 0 4.99 5.34h7.38a5 5 0 0 0 4.99-5.33L28.4 11.8zm0 1h-2.22l-.71 10.67a4 4 0 0 0 3.99 4.27h7.38a4 4 0 0 0 4-4.27l-.72-10.67h-2.22v.63a4.75 4.75 0 1 1-9.5 0zm8.5 0h-7.5v.63a3.75 3.75 0 1 0 7.5 0z"/></svg>
+</span>
+        
+        <span class="visually-hidden">Krepšelis</span></a>
+    </div>
+  </header>
+</sticky-header>
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Pirmi žingsniai",
+    
+      "logo": "https:\/\/pirmizingsniai.lt\/cdn\/shop\/files\/Group_121420255.png?v=1777748434\u0026width=500",
+    
+    "sameAs": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "url": "https:\/\/pirmizingsniai.lt"
+  }
+</script>
+</div>
+<!-- END sections: header-group -->
+
+    <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
+      <section id="shopify-section-template--30473265414486__main" class="shopify-section section"><product-info
+  id="MainProduct-template--30473265414486__main"
+  class="section-template--30473265414486__main-padding gradient color-scheme-1"
+  data-section="template--30473265414486__main"
+  data-product-id="10844064186710"
+  data-update-url="true"
+  data-url="/products/nesciosios-gidas"
+  
+>
+  <link href="//pirmizingsniai.lt/cdn/shop/t/3/assets/section-main-product.css?v=161818056142182136911781006079" rel="stylesheet" type="text/css" media="all" />
+  <link href="//pirmizingsniai.lt/cdn/shop/t/3/assets/component-accordion.css?v=7971072480289620591781006079" rel="stylesheet" type="text/css" media="all" />
+  <link href="//pirmizingsniai.lt/cdn/shop/t/3/assets/component-price.css?v=47596247576480123001781006079" rel="stylesheet" type="text/css" media="all" />
+  <link href="//pirmizingsniai.lt/cdn/shop/t/3/assets/component-slider.css?v=14039311878856620671781006079" rel="stylesheet" type="text/css" media="all" />
+  <link href="//pirmizingsniai.lt/cdn/shop/t/3/assets/component-rating.css?v=179577762467860590411781006079" rel="stylesheet" type="text/css" media="all" />
+  <link href="//pirmizingsniai.lt/cdn/shop/t/3/assets/component-deferred-media.css?v=14096082462203297471781006079" rel="stylesheet" type="text/css" media="all" />
+
+  
+    <link href="//pirmizingsniai.lt/cdn/shop/t/3/assets/component-product-variant-picker.css?v=101198305663325844211781006079" rel="stylesheet" type="text/css" media="all" />
+    <link href="//pirmizingsniai.lt/cdn/shop/t/3/assets/component-swatch-input.css?v=61683592951238328641781006079" rel="stylesheet" type="text/css" media="all" />
+    <link href="//pirmizingsniai.lt/cdn/shop/t/3/assets/component-swatch.css?v=6811383713633888781781006079" rel="stylesheet" type="text/css" media="all" />
+  
+<style data-shopify>.section-template--30473265414486__main-padding {
+      padding-top: 36px;
+      padding-bottom: 0px;
+    }
+
+    @media screen and (min-width: 750px) {
+      .section-template--30473265414486__main-padding {
+        padding-top: 48px;
+        padding-bottom: 0px;
+      }
+    }</style><script src="//pirmizingsniai.lt/cdn/shop/t/3/assets/product-info.js?v=16203316012296685121781006079" defer="defer"></script>
+  <script src="//pirmizingsniai.lt/cdn/shop/t/3/assets/product-form.js?v=16477139885528072191781006079" defer="defer"></script>
+
+  <div class="page-width">
+    <div class="product product--medium product--left product--thumbnail product--mobile-hide grid grid--1-col grid--2-col-tablet">
+      <div class="grid__item product__media-wrapper">
+        
+<media-gallery
+  id="MediaGallery-template--30473265414486__main"
+  role="region"
+  
+    class="product__column-sticky"
+  
+  aria-label="Galerijos žiūryklė"
+  data-desktop-layout="thumbnail"
+>
+  <div id="GalleryStatus-template--30473265414486__main" class="visually-hidden" role="status"></div>
+  <slider-component id="GalleryViewer-template--30473265414486__main" class="slider-mobile-gutter">
+    <a class="skip-to-content-link button visually-hidden quick-add-hidden" href="#ProductInfo-template--30473265414486__main">
+      Pereiti prie informacijos apie gaminį
+    </a>
+    <ul
+      id="Slider-Gallery-template--30473265414486__main"
+      class="product__media-list contains-media grid grid--peek list-unstyled slider slider--mobile"
+      role="list"
+    >
+<li
+            id="Slide-template--30473265414486__main-61414925402454"
+            class="product__media-item grid__item slider__slide is-active scroll-trigger animate--fade-in"
+            data-media-id="template--30473265414486__main-61414925402454"
+          >
+
+<div
+  class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
+  style="--ratio: 1.0; --preview-ratio: 1.0;"
+>
+  <modal-opener
+    class="product__modal-opener product__modal-opener--image"
+    data-modal="#ProductModal-template--30473265414486__main"
+  >
+    <span
+      class="product__media-icon motion-reduce quick-add-hidden product__media-icon--none"
+      aria-hidden="true"
+    >
+      
+          <span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-plus" viewBox="0 0 19 19"><path fill="currentColor" fill-rule="evenodd" d="M4.667 7.94a.5.5 0 0 1 .499-.501l5.534-.014a.5.5 0 1 1 .002 1l-5.534.014a.5.5 0 0 1-.5-.5" clip-rule="evenodd"/><path fill="currentColor" fill-rule="evenodd" d="M7.926 4.665a.5.5 0 0 1 .501.498l.014 5.534a.5.5 0 1 1-1 .003l-.014-5.534a.5.5 0 0 1 .499-.501" clip-rule="evenodd"/><path fill="currentColor" fill-rule="evenodd" d="M12.832 3.03a6.931 6.931 0 1 0-9.802 9.802 6.931 6.931 0 0 0 9.802-9.802M2.323 2.323a7.931 7.931 0 0 1 11.296 11.136l4.628 4.628a.5.5 0 0 1-.707.707l-4.662-4.662A7.932 7.932 0 0 1 2.323 2.323" clip-rule="evenodd"/></svg>
+</span>
+      
+    </span>
+
+<div class="loading__spinner hidden">
+  <svg xmlns="http://www.w3.org/2000/svg" class="spinner" viewBox="0 0 66 66"><circle stroke-width="6" cx="33" cy="33" r="30" fill="none" class="path"/></svg>
+
+</div>
+<div class="product__media media media--transparent">
+      <img src="//pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008&amp;width=1946" alt="" srcset="//pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008&amp;width=246 246w, //pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008&amp;width=493 493w, //pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008&amp;width=600 600w, //pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008&amp;width=713 713w, //pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008&amp;width=823 823w, //pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008&amp;width=990 990w, //pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008&amp;width=1100 1100w, //pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008&amp;width=1206 1206w, //pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008&amp;width=1346 1346w, //pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008&amp;width=1426 1426w, //pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008&amp;width=1646 1646w, //pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008&amp;width=1946 1946w" width="1946" height="1946" class="image-magnify-none" sizes="(min-width: 1200px) 605px, (min-width: 990px) calc(55.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+    </div>
+    <button
+      class="product__media-toggle quick-add-hidden product__media-zoom-none"
+      type="button"
+      aria-haspopup="dialog"
+      data-media-id="61414925402454"
+    >
+      <span class="visually-hidden">
+        Atidaryti mediją 1 modaliniame lange
+      </span>
+    </button>
+  </modal-opener></div>
+
+          </li>
+<li
+            id="Slide-template--30473265414486__main-61441284800854"
+            class="product__media-item grid__item slider__slide scroll-trigger animate--fade-in"
+            data-media-id="template--30473265414486__main-61441284800854"
+          >
+
+<div
+  class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
+  style="--ratio: 1.0; --preview-ratio: 1.0;"
+>
+  <modal-opener
+    class="product__modal-opener product__modal-opener--image"
+    data-modal="#ProductModal-template--30473265414486__main"
+  >
+    <span
+      class="product__media-icon motion-reduce quick-add-hidden product__media-icon--none"
+      aria-hidden="true"
+    >
+      
+          <span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-plus" viewBox="0 0 19 19"><path fill="currentColor" fill-rule="evenodd" d="M4.667 7.94a.5.5 0 0 1 .499-.501l5.534-.014a.5.5 0 1 1 .002 1l-5.534.014a.5.5 0 0 1-.5-.5" clip-rule="evenodd"/><path fill="currentColor" fill-rule="evenodd" d="M7.926 4.665a.5.5 0 0 1 .501.498l.014 5.534a.5.5 0 1 1-1 .003l-.014-5.534a.5.5 0 0 1 .499-.501" clip-rule="evenodd"/><path fill="currentColor" fill-rule="evenodd" d="M12.832 3.03a6.931 6.931 0 1 0-9.802 9.802 6.931 6.931 0 0 0 9.802-9.802M2.323 2.323a7.931 7.931 0 0 1 11.296 11.136l4.628 4.628a.5.5 0 0 1-.707.707l-4.662-4.662A7.932 7.932 0 0 1 2.323 2.323" clip-rule="evenodd"/></svg>
+</span>
+      
+    </span>
+
+<div class="loading__spinner hidden">
+  <svg xmlns="http://www.w3.org/2000/svg" class="spinner" viewBox="0 0 66 66"><circle stroke-width="6" cx="33" cy="33" r="30" fill="none" class="path"/></svg>
+
+</div>
+<div class="product__media media media--transparent">
+      <img src="//pirmizingsniai.lt/cdn/shop/files/3_9b9667be-7370-4fce-99ed-84ffba23e0ac.png?v=1781174389&amp;width=1946" alt="" srcset="//pirmizingsniai.lt/cdn/shop/files/3_9b9667be-7370-4fce-99ed-84ffba23e0ac.png?v=1781174389&amp;width=246 246w, //pirmizingsniai.lt/cdn/shop/files/3_9b9667be-7370-4fce-99ed-84ffba23e0ac.png?v=1781174389&amp;width=493 493w, //pirmizingsniai.lt/cdn/shop/files/3_9b9667be-7370-4fce-99ed-84ffba23e0ac.png?v=1781174389&amp;width=600 600w, //pirmizingsniai.lt/cdn/shop/files/3_9b9667be-7370-4fce-99ed-84ffba23e0ac.png?v=1781174389&amp;width=713 713w, //pirmizingsniai.lt/cdn/shop/files/3_9b9667be-7370-4fce-99ed-84ffba23e0ac.png?v=1781174389&amp;width=823 823w, //pirmizingsniai.lt/cdn/shop/files/3_9b9667be-7370-4fce-99ed-84ffba23e0ac.png?v=1781174389&amp;width=990 990w, //pirmizingsniai.lt/cdn/shop/files/3_9b9667be-7370-4fce-99ed-84ffba23e0ac.png?v=1781174389&amp;width=1100 1100w, //pirmizingsniai.lt/cdn/shop/files/3_9b9667be-7370-4fce-99ed-84ffba23e0ac.png?v=1781174389&amp;width=1206 1206w, //pirmizingsniai.lt/cdn/shop/files/3_9b9667be-7370-4fce-99ed-84ffba23e0ac.png?v=1781174389&amp;width=1346 1346w, //pirmizingsniai.lt/cdn/shop/files/3_9b9667be-7370-4fce-99ed-84ffba23e0ac.png?v=1781174389&amp;width=1426 1426w, //pirmizingsniai.lt/cdn/shop/files/3_9b9667be-7370-4fce-99ed-84ffba23e0ac.png?v=1781174389&amp;width=1646 1646w, //pirmizingsniai.lt/cdn/shop/files/3_9b9667be-7370-4fce-99ed-84ffba23e0ac.png?v=1781174389&amp;width=1946 1946w" width="1946" height="1946" loading="lazy" class="image-magnify-none" sizes="(min-width: 1200px) 605px, (min-width: 990px) calc(55.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+    </div>
+    <button
+      class="product__media-toggle quick-add-hidden product__media-zoom-none"
+      type="button"
+      aria-haspopup="dialog"
+      data-media-id="61441284800854"
+    >
+      <span class="visually-hidden">
+        Atidaryti mediją 2 modaliniame lange
+      </span>
+    </button>
+  </modal-opener></div>
+
+          </li>
+<li
+            id="Slide-template--30473265414486__main-61441284833622"
+            class="product__media-item grid__item slider__slide scroll-trigger animate--fade-in"
+            data-media-id="template--30473265414486__main-61441284833622"
+          >
+
+<div
+  class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
+  style="--ratio: 1.0; --preview-ratio: 1.0;"
+>
+  <modal-opener
+    class="product__modal-opener product__modal-opener--image"
+    data-modal="#ProductModal-template--30473265414486__main"
+  >
+    <span
+      class="product__media-icon motion-reduce quick-add-hidden product__media-icon--none"
+      aria-hidden="true"
+    >
+      
+          <span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-plus" viewBox="0 0 19 19"><path fill="currentColor" fill-rule="evenodd" d="M4.667 7.94a.5.5 0 0 1 .499-.501l5.534-.014a.5.5 0 1 1 .002 1l-5.534.014a.5.5 0 0 1-.5-.5" clip-rule="evenodd"/><path fill="currentColor" fill-rule="evenodd" d="M7.926 4.665a.5.5 0 0 1 .501.498l.014 5.534a.5.5 0 1 1-1 .003l-.014-5.534a.5.5 0 0 1 .499-.501" clip-rule="evenodd"/><path fill="currentColor" fill-rule="evenodd" d="M12.832 3.03a6.931 6.931 0 1 0-9.802 9.802 6.931 6.931 0 0 0 9.802-9.802M2.323 2.323a7.931 7.931 0 0 1 11.296 11.136l4.628 4.628a.5.5 0 0 1-.707.707l-4.662-4.662A7.932 7.932 0 0 1 2.323 2.323" clip-rule="evenodd"/></svg>
+</span>
+      
+    </span>
+
+<div class="loading__spinner hidden">
+  <svg xmlns="http://www.w3.org/2000/svg" class="spinner" viewBox="0 0 66 66"><circle stroke-width="6" cx="33" cy="33" r="30" fill="none" class="path"/></svg>
+
+</div>
+<div class="product__media media media--transparent">
+      <img src="//pirmizingsniai.lt/cdn/shop/files/1_00338b6c-6a43-474b-9fdd-36a0cc438ac6.png?v=1781174389&amp;width=1946" alt="" srcset="//pirmizingsniai.lt/cdn/shop/files/1_00338b6c-6a43-474b-9fdd-36a0cc438ac6.png?v=1781174389&amp;width=246 246w, //pirmizingsniai.lt/cdn/shop/files/1_00338b6c-6a43-474b-9fdd-36a0cc438ac6.png?v=1781174389&amp;width=493 493w, //pirmizingsniai.lt/cdn/shop/files/1_00338b6c-6a43-474b-9fdd-36a0cc438ac6.png?v=1781174389&amp;width=600 600w, //pirmizingsniai.lt/cdn/shop/files/1_00338b6c-6a43-474b-9fdd-36a0cc438ac6.png?v=1781174389&amp;width=713 713w, //pirmizingsniai.lt/cdn/shop/files/1_00338b6c-6a43-474b-9fdd-36a0cc438ac6.png?v=1781174389&amp;width=823 823w, //pirmizingsniai.lt/cdn/shop/files/1_00338b6c-6a43-474b-9fdd-36a0cc438ac6.png?v=1781174389&amp;width=990 990w, //pirmizingsniai.lt/cdn/shop/files/1_00338b6c-6a43-474b-9fdd-36a0cc438ac6.png?v=1781174389&amp;width=1100 1100w, //pirmizingsniai.lt/cdn/shop/files/1_00338b6c-6a43-474b-9fdd-36a0cc438ac6.png?v=1781174389&amp;width=1206 1206w, //pirmizingsniai.lt/cdn/shop/files/1_00338b6c-6a43-474b-9fdd-36a0cc438ac6.png?v=1781174389&amp;width=1346 1346w, //pirmizingsniai.lt/cdn/shop/files/1_00338b6c-6a43-474b-9fdd-36a0cc438ac6.png?v=1781174389&amp;width=1426 1426w, //pirmizingsniai.lt/cdn/shop/files/1_00338b6c-6a43-474b-9fdd-36a0cc438ac6.png?v=1781174389&amp;width=1646 1646w, //pirmizingsniai.lt/cdn/shop/files/1_00338b6c-6a43-474b-9fdd-36a0cc438ac6.png?v=1781174389&amp;width=1946 1946w" width="1946" height="1946" loading="lazy" class="image-magnify-none" sizes="(min-width: 1200px) 605px, (min-width: 990px) calc(55.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+    </div>
+    <button
+      class="product__media-toggle quick-add-hidden product__media-zoom-none"
+      type="button"
+      aria-haspopup="dialog"
+      data-media-id="61441284833622"
+    >
+      <span class="visually-hidden">
+        Atidaryti mediją 3 modaliniame lange
+      </span>
+    </button>
+  </modal-opener></div>
+
+          </li>
+<li
+            id="Slide-template--30473265414486__main-61441284768086"
+            class="product__media-item grid__item slider__slide scroll-trigger animate--fade-in"
+            data-media-id="template--30473265414486__main-61441284768086"
+          >
+
+<div
+  class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
+  style="--ratio: 1.0; --preview-ratio: 1.0;"
+>
+  <modal-opener
+    class="product__modal-opener product__modal-opener--image"
+    data-modal="#ProductModal-template--30473265414486__main"
+  >
+    <span
+      class="product__media-icon motion-reduce quick-add-hidden product__media-icon--none"
+      aria-hidden="true"
+    >
+      
+          <span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-plus" viewBox="0 0 19 19"><path fill="currentColor" fill-rule="evenodd" d="M4.667 7.94a.5.5 0 0 1 .499-.501l5.534-.014a.5.5 0 1 1 .002 1l-5.534.014a.5.5 0 0 1-.5-.5" clip-rule="evenodd"/><path fill="currentColor" fill-rule="evenodd" d="M7.926 4.665a.5.5 0 0 1 .501.498l.014 5.534a.5.5 0 1 1-1 .003l-.014-5.534a.5.5 0 0 1 .499-.501" clip-rule="evenodd"/><path fill="currentColor" fill-rule="evenodd" d="M12.832 3.03a6.931 6.931 0 1 0-9.802 9.802 6.931 6.931 0 0 0 9.802-9.802M2.323 2.323a7.931 7.931 0 0 1 11.296 11.136l4.628 4.628a.5.5 0 0 1-.707.707l-4.662-4.662A7.932 7.932 0 0 1 2.323 2.323" clip-rule="evenodd"/></svg>
+</span>
+      
+    </span>
+
+<div class="loading__spinner hidden">
+  <svg xmlns="http://www.w3.org/2000/svg" class="spinner" viewBox="0 0 66 66"><circle stroke-width="6" cx="33" cy="33" r="30" fill="none" class="path"/></svg>
+
+</div>
+<div class="product__media media media--transparent">
+      <img src="//pirmizingsniai.lt/cdn/shop/files/2_9020328b-fd83-46ab-bf14-205e7a53156b.png?v=1781174388&amp;width=1946" alt="" srcset="//pirmizingsniai.lt/cdn/shop/files/2_9020328b-fd83-46ab-bf14-205e7a53156b.png?v=1781174388&amp;width=246 246w, //pirmizingsniai.lt/cdn/shop/files/2_9020328b-fd83-46ab-bf14-205e7a53156b.png?v=1781174388&amp;width=493 493w, //pirmizingsniai.lt/cdn/shop/files/2_9020328b-fd83-46ab-bf14-205e7a53156b.png?v=1781174388&amp;width=600 600w, //pirmizingsniai.lt/cdn/shop/files/2_9020328b-fd83-46ab-bf14-205e7a53156b.png?v=1781174388&amp;width=713 713w, //pirmizingsniai.lt/cdn/shop/files/2_9020328b-fd83-46ab-bf14-205e7a53156b.png?v=1781174388&amp;width=823 823w, //pirmizingsniai.lt/cdn/shop/files/2_9020328b-fd83-46ab-bf14-205e7a53156b.png?v=1781174388&amp;width=990 990w, //pirmizingsniai.lt/cdn/shop/files/2_9020328b-fd83-46ab-bf14-205e7a53156b.png?v=1781174388&amp;width=1100 1100w, //pirmizingsniai.lt/cdn/shop/files/2_9020328b-fd83-46ab-bf14-205e7a53156b.png?v=1781174388&amp;width=1206 1206w, //pirmizingsniai.lt/cdn/shop/files/2_9020328b-fd83-46ab-bf14-205e7a53156b.png?v=1781174388&amp;width=1346 1346w, //pirmizingsniai.lt/cdn/shop/files/2_9020328b-fd83-46ab-bf14-205e7a53156b.png?v=1781174388&amp;width=1426 1426w, //pirmizingsniai.lt/cdn/shop/files/2_9020328b-fd83-46ab-bf14-205e7a53156b.png?v=1781174388&amp;width=1646 1646w, //pirmizingsniai.lt/cdn/shop/files/2_9020328b-fd83-46ab-bf14-205e7a53156b.png?v=1781174388&amp;width=1946 1946w" width="1946" height="1946" loading="lazy" class="image-magnify-none" sizes="(min-width: 1200px) 605px, (min-width: 990px) calc(55.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+    </div>
+    <button
+      class="product__media-toggle quick-add-hidden product__media-zoom-none"
+      type="button"
+      aria-haspopup="dialog"
+      data-media-id="61441284768086"
+    >
+      <span class="visually-hidden">
+        Atidaryti mediją 4 modaliniame lange
+      </span>
+    </button>
+  </modal-opener></div>
+
+          </li></ul>
+    <div class="slider-buttons quick-add-hidden">
+      <button
+        type="button"
+        class="slider-button slider-button--prev"
+        name="previous"
+        aria-label="Slinkti kairėn"
+      >
+        <span class="svg-wrapper"><svg class="icon icon-caret" viewBox="0 0 10 6"><path fill="currentColor" fill-rule="evenodd" d="M9.354.646a.5.5 0 0 0-.708 0L5 4.293 1.354.646a.5.5 0 0 0-.708.708l4 4a.5.5 0 0 0 .708 0l4-4a.5.5 0 0 0 0-.708" clip-rule="evenodd"/></svg>
+</span>
+      </button>
+      <div class="slider-counter caption">
+        <span class="slider-counter--current">1</span>
+        <span aria-hidden="true"> / </span>
+        <span class="visually-hidden">iš</span>
+        <span class="slider-counter--total">4</span>
+      </div>
+      <button
+        type="button"
+        class="slider-button slider-button--next"
+        name="next"
+        aria-label="Slinkti dešinėn"
+      >
+        <span class="svg-wrapper"><svg class="icon icon-caret" viewBox="0 0 10 6"><path fill="currentColor" fill-rule="evenodd" d="M9.354.646a.5.5 0 0 0-.708 0L5 4.293 1.354.646a.5.5 0 0 0-.708.708l4 4a.5.5 0 0 0 .708 0l4-4a.5.5 0 0 0 0-.708" clip-rule="evenodd"/></svg>
+</span>
+      </button>
+    </div>
+  </slider-component><slider-component
+      id="GalleryThumbnails-template--30473265414486__main"
+      class="thumbnail-slider slider-mobile-gutter quick-add-hidden small-hide"
+    >
+      <button
+        type="button"
+        class="slider-button slider-button--prev medium-hide large-up-hide"
+        name="previous"
+        aria-label="Slinkti kairėn"
+        aria-controls="GalleryThumbnails-template--30473265414486__main"
+        data-step="3"
+      >
+        <span class="svg-wrapper"><svg class="icon icon-caret" viewBox="0 0 10 6"><path fill="currentColor" fill-rule="evenodd" d="M9.354.646a.5.5 0 0 0-.708 0L5 4.293 1.354.646a.5.5 0 0 0-.708.708l4 4a.5.5 0 0 0 .708 0l4-4a.5.5 0 0 0 0-.708" clip-rule="evenodd"/></svg>
+</span>
+      </button>
+      <ul
+        id="Slider-Thumbnails-template--30473265414486__main"
+        class="thumbnail-list list-unstyled slider slider--mobile"
+      ><li
+              id="Slide-Thumbnails-template--30473265414486__main-1"
+              class="thumbnail-list__item slider__slide"
+              data-target="template--30473265414486__main-61414925402454"
+              data-media-position="1"
+            ><button
+                class="thumbnail global-media-settings global-media-settings--no-shadow"
+                aria-label="Įkelti vaizdą 1 į galerijos rodinį"
+                
+                  aria-current="true"
+                
+                aria-controls="GalleryViewer-template--30473265414486__main"
+                aria-describedby="Thumbnail-template--30473265414486__main-1
+"
+              >
+                <img src="//pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008&amp;width=416" alt="Nėščiosios gidas" srcset="//pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008&amp;width=54 54w, //pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008&amp;width=74 74w, //pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008&amp;width=104 104w, //pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008&amp;width=162 162w, //pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008&amp;width=208 208w, //pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008&amp;width=324 324w, //pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008&amp;width=416 416w" width="416" height="416" loading="lazy" sizes="(min-width: 1200px) calc((605 - 4rem) / 4),
+          (min-width: 990px) calc((55.0vw - 4rem) / 4),
+          (min-width: 750px) calc((100vw - 15rem) / 8),
+          calc((100vw - 8rem) / 3)" id="Thumbnail-template--30473265414486__main-1
+">
+              </button>
+            </li><li
+              id="Slide-Thumbnails-template--30473265414486__main-2"
+              class="thumbnail-list__item slider__slide"
+              data-target="template--30473265414486__main-61441284800854"
+              data-media-position="2"
+            ><button
+                class="thumbnail global-media-settings global-media-settings--no-shadow"
+                aria-label="Įkelti vaizdą 2 į galerijos rodinį"
+                
+                aria-controls="GalleryViewer-template--30473265414486__main"
+                aria-describedby="Thumbnail-template--30473265414486__main-2
+"
+              >
+                <img src="//pirmizingsniai.lt/cdn/shop/files/3_9b9667be-7370-4fce-99ed-84ffba23e0ac.png?v=1781174389&amp;width=416" alt="Nėščiosios gidas" srcset="//pirmizingsniai.lt/cdn/shop/files/3_9b9667be-7370-4fce-99ed-84ffba23e0ac.png?v=1781174389&amp;width=54 54w, //pirmizingsniai.lt/cdn/shop/files/3_9b9667be-7370-4fce-99ed-84ffba23e0ac.png?v=1781174389&amp;width=74 74w, //pirmizingsniai.lt/cdn/shop/files/3_9b9667be-7370-4fce-99ed-84ffba23e0ac.png?v=1781174389&amp;width=104 104w, //pirmizingsniai.lt/cdn/shop/files/3_9b9667be-7370-4fce-99ed-84ffba23e0ac.png?v=1781174389&amp;width=162 162w, //pirmizingsniai.lt/cdn/shop/files/3_9b9667be-7370-4fce-99ed-84ffba23e0ac.png?v=1781174389&amp;width=208 208w, //pirmizingsniai.lt/cdn/shop/files/3_9b9667be-7370-4fce-99ed-84ffba23e0ac.png?v=1781174389&amp;width=324 324w, //pirmizingsniai.lt/cdn/shop/files/3_9b9667be-7370-4fce-99ed-84ffba23e0ac.png?v=1781174389&amp;width=416 416w" width="416" height="416" loading="lazy" sizes="(min-width: 1200px) calc((605 - 4rem) / 4),
+          (min-width: 990px) calc((55.0vw - 4rem) / 4),
+          (min-width: 750px) calc((100vw - 15rem) / 8),
+          calc((100vw - 8rem) / 3)" id="Thumbnail-template--30473265414486__main-2
+">
+              </button>
+            </li><li
+              id="Slide-Thumbnails-template--30473265414486__main-3"
+              class="thumbnail-list__item slider__slide"
+              data-target="template--30473265414486__main-61441284833622"
+              data-media-position="3"
+            ><button
+                class="thumbnail global-media-settings global-media-settings--no-shadow"
+                aria-label="Įkelti vaizdą 3 į galerijos rodinį"
+                
+                aria-controls="GalleryViewer-template--30473265414486__main"
+                aria-describedby="Thumbnail-template--30473265414486__main-3
+"
+              >
+                <img src="//pirmizingsniai.lt/cdn/shop/files/1_00338b6c-6a43-474b-9fdd-36a0cc438ac6.png?v=1781174389&amp;width=416" alt="Nėščiosios gidas" srcset="//pirmizingsniai.lt/cdn/shop/files/1_00338b6c-6a43-474b-9fdd-36a0cc438ac6.png?v=1781174389&amp;width=54 54w, //pirmizingsniai.lt/cdn/shop/files/1_00338b6c-6a43-474b-9fdd-36a0cc438ac6.png?v=1781174389&amp;width=74 74w, //pirmizingsniai.lt/cdn/shop/files/1_00338b6c-6a43-474b-9fdd-36a0cc438ac6.png?v=1781174389&amp;width=104 104w, //pirmizingsniai.lt/cdn/shop/files/1_00338b6c-6a43-474b-9fdd-36a0cc438ac6.png?v=1781174389&amp;width=162 162w, //pirmizingsniai.lt/cdn/shop/files/1_00338b6c-6a43-474b-9fdd-36a0cc438ac6.png?v=1781174389&amp;width=208 208w, //pirmizingsniai.lt/cdn/shop/files/1_00338b6c-6a43-474b-9fdd-36a0cc438ac6.png?v=1781174389&amp;width=324 324w, //pirmizingsniai.lt/cdn/shop/files/1_00338b6c-6a43-474b-9fdd-36a0cc438ac6.png?v=1781174389&amp;width=416 416w" width="416" height="416" loading="lazy" sizes="(min-width: 1200px) calc((605 - 4rem) / 4),
+          (min-width: 990px) calc((55.0vw - 4rem) / 4),
+          (min-width: 750px) calc((100vw - 15rem) / 8),
+          calc((100vw - 8rem) / 3)" id="Thumbnail-template--30473265414486__main-3
+">
+              </button>
+            </li><li
+              id="Slide-Thumbnails-template--30473265414486__main-4"
+              class="thumbnail-list__item slider__slide"
+              data-target="template--30473265414486__main-61441284768086"
+              data-media-position="4"
+            ><button
+                class="thumbnail global-media-settings global-media-settings--no-shadow"
+                aria-label="Įkelti vaizdą 4 į galerijos rodinį"
+                
+                aria-controls="GalleryViewer-template--30473265414486__main"
+                aria-describedby="Thumbnail-template--30473265414486__main-4
+"
+              >
+                <img src="//pirmizingsniai.lt/cdn/shop/files/2_9020328b-fd83-46ab-bf14-205e7a53156b.png?v=1781174388&amp;width=416" alt="Nėščiosios gidas" srcset="//pirmizingsniai.lt/cdn/shop/files/2_9020328b-fd83-46ab-bf14-205e7a53156b.png?v=1781174388&amp;width=54 54w, //pirmizingsniai.lt/cdn/shop/files/2_9020328b-fd83-46ab-bf14-205e7a53156b.png?v=1781174388&amp;width=74 74w, //pirmizingsniai.lt/cdn/shop/files/2_9020328b-fd83-46ab-bf14-205e7a53156b.png?v=1781174388&amp;width=104 104w, //pirmizingsniai.lt/cdn/shop/files/2_9020328b-fd83-46ab-bf14-205e7a53156b.png?v=1781174388&amp;width=162 162w, //pirmizingsniai.lt/cdn/shop/files/2_9020328b-fd83-46ab-bf14-205e7a53156b.png?v=1781174388&amp;width=208 208w, //pirmizingsniai.lt/cdn/shop/files/2_9020328b-fd83-46ab-bf14-205e7a53156b.png?v=1781174388&amp;width=324 324w, //pirmizingsniai.lt/cdn/shop/files/2_9020328b-fd83-46ab-bf14-205e7a53156b.png?v=1781174388&amp;width=416 416w" width="416" height="416" loading="lazy" sizes="(min-width: 1200px) calc((605 - 4rem) / 4),
+          (min-width: 990px) calc((55.0vw - 4rem) / 4),
+          (min-width: 750px) calc((100vw - 15rem) / 8),
+          calc((100vw - 8rem) / 3)" id="Thumbnail-template--30473265414486__main-4
+">
+              </button>
+            </li></ul>
+      <button
+        type="button"
+        class="slider-button slider-button--next medium-hide large-up-hide"
+        name="next"
+        aria-label="Slinkti dešinėn"
+        aria-controls="GalleryThumbnails-template--30473265414486__main"
+        data-step="3"
+      >
+        <span class="svg-wrapper"><svg class="icon icon-caret" viewBox="0 0 10 6"><path fill="currentColor" fill-rule="evenodd" d="M9.354.646a.5.5 0 0 0-.708 0L5 4.293 1.354.646a.5.5 0 0 0-.708.708l4 4a.5.5 0 0 0 .708 0l4-4a.5.5 0 0 0 0-.708" clip-rule="evenodd"/></svg>
+</span>
+      </button>
+    </slider-component></media-gallery>
+
+      </div>
+      <div class="product__info-wrapper grid__item scroll-trigger animate--slide-in">
+        <section
+          id="ProductInfo-template--30473265414486__main"
+          class="product__info-container product__column-sticky"
+        ><div class="el-hero__stars">
+  <span class="el-stars">★★★★★</span>
+  <span class="el-reviews">(90+ laimingų moterų)</span>
+</div>
+<div class="product__title" >
+                  <h1>Nėščiosios gidas</h1>
+                  <a href="/products/nesciosios-gidas" class="product__title">
+                    <h2 class="h1">
+                      Nėščiosios gidas
+                    </h2>
+                  </a>
+                </div><div id="price-template--30473265414486__main" role="status" >
+<div
+    class="
+      price price--large price--on-sale price--show-badge"
+  >
+    <div class="price__container"><div class="price__regular"><span class="visually-hidden visually-hidden--inline">Įprasta kaina</span>
+          <span class="price-item price-item--regular">
+            €29,95 EUR
+          </span></div>
+      <div class="price__sale">
+          <span class="visually-hidden visually-hidden--inline">Įprasta kaina</span>
+          <span>
+            <s class="price-item price-item--regular">
+              
+                €59,95 EUR
+              
+            </s>
+          </span><span class="visually-hidden visually-hidden--inline">Išpardavimo kaina</span>
+        <span class="price-item price-item--sale price-item--last">
+          €29,95 EUR
+        </span>
+      </div></div><span class="badge price__badge-sale color-scheme-4">
+        Išpardavimas
+      </span>
+
+      <span class="badge price__badge-sold-out color-scheme-3">
+        Išparduota
+      </span></div>
+
+</div><div class="product__tax caption rte"> 
+</div><div ><form method="post" action="/cart/add" id="product-form-installment-template--30473265414486__main" accept-charset="UTF-8" class="installment caption-large" enctype="multipart/form-data"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="id" value="54144289014102">
+                    
+<input type="hidden" name="product-id" value="10844064186710" /><input type="hidden" name="section-id" value="template--30473265414486__main" /></form></div><div class="el-hero">
+  
+
+
+
+
+
+
+  <!-- REVIEW BOX -->
+  <div class="el-review">
+   
+    <div class="el-review__content">
+      <div class="el-review__top">
+        <span class="el-review__name">Greta K.</span>
+        <span class="el-review__stars">★★★★★</span>
+      </div>
+      <p class="el-review__text">Tikrai labai viskas aišku. Tiesiog esu laiminga, kad viskas vienoje vietoje ir nebereikia naršyti internete, kad rasčiau atsakymus.</p>
+    </div>
+  </div>
+
+<div class="el-faq__urgency">
+  <span class="el-faq__pulse"></span>
+  <span class="el-faq__urgency-text">
+    Dėl didelio užsakymų kiekio gidas jums bus paruoštas per 48 val.
+  </span>
+</div>
+
+  <div class="el-hero__box">
+    <p class="el-hero__box-title">Sužinok ką daryti kiekvieną nėštumo savaitę</p>
+    <ul class="el-hero__bullets">
+      <li><span class="el-check">✓</span><span class="el-bullet-text">40 savaičių planas pdf formatu - kas vyksta su kūdikiu ir mama kiekvieną savaitę</span></li>
+      <li><span class="el-check">✓</span><span class="el-bullet-text">Fizinio aktyvumo pratimai kiekvienam trimestrui - kas saugu, kas naudinga, ko vengti</span></li>
+      <li><span class="el-check">✓</span><span class="el-bullet-text">Tempimo programa nugaros, dubens ir kojų skausmams malšinti</span></li>
+      <li><span class="el-check">✓</span><span class="el-bullet-text">Dubens dugno pratimai - pasiruošimas gimdymui ir atsigavimas po jo</span></li>
+      <li><span class="el-check">✓</span><span class="el-bullet-text">Mitybos poreikiai keičiasi kiekvieną trimestrą - ko reikia daugiau, ko vengti ir kodėl</span></li>
+ <li><span class="el-check">✓</span><span class="el-bullet-text">Kada kreiptis į gydytoją ir kada simptomai yra normalūs - jokio beprasmio googlinimo naktimis</span></li>
+    </ul>
+  </div>
+</div>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@400;500;600&display=swap');
+
+.el-hero {
+  margin-left: -5px;
+  margin-right: -5px;
+  padding: 0 4px;
+font-family: 'DM Sans', sans-serif; }
+
+/* stars */
+.el-hero__stars { display: flex; align-items: center; gap: 8px; margin-bottom: 14px; }
+.el-stars { color: #f4a261; font-size: 18px; letter-spacing: 2px; }
+.el-reviews { font-size: 13px; color: #666; }
+
+/* review */
+.el-review {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: #f3f3f3;
+  border-radius: 10px;
+  padding: 8px 8px;
+  margin-bottom: 16px;
+}
+
+.el-review__img {
+  width: 60px;
+  height: 60px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.el-review__content {
+  flex: 1;
+}
+
+.el-review__top {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 2px;
+}
+
+.el-review__name {
+  font-size: 13px;
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+.el-review__stars {
+  font-size: 13px;
+  color: #000;
+}
+
+.el-review__text {
+  font-size: 11px;
+  color: #444;
+  line-height: 1.4;
+margin: 0;
+}
+
+/* main box */
+.el-hero__box {
+  background: #f9f6f0;
+  border-radius: 12px;
+  padding: 12px 16px 16px 16px;
+  margin-bottom: 16px;
+}
+
+.el-hero__box-title {
+  font-family: 'DM Serif Display', serif;
+  font-size: 17px;
+  color: #1a1a1a;
+  margin-bottom: 14px;
+  line-height: 1.4;
+}
+
+.el-hero__bullets {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.el-hero__bullets li {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.el-check {
+  width: 20px;
+  height: 20px;
+  min-width: 20px;
+  background: #2d6a4f;
+  border-radius: 50%;
+  color: white;
+  font-size: 11px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  margin-top: 1px;
+}
+
+.el-bullet-text {
+  font-size: 14px;
+  color: #1a1a1a;
+  line-height: 1.4;
+}
+</style>
+<p
+                  class="product__text inline-richtext"
+                  
+                >Pasirink kelintas nėštumas ir planas bus paruoštas pagal tai</p>
+<variant-selects
+    id="variant-selects-template--30473265414486__main"
+    data-section="template--30473265414486__main"
+    
+  ><div class="product-form__input product-form__input--dropdown">
+          <label class="form__label" for="Option-template--30473265414486__main-0">
+            Kelintas nėštumas
+          </label>
+          <div class="select"><select
+              id="Option-template--30473265414486__main-0"
+              class="select__select"
+              name="options[Kelintas nėštumas]"
+              form="product-form-template--30473265414486__main"
+            >
+              
+
+<option
+      id="template--30473265414486__main-1-0"
+      value="Pirmas"
+      
+        selected="selected"
+      
+      
+      data-product-url=""
+    data-option-value-id="10227649675606"
+    >
+      Pirmas
+    </option>
+<option
+      id="template--30473265414486__main-1-1"
+      value="Antras"
+      
+      
+      data-product-url=""
+    data-option-value-id="10227649708374"
+    >
+      Antras
+    </option>
+<option
+      id="template--30473265414486__main-1-2"
+      value="Trečias+"
+      
+      
+      data-product-url=""
+    data-option-value-id="10227649741142"
+    >
+      Trečias+
+    </option>
+            </select>
+            <span class="svg-wrapper"><svg class="icon icon-caret" viewBox="0 0 10 6"><path fill="currentColor" fill-rule="evenodd" d="M9.354.646a.5.5 0 0 0-.708 0L5 4.293 1.354.646a.5.5 0 0 0-.708.708l4 4a.5.5 0 0 0 .708 0l4-4a.5.5 0 0 0 0-.708" clip-rule="evenodd"/></svg>
+</span>
+          </div>
+        </div><script type="application/json" data-selected-variant>
+      {"id":54144289014102,"title":"Pirmas","option1":"Pirmas","option2":null,"option3":null,"sku":null,"requires_shipping":false,"taxable":false,"featured_image":null,"available":true,"name":"Nėščiosios gidas - Pirmas","public_title":"Pirmas","options":["Pirmas"],"price":2995,"weight":0,"compare_at_price":5995,"inventory_management":null,"barcode":"","requires_selling_plan":false,"selling_plan_allocations":[],"quantity_rule":{"min":1,"max":null,"increment":1}}
+    </script>
+  </variant-selects>
+
+<div ><product-form
+      class="product-form"
+      data-hide-errors="false"
+      data-section-id="template--30473265414486__main"
+    >
+      <div class="product-form__error-message-wrapper" role="alert" hidden>
+        <span class="svg-wrapper"><svg class="icon icon-error" viewBox="0 0 13 13"><circle cx="6.5" cy="6.5" r="5.5" stroke="#fff" stroke-width="2"/><circle cx="6.5" cy="6.5" r="5.5" fill="#EB001B" stroke="#EB001B" stroke-width=".7"/><path fill="#fff" d="m5.874 3.528.1 4.044h1.053l.1-4.044zm.627 6.133c.38 0 .68-.288.68-.656s-.3-.656-.68-.656-.681.288-.681.656.3.656.68.656"/><path fill="#fff" stroke="#EB001B" stroke-width=".7" d="M5.874 3.178h-.359l.01.359.1 4.044.008.341h1.736l.008-.341.1-4.044.01-.359H5.873Zm.627 6.833c.56 0 1.03-.432 1.03-1.006s-.47-1.006-1.03-1.006-1.031.432-1.031 1.006.47 1.006 1.03 1.006Z"/></svg>
+</span>
+        <span class="product-form__error-message"></span>
+      </div><form method="post" action="/cart/add" id="product-form-template--30473265414486__main" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input
+          type="hidden"
+          name="id"
+          value="54144289014102"
+          
+          class="product-variant-id"
+        ><div class="product-form__buttons"><button
+            id="ProductSubmitButton-template--30473265414486__main"
+            type="submit"
+            name="add"
+            class="product-form__submit button button--full-width button--primary"
+            
+          >
+            <span>Įdėti į krepšelį
+</span>
+
+<div class="loading__spinner hidden">
+  <svg xmlns="http://www.w3.org/2000/svg" class="spinner" viewBox="0 0 66 66"><circle stroke-width="6" cx="33" cy="33" r="30" fill="none" class="path"/></svg>
+
+</div>
+</button></div><input type="hidden" name="product-id" value="10844064186710" /><input type="hidden" name="section-id" value="template--30473265414486__main" /></form></product-form><link href="//pirmizingsniai.lt/cdn/shop/t/3/assets/component-pickup-availability.css?v=34645222959864780961781006079" rel="stylesheet" type="text/css" media="all" />
+<pickup-availability
+      class="product__pickup-availabilities quick-add-hidden"
+      
+      data-root-url="/"
+      data-variant-id="54144289014102"
+      data-has-only-default-variant="false"
+      data-product-page-color-scheme="gradient color-scheme-1"
+    >
+      <template>
+        <pickup-availability-preview class="pickup-availability-preview">
+          <span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-unavailable" viewBox="0 0 20 20"><path fill="#DE3618" stroke="#fff" d="M13.94 3.94 10 7.878l-3.94-3.94A1.499 1.499 0 1 0 3.94 6.06L7.88 10l-3.94 3.94a1.499 1.499 0 1 0 2.12 2.12L10 12.12l3.94 3.94a1.497 1.497 0 0 0 2.12 0 1.5 1.5 0 0 0 0-2.12L12.122 10l3.94-3.94a1.499 1.499 0 1 0-2.121-2.12z"/></svg>
+</span>
+          <div class="pickup-availability-info">
+            <p class="caption-large">Nepavyko įkelti atsiėmimo galimybių</p>
+            <button class="pickup-availability-button link link--text underlined-link">
+              Atnaujinti
+            </button>
+          </div>
+        </pickup-availability-preview>
+      </template>
+    </pickup-availability>
+
+    <script src="//pirmizingsniai.lt/cdn/shop/t/3/assets/pickup-availability.js?v=78418059211521962961781006079" defer="defer"></script></div>
+<div class="el-faq">
+  <div class="el-faq__inner">
+
+    <div class="el-faq__urgency">
+      <span class="el-faq__pulse"></span>
+      <span class="el-faq__urgency-text">Dėl didelio užsakymų kiekio gidas jums bus paruoštas per 48 val.</span>
+    </div>
+
+    <div class="el-faq__item">
+      <button class="el-faq__question" onclick="elToggle(this)">
+        <span>
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
+          Ar saugu sportuoti nėštumo metu?
+        </span>
+        <span class="el-faq__icon">+</span>
+      </button>
+      <div class="el-faq__answer">
+        <p>Sveiką nėštumą turinčioms moterims - taip. Pasaulio sveikatos organizacija ir Amerikos akušerių bei ginekologų kolegija rekomenduoja reguliarią fizinę veiklą kaip sveiko nėštumo dalį. Gide aprašyta kas konkrečiai galima kiekvieną savaitę ir ko reikia vengti. Jei turite komplikuotą nėštumą ar gydytojas rekomendavo gulimąjį režimą - visada vadovaukitės jo rekomendacijomis.</p>
+      </div>
+    </div>
+
+    <div class="el-faq__item">
+      <button class="el-faq__question" onclick="elToggle(this)">
+        <span>
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          Nuo kurios savaitės galiu pradėti naudotis gidu?
+        </span>
+        <span class="el-faq__icon">+</span>
+      </button>
+      <div class="el-faq__answer">
+        <p>Nuo bet kurios. Gidas apima visas 40 nėštumo savaičių - galite pradėti nuo pirmos savaitės arba nuo tos, kurioje šiuo metu esate. Rekomenduojame pradėti kuo anksčiau - bet net pradėjusios 20 ar 30 savaitę gausite visą svarbią informaciją ir pratimus likusiam nėštumui.</p>
+      </div>
+    </div>
+
+    <div class="el-faq__item">
+      <button class="el-faq__question" onclick="elToggle(this)">
+        <span>
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+          Ar tinka jei tai ne pirmas nėštumas?
+        </span>
+        <span class="el-faq__icon">+</span>
+      </button>
+      <div class="el-faq__answer">
+        <p>Taip - gidas tinka visais nėštumais. Antro ar trečio nėštumo metu kūnas reaguoja kitaip, simptomai gali būti stipresni, nuovargis ateina greičiau. Pratimai ir rekomendacijos išlieka aktualūs, o daugelis mamų sako, kad ypač naudingas gimdymo pasiruošimo skyrius - net jei gimdė jau anksčiau.</p>
+      </div>
+    </div>
+
+    <div class="el-faq__item">
+      <button class="el-faq__question" onclick="elToggle(this)">
+        <span>
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+          Ar gidas pakeičia vizitą pas gydytoją?
+        </span>
+        <span class="el-faq__icon">+</span>
+      </button>
+      <div class="el-faq__answer">
+        <p>Ne. Gidas yra informacinis ir edukacinis - jis nepakeičia reguliarių vizitų pas akušerį ar ginekologą ir neatlieka medicininės diagnozės. Gidas padeda geriau suprasti savo kūną, žinoti ko tikėtis kiekvieną savaitę ir aktyviai rūpintis sveikata tarp vizitų. Kilus nerimą keliantiems simptomams - visada kreipkitės į savo gydytoją.</p>
+      </div>
+    </div>
+
+    <div class="el-faq__item">
+      <button class="el-faq__question" onclick="elToggle(this)">
+        <span>
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          Kuo šis gidas skiriasi nuo to ką galiu rasti internete nemokamai?
+        </span>
+        <span class="el-faq__icon">+</span>
+      </button>
+      <div class="el-faq__answer">
+        <p>Internete rasite daug informacijos - bet ji prieštaringa, išsibarsčiusi ir dažnai pritaikyta kitų šalių standartams. Šis gidas - lietuviškas, struktūruotas ir paremtas tarptautinių organizacijų rekomendacijomis. Viskas vienoje vietoje: savaitinis planas, konkretūs pratimai, mityba, psichologinis pasiruošimas. Jums nereikia nieko ieškoti - tereikia atidaryti savo savaitę.</p>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@400;500;600&display=swap');
+.el-faq { background: #ffffff; padding: 0; }
+.el-faq__inner { max-width: 440px; margin: 0 auto; padding: 8px 0px 32px 0px; }
+.el-faq__urgency { background: #fff8f0; border: 1.5px solid #f4a261; border-radius: 10px; padding: 8px 14px; margin-bottom: 20px; display: flex; align-items: center; gap: 12px; }
+.el-faq__pulse { width: 10px; height: 10px; min-width: 10px; border-radius: 50%; background: #f4a261; display: inline-block; animation: el-pulse 1.8s ease-in-out infinite; }
+.el-faq__urgency-text { font-family: 'DM Sans', sans-serif; font-size: 13px; color: #c85a00; line-height: 1.5; }
+@keyframes el-pulse { 0% { box-shadow: 0 0 0 0 rgba(244,162,97,0.6); } 70% { box-shadow: 0 0 0 8px rgba(244,162,97,0); } 100% { box-shadow: 0 0 0 0 rgba(244,162,97,0); } }
+.el-faq__item { border-bottom: 1px solid #e8e0d5; }
+.el-faq__question { width: 100%; background: none; border: none; padding: 16px 0; display: flex; justify-content: space-between; align-items: center; gap: 12px; cursor: pointer; text-align: left; }
+.el-faq__question > span:first-child { font-family: 'DM Sans', sans-serif; font-size: 15px; font-weight: 400; color: #1a1a1a; line-height: 1.4; display: flex; align-items: center; gap: 8px; }
+.el-faq__question svg { flex-shrink: 0; color: #1a1a1a; }
+.el-faq__icon { font-size: 22px; color: #2d6a4f; font-weight: 300; min-width: 20px; text-align: center; transition: transform 0.2s; display: block; }
+.el-faq__icon.open { transform: rotate(45deg); }
+.el-faq__answer { display: none; padding: 0 0 16px 24px; }
+.el-faq__answer p { font-family: 'DM Sans', sans-serif; font-size: 14px; color: #555555; line-height: 1.7; margin: 0; }
+</style>
+
+<script>
+function elToggle(btn) {
+  var answer = btn.nextElementSibling;
+  var icon = btn.querySelector('.el-faq__icon');
+  var isOpen = answer.style.display === 'block';
+  document.querySelectorAll('.el-faq__answer').forEach(function(a) { a.style.display = 'none'; });
+  document.querySelectorAll('.el-faq__icon').forEach(function(i) { i.classList.remove('open'); });
+  if (!isOpen) { answer.style.display = 'block'; icon.classList.add('open'); }
+}
+</script>
+<a href="/products/nesciosios-gidas" class="link product__view-details animate-arrow">
+            Žiūrėti visą informaciją
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-arrow" viewBox="0 0 14 10"><path fill="currentColor" fill-rule="evenodd" d="M8.537.808a.5.5 0 0 1 .817-.162l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 1 1-.708-.708L11.793 5.5H1a.5.5 0 0 1 0-1h10.793L8.646 1.354a.5.5 0 0 1-.109-.546" clip-rule="evenodd"/></svg>
+</a>
+        </section>
+      </div>
+    </div>
+
+    
+
+<product-modal id="ProductModal-template--30473265414486__main" class="product-media-modal media-modal">
+  <div
+    class="product-media-modal__dialog color-scheme-1 gradient"
+    role="dialog"
+    aria-label="Medijų galerija"
+    aria-modal="true"
+    tabindex="-1"
+  >
+    <button
+      id="ModalClose-template--30473265414486__main"
+      type="button"
+      class="product-media-modal__toggle"
+      aria-label="Uždaryti"
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-close" viewBox="0 0 18 17"><path fill="currentColor" d="M.865 15.978a.5.5 0 0 0 .707.707l7.433-7.431 7.579 7.282a.501.501 0 0 0 .846-.37.5.5 0 0 0-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 1 0-.707-.708L8.991 7.853 1.413.573a.5.5 0 1 0-.693.72l7.563 7.268z"/></svg>
+
+    </button>
+
+    <div
+      class="product-media-modal__content color-scheme-1 gradient"
+      role="document"
+      aria-label="Medijų galerija"
+      tabindex="0"
+    >
+<img
+    class="global-media-settings global-media-settings--no-shadow"
+    srcset="//pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008&width=550 550w,//pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008 1024w
+    "
+    sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
+    src="//pirmizingsniai.lt/cdn/shop/files/Pregnant_woman_with_book_202606101716.jpg?v=1781101008&width=1445"
+    alt="Nėščiosios gidas"
+    loading="lazy"
+    width="1100"
+    height="1100"
+    data-media-id="61414925402454"
+  >
+<img
+    class="global-media-settings global-media-settings--no-shadow"
+    srcset="//pirmizingsniai.lt/cdn/shop/files/3_9b9667be-7370-4fce-99ed-84ffba23e0ac.png?v=1781174389&width=550 550w,//pirmizingsniai.lt/cdn/shop/files/3_9b9667be-7370-4fce-99ed-84ffba23e0ac.png?v=1781174389 1080w
+    "
+    sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
+    src="//pirmizingsniai.lt/cdn/shop/files/3_9b9667be-7370-4fce-99ed-84ffba23e0ac.png?v=1781174389&width=1445"
+    alt="Nėščiosios gidas"
+    loading="lazy"
+    width="1100"
+    height="1100"
+    data-media-id="61441284800854"
+  >
+<img
+    class="global-media-settings global-media-settings--no-shadow"
+    srcset="//pirmizingsniai.lt/cdn/shop/files/1_00338b6c-6a43-474b-9fdd-36a0cc438ac6.png?v=1781174389&width=550 550w,//pirmizingsniai.lt/cdn/shop/files/1_00338b6c-6a43-474b-9fdd-36a0cc438ac6.png?v=1781174389 1080w
+    "
+    sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
+    src="//pirmizingsniai.lt/cdn/shop/files/1_00338b6c-6a43-474b-9fdd-36a0cc438ac6.png?v=1781174389&width=1445"
+    alt="Nėščiosios gidas"
+    loading="lazy"
+    width="1100"
+    height="1100"
+    data-media-id="61441284833622"
+  >
+<img
+    class="global-media-settings global-media-settings--no-shadow"
+    srcset="//pirmizingsniai.lt/cdn/shop/files/2_9020328b-fd83-46ab-bf14-205e7a53156b.png?v=1781174388&width=550 550w,//pirmizingsniai.lt/cdn/shop/files/2_9020328b-fd83-46ab-bf14-205e7a53156b.png?v=1781174388 1080w
+    "
+    sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
+    src="//pirmizingsniai.lt/cdn/shop/files/2_9020328b-fd83-46ab-bf14-205e7a53156b.png?v=1781174388&width=1445"
+    alt="Nėščiosios gidas"
+    loading="lazy"
+    width="1100"
+    height="1100"
+    data-media-id="61441284768086"
+  ></div>
+  </div>
+</product-modal>
+
+
+    
+<script src="//pirmizingsniai.lt/cdn/shop/t/3/assets/product-modal.js?v=116616134454508949461781006079" defer="defer"></script>
+      <script src="//pirmizingsniai.lt/cdn/shop/t/3/assets/media-gallery.js?v=53998976194532824491781006079" defer="defer"></script><script type="application/ld+json">
+      {"@context":"http:\/\/schema.org\/","@id":"\/products\/nesciosios-gidas#product","@type":"ProductGroup","brand":{"@type":"Brand","name":"Pirmi žingsniai"},"category":"","description":"","hasVariant":[{"@id":"\/products\/nesciosios-gidas?variant=54144289014102#variant","@type":"Product","image":"https:\/\/pirmizingsniai.lt\/cdn\/shop\/files\/Pregnant_woman_with_book_202606101716.jpg?v=1781101008\u0026width=1920","name":"Nėščiosios gidas - Pirmas","offers":{"@id":"\/products\/nesciosios-gidas?variant=54144289014102#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"29.95","priceCurrency":"EUR","url":"https:\/\/pirmizingsniai.lt\/products\/nesciosios-gidas?variant=54144289014102"}},{"@id":"\/products\/nesciosios-gidas?variant=54144289046870#variant","@type":"Product","image":"https:\/\/pirmizingsniai.lt\/cdn\/shop\/files\/Pregnant_woman_with_book_202606101716.jpg?v=1781101008\u0026width=1920","name":"Nėščiosios gidas - Antras","offers":{"@id":"\/products\/nesciosios-gidas?variant=54144289046870#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"29.95","priceCurrency":"EUR","url":"https:\/\/pirmizingsniai.lt\/products\/nesciosios-gidas?variant=54144289046870"}},{"@id":"\/products\/nesciosios-gidas?variant=54144289079638#variant","@type":"Product","image":"https:\/\/pirmizingsniai.lt\/cdn\/shop\/files\/Pregnant_woman_with_book_202606101716.jpg?v=1781101008\u0026width=1920","name":"Nėščiosios gidas - Trečias+","offers":{"@id":"\/products\/nesciosios-gidas?variant=54144289079638#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"29.95","priceCurrency":"EUR","url":"https:\/\/pirmizingsniai.lt\/products\/nesciosios-gidas?variant=54144289079638"}}],"name":"Nėščiosios gidas","productGroupID":"10844064186710","url":"https:\/\/pirmizingsniai.lt\/products\/nesciosios-gidas"}
+    </script>
+  </div>
+</product-info>
+
+
+</section><section id="shopify-section-template--30473265414486__custom_liquid_fJDQqg" class="shopify-section section"><style data-shopify>.section-template--30473265414486__custom_liquid_fJDQqg-padding {
+    padding-top: calc(40px * 0.75);
+    padding-bottom: calc(0px  * 0.75);
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-template--30473265414486__custom_liquid_fJDQqg-padding {
+      padding-top: 40px;
+      padding-bottom: 0px;
+    }
+  }</style><div class="color-scheme-1 gradient">
+  <div class="section-template--30473265414486__custom_liquid_fJDQqg-padding">
+    <!-- ============================================================
+     NĖŠČIOSIOS GIDAS - PRODUKTO PUSLAPIS v2
+     ============================================================ -->
+
+<!-- FEAR HOOK -->
+<div class="ng-fear">
+  <div class="ng-fear__inner">
+    <div class="ng-fear__left">
+      <p class="ng-eyebrow">KODĖL TAI SVARBU</p>
+      <h2 class="ng-fear__title">Visi sako: ilsėkis. Mokslas sako kažką visai kita.</h2>
+      <p class="ng-fear__body">Nėštumo metu moterys girdi vieną žinutę iš visų pusių - šeimos, draugų, interneto: saugokis, ilsėkis, nejudėk per daug. Ir moterys klauso. Nes kas norės rizikuoti?</p>
+      <p class="ng-fear__body">Bet Pasaulio sveikatos organizacija, Amerikos akušerių ir ginekologų kolegija bei dešimtys nepriklausomų tyrimų sako priešingai: reguliari fizinė veikla nėštumo metu yra ne tik saugu - ji yra būtina tiek mamos, tiek kūdikio sveikatai.</p>
+      <p class="ng-fear__body">Problema ta, kad niekas nepasakė konkrečiai - ką galima, ko negalima, kiek, kada ir kaip keičiasi kiekvieną savaitę. Tol, kol atsirado šis gidas.</p>
+      <div class="ng-stats">
+        <div class="ng-stat">
+          <span class="ng-stat__num">30%</span>
+          <span class="ng-stat__label">mažesnė gestacinio diabeto rizika fiziškai aktyvioms mamoms</span>
+        </div>
+        <div class="ng-stat">
+          <span class="ng-stat__num">50%</span>
+          <span class="ng-stat__label">mažesnė preeklampsijos rizika reguliariai sportuojančioms nėščiosioms</span>
+        </div>
+        <div class="ng-stat">
+          <span class="ng-stat__num">2x</span>
+          <span class="ng-stat__label">geresnis kūdikio širdies ir kraujagyslių sistemos išsivystymas</span>
+        </div>
+      </div>
+    </div>
+    <div class="ng-fear__right">
+      <img src="https://cdn.shopify.com/s/files/1/1024/2939/3238/files/pexels-yankrukov-7155523.jpg?v=1781032218" alt="Nėščia moteris sportuoja" class="ng-fear__img" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex'">
+      <div class="ng-img-placeholder ng-img-placeholder--tall" style="display:none;">Nuotrauka · nėščia moteris aktyvi</div>
+    </div>
+  </div>
+</div>
+
+<style>
+.ng-fear { background: #ffffff; padding: 24px 0; }
+.ng-fear__inner { max-width: 1200px; margin: 0 auto; padding: 0 40px; display: grid; grid-template-columns: 1fr 1fr; gap: 64px; align-items: center; }
+.ng-eyebrow { font-family: var(--font-body-family); font-size: 11px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #f4a261; margin-bottom: 12px; }
+.ng-fear__title { font-family: var(--font-heading-family); font-size: 28px; font-weight: 400; color: #1a1a1a; line-height: 1.3; margin-bottom: 16px; }
+.ng-fear__body { font-family: var(--font-body-family); font-size: 15px; color: #555555; line-height: 1.75; margin-bottom: 14px; }
+.ng-stats { display: flex; flex-direction: column; gap: 10px; margin-top: 24px; }
+.ng-stat { background: #f0faf4; border-radius: 12px; padding: 14px 16px; display: flex; align-items: center; gap: 16px; }
+.ng-stat__num { font-family: var(--font-heading-family); font-size: 28px; color: #2d6a4f; line-height: 1; min-width: 60px; }
+.ng-stat__label { font-family: var(--font-body-family); font-size: 13px; color: #1a1a1a; line-height: 1.45; }
+.ng-fear__img { width: 100%; height: 540px; object-fit: cover; border-radius: 16px; }
+.ng-img-placeholder { background: #f0faf4; border-radius: 16px; align-items: center; justify-content: center; color: #aaa; font-family: var(--font-body-family); font-size: 13px; }
+.ng-img-placeholder--tall { width: 100%; height: 540px; display: flex; }
+.ng-img-placeholder--medium { width: 100%; height: 420px; display: flex; }
+@media (max-width: 768px) {
+  .ng-fear__inner { grid-template-columns: 1fr; padding: 0 20px; }
+  .ng-fear__img { height: 300px; }
+  .ng-img-placeholder--tall { height: 300px; }
+}
+
+
+
+</style>
+
+<div style="text-align:center; padding: 0 0 46px 0;">
+  <a href="#" onclick="document.querySelector('form[action*=\'cart\'] button[type=\'submit\']').click(); return false;" class="pz-cta-btn">Įsigyti</a>
+</div>
+
+<style>
+.pz-cta-btn { display: inline-block; background: #2d6a4f; color: #ffffff; font-family: var(--font-body-family); font-size: 16px; font-weight: 600; padding: 16px 48px; border-radius: 8px; text-decoration: none; cursor: pointer; }
+.pz-cta-btn:hover { background: #245a41; color: #ffffff; }
+</style>
+
+
+<!-- KAS VIDUJE -->
+<div class="ng-inside">
+  <div class="ng-inside__inner">
+    <p class="ng-eyebrow" style="text-align:center;">KAS GIDE</p>
+    <h2 class="ng-inside__title">40 savaičių. Viskas ką reikia žinoti.</h2>
+    <p class="ng-inside__sub">Kiekvienai savaitei - tikslus aprašas kas vyksta su mama ir kūdikiu, kokie pratimai tinkami, ko tikėtis ir kada kreiptis į gydytoją.</p>
+    <div class="ng-inside__grid">
+
+      <div class="ng-card">
+        <div class="ng-card__icon">
+          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+        </div>
+        <h3 class="ng-card__title">Savaitinis planas</h3>
+        <p class="ng-card__text">Kiekvienai iš 40 savaičių - kas vyksta su kūdikiu, kaip keičiasi mama, kokie simptomai normalūs, o dėl kurių reikia kreiptis į gydytoją.</p>
+      </div>
+
+      <div class="ng-card">
+        <div class="ng-card__icon">
+          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 8h1a4 4 0 0 1 0 8h-1"/><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z"/><line x1="6" y1="1" x2="6" y2="4"/><line x1="10" y1="1" x2="10" y2="4"/><line x1="14" y1="1" x2="14" y2="4"/></svg>
+        </div>
+        <h3 class="ng-card__title">Fizinis aktyvumas</h3>
+        <p class="ng-card__text">Pratimai kiekvienam trimestrui - kas saugiai, kas naudinga, kas draudžiama. Tikslios rekomendacijos pagal nėštumo savaitę, ne bendri patarimai.</p>
+      </div>
+
+      <div class="ng-card">
+        <div class="ng-card__icon">
+          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+        </div>
+        <h3 class="ng-card__title">Tempimo pratimai</h3>
+        <p class="ng-card__text">Nugaros, dubens ir kojų tempimo pratimai, kurie malšina dažniausius nėštumo skausmus - nugaros, kirkšnies, kojų skausmus ir sunkumo jausmą.</p>
+      </div>
+
+      <div class="ng-card">
+        <div class="ng-card__icon">
+          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 2l3 3-3 3"/><path d="M21 22l-3-3 3-3"/><path d="M6 5h6a6 6 0 0 1 6 6v2"/><path d="M18 19h-6a6 6 0 0 1-6-6v-2"/></svg>
+        </div>
+        <h3 class="ng-card__title">Mityba ir pokyčiai</h3>
+        <p class="ng-card__text">Ko reikia kiekvieną trimestrą, kaip keičiasi mitybos poreikiai, ko vengti ir ko gauti daugiau - su konkrečiais pavyzdžiais, ne abstrakčiomis rekomendacijomis.</p>
+      </div>
+
+      <div class="ng-card">
+        <div class="ng-card__icon">
+          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+        </div>
+        <h3 class="ng-card__title">Dubens dugno pratimai</h3>
+        <p class="ng-card__text">Reguliarios Kegelio pratimų ir dubens dugno stiprinimo programos - būtinos tiek nėštumo metu, tiek pasirengimui gimdymui ir atsigavimui po jo.</p>
+      </div>
+
+      <div class="ng-card">
+        <div class="ng-card__icon">
+          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><line x1="9" y1="9" x2="9.01" y2="9"/><line x1="15" y1="9" x2="15.01" y2="9"/></svg>
+        </div>
+        <h3 class="ng-card__title">Psichologinis pasiruošimas</h3>
+        <p class="ng-card__text">Nerimas, nuotaikų svyravimai, partnerio įtraukimas, pasiruošimas gimdymui ir motinystei - sritis apie kurią retai kalbama, bet labai svarbu žinoti.</p>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<style>
+.ng-inside { background: #f9f6f0; padding: 46px 0; }
+.ng-inside__inner { max-width: 1200px; margin: 0 auto; padding: 0 40px; }
+.ng-inside__title { font-family: var(--font-heading-family); font-size: 32px; font-weight: 400; color: #1a1a1a; text-align: center; margin-bottom: 10px; line-height: 1.3; }
+.ng-inside__sub { font-family: var(--font-body-family); font-size: 15px; color: #555; text-align: center; margin-bottom: 40px; line-height: 1.65; }
+.ng-inside__grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.ng-card { background: #ffffff; border-radius: 14px; padding: 24px; display: flex; flex-direction: column; gap: 10px; }
+.ng-card__icon { width: 44px; height: 44px; background: #f0faf4; border-radius: 10px; display: flex; align-items: center; justify-content: center; color: #2d6a4f; flex-shrink: 0; }
+.ng-card__title { font-family: var(--font-body-family); font-size: 15px; font-weight: 600; color: #1a1a1a; margin: 0; }
+.ng-card__text { font-family: var(--font-body-family); font-size: 13px; color: #555; line-height: 1.6; margin: 0; }
+@media (max-width: 768px) {
+  .ng-inside__inner { padding: 0 20px; }
+  .ng-inside__grid { grid-template-columns: 1fr; }
+}
+</style>
+
+
+
+
+<!-- MARQUEE -->
+<div class="ng-marquee">
+  <div class="ng-marquee__track">
+    <div class="ng-marquee__inner">
+      <span>Mokslu pagrįsta informacija</span>
+      <span class="ng-marquee__dot">✦</span>
+      <span>Savaitė po savaitės</span>
+      <span class="ng-marquee__dot">✦</span>
+      <span>Fizinis aktyvumas nėštumo metu</span>
+      <span class="ng-marquee__dot">✦</span>
+      <span>Tikri pratimai, tikri rezultatai</span>
+      <span class="ng-marquee__dot">✦</span>
+      <span>40 savaičių pilnas gidas</span>
+      <span class="ng-marquee__dot">✦</span>
+      <span>Mokslu pagrįsta informacija</span>
+      <span class="ng-marquee__dot">✦</span>
+      <span>Savaitė po savaitės</span>
+      <span class="ng-marquee__dot">✦</span>
+      <span>Fizinis aktyvumas nėštumo metu</span>
+      <span class="ng-marquee__dot">✦</span>
+      <span>Tikri pratimai, tikri rezultatai</span>
+      <span class="ng-marquee__dot">✦</span>
+      <span>40 savaičių pilnas gidas</span>
+      <span class="ng-marquee__dot">✦</span>
+      <span>Mokslu pagrįsta informacija</span>
+      <span class="ng-marquee__dot">✦</span>
+      <span>Savaitė po savaitės</span>
+      <span class="ng-marquee__dot">✦</span>
+    </div>
+  </div>
+</div>
+
+<style>
+.ng-marquee { background: #2d6a4f; overflow: hidden; padding: 14px 0; }
+.ng-marquee__track { overflow: hidden; }
+.ng-marquee__inner { display: flex; align-items: center; gap: 24px; white-space: nowrap; animation: ng-scroll 25s linear infinite; width: max-content; }
+.ng-marquee__inner span { font-family: var(--font-body-family); font-size: 14px; font-weight: 500; color: #ffffff; white-space: nowrap; }
+.ng-marquee__dot { color: #52b788 !important; font-size: 12px !important; }
+@keyframes ng-scroll { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
+</style>
+
+<!-- TRIMESTRŲ STRUKTŪRA -->
+<div class="ng-trimesters">
+  <div class="ng-trimesters__inner">
+    <p class="ng-eyebrow" style="text-align:center;">GIDO STRUKTŪRA</p>
+    <h2 class="ng-trimesters__title">Trys trimestrai - trys skirtingi etapai</h2>
+    <p class="ng-trimesters__sub">Kiekvienas trimestras atneša naujus pokyčius ir naujus poreikius. Gidas adaptuojasi kartu su jumis.</p>
+    <div class="ng-trimesters__grid">
+
+      <div class="ng-trim">
+        <div class="ng-trim__header ng-trim__header--1">
+          <span class="ng-trim__label">I TRIMESTRAS</span>
+          <span class="ng-trim__weeks">1-13 savaitė</span>
+        </div>
+        <div class="ng-trim__body">
+          <p class="ng-trim__focus">Adaptacija ir pagrindai</p>
+          <ul class="ng-trim__list">
+            <li>Kaip elgtis su pykinimu ir nuovargiu</li>
+            <li>Lengvi judėjimo pratimai nuo pirmos savaitės</li>
+            <li>Ko tikėtis iš kūno - kas normalu, kas ne</li>
+            <li>Mitybos pokyčiai pirmame trimestre</li>
+            <li>Dubens dugno pratimų pradžia</li>
+            <li>Emociniai svyravimai - kodėl taip yra</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="ng-trim">
+        <div class="ng-trim__header ng-trim__header--2">
+          <span class="ng-trim__label">II TRIMESTRAS</span>
+          <span class="ng-trim__weeks">14-27 savaitė</span>
+        </div>
+        <div class="ng-trim__body">
+          <p class="ng-trim__focus">Aktyvumas ir stiprinimas</p>
+          <ul class="ng-trim__list">
+            <li>Aktyvesni pratimai - pilvo, nugaros, kojų</li>
+            <li>Tempimo programa nugaros skausmams</li>
+            <li>Kūdikio judesiai - ko tikėtis ir kada</li>
+            <li>Mitybos poreikiai didėjant kūdikiui</li>
+            <li>Miegas ir patogi padėtis</li>
+            <li>Psichologinis pasiruošimas motinystei</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="ng-trim">
+        <div class="ng-trim__header ng-trim__header--3">
+          <span class="ng-trim__label">III TRIMESTRAS</span>
+          <span class="ng-trim__weeks">28-40 savaitė</span>
+        </div>
+        <div class="ng-trim__body">
+          <p class="ng-trim__focus">Pasiruošimas ir gimdymas</p>
+          <ul class="ng-trim__list">
+            <li>Pratimai ir judėjimas paskutinėmis savaitėmis</li>
+            <li>Kūno pasirengimas gimdymui</li>
+            <li>Kvėpavimo technikos gimdymui</li>
+            <li>Ligoninės krepšelio sąrašas ir planas</li>
+            <li>Psichologinis pasiruošimas gimdymui</li>
+            <li>Pirmosios savaitės po gimdymo</li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<style>
+.ng-trimesters { background: #ffffff; padding: 46px 0; }
+.ng-trimesters__inner { max-width: 1200px; margin: 0 auto; padding: 0 40px; }
+.ng-trimesters__title { font-family: var(--font-heading-family); font-size: 30px; font-weight: 400; color: #1a1a1a; text-align: center; margin-bottom: 10px; }
+.ng-trimesters__sub { font-family: var(--font-body-family); font-size: 15px; color: #888; text-align: center; margin-bottom: 40px; }
+.ng-trimesters__grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; }
+.ng-trim { border-radius: 14px; overflow: hidden; display: flex; flex-direction: column; }
+.ng-trim__header { padding: 20px 24px; display: flex; flex-direction: column; gap: 4px; }
+.ng-trim__header--1 { background: #2d6a4f; }
+.ng-trim__header--2 { background: #52b788; }
+.ng-trim__header--3 { background: #f4a261; }
+.ng-trim__label { font-family: var(--font-body-family); font-size: 11px; font-weight: 700; letter-spacing: 0.1em; color: rgba(255,255,255,0.8); }
+.ng-trim__weeks { font-family: var(--font-heading-family); font-size: 20px; color: #ffffff; }
+.ng-trim__body { background: #f9f6f0; padding: 20px 24px; flex: 1; }
+.ng-trim__focus { font-family: var(--font-body-family); font-size: 13px; font-weight: 600; color: #2d6a4f; margin-bottom: 12px; }
+.ng-trim__list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 8px; }
+.ng-trim__list li { font-family: var(--font-body-family); font-size: 13px; color: #1a1a1a; padding-left: 16px; position: relative; line-height: 1.45; }
+.ng-trim__list li::before { content: '→'; position: absolute; left: 0; color: #2d6a4f; font-weight: 600; }
+@media (max-width: 768px) {
+  .ng-trimesters__inner { padding: 0 20px; }
+  .ng-trimesters__grid { grid-template-columns: 1fr; }
+}
+
+
+</style>
+
+<div style="text-align:center; padding: 0 0 46px 0;">
+  <a href="#" onclick="document.querySelector('form[action*=\'cart\'] button[type=\'submit\']').click(); return false;" class="pz-cta-btn">Užsisakyti</a>
+</div>
+
+<style>
+.pz-cta-btn { display: inline-block; background: #2d6a4f; color: #ffffff; font-family: var(--font-body-family); font-size: 16px; font-weight: 600; padding: 16px 48px; border-radius: 8px; text-decoration: none; cursor: pointer; }
+.pz-cta-btn:hover { background: #245a41; color: #ffffff; }
+</style>
+
+
+<!-- MOKSLAS IR TYRIMAI -->
+<div class="ng-science">
+  <div class="ng-science__inner">
+    <div class="ng-science__text">
+      <p class="ng-eyebrow">MOKSLAS IR TYRIMAI</p>
+      <h2 class="ng-science__title">Grįsta tyrimais, ne forumų komentarais</h2>
+      <p class="ng-science__body">Šis gidas sukurtas kineziterapeutų, remiantis tarptautinių organizacijų rekomendacijomis ir moksliniais tyrimais. Čia nėra interneto mitų ar prieštaringų patarimų - tik tai, ką sako mokslas.</p>
+      <div class="ng-science__sources">
+        <div class="ng-source">
+          <div class="ng-source__dot"></div>
+          <div>
+            <p class="ng-source__title">Pasaulio sveikatos organizacija (PSO)</p>
+            <p class="ng-source__text">Rekomenduoja bent 150 minučių vidutinio intensyvumo aerobinės veiklos per savaitę sveiką nėštumą turinčioms moterims. Judėjimas nėra rizika - nejudėjimas yra.</p>
+          </div>
+        </div>
+        <div class="ng-source">
+          <div class="ng-source__dot"></div>
+          <div>
+            <p class="ng-source__title">Amerikos akušerių ir ginekologų kolegija (ACOG)</p>
+            <p class="ng-source__text">Fizinis aktyvumas nėštumo metu mažina gestacinio diabeto, hipertenzijos, preeklampsijos riziką ir pagerina gimdymo eigą. Sveikiems nėštumams nėra kontraindikacijų.</p>
+          </div>
+        </div>
+        <div class="ng-source">
+          <div class="ng-source__dot"></div>
+          <div>
+            <p class="ng-source__title">Cochrane apžvalga (2017)</p>
+            <p class="ng-source__text">Analizavus 56 tyrimus su daugiau nei 19 000 moterų nustatyta, kad reguliari fizinė veikla nėštumo metu sumažina gestacinio diabeto riziką 28%, o pernelyg didelio svorio priaugimo riziką - 30%.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="ng-science__img">
+      <img src="https://cdn.shopify.com/s/files/1/1024/2939/3238/files/pexels-amina-filkins-5424634.jpg?v=1781032219" alt="Nėščia moteris skaito" class="ng-science__photo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex'">
+      <div class="ng-img-placeholder ng-img-placeholder--medium" style="display:none;">Nuotrauka · nėščia skaito</div>
+    </div>
+  </div>
+</div>
+
+<style>
+.ng-science { background: #f9f6f0; padding: 46px 0; }
+.ng-science__inner { max-width: 1200px; margin: 0 auto; padding: 0 40px; display: grid; grid-template-columns: 1fr 1fr; gap: 64px; align-items: center; }
+.ng-science__title { font-family: var(--font-heading-family); font-size: 28px; font-weight: 400; color: #1a1a1a; line-height: 1.3; margin-bottom: 16px; }
+.ng-science__body { font-family: var(--font-body-family); font-size: 15px; color: #555; line-height: 1.75; margin-bottom: 24px; }
+.ng-science__sources { display: flex; flex-direction: column; gap: 16px; }
+.ng-source { display: flex; gap: 14px; align-items: flex-start; }
+.ng-source__dot { width: 10px; height: 10px; min-width: 10px; background: #2d6a4f; border-radius: 50%; margin-top: 5px; }
+.ng-source__title { font-family: var(--font-body-family); font-size: 13px; font-weight: 600; color: #1a1a1a; margin: 0 0 4px; }
+.ng-source__text { font-family: var(--font-body-family); font-size: 13px; color: #555; line-height: 1.55; margin: 0; }
+.ng-science__photo { width: 100%; height: 420px; object-fit: cover; border-radius: 16px; }
+@media (max-width: 768px) {
+  .ng-science__inner { grid-template-columns: 1fr; padding: 0 20px; }
+  .ng-science__photo { height: 280px; }
+  .ng-img-placeholder--medium { height: 280px; }
+}
+</style>
+
+<!-- KAM TINKA -->
+<div class="ng-who">
+  <div class="ng-who__inner">
+    <p class="ng-eyebrow" style="text-align:center;">KAM TINKA ŠITAS GIDAS</p>
+    <h2 class="ng-who__title">Šis gidas skirtas jums, jei...</h2>
+    <div class="ng-who__grid">
+      <div class="ng-who__col ng-who__col--yes">
+        <p class="ng-who__col-label">TINKA</p>
+        <div class="ng-who__item">
+          <span class="ng-who__icon ng-who__icon--yes">✓</span>
+          <span>Esate pirmo, antro, trečio ar jau šešto nėštumo - gidas tinka visais atvejais</span>
+        </div>
+        <div class="ng-who__item">
+          <span class="ng-who__icon ng-who__icon--yes">✓</span>
+          <span>Norite žinoti ką galima daryti ir ko negalima kiekvieną savaitę</span>
+        </div>
+        <div class="ng-who__item">
+          <span class="ng-who__icon ng-who__icon--yes">✓</span>
+          <span>Jaučiate nugaros, dubens ar kojų skausmus ir norite žinoti ką daryti</span>
+        </div>
+        <div class="ng-who__item">
+          <span class="ng-who__icon ng-who__icon--yes">✓</span>
+          <span>Norite aktyviai pasiruošti gimdymui - fiziškai ir psichologiškai</span>
+        </div>
+        <div class="ng-who__item">
+          <span class="ng-who__icon ng-who__icon--yes">✓</span>
+          <span>Ieškote lietuviško, aiškaus, patikimo šaltinio - be prieštaravimų</span>
+        </div>
+      </div>
+      <div class="ng-who__col ng-who__col--no">
+        <p class="ng-who__col-label">NETINKA</p>
+        <div class="ng-who__item">
+          <span class="ng-who__icon ng-who__icon--no">✗</span>
+          <span>Turite komplikuotą nėštumą - kreipkitės į gydytoją dėl individualių rekomendacijų</span>
+        </div>
+        <div class="ng-who__item">
+          <span class="ng-who__icon ng-who__icon--no">✗</span>
+          <span>Gydytojas rekomendavo gulimąjį režimą - jo rekomendacijos yra svarbesnės</span>
+        </div>
+        <div class="ng-who__item">
+          <span class="ng-who__icon ng-who__icon--no">✗</span>
+          <span>Ieškote medicininės diagnozės ar gydymo - šis gidas jos nepakeičia</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+.ng-who { background: #ffffff; padding: 46px 0; }
+.ng-who__inner { max-width: 1200px; margin: 0 auto; padding: 0 40px; }
+.ng-who__title { font-family: var(--font-heading-family); font-size: 30px; font-weight: 400; color: #1a1a1a; text-align: center; margin-bottom: 40px; }
+.ng-who__grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+.ng-who__col { border-radius: 16px; padding: 28px; display: flex; flex-direction: column; gap: 14px; }
+.ng-who__col--yes { background: #f0faf4; }
+.ng-who__col--no { background: #fff5f5; }
+.ng-who__col-label { font-family: var(--font-body-family); font-size: 11px; font-weight: 700; letter-spacing: 0.1em; margin: 0; }
+.ng-who__col--yes .ng-who__col-label { color: #2d6a4f; }
+.ng-who__col--no .ng-who__col-label { color: #c0392b; }
+.ng-who__item { display: flex; align-items: flex-start; gap: 12px; font-family: var(--font-body-family); font-size: 14px; color: #1a1a1a; line-height: 1.5; }
+.ng-who__icon { width: 22px; height: 22px; min-width: 22px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 11px; font-weight: 700; flex-shrink: 0; margin-top: 1px; }
+.ng-who__icon--yes { background: #2d6a4f; color: #ffffff; }
+.ng-who__icon--no { background: #c0392b; color: #ffffff; }
+@media (max-width: 768px) {
+  .ng-who__inner { padding: 0 20px; }
+  .ng-who__grid { grid-template-columns: 1fr; }
+}
+</style>
+<div style="text-align:center; padding: 0 0 46px 0;">
+  <a href="#" onclick="document.querySelector('form[action*=\'cart\'] button[type=\'submit\']').click(); return false;" class="pz-cta-btn">Pirkti</a>
+</div>
+
+<style>
+.pz-cta-btn { display: inline-block; background: #2d6a4f; color: #ffffff; font-family: var(--font-body-family); font-size: 16px; font-weight: 600; padding: 16px 48px; border-radius: 8px; text-decoration: none; cursor: pointer; }
+.pz-cta-btn:hover { background: #245a41; color: #ffffff; }
+</style>
+<!-- ATSILIEPIMAI -->
+<div class="ng-reviews">
+  <div class="ng-reviews__inner">
+    <p class="ng-eyebrow" style="text-align:center;">ATSILIEPIMAI</p>
+    <h2 class="ng-reviews__title">Ką sako mamos</h2>
+    <div class="ng-reviews__grid">
+
+      <div class="ng-rev">
+        <div class="ng-rev__stars">★★★★★</div>
+        <p class="ng-rev__text">"Visi sakė ilsėkis ir saugokis. Šis gidas pirmą kartą man aiškiai pasakė ką galima daryti ir kodėl tai naudinga. Visą nėštumą sportavau pagal šį planą."</p>
+        <div class="ng-rev__author">
+          <div class="ng-rev__ava">A</div>
+          <div>
+            <p class="ng-rev__name">Agnė K.</p>
+            <p class="ng-rev__sub">Pirmasis nėštumas</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="ng-rev">
+        <div class="ng-rev__stars">★★★★★</div>
+        <p class="ng-rev__text">"Nugaros skausmai pradėjo varginti nuo 20 savaitės. Tempimo pratimai iš gido padėjo tikrai - po savaitės jautėsi žymiai geriau. Gaila, kad neturėjau šito pirmame nėštume."</p>
+        <div class="ng-rev__author">
+          <div class="ng-rev__ava">J</div>
+          <div>
+            <p class="ng-rev__name">Jolanta M.</p>
+            <p class="ng-rev__sub">Antrasis nėštumas</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="ng-rev">
+        <div class="ng-rev__stars">★★★★★</div>
+        <p class="ng-rev__text">"Labiausiai vertinu skyrių apie gimdymo pasiruošimą - kvėpavimo technikos ir dubens dugno pratimai. Gimdymas praėjo lengviau nei tikėjausi. Labai rekomenduoju."</p>
+        <div class="ng-rev__author">
+          <div class="ng-rev__ava">L</div>
+          <div>
+            <p class="ng-rev__name">Laura S.</p>
+            <p class="ng-rev__sub">Pirmasis nėštumas</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<style>
+.ng-reviews { background: #f9f6f0; padding: 46px 0; }
+.ng-reviews__inner { max-width: 1200px; margin: 0 auto; padding: 0 40px; }
+.ng-reviews__title { font-family: var(--font-heading-family); font-size: 30px; font-weight: 400; color: #1a1a1a; text-align: center; margin-bottom: 40px; }
+.ng-reviews__grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; }
+.ng-rev { background: #ffffff; border-radius: 16px; padding: 28px; display: flex; flex-direction: column; gap: 16px; }
+.ng-rev__stars { color: #f4a261; font-size: 16px; letter-spacing: 2px; }
+.ng-rev__text { font-family: var(--font-heading-family); font-size: 15px; font-style: italic; color: #1a1a1a; line-height: 1.65; margin: 0; flex: 1; }
+.ng-rev__author { display: flex; align-items: center; gap: 12px; }
+.ng-rev__ava { width: 40px; height: 40px; min-width: 40px; background: #2d6a4f; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-family: var(--font-body-family); font-size: 16px; font-weight: 600; color: #ffffff; }
+.ng-rev__name { font-family: var(--font-body-family); font-size: 14px; font-weight: 600; color: #1a1a1a; margin: 0; }
+.ng-rev__sub { font-family: var(--font-body-family); font-size: 12px; color: #888; margin: 0; }
+@media (max-width: 768px) {
+  .ng-reviews__inner { padding: 0 20px; }
+  .ng-reviews__grid { grid-template-columns: 1fr; }
+}
+</style>
+
+<!-- FINALINIS CTA -->
+<div class="ng-cta">
+  <div class="ng-cta__inner">
+    <div class="ng-cta__img-wrap">
+      <img src="https://cdn.shopify.com/s/files/1/1024/2939/3238/files/pexels-amina-filkins-5424706.jpg?v=1781032218" alt="Laiminga nėščia moteris" class="ng-cta__img" onerror="this.style.background='linear-gradient(135deg,#2d6a4f,#52b788)'; this.style.minHeight='420px'">
+    </div>
+    <div class="ng-cta__overlay">
+      <h2 class="ng-cta__title">40 savaičių sveikata. Pradėkite šiandien.</h2>
+      <p class="ng-cta__sub">Kiekviena savaitė svarbi - ir jums, ir kūdikiui. Šis gidas padės jas išnaudoti teisingai.</p>
+      <a href="/products/nesciosios-gidas" class="ng-cta__btn">Gauti gidą</a>
+      <p class="ng-cta__delivery">
+        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="3" width="15" height="13" rx="1"/><path d="M16 8h4l3 5v4h-7V8z"/><circle cx="5.5" cy="18.5" r="2.5"/><circle cx="18.5" cy="18.5" r="2.5"/></svg>
+        Gaunate per 48 valandas į el. paštą
+      </p>
+    </div>
+  </div>
+</div>
+
+<style>
+.ng-cta { background: #ffffff; padding: 0; }
+.ng-cta__inner { position: relative; min-height: 420px; overflow: hidden; }
+.ng-cta__img-wrap { position: absolute; inset: 0; }
+.ng-cta__img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.ng-cta__overlay { position: relative; z-index: 2; background: rgba(0,0,0,0.45); min-height: 420px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px; padding: 60px 40px; text-align: center; }
+.ng-cta__title { font-family: var(--font-heading-family); font-size: 36px; font-weight: 400; color: #ffffff; line-height: 1.25; margin: 0; max-width: 600px; }
+.ng-cta__sub { font-family: var(--font-body-family); font-size: 16px; color: rgba(255,255,255,0.85); line-height: 1.65; margin: 0; max-width: 500px; }
+.ng-cta__btn { display: inline-block; background: #ffffff; color: #2d6a4f; font-family: var(--font-body-family); font-size: 16px; font-weight: 600; padding: 16px 48px; border-radius: 8px; text-decoration: none; }
+.ng-cta__btn:hover { background: #f0faf4; color: #2d6a4f; }
+.ng-cta__delivery { display: flex; align-items: center; gap: 8px; font-family: var(--font-body-family); font-size: 13px; color: rgba(255,255,255,0.7); margin: 0; }
+@media (max-width: 768px) {
+  .ng-cta__title { font-size: 26px; }
+  .ng-cta__overlay { padding: 40px 20px; }
+}
+</style>
+  </div>
+</div>
+
+
+</section>
+    </main>
+
+    <!-- BEGIN sections: footer-group -->
+<section id="shopify-section-sections--30466532671830__custom_liquid_apLYDT" class="shopify-section shopify-section-group-footer-group section"><style data-shopify>.section-sections--30466532671830__custom_liquid_apLYDT-padding {
+    padding-top: calc(36px * 0.75);
+    padding-bottom: calc(0px  * 0.75);
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-sections--30466532671830__custom_liquid_apLYDT-padding {
+      padding-top: 36px;
+      padding-bottom: 0px;
+    }
+  }</style><div class="color-scheme-1 gradient">
+  <div class="section-sections--30466532671830__custom_liquid_apLYDT-padding">
+    <div class="el-footer">
+  <div class="el-footer__inner">
+    <div class="el-footer__links">
+      <a href="/policies/privacy-policy" class="el-footer__link">Privatumo politika</a>
+      <span class="el-footer__dot">·</span>
+      <a href="/policies/terms-of-service" class="el-footer__link">Pirkimo sąlygos</a>
+      <span class="el-footer__dot">·</span>
+      <a href="/policies/refund-policy" class="el-footer__link">Grąžinimo politika</a>
+      <span class="el-footer__dot">·</span>
+      <a href="/pages/contact" class="el-footer__link">Susisiekite</a>
+    </div>
+    <div class="el-footer__disclaimer">
+      <p>Planai yra informacinio pobūdžio ir nepakeičia gydytojų ar kitų specialistų konsultacijos.</p>
+    </div>
+    <div class="el-footer__bottom">
+      <p>© 2026 Pirmi Žingsniai. Visos teisės saugomos.</p>
+    </div>
+  </div>
+</div>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@400;500;600&display=swap');
+.el-footer { background: #f9f6f0; border-top: 1px solid #e8e0d5; padding: 0; }
+.el-footer__inner { max-width: 1200px; margin: 0 auto; padding: 32px 40px; display: flex; flex-direction: column; align-items: center; gap: 16px; }
+.el-footer__links { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; justify-content: center; }
+.el-footer__link { font-family: 'DM Sans', sans-serif; font-size: 13px; color: #888888; text-decoration: none; }
+.el-footer__link:hover { color: #2d6a4f; }
+.el-footer__dot { color: #cccccc; font-size: 13px; }
+.el-footer__disclaimer { font-family: 'DM Sans', sans-serif; font-size: 11px; color: #bbbbbb; text-align: center; }
+.el-footer__disclaimer p { margin: 0; }
+.el-footer__bottom { font-family: 'DM Sans', sans-serif; font-size: 12px; color: #aaaaaa; text-align: center; }
+.el-footer__bottom p { margin: 0; }
+@media (max-width: 768px) {
+  .el-footer__inner { padding: 24px 20px; }
+}
+</style>
+  </div>
+</div>
+
+
+</section>
+<!-- END sections: footer-group -->
+
+    <ul hidden>
+      <li id="a11y-refresh-page-message">Pasirenkant variantą persikrauna visas puslapis.</li>
+      <li id="a11y-new-window-message">Atsidaro naujame lange.</li>
+    </ul>
+
+    <script>
+      window.shopUrl = 'https://pirmizingsniai.lt';
+      window.routes = {
+        cart_add_url: '/cart/add',
+        cart_change_url: '/cart/change',
+        cart_update_url: '/cart/update',
+        cart_url: '/cart',
+        predictive_search_url: '/search/suggest',
+      };
+
+      window.cartStrings = {
+        error: `Atnaujinant krepšelį įvyko klaida. Bandykite dar kartą.`,
+        quantityError: `Į krepšelį galite įdėti tik [quantity]šios prekės vnt.`,
+      };
+
+      window.variantStrings = {
+        addToCart: `Įdėti į krepšelį`,
+        soldOut: `Išparduota`,
+        unavailable: `Nėra`,
+        unavailable_with_option: `[value] – neturime`,
+      };
+
+      window.quickOrderListStrings = {
+        itemsAdded: `Pridėtos [quantity] prekės (-ių)`,
+        itemAdded: `Pridėta [quantity] prekė`,
+        itemsRemoved: `Pašalintos [quantity] prekės (-ių)`,
+        itemRemoved: `Pašalinta [quantity] prekė`,
+        viewCart: `Peržiūrėti krepšelį`,
+        each: `[money]/vnt.`,
+        min_error: `Nustatytas mažiausias šios prekės kiekis: [min]`,
+        max_error: `Nustatytas didžiausias šios prekės kiekis: [max]`,
+        step_error: `Galima pridėti tik po [step] vnt. šios prekės`,
+      };
+
+      window.accessibilityStrings = {
+        imageAvailable: `Vaizdas [index] dabar prieinamas galerijos rodinyje`,
+        shareSuccess: `Nuoroda nukopijuota į iškarpinę`,
+        pauseSlideshow: `Pristabdyti skaidrių peržiūrą`,
+        playSlideshow: `Leisti skaidrių peržiūrą`,
+        recipientFormExpanded: `Išskleista dovanų kortelės gavėjo forma`,
+        recipientFormCollapsed: `Suskleista dovanų kortelės gavėjo forma`,
+        countrySelectorSearchCount: `Rasta valstybių / regionų: [count]`,
+      };
+    </script><script src="//pirmizingsniai.lt/cdn/shop/t/3/assets/cart-drawer.js?v=169981311261118214701781006079" defer="defer"></script><div id="shopify-block-Adm14RkRRTlk5Q0RPW__5061257265103808445" class="shopify-block shopify-app-block"><script>
+window.rterms = window.rterms || {};
+rterms.metafield = {"cover":"off","text":"<p>Sutinku su pirkimo taisyklėmis.</p>","alert_message":"Pažymėkite, jog sutinkate su pirkimo taisyklėmis"};
+
+  rterms._3lj2l = [];
+
+</script>
+
+</div><script src="https://cdn.shopify.com/storefront/standard-actions.js" type="module" data-source-attribution="shopify.standard_actions"></script>
+</body>
+</html>

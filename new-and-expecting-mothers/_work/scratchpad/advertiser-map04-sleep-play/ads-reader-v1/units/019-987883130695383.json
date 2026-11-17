@@ -1,0 +1,38 @@
+{
+  "ad_id": "987883130695383",
+  "advertiser": "Taking Cara Babies",
+  "page_id": "362568527156955",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/019-taking-cara-babies-page.json",
+  "capture_sha256": "90087c5f484111bbc2fba4fd4f642e2dff76af3b3a8273ceb5b83244053f8008",
+  "native_pointer": "connections[0].edges[7].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=362568527156955",
+  "captured_at": "2026-10-24T21:50:13.463Z",
+  "is_active": true,
+  "start_utc": "2026-06-02T07:00:00+00:00",
+  "display_format": "VIDEO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=987883130695383",
+  "snapshot_sha256": "43d22057c83ddecfd15a824c75398f0162de849cba28402d0ef0d5b58a08a266",
+  "text_fields": {
+    "body": {
+      "text": "Learn what’s normal, what’s not, and how to gently support better sleep 🤍"
+    },
+    "title": "Confident Newborn Sleep",
+    "caption": "www.takingcarababies.com",
+    "link_description": null,
+    "link_url": "https://www.takingcarababies.com/products/newborn-sleep-bundle",
+    "cta_text": "See details",
+    "cta_type": "SEE_DETAILS",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "ae1d41e21643afc008e8d914370602d4e81203a9379bfe6055e6b2c136471020",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 1,
+  "cards_count": 0
+}

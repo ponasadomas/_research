@@ -1,0 +1,30 @@
+{
+  "requested_url": "https://blog.lovevery.com/product-recommendations/the-lovevery-app-for-parents/",
+  "final_url": "https://blog.lovevery.com/product-recommendations/the-lovevery-app-for-parents/",
+  "status": 200,
+  "date_utc": "2026-10-24T21:47:34.190255+00:00",
+  "headers": {
+    "Server": "nginx",
+    "Date": "Sat, 24 Oct 2026 21:47:33 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Accept-Encoding, accept, content-type, cookie",
+    "X-hacker": "Want root?  Visit join.a8c.com and mention this header.",
+    "Host-Header": "WordPress.com",
+    "Link": "<https://blog.lovevery.com/wp-json/>; rel=\"https://api.w.org/\", <https://blog.lovevery.com/wp-json/wp/v2/posts/10763>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://blog.lovevery.com/?p=10763>; rel=shortlink",
+    "Last-Modified": "Sat, 24 Oct 2026 21:47:33 GMT",
+    "Cache-Control": "max-age=300, must-revalidate",
+    "X-nananana": "Batcache-Set",
+    "Content-Encoding": "gzip",
+    "X-ac": "18.hhn _atomic_ams BYPASS",
+    "X-Remembering": "Eric Binnion <https://friendsofericbinnion.wordpress.com/>",
+    "Alt-Svc": "clear",
+    "Server-Timing": "a8c-cdn, dc;desc=hhn, cache;desc=BYPASS;dur=946.0"
+  },
+  "redirects": [],
+  "raw_file": "_raw/advertiser-map04-sleep-play/lovevery-app.body",
+  "sha256": "73d32b9afad474ce41ad873d0ae113e0aaf0737538089bb8c70277daf65099a3",
+  "bytes": 115313
+}

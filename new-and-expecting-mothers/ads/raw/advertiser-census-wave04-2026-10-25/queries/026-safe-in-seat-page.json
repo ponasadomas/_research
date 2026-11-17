@@ -1,0 +1,18 @@
+{
+  "kind": "advertiser_page_selected_UI",
+  "query": "Safe in the Seat",
+  "expected_page_id": "154167085222883",
+  "niches": [
+    "registry",
+    "childproofing"
+  ],
+  "selected_suggestion": "Safe in the Seat @safeintheseat· 70.5K follow this · Product/service @safeintheseat · 936.9K followers",
+  "browser_response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Script ran on page and returned:\n```json\n{\"url\":\"https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=154167085222883\",\"title\":\"Ad Library\",\"captured_at\":\"2026-10-24T21:52:30.281Z\",\"text\":\"Meta Ad Library\\nAd Library\\nAd Library Report\\nAd Library API\\nBranded Content\\n​\\nAll\\n​\\n​\\n​\\n​\\nAll ads\\n​\\nSearch by keyword or advertiser\\n​\\n​\\nSafe in the Seat\\nAds\\nAbout\\nLog in\\nAd Library\\nAd Library Report\\nAd Library API\\nBranded Content\\nSystem status\\nSubscribe to email updates\\nFAQ\\nAbout ads and data use\\nPrivacy\\nTerms\\nCookies\\nFilters\\nSort\\n​\\nSort by\\nActive status: Active ads\\nRemove\\n​\\nNo ads match your search criteria\\nRemove or adjust any filters you've applied to get different results.\\nClear filters\\nView search tips.\\n\\nSystem status\\nAd Library APIAbout ads and data usePrivacyTermsCookies\\nEnglish (US)\",\"connections\":[{\"count\":0,\"edges\":[],\"page_info\":{\"end_cursor\":\"\",\"has_next_page\":false}}]}\n```"
+      }
+    ]
+  }
+}

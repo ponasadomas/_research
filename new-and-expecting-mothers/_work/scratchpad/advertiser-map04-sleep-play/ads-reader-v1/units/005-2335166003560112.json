@@ -1,0 +1,38 @@
+{
+  "ad_id": "2335166003560112",
+  "advertiser": "Lovevery",
+  "page_id": "1859617107640244",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/005-lovevery-page.json",
+  "capture_sha256": "90a8b882dbb1767b9749a6e1fc440e0cf6a15ce0443a164b39221c0ba9fae64d",
+  "native_pointer": "connections[0].edges[16].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=1859617107640244",
+  "captured_at": "2026-10-24T21:46:30.893Z",
+  "is_active": true,
+  "start_utc": "2026-06-16T07:00:00+00:00",
+  "display_format": "VIDEO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=2335166003560112",
+  "snapshot_sha256": "0eefb09b249d827c3e444a768cf283ba5682f31c45912e7c2d18ab77133d4c32",
+  "text_fields": {
+    "body": {
+      "text": "Parents call it a few minutes of peace. We call it purposeful play. 🙌\n\nWith movement that captures babies' attention, the Look At Me Ladybug encourages visual tracking and focus while supporting early development through play."
+    },
+    "title": "The Looker Play Kit 🐞",
+    "caption": "lovevery.com",
+    "link_description": null,
+    "link_url": "https://lovevery.com/products/the-play-kits-the-looker",
+    "cta_text": "Shop now",
+    "cta_type": "SHOP_NOW",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "de8378acf738a639132c1cce94b0a37ea56202f918d3e022355e2ba5b25aa97c",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 1,
+  "cards_count": 0
+}

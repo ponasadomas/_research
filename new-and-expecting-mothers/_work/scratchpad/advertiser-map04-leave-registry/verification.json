@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "errors": [],
+  "counts": {
+    "candidates": 27,
+    "new_source_HTTP_responses": 28,
+    "complete_saved_HTML_text_reads": 26,
+    "JS_shell_offer_not_read": 1,
+    "HTTP403_original_unread": 1,
+    "policy_documents_read": 24,
+    "root_verified_Page_IDs_attached": 11,
+    "root_library_sources_metadata_checked": 11,
+    "new_voice_quotes": 0,
+    "ad_bodies_read_by_this_reader": 0
+  },
+  "price_period_checks": 20,
+  "source_scope": "Official permitted HTML text; no Chrome, accounts, forms or paid artifacts; seller claims not independently validated; reused Oct24 sources keep original dates",
+  "ads_provenance": "Native result counts supplied by root; local check limited to expected Page IDs/selected URLs and hashes, not ad-body inventory, spend or outcomes",
+  "invalid_source_excluded": "047-MyRegistry SPA race / preceding Busy Toddler",
+  "manual_findings": "PDF vs live/course/app/hardware; parent vs employer buyer; cash/gear fees vs report fees; bare currency vs explicit USD; old sources vs current captures; Maple sunset and Ohai near-name identity reviewed",
+  "note_file": "synthesis/reader-notes-advertiser-map04-leave-registry.md"
+}

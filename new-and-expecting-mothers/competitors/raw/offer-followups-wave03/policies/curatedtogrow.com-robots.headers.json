@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 20:44:39 GMT",
+    "Content-Type": "text/plain; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "CF-Ray": "a4fbd21d0bd3e4e5-RIX",
+    "CF-Cache-Status": "DYNAMIC",
+    "x-wix-request-id": "1792874679.9125132753441474",
+    "Age": "38509",
+    "Cache-Control": "public,max-age=0,must-revalidate",
+    "set-cookie": "__cf_bm=E_McViwja3tBJvOc.MuDxMCT.pi9ehwEAwHLixeRRKU-1792874679.847991-1.0.1.1-B5eC7NfAb5lEdvPeI5k9Ag7oKo5CX2.5jBGef.RzWx10wvxicKzE5Cee5lGP4k0Saj_jStnmDPQYsNNRSqly3Fdew2ehyPaBJ0BO15VI.SjpkWAE.i.faa1hEg_UwDTY; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.curatedtogrow.com; Expires=Sat, 24 Oct 2026 21:14:39 GMT",
+    "ETag": "W/\"1ef-YZQmco0VWoYPxDlloJ3u5z13mso\"",
+    "Server": "cloudflare",
+    "Strict-Transport-Security": "max-age=31556952",
+    "Vary": "Accept-Encoding",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "server-timing": "cache;desc=hit, varnish;desc=hit_miss, dc;desc=fastly_ireland-phy_cf",
+    "x-cache": "MISS",
+    "x-cache-status": "HIT",
+    "x-content-type-options": "nosniff",
+    "x-seen-by": "bQAXdg/f3pWGCb3VI6q72A==,bQAXdg/f3pWGCb3VI6q72A==,Ct40diYObxC+je8ScvxEPQ==,GilIRCy+Ky2nI9KZaDKzWLxkNjrXdwdgtu6E0yACibU=,GilIRCy+Ky2nI9KZaDKzWLxkNjrXdwdgtu6E0yACibU=,Ua1iSBCTq7qSXjmRCGE1N1ig4ipl+hJIYj4MHWTSm/HXWNHuYwn1+gKz+cN3GenTHg7BELI99pG9//pIrgbIJO6Sj/OhVrs3hrJ3tzca3j1thTfHChTlUVKrBmAoEZgj,2d58ifebGbosy5xc+FRalm3itTBQTLbSXuKm9DN6kJMXGJzdrPs8gVCDIumjd6pqcHiHUYyEsNaO1DY5SvLvVFO9haxINlSEZJ8ySfaPzeA=,2UNV7KOq4oGjA5+PKsX47F6uSMlYvjmHPjIMYXsUfSoqUshVO4awhZVCZMTGn/DQ,2UNV7KOq4oGjA5+PKsX47NG8IlQNaFL1aVi0EO+plYAqUshVO4awhZVCZMTGn/DQ",
+    "x-served-by": "cache-hel1410020-HEL",
+    "Content-Encoding": "gzip"
+  },
+  "history": []
+}

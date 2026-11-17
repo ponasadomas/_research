@@ -1,0 +1,700 @@
+{
+  "date_utc": "2026-10-24T13:06:08.565374+00:00",
+  "reason": "Parent metadata audit: align finished records with README speaker/type vocabulary",
+  "immutable_fields_hash_before_after": "78dfad0a56e9877ca1cb99c6aa31a43bc000a2515bfa0e59ee8ef02f5d5c8ba0",
+  "ids_quotes_raw_urls_dates_contexts_unchanged": true,
+  "records": [
+    {
+      "id": "odeep01-0001",
+      "before": {
+        "speaker": "participant",
+        "type": "desired_outcome"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "desire"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0002",
+      "before": {
+        "speaker": "participant",
+        "type": "obstacle"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "tried_failed"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0003",
+      "before": {
+        "speaker": "participant",
+        "type": "clarification"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "belief"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0004",
+      "before": {
+        "speaker": "participant",
+        "type": "alternative"
+      },
+      "after": {
+        "speaker": "advisor",
+        "type": "advice_given"
+      },
+      "basis": "The selected original passage gives advice or a general opinion; professional credentials not inferred."
+    },
+    {
+      "id": "odeep01-0005",
+      "before": {
+        "speaker": "participant",
+        "type": "obstacle"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "pain"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0006",
+      "before": {
+        "speaker": "participant",
+        "type": "solution_tried"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "success_story"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0007",
+      "before": {
+        "speaker": "participant",
+        "type": "outcome"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "success_story"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0008",
+      "before": {
+        "speaker": "participant",
+        "type": "obstacle"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "pain"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0009",
+      "before": {
+        "speaker": "participant",
+        "type": "obstacle"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "pain"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0010",
+      "before": {
+        "speaker": "participant",
+        "type": "desired_outcome"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "question"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0011",
+      "before": {
+        "speaker": "participant",
+        "type": "obstacle"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "question"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0012",
+      "before": {
+        "speaker": "participant",
+        "type": "constraint"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "desire"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0013",
+      "before": {
+        "speaker": "participant",
+        "type": "outcome"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "trigger_moment"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0014",
+      "before": {
+        "speaker": "participant",
+        "type": "purchase_regret"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "regret"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0015",
+      "before": {
+        "speaker": "participant",
+        "type": "desired_outcome"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "question"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0016",
+      "before": {
+        "speaker": "participant",
+        "type": "desired_outcome"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "question"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0017",
+      "before": {
+        "speaker": "participant",
+        "type": "solution_tried"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "success_story"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0018",
+      "before": {
+        "speaker": "participant",
+        "type": "constraint"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "desire"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0019",
+      "before": {
+        "speaker": "participant",
+        "type": "obstacle"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "pain"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0020",
+      "before": {
+        "speaker": "participant",
+        "type": "desired_outcome"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "question"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0021",
+      "before": {
+        "speaker": "participant",
+        "type": "tradeoff"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "belief"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0022",
+      "before": {
+        "speaker": "participant",
+        "type": "constraint"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "fear"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0023",
+      "before": {
+        "speaker": "participant",
+        "type": "purchase_tradeoff"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "tried_failed"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0024",
+      "before": {
+        "speaker": "participant",
+        "type": "desired_outcome"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "desire"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0025",
+      "before": {
+        "speaker": "participant",
+        "type": "solution_tried"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "success_story"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0026",
+      "before": {
+        "speaker": "participant",
+        "type": "tradeoff"
+      },
+      "after": {
+        "speaker": "advisor",
+        "type": "belief"
+      },
+      "basis": "The selected original passage gives advice or a general opinion; professional credentials not inferred."
+    },
+    {
+      "id": "odeep01-0027",
+      "before": {
+        "speaker": "participant",
+        "type": "solution_tried"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "success_story"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0028",
+      "before": {
+        "speaker": "participant",
+        "type": "constraint"
+      },
+      "after": {
+        "speaker": "advisor",
+        "type": "advice_given"
+      },
+      "basis": "The selected original passage gives advice or a general opinion; professional credentials not inferred."
+    },
+    {
+      "id": "odeep01-0029",
+      "before": {
+        "speaker": "participant",
+        "type": "outcome"
+      },
+      "after": {
+        "speaker": "relative_caregiver",
+        "type": "tried_failed"
+      },
+      "basis": "Original author explicitly describes their daughter/grandchild and speaks as the relative."
+    },
+    {
+      "id": "odeep01-0030",
+      "before": {
+        "speaker": "participant",
+        "type": "outcome"
+      },
+      "after": {
+        "speaker": "relative_caregiver",
+        "type": "success_story"
+      },
+      "basis": "Original author explicitly describes their daughter/grandchild and speaks as the relative."
+    },
+    {
+      "id": "odeep01-0031",
+      "before": {
+        "speaker": "participant",
+        "type": "purchase"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "success_story"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0032",
+      "before": {
+        "speaker": "participant",
+        "type": "outcome"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "success_story"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0033",
+      "before": {
+        "speaker": "participant",
+        "type": "constraint"
+      },
+      "after": {
+        "speaker": "advisor",
+        "type": "advice_given"
+      },
+      "basis": "The selected original passage gives advice or a general opinion; professional credentials not inferred."
+    },
+    {
+      "id": "odeep01-0034",
+      "before": {
+        "speaker": "participant",
+        "type": "solution_tried"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "success_story"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0035",
+      "before": {
+        "speaker": "participant",
+        "type": "endorsement"
+      },
+      "after": {
+        "speaker": "advisor",
+        "type": "advice_given"
+      },
+      "basis": "The selected original passage gives advice or a general opinion; professional credentials not inferred."
+    },
+    {
+      "id": "odeep01-0036",
+      "before": {
+        "speaker": "participant",
+        "type": "solution_rejected"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "tried_failed"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0037",
+      "before": {
+        "speaker": "participant",
+        "type": "constraint"
+      },
+      "after": {
+        "speaker": "experienced_mother",
+        "type": "objection"
+      },
+      "basis": "Original author explicitly calls themself a mom and describes employment and nanny care."
+    },
+    {
+      "id": "odeep01-0038",
+      "before": {
+        "speaker": "participant",
+        "type": "obstacle"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "pain"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0039",
+      "before": {
+        "speaker": "participant",
+        "type": "constraint"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "objection"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0040",
+      "before": {
+        "speaker": "participant",
+        "type": "alternative"
+      },
+      "after": {
+        "speaker": "advisor",
+        "type": "advice_given"
+      },
+      "basis": "The selected original passage gives advice or a general opinion; professional credentials not inferred."
+    },
+    {
+      "id": "odeep01-0041",
+      "before": {
+        "speaker": "participant",
+        "type": "desired_outcome"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "question"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0042",
+      "before": {
+        "speaker": "participant",
+        "type": "constraint"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "pain"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0043",
+      "before": {
+        "speaker": "participant",
+        "type": "outcome"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "regret"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0044",
+      "before": {
+        "speaker": "participant",
+        "type": "desired_outcome"
+      },
+      "after": {
+        "speaker": "expecting_mother",
+        "type": "question"
+      },
+      "basis": "Original author identifies as a first-time mum and describes their current pregnancy."
+    },
+    {
+      "id": "odeep01-0045",
+      "before": {
+        "speaker": "participant",
+        "type": "constraint"
+      },
+      "after": {
+        "speaker": "expecting_mother",
+        "type": "pain"
+      },
+      "basis": "Original author identifies as a first-time mum and describes their current pregnancy."
+    },
+    {
+      "id": "odeep01-0046",
+      "before": {
+        "speaker": "participant",
+        "type": "purchase_tradeoff"
+      },
+      "after": {
+        "speaker": "expecting_mother",
+        "type": "success_story"
+      },
+      "basis": "Original author identifies as a first-time mum and describes their current pregnancy."
+    },
+    {
+      "id": "odeep01-0047",
+      "before": {
+        "speaker": "participant",
+        "type": "obstacle"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "failure_story"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0048",
+      "before": {
+        "speaker": "participant",
+        "type": "outcome"
+      },
+      "after": {
+        "speaker": "expecting_mother",
+        "type": "success_story"
+      },
+      "basis": "Original author identifies as a first-time mum and describes their current pregnancy."
+    },
+    {
+      "id": "odeep01-0049",
+      "before": {
+        "speaker": "participant",
+        "type": "constraint"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "pain"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0050",
+      "before": {
+        "speaker": "participant",
+        "type": "clarification"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "objection"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0051",
+      "before": {
+        "speaker": "participant",
+        "type": "obstacle"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "pain"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0052",
+      "before": {
+        "speaker": "participant",
+        "type": "obstacle"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "pain"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0053",
+      "before": {
+        "speaker": "participant",
+        "type": "outcome"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "failure_story"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0054",
+      "before": {
+        "speaker": "participant",
+        "type": "constraint"
+      },
+      "after": {
+        "speaker": "parent_unspecified",
+        "type": "others_said"
+      },
+      "basis": "Gender and mother identity not inferred; parent/family context or identity remains unspecified."
+    },
+    {
+      "id": "odeep01-0055",
+      "before": {
+        "speaker": "participant",
+        "type": "obstacle"
+      },
+      "after": {
+        "speaker": "partner",
+        "type": "failure_story"
+      },
+      "basis": "Original author explicitly describes their wife and shared daughter; no gender inferred."
+    },
+    {
+      "id": "odeep01-0056",
+      "before": {
+        "speaker": "participant",
+        "type": "desired_outcome"
+      },
+      "after": {
+        "speaker": "relative_caregiver",
+        "type": "desire"
+      },
+      "basis": "Original author explicitly describes their daughter/grandchild and speaks as the relative."
+    },
+    {
+      "id": "odeep01-0057",
+      "before": {
+        "speaker": "participant",
+        "type": "obstacle"
+      },
+      "after": {
+        "speaker": "relative_caregiver",
+        "type": "pain"
+      },
+      "basis": "Original author explicitly describes their daughter/grandchild and speaks as the relative."
+    }
+  ],
+  "new_voice_sha256": "ba3bfef975f527f35156e3945844cd2867b46e7399d4fd5ad635fdfea60295cf",
+  "subsequent_parent_correction": {
+    "id": "odeep01-0031",
+    "type_before": "success_story",
+    "type_after": "belief",
+    "note": "Parent narrow metadata correction retained; actual purchase statement is not automatically a success outcome. Excerpt/source immutable hash still matches."
+  },
+  "current_final_voice_sha256": "0acae1a521d13ba0ca003f7ec22be473cdaba0a8ac5a9740fee2ffde22f2e44a"
+}

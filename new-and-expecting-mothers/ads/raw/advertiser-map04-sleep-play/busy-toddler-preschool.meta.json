@@ -1,0 +1,41 @@
+{
+  "requested_url": "https://busytoddler.com/playing-preschool/",
+  "final_url": "https://busytoddler.com/playing-preschool-book-list-year-1/",
+  "status": 200,
+  "date_utc": "2026-10-24T21:47:34.852503+00:00",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:47:34 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Link": "<https://busytoddler.com/wp-json/>; rel=\"https://api.w.org/\", <https://busytoddler.com/wp-json/wp/v2/posts/52929>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://busytoddler.com/?p=52929>; rel=shortlink",
+    "CF-Ray": "a4fc2e4649e7e4d5-RIX",
+    "CF-Cache-Status": "HIT",
+    "Age": "182505",
+    "Cache-Control": "public, s-maxage=31536000, max-age=0, must-revalidate",
+    "Last-Modified": "Sat, 24 Oct 2026 21:47:34 GMT",
+    "Server": "cloudflare",
+    "Strict-Transport-Security": "max-age=15552000; preload",
+    "Vary": "accept-encoding",
+    "X-Content-Type-Options": "nosniff",
+    "x-bigscoots-cache": "cache",
+    "x-bigscoots-cache-control": "public, s-maxage=31536000, max-age=0, must-revalidate",
+    "x-bigscoots-cache-plan": "boost",
+    "x-bigscoots-cache-status": "HIT",
+    "x-hosted-by": "BigScoots",
+    "x-pingback": "https://busytoddler.com/xmlrpc.php",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=TkT5Hoda%2FpOapruMOZOrCXAMjv3IkUCKtNIgd%2FUvyvFiuM7sODj8EYCs7o8erZQohMDM7pzjhYkSZY2JydSsMZKCyEXYWoZcJy5Trz1epZysFHxtgl4aLd4AAXSK%2FvkmOA%3D%3D\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}",
+    "Content-Encoding": "zstd",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "redirects": [
+    {
+      "url": "https://busytoddler.com/playing-preschool/",
+      "status": 301
+    }
+  ],
+  "raw_file": "_raw/advertiser-map04-sleep-play/busy-toddler-preschool.body",
+  "sha256": "5af28a31fe026954d763b4aa0527c74a7984e384705a33dc79f0a9e24243b7b5",
+  "bytes": 641881
+}

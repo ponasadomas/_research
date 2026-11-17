@@ -1,0 +1,44 @@
+[
+  {
+    "host": "www.thenappylady.co.uk",
+    "status": 200,
+    "url": "https://www.thenappylady.co.uk/robots.txt",
+    "robots": "User-agent: *\nDisallow: /admin/\nDisallow: /api/\nCrawl-delay: 1\n\nSitemap: https://www.thenappylady.co.uk/sitemap.xml\n"
+  },
+  {
+    "host": "mymatleave.com",
+    "status": 200,
+    "url": "https://mymatleave.com/robots.txt",
+    "robots": "User-agent: Googlebot\nAllow: /\n\nUser-agent: Bingbot\nAllow: /\n\nUser-agent: Twitterbot\nAllow: /\n\nUser-agent: facebookexternalhit\nAllow: /\n\nUser-agent: *\nAllow: /\nDisallow: /admin\nDisallow: /admin/\n\nSitemap: https://mymatleave.com/sitemap.xml\n"
+  },
+  {
+    "host": "mastermaternityleave.com",
+    "status": 200,
+    "url": "https://mastermaternityleave.com/robots.txt",
+    "robots": "User-agent: *\r\nDisallow: /wp-admin/\r\nAllow: /wp-admin/admin-ajax.php\r\n\r\nSitemap: https://mastermaternityleave.com/sitemap.xml\r\nSitemap: https://mastermaternityleave.com/sitemap.rss\n"
+  },
+  {
+    "host": "www.familymoneyhelper.co.uk",
+    "status": 200,
+    "url": "https://www.familymoneyhelper.co.uk/robots.txt",
+    "robots": "# As a condition of accessing this website, you agree to abide by the following\n# content signals:\n\n# (a)  If a content-signal = yes, you may collect content for the corresponding\n#      use.\n# (b)  If a content-signal = no, you may not collect content for the\n#      corresponding use.\n# (c)  If the website operator does not include a content signal for a\n#      corresponding use, the website operator neither grants nor restricts\n#      permission via content signal with respect to the corresponding use.\n\n# The content signals and their meanings are:\n\n# search:   building a search index and providing search results (e.g., returning\n#           hyperlinks and short excerpts from your website's contents). Search does not\n#           include providing AI-generated search summaries.\n# ai-input: inputting content into one or more AI models (e.g., retrieval\n#           augmented generation, grounding, or other real-time taking of content for\n#           generative AI search answers).\n# ai-train: training or fine-tuning AI models.\n\n# ANY RESTRICTIONS EXPRESSED VIA CONTENT SIGNALS ARE EXPRESS RESERVATIONS OF\n# RIGHTS UNDER ARTICLE 4 OF THE EUROPEAN UNION DIRECTIVE 2019/790 ON COPYRIGHT\n# AND RELATED RIGHTS IN THE DIGITAL SINGLE MARKET.\n"
+  },
+  {
+    "host": "www.lotusandluna-atx.com",
+    "status": 200,
+    "url": "https://www.lotusandluna-atx.com/robots.txt",
+    "robots": "# Squarespace Robots Txt\n\nUser-agent: AI2Bot\nUser-agent: Ai2Bot-Dolma\nUser-agent: aiHitBot\nUser-agent: Amazonbot\nUser-agent: anthropic-ai\nUser-agent: Applebot-Extended\nUser-agent: Bytespider\nUser-agent: CCBot\nUser-agent: ClaudeBot\nUser-agent: cohere-ai\nUser-agent: cohere-training-data-crawler\nUser-agent: DuckAssistBot\nUser-agent: FacebookBot\nUser-agent: Google-Extended\nUser-agent: GoogleOther\nUser-agent: GoogleOther-Image\nUser-agent: GoogleOther-Video\nUser-agent: GPTBot\nUser-agent: img2dataset\nUser-agent: Meta-ExternalAgent\nUser-agent: MyCentralAIScraperBot\nUser-agent: omgili\nUser-agent: omgilibot\nUser-agent: Quora-Bot\nUser-agent: TikTokSpider\nUser-agent: YouBot\nUser-agent: AdsBot-Google\nUser-agent: AdsBot-Google-Mobile\nUser-agent: AdsBot-Google-Mobile-Apps\nUser-agent: *\nDisallow: /config\nDisallow: /search\nDisallow: /account$\nDisallow: /account/\nDisallow: /commerce/digital-download/\nDisallow: /api/\nAllow: /api/ui-extensions/\nDisallow: /static/\nDisallow:/*?author=*\nDisallow:/*&author=*\nDisallow:/*?tag=*\nDisallow:/*&tag=*\nDisallow:/*?month=*\nDisallow:/*&month=*\nDisallow:/*?view=*\nDisallow:/*&view=*\nDisallow:/*?format=json\nDisallow:/*&format=json\nDisallow:/*?format=page-context\nDisallow:/*&format=page-context\nDisallow:/*?format=main-content\nDisallow:/*&format=main-content\nDisallow:/*?format=json-pretty\nDisallow:/*&format=json-pretty\nDisallow:/*?format=ical\nDisallow:/*&format=ical\nDisallow:/*?reversePaginate=*\nDisallow:/*&reversePaginate=*\n\nSitemap: https://www.lotusandluna-atx.com/sitemap.xml\n"
+  },
+  {
+    "host": "www.madamdoula.com",
+    "status": 200,
+    "url": "https://www.madamdoula.com/robots.txt",
+    "robots": "User-agent: *\nAllow: /\nDisallow: *?lightbox=\n\n# Optimization for Google Ads Bot\nUser-agent: AdsBot-Google-Mobile\nUser-agent: AdsBot-Google\nDisallow: /_partials*\nDisallow: /pro-gallery-webapp/v1/galleries/*\n\n# Block PetalBot\nUser-agent: PetalBot\nDisallow: /\n\n# Crawl delay for overly enthusiastic bots\nUser-agent: dotbot\nCrawl-delay: 10\nUser-agent: AhrefsBot\nCrawl-delay: 10\n\nSitemap: https://www.madamdoula.com/sitemap.xml\n\n# Auto generated, go to SEO Tools > Robots.txt Editor to change this"
+  },
+  {
+    "host": "thematernityplan.com",
+    "status": 200,
+    "url": "https://thematernityplan.com/robots.txt",
+    "robots": "Sitemap: https://thematernityplan.com/sitemap.xml\n\nUser-agent: *\nDisallow:"
+  }
+]

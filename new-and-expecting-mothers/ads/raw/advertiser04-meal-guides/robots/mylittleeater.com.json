@@ -1,0 +1,27 @@
+{
+  "url": "https://mylittleeater.com/robots.txt",
+  "status": 200,
+  "final_url": "https://mylittleeater.com/robots.txt",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 22:15:58 GMT",
+    "Content-Type": "text/plain; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "x-powered-by": "PHP/8.3.36",
+    "content-security-policy": "block-all-mixed-content",
+    "x-robots-tag": "noindex, follow",
+    "link": "<https://mylittleeater.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=4Eh99ghqtTKPlOD6h5890Bxr18Tj1Jq%2BlVOGMejM9K6OdWEt1li%2FGDU8RQ2VEzUS6GUvKw86hXlBOUT70OP0auceHmenVS5gUJD9yzcDbdJdskR0Pty6HRM1LRtDwMwtK%2BehSg%3D%3D\"}]}",
+    "x-litespeed-cache": "hit",
+    "etag": "W/\"885-1792779515;br\"",
+    "vary": "Accept-Encoding",
+    "Server": "cloudflare",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "x-turbo-charged-by": "LiteSpeed",
+    "Server-Timing": "cfCacheStatus;desc=\"REVALIDATED\"",
+    "Cache-Control": "max-age=14400",
+    "cf-cache-status": "REVALIDATED",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "CF-RAY": "a4fc57df9b65e4cf-RIX"
+  }
+}

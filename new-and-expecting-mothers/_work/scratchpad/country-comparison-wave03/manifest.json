@@ -1,0 +1,388 @@
+{
+  "lookup_ids": [
+    "rcb01-0001",
+    "rcb01-0004",
+    "rcb01-0006",
+    "rcb01-0010",
+    "rcb01-0017",
+    "rcb01-0020",
+    "rcb01-0024",
+    "rcb01-0026",
+    "rcb02-0001",
+    "rcb02-0004",
+    "rcb02-0018",
+    "rcb02-0022",
+    "rcb02-0023",
+    "rcb02-0029",
+    "rcb02-0041",
+    "rcb02-0042",
+    "rcb02-0044",
+    "rcb02-0045",
+    "rcb03-0010",
+    "rcb03-0005",
+    "rcb03-0011",
+    "rcb03-0019",
+    "rcb03-0023",
+    "rcb03-0026",
+    "rcb03-0033",
+    "rcb03-0036",
+    "rcb03-0039",
+    "rcb03-0027",
+    "rcb03-0037",
+    "rcb03-0030",
+    "rcb03-0029"
+  ],
+  "views": [
+    {
+      "file": "scratchpad/country-comparison-wave03/lookups-01.txt",
+      "quote_ids": [
+        "rcb01-0001",
+        "rcb01-0004",
+        "rcb01-0006",
+        "rcb01-0010",
+        "rcb01-0017",
+        "rcb01-0020",
+        "rcb01-0024",
+        "rcb01-0026",
+        "rcb02-0001",
+        "rcb02-0004"
+      ],
+      "sha256": "8cb5e0c0ea9aeea966d0eea3acb5a60a837ac61756c95afa567f40b4ce4186b4"
+    },
+    {
+      "file": "scratchpad/country-comparison-wave03/lookups-02.txt",
+      "quote_ids": [
+        "rcb02-0018",
+        "rcb02-0022",
+        "rcb02-0023",
+        "rcb02-0029",
+        "rcb02-0041",
+        "rcb02-0042",
+        "rcb02-0044",
+        "rcb02-0045"
+      ],
+      "sha256": "d033862c81776bb390231749695300f6735790f7683f32846decd7966d8f7f95"
+    },
+    {
+      "file": "scratchpad/country-comparison-wave03/lookups-03.txt",
+      "quote_ids": [
+        "rcb03-0010",
+        "rcb03-0005",
+        "rcb03-0011",
+        "rcb03-0019",
+        "rcb03-0023",
+        "rcb03-0026"
+      ],
+      "sha256": "c182119c621e130442eb220ed0f7f44de1c30c75540b36c9608dd8ed9958e8fd"
+    },
+    {
+      "file": "scratchpad/country-comparison-wave03/lookups-04.txt",
+      "quote_ids": [
+        "rcb03-0033",
+        "rcb03-0036",
+        "rcb03-0039",
+        "rcb03-0027",
+        "rcb03-0037",
+        "rcb03-0030"
+      ],
+      "sha256": "d6bc64d1d4280e2380b67b01bd855d822157f5e0b97d238fdc8b2e748b3b4388"
+    },
+    {
+      "file": "scratchpad/country-comparison-wave03/lookups-05.txt",
+      "quote_ids": [
+        "rcb03-0029"
+      ],
+      "sha256": "92440085a89365f798cf89ed076659fc785940d5fcc1d3aa3e717d11c18b9294"
+    }
+  ],
+  "lookups": [
+    {
+      "quote_id": "rcb01-0001",
+      "post_id": "1m0mruu",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumpsCanada_submissions.jsonl.gz",
+      "native_body_sha256": "d970195f6d754443551a44f76309ea211716dcefdd2046b1bb6eb75402aad34f",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BabyBumpsCanada-1m0mruu.txt",
+      "raw_unit_sha256": "f3ceef24f68f9110f444ea4ece315f0545522ef99ddda51f4c7513349bed2340",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb01-0004",
+      "post_id": "1m1y7vs",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumpsCanada_submissions.jsonl.gz",
+      "native_body_sha256": "98b7bb2b3e662c031ecdc3cbe2634eaef39b95f1a29e7b80cfce3d3297ff19b0",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BabyBumpsCanada-1m1y7vs.txt",
+      "raw_unit_sha256": "ffb37dd3511527d7e197b55872062a97b8527dbebc8347d17938fa12734b0a32",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb01-0006",
+      "post_id": "1m7c5dm",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumpsCanada_submissions.jsonl.gz",
+      "native_body_sha256": "6047be78004be9684fe3498e3a3626763b9f8665737d97d0ddcef2b221cf0719",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BabyBumpsCanada-1m7c5dm.txt",
+      "raw_unit_sha256": "fb376e04aa29ccc3e4444cb6f1c3bb143dea2101f0beae5edd6e8574e879ddde",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb01-0010",
+      "post_id": "1mbuxfm",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumpsCanada_submissions.jsonl.gz",
+      "native_body_sha256": "f8a1c6e2d288e59852f6dec3acaf40a99ac1099d15290bee2602992fc01177af",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BabyBumpsCanada-1mbuxfm.txt",
+      "raw_unit_sha256": "99dcaec16b6a1834162a7d271836f07382f1c00bacbd8e9601740ed89bb1151d",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb01-0017",
+      "post_id": "1m64dr3",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumpsandBeyondAu_submissions.jsonl.gz",
+      "native_body_sha256": "471b69982957e6a812f691131d382547d99e8752c92ecbc49c9bc38b7b592747",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BabyBumpsandBeyondAu-1m64dr3.txt",
+      "raw_unit_sha256": "ec4bba74d2395969add507774cc3dc5acaefb62de8d8937c72782ed6cce65c60",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb01-0020",
+      "post_id": "1m7vcbn",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumpsandBeyondAu_submissions.jsonl.gz",
+      "native_body_sha256": "5a72f90aaf700ca2c23af4ed161d3bcccf7c8f0c9b47598f9c1a5f1acc3cecc3",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BabyBumpsandBeyondAu-1m7vcbn.txt",
+      "raw_unit_sha256": "cd8df579c93c73c0695dd851aaf4c856ca917dc8eaab8c6373ef1c0e73d3a0f8",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb01-0024",
+      "post_id": "1m4tpb2",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BeyondTheBumpUK_submissions.jsonl.gz",
+      "native_body_sha256": "e8a94ffef97c4762113a432b9697146cbf6e706aae1099d318d00d68756b41e9",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BeyondTheBumpUK-1m4tpb2.txt",
+      "raw_unit_sha256": "852300b597cb69a4fd45426783ab8d69943b31d8be9c62b1470955990d35c1ac",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb01-0026",
+      "post_id": "1m6dwgl",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BeyondTheBumpUK_submissions.jsonl.gz",
+      "native_body_sha256": "6ec2cc10a8811763fa655e041388e18857d26dcef0d9c9f62c58d9aafa9092d0",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BeyondTheBumpUK-1m6dwgl.txt",
+      "raw_unit_sha256": "99347943c02485426ea4cb1eb425dc1d0bd056009dc0b054fad75131bc12de28",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb02-0001",
+      "post_id": "1lvzmdd",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumpsandBeyondAu_submissions.jsonl.gz",
+      "native_body_sha256": "5c625989597ad91124547bf2ed8682949e531f919aca52c59f4a5c027447af66",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BabyBumpsandBeyondAu-1lvzmdd.txt",
+      "raw_unit_sha256": "a8849a595930aa88ecbaf55ea23b729354fa1c41efeffe42c3c970f211e04a96",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb02-0004",
+      "post_id": "1lxvyie",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumpsandBeyondAu_submissions.jsonl.gz",
+      "native_body_sha256": "1b15b69c37268a962d950e92a27f6fef5e206ce776f3778a8535c1cad820b851",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BabyBumpsandBeyondAu-1lxvyie.txt",
+      "raw_unit_sha256": "467a0cd536c055ef04d5d22d9ecb0afefdf316f96cddd658e2f6e337098fc773",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb02-0018",
+      "post_id": "1mcx3gh",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumpsandBeyondAu_submissions.jsonl.gz",
+      "native_body_sha256": "35de6d8e883d1aa39bbb888b230510364ec992de629404c095cb90373fdaf6eb",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BabyBumpsandBeyondAu-1mcx3gh.txt",
+      "raw_unit_sha256": "da8d7057f9bd5d8ca5f6e11d0a4bf0c2d8474973a32767ecd4f8945d07b59dcc",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb02-0022",
+      "post_id": "1lq38gx",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BeyondTheBumpUK_submissions.jsonl.gz",
+      "native_body_sha256": "5fe7ec51e29fb34b21de2576a6b697f36a69a49899cd119c6639dcfb714a2c2b",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BeyondTheBumpUK-1lq38gx.txt",
+      "raw_unit_sha256": "3ae11ed2b966c24e128e1b241287e9f0e749264ae8a8c3fe167b3df73146ccf6",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb02-0023",
+      "post_id": "1lqn6xy",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BeyondTheBumpUK_submissions.jsonl.gz",
+      "native_body_sha256": "3ed28d0bdd4f3c0de932f8f31881ec10c0ddf0fff78fa7536668eb84bad0a770",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BeyondTheBumpUK-1lqn6xy.txt",
+      "raw_unit_sha256": "ef569a714f842ad3c1ef6688a7a8925c419c369dface1d0be1ed07ff5d3da700",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb02-0029",
+      "post_id": "1m0k0v5",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BeyondTheBumpUK_submissions.jsonl.gz",
+      "native_body_sha256": "fc42a0be99b6e79789b69ff10b2edb8f459223831cfd5fe6127f9a30967ac928",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BeyondTheBumpUK-1m0k0v5.txt",
+      "raw_unit_sha256": "6ac023d187c62fe8638fa2292daa2e285d23982b090aa39e50288adf2b64974e",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb02-0041",
+      "post_id": "1mc9msj",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BeyondTheBumpUK_submissions.jsonl.gz",
+      "native_body_sha256": "9ba1605dbccc6f29c9c51417434cc7acaf0f826c3536f37445fbcb845cfc15c2",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BeyondTheBumpUK-1mc9msj.txt",
+      "raw_unit_sha256": "925b5fa7d709305125b66b25f94ba2d802833e1a5ac12c1ce7c95505cbc99e29",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb02-0042",
+      "post_id": "1mcf8o8",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BeyondTheBumpUK_submissions.jsonl.gz",
+      "native_body_sha256": "08fc5b9467eb0cea2c110582f6f1a1c820a04d36f19e89ec2484cbca41c55e9d",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BeyondTheBumpUK-1mcf8o8.txt",
+      "raw_unit_sha256": "82bdc964a9168ad02d5ef30b33dadd1b33c93d865d99d439b20044f7f8071f4b",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb02-0044",
+      "post_id": "1mcneqd",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BeyondTheBumpUK_submissions.jsonl.gz",
+      "native_body_sha256": "6573d8595c6f942c2e681f0d9d85ae90bf5e5a9b6c85ce1471496d800400e3ee",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BeyondTheBumpUK-1mcneqd.txt",
+      "raw_unit_sha256": "e1af7172033e77305c83a8740b76f0eaccb4cc6e4b741805373033ab647fa574",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb02-0045",
+      "post_id": "1md0irj",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BeyondTheBumpUK_submissions.jsonl.gz",
+      "native_body_sha256": "40ad2777c1acaf90b0179375411f01fa8f01ac835e85678ac13a5bde24c6f412",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BeyondTheBumpUK-1md0irj.txt",
+      "raw_unit_sha256": "bd11a490bf5286724c320cd24b367a270f3f9ddb7e555a4f484316cda094a9e1",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb03-0010",
+      "post_id": "1lwd724",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumpsCanada_submissions.jsonl.gz",
+      "native_body_sha256": "56d6f59da18cdc72cbc09e4799a5cfc4c44c19f7b8ad752306782a80581b6960",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BabyBumpsCanada-1lwd724.txt",
+      "raw_unit_sha256": "af72b137294faea8fc323e5c5457546c382f187707d2ff973b4c8ac31b98f358",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb03-0005",
+      "post_id": "1lqv2dx",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumpsCanada_submissions.jsonl.gz",
+      "native_body_sha256": "8fa5adcda383cce35fdf0a931d93772c5a82914f88188f7e30b7271a4f07fce4",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BabyBumpsCanada-1lqv2dx.txt",
+      "raw_unit_sha256": "e18f09154b379f597d332dbbd5ba0ccbb96488ad1bac25c16a08c358d86fe977",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb03-0011",
+      "post_id": "1lqiww6",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumpsandBeyondAu_submissions.jsonl.gz",
+      "native_body_sha256": "34cf2c3e8ddf6a494722f9caea8b01c899ffea8af3b5daec7388a21363b44a25",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BabyBumpsandBeyondAu-1lqiww6.txt",
+      "raw_unit_sha256": "18b00988cda0d5a7cf8ab5a327be11f9f26e32e0849527748a5c59295751b257",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb03-0019",
+      "post_id": "1luk090",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumpsandBeyondAu_submissions.jsonl.gz",
+      "native_body_sha256": "e2b771e9d79fb63fec58488b02ae41dd35c925e3cd909b8ca74a8f84c8905d73",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BabyBumpsandBeyondAu-1luk090.txt",
+      "raw_unit_sha256": "9c098df71b3731f329f11ac1fa650cc85d832be3f257408d7fcf5058e9a02c42",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb03-0023",
+      "post_id": "1m14ia8",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumpsandBeyondAu_submissions.jsonl.gz",
+      "native_body_sha256": "f396e5c231ebd3dd1aa34024f7979b1b558f9d060628ff572ca5677def9e0ddb",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BabyBumpsandBeyondAu-1m14ia8.txt",
+      "raw_unit_sha256": "371570ad700f67b1bebd17291d98c6c33a6bd2778c9e3954b602d9f007527076",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb03-0026",
+      "post_id": "1m20lwp",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumpsandBeyondAu_submissions.jsonl.gz",
+      "native_body_sha256": "53f6c42498c89e299e0228b5b9ef75fa4863b54a2706592219fede470166e7ed",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BabyBumpsandBeyondAu-1m20lwp.txt",
+      "raw_unit_sha256": "9366df487d5513f0a3da612afc0f495df7cec5d0e5e1a3ad8ea29058f654d3d8",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb03-0033",
+      "post_id": "1ltb5m9",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BeyondTheBumpUK_submissions.jsonl.gz",
+      "native_body_sha256": "6d1ddabdb0e100787dcd7183c43a14b589f64a8f9e78e8e5443602c73ada2ad5",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BeyondTheBumpUK-1ltb5m9.txt",
+      "raw_unit_sha256": "27f86fef791573b81c0015cc55d91a65ec4d76119c82a721558177bb76fa76ff",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb03-0036",
+      "post_id": "1lw6xpk",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BeyondTheBumpUK_submissions.jsonl.gz",
+      "native_body_sha256": "7c792808f167066b75083c9137684275e9c6f043b92e8b93fa069ad2a06a967c",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BeyondTheBumpUK-1lw6xpk.txt",
+      "raw_unit_sha256": "4c5db0df052758c1bb57a9de0731fb587ba9b35f63f321c990840d0a45ac7dec",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb03-0039",
+      "post_id": "1lx7qaa",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BeyondTheBumpUK_submissions.jsonl.gz",
+      "native_body_sha256": "0e9e0ec0f933f33d9c6f8506fdccaf31b099841d36a35cc2c450f1496ab34300",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BeyondTheBumpUK-1lx7qaa.txt",
+      "raw_unit_sha256": "831052184e4f2c42fe7f3266f9b9467b4063c1eb4aa0ca964abd3ef78e662949",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb03-0027",
+      "post_id": "1m2s7dx",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BabyBumpsandBeyondAu_submissions.jsonl.gz",
+      "native_body_sha256": "21654febd51469d7fde75ec61fc308a4f2818a159d1c33463446464ee934ccc5",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BabyBumpsandBeyondAu-1m2s7dx.txt",
+      "raw_unit_sha256": "8e31123f7a06dd0f2a19454fae81e233774e2a7fa33b397e0a57856c0b22a1a1",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb03-0037",
+      "post_id": "1lwczm5",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BeyondTheBumpUK_submissions.jsonl.gz",
+      "native_body_sha256": "5d8dd68de052d45bebdc3264d80ffc46ef70674e8eae91ec9dbe3bb1ae672e7f",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BeyondTheBumpUK-1lwczm5.txt",
+      "raw_unit_sha256": "bf23b6afaaad1864bf76a4013e9cbb3d208158806f8d871974cec36fd30af544",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb03-0030",
+      "post_id": "1lrb9bk",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BeyondTheBumpUK_submissions.jsonl.gz",
+      "native_body_sha256": "9d82db9867f58f20b1221d022842b74b26fc7472507ee6e464ece82a9145c024",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BeyondTheBumpUK-1lrb9bk.txt",
+      "raw_unit_sha256": "35cbc2e137a51b299be9155ba9cac0691e8233a10e71abb83899e72bebbd8b77",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    },
+    {
+      "quote_id": "rcb03-0029",
+      "post_id": "1lrlbat",
+      "native_file": "_raw/reddit-deep/windows/2025-h2-v1/BeyondTheBumpUK_submissions.jsonl.gz",
+      "native_body_sha256": "8a66ec1323885847d5e80fc8f9b351ed693990fea1642aaee8adf8cfb179ba44",
+      "raw_unit": "_raw/reddit-deep/next-july-country-B-v1/primary-v1/units/BeyondTheBumpUK-1lrlbat.txt",
+      "raw_unit_sha256": "8e01617880b124e7902fa46d01feb20d13e71ca58998969db5375e51007f9a93",
+      "scope": "Existing full-read country record/native-context reread; zero new original reading credit."
+    }
+  ],
+  "new_original_reading_credit": 0,
+  "human_reread_complete": true,
+  "manual_native_context_rereads": 31,
+  "finalized_reader_notes_fully_read": [
+    "01",
+    "02",
+    "03"
+  ],
+  "completed_utc": "2026-10-24T20:32:24.671468+00:00"
+}

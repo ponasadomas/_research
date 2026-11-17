@@ -1,0 +1,21 @@
+# Meta Ad Library collection and reading ledger
+
+**Current combined total — 2026-10-24:** 20 recorded searches, 68 on-niche retained IDs with visible text read, and six bounded advertising excerpts. Four report/registry follow-ups added five distinct retained IDs to the initial 63. See [the follow-up ledger](../ads-running/report-registry-followup.md). Videos, unloaded variants and complete advertiser inventories remain unexamined; no spend or profitability is inferred. The 16-query/63-ID account below is the completed initial wave.
+
+2026-10-24. Public real-browser navigation in an isolated Chromium profile; no login, private API request, captcha solving, cookies extraction or account creation. Each capture preserves rendered text and the page's embedded `search_results_connection` JSON before extraction. `_tools/build_ads_running.py` adapts the SYD parser, documents its allowlist and generates the index.
+
+| Source unit | Downloaded | Matched | Kept | Full body read | Quotes |
+|---|---:|---:|---:|---:|---:|
+| Distinct Library ids in 16 first-page keyword/phrase captures | 325 | 63 on-niche ids | 63 | 63 | 4 |
+
+The 63 retained ids belong to BabySparks, Huckleberry, Kinedu, Lovevery and Solid Starts. This is a named-advertiser inclusion rule, not proof that every other advertiser was irrelevant. Raw off-topic results remain in the 16 captures. No result set was paginated to completion. Country was ALL; languages are mixed. Original query count and loaded-entry count are separate from distinct id count.
+
+Initial five bodies, previously read by parent: `834931956135810`, `1051306501248499`, `944454782004179`, `900643883054478`, `1493608326139798`. That snapshot remains in `_raw/ads-running/selected-for-full-read.jsonl`. The remaining 58 bodies were subsequently read in full from the single frozen `_raw/ads-running/remaining-bodies-corpus.txt` chunk (28,758 body-text bytes, excluding corpus headers). Per-id reader/batch/status and original-body hashes for all 63 are in `sources/ad-body-reading-ledger.tsv`. Each original body remains under `records/`. Lovevery's body is an unresolved template placeholder: it was read but does not reveal the actual creative text and contributes no quote. Four short excerpts in `voice/ads-01.jsonl` remain unchanged and are explicitly seller claims, not customer outcomes.
+
+Unread retained body text: **0 of 63**. The per-id ledger is the current reading record; `_raw/ads-running/unread-bodies.txt` is preserved as a historical pre-completion list and must not be interpreted as current unread status. The corpus includes mixed languages and repeated ad bodies; full reads do not establish unique creative concepts. Full creative videos/images and alternate variants remain unviewed. One thumbnail/preview per selected advertiser was attempted at capture time; outcomes and files remain in `asset-log.json`. See `synthesis/ad-body-reader-notes.md` for source-linked observations and clinical-claim caveats.
+
+All 16 queries, counts, URLs and raw pointers are in `ads-running/README.md` and `_raw/ads-running/query-ledger.json`. The initial Huckleberry browser probe is additionally retained under `_raw/probes/`; it is a duplicated diagnostic capture and is not a seventeenth counted search.
+
+Mamivio's domain search returned one unrelated advertiser; the Pirmi domain search returned zero results. Those observations do not establish that the owner or reference business runs no ads. A confirmed owning Page id is absent. Broad keyword counts contain unrelated advertisers; exact phrases reduced some noise. Start dates were parsed in UTC. Active status and longevity do not prove budgets, profitability, effectiveness, or purchases.
+
+The retained-body reading task is complete; no new quotes were added. Continue, when appropriate, with a separate creative-media viewing ledger or a confirmed advertiser Page through permitted browser navigation. `_tools/build_ads_running.py` now resolves body-read status through `_tools/ad_body_reads.py` and the per-id body hashes, so rerendering does not reset completed reads to the initial five. A changed body/hash must be read again. Do not overwrite cited capture files when updating this dataset.

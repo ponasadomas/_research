@@ -1,0 +1,118 @@
+{
+  "scope": "All 43 complete bodies were human read; this term screen is supplemental, not a diagnosis or automatic exclusion. Ordinary fatigue/history not equated to acute crisis.",
+  "reviewed": [
+    {
+      "post_id": "1opj00j",
+      "machine_terms": [
+        "reflux"
+      ],
+      "full_context_human_read": true,
+      "status": "excluded_after_read",
+      "quote_ids": [],
+      "assessment": "Uses 12 hours by 12 weeks feeding structure with young infant and reflux context. Neither purchase nor exact acquired format established; no marketing excerpt or feeding instructions.",
+      "quoted_research_only": true
+    },
+    {
+      "post_id": "1p3e60b",
+      "machine_terms": [
+        "mental health"
+      ],
+      "full_context_human_read": true,
+      "status": "eligible",
+      "quote_ids": [],
+      "assessment": "Previously used Huckleberry Sweet Spot alongside individually shorter windows; current sleep changed. Tier, purchase, price and causal contribution unknown. Risky sleep-placement/swaddle context; retained classification only, no marketing quote.",
+      "quoted_research_only": true
+    },
+    {
+      "post_id": "1p4z6gk",
+      "machine_terms": [
+        "hallucinat",
+        "mental health",
+        "reflux",
+        "scary"
+      ],
+      "full_context_human_read": true,
+      "status": "excluded_after_read",
+      "quote_ids": [],
+      "assessment": "Full body read; hired consultant and video feedback mentioned, but acute functional/safety distress and infant medical context warrant neutral exclusion. No customer-marketing excerpt, fee or standalone written deliverable established.",
+      "quoted_research_only": true
+    },
+    {
+      "post_id": "1p80kyp",
+      "machine_terms": [
+        "side and pat"
+      ],
+      "full_context_human_read": true,
+      "status": "eligible",
+      "quote_ids": [
+        "rpa05-0009"
+      ],
+      "assessment": "Spoke to consultant about ten-week-old; recommended settling still takes similar parental time. Consultation payment and written artifact unknown. Risky infant-positioning context; narrow burden excerpt research-only.",
+      "quoted_research_only": true
+    },
+    {
+      "post_id": "1pe48sm",
+      "machine_terms": [
+        "degenerative",
+        "herniated",
+        "killing me"
+      ],
+      "full_context_human_read": true,
+      "status": "excluded_after_read",
+      "quote_ids": [],
+      "assessment": "Explicit past consultant spending with unsatisfactory result, but current severe clinical/functional distress makes this a neutral post-read exclusion. No quoted marketing material. Service fee does not establish report, deliverable or currency.",
+      "quoted_research_only": true
+    },
+    {
+      "post_id": "1pknn82",
+      "machine_terms": [
+        "nicu"
+      ],
+      "full_context_human_read": true,
+      "status": "eligible",
+      "quote_ids": [],
+      "assessment": "Followed Taking Cara Babies but nightfeeds remain; source is a feeding question involving corrected age. Resolved neonatal history alone is not acute crisis. Format, payment and fee not established; no feeding or sleep instructions quoted.",
+      "quoted_research_only": true
+    },
+    {
+      "post_id": "1plhd3s",
+      "machine_terms": [
+        "only 4 weeks"
+      ],
+      "full_context_human_read": true,
+      "status": "eligible",
+      "quote_ids": [],
+      "assessment": "Four-week newborn; uses Huckleberry to track sleeps and asks when routines start. Logging is not a purchased personalized plan; no tier/payment/price. No newborn feeding or training advice selected.",
+      "quoted_research_only": true
+    },
+    {
+      "post_id": "1pmiqt5",
+      "machine_terms": [
+        "mental health",
+        "mental state",
+        "scary",
+        "unsafe"
+      ],
+      "full_context_human_read": true,
+      "status": "eligible",
+      "quote_ids": [
+        "rpa05-0016"
+      ],
+      "assessment": "Explicitly paid extra for one more week of an already hired consultant; still unresolved and questions further spending while partner would rehire. Price/currency/written deliverable/intake unknown. Safety incidents and mental-health context make transaction excerpt research-only, never marketing targeting.",
+      "quoted_research_only": true
+    },
+    {
+      "post_id": "1pnoepf",
+      "machine_terms": [
+        "nicu"
+      ],
+      "full_context_human_read": true,
+      "status": "eligible",
+      "quote_ids": [
+        "rpa05-0017"
+      ],
+      "assessment": "Downloaded Smart Sleep Coach by Pampers; reports some nap benefit but multi-child profiles lack useful twin/same-room guidance. Wants twin-specialist coach. Download/use is not payment; no fee, personalized written output or receipt. Historical corrected-age/unsafe-sleep context warrants research-only narrow feature-experience excerpt.",
+      "quoted_research_only": true
+    }
+  ]
+}

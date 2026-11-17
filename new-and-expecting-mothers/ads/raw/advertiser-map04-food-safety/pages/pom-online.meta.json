@@ -1,0 +1,31 @@
+{
+  "slug": "pom-online",
+  "url": "https://www.pombaby.com/home/online",
+  "robots_status": 200,
+  "robots_allowed": true,
+  "robots_file": "_raw/advertiser-map04-food-safety/robots/www.pombaby.com.txt",
+  "raw_file": "_raw/advertiser-map04-food-safety/pages/pom-online.html",
+  "text_file": "_raw/advertiser-map04-food-safety/pages/pom-online.txt",
+  "sha256": "1867031d0239a596b31ee43183a28a575361a8cf13b3a003f224785c42334429",
+  "bytes": 1237117,
+  "utc": "2026-10-24T21:48:32.016816+00:00",
+  "status": 200,
+  "final_url": "https://www.pombaby.com/home/online",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Age": "0",
+    "Content-Type": "text/html;charset=utf-8",
+    "Date": "Sat, 24 Oct 2026 21:48:31 GMT",
+    "Etag": "W/\"b70f86300fd96bcb543a57dab9d314b5--gzip\"",
+    "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+    "Server": "Squarespace",
+    "Set-Cookie": "crumb=BSiqlP7hpkr/NThiMmMxZjI1YWEyNzc4YzNiNmIwMmFmMjNjYmRm;Secure;Path=/",
+    "Strict-Transport-Security": "max-age=15552000",
+    "Vary": "Accept-Encoding",
+    "X-Content-Type-Options": "nosniff",
+    "X-Contextid": "t2VeS9Ou/GAgIa7Io",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Connection": "close",
+    "Transfer-Encoding": "chunked"
+  }
+}

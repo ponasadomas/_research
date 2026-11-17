@@ -1,0 +1,221 @@
+{
+  "scope": "All59 final root-assigned native extension records, exactly3captures, no new collection. All body/card/headline/CTA/destination fields preserved.",
+  "pages": [
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+      "sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+      "query": "eMeals",
+      "expected_page_id": "138553919372",
+      "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=138553919372",
+      "captured_at": "2026-10-24T22:03:17.725Z",
+      "connections": [
+        {
+          "count": 401,
+          "edge_count": 21,
+          "page_info": {
+            "end_cursor": "AQHT360mV0HXpBxKR69_gC55wlwnYt6_R9b29rxMbqWvj4WfRjm4e218zdkCwo748Euq",
+            "has_next_page": true
+          }
+        }
+      ],
+      "ad_ids": [
+        "25414872794838589",
+        "2073844973417075",
+        "2272282739959881",
+        "909465895313343",
+        "1527225161899010",
+        "1268120485152483",
+        "4238931593016828",
+        "2148945109243968",
+        "1442173817699335",
+        "861752936381547",
+        "861944829884495",
+        "946368974738674",
+        "1237280417872402",
+        "2182597029225978",
+        "1409199477510531",
+        "2637140163309156",
+        "2310257306153529",
+        "844068205132859",
+        "850405537826026",
+        "1430525584569948",
+        "908962141788365",
+        "890666777148334",
+        "1434028511628039",
+        "2104349103648816",
+        "25036465196032009",
+        "1408794290773898",
+        "2069782513877105",
+        "1160003072625370",
+        "1249215433834864",
+        "1019867427333229"
+      ]
+    },
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/049b-plan-to-eat-page.json",
+      "sha256": "3c20fd7a5a23f9df0bcd606e3bd157590f70436314d34bffce5a5f1f2e055882",
+      "query": "Plan to Eat",
+      "expected_page_id": "119570619324",
+      "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=119570619324",
+      "captured_at": "2026-10-24T22:03:22.992Z",
+      "connections": [
+        {
+          "count": 1,
+          "edge_count": 1,
+          "page_info": {
+            "end_cursor": "",
+            "has_next_page": false
+          }
+        }
+      ],
+      "ad_ids": [
+        "1143201975028121"
+      ]
+    },
+    {
+      "file": "_raw/advertiser-census-wave04-2026-10-25/queries/053-tiny-hearts-page.json",
+      "sha256": "eba93fd6598e86cd94c7c42987fb4a1d300c42849f25ec61eb86376f606d9590",
+      "query": "Tiny Hearts Education",
+      "expected_page_id": "182652498588710",
+      "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=182652498588710",
+      "captured_at": "2026-10-24T22:04:46.498Z",
+      "connections": [
+        {
+          "count": 33,
+          "edge_count": 27,
+          "page_info": {
+            "end_cursor": "AQHTsPssvkVdrd4jMnCXkbF1ST7O8_DMZ6PYIrSW9tAyFrm6MXAtys4jbbGpdznlg7uC",
+            "has_next_page": true
+          }
+        }
+      ],
+      "ad_ids": [
+        "962828846373103",
+        "1723712025544601",
+        "1419613440141877",
+        "2227760671101908",
+        "1027418466986945",
+        "4613049235581110",
+        "1421364800210118",
+        "906695728987074",
+        "2174052486820386",
+        "1396749749091125",
+        "1334491189750940",
+        "1832387154612353",
+        "1408158914194503",
+        "4410208732642175",
+        "933610392876325",
+        "1672099084343076",
+        "1893835505319959",
+        "1657931689343878",
+        "1106472598828952",
+        "4728783977340331",
+        "1400662562233013",
+        "1342463438952830",
+        "1648415323628975",
+        "1094634269847980",
+        "1734832998648720",
+        "1105141705237195",
+        "1799805117897774",
+        "1682434180066358"
+      ]
+    }
+  ],
+  "units": 59,
+  "views": [
+    {
+      "view": 1,
+      "file": "scratchpad/advertiser04-food-safety-ads/extension-lean-v4/001.txt",
+      "ad_ids": [
+        "25414872794838589",
+        "2073844973417075",
+        "2272282739959881",
+        "909465895313343",
+        "1527225161899010",
+        "1268120485152483",
+        "4238931593016828",
+        "2148945109243968",
+        "1442173817699335",
+        "861752936381547",
+        "861944829884495",
+        "946368974738674",
+        "1237280417872402",
+        "2182597029225978",
+        "1409199477510531",
+        "2637140163309156",
+        "2310257306153529"
+      ],
+      "sha256": "443e02b8d1b47287c3548c6b052e3470384eaa3d39359db56e22a08df3b1712a"
+    },
+    {
+      "view": 2,
+      "file": "scratchpad/advertiser04-food-safety-ads/extension-lean-v4/002.txt",
+      "ad_ids": [
+        "844068205132859",
+        "850405537826026",
+        "1430525584569948",
+        "908962141788365",
+        "890666777148334",
+        "1434028511628039",
+        "2104349103648816",
+        "25036465196032009",
+        "1408794290773898",
+        "2069782513877105",
+        "1160003072625370",
+        "1249215433834864",
+        "1019867427333229",
+        "1143201975028121"
+      ],
+      "sha256": "259200f74bcfb4ee38778f87d62df1deb3b2997dcbda3e30d37b35c8859f94ad"
+    },
+    {
+      "view": 3,
+      "file": "scratchpad/advertiser04-food-safety-ads/extension-lean-v4/003.txt",
+      "ad_ids": [
+        "962828846373103",
+        "1723712025544601",
+        "1419613440141877",
+        "2227760671101908",
+        "1027418466986945",
+        "4613049235581110",
+        "1421364800210118",
+        "906695728987074",
+        "2174052486820386",
+        "1396749749091125",
+        "1334491189750940",
+        "1832387154612353",
+        "1408158914194503",
+        "4410208732642175"
+      ],
+      "sha256": "9fd36f8fd94ce5fd4ead4e8b4c8877edba196dd15a64f52bc17c45cdce2e9097"
+    },
+    {
+      "view": 4,
+      "file": "scratchpad/advertiser04-food-safety-ads/extension-lean-v4/004.txt",
+      "ad_ids": [
+        "933610392876325",
+        "1672099084343076",
+        "1893835505319959",
+        "1657931689343878",
+        "1106472598828952",
+        "4728783977340331",
+        "1400662562233013",
+        "1342463438952830",
+        "1648415323628975",
+        "1094634269847980",
+        "1734832998648720",
+        "1105141705237195"
+      ],
+      "sha256": "5927c2dccfd4a443d6be6ff47bfd3e8cea28a89b3b604c4bf3381ab41d03afb5"
+    },
+    {
+      "view": 5,
+      "file": "scratchpad/advertiser04-food-safety-ads/extension-lean-v4/005.txt",
+      "ad_ids": [
+        "1799805117897774",
+        "1682434180066358"
+      ],
+      "sha256": "86c7259da7a2425e37a0436bb64b603134494dcf9da0b56448616d858d1ecae4"
+    }
+  ]
+}

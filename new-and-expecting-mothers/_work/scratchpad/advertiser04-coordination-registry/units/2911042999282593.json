@@ -1,0 +1,49 @@
+{
+  "ad_id": "2911042999282593",
+  "page_id": "620732004665539",
+  "page_name": "Skylight",
+  "snapshot_page_id": "103636589378967",
+  "snapshot_page_name": "Target Babe Finds",
+  "snapshot_identity_differs": true,
+  "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/043-skylight-page.json",
+  "source_file_sha256": "4ec970a7be639386523fc6ef0d82f4caec8f95f6cbf924da5cae214dffa7ddc7",
+  "captured_at": "2026-10-24T21:57:52.881Z",
+  "native_is_active": true,
+  "start_timestamp": 1790578800,
+  "start_utc": "2026-09-28T07:00:00+00:00",
+  "displayed_start_date": "Sep 28, 2026",
+  "collation_id": "1466751818494995",
+  "collation_count": 1,
+  "display_format": "VIDEO",
+  "primary_destination": "https://myskylight.com/landing/hearth-hand",
+  "card_destinations": [],
+  "native_body_sha256": "bbf20e8c9fdb0275cb39c11328e104259241a1c857deb4d528908562179eb6ae",
+  "native_text_bundle_sha256": "9e76c4db10c1d9fda08fdcdb68fa50b79cca005583c79bc917e68ebfa83dd272",
+  "native_ad_sha256": "95461ae25306116a334b94d398d5f8bbc7ff13ea8b06849b41ceff8ba1d857cd",
+  "text_bundle": {
+    "body": "The exclusive Skylight Calendar x Hearth & Hand with Magnolia keeps our whole family on the same page and looks beautiful doing it. Only at @target in stores and online.\n\n@myskylight @magnolia \n\n#TargetFinds #Target",
+    "top": {
+      "caption": "myskylight.com",
+      "cta_text": "Shop now",
+      "cta_type": "SHOP_NOW",
+      "title": null,
+      "link_description": null,
+      "link_url": "https://myskylight.com/landing/hearth-hand",
+      "display_format": "VIDEO",
+      "byline": null,
+      "disclaimer_label": null,
+      "additional_info": null,
+      "extra_links": [],
+      "extra_texts": [],
+      "branded_content": {
+        "page_id": "620732004665539",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/ourskylight/",
+        "page_name": "Skylight"
+      },
+      "root_reshared_post": null
+    },
+    "cards": []
+  },
+  "excluded_card_media_fields": []
+}

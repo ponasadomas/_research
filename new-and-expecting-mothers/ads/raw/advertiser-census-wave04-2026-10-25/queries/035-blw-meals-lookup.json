@@ -1,0 +1,16 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "BLW Meals",
+  "captured_at": "2026-10-24T21:53:54.272Z",
+  "suggestions": "ge/\"\n  uid=39_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=39_1 generic\n      uid=39_2 button \"Search for exact phrase BLW Meals\"\n    uid=39_3 generic description=\"BLW Meals App @blwmealsapp· 35.8K follow this · Nutritionist @blwmealsapp· 397.1K followers\"\n    uid=39_4 generic description=\"blw_with_josh 0 follow this · Interest @simple_kids_meals· 2.6K followers\"\n",
+  "candidates": [
+    {
+      "uid": "39_3",
+      "description": "BLW Meals App @blwmealsapp· 35.8K follow this · Nutritionist @blwmealsapp· 397.1K followers"
+    },
+    {
+      "uid": "39_4",
+      "description": "blw_with_josh 0 follow this · Interest @simple_kids_meals· 2.6K followers"
+    }
+  ]
+}

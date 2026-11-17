@@ -1,0 +1,66 @@
+{
+  "ad_id": "877647171364291",
+  "advertiser": "Taking Cara Babies",
+  "page_id": "362568527156955",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/019-taking-cara-babies-page.json",
+  "capture_sha256": "90087c5f484111bbc2fba4fd4f642e2dff76af3b3a8273ceb5b83244053f8008",
+  "native_pointer": "connections[0].edges[11].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=362568527156955",
+  "captured_at": "2026-10-24T21:50:13.463Z",
+  "is_active": true,
+  "start_utc": "2026-06-09T07:00:00+00:00",
+  "display_format": "DCO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=877647171364291",
+  "snapshot_sha256": "87263f1541cab14f35b8c3ef6d337f04fa9621f67d171d6ec527525d55425f19",
+  "text_fields": {
+    "body": {
+      "text": "{{product.brand}}"
+    },
+    "title": "{{product.name}}",
+    "caption": "takingcarababies.com",
+    "link_description": "{{product.description}}",
+    "link_url": "https://www.takingcarababies.com/products/toddler-sleep-training",
+    "cta_text": "See details",
+    "cta_type": "SEE_DETAILS",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": [
+      {
+        "body": "You can be a loving, responsive parent and still set bedtime boundaries. Our toddler sleep class gives you a clear, step-by-step plan to make bedtime smoother, reduce battles, and help your little one sleep with confidence.",
+        "title": "Toddler Bedtime Help",
+        "caption": "",
+        "link_description": "A loving plan for better sleep.",
+        "link_url": "https://www.takingcarababies.com/products/toddler-sleep-training",
+        "cta_text": "See Details",
+        "cta_type": "SEE_DETAILS"
+      },
+      {
+        "body": "You can be a loving, responsive parent and still set bedtime boundaries. Our toddler sleep class gives you a clear, step-by-step plan to make bedtime smoother, reduce battles, and help your little one sleep with confidence.",
+        "title": "Toddler Bedtime Help",
+        "caption": "",
+        "link_description": "A loving plan for better sleep.",
+        "link_url": "https://www.takingcarababies.com/products/toddler-sleep-training",
+        "cta_text": "See Details",
+        "cta_type": "SEE_DETAILS"
+      },
+      {
+        "body": "You can be a loving, responsive parent and still set bedtime boundaries. Our toddler sleep class gives you a clear, step-by-step plan to make bedtime smoother, reduce battles, and help your little one sleep with confidence.",
+        "title": "Toddler Bedtime Help",
+        "caption": "",
+        "link_description": "A loving plan for better sleep.",
+        "link_url": "https://www.takingcarababies.com/products/toddler-sleep-training",
+        "cta_text": "See Details",
+        "cta_type": "SEE_DETAILS"
+      }
+    ]
+  },
+  "text_fields_sha256": "35d987d23b11ae6cf7c13e220a3ada861a347344e0fe684c7691e64e55f3cf9a",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 0,
+  "cards_count": 3
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "Plan to Eat",
+  "captured_at": "2026-10-24T22:02:12.551Z",
+  "suggestions": "ge/\"\n  uid=86_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=86_1 generic\n      uid=86_2 button \"Search for exact phrase Plan to Eat\"\n    uid=86_3 generic description=\"Eatr. AI Healthy Diet Meal Plan 42.4K follow this · Food Consultant @eatr_use· 44K followers\"\n    uid=86_4 generic description=\"Health eat plan 0 follow this · Health & wellness website\"\n    uid=86_5 generic description=\"Eatr - Ai Meal Plans 29 follow this · Food & Drink\"\n    uid=86_6 generic description=\"Eat SuperPlants 1.9K follow this · Health & wellness website @eatsuperplants· 7.9K followers\"\n    uid=86_7 generic description=\"Plan to Eat @plantoeat· 53.1K follow this · Kitchen/cooking @plantoeat_official· 4.6K followers\"\n    uid=86_8 generic description=\"planted. @eatplanted· 10.8K follow this · Food & Beverage @eatplanted · 130.4K followers\"\n    uid=86_9 generic description=\"Eat Well, Spend Less - High-Protein Meal Plans 4 follow this · Nutritionist @eatwellspendless1416· 2 followers\"\n    uid=86_10 generic description=\"D eat plan1 0 follow this · Health/beauty\"\n    uid=86_11 generic description=\"Plan H - Healthy Eats @planhmalta· 14.5K follow this · Health Food Store @planhmalta· 3.2K followers\"\n    uid=86_12 generic description=\"Eat Right Meal Plans @time2eatright · 4.6K follow this · Food delivery service\"\n  uid=86_13 \"42.4K follow this · Food Consultant\"\n",
+  "candidates": [
+    {
+      "uid": "86_3",
+      "description": "Eatr. AI Healthy Diet Meal Plan 42.4K follow this · Food Consultant @eatr_use· 44K followers"
+    },
+    {
+      "uid": "86_4",
+      "description": "Health eat plan 0 follow this · Health & wellness website"
+    },
+    {
+      "uid": "86_5",
+      "description": "Eatr - Ai Meal Plans 29 follow this · Food & Drink"
+    },
+    {
+      "uid": "86_6",
+      "description": "Eat SuperPlants 1.9K follow this · Health & wellness website @eatsuperplants· 7.9K followers"
+    },
+    {
+      "uid": "86_7",
+      "description": "Plan to Eat @plantoeat· 53.1K follow this · Kitchen/cooking @plantoeat_official· 4.6K followers"
+    },
+    {
+      "uid": "86_8",
+      "description": "planted. @eatplanted· 10.8K follow this · Food & Beverage @eatplanted · 130.4K followers"
+    },
+    {
+      "uid": "86_9",
+      "description": "Eat Well, Spend Less - High-Protein Meal Plans 4 follow this · Nutritionist @eatwellspendless1416· 2 followers"
+    },
+    {
+      "uid": "86_10",
+      "description": "D eat plan1 0 follow this · Health/beauty"
+    },
+    {
+      "uid": "86_11",
+      "description": "Plan H - Healthy Eats @planhmalta· 14.5K follow this · Health Food Store @planhmalta· 3.2K followers"
+    },
+    {
+      "uid": "86_12",
+      "description": "Eat Right Meal Plans @time2eatright · 4.6K follow this · Food delivery service"
+    }
+  ]
+}

@@ -1,0 +1,4138 @@
+<!doctype html>
+
+<html lang="en">
+
+<head><script data-source-attribution="shopify.exit_interstitial">(()=>{var s=Function.prototype.bind.bind(Function.prototype.call),yt=(l,r)=>{for(let f=l;f;f=Object.getPrototypeOf(f)){let y=Object.getOwnPropertyDescriptor(f,r);if(y)return y}throw new TypeError(`${r} is not defined`)},u=(l,r)=>s(yt(l,r).get),B=(l,r)=>s(yt(l,r).set);var Se=s(String.prototype.endsWith),k=s(RegExp.prototype.exec),Re=/^_(self|top|parent)$/i,xe=/(^|\s)noreferrer(\s|$)/i,ht=/^(no-referrer(-when-downgrade)?|same-origin|(strict-)?origin(-when-cross-origin)?|unsafe-url)$/i,Pe=/^(never|default|always|origin-when-crossorigin)$/i,Et=/^(no-referrer|same-origin|never)$/i,mt=l=>{let r=`.${l}`;return f=>f===l||Se(f,r)},wt=(l,r,f)=>l!==void 0&&(l.protocol==="https:"||l.protocol==="http:")&&l.origin!==r&&!f(l.hostname),bt=(l,r,f)=>l!==null&&k(xe,l)!==null?!0:r!==null&&k(ht,r)!==null?k(Et,r)!==null:f,_t=(l,r)=>k(ht,l)!==null||k(Pe,l)!==null?k(Et,l)!==null:r,A=(l,{metaKey:r,ctrlKey:f,shiftKey:y,button:S})=>l&&k(Re,l)===null?l:r||f||y||S===1?"_blank":"";var Le="http://www.w3.org/2000/svg",Oe="http://www.w3.org/1999/xlink",G=["rel","referrerpolicy","download","ping","hreflang","type"];function kt(l){let r=window;if(r.top!==r)return;let f=document,y=r.navigation,S=location.origin,v=URL,q=u(v.prototype,"href"),vt=u(v.prototype,"origin"),Nt=u(v.prototype,"protocol"),St=u(v.prototype,"hostname"),Y=s(Event.prototype.preventDefault),Rt=s(Event.prototype.stopPropagation),j=s(Event.prototype.stopImmediatePropagation),V=s(Event.prototype.composedPath),xt=u(Event.prototype,"type"),Pt=u(Event.prototype,"cancelable"),X=u(Event.prototype,"defaultPrevented"),Lt=u(Event.prototype,"bubbles"),Ot=u(Event.prototype,"currentTarget"),At=u(Event.prototype,"eventPhase"),{CAPTURING_PHASE:It}=Event,z=u(Event.prototype,"cancelBubble"),Tt=B(Event.prototype,"cancelBubble"),Wt=u(MouseEvent.prototype,"button"),Mt=u(MouseEvent.prototype,"metaKey"),Ct=u(MouseEvent.prototype,"ctrlKey"),Dt=u(MouseEvent.prototype,"shiftKey"),Ft=y&&u(NavigateEvent.prototype,"destination"),Ht=y&&u(NavigationDestination.prototype,"url"),J=y&&u(NavigateEvent.prototype,"navigationType"),$t=y&&u(NavigateEvent.prototype,"formData"),Q=y&&"sourceElement"in NavigateEvent.prototype?u(NavigateEvent.prototype,"sourceElement"):void 0,m=s(Element.prototype.getAttribute),Kt=s(Element.prototype.getAttributeNS),I=s(Element.prototype.setAttribute),Ut=u(Element.prototype,"localName"),Bt=u(Element.prototype,"namespaceURI"),Gt=s(Document.prototype.querySelector),qt=s(Document.prototype.querySelectorAll),Yt=u(NodeList.prototype,"length"),jt=s(NodeList.prototype.item),T=u(Node.prototype,"baseURI"),Vt=s(Document.prototype.createElement),Xt=s(HTMLElement.prototype.click),zt=s(r.open),Jt=s(location.assign),Qt=s(location.replace),Zt=encodeURIComponent,te=s(String.prototype.startsWith),Z=s(r.setTimeout),ee=s(r.addEventListener),ne=s(r.removeEventListener),tt=s(EventTarget.prototype.addEventListener),et=s(EventTarget.prototype.removeEventListener),nt=Object.defineProperties,ot=t=>{let e=[],n=[HTMLElement.prototype,SVGElement.prototype,Document.prototype,r];for(let o=0;o<n.length;o+=1)try{e[e.length]={get:u(n[o],t),set:B(n[o],t)}}catch{}return e},oe={click:ot("onclick"),auxclick:ot("onauxclick")},rt=WeakMap,re=WeakSet,st=s(WeakMap.prototype.get),se=s(WeakMap.prototype.set),ce=s(WeakMap.prototype.delete),ie=s(WeakSet.prototype.add),ae=s(WeakSet.prototype.has),le=mt(l.site),ct=q(new v(l.exitPath,S)),ue=`${ct}?`,P=(t,e)=>{try{let n=new v(t,e);return{href:q(n),origin:vt(n),protocol:Nt(n),hostname:St(n)}}catch{return}},pe=(t,e,n)=>{let o=n?"&noreferrer=1":"";return`${ct}?q=${Zt(t.href)}&trigger=${e}${o}`},it=()=>{let t=qt(f,'meta[name="referrer" i][content]'),e=!1;for(let n=0;n<Yt(t);n+=1)e=_t(m(jt(t,n),"content"),e);return e},at=(t,e,{target:n,noReferrer:o,replaces:i})=>{let d=pe(t,e,o);if(n){zt(r,d,n,"noopener");return}(i?Qt:Jt)(location,d)},W=t=>wt(t,S,le),L=0,M,C=!1,fe=t=>{if(L>0){M=t;return}t()},de=t=>{if(L-=1,t&&(C=!0),L>0)return;let e=C?void 0:M;M=void 0,C=!1,e&&e()},ge=t=>t!==void 0&&te(t.href,ue),lt=t=>{try{return Ut(t)}catch{return}},ut=t=>bt(m(t,"rel"),m(t,"referrerpolicy"),it()),ye=t=>{let e=Q?Q(t):null,n=e===null?void 0:lt(e);return n==="a"||n==="area"?ut(e):it()},he=t=>{let e=P(Ht(Ft(t)));if(ge(e)){j(t);return}if(!Pt(t)||J(t)==="traverse"||!W(e)||$t(t)!==null)return;Y(t);let n={target:"",noReferrer:ye(t),replaces:J(t)==="replace"};fe(()=>at(e,"navigate",n))},R=t=>{let e=m(t,"href");return e===null&&Bt(t)===Le?Kt(t,Oe,"href"):e},Ee=t=>{let e=V(t);for(let n=0;n<e.length;n+=1){let o=e[n],i=lt(o);if(i==="a"||i==="area"){let d=R(o);if(d!==null)return{node:o,href:d}}}},D=t=>{let e=m(t,"target");if(e!==null)return e;let n=Gt(f,"base[target]");return n?m(n,"target"):""},me=t=>{try{return{metaKey:Mt(t),ctrlKey:Ct(t),shiftKey:Dt(t),button:Wt(t)}}catch{return}},pt=new re,we=t=>{let e=!1,n=()=>{e=!0},o=()=>e||ae(pt,t);return nt(t,{__proto__:null,preventDefault:{__proto__:null,configurable:!0,value:n},defaultPrevented:{__proto__:null,configurable:!0,get:o},returnValue:{__proto__:null,configurable:!0,get:()=>!o(),set:i=>{i||n()}}}),o},be={click:new rt,auxclick:new rt},_e=(t,e)=>{let n=oe[t],o=be[t],i=[],d=p=>{for(let a=0;a<i.length;a+=1)if(i[a]===p)return!0;return!1},w=(p,a,E)=>{let g=s(E);function O(_){let x=g(this,_);return x===!1&&typeof _=="object"&&_!==null&&ie(pt,_),x}return{target:p,accessor:a,handler:E,wrapper:O,inFlight:0}},b=()=>{for(let p=0;p<e.length;p+=1)for(let a=0;a<n.length;a+=1){let E;try{E=n[a].get(e[p])}catch{continue}if(typeof E=="function"){let g=st(o,e[p]);(!g||g.wrapper!==E)&&(g=w(e[p],n[a],E),n[a].set(e[p],g.wrapper),se(o,e[p],g)),d(g)||(g.inFlight+=1,i[i.length]=g)}break}};return b(),{wrap:b,unwrap:()=>{for(let p=0;p<i.length;p+=1){let a=i[p];a.inFlight-=1,!(a.inFlight>0)&&(st(o,a.target)===a&&ce(o,a.target),a.accessor.get(a.target)===a.wrapper&&a.accessor.set(a.target,a.handler))}}}},ft=(t,e,n)=>{let o=R(t),i=o===null?void 0:P(o,T(f));if(!W(i))return;let d={target:A(D(t),n),noReferrer:ut(t),replaces:!1};return{inWindow:d.target==="",go:()=>at(i,e,d)}},dt=t=>{let e=R(t);if(e===null||m(t,"download")===null)return!1;let n=P(e,T(f));return n!==void 0&&(n.origin===S||n.protocol==="blob:"||n.protocol==="data:")},ke=(t,e)=>R(t)!==null&&!dt(t)&&A(D(t),e)==="",ve=(t,e)=>{let n=R(t);if(n===null)return!1;let o=Vt(f,"a"),i=A(D(t),e);I(o,"href",n),I(o,"target",i||"_self");for(let d=0;d<G.length;d+=1){let w=m(t,G[d]);w!==null&&I(o,G[d],w)}return Xt(o),i===""&&!dt(t)},Ne=(t,e,n,o)=>{L+=1;let i=V(t),d=i.length-1,w=0,b=!1,F=!1,p=c=>{F||(F=!0,de(c))},a=c=>{if(b)return;b=!0;let N=X(t),h=N?void 0:ft(n,e,o),U;!N&&(h||c)&&(Y(t),U=we(t)),Z(r,()=>{if(!U){p(!X(t)&&ke(n,o));return}if(U()){p(!1);return}if(c&&(h=ft(n,e,o),!h)){p(ve(n,o));return}h.go(),p(h.inWindow)},0)},E=(c,N)=>{for(let h=0;h<i.length;h+=1)if(i[h]===c)return N===It?d-h:i.length+h;return-1},g=()=>{E(Ot(t),At(t))<=w&&a(!0)},O=c=>{c===t&&a(!1)},_=_e(e,i),x=c=>N=>{if(N===t){if(w=c,z(t)){a(!1);return}_.wrap()}},H=[],$=[],K=Lt(t);if(K){for(let c=0;c<d;c+=1)H[c]=x(d-c),$[c]=x(i.length+c),tt(i[c],e,H[c],!0),tt(i[c],e,$[c],!1);ee(r,e,O,!1)}if(Z(r,()=>{if(b||p(!1),b=!0,_.unwrap(),!!K){for(let c=0;c<d;c+=1)et(i[c],e,H[c],!0),et(i[c],e,$[c],!1);ne(r,e,O,!1)}},0),!K){a(!0);return}nt(t,{__proto__:null,stopPropagation:{__proto__:null,configurable:!0,value:()=>{g(),Rt(t)}},stopImmediatePropagation:{__proto__:null,configurable:!0,value:()=>{a(!0),j(t)}},cancelBubble:{__proto__:null,configurable:!0,get:()=>z(t),set:c=>{c&&g(),Tt(t,c)}}})},gt=t=>{let e=xt(t),n=me(t);if(!n||e==="auxclick"&&n.button!==1)return;let o=Ee(t);!o||!W(P(o.href,T(f)))||Ne(t,e,o.node,n)};y?.addEventListener("navigate",he,!0),r.addEventListener("click",gt,!0),r.addEventListener("auxclick",gt,!0)}kt({"site":"feedinglittles.com","exitPath":"\/url"});})();
+//# sourceURL=exit-interstitial.js
+</script>
+
+    
+
+    <!--Title & Meta-->
+    <title>
+        Infant Course &ndash; Feeding Littles</title>
+    
+    <link rel="canonical" href="https://feedinglittles.com/pages/infant-course"/>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1, width=device-width, height=device-height, viewport-fit=cover">
+
+    <!-- Sharing thumbnails -->
+    <meta property="og:title" content="Feeding Littles"/>
+    <meta property="og:image" content="https://cdn.shopify.com/s/files/1/0604/8651/6934/files/wordpress-uploads-2023-06-IG-Logo-1-600x600.png"/>
+    <meta property="og:url" content="https://feedinglittles.com/"/>
+    <meta property="og:image:width" content="300"/>
+    <meta property="og:image:height" content="160"/>
+
+    
+
+    <!-- Favicon -->
+    <link rel="icon" href="//feedinglittles.com/cdn/shop/t/12/assets/2-cropped.svg?v=33906415821625336291728998675" sizes="32x32"/>
+    <link rel="icon" href="//feedinglittles.com/cdn/shop/t/12/assets/2-cropped.svg?v=33906415821625336291728998675" sizes="192x192"/>
+    <link rel="apple-touch-icon" href="//feedinglittles.com/cdn/shop/t/12/assets/2-cropped.svg?v=33906415821625336291728998675"/>
+
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WR5D6FP');</script>
+    <!-- End Google Tag Manager -->
+
+    <!--Fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+    <!-- Swiper JS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/9.4.1/swiper-bundle.min.css"
+          integrity="sha512-nGNAKpV+BrfDZabPX1O6q6mRlT57/amdj+6vF322ongqKABLHYLfLc3jYtVVbkiR9towDWPPE9gWFE2tsZIPZg=="
+          crossorigin="anonymous" referrerpolicy="no-referrer"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/9.4.1/swiper-bundle.min.js"
+            integrity="sha512-3Ei7OPFo83kw3cPbDLeLhn/YF8tZB7Vs8sfli0B/KEekureL5eosDeshYFICCvt4K8i0yUil/lK3cSiic2Wjkg=="
+            crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <!-- Swal -->
+    <script defer src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+    <!-- Global CSS -->
+    <link href="//feedinglittles.com/cdn/shop/t/12/assets/theme-global.css?v=29084744784290905491783611955" rel="stylesheet">
+    <link href="//feedinglittles.com/cdn/shop/t/12/assets/theme-header.css?v=154784015189364795621783611956" rel="stylesheet">
+    <link href="//feedinglittles.com/cdn/shop/t/12/assets/theme-mini-cart.css?v=64156291801690806991783611957" rel="stylesheet">
+    <link href="//feedinglittles.com/cdn/shop/t/12/assets/theme-footer.css?v=120622253287665221951783611955" rel="stylesheet">
+
+    <!-- Global JS -->
+    <script src="//feedinglittles.com/cdn/shop/t/12/assets/polyfill-dialog.js?v=58480766684483630301718121904" defer></script>
+    <script src="//feedinglittles.com/cdn/shop/t/12/assets/theme-global.js?v=162627289496320744311750435290" defer></script>
+    <script src="//feedinglittles.com/cdn/shop/t/12/assets/theme-header.js?v=125758041344327415031783611956" defer></script>
+    <script src="//feedinglittles.com/cdn/shop/t/12/assets/theme-mini-cart.js?v=181630495385108981231739209154" defer></script>
+
+    <!-- Global Cart -->
+    <script>
+        let cart = {"note":null,"attributes":{},"original_total_price":0,"total_price":0,"total_discount":0,"total_weight":0.0,"item_count":0,"items":[],"requires_shipping":false,"currency":"USD","items_subtotal_price":0,"cart_level_discount_applications":[],"checkout_charge_amount":0};
+    </script>
+
+    <!-- Page Specific CSS/JS -->
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    <!-- Facebook Pixel Code -->
+    <meta name="facebook-domain-verification" content="juabniicz2fe31epub0m7b1vzg54lf"/>
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '285385180172244');
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" style="display:none"
+             src="https://www.facebook.com/tr?id=285385180172244&ev=PageView&noscript=1"/>
+    </noscript>
+    <!-- End Facebook Pixel Code -->
+
+    <!-- Meta Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1543670456142612');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+                   src="https://www.facebook.com/tr?id=1543670456142612&ev=PageView&noscript=1"
+        /></noscript>
+    <!-- End Meta Pixel Code -->
+
+    <!-- Google Tag -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-PDQYK6NVSP"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'G-PDQYK6NVSP');
+    </script>
+
+    <!-- Klaviyo -->
+    <script async type='text/javascript'
+            src='https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=Rr3qtn'></script>
+
+    <!-- Shopify -->
+    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/60486516934/digital_wallets/dialog">
+<link rel="ucp" href="/.well-known/ucp" version="2026-08-25"><script async="async" src="/checkouts/internal/preloads.js?locale=en-US"></script>
+<link rel="preconnect" href="https://shop.app" crossorigin="anonymous">
+<script async="async" src="https://shop.app/checkouts/internal/preloads.js?locale=en-US&shop_id=60486516934" crossorigin="anonymous"></script>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":60486516934,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/60486516934","merchantName":"Feeding Littles","requiredBillingContactFields":["postalAddress","email"],"requiredShippingContactFields":["postalAddress","email"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover","elo","jcb"],"total":{"type":"pending","label":"Feeding Littles","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":true}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"897e52361fdd736f2ef3d2a721beef83","betas":["rich-media-storefront-analytics"],"domain":"feedinglittles.com","predictiveSearch":true,"shopId":60486516934,"locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "feeding-littles-online.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"USD","rate":"1.0"};
+Shopify.country = "US";
+Shopify.theme = {"name":"feeding-littles\/main","id":134404178118,"schema_name":"MalterTech","schema_version":"1.0","theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "feedinglittles.com/cdn";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";
+Shopify.shopJsCdnBaseUrl = "https://cdn.shopify.com/shopifycloud/shop-js";
+Shopify.SignInWithShop = Shopify.SignInWithShop || {};
+Shopify.SignInWithShop.User = Shopify.SignInWithShop.User || {};
+Shopify.SignInWithShop.User.recognized = false;</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>
+  window.ShopifyPay = window.ShopifyPay || {};
+  window.ShopifyPay.apiHost = "shop.app\/pay";
+  window.ShopifyPay.redirectState = null;
+</script>
+<script>
+  window.Shopify = window.Shopify || {};
+  window.Shopify.SignInWithShop = window.Shopify.SignInWithShop || {};
+  window.Shopify.SignInWithShop.assetMetrics = { sampleRate: 0.25 };
+  window.Shopify.SignInWithShop.eligible = true;
+</script>
+<script id="shop-js-analytics" type="application/json">{"pageType":"page"}</script>
+<script defer="defer" async type="module" src="https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/loader.init-shop-cart-sync.en.esm.js"></script>
+<script type="module">
+  await import("https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/loader.init-shop-cart-sync.en.esm.js");
+
+  window.Shopify.SignInWithShop?.initShopCartSync?.({"fedCMEnabled":true,"windoidEnabled":true,"backendHost":"ZmVlZGluZ2xpdHRsZXMuY29t"});
+
+</script>
+<script>
+  window.Shopify = window.Shopify || {};
+  if (!window.Shopify.featureAssets) window.Shopify.featureAssets = {};
+  window.Shopify.featureAssets['shop-js'] = {"avatar":["modules/v2/loader.avatar.en.esm.js"],"checkout-modal":["modules/v2/loader.checkout-modal.en.esm.js"],"init-customer-accounts-sign-up":["modules/v2/loader.init-customer-accounts-sign-up.en.esm.js"],"init-customer-accounts":["modules/v2/loader.init-customer-accounts.en.esm.js"],"init-fed-cm":["modules/v2/loader.init-fed-cm.en.esm.js"],"init-shop-cart-sync":["modules/v2/loader.init-shop-cart-sync.en.esm.js"],"init-shop-email-lookup-coordinator":["modules/v2/loader.init-shop-email-lookup-coordinator.en.esm.js"],"init-shop-for-new-customer-accounts":["modules/v2/loader.init-shop-for-new-customer-accounts.en.esm.js"],"init-shop-user-recognition":["modules/v2/loader.init-shop-user-recognition.en.esm.js"],"init-windoid":["modules/v2/loader.init-windoid.en.esm.js"],"lead-capture":["modules/v2/loader.lead-capture.en.esm.js"],"listener":["modules/v2/loader.listener.en.esm.js"],"pay-button":["modules/v2/loader.pay-button.en.esm.js"],"payment-terms":["modules/v2/loader.payment-terms.en.esm.js"],"shop-button":["modules/v2/loader.shop-button.en.esm.js"],"shop-cart-sync":["modules/v2/loader.shop-cart-sync.en.esm.js"],"shop-cash-offers":["modules/v2/loader.shop-cash-offers.en.esm.js"],"shop-follow-button":["modules/v2/loader.shop-follow-button.en.esm.js"],"shop-login-button":["modules/v2/loader.shop-login-button.en.esm.js"],"shop-login":["modules/v2/loader.shop-login.en.esm.js"],"shop-toast-manager":["modules/v2/loader.shop-toast-manager.en.esm.js"],"shop-user-recognition":["modules/v2/loader.shop-user-recognition.en.esm.js"]};
+</script>
+<script>(function() {
+  var isLoaded = false;
+  function asyncLoad() {
+    if (isLoaded) return;
+    isLoaded = true;
+    var urls = ["https:\/\/cdn.nfcube.com\/instafeed-5c345a0ceb5b339642b322ecf1d02b26.js?shop=feeding-littles-online.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":60486516934,"offset":-14400,"reqid":"7556edc1-d7b6-43e9-b961-b8fcdf9c672c-1792878390","pageurl":"feedinglittles.com\/pages\/infant-course","s":"pages-91862827206","u":"e85d171459d7","p":"page","rtyp":"page","rid":91862827206};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script id="captcha-bootstrap">!function(){'use strict';const t='contact',e='account',n='new_comment',o=[[t,t],['blogs',n],['comments',n],[t,'customer']],c=[[e,'customer_login'],[e,'guest_login'],[e,'recover_customer_password'],[e,'create_customer']],r=t=>t.map((([t,e])=>`form[action*='/${t}']:not([data-nocaptcha='true']) input[name='form_type'][value='${e}']`)).join(','),a=t=>()=>t?[...document.querySelectorAll(t)].map((t=>t.form)):[];function s(){const t=[...o],e=r(t);return a(e)}const i='password',u='form_key',d=['recaptcha-v3-token','g-recaptcha-response','h-captcha-response',i],f=()=>{try{return window.sessionStorage}catch{return}},m='__shopify_v',_=t=>t.elements[u];function p(t,e,n=!1){try{const o=window.sessionStorage,c=JSON.parse(o.getItem(e)),{data:r}=function(t){const{data:e,action:n}=t;return t[m]||n?{data:e,action:n}:{data:t,action:n}}(c);for(const[e,n]of Object.entries(r))t.elements[e]&&(t.elements[e].value=n);n&&o.removeItem(e)}catch(o){console.error('form repopulation failed',{error:o})}}const l='form_type',E='cptcha';function T(t){t.dataset[E]=!0}const w=window,h=w.document,L='Shopify',v='ce_forms',y='captcha';let A=!1;((t,e)=>{const n=(g='f06e6c50-85a8-45c8-87d0-21a2b65856fe',I='https://cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_hcaptcha.v1.5.3.iife.js',D={infoText:'Protected by hCaptcha',privacyText:'Privacy',termsText:'Terms'},(t,e,n)=>{const o=w[L][v],c=o.bindForm;if(c)return c(t,g,e,D).then(n);var r;o.q.push([[t,g,e,D],n]),r=I,A||(h.body.append(Object.assign(h.createElement('script'),{id:'captcha-provider',async:!0,src:r})),A=!0)});var g,I,D;w[L]=w[L]||{},w[L][v]=w[L][v]||{},w[L][v].q=[],w[L][y]=w[L][y]||{},w[L][y].protect=function(t,e){n(t,void 0,e),T(t)},Object.freeze(w[L][y]),function(t,e,n,w,h,L){const[v,y,A,g]=function(t,e,n){const i=e?o:[],u=t?c:[],d=[...i,...u],f=r(d),m=r(i),_=r(d.filter((([t,e])=>n.includes(e))));return[a(f),a(m),a(_),s()]}(w,h,L),I=t=>{const e=t.target;return e instanceof HTMLFormElement?e:e&&e.form},D=t=>v().includes(t);t.addEventListener('submit',(t=>{const e=I(t);if(!e)return;const n=D(e)&&!e.dataset.hcaptchaBound&&!e.dataset.recaptchaBound,o=_(e),c=g().includes(e)&&(!o||!o.value);(n||c)&&t.preventDefault(),c&&!n&&(function(t){try{if(!f())return;!function(t){const e=f();if(!e)return;const n=_(t);if(!n)return;const o=n.value;o&&e.removeItem(o)}(t);const e=Array.from(Array(32),(()=>Math.random().toString(36)[2])).join('');!function(t,e){_(t)||t.append(Object.assign(document.createElement('input'),{type:'hidden',name:u})),t.elements[u].value=e}(t,e),function(t,e){const n=f();if(!n)return;const o=[...t.querySelectorAll(`input[type='${i}']`)].map((({name:t})=>t)),c=[...d,...o],r={};for(const[a,s]of new FormData(t).entries())c.includes(a)||(r[a]=s);n.setItem(e,JSON.stringify({[m]:1,action:t.action,data:r}))}(t,e)}catch(e){console.error('failed to persist form',e)}}(e),e.submit())}));const S=(t,e)=>{t&&!t.dataset[E]&&(n(t,e.some((e=>e===t))),T(t))};for(const o of['focusin','change'])t.addEventListener(o,(t=>{const e=I(t);D(e)&&S(e,y())}));const B=e.get('form_key'),M=e.get(l),P=B&&M;t.addEventListener('DOMContentLoaded',(()=>{const t=y();if(P)for(const e of t)e.elements[l].value===M&&p(e,B);[...new Set([...A(),...v().filter((t=>'true'===t.dataset.shopifyCaptcha))])].forEach((e=>S(e,t)))}))}(h,new URLSearchParams(w.location.search),n,t,e,['guest_login'])})(!1,!0)}();</script>
+<script integrity="sha256-FYHzja/5XSmzkjz6zHj7s4rACJGFuVoYZdumgoO2Ecs=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//feedinglittles.com/cdn/shopifycloud/storefront/assets/storefront/load_feature-ed94c51f.js" crossorigin="anonymous"></script>
+<script>(function () {var userAgent = navigator.userAgent;var platform = navigator.platform;var maxTouchPoints = navigator.maxTouchPoints || 0;var isIOS = /iPad|iPhone|iPod/.test(platform) || (platform === 'MacIntel' && maxTouchPoints > 1);var isMacSafari = platform.indexOf('Mac') === 0 && /Safari/.test(userAgent) && !/Chrome|Chromium|CriOS|FxiOS|Edg|OPR|Android/.test(userAgent);var isAppleSafari = isIOS || isMacSafari;if (isAppleSafari) {fetch('/sf_private_access_tokens' + location.search).catch(function () {});}function browserMajorVersion(pattern) {var match = userAgent.match(pattern);return match ? parseInt(match[1], 10) : null;}function shouldLoadAutosizesPolyfill() {if (!window.PerformanceObserver?.supportedEntryTypes?.includes('paint')) {return false;}var chromeVersion = browserMajorVersion(/Chrome\/(\d+)/);if (chromeVersion !== null) {return chromeVersion < 126;}var firefoxVersion = browserMajorVersion(/Firefox\/(\d+)/);if (firefoxVersion !== null) {return firefoxVersion < 150;}var safariVersion = isAppleSafari ? browserMajorVersion(/Version\/(\d+).*Safari\//) : null;if (safariVersion !== null) {return safariVersion < 27;}return true;}if (shouldLoadAutosizesPolyfill()) {var autosizesScript = document.createElement('script');autosizesScript.async = true;autosizesScript.crossOrigin = 'anonymous';autosizesScript.src = "//feedinglittles.com/cdn/shopifycloud/storefront/assets/storefront/autosizes-84416378.js";(document.head || document.documentElement).appendChild(autosizesScript);}window.ShopifyAnalytics = window.ShopifyAnalytics || {};window.ShopifyAnalytics.performance = window.ShopifyAnalytics.performance || {};(function () {var LONG_FRAME_THRESHOLD = 50;var longAnimationFrames = [];var activeRafId = null;function collectLongFrames() {var previousTime = null;function rafMonitor(now) {if (activeRafId === null) {return;}var delta = now - previousTime;if (delta > LONG_FRAME_THRESHOLD) {longAnimationFrames.push({startTime: previousTime,endTime: now,});}previousTime = now;activeRafId = requestAnimationFrame(rafMonitor);}previousTime = performance.now();activeRafId = requestAnimationFrame(rafMonitor);}if (!window.PerformanceObserver?.supportedEntryTypes?.includes('long-animation-frame')) {collectLongFrames();var timeoutId = setTimeout(function () {cancelAnimationFrame(activeRafId);}, 10000);window.ShopifyAnalytics.performance.getLongAnimationFrames = function (stopCollection) {if (stopCollection === undefined) {stopCollection = false;}if (stopCollection) {clearTimeout(timeoutId);cancelAnimationFrame(activeRafId);}return longAnimationFrames;};}})();})();</script><script crossorigin="anonymous" defer="defer" src="//feedinglittles.com/cdn/shopifycloud/storefront/assets/shopify_pay/storefront-f0e26bdf.js?v=20250812"></script>
+<script id="shopify-origin-trials" async="async" integrity="sha256-qJbe/jEZBHtr5W/BlA2cKAz3vkXu6vJQyLjgvgCC86g=" src="//cdn.shopify.com/shopifycloud/storefront/assets/storefront/origin_trials-318ab40a.js" crossorigin="anonymous" onload="window.__shopifyOriginTrialsDone = true" onerror="window.__shopifyOriginTrialsDone = true"></script>
+<script>(()=>{var d="shopify:webmcp_adapter_loaded",n=Symbol.for("shopify.webmcp_adapter_loading");function s(c,a,{win:r=window,doc:o=document}={}){function p(){try{return r.localStorage.getItem(d)==="true"}catch{return!1}}function l(){try{r.localStorage.setItem(d,"true")}catch{}}function u(){return typeof(o.modelContext||r.navigator?.modelContext)?.registerTool=="function"}function f(){if(r[n]||!u())return;let t=o.head||o.getElementsByTagName("head")[0];if(!t)return;let e=o.createElement("script");e.type="module",e.crossOrigin="anonymous",a&&(e.integrity=a),e.src=c,e.addEventListener("load",l,{once:!0}),e.addEventListener("error",()=>{r[n]=!1},{once:!0}),t.appendChild(e),r[n]=!0}function _(t){let e=o.getElementById("shopify-origin-trials");if(!e||r.__shopifyOriginTrialsDone){t();return}e.addEventListener("load",t,{once:!0}),e.addEventListener("error",t,{once:!0})}function i(){_(()=>r.setTimeout(f,0))}function m(){o.addEventListener("DOMContentLoaded",i,{once:!0})}p()?i():m()}s("\/\/feedinglittles.com\/cdn\/shopifycloud\/storefront\/assets\/storefront\/webmcp-23c12384.js","sha256-r8Pww6V2udgtSdaVbcRtdZ4Kg+gXP7aLPZOtQSJPrbM=");})();
+</script>
+<script data-source-attribution="shopify.dynamic_checkout.dynamic.init">var Shopify=Shopify||{};Shopify.PaymentButton=Shopify.PaymentButton||{isStorefrontPortableWallets:!0,init:function(){window.Shopify.PaymentButton.init=function(){};var t=document.createElement("script");t.src="https://feedinglittles.com/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js",t.type="module",document.head.appendChild(t)}};
+</script>
+<script data-source-attribution="shopify.dynamic_checkout.buyer_consent">
+  function portableWalletsHideBuyerConsent(e){var t=document.getElementById("shopify-buyer-consent"),n=document.getElementById("shopify-subscription-policy-button");t&&n&&(t.classList.add("hidden"),t.setAttribute("aria-hidden","true"),n.removeEventListener("click",e))}function portableWalletsShowBuyerConsent(e){var t=document.getElementById("shopify-buyer-consent"),n=document.getElementById("shopify-subscription-policy-button");t&&n&&(t.classList.remove("hidden"),t.removeAttribute("aria-hidden"),n.addEventListener("click",e))}window.Shopify?.PaymentButton&&(window.Shopify.PaymentButton.hideBuyerConsent=portableWalletsHideBuyerConsent,window.Shopify.PaymentButton.showBuyerConsent=portableWalletsShowBuyerConsent);
+</script>
+<script data-source-attribution="shopify.dynamic_checkout.cart.bootstrap">document.addEventListener("DOMContentLoaded",(function(){function t(){return document.querySelector("shopify-accelerated-checkout-cart, shopify-accelerated-checkout")}if(t())Shopify.PaymentButton.init();else{new MutationObserver((function(e,n){t()&&(Shopify.PaymentButton.init(),n.disconnect())})).observe(document.body,{childList:!0,subtree:!0})}}));
+</script>
+<link id="shopify-accelerated-checkout-styles" rel="stylesheet" media="screen" href="https://feedinglittles.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css" crossorigin="anonymous">
+<style id="shopify-accelerated-checkout-cart">
+        #shopify-buyer-consent {
+  margin-top: 1em;
+  display: inline-block;
+  width: 100%;
+}
+
+#shopify-buyer-consent.hidden {
+  display: none;
+}
+
+#shopify-subscription-policy-button {
+  background: none;
+  border: none;
+  padding: 0;
+  text-decoration: underline;
+  font-size: inherit;
+  cursor: pointer;
+}
+
+#shopify-subscription-policy-button::before {
+  box-shadow: none;
+}
+
+      </style>
+
+<script id="shopify-cfh-end">window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {try {var session_token_from_headers = performance.getEntriesByType('navigation')[0].serverTiming.find(x => x.name == '_s').description;} catch {var session_token_from_headers = undefined;}var session_cookie_matches = document.cookie.match(/_shopify_s=([^;]*)/);var session_token_from_cookie = session_cookie_matches && session_cookie_matches.length === 2 ? session_cookie_matches[1] : "";var session_token = session_token_from_headers || session_token_from_cookie || "";function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 60486516934,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token,page_type: "page"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script>
+  window.__TREKKIE_SHIM_QUEUE = window.__TREKKIE_SHIM_QUEUE || [];
+</script>
+<script>(function(){var wpmLoader=function(){"use strict";var e=/Googlebot|Storebot-Google|bingbot|Baiduspider|YandexBot|DuckDuckBot|Slurp|facebookexternalhit|Twitterbot|LinkedInBot|Applebot|AdsBot-Google|Mediapartners-Google|APIs-Google|PetalBot|SemrushBot|AhrefsBot|MJ12bot|DotBot|Acunetix|PerplexityBot|Perplexity-User/i,t=/bytedance/i;function i(){try{var e=document.cookie;if(!e||"string"!=typeof e)return;for(var t=0,i=e.split(";");t<i.length;t++){var n=i[t],r=n.indexOf("=");if(-1!==r){var o=n.slice(0,r).trim();if(o){var a=void 0;try{a=decodeURIComponent(o)}catch(e){a=o}if("_shopify_s"===a){var d=n.slice(r+1).trim();try{return decodeURIComponent(d)}catch(e){return d}}}}}return}catch(e){return}}function n(e){try{"undefined"!=typeof console&&"function"==typeof console.warn&&console.warn(e)}catch(e){}}function r(e,t){return"string"==typeof e&&e.length>0&&e.length<=t?e:void 0}function o(e){var t;switch(null==(t=null==e?void 0:e.navigation)?void 0:t.type){case 0:return"navigate";case 1:return"reload";case 2:return"back_forward";default:return}}function a(){var e,t,i;try{var n=null==(i=null==(t=null==(e=self.ShopifyAnalytics)?void 0:e.lib)?void 0:t.trekkie)?void 0:i.state;return"awaiting-consent"===n||"initialized"===n?n:void 0}catch(e){return}}return function(d,s,u,l){var c=arguments.length>4&&void 0!==arguments[4]?arguments[4]:{};try{var p=c.trekkieShim;!0!==p&&"true"!==p||null!=window.__TREKKIE_SHIM_QUEUE||(window.__TREKKIE_SHIM_QUEUE=[])}catch(e){}var f,v,h,y,g=(v=(f={modern:/Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](14[89]|1[5-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(15\d|1[6-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(14[89]|1[5-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/,legacy:/Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](14[89]|1[5-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(15\d|1[6-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(14[89]|1[5-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/}).modern,h=f.legacy,(y=navigator.userAgent).match(e)?"bot":y.match(v)?"modern":y.match(h)?"legacy":y.match(t)?"bot":"unknown"),m=function(e){var t,i,n=r(e,128);try{var a=window.performance,d=null==(t=null==a?void 0:a.getEntriesByType)?void 0:t.call(a,"navigation")[0];if(!d)return{requestId:n,navigationType:o(a)};var s="type"in d?r(d.type,64):void 0,u="serverTiming"in d&&Array.isArray(d.serverTiming)?d.serverTiming:[];return{requestId:null!=n?n:r(null==(i=u.find(function(e){return"requestID"===e.name}))?void 0:i.description,128),navigationType:s}}catch(e){return{requestId:n}}}(c.requestId),w=function(e){var t=e.version,r=e.browserTarget,o=e.surface,a=e.shopId,d=e.monorailEndpoint,s=window.location.href;return{emit:function(e){var u=e.status,l=e.errorMsg,c=e.failureReason,p=e.useKeepaliveFallback,f=void 0!==p&&p,v=e.navigationType,h=e.pagehidePersisted,y=e.requestId,g=e.trekkieState;if(d){var m,w;try{var b=(new Date).getTime();m=JSON.stringify({metadata:{event_sent_at_ms:b},events:[{schema_id:"web_pixels_manager_load/3.3",payload:{version:t,bundle_target:r,page_url:s,status:u,surface:o,error_msg:l,failure_reason:c,navigation_type:v,pagehide_persisted:h,request_id:y,trekkie_state:g,shop_id:a,visit_token:i()},metadata:{event_created_at_ms:b}}]})}catch(e){return}try{if("function"==typeof window.navigator.sendBeacon&&-1===(w=window.navigator.userAgent).indexOf("iPhone; CPU iPhone OS 12_")&&-1===w.indexOf("iPad; CPU OS 12_")&&-1===w.indexOf("iPod touch; CPU iPhone OS 12_")&&window.navigator.sendBeacon.bind(window.navigator)(d,m))return}catch(e){}if(f)try{"function"==typeof window.fetch&&window.fetch(d,{method:"POST",headers:{"Content-Type":"text/plain"},body:m,keepalive:!0}).catch(function(){})}catch(e){}else try{var _=new XMLHttpRequest;_.open("POST",d,!0),_.setRequestHeader("Content-Type","text/plain"),_.send(m)}catch(e){n("[Web Pixels Manager] Got an unhandled error while logging to Monorail.")}}else n("[Web Pixels Manager] No Monorail endpoint provided, skipping logging.")}}}({version:u,browserTarget:g,surface:d.surface,shopId:d.shopId,monorailEndpoint:d.monorailEndpoint});if(Boolean(null==(_=null==(b=window.Shopify)?void 0:b.analytics)?void 0:_.replayQueue))w.emit({status:"setup-skipped",errorMsg:"replay queue already initialized."});else{var b,_;w.emit({status:"setup-started"}),window.Shopify=window.Shopify||{};var S=window.Shopify;S.analytics=S.analytics||{};var P=S.analytics;P.replayQueue=[],P.publish=function(e,t,i){return P.replayQueue.push([e,t,i]),!0};try{self.performance.mark("wpm:start")}catch(e){}var k,C="modern"===g?"modern":"legacy",E=(null!=l?l:{modern:"",legacy:""})[C],I=[(k={baseUrl:s,hashVersion:u,buildTarget:C}).baseUrl,"/wpm","/b",k.hashVersion,"modern"===k.buildTarget?"m":"l",".js"].join(""),O=!1,T=!1;try{c.browserTarget=g,function(){O=!0;try{window.addEventListener("pagehide",M)}catch(e){O=!1}}(),R(function(){try{R(x)}catch(e){D(e)}}),w.emit({status:"loading",requestId:m.requestId,navigationType:m.navigationType,trekkieState:a()})}catch(e){D(e)}}function U(){var e;if(q(),!function(){var e,t;return Boolean(null==(t=null==(e=window.Shopify)?void 0:e.analytics)?void 0:t.initialized)}()){var t,i,n;try{if("function"!=typeof(null==(e=window.webPixelsManager)?void 0:e.init))return void A();if(!(null!==(n=i=t=window.webPixelsManager.init(d))&&"function"!=typeof n&&Object(n)===n&&"publish"in i&&"function"==typeof i.publish&&"publishCustomEvent"in i&&"function"==typeof i.publishCustomEvent&&"visitor"in i&&"function"==typeof i.visitor))return void A()}catch(e){return void A(e)}var r=window.Shopify.analytics;r.replayQueue.forEach(function(e){var i=e[0],n=e[1],r=e[2];t.publishCustomEvent(i,n,r)}),r.replayQueue=[],r.publish=t.publishCustomEvent,r.visitor=t.visitor,r.initialized=!0}}function A(e){B("manager_api_unavailable",void 0===e?void 0:Q(e))}function x(){B("script_load_failed","".concat(I," has failed to load"))}function B(e,t){T||(T=!0,q(),w.emit({status:"failed",errorMsg:t,failureReason:e,requestId:m.requestId,navigationType:m.navigationType,trekkieState:a()}))}function M(e){O&&(q(),w.emit({status:"pagehide-while-loading",useKeepaliveFallback:!0,pagehidePersisted:e.persisted,requestId:m.requestId,navigationType:m.navigationType,trekkieState:a()}))}function q(){O=!1;try{window.removeEventListener("pagehide",M)}catch(e){}}function R(e){var t;!function(e){var t=e.src,i=e.async,n=void 0===i||i,r=e.onload,o=e.onerror,a=e.sri,d=e.scriptDataAttributes,s=void 0===d?{}:d,u=document.createElement("script"),l=document.querySelector("head"),c=document.querySelector("body");if(u.async=n,u.src=t,a&&(u.integrity=a,u.crossOrigin="anonymous"),s)for(var p in s)if(Object.prototype.hasOwnProperty.call(s,p))try{u.dataset[p]=String(s[p])}catch(e){}if(r&&u.addEventListener("load",r),o&&u.addEventListener("error",o),l)l.appendChild(u);else{if(!c)throw new Error("Did not find a head or body element to append the script");c.appendChild(u)}}({src:I,async:!0,onload:U,onerror:e,sri:(t=E,"string"==typeof t&&/^sha384-[A-Za-z0-9+/=]+$/.test(t)?E:""),scriptDataAttributes:c})}function D(e){B("script_append_failed",Q(e))}function Q(e){return e instanceof Error?e.message:"Unknown error"}}}();wpmLoader({shopId: 60486516934,storefrontBaseUrl: "https://feedinglittles.com",extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager",monorailEndpoint: "https://feedinglittles.com/.well-known/shopify/monorail/unstable/produce_batch",surface: "storefront-renderer",enabledBetaFlags: ["7b21cf0b","4c64608a"],webPixelsConfigList: [{"id":"1313833158","configuration":"{\"accountID\":\"Rr3qtn\",\"webPixelConfig\":\"eyJlbmFibGVBZGRlZFRvQ2FydEV2ZW50cyI6IHRydWV9\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"4c4194a6a2cf840fee9d3ac22e1d2dbd","type":"APP","apiClientId":123074,"privacyPurposes":["ANALYTICS","MARKETING"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized","enabledFlags":["9a3ed68a"]},{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0530","apiClientId":"shopify-pixel","type":"APP","privacyPurposes":["ANALYTICS","MARKETING"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0530","apiClientId":"shopify-pixel","type":"CUSTOM","privacyPurposes":["ANALYTICS","MARKETING"]}],isMerchantRequest: false,initData: {"shop":{"name":"Feeding Littles","paymentSettings":{"currencyCode":"USD"},"myshopifyDomain":"feeding-littles-online.myshopify.com","countryCode":"US","storefrontUrl":"https:\/\/feedinglittles.com"},"customer":null,"cart":null,"checkout":null,"productVariants":[],"products":[],"purchasingCompany":null},},"https://feedinglittles.com/cdn","fcc46ef0w9d3a45bbp8938e2eamdcca70d4",{"modern":"","legacy":""},{"trekkieShim":true,"agentContext":true,"apiClientId":"580111","facebookCapiEnabled":"false","themeId":"134404178118","themePublished":"true","eventMetadataId":"3fc27e33-3716-46dd-80ef-4dc8a9aa2968","pageType":"page","resourceId":"91862827206","shopId":"60486516934","storefrontBaseUrl":"https:\/\/feedinglittles.com","extensionBaseUrl":"https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager","surface":"storefront-renderer","enabledBetaFlags":"[\"7b21cf0b\", \"4c64608a\"]","isMerchantRequest":"false","hashVersion":"fcc46ef0w9d3a45bbp8938e2eamdcca70d4","publish":"custom","events":"[[\"page_viewed\",{}]]"});})();</script><script>
+  window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+  window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+  window.ShopifyAnalytics.meta.currency = 'USD';
+  var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":91862827206,"requestId":"7556edc1-d7b6-43e9-b961-b8fcdf9c672c-1792878390"}};
+  for (var attr in meta) {
+    window.ShopifyAnalytics.meta[attr] = meta[attr];
+  }
+</script>
+<script class="analytics">
+  (function () {
+    var customDocumentWrite = function(content) {
+      var jquery = null;
+
+      if (window.jQuery) {
+        jquery = window.jQuery;
+      } else if (window.Checkout && window.Checkout.$) {
+        jquery = window.Checkout.$;
+      }
+
+      if (jquery) {
+        jquery('body').append(content);
+      }
+    };
+
+    var hasLoggedConversion = function(token) {
+      if (token) {
+        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+      }
+      return false;
+    }
+
+    var setCookieIfConversion = function(token) {
+      if (token) {
+        var twoMonthsFromNow = new Date(Date.now());
+        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+      }
+    }
+
+    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+    window.ShopifyAnalytics.lib.trekkie = window.trekkie;
+    if (trekkie.integrations) {
+      return;
+    }
+    trekkie.methods = [
+      'identify',
+      'page',
+      'ready',
+      'track',
+      'trackForm',
+      'trackLink'
+    ];
+    trekkie.factory = function(method) {
+      return function() {
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        trekkie.push(args);
+        if (method == 'track' || method == 'page') {
+          var pageUrl;
+          try {
+            pageUrl = window.location.href;
+          } catch (e) {}
+          var pageReferrer;
+          try {
+            pageReferrer = document.referrer;
+          } catch (e) {}
+          try {
+            if (window.__TREKKIE_SHIM_QUEUE == null) {
+              window.__TREKKIE_SHIM_QUEUE = [];
+            }
+            window.__TREKKIE_SHIM_QUEUE.push({
+              from: 'trekkie-stub',
+              method: method,
+              args: args.slice(1),
+              pageContext: {
+                url: pageUrl,
+                referrer: pageReferrer
+              }
+            });
+          } catch (e) {
+            // no-op
+          }
+        }
+        return trekkie;
+      };
+    };
+    for (var i = 0; i < trekkie.methods.length; i++) {
+      var key = trekkie.methods[i];
+      trekkie[key] = trekkie.factory(key);
+    }
+    trekkie.load = function(config) {
+      trekkie.config = config || {};
+      trekkie.config.initialDocumentCookie = document.cookie;
+      var first = document.getElementsByTagName('script')[0];
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.onerror = function(e) {
+  var scriptFallback = document.createElement('script');
+  scriptFallback.type = 'text/javascript';
+  scriptFallback.onerror = function(error) {
+          var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 60486516934,
+      theme_id: 134404178118,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "//feedinglittles.com/cdn/s/trekkie.storefront.6efba1340ec6769622eb0d10b5cb070d43fb8d55.min.js"});
+
+  };
+  scriptFallback.async = true;
+  scriptFallback.src = '//feedinglittles.com/cdn/s/trekkie.storefront.6efba1340ec6769622eb0d10b5cb070d43fb8d55.min.js';
+  first.parentNode.insertBefore(scriptFallback, first);
+};
+script.async = true;
+script.src = '//feedinglittles.com/cdn/s/trekkie.storefront.6efba1340ec6769622eb0d10b5cb070d43fb8d55.min.js';
+first.parentNode.insertBefore(script, first);
+
+    };
+    trekkie.load(
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":60486516934,"isMerchantRequest":null,"themeId":134404178118,"themeCityHash":"7079470455911625365","contentLanguage":"en","currency":"USD","eventMetadataId":"3fc27e33-3716-46dd-80ef-4dc8a9aa2968"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain","enabledBetaFlags":["7b21cf0b","4c64608a"]},"Session Attribution":{},"S2S":{"facebookCapiEnabled":false,"source":"trekkie-storefront-renderer","apiClientId":580111}}
+    );
+
+    var loaded = false;
+    trekkie.ready(function() {
+      if (loaded) return;
+      loaded = true;
+
+      window.ShopifyAnalytics.lib = window.trekkie;
+
+      var originalDocumentWrite = document.write;
+      document.write = customDocumentWrite;
+      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+      document.write = originalDocumentWrite;
+
+      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+      var token = match? match[1]: undefined;
+      if (!hasLoggedConversion(token)) {
+        setCookieIfConversion(token);
+        
+      }
+    });
+
+    window.ShopifyAnalytics.lib.page(null,{"pageType":"page","resourceType":"page","resourceId":91862827206,"requestId":"7556edc1-d7b6-43e9-b961-b8fcdf9c672c-1792878390","shopifyEmitted":true});
+
+    var eventsListenerScript = document.createElement('script');
+    eventsListenerScript.async = true;
+    eventsListenerScript.src = "//feedinglittles.com/cdn/shopifycloud/storefront/assets/shop_events_listener-4e26a9ce.js";
+    document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+})();</script>
+<script
+  defer
+  src="https://feedinglittles.com/cdn/shopifycloud/perf-kit/shopify-perf-kit-3.11.0.min.js"
+  data-application="storefront-renderer"
+  data-shop-id="60486516934"
+  data-render-region="gcp-europe-west1"
+  data-page-type="page"
+  data-theme-instance-id="134404178118"
+  data-theme-name="MalterTech"
+  data-theme-version="1.0"
+  data-monorail-region="shop_domain"
+  data-resource-timing-sampling-rate="10"
+  data-shs="true"
+  data-shs-beacon="true"
+  data-shs-export-with-fetch="true"
+  data-shs-logs-sample-rate="1"
+  data-shs-beacon-endpoint="https://feedinglittles.com/api/collect"
+></script>
+<meta name="shopify-y" content="4cc0424b-6657-40bf-8476-a83790ebf3b4" data-expiration="1824435990000"><meta name="shopify-s" content="fc4762d4-4cc4-4b33-b603-6a3058d6f956" data-expiration="1792880190000">
+</head>
+
+<body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WR5D6FP" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Skip to main content -->
+<nav aria-label="skip content link">
+    <a id="skipLink" href="#main"></a>
+</nav>
+
+<!-- Header -->
+<div id="shopify-section-theme-announcement" class="shopify-section"><style>
+    #announcement {
+        color: ;
+        text-align: center;
+        padding: 14px 30px;
+        font-size: 16px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: ;
+        top: 0;
+        width: 100%;
+        z-index: 100;
+    }
+
+    @media (max-width: 800px) {
+
+        #announcement {
+            padding: 10px;
+        }
+
+    }
+
+</style>
+
+
+
+</div>
+<div id="shopify-section-theme-header" class="shopify-section"><header id="header">
+    <div id="headerInner">
+
+        <a id="headerLink" href="/" title="homepage">
+            <img src="//feedinglittles.com/cdn/shop/t/12/assets/icon-logo.png?v=3230449714144152871718121905" alt="logo"/>
+        </a>
+
+        <nav id="headerNav">
+            
+                
+            
+                
+            
+                
+                    
+                        
+                            <div class="headerNavList">
+                                
+                                    <a class="headerNavItem bold"
+                                       href="/pages/courses">Courses</a>
+                                
+                                <div class="headerNavLinksContainer">
+                                    <div class="headerNavLinks">
+                                        
+                                            <a class="headerNavLinksItem" href="/pages/infant-course">Infant (6+ months)</a>
+                                        
+                                            <a class="headerNavLinksItem" href="/pages/toddler-course">Toddler & Kid (1-10 years)</a>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    
+                
+            
+                
+                    
+                        
+                            <a class="headerNavItem "
+                               href="/pages/feeding-littles-app">
+                                Our App
+                                
+                            </a>
+                        
+                    
+                
+            
+                
+                    
+                        
+                            <div class="headerNavList">
+                                
+                                    <div class="headerNavItem ">Products</div>
+                                
+                                <div class="headerNavLinksContainer">
+                                    <div class="headerNavLinks">
+                                        
+                                            <a class="headerNavLinksItem" href="https://mabelslabels.com/feeding-littles?sv1=affiliate&sv_campaign_id=2081133&affiliate=shareasale&sscid=88357_1784557848_56e2a78ed24b7e305dfa91fbd9dc1303&awc=88357_1784557848_56e2a78ed24b7e305dfa91fbd9dc1303">Mabel's Labels X Feeding Littles</a>
+                                        
+                                            <a class="headerNavLinksItem" href="/pages/lunchbox">Lunchbox Book</a>
+                                        
+                                            <a class="headerNavLinksItem" href="/pages/cookbook">Cookbook</a>
+                                        
+                                            <a class="headerNavLinksItem" href="/pages/numnum">NumNum X Feeding Littles</a>
+                                        
+                                            <a class="headerNavLinksItem" href="https://bapronbaby.com/collections/feeding-littles-collection">Bapron X Feeding Littles</a>
+                                        
+                                            <a class="headerNavLinksItem" href="/pages/printables">Printables</a>
+                                        
+                                            <a class="headerNavLinksItem" href="https://www.amazon.com/shop/influencer-7d019284">Amazon Shop</a>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    
+                
+            
+                
+                    
+                        
+                            <a class="headerNavItem "
+                               href="/pages/about">
+                                About
+                                
+                            </a>
+                        
+                    
+                
+            
+                
+                    
+                        
+                            <a class="headerNavItem "
+                               href="/blogs/blog">
+                                Blog
+                                
+                            </a>
+                        
+                    
+                
+            
+                
+                    
+                        
+                            <a class="headerNavItem "
+                               href="/pages/contact">
+                                Contact
+                                
+                            </a>
+                        
+                    
+                
+            
+                
+                    
+                
+            
+                
+            
+                
+                    
+                
+            
+        </nav>
+
+        <div id="footerInnerRight">
+            <a id="headerAccount" class="button"
+               href="https://sso.teachable.com/secure/1230769/identity/login/password">Course Login</a>
+
+            <a id="headerSearch" href="/search" title="search">
+                <svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52" fill="none">
+                    <ellipse cx="24.9061" cy="23.4282" rx="14.8836" ry="14.875" stroke="#009876" stroke-width="3"/>
+                    <path d="M42.8269 40.4282L36.4482 34.0532" stroke="#009876" stroke-width="3"
+                          stroke-linecap="round"/>
+                </svg>
+            </a>
+
+            <button id="headerCart" class="openCart" title="cart">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="#009876">
+                    <path d="M24 3l-.743 2h-1.929l-3.474 12h-13.239l-4.615-11h16.812l-.564 2h-13.24l2.937 7h10.428l3.432-12h4.195zm-15.5 15c-.828 0-1.5.672-1.5 1.5 0 .829.672 1.5 1.5 1.5s1.5-.671 1.5-1.5c0-.828-.672-1.5-1.5-1.5zm6.9-7-1.9 7c-.828 0-1.5.671-1.5 1.5s.672 1.5 1.5 1.5 1.5-.671 1.5-1.5c0-.828-.672-1.5-1.5-1.5z"/>
+                </svg>
+            </button>
+        </div>
+
+        <div id="headerMenu" class="openNav">
+            <img src="//feedinglittles.com/cdn/shop/t/12/assets/icon-hamburger.svg?v=44331305272715021821718121902"
+                 alt="menu"/>
+        </div>
+    </div>
+</header>
+
+<nav id="quickMenu">
+    
+        
+            <a class="quickMenuLink" href="/pages/courses">
+                Courses
+                
+            </a>
+        
+    
+        
+            <a class="quickMenuLink" href="/pages/feeding-littles-app">
+                Our App
+                
+            </a>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <a class="quickMenuLink" href="/pages/lunchbox">
+                Lunch Book
+                
+            </a>
+        
+    
+        
+    
+</nav>
+
+<nav id="slider">
+    <div id="sliderContent">
+        <button id="sliderClose" class="closeNav" title="close side menu">
+            <svg class="svg-inline--fa fa-x fa-lg" aria-hidden="true" focusable="false" data-prefix="far" data-icon="x"
+                 role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg="">
+                <path fill="var(--dark-green)"
+                      d="M378.4 71.4c8.5-10.1 7.2-25.3-2.9-33.8s-25.3-7.2-33.8 2.9L192 218.7 42.4 40.6C33.9 30.4 18.7 29.1 8.6 37.6S-2.9 61.3 5.6 71.4L160.7 256 5.6 440.6c-8.5 10.2-7.2 25.3 2.9 33.8s25.3 7.2 33.8-2.9L192 293.3 341.6 471.4c8.5 10.1 23.7 11.5 33.8 2.9s11.5-23.7 2.9-33.8L223.3 256l155-184.6z"></path>
+            </svg>
+        </button>
+
+        <nav id="sliderNav">
+            
+                
+            
+                
+            
+                
+                    
+                        <div class="sliderNavGroup">
+                            
+                                <div class="sliderNavItem"><a class="sliderNavItemLink" href="/pages/courses">Courses</a></div>
+                            
+                            <div class="sliderNavListLinks">
+                                <div>
+                                    <div class="sliderNavListLinksItemContainer">
+                                        
+                                            <a class="sliderNavListLinksItem"
+                                               href="/pages/infant-course">Infant (6+ months)</a>
+                                        
+                                            <a class="sliderNavListLinksItem"
+                                               href="/pages/toddler-course">Toddler & Kid (1-10 years)</a>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    
+                
+            
+                
+                    
+                        <a class="sliderNavItem" href="/pages/feeding-littles-app">Our App</a>
+                    
+                
+            
+                
+                    
+                        <div class="sliderNavGroup">
+                            
+                                <div class="sliderNavItem">Products</div>
+                            
+                            <div class="sliderNavListLinks">
+                                <div>
+                                    <div class="sliderNavListLinksItemContainer">
+                                        
+                                            <a class="sliderNavListLinksItem"
+                                               href="https://mabelslabels.com/feeding-littles?sv1=affiliate&sv_campaign_id=2081133&affiliate=shareasale&sscid=88357_1784557848_56e2a78ed24b7e305dfa91fbd9dc1303&awc=88357_1784557848_56e2a78ed24b7e305dfa91fbd9dc1303">Mabel's Labels X Feeding Littles</a>
+                                        
+                                            <a class="sliderNavListLinksItem"
+                                               href="/pages/lunchbox">Lunchbox Book</a>
+                                        
+                                            <a class="sliderNavListLinksItem"
+                                               href="/pages/cookbook">Cookbook</a>
+                                        
+                                            <a class="sliderNavListLinksItem"
+                                               href="/pages/numnum">NumNum X Feeding Littles</a>
+                                        
+                                            <a class="sliderNavListLinksItem"
+                                               href="https://bapronbaby.com/collections/feeding-littles-collection">Bapron X Feeding Littles</a>
+                                        
+                                            <a class="sliderNavListLinksItem"
+                                               href="/pages/printables">Printables</a>
+                                        
+                                            <a class="sliderNavListLinksItem"
+                                               href="https://www.amazon.com/shop/influencer-7d019284">Amazon Shop</a>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    
+                
+            
+                
+                    
+                        <a class="sliderNavItem" href="/pages/about">About</a>
+                    
+                
+            
+                
+                    
+                        <a class="sliderNavItem" href="/blogs/blog">Blog</a>
+                    
+                
+            
+                
+                    
+                        <a class="sliderNavItem" href="/pages/contact">Contact</a>
+                    
+                
+            
+                
+                    
+                        <a class="sliderNavItem" href="https://sso.teachable.com/secure/1230769/identity/login/password">Course Login</a>
+                    
+                
+            
+                
+            
+                
+                    
+                        <a class="sliderNavItem" href="/search">Search</a>
+                    
+                
+            
+        </nav>
+    </div>
+    <div id="sliderExit" class="closeNav"></div>
+</nav>
+
+
+
+</div>
+<div id="shopify-section-theme-mini-cart" class="shopify-section"><dialog id="miniCart">
+    <div id="miniCartExit" class="closeCart"></div>
+    <div id="miniCartContent">
+        <div id="miniCartHeader">Your Cart</div>
+
+        <div id="miniCartBody" class="active"></div>
+
+        <div id="miniCartEmpty">
+            <div id="miniCartEmptyTitle">Your cart is empty</div>
+            <a id="miniCartEmptyButton" class="button dark" href="/pages/printables">
+                Shop Now
+            </a>
+        </div>
+
+        <div id="miniCartFooter">
+            <div id="miniCartFooterSubtotal">
+                <span>Total</span>
+                <span></span>
+            </div>
+            <div id="miniCartFooterDivider"></div>
+            <button id="miniCartFooterCheckout" class="button dark">Checkout</button>
+        </div>
+        <button id="miniCartHeaderExit" class="closeCart">close x</button>
+    </div>
+</dialog>
+</div>
+
+<main id="main">
+    <div id="shopify-section-template--16608837304518__section_course_header_v1_fPQEnJ" class="shopify-section"><style>
+
+    .cHeadV1 {
+        position: relative;
+        padding-top: 60px;
+        color: var(--body-text);
+        font-family: Poppins, sans-serif;
+        text-align: center;
+    }
+
+    .cHeadV1Content {
+        padding-inline: 20px;
+    }
+
+    .cHeadV1ContentTag {
+        font-weight: 600;
+        font-size: 32px;
+        line-height: 95px;
+        letter-spacing: -.03em;
+        margin-bottom: 8px;
+    }
+
+    .cHeadV1ContentTag br {
+        display: none;
+    }
+
+    .cHeadV1ContentTitle {
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+
+    .cHeadV1ContentTitle * {
+        font-weight: 800;
+        font-size: 96px;
+        line-height: 95px;
+        letter-spacing: -.03em;
+    }
+
+    [id="template--16608837304518__section_course_header_v1_fPQEnJ"] .cHeadV1ContentTitle em {
+        font-style: normal;
+        color: #029777;
+    }
+
+    .cHeadV1ContentText {
+        margin-top: 30px;
+    }
+
+    .cHeadV1ContentText * {
+        font-size: 37px;
+        line-height: 45px;
+        letter-spacing: -.04em;
+    }
+
+    .cHeadV1ContentTextMobile {
+        display: none;
+    }
+
+    .cHeadV1ContentButton {
+        margin: 20px auto 0;
+    }
+
+    [id="template--16608837304518__section_course_header_v1_fPQEnJ"] .cHeadV1ContentButton {
+        background-color: #b4cfbd;
+        color: #000;
+    }
+
+    [id="template--16608837304518__section_course_header_v1_fPQEnJ"] .cHeadV1ContentButton em::after {
+        background-color: #000;
+    }
+
+    .cHeadV1ContentUnder {
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 45px;
+        letter-spacing: -.04em;
+        margin-top: 17px;
+    }
+
+    .cHeadV1Media {
+    }
+
+    .cHeadV1MediaImage {
+        object-fit: cover;
+    }
+
+    @media (max-width: 1200px) {
+
+        .cHeadV1ContentTitle * {
+            font-size: 60px;
+            line-height: 60px;
+        }
+
+        .cHeadV1ContentText * {
+            font-size: 26px;
+            line-height: 36px;
+        }
+
+    }
+
+    @media (max-width: 800px) {
+
+        .cHeadV1 {
+            padding-top: 42px;
+        }
+
+        .cHeadV1ContentTag {
+            font-size: 16px;
+            line-height: 28px;
+            margin-bottom: 10px;
+        }
+
+        .cHeadV1ContentTag br {
+            display: inline;
+        }
+
+        .cHeadV1ContentTitle * {
+            font-size: clamp(20px, 10dvw, 36px);
+            line-height: 1.2;
+        }
+
+        .cHeadV1ContentText {
+            max-width: 319px;
+            margin: 16px auto 0;
+        }
+
+        .cHeadV1ContentText * {
+            font-size: 20px;
+            line-height: 22px;
+        }
+
+        .cHeadV1ContentTextDesktop {
+            display: none;
+        }
+
+        .cHeadV1ContentTextMobile {
+            display: block;
+        }
+
+        .cHeadV1ContentButton {
+            margin: 18px auto 0;
+        }
+
+        .cHeadV1ContentUnder {
+            font-size: 12px;
+            line-height: 13px;
+            margin-top: 10px;
+        }
+
+        .cHeadV1Media {
+            margin-top: 18px;
+        }
+
+    }
+
+</style>
+
+
+<section id="template--16608837304518__section_course_header_v1_fPQEnJ" class="cHeadV1">
+    <div class="cHeadV1Content">
+        
+            <div class="cHeadV1ContentTag">INFANT COURSE: 5-12 MONTHS</div>
+        
+        <div class="cHeadV1ContentTitle"><p>Feel confident <br/>feeding your baby <br/><em>from day one.</em></p></div>
+        
+            <div class="cHeadV1ContentText cHeadV1ContentTextDesktop"><p>The 2-hour course that teaches you exactly what to <br/>serve, how to serve it, and what to do when things don't <br/>go as planned - without the overwhelm.</p></div>
+            <div class="cHeadV1ContentText cHeadV1ContentTextMobile"><p>The 2-hour course that teaches you exactly what to serve, how to serve it, and what to do when things don't go as planned - without the overwhelm.</p></div>
+        
+        
+            <a class="cHeadV1ContentButton buttonV1" target="_blank"
+               href="https://courses.feedinglittles.com/purchase?product_id=5602290">Get instant access - $59 <em>$79</em></a>
+        
+        
+            <div class="cHeadV1ContentUnder">30-day money-back guarantee</div>
+        
+    </div>
+    <picture class="cHeadV1Media">
+        <source media="(max-width: 400px)" srcset="//feedinglittles.com/cdn/shop/files/Group_31.png?v=1779212278&width=700">
+        <source media="(max-width: 800px)" srcset="//feedinglittles.com/cdn/shop/files/Group_31.png?v=1779212278&width=1000">
+        <source media="(max-width: 1200px)" srcset="//feedinglittles.com/cdn/shop/files/Group_31.png?v=1779212278&width=1500">
+        <source media="(max-width: 1500px)" srcset="//feedinglittles.com/cdn/shop/files/Group_31.png?v=1779212278&width=1800">
+        <source media="(max-width: 2200px)" srcset="//feedinglittles.com/cdn/shop/files/Group_31.png?v=1779212278&width=2500">
+        <source srcset="//feedinglittles.com/cdn/shop/files/Group_31.png?v=1779212278&width=3000">
+        <img class="cHeadV1MediaImage" src="//feedinglittles.com/cdn/shop/files/Group_31.png?v=1779212278&width=3000"
+             alt="Woman with a baby eating broccoli">
+    </picture>
+</section>
+
+</div><div id="shopify-section-template--16608837304518__section_seen_v1_wNWMFf" class="shopify-section"><style>
+
+    [id='template--16608837304518__section_seen_v1_wNWMFf'] {
+        padding: 26px 0 26px;
+        overflow: hidden;
+    }
+
+    .seenV1 {
+    }
+
+    .seenV1Title {
+        color: #000;
+        text-align: center;
+        font-family: Poppins, sans-serif;
+        font-size: 35px;
+        font-weight: 700;
+        line-height: 45px;
+        letter-spacing: -0.35px;
+        margin-bottom: 18px;
+    }
+
+    .seenV1Body {
+        display: flex;
+        overflow: hidden;
+        pointer-events: none;
+        width: 100%;
+    }
+
+    .seenV1BodyInner {
+        flex-shrink: 0;
+        display: flex;
+        align-items: center;
+        min-width: 100%;
+        animation: scrollX 100s linear infinite;
+    }
+
+    @keyframes scrollX {
+        from {
+            transform: translateX(0);
+        }
+        to {
+            transform: translateX(-100%);
+        }
+    }
+
+    .seenV1BodyItem {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0 25px;
+    }
+
+    .seenV1BodyItem img {
+        /*width: auto;*/
+        object-fit: contain;
+        max-width: 150px;
+        max-height: 150px;
+    }
+
+    @media (max-width: 800px) {
+
+        [id='template--16608837304518__section_seen_v1_wNWMFf'] {
+            padding: 15px 0 15px;
+        }
+
+        .seenV1Title {
+            font-size: 16px;
+            line-height: 13.177px;
+            letter-spacing: -0.16px;
+            margin-bottom: 14px;
+        }
+
+        .seenV1BodyItem img {
+            max-width: 100px;
+            max-height: 100px;
+        }
+
+    }
+</style>
+
+<section id="template--16608837304518__section_seen_v1_wNWMFf" class="seenV1">
+    
+
+    <div class="seenV1Body">
+        <div class="seenV1BodyInner">
+            
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/3_b44768a1-c8d8-4e90-b19e-68ecb96bb1ff.png?v=1722022017&width=500"
+                             alt="">
+                    </div>
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/Clip_path_group_1.png?v=1779120507&width=500"
+                             alt="">
+                    </div>
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/Clip_path_group_2.png?v=1779120507&width=500"
+                             alt="">
+                    </div>
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/Clip_path_group_5.png?v=1779120507&width=500"
+                             alt="">
+                    </div>
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/Clip_path_group_3.png?v=1779120507&width=500"
+                             alt="">
+                    </div>
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/Clip_path_group_4.png?v=1779120507&width=500"
+                             alt="">
+                    </div>
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/8_70f63d95-abff-447e-82a8-cbbb5500e746.png?v=1722268181&width=500"
+                             alt="">
+                    </div>
+                
+            
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/3_b44768a1-c8d8-4e90-b19e-68ecb96bb1ff.png?v=1722022017&width=500"
+                             alt="">
+                    </div>
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/Clip_path_group_1.png?v=1779120507&width=500"
+                             alt="">
+                    </div>
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/Clip_path_group_2.png?v=1779120507&width=500"
+                             alt="">
+                    </div>
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/Clip_path_group_5.png?v=1779120507&width=500"
+                             alt="">
+                    </div>
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/Clip_path_group_3.png?v=1779120507&width=500"
+                             alt="">
+                    </div>
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/Clip_path_group_4.png?v=1779120507&width=500"
+                             alt="">
+                    </div>
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/8_70f63d95-abff-447e-82a8-cbbb5500e746.png?v=1722268181&width=500"
+                             alt="">
+                    </div>
+                
+            
+        </div>
+        <div class="seenV1BodyInner" aria-hidden="true">
+            
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/3_b44768a1-c8d8-4e90-b19e-68ecb96bb1ff.png?v=1722022017&width=500"
+                             alt="">
+                    </div>
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/Clip_path_group_1.png?v=1779120507&width=500"
+                             alt="">
+                    </div>
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/Clip_path_group_2.png?v=1779120507&width=500"
+                             alt="">
+                    </div>
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/Clip_path_group_5.png?v=1779120507&width=500"
+                             alt="">
+                    </div>
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/Clip_path_group_3.png?v=1779120507&width=500"
+                             alt="">
+                    </div>
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/Clip_path_group_4.png?v=1779120507&width=500"
+                             alt="">
+                    </div>
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/8_70f63d95-abff-447e-82a8-cbbb5500e746.png?v=1722268181&width=500"
+                             alt="">
+                    </div>
+                
+            
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/3_b44768a1-c8d8-4e90-b19e-68ecb96bb1ff.png?v=1722022017&width=500"
+                             alt="">
+                    </div>
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/Clip_path_group_1.png?v=1779120507&width=500"
+                             alt="">
+                    </div>
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/Clip_path_group_2.png?v=1779120507&width=500"
+                             alt="">
+                    </div>
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/Clip_path_group_5.png?v=1779120507&width=500"
+                             alt="">
+                    </div>
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/Clip_path_group_3.png?v=1779120507&width=500"
+                             alt="">
+                    </div>
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/Clip_path_group_4.png?v=1779120507&width=500"
+                             alt="">
+                    </div>
+                
+                    <div class="seenV1BodyItem">
+                        <img src="//feedinglittles.com/cdn/shop/files/8_70f63d95-abff-447e-82a8-cbbb5500e746.png?v=1722268181&width=500"
+                             alt="">
+                    </div>
+                
+            
+        </div>
+    </div>
+</section>
+
+</div><div id="shopify-section-template--16608837304518__section_course_description_v1_L4t99T" class="shopify-section"><style>
+
+    [id="template--16608837304518__section_course_description_v1_L4t99T"] {
+        padding: 39px 20px 94px;
+    }
+
+    .courseDV1 {
+        margin-inline: auto;
+        max-width: 1366px;
+        color: var(--body-text);
+        font-family: Poppins, sans-serif;
+    }
+
+    .courseDV1Block {
+        display: flex;
+    }
+
+    .courseDV1Title {
+        font-weight: 700;
+        font-size: 42px;
+        line-height: 95px;
+        letter-spacing: -.03em;
+        text-align: center;
+        margin-inline: auto;
+    }
+
+    [id="template--16608837304518__section_course_description_v1_L4t99T"] .courseDV1Title {
+        color: #e46551;
+    }
+
+    .courseDV1Box {
+        display: inline-block;
+        font-weight: 700;
+        font-size: 38px;
+        line-height: 1;
+        letter-spacing: -.03em;
+        text-align: center;
+        margin-inline: auto;
+        padding: 8px 14px;
+    }
+
+    [id="template--16608837304518__section_course_description_v1_L4t99T"] .courseDV1Box {
+        background-color: #a4c6af7a;
+        color: #000000;
+    }
+
+    .courseDV1Box br {
+        display: none;
+    }
+
+    .courseDV1Text {
+        font-weight: 600;
+        font-size: 30px;
+        line-height: 45px;
+        letter-spacing: -.04em;
+        text-align: center;
+        margin-inline: auto;
+    }
+
+    [id="template--16608837304518__section_course_description_v1_L4t99T"] .courseDV1Text {
+        max-width: 1156px;
+    }
+
+    .courseDV1Checks {
+        display: flex;
+        flex-direction: column;
+        gap: 11px;
+        margin: 0 auto;
+        padding: 0;
+        list-style: none;
+    }
+
+    [id="template--16608837304518__section_course_description_v1_L4t99T"] .courseDV1Checks {
+        max-width: 1089px;
+    }
+
+    .courseDV1ChecksItem {
+        display: flex;
+        font-weight: 600;
+        font-size: 30px;
+        line-height: 37px;
+        letter-spacing: -.04em;
+    }
+
+    .courseDV1ChecksItemImage {
+        width: 31px;
+        height: 31px;
+        object-fit: contain;
+        margin: 4px 20px 0 0;
+    }
+
+    .courseDV1ChecksItemBullet {
+        display: inline-block;
+        margin-right: 10px;
+    }
+
+    .courseDV1Button {
+        margin-inline: auto;
+    }
+
+    [id="template--16608837304518__section_course_description_v1_L4t99T"] .courseDV1Button {
+        background-color: #b4cfbd;
+        color: #000;
+    }
+
+    [id="template--16608837304518__section_course_description_v1_L4t99T"] .courseDV1Button em:after {
+        background-color: #000;
+    }
+
+    @media (max-width: 800px) {
+
+        [id="template--16608837304518__section_course_description_v1_L4t99T"] {
+            padding: 12px 20px 12px;
+        }
+
+        .courseDV1Title {
+            font-size: 24px;
+            line-height: 28px;
+            margin-bottom: 12px;
+        }
+
+        .courseDV1Box {
+            font-size: 20px;
+            line-height: 28px;
+        }
+
+        .courseDV1Box br {
+            display: inline;
+        }
+
+        .courseDV1Text {
+            font-size: 20px;
+            line-height: 22px;
+        }
+
+        [id="template--16608837304518__section_course_description_v1_L4t99T"] .courseDV1Text {
+            max-width: unset;
+        }
+
+        .courseDV1Checks {
+            gap: 16px;
+        }
+
+        [id="template--16608837304518__section_course_description_v1_L4t99T"] .courseDV1Checks {
+            max-width: 348px;
+        }
+
+        .courseDV1ChecksItem {
+            font-size: 20px;
+            line-height: 22px;
+        }
+
+        .courseDV1ChecksItemImage {
+            width: 16px;
+            height: 16px;
+            margin: 2px 10px 0 0;
+        }
+
+    }
+
+    /* block specific */
+    
+
+    [id="title_7aBUFP"] {
+        margin-bottom: 0;
+    }
+
+    @media (max-width: 800px) {
+
+        [id="title_7aBUFP"] {
+            margin-bottom: 10px;
+        }
+
+    }
+
+    
+
+    [id="box_ja9UJa"] {
+        margin-bottom: 22px;
+    }
+
+    @media (max-width: 800px) {
+
+        [id="box_ja9UJa"] {
+            margin-bottom: 15px;
+        }
+
+    }
+
+    
+
+    [id="text_AAWx7y"] {
+        margin-bottom: 30px;
+    }
+
+    @media (max-width: 800px) {
+
+        [id="text_AAWx7y"] {
+            margin-bottom: 23px;
+        }
+
+    }
+
+    
+
+    [id="title_aCDATn"] {
+        margin-bottom: 0;
+    }
+
+    @media (max-width: 800px) {
+
+        [id="title_aCDATn"] {
+            margin-bottom: 14px;
+        }
+
+    }
+
+    
+
+    [id="checks_FVBX4Y"] {
+        margin-bottom: 50px;
+    }
+
+    @media (max-width: 800px) {
+
+        [id="checks_FVBX4Y"] {
+            margin-bottom: 30px;
+        }
+
+    }
+
+    
+
+    [id="text_zFLtVq"] {
+        margin-bottom: 50px;
+    }
+
+    @media (max-width: 800px) {
+
+        [id="text_zFLtVq"] {
+            margin-bottom: 30px;
+        }
+
+    }
+
+    
+</style>
+
+
+<section id="template--16608837304518__section_course_description_v1_L4t99T">
+    <div class="courseDV1">
+        
+            
+                    <div id="title_7aBUFP" class="courseDV1Block">
+                        <div class="courseDV1Title"><h2>YOU'RE NOT ALONE.</h2></div>
+                    </div>
+                
+        
+            
+                    <div id="box_ja9UJa" class="courseDV1Block">
+                        <div class="courseDV1Box"><p>Starting solids is exciting. It's also scary.</p></div>
+                    </div>
+                
+        
+            
+                    <div id="text_AAWx7y" class="courseDV1Block">
+                        <div class="courseDV1Text"><p>You've read everything online. You’ve heard about Baby-led Weaning and want to let your baby feed themselves. But when it's actually time to put real food in front of your baby, you have no idea where to start or how to keep them safe.</p></div>
+                    </div>
+                
+        
+            
+                    <div id="title_aCDATn" class="courseDV1Block">
+                        <div class="courseDV1Title"><h2>SOUND FAMILIAR?</h2></div>
+                    </div>
+                
+        
+            
+                    <div id="checks_FVBX4Y" class="courseDV1Block">
+                        <ul class="courseDV1Checks">
+                            
+                            
+                                <li class="courseDV1ChecksItem">
+                                    
+                                        <img class="courseDV1ChecksItemImage"
+                                             src="//feedinglittles.com/cdn/shop/files/Clip_path_group_65cba88a-7375-4be2-a770-6a036793a0d4.png?v=1779215664&width=60"
+                                             alt="" loading="lazy">
+                                    
+                                    <span>What if they choke? How do I even tell the difference between gagging and choking?</span>
+                                </li>
+                            
+                                <li class="courseDV1ChecksItem">
+                                    
+                                        <img class="courseDV1ChecksItemImage"
+                                             src="//feedinglittles.com/cdn/shop/files/Clip_path_group_65cba88a-7375-4be2-a770-6a036793a0d4.png?v=1779215664&width=60"
+                                             alt="" loading="lazy">
+                                    
+                                    <span>
+When do I introduce allergens? What if they react?</span>
+                                </li>
+                            
+                                <li class="courseDV1ChecksItem">
+                                    
+                                        <img class="courseDV1ChecksItemImage"
+                                             src="//feedinglittles.com/cdn/shop/files/Clip_path_group_65cba88a-7375-4be2-a770-6a036793a0d4.png?v=1779215664&width=60"
+                                             alt="" loading="lazy">
+                                    
+                                    <span>
+Am I cutting food the right size? Serving the right foods first?</span>
+                                </li>
+                            
+                                <li class="courseDV1ChecksItem">
+                                    
+                                        <img class="courseDV1ChecksItemImage"
+                                             src="//feedinglittles.com/cdn/shop/files/Clip_path_group_65cba88a-7375-4be2-a770-6a036793a0d4.png?v=1779215664&width=60"
+                                             alt="" loading="lazy">
+                                    
+                                    <span>
+How do I help them not become picky?</span>
+                                </li>
+                            
+                                <li class="courseDV1ChecksItem">
+                                    
+                                        <img class="courseDV1ChecksItemImage"
+                                             src="//feedinglittles.com/cdn/shop/files/Clip_path_group_65cba88a-7375-4be2-a770-6a036793a0d4.png?v=1779215664&width=60"
+                                             alt="" loading="lazy">
+                                    
+                                    <span>
+We started with purees - did I mess things up already?</span>
+                                </li>
+                            
+                        </ul>
+                    </div>
+            
+        
+            
+                    <div id="text_zFLtVq" class="courseDV1Block">
+                        <div class="courseDV1Text"><p>These fears are completely normal, and the internet doesn't help. It's full of conflicting, inaccurate advice that leaves you more confused than when you started. Our Infant Course was built for exactly this. In two hours, you'll go from anxious to equipped.</p></div>
+                    </div>
+                
+        
+        
+            <a class="courseDV1Button buttonV1" target="_blank"
+               href="https://courses.feedinglittles.com/purchase?product_id=5602290">Unlock the course - $59 <em>($79)</em></a>
+        
+    </div>
+</section>
+
+</div><div id="shopify-section-template--16608837304518__section_meet_v1_jmatj9" class="shopify-section"><style>
+
+    [id="template--16608837304518__section_meet_v1_jmatj9"] {
+        position: relative;
+        padding: 64px 0 64px;
+        background-color: #fff;
+        color: #202020;
+    }
+
+    .meetV1 {
+        display: flex;
+        max-width: 1366px;
+        margin-inline: auto;
+    }
+
+    .meetV1Media {
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        max-width: 600px;
+        min-width: 555px;
+    }
+
+    .meetV1MediaImage {
+        object-fit: cover;
+    }
+
+    .meetV1Content {
+        font-family: Poppins, sans-serif;
+        text-align: center;
+        padding-right: 20px;
+        width: 828px;
+        margin-left: auto;
+    }
+
+    .meetV1ContentTitle {
+        font-weight: 900;
+        font-size: 72px;
+        line-height: 1;
+        letter-spacing: -.03em;
+    }
+
+    [id="template--16608837304518__section_meet_v1_jmatj9"] .meetV1ContentTitle {
+        color: #029777;
+    }
+
+    .meetV1ContentSubtitle {
+        font-size: 40px;
+        line-height: 88px;
+        letter-spacing: -.03em;
+        margin-bottom: 8px;
+    }
+
+    [id="template--16608837304518__section_meet_v1_jmatj9"] .meetV1ContentSubtitle {
+        color: #010101;
+    }
+
+    .meetV1ContentBold {
+        margin-bottom: 13px;
+    }
+
+    .meetV1ContentBold * {
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 45px;
+        letter-spacing: -.03em;
+    }
+
+    [id="template--16608837304518__section_meet_v1_jmatj9"] .meetV1ContentBold {
+        color: #48634f;
+    }
+
+    .meetV1ContentText {
+        margin-bottom: 21px;
+    }
+
+    .meetV1ContentText * {
+        font-weight: 500;
+        font-size: 26px;
+        line-height: 37px;
+        letter-spacing: -.01em;
+    }
+
+    .meetV1ContentBottom {
+    }
+
+    .meetV1ContentBottom * {
+        font-weight: 600;
+        font-size: 30px;
+        line-height: 40px;
+        letter-spacing: -.03em;
+    }
+
+    @media (max-width: 1400px) {
+
+
+        .meetV1Media {
+            max-width: 38dvw;
+            min-width: 0;
+        }
+
+        .meetV1Content {
+            max-width: 66dvw;
+        }
+
+    }
+
+    @media (max-width: 1000px) {
+
+        [id="template--16608837304518__section_meet_v1_jmatj9"] {
+            padding: 0px 0 0px;
+        }
+
+        .meetV1 {
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .meetV1Media {
+            position: static;
+            width: 100%;
+            max-width: 100%;
+        }
+
+        .meetV1MediaImage {
+            width: 100%;
+        }
+
+        .meetV1Content {
+            font-family: Poppins, sans-serif;
+            padding: 40px 20px;
+            width: 100%;
+            margin-left: 0;
+            max-width: 100%;
+        }
+
+        .meetV1ContentTitle {
+            font-size: 40px;
+        }
+
+        .meetV1ContentSubtitle {
+            font-size: 24px;
+            line-height: 1;
+            margin-block: 10px;
+        }
+
+        .meetV1ContentBold {
+            margin-bottom: 9px;
+        }
+
+        .meetV1ContentBold * {
+            font-size: 20px;
+            line-height: 22.5px;
+        }
+
+        .meetV1ContentText {
+            margin-bottom: 14px;
+        }
+
+        .meetV1ContentText * {
+            font-size: 20px;
+            line-height: 22px;
+            font-weight: 400;
+        }
+
+        .meetV1ContentBottom * {
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 22px;
+            letter-spacing: -.01em;
+        }
+
+    }
+
+    @media (max-width: 600px) {
+
+        .meetV1ContentText {
+            margin-inline: auto;
+            max-width: 346px;
+        }
+
+        .meetV1ContentBottom {
+            margin-inline: auto;
+            max-width: 333px;
+        }
+
+    }
+
+</style>
+
+
+<section id="template--16608837304518__section_meet_v1_jmatj9">
+    <div class="meetV1">
+        <picture class="meetV1Media">
+            <source media="(max-width: 400px)" srcset="//feedinglittles.com/cdn/shop/files/Frame_1.png?v=1779219541&width=700">
+            <source media="(max-width: 700px)" srcset="//feedinglittles.com/cdn/shop/files/Frame_1.png?v=1779219541&width=1000">
+            <source media="(max-width: 1000px)" srcset="//feedinglittles.com/cdn/shop/files/Frame_1.png?v=1779219541&width=1400">
+            <source media="(max-width: 1200px)" srcset="//feedinglittles.com/cdn/shop/files/Megan_green.png?v=1779220731&width=1500">
+            <source media="(max-width: 1500px)" srcset="//feedinglittles.com/cdn/shop/files/Megan_green.png?v=1779220731&width=1800">
+            <source media="(max-width: 2200px)" srcset="//feedinglittles.com/cdn/shop/files/Megan_green.png?v=1779220731&width=2500">
+            <source srcset="//feedinglittles.com/cdn/shop/files/Megan_green.png?v=1779220731&width=3000">
+            <img class="meetV1MediaImage" src="//feedinglittles.com/cdn/shop/files/Megan_green.png?v=1779220731&width=3000"
+                 alt="Woman wearing a green dress on a white background">
+        </picture>
+        <div class="meetV1Content">
+            <h2 class="meetV1ContentTitle">Meet Megan</h2>
+            <div class="meetV1ContentSubtitle">Megan McNamee, MPH, RDN</div>
+            <div class="meetV1ContentBold"><p>Registered Dietitian Nutritionist and <br/>Certified Intuitive Eating Counselor</p></div>
+            <div class="meetV1ContentText"><p>Registered Dietitian Nutritionist Megan McNamee MPH, RDN leads a team of feeding therapists who've helped over 100,000 families navigate starting solids without the judgment. Megan is a #1 <em>New York Times</em> bestselling author, mom of two and one of the most trusted voices in children's nutrition. With over 20 years of experience in infant nutrition, she has helped hundreds of thousands of families start solids confidently. Megan understands the mix of excitement and uncertainty that comes with Baby-led Weaning, and she designed this course to be the calm, reassuring guide she wished she'd had.</p></div>
+            <div class="meetV1ContentBottom"><p>Megan and her team of feeding therapists have been supporting parents online since 2014. With over two million followers on social media, Feeding Littles is a household name that parents trust.</p></div>
+        </div>
+    </div>
+</section>
+
+</div><div id="shopify-section-template--16608837304518__section_walk_v1_qmjqy7" class="shopify-section"><style>
+
+    [id="template--16608837304518__section_walk_v1_qmjqy7"] {
+        padding: 53px 20px 75px;
+    }
+
+    .walkV1 {
+        margin-inline: auto;
+        max-width: 1366px;
+        font-family: Poppins, sans-serif;
+        color: var(--body-text);
+    }
+
+    .walkV1Title {
+        font-weight: 900;
+        font-size: 64px;
+        line-height: 95px;
+        letter-spacing: -.03em;
+        text-align: center;
+    }
+
+    .walkV1Subtitle {
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 45px;
+        letter-spacing: -.03em;
+        text-align: center;
+        margin-top: 8px;
+    }
+
+    [id="template--16608837304518__section_walk_v1_qmjqy7"] .walkV1Title,
+    [id="template--16608837304518__section_walk_v1_qmjqy7"] .walkV1Subtitle {
+        color: #e46551;
+    }
+
+    .walkV1Text {
+        display: flex;
+        flex-direction: column;
+        gap: 22px;
+        max-width: 956px;
+        margin: 26px auto 0;
+        padding: 0;
+        list-style: none;
+    }
+
+    .walkV1TextItem {
+        font-weight: 500;
+        font-size: 30px;
+        line-height: 37px;
+        letter-spacing: -.04em;
+    }
+
+    .walkV1TextItem strong {
+        font-weight: 700;
+    }
+
+    .walkV1Button {
+        margin: 76px auto 0;
+    }
+
+    .walkV1Under {
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 45px;
+        letter-spacing: -.04em;
+        text-align: center;
+        margin: 11px auto 0;
+    }
+
+    @media (max-width: 800px) {
+
+        [id="template--16608837304518__section_walk_v1_qmjqy7"] {
+            padding: 28px 20px 48px;
+        }
+
+        .walkV1Title {
+            font-size: 36px;
+            line-height: 45px;
+        }
+
+        .walkV1Subtitle {
+            font-size: 20px;
+            line-height: 18px;
+        }
+
+        .walkV1Text {
+            gap: 16px;
+        }
+
+        .walkV1TextItem {
+            font-size: 20px;
+            line-height: 22px;
+        }
+
+        .walkV1Button {
+            margin: 32px auto 0;
+        }
+
+        .walkV1Under {
+            font-size: 12px;
+            line-height: 13px;
+        }
+
+    }
+
+</style>
+
+
+<section id="template--16608837304518__section_walk_v1_qmjqy7">
+    <div class="walkV1">
+        <h2 class="walkV1Title">What you’ll walk away with</h2>
+        <div class="walkV1Subtitle">Two hours from now, you'll actually know what you're doing.</div>
+        <ul class="walkV1Text">
+            
+            
+                <li class="walkV1TextItem">✓ <strong>Safety confidence: </strong>understand exactly what gagging vs. choking looks like, and what to do in either situation.</li>
+            
+                <li class="walkV1TextItem">
+✓ <strong>Introducing allergens:</strong> a clear, step-by-step protocol for offering the top allergens and what to do if they react.</li>
+            
+                <li class="walkV1TextItem">
+✓ <strong>Timing and scheduling:</strong> Exactly when to start solids, when to offer milk feeds, and how to balance the two as your baby grows from 5–12 months.</li>
+            
+                <li class="walkV1TextItem">
+✓ <strong>No more Googling every food:</strong> learn the principles - not just a list - so you know how to serve anything safely.</li>
+            
+                <li class="walkV1TextItem">
+✓ <strong>Raise an adventurous eater:</strong> build the habits that make mealtimes easier for the next decade, not just this week.</li>
+            
+                <li class="walkV1TextItem">
+✓ <strong>Transition from pureed baby food:</strong> already doing purees? We walk you through exactly how to move to finger foods.</li>
+            
+                <li class="walkV1TextItem">
+✓ <strong>Know what to do when things go sideways:</strong> a thorough troubleshooting section so you're never stuck wondering 'is this normal?’ or ‘what do I do now?’</li>
+            
+        </ul>
+        
+            <a class="walkV1Button buttonV1" target="_blank"
+               href="https://courses.feedinglittles.com/purchase?product_id=5602290">Start today - $59 ($79)</a>
+        
+        
+            <div class="walkV1Under">30-day money-back guarantee</div>
+        
+    </div>
+</section>
+
+</div><div id="shopify-section-template--16608837304518__section_trust_v1_89ErBF" class="shopify-section"><style>
+
+    [id="template--16608837304518__section_trust_v1_89ErBF"] {
+        padding: 71px 20px 95px;
+        background-color: #FD9E82;
+        color: #000;
+    }
+
+    .trustV1 {
+        margin-inline: auto;
+        max-width: 1166px;
+        font-family: Poppins, sans-serif;
+        text-align: center;
+    }
+
+    .trustV1Title {
+    }
+
+    .trustV1Title em {
+        font-style: normal;
+        color: ;
+    }
+
+    .trustV1Title * {
+        font-weight: 800;
+        font-size: 96px;
+        line-height: 95px;
+        letter-spacing: -.03em;
+    }
+
+    .trustV1Text {
+        margin-block: 38px;
+    }
+
+    .trustV1Text * {
+        font-size: 37px;
+        line-height: 45px;
+        letter-spacing: -.04em;
+    }
+
+    .trustV1Body {
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+        margin-bottom: 37px;
+    }
+
+    .trustV1BodyItem {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: 5px;
+    }
+
+    .trustV1BodyItemTitle {
+        font-weight: 800;
+        font-size: 64px;
+        line-height: 1;
+        letter-spacing: -.03em;
+    }
+
+    .trustV1BodyItemText {
+        font-size: 30px;
+        line-height: 1;
+        letter-spacing: -.04em;
+        margin-block: auto;
+    }
+
+    .trustV1Images,
+    .trustV1ImagesTop,
+    .trustV1ImagesTopSplit {
+        display: grid;
+        gap: 30px;
+    }
+
+    .trustV1ImagesTop {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .trustV1ImagesItemPicture {
+        display: contents;
+    }
+
+    .trustV1ImagesItem {
+        object-fit: cover;
+    }
+
+    .walkV1Button {
+        margin: 57px auto 0;
+    }
+
+    [id="template--16608837304518__section_trust_v1_89ErBF"] .walkV1Button {
+        background-color: #F1F0EC;
+        color: #000;
+    }
+
+    @media (max-width: 800px) {
+
+        [id="template--16608837304518__section_trust_v1_89ErBF"] {
+            padding: 35px 20px 45px;
+        }
+
+        .trustV1Title * {
+            font-size: clamp(20px, 9dvw, 36px);
+            line-height: 1.25;
+        }
+
+        .trustV1Text {
+            max-width: 348px;
+            margin: 20px auto 30px;
+        }
+
+        .trustV1Text br {
+            display: none;
+        }
+
+        .trustV1Text * {
+            font-size: 20px;
+            line-height: 22px;
+        }
+
+        .trustV1Body {
+            gap: 10px;
+            margin-bottom: 29px;
+        }
+
+        .trustV1BodyItem {
+            flex-direction: column;
+            height: 100%;
+            gap: 2px;
+        }
+
+        .trustV1BodyItemTitle {
+            font-size: 24px;
+        }
+
+        .trustV1BodyItemText {
+            font-size: 12px;
+        }
+
+        .trustV1Images,
+        .trustV1ImagesTop,
+        .trustV1ImagesTopSplit {
+            gap: 15px;
+        }
+
+        .trustV1ImagesTop {
+            grid-template-columns: 1fr;
+        }
+
+        .walkV1Button {
+            margin: 24px auto 0;
+        }
+
+    }
+
+    @media (max-width: 450px) {
+
+        .trustV1Title br {
+            display: none;
+        }
+
+    }
+
+</style>
+
+
+<section id="template--16608837304518__section_trust_v1_89ErBF">
+    <div class="trustV1">
+        <h2 class="trustV1Title"><p>The course 100,000+ <br/>parents trust.</p></h2>
+        <div class="trustV1Text"><p>Dietitian Megan and her team of feeding therapists will <br/>walk you through everything you need to know about <br/>starting solids so you can put any food in front of your <br/>baby without having to look a single thing up.</p></div>
+        <div class="trustV1Body">
+            
+                <div class="trustV1BodyItem">
+                    <div class="trustV1BodyItemTitle">100,000+</div>
+                    <div class="trustV1BodyItemText"><p>families helped</p></div>
+                </div>
+            
+                <div class="trustV1BodyItem">
+                    <div class="trustV1BodyItemTitle">2 hrs</div>
+                    <div class="trustV1BodyItemText"><p>total course time</p></div>
+                </div>
+            
+                <div class="trustV1BodyItem">
+                    <div class="trustV1BodyItemTitle">Since 2014</div>
+                    <div class="trustV1BodyItemText"><p>online pioneers in <br/>Baby-led Weaning</p></div>
+                </div>
+            
+        </div>
+        <div class="trustV1Images">
+            <div class="trustV1ImagesTop">
+                <div class="trustV1ImagesTopItem">
+                    <picture class="trustV1ImagesItemPicture">
+                        
+                        <img class="trustV1ImagesItem"
+                             src="//feedinglittles.com/cdn/shop/files/Group_35.png?v=1779225042&width=800"
+                             alt="Review with baby"
+                             loading="lazy">
+                    </picture>
+                </div>
+                <div class="trustV1ImagesTopSplit">
+                    <picture class="trustV1ImagesItemPicture">
+                        
+                        <img class="trustV1ImagesItem"
+                             src="//feedinglittles.com/cdn/shop/files/Group_36.png?v=1779225048&width=800"
+                             alt="Blurb about how great things are going"
+                             loading="lazy">
+                    </picture>
+                    <picture class="trustV1ImagesItemPicture">
+                        
+                        <img class="trustV1ImagesItem"
+                             src="//feedinglittles.com/cdn/shop/files/Group_37.png?v=1779225055&width=800"
+                             alt="gush about benefits of FL"
+                             loading="lazy">
+                    </picture>
+                </div>
+            </div>
+            <picture class="trustV1ImagesItemPicture">
+                
+                <img class="trustV1ImagesItem"
+                     src="//feedinglittles.com/cdn/shop/files/Group_38.png?v=1779225065&width=1400"
+                     alt="Happy review about course"
+                     loading="lazy">
+            </picture>
+        </div>
+        
+            <a class="walkV1Button buttonV1"
+               href="https://courses.feedinglittles.com/purchase?product_id=5602290&_gl=1*uz4dcq*_ga*MTg3MjY2NTMwMS4xNzc5OTEyMTU0*_ga_PDQYK6NVSP*czE3Nzk5MTIxNTMkbzEkZzEkdDE3Nzk5MTI3OTAkajM4JGwwJGgw">Get instant access - $59 <em>$79</em></a>
+        
+    </div>
+</section>
+
+</div><div id="shopify-section-template--16608837304518__section_learn_v1_GwAyRq" class="shopify-section"><style>
+
+    [id="template--16608837304518__section_learn_v1_GwAyRq"] {
+        padding: 74px 20px 104px;
+    }
+
+    .learnV1 {
+        margin-inline: auto;
+        max-width: 1346px;
+        font-family: Poppins, sans-serif;
+    }
+
+    .learnV1Tag {
+        font-weight: 800;
+        font-size: 36px;
+        line-height: 45px;
+        letter-spacing: .05em;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    [id="template--16608837304518__section_learn_v1_GwAyRq"] .learnV1Tag {
+        color: #c86e3d;
+    }
+
+    .learnV1Title {
+        font-weight: 800;
+        font-size: 64px;
+        line-height: 95px;
+        letter-spacing: -.03em;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    [id="template--16608837304518__section_learn_v1_GwAyRq"] .learnV1Title {
+        color: #2f4e37;
+    }
+
+    .learnV1Text {
+        font-size: 37px;
+        line-height: 45px;
+        letter-spacing: -.04em;
+        text-align: center;
+        max-width: 1059px;
+        margin: 0 auto 40px;
+    }
+
+    .learnV1Body {
+        display: grid;
+        grid-template-columns: minmax(0, 680px) minmax(0, 625px);
+    }
+
+    .learnV1BodyMedia {
+        height: 100%;
+    }
+
+    .learnV1BodyMediaImage {
+        object-fit: cover;
+        height: 100%;
+    }
+
+    .learnV1BodyList {
+        display: flex;
+        padding: 30px 20px;
+    }
+
+    [id="template--16608837304518__section_learn_v1_GwAyRq"] .learnV1BodyList {
+        background-color: #fff;
+        color: #696864;
+    }
+
+    .learnV1BodyListInner {
+        display: flex;
+        flex-direction: column;
+        gap: 22px;
+        max-width: 539px;
+        margin: auto;
+        padding: 0;
+        list-style: none;
+    }
+
+    .learnV1BodyListItem {
+        display: flex;
+        flex-direction: column;
+        letter-spacing: -.04em;
+    }
+
+    .learnV1BodyListItemInnerButton {
+        display: grid;
+        grid-template-columns: 35px 1fr;
+        align-items: center;
+        gap: 16px;
+        font-size: 30px;
+        line-height: 1;
+        font-weight: 600;
+        cursor: pointer;
+    }
+
+    .learnV1BodyListItemInnerButtonImage {
+        object-fit: contain;
+        transition: ease-in 0.3s;
+    }
+
+    .learnV1BodyListItemInnerButton.active
+    .learnV1BodyListItemInnerButtonImage {
+        transform: rotate(45deg);
+    }
+
+    .learnV1BodyListItemContent {
+        display: grid;
+        grid-template-rows: 0fr;
+        transition: ease-out .4s;
+    }
+
+    .learnV1BodyListItemInnerButton.active +
+    .learnV1BodyListItemContent {
+        grid-template-rows: 1fr;
+    }
+
+    .learnV1BodyListItemContentInner {
+        overflow: hidden;
+    }
+
+    .learnV1BodyListItemContentInnerText {
+        font-size: 26px;
+        line-height: 1.35;
+        padding: 9px 0 0 59px;
+    }
+
+    .learnV1Included {
+        border-radius: 17px;
+        width: calc(100dvw - 40px);
+        max-width: 1113px;
+        margin: 53px auto 0;
+        padding: 26px 30px;
+        text-align: center;
+    }
+
+    [id="template--16608837304518__section_learn_v1_GwAyRq"] .learnV1Included {
+        background-color: #b4cfbd;
+        color: #2e2e2c;
+    }
+
+    .learnV1IncludedTitle {
+        font-weight: 800;
+        font-size: 28px;
+        line-height: 45px;
+        letter-spacing: .02em;
+    }
+
+    .learnV1IncludedBody {
+        font-weight: 600;
+        font-size: 26px;
+        line-height: 40px;
+        letter-spacing: .02em;
+    }
+
+    .learnV1Button {
+        margin: 72px auto 0;
+    }
+
+    .learnV1Button {
+        background-color: #2f4e37;
+        color: #2e2e2c;
+    }
+
+    .learnV1Under {
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 45px;
+        letter-spacing: -.04em;
+        text-align: center;
+        margin: 17px auto 0;
+    }
+
+    @media (max-width: 800px) {
+
+        [id="template--16608837304518__section_learn_v1_GwAyRq"] {
+            padding: 22px 0 46px;
+        }
+
+        .learnV1Tag {
+            font-size: 14px;
+            line-height: 28px;
+            margin-bottom: 0;
+            padding-inline: 10px;
+        }
+
+        .learnV1Title {
+            font-size: clamp(20px, 9dvw, 36px);
+            line-height: 1.25;
+            max-width: 370px;
+            margin: 0 auto 6px;
+            padding-inline: 10px;
+        }
+
+        .learnV1Text {
+            font-size: 20px;
+            line-height: 22px;
+            max-width: 366px;
+            margin-bottom: 0;
+            padding-inline: 10px;
+        }
+
+        .learnV1Body {
+            grid-template-columns: 1fr;
+        }
+
+        .learnV1BodyMedia {
+            height: auto;
+        }
+
+        .learnV1BodyMediaImage {
+            height: auto;
+        }
+
+        .learnV1BodyList {
+            display: flex;
+            padding: 20px;
+        }
+
+        .learnV1BodyListInner {
+            gap: 9px;
+            max-width: 400px;
+        }
+
+        .learnV1BodyListItemInnerButton {
+            grid-template-columns: 20px 1fr;
+            gap: 12px;
+            font-size: 16px;
+        }
+
+        .learnV1BodyListItemContentInnerText {
+            font-size: 14px;
+            padding: 7px 0 0 36px;
+        }
+
+        .learnV1Included {
+            border-radius: 5px;
+            max-width: 326px;
+            margin: 40px auto 0;
+            padding: 16px 10px;
+        }
+
+        .learnV1IncludedTitle {
+            font-size: 24px;
+            line-height: 1.25;
+            margin-bottom: 7px;
+        }
+
+        .learnV1IncludedBody {
+            font-size: 20px;
+            line-height: 22px;
+            font-weight: 500;
+        }
+
+        .learnV1Button {
+            margin: 38px auto 0;
+        }
+
+        .learnV1Under {
+            font-size: 12px;
+            line-height: 13px;
+            margin: 10px auto 0;
+        }
+
+    }
+
+</style>
+
+
+<section id="template--16608837304518__section_learn_v1_GwAyRq">
+    <div class="learnV1">
+        <div class="learnV1Tag">WHAT YOU'LL LEARN</div>
+        <h2 class="learnV1Title">Everything you need, nothing you don't.</h2>
+        <div class="learnV1Text">10 core lessons you can watch, read or listen to podcast-style. Plus bonus sections for when you need more support.</div>
+        <div class="learnV1Body">
+            <picture class="learnV1BodyMedia">
+                <source media="(max-width: 400px)"
+                        srcset="//feedinglittles.com/cdn/shop/files/Clip_path_group_2_91235635-5228-46d5-be41-d640ba64c8d2.png?v=1779284378&width=700">
+                <source media="(max-width: 800px)"
+                        srcset="//feedinglittles.com/cdn/shop/files/Clip_path_group_2_91235635-5228-46d5-be41-d640ba64c8d2.png?v=1779284378&width=1000">
+                <source srcset="//feedinglittles.com/cdn/shop/files/Clip_path_group_2_91235635-5228-46d5-be41-d640ba64c8d2.png?v=1779284378&width=1000">
+                <img class="learnV1BodyMediaImage" src="//feedinglittles.com/cdn/shop/files/Clip_path_group_2_91235635-5228-46d5-be41-d640ba64c8d2.png?v=1779284378&width=1000"
+                     alt="woman feeding a baby">
+            </picture>
+            <div class="learnV1BodyList">
+                <ul class="learnV1BodyListInner">
+                    
+                        <li class="learnV1BodyListItem">
+                            <button class="learnV1BodyListItemInnerButton" type="button"
+                                    aria-controls="item_R8JJCg-list" aria-expanded="false">
+                                <img class="learnV1BodyListItemInnerButtonImage"
+                                     src="//feedinglittles.com/cdn/shop/files/Clip_path_group_3_cc1561a7-59f5-42e9-bea2-06f6585a7434.png?v=1779284516&width=60"
+                                     alt="" loading="lazy">
+                                <span>Is my baby ready? What if they’re not?</span>
+                            </button>
+                            <div class="learnV1BodyListItemContent" id="item_R8JJCg-list">
+                                <div class="learnV1BodyListItemContentInner">
+                                    <div class="learnV1BodyListItemContentInnerText">Learn the developmental cues that actually signal readiness (not just an age on a chart), plus how to help them if they’re not showing readiness signs.</div>
+                                </div>
+                            </div>
+                        </li>
+                    
+                        <li class="learnV1BodyListItem">
+                            <button class="learnV1BodyListItemInnerButton" type="button"
+                                    aria-controls="item_4cNh63-list" aria-expanded="false">
+                                <img class="learnV1BodyListItemInnerButtonImage"
+                                     src="//feedinglittles.com/cdn/shop/files/Clip_path_group_3_cc1561a7-59f5-42e9-bea2-06f6585a7434.png?v=1779284516&width=60"
+                                     alt="" loading="lazy">
+                                <span>Safety: gagging vs. choking</span>
+                            </button>
+                            <div class="learnV1BodyListItemContent" id="item_4cNh63-list">
+                                <div class="learnV1BodyListItemContentInner">
+                                    <div class="learnV1BodyListItemContentInnerText">Understand what's normal, what's not, and how to respond confidently to each.</div>
+                                </div>
+                            </div>
+                        </li>
+                    
+                        <li class="learnV1BodyListItem">
+                            <button class="learnV1BodyListItemInnerButton" type="button"
+                                    aria-controls="item_xUVnM6-list" aria-expanded="false">
+                                <img class="learnV1BodyListItemInnerButtonImage"
+                                     src="//feedinglittles.com/cdn/shop/files/Clip_path_group_3_cc1561a7-59f5-42e9-bea2-06f6585a7434.png?v=1779284516&width=60"
+                                     alt="" loading="lazy">
+                                <span>Your first foods: what to serve and how</span>
+                            </button>
+                            <div class="learnV1BodyListItemContent" id="item_xUVnM6-list">
+                                <div class="learnV1BodyListItemContentInner">
+                                    <div class="learnV1BodyListItemContentInnerText">Practical guidance on texture, size, and shape so you never have to Google it again.</div>
+                                </div>
+                            </div>
+                        </li>
+                    
+                        <li class="learnV1BodyListItem">
+                            <button class="learnV1BodyListItemInnerButton" type="button"
+                                    aria-controls="item_hwrrme-list" aria-expanded="false">
+                                <img class="learnV1BodyListItemInnerButtonImage"
+                                     src="//feedinglittles.com/cdn/shop/files/Clip_path_group_3_cc1561a7-59f5-42e9-bea2-06f6585a7434.png?v=1779284516&width=60"
+                                     alt="" loading="lazy">
+                                <span>Introducing allergens</span>
+                            </button>
+                            <div class="learnV1BodyListItemContent" id="item_hwrrme-list">
+                                <div class="learnV1BodyListItemContentInner">
+                                    <div class="learnV1BodyListItemContentInnerText">A clear, low-stress protocol for the top allergens. Know exactly when, how and how much.</div>
+                                </div>
+                            </div>
+                        </li>
+                    
+                        <li class="learnV1BodyListItem">
+                            <button class="learnV1BodyListItemInnerButton" type="button"
+                                    aria-controls="item_h8WMRm-list" aria-expanded="false">
+                                <img class="learnV1BodyListItemInnerButtonImage"
+                                     src="//feedinglittles.com/cdn/shop/files/Clip_path_group_3_cc1561a7-59f5-42e9-bea2-06f6585a7434.png?v=1779284516&width=60"
+                                     alt="" loading="lazy">
+                                <span>Iron, nutrition & supplements</span>
+                            </button>
+                            <div class="learnV1BodyListItemContent" id="item_h8WMRm-list">
+                                <div class="learnV1BodyListItemContentInner">
+                                    <div class="learnV1BodyListItemContentInnerText">What babies actually need, and how to make sure they're getting it.</div>
+                                </div>
+                            </div>
+                        </li>
+                    
+                        <li class="learnV1BodyListItem">
+                            <button class="learnV1BodyListItemInnerButton" type="button"
+                                    aria-controls="item_NPXUAC-list" aria-expanded="false">
+                                <img class="learnV1BodyListItemInnerButtonImage"
+                                     src="//feedinglittles.com/cdn/shop/files/Clip_path_group_3_cc1561a7-59f5-42e9-bea2-06f6585a7434.png?v=1779284516&width=60"
+                                     alt="" loading="lazy">
+                                <span>Cups, straws & utensils</span>
+                            </button>
+                            <div class="learnV1BodyListItemContent" id="item_NPXUAC-list">
+                                <div class="learnV1BodyListItemContentInner">
+                                    <div class="learnV1BodyListItemContentInnerText">How to teach your baby to drink from an open cup, straw, and use a spoon and fork.</div>
+                                </div>
+                            </div>
+                        </li>
+                    
+                        <li class="learnV1BodyListItem">
+                            <button class="learnV1BodyListItemInnerButton" type="button"
+                                    aria-controls="item_WUVJH7-list" aria-expanded="false">
+                                <img class="learnV1BodyListItemInnerButtonImage"
+                                     src="//feedinglittles.com/cdn/shop/files/Clip_path_group_3_cc1561a7-59f5-42e9-bea2-06f6585a7434.png?v=1779284516&width=60"
+                                     alt="" loading="lazy">
+                                <span>Milk feeds & scheduling</span>
+                            </button>
+                            <div class="learnV1BodyListItemContent" id="item_WUVJH7-list">
+                                <div class="learnV1BodyListItemContentInner">
+                                    <div class="learnV1BodyListItemContentInnerText">How solids fit alongside breastfeeding or formula, and how to adjust over time.</div>
+                                </div>
+                            </div>
+                        </li>
+                    
+                        <li class="learnV1BodyListItem">
+                            <button class="learnV1BodyListItemInnerButton" type="button"
+                                    aria-controls="item_4wmDNY-list" aria-expanded="false">
+                                <img class="learnV1BodyListItemInnerButtonImage"
+                                     src="//feedinglittles.com/cdn/shop/files/Clip_path_group_3_cc1561a7-59f5-42e9-bea2-06f6585a7434.png?v=1779284516&width=60"
+                                     alt="" loading="lazy">
+                                <span>Messy eating & building independence</span>
+                            </button>
+                            <div class="learnV1BodyListItemContent" id="item_4wmDNY-list">
+                                <div class="learnV1BodyListItemContentInner">
+                                    <div class="learnV1BodyListItemContentInnerText">Why mess is a good sign, and how to encourage self-feeding without losing your mind.</div>
+                                </div>
+                            </div>
+                        </li>
+                    
+                        <li class="learnV1BodyListItem">
+                            <button class="learnV1BodyListItemInnerButton" type="button"
+                                    aria-controls="item_rGwghD-list" aria-expanded="false">
+                                <img class="learnV1BodyListItemInnerButtonImage"
+                                     src="//feedinglittles.com/cdn/shop/files/Clip_path_group_3_cc1561a7-59f5-42e9-bea2-06f6585a7434.png?v=1779284516&width=60"
+                                     alt="" loading="lazy">
+                                <span>BONUS: Troubleshooting</span>
+                            </button>
+                            <div class="learnV1BodyListItemContent" id="item_rGwghD-list">
+                                <div class="learnV1BodyListItemContentInner">
+                                    <div class="learnV1BodyListItemContentInnerText">Baby refusing food? Constipated? Gagging a lot? We cover the most common struggles.</div>
+                                </div>
+                            </div>
+                        </li>
+                    
+                        <li class="learnV1BodyListItem">
+                            <button class="learnV1BodyListItemInnerButton" type="button"
+                                    aria-controls="item_dfTJE7-list" aria-expanded="false">
+                                <img class="learnV1BodyListItemInnerButtonImage"
+                                     src="//feedinglittles.com/cdn/shop/files/Clip_path_group_3_cc1561a7-59f5-42e9-bea2-06f6585a7434.png?v=1779284516&width=60"
+                                     alt="" loading="lazy">
+                                <span>BONUS: Transitioning from purees</span>
+                            </button>
+                            <div class="learnV1BodyListItemContent" id="item_dfTJE7-list">
+                                <div class="learnV1BodyListItemContentInner">
+                                    <div class="learnV1BodyListItemContentInnerText">A full step-by-step protocol if your baby is resistant to moving to finger foods.</div>
+                                </div>
+                            </div>
+                        </li>
+                    
+                </ul>
+            </div>
+        </div>
+        
+            <div class="learnV1Included">
+                <div class="learnV1IncludedTitle">ALSO INCLUDED</div>
+                <div class="learnV1IncludedBody">14 printable handouts • Baby-led weaning food guide with photos • Baby's first grocery list • Sample meal plan • Choking hazard chart • A letter to grandparents & daycare • Cooking crash course and more</div>
+            </div>
+        
+        
+        
+    </div>
+</section>
+
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        const section = document.querySelector(`[id="template--16608837304518__section_learn_v1_GwAyRq"]`);
+        // listeners on all buttons
+        section.querySelectorAll('.learnV1BodyListItemInnerButton').forEach(el => {
+            el.addEventListener("click", function () {
+                if (this.classList.contains('active')) {
+                    this.classList.remove('active');
+                    this.setAttribute('aria-expanded', 'false');
+                    return;
+                }
+                section.querySelectorAll('.learnV1BodyListItemInnerButton').forEach(el => {
+                    el === this ? el.classList.add('active') : el.classList.remove('active');
+                    el === this ? el.setAttribute('aria-expanded', 'true') : el.setAttribute('aria-expanded', 'false');
+                })
+            })
+        })
+    })
+</script>
+
+</div><div id="shopify-section-template--16608837304518__section_course_reviews_v1_aG9mWR" class="shopify-section"><style>
+
+    [id="template--16608837304518__section_course_reviews_v1_aG9mWR"] {
+        background-color: #FD9E82;
+        color: #ffffff;
+    }
+
+    .coursesReviewsV1 {
+        padding-block: 80px 59px;
+    }
+
+    .coursesReviewsV1Title {
+        font-family: Poppins, sans-serif;
+        font-weight: 800;
+        font-size: 64px;
+        line-height: 1;
+        letter-spacing: -.03em;
+        text-align: center;
+        padding-inline: 10px;
+    }
+
+    .coursesReviewsV1Swiper {
+        padding: 60px 20px;
+    }
+
+    .coursesReviewsV1SwiperSlide {
+        height: auto;
+        display: flex;
+        align-items: center;
+    }
+
+    .coursesReviewsV1SwiperSlideItem {
+        object-fit: contain;
+        margin-block: auto;
+    }
+
+    .coursesReviewsV1ButtonWrap {
+        padding-inline: 20px;
+    }
+
+    .coursesReviewsV1Button {
+        margin-inline: auto;
+    }
+
+    [id="template--16608837304518__section_course_reviews_v1_aG9mWR"] .coursesReviewsV1Button {
+        background-color: #A4C6AF;
+        color: #000;
+    }
+
+    @media (max-width: 800px) {
+
+        .coursesReviewsV1 {
+            padding-block: 45px 40px;
+        }
+
+        .coursesReviewsV1Title {
+            font-size: 36px;
+        }
+
+        .coursesReviewsV1Swiper {
+            padding: 40px 20px;
+            --swiper-navigation-size: 20px;
+        }
+
+        .coursesReviewsV1Button {
+            margin-inline: auto;
+        }
+
+        [id="template--16608837304518__section_course_reviews_v1_aG9mWR"] .coursesReviewsV1Button {
+            background-color: #A4C6AF;
+            color: #000;
+        }
+
+    }
+
+</style>
+
+<section id="template--16608837304518__section_course_reviews_v1_aG9mWR">
+    <div class="coursesReviewsV1">
+
+        <div class="coursesReviewsV1Title">What parents like you are saying</div>
+
+        <div class="coursesReviewsV1Swiper swiper">
+            <div class="swiper-wrapper">
+                
+                    
+                        <div class="swiper-slide coursesReviewsV1SwiperSlide">
+                            <img class="coursesReviewsV1SwiperSlideItem" src="//feedinglittles.com/cdn/shop/files/Group_253.png?v=1781817198&width=700" alt=""/>
+                        </div>
+                    
+                        <div class="swiper-slide coursesReviewsV1SwiperSlide">
+                            <img class="coursesReviewsV1SwiperSlideItem" src="//feedinglittles.com/cdn/shop/files/Group_250.png?v=1781817180&width=700" alt=""/>
+                        </div>
+                    
+                        <div class="swiper-slide coursesReviewsV1SwiperSlide">
+                            <img class="coursesReviewsV1SwiperSlideItem" src="//feedinglittles.com/cdn/shop/files/Group_251.png?v=1781817187&width=700" alt=""/>
+                        </div>
+                    
+                        <div class="swiper-slide coursesReviewsV1SwiperSlide">
+                            <img class="coursesReviewsV1SwiperSlideItem" src="//feedinglittles.com/cdn/shop/files/Group_252.png?v=1781817195&width=700" alt=""/>
+                        </div>
+                    
+                        <div class="swiper-slide coursesReviewsV1SwiperSlide">
+                            <img class="coursesReviewsV1SwiperSlideItem" src="//feedinglittles.com/cdn/shop/files/Group_254.png?v=1781817202&width=700" alt=""/>
+                        </div>
+                    
+                        <div class="swiper-slide coursesReviewsV1SwiperSlide">
+                            <img class="coursesReviewsV1SwiperSlideItem" src="//feedinglittles.com/cdn/shop/files/Group_255.png?v=1781817206&width=700" alt=""/>
+                        </div>
+                    
+                        <div class="swiper-slide coursesReviewsV1SwiperSlide">
+                            <img class="coursesReviewsV1SwiperSlideItem" src="//feedinglittles.com/cdn/shop/files/Group_256.png?v=1781817214&width=700" alt=""/>
+                        </div>
+                    
+                        <div class="swiper-slide coursesReviewsV1SwiperSlide">
+                            <img class="coursesReviewsV1SwiperSlideItem" src="//feedinglittles.com/cdn/shop/files/Group_257.png?v=1781817217&width=700" alt=""/>
+                        </div>
+                    
+                
+                    
+                        <div class="swiper-slide coursesReviewsV1SwiperSlide">
+                            <img class="coursesReviewsV1SwiperSlideItem" src="//feedinglittles.com/cdn/shop/files/Group_253.png?v=1781817198&width=700" alt=""/>
+                        </div>
+                    
+                        <div class="swiper-slide coursesReviewsV1SwiperSlide">
+                            <img class="coursesReviewsV1SwiperSlideItem" src="//feedinglittles.com/cdn/shop/files/Group_250.png?v=1781817180&width=700" alt=""/>
+                        </div>
+                    
+                        <div class="swiper-slide coursesReviewsV1SwiperSlide">
+                            <img class="coursesReviewsV1SwiperSlideItem" src="//feedinglittles.com/cdn/shop/files/Group_251.png?v=1781817187&width=700" alt=""/>
+                        </div>
+                    
+                        <div class="swiper-slide coursesReviewsV1SwiperSlide">
+                            <img class="coursesReviewsV1SwiperSlideItem" src="//feedinglittles.com/cdn/shop/files/Group_252.png?v=1781817195&width=700" alt=""/>
+                        </div>
+                    
+                        <div class="swiper-slide coursesReviewsV1SwiperSlide">
+                            <img class="coursesReviewsV1SwiperSlideItem" src="//feedinglittles.com/cdn/shop/files/Group_254.png?v=1781817202&width=700" alt=""/>
+                        </div>
+                    
+                        <div class="swiper-slide coursesReviewsV1SwiperSlide">
+                            <img class="coursesReviewsV1SwiperSlideItem" src="//feedinglittles.com/cdn/shop/files/Group_255.png?v=1781817206&width=700" alt=""/>
+                        </div>
+                    
+                        <div class="swiper-slide coursesReviewsV1SwiperSlide">
+                            <img class="coursesReviewsV1SwiperSlideItem" src="//feedinglittles.com/cdn/shop/files/Group_256.png?v=1781817214&width=700" alt=""/>
+                        </div>
+                    
+                        <div class="swiper-slide coursesReviewsV1SwiperSlide">
+                            <img class="coursesReviewsV1SwiperSlideItem" src="//feedinglittles.com/cdn/shop/files/Group_257.png?v=1781817217&width=700" alt=""/>
+                        </div>
+                    
+                
+            </div>
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+        </div>
+
+        <div class="coursesReviewsV1ButtonWrap">
+            <a class="coursesReviewsV1Button buttonV1" target="_blank"
+               href="https://courses.feedinglittles.com/purchase?product_id=5602290&_gl=1*uz4dcq*_ga*MTg3MjY2NTMwMS4xNzc5OTEyMTU0*_ga_PDQYK6NVSP*czE3Nzk5MTIxNTMkbzEkZzEkdDE3Nzk5MTI3OTAkajM4JGwwJGgw">Get the course - $59 <em>$79</em></a>
+        </div>
+    </div>
+</section>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        new Swiper(`[id="template--16608837304518__section_course_reviews_v1_aG9mWR"] .swiper`, {
+            slidesPerView: 1,
+            loop: true,
+            centeredSlides: true,
+            spaceBetween: 20,
+            navigation: {
+                nextEl: `[id="template--16608837304518__section_course_reviews_v1_aG9mWR"] .swiper-button-next`,
+                prevEl: `[id="template--16608837304518__section_course_reviews_v1_aG9mWR"] .swiper-button-prev`,
+            },
+            breakpoints: {
+                600: {
+                    slidesPerView: 1.5,
+                },
+                800: {
+                    slidesPerView: 2,
+                },
+                1000: {
+                    slidesPerView: 3,
+                    initialSlide: 3,
+                },
+                1400: {
+                    slidesPerView: 4,
+                    initialSlide: 3,
+                },
+                1800: {
+                    slidesPerView: 5,
+                    initialSlide: 3,
+                },
+                2200: {
+                    slidesPerView: 6,
+                    initialSlide: 3,
+                }
+            },
+            autoplay: {
+                delay: 10000,
+                disableOnInteraction: false
+            },
+            speed: 2000
+        });
+    })
+
+</script>
+
+</div><div id="shopify-section-template--16608837304518__section_designed_v1_YFjPMD" class="shopify-section"><style>
+
+    [id="template--16608837304518__section_designed_v1_YFjPMD"] {
+        padding: 74px 20px 26px;
+    }
+
+    .designedV1 {
+        margin-inline: auto;
+        max-width: 1366px;
+        font-family: Poppins, sans-serif;
+    }
+
+    .designedV1Header {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .designedV1HeaderTag {
+        font-weight: 800;
+        font-size: 36px;
+        line-height: 95px;
+        letter-spacing: .05em;
+    }
+
+    [id="template--16608837304518__section_designed_v1_YFjPMD"] .designedV1HeaderTag {
+        color: #c86e3d;
+    }
+
+    .designedV1HeaderTitle {
+        font-weight: 800;
+        font-size: 64px;
+        line-height: 95px;
+        letter-spacing: -.03em;
+    }
+
+    [id="template--16608837304518__section_designed_v1_YFjPMD"] .designedV1HeaderTitle {
+        color: #2f4e37;
+    }
+
+    .designedV1HeaderText {
+        font-size: 37px;
+        line-height: 45px;
+        max-width: 1198px;
+        letter-spacing: -.04em;
+        margin-inline: auto;
+    }
+
+    [id="template--16608837304518__section_designed_v1_YFjPMD"] .designedV1HeaderText {
+        color: #2e2e2c;
+    }
+
+    .designedV1Grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: clamp(20px, 34dvw, 37px);
+        max-width: 1047px;
+        margin-inline: auto;
+    }
+
+    .designedV1GridCard {
+        position: relative;
+        border-radius: 16px;
+        padding: 30px 40px;
+        min-height: 266px;
+    }
+
+    [id="template--16608837304518__section_designed_v1_YFjPMD"] .designedV1GridCard {
+        background-color: #fff;
+        color: #696864;
+    }
+
+    .designedV1GridCardTitle {
+        font-weight: 600;
+        font-size: 30px;
+        line-height: 37px;
+        letter-spacing: -.04em;
+        margin-bottom: 34px;
+        padding-right: 40px;
+    }
+
+    .designedV1GridCardIcon {
+        position: absolute;
+        top: 0;
+        right: 0;
+        object-fit: contain;
+    }
+
+    .designedV1GridCardText {
+        font-size: 24px;
+        line-height: 32px;
+        font-weight: 500;
+    }
+
+    .designedV1Included {
+        border-radius: 17px;
+        padding: 26px 30px;
+        text-align: center;
+        font-weight: 600;
+        font-size: 26px;
+        line-height: 40px;
+        letter-spacing: .02em;
+        max-width: 1113px;
+        margin: 96px auto 0;
+    }
+
+    [id="template--16608837304518__section_designed_v1_YFjPMD"] .designedV1Included {
+        background-color: #b4cfbd;
+        color: #2e2e2c;
+    }
+
+    .designedV1Button {
+        margin: 49px auto 0;
+    }
+
+    [id="template--16608837304518__section_designed_v1_YFjPMD"] .designedV1Button {
+        background-color: #fd9e82;
+        color: #000000;
+    }
+
+    .designedV1Guarantee {
+        font-size: 24px;
+        line-height: 45px;
+        font-weight: 600;
+        letter-spacing: -.04em;
+        margin: 49px auto 0;
+        text-align: center;
+    }
+
+    [id="template--16608837304518__section_designed_v1_YFjPMD"] .designedV1Guarantee {
+        color: #2e2e2c;
+    }
+
+    @media (max-width: 800px) {
+
+        [id="template--16608837304518__section_designed_v1_YFjPMD"] {
+            padding: 44px 20px 24px;
+        }
+
+        .designedV1Header {
+            margin-bottom: 21px;
+        }
+
+        .designedV1HeaderTag {
+            font-size: 12px;
+            line-height: 28px;
+        }
+
+        .designedV1HeaderTitle {
+            font-size: 24px;
+            line-height: 28px;
+        }
+
+        .designedV1HeaderText {
+            font-size: 20px;
+            line-height: 22px;
+            max-width: 359px;
+            margin-top: 8px;
+        }
+
+        .designedV1Grid {
+            grid-template-columns: 1fr;
+            gap: 22px;
+        }
+
+        .designedV1GridCard {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            border-radius: 11px;
+            padding: 20px 24px;
+            min-height: 171px;
+            max-width: 326px;
+            margin-inline: auto;
+        }
+
+        .designedV1GridCardTitle {
+            font-size: 20px;
+            line-height: 24px;
+            margin-bottom: 20px;
+            padding-right: 9px;
+        }
+
+        .designedV1GridCardText {
+            font-size: 20px;
+            line-height: 25px;
+            margin-block: auto;
+        }
+
+        .designedV1Included {
+            border-radius: 5px;
+            padding: 20px;
+            font-size: 20px;
+            line-height: 22px;
+            margin: 57px auto 0;
+        }
+
+        .designedV1Button {
+            margin: 16px auto 0;
+        }
+
+        .designedV1Guarantee {
+            font-size: 12px;
+            line-height: 14px;
+            margin: 11px auto 0;
+        }
+
+    }
+
+    /* card icons */
+    
+
+    [id="card_eKpKTd"] {
+        width: 30%;
+        transform: translateX(-11%) translateY(17.5%);
+    }
+
+    
+
+    [id="card_awmQ4A"] {
+        width: 16%;
+        transform: translateX(-19.5%) translateY(14.5%);
+    }
+
+    
+
+    [id="card_zEqbyq"] {
+        width: 24%;
+        transform: translateX(-34%) translateY(-40.7%);
+    }
+
+    
+
+    [id="card_W3igMz"] {
+        width: 29%;
+        transform: translateX(-9.9%) translateY(4.5%);
+    }
+
+    
+</style>
+
+
+<section id="template--16608837304518__section_designed_v1_YFjPMD">
+    <div class="designedV1">
+        <div class="designedV1Header">
+            
+                <div class="designedV1HeaderTag">DESIGNED FOR REAL LIFE</div>
+            
+            <h2 class="designedV1HeaderTitle">Made for busy families</h2>
+            <div class="designedV1HeaderText">Short, flexible lessons designed for real life - whether you’re nap-trapped, on a walk or folding laundry. Get expert advice from the team that has seen it all on <em><strong>your </strong></em>schedule.</div>
+        </div>
+        <div class="designedV1Grid">
+            
+                <div class="designedV1GridCard">
+                    <div class="designedV1GridCardTitle">Watch it</div>
+                    <div class="designedV1GridCardText">Video lessons, closed-
+captioned. Each one starts with
+a summary so you know exactly
+what you're getting.</div>
+                    
+                        <img id="card_eKpKTd" class="designedV1GridCardIcon" src="//feedinglittles.com/cdn/shop/files/Group_52.png?v=1779294053&width=200" alt="" loading="lazy">
+                    
+                </div>
+            
+                <div class="designedV1GridCard">
+                    <div class="designedV1GridCardTitle">Listen like a podcast</div>
+                    <div class="designedV1GridCardText">Prep dinner, drive or walk the dog.
+Same content, no screen required.</div>
+                    
+                        <img id="card_awmQ4A" class="designedV1GridCardIcon" src="//feedinglittles.com/cdn/shop/files/Clip_path_group_7_b441ab75-eaa6-45b2-bc2e-f395b3b43b48.png?v=1779294053&width=200" alt="" loading="lazy">
+                    
+                </div>
+            
+                <div class="designedV1GridCard">
+                    <div class="designedV1GridCardTitle">Read the script</div>
+                    <div class="designedV1GridCardText">Prefer to skim and read? Every
+lesson is available as a full
+written script.</div>
+                    
+                        <img id="card_zEqbyq" class="designedV1GridCardIcon" src="//feedinglittles.com/cdn/shop/files/Group_56.png?v=1779294052&width=200" alt="" loading="lazy">
+                    
+                </div>
+            
+                <div class="designedV1GridCard">
+                    <div class="designedV1GridCardTitle">Revisit anytime</div>
+                    <div class="designedV1GridCardText">You have lifetime access. Come
+back if something isn’t going well or when you have another baby.</div>
+                    
+                        <img id="card_W3igMz" class="designedV1GridCardIcon" src="//feedinglittles.com/cdn/shop/files/Group_51.png?v=1779294053&width=200" alt="" loading="lazy">
+                    
+                </div>
+            
+        </div>
+        
+            <div class="designedV1Included">You also get access to our private Clients Only Facebook Group - a supportive community of parents going through the same thing, monitored by our team.</div>
+        
+        
+            <a class="designedV1Button buttonV1" target="_blank"
+               href="https://courses.feedinglittles.com/purchase?product_id=5602290&_gl=1*uz4dcq*_ga*MTg3MjY2NTMwMS4xNzc5OTEyMTU0*_ga_PDQYK6NVSP*czE3Nzk5MTIxNTMkbzEkZzEkdDE3Nzk5MTI3OTAkajM4JGwwJGgw">Start today - $59 <em>($79)</em></a>
+        
+        
+            <div class="designedV1Guarantee">30-day money-back guarantee</div>
+        
+    </div>
+</section>
+
+
+</div><div id="shopify-section-template--16608837304518__section_module_v1_iapyym" class="shopify-section"><style>
+
+    [id="template--16608837304518__section_module_v1_iapyym"] {
+        padding: 56px 20px 88px;
+    }
+
+    .moduleV1 {
+        margin-inline: auto;
+        max-width: 1366px;
+        font-family: Poppins, sans-serif;
+    }
+
+    .moduleV1Title {
+        font-weight: 800;
+        font-size: 72px;
+        line-height: 95px;
+        letter-spacing: -.03em;
+        text-align: center;
+        margin-bottom: 47px;
+    }
+
+    [id="template--16608837304518__section_module_v1_iapyym"] .moduleV1Title {
+        color: #2f4e37;
+    }
+
+    .moduleV1List {
+        display: flex;
+        flex-direction: column;
+        gap: 36px;
+        max-width: 1102px;
+        margin: 0 auto 50px;
+        padding: 0;
+        list-style: none;
+    }
+
+    .moduleV1ListItem {
+        display: grid;
+        grid-template-columns: auto 1fr;
+        column-gap: 25px;
+    }
+
+    .moduleV1ListItemBadge {
+        display: inline-flex;
+        align-items: center;
+        align-self: center;
+        grid-column: 1;
+        grid-row: 1;
+        padding: 18px 20px;
+        border-radius: 50px;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 1;
+    }
+
+    [id="template--16608837304518__section_module_v1_iapyym"] .moduleV1ListItemBadge {
+        background-color: #fff;
+        color: #c86e3d;
+    }
+
+    .moduleV1ListItemTitle {
+        grid-column: 2;
+        grid-row: 1;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 35px;
+        align-self: center;
+    }
+
+    [id="template--16608837304518__section_module_v1_iapyym"] .moduleV1ListItemTitle {
+        color: #696864;
+    }
+
+    .moduleV1ListItemText {
+        grid-column: 2;
+        grid-row: 2;
+        font-size: 26px;
+        line-height: 35px;
+    }
+
+    [id="template--16608837304518__section_module_v1_iapyym"] .moduleV1ListItemText {
+        color: #696864;
+    }
+
+    .moduleV1Media {
+        max-width: 1150px;
+        margin-inline: auto;
+    }
+
+    .moduleV1MediaImage {
+        object-fit: cover;
+    }
+
+    @media (max-width: 800px) {
+
+        [id="template--16608837304518__section_module_v1_iapyym"] {
+            padding: 22px 16px 42px;
+        }
+
+        .moduleV1Title {
+            font-size: 24px;
+            line-height: 28px;
+            margin-bottom: 21px;
+        }
+
+        .moduleV1List {
+            gap: 24px;
+            margin-bottom: 21px;
+        }
+
+        .moduleV1ListItem {
+            column-gap: 8px;
+        }
+
+        .moduleV1ListItemBadge {
+            padding: 7px 6px;
+            border-radius: 15px;
+            font-size: 12px;
+        }
+
+        .moduleV1ListItemTitle {
+            font-size: 18px;
+            line-height: 1;
+        }
+
+        .moduleV1ListItemText {
+            font-size: 18px;
+            line-height: 22px;
+        }
+
+    }
+
+</style>
+
+
+<section id="template--16608837304518__section_module_v1_iapyym">
+    <div class="moduleV1">
+        <h2 class="moduleV1Title">Bonus modules included</h2>
+        <ul class="moduleV1List">
+            
+                <li class="moduleV1ListItem">
+                    <span class="moduleV1ListItemBadge">BONUS</span>
+                    <div class="moduleV1ListItemTitle">Milk and Weaning eBook</div>
+                    <div class="moduleV1ListItemText">All your milk and weaning questions, answered - covering how to wean, how to keep breastfeeding if you choose, which milk to offer and how to make sure your child thrives whether they drink milk or not.</div>
+                </li>
+            
+                <li class="moduleV1ListItem">
+                    <span class="moduleV1ListItemBadge">BONUS</span>
+                    <div class="moduleV1ListItemTitle">Calorie Boosters for Babies</div>
+                    <div class="moduleV1ListItemText">If your baby has growth concerns, this printout shows you exactly how to pack more nutrition into every bite, with easy tips and recipes you can serve right away.</div>
+                </li>
+            
+                <li class="moduleV1ListItem">
+                    <span class="moduleV1ListItemBadge">BONUS</span>
+                    <div class="moduleV1ListItemTitle">Baby’s First Grocery List</div>
+                    <div class="moduleV1ListItemText">A complete, category-by-category shopping guide for your baby's first foods, including simple descriptions of how to prepare everything on the list so you're ready before you even get to the store.</div>
+                </li>
+            
+                <li class="moduleV1ListItem">
+                    <span class="moduleV1ListItemBadge">BONUS</span>
+                    <div class="moduleV1ListItemTitle">Handling family members and daycare</div>
+                    <div class="moduleV1ListItemText">Let this printable do the talking - a gentle, collaborative explanation of Baby-led Weaning for daycare providers and family members who aren't quite on board yet.</div>
+                </li>
+            
+        </ul>
+        
+            <picture class="moduleV1Media">
+                <source media="(max-width: 800px)" srcset="//feedinglittles.com/cdn/shop/files/Group_57.png?v=1779294054&width=1000">
+                <source srcset="//feedinglittles.com/cdn/shop/files/Group_57.png?v=1779294054&width=1600">
+                <img class="moduleV1MediaImage" src="//feedinglittles.com/cdn/shop/files/Group_57.png?v=1779294054&width=1600"
+                     alt="Bonus modules included">
+            </picture>
+        
+    </div>
+</section>
+
+
+</div><div id="shopify-section-template--16608837304518__section_right_v1_eGrGGd" class="shopify-section"><style>
+
+    [id="template--16608837304518__section_right_v1_eGrGGd"] {
+        padding: 0px 20px 108px;
+    }
+
+    .rightV1 {
+        margin-inline: auto;
+        max-width: 1256px;
+        font-family: Poppins, sans-serif;
+    }
+
+    .rightV1Title {
+        font-weight: 800;
+        font-size: 72px;
+        line-height: 95px;
+        letter-spacing: -.03em;
+        text-align: center;
+        margin-bottom: 56px;
+    }
+
+    [id="template--16608837304518__section_right_v1_eGrGGd"] .rightV1Title {
+        color: #2f4e37;
+    }
+
+    .rightV1Body {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 21px;
+    }
+
+    .rightV1BodyItem {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+        border-radius: 10px;
+        padding: 73px 53px 20px;
+    }
+
+    [id="template--16608837304518__section_right_v1_eGrGGd"] .rightV1BodyItem {
+        color: #696864;
+        background-color: #fff;
+    }
+
+    .rightV1BodyItemInner {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        margin: auto;
+    }
+
+    .rightV1BodyItemTitle {
+        font-weight: 800;
+        font-size: 26px;
+        line-height: 35px;
+        letter-spacing: .1em;
+        margin-bottom: 15px;
+    }
+
+    .rightV1BodyItemText {
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 35px;
+        letter-spacing: -.02em;
+        margin-bottom: 30px;
+    }
+
+    .rightV1BodyItemButton {
+        max-width: 439px;
+        margin: auto auto 0;
+        line-height: 30px;
+        border-radius: 30px;
+        min-height: 119px;
+        padding-block: 17px;
+    }
+
+    @media (max-width: 800px) {
+
+        [id="template--16608837304518__section_right_v1_eGrGGd"] {
+            padding: 0px 20px 45px;
+        }
+
+        .rightV1Title {
+            font-size: 24px;
+            line-height: 28px;
+            margin-bottom: 25px;
+        }
+
+        .rightV1Body {
+            grid-template-columns: 1fr;
+            gap: 18px;
+        }
+
+        .rightV1BodyItem {
+            border-radius: 5px;
+            padding: 36px 22px 26px;
+            margin-inline: auto;
+        }
+
+        .rightV1BodyItemTitle {
+            font-size: 20px;
+            line-height: 22px;
+            margin-bottom: 8px;
+        }
+
+        .rightV1BodyItemText {
+            font-size: 18px;
+            line-height: 20px;
+        }
+
+        .rightV1BodyItemButton {
+            max-width: 219px;
+            border-radius: 15px;
+            padding-block: 8px;
+            line-height: 15px;
+            min-height: 60px;
+        }
+
+        .rightV1BodyItemButton {
+        }
+
+    }
+
+</style>
+
+
+<section id="template--16608837304518__section_right_v1_eGrGGd">
+    <div class="rightV1">
+        <h2 class="rightV1Title">Is this course right for you?</h2>
+        <div class="rightV1Body">
+            
+                <div class="rightV1BodyItem">
+                    <div class="rightV1BodyItemInner">
+                        <div class="rightV1BodyItemTitle"
+                             style="color: #029777">THIS IS FOR YOU IF...</div>
+                        <div class="rightV1BodyItemText"><p>✓ Your baby is brand new to solid foods.<br/>✓ Your baby has already started solids, but you feel confused and scared.<br/>✓ Your baby currently eats pureed baby food, but you want to offer finger foods and you don’t know how to do it.<br/>✓ Solids aren’t going well and you need more support (baby isn’t interested, won’t eat a variety of foods, won’t self-feed).<br/>✓ In general, your baby is 5-12 months (or younger) - however, some families use this course with their one-year-old who isn’t self-feeding yet.</p></div>
+                        <a href="https://courses.feedinglittles.com/purchase?product_id=5602290&_gl=1*ud90n0*_ga*MjQyNTUwNTYwLjE3NzkzMDI2NTM.*_ga_PDQYK6NVSP*czE3NzkzMDI2NTIkbzEkZzAkdDE3NzkzMDI2NTIkajYwJGwwJGgw" 
+                           style="background-color: #a4c6af; color: "
+                           class="rightV1BodyItemButton buttonV1">Take me to the Infant Course</a>
+                    </div>
+                </div>
+            
+                <div class="rightV1BodyItem">
+                    <div class="rightV1BodyItemInner">
+                        <div class="rightV1BodyItemTitle"
+                             style="color: #c86d3d">CONSIDER THE TODDLER & KID COURSE IF...</div>
+                        <div class="rightV1BodyItemText"><p>→ Your baby already feeds themselves solids and you’re looking for ways to prevent picky eating in toddlerhood.<br/>→ You’re dealing with picky eating in toddlerhood.<br/>→ In general, your child is 12 months or older.</p></div>
+                        <a href="https://courses.feedinglittles.com/purchase?product_id=5602311&_gl=1*1xkudvf*_ga*MTU2NTk0OTgxOC4xNzc5MzAyNTE2*_ga_PDQYK6NVSP*czE3NzkzMDI1MTYkbzEkZzEkdDE3NzkzMDI1MjUkajUxJGwwJGgw" 
+                           style="background-color: ; color: "
+                           class="rightV1BodyItemButton buttonV1">Check out our Toddler & Kid Course here</a>
+                    </div>
+                </div>
+            
+        </div>
+    </div>
+</section>
+
+</div><div id="shopify-section-template--16608837304518__section_faq_v1_9kxdaj" class="shopify-section"><style>
+
+    [id="template--16608837304518__section_faq_v1_9kxdaj"] {
+        padding: 84px 20px 84px;
+        background-color: #2F4E37;
+        color: #fff;
+    }
+
+    .faqV1 {
+        margin-inline: auto;
+        max-width: 964px;
+        font-family: Poppins, sans-serif;
+    }
+
+    .faqV1Title {
+        font-weight: 800;
+        font-size: 72px;
+        line-height: 95px;
+        letter-spacing: -.03em;
+        text-align: center;
+        margin-bottom: 47px;
+    }
+
+    .faqV1Body {
+        display: flex;
+        flex-direction: column;
+        gap: 22px;
+        padding: 0;
+        margin: 0;
+        list-style: none;
+    }
+
+    .faqV1BodyItem {
+        display: flex;
+        flex-direction: column;
+        letter-spacing: -.04em;
+    }
+
+    .faqV1BodyItemButton {
+        display: grid;
+        grid-template-columns: 1fr 34px;
+        align-items: center;
+        gap: 10px;
+        padding: 14px 30px;
+        cursor: pointer;
+        font-weight: 600;
+        font-size: 26px;
+        line-height: 45px;
+        border-radius: 50px;
+        border: 4px solid;
+    }
+
+    [id="template--16608837304518__section_faq_v1_9kxdaj"] .faqV1BodyItemButton {
+        border-color: #fff;
+    }
+
+    .faqV1BodyItemButtonSvg {
+        object-fit: contain;
+        transition: ease-in 0.3s;
+        transform: rotateX(180deg);
+    }
+
+    .faqV1BodyItemButton.active
+    .faqV1BodyItemButtonSvg {
+        transform: rotateX(0);
+    }
+
+    .faqV1BodyItemContent {
+        display: grid;
+        grid-template-rows: 0fr;
+        transition: ease-out .4s;
+    }
+
+    .faqV1BodyItemButton.active +
+    .faqV1BodyItemContent {
+        grid-template-rows: 1fr;
+    }
+
+    .faqV1BodyItemContentInner {
+        overflow: hidden;
+    }
+
+    .faqV1BodyItemContentInnerText {
+        font-size: 24px;
+        line-height: 1.25;
+        padding: 14px 38px 0 42px;
+    }
+
+    @media (max-width: 800px) {
+
+        [id="template--16608837304518__section_faq_v1_9kxdaj"] {
+            padding: 24px 20px 44px;
+        }
+
+        .faqV1Title {
+            font-size: 24px;
+            line-height: 28px;
+            margin-bottom: 9px;
+        }
+
+        .faqV1Body {
+            gap: 9px;
+        }
+
+        .faqV1BodyItemButton {
+            grid-template-columns: 1fr 11px;
+            padding: 7px 14px;
+            font-size: 20px;
+            line-height: 22px;
+            border-radius: 15px;
+            border-width: 1px;
+        }
+
+        .faqV1BodyItemButtonSvg {
+            width: 11px;
+            height: 5px;
+        }
+
+        .faqV1BodyItemContentInnerText {
+            font-size: 18px;
+            line-height: 1.25;
+            padding: 3px 14px 0;
+        }
+
+    }
+
+</style>
+
+
+<section id="template--16608837304518__section_faq_v1_9kxdaj">
+    <div class="faqV1">
+        <h2 class="faqV1Title">Common questions</h2>
+        <ul class="faqV1Body">
+            
+                <li class="faqV1BodyItem">
+                    <button class="faqV1BodyItemButton" type="button"
+                            aria-controls="item_gEjpfd-list" aria-expanded="true">
+                        <span>What age is this course for?</span>
+                        <svg class="faqV1BodyItemButtonSvg" aria-hidden="true" width="38" height="19"
+                             viewBox="0 0 38 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M35.9092 16.6641L19.0858 1.75202C18.7072 1.41647 18.1377 1.41647 17.7591 1.75202L1.49982 16.1641"
+                                  stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+                        </svg>
+                    </button>
+                    <div class="faqV1BodyItemContent" id="item_gEjpfd-list">
+                        <div class="faqV1BodyItemContentInner">
+                            <div class="faqV1BodyItemContentInnerText"><p>The course is designed for babies 5-12 months. We recommend taking it around 5 months so you're ready before solids begin, but it's helpful at any point. If your baby is already over 10 months and self-feeding, the <span style="text-decoration:underline">Toddler & Kid Course</span> is a better fit.</p></div>
+                        </div>
+                    </div>
+                </li>
+            
+                <li class="faqV1BodyItem">
+                    <button class="faqV1BodyItemButton" type="button"
+                            aria-controls="item_hhitRA-list" aria-expanded="true">
+                        <span>We already started with purees - is it too late?</span>
+                        <svg class="faqV1BodyItemButtonSvg" aria-hidden="true" width="38" height="19"
+                             viewBox="0 0 38 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M35.9092 16.6641L19.0858 1.75202C18.7072 1.41647 18.1377 1.41647 17.7591 1.75202L1.49982 16.1641"
+                                  stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+                        </svg>
+                    </button>
+                    <div class="faqV1BodyItemContent" id="item_hhitRA-list">
+                        <div class="faqV1BodyItemContentInner">
+                            <div class="faqV1BodyItemContentInnerText"><p>Not at all. The course has a full section on transitioning from purees to finger foods, including a Texture Graduation Protocol for babies who are resistant to the change. It's never too late!</p></div>
+                        </div>
+                    </div>
+                </li>
+            
+                <li class="faqV1BodyItem">
+                    <button class="faqV1BodyItemButton" type="button"
+                            aria-controls="item_mjiK7i-list" aria-expanded="true">
+                        <span>Is this only baby-led weaning, or does it cover spoon-feeding too?</span>
+                        <svg class="faqV1BodyItemButtonSvg" aria-hidden="true" width="38" height="19"
+                             viewBox="0 0 38 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M35.9092 16.6641L19.0858 1.75202C18.7072 1.41647 18.1377 1.41647 17.7591 1.75202L1.49982 16.1641"
+                                  stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+                        </svg>
+                    </button>
+                    <div class="faqV1BodyItemContent" id="item_mjiK7i-list">
+                        <div class="faqV1BodyItemContentInner">
+                            <div class="faqV1BodyItemContentInnerText"><p>The course focuses on self-feeding and BLW, but it also covers how to offer purees in a way your baby can feed themselves. It also goes over how to transition from spoon-feeding when you're ready. We meet you where you are.</p></div>
+                        </div>
+                    </div>
+                </li>
+            
+                <li class="faqV1BodyItem">
+                    <button class="faqV1BodyItemButton" type="button"
+                            aria-controls="item_efteNe-list" aria-expanded="true">
+                        <span>My baby was premature. Will this course work for us?</span>
+                        <svg class="faqV1BodyItemButtonSvg" aria-hidden="true" width="38" height="19"
+                             viewBox="0 0 38 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M35.9092 16.6641L19.0858 1.75202C18.7072 1.41647 18.1377 1.41647 17.7591 1.75202L1.49982 16.1641"
+                                  stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+                        </svg>
+                    </button>
+                    <div class="faqV1BodyItemContent" id="item_efteNe-list">
+                        <div class="faqV1BodyItemContentInner">
+                            <div class="faqV1BodyItemContentInnerText"><p>Many preemie families have taken the course successfully. We recommend discussing readiness cues with your pediatrician first, as premature babies may be ready at a different adjusted age. The course content itself is still highly applicable.</p></div>
+                        </div>
+                    </div>
+                </li>
+            
+                <li class="faqV1BodyItem">
+                    <button class="faqV1BodyItemButton" type="button"
+                            aria-controls="item_MJQX6x-list" aria-expanded="true">
+                        <span>How long do I have access?</span>
+                        <svg class="faqV1BodyItemButtonSvg" aria-hidden="true" width="38" height="19"
+                             viewBox="0 0 38 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M35.9092 16.6641L19.0858 1.75202C18.7072 1.41647 18.1377 1.41647 17.7591 1.75202L1.49982 16.1641"
+                                  stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+                        </svg>
+                    </button>
+                    <div class="faqV1BodyItemContent" id="item_MJQX6x-list">
+                        <div class="faqV1BodyItemContentInner">
+                            <div class="faqV1BodyItemContentInnerText"><p>Forever - well, as long as we’re in the business of selling courses! Our courses don’t expire, so you can revisit it whenever you need a refresher, hit a new challenge or have another baby!</p></div>
+                        </div>
+                    </div>
+                </li>
+            
+                <li class="faqV1BodyItem">
+                    <button class="faqV1BodyItemButton" type="button"
+                            aria-controls="item_Qz8EKh-list" aria-expanded="true">
+                        <span>What if I don't have time to watch videos?</span>
+                        <svg class="faqV1BodyItemButtonSvg" aria-hidden="true" width="38" height="19"
+                             viewBox="0 0 38 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M35.9092 16.6641L19.0858 1.75202C18.7072 1.41647 18.1377 1.41647 17.7591 1.75202L1.49982 16.1641"
+                                  stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+                        </svg>
+                    </button>
+                    <div class="faqV1BodyItemContent" id="item_Qz8EKh-list">
+                        <div class="faqV1BodyItemContentInner">
+                            <div class="faqV1BodyItemContentInnerText"><p>Every lesson can be watched as a video, read as an article or listened to podcast-style. Most parents finish the core content in 2 hours, taken at their own pace.</p></div>
+                        </div>
+                    </div>
+                </li>
+            
+                <li class="faqV1BodyItem">
+                    <button class="faqV1BodyItemButton" type="button"
+                            aria-controls="item_je8eeb-list" aria-expanded="true">
+                        <span>How long is the Infant Course?</span>
+                        <svg class="faqV1BodyItemButtonSvg" aria-hidden="true" width="38" height="19"
+                             viewBox="0 0 38 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M35.9092 16.6641L19.0858 1.75202C18.7072 1.41647 18.1377 1.41647 17.7591 1.75202L1.49982 16.1641"
+                                  stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+                        </svg>
+                    </button>
+                    <div class="faqV1BodyItemContent" id="item_je8eeb-list">
+                        <div class="faqV1BodyItemContentInner">
+                            <div class="faqV1BodyItemContentInnerText"><p>At 2 hours, the course is fully self-paced: work through it in bite-sized chunks or jump straight to the section you need.</p></div>
+                        </div>
+                    </div>
+                </li>
+            
+                <li class="faqV1BodyItem">
+                    <button class="faqV1BodyItemButton" type="button"
+                            aria-controls="item_PiXCmF-list" aria-expanded="true">
+                        <span>I am a feeding professional. Do you offer CEUs for your courses?</span>
+                        <svg class="faqV1BodyItemButtonSvg" aria-hidden="true" width="38" height="19"
+                             viewBox="0 0 38 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M35.9092 16.6641L19.0858 1.75202C18.7072 1.41647 18.1377 1.41647 17.7591 1.75202L1.49982 16.1641"
+                                  stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+                        </svg>
+                    </button>
+                    <div class="faqV1BodyItemContent" id="item_PiXCmF-list">
+                        <div class="faqV1BodyItemContentInner">
+                            <div class="faqV1BodyItemContentInnerText"><p>At this time, our courses are not approved for CEUs for many health professionals. However, many childcare professionals or allied health professionals have been able to use our courses toward CEU hours by submitting a request to their certifying agency. If you need a certificate of completion for taking our courses, please email hello@feedinglittles.com</p></div>
+                        </div>
+                    </div>
+                </li>
+            
+        </ul>
+    </div>
+</section>
+
+<script>
+    document.addEventListener("DOMContentLoaded", async function () {
+        const section = document.querySelector(`[id="template--16608837304518__section_faq_v1_9kxdaj"]`);
+        // listeners on all buttons
+        section.querySelectorAll('.faqV1BodyItemButton').forEach(el => {
+            el.addEventListener("click", function () {
+                if (this.classList.contains('active')) {
+                    this.classList.remove('active');
+                    this.setAttribute('aria-expanded', 'false');
+                    return;
+                }
+                section.querySelectorAll('.faqV1BodyItemButton').forEach(el => {
+                    el === this ? el.classList.add('active') : el.classList.remove('active');
+                    el === this ? el.setAttribute('aria-expanded', 'true') : el.setAttribute('aria-expanded', 'false');
+                })
+            })
+        })
+    });
+</script>
+
+</div><div id="shopify-section-template--16608837304518__section_ready_v1_EWW6Lf" class="shopify-section"><style>
+
+    [id="template--16608837304518__section_ready_v1_EWW6Lf"] {
+        padding: 156px 20px 102px;
+    }
+
+    .readyV1 {
+        color: var(--body-text);
+        font-family: Poppins, sans-serif;
+        text-align: center;
+    }
+
+    .readyV1Title {
+    }
+
+    .readyV1Title * {
+        font-weight: 800;
+        font-size: 96px;
+        line-height: 95px;
+        letter-spacing: -.03em;
+    }
+
+    [id="template--16608837304518__section_ready_v1_EWW6Lf"] .readyV1Title em {
+        font-style: normal;
+        color: #e46551;
+    }
+
+    .readyV1Text {
+        margin-top: 33px;
+    }
+
+    .readyV1Text * {
+        font-size: 37px;
+        line-height: 45px;
+        letter-spacing: -.04em;
+    }
+
+    .readyV1Button {
+        margin: 33px auto 0;
+    }
+
+    [id="template--16608837304518__section_ready_v1_EWW6Lf"] .readyV1Button {
+        background-color: #2f4e37;
+        color: #fff;
+    }
+
+    [id="template--16608837304518__section_ready_v1_EWW6Lf"] .readyV1Button em::after {
+        background-color: #fff;
+    }
+
+    .readyV1Under {
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 45px;
+        letter-spacing: -.04em;
+        margin-top: 18px;
+    }
+
+    @media (max-width: 800px) {
+
+        [id="template--16608837304518__section_ready_v1_EWW6Lf"] {
+            padding: 42px 20px 44px;
+        }
+
+        .readyV1Title * {
+            font-size: clamp(20px, 9dvw, 36px);
+            line-height: 1.2;
+        }
+
+        .readyV1Text {
+            max-width: 305px;
+            margin: 17px auto 0;
+        }
+
+        .readyV1Text * {
+            font-size: 20px;
+            line-height: 22px;
+        }
+
+        .readyV1Text br {
+            content: " ";
+        }
+
+        .readyV1Text br::after {
+            content: " ";
+        }
+
+        .readyV1Button {
+            margin: 18px auto 0;
+        }
+
+        .readyV1Under {
+            font-size: 12px;
+            line-height: 14px;
+            max-width: 193px;
+            margin: 10px auto 0;
+        }
+
+    }
+
+</style>
+
+
+<section id="template--16608837304518__section_ready_v1_EWW6Lf" class="readyV1">
+    <div class="readyV1Title"><p>Your baby is ready. <br/><em>You should be too.</em></p></div>
+    <div class="readyV1Text"><p>Join the thousands of families who've used the Infant Course <br/>to start solids with confidence — and never look back.</p></div>
+    <a class="readyV1Button buttonV1" target="_blank"
+       href="https://courses.feedinglittles.com/purchase?product_id=5602290&_gl=1*ud90n0*_ga*MjQyNTUwNTYwLjE3NzkzMDI2NTM.*_ga_PDQYK6NVSP*czE3NzkzMDI2NTIkbzEkZzAkdDE3NzkzMDI2NTIkajYwJGwwJGgw">Enroll in the Infant Course</a>
+    <div class="readyV1Under">30-day money-back guarantee. No questions asked.</div>
+</section>
+
+</div>
+</main>
+
+<!-- Footer -->
+<div id="shopify-section-theme-footer" class="shopify-section"><style>
+
+
+</style>
+
+<footer id="footer">
+
+    <div id="footerInner">
+
+        <div id="footerTop">
+            <div class="footerText">Want tips for feeding your kids and discounts? Sign up for our newsletter:</div>
+            <form class="footerForm">
+                <div class="footerFormContainer">
+                    <input type="text" name="email" class="footerFormInput" placeholder="Email Address" aria-label="email address"/>
+                    <button class="footerFormButton">Sign up!</button>
+                </div>
+            </form>
+        </div>
+
+        <div id="footerMain">
+            <div id="footerLeft">
+                <img src="//feedinglittles.com/cdn/shop/t/12/assets/icon-logo.png?v=3230449714144152871718121905" alt="logo" id="footerLogo"/>
+                <form action="/search" method="get" role="search" class="footerSearch">
+                    <input type="search" name="q" value="" class="footerSearchInput" placeholder="Search" aria-label="Search"/>
+                </form>
+                <div id="footerSocial">
+                    
+                        <a href="https://instagram.com/feedinglittles" class="footerSocialItem" target="_blank">
+                            <img src="//feedinglittles.com/cdn/shop/files/Social_Icons.svg?v=1697743540&width=200" alt=""/>
+                        </a>
+                    
+                        <a href="https://facebook.com/feedinglittles" class="footerSocialItem" target="_blank">
+                            <img src="//feedinglittles.com/cdn/shop/files/Vector.svg?v=1697743529&width=200" alt=""/>
+                        </a>
+                    
+                        <a href="https://www.threads.com/@feedinglittles" class="footerSocialItem" target="_blank">
+                            <img src="//feedinglittles.com/cdn/shop/files/Mask_group_9_176aa14a-5736-448c-97df-95968c93b1ef.png?v=1781819052&width=200" alt=""/>
+                        </a>
+                    
+                        <a href="https://www.pinterest.com/feedinglittles/" class="footerSocialItem" target="_blank">
+                            <img src="//feedinglittles.com/cdn/shop/files/Social_Icons_1.svg?v=1697743550&width=200" alt=""/>
+                        </a>
+                    
+                        <a href="https://www.tiktok.com/@feedinglittles" class="footerSocialItem" target="_blank">
+                            <img src="//feedinglittles.com/cdn/shop/files/Social_Icons_2.svg?v=1697743562&width=200" alt=""/>
+                        </a>
+                    
+                </div>
+            </div>
+            <div id="footerRight">
+                <div class="footerLinks">
+                    <div class="footerLinksTitle">Blog</div>
+                    <div class="footerLinksList">
+                        
+                            <a href="/blogs/blog/tagged/recipes-nutrition" class="footerLinksListItem">Recipes & Nutrition</a>
+                        
+                            <a href="/blogs/blog/tagged/baby-led-weaning" class="footerLinksListItem">Baby-led Weaning</a>
+                        
+                            <a href="/blogs/blog/tagged/bottles-drinking" class="footerLinksListItem">Cups, Bottles, & Drinking</a>
+                        
+                            <a href="/blogs/blog/tagged/mealtime-behavior" class="footerLinksListItem">Mealtime Behavior</a>
+                        
+                            <a href="/blogs/blog/tagged/development" class="footerLinksListItem">Development</a>
+                        
+                            <a href="/blogs/blog/tagged/parenting-insights" class="footerLinksListItem">Parenting Insights</a>
+                        
+                            <a href="/blogs/blog" class="footerLinksListItem">All Resources</a>
+                        
+                    </div>
+                    <a href="/pages/contact" class="footerLinksTitle footerLinksContact">Contact Us</a>
+                </div>
+                <div id="footerRightOuter">
+                    <div class="footerLinks">
+                        <a href="/pages/courses"
+                           class="footerLinksTitle">Courses</a>
+                        <div class="footerLinksList">
+                            
+                                <a href="/pages/infant-course" class="footerLinksListItem">Infant</a>
+                            
+                                <a href="/pages/toddler-course" class="footerLinksListItem">Toddler and Kid</a>
+                            
+                                <a href="https://courses.feedinglittles.com/p/login?_gl=1*2gu3p4*_ga*OTk5NjA3NzYuMTY5ODM0NTM5Mg..*_ga_PDQYK6NVSP*MTY5ODQyMDk0NC4zLjEuMTY5ODQyMjAyNC42MC4wLjA." class="footerLinksListItem">Course Login</a>
+                            
+                        </div>
+                    </div>
+                    <div class="footerLinks">
+                        <div class="footerLinksTitle">Shop</div>
+                        <div class="footerLinksList">
+                            
+                                <a href="/pages/cookbook" class="footerLinksListItem">Cookbook</a>
+                            
+                                <a href="/pages/lunchbox" class="footerLinksListItem">Lunchbox Book</a>
+                            
+                                <a href="/pages/numnum" class="footerLinksListItem">NumNum X Feeding Littles</a>
+                            
+                                <a href="https://bapronbaby.com/collections/feeding-littles-collection" class="footerLinksListItem">Bapron X Feeding Littles</a>
+                            
+                                <a href="/pages/printables" class="footerLinksListItem">Printables</a>
+                            
+                                <a href="https://www.amazon.com/shop/influencer-7d019284" class="footerLinksListItem">Amazon Shop</a>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="footerDisclaimer">© 2026 Feeding Littles<br />
+The contents of this site are opinions of Feeding Littles LLC unless otherwise noted. The information on this site and the products featured are not intended to diagnose, treat, or prevent any type of disease and are not intended as personalized medical advice. Any decision you make regarding your family's health and medical treatments should be made with a qualified health provider.</div>
+
+    </div>
+
+</footer>
+
+<script>
+    // newsletter form
+    document.querySelectorAll('.footerForm').forEach(element => element.addEventListener('submit', async function (e) {
+        e.preventDefault();
+
+        // submit form
+        let formData = new FormData(this);
+        let response = await fetch('https://api.feedinglittles.com/newsletter.php', {
+            method: 'POST',
+            body: formData,
+        })
+            .then(response => response.json());
+
+        // check for errors
+        if (response.error) {
+            alert(response.error);
+        } else {
+            this.reset();
+            alert("Success! Stay tuned for more info!")
+        }
+    }));
+</script>
+
+
+</div>
+
+
+
+<script src="https://cdn.shopify.com/storefront/standard-actions.js" type="module" data-source-attribution="shopify.standard_actions"></script>
+</body>
+
+</html>

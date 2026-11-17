@@ -1,0 +1,52 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "MyMatLeave",
+  "captured_at": "2026-10-24T21:51:46.427Z",
+  "suggestions": "ge/\"\n  uid=17_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=17_1 generic description=\"Search for exact phrase MyMatLeave \"MyMatLeave\" Search this exact phrase\"\n      uid=17_2 button \"Search for exact phrase MyMatLeave\"\n    uid=17_3 generic description=\"Mat Leave Diaries 9 follow this · Digital creator @mat.leave.diaries· 263 followers\"\n    uid=17_4 generic description=\"California Maternity Leave Consulting @CaliforniaMaternityLeave· 1.7K follow this · Financial Planner @californiamaternityleave· 47.2K followers\"\n    uid=17_5 generic description=\"Endless Mat Leave by Rose 207 follow this · Digital creator @endlessmatleave_byrose· 94 followers\"\n    uid=17_6 generic description=\"Mat Leave Freedom 6 follow this · Digital creator\"\n    uid=17_7 generic description=\"Mat Leave Builds 0 follow this · Digital creator @matleavebuilds· 84 followers\"\n    uid=17_8 generic description=\"More Than Maternity Leave 0 follow this · Personal blog @morethanmaternityleave· 1.2K followers\"\n    uid=17_9 generic description=\"Master Maternity Leave 119 follow this · Business Consultant @mastermaternityleave· 2K followers\"\n    uid=17_10 generic description=\"Maternity Leave @MaternityLeave001· 351 follow this · Personal blog\"\n    uid=17_11 generic description=\"This is matt rife leave me a message 0 follow this · Personal blog\"\n    uid=17_12 generic description=\"Cecil John Rhodes - Dig him up and send him home or leave him in Matopos? 4.8K follow this · Community\"\n",
+  "candidates": [
+    {
+      "uid": "17_1",
+      "description": "Search for exact phrase MyMatLeave "
+    },
+    {
+      "uid": "17_3",
+      "description": "Mat Leave Diaries 9 follow this · Digital creator @mat.leave.diaries· 263 followers"
+    },
+    {
+      "uid": "17_4",
+      "description": "California Maternity Leave Consulting @CaliforniaMaternityLeave· 1.7K follow this · Financial Planner @californiamaternityleave· 47.2K followers"
+    },
+    {
+      "uid": "17_5",
+      "description": "Endless Mat Leave by Rose 207 follow this · Digital creator @endlessmatleave_byrose· 94 followers"
+    },
+    {
+      "uid": "17_6",
+      "description": "Mat Leave Freedom 6 follow this · Digital creator"
+    },
+    {
+      "uid": "17_7",
+      "description": "Mat Leave Builds 0 follow this · Digital creator @matleavebuilds· 84 followers"
+    },
+    {
+      "uid": "17_8",
+      "description": "More Than Maternity Leave 0 follow this · Personal blog @morethanmaternityleave· 1.2K followers"
+    },
+    {
+      "uid": "17_9",
+      "description": "Master Maternity Leave 119 follow this · Business Consultant @mastermaternityleave· 2K followers"
+    },
+    {
+      "uid": "17_10",
+      "description": "Maternity Leave @MaternityLeave001· 351 follow this · Personal blog"
+    },
+    {
+      "uid": "17_11",
+      "description": "This is matt rife leave me a message 0 follow this · Personal blog"
+    },
+    {
+      "uid": "17_12",
+      "description": "Cecil John Rhodes - Dig him up and send him home or leave him in Matopos? 4.8K follow this · Community"
+    }
+  ]
+}

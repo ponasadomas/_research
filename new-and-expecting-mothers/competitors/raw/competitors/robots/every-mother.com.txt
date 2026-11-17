@@ -1,0 +1,7 @@
+SOURCE: https://every-mother.com/robots.txt
+HTTP: 200
+ERROR: 
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

@@ -1,0 +1,38 @@
+{
+  "ad_id": "2486573295160731",
+  "advertiser": "Taking Cara Babies",
+  "page_id": "362568527156955",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/019-taking-cara-babies-page.json",
+  "capture_sha256": "90087c5f484111bbc2fba4fd4f642e2dff76af3b3a8273ceb5b83244053f8008",
+  "native_pointer": "connections[0].edges[16].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=362568527156955",
+  "captured_at": "2026-10-24T21:50:13.463Z",
+  "is_active": true,
+  "start_utc": "2026-08-13T07:00:00+00:00",
+  "display_format": "VIDEO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=2486573295160731",
+  "snapshot_sha256": "8af4b84f024d6ae1f27097b29ea3849f521b05440ffd88274e4606fde2e659df",
+  "text_fields": {
+    "body": {
+      "text": "Swaddle like a sleep expert.\nDesigned by Cara (NICU nurse + mom of 4 + newborn sleep pro), the b.e.s.t. swaddle is buttery soft, easy to use, and comes with a FREE mini class to walk you through every step."
+    },
+    "title": "b.e.s.t swaddle",
+    "caption": "takingcarababies.com/best-swaddle",
+    "link_description": null,
+    "link_url": "https://www.takingcarababies.com/products/b-e-s-t-swaddle",
+    "cta_text": "Shop now",
+    "cta_type": "SHOP_NOW",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "03decfbfc98465c45daf9f3d32b095f6419e29709025bea0ee53e8143f255d12",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 1,
+  "cards_count": 0
+}

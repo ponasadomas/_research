@@ -1,0 +1,29 @@
+{
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:45:32 GMT",
+    "Content-Type": "text/plain; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Vary": "Accept-Encoding",
+    "Link": "<https://hellotilt.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "X-Powered-By": "WP Engine",
+    "X-Robots-Tag": "noindex",
+    "X-Cacheable": "CacheAlways: forever",
+    "Cache-Control": "max-age=14400, must-revalidate",
+    "X-Cache": "HIT: 1",
+    "last-modified": "Sat, 24 Oct 2026 21:45:32 GMT",
+    "set-cookie": "__cf_bm=neHbaP_1TqqIEo5x5nqRO3Qp5HU4fVjBMFak9bZpQBk-1792878332.291546-1.0.1.1-DbXLhdObGYAqfUasOjHKz3WK_wnP5zjeD3nCra.5yOqFlxljioF8nM3chXGAJZH_yEsdU.b_mU5XxCao7tPHIufrfSoIUY0LBaPERaKzy2Ef0r8XdsLiCLskYDqgVdWl; HttpOnly; SameSite=None; Secure; Path=/; Domain=hellotilt.com; Expires=Sat, 24 Oct 2026 22:15:32 GMT",
+    "Content-Security-Policy": "default-src 'self' https: data: 'unsafe-inline' 'unsafe-eval'; frame-src 'self' https: data: blob:;",
+    "Permissions-Policy": "camera=(), microphone=(), geolocation=()",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "cf-cache-status": "HIT",
+    "Content-Encoding": "gzip",
+    "CF-RAY": "a4fc2b48da65e4d4-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "redirects": []
+}

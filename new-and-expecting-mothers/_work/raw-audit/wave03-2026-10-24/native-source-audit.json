@@ -1,0 +1,26 @@
+{
+  "new_quotes": 218,
+  "new_reddit_quotes": 179,
+  "new_read_occurrences": 745,
+  "distinct_newwave_read_postIDs": 744,
+  "native_checks": {
+    "ledger_native_exists": 745,
+    "full_read_flag": 745,
+    "unit_hash": 745,
+    "native_whole_title_body": 745,
+    "OP_ID_count": 745,
+    "quote_native_exists": 179,
+    "quote_case_punctuation_native_body": 179,
+    "native_permalink": 179,
+    "native_date": 179,
+    "quote_fullread_link": 179,
+    "native_timestamp": 118,
+    "native_author": 60,
+    "native_review_ID": 22,
+    "native_review_body_metadata": 22,
+    "frozen_baseline_hash": 43
+  },
+  "selected_repeated_author_groups_requiring_human_review": 3,
+  "failed": 0,
+  "errors": []
+}

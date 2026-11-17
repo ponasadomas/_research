@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://huckleberrycare.com/robots.txt",
+  "final_url": "https://huckleberrycare.com/robots.txt",
+  "status": 200,
+  "date_utc": "2026-10-24T21:46:36.685341+00:00",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Age": "0",
+    "Cache-Control": "public,max-age=0,must-revalidate",
+    "Cache-Status": "\"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
+    "Content-Encoding": "gzip",
+    "Content-Type": "text/plain; charset=UTF-8",
+    "Date": "Sat, 24 Oct 2026 21:46:36 GMT",
+    "Etag": "W/\"72d9eb4907a41eef296f1ce62ca18511-ssl\"",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "Netlify",
+    "Set-Cookie": "geo_location=%7B%22country%22%3A%22LT%22%2C%22region%22%3A%22VL%22%2C%22city%22%3A%22Vilnius%22%7D; Secure; Path=/; Expires=Mon, 23 Nov 2026 21:46:36 GMT",
+    "Strict-Transport-Security": "max-age=63113904; includeSubDomains; preload",
+    "Vary": "Accept-Encoding",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "DENY",
+    "X-Nf-Request-Id": "01M5QY2H3XCVPDM7AXXDV1TEDN",
+    "Transfer-Encoding": "chunked"
+  },
+  "redirects": [],
+  "raw_file": "_raw/advertiser-map04-sleep-play/robots-huckleberrycare.com.body",
+  "sha256": "99f2bdf8b96f96dc667e69f4d258b25b741d6c99837a878f883c79536f43f8a6",
+  "bytes": 76
+}

@@ -1,0 +1,3 @@
+# Final safety and spot audit
+
+Read every record in _raw/audit/safety-hits.jsonl and the final 20-record _raw/audit/spot-check.jsonl. Look up the cited raw text and read its surrounding context; verify speaker, stage and neutral context, exact spelling/punctuation and whether the quotation preserves the speaker’s actual words and claim provenance. The six safety hits may be legitimate guidance/objections, not automatic deletions. Do not infer diagnosis or efficacy. Log each hit's disposition and each random spot check in synthesis/safety-and-spot-audit.md. Correct only demonstrated record errors, preserving ids, and notify parent before any removal/count change. No new collection. Do not regenerate final sample: parent will freeze it before this task starts.

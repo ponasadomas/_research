@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-24",
+  "cards": 248,
+  "card_exclusions": 129,
+  "initially_kept": 119,
+  "full_available_api_threads_read": 119,
+  "answers_read": 298,
+  "comments_read": 713,
+  "full_read_word_count": 135288,
+  "excluded_after_full_read": 13,
+  "retained_after_full_read": 106,
+  "retained_originals_unread": [],
+  "quoted_questions": 104,
+  "retained_without_quotes": [
+    43078,
+    44197
+  ],
+  "quotes": 134,
+  "quoted_original_works": 132,
+  "max_per_original_work_quoted_words": 25,
+  "max_context_words": 18,
+  "failed": 0,
+  "failures": [],
+  "voice_sha256": "e888f4e143f2b77fce0713b3087a8e3db012d085050dd5b4d90115a1a17ad489",
+  "checks": [
+    "exact candidate/triage/read/exclusion ID sets",
+    "all saved answers/comments counted per fully read question",
+    "exact original author body excluding third-party blockquotes",
+    "exact preserved thread text, case and punctuation",
+    "aggregate 25-word maximum per individual original post/comment",
+    "context maximum, README vocabulary, existing themes",
+    "correct original URL/date/author attribution/license/is_op",
+    "quotes only on retained full reads",
+    "global quote ID uniqueness"
+  ]
+}

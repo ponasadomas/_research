@@ -1,0 +1,13 @@
+{
+  "kind": "google_domain_search",
+  "query": "sparrow.com",
+  "browser_response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Could not connect to Chrome. Check if Chrome is running.\nCause: Failed to fetch browser webSocket URL from http://127.0.0.1:9225/json/version: fetch failed\nCause: connect ECONNREFUSED 127.0.0.1:9225"
+      }
+    ],
+    "isError": true
+  }
+}

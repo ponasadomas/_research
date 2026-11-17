@@ -1,0 +1,47 @@
+{
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:46:31 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "CF-Ray": "a4fc2cbc7f7de4e7-RIX",
+    "CF-Cache-Status": "HIT",
+    "Age": "3253804",
+    "Content-Encoding": "gzip",
+    "Last-Modified": "Sat, 24 Oct 2026 13:08:32 GMT",
+    "Link": "<https://cdn.prod.website-files.com>; rel=preconnect; crossorigin, <https://cdn.prod.website-files.com/680ce3198bb637f136eaad81/css/the-starter-set.webflow.shared.8cf5eda32.css>; rel=preload; as=style; crossorigin; integrity=\"sha384-jPXtoy46LIRDVgjPELjIkbRdCLP/eEGqjDBtaINkUbRswtgI9qkXozyaVjbdUCkm\", <https://fonts.googleapis.com>; rel=preconnect, <https://fonts.gstatic.com>; rel=preconnect; crossorigin",
+    "Server": "cloudflare",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "accept-encoding",
+    "content-security-policy": "frame-ancestors 'self'",
+    "surrogate-control": "max-age=2147483647",
+    "surrogate-key": "www.thestarterset.com 680ce3198bb637f136eaad81 pageId:680ce3198bb637f136eaad8e",
+    "x-frame-options": "SAMEORIGIN",
+    "x-lambda-id": "e2b377b0-c7dc-434f-973c-f9bcdb4072cc",
+    "x-wf-region": "us-east-1",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "history": [
+    {
+      "url": "https://thestarterset.com/",
+      "status": 301,
+      "headers": {
+        "Date": "Sat, 24 Oct 2026 21:46:31 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "166",
+        "Connection": "keep-alive",
+        "Location": "https://www.thestarterset.com/",
+        "set-cookie": "_cfuvid=E9Rt0bENdZEwfkbcMC1SA3FFrE7MpN8F.ncAxjftHX4-1792878391.4652288-1.0.1.1-voDoR17JenAS.yfLu7eOdFzlayce2rgRX4B6uX5PNeY; HttpOnly; SameSite=None; Secure; Path=/; Domain=thestarterset.com",
+        "CF-Ray": "a4fc2cbaaccfe4dd-RIX",
+        "CF-Cache-Status": "BYPASS",
+        "Cache-Control": "private",
+        "Server": "cloudflare",
+        "Strict-Transport-Security": "max-age=31536000",
+        "content-security-policy": "frame-ancestors 'self'",
+        "x-frame-options": "SAMEORIGIN",
+        "x-wf-region": "us-east-1",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

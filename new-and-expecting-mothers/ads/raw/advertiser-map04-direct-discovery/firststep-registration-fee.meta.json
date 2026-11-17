@@ -1,0 +1,31 @@
+{
+  "requested_url": "https://firststepmethod.com/product/first-step-training-program-registration-fee/",
+  "final_url": "https://firststepmethod.com/product/registration-fee/",
+  "status": 200,
+  "date_utc": "2026-10-24T22:11:33.524540+00:00",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 22:11:33 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "vary": "Accept-Encoding",
+    "x-powered-by": "PHP/8.2.35",
+    "link": "<https://firststepmethod.com/wp-json/>; rel=\"https://api.w.org/\", <https://firststepmethod.com/wp-json/wp/v2/product/4242>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://firststepmethod.com/?p=4242>; rel=shortlink",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=fFzg4cyYeGyuaZN27sTL%2BOBlafMFvi%2FCjpbObXh6%2FL0ofQULlJh%2FGxMQRw3n%2BGasgJ1ZukLBkP3a0%2FGphxzFLXnEuWw3gBOeUWQjyfwb264K47KbQzW1cW9o5bW2RMVQByKcqPix\"}]}",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "zstd",
+    "CF-RAY": "a4fc515a5f3e5d64-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "redirects": [
+    {
+      "url": "https://firststepmethod.com/product/first-step-training-program-registration-fee/",
+      "status": 301
+    }
+  ],
+  "raw_file": "_raw/advertiser-map04-direct-discovery/firststep-registration-fee.body",
+  "sha256": "63942dda99c855db8404b5cbc8fa2a5bf394a472914394bcf8c0360ca7fc9860",
+  "bytes": 259022
+}

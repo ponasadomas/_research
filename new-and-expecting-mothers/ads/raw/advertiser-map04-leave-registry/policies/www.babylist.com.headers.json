@@ -1,0 +1,23 @@
+{
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:45:32 GMT",
+    "Content-Type": "text/plain",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "CF-Ray": "a4fc2b494ef4e4e0-RIX",
+    "CF-Cache-Status": "HIT",
+    "Cache-Control": "public, max-age=21600",
+    "ETag": "W/\"999feded889591437b1111828a5a166d\"",
+    "Expires": "Sun, 25 Oct 2026 03:45:32 GMT",
+    "Server": "cloudflare",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains",
+    "Vary": "Accept-Encoding, Origin",
+    "content-security-policy-report-only": "connect-src 'self' https: 'unsafe-eval' https://*.zoom.us wss://zpns.zoom.us wss://widget-mediator.zopim.com; default-src 'self' https:; font-src 'self' https: data: data: source.zoom.us; img-src 'self' https: data: blob: *.zoom.us https://v2assets.zopim.io https://static.zdassets.com; media-src 'self' https: *.zoom.us; object-src 'none'; script-src 'self' https: 'unsafe-inline' 'unsafe-eval' blob: http://zoom.us *.zoom.us; style-src 'self' https: 'unsafe-inline'; worker-src 'self' https: blob:; report-uri /csp-report",
+    "x-request-id": "daadf046-465b-4b08-b8e3-cfd3e5fa00fc",
+    "x-runtime": "0.001055",
+    "set-cookie": "__cf_bm=R9PtHXvGzCjvKaPAEFAu0dQ7ZrpZAInot6CiIRMmn54-1792878332.3705125-1.0.1.1-V9xYsFB8HDIlDnNNLKoyzig60btvJfdHa4CQ5.pGDtwT210jUhOc1DvCV628K7bzcXIiFlcfYdpChcLZEDILSc378uRLg5hEirL5e3uwuIQNNdmq0qELYzQBj8M.SPNH; HttpOnly; SameSite=None; Secure; Path=/; Domain=babylist.com; Expires=Sat, 24 Oct 2026 22:15:32 GMT",
+    "Content-Encoding": "zstd",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "redirects": []
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "rad02-0123",
+    "field": "context",
+    "before": "Working parent wants an editable premade meal plan including workday breakfasts; explicit free preference limits paid-report demand.",
+    "after": "An r/workingmoms author wants an editable premade meal plan including workday breakfasts; infant stage is unspecified and free is preferred.",
+    "reason": "Complete original does not establish an infant or pregnancy stage; distinguish adjacent free-meal-plan request from lead-buyer evidence. No literal quote change."
+  },
+  {
+    "id": "rad02-0041",
+    "field": "stage",
+    "before": "return_to_work",
+    "after": "baby_6_12_months",
+    "reason": "Parent random20 full-context check: six-and-half-month-old starting childcare, with no employment return stated. Do not infer work from childcare."
+  },
+  {
+    "id": "rad02-0041",
+    "field": "themes",
+    "before": [
+      "household_routines",
+      "return_to_work"
+    ],
+    "after": [
+      "household_routines",
+      "daycare_handoff"
+    ],
+    "reason": "Same random20 audit: childcare start is explicit; employment return is not."
+  }
+]

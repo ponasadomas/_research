@@ -1,0 +1,48 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "eMeals",
+  "captured_at": "2026-10-24T22:02:01.499Z",
+  "suggestions": "ge/\"\n  uid=84_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=84_1 generic description=\"Search for exact phrase eMeals \"eMeals\" Search this exact phrase\"\n      uid=84_2 button \"Search for exact phrase eMeals\"\n    uid=84_3 generic description=\"eMeals @emealz · 397.6K follow this · Kitchen/cooking @emeals· 63.4K followers\"\n    uid=84_4 generic description=\"Plant-based meals enhance whole-body health 1 follower · Health & wellness website\"\n    uid=84_5 generic description=\"Nutrient-rich meals enhance immune health 0 follow this · Health & wellness website\"\n    uid=84_6 generic description=\"MightyMeals @EatMightyMeals· 35.3K follow this · Food delivery service @eatmightymeals· 71K followers\"\n    uid=84_7 generic description=\"P A R A L L E L meals @parallelmeals· 499 follow this · Food delivery service @parallelmeals· 15.7K followers\"\n    uid=84_8 generic description=\"Mirra Meals 9.2K follow this · Food delivery service @mirra.eats· 31.8K followers\"\n    uid=84_9 generic description=\"F4F Meals 476 follow this · Health Food Store @food4fitness_es· 2.7K followers\"\n    uid=84_10 generic description=\"Chef Kennys Enchanted Meals 63 follow this · Meal Takeaway @chef_kenny_ptit_louis· 148 followers\"\n    uid=84_11 generic description=\"HalalMeals - Ready to eat meals, delivered @halalmealsto· 3.1K follow this · Food delivery service @halalmealsto· 36.6K followers\"\n    uid=84_12 generic description=\"Easy Home Meals @EasyHomeMeals· 480.7K follow this · Food & Beverage Company @_easyhomemeals· 16.6K followers\"\n",
+  "candidates": [
+    {
+      "uid": "84_3",
+      "description": "eMeals @emealz · 397.6K follow this · Kitchen/cooking @emeals· 63.4K followers"
+    },
+    {
+      "uid": "84_4",
+      "description": "Plant-based meals enhance whole-body health 1 follower · Health & wellness website"
+    },
+    {
+      "uid": "84_5",
+      "description": "Nutrient-rich meals enhance immune health 0 follow this · Health & wellness website"
+    },
+    {
+      "uid": "84_6",
+      "description": "MightyMeals @EatMightyMeals· 35.3K follow this · Food delivery service @eatmightymeals· 71K followers"
+    },
+    {
+      "uid": "84_7",
+      "description": "P A R A L L E L meals @parallelmeals· 499 follow this · Food delivery service @parallelmeals· 15.7K followers"
+    },
+    {
+      "uid": "84_8",
+      "description": "Mirra Meals 9.2K follow this · Food delivery service @mirra.eats· 31.8K followers"
+    },
+    {
+      "uid": "84_9",
+      "description": "F4F Meals 476 follow this · Health Food Store @food4fitness_es· 2.7K followers"
+    },
+    {
+      "uid": "84_10",
+      "description": "Chef Kennys Enchanted Meals 63 follow this · Meal Takeaway @chef_kenny_ptit_louis· 148 followers"
+    },
+    {
+      "uid": "84_11",
+      "description": "HalalMeals - Ready to eat meals, delivered @halalmealsto· 3.1K follow this · Food delivery service @halalmealsto· 36.6K followers"
+    },
+    {
+      "uid": "84_12",
+      "description": "Easy Home Meals @EasyHomeMeals· 480.7K follow this · Food & Beverage Company @_easyhomemeals· 16.6K followers"
+    }
+  ]
+}

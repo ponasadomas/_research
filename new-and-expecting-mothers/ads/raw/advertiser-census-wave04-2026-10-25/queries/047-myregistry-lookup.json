@@ -1,0 +1,48 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "MyRegistry",
+  "captured_at": "2026-10-24T21:59:02.607Z",
+  "suggestions": "ge/\"\n  uid=75_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=75_1 generic description=\"Search for exact phrase MyRegistry \"MyRegistry\" Search this exact phrase\"\n      uid=75_2 button \"Search for exact phrase MyRegistry\"\n    uid=75_3 generic description=\"duPont REGISTRY @dupontregistry · 6M follow this · Advertising/Marketing @dupontregistry · 1M followers\"\n    uid=75_4 generic description=\"American Arms Registry 986 follow this · Local Service\"\n    uid=75_5 generic description=\"National Carry Registry 865 follow this · Professional Sports Team\"\n    uid=75_6 generic description=\"American Safety Registry 243 follow this · Public Service\"\n    uid=75_7 generic description=\"Cord Blood Registry @CordBloodRegistry· 203.7K follow this · Medical Lab @cordbloodregistry · 43.5K followers\"\n    uid=75_8 generic description=\"US Permit Registry 1.1K follow this · Personal blog\"\n    uid=75_9 generic description=\"myregistry.com @myregistryllc· 16.2K follow this · Website @myregistry· 31.1K followers\"\n    uid=75_10 generic description=\"Public Interest Registry @PIRegistry · 9.6K follow this · Non-Governmental Organization (NGO) @piregistry· 4.7K followers\"\n    uid=75_11 generic description=\"Star Name Registry @StarNameRegistry· 47.1K follow this · Retail Company @nameastar· 14K followers\"\n    uid=75_12 generic description=\"FUNDS Recovery Registry EU 3 follow this · Lawyer & Law Firm\"\n",
+  "candidates": [
+    {
+      "uid": "75_3",
+      "description": "duPont REGISTRY @dupontregistry · 6M follow this · Advertising/Marketing @dupontregistry · 1M followers"
+    },
+    {
+      "uid": "75_4",
+      "description": "American Arms Registry 986 follow this · Local Service"
+    },
+    {
+      "uid": "75_5",
+      "description": "National Carry Registry 865 follow this · Professional Sports Team"
+    },
+    {
+      "uid": "75_6",
+      "description": "American Safety Registry 243 follow this · Public Service"
+    },
+    {
+      "uid": "75_7",
+      "description": "Cord Blood Registry @CordBloodRegistry· 203.7K follow this · Medical Lab @cordbloodregistry · 43.5K followers"
+    },
+    {
+      "uid": "75_8",
+      "description": "US Permit Registry 1.1K follow this · Personal blog"
+    },
+    {
+      "uid": "75_9",
+      "description": "myregistry.com @myregistryllc· 16.2K follow this · Website @myregistry· 31.1K followers"
+    },
+    {
+      "uid": "75_10",
+      "description": "Public Interest Registry @PIRegistry · 9.6K follow this · Non-Governmental Organization (NGO) @piregistry· 4.7K followers"
+    },
+    {
+      "uid": "75_11",
+      "description": "Star Name Registry @StarNameRegistry· 47.1K follow this · Retail Company @nameastar· 14K followers"
+    },
+    {
+      "uid": "75_12",
+      "description": "FUNDS Recovery Registry EU 3 follow this · Lawyer & Law Firm"
+    }
+  ]
+}

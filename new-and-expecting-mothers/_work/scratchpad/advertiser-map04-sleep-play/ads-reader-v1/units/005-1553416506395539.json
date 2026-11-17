@@ -1,0 +1,38 @@
+{
+  "ad_id": "1553416506395539",
+  "advertiser": "Lovevery",
+  "page_id": "1859617107640244",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/005-lovevery-page.json",
+  "capture_sha256": "90a8b882dbb1767b9749a6e1fc440e0cf6a15ce0443a164b39221c0ba9fae64d",
+  "native_pointer": "connections[0].edges[13].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=1859617107640244",
+  "captured_at": "2026-10-24T21:46:30.893Z",
+  "is_active": true,
+  "start_utc": "2026-06-22T07:00:00+00:00",
+  "display_format": "VIDEO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1553416506395539",
+  "snapshot_sha256": "1f0c55ba364a5b86a133353c56f1850c188cb0fbe868b6f0ab521c535feffb96",
+  "text_fields": {
+    "body": {
+      "text": "\"When I tell you this little thing has changed the game for tummy time…. I mean it🤣\n\nThis girl HATED tummy time, then we got this little thing and now she’s like ‘oh wait, this isn’t so bad!!!’ Her PT will be so proud of her improved tummy time.. all thanks to this bug!\"🐞🤣 \n\n🎥:@whitneyhansonlang"
+    },
+    "title": "The Play Kits by Lovevery",
+    "caption": "lovevery.com",
+    "link_description": null,
+    "link_url": "https://lovevery.com/products/the-play-kits-the-looker",
+    "cta_text": "Shop now",
+    "cta_type": "SHOP_NOW",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "41980cce4b42edaef6b16b308167a95ed4ddd2a2cf7afe471fc3b2d3471b086e",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 1,
+  "cards_count": 0
+}

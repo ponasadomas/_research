@@ -1,0 +1,76 @@
+{
+  "ad_id": "1600789854695466",
+  "page_id": "620732004665539",
+  "page_name": "Skylight",
+  "snapshot_page_id": "620732004665539",
+  "snapshot_page_name": "Skylight",
+  "snapshot_identity_differs": false,
+  "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/043-skylight-page.json",
+  "source_file_sha256": "4ec970a7be639386523fc6ef0d82f4caec8f95f6cbf924da5cae214dffa7ddc7",
+  "captured_at": "2026-10-24T21:57:52.881Z",
+  "native_is_active": true,
+  "start_timestamp": 1790578800,
+  "start_utc": "2026-09-28T07:00:00+00:00",
+  "displayed_start_date": "Sep 28, 2026",
+  "collation_id": "1747212739782501",
+  "collation_count": 1,
+  "display_format": "DCO",
+  "primary_destination": "https://myskylight.com/products/skylight-calendar",
+  "card_destinations": [
+    "https://myskylight.com/products/skylight-calendar",
+    "https://myskylight.com/products/skylight-calendar"
+  ],
+  "native_body_sha256": "4428e555047db9f0eb45cbf5f2d09823be88ff161318aa78da359d9fd39492f5",
+  "native_text_bundle_sha256": "f2fa236bec98bf0ab3fda9359e852753b1397cb7ec4ec04cf8593f373a21fcd9",
+  "native_ad_sha256": "4a2b3270747524d36f1099b81da7f691f1fb377324efeb7c95a9fa4f469a69ef",
+  "text_bundle": {
+    "body": "{{product.brand}}",
+    "top": {
+      "caption": "myskylight.com",
+      "cta_text": "Shop now",
+      "cta_type": "SHOP_NOW",
+      "title": "{{product.name}}",
+      "link_description": "{{product.description}}",
+      "link_url": "https://myskylight.com/products/skylight-calendar",
+      "display_format": "DCO",
+      "byline": null,
+      "disclaimer_label": null,
+      "additional_info": null,
+      "extra_links": [],
+      "extra_texts": [],
+      "branded_content": null,
+      "root_reshared_post": null
+    },
+    "cards": [
+      {
+        "body": "With auto-synced calendars, interactive chore charts and custom lists, Skylight Calendar helps you show up.",
+        "caption": "myskylight.com",
+        "title": "Enough is Enough",
+        "link_description": null,
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW",
+        "link_url": "https://myskylight.com/products/skylight-calendar"
+      },
+      {
+        "body": "With auto-synced calendars, interactive chore charts and custom lists, Skylight Calendar helps you show up.",
+        "caption": "myskylight.com",
+        "title": "Enough is Enough",
+        "link_description": null,
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW",
+        "link_url": "https://myskylight.com/products/skylight-calendar"
+      }
+    ]
+  },
+  "excluded_card_media_fields": [
+    "image_crops",
+    "original_image_url",
+    "resized_image_url",
+    "video_hd_url",
+    "video_preview_image_url",
+    "video_sd_url",
+    "watermarked_resized_image_url",
+    "watermarked_video_hd_url",
+    "watermarked_video_sd_url"
+  ]
+}

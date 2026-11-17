@@ -1,0 +1,43 @@
+{
+  "failed": 0,
+  "failures": [],
+  "stats": {
+    "assigned_cards": 495,
+    "card_chunks_fully_read": 9,
+    "initial_card_drops": 222,
+    "provisional_retained_originals": 273,
+    "provisional_originals_fully_read": 273,
+    "post_read_drops": 32,
+    "final_retained_originals": 241,
+    "final_retained_originals_fully_read": 241,
+    "kept_originals_unread": 0,
+    "retained_reading_chunks": 17,
+    "retained_chunks_fully_read": 17,
+    "quote_count": 42,
+    "comments_read": 0,
+    "OP_followups_read": 0,
+    "linked_media_read": 0,
+    "complete_live_Reddit_threads_read": 0,
+    "by_community": {
+      "BabyBumps": 148,
+      "BabyBumpsCanada": 39,
+      "BabyBumpsandBeyondAu": 54
+    },
+    "quote_payment_signal_counts": {
+      "none": 28,
+      "conditional_interest_app": 1,
+      "conditional_interest_gear": 1,
+      "reported_gear_purchase": 2,
+      "actual_unpriced_service_use": 1,
+      "funding_commitment_course": 1,
+      "reported_paid_service_failure": 1,
+      "explicit_refusal_paid_app_feature": 1,
+      "unpriced_app_use": 2,
+      "unpriced_AI_tool_use": 1,
+      "explicit_affordability_refusal_app": 1,
+      "purchase_question_app": 1,
+      "explicit_free_preference": 1
+    }
+  },
+  "checks": "Exact495 assigned cards; human keep manifest;273 raw hashes;17 frozen chunks and17 lossless original-text views;17 human read ledger entries; per-ID outcomes; exact own-body quotes; README vocabulary; context<=25words; no dropped quote source; provenance/date/URL; no report-payment inference."
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://emeals.com/robots.txt",
+  "status": 200,
+  "final_url": "https://emeals.com/robots.txt",
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "Content-Length": "668",
+    "Connection": "close",
+    "Date": "Sat, 24 Oct 2026 21:28:04 GMT",
+    "Server": "Apache",
+    "Cache-Control": "max-age=3600",
+    "Expires": "Sat, 24 Oct 2026 22:28:04 GMT",
+    "Vary": "Accept-Encoding",
+    "X-Cache": "Hit from cloudfront",
+    "Via": "1.1 f9ed88582707ec58c61e5c95a41d4ada.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "ARN52-P1",
+    "X-Amz-Cf-Id": "enBnFfV3cL0t8yP1nQaBmsvs7YDYTQbU-6Yhw6riCxTSa1OT-KR5Dg==",
+    "Age": "1678",
+    "X-XSS-Protection": "1; mode=block",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=31536000"
+  }
+}

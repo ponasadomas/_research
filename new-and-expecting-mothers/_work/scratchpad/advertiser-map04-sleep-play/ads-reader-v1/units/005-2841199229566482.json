@@ -1,0 +1,38 @@
+{
+  "ad_id": "2841199229566482",
+  "advertiser": "Lovevery",
+  "page_id": "1859617107640244",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/005-lovevery-page.json",
+  "capture_sha256": "90a8b882dbb1767b9749a6e1fc440e0cf6a15ce0443a164b39221c0ba9fae64d",
+  "native_pointer": "connections[0].edges[1].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=1859617107640244",
+  "captured_at": "2026-10-24T21:46:30.893Z",
+  "is_active": true,
+  "start_utc": "2026-05-22T07:00:00+00:00",
+  "display_format": "VIDEO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=2841199229566482",
+  "snapshot_sha256": "f780c860b7d69c4c57502710645ef4e7d169645883252abdfb31db88fe69e4da",
+  "text_fields": {
+    "body": {
+      "text": "\"We have absolutely been loving our @lovevery Play Gym + The Looker Play Kit (0-12 weeks). She is obsessed with the ladybug and the noise it makes. This is such an awesome subscription to help with your child’s development. I can already see her learning and growing each time we use the gym + play kit!\"\n\nThanks for sharing @_cynthiahuffman!"
+    },
+    "title": "The Looker Kit by Lovevery",
+    "caption": "lovevery.com",
+    "link_description": null,
+    "link_url": "https://lovevery.com/products/the-play-kits-the-looker",
+    "cta_text": "Shop now",
+    "cta_type": "SHOP_NOW",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "92947ab9bf31b09b19e2f033bf3716d9414672ce42072c122aa9e8189e10b1d1",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 1,
+  "cards_count": 0
+}

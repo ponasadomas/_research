@@ -1,0 +1,229 @@
+{
+  "scope": "Exactly three requested family meal planners; extension complete, source expansion stopped",
+  "candidate_rows": 3,
+  "current_paid_subscription_candidates": 2,
+  "announced_closure_free_transition_candidates": 1,
+  "primary_HTTP200_page_captures": 6,
+  "official_web_tool_support_extracts": 1,
+  "saved_robots_hosts": 4,
+  "numeric_Facebook_Page_IDs_verified_here": 0,
+  "Chrome_interactions_by_this_reader": 0,
+  "new_voice_records": 0,
+  "source_reference_or_hash_errors": [],
+  "prior_freeze_file": "scratchpad/advertiser-map04-food-safety/final-manifest.json",
+  "prior_freeze_sha256": "3f3b9bd8abe44372e38982f7b864da7ad54f86e9594b8174c8950c2f427e032f",
+  "prior_frozen_hashes_verified": 193,
+  "files": [
+    {
+      "file": "_raw/advertiser-map04-food-planners/access.jsonl",
+      "sha256": "d53ebfa7a355e6b553902a6cab76adefc5cfaba9ec58588bd65cff151bbc8c6b",
+      "bytes": 9251
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/candidates.json",
+      "sha256": "ee38bef604c8dd9614dd9e9112de70fd70ba1ab2a1fe17973d4b9b24f4980813",
+      "bytes": 4526
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/discovery-family-extension.json",
+      "sha256": "56c04259b1e73f19fd0959716f078357dbc074f50ab234044279324ebb847621",
+      "bytes": 37471
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/emeals-cost-web-open.json",
+      "sha256": "da065f4107d04de664ebbab373eeeedb06b253715d4f036d6017a4e9baac7d81",
+      "bytes": 1255
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/emeals-cost-web-tool-extract.txt",
+      "sha256": "c9bad8c34505d345dd3dffd5b9ecc401ee1fcdcfdd6e398637c0748a41d00542",
+      "bytes": 1207
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/pages/emeals-cost.html",
+      "sha256": "4ded158e64583be472ed0bcc6304ea0d46f2b8f0be5ca6659f6c0801e50de674",
+      "bytes": 25245
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/pages/emeals-cost.links.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/pages/emeals-cost.meta.json",
+      "sha256": "fb9ae4d210543108e38940547e8a25cd4aee004865bef4bac05a43b0cc61ec45",
+      "bytes": 2016
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/pages/emeals-cost.txt",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "bytes": 1
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/pages/emeals-home.html",
+      "sha256": "9750cf7fed440a82c7ef189857dcf6c68c6c6e582d3213f1cce6af9da5969651",
+      "bytes": 69882
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/pages/emeals-home.links.json",
+      "sha256": "a56f08eb444dda68f37b2e8f6dd884bfa49530ffe42a376f6e9f370b51c40b36",
+      "bytes": 1942
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/pages/emeals-home.meta.json",
+      "sha256": "0b092f3229ccd22d02828445f2ab2f37a40ce1a2c5a1b19f0ab6187d404c6ce1",
+      "bytes": 1328
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/pages/emeals-home.txt",
+      "sha256": "28136a59c527e9f75b0e36c7e8ab761ea64c0fe239550284fb6de4ed76a96aae",
+      "bytes": 6014
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/pages/mealime-closing.html",
+      "sha256": "9b3f679cad5879a965fb2d460605a19f4e0d09a31150de177d0152c77a690dba",
+      "bytes": 162215
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/pages/mealime-closing.links.json",
+      "sha256": "75548b189ddad98a95f601ef1692323d976403e978d82f3b99c91191937be714",
+      "bytes": 1057
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/pages/mealime-closing.meta.json",
+      "sha256": "3929fb9e16b08da74212a90edafaf795f62a62471cd616ea8020e68bab7d721c",
+      "bytes": 1403
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/pages/mealime-closing.txt",
+      "sha256": "7e8427343d1af444c821e2340ec426687eb13906035783d59e73ac023f38104a",
+      "bytes": 4511
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/pages/mealime-home.html",
+      "sha256": "8ee65cabc4e371f355b2671fec46a81dbb98f95e3caad50c0d740ebcbd3b85d3",
+      "bytes": 249511
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/pages/mealime-home.links.json",
+      "sha256": "0a55cda71e0c00c8c3fad9973ceae271c3579e0b0e9145bc4dfaa1e44077853c",
+      "bytes": 666
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/pages/mealime-home.meta.json",
+      "sha256": "1e9281a1916d7373e81cb9502b44c673c4e975e28fe75d1a4bc22091b80c2736",
+      "bytes": 1351
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/pages/mealime-home.txt",
+      "sha256": "8b82c8f48b314cbdbc76f79c07f4f8e5d23529431306bb2caaf6a0523276f644",
+      "bytes": 2515
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/pages/plantoeat-home.html",
+      "sha256": "4966200197db990d2a2cccb0acf41aa61789a7eba051f3f694cd076f2d9c536f",
+      "bytes": 374575
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/pages/plantoeat-home.links.json",
+      "sha256": "58d16924bd83eff2308c92586ca4f3b9ef0404641d8063bd18341d88c74403d7",
+      "bytes": 1657
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/pages/plantoeat-home.meta.json",
+      "sha256": "e082b72227d08b22eef1ded177a78518d156acb97acc3281323ab2cf1fc4dac0",
+      "bytes": 1915
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/pages/plantoeat-home.txt",
+      "sha256": "2ec099fc17a946667fd76ee28398b14e6d1e8b6b0245ec314101cc859186306b",
+      "bytes": 6640
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/pages/plantoeat-pricing.html",
+      "sha256": "629678c8823a919e6d60db7956ecb417a95559a598c705174c5a32e571c078ab",
+      "bytes": 290290
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/pages/plantoeat-pricing.links.json",
+      "sha256": "9e7992d1d4269a718b40b3ccf5958d1a726e5b287f271bc3e380e1080470e178",
+      "bytes": 1424
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/pages/plantoeat-pricing.meta.json",
+      "sha256": "961cc43ddf804ddeab5c3122ee81c21e96e6054861acb1ed4581b78ba637871a",
+      "bytes": 1938
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/pages/plantoeat-pricing.txt",
+      "sha256": "916b06eaafbc21b338aff61795ae58def8d6d66f5461c30482a547e1a8e70df9",
+      "bytes": 4399
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/robots/emeals.com.json",
+      "sha256": "df6684b757d54419382abe155f25775a616539aae76e272b61d3e7a89b7dd959",
+      "bytes": 895
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/robots/emeals.com.txt",
+      "sha256": "b8353e71390712d5572155a4f2b6d29d84be466d7e87b1d7117c0d9e8bf9f356",
+      "bytes": 668
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/robots/support.emeals.com.json",
+      "sha256": "ed8b70954c66aa59ee5f53aa6a9cfa273c9105f5416e4aa0719f68b57f10e356",
+      "bytes": 724
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/robots/support.emeals.com.txt",
+      "sha256": "187f97d9c2bb75e4cf4da26f0149b88633f90ba11e62f0d99e3f7f60beaf4ec1",
+      "bytes": 579
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/robots/www.mealime.com.json",
+      "sha256": "e35f60945ddef45c9c9dedbc08d61c6d427a404e11dc3670d53eb4625d4d5728",
+      "bytes": 946
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/robots/www.mealime.com.txt",
+      "sha256": "791cc9dcdbd5bdc3686f057f5ef3b5621ba5ea33c3cbd95eb33ae1c5fffa48bd",
+      "bytes": 68
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/robots/www.plantoeat.com.json",
+      "sha256": "39ab7f777ea21d10243374242717b6a113c14f42f667899ff5fee8ec56cda66b",
+      "bytes": 641
+    },
+    {
+      "file": "_raw/advertiser-map04-food-planners/robots/www.plantoeat.com.txt",
+      "sha256": "df0322b04b1fbbcaf276dac6483596de63ee0cd843593f4f5aaca42a6c6e3c9d",
+      "bytes": 475
+    },
+    {
+      "file": "scratchpad/advertiser-map04-food-planners/capture.py",
+      "sha256": "6628917af2ebd08599f96ab69874a4deee7ebb852bac476bdd597b3294950ae6",
+      "bytes": 3515
+    },
+    {
+      "file": "scratchpad/advertiser-map04-food-planners/jobs-home.json",
+      "sha256": "de4b238bb142d128ccc1d2338136a903753bc594f8a3e5a37e4d15ef92cb304f",
+      "bytes": 132
+    },
+    {
+      "file": "scratchpad/advertiser-map04-food-planners/jobs-offers.json",
+      "sha256": "9b5d8416857cbfa229e95d58286f6af8be6e55d0c3a83e8198afc7e5fa0859c9",
+      "bytes": 194
+    },
+    {
+      "file": "scratchpad/advertiser-map04-food-planners/relocation-log.json",
+      "sha256": "9b2115c6e425b46c9ded2ab5d5b96f820dc1af347f8a4fef60430be69cff95e8",
+      "bytes": 235
+    },
+    {
+      "file": "synthesis/reader-notes-advertiser-map04-food-planners.md",
+      "sha256": "39b38c113b8e3b893151947f4418967a2eb2706e6e3d9f3086f5e96e7dcef376",
+      "bytes": 6062
+    }
+  ],
+  "utc": "2026-10-24T21:59:51.067240+00:00"
+}

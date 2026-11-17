@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-24",
+  "phase": "own prefreeze semantic audit",
+  "quote_text_changes": 0,
+  "corrections": [
+    {
+      "id": "rcb01-0003",
+      "field": "themes",
+      "before": "free_workaround",
+      "after": "administrative_workaround",
+      "reason": "No fee is reported, but bank name change cost is not explicitly stated; do not assert zero cost."
+    },
+    {
+      "id": "rcb01-0024",
+      "field": "stage",
+      "before": "newborn_0_6_weeks",
+      "after": "unknown",
+      "reason": "Born last month can exceed six weeks on the archived post date; exact newborn bracket not established."
+    }
+  ],
+  "ledger_change": "1m1bi65 neutral access resolution; no explicit fee rather than free"
+}

@@ -1,0 +1,13 @@
+# Content Signals (https://contentsignals.org/): preferences for how content
+# may be used after access. search = search indexing; ai-input = real-time AI
+# input/RAG; ai-train = AI model training. "yes" allows; "no" opts out.
+User-Agent: *
+Content-Signal: ai-train=no, search=yes, ai-input=yes
+Disallow: /email/
+Disallow: /wp-admin/
+Disallow: /?s=
+Disallow: /page/*/?s=
+Disallow: /search/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.plantoeat.com/sitemap_index.xml

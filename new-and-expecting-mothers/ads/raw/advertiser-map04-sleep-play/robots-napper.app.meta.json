@@ -1,0 +1,27 @@
+{
+  "requested_url": "https://napper.app/robots.txt",
+  "final_url": "https://napper.app/robots.txt",
+  "status": 200,
+  "date_utc": "2026-10-24T21:46:37.333642+00:00",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Access-Control-Allow-Origin": "*",
+    "Age": "14945",
+    "Cache-Control": "public, max-age=0, must-revalidate",
+    "Content-Disposition": "inline; filename=\"robots.txt\"",
+    "Content-Length": "179",
+    "Content-Type": "text/plain; charset=utf-8",
+    "Date": "Sat, 24 Oct 2026 21:46:37 GMT",
+    "Etag": "\"790ec15312c8a506cdb6dec72546abb7\"",
+    "Last-Modified": "Sat, 24 Oct 2026 17:37:31 GMT",
+    "Server": "Vercel",
+    "Strict-Transport-Security": "max-age=63072000",
+    "X-Matched-Path": "/robots.txt",
+    "X-Vercel-Cache": "HIT",
+    "X-Vercel-Id": "arn1::z6r2p-1792878397198-7f8e21f0aa52"
+  },
+  "redirects": [],
+  "raw_file": "_raw/advertiser-map04-sleep-play/robots-napper.app.body",
+  "sha256": "baf3d0a4d14954bde48d56337cf8ff486faa06f8a44b72f9cb38bdd3d77b456c",
+  "bytes": 179
+}

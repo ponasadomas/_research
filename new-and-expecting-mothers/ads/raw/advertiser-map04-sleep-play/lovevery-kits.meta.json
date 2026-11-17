@@ -1,0 +1,30 @@
+{
+  "requested_url": "https://lovevery.com/products/the-play-kits",
+  "final_url": "https://lovevery.com/products/the-play-kits",
+  "status": 200,
+  "date_utc": "2026-10-24T21:47:32.951412+00:00",
+  "headers": {
+    "Age": "64",
+    "Cache-Control": "private, no-store",
+    "Content-Encoding": "gzip",
+    "Content-Type": "text/html; charset=utf-8",
+    "Date": "Fri, 23 Oct 2026 23:06:55 GMT",
+    "Etag": "W/\"hks6azopff1b6le\"",
+    "Expires": "0",
+    "Pragma": "no-cache",
+    "Server": "Vercel",
+    "Set-Cookie": "leis=TeuhJpAjAinwapKv1YIxf; Path=/; Expires=Sun, 24 Oct 2027 21:47:32 GMT; Max-Age=31536000; Domain=lovevery.com; Secure; HttpOnly; SameSite=none; Priority=high, leid=TeuhJpAjAinwapKv1YIxf; Path=/; Expires=Sun, 24 Oct 2027 21:47:32 GMT; Max-Age=31536000; Domain=lovevery.com; Secure; SameSite=none; Priority=high, holiday_red_cta=control; Path=/; Expires=Wed, 23 Dec 2026 21:47:32 GMT; Max-Age=5184000; SameSite=lax",
+    "Strict-Transport-Security": "max-age=63072000",
+    "Vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch",
+    "X-Leia-Device-Id": "TeuhJpAjAinwapKv1YIxf",
+    "X-Matched-Path": "/en-US/products/the-play-kits",
+    "X-Powered-By": "Next.js",
+    "X-Vercel-Cache": "HIT",
+    "X-Vercel-Id": "arn1::iad1::w2sl7-1792878452445-9fb1f116f50d",
+    "Transfer-Encoding": "chunked"
+  },
+  "redirects": [],
+  "raw_file": "_raw/advertiser-map04-sleep-play/lovevery-kits.body",
+  "sha256": "2c1b817aeb75df7c85e0f71b1ddc59eb0f13e8912c289aa0fb6cb05b2a0fc291",
+  "bytes": 2201746
+}

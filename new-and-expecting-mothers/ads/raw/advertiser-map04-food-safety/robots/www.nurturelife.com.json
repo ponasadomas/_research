@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nurturelife.com/robots.txt",
+  "status": 200,
+  "final_url": "https://www.nurturelife.com/robots.txt",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:46:31 GMT",
+    "Content-Type": "text/plain",
+    "Content-Length": "124",
+    "Connection": "close",
+    "CF-Cache-Status": "HIT",
+    "Cache-Control": "public, max-age=300, public, max-age=86400",
+    "ETag": "\"be0263aca31d561a86e36cd3669fc6a0\"",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+    "permissions-policy": "camera=(), microphone=(), geolocation=()",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY",
+    "x-xss-protection": "1; mode=block",
+    "Server-Timing": "cfCacheStatus;desc=\"HIT\"",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=a4XNrfiwonZLW1broKki8PMa6QEWAj%2Bg0tShijEeFiaO40%2BNOAWjreQfZ7nAJHg5pTv2ynEkQHYGUfpLf5HwEUOpqXScRw1kj%2F6LYqhSJOsx2YZLe5QhT7FUYktZwTxBB%2FTHSmc%3D\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Set-Cookie": "nl_region=LT-VL; Path=/; Max-Age=1800; Secure; SameSite=Lax",
+    "Server": "cloudflare",
+    "CF-RAY": "a4fc2cbcd9c3a89c-RIX"
+  }
+}

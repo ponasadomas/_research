@@ -1,0 +1,39 @@
+[
+  {
+    "id": "ofw03-0001",
+    "full_source_context_review": true,
+    "role_date_url_review": true,
+    "no_personal_names_or_usernames_selected": true,
+    "regex_hits": [],
+    "decision": "Research-only seller description; no safety, clinical, accepted-price, qualification or efficacy validation."
+  },
+  {
+    "id": "ofw03-0002",
+    "full_source_context_review": true,
+    "role_date_url_review": true,
+    "no_personal_names_or_usernames_selected": true,
+    "regex_hits": [
+      "Safety",
+      "safety"
+    ],
+    "decision": "Research-only seller description; no safety, clinical, accepted-price, qualification or efficacy validation."
+  },
+  {
+    "id": "ofw03-0003",
+    "full_source_context_review": true,
+    "role_date_url_review": true,
+    "no_personal_names_or_usernames_selected": true,
+    "regex_hits": [
+      "feeding"
+    ],
+    "decision": "Research-only seller description; no safety, clinical, accepted-price, qualification or efficacy validation."
+  },
+  {
+    "id": "ofw03-0004",
+    "full_source_context_review": true,
+    "role_date_url_review": true,
+    "no_personal_names_or_usernames_selected": true,
+    "regex_hits": [],
+    "decision": "Research-only seller description; no safety, clinical, accepted-price, qualification or efficacy validation."
+  }
+]

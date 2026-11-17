@@ -1,0 +1,25 @@
+{
+  "requested_url": "https://blog.lovevery.com/robots.txt",
+  "final_url": "https://blog.lovevery.com/robots.txt",
+  "status": 200,
+  "date_utc": "2026-10-24T21:46:39.798928+00:00",
+  "headers": {
+    "Server": "nginx",
+    "Date": "Sat, 24 Oct 2026 21:46:39 GMT",
+    "Content-Type": "text/plain",
+    "Content-Length": "106",
+    "Connection": "keep-alive",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Last-Modified": "Mon, 27 Sep 2021 16:55:49 GMT",
+    "ETag": "\"6151f795-6a\"",
+    "Accept-Ranges": "bytes",
+    "X-ac": "32.hhn _atomic_ams BYPASS",
+    "X-Remembering": "Eric Binnion <https://friendsofericbinnion.wordpress.com/>",
+    "Alt-Svc": "clear",
+    "Server-Timing": "a8c-cdn, dc;desc=hhn, cache;desc=BYPASS;dur=310.0"
+  },
+  "redirects": [],
+  "raw_file": "_raw/advertiser-map04-sleep-play/robots-blog.lovevery.com.body",
+  "sha256": "938816eb05155bdfb7b8b4e5da4974e732ac50b1ee68ff1976789809ef99180d",
+  "bytes": 106
+}

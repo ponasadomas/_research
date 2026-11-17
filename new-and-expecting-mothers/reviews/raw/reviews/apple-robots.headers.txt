@@ -1,0 +1,23 @@
+HTTP/2 200 
+server: daiquiri/5
+content-type: text/plain; charset=utf-8
+content-length: 447
+strict-transport-security: max-age=31536000; includeSubDomains
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+content-security-policy: default-src 'self'  *.apple.com;
+x-content-type-options: nosniff
+last-modified: Tue, 20 Oct 2026 23:09:59 GMT
+etag: "1bf-65e4dbac17fc0"
+accept-ranges: bytes
+x-server: (null)
+x-apple-jingle-correlation-key: N47BSY7WKCZNIUWOUBKQA2YFWQ
+x-daiquiri-instance: daiquiri:42282004:st53p00it-qujn12050502:7987:26HOTFIX48:daiquiri-amp-store-l7shared-ext-001-st
+x-daiquiri-debug-worker-pid: 81269
+cache-control: public, no-transform, max-age=703
+date: Sat, 24 Oct 2026 11:32:08 GMT
+x-cache: TCP_REFRESH_HIT from a2-22-31-191.deploy.akamaitechnologies.com (AkamaiGHost/22.6.5-e48a1e600c03e7d517694b5b11b937be) (S)
+x-true-cache-key: /L/itunes.apple.com/robots.txt vcd=2897
+x-cache-remote: TCP_IMS_HIT from a23-73-5-59.deploy.akamaitechnologies.com (AkamaiGHost/22.6.5-e48a1e600c03e7d517694b5b11b937be) (-)
+x-apple-partner: origin.0
+

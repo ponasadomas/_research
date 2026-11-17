@@ -1,0 +1,97 @@
+{
+  "scope": "all 224 human full-read originals; saved account labels do not authenticate people",
+  "repeated_account_groups": [
+    {
+      "native_author_sha256": "2978a02d94616e060099c81877cdfe9e208ae1cc8f10fe6bc9d86c7a04bb661f",
+      "post_ids": [
+        "1lz6qtx",
+        "1lz6tfa"
+      ],
+      "quote_ids": []
+    },
+    {
+      "native_author_sha256": "f0f2409445b402ce0bd1128505b68dba653064e15f7255377a2778e4188e0dd8",
+      "post_ids": [
+        "1lz8on1",
+        "1mbhuxb"
+      ],
+      "quote_ids": []
+    },
+    {
+      "native_author_sha256": "b6161b36716741ad9b3dfadddb00b2939aab44f624178363a8d8a2080f1bf7a6",
+      "post_ids": [
+        "1m6lmfm",
+        "1mbr2hl"
+      ],
+      "quote_ids": []
+    },
+    {
+      "native_author_sha256": "f9cd2bff09aa9cfba77e71d2bde8d1e0a7ed9d2ff923d14dbcd915fcb5cebbc2",
+      "post_ids": [
+        "1m6n6c8",
+        "1med5xw"
+      ],
+      "quote_ids": [
+        "rcb01-0005"
+      ]
+    },
+    {
+      "native_author_sha256": "874040dac2f37ccd8021a391ebdc6819b9b76e6503467379a6f849e44ef2f7eb",
+      "post_ids": [
+        "1m85bdn",
+        "1m96cgn"
+      ],
+      "quote_ids": []
+    },
+    {
+      "native_author_sha256": "1f64b82e4f4a68af33420189867fbeb0b0f3bbcff7ac22a5febc44f69da17a0b",
+      "post_ids": [
+        "1madd2k",
+        "1mbxc9d"
+      ],
+      "quote_ids": []
+    },
+    {
+      "native_author_sha256": "4b9e245601ddaf6e02639572727ee3ae08e35eba059bf6ced146e8a5fda78166",
+      "post_ids": [
+        "1mck70c",
+        "1mck87w"
+      ],
+      "quote_ids": []
+    },
+    {
+      "native_author_sha256": "7f08c32b6f13d5ced46e23a7590d65c8718149068079ae5a21fc4c6a4dceb622",
+      "post_ids": [
+        "1m5bq1p",
+        "1m725na",
+        "1maj62s"
+      ],
+      "quote_ids": []
+    },
+    {
+      "native_author_sha256": "d08b10e7e77110ef7abe91003503a48a2f89548a06992f6ee7546a97cb8c5d3e",
+      "post_ids": [
+        "1m5hdmx",
+        "1m8wldf"
+      ],
+      "quote_ids": []
+    },
+    {
+      "native_author_sha256": "d5003f0fec63af43d806f61071721ab4043e9f83f25e8e7987c17039fd6049be",
+      "post_ids": [
+        "1m7hln5",
+        "1m92ec6"
+      ],
+      "quote_ids": []
+    },
+    {
+      "native_author_sha256": "aa5134e95db9ee8484e7b14befcda9b2586a4e1ee3e6db1306b42045cdb6e899",
+      "post_ids": [
+        "1ma8uwd",
+        "1mao3we"
+      ],
+      "quote_ids": []
+    }
+  ],
+  "no_independent_buyer_count_claimed": true
+}

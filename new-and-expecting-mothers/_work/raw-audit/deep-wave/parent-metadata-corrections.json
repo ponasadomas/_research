@@ -1,0 +1,103 @@
+[
+  {
+    "id": "rjnp01-0066",
+    "file": "voice/reddit-july-newparents.jsonl",
+    "old": {
+      "context": "Mother’s successful routine failed when husband followed same steps; needs practical transfer to another caregiver."
+    },
+    "new": {
+      "context": "Parent’s successful routine failed when husband followed same steps; needs practical transfer to another caregiver."
+    },
+    "reason": "Parent manual20record audit: avoid inferred gender, inferred purchase success, and unverified seller professional/stage identity.",
+    "previous_voice_sha256": "aa64444ef71e53b47444a25662ed2551f5408e1fecec16522514cff378c6db2f",
+    "current_voice_sha256": "80d84cd02a6f5b3b4cd4de9dd4854f38aa1c532773aeb3d5dc10bdc508a196b1"
+  },
+  {
+    "id": "odeep01-0031",
+    "file": "voice/oblique-deep-01.jsonl",
+    "old": {
+      "type": "success_story"
+    },
+    "new": {
+      "type": "belief"
+    },
+    "reason": "Parent manual20record audit: avoid inferred gender, inferred purchase success, and unverified seller professional/stage identity.",
+    "previous_voice_sha256": "ba3bfef975f527f35156e3945844cd2867b46e7399d4fd5ad635fdfea60295cf",
+    "current_voice_sha256": "0acae1a521d13ba0ca003f7ec22be473cdaba0a8ac5a9740fee2ffde22f2e44a"
+  },
+  {
+    "id": "mkt03-0001",
+    "file": "voice/market-03.jsonl",
+    "old": {
+      "speaker": "professional",
+      "stage": "pregnancy_late"
+    },
+    "new": {
+      "speaker": "advisor",
+      "stage": "unknown"
+    },
+    "reason": "Parent manual20record audit: avoid inferred gender, inferred purchase success, and unverified seller professional/stage identity.",
+    "previous_voice_sha256": "3371ea75f57596e1237a7a29fa6609355fe7bcfd1b05de98cf3664e08092941b",
+    "current_voice_sha256": "9715348982f680c3e90302e3a67391340aff8c1fa328b11d1df252ad46a00140"
+  },
+  {
+    "id": "mkt03-0002",
+    "file": "voice/market-03.jsonl",
+    "old": {
+      "speaker": "professional",
+      "stage": "pregnancy_late"
+    },
+    "new": {
+      "speaker": "advisor",
+      "stage": "unknown"
+    },
+    "reason": "Parent manual20record audit: avoid inferred gender, inferred purchase success, and unverified seller professional/stage identity.",
+    "previous_voice_sha256": "3371ea75f57596e1237a7a29fa6609355fe7bcfd1b05de98cf3664e08092941b",
+    "current_voice_sha256": "9715348982f680c3e90302e3a67391340aff8c1fa328b11d1df252ad46a00140"
+  },
+  {
+    "id": "mkt03-0003",
+    "file": "voice/market-03.jsonl",
+    "old": {
+      "speaker": "professional",
+      "stage": "pregnancy_late"
+    },
+    "new": {
+      "speaker": "advisor",
+      "stage": "unknown"
+    },
+    "reason": "Parent manual20record audit: avoid inferred gender, inferred purchase success, and unverified seller professional/stage identity.",
+    "previous_voice_sha256": "3371ea75f57596e1237a7a29fa6609355fe7bcfd1b05de98cf3664e08092941b",
+    "current_voice_sha256": "9715348982f680c3e90302e3a67391340aff8c1fa328b11d1df252ad46a00140"
+  },
+  {
+    "id": "mkt03-0004",
+    "file": "voice/market-03.jsonl",
+    "old": {
+      "speaker": "professional",
+      "stage": "pregnancy_late"
+    },
+    "new": {
+      "speaker": "advisor",
+      "stage": "unknown"
+    },
+    "reason": "Parent manual20record audit: avoid inferred gender, inferred purchase success, and unverified seller professional/stage identity.",
+    "previous_voice_sha256": "3371ea75f57596e1237a7a29fa6609355fe7bcfd1b05de98cf3664e08092941b",
+    "current_voice_sha256": "9715348982f680c3e90302e3a67391340aff8c1fa328b11d1df252ad46a00140"
+  },
+  {
+    "id": "mkt03-0005",
+    "file": "voice/market-03.jsonl",
+    "old": {
+      "speaker": "professional",
+      "stage": "pregnancy_late"
+    },
+    "new": {
+      "speaker": "advisor",
+      "stage": "unknown"
+    },
+    "reason": "Parent manual20record audit: avoid inferred gender, inferred purchase success, and unverified seller professional/stage identity.",
+    "previous_voice_sha256": "3371ea75f57596e1237a7a29fa6609355fe7bcfd1b05de98cf3664e08092941b",
+    "current_voice_sha256": "9715348982f680c3e90302e3a67391340aff8c1fa328b11d1df252ad46a00140"
+  }
+]

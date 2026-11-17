@@ -1,0 +1,38 @@
+{
+  "ad_id": "3422368884606473",
+  "advertiser": "Taking Cara Babies",
+  "page_id": "362568527156955",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/019-taking-cara-babies-page.json",
+  "capture_sha256": "90087c5f484111bbc2fba4fd4f642e2dff76af3b3a8273ceb5b83244053f8008",
+  "native_pointer": "connections[0].edges[4].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=362568527156955",
+  "captured_at": "2026-10-24T21:50:13.463Z",
+  "is_active": true,
+  "start_utc": "2026-04-01T07:00:00+00:00",
+  "display_format": "VIDEO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=3422368884606473",
+  "snapshot_sha256": "469bb49c665404718cc3201d4346d42df44d7f538445695eaa396fd8416032ac",
+  "text_fields": {
+    "body": {
+      "text": "Why is it called the b.e.s.t. swaddle?\n✔️ Buttery soft & breathable fabric (Oeko-Tex certified)\n✔️ Easy to use—even at 3 AM\n✔️ Silent-seal closure (no Velcro!)\n✔️ Three customizable ways to swaddle\nIt’s not just clever. It’s essential for a smooth womb-to-room transition."
+    },
+    "title": "b.e.s.t. Swaddle",
+    "caption": "takingcarababies.com/best-swaddle",
+    "link_description": null,
+    "link_url": "https://www.takingcarababies.com/products/b-e-s-t-swaddle",
+    "cta_text": "Shop now",
+    "cta_type": "SHOP_NOW",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "0aed33191ad6a93a952c41350cdc6b7011da242755b80a62f6952e8589d2d400",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 1,
+  "cards_count": 0
+}

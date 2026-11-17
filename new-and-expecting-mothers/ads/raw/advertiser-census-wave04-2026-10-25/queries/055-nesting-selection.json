@@ -1,0 +1,23 @@
+{
+  "kind": "advertiser_UI_selection",
+  "query": "Nesting Notes",
+  "expected_name": "Nesting Notes Co.",
+  "chosen": {
+    "uid": "105_3",
+    "description": "Nesting Notes Co. 58 follow this · Consulting agency @nestingnotesco· 231 followers"
+  },
+  "click_response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Successfully clicked on the element\nPage navigated to https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=848670238330313."
+      }
+    ]
+  },
+  "observed": {
+    "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=848670238330313",
+    "title": "Ad Library",
+    "header": "Nesting Notes Co."
+  },
+  "captured_at": "2026-10-24T22:07:15.289Z"
+}

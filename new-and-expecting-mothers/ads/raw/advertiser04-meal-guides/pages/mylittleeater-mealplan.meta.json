@@ -1,0 +1,33 @@
+{
+  "slug": "mylittleeater-mealplan",
+  "url": "https://mylittleeater.com/blfmealplan/",
+  "robots_status": 200,
+  "robots_allowed": true,
+  "robots_file": "_raw/advertiser04-meal-guides/robots/mylittleeater.com.txt",
+  "raw_file": "_raw/advertiser04-meal-guides/pages/mylittleeater-mealplan.html",
+  "text_file": "_raw/advertiser04-meal-guides/pages/mylittleeater-mealplan.txt",
+  "sha256": "4954d63f9e4d43643376162729ea55138bbfa05d4ba7f17e576053107ea4d6ee",
+  "bytes": 244443,
+  "utc": "2026-10-24T22:18:25.520612+00:00",
+  "status": 200,
+  "final_url": "https://mylittleeater.com/blfmealplan/",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 22:18:25 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "x-powered-by": "PHP/8.3.36",
+    "content-security-policy": "block-all-mixed-content",
+    "link": "<https://mylittleeater.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=sfPNPZJc5RI4BIFCVUG%2BV9VdY8tgz8QeSC1AQIoY9cL0Yd33MCe5O7w%2BD5MLtvXs0LWzVdCYR9HSKEfcp%2BqUP4BDiSUX9qXCFMtcz9cS6BiRfMH8fHE2RjZ7ib8E3PCH3rOOXg%3D%3D\"}]}",
+    "x-litespeed-cache": "hit",
+    "Server-Timing": "cfCacheStatus;desc=\"DYNAMIC\"",
+    "vary": "Accept-Encoding",
+    "Server": "cloudflare",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "x-turbo-charged-by": "LiteSpeed",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "CF-RAY": "a4fc5b73ce57e4d4-RIX"
+  }
+}

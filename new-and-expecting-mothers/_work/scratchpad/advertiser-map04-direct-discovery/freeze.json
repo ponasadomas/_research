@@ -1,0 +1,33 @@
+{
+  "frozen_at_utc": "2026-10-24T22:15:58.810297+00:00",
+  "unique_ads": 22,
+  "source_occurrences": 24,
+  "unread": 0,
+  "failures": 0,
+  "files": [
+    {
+      "file": "sources/advertiser04-direct-discovery-reading.jsonl",
+      "sha256": "1d9c5ddf637b6cf5c80a2b46f0635bd641a697b73eeecb324eb24b87a928c720"
+    },
+    {
+      "file": "synthesis/reader-notes-advertiser04-direct-discovery.md",
+      "sha256": "2a567474cd95b5f107c39fba2dae0720d5f4df6ff19f40758e9e7028006269a1"
+    },
+    {
+      "file": "scratchpad/advertiser-map04-direct-discovery/native-manifest.json",
+      "sha256": "8ca35e2e52cd8e70c706e4a91c9baa8920f373e2c2c2d8a059baf3ecd96fbe75"
+    },
+    {
+      "file": "scratchpad/advertiser-map04-direct-discovery/views-manifest.json",
+      "sha256": "cb5dac49547946695c76579c86baa076bf934f7690528f6c4a248d5e35765bcc"
+    },
+    {
+      "file": "scratchpad/advertiser-map04-direct-discovery/verification.json",
+      "sha256": "30ea10bf157f532e1ac49f10d071ac2665cf6a1608b23c319ed416973886c6e9"
+    },
+    {
+      "file": "scratchpad/advertiser-map04-direct-discovery/verify.py",
+      "sha256": "2779b91d82481a06757dd00c6aa4d88adced939e0e360ab4c30c884041879b03"
+    }
+  ]
+}

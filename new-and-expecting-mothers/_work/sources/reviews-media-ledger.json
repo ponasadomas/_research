@@ -1,0 +1,50 @@
+[
+  {
+    "source": "App Store original reviews",
+    "unit": "review",
+    "downloaded": 180,
+    "matched": 180,
+    "triaged": 180,
+    "kept": 180,
+    "read": 180,
+    "quotes": 171,
+    "raw": "_raw/reviews/collection-manifest.json",
+    "reading_ledger": "_raw/reviews/reading-ledger.tsv"
+  },
+  {
+    "source": "Apple Books original reviews",
+    "unit": "review",
+    "downloaded": 10,
+    "matched": 10,
+    "triaged": 10,
+    "kept": 10,
+    "read": 10,
+    "quotes": 9,
+    "raw": "_raw/books/review-units.json",
+    "reading_ledger": "_raw/books/reading-ledger.tsv"
+  },
+  {
+    "source": "Book product descriptions",
+    "unit": "distinct title",
+    "downloaded": 13,
+    "matched": 13,
+    "triaged": 13,
+    "kept": 13,
+    "read": 13,
+    "quotes": 0,
+    "raw": "_raw/books/",
+    "note": "14 captures for 13 titles; supplementary Profile Cribsheet page only partially read"
+  },
+  {
+    "source": "YouTube probe metadata",
+    "unit": "video metadata row",
+    "downloaded": 5,
+    "matched": 4,
+    "triaged": 5,
+    "kept": 4,
+    "read": 4,
+    "quotes": 0,
+    "raw": "_raw/youtube/probe-search.tsv",
+    "note": "All five metadata rows read; four retained as instructional. No videos watched or comments collected."
+  }
+]

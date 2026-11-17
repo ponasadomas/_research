@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-24",
+  "assignment": "mse-completion-v2/batch-03",
+  "strict_failures": 0,
+  "failures": [],
+  "counts": {
+    "assigned_threads": 104,
+    "assigned_posts": 1523,
+    "assigned_pages": 195,
+    "assigned_chunks": 33,
+    "full_threads": 101,
+    "full_thread_posts": 1444,
+    "full_thread_pages": 185,
+    "partial_safety_threads": 3,
+    "complete_posts_before_safety_boundaries": 18,
+    "boundary_posts_inspected": 3,
+    "posts_read_including_eligibility": 1465,
+    "posts_fully_read": 1462,
+    "posts_unread_after_safety_boundaries": 58,
+    "quotes": 53,
+    "quoted_threads": 40,
+    "clinical_boundary_only_quotes": 1,
+    "cited_ids_looked_up_after_notes": 53,
+    "duplicate_ledger_ids": 0,
+    "duplicate_quote_ids": 0,
+    "max_words_per_original_post_across_voice_files": 24,
+    "max_context_words": 21,
+    "paid_report_purchases_observed": 0
+  },
+  "eligibility_exclusions": [
+    {
+      "thread_id": "4250813",
+      "status": "partial_safety_excluded",
+      "fully_read": false,
+      "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4250813.txt",
+      "reason": "OP followup introduces family loss/suicide context; excluded from marketing evidence. Boundary post inspected only; later posts not eligible/read completion.",
+      "boundary_post_id": "Comment_56766077",
+      "posts_read": 19,
+      "posts_total": 52
+    },
+    {
+      "thread_id": "5056453",
+      "status": "partial_safety_excluded",
+      "fully_read": false,
+      "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5056453.txt",
+      "reason": "OP opening exposes multiple pregnancy losses and ongoing loss-centered reassurance; stop at first-post eligibility inspection.",
+      "boundary_post_id": "Discussion_5056453",
+      "posts_read": 1,
+      "posts_total": 22
+    },
+    {
+      "thread_id": "5583868",
+      "status": "full",
+      "fully_read": true,
+      "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5583868.txt",
+      "reason": "All posts read; child-centered custody dispute excluded from marketing selection.",
+      "boundary_post_id": null,
+      "posts_read": 9,
+      "posts_total": 9
+    },
+    {
+      "thread_id": "5869066",
+      "status": "partial_safety_excluded",
+      "fully_read": false,
+      "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5869066.txt",
+      "reason": "OP exposes immediate homelessness/no money and family crisis; stop at first-post eligibility inspection, remainder not full-read eligible.",
+      "boundary_post_id": "Discussion_5869066",
+      "posts_read": 1,
+      "posts_total": 5
+    }
+  ],
+  "scope_id_sets_equal": true,
+  "all_native_body_with_quotes_retained_in_v2_units_and_assigned_chunks": true,
+  "quote_source_body_and_metadata_verified": true,
+  "verbatim_normalization": "whitespace only, case/typography preserved",
+  "manual_review": {
+    "all_53_cited_record_mappings_read_after_notes": true,
+    "names_usernames_not_selected": true,
+    "clinical_advice_not_endorsed": true,
+    "safety_incidental_passages_not_selected": true,
+    "purchase_vs_plans_and_report_demand_separated": true
+  },
+  "balance": {
+    "speaker": {
+      "parent_unspecified": 39,
+      "partner": 4,
+      "expecting_mother": 1,
+      "new_mother": 2,
+      "experienced_mother": 4,
+      "advisor": 1,
+      "skeptic": 1,
+      "relative_caregiver": 1
+    },
+    "stage": {
+      "looking_back": 11,
+      "unknown": 18,
+      "baby_6_16_weeks": 4,
+      "pregnancy_early": 3,
+      "baby_4_6_months": 5,
+      "baby_6_12_months": 3,
+      "toddler": 3,
+      "pregnancy_late": 2,
+      "return_to_work": 4
+    },
+    "type": {
+      "success_story": 8,
+      "desire": 2,
+      "objection": 8,
+      "belief": 9,
+      "question": 2,
+      "regret": 6,
+      "tried_failed": 7,
+      "others_said": 1,
+      "trigger_moment": 1,
+      "fear": 1,
+      "advice_given": 1,
+      "pain": 7
+    }
+  },
+  "file_sha256": {
+    "voice/oblique-deep-05.jsonl": "bd6541576c52ddb6f5033a52141245eb9baeaddbad91f001a781d73907332e38",
+    "sources/mse-completion-03-reading.jsonl": "8e48db637e961b6a539c1eacc640a23ea717e9ee13dd4daab3ff6397b75c2988",
+    "sources/mse-completion-03.md": "f72781e0e6689959879e9e7b8121cd706567f6d1181a163ffca4ad1ab5ee3f94",
+    "synthesis/reader-notes-mse-completion-03.md": "d9d516d2fc4121b656ffc6edd0a860cbe7f9ee0565e40de2c8042b11ba823af2",
+    "sources/mse-completion-03-id-checks.jsonl": "87326510761dcc59f511baf7157d8063a91295b1c4dbc6543e40de958aecfd42",
+    "sources/mse-completion-03-quote-checks.jsonl": "bf99aa49023cff024ee3cc25f0167ddf258bcca2cf81471a2fd3d39558dd5df3",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/manifest.jsonl": "f3f7d6d61fb5928bf886246a0840d8fcb8f5edc90e0e4e82741b495aefaa5afe",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunks.jsonl": "4d68307e43e726bdfffc76e85ca10a4a635a5d28322a86252f836e2066771745"
+  },
+  "frozen_individual_unit_sha256": {
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4250813.txt": "dc4078c1bf8a790af50820a8a22d5199053a88622675c9819d301f77405c90fb",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4315467.txt": "74e8c61c702dc4675d45546b775a508ada9e2fe5c27ba1615b189b9310b4184f",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4316059.txt": "6d25a7a6ac8ab6752378e8bcba4d48a006b7245e878bbc9289e0a228208fb4f7",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4326395.txt": "4b2405466107373c25ed4743d653651fc4a51da743cb19a1b1a54f2b4a02eb8b",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4342289.txt": "6e39ecd385aa4ce9b9b98a51c55e768e0cea9686d707d73816c9e01f32d9c6b6",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4366839.txt": "5d9403f2b0ca301b8faece3a58b79d3b6c88ec7e56feaca96073a8baffe56302",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4415223.txt": "c8ae23f1689b6b1b752123bf4214a26fee6030a09a18eda4f00a03c0a3571252",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4439661.txt": "a28558f8050cb6b316f3d8afb6feb2232f567a0cb1325d2501d2c9c0b3b91f10",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4446261.txt": "78b01d7c3aa4ed96d691e1598760dfbc4f1cf038d83a7aabf6690e00e9867a66",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4466099.txt": "f304f9023877439765de11704ecf3b374a7c9022602a0083e5f4e6954caf4213",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4477307.txt": "6aefb5d88eff96eaa3709dcebf444145994c585e904200d77731b23cb2cd6f0a",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4482635.txt": "4fae4e508e15193dc93936ac5c607d0468adf58cc37dfe564b9735b84832e3ca",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4511625.txt": "eb82b3e63a4c276a869de4a20c65c422fd8ea5a381dfe41389428ea04dc6eabc",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4546739.txt": "7b3bdc788d5f4e8de4a796867cb06f68294c3738de8d285d01569f2f82757636",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4548453.txt": "171a25fcd124f200ca2db1776409adb11eafbadfb77f659458c7dd6c6d8b73ed",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4561761.txt": "e42a4769ad9af48ebcf25252f04408746988a432d9b97f109df40e668ad08af7",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4581693.txt": "db9df25e44845ca2d59d946aa6b9ff46454af96168f98717594feb24ba62106c",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4588087.txt": "f5324313623a898899464d7b23fa581759640200ce87377fb01a07d63a6562d1",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4600527.txt": "a442a6dfff40c748e3ad12ca529f808c28d872a5ba6d423ba85b1a3bffee9302",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4608411.txt": "09fc4291ffdb6d656848aacd57d2be0415b512618cf821ca1a6e99b42ecf78c5",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4620175.txt": "cb0ed3cab4ef2c093109aff11b53eaab914bb2dd955560dacd31d6fa0cea70b0",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4623063.txt": "5b3e424b0379c013b1f3e3eb08f5fc1fb405f5561877d1c1f58f66eb9e94ead7",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4631511.txt": "9ef5a46cb540eeef471f67cd6c85405de436c253265b63b3bc927af6d8ee851f",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4635049.txt": "893a2ee339427a8240f9ad2a4dd385485db1c57bfc0991e897f1f68d99245b52",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4656341.txt": "ccd16a76071e03826afd6941e99872f6081edf3baa894eea2765bc47c262aecf",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4672765.txt": "29e0da4d17efd2e509dbb9bc6be4dc3bf2eb955c96305982a0541025063c4edc",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4678281.txt": "3b5dc0405d9f81a43a4bc9417dc6562b59b6c1c22ad42c33b02eb791c0a44bd4",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4725545.txt": "cf349161c56c72b94396e107583b6ba433f76975c4140b5f7fe469f02c78e3e9",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4727269.txt": "b58b541d17d00c0130d3cbf77a8706c065943c62bb716d9d748893fb38828c40",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4734201.txt": "f41466a493a1f675f21cc3a61b074334aec507c8c96a8c3156453bb54e044a3b",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4741139.txt": "146b1ececbf20fb2b00340030b2c58d3aeceba9a987d89aac53daf1327136c91",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4755156.txt": "b0089fe50b5a39ea8f1e32e4aabd5fcf1e01ce825c83153fd1984d9baf1d0013",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4773144.txt": "0df9f81efafb37f3d4db346531c6a700b0bd6e91a700d8b727800c1c4b57e054",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4781668.txt": "986c356264ade3d5a291f059282a48ac01c0a1fd6e187beb44a92d1b89379109",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4795925.txt": "6ff034fe823b84248283ce5234683a3701df7db7ad4269d3398594d66d3b5ae8",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4797908.txt": "3da917c50e377c9174fa27754e7a61b3cd4f78566851fd6ead3cbe1543112037",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4799361.txt": "c3b48ff5ef221ef2d7ef521ac9ee582b0bb4a1c24073635317321e91591971be",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4801300.txt": "e9e2c8375cdb9a2bd7737740ce162206dce8703a41513ea2965c67d4576df2ba",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4816715.txt": "e1d7b5fa4a22f43ba1fd6e6d8548f459e494e9360f8e2761133b8869db332494",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4818209.txt": "e57e64444b47ef3f810586f62419ef9a06c18e078a610bb659dad4ce04dc336c",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4850139.txt": "5d2d4dfad8e413db89bd154b70c703da37b378f5466c5056b46a089b05ed2a43",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4865955.txt": "53e28ca04e2642b517ded54901fa2ad118bf3bf8f82d90b15a215ac220b57a57",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4876217.txt": "079f196cd67b2c0415e387daa2dc459d89c83c89b1e91e95cee73b0226695057",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4888924.txt": "58b29c346bfd5e4de7dd864582b2564276b9a744cb308797e33c5f965c3b01f2",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4889238.txt": "d793739d3f3dd50c5f8821aca1d3b6d74445f3c5de55a3655b375cb93267d4f1",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4889465.txt": "e2e989d7fba0e05388984d5b0017f28d293cff86823ceba1bc7a124c36979def",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4906672.txt": "45de984c98b508d415e7eeee4b4cf2c57a324543d994656da92c480f9ef294ad",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4917782.txt": "b909b33952cc83c6b6ad6048c93975096e1d0c1aff5d8d318ca70ecb25b9a0d3",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4918367.txt": "5bffced0330edf4d29612138d9106b0851ea6e0d4af757119802db95b762643f",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4929034.txt": "191748031304558e7fac6b9f9f71af39b750218137ec52a9bac47f725f661139",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4963827.txt": "f6c9cc1aa105182e3abacebda29ec4579a1948ef780d8ae017e5f8ebf917a0ac",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4966769.txt": "cb9807fa8d67a5254f70a6451fbf359ce9c4510e4984bdeb694846afc660e700",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-4986084.txt": "3b4bd93cc5c0ebae68d9a890c9dfc2b014940d52b49cb4c4f4cbd95d77d0ce30",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5019630.txt": "7320fadcf8e8fe4762f7e6544bbcbad015be30a8480d088f53fee5a8b51daf7c",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5042775.txt": "21a2c3189b56a4041863609e4865073579fd4b9d75018716897be365c5b8f5cd",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5056453.txt": "7857274cab88cfe40aac382fc79c2630ac4dde3baad87dff295073862977de66",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5069549.txt": "6574d3c34c7297a7f3c868a4560f34e1aab6a181f8235fca7876ff6a6129a3de",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5116166.txt": "a91b71feb4e5e89b9914547d1f9034241fb6bd76e3b6db2b530707077017c18d",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5134076.txt": "0249b7d09cd3a02d7a8a118d1c6b03fb03c5dacae0be494410ef99f5bf937242",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5152720.txt": "3570405334d85e3c26809fbf75f525bbd84cae759eb720eab7d1049ff2457011",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5197843.txt": "d698c01b85000228e001b1d84ae4b14d770e3f4712d23f90e91e0a266dcd1354",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5202742.txt": "3832ac8f683f961180d9ef83a79f5379e4f01331c6d7165cb9a0fffec988f040",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5219622.txt": "514f2fe4003bfc3037a4b2a438358c6f64505ec33a85235015620748ab5b8e72",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5237850.txt": "d3ec258501c40a0bb128184562d4706427d7d15eb5f1cb941917beb60ddf1b88",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5266236.txt": "ae6d4345a31edc1d4a5b33c2556ac5c5bd65816de620c199b718383abfc35fd8",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5271065.txt": "588924ab5413efdd482656d7a570e9d6456670591fc9b399b47d29406b7ee6bb",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5274072.txt": "c6d0ea9c0a8ba14fe9ebf8ea56fa6c210e3500f9946c30b2f50d169d95528526",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5295574.txt": "e28935fa1787f4216b8b672582177a84d56989ee05b192e94b2f7aa00da991a2",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5296151.txt": "5f89c6624cc79ce80329a75da48d6344cd127045bebc96720f269a2b1a815841",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5313572.txt": "496f1d0148cda11ab1716a0f458ad69057eac48dc9eba7ca9bf6029ea0880359",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5319050.txt": "dae2d8368519786e51082b159f33e1f2a6e51c48eba2ce96a674d7b6ecef0288",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5381599.txt": "a4d053437eb649a8a9e3b4ce866adcdb89434d5ff5b0ccca76078edcb2438e2f",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5396104.txt": "40cc29f6a6fb72d8d383a52acd9196cd3d276e3236067c73b4c9316093f5daa0",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5437590.txt": "f7c925ef96a5e7a7615853d4cd2c389ebc00c1da661f001c8817b205dc9d47f2",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5438687.txt": "889c30e52e7b3e4dd519b48bbd7cd901d113392ed9101117c8b668c6c7fa47ae",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5448276.txt": "1916b144eeed0338b9b1b0005f81db15951dd929d91a5c7cb99264c5f44142a9",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5449593.txt": "40ee9bc232e21ad5fe79e562efe819110acd7af17b138388acbdb719ff625c12",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5464988.txt": "ff4376327776a233445d061f5538d68d4cb6ab596965d1fdb5c96e3899995df5",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5483659.txt": "bc20251dfa239aae36e2a16397f181c9775e361bee6a3fa4d9e8726de9937bba",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5487357.txt": "3c8cc5760644c462a26706f76a2b225e00cc19fb46eb926db6d8c5abc3b73a94",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5553283.txt": "f354e9fd5c6ad64c9926980aafbb9c096ba4d174fb71f6f695036d521a5b66cc",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5556869.txt": "c25c9a3e24e65a5abdc729372248fd135e1e99fd5b9234f72747a2bb0575538c",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5583868.txt": "d08cc34a4480994d5ce2814b14cfa8103debb1ee5d45c773053d179be7900bc5",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5605619.txt": "045858e6cbfaa4d4317fc869cda71bdb9f50267d6eb401cc74bbf03514fe503a",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5620462.txt": "fc00df3dd916b6fffd908971ac688b9f409cd50f0a97db24a90b807d06a0c5c9",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5629005.txt": "12e3e8abfe7f8d93524b228cdcb43714c3800478a88fc94251fdaca2ec592dc6",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5629762.txt": "ee8f37695a8e19f24e4f4ce5c42fb4336ff4cf2dadc7129a3996b76270da1691",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5654136.txt": "caefff2829b6dc2130a78b952cee63bf24a3f458453a63cf4763f2e416d45910",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5670627.txt": "708c89db48edd554fb28ae17490622ec4efb310ed2fa0e92e4f0fb9fae0e1fa0",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5683479.txt": "96d14c7eb71dfd8bda66777ce19e290056180b2d6ced68ea9d377c74df894035",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5692895.txt": "25d0ab440280b67630e988ff9b107a31a7161955c9665880f2abfe2bf8bc1a51",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5749468.txt": "3bd90ab04a6757430bbec85345b65c4cea86fa4851dae6d9d07f426cc721b617",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5768487.txt": "4e6e90548971c498304133f6e9eb49a7df647c87083e240cbac923da8e5c744a",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5800378.txt": "26b3eeb8ea5adc3a425b6b78db6c3900e04ad370180ffe7e62dd7fe27853f0ea",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5847213.txt": "0702deec35fc20d2b7bfedae3774a7fdb4d0f1c6658b6d4448636770a11dd41c",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5862532.txt": "13986dd50c9ce81d6516a7885b1530aa88add8555be814cbb794b2dee4aede5d",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5869066.txt": "32e52f67573b2653b10c62eab2d76a129e663675173f1e8225525e23ba1493f9",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5874894.txt": "306b1fd0cf192df8df8ad11c7f22b3751e95529bd6afa7606a5d7ab9a0a45221",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5973406.txt": "5a525aa2b0ffe00457777efb5900eaa99c5f81480a2d0dd554516edd941421d3",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-5988423.txt": "9cbe684061e895eb0026c7453a1180bdb8ade2a7efa6866bd9922db76f2d0cc1",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-6113191.txt": "91a29c6b2c2cc3a658f9cf2e213bc73cf443bd789a87861f6a3a8de3cb98f1bf",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-6146635.txt": "d52ff083cdf8063eab064f6a80dae97b4c1277b8905a438af468f8c893683e0d",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-6180538.txt": "ed4b8e54188888706693d07d1d08055a400c7933b02f1e36bc33b3ccb6548178",
+    "_raw/oblique-deep/mse-completion-v2/units/mse-6528387.txt": "167d09d7f3d8c0a38c97ffead88f714f2037088f87a21b28a55098873f8f0337"
+  },
+  "assigned_chunk_sha256": {
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-001.txt": "2f878046fb9d11607cc2d7af4cc95e4ef79e43dc9a1f7be4fc7345ceeb3fb5c7",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-002.txt": "f82273578a2f582617ef97d6b129bf00bf999134ba257bcfa4fe85034a7fbbb2",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-003.txt": "aeebc9989ffe97ac8c6a508ae43df6f329bb8a1e58a0f6d162086a616ddd0d1e",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-004.txt": "4eeadfeb30dcf4a09a50bb509203cb19ea56dfa58fa8dc33027c1f0750a691ed",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-005.txt": "b7639e8665ab97c07b6632b22a20b9e9e00536bb8d4497a4ed14115ee2eb2b24",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-006.txt": "402e24cf720998c1697dbe5bf51babda583af7d06cac4ef78508b344a6f48442",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-007.txt": "f5a9aca2ad442f7397a0615afee55af9d337861af3ea2b17798b792491bd47e1",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-008.txt": "8ee13a653b660640d0cdaee4829621385ee7fd63516cf56747581c0e00de976e",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-009.txt": "9f9d98f4d5aa09c1a0ac98e1228db4409065fcd4855adc55978abbd02aa15289",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-010.txt": "58188bf0fc4f1d52ebe8b996120738d2f39570f22222d5e65fa2a3c38cb73af7",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-011.txt": "36a49e82b5bc0142ec69ea566cf953f307ff7d523e65dff588f06c9ab5393800",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-012.txt": "fc837954918846731c72b27e82f45af7fefb7441a88b683a54196ff5e5e88a3c",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-013.txt": "cd13bc96a6c7fb59906f8f4009a666157131ecd76b2b3753f7bf65af592bc2f9",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-014.txt": "b603e5dacbdf0442eb7f32cb86d199bed07577ac929de24580f70a0b21065f37",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-015.txt": "ff810ed3c1e1c0b156f443f8df5c014abb4a0fb8093a2c7117414ba6087a1e4f",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-016.txt": "468378a3793728ded8794b607cb6ace253b67e2e43005fd0ed7dc5c512b755a5",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-017.txt": "2931184c33d19117ed70a7bc0207696a7e66a5f8cc4e1a100a1c4d023f57e3b1",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-018.txt": "e6e1aa241bf4add57a39eb278867ebc28ae4fc7d19023f89acb8902b53ec2389",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-019.txt": "32f7bc0e067a02f7485abcf7f3bff23ef05710071aa5b4e93ae7a725b4218c32",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-020.txt": "2cb68cd7a73e3994361be2730f4b95bc7a04e1a23a1f5531da56f2e1d9f434e0",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-021.txt": "368825daf372630272ca0de029d8e0d07e347608833e24c117fb40f8d65fd368",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-022.txt": "47242e11564e8a3861cc0c19745e593645a1be7136a6b90f6edaf51400f5d759",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-023.txt": "98e49bccd251a92ad8e8a25efe9aa5be730c8614dd4a909806aec99d0173bb4c",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-024.txt": "f0501a13385cba771b429f8fdcd893745fa54d54cc049b8a1297e9f8343a590d",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-025.txt": "ec338944af3b4e15cee82e736398360075f60a0178cdb4ee6d43920fed6dfc89",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-026.txt": "a320b5cc4cf26d03286da39478afcec9cdb3c54e927e3d05c11d37cdc82dbd20",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-027.txt": "a75e1bb0f5db4d8c48d4710294d1008dd4c9fd4382e48d9a6b6577686b971acd",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-028.txt": "1432b787b5c42be22d69565da0f2e4cd213199df96e6cd770dae42b5f04a30c5",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-029.txt": "357ed48dcc3988f5be87dd4cdc64484d1356b31d004d37738653998e3fdd1b62",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-030.txt": "bc4ccac830ec0ffa83bf584770ea7bc80b5470b7dde84ac87ba31d0fc7fc0f52",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-031.txt": "e8873b4a187c715935ba56e958cd3d45d149e4e98d633d10092742ee7860ada8",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-032.txt": "e5fc50a553f454334e286603995dbb0383f1a595a3f6cdc09844a5691156f422",
+    "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-033.txt": "c1c80b257262f2ce1cf9a597269dc6a882dfe0ce829666fc607d2fc4a7c9eb26"
+  },
+  "chunk_coverage": [
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-001.txt",
+      "thread_ids": [
+        "4250813"
+      ],
+      "fully_read_threads": 0,
+      "safety_partial_threads": [
+        "4250813"
+      ]
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-002.txt",
+      "thread_ids": [
+        "4315467"
+      ],
+      "fully_read_threads": 1,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-003.txt",
+      "thread_ids": [
+        "4316059",
+        "4326395",
+        "4342289",
+        "4366839"
+      ],
+      "fully_read_threads": 4,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-004.txt",
+      "thread_ids": [
+        "4415223"
+      ],
+      "fully_read_threads": 1,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-005.txt",
+      "thread_ids": [
+        "4439661",
+        "4446261",
+        "4466099"
+      ],
+      "fully_read_threads": 3,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-006.txt",
+      "thread_ids": [
+        "4477307",
+        "4482635",
+        "4511625",
+        "4546739",
+        "4548453"
+      ],
+      "fully_read_threads": 5,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-007.txt",
+      "thread_ids": [
+        "4561761"
+      ],
+      "fully_read_threads": 1,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-008.txt",
+      "thread_ids": [
+        "4581693"
+      ],
+      "fully_read_threads": 1,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-009.txt",
+      "thread_ids": [
+        "4588087",
+        "4600527",
+        "4608411"
+      ],
+      "fully_read_threads": 3,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-010.txt",
+      "thread_ids": [
+        "4620175",
+        "4623063",
+        "4631511",
+        "4635049"
+      ],
+      "fully_read_threads": 4,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-011.txt",
+      "thread_ids": [
+        "4656341"
+      ],
+      "fully_read_threads": 1,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-012.txt",
+      "thread_ids": [
+        "4672765",
+        "4678281",
+        "4725545",
+        "4727269",
+        "4734201",
+        "4741139"
+      ],
+      "fully_read_threads": 6,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-013.txt",
+      "thread_ids": [
+        "4755156",
+        "4773144"
+      ],
+      "fully_read_threads": 2,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-014.txt",
+      "thread_ids": [
+        "4781668",
+        "4795925",
+        "4797908",
+        "4799361",
+        "4801300"
+      ],
+      "fully_read_threads": 5,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-015.txt",
+      "thread_ids": [
+        "4816715",
+        "4818209",
+        "4850139"
+      ],
+      "fully_read_threads": 3,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-016.txt",
+      "thread_ids": [
+        "4865955"
+      ],
+      "fully_read_threads": 1,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-017.txt",
+      "thread_ids": [
+        "4876217"
+      ],
+      "fully_read_threads": 1,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-018.txt",
+      "thread_ids": [
+        "4888924",
+        "4889238"
+      ],
+      "fully_read_threads": 2,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-019.txt",
+      "thread_ids": [
+        "4889465",
+        "4906672"
+      ],
+      "fully_read_threads": 2,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-020.txt",
+      "thread_ids": [
+        "4917782",
+        "4918367",
+        "4929034"
+      ],
+      "fully_read_threads": 3,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-021.txt",
+      "thread_ids": [
+        "4963827",
+        "4966769"
+      ],
+      "fully_read_threads": 2,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-022.txt",
+      "thread_ids": [
+        "4986084"
+      ],
+      "fully_read_threads": 1,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-023.txt",
+      "thread_ids": [
+        "5019630",
+        "5042775"
+      ],
+      "fully_read_threads": 2,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-024.txt",
+      "thread_ids": [
+        "5056453",
+        "5069549",
+        "5116166",
+        "5134076"
+      ],
+      "fully_read_threads": 3,
+      "safety_partial_threads": [
+        "5056453"
+      ]
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-025.txt",
+      "thread_ids": [
+        "5152720",
+        "5197843",
+        "5202742",
+        "5219622"
+      ],
+      "fully_read_threads": 4,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-026.txt",
+      "thread_ids": [
+        "5237850",
+        "5266236",
+        "5271065",
+        "5274072",
+        "5295574",
+        "5296151",
+        "5313572",
+        "5319050"
+      ],
+      "fully_read_threads": 8,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-027.txt",
+      "thread_ids": [
+        "5381599",
+        "5396104",
+        "5437590",
+        "5438687",
+        "5448276"
+      ],
+      "fully_read_threads": 5,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-028.txt",
+      "thread_ids": [
+        "5449593",
+        "5464988",
+        "5483659",
+        "5487357",
+        "5553283"
+      ],
+      "fully_read_threads": 5,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-029.txt",
+      "thread_ids": [
+        "5556869",
+        "5583868"
+      ],
+      "fully_read_threads": 2,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-030.txt",
+      "thread_ids": [
+        "5605619",
+        "5620462",
+        "5629005",
+        "5629762"
+      ],
+      "fully_read_threads": 4,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-031.txt",
+      "thread_ids": [
+        "5654136",
+        "5670627",
+        "5683479",
+        "5692895",
+        "5749468",
+        "5768487",
+        "5800378"
+      ],
+      "fully_read_threads": 7,
+      "safety_partial_threads": []
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-032.txt",
+      "thread_ids": [
+        "5847213",
+        "5862532",
+        "5869066",
+        "5874894",
+        "5973406",
+        "5988423",
+        "6113191",
+        "6146635",
+        "6180538"
+      ],
+      "fully_read_threads": 8,
+      "safety_partial_threads": [
+        "5869066"
+      ]
+    },
+    {
+      "file": "_raw/oblique-deep/mse-completion-v2/batch-03/chunk-033.txt",
+      "thread_ids": [
+        "6528387"
+      ],
+      "fully_read_threads": 1,
+      "safety_partial_threads": []
+    }
+  ]
+}

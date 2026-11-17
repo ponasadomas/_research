@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-24",
+  "quote_records": 1296,
+  "unique_quote_ids": 1296,
+  "language_bank_entries": 977,
+  "language_bank_contexts_and_links_complete": true,
+  "research_only_ids_excluded": [
+    "odeep05-0023",
+    "rjnp01-0060",
+    "rjnp01-0115"
+  ],
+  "safety_hits": 49,
+  "all_safety_hits_have_manual_review": true,
+  "raw_file_count": 18505,
+  "raw_files_at_or_above_100MB": [],
+  "raw_gitignored_files": [],
+  "current_source_counts_match": true,
+  "eligible_assigned_forum_and_QA_unread": 0,
+  "failed": 0
+}

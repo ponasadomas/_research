@@ -1,0 +1,18 @@
+{
+  "status": 403,
+  "url": "https://www.netmums.com/robots.txt",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 20:09:36 GMT",
+    "Content-Type": "text/html",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Vary": "Accept-Encoding",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=DMd0DdJXONkO3fLf9%2FL5BVl9dRhm8DR8vxY64oqv9q0MhSQ%2BaZRY%2F0LkSrlFS9OpAknFkrHiWSma9Sdq1qS6C6rv82l2IAqUuJVXJckpYDwxkOYETpnAs2J2wrY86wW%2B%2Bw%3D%3D\"}]}",
+    "cf-cache-status": "BYPASS",
+    "Content-Encoding": "gzip",
+    "CF-RAY": "a4fb9ec51dd79642-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  }
+}

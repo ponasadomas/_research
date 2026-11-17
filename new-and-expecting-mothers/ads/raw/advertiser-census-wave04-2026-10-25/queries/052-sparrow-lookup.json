@@ -1,0 +1,48 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "Sparrow",
+  "captured_at": "2026-10-24T22:04:32.489Z",
+  "suggestions": "ge/\"\n  uid=94_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=94_1 generic description=\"Search for exact phrase Sparrow \"Sparrow\" Search this exact phrase\"\n      uid=94_2 button \"Search for exact phrase Sparrow\"\n    uid=94_3 generic description=\"Captain Jack Sparrow @CaptainJackSparrow · 16.9M follow this · Movie Character\"\n    uid=94_4 generic description=\"Sparrow Video10 1 follower · Advertising Agency\"\n    uid=94_5 generic description=\"Sparrowkkit5 518 follow this · Discount Store\"\n    uid=94_6 generic description=\"Sparrow @majicesparrow· 154.1K follow this · Clothing (Brand) @sparrow__official· 205.3K followers\"\n    uid=94_7 generic description=\"Sparrow Video02 130 follow this · Advertising Agency\"\n    uid=94_8 generic description=\"Sparrow Video03 1 follower · Advertising Agency\"\n    uid=94_9 generic description=\"Sparrow Video04 135 follow this · Advertising Agency\"\n    uid=94_10 generic description=\"Flint & Sparrow 2 follow this · Apparel & Clothing\"\n    uid=94_11 generic description=\"Sparrow @sparrowvalodas· 215 follow this · Language School @sparrow_valodas· 252 followers\"\n    uid=94_12 generic description=\"Sparrow Early Learning Centres @SparrowEarlyLearningCentresAUS· 3K follow this · Child Care Service @sparrowearlylearningcentres· 2.4K followers\"\n",
+  "candidates": [
+    {
+      "uid": "94_3",
+      "description": "Captain Jack Sparrow @CaptainJackSparrow · 16.9M follow this · Movie Character"
+    },
+    {
+      "uid": "94_4",
+      "description": "Sparrow Video10 1 follower · Advertising Agency"
+    },
+    {
+      "uid": "94_5",
+      "description": "Sparrowkkit5 518 follow this · Discount Store"
+    },
+    {
+      "uid": "94_6",
+      "description": "Sparrow @majicesparrow· 154.1K follow this · Clothing (Brand) @sparrow__official· 205.3K followers"
+    },
+    {
+      "uid": "94_7",
+      "description": "Sparrow Video02 130 follow this · Advertising Agency"
+    },
+    {
+      "uid": "94_8",
+      "description": "Sparrow Video03 1 follower · Advertising Agency"
+    },
+    {
+      "uid": "94_9",
+      "description": "Sparrow Video04 135 follow this · Advertising Agency"
+    },
+    {
+      "uid": "94_10",
+      "description": "Flint & Sparrow 2 follow this · Apparel & Clothing"
+    },
+    {
+      "uid": "94_11",
+      "description": "Sparrow @sparrowvalodas· 215 follow this · Language School @sparrow_valodas· 252 followers"
+    },
+    {
+      "uid": "94_12",
+      "description": "Sparrow Early Learning Centres @SparrowEarlyLearningCentresAUS· 3K follow this · Child Care Service @sparrowearlylearningcentres· 2.4K followers"
+    }
+  ]
+}

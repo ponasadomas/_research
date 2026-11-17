@@ -1,0 +1,1638 @@
+{
+  "version": 1,
+  "owner": "/root/mse_completion_03",
+  "reader_prefix": "rad06",
+  "inherited_triage": "_raw/reddit-deep/triage/augdec-04.tsv",
+  "assigned_full_units": 186,
+  "post_ids": [
+    "1pi5h43",
+    "1pi5qw7",
+    "1pi77mg",
+    "1pia8ck",
+    "1pib8m0",
+    "1pid258",
+    "1pie3bu",
+    "1pijdz3",
+    "1pijol0",
+    "1pipq9x",
+    "1piri98",
+    "1pit8v4",
+    "1pitpkf",
+    "1piv1r4",
+    "1pixkg4",
+    "1piy89p",
+    "1pj1gs6",
+    "1pj4ks9",
+    "1pj8c5c",
+    "1pj950f",
+    "1pjgk6r",
+    "1pjk39n",
+    "1pjnp9k",
+    "1pjson9",
+    "1pjz100",
+    "1pk1yw9",
+    "1pk2csv",
+    "1pk3ghd",
+    "1pk6ls7",
+    "1pk6lu6",
+    "1pk89mj",
+    "1pkc5m4",
+    "1pkcsss",
+    "1pkhbl1",
+    "1pkib7p",
+    "1pkjvmj",
+    "1pkq88p",
+    "1pks3um",
+    "1pkxu8z",
+    "1pl1g7x",
+    "1pl9rcn",
+    "1plamzd",
+    "1plo64m",
+    "1plod3b",
+    "1plqhwo",
+    "1plr9bd",
+    "1plsdqf",
+    "1mulclb",
+    "1mum4ee",
+    "1mum8u8",
+    "1mumu7y",
+    "1mupq57",
+    "1muzgnd",
+    "1muzh81",
+    "1mv2eku",
+    "1mv791f",
+    "1mvi6h1",
+    "1mvoza0",
+    "1mvozgp",
+    "1mvr0by",
+    "1mvsx24",
+    "1mw0l8m",
+    "1mx6oqj",
+    "1mx81hs",
+    "1mxp0qs",
+    "1my0d0z",
+    "1my3p0s",
+    "1mybuu0",
+    "1myunub",
+    "1mywnyc",
+    "1mywrsq",
+    "1mz2s7d",
+    "1mz4j5z",
+    "1mz58uc",
+    "1mzck9r",
+    "1mzckf7",
+    "1mzi9go",
+    "1mzjpki",
+    "1mzpnk2",
+    "1mzxwcm",
+    "1n09rdh",
+    "1n0koax",
+    "1n0nv1i",
+    "1n0o7sx",
+    "1n0rw0b",
+    "1n0y8gg",
+    "1n0zgtk",
+    "1n18qzb",
+    "1n193c3",
+    "1n1fupj",
+    "1n1inu8",
+    "1oyhkp7",
+    "1ozahbo",
+    "1ozeyqn",
+    "1ozj96j",
+    "1ozk2oi",
+    "1ozm6yy",
+    "1ozsx5l",
+    "1ozw8sa",
+    "1p00w6o",
+    "1p00yi0",
+    "1p0c7ep",
+    "1p0upfh",
+    "1p0vdph",
+    "1p0vfu0",
+    "1p19az7",
+    "1p1lfsi",
+    "1p1m5qc",
+    "1p1qfsp",
+    "1p1t8mm",
+    "1p237cu",
+    "1p2bmd9",
+    "1p2d94n",
+    "1p2flxk",
+    "1p2m4wl",
+    "1p2omns",
+    "1p2pmhd",
+    "1p347pj",
+    "1p3ayxc",
+    "1p3i6a0",
+    "1p3rf6o",
+    "1p3uwwn",
+    "1p3y8fx",
+    "1p3ytwt",
+    "1p42zug",
+    "1p44fud",
+    "1p48az1",
+    "1p4ecvg",
+    "1p4fhra",
+    "1p4lsyr",
+    "1p52js4",
+    "1p5a7sv",
+    "1p5ihnh",
+    "1p5vban",
+    "1p5zqis",
+    "1p61l8k",
+    "1p67bsd",
+    "1p6erl4",
+    "1p6ip2x",
+    "1p6ofp6",
+    "1p706ht",
+    "1p71h01",
+    "1p784o3",
+    "1p7a1fh",
+    "1p7czlg",
+    "1p7eaco",
+    "1p7gut2",
+    "1p7oq15",
+    "1p7ran6",
+    "1p8fq17",
+    "1p8hhmy",
+    "1p8lkv2",
+    "1p8p0qk",
+    "1p8u0pp",
+    "1p8uf46",
+    "1p9cy4p",
+    "1p9f765",
+    "1p9h7wd",
+    "1pa2k2w",
+    "1pa8w5d",
+    "1pah3pu",
+    "1pajbu8",
+    "1pb44h5",
+    "1pb8kqh",
+    "1pbcaj7",
+    "1pbimdx",
+    "1pbjxnz",
+    "1pbjyot",
+    "1pbo23r",
+    "1pbovi4",
+    "1pbqx0l",
+    "1pc58ir",
+    "1pc7cg6",
+    "1pc9ysi",
+    "1pcah9n",
+    "1pceljv",
+    "1pcgn2t",
+    "1pcigxo",
+    "1pcreub",
+    "1ptvvbq",
+    "1ptyjgb",
+    "1pu1em0",
+    "1pu9el1",
+    "1pur9pm",
+    "1purzhg",
+    "1pustjs"
+  ],
+  "chunks": [
+    {
+      "chunk": 1,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-01.txt",
+      "post_ids": [
+        "1pi5h43",
+        "1pi5qw7",
+        "1pi77mg",
+        "1pia8ck",
+        "1pib8m0"
+      ],
+      "sha256": "baa3f06865a30196c35f9f3ae436db4d62560b61f8db02c95259de26a4c19eda",
+      "units": [
+        {
+          "post_id": "1pi5h43",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pi5h43.txt",
+          "sha256": "d746d052dffddc41f1766a4a080c84c5b00822e016c5113f32942ac8f4cf0ea0"
+        },
+        {
+          "post_id": "1pi5qw7",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pi5qw7.txt",
+          "sha256": "d0b74f28acd8117d5a1d557d9f0d7592ba46bb8ba8338581594ab29148fa00d6"
+        },
+        {
+          "post_id": "1pi77mg",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pi77mg.txt",
+          "sha256": "bbc17ccb01983fcdfbaf0014905c328e45a56127e6a34262316d64209cd186bf"
+        },
+        {
+          "post_id": "1pia8ck",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pia8ck.txt",
+          "sha256": "087e8cf38f6c6fb35087772c90895e98e86356aee88e9f589ced79fd792ebe49"
+        },
+        {
+          "post_id": "1pib8m0",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pib8m0.txt",
+          "sha256": "e7fb9fd6bb4e4766a071c0a3c4afa87a10192db4364e93cb02de5d83b9a64331"
+        }
+      ]
+    },
+    {
+      "chunk": 2,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-02.txt",
+      "post_ids": [
+        "1pid258",
+        "1pie3bu",
+        "1pijdz3",
+        "1pijol0",
+        "1pipq9x",
+        "1piri98"
+      ],
+      "sha256": "2b0eef7a0d6fab2f2b7e4714785fb6843d944d4e8e4d854d984ad159593dff31",
+      "units": [
+        {
+          "post_id": "1pid258",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pid258.txt",
+          "sha256": "89b06c8b45e4e9dc59c5627ac90e46c97b9f1994f2ff3143199f191822916246"
+        },
+        {
+          "post_id": "1pie3bu",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pie3bu.txt",
+          "sha256": "d50432910fd792f770432efa4bc6139237132ba5c1e52d4607b79377267c53ac"
+        },
+        {
+          "post_id": "1pijdz3",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pijdz3.txt",
+          "sha256": "17c57ae3662b9123e0b237c12c5126856a98e0b50c57cf33d8e589c8367bdccd"
+        },
+        {
+          "post_id": "1pijol0",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pijol0.txt",
+          "sha256": "5a827e55357bce9521784a54fa270da3b88ea8df00423dfe783bc9a84e020595"
+        },
+        {
+          "post_id": "1pipq9x",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pipq9x.txt",
+          "sha256": "1bb949fd59bffaa5421026a033ec3e9983bd19395b5de3bc1de71bc0d7a6af51"
+        },
+        {
+          "post_id": "1piri98",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1piri98.txt",
+          "sha256": "b074adf84fc204e2be849893a81dce83938c984b006bc189e6272b25794bdb7c"
+        }
+      ]
+    },
+    {
+      "chunk": 3,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-03.txt",
+      "post_ids": [
+        "1pit8v4",
+        "1pitpkf",
+        "1piv1r4",
+        "1pixkg4",
+        "1piy89p",
+        "1pj1gs6"
+      ],
+      "sha256": "7b5ce2333c89263077c0aa1617d0458a73fd8a507aa4abbbd2ddb9836240e642",
+      "units": [
+        {
+          "post_id": "1pit8v4",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pit8v4.txt",
+          "sha256": "ab2916c7bedc65107bb1c5521ca64fe254666ad38a676aadd54d735323e23332"
+        },
+        {
+          "post_id": "1pitpkf",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pitpkf.txt",
+          "sha256": "ffffbebedaa952e814da6a7ebeac7b6ce7ba4ed65ad0fe5f33a9d5a4446a50bc"
+        },
+        {
+          "post_id": "1piv1r4",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1piv1r4.txt",
+          "sha256": "567199409718f82b49d0214e56c5b0d28f23296204dab63f38f73529e29a2558"
+        },
+        {
+          "post_id": "1pixkg4",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pixkg4.txt",
+          "sha256": "a0fe1fa9ef1ba220c03b1cd371503e388e132c09f69128867aa8238c9092c2df"
+        },
+        {
+          "post_id": "1piy89p",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1piy89p.txt",
+          "sha256": "54e6f1a2f617ca33450814be4b21410417e3bded31ab1a226e46bd68c95351c2"
+        },
+        {
+          "post_id": "1pj1gs6",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pj1gs6.txt",
+          "sha256": "b890ef788bb478167482f90cd3b83aad176f1547fb78cd1c5bea4516c48a54e9"
+        }
+      ]
+    },
+    {
+      "chunk": 4,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-04.txt",
+      "post_ids": [
+        "1pj4ks9",
+        "1pj8c5c",
+        "1pj950f",
+        "1pjgk6r",
+        "1pjk39n",
+        "1pjnp9k"
+      ],
+      "sha256": "9c4ab021b521c8397d8122974bb96c4da2e80c380d66651ec27aeb10aa75afc8",
+      "units": [
+        {
+          "post_id": "1pj4ks9",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pj4ks9.txt",
+          "sha256": "6988bd9543d7bc9f971a6b87d84d0dc0b1cecfb9c97982626d7e341048519d60"
+        },
+        {
+          "post_id": "1pj8c5c",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pj8c5c.txt",
+          "sha256": "c9ae0cab7351ed60a2eb0471b48b2ca0b8c85aef6ccc3c6fb43ddf87da58ef4b"
+        },
+        {
+          "post_id": "1pj950f",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pj950f.txt",
+          "sha256": "b975c61fa0c2009196284f90254f0b7c44c00aa92d7853fd6dc5f11cdf1412d0"
+        },
+        {
+          "post_id": "1pjgk6r",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pjgk6r.txt",
+          "sha256": "58422af75063a28a4f71b86d9f64838e1ff2d1dcac1d8a0ae6effaaa92750bd1"
+        },
+        {
+          "post_id": "1pjk39n",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pjk39n.txt",
+          "sha256": "7a667d2d5bf83e5524556a9d59041a46a49f46c1abb2b0318c15b2693dc483ec"
+        },
+        {
+          "post_id": "1pjnp9k",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pjnp9k.txt",
+          "sha256": "669d8f6968ff9df7ad1e7878545cf2ef0781096603263ff2ec1ea4a029faf748"
+        }
+      ]
+    },
+    {
+      "chunk": 5,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-05.txt",
+      "post_ids": [
+        "1pjson9",
+        "1pjz100",
+        "1pk1yw9",
+        "1pk2csv",
+        "1pk3ghd",
+        "1pk6ls7",
+        "1pk6lu6"
+      ],
+      "sha256": "55a8a78b1e38b186aeb617f905c6f477760eeb065ff8ffe7433e0b1e01a49e6b",
+      "units": [
+        {
+          "post_id": "1pjson9",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pjson9.txt",
+          "sha256": "8dd74a1647c9d8be52c5c2d6ee0792792af7547f3212e3d03443ee015a3bc8c0"
+        },
+        {
+          "post_id": "1pjz100",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pjz100.txt",
+          "sha256": "412d80da066309743bb751d33e3926e037581f98d2c1c14837ac128e676356d6"
+        },
+        {
+          "post_id": "1pk1yw9",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pk1yw9.txt",
+          "sha256": "f9ab4dfb13c947863f012da978b6bc885b40c2dd8366a1ce40a00a6812bb0158"
+        },
+        {
+          "post_id": "1pk2csv",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pk2csv.txt",
+          "sha256": "c6fbaa7eecbb89bde7b7fd1a60828850afec08444c6e768a317f9e5d0f0ede27"
+        },
+        {
+          "post_id": "1pk3ghd",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pk3ghd.txt",
+          "sha256": "50712a559a8b7456f646dbfdab7cdb092e81e8b6514eede50e8905e7ecd262de"
+        },
+        {
+          "post_id": "1pk6ls7",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pk6ls7.txt",
+          "sha256": "2be40661ed483e8d0d777ea71f5dc66763422b4542afbcc9732ed40f2e90807c"
+        },
+        {
+          "post_id": "1pk6lu6",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pk6lu6.txt",
+          "sha256": "ae1bb73f9cc946bdc68dfef1c4b3bbb4bfa51ba98f3fd3241b76c94be169f733"
+        }
+      ]
+    },
+    {
+      "chunk": 6,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-06.txt",
+      "post_ids": [
+        "1pk89mj",
+        "1pkc5m4",
+        "1pkcsss",
+        "1pkhbl1",
+        "1pkib7p"
+      ],
+      "sha256": "cf8eacbf7fba85996de14e11ef4ab642316767c4d49636169e6ef65c68e2aadd",
+      "units": [
+        {
+          "post_id": "1pk89mj",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pk89mj.txt",
+          "sha256": "93fa397fd0b658687536f53bf0815ede54b108ea8237390de4c0abe50d898d94"
+        },
+        {
+          "post_id": "1pkc5m4",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pkc5m4.txt",
+          "sha256": "93f3c226bb477d11f12d8a1341cfa94673bf4233aacf135f74dcc0d8d7d247cc"
+        },
+        {
+          "post_id": "1pkcsss",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pkcsss.txt",
+          "sha256": "5c8f11880abae87abd4af777ea00a9314986c4670512a76030b925277b246295"
+        },
+        {
+          "post_id": "1pkhbl1",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pkhbl1.txt",
+          "sha256": "4ffc5ee05a6e655da5d0aa65ffefdbbab81711219b327634f304371acc53b118"
+        },
+        {
+          "post_id": "1pkib7p",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pkib7p.txt",
+          "sha256": "496f700004fb5aacb44d764440b5be716f37ea69ae084d4c50bacba954a76cd4"
+        }
+      ]
+    },
+    {
+      "chunk": 7,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-07.txt",
+      "post_ids": [
+        "1pkjvmj",
+        "1pkq88p",
+        "1pks3um",
+        "1pkxu8z",
+        "1pl1g7x"
+      ],
+      "sha256": "87ade26274244c4a676d81bcf21f350b0292e189018d57b9b2fd659748e7658e",
+      "units": [
+        {
+          "post_id": "1pkjvmj",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pkjvmj.txt",
+          "sha256": "3f0aaa105a10cdce547eddf53991c9e4ac035d299ddf842f68249d103e15c104"
+        },
+        {
+          "post_id": "1pkq88p",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pkq88p.txt",
+          "sha256": "f2c14960b4d61f68413d291f566ccad0574ff5ef8c0348dfcea8b63a62287706"
+        },
+        {
+          "post_id": "1pks3um",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pks3um.txt",
+          "sha256": "2a02aa1da42df5f44a8343e6677d1c4a2c32bb472841d18d0c15299ed1473a17"
+        },
+        {
+          "post_id": "1pkxu8z",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pkxu8z.txt",
+          "sha256": "67e02d8c87c3ff9e86bc77f5b90147abcb83aa91c78e35535b216f277610d726"
+        },
+        {
+          "post_id": "1pl1g7x",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pl1g7x.txt",
+          "sha256": "f0af71d8395fa1c524eadeec58cc56632ade9c4c066ccab94c32251ceeb51831"
+        }
+      ]
+    },
+    {
+      "chunk": 8,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-08.txt",
+      "post_ids": [
+        "1pl9rcn",
+        "1plamzd",
+        "1plo64m",
+        "1plod3b",
+        "1plqhwo",
+        "1plr9bd"
+      ],
+      "sha256": "14dfea5924fb22570244ed7acc350cdc97a29e5e17c2c5b380694b5d2ad83189",
+      "units": [
+        {
+          "post_id": "1pl9rcn",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pl9rcn.txt",
+          "sha256": "34c16d48790b322ea794e9c5d2815c677feaab982ba2a5544863347011c95a7b"
+        },
+        {
+          "post_id": "1plamzd",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1plamzd.txt",
+          "sha256": "a44245e62cbc89a37538d6bf7da57ed32195efb17bfa8b83476104b109b6ff5f"
+        },
+        {
+          "post_id": "1plo64m",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1plo64m.txt",
+          "sha256": "4440ea25e68a35f84c3fb81e7374a48010ce9a5c47b71e070b1c9be8a2544e65"
+        },
+        {
+          "post_id": "1plod3b",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1plod3b.txt",
+          "sha256": "eabea93594907cbbfbf303d6a68b669ac5dfa9428101551f5b4862ee2d6eda15"
+        },
+        {
+          "post_id": "1plqhwo",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1plqhwo.txt",
+          "sha256": "8046d2c43f1fc16a3da9f183d4015a2a4ff95da5509c1fe28799fc0193b3c57e"
+        },
+        {
+          "post_id": "1plr9bd",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1plr9bd.txt",
+          "sha256": "65881da37211f737c0c4d7bd827aee079206651b0ad6a461a9e75dfc0d74dbca"
+        }
+      ]
+    },
+    {
+      "chunk": 9,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-09.txt",
+      "post_ids": [
+        "1plsdqf",
+        "1mulclb",
+        "1mum4ee",
+        "1mum8u8",
+        "1mumu7y",
+        "1mupq57"
+      ],
+      "sha256": "24d6f88ae6d95d599aab29e305da5c4e2557709f135bb6053e334037b878d795",
+      "units": [
+        {
+          "post_id": "1plsdqf",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1plsdqf.txt",
+          "sha256": "2207ea8b6351d9e8784463bdfa9abd722d272680ab19dde990e3a4c33846075b"
+        },
+        {
+          "post_id": "1mulclb",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mulclb.txt",
+          "sha256": "84bb86dbd7e3d887f82664aa069ac059fc5fe5cb37fcb1c715ea601af1d72ae7"
+        },
+        {
+          "post_id": "1mum4ee",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mum4ee.txt",
+          "sha256": "d6b14e4c16c3f5ee6fe94e1b77917dfcbd20e0d4f3d093c35aaad1d39c3eb631"
+        },
+        {
+          "post_id": "1mum8u8",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mum8u8.txt",
+          "sha256": "6efc8cdad048a7fb9a002e1ac8a2777a3cb992e24543527896ca413da00aea4f"
+        },
+        {
+          "post_id": "1mumu7y",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mumu7y.txt",
+          "sha256": "442c3d968df99f97f99185bcd07d1bac7eef1b3bab587ebbf1716510f00525e8"
+        },
+        {
+          "post_id": "1mupq57",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mupq57.txt",
+          "sha256": "9d0bb35d1baeea7284346b4d508e2adf39b1ca5e03fd173e9cd14dd9a4bf5b5f"
+        }
+      ]
+    },
+    {
+      "chunk": 10,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-10.txt",
+      "post_ids": [
+        "1muzgnd",
+        "1muzh81",
+        "1mv2eku",
+        "1mv791f",
+        "1mvi6h1",
+        "1mvoza0"
+      ],
+      "sha256": "35f3b17fefb0c84ff68f29fabf36cd2a8de1c07dbbfb18f3339238f4c06e4a9d",
+      "units": [
+        {
+          "post_id": "1muzgnd",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1muzgnd.txt",
+          "sha256": "4303a4cea0da890dd9c86b81e129dd7f350baa4cbcb734d07aec0734e7c0837e"
+        },
+        {
+          "post_id": "1muzh81",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1muzh81.txt",
+          "sha256": "0a7d2b39106e0c5dc393011de027a42f5720b2f6fb9688b21e7b0ddc8a0d8af5"
+        },
+        {
+          "post_id": "1mv2eku",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mv2eku.txt",
+          "sha256": "cd6513feab230b417672e34721d5405601f08101ea2613578d78b307b09fbc3e"
+        },
+        {
+          "post_id": "1mv791f",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mv791f.txt",
+          "sha256": "b30585e5ab3e4249d4d2c73228b95ce4ff146c7924025bbaccd904a278cc6347"
+        },
+        {
+          "post_id": "1mvi6h1",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mvi6h1.txt",
+          "sha256": "91f05865e01c0f25224f7864b07bc94c27c22cb7f3b3266fe6c8cc4a5559e4c8"
+        },
+        {
+          "post_id": "1mvoza0",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mvoza0.txt",
+          "sha256": "3cd10d3714a8f8a0b3a5dc893764d6328f8f27c5a751f87d7c95ae0a8a5050c5"
+        }
+      ]
+    },
+    {
+      "chunk": 11,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-11.txt",
+      "post_ids": [
+        "1mvozgp",
+        "1mvr0by",
+        "1mvsx24",
+        "1mw0l8m",
+        "1mx6oqj",
+        "1mx81hs"
+      ],
+      "sha256": "8b55609ed3498fec8772880e58e141e8e359c38987f6c1973006699a8984a236",
+      "units": [
+        {
+          "post_id": "1mvozgp",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mvozgp.txt",
+          "sha256": "0598cf62d32db88c5173766d2b7757273c0c0906ebafe1f8f836bc43784199a5"
+        },
+        {
+          "post_id": "1mvr0by",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mvr0by.txt",
+          "sha256": "04f5580ac9b3d6ecfe4edfe5220543ddf600d86bb955694ed4e80faf4b094ae6"
+        },
+        {
+          "post_id": "1mvsx24",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mvsx24.txt",
+          "sha256": "b659994105ae13653d078077d88970f685c7fe857c74f99c1c0fe0c6e785dad4"
+        },
+        {
+          "post_id": "1mw0l8m",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mw0l8m.txt",
+          "sha256": "3314c5eb224ff0a1516890fd5a5faf58391026598dd235088500a56a1d550980"
+        },
+        {
+          "post_id": "1mx6oqj",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mx6oqj.txt",
+          "sha256": "49b5c9f61c514db3c97c8c98e3280ca765144b5e3da4b598fb07deafc89174a4"
+        },
+        {
+          "post_id": "1mx81hs",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mx81hs.txt",
+          "sha256": "acdf87e82e61e0038f39814e8bbf81bc448f3f153c5ee086ba94879319360762"
+        }
+      ]
+    },
+    {
+      "chunk": 12,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-12.txt",
+      "post_ids": [
+        "1mxp0qs",
+        "1my0d0z",
+        "1my3p0s",
+        "1mybuu0"
+      ],
+      "sha256": "7e5ae2c8c04052a068f445b12168fa2230e82e358168c2705638c17bc841abe6",
+      "units": [
+        {
+          "post_id": "1mxp0qs",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mxp0qs.txt",
+          "sha256": "01ec7f5a6d90bd1211c703ad0f112b0dcb048945638bcacd5c665d5a3a4a5a11"
+        },
+        {
+          "post_id": "1my0d0z",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1my0d0z.txt",
+          "sha256": "0c62542cd64b327a9a8d6205c40fa4ec3e036f0c2861fcb85c6c1a4766cf3319"
+        },
+        {
+          "post_id": "1my3p0s",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1my3p0s.txt",
+          "sha256": "6da75bc4c8f569f1bf3bf58b0f0214a5e53a00c2a03d86b8c15ed2ff28e1ad64"
+        },
+        {
+          "post_id": "1mybuu0",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mybuu0.txt",
+          "sha256": "c5a75caed0226e323fb5be721fa2b91fe76408850927f0a011dea6562803cbff"
+        }
+      ]
+    },
+    {
+      "chunk": 13,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-13.txt",
+      "post_ids": [
+        "1myunub",
+        "1mywnyc",
+        "1mywrsq",
+        "1mz2s7d"
+      ],
+      "sha256": "1dbfbb0a2ca8a7515b122a20ab12be3b0e58aa135ba3dbeb1a25818e453f0275",
+      "units": [
+        {
+          "post_id": "1myunub",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1myunub.txt",
+          "sha256": "f2521d0d2cea25ca8b7f56c5c80bdcdc537c7d2e8d3748ea3769aa5b689c0cf2"
+        },
+        {
+          "post_id": "1mywnyc",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mywnyc.txt",
+          "sha256": "26d87a1d6c8202e9cc65eb364c83cc707eb9ac06974e18fd2c534d85bf2e42c5"
+        },
+        {
+          "post_id": "1mywrsq",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mywrsq.txt",
+          "sha256": "4b134df5ba6b4b4286d0bddc378febde6a76ca0d2694ae29aa605e0d18af242a"
+        },
+        {
+          "post_id": "1mz2s7d",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mz2s7d.txt",
+          "sha256": "26a84ba8b0073a9a891405c2855bec113f36c08d7ab46202396295a3f52ab807"
+        }
+      ]
+    },
+    {
+      "chunk": 14,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-14.txt",
+      "post_ids": [
+        "1mz4j5z"
+      ],
+      "sha256": "6a255041b09f10374fb4a9e90f0b4bc8d04ba16e4db66a9534efdd0eb31615eb",
+      "units": [
+        {
+          "post_id": "1mz4j5z",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mz4j5z.txt",
+          "sha256": "beb757ab1548c2ddb11c76a1e966a8dfd710e162d1549e31f716a7b7e4419598"
+        }
+      ]
+    },
+    {
+      "chunk": 15,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-15.txt",
+      "post_ids": [
+        "1mz58uc",
+        "1mzck9r",
+        "1mzckf7",
+        "1mzi9go"
+      ],
+      "sha256": "c32639556e5ac3ce18add2848007f5a556a6a5fd8ba2d0a7529d51f42a276a54",
+      "units": [
+        {
+          "post_id": "1mz58uc",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mz58uc.txt",
+          "sha256": "66d1078454b0d340f037ee8dae4e1b3b8f6e7a0a04fec2c467d5b044e09a4e62"
+        },
+        {
+          "post_id": "1mzck9r",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mzck9r.txt",
+          "sha256": "08866021b7af77ade4289b26e285644dbe5d35b71f560b05168927f57a92eb82"
+        },
+        {
+          "post_id": "1mzckf7",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mzckf7.txt",
+          "sha256": "8c51c164ce56bac879605521eca321880bb608d217ef5c213483588ec9c7a6fb"
+        },
+        {
+          "post_id": "1mzi9go",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mzi9go.txt",
+          "sha256": "a40453e4ad0c3d8c915852c2ef3a22a7c59519c65a43e15fb06faaa45717d1ea"
+        }
+      ]
+    },
+    {
+      "chunk": 16,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-16.txt",
+      "post_ids": [
+        "1mzjpki",
+        "1mzpnk2",
+        "1mzxwcm",
+        "1n09rdh",
+        "1n0koax",
+        "1n0nv1i"
+      ],
+      "sha256": "666495e630f03093107a42b0783261ca89f87acb4ed3ff535995b9bb4a672dcf",
+      "units": [
+        {
+          "post_id": "1mzjpki",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mzjpki.txt",
+          "sha256": "84d55b39bc59668450c13a1849eecba805ed39f623ba87abaf12223b30f8972e"
+        },
+        {
+          "post_id": "1mzpnk2",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mzpnk2.txt",
+          "sha256": "a693fa0183735e1a24154e0b5452ea9a4ef34c9082c2e1d4c03af079729f5915"
+        },
+        {
+          "post_id": "1mzxwcm",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1mzxwcm.txt",
+          "sha256": "b54ffe5d06fb92223ee0c64037bebc81fa9b63f4140ea897491217d954b8b9f0"
+        },
+        {
+          "post_id": "1n09rdh",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1n09rdh.txt",
+          "sha256": "072f5ba1a2dd890182c44f710e435086fa9ddd7d3ed151dac17820a1665c2b71"
+        },
+        {
+          "post_id": "1n0koax",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1n0koax.txt",
+          "sha256": "25cce14afa9b86db27253b7cdd2926eaef0cc03e941667fedb27df5ae695b7d3"
+        },
+        {
+          "post_id": "1n0nv1i",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1n0nv1i.txt",
+          "sha256": "d1694ee50d17aeecd2456e90cadf6c3ad71533b478a29fbb6250007db19dc3bd"
+        }
+      ]
+    },
+    {
+      "chunk": 17,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-17.txt",
+      "post_ids": [
+        "1n0o7sx",
+        "1n0rw0b",
+        "1n0y8gg",
+        "1n0zgtk",
+        "1n18qzb",
+        "1n193c3"
+      ],
+      "sha256": "e635de18be7da76fba95933f06e750df3d26f6cb5411524b2bd409d94010a97f",
+      "units": [
+        {
+          "post_id": "1n0o7sx",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1n0o7sx.txt",
+          "sha256": "1795b512e2d4669ada38c1b047ba734976d43d298bc41ae0b902b4a5bf15ed2f"
+        },
+        {
+          "post_id": "1n0rw0b",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1n0rw0b.txt",
+          "sha256": "a979cade11dcbaa206b3dd65faa90d3a740fe8ca2174bcf609473c4e0c8eabe6"
+        },
+        {
+          "post_id": "1n0y8gg",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1n0y8gg.txt",
+          "sha256": "0b273427baad4a0c964db34282b990086b5be4531faf87364b652c84eabaa857"
+        },
+        {
+          "post_id": "1n0zgtk",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1n0zgtk.txt",
+          "sha256": "3befccc2fdd6f083e2963e68e5b89df7f2a33c85dee2623db972bcb0b11367c8"
+        },
+        {
+          "post_id": "1n18qzb",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1n18qzb.txt",
+          "sha256": "7a18c1e7a08d624a72d3d12ecedbaa68ce8d83a33109b7a4dbe24878295e675e"
+        },
+        {
+          "post_id": "1n193c3",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1n193c3.txt",
+          "sha256": "d666de564368b38b0bac38459c9414a90f352a7239911e612ab151018006c09e"
+        }
+      ]
+    },
+    {
+      "chunk": 18,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-18.txt",
+      "post_ids": [
+        "1n1fupj",
+        "1n1inu8",
+        "1oyhkp7",
+        "1ozahbo",
+        "1ozeyqn",
+        "1ozj96j",
+        "1ozk2oi"
+      ],
+      "sha256": "e48bda10b74c2c76adf7fe20796a43bd12cacc2e1fd844f0428a476243148d0e",
+      "units": [
+        {
+          "post_id": "1n1fupj",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1n1fupj.txt",
+          "sha256": "07cfae5b7fc45703e35d0940eb0282d7728ae03c2424b55a215d1adc2d1f615c"
+        },
+        {
+          "post_id": "1n1inu8",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1n1inu8.txt",
+          "sha256": "c809de66400888167301339515eadd87718f2be2d72a173a9061aae6aa312662"
+        },
+        {
+          "post_id": "1oyhkp7",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1oyhkp7.txt",
+          "sha256": "77ab967a00667a5c91f82244fd92ec8edcb466d585a2a00ea76641604fe3694a"
+        },
+        {
+          "post_id": "1ozahbo",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1ozahbo.txt",
+          "sha256": "1417a0214210d1839d12734c079705cb7df8ef6abb0f2f38c643dd4f61a6b579"
+        },
+        {
+          "post_id": "1ozeyqn",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1ozeyqn.txt",
+          "sha256": "aebcf795f94e297b58d3125897692c4c8f5d8adb6ef15afa5ae483e0fbaf06a3"
+        },
+        {
+          "post_id": "1ozj96j",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1ozj96j.txt",
+          "sha256": "5ee0f530c0913c02d32dc3c833c5932eddc32cc2ba0e20ad00154fc340366ab9"
+        },
+        {
+          "post_id": "1ozk2oi",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1ozk2oi.txt",
+          "sha256": "f9f58ed714e2e62eaa224d96cf7a7505652463e229502903b56fc170b2d522f5"
+        }
+      ]
+    },
+    {
+      "chunk": 19,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-19.txt",
+      "post_ids": [
+        "1ozm6yy",
+        "1ozsx5l",
+        "1ozw8sa",
+        "1p00w6o",
+        "1p00yi0",
+        "1p0c7ep"
+      ],
+      "sha256": "3adb4cbe65c58b039696b513974ab65a77f837241115d52a1df80e6d784ff903",
+      "units": [
+        {
+          "post_id": "1ozm6yy",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1ozm6yy.txt",
+          "sha256": "f391fd3d15f6b930056d8648177f0582440e69f340f94727642444af1c1473d7"
+        },
+        {
+          "post_id": "1ozsx5l",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1ozsx5l.txt",
+          "sha256": "af08e16950dbd2981ee7f5a024c8b9110c6d5eb0d014bf72c591c149aedbf68a"
+        },
+        {
+          "post_id": "1ozw8sa",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1ozw8sa.txt",
+          "sha256": "02085b1297b30f0b6b732fb0a2c0a21e79786465e4eb0a521524a3b6f1b580b8"
+        },
+        {
+          "post_id": "1p00w6o",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p00w6o.txt",
+          "sha256": "2db3df61b1abf2b56f5d6354d7e9407a5e6994f1fe0c756d29a3a72f73bceedb"
+        },
+        {
+          "post_id": "1p00yi0",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p00yi0.txt",
+          "sha256": "a654adb0e43052ee72403428f80f67b756822a1e778626685c67909a767391fc"
+        },
+        {
+          "post_id": "1p0c7ep",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p0c7ep.txt",
+          "sha256": "88efda389507cb1d32ed21a381fbb12b4d6485ddf7534008061c2874769e1160"
+        }
+      ]
+    },
+    {
+      "chunk": 20,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-20.txt",
+      "post_ids": [
+        "1p0upfh",
+        "1p0vdph",
+        "1p0vfu0",
+        "1p19az7"
+      ],
+      "sha256": "088a807f38d8836af0e820126da0da459e237725db8a5d03057799a226636387",
+      "units": [
+        {
+          "post_id": "1p0upfh",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p0upfh.txt",
+          "sha256": "878ffa76e6dd426ea0b67a3cfad576a008c4648d2e1952e45ed65ae7c58dee7a"
+        },
+        {
+          "post_id": "1p0vdph",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p0vdph.txt",
+          "sha256": "751b08adee7d6ef8d781f1e03699af617852cb01de0e511828bc70324c267b27"
+        },
+        {
+          "post_id": "1p0vfu0",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p0vfu0.txt",
+          "sha256": "c24d6582b48df05eea07852fd9df1193097e82577778daedb380fbf4b03ee142"
+        },
+        {
+          "post_id": "1p19az7",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p19az7.txt",
+          "sha256": "d78e60477a11af8f20e786a6c2074ed810b68490785962e16f1218563b391a67"
+        }
+      ]
+    },
+    {
+      "chunk": 21,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-21.txt",
+      "post_ids": [
+        "1p1lfsi",
+        "1p1m5qc",
+        "1p1qfsp",
+        "1p1t8mm",
+        "1p237cu"
+      ],
+      "sha256": "d77606c2346fea9a8baeec80189cd4017fbb1d8e906963e98ebfe8e59980cee7",
+      "units": [
+        {
+          "post_id": "1p1lfsi",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p1lfsi.txt",
+          "sha256": "37b395bf35ca2786920486c923edbd6b4481bb68551e96c047984eaa2e6e4d17"
+        },
+        {
+          "post_id": "1p1m5qc",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p1m5qc.txt",
+          "sha256": "93153ae00aa19f1dd1427f4382e56fadd10d70506e1ab8abc5ceeb32bf38346d"
+        },
+        {
+          "post_id": "1p1qfsp",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p1qfsp.txt",
+          "sha256": "5f2d82c5f4ccc75eb80e524efe805d0ce187436aa44c81be2a45271054b5e56d"
+        },
+        {
+          "post_id": "1p1t8mm",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p1t8mm.txt",
+          "sha256": "58361d9de4af386d72c501a4538d11aa1c5bad6b9c9e07c9ee8d4fc802c39dc1"
+        },
+        {
+          "post_id": "1p237cu",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p237cu.txt",
+          "sha256": "1c065601a4c7530d3c2e84ff02df938452e0d15df6c0b418eafa656c09ed6b63"
+        }
+      ]
+    },
+    {
+      "chunk": 22,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-22.txt",
+      "post_ids": [
+        "1p2bmd9",
+        "1p2d94n",
+        "1p2flxk",
+        "1p2m4wl"
+      ],
+      "sha256": "d9104002ac7272d2963709f07c45fa43bdd11016be1572aa934c606eaa25bff2",
+      "units": [
+        {
+          "post_id": "1p2bmd9",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p2bmd9.txt",
+          "sha256": "97196daa4b0775e91aa50e8eb6c361f5db00ab7b771fbf3caccaf82d5cc41489"
+        },
+        {
+          "post_id": "1p2d94n",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p2d94n.txt",
+          "sha256": "3b800b46db877908b51d5fd7413f8e377e50f8c7cf6b8a4dfabf0468005fddb4"
+        },
+        {
+          "post_id": "1p2flxk",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p2flxk.txt",
+          "sha256": "4f5771a59d5e64bcbe39e313e3a4062bee2505bca0b7eef5dc69e8a56d8f984d"
+        },
+        {
+          "post_id": "1p2m4wl",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p2m4wl.txt",
+          "sha256": "2d743ed1bc1929578a32f5ef45967af7138f3c76adda5a01ceb6627700060656"
+        }
+      ]
+    },
+    {
+      "chunk": 23,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-23.txt",
+      "post_ids": [
+        "1p2omns",
+        "1p2pmhd",
+        "1p347pj",
+        "1p3ayxc",
+        "1p3i6a0",
+        "1p3rf6o"
+      ],
+      "sha256": "f5b8db3bae7af80017e7f4c7c000c1620b54501d103262a7ef2ded5558c59ef9",
+      "units": [
+        {
+          "post_id": "1p2omns",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p2omns.txt",
+          "sha256": "70cec52a5867c80abe178ca3fa4e3fda961f226a627ed065afb357bd17e29a73"
+        },
+        {
+          "post_id": "1p2pmhd",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p2pmhd.txt",
+          "sha256": "836b47ba80e383bbb56e774061a51bf2a920a565eeaacd5070fbff2c343ab994"
+        },
+        {
+          "post_id": "1p347pj",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p347pj.txt",
+          "sha256": "1290bb7a840a08c686a966db01c2533cb72a95df3bf08f796fba5dd08d4ada8b"
+        },
+        {
+          "post_id": "1p3ayxc",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p3ayxc.txt",
+          "sha256": "989a262c8cadba53b9ae27a1fdf61b5690bbc97bd790cf9e65bd0c877acba917"
+        },
+        {
+          "post_id": "1p3i6a0",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p3i6a0.txt",
+          "sha256": "3b54f23aa2b074870f59f7733e21bf371abd2293d67c9a3304beaa22b6c3816d"
+        },
+        {
+          "post_id": "1p3rf6o",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p3rf6o.txt",
+          "sha256": "28bff7c9761c55046bce4fa2b6de7c33e9133ea88aec8172393724eb71711050"
+        }
+      ]
+    },
+    {
+      "chunk": 24,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-24.txt",
+      "post_ids": [
+        "1p3uwwn",
+        "1p3y8fx",
+        "1p3ytwt",
+        "1p42zug",
+        "1p44fud"
+      ],
+      "sha256": "b9cfa87c8b3c45dac5b998b4741a318016c0fc7737b2ab7754c7c4de2b164fb5",
+      "units": [
+        {
+          "post_id": "1p3uwwn",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p3uwwn.txt",
+          "sha256": "e47be7ee0452527643ef2aad164cf6983ad630de72b1df495d24d1ef8f779a08"
+        },
+        {
+          "post_id": "1p3y8fx",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p3y8fx.txt",
+          "sha256": "7d236f472ef94ac8a75f7a84f0e37183229e7a287b1e03cf86a30e1a7e56659b"
+        },
+        {
+          "post_id": "1p3ytwt",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p3ytwt.txt",
+          "sha256": "1f4d3d1a7f883131ef6e8c6b07bc83aa68cbbdae32432e70adfdb1216e59f32d"
+        },
+        {
+          "post_id": "1p42zug",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p42zug.txt",
+          "sha256": "56940453181eaa99e2ba11e8c447aab25fa1321413b041031c7b7783c7af4f0b"
+        },
+        {
+          "post_id": "1p44fud",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p44fud.txt",
+          "sha256": "b4a9e2ba39146e72c406d592a2e2d3ac172a7a5d2dfdb0135e6c6e163c3dfe7d"
+        }
+      ]
+    },
+    {
+      "chunk": 25,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-25.txt",
+      "post_ids": [
+        "1p48az1",
+        "1p4ecvg",
+        "1p4fhra",
+        "1p4lsyr"
+      ],
+      "sha256": "739230a5bbee179d68d53db839d96f283a2f28a137d29d6ca8d8c8c6bcb980e4",
+      "units": [
+        {
+          "post_id": "1p48az1",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p48az1.txt",
+          "sha256": "dbfa3ef32dc80badce11228d22c28e1f900c829ebd0d6b9725a6db7b9b2c1595"
+        },
+        {
+          "post_id": "1p4ecvg",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p4ecvg.txt",
+          "sha256": "b5b9dec7530420f91ca01001da45320e508ebc8938b16fb99bc2cd2d2e07bc66"
+        },
+        {
+          "post_id": "1p4fhra",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p4fhra.txt",
+          "sha256": "a35dba0e39a5c45905550d6cd2247f719240789d616b158f4e4f24d99cb64db8"
+        },
+        {
+          "post_id": "1p4lsyr",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p4lsyr.txt",
+          "sha256": "489d64de966232e86a08ef7013225d16b8a36e55c5c4a210c1b4a9a575ec820c"
+        }
+      ]
+    },
+    {
+      "chunk": 26,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-26.txt",
+      "post_ids": [
+        "1p52js4",
+        "1p5a7sv",
+        "1p5ihnh",
+        "1p5vban",
+        "1p5zqis",
+        "1p61l8k"
+      ],
+      "sha256": "528a66cb8efd6089ad29906b29ab03769c4ecdb8ca33d98ae90a73b29177fee4",
+      "units": [
+        {
+          "post_id": "1p52js4",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p52js4.txt",
+          "sha256": "bd95dc67e47bf106838ab3586bdda3f9f647cb7e6206ddab11ae3e550653ead4"
+        },
+        {
+          "post_id": "1p5a7sv",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p5a7sv.txt",
+          "sha256": "7aa397e96926994ff9e92849e9ecd83e4a1cf9f847b3f917babeac295dff7d3a"
+        },
+        {
+          "post_id": "1p5ihnh",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p5ihnh.txt",
+          "sha256": "abbb97da266d29e00aacd060ed8a279457481b86d09b42be66a6bf2ff2760960"
+        },
+        {
+          "post_id": "1p5vban",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p5vban.txt",
+          "sha256": "22ca7a687dade1d4ec00415c7233a5da2351ce188baa9b3f5fb56e9248061106"
+        },
+        {
+          "post_id": "1p5zqis",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p5zqis.txt",
+          "sha256": "b3555e6bf44b09904444aadf9944abf6883f13357994c9db65997532f185fe9d"
+        },
+        {
+          "post_id": "1p61l8k",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p61l8k.txt",
+          "sha256": "b0310cfcafb8796658789b50dcff27b0606aad7a20eee9b23652926328921248"
+        }
+      ]
+    },
+    {
+      "chunk": 27,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-27.txt",
+      "post_ids": [
+        "1p67bsd",
+        "1p6erl4",
+        "1p6ip2x",
+        "1p6ofp6",
+        "1p706ht"
+      ],
+      "sha256": "3e59197d13fb1cb10403787fdd9c80e032897d697ec296aa8df1cb2fdc6fc8b9",
+      "units": [
+        {
+          "post_id": "1p67bsd",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p67bsd.txt",
+          "sha256": "0af5c8ba2a51932b31556bbe1daa9c0cbb5414663fb9566386be6e36d80905be"
+        },
+        {
+          "post_id": "1p6erl4",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p6erl4.txt",
+          "sha256": "7ae67784106394729cc0376fefb264d227eafa20e35995fda0883ebcf409abc9"
+        },
+        {
+          "post_id": "1p6ip2x",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p6ip2x.txt",
+          "sha256": "6b471e9b05f61250ea86768d59a960080e13e46edf5c5034187514a041a76bd4"
+        },
+        {
+          "post_id": "1p6ofp6",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p6ofp6.txt",
+          "sha256": "37a82b603eac0968df1d9aa4cecfbde2bb7daf63e6533f4d463c9e3356e91c4e"
+        },
+        {
+          "post_id": "1p706ht",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p706ht.txt",
+          "sha256": "fc71bbb81bf3f15df68315f4b0b84bfdad2774e73c357a5577c5acda4ff13bf0"
+        }
+      ]
+    },
+    {
+      "chunk": 28,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-28.txt",
+      "post_ids": [
+        "1p71h01",
+        "1p784o3",
+        "1p7a1fh",
+        "1p7czlg",
+        "1p7eaco"
+      ],
+      "sha256": "d27161780c78cb022edc9388aba7e6fe87d1e6fded47d444e425af61e119f21e",
+      "units": [
+        {
+          "post_id": "1p71h01",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p71h01.txt",
+          "sha256": "3645b8dee112d7132ea940d33abbd7a68e0850b3380076b6a12cc41fe4e9f8f6"
+        },
+        {
+          "post_id": "1p784o3",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p784o3.txt",
+          "sha256": "efee0fd167322b0e5ed71f6ae377615ef0222090a0adf114d07c13f1ed8c7c48"
+        },
+        {
+          "post_id": "1p7a1fh",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p7a1fh.txt",
+          "sha256": "145ea7ece3222e11de79a959c5d7c3e606eebcf2a9fd89db07aa696b4fd8429b"
+        },
+        {
+          "post_id": "1p7czlg",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p7czlg.txt",
+          "sha256": "28e6832a60575aa336a6807d64fc0b09d0b737ac23cf47354ffdbe0867773efe"
+        },
+        {
+          "post_id": "1p7eaco",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p7eaco.txt",
+          "sha256": "3321d8174d631dd4facc6b5081fe8b017c63e4f2c38001b9cd1f8abd5be7c10f"
+        }
+      ]
+    },
+    {
+      "chunk": 29,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-29.txt",
+      "post_ids": [
+        "1p7gut2",
+        "1p7oq15",
+        "1p7ran6",
+        "1p8fq17",
+        "1p8hhmy",
+        "1p8lkv2",
+        "1p8p0qk"
+      ],
+      "sha256": "9f3c1b1b8c0d9b14c7f000760f1cf01f9f38f42d90b03bd9be9f286fcabd01c1",
+      "units": [
+        {
+          "post_id": "1p7gut2",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p7gut2.txt",
+          "sha256": "b1f5aac9b02c17538b82a8924b7464aed42bdd521043552ccd3fd5461e4af61c"
+        },
+        {
+          "post_id": "1p7oq15",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p7oq15.txt",
+          "sha256": "26d6857bfd841febfbf909ad95e8beb7e7facb3dc8f9b6970f55d25f80693d10"
+        },
+        {
+          "post_id": "1p7ran6",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p7ran6.txt",
+          "sha256": "751df7ac6a1670c22755b13b04917306b072a215c8f0c150e5ece17358305ee1"
+        },
+        {
+          "post_id": "1p8fq17",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p8fq17.txt",
+          "sha256": "54241e69c96c7b9c0c5b69e5195538ab46218dae448241b30911865723dad365"
+        },
+        {
+          "post_id": "1p8hhmy",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p8hhmy.txt",
+          "sha256": "9825390ca1a4e9df917eefd8bab5c7482b565817725426b1e2d8c023c0be56a0"
+        },
+        {
+          "post_id": "1p8lkv2",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p8lkv2.txt",
+          "sha256": "9524f3d2505970c9a8c58677af1f318d66cb8650232b1983c531ef5dd3d8cde1"
+        },
+        {
+          "post_id": "1p8p0qk",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p8p0qk.txt",
+          "sha256": "e210d70d6076aacdb78516204f9196b22476e0f47831c71038f948bcd8b99cd1"
+        }
+      ]
+    },
+    {
+      "chunk": 30,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-30.txt",
+      "post_ids": [
+        "1p8u0pp",
+        "1p8uf46",
+        "1p9cy4p",
+        "1p9f765",
+        "1p9h7wd",
+        "1pa2k2w"
+      ],
+      "sha256": "705412f5222ca7178972dd580607fb025a7673011ccf4dd487f693135d2f36d8",
+      "units": [
+        {
+          "post_id": "1p8u0pp",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p8u0pp.txt",
+          "sha256": "0d209a13720023c3d37e15e7714973d68f98010738c0f370d11c67032eb45f02"
+        },
+        {
+          "post_id": "1p8uf46",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p8uf46.txt",
+          "sha256": "b22310f8862e0801888a569018916e230332af1037c07dbc609b5eb65eb2f424"
+        },
+        {
+          "post_id": "1p9cy4p",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p9cy4p.txt",
+          "sha256": "79cf080bfe4a70b763ab603ddadb6908c7d5581fbc05dd227ac7dd87498e476f"
+        },
+        {
+          "post_id": "1p9f765",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p9f765.txt",
+          "sha256": "26ca3a24bd79556c2132c37b7ddaa6eb03143c299bcde0959fc061c4f8644e2f"
+        },
+        {
+          "post_id": "1p9h7wd",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1p9h7wd.txt",
+          "sha256": "bd3e684d26d202033a03d0eedcc48ba3039da9085d923196ea2e9467c470fa34"
+        },
+        {
+          "post_id": "1pa2k2w",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pa2k2w.txt",
+          "sha256": "14bf156bac6b0c48f78aa339d93c39f2c8c572983ce3d7bd0f937dd7fbe6f37e"
+        }
+      ]
+    },
+    {
+      "chunk": 31,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-31.txt",
+      "post_ids": [
+        "1pa8w5d",
+        "1pah3pu",
+        "1pajbu8",
+        "1pb44h5"
+      ],
+      "sha256": "b8db596154f31c94c00cce2be4b63ec39d16dbc851891da78022f5e64ee86d6b",
+      "units": [
+        {
+          "post_id": "1pa8w5d",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pa8w5d.txt",
+          "sha256": "4ede6c091de26b53144fa3417084380c8bf397c2113e8a766a2f72b475c10bf4"
+        },
+        {
+          "post_id": "1pah3pu",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pah3pu.txt",
+          "sha256": "833091525227c8adce0abce55e3977efe899867948151b0931dd79e4ffac102f"
+        },
+        {
+          "post_id": "1pajbu8",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pajbu8.txt",
+          "sha256": "55d5e39d554a3122fa5a773336ef5c5fb75ec1d83f66ec4385af3c8f86759f4d"
+        },
+        {
+          "post_id": "1pb44h5",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pb44h5.txt",
+          "sha256": "0cfc0810792ea97cd2e7aea08925e7aa07a7cf3419e7132d615f22209a66b4bb"
+        }
+      ]
+    },
+    {
+      "chunk": 32,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-32.txt",
+      "post_ids": [
+        "1pb8kqh",
+        "1pbcaj7",
+        "1pbimdx",
+        "1pbjxnz",
+        "1pbjyot"
+      ],
+      "sha256": "c211b585c56031b7e0f662c9744d8ad7cb79c7ba70d2bd3580330a14d6156b30",
+      "units": [
+        {
+          "post_id": "1pb8kqh",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pb8kqh.txt",
+          "sha256": "357d3c97b9c8696ae539c77f65e530624d632d55a27cd8f202dbfec4ed6f1f09"
+        },
+        {
+          "post_id": "1pbcaj7",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pbcaj7.txt",
+          "sha256": "5ea02f7f11b5f69a4121eddda200690e17427a082bb16cc14b0895faf4c6c7c2"
+        },
+        {
+          "post_id": "1pbimdx",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pbimdx.txt",
+          "sha256": "fc0245b985610aa206cf251b1f5b47fe574105d21f25a9a1c93f89206883826a"
+        },
+        {
+          "post_id": "1pbjxnz",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pbjxnz.txt",
+          "sha256": "34c98dffa98ddf2cc4eb4425991aed92a68c3b2e14768d09c296594388a5c380"
+        },
+        {
+          "post_id": "1pbjyot",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pbjyot.txt",
+          "sha256": "c55597a7f0c7c17739be1be9c8d0e627a71b0dd9301d0d7a1f6c2f7c17ef0dae"
+        }
+      ]
+    },
+    {
+      "chunk": 33,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-33.txt",
+      "post_ids": [
+        "1pbo23r",
+        "1pbovi4",
+        "1pbqx0l",
+        "1pc58ir",
+        "1pc7cg6"
+      ],
+      "sha256": "c1e72afad934d803b49504858ff575a008c31b422a733ee8c2254fcd6bf2ec20",
+      "units": [
+        {
+          "post_id": "1pbo23r",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pbo23r.txt",
+          "sha256": "4c231e5f7ceecaefd61d7e2d844261457e1182d034111c191f95e7f2cb944b4d"
+        },
+        {
+          "post_id": "1pbovi4",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pbovi4.txt",
+          "sha256": "7ab11c4102507cd8251f62ef616c28e2da699fadbc7cbc3ae84e08e0fb7bd213"
+        },
+        {
+          "post_id": "1pbqx0l",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pbqx0l.txt",
+          "sha256": "ce902fa6c53a4e35e2ef49936ba16bd78a09240a394d0cd307b80b418789dba2"
+        },
+        {
+          "post_id": "1pc58ir",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pc58ir.txt",
+          "sha256": "bd4f6856e3b43803556cce7f91be85d47fea03227ef860b1707f52b73b128fde"
+        },
+        {
+          "post_id": "1pc7cg6",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pc7cg6.txt",
+          "sha256": "da80c7142540c4bedda7e0b444219378cdd203af09ca5da5911e488d78aa5110"
+        }
+      ]
+    },
+    {
+      "chunk": 34,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-34.txt",
+      "post_ids": [
+        "1pc9ysi",
+        "1pcah9n",
+        "1pceljv",
+        "1pcgn2t"
+      ],
+      "sha256": "9d86699961886402cf69c4b68b872ffc55d8f4eb649d1bef9ddd6b1a07aa262a",
+      "units": [
+        {
+          "post_id": "1pc9ysi",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pc9ysi.txt",
+          "sha256": "7a3ee341bf76dd95aa0b325364deec823da0756553e9f0ec6c65d99e388ea872"
+        },
+        {
+          "post_id": "1pcah9n",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pcah9n.txt",
+          "sha256": "67de73bfbeccb3e4b7aaa530c314e403e883885fed755dfcfc8695d410a02f6b"
+        },
+        {
+          "post_id": "1pceljv",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pceljv.txt",
+          "sha256": "f69a42aa417d1ce73721b7100045d432861acee154fb9177326083d01d50046e"
+        },
+        {
+          "post_id": "1pcgn2t",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pcgn2t.txt",
+          "sha256": "114e4acd7abbb0d69a854ba06b366950331be69f6c01c72a56aae8374e7263ff"
+        }
+      ]
+    },
+    {
+      "chunk": 35,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-35.txt",
+      "post_ids": [
+        "1pcigxo",
+        "1pcreub",
+        "1ptvvbq",
+        "1ptyjgb",
+        "1pu1em0"
+      ],
+      "sha256": "6fd6bd39617615033dba2e4b11aa2794e852be859b4b976a52b6388224e323ca",
+      "units": [
+        {
+          "post_id": "1pcigxo",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pcigxo.txt",
+          "sha256": "5d977ae795592da4a9d19dbd101a4196bfd6ab84437610d9c1253d2befa9fcd1"
+        },
+        {
+          "post_id": "1pcreub",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pcreub.txt",
+          "sha256": "a4e3138d7a17e1125ec8a0d3dbaa91592f2784eb1a7761449182eefc30f6f11a"
+        },
+        {
+          "post_id": "1ptvvbq",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1ptvvbq.txt",
+          "sha256": "5fdb1276297801d893a1c4a1233f24b25d7c64f22c42211cc1474b0fff7fd4a5"
+        },
+        {
+          "post_id": "1ptyjgb",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1ptyjgb.txt",
+          "sha256": "4163dcba1274ac899ecf573c40754f1c74e49168d46334d594ca338adc23810f"
+        },
+        {
+          "post_id": "1pu1em0",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pu1em0.txt",
+          "sha256": "970d06e246a43882fb937dc53076db3f27db44b19f7df15c5a4cdd4922511e1b"
+        }
+      ]
+    },
+    {
+      "chunk": 36,
+      "file": "scratchpad/reddit-augdec-06/full-read-v1/full-36.txt",
+      "post_ids": [
+        "1pu9el1",
+        "1pur9pm",
+        "1purzhg",
+        "1pustjs"
+      ],
+      "sha256": "8e15a70151825bc585ed568afd3e39ee0383f0b294057c1e1448d1aed50fa51c",
+      "units": [
+        {
+          "post_id": "1pu9el1",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pu9el1.txt",
+          "sha256": "5153f2a244dbc4b5e32de65cefe09145d270860c8a69626a1774e69821149895"
+        },
+        {
+          "post_id": "1pur9pm",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pur9pm.txt",
+          "sha256": "6a64b06f44d8b3acb3a312d58ff1eeec5b7de9fc98c90198551639046f4a9d55"
+        },
+        {
+          "post_id": "1purzhg",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1purzhg.txt",
+          "sha256": "d44f57e01f0542dbafcbcf7c51c6c5d49d35f43500da5ae7a8753eddab6113eb"
+        },
+        {
+          "post_id": "1pustjs",
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pustjs.txt",
+          "sha256": "d97d0e7aef7a8472901c1a3fd2157bb191b5d6888084b0214547dd9d89cb8ab8"
+        }
+      ]
+    }
+  ],
+  "all_human_triage_complete": true
+}

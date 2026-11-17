@@ -1,0 +1,84 @@
+{
+  "ad_id": "1569658487467625",
+  "advertiser": "Taking Cara Babies",
+  "page_id": "362568527156955",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/019-taking-cara-babies-page.json",
+  "capture_sha256": "90087c5f484111bbc2fba4fd4f642e2dff76af3b3a8273ceb5b83244053f8008",
+  "native_pointer": "connections[0].edges[19].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=362568527156955",
+  "captured_at": "2026-10-24T21:50:13.463Z",
+  "is_active": true,
+  "start_utc": "2026-04-01T07:00:00+00:00",
+  "display_format": "CAROUSEL",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1569658487467625",
+  "snapshot_sha256": "c93e35bd2eed2a26587c2394fac18d135232807bb134141d85125d0e0fe7194d",
+  "text_fields": {
+    "body": {
+      "text": "💛 Parents are calling it the BEST swaddle they’ve ever used.\n💬 “Silent. Soft. Easy. I’m obsessed.”\n💬 “This is my new go-to baby gift!”\n\n🛏️ Frustration-free swaddling. Peaceful sleep. Happier nights.\nReady to try it?"
+    },
+    "title": "Taking Cara Babies",
+    "caption": "takingcarababies.com",
+    "link_description": null,
+    "link_url": "https://www.takingcarababies.com/products/b-e-s-t-swaddle",
+    "cta_text": "Shop now",
+    "cta_type": "SHOP_NOW",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": [
+      {
+        "body": " ",
+        "title": "b.e.s.t Swaddle",
+        "caption": "takingcarababies.com",
+        "link_description": " ",
+        "link_url": "https://www.takingcarababies.com/products/b-e-s-t-swaddle",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      },
+      {
+        "body": " ",
+        "title": "b.e.s.t Swaddle",
+        "caption": "takingcarababies.com",
+        "link_description": " ",
+        "link_url": "https://www.takingcarababies.com/products/b-e-s-t-swaddle",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      },
+      {
+        "body": " ",
+        "title": "b.e.s.t Swaddle",
+        "caption": "takingcarababies.com",
+        "link_description": " ",
+        "link_url": "https://www.takingcarababies.com/products/b-e-s-t-swaddle",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      },
+      {
+        "body": " ",
+        "title": "b.e.s.t Swaddle",
+        "caption": "takingcarababies.com",
+        "link_description": " ",
+        "link_url": "https://www.takingcarababies.com/products/b-e-s-t-swaddle",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      },
+      {
+        "body": " ",
+        "title": "b.e.s.t Swaddle",
+        "caption": "takingcarababies.com",
+        "link_description": " ",
+        "link_url": "https://www.takingcarababies.com/products/b-e-s-t-swaddle",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      }
+    ]
+  },
+  "text_fields_sha256": "f0b77e8ca07aaad478e0b2f1162e013e67fdb64c2e6e88dd8c111e9e977999cc",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 0,
+  "cards_count": 5
+}

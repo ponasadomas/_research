@@ -1,0 +1,55 @@
+{
+  "status": "complete_frozen_reader_assignment",
+  "stats": {
+    "assigned_cards": 697,
+    "card_files_fully_read": 13,
+    "initial_card_drops": 291,
+    "initial_kept_originals": 406,
+    "kept_originals_fully_read": 406,
+    "kept_originals_unread": 0,
+    "post_read_exclusions": 36,
+    "retained_context_originals": 370,
+    "original_bytes": 1197015,
+    "original_author_replies_read": 414,
+    "nonOP_comments_read": 7,
+    "nonOP_comments_unread": 1789,
+    "complete_live_threads_read": 0,
+    "quote_count": 97,
+    "quoted_post_ids": 89,
+    "quoted_archive_account_keys": 87,
+    "account_keys_are_not_verified_independent_people": true,
+    "by_community": {
+      "ExclusivelyPumping": 110,
+      "workingmoms": 89,
+      "beyondthebump": 167,
+      "BabyLedWeaning": 15,
+      "BeyondTheBumpUK": 25
+    },
+    "by_read_status": {
+      "read_complete": 370,
+      "excluded_after_complete_primary_read": 36
+    },
+    "comment_sources_available_originals": 104,
+    "comment_sources_unavailable_originals": 302
+  },
+  "voice_sha256": "0b5a72dbbbf324fd771cde985ad76fb1614678baedcfd5c7ac7d806908993a5d",
+  "strict_failed": 0,
+  "copied_verifier_failed": 0,
+  "artifacts": {
+    "voice/reddit-july-focused.jsonl": "0b5a72dbbbf324fd771cde985ad76fb1614678baedcfd5c7ac7d806908993a5d",
+    "sources/reddit-july-focused.md": "db23918a4144f27e8674fe235eb313e3315ca1fea685e76e250821886be0523e",
+    "sources/reddit-july-focused-primary-ledger.jsonl": "a0f2617756885a051179cbd388c892dceb21008d175a821e8f55802dcabcc7f4",
+    "sources/reddit-july-focused-final-status.jsonl": "d5362991a333e05b9ba075856fe0fb011ae560de0e0b66ff9ab4c408e239c1e4",
+    "sources/reddit-july-focused-chunk-notes.jsonl": "778dd9976b2aa3ac38a71894e699e01136c22cf03f786912baa105396ea6e191",
+    "sources/reddit-july-focused-verification.json": "f8c843645ef92df96d245fb75638d0d5ef191239dcd724a83ba3084ac3d2cd91",
+    "sources/reddit-july-focused-post-read-exclusions.jsonl": "adb0982a18815e3ff0cd8e8a12ae7d527ba88b032a45dc9ca91cfb1e5758cdcc",
+    "sources/reddit-july-focused-auxiliary-read.jsonl": "d5c0639f91932668bc2b7739bbf57c9649d5fe538320211c0cb4e1e89ed47066",
+    "sources/reddit-july-focused-unread-auxiliary-index.jsonl": "61fc9c98973698323ddde819dba32689fcb191d39eb325eb13437de4656e5730",
+    "sources/reddit-july-focused-duplicate-review.json": "29a38ec5b5928fbc8ca9fcbbf25ee44766e46cf677af1291380a406889b1c359",
+    "sources/reddit-july-focused-promotion-review.json": "6fa349eb1788ba7638caa4eccc8307cc2d475f45b4469d2c760fd64ce7ff9404",
+    "sources/reddit-july-focused-boundary-corrections.json": "94994b1e8a319b90f1487f5a51417913720ec4ae23a3e495274389ae71098b0e",
+    "sources/reddit-july-focused-metadata-corrections.json": "be3d8265ba065d61e1a7252238ac9369432fbb44f6aad664015daa79af5ff29f",
+    "synthesis/reader-notes-reddit-july-focused.md": "1820b49030448c30df656384af3f034ddae13a7f8d5b2c4688b25f5df836483c",
+    "_raw/reddit-deep/triage/july-focused.tsv": "a3b9f9876412d2c330e6e3bb540725c1ebbde7b2a14498d853b7f5cd34d05f56"
+  }
+}

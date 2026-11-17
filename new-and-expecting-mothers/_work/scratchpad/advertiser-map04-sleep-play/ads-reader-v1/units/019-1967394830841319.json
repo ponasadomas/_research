@@ -1,0 +1,66 @@
+{
+  "ad_id": "1967394830841319",
+  "advertiser": "Taking Cara Babies",
+  "page_id": "362568527156955",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/019-taking-cara-babies-page.json",
+  "capture_sha256": "90087c5f484111bbc2fba4fd4f642e2dff76af3b3a8273ceb5b83244053f8008",
+  "native_pointer": "connections[0].edges[28].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=362568527156955",
+  "captured_at": "2026-10-24T21:50:13.463Z",
+  "is_active": true,
+  "start_utc": "2026-02-28T08:00:00+00:00",
+  "display_format": "DCO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1967394830841319",
+  "snapshot_sha256": "3829e2c77b87a3b7161bc80429860f338a9f0b292edb79d8bdecdf2d0d1aae2a",
+  "text_fields": {
+    "body": {
+      "text": "{{product.brand}}"
+    },
+    "title": "{{product.name}}",
+    "caption": "takingcarababies.com",
+    "link_description": "{{product.description}}",
+    "link_url": "https://takingcarababies.com/#classes",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": [
+      {
+        "body": "Learn about baby sleep strategies designed with your emotional connection in mind",
+        "title": "Baby Sleep Classes",
+        "caption": "",
+        "link_description": "View Our Sleep Classes ",
+        "link_url": "https://takingcarababies.com/#classes",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE"
+      },
+      {
+        "body": "Learn about baby sleep strategies designed with your emotional connection in mind",
+        "title": "Baby Sleep Classes",
+        "caption": "",
+        "link_description": "View Our Sleep Classes ",
+        "link_url": "https://takingcarababies.com/#classes",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE"
+      },
+      {
+        "body": "Learn about baby sleep strategies designed with your emotional connection in mind",
+        "title": "Baby Sleep Classes",
+        "caption": "",
+        "link_description": "View Our Sleep Classes ",
+        "link_url": "https://takingcarababies.com/#classes",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE"
+      }
+    ]
+  },
+  "text_fields_sha256": "09ac232267fe695cf7d50a80bfc5dc711813d14ffd4da6a4c2f2cb4953ed4d54",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 0,
+  "cards_count": 3
+}

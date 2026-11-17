@@ -1,0 +1,2167 @@
+{
+  "date": "2026-10-24",
+  "scope": "Frozen MSE completion-v2 batch-01 whole threads",
+  "counts": {
+    "assigned_threads": 105,
+    "assigned_pages": 185,
+    "assigned_posts": 1422,
+    "assigned_chunks": 32,
+    "full_read_threads": 98,
+    "full_read_pages": 172,
+    "full_read_posts": 1306,
+    "partial_safety_excluded_threads": 7,
+    "partial_posts_inspected": 18,
+    "deliberately_unread_safety_tail_posts": 98,
+    "eligible_unread_threads": 0,
+    "eligible_unread_posts": 0,
+    "quotes": 106,
+    "quoted_threads": 67,
+    "quoted_original_posts": 106,
+    "notes_ids_looked_up": 63,
+    "manual_spotcheck_posts": 20,
+    "strict_failures": 0,
+    "max_words_aggregated_per_original_post": 25,
+    "max_context_words": 19,
+    "duplicate_ledger_ids": 0,
+    "duplicate_quote_ids": 0
+  },
+  "failures": [],
+  "normalization": "Whitespace only; no case, punctuation, typography, spelling or HTML-entity repair. Selected excerpt checked in original author body (excluding nested quotations), body_with_quotes, and frozen individual unit.",
+  "quoted_context": "All eligible v2 units and quoted context read; nested prior-post quotes not counted as new authors or quoted as the present author.",
+  "safety": "Seven precise partial exclusions; no selected extracts from them. Incidental clinical, crisis, harm and unsafe advice passages in otherwise ordinary discussions not selected. No selected excerpt treated as clinical, legal, benefits, financial or safety guidance.",
+  "purchase_boundary": "No customized-report/Mamivio purchase or price test observed. Gear/service payments and adjacent books/orders remain separately interpreted.",
+  "manual_spotcheck": {
+    "seed": 1001,
+    "ids": [
+      "odeep03-0103",
+      "odeep03-0008",
+      "odeep03-0099",
+      "odeep03-0026",
+      "odeep03-0012",
+      "odeep03-0072",
+      "odeep03-0049",
+      "odeep03-0102",
+      "odeep03-0021",
+      "odeep03-0053",
+      "odeep03-0094",
+      "odeep03-0048",
+      "odeep03-0073",
+      "odeep03-0085",
+      "odeep03-0101",
+      "odeep03-0052",
+      "odeep03-0074",
+      "odeep03-0078",
+      "odeep03-0007",
+      "odeep03-0004"
+    ],
+    "status": "20 full original posts including body_with_quotes read against excerpt/context/role/stage/type; no further corrections required"
+  },
+  "notes_id_lookup": {
+    "file": "scratchpad/odeep03/notes-id-lookups.json",
+    "ids": [
+      "odeep03-0003",
+      "odeep03-0004",
+      "odeep03-0006",
+      "odeep03-0008",
+      "odeep03-0009",
+      "odeep03-0010",
+      "odeep03-0011",
+      "odeep03-0017",
+      "odeep03-0018",
+      "odeep03-0019",
+      "odeep03-0021",
+      "odeep03-0028",
+      "odeep03-0029",
+      "odeep03-0030",
+      "odeep03-0032",
+      "odeep03-0033",
+      "odeep03-0036",
+      "odeep03-0037",
+      "odeep03-0038",
+      "odeep03-0039",
+      "odeep03-0042",
+      "odeep03-0043",
+      "odeep03-0044",
+      "odeep03-0049",
+      "odeep03-0051",
+      "odeep03-0052",
+      "odeep03-0054",
+      "odeep03-0055",
+      "odeep03-0058",
+      "odeep03-0059",
+      "odeep03-0061",
+      "odeep03-0062",
+      "odeep03-0063",
+      "odeep03-0064",
+      "odeep03-0065",
+      "odeep03-0066",
+      "odeep03-0067",
+      "odeep03-0068",
+      "odeep03-0070",
+      "odeep03-0072",
+      "odeep03-0073",
+      "odeep03-0074",
+      "odeep03-0075",
+      "odeep03-0079",
+      "odeep03-0080",
+      "odeep03-0081",
+      "odeep03-0082",
+      "odeep03-0085",
+      "odeep03-0086",
+      "odeep03-0088",
+      "odeep03-0089",
+      "odeep03-0091",
+      "odeep03-0092",
+      "odeep03-0093",
+      "odeep03-0094",
+      "odeep03-0097",
+      "odeep03-0098",
+      "odeep03-0099",
+      "odeep03-0101",
+      "odeep03-0102",
+      "odeep03-0103",
+      "odeep03-0105",
+      "odeep03-0107"
+    ],
+    "status": "Every cited ID looked up after notes writing and reviewed against actual record."
+  },
+  "speaker_counts": {
+    "relative_caregiver": 8,
+    "partner": 7,
+    "expecting_mother": 22,
+    "experienced_mother": 11,
+    "advisor": 4,
+    "parent_unspecified": 52,
+    "new_mother": 2
+  },
+  "stage_counts": {
+    "baby_6_12_months": 7,
+    "pregnancy_early": 10,
+    "newborn_0_6_weeks": 4,
+    "return_to_work": 11,
+    "pregnancy_late": 8,
+    "unknown": 39,
+    "looking_back": 14,
+    "baby_6_16_weeks": 3,
+    "toddler": 8,
+    "baby_4_6_months": 2
+  },
+  "type_counts": {
+    "desire": 10,
+    "pain": 27,
+    "question": 9,
+    "belief": 14,
+    "tried_failed": 14,
+    "trigger_moment": 5,
+    "objection": 10,
+    "success_story": 10,
+    "regret": 2,
+    "fear": 3,
+    "others_said": 1,
+    "failure_story": 1
+  },
+  "inputs": {
+    "manifest_sha256": "9b8f5823e321f54ccf14218cca80eeb36e0a731d431838ef0988c38646fbeea9",
+    "chunks_manifest_sha256": "da2744e00e0f0c35425a5689da36b1a7775afdc0cde398ae981e201c874e8ff9",
+    "chunks": [
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-001.txt",
+        "sha256": "025298d67fbcca5884c0d2250d4ba42e3b4966d740490ff250591b0dfc45b3d5",
+        "thread_ids": [
+          "4276871"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-002.txt",
+        "sha256": "d88d92a78a815b1e25bf67dfaab29b6b5bd57dfa48f50538212a66f885287cce",
+        "thread_ids": [
+          "4288229",
+          "4292061"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-003.txt",
+        "sha256": "260ba67900911dacc2e303dd7e98bf7230f3029b5c6e59526986a35a3b7d5b0b",
+        "thread_ids": [
+          "4303551",
+          "4329429",
+          "4379845"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-004.txt",
+        "sha256": "aa34ca454a4fa6a34dc10208b9e591155f818df55fc6ae73583bcd0b07d9d671",
+        "thread_ids": [
+          "4393563",
+          "4396873",
+          "4406909"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-005.txt",
+        "sha256": "1b585db7ba9d424d73b69efaea98a21661371146856b6af19934e92c0bfa4b0b",
+        "thread_ids": [
+          "4408433"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-006.txt",
+        "sha256": "92ccc0e7733bd02eeeee172ed4a122d3f4a5d19889c1a2f560be2e73ca28ae82",
+        "thread_ids": [
+          "4452647",
+          "4464253"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-007.txt",
+        "sha256": "4ac2dafd8f3a50bcc06c2dae7416651e02bac5dec6859aabef384b1ced6ef3d2",
+        "thread_ids": [
+          "4562571"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-008.txt",
+        "sha256": "30b6aaa089f9361835358385e3c7247d6f3ddb134b366a865d823847bd233c59",
+        "thread_ids": [
+          "4567887",
+          "4587369",
+          "4592233",
+          "4676001"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-009.txt",
+        "sha256": "8786acdfd83911ce1f4854646126908b59ab1f3b849a6964d2a1bd40c88163ad",
+        "thread_ids": [
+          "4707179",
+          "4707749",
+          "4717241"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-010.txt",
+        "sha256": "52ffd7e42358e5216c8afd47a608f03753886dc42d8b5d3d6ecc1f4c62eccf69",
+        "thread_ids": [
+          "4728790",
+          "4741856",
+          "4744979",
+          "4745595"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-011.txt",
+        "sha256": "b8fa7fbcef90911ecbf064ce594b95079de73bad3b3abf471cd84b7402a5edb0",
+        "thread_ids": [
+          "4755196",
+          "4759693",
+          "4771188",
+          "4773175"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-012.txt",
+        "sha256": "378bcea1c9b33e8a02c357f50047fbaf52b4d14e52f2b0dad4eacc55278b11f2",
+        "thread_ids": [
+          "4797668",
+          "4798995",
+          "4810550",
+          "4853394",
+          "4861983"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-013.txt",
+        "sha256": "9c7d843c65b7dfe345d33dc34e9819b86f62919b816566129fed7f005e95dc43",
+        "thread_ids": [
+          "4863833",
+          "4868852"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-014.txt",
+        "sha256": "e7241242ef3f543848e9f82b0fe9c7c28cc53a53611accbbd6790a8c42e08777",
+        "thread_ids": [
+          "4911531",
+          "4918483"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-015.txt",
+        "sha256": "22e68fc323f7c4da2092f1e00be615be9bf9b770615426e35e28857a58f473ed",
+        "thread_ids": [
+          "4919757"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-016.txt",
+        "sha256": "6a2693ded8f6e877da2dabc80b6fffc92c9025931bccd1e3a51503ed99caa701",
+        "thread_ids": [
+          "4922557",
+          "4941833",
+          "4953711",
+          "4954740"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-017.txt",
+        "sha256": "8d716ddea956a47f464dff27d4565857cda71c10eae4ddc9eef43fd326563806",
+        "thread_ids": [
+          "4964565"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-018.txt",
+        "sha256": "5bc1989c828dea4ce54a8c246a14d40a112921112ef210e18b74c637ad6feb33",
+        "thread_ids": [
+          "4969850",
+          "4990204",
+          "5014654",
+          "5027847"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-019.txt",
+        "sha256": "374cb3153e13f27470c12e8c12b322d74f79e9ced637468da11adc396ef508fb",
+        "thread_ids": [
+          "5035572",
+          "5058724",
+          "5124613",
+          "5136610",
+          "5145412",
+          "5155443"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-020.txt",
+        "sha256": "88fb27e334ad5abe53b049108d73b61842bea9f08921b6d5012a9b018cdbabb1",
+        "thread_ids": [
+          "5203860"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-021.txt",
+        "sha256": "5cb4d1ab3449dc87a256a0078bf6d239fadd716210c133c8d15b3a3898e124f6",
+        "thread_ids": [
+          "5205255",
+          "5245433"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-022.txt",
+        "sha256": "cb5bd586bb1692880c3cc55538801e9f690fa03af2b7b70f8f58b6f81391fbb3",
+        "thread_ids": [
+          "5268006",
+          "5268293",
+          "5289133",
+          "5294094"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-023.txt",
+        "sha256": "12b3e290f67dbfd8abca63fcd5cbd0c312d39cd50a5e7881deae1530b4f89caf",
+        "thread_ids": [
+          "5305105",
+          "5310332"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-024.txt",
+        "sha256": "5eccec319a8e7b108054bc01f5d2599365bb6734019b335d59bc1e68278d43e0",
+        "thread_ids": [
+          "5313212",
+          "5325501",
+          "5356765",
+          "5401764",
+          "5405203",
+          "5417167"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-025.txt",
+        "sha256": "2c444fedefad48699458737cb295341bbadcc26bf8619726d516a9a3c13f38b5",
+        "thread_ids": [
+          "5435612",
+          "5445255",
+          "5445263",
+          "5449394",
+          "5479357"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-026.txt",
+        "sha256": "bdde4c770646831f97289efb5b88394d303c464be9f9743fec90069c4d4f3a0b",
+        "thread_ids": [
+          "5489552",
+          "5500924",
+          "5507335"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-027.txt",
+        "sha256": "13a9c089f02f039d33288aaea32335706ad2b272ce438ad1aded5c184def4ac1",
+        "thread_ids": [
+          "5507515"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-028.txt",
+        "sha256": "8e7f069e3cbc109b451c379f6211a07dd44ff5586e12f830527895b74714018b",
+        "thread_ids": [
+          "5509040",
+          "5552949",
+          "5553282",
+          "5572807",
+          "5583747"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-029.txt",
+        "sha256": "b405b83feed2de78cf741f531a22019e0778668bef03c060b613a2d1b1c4131b",
+        "thread_ids": [
+          "5594286",
+          "5603222",
+          "5641884",
+          "5670634",
+          "5708209",
+          "5728829",
+          "5772363"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-030.txt",
+        "sha256": "0df1a2848043376ada1e971c417d81b7a4d51cc2ea04d1687f81deff8fc8fcb3",
+        "thread_ids": [
+          "5793025",
+          "5824423",
+          "5879664",
+          "5881322",
+          "5934898",
+          "5956389"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-031.txt",
+        "sha256": "b5015d8dd1273c4590d553cf716da7a26e27004121b74b8653df347203c937ec",
+        "thread_ids": [
+          "6011023",
+          "6040350",
+          "6046952",
+          "6071454",
+          "6081805",
+          "6092956",
+          "6098122",
+          "6126247",
+          "6165224"
+        ]
+      },
+      {
+        "file": "_raw/oblique-deep/mse-completion-v2/batch-01/chunk-032.txt",
+        "sha256": "38826feda97689fb12b25e888b204ca631dfc477d0833d17f2663ba3d81ed14a",
+        "thread_ids": [
+          "6311279"
+        ]
+      }
+    ],
+    "units": [
+      {
+        "thread_id": "4276871",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4276871.txt",
+        "sha256": "f68f7fa841cfacf4caf455412c6ec9c3422feb199462b340a8ad524cfb3a31fe",
+        "native_json": "_raw/oblique-deep/threads/mse-4276871.json",
+        "native_json_sha256": "50e6f73b4dca4c18ef9cb0a861bf4c1aaeccf838bad31d0cdfec38998474722c",
+        "status": "full"
+      },
+      {
+        "thread_id": "4288229",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4288229.txt",
+        "sha256": "cf76b9c26220a50becfa10df9078172d155a39cc9da5cf1be9811d86b743b5de",
+        "native_json": "_raw/oblique-deep/threads/mse-4288229.json",
+        "native_json_sha256": "488bb86094aaa3a673f41b8cd60aa28365c93e7b556c7663df1688274c596c72",
+        "status": "full"
+      },
+      {
+        "thread_id": "4292061",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4292061.txt",
+        "sha256": "0dbdd8623ea3d1214cd6285f5066186a63ab92d4b7f2f385e8c90cd5671daae0",
+        "native_json": "_raw/oblique-deep/threads/mse-4292061.json",
+        "native_json_sha256": "19889f058c186252a3e5603f75cf6639244d1c7821d0abb11d1fa96023d2ec47",
+        "status": "full"
+      },
+      {
+        "thread_id": "4303551",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4303551.txt",
+        "sha256": "9e4fdcefe4d9c8cabcf2353c3ef2cafeea112d172c86fa33a2df94ae4a257881",
+        "native_json": "_raw/oblique-deep/threads/mse-4303551.json",
+        "native_json_sha256": "5c9873986087cae262480d4aa4699c7acad1733136338d169d8569761d2cbf2f",
+        "status": "full"
+      },
+      {
+        "thread_id": "4329429",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4329429.txt",
+        "sha256": "a4613a66e139fb1db5e7cb43df3c83749d535a5b776da2ef3c649419f73b4a02",
+        "native_json": "_raw/oblique-deep/threads/mse-4329429.json",
+        "native_json_sha256": "e301fb024dd0a05bed9972443d479ce357a60562fbae33c93e7a1aba9e04473b",
+        "status": "full"
+      },
+      {
+        "thread_id": "4379845",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4379845.txt",
+        "sha256": "3cd48ba996610d53c15b76f21bdca93318e5f76f4a01b7dd1f54dc21aa88e9db",
+        "native_json": "_raw/oblique-deep/threads/mse-4379845.json",
+        "native_json_sha256": "23d2e123538dee3276b9666a70539eaddce7bd7c09c30ec98fa63bff96b2b68c",
+        "status": "full"
+      },
+      {
+        "thread_id": "4393563",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4393563.txt",
+        "sha256": "d10eb268b8163e965c0a3b6e60e6b413b934e4162bfc8818e22774850a8b2cad",
+        "native_json": "_raw/oblique-deep/threads/mse-4393563.json",
+        "native_json_sha256": "eefa4ff6780158196288ae759eafa49b167e04aa3fcc3f29df4ad8b17d972077",
+        "status": "full"
+      },
+      {
+        "thread_id": "4396873",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4396873.txt",
+        "sha256": "d1e9fd0daa3a781f9300b6051a960b91d3b7a08938d6803b70d93e7bca4b642a",
+        "native_json": "_raw/oblique-deep/threads/mse-4396873.json",
+        "native_json_sha256": "9ba44d9e595bd14c45dcb8f4923a0a22a1934804852a0bc620b63d26b0d2153b",
+        "status": "full"
+      },
+      {
+        "thread_id": "4406909",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4406909.txt",
+        "sha256": "6816ea147ca6dc895bc7eb3fa43d9dc821e0038d441a9e853d9234fbeaf2147b",
+        "native_json": "_raw/oblique-deep/threads/mse-4406909.json",
+        "native_json_sha256": "c164dcdb509c43f7ec5985115f4ca979c5ccc54b00e6d290e4d627f7f02b8419",
+        "status": "full"
+      },
+      {
+        "thread_id": "4408433",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4408433.txt",
+        "sha256": "5271294da9aee4b223690b74321517d5f948d15f93671a4ba91547a3c8017b6b",
+        "native_json": "_raw/oblique-deep/threads/mse-4408433.json",
+        "native_json_sha256": "d137b2bace8dad31dc133e0ea5639549a5b811c13d260ca45433b3f64ba67e71",
+        "status": "full"
+      },
+      {
+        "thread_id": "4452647",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4452647.txt",
+        "sha256": "383e2294d099d7887b764324bb764f84da8d3dd843aa245001206b11f91ede4c",
+        "native_json": "_raw/oblique-deep/threads/mse-4452647.json",
+        "native_json_sha256": "34b7234bc5355ad22e1dc6526e65a7695d2fa56b2cb8bbb6d57d5a880d769b35",
+        "status": "full"
+      },
+      {
+        "thread_id": "4464253",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4464253.txt",
+        "sha256": "8c9bce5482be48efa89851f921fc06904e8755aa0772d0e11d3451354f73f5ed",
+        "native_json": "_raw/oblique-deep/threads/mse-4464253.json",
+        "native_json_sha256": "cfe1a1d7550e89543ce68cb0758a9ec90f1e424e60d00a7c89f748ad45b9d491",
+        "status": "full"
+      },
+      {
+        "thread_id": "4562571",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4562571.txt",
+        "sha256": "b443019f814d683411979c50c83984bff7db1cdc3d55c141317e0c8f4fd58f74",
+        "native_json": "_raw/oblique-deep/threads/mse-4562571.json",
+        "native_json_sha256": "313228fd82a20c0ae39a41cd43ed0bc5b800be876fb4e50df24a95b1a4afccb1",
+        "status": "full"
+      },
+      {
+        "thread_id": "4567887",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4567887.txt",
+        "sha256": "bf9890fbe661e7e11b41904c1530e8ded98f63491b8ba7300f5365ee9a5506da",
+        "native_json": "_raw/oblique-deep/threads/mse-4567887.json",
+        "native_json_sha256": "2146f1d6a738577b6a693eb8bfe32dbfc5ffd75fe476034a669da0106dc2ca04",
+        "status": "full"
+      },
+      {
+        "thread_id": "4587369",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4587369.txt",
+        "sha256": "ee814eae0183e42d90f57056124b23357839ac49e70ee42fa6511239ce7b36c3",
+        "native_json": "_raw/oblique-deep/threads/mse-4587369.json",
+        "native_json_sha256": "bb8168bc1bacd914b2c7bb4403626572ce7003bed978400e1fd64155ed7eed12",
+        "status": "full"
+      },
+      {
+        "thread_id": "4592233",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4592233.txt",
+        "sha256": "1f57656e4ec225b1aaa12d2d161a8333345d83ba7e08c3dc4d07d44fcda67829",
+        "native_json": "_raw/oblique-deep/threads/mse-4592233.json",
+        "native_json_sha256": "b115f94cd5b2d4922179bb42fc848075dc3c573a89a374d01f9d313b096e9bf8",
+        "status": "full"
+      },
+      {
+        "thread_id": "4676001",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4676001.txt",
+        "sha256": "29fcc3b56d29a38b2c6acc1a7f567eae4fbaa164c74f800258444ea9a592544b",
+        "native_json": "_raw/oblique-deep/threads/mse-4676001.json",
+        "native_json_sha256": "b8ba003bd2f23790a505294f48dab4b92b7daecbaa086321eb2de643e737ad87",
+        "status": "partial_safety_excluded"
+      },
+      {
+        "thread_id": "4707179",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4707179.txt",
+        "sha256": "d4123bb4fe435931baa1b421b4db6c7c8038349ac10e880af3dc79c6617b30d1",
+        "native_json": "_raw/oblique-deep/threads/mse-4707179.json",
+        "native_json_sha256": "74c790a4e7908b78d9e49ed61e304101a8eba9b97d07637120b6d1703d92aae2",
+        "status": "full"
+      },
+      {
+        "thread_id": "4707749",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4707749.txt",
+        "sha256": "175f6b9d586a5078eadc06ae1c33949380a40d349f290a4559ca2f4c74bf8815",
+        "native_json": "_raw/oblique-deep/threads/mse-4707749.json",
+        "native_json_sha256": "2e7272e528ee7845cce7d704a920da65d30f38994c4989d1b42c48bfd6624b1e",
+        "status": "full"
+      },
+      {
+        "thread_id": "4717241",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4717241.txt",
+        "sha256": "47ee201c0a815debfe68475caa7e38285fa24b6969290d4f4da65956744f8fca",
+        "native_json": "_raw/oblique-deep/threads/mse-4717241.json",
+        "native_json_sha256": "66d1daa933a8879551d721e28e2ebf90730c02e5a74b0adae1c6e8a229e6cd79",
+        "status": "full"
+      },
+      {
+        "thread_id": "4728790",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4728790.txt",
+        "sha256": "1ee9e6939abd2fad44ac613d95d263199c160940b5e4715e46051cc3691ad825",
+        "native_json": "_raw/oblique-deep/threads/mse-4728790.json",
+        "native_json_sha256": "3a6f7e67c34f9f9bc27cb4fa378a6eda12692b0ac57fb71cc4b9bf7589fbaecc",
+        "status": "full"
+      },
+      {
+        "thread_id": "4741856",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4741856.txt",
+        "sha256": "960ed055f1b87f5ea8b8a2cba7eb104690154ce186f210e91bd13107b88c382a",
+        "native_json": "_raw/oblique-deep/threads/mse-4741856.json",
+        "native_json_sha256": "d02ba0e8d4684ef66f8d7fa44d106fb6b53c0825dd91eff480f6c30de603b1f9",
+        "status": "full"
+      },
+      {
+        "thread_id": "4744979",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4744979.txt",
+        "sha256": "35b88e6fd953207e26233a03fed0e028d7f81cc083efea1a28a561d36c6b79e5",
+        "native_json": "_raw/oblique-deep/threads/mse-4744979.json",
+        "native_json_sha256": "b314849fdd2793ff37fbda50e08ddeaac966d040b92de996e85e32fefa5a1d17",
+        "status": "full"
+      },
+      {
+        "thread_id": "4745595",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4745595.txt",
+        "sha256": "850b5a4bf96e8bbab36e25b545e5b9d9f50d9cf2d2574d42603992aa8ab1ef2d",
+        "native_json": "_raw/oblique-deep/threads/mse-4745595.json",
+        "native_json_sha256": "96a855af330e30522bc3f4b2b662604db01de882760518b6870b2f2a791ead06",
+        "status": "full"
+      },
+      {
+        "thread_id": "4755196",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4755196.txt",
+        "sha256": "cc2152ec384ee47b8f46f4cb2415b8b8faf4a1ad35f312d9d5469b02dde694a2",
+        "native_json": "_raw/oblique-deep/threads/mse-4755196.json",
+        "native_json_sha256": "d57cd3d909bf88838a377e6884b6a1f6b384894c0c86e2d1454a44e480344c23",
+        "status": "full"
+      },
+      {
+        "thread_id": "4759693",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4759693.txt",
+        "sha256": "8c01be3cb9f43e2e88dca038ddf4737c1b7e5a53f0b7efc03e3bf5f130964ab7",
+        "native_json": "_raw/oblique-deep/threads/mse-4759693.json",
+        "native_json_sha256": "f00364da475baf5f4ee3c3aab935355a614b6b28f872202b58e559c84376baab",
+        "status": "full"
+      },
+      {
+        "thread_id": "4771188",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4771188.txt",
+        "sha256": "2737aeb807b4a6a0842b5aafa78981a3b0ee2e2642640568d4ee255495de3a38",
+        "native_json": "_raw/oblique-deep/threads/mse-4771188.json",
+        "native_json_sha256": "bd84bcace3ace33fa6cc49e4b5ec181b07a96c5f0df6206aa0758b9cbfc2b431",
+        "status": "full"
+      },
+      {
+        "thread_id": "4773175",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4773175.txt",
+        "sha256": "cb49f9cb8ff86ad4ec636563d2e2fef623df3cc96914c98975c9a55271169f91",
+        "native_json": "_raw/oblique-deep/threads/mse-4773175.json",
+        "native_json_sha256": "af482f4d80bef675d81e526b2ee976c20d00c71070211ab3d058f05041f83533",
+        "status": "full"
+      },
+      {
+        "thread_id": "4797668",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4797668.txt",
+        "sha256": "39e248fea41a4aa43e2b2b203991bcfacdd3e29236316a1e71936f8db3045e43",
+        "native_json": "_raw/oblique-deep/threads/mse-4797668.json",
+        "native_json_sha256": "f56807dee0aae279999d5a609c74b13552867cd3d46e8b0bf0d726b9922b7f51",
+        "status": "full"
+      },
+      {
+        "thread_id": "4798995",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4798995.txt",
+        "sha256": "665abca3dcfa9d3826d7c804242960b80e593eb435250bb7b55be9b1bb5267e1",
+        "native_json": "_raw/oblique-deep/threads/mse-4798995.json",
+        "native_json_sha256": "981ecb0b4174e37d3cdb93d86371c271a8be0d0a5d1461b9069ecfe72e5b0ffc",
+        "status": "full"
+      },
+      {
+        "thread_id": "4810550",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4810550.txt",
+        "sha256": "033143906a61401047e76af4591427253238cf5731acda34d0771d0929448456",
+        "native_json": "_raw/oblique-deep/threads/mse-4810550.json",
+        "native_json_sha256": "a15f1d77baebf198562b8027dabbf83418a0307497221b60eba6ced295d55e3d",
+        "status": "full"
+      },
+      {
+        "thread_id": "4853394",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4853394.txt",
+        "sha256": "20ccb9f7453df79b6d07e9280a8cc7b6e7bf3680b8e051925fa15bd10fc52114",
+        "native_json": "_raw/oblique-deep/threads/mse-4853394.json",
+        "native_json_sha256": "b1d0fb0876c6cfb002e30799397e5117b0d7d38b9c68e10e02c14dfd5f979d2d",
+        "status": "full"
+      },
+      {
+        "thread_id": "4861983",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4861983.txt",
+        "sha256": "fce8ebc9787b88a47caf909a877ff2d0c42f011ba243c1fe5eddcb69d01d1655",
+        "native_json": "_raw/oblique-deep/threads/mse-4861983.json",
+        "native_json_sha256": "4f12259359d82aac2cdd995d9c44502aedc27ac2e51cc6938d0b6c699be60fea",
+        "status": "full"
+      },
+      {
+        "thread_id": "4863833",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4863833.txt",
+        "sha256": "2ff87eadb8a7d925b4ec7f0f751c3de2eb11a0660f249ee1e2cfa52e9037914c",
+        "native_json": "_raw/oblique-deep/threads/mse-4863833.json",
+        "native_json_sha256": "d288378434e375584dbd14ccbf85b6c444584fb11465e547ecd9649b5b18283e",
+        "status": "full"
+      },
+      {
+        "thread_id": "4868852",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4868852.txt",
+        "sha256": "6462fb1ca96d553bc6f7adcae064d8a3692b1bc5d64271320b6969cc84dcda10",
+        "native_json": "_raw/oblique-deep/threads/mse-4868852.json",
+        "native_json_sha256": "22d264a542e8d571a1ed2bee5484e9cce66e0f3f7ecae5a30c7b71162b7c5e11",
+        "status": "full"
+      },
+      {
+        "thread_id": "4911531",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4911531.txt",
+        "sha256": "a35b537c936c9abe84a7abab35bae28eeef5aede4023f50598a3a6959bb773f6",
+        "native_json": "_raw/oblique-deep/threads/mse-4911531.json",
+        "native_json_sha256": "be597d8cfa8b9587d87083e199b7423bab6bfd1e6018be99b6db673f093ae20e",
+        "status": "full"
+      },
+      {
+        "thread_id": "4918483",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4918483.txt",
+        "sha256": "ac3ee3212688a921fd2780323f2a25b693a85f50f66cd719e6c140cf33d95f34",
+        "native_json": "_raw/oblique-deep/threads/mse-4918483.json",
+        "native_json_sha256": "69b6d8166b77b7bda2e8ccf6fd5d00053035a9d4203e695ddeb4ca3b032ca637",
+        "status": "full"
+      },
+      {
+        "thread_id": "4919757",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4919757.txt",
+        "sha256": "74fc56d74f843ebc26b55dd0228d8ae4510506776bddbc08f9a29bae052ed835",
+        "native_json": "_raw/oblique-deep/threads/mse-4919757.json",
+        "native_json_sha256": "5b6823327f5d063f0e7766466a9d54ed563a9ca2ee9b1cbb9528acf7b76f24db",
+        "status": "full"
+      },
+      {
+        "thread_id": "4922557",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4922557.txt",
+        "sha256": "8e5d362af9d2c95dd5548b44001acbe3c0e0828834d73914eeb8ff4f465ae04e",
+        "native_json": "_raw/oblique-deep/threads/mse-4922557.json",
+        "native_json_sha256": "e5f17263895f98664ef5b09f77a22998489d3fb4106d7c5868f549b97e0a2d93",
+        "status": "partial_safety_excluded"
+      },
+      {
+        "thread_id": "4941833",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4941833.txt",
+        "sha256": "2e1853763ee68b20ef1af2eccdea5cde812298b7bef09e010f1671151e399180",
+        "native_json": "_raw/oblique-deep/threads/mse-4941833.json",
+        "native_json_sha256": "7a82215eeb614e5865567a8f6a4eac89d6d1a6564452158cf872baff80a7ea31",
+        "status": "full"
+      },
+      {
+        "thread_id": "4953711",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4953711.txt",
+        "sha256": "58de2a7ff62cbff8b778007b3b4c3543efd7ce64a4884f3d304b5f325e0dccc3",
+        "native_json": "_raw/oblique-deep/threads/mse-4953711.json",
+        "native_json_sha256": "e374be6737962fcd512433cd63b81e712cb4ba0c0871936d39285fa3e0bad91e",
+        "status": "full"
+      },
+      {
+        "thread_id": "4954740",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4954740.txt",
+        "sha256": "25a4ba16158de890456c99afee7084f823ce947347f4697d49376b2648ce8f5b",
+        "native_json": "_raw/oblique-deep/threads/mse-4954740.json",
+        "native_json_sha256": "3b01b9b16ffd63eec5840135ded27af36d0aa1222e9fe3c4e17f7dd32643d025",
+        "status": "full"
+      },
+      {
+        "thread_id": "4964565",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4964565.txt",
+        "sha256": "b57123d8e6206ee3c9aaba28333c7b0932863f774856a2f398087b9893c12236",
+        "native_json": "_raw/oblique-deep/threads/mse-4964565.json",
+        "native_json_sha256": "9533442f9f3880d9307e5eaf597f4b08b75eb79a411b31c371caedc7489455a8",
+        "status": "full"
+      },
+      {
+        "thread_id": "4969850",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4969850.txt",
+        "sha256": "b79c851f38b7b5c60362a53613fd384c56c73475fd78e11f5585ca3d7cc99db8",
+        "native_json": "_raw/oblique-deep/threads/mse-4969850.json",
+        "native_json_sha256": "3a6f073a187ef917ccf39ec7488b14ac6ab281733f9cf1c601b9905e187fe4a9",
+        "status": "full"
+      },
+      {
+        "thread_id": "4990204",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-4990204.txt",
+        "sha256": "53a735c99f43f353d51a6f3f701d4fabad1beb21626095eb2dbc2ed0fa0fd0c3",
+        "native_json": "_raw/oblique-deep/threads/mse-4990204.json",
+        "native_json_sha256": "7f611806b63909b65eb8bdb17b2edec4cec1ababf900041362690e8c66ccae96",
+        "status": "full"
+      },
+      {
+        "thread_id": "5014654",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5014654.txt",
+        "sha256": "7bc4604e5df7634489fc862ff5a70d34d49e312fa176b15c30b4bdb38c007091",
+        "native_json": "_raw/oblique-deep/threads/mse-5014654.json",
+        "native_json_sha256": "07f03cca16e5d3c021d37ef67fe96b99b17dd93babd47bc68a0bac1bf27e2597",
+        "status": "full"
+      },
+      {
+        "thread_id": "5027847",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5027847.txt",
+        "sha256": "aae484e36de4cb99f0d6118817aa1d1d0cff11c5e201288e8ea552ddc9e53ef4",
+        "native_json": "_raw/oblique-deep/threads/mse-5027847.json",
+        "native_json_sha256": "7fd2fab1f9228d888a68540f67eada60a5b3dca02ae1e823b79574382f899916",
+        "status": "full"
+      },
+      {
+        "thread_id": "5035572",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5035572.txt",
+        "sha256": "6edd50447ee2c097b74f0efed0d7884aed0b2f88f3a2f5a8e00cac3d85d15984",
+        "native_json": "_raw/oblique-deep/threads/mse-5035572.json",
+        "native_json_sha256": "d45462f7123ab89f31328d5c68120a7ec121abe5758495ea7eb9a4d6ac0866ce",
+        "status": "full"
+      },
+      {
+        "thread_id": "5058724",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5058724.txt",
+        "sha256": "e38e64fd6338a380035571bc8b4b8a8f7b91b639febf42791db8781d2186322c",
+        "native_json": "_raw/oblique-deep/threads/mse-5058724.json",
+        "native_json_sha256": "619f75dff0d8babe8a9534eb3de5350ff0a2ee0e6f945f76329051c3fc875722",
+        "status": "full"
+      },
+      {
+        "thread_id": "5124613",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5124613.txt",
+        "sha256": "9a366514f2fe00244a3ff145c626c41831f343e4d1d97d96e7fc9b595bea7246",
+        "native_json": "_raw/oblique-deep/threads/mse-5124613.json",
+        "native_json_sha256": "eb5c11838212b8cde37652962f31de8fc7a0e63e992dcdf5660d35886ad798b0",
+        "status": "full"
+      },
+      {
+        "thread_id": "5136610",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5136610.txt",
+        "sha256": "b6ad5538e7e5564e238811a062d2240c01a097f614cec982ba7faec8d4ca0b28",
+        "native_json": "_raw/oblique-deep/threads/mse-5136610.json",
+        "native_json_sha256": "ab02f40a5d91d3c6518b2c07a2941c24de8dcc834aa124621c887b85ba77380a",
+        "status": "full"
+      },
+      {
+        "thread_id": "5145412",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5145412.txt",
+        "sha256": "952e3cf4e78defed269c97cad7f4150d769f6458d8e651211c71a6c95d29fb99",
+        "native_json": "_raw/oblique-deep/threads/mse-5145412.json",
+        "native_json_sha256": "5a08b0d3e685557b81cd660f82a4f4a578878aeef8e7474b67f26481954066bc",
+        "status": "full"
+      },
+      {
+        "thread_id": "5155443",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5155443.txt",
+        "sha256": "0ec766188840fdb9561a047ad79638cb586321c4ef39747f4301f0ea0bdc9baa",
+        "native_json": "_raw/oblique-deep/threads/mse-5155443.json",
+        "native_json_sha256": "e0117eee3fbfbc9f4c143311341373d0b6bc9da42a5c05bac60fe0890efd9ddc",
+        "status": "full"
+      },
+      {
+        "thread_id": "5203860",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5203860.txt",
+        "sha256": "f986b4f869d564864baa9d6af51b14b343273060cfce6a2e0396b33b7907dda0",
+        "native_json": "_raw/oblique-deep/threads/mse-5203860.json",
+        "native_json_sha256": "6d31ebdfe78fbd4f2470d16ab11891217c50e323597bdb008898abc5ca1d3127",
+        "status": "full"
+      },
+      {
+        "thread_id": "5205255",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5205255.txt",
+        "sha256": "7e4158d641ccda28adb66c41f5a9ba62316a4594ffa0a3c19e7c5e9f227bd6e6",
+        "native_json": "_raw/oblique-deep/threads/mse-5205255.json",
+        "native_json_sha256": "c3f1d481f860c60c9ddb5f793455d55375a24d4db17a0f5f371b8bcb68e1594f",
+        "status": "full"
+      },
+      {
+        "thread_id": "5245433",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5245433.txt",
+        "sha256": "cd0894f610e5715e01c6623442af0e57e964b6b550ce456cfd3bb99104b8e60d",
+        "native_json": "_raw/oblique-deep/threads/mse-5245433.json",
+        "native_json_sha256": "82e481729fd2e3e6f4c85f1a7613dfb5db6d41351d1a3b32c14bd6eb95e79a07",
+        "status": "full"
+      },
+      {
+        "thread_id": "5268006",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5268006.txt",
+        "sha256": "72a22ef9fadf5c3918fc348209436bddf6436353c8e340cf2680961df400bdd5",
+        "native_json": "_raw/oblique-deep/threads/mse-5268006.json",
+        "native_json_sha256": "b93476d11c7b54ef19171a63ef1040df8e1e8c4978b4dea848ba6dba32efbb8e",
+        "status": "full"
+      },
+      {
+        "thread_id": "5268293",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5268293.txt",
+        "sha256": "d1f759b37c9b12ec25034e9561e7175904682fb226ee940029667d9678b9ff5a",
+        "native_json": "_raw/oblique-deep/threads/mse-5268293.json",
+        "native_json_sha256": "3851d8fa1c537c789b5ed715234bc242d2f1bea15a99b06b4ed910c9ef658bdb",
+        "status": "full"
+      },
+      {
+        "thread_id": "5289133",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5289133.txt",
+        "sha256": "23afed611afee0387c75b97a13eaf67dab1d2562e3a061d1dca55aa111db3ae9",
+        "native_json": "_raw/oblique-deep/threads/mse-5289133.json",
+        "native_json_sha256": "4b1b20d123dc9e42710f1eb173083455d96f1f55275e80c04f2f404273a4dfd2",
+        "status": "full"
+      },
+      {
+        "thread_id": "5294094",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5294094.txt",
+        "sha256": "30fa4f6dd200ac628e289e945542b73b77a15df8c68584b348f01c0051391b10",
+        "native_json": "_raw/oblique-deep/threads/mse-5294094.json",
+        "native_json_sha256": "f1f76620ff36c48b00f6b1255c8c4a316aa83503228c48190b6adb6abe98d343",
+        "status": "full"
+      },
+      {
+        "thread_id": "5305105",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5305105.txt",
+        "sha256": "2e4b362f2866bb14af8da3aebceed517b1a48e89d9c5246c156f137852739832",
+        "native_json": "_raw/oblique-deep/threads/mse-5305105.json",
+        "native_json_sha256": "a47af1aa09f5496e1d8d25906ed989822e9238714ed011e24d4e3cc1352c5b11",
+        "status": "partial_safety_excluded"
+      },
+      {
+        "thread_id": "5310332",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5310332.txt",
+        "sha256": "e7b653810ee7e04a664bbfbe46e311043ebfd7110dc901ebdea684aa19a1e5c0",
+        "native_json": "_raw/oblique-deep/threads/mse-5310332.json",
+        "native_json_sha256": "9d0423fffadbefe9a15cc3552c2ef9b5018880c954a2d7733a3b047a46e612e1",
+        "status": "partial_safety_excluded"
+      },
+      {
+        "thread_id": "5313212",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5313212.txt",
+        "sha256": "5b5cfcc9ac4e99fe1cbd3b7a2438a072caa7dc17265e86061d7220410a4e1f63",
+        "native_json": "_raw/oblique-deep/threads/mse-5313212.json",
+        "native_json_sha256": "0971cffcb4a4985fb660631975e0f124b3b12a3178ef5118d415bd9d4c243bdf",
+        "status": "full"
+      },
+      {
+        "thread_id": "5325501",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5325501.txt",
+        "sha256": "5cbfd3f7b68e4d9a4a45a3813fe7e083142e72d4759b16a34e1b36fd63eac579",
+        "native_json": "_raw/oblique-deep/threads/mse-5325501.json",
+        "native_json_sha256": "0a4a3d9fa7a8d1850a682b8ae9c55abcad4244ebde9515bebdc23d6f6157f1c1",
+        "status": "full"
+      },
+      {
+        "thread_id": "5356765",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5356765.txt",
+        "sha256": "ea7e70894debcdd4c1aab10d90125e618106b0e0a8c8389e9578a0ac22c7555b",
+        "native_json": "_raw/oblique-deep/threads/mse-5356765.json",
+        "native_json_sha256": "fb49e00ed2b168e2d93a244f12e3109124c2f00d74ffb81a9dfe1806080d024a",
+        "status": "full"
+      },
+      {
+        "thread_id": "5401764",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5401764.txt",
+        "sha256": "c94d491fccd25d5678f8bb4a8094e66633acfb19c4dd0ed5d5bfa779bef06da9",
+        "native_json": "_raw/oblique-deep/threads/mse-5401764.json",
+        "native_json_sha256": "00af854007e455761d4ba8b26785331836de3cdbc8ccefb35bbfa252dd112540",
+        "status": "full"
+      },
+      {
+        "thread_id": "5405203",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5405203.txt",
+        "sha256": "d57feae462e60df342d7ad89605ddf18860dba5fd681b0c7e45dcdb5e9848791",
+        "native_json": "_raw/oblique-deep/threads/mse-5405203.json",
+        "native_json_sha256": "e538104c84b09dbd94f0cc31f9437ff53606000b0042cbddd94cf683f507a1ff",
+        "status": "full"
+      },
+      {
+        "thread_id": "5417167",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5417167.txt",
+        "sha256": "c8f9ccd426972ee6eefd569d3e9d0ef770471cbf44bdb12fbd9b594b0f9d6d0f",
+        "native_json": "_raw/oblique-deep/threads/mse-5417167.json",
+        "native_json_sha256": "fb90992d3a08cd970977137bcb01191496e52664966bf777db03b05978180936",
+        "status": "full"
+      },
+      {
+        "thread_id": "5435612",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5435612.txt",
+        "sha256": "59cda7029679b85dbf69128373e727d4a08552767ef3cf16e3abd2f881d6bbad",
+        "native_json": "_raw/oblique-deep/threads/mse-5435612.json",
+        "native_json_sha256": "ead506f3d4d11c7eeb3cb72f9120b8536c2a8034fff23b683b39a19ec1875e58",
+        "status": "full"
+      },
+      {
+        "thread_id": "5445255",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5445255.txt",
+        "sha256": "aafa6d66891d29b30976dd664e12400f73418ae41824b94fbb0b23d6d8427358",
+        "native_json": "_raw/oblique-deep/threads/mse-5445255.json",
+        "native_json_sha256": "06c7c7b80cf89ac0414d349e0ec1a6b8db839cf8c3725205d894c68b625b47ee",
+        "status": "full"
+      },
+      {
+        "thread_id": "5445263",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5445263.txt",
+        "sha256": "0de927e56ec9dac0d9a99b3614801473b5d9fbad7eedf1b1ba05e3c8ba178e0f",
+        "native_json": "_raw/oblique-deep/threads/mse-5445263.json",
+        "native_json_sha256": "0cff3dc177826ed63b1564126dc25542fcdb323e0abcecce7029469ed30dc935",
+        "status": "full"
+      },
+      {
+        "thread_id": "5449394",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5449394.txt",
+        "sha256": "cf43a570b6d4a13d42947d4c7a99c77010319859fda87abf6c03f8e66c8d2d68",
+        "native_json": "_raw/oblique-deep/threads/mse-5449394.json",
+        "native_json_sha256": "304b97ef662e1a4e74503cde985650b33b258ecffa31cd97350511f25f9e655d",
+        "status": "full"
+      },
+      {
+        "thread_id": "5479357",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5479357.txt",
+        "sha256": "7f953c630aed67635a23cad7cf015f958addf7fa0fe441d21c3740a79fe24fb6",
+        "native_json": "_raw/oblique-deep/threads/mse-5479357.json",
+        "native_json_sha256": "c282143003f287cee8447e8fd3a1492398d41c19a41be75dc4f567b3bd3b571d",
+        "status": "full"
+      },
+      {
+        "thread_id": "5489552",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5489552.txt",
+        "sha256": "8c955fe25a41c06dc177266ed1e558e8beb4d478f2635cc3f7028b1768b1dcb8",
+        "native_json": "_raw/oblique-deep/threads/mse-5489552.json",
+        "native_json_sha256": "3d2906ea6d739dd7616ce251617bb57bae41434329166e2eb136e638f54d5c12",
+        "status": "full"
+      },
+      {
+        "thread_id": "5500924",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5500924.txt",
+        "sha256": "efec4cfce45b59d9d0e2b4a0a256a2665463243959a2ab6dd86a11cff0fb7811",
+        "native_json": "_raw/oblique-deep/threads/mse-5500924.json",
+        "native_json_sha256": "fb2e05f63b4dcdaaa6af170972aabfa08397eca720bdb30d7bc6c306343131e6",
+        "status": "full"
+      },
+      {
+        "thread_id": "5507335",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5507335.txt",
+        "sha256": "49106142177527289afd26f66c5775835614b500dffcb2f1e429117d726e5f15",
+        "native_json": "_raw/oblique-deep/threads/mse-5507335.json",
+        "native_json_sha256": "07bb4d0550ca313c5d76c932fa318aaaa30a4f28e080a2757771af543b03cfc7",
+        "status": "partial_safety_excluded"
+      },
+      {
+        "thread_id": "5507515",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5507515.txt",
+        "sha256": "f175c9ea5d4a40879865a3d659531ed51e29e98c88b344a391222aa7b936ab7f",
+        "native_json": "_raw/oblique-deep/threads/mse-5507515.json",
+        "native_json_sha256": "425e75a9036acf6aa2699ad00334c6871e03cab3e61d218911bf9cf296d08d77",
+        "status": "full"
+      },
+      {
+        "thread_id": "5509040",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5509040.txt",
+        "sha256": "be750312e82b9416805f7c05dfc6ffaedcb06e9a1ba6bb6ed6dc22a038ca1b4e",
+        "native_json": "_raw/oblique-deep/threads/mse-5509040.json",
+        "native_json_sha256": "53dfefc709034de5ffbfd89ab33f9ed5245e4442dd5207388a14562c55d861f9",
+        "status": "full"
+      },
+      {
+        "thread_id": "5552949",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5552949.txt",
+        "sha256": "d696e6d94813cf87dbeaa2d30d40411197c2891ea4961afb07cd779be97fc1f6",
+        "native_json": "_raw/oblique-deep/threads/mse-5552949.json",
+        "native_json_sha256": "98178baa03ccf24b46895a1bc86814e7a07aab26401c8ec571c72e2f6d91d9fe",
+        "status": "full"
+      },
+      {
+        "thread_id": "5553282",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5553282.txt",
+        "sha256": "64ded782315770fd779a76b77b2c58a93de9a3f3e212d37f9b8a8d3b7a54a36d",
+        "native_json": "_raw/oblique-deep/threads/mse-5553282.json",
+        "native_json_sha256": "85b0ab210335e52ebcd023807cca58d08b23535ceaef191d154c9b4534942881",
+        "status": "full"
+      },
+      {
+        "thread_id": "5572807",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5572807.txt",
+        "sha256": "59bc750f1d78b128bffa52e03c981b1959474174b83e2ef26659cf09078bd95a",
+        "native_json": "_raw/oblique-deep/threads/mse-5572807.json",
+        "native_json_sha256": "7aa5a6ec3bd3c1b5689c88065677a790cfb38e83746f87fbf4ebf50f9789290e",
+        "status": "full"
+      },
+      {
+        "thread_id": "5583747",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5583747.txt",
+        "sha256": "c7bfd34056819249e9d95179e52d50c72aff6650222c5f9179b624ab7e53e0d3",
+        "native_json": "_raw/oblique-deep/threads/mse-5583747.json",
+        "native_json_sha256": "03dfbb0dad0c5ff5d2f8cfdd7bcb792d8ac2fdafdc30e75c9fbc779bb109fdef",
+        "status": "full"
+      },
+      {
+        "thread_id": "5594286",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5594286.txt",
+        "sha256": "0c524a0a67606187d3a7883cc608c6ef771bd67cae967e671726813e38484aa0",
+        "native_json": "_raw/oblique-deep/threads/mse-5594286.json",
+        "native_json_sha256": "bcf16cd6a6219050e8a3b1d8b1bb896d6773438224a052581b9c9320f5ae4f3f",
+        "status": "full"
+      },
+      {
+        "thread_id": "5603222",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5603222.txt",
+        "sha256": "02fdbe543ecda6b3000c5bf172f4f4364a17166adee35dfd53cbd834d6bbb5dc",
+        "native_json": "_raw/oblique-deep/threads/mse-5603222.json",
+        "native_json_sha256": "c07dcab178bac754e0818b7cfe07255b14f9e1fc404ab0727e894828e96e4818",
+        "status": "full"
+      },
+      {
+        "thread_id": "5641884",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5641884.txt",
+        "sha256": "ed17248266e7e221047fc1e5521c6dfa34dcb21e625ff735400a860bf4ddc6f3",
+        "native_json": "_raw/oblique-deep/threads/mse-5641884.json",
+        "native_json_sha256": "39ec0fa5b41e7b6e90eff63263962666f6cdcc5726c4753c6d66af29cff85cf0",
+        "status": "full"
+      },
+      {
+        "thread_id": "5670634",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5670634.txt",
+        "sha256": "8ba4fb468e1e52a5c221f63e8a1a1373d392aa39ac561ea5c074a15eaed39937",
+        "native_json": "_raw/oblique-deep/threads/mse-5670634.json",
+        "native_json_sha256": "136758f3450437c849964677e50fcf1e422c6546e9ecbd6567b5c9f08aaea56d",
+        "status": "full"
+      },
+      {
+        "thread_id": "5708209",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5708209.txt",
+        "sha256": "9dc0857c1b732081678e81917ca15683b606444a85c9412eb691f98ece389286",
+        "native_json": "_raw/oblique-deep/threads/mse-5708209.json",
+        "native_json_sha256": "8d19ddae5d0baec1630407416923c4e1ed5c5e9ea3763bbc5564172acfeed6cc",
+        "status": "full"
+      },
+      {
+        "thread_id": "5728829",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5728829.txt",
+        "sha256": "c334f8809c4b831948f163eba48e8bcf835d35607ce096c257befed438ddd96b",
+        "native_json": "_raw/oblique-deep/threads/mse-5728829.json",
+        "native_json_sha256": "6feed0ccbb517c4ba4cfeb71d684e7e15da4f383b581c20ad0097dbfc698bacc",
+        "status": "full"
+      },
+      {
+        "thread_id": "5772363",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5772363.txt",
+        "sha256": "9cae0339f4f2b820f39d90fdf6930c853447c2e505fc19125c72691ed09f4fd6",
+        "native_json": "_raw/oblique-deep/threads/mse-5772363.json",
+        "native_json_sha256": "b57b754399f5e95f022977b8244027b1dbfefb705fb5c532ea1820652ed5f59c",
+        "status": "full"
+      },
+      {
+        "thread_id": "5793025",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5793025.txt",
+        "sha256": "c6185f8124246d5b54746c4a94cb21fba2bcf77e607702faa779b5110b7b60c0",
+        "native_json": "_raw/oblique-deep/threads/mse-5793025.json",
+        "native_json_sha256": "5a814f2f810e3da36f1d01d32ff8d9194fd96fefc0d2317574f0df620a3e91b5",
+        "status": "partial_safety_excluded"
+      },
+      {
+        "thread_id": "5824423",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5824423.txt",
+        "sha256": "3bdba7e79e69cf0ad04af5518d7f010d488cf97d7de2cfb67e736b41e2e12237",
+        "native_json": "_raw/oblique-deep/threads/mse-5824423.json",
+        "native_json_sha256": "0dcda1fd6b170be89b9e3ada70b25be430f263347b37ac6851603743dd2cbb99",
+        "status": "full"
+      },
+      {
+        "thread_id": "5879664",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5879664.txt",
+        "sha256": "152f099a86c1f02fc95283e4c66e1144a9e9ab1d7be34545008c7c0a9ef78aa0",
+        "native_json": "_raw/oblique-deep/threads/mse-5879664.json",
+        "native_json_sha256": "227ef92cf7645f8bb8786bcff6cf1212ca976a398e49349b4edcd0840b630d9a",
+        "status": "full"
+      },
+      {
+        "thread_id": "5881322",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5881322.txt",
+        "sha256": "846689429743c77b44235a6c40fc324b436b7bb424486bbee3255ccec2232651",
+        "native_json": "_raw/oblique-deep/threads/mse-5881322.json",
+        "native_json_sha256": "2bc82c2f9e2a5a7568bd4a5ab3dcab393e53c68f60679677e13ac38d195df75a",
+        "status": "full"
+      },
+      {
+        "thread_id": "5934898",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5934898.txt",
+        "sha256": "c81870b22b7423f9e45401bec30cca612d09052cb185debe80859a6bb0e62abf",
+        "native_json": "_raw/oblique-deep/threads/mse-5934898.json",
+        "native_json_sha256": "3b0fe058d5c13d7f03b32c477e9a177b008cfb5792ecbef2a01b773a957f364f",
+        "status": "full"
+      },
+      {
+        "thread_id": "5956389",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-5956389.txt",
+        "sha256": "ee48eb41da5b9138b8ccc225e5d55eec3e8a65a21247ae7cb86fed0441608208",
+        "native_json": "_raw/oblique-deep/threads/mse-5956389.json",
+        "native_json_sha256": "108cf87bbd52e855f76547b5e9d8f3d3a5e4420644d7f9661f0cca0303e08f1c",
+        "status": "full"
+      },
+      {
+        "thread_id": "6011023",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-6011023.txt",
+        "sha256": "5d7914a218bf687f5f1253849ddbab62afc0b0b4557e14b02f10f331970d5f84",
+        "native_json": "_raw/oblique-deep/threads/mse-6011023.json",
+        "native_json_sha256": "ef63f60a19603695193cc0d411655d9bf8bb93501aca199929c9b12d72ae3d20",
+        "status": "full"
+      },
+      {
+        "thread_id": "6040350",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-6040350.txt",
+        "sha256": "f6920fa851a30b7fdac0cdf9eb9b80ba1c6880bf66bfd4aa6999c15805e700b8",
+        "native_json": "_raw/oblique-deep/threads/mse-6040350.json",
+        "native_json_sha256": "aa7b2e6b3470cfd12469f690f9e1ebac84ef867829d536d75c495d18f6c2819c",
+        "status": "full"
+      },
+      {
+        "thread_id": "6046952",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-6046952.txt",
+        "sha256": "eadee37d549138238f2defece1e7d419319f1c02c3943a34227646988f83e3e9",
+        "native_json": "_raw/oblique-deep/threads/mse-6046952.json",
+        "native_json_sha256": "cb06ad47755f8e2eab86daaaa0a57b969f373b3d094a2887df6aeebf0e9020df",
+        "status": "full"
+      },
+      {
+        "thread_id": "6071454",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-6071454.txt",
+        "sha256": "f40728a5f87ab9dfbb0efa493e73950fb189bfc431ae48258c528646208b63fb",
+        "native_json": "_raw/oblique-deep/threads/mse-6071454.json",
+        "native_json_sha256": "d62a1427b794850ee8ebd28c846e0f301189a3a73626cc2871205b53a4d3f76d",
+        "status": "full"
+      },
+      {
+        "thread_id": "6081805",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-6081805.txt",
+        "sha256": "d2dc9bccaa9f1f7eea97bcfcc75e2516d5ad8c6868d7ce883f06324ad1863e37",
+        "native_json": "_raw/oblique-deep/threads/mse-6081805.json",
+        "native_json_sha256": "ed6436819570d16278fe981932d48cacba571759c36fc09f1a29e187f2d57892",
+        "status": "full"
+      },
+      {
+        "thread_id": "6092956",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-6092956.txt",
+        "sha256": "5b17bb0600fe6b0afc3f5878beb69dff4b177b329fdf0132a42ebc5c79a89387",
+        "native_json": "_raw/oblique-deep/threads/mse-6092956.json",
+        "native_json_sha256": "196537a9702c15f5e2ca0f4834cca5b74896d53387420a8e916c113dd5dc98f0",
+        "status": "partial_safety_excluded"
+      },
+      {
+        "thread_id": "6098122",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-6098122.txt",
+        "sha256": "ffeeeddbb8132f4a6048f52b38568b677241b14d8f1fa65069f06f79cd4391b6",
+        "native_json": "_raw/oblique-deep/threads/mse-6098122.json",
+        "native_json_sha256": "241e98cf0ba51ece4dafd589b5127f03d205ebd6a4e3f9c2bfce0ef2704478a9",
+        "status": "full"
+      },
+      {
+        "thread_id": "6126247",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-6126247.txt",
+        "sha256": "d70046116670695b9151891a2c8270c625472ba20dac054c5327bd2805f240c9",
+        "native_json": "_raw/oblique-deep/threads/mse-6126247.json",
+        "native_json_sha256": "abf42ba0ae38f5a6b764fe65c94d369365cb8d352cb27a8ff82c4db87d7d084f",
+        "status": "full"
+      },
+      {
+        "thread_id": "6165224",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-6165224.txt",
+        "sha256": "7166ebe176b8c4e50ec91cfe5477090bd7c93fcef45a1038e4c2749344fad59d",
+        "native_json": "_raw/oblique-deep/threads/mse-6165224.json",
+        "native_json_sha256": "dff713c46be4ddf006b19b80d11e0907e8fcacca923bd57f539160bd45c85939",
+        "status": "full"
+      },
+      {
+        "thread_id": "6311279",
+        "raw_file": "_raw/oblique-deep/mse-completion-v2/units/mse-6311279.txt",
+        "sha256": "b2cf2a888d82dcd9594476807c922a7b761517cb013c6dce7db368702c7ab1dd",
+        "native_json": "_raw/oblique-deep/threads/mse-6311279.json",
+        "native_json_sha256": "1d21fc235bbea75f08b8a3c341929b0ee759591998828fed7ebc2033b84e7640",
+        "status": "full"
+      }
+    ]
+  },
+  "quote_post_checks": [
+    {
+      "id": "odeep03-0001",
+      "thread_id": "4276871",
+      "post_id": "Discussion_4276871",
+      "original_author_body_sha256": "dcefa83ff24845d73a9d62cc0a743a47a4003eb24b7575534096470a2fecc796",
+      "body_with_quotes_sha256": "dcefa83ff24845d73a9d62cc0a743a47a4003eb24b7575534096470a2fecc796",
+      "words": 17
+    },
+    {
+      "id": "odeep03-0002",
+      "thread_id": "4276871",
+      "post_id": "Comment_57113281",
+      "original_author_body_sha256": "a93ceb6fd5b396bd10b1121196f538419cf79d373e5e68aced9c1accee352dad",
+      "body_with_quotes_sha256": "a93ceb6fd5b396bd10b1121196f538419cf79d373e5e68aced9c1accee352dad",
+      "words": 19
+    },
+    {
+      "id": "odeep03-0003",
+      "thread_id": "4288229",
+      "post_id": "Discussion_4288229",
+      "original_author_body_sha256": "c6a99688a2658632180798ab394354f380776b890f5086950767edb3fceb83d8",
+      "body_with_quotes_sha256": "c6a99688a2658632180798ab394354f380776b890f5086950767edb3fceb83d8",
+      "words": 19
+    },
+    {
+      "id": "odeep03-0004",
+      "thread_id": "4288229",
+      "post_id": "Comment_57258069",
+      "original_author_body_sha256": "49f019f160b2dc18604ac7a28bc12b573474d6f4bd0c49a4a31d99292dc65c85",
+      "body_with_quotes_sha256": "e3ae6cdf7b786548e544a6b1976aba7c7f622e6b51215b5635ca202c06884675",
+      "words": 21
+    },
+    {
+      "id": "odeep03-0005",
+      "thread_id": "4292061",
+      "post_id": "Discussion_4292061",
+      "original_author_body_sha256": "15d6eac9d25f3b7bdcd8b9a43288146c9500dc24526a277cbf2c89309080ec13",
+      "body_with_quotes_sha256": "15d6eac9d25f3b7bdcd8b9a43288146c9500dc24526a277cbf2c89309080ec13",
+      "words": 10
+    },
+    {
+      "id": "odeep03-0006",
+      "thread_id": "4303551",
+      "post_id": "Comment_57424835",
+      "original_author_body_sha256": "295b6ef0e70581c48fdfa0b0a8089a6200d14c72df5aed5547c2898d34bcd729",
+      "body_with_quotes_sha256": "295b6ef0e70581c48fdfa0b0a8089a6200d14c72df5aed5547c2898d34bcd729",
+      "words": 22
+    },
+    {
+      "id": "odeep03-0007",
+      "thread_id": "4303551",
+      "post_id": "Comment_57568881",
+      "original_author_body_sha256": "8f164932961b9309e901e4c8b0621bc1be3ecf5cde158d71cbb749f6fd4cef29",
+      "body_with_quotes_sha256": "8f164932961b9309e901e4c8b0621bc1be3ecf5cde158d71cbb749f6fd4cef29",
+      "words": 22
+    },
+    {
+      "id": "odeep03-0008",
+      "thread_id": "4329429",
+      "post_id": "Comment_58041137",
+      "original_author_body_sha256": "0abc291e46eaa0d3c807de7f250153c7ddd8cdf47d0de1fdba797dcedf23bca6",
+      "body_with_quotes_sha256": "0abc291e46eaa0d3c807de7f250153c7ddd8cdf47d0de1fdba797dcedf23bca6",
+      "words": 14
+    },
+    {
+      "id": "odeep03-0009",
+      "thread_id": "4329429",
+      "post_id": "Comment_59133629",
+      "original_author_body_sha256": "3591d9fd9185a8d73f11f817fe5e224db178694483a640c6ee45167345b2200b",
+      "body_with_quotes_sha256": "3591d9fd9185a8d73f11f817fe5e224db178694483a640c6ee45167345b2200b",
+      "words": 20
+    },
+    {
+      "id": "odeep03-0010",
+      "thread_id": "4379845",
+      "post_id": "Discussion_4379845",
+      "original_author_body_sha256": "eb86dd5671512dcd05ed692fc53b2af738b409caf55a3522268a80ebf06b406a",
+      "body_with_quotes_sha256": "eb86dd5671512dcd05ed692fc53b2af738b409caf55a3522268a80ebf06b406a",
+      "words": 21
+    },
+    {
+      "id": "odeep03-0011",
+      "thread_id": "4379845",
+      "post_id": "Comment_58568323",
+      "original_author_body_sha256": "806512ab366b1ad673c8b4e09623dd6beb33e42f09cc0921f56051a4c1800333",
+      "body_with_quotes_sha256": "806512ab366b1ad673c8b4e09623dd6beb33e42f09cc0921f56051a4c1800333",
+      "words": 9
+    },
+    {
+      "id": "odeep03-0012",
+      "thread_id": "4393563",
+      "post_id": "Discussion_4393563",
+      "original_author_body_sha256": "e60bdc73c7c845ade617b41c2cc44059bd5878ac0fc70b14648a6ccaa3be7db9",
+      "body_with_quotes_sha256": "e60bdc73c7c845ade617b41c2cc44059bd5878ac0fc70b14648a6ccaa3be7db9",
+      "words": 13
+    },
+    {
+      "id": "odeep03-0013",
+      "thread_id": "4396873",
+      "post_id": "Comment_58750537",
+      "original_author_body_sha256": "2b4eadbf94f761e0e6ca1bdb602e9c99bec487f1505728f1d15093adc0451e02",
+      "body_with_quotes_sha256": "2b4eadbf94f761e0e6ca1bdb602e9c99bec487f1505728f1d15093adc0451e02",
+      "words": 22
+    },
+    {
+      "id": "odeep03-0014",
+      "thread_id": "4406909",
+      "post_id": "Discussion_4406909",
+      "original_author_body_sha256": "796d9e8ad69386e58a526a6e1f13693faee67e072db0bf9474f49223630bcafb",
+      "body_with_quotes_sha256": "796d9e8ad69386e58a526a6e1f13693faee67e072db0bf9474f49223630bcafb",
+      "words": 14
+    },
+    {
+      "id": "odeep03-0015",
+      "thread_id": "4406909",
+      "post_id": "Comment_59940919",
+      "original_author_body_sha256": "b127b8a98f5a644fa8f0ac8952ef7e593d2101045ab9de3847b3277131aedb01",
+      "body_with_quotes_sha256": "f165bd75c7505490c786d151118f73e9866dded84dc7ff24438a71303826b874",
+      "words": 19
+    },
+    {
+      "id": "odeep03-0016",
+      "thread_id": "4406909",
+      "post_id": "Comment_58861889",
+      "original_author_body_sha256": "a7b9e91741e27c0198878505f93799de4eb2249cce6aab23be3e93d98a98cce5",
+      "body_with_quotes_sha256": "a7b9e91741e27c0198878505f93799de4eb2249cce6aab23be3e93d98a98cce5",
+      "words": 18
+    },
+    {
+      "id": "odeep03-0017",
+      "thread_id": "4408433",
+      "post_id": "Comment_58865745",
+      "original_author_body_sha256": "d21675aa66ae6323e75415e63fc02bee677e59354a82a91d93ec1b7122bbb81c",
+      "body_with_quotes_sha256": "d21675aa66ae6323e75415e63fc02bee677e59354a82a91d93ec1b7122bbb81c",
+      "words": 15
+    },
+    {
+      "id": "odeep03-0018",
+      "thread_id": "4408433",
+      "post_id": "Comment_58861231",
+      "original_author_body_sha256": "f6b73f2911505394a533f03d3116ad06dbb2f09753bdd99dbbbcb3d63f243290",
+      "body_with_quotes_sha256": "f6b73f2911505394a533f03d3116ad06dbb2f09753bdd99dbbbcb3d63f243290",
+      "words": 10
+    },
+    {
+      "id": "odeep03-0019",
+      "thread_id": "4408433",
+      "post_id": "Comment_58861833",
+      "original_author_body_sha256": "b9ca3f16874a8c93fd7b64b7022d8700b6a9549a5a6e8d3088a724674c346aef",
+      "body_with_quotes_sha256": "227a52faf44591d6a3cdd4ee059aa1381cb6f5bea858399da32794ba34981639",
+      "words": 18
+    },
+    {
+      "id": "odeep03-0020",
+      "thread_id": "4452647",
+      "post_id": "Comment_59436333",
+      "original_author_body_sha256": "30e70b891b916b1f4e0bf29f7fbc2737fd22825cea577c11f438b016a56e7fa0",
+      "body_with_quotes_sha256": "30e70b891b916b1f4e0bf29f7fbc2737fd22825cea577c11f438b016a56e7fa0",
+      "words": 11
+    },
+    {
+      "id": "odeep03-0021",
+      "thread_id": "4452647",
+      "post_id": "Comment_59429351",
+      "original_author_body_sha256": "1a548a50830abc1d079357a078523a367d9fc18e75a17a4d527e9255351f6bd5",
+      "body_with_quotes_sha256": "1a548a50830abc1d079357a078523a367d9fc18e75a17a4d527e9255351f6bd5",
+      "words": 18
+    },
+    {
+      "id": "odeep03-0022",
+      "thread_id": "4464253",
+      "post_id": "Discussion_4464253",
+      "original_author_body_sha256": "ab898ac048e7365197aebb61e1ca9b02048e23f91e55cf7a172454316c5abe91",
+      "body_with_quotes_sha256": "ab898ac048e7365197aebb61e1ca9b02048e23f91e55cf7a172454316c5abe91",
+      "words": 14
+    },
+    {
+      "id": "odeep03-0023",
+      "thread_id": "4562571",
+      "post_id": "Comment_60852383",
+      "original_author_body_sha256": "289ce992066929082bc2b5f497e86967d1185878adb8c9c5e46f1f4f966ff898",
+      "body_with_quotes_sha256": "289ce992066929082bc2b5f497e86967d1185878adb8c9c5e46f1f4f966ff898",
+      "words": 22
+    },
+    {
+      "id": "odeep03-0024",
+      "thread_id": "4562571",
+      "post_id": "Comment_62079437",
+      "original_author_body_sha256": "5d6d20c2a299dde02ed670a7807862993387706b665d8f6b294026b3d3498ba6",
+      "body_with_quotes_sha256": "5d6d20c2a299dde02ed670a7807862993387706b665d8f6b294026b3d3498ba6",
+      "words": 12
+    },
+    {
+      "id": "odeep03-0025",
+      "thread_id": "4592233",
+      "post_id": "Discussion_4592233",
+      "original_author_body_sha256": "f40fe4050ff2f9a38128ad045465dfe7536a5e85b21eee5e4f0d17ea90f33e17",
+      "body_with_quotes_sha256": "f40fe4050ff2f9a38128ad045465dfe7536a5e85b21eee5e4f0d17ea90f33e17",
+      "words": 14
+    },
+    {
+      "id": "odeep03-0026",
+      "thread_id": "4592233",
+      "post_id": "Comment_61197227",
+      "original_author_body_sha256": "a3c56060cd20d978d2ed1339c558eeee5e8c6aae0209b81ab2b85a43a6d907f3",
+      "body_with_quotes_sha256": "a3c56060cd20d978d2ed1339c558eeee5e8c6aae0209b81ab2b85a43a6d907f3",
+      "words": 13
+    },
+    {
+      "id": "odeep03-0027",
+      "thread_id": "4707179",
+      "post_id": "Discussion_4707179",
+      "original_author_body_sha256": "f90b36f75ef51065177826a6fd3166aa040e5fd512ddba49b45c3ed2796ea088",
+      "body_with_quotes_sha256": "f90b36f75ef51065177826a6fd3166aa040e5fd512ddba49b45c3ed2796ea088",
+      "words": 13
+    },
+    {
+      "id": "odeep03-0028",
+      "thread_id": "4707179",
+      "post_id": "Comment_62464293",
+      "original_author_body_sha256": "4f80dbba75a81eb1a6c90442458ec98b96c1c1d338d76c4ab4c4b0085a2caccc",
+      "body_with_quotes_sha256": "4f80dbba75a81eb1a6c90442458ec98b96c1c1d338d76c4ab4c4b0085a2caccc",
+      "words": 13
+    },
+    {
+      "id": "odeep03-0029",
+      "thread_id": "4707179",
+      "post_id": "Comment_63587665",
+      "original_author_body_sha256": "2c58cf57f71f1eab80883a87f25d0b0b1167d6e752a60a1b883362b3eb80542a",
+      "body_with_quotes_sha256": "2c58cf57f71f1eab80883a87f25d0b0b1167d6e752a60a1b883362b3eb80542a",
+      "words": 16
+    },
+    {
+      "id": "odeep03-0030",
+      "thread_id": "4707749",
+      "post_id": "Discussion_4707749",
+      "original_author_body_sha256": "1d47526664deafbb6d0fca7449e3602f5d461ea75ed27603d5300e1a7b4a5c91",
+      "body_with_quotes_sha256": "1d47526664deafbb6d0fca7449e3602f5d461ea75ed27603d5300e1a7b4a5c91",
+      "words": 11
+    },
+    {
+      "id": "odeep03-0031",
+      "thread_id": "4717241",
+      "post_id": "Comment_62709395",
+      "original_author_body_sha256": "b2744ba0a0f2334a84883d8cdc1e60e07d61892c1ba0b4dde066931fbd56d64f",
+      "body_with_quotes_sha256": "b2744ba0a0f2334a84883d8cdc1e60e07d61892c1ba0b4dde066931fbd56d64f",
+      "words": 19
+    },
+    {
+      "id": "odeep03-0032",
+      "thread_id": "4728790",
+      "post_id": "Comment_63258185",
+      "original_author_body_sha256": "b3b50fc23da7948fe0bd96db39b31cc52d9b9c74d63e0a17f0aa196c34f2209a",
+      "body_with_quotes_sha256": "b3b50fc23da7948fe0bd96db39b31cc52d9b9c74d63e0a17f0aa196c34f2209a",
+      "words": 11
+    },
+    {
+      "id": "odeep03-0033",
+      "thread_id": "4728790",
+      "post_id": "Comment_62868702",
+      "original_author_body_sha256": "da960ae8ed74e560a7009b20d63155f05fa33ec0c90b966b345bea872490353e",
+      "body_with_quotes_sha256": "da960ae8ed74e560a7009b20d63155f05fa33ec0c90b966b345bea872490353e",
+      "words": 8
+    },
+    {
+      "id": "odeep03-0034",
+      "thread_id": "4741856",
+      "post_id": "Discussion_4741856",
+      "original_author_body_sha256": "183a474476c256c0bfc8955392bd5dc47482b2837a1ffeb7012fef7415173ac3",
+      "body_with_quotes_sha256": "183a474476c256c0bfc8955392bd5dc47482b2837a1ffeb7012fef7415173ac3",
+      "words": 23
+    },
+    {
+      "id": "odeep03-0035",
+      "thread_id": "4741856",
+      "post_id": "Comment_62863539",
+      "original_author_body_sha256": "2b648f5eb43cc9a5669b2878a057935a4e2a3d7b58d822c36a1c185fa7c6868d",
+      "body_with_quotes_sha256": "2b648f5eb43cc9a5669b2878a057935a4e2a3d7b58d822c36a1c185fa7c6868d",
+      "words": 18
+    },
+    {
+      "id": "odeep03-0036",
+      "thread_id": "4744979",
+      "post_id": "Comment_62882361",
+      "original_author_body_sha256": "aebaa74bd75a9624579077256cf24a298e66bed8745fae922a0591c87a1574cf",
+      "body_with_quotes_sha256": "aebaa74bd75a9624579077256cf24a298e66bed8745fae922a0591c87a1574cf",
+      "words": 13
+    },
+    {
+      "id": "odeep03-0037",
+      "thread_id": "4745595",
+      "post_id": "Comment_62903649",
+      "original_author_body_sha256": "d3887027bea68ca791e72b3d00e49e3f7713fd49118bac16d2eab02720d699a6",
+      "body_with_quotes_sha256": "d3887027bea68ca791e72b3d00e49e3f7713fd49118bac16d2eab02720d699a6",
+      "words": 9
+    },
+    {
+      "id": "odeep03-0038",
+      "thread_id": "4755196",
+      "post_id": "Comment_63004454",
+      "original_author_body_sha256": "c9d20a2abf8ceb8d8b2322a8facf2a073b8a1afbe04f040675c0e1dc304a2c16",
+      "body_with_quotes_sha256": "c9d20a2abf8ceb8d8b2322a8facf2a073b8a1afbe04f040675c0e1dc304a2c16",
+      "words": 16
+    },
+    {
+      "id": "odeep03-0039",
+      "thread_id": "4755196",
+      "post_id": "Comment_63059783",
+      "original_author_body_sha256": "c6b7115f5646cfed0e7f941ec0d3bdce9702dd743e328747de1b56b651d08419",
+      "body_with_quotes_sha256": "c6b7115f5646cfed0e7f941ec0d3bdce9702dd743e328747de1b56b651d08419",
+      "words": 9
+    },
+    {
+      "id": "odeep03-0040",
+      "thread_id": "4759693",
+      "post_id": "Comment_63153424",
+      "original_author_body_sha256": "4fe8b3d38e4672296921dbc8c4e10c5b648e6c101462f7f06b701f06479602d7",
+      "body_with_quotes_sha256": "4fe8b3d38e4672296921dbc8c4e10c5b648e6c101462f7f06b701f06479602d7",
+      "words": 15
+    },
+    {
+      "id": "odeep03-0041",
+      "thread_id": "4771188",
+      "post_id": "Discussion_4771188",
+      "original_author_body_sha256": "aec87db2758eec946361dfbc1a94b60b3d6de11671419cbab23c316be7a25dfb",
+      "body_with_quotes_sha256": "aec87db2758eec946361dfbc1a94b60b3d6de11671419cbab23c316be7a25dfb",
+      "words": 17
+    },
+    {
+      "id": "odeep03-0042",
+      "thread_id": "4773175",
+      "post_id": "Comment_63388913",
+      "original_author_body_sha256": "f88115bb3af251bed9f56e83eb429c1482e2514c0ffb5dbe6bef85fd5144c09f",
+      "body_with_quotes_sha256": "f88115bb3af251bed9f56e83eb429c1482e2514c0ffb5dbe6bef85fd5144c09f",
+      "words": 11
+    },
+    {
+      "id": "odeep03-0043",
+      "thread_id": "4797668",
+      "post_id": "Comment_63508757",
+      "original_author_body_sha256": "a77149c35185e45edf34c594a1596c1abdf9bff75c9531359a668f82e2aa48fc",
+      "body_with_quotes_sha256": "a77149c35185e45edf34c594a1596c1abdf9bff75c9531359a668f82e2aa48fc",
+      "words": 21
+    },
+    {
+      "id": "odeep03-0044",
+      "thread_id": "4797668",
+      "post_id": "Comment_63812760",
+      "original_author_body_sha256": "7e07acf315e1e403569160dae3d3036471f0727f0dcb67205a6a979254c89920",
+      "body_with_quotes_sha256": "7e07acf315e1e403569160dae3d3036471f0727f0dcb67205a6a979254c89920",
+      "words": 6
+    },
+    {
+      "id": "odeep03-0045",
+      "thread_id": "4798995",
+      "post_id": "Comment_63570671",
+      "original_author_body_sha256": "87e25d3870b1bd4ab49c2e3cab6a684cb9bc2c4be69d363b099fb87a3f3915cd",
+      "body_with_quotes_sha256": "5ae2d12801f7cd5c2fa3ab28898cb3c0c4923ee69eb8f6cde5a2d6ff50e459d0",
+      "words": 17
+    },
+    {
+      "id": "odeep03-0046",
+      "thread_id": "4810550",
+      "post_id": "Comment_63699570",
+      "original_author_body_sha256": "df7f1249961525c1046059307264e7649415da5718733d9ba2626b88d61f0dfd",
+      "body_with_quotes_sha256": "b316dd1b8362f0f342a5ac94c8cf23326e10e53deb14a8c843f1d64f8083c557",
+      "words": 20
+    },
+    {
+      "id": "odeep03-0047",
+      "thread_id": "4853394",
+      "post_id": "Discussion_4853394",
+      "original_author_body_sha256": "37611905c0e82461c09a544cc1704ec9780d177ad6e056064d4a6b53bba60409",
+      "body_with_quotes_sha256": "37611905c0e82461c09a544cc1704ec9780d177ad6e056064d4a6b53bba60409",
+      "words": 25
+    },
+    {
+      "id": "odeep03-0048",
+      "thread_id": "4863833",
+      "post_id": "Discussion_4863833",
+      "original_author_body_sha256": "cd66bd8643f4a58b8d456fc06c80c73da42bf906656705d2aa8755da01127f57",
+      "body_with_quotes_sha256": "cd66bd8643f4a58b8d456fc06c80c73da42bf906656705d2aa8755da01127f57",
+      "words": 19
+    },
+    {
+      "id": "odeep03-0049",
+      "thread_id": "4863833",
+      "post_id": "Comment_64318042",
+      "original_author_body_sha256": "1b71ffbbb767c8c29100e5eafd43740686d6abbf3e48be70a42a1e6346e9622d",
+      "body_with_quotes_sha256": "1b71ffbbb767c8c29100e5eafd43740686d6abbf3e48be70a42a1e6346e9622d",
+      "words": 23
+    },
+    {
+      "id": "odeep03-0050",
+      "thread_id": "4868852",
+      "post_id": "Discussion_4868852",
+      "original_author_body_sha256": "8f9baefee353ca6fc28cb7bbbe7272667b6c964b611e68730e9b6f94aa4de125",
+      "body_with_quotes_sha256": "8f9baefee353ca6fc28cb7bbbe7272667b6c964b611e68730e9b6f94aa4de125",
+      "words": 18
+    },
+    {
+      "id": "odeep03-0051",
+      "thread_id": "4911531",
+      "post_id": "Discussion_4911531",
+      "original_author_body_sha256": "f21e31e20f32c30e30abbeddb1904b1ad78452f2f29d9931c18cf18fc726d7a7",
+      "body_with_quotes_sha256": "f21e31e20f32c30e30abbeddb1904b1ad78452f2f29d9931c18cf18fc726d7a7",
+      "words": 9
+    },
+    {
+      "id": "odeep03-0052",
+      "thread_id": "4911531",
+      "post_id": "Comment_65037996",
+      "original_author_body_sha256": "f68c7366fd368072a2d8ffcb9cfcc74e9eb39927469ec23b7a4985e0e80e7c22",
+      "body_with_quotes_sha256": "25da723e10d404909e3196aec5997a9e2f12acc4113fddb2e538c44244547e44",
+      "words": 13
+    },
+    {
+      "id": "odeep03-0053",
+      "thread_id": "4919757",
+      "post_id": "Discussion_4919757",
+      "original_author_body_sha256": "deb137bc77fafcb58f961dba336f65c66c1cf2364ccb5ab8d147a4788c41c43d",
+      "body_with_quotes_sha256": "deb137bc77fafcb58f961dba336f65c66c1cf2364ccb5ab8d147a4788c41c43d",
+      "words": 12
+    },
+    {
+      "id": "odeep03-0054",
+      "thread_id": "4919757",
+      "post_id": "Comment_65649359",
+      "original_author_body_sha256": "876b43abad597526df66ba66026872e5e7e728646f2bc12ab5f5c1d6494dc519",
+      "body_with_quotes_sha256": "876b43abad597526df66ba66026872e5e7e728646f2bc12ab5f5c1d6494dc519",
+      "words": 19
+    },
+    {
+      "id": "odeep03-0055",
+      "thread_id": "4919757",
+      "post_id": "Comment_68134976",
+      "original_author_body_sha256": "6eecb11ecece8a074c4d16967d3f3d724796f1a22c461895c737b087d0704134",
+      "body_with_quotes_sha256": "6eecb11ecece8a074c4d16967d3f3d724796f1a22c461895c737b087d0704134",
+      "words": 15
+    },
+    {
+      "id": "odeep03-0056",
+      "thread_id": "4953711",
+      "post_id": "Comment_65331323",
+      "original_author_body_sha256": "d2e32da563d33c38632f9ed702da89d0643227f328ce816c6607652f073520fe",
+      "body_with_quotes_sha256": "d2e32da563d33c38632f9ed702da89d0643227f328ce816c6607652f073520fe",
+      "words": 12
+    },
+    {
+      "id": "odeep03-0057",
+      "thread_id": "4953711",
+      "post_id": "Comment_65530066",
+      "original_author_body_sha256": "30cd98fe8e29bb1a144870a3bd09c166eb6599f605e60d3de887e011c75a6d66",
+      "body_with_quotes_sha256": "30cd98fe8e29bb1a144870a3bd09c166eb6599f605e60d3de887e011c75a6d66",
+      "words": 11
+    },
+    {
+      "id": "odeep03-0058",
+      "thread_id": "4964565",
+      "post_id": "Comment_65460370",
+      "original_author_body_sha256": "69f68631f4c627dd5722ac68cd470fd6950c383ad58382660be335a41842d6b8",
+      "body_with_quotes_sha256": "69f68631f4c627dd5722ac68cd470fd6950c383ad58382660be335a41842d6b8",
+      "words": 15
+    },
+    {
+      "id": "odeep03-0059",
+      "thread_id": "4964565",
+      "post_id": "Comment_65541880",
+      "original_author_body_sha256": "55327a9e6c3fb129e29350d703b7727147df746829d75d51e9c665e5f472f8ef",
+      "body_with_quotes_sha256": "55327a9e6c3fb129e29350d703b7727147df746829d75d51e9c665e5f472f8ef",
+      "words": 15
+    },
+    {
+      "id": "odeep03-0060",
+      "thread_id": "4964565",
+      "post_id": "Discussion_4964565",
+      "original_author_body_sha256": "e4c00dcb8d826ef3d032a47fd592d8085f2b8da7d3b0c7904c7747a64373ce0f",
+      "body_with_quotes_sha256": "e4c00dcb8d826ef3d032a47fd592d8085f2b8da7d3b0c7904c7747a64373ce0f",
+      "words": 4
+    },
+    {
+      "id": "odeep03-0061",
+      "thread_id": "4964565",
+      "post_id": "Comment_65986551",
+      "original_author_body_sha256": "6c9d881ff37817fa6cd46bcc535c086663f93d6e5b79127de4305ba1e980739a",
+      "body_with_quotes_sha256": "6c9d881ff37817fa6cd46bcc535c086663f93d6e5b79127de4305ba1e980739a",
+      "words": 8
+    },
+    {
+      "id": "odeep03-0062",
+      "thread_id": "4964565",
+      "post_id": "Comment_68675879",
+      "original_author_body_sha256": "b5a16001ca92c49a685d7157e0489de121c2d763eeab5e9a54352ed412f52472",
+      "body_with_quotes_sha256": "af10b611c05dbf7c7f3d9fda6220ad2eb6dc46173ad367911eff893957a91f24",
+      "words": 14
+    },
+    {
+      "id": "odeep03-0063",
+      "thread_id": "4969850",
+      "post_id": "Discussion_4969850",
+      "original_author_body_sha256": "48a596d9beb5bb9bb19866e1d6f1a21b5b263c47b35f8c2c550b15baf2776e07",
+      "body_with_quotes_sha256": "48a596d9beb5bb9bb19866e1d6f1a21b5b263c47b35f8c2c550b15baf2776e07",
+      "words": 18
+    },
+    {
+      "id": "odeep03-0064",
+      "thread_id": "4969850",
+      "post_id": "Comment_65519779",
+      "original_author_body_sha256": "28a8bacea13f14b78304f4f357727fea57a97d369c03fec917e51ca589e29597",
+      "body_with_quotes_sha256": "28a8bacea13f14b78304f4f357727fea57a97d369c03fec917e51ca589e29597",
+      "words": 6
+    },
+    {
+      "id": "odeep03-0065",
+      "thread_id": "5014654",
+      "post_id": "Comment_66004311",
+      "original_author_body_sha256": "9c6abb9f1d89883f07d1dabe1d306e8760d167b71676da7ce8f2cbb682d55dfa",
+      "body_with_quotes_sha256": "9c6abb9f1d89883f07d1dabe1d306e8760d167b71676da7ce8f2cbb682d55dfa",
+      "words": 19
+    },
+    {
+      "id": "odeep03-0066",
+      "thread_id": "5027847",
+      "post_id": "Comment_66151973",
+      "original_author_body_sha256": "e9984c69203dbf6ca4768cbccfd10ab047ebad4a7a05ba714060bc337f78cdd9",
+      "body_with_quotes_sha256": "e9984c69203dbf6ca4768cbccfd10ab047ebad4a7a05ba714060bc337f78cdd9",
+      "words": 19
+    },
+    {
+      "id": "odeep03-0067",
+      "thread_id": "5027847",
+      "post_id": "Comment_66405434",
+      "original_author_body_sha256": "e3ebb5c17e55b14745a24e993673a3c5cc0341e74b5f854b2168c28d4191ec7b",
+      "body_with_quotes_sha256": "e3ebb5c17e55b14745a24e993673a3c5cc0341e74b5f854b2168c28d4191ec7b",
+      "words": 16
+    },
+    {
+      "id": "odeep03-0068",
+      "thread_id": "5035572",
+      "post_id": "Comment_66231486",
+      "original_author_body_sha256": "2bd815d5235730a913500f22c63743ffc0412305aaceff6452ec67f373498828",
+      "body_with_quotes_sha256": "e131fc0ba78df871d8f5042fce60f24989dc600a0e0c0b3fb0ca359448ea7127",
+      "words": 15
+    },
+    {
+      "id": "odeep03-0069",
+      "thread_id": "5058724",
+      "post_id": "Discussion_5058724",
+      "original_author_body_sha256": "f0d05b41f1ab91d92882e8ed8881554179878151b21f50ef34074d9c1c20ca01",
+      "body_with_quotes_sha256": "f0d05b41f1ab91d92882e8ed8881554179878151b21f50ef34074d9c1c20ca01",
+      "words": 9
+    },
+    {
+      "id": "odeep03-0070",
+      "thread_id": "5155443",
+      "post_id": "Discussion_5155443",
+      "original_author_body_sha256": "9db48079b869c8b2a744097f2dcdc6a631f5d6c0e3c9f59afc5c5dc1f08a4b5c",
+      "body_with_quotes_sha256": "9db48079b869c8b2a744097f2dcdc6a631f5d6c0e3c9f59afc5c5dc1f08a4b5c",
+      "words": 20
+    },
+    {
+      "id": "odeep03-0071",
+      "thread_id": "5203860",
+      "post_id": "Comment_68020527",
+      "original_author_body_sha256": "ba10e0d6e3942a2517f8a2d8b1e60535f8ca67a9ded7656a3290af5f52e2dfdf",
+      "body_with_quotes_sha256": "ba10e0d6e3942a2517f8a2d8b1e60535f8ca67a9ded7656a3290af5f52e2dfdf",
+      "words": 22
+    },
+    {
+      "id": "odeep03-0072",
+      "thread_id": "5203860",
+      "post_id": "Comment_68066225",
+      "original_author_body_sha256": "17b6a78682f099e7ccea4bd13e448723424b0e2679c200fa8425af894df0f4d3",
+      "body_with_quotes_sha256": "17b6a78682f099e7ccea4bd13e448723424b0e2679c200fa8425af894df0f4d3",
+      "words": 11
+    },
+    {
+      "id": "odeep03-0073",
+      "thread_id": "5203860",
+      "post_id": "Comment_68377534",
+      "original_author_body_sha256": "947fadd5e2b3367c80885c0f05dd11dd1a4006be249c521f5d19b2b9e496bd88",
+      "body_with_quotes_sha256": "947fadd5e2b3367c80885c0f05dd11dd1a4006be249c521f5d19b2b9e496bd88",
+      "words": 12
+    },
+    {
+      "id": "odeep03-0074",
+      "thread_id": "5205255",
+      "post_id": "Comment_68039634",
+      "original_author_body_sha256": "7a96d9ef3ebe926762736ca1067cdf7234baae6c3b4ac77ce4d72b33a680d4e5",
+      "body_with_quotes_sha256": "7a96d9ef3ebe926762736ca1067cdf7234baae6c3b4ac77ce4d72b33a680d4e5",
+      "words": 20
+    },
+    {
+      "id": "odeep03-0075",
+      "thread_id": "5205255",
+      "post_id": "Comment_68083053",
+      "original_author_body_sha256": "a7fd90764b7e322935f71f2380e0aa5c79477fd4379528d9928f218860b93737",
+      "body_with_quotes_sha256": "a7fd90764b7e322935f71f2380e0aa5c79477fd4379528d9928f218860b93737",
+      "words": 18
+    },
+    {
+      "id": "odeep03-0076",
+      "thread_id": "5245433",
+      "post_id": "Comment_68447712",
+      "original_author_body_sha256": "99065ec3a1858bd81655cf33836ee8b307df8616549863817434e48602bae72d",
+      "body_with_quotes_sha256": "99065ec3a1858bd81655cf33836ee8b307df8616549863817434e48602bae72d",
+      "words": 16
+    },
+    {
+      "id": "odeep03-0077",
+      "thread_id": "5268006",
+      "post_id": "Comment_68693744",
+      "original_author_body_sha256": "31171622559c4d0ef5ef11b0d4c199ef3593da8b21b5379cbc6c0740b1d3f670",
+      "body_with_quotes_sha256": "31171622559c4d0ef5ef11b0d4c199ef3593da8b21b5379cbc6c0740b1d3f670",
+      "words": 17
+    },
+    {
+      "id": "odeep03-0078",
+      "thread_id": "5268006",
+      "post_id": "Comment_68675322",
+      "original_author_body_sha256": "f50b2b9bf8694f631ed502f2f4afcdb47172529c00c38ec49f85f48dbc3f2509",
+      "body_with_quotes_sha256": "f50b2b9bf8694f631ed502f2f4afcdb47172529c00c38ec49f85f48dbc3f2509",
+      "words": 7
+    },
+    {
+      "id": "odeep03-0079",
+      "thread_id": "5294094",
+      "post_id": "Discussion_5294094",
+      "original_author_body_sha256": "353213b68767e86ba75513fd41fe195a6937ab29dc12d22ad0af3cb0bb149870",
+      "body_with_quotes_sha256": "353213b68767e86ba75513fd41fe195a6937ab29dc12d22ad0af3cb0bb149870",
+      "words": 14
+    },
+    {
+      "id": "odeep03-0080",
+      "thread_id": "5313212",
+      "post_id": "Discussion_5313212",
+      "original_author_body_sha256": "6478b137a8248b2563ed2e7e6200120d57829b3dd7c66a198edb66f0a639ce70",
+      "body_with_quotes_sha256": "6478b137a8248b2563ed2e7e6200120d57829b3dd7c66a198edb66f0a639ce70",
+      "words": 19
+    },
+    {
+      "id": "odeep03-0081",
+      "thread_id": "5325501",
+      "post_id": "Discussion_5325501",
+      "original_author_body_sha256": "5fd51c91764b9297d94eeee4edc32e3140c28c60e2f92164f2b412569ec30de1",
+      "body_with_quotes_sha256": "5fd51c91764b9297d94eeee4edc32e3140c28c60e2f92164f2b412569ec30de1",
+      "words": 12
+    },
+    {
+      "id": "odeep03-0082",
+      "thread_id": "5356765",
+      "post_id": "Discussion_5356765",
+      "original_author_body_sha256": "544ce676833c64f23e276ee31aae5db075489021d5312bde5127f3909031e101",
+      "body_with_quotes_sha256": "544ce676833c64f23e276ee31aae5db075489021d5312bde5127f3909031e101",
+      "words": 14
+    },
+    {
+      "id": "odeep03-0083",
+      "thread_id": "5405203",
+      "post_id": "Discussion_5405203",
+      "original_author_body_sha256": "fa6831480c06bbae8203e1d9a6246cdfa79afbca9b35f522ab148850ebcd31e1",
+      "body_with_quotes_sha256": "fa6831480c06bbae8203e1d9a6246cdfa79afbca9b35f522ab148850ebcd31e1",
+      "words": 22
+    },
+    {
+      "id": "odeep03-0085",
+      "thread_id": "5435612",
+      "post_id": "Discussion_5435612",
+      "original_author_body_sha256": "a30531d54ae709457b6038020b83de91cc562621a765bd57f85d658d2b68c896",
+      "body_with_quotes_sha256": "a30531d54ae709457b6038020b83de91cc562621a765bd57f85d658d2b68c896",
+      "words": 15
+    },
+    {
+      "id": "odeep03-0086",
+      "thread_id": "5445255",
+      "post_id": "Comment_70487119",
+      "original_author_body_sha256": "13ec14aaf3d598eabb0032423411323c7b2d3515a108a5786e1b20228cc2da07",
+      "body_with_quotes_sha256": "e7806ab1f60eaecb2925b55b96a2a6037ca362f9a2d0d59805bb5fc52e52e985",
+      "words": 14
+    },
+    {
+      "id": "odeep03-0087",
+      "thread_id": "5449394",
+      "post_id": "Discussion_5449394",
+      "original_author_body_sha256": "795328c4776a0f60bc21f1cf8939ee2eeedd88d4bbca9f5b62c8b4d8599212ec",
+      "body_with_quotes_sha256": "795328c4776a0f60bc21f1cf8939ee2eeedd88d4bbca9f5b62c8b4d8599212ec",
+      "words": 18
+    },
+    {
+      "id": "odeep03-0088",
+      "thread_id": "5479357",
+      "post_id": "Discussion_5479357",
+      "original_author_body_sha256": "c009a86d1388b8408b86a75afcfdfc3dc8fc7a9c306a9472eb7ca5c9eb3428e5",
+      "body_with_quotes_sha256": "c009a86d1388b8408b86a75afcfdfc3dc8fc7a9c306a9472eb7ca5c9eb3428e5",
+      "words": 18
+    },
+    {
+      "id": "odeep03-0089",
+      "thread_id": "5479357",
+      "post_id": "Comment_70871411",
+      "original_author_body_sha256": "cae686f4096a929b9f2388183d0814cb8ac7a682bc6b2cef8c283b88af568a9c",
+      "body_with_quotes_sha256": "035119d477b0ad987700e6e77593029a23acc1d1c5dc04b77a3fa5eebb05a884",
+      "words": 16
+    },
+    {
+      "id": "odeep03-0090",
+      "thread_id": "5489552",
+      "post_id": "Discussion_5489552",
+      "original_author_body_sha256": "8ba499a5fa3520dc0bdbdea5aba383a92ab11c2a91715f5a3af406c7d6ab2d38",
+      "body_with_quotes_sha256": "8ba499a5fa3520dc0bdbdea5aba383a92ab11c2a91715f5a3af406c7d6ab2d38",
+      "words": 9
+    },
+    {
+      "id": "odeep03-0091",
+      "thread_id": "5507515",
+      "post_id": "Discussion_5507515",
+      "original_author_body_sha256": "51d8a991fac4593a7e0fa8332c262edf566ae13334b3043b05a0ae04f846fc88",
+      "body_with_quotes_sha256": "51d8a991fac4593a7e0fa8332c262edf566ae13334b3043b05a0ae04f846fc88",
+      "words": 13
+    },
+    {
+      "id": "odeep03-0092",
+      "thread_id": "5507515",
+      "post_id": "Comment_71124938",
+      "original_author_body_sha256": "2fd4e677ad2c89adb3a0659ec7ad7091a1091c3f4b74cdff6ab92b25859d542b",
+      "body_with_quotes_sha256": "2fd4e677ad2c89adb3a0659ec7ad7091a1091c3f4b74cdff6ab92b25859d542b",
+      "words": 21
+    },
+    {
+      "id": "odeep03-0093",
+      "thread_id": "5507515",
+      "post_id": "Comment_71126295",
+      "original_author_body_sha256": "7ef542bf3183666474fd7f187d1d113a15772fc8ae7ad9083ee21fe04850c6d0",
+      "body_with_quotes_sha256": "7ef542bf3183666474fd7f187d1d113a15772fc8ae7ad9083ee21fe04850c6d0",
+      "words": 6
+    },
+    {
+      "id": "odeep03-0094",
+      "thread_id": "5572807",
+      "post_id": "Discussion_5572807",
+      "original_author_body_sha256": "af931dfb7f7ad41834905f1fecaf0c2a5913943d06198342d69b6569606e8090",
+      "body_with_quotes_sha256": "af931dfb7f7ad41834905f1fecaf0c2a5913943d06198342d69b6569606e8090",
+      "words": 17
+    },
+    {
+      "id": "odeep03-0095",
+      "thread_id": "5594286",
+      "post_id": "Discussion_5594286",
+      "original_author_body_sha256": "fe672762576e53e21e394d879660e5a25891880dd58a5263398619a0dc5b5aa3",
+      "body_with_quotes_sha256": "fe672762576e53e21e394d879660e5a25891880dd58a5263398619a0dc5b5aa3",
+      "words": 15
+    },
+    {
+      "id": "odeep03-0096",
+      "thread_id": "5594286",
+      "post_id": "Comment_72044518",
+      "original_author_body_sha256": "017954872570d41f87467a33e609bf1aab8020b7f9e18264fb0a3e0f9a99225c",
+      "body_with_quotes_sha256": "017954872570d41f87467a33e609bf1aab8020b7f9e18264fb0a3e0f9a99225c",
+      "words": 9
+    },
+    {
+      "id": "odeep03-0097",
+      "thread_id": "5670634",
+      "post_id": "Discussion_5670634",
+      "original_author_body_sha256": "264c6c961dead10db2d6182db31b03641a0dd4a5ea27f60ae359e2d4de5950c4",
+      "body_with_quotes_sha256": "264c6c961dead10db2d6182db31b03641a0dd4a5ea27f60ae359e2d4de5950c4",
+      "words": 10
+    },
+    {
+      "id": "odeep03-0098",
+      "thread_id": "5728829",
+      "post_id": "Comment_73596210",
+      "original_author_body_sha256": "fb6975d8a5d8fc05366f056eb7a553c03415e453051113a5dfa995b6d491850b",
+      "body_with_quotes_sha256": "fb6975d8a5d8fc05366f056eb7a553c03415e453051113a5dfa995b6d491850b",
+      "words": 19
+    },
+    {
+      "id": "odeep03-0099",
+      "thread_id": "5772363",
+      "post_id": "Comment_73689330",
+      "original_author_body_sha256": "d75fc5bdaead2f83d4de3300b3b095d7a13d585669d5cb417a9a773823bcdd4c",
+      "body_with_quotes_sha256": "c7ef0cab5a485d5dd34dd7fa83748817018fab682617c071ace1019bceedb08a",
+      "words": 6
+    },
+    {
+      "id": "odeep03-0100",
+      "thread_id": "5881322",
+      "post_id": "Discussion_5881322",
+      "original_author_body_sha256": "8f8c99d792eb618caf4c73697df38b928a3e26b1cbd01c28aaf58b2ad923f288",
+      "body_with_quotes_sha256": "8f8c99d792eb618caf4c73697df38b928a3e26b1cbd01c28aaf58b2ad923f288",
+      "words": 11
+    },
+    {
+      "id": "odeep03-0101",
+      "thread_id": "5881322",
+      "post_id": "Comment_74655624",
+      "original_author_body_sha256": "cc69da10c0900b2db028e3920cce581af1301ff07838a63bc1c8bc5d0113aee0",
+      "body_with_quotes_sha256": "cc69da10c0900b2db028e3920cce581af1301ff07838a63bc1c8bc5d0113aee0",
+      "words": 19
+    },
+    {
+      "id": "odeep03-0102",
+      "thread_id": "5881322",
+      "post_id": "Comment_76770349",
+      "original_author_body_sha256": "b1088880fa0013d68eb84cfe9f15942366bf3b3b64cd9e567f33ab5ee8aab404",
+      "body_with_quotes_sha256": "b1088880fa0013d68eb84cfe9f15942366bf3b3b64cd9e567f33ab5ee8aab404",
+      "words": 15
+    },
+    {
+      "id": "odeep03-0103",
+      "thread_id": "5956389",
+      "post_id": "Comment_75384205",
+      "original_author_body_sha256": "4e2ec12b16871e255e49044faad8c55da673c9be8b089e6e763e097cc1dd8779",
+      "body_with_quotes_sha256": "4e2ec12b16871e255e49044faad8c55da673c9be8b089e6e763e097cc1dd8779",
+      "words": 15
+    },
+    {
+      "id": "odeep03-0104",
+      "thread_id": "6011023",
+      "post_id": "Comment_75903697",
+      "original_author_body_sha256": "ede413bdc6ab376c4cdb279e788ed0e062e3866d0af403be7f2b33dec0f83799",
+      "body_with_quotes_sha256": "ede413bdc6ab376c4cdb279e788ed0e062e3866d0af403be7f2b33dec0f83799",
+      "words": 10
+    },
+    {
+      "id": "odeep03-0105",
+      "thread_id": "6040350",
+      "post_id": "Discussion_6040350",
+      "original_author_body_sha256": "f1ff6f2ec20682764028238e9e3edbc32f40adf5885f7fb1d6de7d6167b5f065",
+      "body_with_quotes_sha256": "f1ff6f2ec20682764028238e9e3edbc32f40adf5885f7fb1d6de7d6167b5f065",
+      "words": 18
+    },
+    {
+      "id": "odeep03-0106",
+      "thread_id": "6071454",
+      "post_id": "Discussion_6071454",
+      "original_author_body_sha256": "3137788aa826f3ecd33de8c8e5fe51bba25ffaa4ebe40fa45aa7c636883f8044",
+      "body_with_quotes_sha256": "3137788aa826f3ecd33de8c8e5fe51bba25ffaa4ebe40fa45aa7c636883f8044",
+      "words": 19
+    },
+    {
+      "id": "odeep03-0107",
+      "thread_id": "6126247",
+      "post_id": "Discussion_6126247",
+      "original_author_body_sha256": "f5f845243041d8ab3ec4696b80899f144c3955db46e618491c8d60460f9ff8d5",
+      "body_with_quotes_sha256": "f5f845243041d8ab3ec4696b80899f144c3955db46e618491c8d60460f9ff8d5",
+      "words": 11
+    }
+  ],
+  "output_hashes": {
+    "voice/oblique-deep-03.jsonl": "f7d7ed4d6cd31e03663fcd585ef4dc9d038941a9503c87ad0dbff95db54ae2c5",
+    "sources/mse-completion-01-reading.jsonl": "8090149b0e053307cc6d43e80cc9fbf4e1f8deafa137e67927b08a1a1803a1d6",
+    "synthesis/reader-notes-mse-completion-01.md": "95bf6386381d7fb275de7a6e6d21edb671db62c89293e24583469f100e291b41",
+    "scratchpad/odeep03/thread-notes.jsonl": "3898602f0ab32028b098d1746335ed970dfa56148c2da39b4f0d8cb0fb8e0929",
+    "scratchpad/odeep03/notes-id-lookups.json": "a166e43f79d28c342d961c5830ea045eee9646a20c2b8fbfd5ecd3a0102d53fb",
+    "sources/mse-completion-01.md": "e167c760238f211d0185e1684071ffc3e291126c7562651e9604b3c77f07f462",
+    "scratchpad/odeep03/safety-sweep.json": "f0a855b1f27b83854ef7fc2ca46b30cbb9ec5bb0dad694edb3c8466d0dce4dcf"
+  }
+}

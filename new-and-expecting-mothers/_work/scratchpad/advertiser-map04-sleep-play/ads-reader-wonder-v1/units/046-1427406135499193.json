@@ -1,0 +1,38 @@
+{
+  "ad_id": "1427406135499193",
+  "advertiser": "The Wonder Weeks",
+  "page_id": "129492440396348",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/046c-wonder-weeks-page.json",
+  "capture_sha256": "948f6c6250040a7b35df1a5e488a4b2c6d6c28ab0e2105574f96ea2b27fcbc9b",
+  "native_pointer": "connections[0].edges[17].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=129492440396348",
+  "captured_at": "2026-10-24T22:03:04.532Z",
+  "is_active": true,
+  "start_utc": "2026-10-20T07:00:00+00:00",
+  "display_format": "IMAGE",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1427406135499193",
+  "snapshot_sha256": "96d0319848366a630ec8a5ccfecee22b1d3862dc6a2432f3c9cf2c58653701d2",
+  "text_fields": {
+    "body": {
+      "text": "Feeling overwhelmed as a new parent? 👶 Get instant insights into your baby’s development and behavior with the #1 baby app. Join millions of parents finding confidence and peace of mind with The Wonder Weeks App. Start your parenting journey with more clarity today!"
+    },
+    "title": "Millions of Parents Trust The Wonder Weeks App",
+    "caption": "apps.apple.com",
+    "link_description": "Say goodbye to overwhelm! 👶 \nGet instant insights into your baby's development & behavior. \nJoin millions of parents finding confidence and peace of mind.\nStart your parenting journey with more clarity today!",
+    "link_url": "http://itunes.apple.com/app/id529815782",
+    "cta_text": "Download",
+    "cta_type": "DOWNLOAD",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "adce352ffa934d5415ae864d93154df57820d5c7aca6c6a11b77bb0c2feb57d1",
+  "media_seen": false,
+  "image_count": 1,
+  "video_count": 0,
+  "cards_count": 0
+}

@@ -1,0 +1,38 @@
+{
+  "ad_id": "2260285997879451",
+  "advertiser": "The Wonder Weeks",
+  "page_id": "129492440396348",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/046c-wonder-weeks-page.json",
+  "capture_sha256": "948f6c6250040a7b35df1a5e488a4b2c6d6c28ab0e2105574f96ea2b27fcbc9b",
+  "native_pointer": "connections[0].edges[9].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=129492440396348",
+  "captured_at": "2026-10-24T22:03:04.532Z",
+  "is_active": true,
+  "start_utc": "2026-10-22T07:00:00+00:00",
+  "display_format": "IMAGE",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=2260285997879451",
+  "snapshot_sha256": "4fab6c608cba3571b2c6c03e6d6d56b6f1c8d225838d02c684de914fbefcdbd5",
+  "text_fields": {
+    "body": {
+      "text": "Millionen Eltern weltweit vertrauen auf „Oje, ich wachse!“ 👶💛 Entdecke die App, die dir hilft, die Entwicklungssprünge deines Babys besser zu verstehen. Erfahre, was in deinem Baby vorgeht, und begleite seine Entwicklung mit mehr Sicherheit und Vertrauen."
+    },
+    "title": "Von Millionen Eltern geliebt",
+    "caption": "apps.apple.com",
+    "link_description": "Entdecke die „Oje, ich wachse!“-App.",
+    "link_url": "http://itunes.apple.com/app/id529815782",
+    "cta_text": "Install now",
+    "cta_type": "INSTALL_MOBILE_APP",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "058ee59b4f82bdd8a449e9553ce0888eaf125f0d6e6b27de46ebe77831189cb5",
+  "media_seen": false,
+  "image_count": 1,
+  "video_count": 0,
+  "cards_count": 0
+}

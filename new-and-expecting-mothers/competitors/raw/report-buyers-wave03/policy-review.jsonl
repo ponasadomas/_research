@@ -1,0 +1,10 @@
+{"domain": "www.babysleepanswers.com", "decision": "public_original_allowed", "reason": "robots200 wildcard empty Disallow; ordinary JavaScript rendering and FAQ expansion only."}
+{"domain": "byhads.com", "decision": "public_original_allowed", "reason": "robots404 no robots rules; public registry page200."}
+{"domain": "www.baby-chick.com", "decision": "public_original_allowed", "reason": "robots200 public service path allowed; restricted WordPress/search/transaction routes not used."}
+{"domain": "thebabyplanner.co", "decision": "public_original_allowed", "reason": "robots200 empty body; public review page200."}
+{"domain": "blundersinbabyland.com", "decision": "public_original_allowed", "reason": "robots200 public article path allowed; no admin/AJAX routes used."}
+{"domain": "www.taylormadebabyco.com", "decision": "not_fetched_policy_conflict", "reason": "robots includes explicit GPTBot whole-site deny and later whole-site allow, plus content signals. Conservative exclusion under owner rule, no alternate user-agent/route."}
+{"domain": "www.netmums.com", "decision": "not_fetched_robots_http403", "reason": "Robots request403; original older forum buyer account not requested or counted."}
+{"domain": "www.reddit.com", "decision": "not_fetched_saved_policy_deny", "reason": "Existing saved robots wildcard Disallow:/; indexed comment leads are discovery only; no alternate live Reddit, proxy or archive route requested."}
+{"domain": "strolleria.com", "decision": "not_fetched_agent_identification_requirement", "reason": "Public robots plus fully read agents.md require agent identification/Web Bot Auth for public HTML. No authorized identity mechanism available; review originals not requested; no account or workaround."}
+{"domain": "thebigstuff.co", "decision": "not_retained_discovery_policy_unresolved", "reason": "Discovery excerpt only mentions following sleep accounts; robots requires agent identification and references agent requirements. Original article not retained/read, and no buyer evidence inferred."}

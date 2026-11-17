@@ -1,0 +1,38 @@
+{
+  "ad_id": "2096802984559363",
+  "advertiser": "Huckleberry",
+  "page_id": "120943168474518",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/002-huckleberry-page.json",
+  "capture_sha256": "760e51d7505f6124143e9e4d6f1722142030f237b679ea8871becc64a72e3fb8",
+  "native_pointer": "connections[0].edges[4].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=120943168474518",
+  "captured_at": "2026-10-24T21:45:50.164Z",
+  "is_active": true,
+  "start_utc": "2026-09-26T07:00:00+00:00",
+  "display_format": "VIDEO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=2096802984559363",
+  "snapshot_sha256": "15103d50e562e9a2023d9124d07f07e347b09092c7b35c4e728bb42e98802625",
+  "text_fields": {
+    "body": {
+      "text": "Sleep regressions can be a challenging period. Take the guesswork out of naptime with Huckleberry's SweetSpot® sleep predictor."
+    },
+    "title": "Tap to Get Naps!",
+    "caption": "itunes.apple.com",
+    "link_description": null,
+    "link_url": "http://itunes.apple.com/app/id1169136078",
+    "cta_text": "Install now",
+    "cta_type": "INSTALL_MOBILE_APP",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "784ef7e15e9d128e5dca6cfb60cef41cb40e50b8bd6ede917f72154d7a305549",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 1,
+  "cards_count": 0
+}

@@ -1,0 +1,38 @@
+{
+  "ad_id": "918036481075566",
+  "advertiser": "Taking Cara Babies",
+  "page_id": "362568527156955",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/019-taking-cara-babies-page.json",
+  "capture_sha256": "90087c5f484111bbc2fba4fd4f642e2dff76af3b3a8273ceb5b83244053f8008",
+  "native_pointer": "connections[0].edges[22].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=362568527156955",
+  "captured_at": "2026-10-24T21:50:13.463Z",
+  "is_active": true,
+  "start_utc": "2026-04-01T07:00:00+00:00",
+  "display_format": "VIDEO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=918036481075566",
+  "snapshot_sha256": "a352ab53f9435386fc5054b24e6ef124958ea53cdaa1259782ba8d227399c7c3",
+  "text_fields": {
+    "body": {
+      "text": "The b.e.s.t. swaddle isn’t just a name—it’s a promise.\nButtery Soft. Easy to use. Silent-seal closure. Three ways to swaddle.\nBecause your baby deserves the best."
+    },
+    "title": "Breakout-Proof Swaddle",
+    "caption": "www.takingcarababies.com",
+    "link_description": null,
+    "link_url": "https://www.takingcarababies.com/products/b-e-s-t-swaddle",
+    "cta_text": "Shop now",
+    "cta_type": "SHOP_NOW",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "78773ff9042ce6a08b22dea2fdafe8aad8abc20c13ec7886c22458895f4b47fe",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 1,
+  "cards_count": 0
+}

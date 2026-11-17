@@ -1,0 +1,20 @@
+HTTP/2 200 
+date: Sat, 24 Oct 2026 19:50:12 GMT
+content-type: text/plain; charset=utf-8
+content-length: 497
+cf-ray: a4fb82573c53a887-RIX
+cf-cache-status: HIT
+accept-ranges: bytes
+age: 520127
+cache-control: public,max-age=0,must-revalidate
+etag: W/"1f1-rXhzacq0x3t59e6Wmz89pkPiXqI"
+server: cloudflare
+strict-transport-security: max-age=31556952
+server-timing: cache;desc=miss, varnish;desc=miss_hit, dc;desc=cloudflare
+x-content-type-options: nosniff
+x-served-by: RIX
+x-wix-request-id: 1792871412.363349195473642059
+set-cookie: __cf_bm=KWpzWEssBoVFZB4uPZu5IU45d0ccdSrzap3qLKU78Jk-1792871412.3582137-1.0.1.1-hfYlE62zrhzH0IlJ8wm5nZTq4mslI8qaDHeovOiIWflX5KBJ7bLC7TtpOJIFplvmkU.L0Zd3uwgf22IqVJwrCQcNYwHhjLVm9TsTAGaa..UO5eYGeudlevR0nP5kuTmh; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.sweetsiestasllc.com; Expires=Sat, 24 Oct 2026 20:20:12 GMT
+x-seen-by: bQAXdg/f3pWGCb3VI6q72A==,
+alt-svc: h3=":443"; ma=86400
+

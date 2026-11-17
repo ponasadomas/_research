@@ -1,0 +1,28 @@
+{
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:46:32 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Set-Cookie": "AWSALBTG=tbsEt62e6QVrMuzaOs8mWQCbDMLVsRiNp0FuoDH25PF/h95qjeGsYfSQ93aKPHWu3qX+HZfhJSDmuEs9TIWeLbjX4e+RUcHXx5qSiEYqIgbXBtKeLSm+U9tEDbBYwALUy2xHaxfgk64icoil29jFeci/zgnE4dHNxyiHu6Dx/SuZ; Expires=Sat, 31 Oct 2026 21:46:31 GMT; Path=/, AWSALBTGCORS=tbsEt62e6QVrMuzaOs8mWQCbDMLVsRiNp0FuoDH25PF/h95qjeGsYfSQ93aKPHWu3qX+HZfhJSDmuEs9TIWeLbjX4e+RUcHXx5qSiEYqIgbXBtKeLSm+U9tEDbBYwALUy2xHaxfgk64icoil29jFeci/zgnE4dHNxyiHu6Dx/SuZ; Expires=Sat, 31 Oct 2026 21:46:31 GMT; Path=/; SameSite=None; Secure, vs_uniques_template_metadata=eJyLNjI0sTQwN7C0NI8FABHgAsk%3D; path=/; expires=Sat, 24 Apr 2027 21:46:31 GMT; secure; HttpOnly; SameSite=None, _csrf_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IklsWklhV0paUjBaVFVWSmtjMkpUYldobVNIQk9lVE5RYWpGUE16UXlYMVkzV1dsWGEzaElUelJHTWxVaSIsImV4cCI6IjIwMjctMTAtMjRUMjE6NDY6MzEuNzczWiIsInB1ciI6bnVsbH19--277b7c1c1efe00cb8bbe3023909ed0626dd447f4; path=/; expires=Sun, 24 Oct 2027 21:46:31 GMT; HttpOnly; Secure; SameSite=None, _kjb_session=fcf2edc47f219828b3d381edec93b090; path=/; expires=Sun, 25 Oct 2026 21:46:31 GMT; HttpOnly; Secure; SameSite=None, __cf_bm=YcrXtm.noCkohm07GjKMqHR65iWcTf6YirKTkmz7hlM-1792878391.3028493-1.0.1.1-pAthvDGdWNGj9it163X9hAna8T2BJTwb.aJUexecMF05jCoBgd4oxll4iart4ObIfZgh0dl8XmF1JUGdDE3xcz2aP.BndjQ3873bE1feCB85GqHfdlZPIOOseiTdWmju; HttpOnly; SameSite=None; Secure; Path=/; Domain=courses.safeintheseat.com; Expires=Sat, 24 Oct 2026 22:16:31 GMT, _cfuvid=Jv.2FZ_NnKLj7KGSV0jqthQbWI07CqADV.356eh8lCg-1792878391.3028493-1.0.1.1-VrInslBNKC0miA6duuxhdOLTHAQFKaQUVepFAqKg6Q4; HttpOnly; SameSite=None; Secure; Path=/; Domain=courses.safeintheseat.com",
+    "cf-cache-status": "DYNAMIC",
+    "x-frame-options": "ALLOW-FROM https://app.kajabi.com https://app.vibely.io https://communities.kajabi.com https://communities-widget.kajabi.com *.mykajabi.com https://communities.newkajabi-staging.com https://communities-widget.newkajabi-staging.com https://courses.safeintheseat.com",
+    "x-xss-protection": "0",
+    "x-content-type-options": "nosniff",
+    "x-download-options": "noopen",
+    "x-permitted-cross-domain-policies": "none",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "content-security-policy": "frame-ancestors 'self' https://app.kajabi.com https://app.vibely.io https://communities.kajabi.com https://communities-widget.kajabi.com *.mykajabi.com https://communities.newkajabi-staging.com https://communities-widget.newkajabi-staging.com https://courses.safeintheseat.com",
+    "pragma": "no-cache",
+    "expires": "Mon, 01 Jan 1990 00:00:00 GMT",
+    "vary": "Accept, accept-encoding",
+    "Cache-Control": "max-age=0, private, must-revalidate, no-cache, no-store",
+    "x-request-id": "e6c1f71c-73b3-416e-9287-48eca6d97f32",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=zTXR7NCxzrSW7DESSh1ItZHQUahqBpWtk0PLuuwioRppmGIZmKIsQ7kobtFBvG8bTlAlCVYRgd7CS%2FHM7e5AS64FM1Gh5RXu96QiyZa%2B7fxRElgYYcN%2BGDpm6CgiPihcoM0nwsa22r05C8A%3D\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server": "cloudflare",
+    "Content-Encoding": "gzip",
+    "CF-RAY": "a4fc2cb979e3e4e8-RIX"
+  },
+  "history": []
+}

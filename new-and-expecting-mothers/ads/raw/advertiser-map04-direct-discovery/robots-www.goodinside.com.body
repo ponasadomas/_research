@@ -1,0 +1,29 @@
+# *
+User-agent: *
+Disallow: /admin*
+Disallow: /gi-admin*
+Disallow: /write-a-review*
+Disallow: /welcome/
+Disallow: /weekly-flex/
+Disallow: /video/
+Disallow: /topic/
+Disallow: /search/
+Disallow: /script/
+Disallow: /register/
+Disallow: /saved/
+Disallow: /purchases/
+Disallow: /my-account
+Disallow: /membership/failed/
+Disallow: /login/
+Disallow: /live-events/
+Disallow: /checkout/
+Disallow: /article/
+Disallow: /tools/
+Disallow: /symbol/
+Disallow: /modal-symbol/
+
+# Host
+Host: https://www.goodinside.com
+
+# Sitemaps
+Sitemap: https://www.goodinside.com/sitemap.xml

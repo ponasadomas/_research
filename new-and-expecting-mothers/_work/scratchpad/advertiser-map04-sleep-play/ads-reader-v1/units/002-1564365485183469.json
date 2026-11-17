@@ -1,0 +1,38 @@
+{
+  "ad_id": "1564365485183469",
+  "advertiser": "Huckleberry",
+  "page_id": "120943168474518",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/002-huckleberry-page.json",
+  "capture_sha256": "760e51d7505f6124143e9e4d6f1722142030f237b679ea8871becc64a72e3fb8",
+  "native_pointer": "connections[0].edges[1].node.collated_results[6]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=120943168474518",
+  "captured_at": "2026-10-24T21:45:50.164Z",
+  "is_active": true,
+  "start_utc": "2026-08-23T07:00:00+00:00",
+  "display_format": "IMAGE",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1564365485183469",
+  "snapshot_sha256": "4de93c2ce7680e2c4084d23aaf39f6c0333675fac9bca6425d92b713ded60c50",
+  "text_fields": {
+    "body": {
+      "text": "There's a rule of thumb OBs use to know when labor's real: 5-1-1 (5 min apart, 1 min long, for 1 hour).\n\nMost people try to track that math by hand, mid-contraction. Huckleberry's free timer does it for you.\n\nThis new update to our top-rated baby tracker was built in cooperation with a board-certified OBGYN."
+    },
+    "title": "Track with a Tap!",
+    "caption": "apps.apple.com",
+    "link_description": null,
+    "link_url": "http://itunes.apple.com/app/id1169136078",
+    "cta_text": "Install now",
+    "cta_type": "INSTALL_MOBILE_APP",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "20c5d97423dcf20b5bb10655bc77f5576ad4abc90bbff7b699d89b249fb58d58",
+  "media_seen": false,
+  "image_count": 1,
+  "video_count": 0,
+  "cards_count": 0
+}

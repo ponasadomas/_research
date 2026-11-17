@@ -1,0 +1,1047 @@
+<!-- views/pages/service-detail.ejs -->
+<!DOCTYPE html>
+<html lang="en">
+<!-- views/partials/head.ejs -->
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <!-- Basic Meta Tags -->
+  <title>Return to Work Lactation Support - Honey &amp; Milk Lactation | Lancaster SC</title>
+  <meta name="description" content="Comprehensive pumping guidance and feeding schedules for working parents. Includes pump selection, storage methods, and maintaining supply while working. In-home lactation support by IBCLC Shalonda Clyburn in Lancaster, SC. Evening and weekend appointments available. Text (864) 513-3219.">
+  <meta name="keywords" content="return to work lactation support, lactation consultant Lancaster SC, postpartum lactation support, IBCLC, breastfeeding support">
+  <meta name="author" content="Shalonda Clyburn, IBCLC">
+  <meta name="robots" content="index, follow">
+
+  <!-- Language and Locale -->
+  <meta name="language" content="en">
+  <meta http-equiv="content-language" content="en">
+  <link rel="canonical" href="https://www.honeyandmilklactation.com/return-to-work-support">
+
+  <!-- Alternate Language Links -->
+  
+    <link rel="alternate" hreflang="en" href="/services/return-to-work-support">
+  
+    <link rel="alternate" hreflang="es" href="/services/return-to-work-support?lang=es">
+  
+
+  <!-- Open Graph Meta Tags -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Return to Work Lactation Support | Honey &amp; Milk Lactation">
+  <meta property="og:description" content="Comprehensive pumping guidance and feeding schedules for working parents. Includes pump selection, storage methods, and maintaining supply while working.">
+  <meta property="og:image" content="https://www.honeyandmilklactation.com/assets/images/shalonda-profile.jpg">
+  <meta property="og:url" content="https://www.honeyandmilklactation.com/return-to-work-support">
+  <meta property="og:site_name" content="Honey &amp; Milk Lactation">
+  <meta property="og:locale" content="en_US">
+
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@honeymilklactation">
+  <meta name="twitter:title" content="Return to Work Lactation Support | Honey &amp; Milk Lactation">
+  <meta name="twitter:description" content="Comprehensive pumping guidance and feeding schedules for working parents. Includes pump selection, storage methods, and maintaining supply while working.">
+  <meta name="twitter:image" content="https://www.honeyandmilklactation.com/assets/images/shalonda-profile.jpg">
+
+  <!-- Favicons -->
+  <link rel="icon" type="image/svg+xml" href="/assets/icons/icon.svg">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-32x32.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/icon-192x192.png">
+  <link rel="manifest" href="/assets/site.webmanifest">
+  <link rel="mask-icon" href="/assets/icons/icon.svg" color="#F4D03F">
+  <meta name="msapplication-TileColor" content="#F4D03F">
+  <meta name="theme-color" content="#F4D03F">
+
+  <!-- Preconnect to External Resources -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://wa.me" crossorigin>
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&family=Dancing+Script:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Font Awesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+  <!-- Core CSS Files -->
+  <link rel="stylesheet" href="/css/global.css">
+  <link rel="stylesheet" href="/css/nav.css">
+  <link rel="stylesheet" href="/css/footer.css">
+  <link rel="stylesheet" href="/css/pricing-insurance.css">
+  <!-- Page-specific CSS injection point -->
+  <!-- This is where individual pages can inject custom CSS -->
+
+  <!-- JSON-LD Structured Data -->
+  
+    
+    
+      <script type="application/ld+json">
+        {
+  "@context": "https://schema.org",
+  "@type": "HealthAndBeautyBusiness",
+  "name": "Honey & Milk Lactation",
+  "description": "Professional lactation consultant providing in-home breastfeeding support in Lancaster, SC",
+  "url": "https://www.honeyandmilklactation.com",
+  "telephone": "(864) 513-3219",
+  "email": "shalondahoneyandmilk@gmail.com",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Lancaster",
+    "addressRegion": "SC",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "34.7207",
+    "longitude": "-80.7709"
+  },
+  "openingHours": "Mo-Su 16:00-21:00",
+  "serviceArea": {
+    "@type": "GeoCircle",
+    "geoMidpoint": {
+      "@type": "GeoCoordinates",
+      "latitude": "34.7207",
+      "longitude": "-80.7709"
+    },
+    "geoRadius": "30"
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Shalonda Clyburn",
+    "jobTitle": "International Board Certified Lactation Consultant (IBCLC)"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Lactation Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "name": "Prenatal Lactation Consultation",
+        "description": "Comprehensive breastfeeding preparation session covering positioning, latch techniques, and common challenges. Perfect for first-time mothers and partners.",
+        "category": "Prenatal Lactation Support"
+      },
+      {
+        "@type": "Offer",
+        "name": "Postpartum Lactation Support",
+        "description": "Comprehensive support for new mothers facing breastfeeding challenges. Includes latch assessment, supply evaluation, and personalized feeding plans.",
+        "category": "Postpartum Lactation Support"
+      },
+      {
+        "@type": "Offer",
+        "name": "Return to Work Lactation Support",
+        "description": "Comprehensive pumping guidance and feeding schedules for working parents. Includes pump selection, storage methods, and maintaining supply while working.",
+        "category": "Postpartum Lactation Support"
+      },
+      {
+        "@type": "Offer",
+        "name": "Breastfeeding Troubleshooting Session",
+        "description": "Targeted support for specific breastfeeding challenges. Ideal for pain, latch issues, supply concerns, or any urgent breastfeeding difficulty.",
+        "category": "Specialized Lactation Support"
+      },
+      {
+        "@type": "Offer",
+        "name": "Follow-up Lactation Visit",
+        "description": "Continued support and progress check after initial consultation. Perfect for monitoring improvements and making adjustments to your feeding plan.",
+        "category": "Specialized Lactation Support"
+      }
+    ]
+  }
+}
+      </script>
+    
+  
+
+  
+    
+    
+      <script type="application/ld+json">
+        {
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Lactation Service",
+  "description": "Professional lactation support",
+  "provider": {
+    "@type": "HealthAndBeautyBusiness",
+    "name": "Honey & Milk Lactation",
+    "telephone": "(864) 513-3219",
+    "email": "shalondahoneyandmilk@gmail.com"
+  },
+  "serviceType": "Lactation Support",
+  "areaServed": {
+    "@type": "City",
+    "name": "Lancaster",
+    "addressRegion": "SC",
+    "addressCountry": "US"
+  },
+  "availableChannel": {
+    "@type": "ServiceChannel",
+    "serviceType": "In-home consultation",
+    "availableLanguage": [
+      "en"
+    ]
+  }
+}
+      </script>
+    
+  
+
+  
+    
+    
+      <script type="application/ld+json">
+        {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://www.honeyandmilklactation.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Services",
+      "item": "https://www.honeyandmilklactation.com/services"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Return to Work Lactation Support",
+      "item": "https://www.honeyandmilklactation.com/services/return-to-work-support"
+    }
+  ]
+}
+      </script>
+    
+  
+
+
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JPVS8RZNVE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JPVS8RZNVE');
+</script>
+
+<link rel="stylesheet" href="/css/service-detail.css">
+<link rel="stylesheet" href="/css/pricing-insurance.css">
+<link rel="stylesheet" href="/css/whatsapp-btn.css">
+</head>
+
+<body data-page="service-detail">
+  <!-- views/partials/nav.ejs -->
+<nav class="main-nav">
+  <div class="nav-container">
+    <!-- Logo/Brand -->
+    <div class="nav-brand">
+      <a href="/" class="brand-link">
+        <span class="brand-text">Honey & Milk</span>
+        <span class="brand-subtitle">Lactation</span>
+      </a>
+    </div>
+
+    <!-- Call to Action -->
+    <div class="nav-cta">
+      <a href="/contact" class="btn-primary">
+        Book Now
+      </a>
+    </div>
+
+    <!-- Right Group: Language + Menu -->
+    <div class="nav-right">
+      <button class="nav-lang-toggle" onclick="toggleLanguage('es')" aria-label="Español">
+        <i class="fas fa-globe"></i>
+        <span>ES</span>
+      </button>
+
+      <button class="menu-trigger" id="menuTrigger" aria-label="Open menu">
+        <span class="menu-text">Menu</span>
+      </button>
+    </div>
+  </div>
+</nav>
+
+<!-- Full Screen Slide Menu -->
+<div class="slide-menu" id="slideMenu">
+  <div class="slide-menu-overlay" id="slideMenuOverlay"></div>
+  <div class="slide-menu-content">
+    <!-- Close Button -->
+    <button class="menu-close" id="menuClose" aria-label="Close menu">
+      <span class="close-text">Close</span>
+    </button>
+
+    <!-- Navigation Links -->
+    <nav class="slide-nav">
+      <ul class="slide-nav-list">
+        <li class="slide-nav-item">
+          <a href="/" class="slide-nav-link ">
+            Home
+          </a>
+        </li>
+        <li class="slide-nav-item">
+          <a href="/about" class="slide-nav-link ">
+            About
+          </a>
+        </li>
+        <li class="slide-nav-item">
+          <a href="/services" class="slide-nav-link ">
+            Services
+          </a>
+        </li>
+        <li class="slide-nav-item">
+          <a href="/contact" class="slide-nav-link ">
+            Contact
+          </a>
+        </li>
+        <li class="slide-nav-item">
+          <a href="/faq" class="slide-nav-link ">
+            FAQ
+          </a>
+        </li>
+      </ul>
+    </nav>
+
+    <!-- Language Toggle -->
+    <div class="language-toggle">
+      <button class="lang-btn" onclick="toggleLanguage('es')">
+        Español
+      </button>
+    </div>
+
+    <!-- Contact Info in Menu -->
+    <div class="menu-contact">
+      <div class="menu-contact-item">
+        <span class="contact-label">Available</span>
+        <span class="contact-value">Reach out for availability</span>
+      </div>
+      <div class="menu-contact-item">
+        <span class="contact-label">Phone</span>
+        <a href="tel:(864) 513-3219" class="contact-value">
+          (864) 513-3219
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <main class="main-content">
+    
+    <!-- ===== BREADCRUMB SECTION ===== -->
+    <section class="breadcrumb-section" id="breadcrumb">
+      <div class="container">
+        <nav class="breadcrumb-nav" aria-label="breadcrumb">
+          <ol class="breadcrumb-list">
+            
+              <li class="breadcrumb-item">
+                
+                  <a href="/" class="breadcrumb-link">Home</a>
+                  <i class="fas fa-chevron-right breadcrumb-separator"></i>
+                
+              </li>
+            
+              <li class="breadcrumb-item">
+                
+                  <a href="/services" class="breadcrumb-link">Services</a>
+                  <i class="fas fa-chevron-right breadcrumb-separator"></i>
+                
+              </li>
+            
+              <li class="breadcrumb-item">
+                
+                  <span class="breadcrumb-current" aria-current="page">Return to Work Lactation Support</span>
+                
+              </li>
+            
+          </ol>
+        </nav>
+      </div>
+    </section>
+
+    <!-- ===== SERVICE HERO SECTION ===== -->
+    <section class="service-hero-section" id="service-hero">
+      <div class="hero-background" style="--category-color: #9CAF88">
+        <div class="hero-pattern"></div>
+      </div>
+      
+      <div class="container">
+        <div class="service-hero-content">
+          
+          <div class="service-hero-header" data-animate="slideUp">
+            <div class="category-badge" style="--category-color: #9CAF88">
+              <i class="fas fa-heart"></i>
+              <span>Postpartum Lactation Support</span>
+            </div>
+            
+            <h1 class="service-hero-title">Return to Work Lactation Support</h1>
+            <p class="service-hero-subtitle">Comprehensive pumping guidance and feeding schedules for working parents. Includes pump selection, storage methods, and maintaining supply while working.</p>
+            
+            <div class="service-meta">
+              <div class="meta-item">
+                <i class="fas fa-clock meta-icon"></i>
+                <span>60-90 minutes</span>
+              </div>
+              <div class="meta-item">
+                <i class="fas fa-home meta-icon"></i>
+                <span>In-home consultation</span>
+              </div>
+              <div class="meta-item">
+                <i class="fas fa-certificate meta-icon"></i>
+                <span>IBCLC</span>
+              </div>
+            </div>
+          </div>
+          
+          <div class="service-hero-action" data-animate="slideUp">
+            <a href="/contact" class="btn btn-primary btn-lg hero-book-btn">
+              <i class="fas fa-calendar-check"></i>
+              Book This Service
+            </a>
+            
+
+
+  <!-- Regular WhatsApp Button -->
+  <a id="WhatsApp_A" href="https://wa.me/18032878590?text=Hi%20Shalonda!%20I%20need%20help%20preparing%20for%20return%20to%20work%20while%20breastfeeding.%20I%20go%20back%20to%20work%20on%20%5BDATE%5D.%20Can%20you%20help%20me%20with%20pumping%20and%20scheduling%3F" 
+     class="whatsapp-btn whatsapp-btn-secondary whatsapp-btn-lg hero-book-btn"
+     target="_blank" 
+     rel="noopener noreferrer"
+     aria-label="Contact via WhatsApp">
+    
+      <i class="fab fa-whatsapp whatsapp-icon"></i>
+    
+    <span class="whatsapp-text">Or WhatsApp Us</span>
+    
+  </a>
+
+
+          </div>
+          
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== SERVICE DETAILS SECTION ===== -->
+    <section class="service-details-section section" id="service-details">
+      <div class="container">
+        
+        <div class="service-details-grid">
+          
+          <!-- Main Content -->
+          <div class="service-main">
+            <div class="service-description" data-animate="fadeIn">
+              <h2 class="details-title">
+                What to Expect
+              </h2>
+              <div class="description-content">
+                <p class="description-text">Successfully continue breastfeeding while returning to work with expert guidance on pumping, storage, and scheduling. This 60-90 minute consultation covers breast pump selection and optimization, pumping schedules that work with your job, proper milk storage and handling, maintaining milk supply while working, transitioning baby to bottle feeding, and troubleshooting common work-related challenges. Perfect for mothers planning to return to work while continuing their breastfeeding journey.</p>
+              </div>
+            </div>
+            
+            <div class="service-features" data-animate="slideUp">
+              <h3 class="features-title">
+                What&#39;s Included
+              </h3>
+              <ul class="features-list">
+                
+                  <li class="feature-item" data-animate="slideUp" data-delay="0">
+                    <i class="fas fa-check feature-check"></i>
+                    <span>Breast pump selection and optimization guidance</span>
+                  </li>
+                
+                  <li class="feature-item" data-animate="slideUp" data-delay="100">
+                    <i class="fas fa-check feature-check"></i>
+                    <span>Customized pumping schedule for your work routine</span>
+                  </li>
+                
+                  <li class="feature-item" data-animate="slideUp" data-delay="200">
+                    <i class="fas fa-check feature-check"></i>
+                    <span>Proper milk storage and handling techniques</span>
+                  </li>
+                
+                  <li class="feature-item" data-animate="slideUp" data-delay="300">
+                    <i class="fas fa-check feature-check"></i>
+                    <span>Strategies for maintaining milk supply while working</span>
+                  </li>
+                
+                  <li class="feature-item" data-animate="slideUp" data-delay="400">
+                    <i class="fas fa-check feature-check"></i>
+                    <span>Baby bottle feeding transition planning</span>
+                  </li>
+                
+                  <li class="feature-item" data-animate="slideUp" data-delay="500">
+                    <i class="fas fa-check feature-check"></i>
+                    <span>Workplace accommodation guidance</span>
+                  </li>
+                
+              </ul>
+            </div>
+            
+            <div class="service-deliverables" data-animate="fadeIn">
+              <h3 class="deliverables-title">
+                You Will Receive
+              </h3>
+              <div class="deliverables-grid">
+                
+                  <div class="deliverable-item" data-animate="slideUp" data-delay="0">
+                    <i class="fas fa-gift deliverable-icon"></i>
+                    <span>Personalized pumping schedule</span>
+                  </div>
+                
+                  <div class="deliverable-item" data-animate="slideUp" data-delay="150">
+                    <i class="fas fa-gift deliverable-icon"></i>
+                    <span>Pump selection and setup guidance</span>
+                  </div>
+                
+                  <div class="deliverable-item" data-animate="slideUp" data-delay="300">
+                    <i class="fas fa-gift deliverable-icon"></i>
+                    <span>Milk storage and handling protocol</span>
+                  </div>
+                
+                  <div class="deliverable-item" data-animate="slideUp" data-delay="450">
+                    <i class="fas fa-gift deliverable-icon"></i>
+                    <span>Supply maintenance strategies</span>
+                  </div>
+                
+                  <div class="deliverable-item" data-animate="slideUp" data-delay="600">
+                    <i class="fas fa-gift deliverable-icon"></i>
+                    <span>Bottle feeding transition plan</span>
+                  </div>
+                
+                  <div class="deliverable-item" data-animate="slideUp" data-delay="750">
+                    <i class="fas fa-gift deliverable-icon"></i>
+                    <span>Workplace setup recommendations</span>
+                  </div>
+                
+                  <div class="deliverable-item" data-animate="slideUp" data-delay="900">
+                    <i class="fas fa-gift deliverable-icon"></i>
+                    <span>Troubleshooting resource guide</span>
+                  </div>
+                
+              </div>
+            </div>
+          </div>
+          
+          <!-- Sidebar -->
+          <div class="service-sidebar">
+            <div class="booking-card" data-animate="fadeIn">
+              <h3 class="booking-title">
+                Ready to Book?
+              </h3>
+              <p class="booking-description">
+                Schedule your consultation today
+              </p>
+              
+              <!-- Service Pricing Display -->
+              <div class="service-pricing-display">
+                <div class="service-price-item">
+                  <span class="service-price-label">Return to Work Lactation Support</span>
+                  <span class="service-price-value">
+                    
+                    $100
+                  </span>
+                </div>
+              </div>
+              
+              <div class="booking-info">
+                <div class="info-item">
+                  <span class="info-label">
+                    Duration:
+                  </span>
+                  <span class="info-value">60-90 minutes</span>
+                </div>
+                <div class="info-item">
+                  <span class="info-label">
+                    Available:
+                  </span>
+                  <span class="info-value">Reach out for availability</span>
+                </div>
+                <div class="info-item">
+                  <span class="info-label">
+                    Service Area:
+                  </span>
+                  <span class="info-value">Lancaster, SC and surrounding areas</span>
+                </div>
+              </div>
+              
+              <div class="booking-actions">
+                <a href="/contact" class="btn btn-primary btn-lg sidebar-book-btn">
+                  <i class="fas fa-calendar-check"></i>
+                  Book via Contact Form
+                </a>
+
+                
+
+
+  <!-- Regular WhatsApp Button -->
+  <a id="WhatsApp_A" href="https://wa.me/18032878590?text=Hi%20Shalonda!%20I%20need%20help%20preparing%20for%20return%20to%20work%20while%20breastfeeding.%20I%20go%20back%20to%20work%20on%20%5BDATE%5D.%20Can%20you%20help%20me%20with%20pumping%20and%20scheduling%3F" 
+     class="whatsapp-btn whatsapp-btn-secondary whatsapp-btn-lg sidebar-book-btn"
+     target="_blank" 
+     rel="noopener noreferrer"
+     aria-label="Contact via WhatsApp">
+    
+      <i class="fab fa-whatsapp whatsapp-icon"></i>
+    
+    <span class="whatsapp-text">Book via WhatsApp</span>
+    
+  </a>
+
+
+
+                <a href="tel:(864) 513-3219" class="btn btn-outline btn-lg">
+                  <i class="fas fa-phone"></i>
+                  Call Now
+                </a>
+              </div>
+            </div>
+            
+            <!-- Insurance Info in Sidebar -->
+            
+              <div class="sidebar-insurance-card" data-animate="slideUp">
+                <div class="insurance-info-fallback">
+                  <h4 class="insurance-title-compact">
+                    Insurance Coverage Available
+                  </h4>
+                  <p class="insurance-description-compact">
+                    Many insurance plans accepted through The Lactation Network. Check your coverage for potential cost savings.
+                  </p>
+                  <div class="insurance-action">
+                    <a href="https://registration.mytln.care/" 
+                       class="btn btn-sm btn-outline" 
+                       target="_blank" 
+                       rel="noopener noreferrer">
+                      <i class="fas fa-shield-alt"></i>
+                      Check Coverage
+                    </a>
+                  </div>
+                </div>
+              </div>
+            
+            
+            <!-- Consultant Info Card -->
+            <div class="consultant-card" data-animate="fadeIn">
+              <div class="consultant-header">
+                <div class="consultant-avatar">
+                  <img src="/assets/images/shalonda-profile.jpg" alt="Shalonda Clyburn, IBCLC" class="consultant-image">
+                </div>
+                <div class="consultant-info">
+                  <h4 class="consultant-name">Shalonda Clyburn, IBCLC</h4>
+                  <p class="consultant-title">
+                    Certified Lactation Consultant
+                  </p>
+                </div>
+              </div>
+              <p class="consultant-note">
+                Professional, compassionate care in the comfort of your home with 15 years of experience.
+              </p>
+            </div>
+          </div>
+          
+        </div>
+        
+      </div>
+    </section>
+
+    <!-- ===== RELATED SERVICES SECTION ===== -->
+    
+    <section class="related-services-section section bg-warm" id="related-services">
+      <div class="container">
+        
+        <div class="section-header" data-animate="fadeIn">
+          <h2 class="section-title">
+            Other Services You Might Need
+          </h2>
+        </div>
+        
+        <div class="related-services-grid">
+          
+          <!-- Related Services (same category) -->
+          
+            
+              <div class="related-service-card" data-animate="slideUp" data-delay="0">
+                <div class="related-service-header">
+                  <h3 class="related-service-title">
+                    <a href="/services/postpartum-consultation" class="related-service-link">
+                      Postpartum Lactation Support
+                    </a>
+                  </h3>
+                  <span class="related-service-duration">
+                    <i class="fas fa-clock"></i>
+                    90-120 minutes
+                  </span>
+                </div>
+                <p class="related-service-description">Comprehensive support for new mothers facing breastfeeding challenges. Includes latch assessment, supply evaluation, and personalized feeding plans.</p>
+                <div class="related-service-actions">
+                  <a href="/services/postpartum-consultation" class="btn btn-outline btn-sm">
+                    Learn More
+                  </a>
+                </div>
+              </div>
+            
+          
+          
+          <!-- Other Services (different categories) -->
+          
+            
+              <div class="related-service-card" data-animate="slideUp" data-delay="150">
+                <div class="related-service-header">
+                  <h3 class="related-service-title">
+                    <a href="/services/prenatal-consultation" class="related-service-link">
+                      Prenatal Lactation Consultation
+                    </a>
+                  </h3>
+                  <span class="related-service-duration">
+                    <i class="fas fa-clock"></i>
+                    60-90 minutes
+                  </span>
+                </div>
+                <p class="related-service-description">Comprehensive breastfeeding preparation session covering positioning, latch techniques, and common challenges. Perfect for first-time mothers and partners.</p>
+                <div class="related-service-actions">
+                  <a href="/services/prenatal-consultation" class="btn btn-outline btn-sm">
+                    Learn More
+                  </a>
+                </div>
+              </div>
+            
+              <div class="related-service-card" data-animate="slideUp" data-delay="300">
+                <div class="related-service-header">
+                  <h3 class="related-service-title">
+                    <a href="/services/troubleshooting-session" class="related-service-link">
+                      Breastfeeding Troubleshooting Session
+                    </a>
+                  </h3>
+                  <span class="related-service-duration">
+                    <i class="fas fa-clock"></i>
+                    60-75 minutes
+                  </span>
+                </div>
+                <p class="related-service-description">Targeted support for specific breastfeeding challenges. Ideal for pain, latch issues, supply concerns, or any urgent breastfeeding difficulty.</p>
+                <div class="related-service-actions">
+                  <a href="/services/troubleshooting-session" class="btn btn-outline btn-sm">
+                    Learn More
+                  </a>
+                </div>
+              </div>
+            
+          
+          
+        </div>
+        
+        <div class="services-cta" data-animate="fadeIn">
+          <a href="/services" class="btn btn-secondary btn-lg">
+            View All Services
+          </a>
+        </div>
+        
+      </div>
+    </section>
+    
+
+  </main>
+
+  <!-- views/partials/footer.ejs -->
+<footer class="main-footer">
+  <div class="footer-content">
+    <div class="container">
+      <!-- Footer Main Content -->
+      <div class="footer-main">
+        
+        <!-- Brand Section -->
+        <div class="footer-brand">
+          <div class="footer-logo">
+            <span class="brand-text">Honey & Milk</span>
+            <span class="brand-subtitle">Lactation</span>
+          </div>
+          <p class="footer-tagline">
+            Compassionate lactation support in Lancaster, SC with 15 years of experience
+          </p>
+          <div class="footer-credentials">
+            <span class="credential-badge">
+              <i class="fas fa-certificate"></i>
+              IBCLC
+            </span>
+            <span class="experience-badge">
+              <i class="fas fa-star"></i>
+              15 Years Experience
+            </span>
+          </div>
+        </div>
+
+        <!-- Quick Links -->
+        <div class="footer-section">
+          <h4 class="footer-heading">Quick Links</h4>
+          <nav class="footer-nav">
+            <ul class="footer-links">
+              <li><a href="/" class="footer-link">Home</a></li>
+              <li><a href="/about" class="footer-link">About</a></li>
+              <li><a href="/services" class="footer-link">Services</a></li>
+              <li><a href="/contact" class="footer-link">Contact</a></li>
+              <li><a href="/faq" class="footer-link">FAQ</a></li>
+              <li><a href="/terms" class="footer-link">Terms &amp; Conditions</a></li>
+              <li><a href="/privacy" class="footer-link">Privacy Policy</a></li>
+            </ul>
+          </nav>
+        </div>
+
+        <!-- Contact Info -->
+        <div class="footer-section">
+          <h4 class="footer-heading">Contact</h4>
+          <div class="footer-contact">
+            <div class="contact-item">
+              <i class="fas fa-phone contact-icon"></i>
+              <div class="contact-details">
+                <span class="contact-label">Phone</span>
+                <a href="tel:(864) 513-3219" class="contact-value">
+                  (864) 513-3219
+                </a>
+              </div>
+            </div>
+            
+            <div class="contact-item">
+              <i class="fab fa-whatsapp contact-icon"></i>
+              <div class="contact-details">
+                <span class="contact-label">WhatsApp</span>
+                <a href="https://wa.me/18032878590" class="contact-value" target="_blank" rel="noopener noreferrer">
+                  Book via WhatsApp
+                </a>
+              </div>
+            </div>
+            
+            <div class="contact-item">
+              <i class="fas fa-envelope contact-icon"></i>
+              <div class="contact-details">
+                <span class="contact-label">Email</span>
+                <a href="mailto:shalondahoneyandmilk@gmail.com" class="contact-value">
+                  shalondahoneyandmilk@gmail.com
+                </a>
+              </div>
+            </div>
+            
+            <div class="contact-item">
+              <i class="fas fa-clock contact-icon"></i>
+              <div class="contact-details">
+                <span class="contact-label">Hours</span>
+                <span class="contact-value">Reach out for availability</span>
+              </div>
+            </div>
+            
+            <div class="contact-item">
+              <i class="fas fa-map-marker-alt contact-icon"></i>
+              <div class="contact-details">
+                <span class="contact-label">Service Area</span>
+                <span class="contact-value">Lancaster, SC and surrounding areas</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Services Quick Links -->
+        <div class="footer-section">
+          <h4 class="footer-heading">Services</h4>
+          <nav class="footer-nav">
+            <ul class="footer-links">
+              <li>
+                <a href="/services/prenatal-consultation" class="footer-link">
+                  Prenatal Consultation
+                </a>
+              </li>
+              <li>
+                <a href="/services/postpartum-consultation" class="footer-link">
+                  Postpartum Support
+                </a>
+              </li>
+              <li>
+                <a href="/services/return-to-work-support" class="footer-link">
+                  Return to Work
+                </a>
+              </li>
+              <li>
+                <a href="/services/troubleshooting-session" class="footer-link">
+                  Troubleshooting
+                </a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+
+        <!-- Professional Networks Section -->
+        <div class="footer-section">
+          <h4 class="footer-heading">
+            Professional Networks
+          </h4>
+          <nav class="footer-nav">
+            <ul class="footer-links">
+              <li>
+                <a href="https://mytln.care/register?practiceId=001RP00000Bg8FlYAJ" 
+                   class="footer-link tln-link" 
+                   target="_blank" 
+                   rel="noopener noreferrer">
+                  <i class="fas fa-network-wired"></i>
+                  The Lactation Network
+                </a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+
+      </div>
+
+      <!-- WhatsApp CTA Section -->
+      <div class="footer-cta">
+        <div class="cta-content">
+          <div class="cta-text">
+            <h3 class="cta-title">
+              Ready to get started?
+            </h3>
+            <p class="cta-subtitle">
+              Book online or reach out directly — 15 years of proven experience
+            </p>
+          </div>
+          <div class="cta-actions">
+            <a href="/contact" class="btn btn-primary btn-lg cta-btn">
+              <i class="fas fa-calendar-check"></i>
+              Book a Consultation
+            </a>
+            <a href="https://wa.me/18032878590?text=Hi%20Shalonda!%20I&#39;d%20like%20to%20learn%20more%20about%20your%20lactation%20services%20with%20your%2015%20years%20of%20experience."
+               class="btn btn-outline btn-lg cta-btn"
+               target="_blank"
+               rel="noopener noreferrer">
+              <i class="fab fa-whatsapp"></i>
+              WhatsApp Us
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Footer Bottom -->
+      <div class="footer-bottom">
+        <div class="footer-bottom-content">
+          
+          <!-- Copyright -->
+          <div class="footer-copyright">
+            <p>&copy; 2026 Honey &amp; Milk Lactation. All rights reserved.</p>
+          </div>
+
+          <!-- Language Toggle -->
+          <div class="footer-language">
+            <button class="footer-lang-btn" onclick="toggleLanguage('es')">
+              <i class="fas fa-globe"></i>
+              Español
+            </button>
+          </div>
+
+          <!-- Attribution -->
+          <div class="footer-attribution">
+            <p>
+              <a href="https://www.codedevhub.com" target="_blank" rel="noopener noreferrer" class="attribution-link">
+                Website by CodeDevHub
+              </a>
+            </p>
+          </div>
+
+        </div>
+
+        <!-- Professional Disclaimers -->
+        <div class="footer-disclaimers">
+          <p class="disclaimer-text">
+            
+              Professional lactation consulting services with 15 years of experience. Individual results may vary. Always consult your healthcare provider for medical advice.
+            
+          </p>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Back to Top Button -->
+<button class="back-to-top" id="backToTop" aria-label="Back to Top">
+  <i class="fas fa-chevron-up"></i>
+</button>
+
+<!-- Honey Chat Widget -->
+<div id="honeyWidget" class="honey-widget">
+
+  <!-- Toggle Bubble -->
+  <button class="honey-toggle" id="honeyToggle" aria-label="Chat with Honey">
+    <i class="fas fa-comment-dots honey-icon-open"></i>
+    <i class="fas fa-times honey-icon-close"></i>
+  </button>
+
+  <!-- Chat Panel -->
+  <div class="honey-panel" id="honeyPanel" aria-hidden="true" role="dialog" aria-label="Honey Chat">
+
+    <!-- Header -->
+    <div class="honey-header">
+      <div class="honey-agent">
+        <div class="honey-avatar">🍯</div>
+        <div class="honey-agent-info">
+          <span class="honey-name">Honey</span>
+          <span class="honey-subtitle">
+            <span class="honey-status-dot"></span>Honey & Milk Lactation
+          </span>
+        </div>
+      </div>
+      <button class="honey-close-btn" id="honeyCloseBtn" aria-label="Close chat">
+        <i class="fas fa-times"></i>
+      </button>
+    </div>
+
+    <!-- Consent Overlay -->
+    <div class="honey-consent" id="honeyConsent">
+      <div class="honey-consent-inner">
+        <div class="honey-consent-icon">🍯</div>
+        <h3 id="honeyConsentTitle">Chat with Honey</h3>
+        <p id="honeyConsentDesc">I'm here to answer your questions about lactation services, pricing, insurance, and how to get started with Shalonda.</p>
+        <label class="honey-consent-label">
+          <input type="checkbox" id="honeyConsentCheck">
+          <span id="honeyConsentLabelText">I agree to the <a href="/terms" target="_blank" rel="noopener">Terms &amp; Conditions</a> and <a href="/privacy" target="_blank" rel="noopener">Privacy Policy</a>, and consent to be contacted by phone, text, and email regarding my inquiry.</span>
+        </label>
+        <button class="honey-start-btn" id="honeyStartBtn" disabled>Start Chatting</button>
+      </div>
+    </div>
+
+    <!-- Messages -->
+    <div class="honey-messages" id="honeyMessages" role="log" aria-live="polite" aria-label="Chat messages"></div>
+
+    <!-- Input Area -->
+    <div class="honey-input-area">
+      <div class="honey-input-row">
+        <textarea
+          class="honey-input"
+          id="honeyInput"
+          rows="1"
+          maxlength="800"
+          aria-label="Type your message"
+          placeholder="Ask about services, pricing, insurance..."
+        ></textarea>
+        <button class="honey-send" id="honeySendBtn" aria-label="Send message">
+          <i class="fas fa-paper-plane"></i>
+        </button>
+      </div>
+      <p class="honey-disclaimer" id="honeyDisclaimer">
+        Honey is an AI assistant. Not medical advice.
+      </p>
+      <p class="honey-widget-footer">
+        Powered by <a href="https://www.codedevhub.com" target="_blank" rel="noopener">CodeDevHub</a>
+      </p>
+    </div>
+
+  </div>
+</div>
+
+<link rel="stylesheet" href="/css/chat-widget.css">
+<script src="/js/chat-widget.js"></script>
+
+  
+  <!-- JavaScript -->
+  <script src="/js/nav.js"></script>
+  <script src="/js/main.js"></script>
+  <script src="/js/service-detail.js"></script>
+
+</body>
+</html>

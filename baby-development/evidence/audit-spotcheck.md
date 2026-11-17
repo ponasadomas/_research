@@ -2,52 +2,82 @@
 
 Orchestrator reads each against its unit: does the context match, is the speaker right?
 
-## dv21-0114 · new_mother · toddler_18_24_months · belief
-- raw: `../_shared/_raw/reddit-2026/units/toddlers-1v3hna0.txt`
-- context: Mother is focused on meeting her child’s needs and is not panicking about a possible diagnosis.
-> (And just to note, autism concerns or possible autism diagnosis is not a thing I am panicking about. I am more focused on meeting her where she is with anything and will adjust accordingly should she have a diagnosis. I’m adhd and medicated so I am confident that if that was the determination, we will navigate her needs together and figure out what’s best for her developmentally.)
+## dv03-0266 · experienced_mother · toddler_12_18_months · belief
+- raw: `../_shared/_raw/reddit-2026/units/Mommit-1v31vvn.txt`
+- context: Mother of a 4-year-old and a 13-month-old.
+> With my first I was PINTEREST mom. We had themed weeks, sensory activities, content-worthy excursions, explosive intelligence and adventures around the city. And I worked full time.
 - verdict: 
 
-## dv06-0140 · new_mother · baby_9_12_months · pain
-- raw: `../_shared/_raw/reddit-2026/units/NewParents-1u3u2ce.txt`
-- context: Mother of a 9-month-old, pregnant again, living far from family.
-> For the past month and a half I’ve been doing a lot of screen time with her as I am just out of options on how to entertain her.
+## dv03-0174 · new_mother · baby_4_6_months · belief
+- raw: `../_shared/_raw/reddit-2026/units/NewParents-1uqlgvz.txt`
+- context: Breastfeeding mother of a 5-month-old who cries unless carried or out.
+> It's just driving us nuts he either grunts until he screams or cries, we assume it must be because he's bored and wants to sit up and crawl but can't.
 - verdict: 
 
-## dv04-0043 · experienced_mother · toddler_12_18_months · pain
-- raw: `../_shared/_raw/reddit-2026/units/toddlers-1vbsmgv.txt`
-- context: Pregnant mother of a high-needs 16-month-old.
-> She also doesn’t play independently for too long. I can’t cook, clean, or even go to the bathroom without hearing crying or whining. Every day feels like I’m putting out little fires from the moment she wakes up until bedtime.
+## dv06-0186 · partner · toddler_12_18_months · others_said
+- raw: `../_shared/_raw/reddit-2026/units/beyondthebump-1uchnwx.txt`
+- context: Same father, reply.
+> I get mad judgment from other parents for not wanting another one ASAP so they’re close in age. Meanwhile those parents have babies that sleep through the night and take 2+ naps a day.
 - verdict: 
 
-## dv03-0200 · new_mother · toddler_12_18_months · question
-- raw: `../_shared/_raw/reddit-2026/units/Mommit-1urw1pr.txt`
+## dv02-0246 · parent_unspecified · baby_9_12_months · belief
+- raw: `../_shared/_raw/reddit-2026/units/beyondthebump-1wzi3lu.txt`
+- context: Remote-working parent of an 11-month-old and an older child
+> On rare occasions when I am desperate for a moment of silence I will hide from her in the next room and I feel horrible for it. It does actually help her calm down, as she is not able to beg for my attention and must entertain herself, which is also why I think this is a boredom issue.
+- verdict: 
+
+## dv02-0187 · parent_unspecified · baby_6_9_months · tried_failed
+- raw: `../_shared/_raw/reddit-2026/units/NewParents-1wu625l.txt`
+- context: Parent of a whining 8-month-old who just learned to sit and pull up.
+> I’ve resorted to Ms Rachel just so i can sit down for a second.
+- verdict: 
+
+## dv05-0272 · new_mother · newborn_0_8_weeks · others_said
+- raw: `../_shared/_raw/reddit-2026/units/beyondthebump-1t9qss0.txt`
+- context: Breastfeeding mother of a strong 5-week-old after taking him to church.
+> multiple moms were shocked at his head control… i thought it was normal because this is my first baby lol
+- verdict: 
+
+## dv06-0061 · parent_unspecified · toddler_12_18_months · others_said
+- raw: `../_shared/_raw/reddit-2026/units/toddlers-1tsfoi0.txt`
+- context: Parent of a 16-month-old who loves parks but walks only with a hand.
+> I get a lot of stares from people with his size and the fact he isn't walking independently yet. Inevitably, someone asks how old he is and seems very concerned or judgemental with his age.
+- verdict: 
+
+## dv05-0057 · partner · looking_back · failure_story
+- raw: `../_shared/_raw/reddit-2026/units/toddlers-1sqow6i.txt`
+- context: Same father, while his wife was pregnant with their second.
+> One episode turned into another, and suddenly one hour of screen time at a time became two or three - winters cold weather was a major factor as well.
+- verdict: 
+
+## dv04-0030 · new_mother · toddler_12_18_months · trigger_moment
+- raw: `../_shared/_raw/reddit-2026/units/toddlers-1v96dfl.txt`
+- context: Mother of a 17-month-old after library story time for 0-2s.
+> she was the only kid who wasn't engaging in some way with the tasks provided and instead was just walking around the room, walking up to the story teller, picking up things she shouldn't, and any time I tried to redirect her she would have a mini meltdown. I felt judged by the other moms
+- verdict: 
+
+## dv01-0151 · new_mother · baby_4_6_months · tried_failed
+- raw: `../_shared/_raw/reddit-2026/units/Mommit-1w5hhie.txt`
+- context: Same mother on what she has tried during tummy time.
+> i've tried books, singing, dancing, toys, even using my cats as visual stimulation but eventually he will cry and give up, sometimes in a few minutes.
+- verdict: 
+
+## dvr1-0049 · reviewer · unknown · tried_failed
+- raw: `_raw/reviews/wonderweeks-ca-corpus.txt`
+- context: 1-star review.
+> It was completely backwards from what we experienced with our baby.
+- verdict: 
+
+## dv03-0235 · new_mother · baby_4_6_months · question
+- raw: `../_shared/_raw/reddit-2026/units/NewParents-1uvnie7.txt`
 - context: Same mother.
-> I also question if I need to fix this and cut off all screen time. I know what the WHO and AAP say... just wanted to know what real moms have to say.
+> Did anyone else have a baby who hated TT and had a baby who crawled at an appropriate time?
 - verdict: 
 
-## dv25-0227 · parent_unspecified · unknown · question
-- raw: `../_shared/_raw/reddit-2026/toddlers.posts.jsonl`
-- context: Parent asks what to pack for outings with seventeen-month-to-two-year-olds after a difficult dinner; own child's exact age is unstated.
-> Parents of 17m-2yr olds what is in your diaper bag that you can’t leave the house without? What really make a difference when you’re out and makes life easier? I’ve gotten away with just using our stroller bag so far but a dinner out this week made me realize we need some new stuff and need to start bringing the actual diaper bag. Also if you pack snacks when you leave feel free to tell me your fa
-- verdict: 
-
-## dvr1-0141 · reviewer · unknown · objection
-- raw: `_raw/reviews/sprouty-ca-corpus.txt`
-- context: Whole body of a 1-star review.
-> Took all my info just for them to say hey you gotta pay … waste of my time
-- verdict: 
-
-## dv24-0045 · parent_unspecified · toddler_12_18_months · fear
-- raw: `../_shared/_raw/reddit-2026/toddlers.posts.jsonl`
-- context: Parent of a fourteen-month-old worries about unusually sustained independent play with rolling objects.
-> I assume this is totally normal but sometimes I'm like... "anyone in there?" He has always been pretty good at independent play, but holy smokes sometimes he can go like 30+m of just rolling this car back and forth on various surfaces. I am really grateful I have a kid that can be so independent and chill but none of the other kids we're around are like this lol
-- verdict: 
-
-## dv21-0194 · new_mother · toddler_12_18_months · tried_failed
-- raw: `../_shared/_raw/reddit-2026/units/beyondthebump-1vjb8zp.txt`
-- context: Screens did not provide expected respite even during parental illness.
-> To be honest, he doesn't show much interest in screens. Might watch Ms Rachel for 5 minutes, but then he moves onto the next thing. I heard about other parents using screen time for survival purposes when sick, but it never worked for our guy.
+## dv03-0142 · new_mother · baby_4_6_months · question
+- raw: `../_shared/_raw/reddit-2026/units/beyondthebumpUK-1uo7h84.txt`
+- context: Same mother; baby stays awake up to four hours.
+> Anyone else have a wide awake baby that needs constant stimulation and have ideas of what to do in the house? Recommended toys, books, games etc?
 - verdict: 
 
 ## dv02-0081 · experienced_mother · baby_4_6_months · fear
@@ -56,71 +86,39 @@ Orchestrator reads each against its unit: does the context match, is the speaker
 > But mannn all he is getting is held.
 - verdict: 
 
-## dv21-0052 · parent_unspecified · looking_back · pain
-- raw: `../_shared/_raw/reddit-2026/units/toddlers-1x5ctzl.txt`
-- context: Repeated reassurance changed parent’s understanding of developmental delay.
-> I’m honestly super shocked my sons this delayed- I assumed he was delayed, but when I’ve gotten told multiple times, he’s fine or not that bad. I honestly thought maybe he was just taking a while to catch up.
+## dv06-0157 · partner · newborn_0_8_weeks · desire
+- raw: `../_shared/_raw/reddit-2026/units/NewParents-1u9xsgz.txt`
+- context: Same parent on an audio player as a screen alternative.
+> Ohhhh I’m so excited for the toniebox when she’s old enough, I would have LOVED something like that as a kid.
 - verdict: 
 
-## dv06-0077 · new_mother · baby_6_9_months · pain
-- raw: `../_shared/_raw/reddit-2026/units/NewParents-1tu9qrp.txt`
-- context: Stay-at-home mother whose husband will soon be out every evening.
-> I’m a a SAHM and am already feeling like I’m running out of ideas to keep my 6 month old entertained/working on skills.
+## dv05-0299 · parent_unspecified · toddler_12_18_months · question
+- raw: `../_shared/_raw/reddit-2026/units/Mommit-1teadvs.txt`
+- context: Same parent.
+> Now I'm in my head picturing her sitting outside alone for 30-60min bored or lonely while other kids play around her. Is this a sign daycare isnt a good fit for her? Is this amount of independent play hurting her?
 - verdict: 
 
-## dv02-0376 · parent_unspecified · baby_6_9_months · belief
-- raw: `../_shared/_raw/reddit-2026/units/NewParents-1xcu3a1.txt`
-- context: Reply to a commenter suggesting outings.
-> I agree it must be extremely boring for her to keep rotating among 3 spots in the house.
+## dv02-0062 · new_mother · baby_9_12_months · others_said
+- raw: `../_shared/_raw/reddit-2026/units/beyondthebump-1wjlkb5.txt`
+- context: What a support worker said; the mother found the answer evasive.
+> She said she's not concerned but we need to keep an eye on this and monitor.
 - verdict: 
 
-## dvr1-0019 · reviewer · unknown · desire
-- raw: `_raw/reviews/kinedu-au-corpus.txt`
-- context: 5-star review with suggestions.
-> They could go a little more into details with the activities and not to repeat them so much. They should also send you weekly articles about your child development and what to expect.
+## dv01-0109 · parent_unspecified · baby_9_12_months · pain
+- raw: `../_shared/_raw/reddit-2026/units/NewParents-1w0xv2c.txt`
+- context: Parent of a nearly one-year-old who has become constantly grouchy and whiny.
+> Im just at a loss. He’s such a happy smiley boy and I feel like nothing we do makes him happy anymore which really sucks.
 - verdict: 
 
-## dv02-0339 · new_mother · toddler_12_18_months · question
-- raw: `../_shared/_raw/reddit-2026/units/toddlers-1x7s37c.txt`
-- context: First-time mother home alone without a car; same post in two subs
-> What do you do with your toddlers at home without feeling like you have to constantly entertain them?
+## dv03-0092 · new_mother · baby_2_4_months · fear
+- raw: `../_shared/_raw/reddit-2026/units/beyondthebumpUK-1ughtdg.txt`
+- context: Same mother comparing with her own childhood.
+> I just remember my parents leaving me in front of the tv for hours or unsupervised outside all the time. I can’t imagine feeling like I can do that. I feel like I will have to always be next to her, doing creative games or going to clubs.
 - verdict: 
 
-## dv01-0214 · new_mother · baby_2_4_months · desire
-- raw: `../_shared/_raw/reddit-2026/units/NewParents-1we0tnl.txt`
-- context: Same mother.
-> I think the biggest thing is that I’m spending so much time worrying about whether I’m doing motherhood “right” that I’m not always present and enjoying it.
-- verdict: 
-
-## dv05-0275 · parent_unspecified · unknown · question
-- raw: `../_shared/_raw/reddit-2026/units/NewParents-1tatc3g.txt`
-- context: Parent with marble floors whose baby is starting to walk.
-> I see these rucksacks on amazon with head protection - but are they worth it? What do other parents do?
-- verdict: 
-
-## dv21-0184 · parent_unspecified · toddler_18_24_months · tried_failed
-- raw: `../_shared/_raw/reddit-2026/units/toddlers-1v3z3vy.txt`
-- context: Parent traces failed flashcards to early intervention advice and wants an approach the child can use.
-> Thank you for the encouragement, the flashcards was just something early intervention recommended so I figured it was worth a shot, but unfortunately it just doesn't work with us!
-
-We really do try narrate things, and emphasize words he just never focuses on your face when you talk to him and he gets frustrated when you won't give him what he wants. I just wish I could find what would help him lea
-- verdict: 
-
-## dv06-0182 · parent_unspecified · baby_4_6_months · belief
-- raw: `../_shared/_raw/reddit-2026/units/NewParents-1uby48h.txt`
-- context: Same parent replying to a commenter.
-> We don't do screen either at all! This would be the first time and I'm not convinced it would help but damn it's tempting
-- verdict: 
-
-## dv25-0017 · new_mother · toddler_12_18_months · pain
-- raw: `../_shared/_raw/reddit-2026/NewParents.posts.jsonl`
-- context: Mother struggles to take personal time because she feels she should be supporting development.
-> But every time I try to step away, the guilt eats me alive. I feel like that time should be spent with my son, not on myself.
-- verdict: 
-
-## dv02-0097 · parent_unspecified · baby_9_12_months · fear
-- raw: `../_shared/_raw/reddit-2026/units/Parenting-1wm3mlq.txt`
-- context: Mother of a nearly one-year-old with no words yet
-> Do I need to be doing more? Just give it time? Am I overwhelming him or something?
+## dv04-0025 · partner · toddler_18_24_months · others_said
+- raw: `../_shared/_raw/reddit-2026/units/daddit-1v7r1wi.txt`
+- context: Same father on the couple's disagreement.
+> My wife feels 18 months is too young and that we should continue managing without screens like we always have.
 - verdict: 
 

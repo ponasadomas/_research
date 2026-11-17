@@ -1,0 +1,76 @@
+{
+  "scope": "Exactly3 requested broader family planners; no further source expansion. Previous16-candidate food/safety outputs remain frozen.",
+  "observed_local_date": "2026-10-25 Europe/Vilnius",
+  "utc": "2026-10-24T21:59:18.239502+00:00",
+  "candidates": [
+    {
+      "name": "eMeals",
+      "scope": "broader family workflow, not infant-personalized report",
+      "domain": "https://emeals.com/",
+      "facebook_url": "https://www.facebook.com/emealz",
+      "facebook_evidence": "current official homepage footer uses http://www.facebook.com/emealz",
+      "numeric_page_id": null,
+      "current_paid_status": "published subscription offer",
+      "price": "Dinner $59.99/year or $37.50/3 months. All-day $99.98/year or $56.48/3 months; national currency code not visibly stated.",
+      "trial": "14 days",
+      "monetization": "Recurring recipe/meal-plan access, automated groceries, optional breakfast/lunch add-ons; grocery cost separate.",
+      "sources": [
+        "https://emeals.com/",
+        "https://support.emeals.com/portal/en/kb/articles/emeals-cost"
+      ],
+      "raw_files": [
+        "_raw/advertiser-map04-food-planners/pages/emeals-home.html",
+        "_raw/advertiser-map04-food-planners/pages/emeals-cost.html",
+        "_raw/advertiser-map04-food-planners/emeals-cost-web-open.json"
+      ],
+      "limits": "Cost HTML from plain HTTP is a JS shell; complete official web-tool extract supplies support prices. Current homepage confirms quarterly37.50 and annual4.99 monthly equivalent. Older search-indexed try site35.99 not selected.",
+      "ad_activity": "not verified by this reader; root owns fresh Chrome Ad Library proof",
+      "sales_ad_spend_or_profit": "not observed"
+    },
+    {
+      "name": "Mealime",
+      "scope": "broader workflow closure/free grocery-ecosystem comparison, not live paid infant report",
+      "domain": "https://www.mealime.com/",
+      "facebook_url": "https://www.facebook.com/Mealime/",
+      "facebook_evidence": "current official homepage footer",
+      "numeric_page_id": null,
+      "current_paid_status": "officially announced discontinued as of 2026-10-21; current paid Pro availability not established",
+      "price": "Announcement ends further Pro subscription charges; Meals Hub described as100% free.",
+      "monetization": "Legacy standalone planning subscriptions winding down; seller directs users to Meals Hub in Albertsons Companies store apps/web. Grocery shopping connection observed, actual revenue/commission not established.",
+      "sources": [
+        "https://www.mealime.com/",
+        "https://www.mealime.com/closing"
+      ],
+      "raw_files": [
+        "_raw/advertiser-map04-food-planners/pages/mealime-home.html",
+        "_raw/advertiser-map04-food-planners/pages/mealime-closing.html"
+      ],
+      "limits": "Read complete public closure announcement. No login or operational app test, no stale Pro price carried forward; no independent corporate/closure backend verification.",
+      "ad_activity": "not verified by this reader; root owns fresh Chrome Ad Library proof",
+      "sales_ad_spend_or_profit": "not observed"
+    },
+    {
+      "name": "Plan to Eat",
+      "scope": "broader family recipe/planning workflow, not infant-personalized report",
+      "domain": "https://www.plantoeat.com/",
+      "facebook_url": "https://www.facebook.com/plantoeat",
+      "facebook_evidence": "current official homepage/pricing social footer",
+      "numeric_page_id": null,
+      "current_paid_status": "published subscription offer",
+      "price": "$5.95/month or $49/year; national currency code not visibly stated.",
+      "trial": "14 days, no card",
+      "monetization": "Recurring organizer/planning calendar/grocery list access; household sharing, all features/devices. Customer-funded/no in-app ads seller statement is not a statement about buying Meta ads.",
+      "sources": [
+        "https://www.plantoeat.com/",
+        "https://www.plantoeat.com/pricing/"
+      ],
+      "raw_files": [
+        "_raw/advertiser-map04-food-planners/pages/plantoeat-home.html",
+        "_raw/advertiser-map04-food-planners/pages/plantoeat-pricing.html"
+      ],
+      "limits": "Yearly billing not auto-renewed by default unless opted in; monthly billed monthly. Published60-day guarantee not a tested refund. No account, output, checkout or actual buyer inspected.",
+      "ad_activity": "not verified by this reader; root owns fresh Chrome Ad Library proof",
+      "sales_ad_spend_or_profit": "not observed"
+    }
+  ]
+}

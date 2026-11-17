@@ -1,0 +1,44 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "The Starter Set",
+  "captured_at": "2026-10-24T21:51:38.160Z",
+  "suggestions": "ge/\"\n  uid=15_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=15_1 generic\n      uid=15_2 button \"Search for exact phrase The Starter Set\"\n    uid=15_3 generic description=\"The Starter Set 2 follow this · Shopping Service @thestarterset· 154 followers\"\n    uid=15_4 generic description=\"Dream Skin Starter Set @dreamskinmain· 65.6K follow this · Skin Care Service\"\n    uid=15_5 generic description=\"Baby Starter Sets @BabyStarterSets· 1.3K follow this · Baby goods/kids goods\"\n    uid=15_6 generic description=\"Homeschool Starter Set @HomeschoolSet· 646 follow this · Education @homeschoolstarterset· 52 followers\"\n    uid=15_7 generic description=\"Starter Set @StarterSet· 81 follow this · Podcast @startersetpodcast· 304 followers\"\n    uid=15_8 generic description=\"Starter Set Tailoring PH @StarterSetTailoringPH· 26 follow this · Wholesale & Supply Store\"\n    uid=15_9 generic description=\"SetupStarters @Setupstarters· 6.7K follow this · Web Designer\"\n    uid=15_10 generic description=\"Setx Starter Profile\"\n    uid=15_11 generic description=\"riot_setter_fire_starter @riot_setter_fire_starter· 424 followers\"\n",
+  "candidates": [
+    {
+      "uid": "15_3",
+      "description": "The Starter Set 2 follow this · Shopping Service @thestarterset· 154 followers"
+    },
+    {
+      "uid": "15_4",
+      "description": "Dream Skin Starter Set @dreamskinmain· 65.6K follow this · Skin Care Service"
+    },
+    {
+      "uid": "15_5",
+      "description": "Baby Starter Sets @BabyStarterSets· 1.3K follow this · Baby goods/kids goods"
+    },
+    {
+      "uid": "15_6",
+      "description": "Homeschool Starter Set @HomeschoolSet· 646 follow this · Education @homeschoolstarterset· 52 followers"
+    },
+    {
+      "uid": "15_7",
+      "description": "Starter Set @StarterSet· 81 follow this · Podcast @startersetpodcast· 304 followers"
+    },
+    {
+      "uid": "15_8",
+      "description": "Starter Set Tailoring PH @StarterSetTailoringPH· 26 follow this · Wholesale & Supply Store"
+    },
+    {
+      "uid": "15_9",
+      "description": "SetupStarters @Setupstarters· 6.7K follow this · Web Designer"
+    },
+    {
+      "uid": "15_10",
+      "description": "Setx Starter Profile"
+    },
+    {
+      "uid": "15_11",
+      "description": "riot_setter_fire_starter @riot_setter_fire_starter· 424 followers"
+    }
+  ]
+}

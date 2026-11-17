@@ -1,0 +1,19 @@
+{
+  "status": 200,
+  "url": "https://byhads.com/registry.html",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Age": "0",
+    "Cache-Control": "public,max-age=0,must-revalidate",
+    "Cache-Status": "\"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
+    "Content-Encoding": "gzip",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Date": "Sat, 24 Oct 2026 20:07:06 GMT",
+    "Etag": "\"e49cbe67a30ca4b962748c007c6867a1-ssl-df\"",
+    "Server": "Netlify",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Accept-Encoding",
+    "X-Nf-Request-Id": "01M5QRCAJ3NM9VCBESH9XTW8WB",
+    "Transfer-Encoding": "chunked"
+  }
+}

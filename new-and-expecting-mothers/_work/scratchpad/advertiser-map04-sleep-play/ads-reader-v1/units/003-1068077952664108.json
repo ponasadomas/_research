@@ -1,0 +1,38 @@
+{
+  "ad_id": "1068077952664108",
+  "advertiser": "BabySparks",
+  "page_id": "168950569926881",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/003-babysparks-page.json",
+  "capture_sha256": "6370ffeb4ed7c3c0d5b1c31f8e092042c1c95c1a1831de63a71b8c602abab7d7",
+  "native_pointer": "connections[0].edges[21].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=168950569926881",
+  "captured_at": "2026-10-24T21:46:18.060Z",
+  "is_active": true,
+  "start_utc": "2026-10-08T07:00:00+00:00",
+  "display_format": "VIDEO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1068077952664108",
+  "snapshot_sha256": "ca35f2d12b92871275763aae0ea6b4fc609ae30c9b3cb78f9eae49ced186b3da",
+  "text_fields": {
+    "body": {
+      "text": "Thousands of expert-created development activities & milestones for children 0-36 months."
+    },
+    "title": "Get Started Today 👶🏻",
+    "caption": "itunes.apple.com",
+    "link_description": null,
+    "link_url": "http://itunes.apple.com/app/id794574199",
+    "cta_text": "Install now",
+    "cta_type": "INSTALL_MOBILE_APP",
+    "byline": "",
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "72bbf06d5a834690c49479427c58c4569f76716b92816d68d987745b61b14648",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 1,
+  "cards_count": 0
+}

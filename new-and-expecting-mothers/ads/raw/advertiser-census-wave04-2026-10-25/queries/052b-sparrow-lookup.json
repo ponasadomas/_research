@@ -1,0 +1,24 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "sparrowinc",
+  "captured_at": "2026-10-24T22:06:54.369Z",
+  "suggestions": "e/\"\n  uid=101_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=101_1 generic description=\"Search for exact phrase sparrowinc \"sparrowinc\" Search this exact phrase\"\n      uid=101_2 button \"Search for exact phrase sparrowinc\"\n    uid=101_3 generic description=\"Sparrow Cosmetics Inc. 513 follow this · Beauty, Cosmetic & Personal Care @sparrowincorporation· 10 followers\"\n    uid=101_4 generic description=\"Sparrow @SparrowIncPk· 1.6K follow this · Clothing (Brand) @sparrowincpk· 136 followers\"\n    uid=101_5 generic description=\"ગ્રામબજાર ગુજરાત 1.1K follow this · Agriculture @sparrowinc2022· 65 followers\"\n    uid=101_6 generic description=\"Sparrow Inc @sparrowinc26· 418 follow this · Business Service @sparrowincorporated· 280 followers\"\n",
+  "candidates": [
+    {
+      "uid": "101_3",
+      "description": "Sparrow Cosmetics Inc. 513 follow this · Beauty, Cosmetic & Personal Care @sparrowincorporation· 10 followers"
+    },
+    {
+      "uid": "101_4",
+      "description": "Sparrow @SparrowIncPk· 1.6K follow this · Clothing (Brand) @sparrowincpk· 136 followers"
+    },
+    {
+      "uid": "101_5",
+      "description": "ગ્રામબજાર ગુજરાત 1.1K follow this · Agriculture @sparrowinc2022· 65 followers"
+    },
+    {
+      "uid": "101_6",
+      "description": "Sparrow Inc @sparrowinc26· 418 follow this · Business Service @sparrowincorporated· 280 followers"
+    }
+  ]
+}

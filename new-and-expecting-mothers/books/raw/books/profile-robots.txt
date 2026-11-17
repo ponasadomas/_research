@@ -1,0 +1,70 @@
+User-agent: *
+Disallow: /wp-content/uploads/wc-logs/
+Disallow: /wp-content/uploads/woocommerce_transient_files/
+Disallow: /wp-content/uploads/woocommerce_uploads/
+Disallow: /*?add-to-cart=
+Disallow: /*?*add-to-cart=
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+
+# --- Bookswarm Crawler Guard ---
+# Allow Snipcart Order Validation
+User-agent: Snipcart
+Allow: /
+
+# Allow AI Search & Retrieval (Required for GEO Engine)
+User-agent: ChatGPT-User
+Allow: /
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+
+# Block Aggressive AI Training Scrapers
+User-agent: CCBot
+Disallow: /
+User-agent: Bytespider
+Disallow: /
+User-agent: PetalBot
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
+User-agent: Anthropic-ai
+Disallow: /
+User-agent: Applebot-Extended
+Disallow: /
+
+# Block Foreign Search Engines
+User-agent: Baiduspider
+Disallow: /
+User-agent: YandexBot
+Disallow: /
+User-agent: Sogou
+Disallow: /
+User-agent: Exabot
+Disallow: /
+
+User-agent: *
+Disallow: /*.pdf$
+Disallow: /?s=
+Disallow: /search/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Allow: /wp-admin/admin-ajax.php
+# --- End Bookswarm Rules ---
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://profilebooks.com/sitemap_index.xml
+Sitemap: https://serpentstail.com/sitemap_index.xml
+Sitemap: https://profileeditions.com/sitemap_index.xml
+Sitemap: https://viperbooks.co.uk/sitemap_index.xml
+Sitemap: https://profilebooks.com/solaris/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

@@ -1,0 +1,69 @@
+{
+  "repeated_saved_account_groups": [
+    {
+      "native_author_sha256": "8d6a0fc9908e9556bf537aed0cd8030b152679f24afa947e332cc6599c4db9b7",
+      "own_full_read_post_ids": [
+        "1mu4fn5",
+        "1my420l"
+      ],
+      "related_window_post_ids_metadata_only": [
+        "1n8qb50",
+        "1ozl7ei"
+      ],
+      "quote_ids": [
+        "rpa03-0008"
+      ],
+      "meaning": "one saved account label, not authenticated people or independent purchasers; outside own scope related bodies not read here"
+    },
+    {
+      "native_author_sha256": "4dd372acda1b09ac1e39e245ad60a58df8f492eb95821462068a790e6a101fa8",
+      "own_full_read_post_ids": [
+        "1n6hnju",
+        "1mclz85"
+      ],
+      "related_window_post_ids_metadata_only": [
+        "1m56k8e",
+        "1m7zb3j",
+        "1mervto",
+        "1mhdgtv",
+        "1mju2i6",
+        "1mkpmdb",
+        "1ms1h0q",
+        "1mx0fdo",
+        "1myqji2",
+        "1myu0gr",
+        "1n0hj4m",
+        "1n17i6y",
+        "1n2ffio",
+        "1nqieir",
+        "1nui6qz",
+        "1nw57kd",
+        "1nxvf56",
+        "1nzjrt7",
+        "1o6hwco",
+        "1oqt3cq"
+      ],
+      "quote_ids": [],
+      "meaning": "one saved account label, not authenticated people or independent purchasers; outside own scope related bodies not read here"
+    }
+  ],
+  "same_body_groups_touching_own_full_reads": [],
+  "existing_quote_records_checked": 2113,
+  "existing_quote_direct_work_hits": [],
+  "old_nine_community_native_records_machine_checked": 112665,
+  "old_read_or_quoted_body_work_hits": [
+    {
+      "own_post_id": "1or3vij",
+      "old_post_id": "1ow7gp3",
+      "old_quoted": true,
+      "old_read": true,
+      "same_saved_author": true,
+      "existing_quote_ids": [
+        "aud01-0051",
+        "aud01-0052"
+      ]
+    }
+  ],
+  "outside_own_human_full_read_count": 0,
+  "cross_reader_sequence_note": "1mclz85 Jul29 and1n6hnju Sep2 share saved account with reader04 own1n2ffio Aug28; latter metadata only inspected here; no independent buyer or separate corroboration claim."
+}

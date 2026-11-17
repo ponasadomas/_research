@@ -1,0 +1,28 @@
+{
+  "requested_url": "https://busytoddler.com/robots.txt",
+  "final_url": "https://busytoddler.com/robots.txt",
+  "status": 200,
+  "date_utc": "2026-10-24T21:46:40.161498+00:00",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:46:40 GMT",
+    "Content-Type": "text/plain; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Access-Control-Allow-Origin": "*",
+    "Cache-Control": "public, s-maxage=31536000, max-age=60, must-revalidate",
+    "Strict-Transport-Security": "max-age=15552000; preload",
+    "X-Content-Type-Options": "nosniff",
+    "Vary": "accept-encoding",
+    "set-cookie": "__cf_bm=4YEqtVZihfMKoT5g8nl9c4atsySebTfgGYK72LtLook-1792878400.0969524-1.0.1.1-_TBCkjh35DRlpufn9lItjv9Ph3x7uslEb8Ell__ek4C7MrrsL7QqHBZ42U6EtlW3XyjV3_27SyXMM0a.u5RxTn0133eBCyilRcKgs0dxx13EFi6JJXIu0to3afGFRiPM; HttpOnly; SameSite=None; Secure; Path=/; Domain=busytoddler.com; Expires=Sat, 24 Oct 2026 22:16:40 GMT",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2BKSKrErEfRnlxBgmoy5pZH5BLEfURbcX%2BVXK%2FXV0Kg0UZbvg2aRghsaXYX8w%2FuMcZPBonbiRsYPJYAS7AAZBpdmI8OG4Z%2FWvThjNNhtihAV7uqXQkYSPRwVkdWYFB0T88g%3D%3D\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}",
+    "Content-Encoding": "zstd",
+    "Server": "cloudflare",
+    "CF-RAY": "a4fc2cf09d3fa86c-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "redirects": [],
+  "raw_file": "_raw/advertiser-map04-sleep-play/robots-busytoddler.com.body",
+  "sha256": "fec550d7c3ad05b6a4c5f04152f0d6a0b15636472fe8b75c1331593ebf1e2f6c",
+  "bytes": 519
+}

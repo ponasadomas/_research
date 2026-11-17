@@ -1,0 +1,40 @@
+{
+  "scope": "Exactly8 Happy Eaters Club and1 My Little Eater native records in category keyword discovery; no full Page census claim.",
+  "source_raw": "_raw/advertiser-census-wave04-2026-10-25/queries/067-baby-meal-plan-discovery.json",
+  "source_sha256": "a6ae5976a0d5da2ad3fb44182bdf69134110c1425cbc6693b06afa023102b521",
+  "native_discovery_reported_count": 27,
+  "ad_ids": [
+    "1522598089533260",
+    "992120580271103",
+    "1796325828183245",
+    "1011096347954079",
+    "1286311553629602",
+    "1000729579415744",
+    "1361448449156218",
+    "1665477835142745",
+    "2023923941644993"
+  ],
+  "views": [
+    {
+      "file": "scratchpad/advertiser04-meal-guides/ads-01.txt",
+      "ad_ids": [
+        "1522598089533260",
+        "992120580271103",
+        "1796325828183245",
+        "1011096347954079",
+        "1286311553629602",
+        "1000729579415744"
+      ],
+      "sha256": "2174b9f3ed2bcc3784b36c0e510da8551e5cd5b2ee26077b3dc221fab359a760"
+    },
+    {
+      "file": "scratchpad/advertiser04-meal-guides/ads-02.txt",
+      "ad_ids": [
+        "1361448449156218",
+        "1665477835142745",
+        "2023923941644993"
+      ],
+      "sha256": "5e43d8d0c25b9f4a1ebb31be1421cde51e2abb8afc43d459c0af66aa57c8c074"
+    }
+  ]
+}

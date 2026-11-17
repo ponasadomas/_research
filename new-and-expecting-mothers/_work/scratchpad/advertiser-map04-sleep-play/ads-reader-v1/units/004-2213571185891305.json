@@ -1,0 +1,38 @@
+{
+  "ad_id": "2213571185891305",
+  "advertiser": "Kinedu",
+  "page_id": "443378469063877",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/004-kinedu-english-page.json",
+  "capture_sha256": "27428c29add8bef39a61c3f3ad4fe314e3d8aedc024262f3f85921ea78b70ad4",
+  "native_pointer": "connections[0].edges[4].node.collated_results[1]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=443378469063877",
+  "captured_at": "2026-10-24T21:46:24.774Z",
+  "is_active": true,
+  "start_utc": "2026-09-21T07:00:00+00:00",
+  "display_format": "VIDEO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=2213571185891305",
+  "snapshot_sha256": "f76514c953fdfcb23bde2282523ac5a384d54256a1dee54421a9c631def20a00",
+  "text_fields": {
+    "body": {
+      "text": "Wondering how to boost your baby's development? 🤔👶 Discover daily activity recommendations tailored to your baby's age, milestones, and developmental needs."
+    },
+    "title": "Find activities, tips and personalized advice inside Kinedu. 👶❤️",
+    "caption": "itunes.apple.com",
+    "link_description": null,
+    "link_url": "http://itunes.apple.com/app/id741277284",
+    "cta_text": "Install now",
+    "cta_type": "INSTALL_MOBILE_APP",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "463df11fea47c6362c3ef62c81b26042ecef19f83963b596d0f6c0933a370879",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 1,
+  "cards_count": 0
+}

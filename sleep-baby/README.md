@@ -15,6 +15,8 @@ Rules for all research: `../README.md`.
 | `reviews/` | app and course reviews (113 saved files) | 167 quotes |
 | `sales-letters/` | nothing | Not collected |
 | `youtube/` | nothing | Not collected |
+| `statistics/` | nothing | Not collected |
+| `forums/`, `marketplaces/`, `official-guidance/` | nothing | Not collected in this niche. The niche-selection research in `../new-and-expecting-mothers/` has all three for the whole market |
 | `quotes/` | 34191 quotes, one record each, in 88 files; `merged/all.jsonl` is a generated copy | Every quote checked against its source |
 | `evidence/` | `evidence.md`: the quotes sorted under themes with conclusions (320,167 words, cites 4,407 quotes); counts; readers' notes; the unfilter report; 7 theme digests from the re-reading | Current as of 2026-11-17 |
 
@@ -73,7 +75,7 @@ and logs written before the move are left as written and use the old ones:
 | `scratchpad/` | `_work/scratchpad/` |
 | `product/product-brief.md` | `brief.md` |
 | `../_shared/_tools/`, `_tools/` | `_tools/history/shared/`, `_tools/history/` |
-| `../global/`, `../main/` | `../new-and-expecting-mothers/` once that research is moved |
+| `../global/`, `../main/` | `../new-and-expecting-mothers/` |
 
 ## Quote schema
 

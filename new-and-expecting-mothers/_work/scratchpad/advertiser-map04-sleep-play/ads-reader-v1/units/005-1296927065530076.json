@@ -1,0 +1,57 @@
+{
+  "ad_id": "1296927065530076",
+  "advertiser": "Lovevery",
+  "page_id": "1859617107640244",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/005-lovevery-page.json",
+  "capture_sha256": "90a8b882dbb1767b9749a6e1fc440e0cf6a15ce0443a164b39221c0ba9fae64d",
+  "native_pointer": "connections[0].edges[23].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=1859617107640244",
+  "captured_at": "2026-10-24T21:46:30.893Z",
+  "is_active": true,
+  "start_utc": "2026-07-06T07:00:00+00:00",
+  "display_format": "DCO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1296927065530076",
+  "snapshot_sha256": "a2302290d7df6eeeb6b233432cdea6743e4dde3f874af1c643719a0ef8e7acfc",
+  "text_fields": {
+    "body": {
+      "text": "{{product.brand}}"
+    },
+    "title": "{{product.name}}",
+    "caption": "lovevery.com",
+    "link_description": "{{product.description}}",
+    "link_url": "https://lovevery.com/products/the-play-kits-the-looker",
+    "cta_text": "Shop now",
+    "cta_type": "SHOP_NOW",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": [
+      {
+        "body": "Diaper changes don't have to be a struggle. 🙌 The Looker Play Kit is filled with high-contrast toys designed to capture your baby's attention and support developing vision—making everyday routines a little easier.",
+        "title": "The Play Kits by Lovevery",
+        "caption": "lovevery.com",
+        "link_description": null,
+        "link_url": "https://lovevery.com/products/the-play-kits-the-looker",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      },
+      {
+        "body": "Diaper changes don't have to be a struggle. 🙌 The Looker Play Kit is filled with high-contrast toys designed to capture your baby's attention and support developing vision—making everyday routines a little easier.",
+        "title": "The Play Kits by Lovevery",
+        "caption": "lovevery.com",
+        "link_description": null,
+        "link_url": "https://lovevery.com/products/the-play-kits-the-looker",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      }
+    ]
+  },
+  "text_fields_sha256": "bab25d5c45d6f54ca08b6d88e5523f6ff5f8f906b88b755b238c9155686804cf",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 0,
+  "cards_count": 2
+}

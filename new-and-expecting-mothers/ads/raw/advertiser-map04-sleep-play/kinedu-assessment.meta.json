@@ -1,0 +1,26 @@
+{
+  "requested_url": "https://www.kinedu.com/assessment",
+  "final_url": "https://www.kinedu.com/assessment",
+  "status": 200,
+  "date_utc": "2026-10-24T21:47:31.480960+00:00",
+  "headers": {
+    "Age": "0",
+    "Cache-Control": "no-store",
+    "Content-Encoding": "gzip",
+    "Content-Type": "text/html; charset=utf-8",
+    "Date": "Sat, 24 Oct 2026 21:47:31 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "nginx/1.16.1",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload, max-age=31536000; includeSubDomains; preload;",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-Vercel-Cache": "MISS",
+    "X-Vercel-Id": "pdx1:pdx1:pdx1::iad1::76dtk-1792878451076-c19873a63c25",
+    "Content-Length": "25309",
+    "Connection": "keep-alive"
+  },
+  "redirects": [],
+  "raw_file": "_raw/advertiser-map04-sleep-play/kinedu-assessment.body",
+  "sha256": "e2247019b279d63165887dd46152ce44a5d45d76419dd989ad0d52e669270ada",
+  "bytes": 90486
+}

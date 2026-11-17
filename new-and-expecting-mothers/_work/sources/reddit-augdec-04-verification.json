@@ -1,0 +1,23 @@
+{
+  "reader": "root04",
+  "triage_cards": 620,
+  "triage_kept": 432,
+  "triage_dropped": 188,
+  "full_read_own": 60,
+  "transferred_06": 186,
+  "transferred_07_original": 186,
+  "transferred_07": 126,
+  "transferred_08": 60,
+  "OP_replies_read": 0,
+  "auxiliary_comments_read": 0,
+  "statuses": {
+    "eligible": 48,
+    "excluded_after_read": 12
+  },
+  "quotes": 27,
+  "quoted_post_ids": 26,
+  "duplicate_groups_human_reviewed": 3,
+  "voice_sha256": "4b18b005f6d491859d646665de274c0807799fdc840188a3078bf744423ed1fc",
+  "native_fullbody_date_permalink_attribution_hash_idset_checks": "passed",
+  "failed": 0
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:46:30 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "set-cookie": "_cfuvid=l5_qtiuhW1uUMxYUTU3SuY4Ne.j7dcI.zSXv13Lhmfc-1792878390.527046-1.0.1.1-pAtVoLlj8JXvXO2ovpGpZgUE2hoAu0QjnHKzPGSrOdA; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.parentaly.com",
+    "CF-Ray": "a4fc2cb4cd4dfc65-RIX",
+    "CF-Cache-Status": "HIT",
+    "Age": "86810",
+    "Content-Encoding": "gzip",
+    "Last-Modified": "Sat, 24 Oct 2026 21:46:30 GMT",
+    "Link": "<https://cdn.prod.website-files.com>; rel=preconnect; crossorigin, <https://cdn.prod.website-files.com/65d4d8d1f806923d34778695/css/parentaly.webflow.shared.ad602179b.css>; rel=preload; as=style; crossorigin; integrity=\"sha384-rWAhebX/JX6YKkMas+N27f02ktaWk+6/Vc24p+4ng54zTTZiWK9/fNHRfLQ3xuVd\", <https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css>; rel=preload; as=style",
+    "Server": "cloudflare",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "accept-encoding",
+    "content-security-policy": "frame-ancestors 'self'",
+    "surrogate-control": "max-age=432000",
+    "surrogate-key": "www.parentaly.com 65d4d8d1f806923d34778695 pageId:6601c21390e5265595aae72c 6601c21290e5265595aae71f 66f406d3a624513c6e992eca 6624e35eebbe7bffdc516e83 66203fa2cd3d788eaa764928",
+    "x-frame-options": "SAMEORIGIN",
+    "x-lambda-id": "e337e898-aaca-47eb-8215-97f1612e8263",
+    "x-wf-region": "us-east-1",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "history": []
+}

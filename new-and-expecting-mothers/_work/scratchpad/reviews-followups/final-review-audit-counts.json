@@ -1,0 +1,39 @@
+{
+  "app_review_units": 201,
+  "app_quotes": 192,
+  "book_review_units": 15,
+  "book_quotes": 14,
+  "total_review_units": 216,
+  "total_quotes": 206,
+  "strict_verbatim_failures": [],
+  "original_review_citations_audited": [
+    "rev01-0025",
+    "rev01-0034",
+    "rev01-0042",
+    "rev01-0048",
+    "rev01-0064",
+    "rev01-0069",
+    "rev01-0076",
+    "rev01-0084",
+    "rev01-0085",
+    "rev01-0093",
+    "rev01-0097",
+    "rev01-0108",
+    "rev01-0113",
+    "rev01-0120",
+    "rev01-0126",
+    "rev01-0142",
+    "rev01-0157",
+    "revb01-0008",
+    "revf01-0003",
+    "revf01-0009",
+    "revf01-0016"
+  ],
+  "raw_review_units_read": 216,
+  "raw_or_voice_mutations_in_this_audit": false,
+  "full_read_ledger_counts": {
+    "_raw/reviews/reading-ledger.tsv": 180,
+    "_raw/books/reading-ledger.tsv": 10,
+    "_raw/reviews-followups/reading-ledger.tsv": 26
+  }
+}

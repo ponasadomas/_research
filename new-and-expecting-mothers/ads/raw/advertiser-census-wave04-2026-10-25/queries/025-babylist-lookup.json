@@ -1,0 +1,52 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "Babylist",
+  "captured_at": "2026-10-24T21:52:12.916Z",
+  "suggestions": "ge/\"\n  uid=19_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=19_1 generic description=\"Search for exact phrase Babylist \"Babylist\" Search this exact phrase\"\n      uid=19_2 button \"Search for exact phrase Babylist\"\n    uid=19_3 generic description=\"Babylist @babylist · 483.9K follow this · Website @babylist · 853.2K followers\"\n    uid=19_4 generic description=\"babylist 2 follow this · Baby goods/kids goods @babylist.co.in· 3 followers\"\n    uid=19_5 generic description=\"BabyList Store @babyliststore· 6.9K follow this · Baby goods/kids goods\"\n    uid=19_6 generic description=\"BabyList Colombia @BabyListColombia· 6.5K follow this · Design & Fashion\"\n    uid=19_7 generic description=\"Babylista Collection 2.2K follow this · Baby goods/kids goods\"\n    uid=19_8 generic description=\"Baby Listener Zi Ming @BabyListenerZiMing· 2.2K follow this · Education @babylistenerziming· 835 followers\"\n    uid=19_9 generic description=\"Misty's Babylistic Creations @Mistysbabylisticcreations· 1.5K follow this · Artist\"\n    uid=19_10 generic description=\"Chris Babylistic @Chrisbabylistic.1· 1.4K follow this · Entrepreneur @chrisbabylistic· 335 followers\"\n    uid=19_11 generic description=\"Baby List Essentials @babylistessentials· 669 follow this · News & media website @babylistessentials· 1.4K followers\"\n    uid=19_12 generic description=\"Babylists @ourbabylists· 465 follow this · Community @babylists· 722 followers\"\n",
+  "candidates": [
+    {
+      "uid": "19_1",
+      "description": "Search for exact phrase Babylist "
+    },
+    {
+      "uid": "19_3",
+      "description": "Babylist @babylist · 483.9K follow this · Website @babylist · 853.2K followers"
+    },
+    {
+      "uid": "19_4",
+      "description": "babylist 2 follow this · Baby goods/kids goods @babylist.co.in· 3 followers"
+    },
+    {
+      "uid": "19_5",
+      "description": "BabyList Store @babyliststore· 6.9K follow this · Baby goods/kids goods"
+    },
+    {
+      "uid": "19_6",
+      "description": "BabyList Colombia @BabyListColombia· 6.5K follow this · Design & Fashion"
+    },
+    {
+      "uid": "19_7",
+      "description": "Babylista Collection 2.2K follow this · Baby goods/kids goods"
+    },
+    {
+      "uid": "19_8",
+      "description": "Baby Listener Zi Ming @BabyListenerZiMing· 2.2K follow this · Education @babylistenerziming· 835 followers"
+    },
+    {
+      "uid": "19_9",
+      "description": "Misty's Babylistic Creations @Mistysbabylisticcreations· 1.5K follow this · Artist"
+    },
+    {
+      "uid": "19_10",
+      "description": "Chris Babylistic @Chrisbabylistic.1· 1.4K follow this · Entrepreneur @chrisbabylistic· 335 followers"
+    },
+    {
+      "uid": "19_11",
+      "description": "Baby List Essentials @babylistessentials· 669 follow this · News & media website @babylistessentials· 1.4K followers"
+    },
+    {
+      "uid": "19_12",
+      "description": "Babylists @ourbabylists· 465 follow this · Community @babylists· 722 followers"
+    }
+  ]
+}

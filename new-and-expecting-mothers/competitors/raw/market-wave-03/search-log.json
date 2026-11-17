@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-24",
+  "evidence_use": "Discovery only; indexed extracts never become original-read or independent transaction proof.",
+  "query_batches": [
+    ["\"personalized\" \"sleep plan\" \"PDF\" baby buy", "\"personalized\" \"baby development\" \"report\"", "\"maternity leave\" \"plan\" \"PDF\" review paid", "\"custom\" \"baby registry\" \"report\" review"],
+    ["\"Baby Sleep Answers\" \"bought\" plan review", "\"Huckleberry\" \"paid\" \"personalized plan\" reddit", "\"personalized\" \"sleep plan\" \"refund\" parent", "\"custom\" \"baby registry\" consultation review bought"],
+    ["\"Baby Sleep Answers\" \"bought\" plan review", "\"Huckleberry\" \"paid\" \"personalized plan\" reddit", "\"custom\" \"baby registry\" consultation review bought"],
+    ["site:reddit.com \"Baby Sleep Answers\" \"bought\"", "site:reddit.com \"personalized sleep plan\" \"paid\"", "site:reddit.com \"customized report\" baby bought", "\"baby registry consultant\" \"paid\" review parent"]
+  ],
+  "saved_result_sets": ["wave03-buyers-search.json", "wave03-buyers2-search.json"],
+  "access_limits": "Search-only Reddit/secondary-app-review leads have not been counted or quoted as new originals; direct blocked routes not bypassed. Several early batch outputs were truncated; retained original captures were reread separately. Current seller offers read from full permitted captures; Apple review expansion uses permitted full visible native review units."
+}

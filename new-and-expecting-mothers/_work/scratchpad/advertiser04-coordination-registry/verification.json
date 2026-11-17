@@ -1,0 +1,652 @@
+{
+  "date": "2026-10-25",
+  "retained": 141,
+  "full_text_read": 141,
+  "unread": 0,
+  "source_files": 10,
+  "reading_views": 20,
+  "supplied_cards_read": 107,
+  "active_native_ids": 141,
+  "duplicate_native_ids": 0,
+  "snapshot_identity_alias_ids": [
+    "3308737399334313",
+    "2911042999282593",
+    "1084659817865033",
+    "1546924529902191",
+    "1256073496711949",
+    "1629806398719566",
+    "1801835637812827",
+    "1921692788633021"
+  ],
+  "branded_content_ids": [
+    "1842947233823920",
+    "1925146871805215",
+    "3308737399334313",
+    "2911042999282593",
+    "1084659817865033",
+    "1546924529902191",
+    "1256073496711949",
+    "1629806398719566",
+    "1801835637812827",
+    "1921692788633021"
+  ],
+  "meaningful_concrete_text_present": 141,
+  "image_video_assets_viewed": 0,
+  "new_voice_records": 0,
+  "failures": 0,
+  "ledger_file": "sources/advertiser04-coordination-registry-reading.jsonl",
+  "ledger_sha256": "24e35745d9dce49f44d8f782872e93d85ddc6681a1874fe452d18e2b6fd52b19",
+  "source_summaries": [
+    {
+      "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/022-master-maternity-page.json",
+      "source_file_sha256": "fb544e1ed46d5f4bde05a4496eb7028b4d2629365a7e41c65cc4739fdc015c48",
+      "captured_at": "2026-10-24T21:51:27.377Z",
+      "page_id": "106151438925030",
+      "page_name": "Master Maternity Leave",
+      "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=106151438925030",
+      "native_reported_result_counts": [
+        3
+      ],
+      "visible_reported_results": [
+        "~3 results"
+      ],
+      "retained_native_ids": 3,
+      "retained_edges": 3,
+      "has_next_page": [
+        false
+      ],
+      "ad_ids": [
+        "1804441577549614",
+        "1124475943769660",
+        "2527356304342424"
+      ],
+      "read": 3,
+      "unread": 0,
+      "oldest_observed_active_start": "2026-10-19T07:00:00+00:00",
+      "newest_observed_active_start": "2026-10-21T07:00:00+00:00",
+      "unique_body_hashes": 3,
+      "unique_text_bundle_hashes": 3,
+      "offer_types": {
+        "consultation_support_bundle": 2,
+        "unclear": 1
+      },
+      "jobs": {
+        "self_employed_leave_pay_and_client_coverage": 2,
+        "self_employed_leave_pay": 1
+      },
+      "products": {
+        "One-to-one Colorado maternity-leave planning application": 2,
+        "Colorado self-employed paid-leave information lead": 1
+      }
+    },
+    {
+      "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/023-starter-set-page.json",
+      "source_file_sha256": "15de2a2a39074802f3b190db66946bd640e91ace90bee911e402e189c432e4c0",
+      "captured_at": "2026-10-24T21:51:44.161Z",
+      "page_id": "459563170566107",
+      "page_name": "The Starter Set",
+      "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=459563170566107",
+      "native_reported_result_counts": [
+        2
+      ],
+      "visible_reported_results": [
+        "~2 results"
+      ],
+      "retained_native_ids": 2,
+      "retained_edges": 2,
+      "has_next_page": [
+        false
+      ],
+      "ad_ids": [
+        "1889792095496859",
+        "3262395007292940"
+      ],
+      "read": 2,
+      "unread": 0,
+      "oldest_observed_active_start": "2026-09-22T07:00:00+00:00",
+      "newest_observed_active_start": "2026-10-07T07:00:00+00:00",
+      "unique_body_hashes": 1,
+      "unique_text_bundle_hashes": 2,
+      "offer_types": {
+        "free_lead_magnet": 2
+      },
+      "jobs": {
+        "baby_registry_gear_decisions": 2
+      },
+      "products": {
+        "Free personalized registry recommendations/list": 2
+      }
+    },
+    {
+      "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/025-babylist-page.json",
+      "source_file_sha256": "dde70e8c18f3207f84afe706c6f2755c427dfe16d758878c6a2e475652c6807b",
+      "captured_at": "2026-10-24T21:52:19.573Z",
+      "page_id": "186268468076113",
+      "page_name": "Babylist",
+      "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=186268468076113",
+      "native_reported_result_counts": [
+        534
+      ],
+      "visible_reported_results": [
+        "~530 results"
+      ],
+      "retained_native_ids": 30,
+      "retained_edges": 26,
+      "has_next_page": [
+        true
+      ],
+      "ad_ids": [
+        "1709739326902037",
+        "1588966196189739",
+        "1035546065973191",
+        "1072221008964752",
+        "1092297793609015",
+        "1198002359572399",
+        "1140492078541901",
+        "1829666001371963",
+        "1125652570402174",
+        "1048598638161253",
+        "1408996824194580",
+        "967462786415749",
+        "1852936132381985",
+        "1900979554594871",
+        "1842947233823920",
+        "1576024457166591",
+        "1408117777968238",
+        "2284782542062262",
+        "1421751050079215",
+        "1812040633319812",
+        "995570713576109",
+        "1814444903242979",
+        "1099979919085868",
+        "1925146871805215",
+        "28813767631596028",
+        "977919378070623",
+        "4571398749756503",
+        "1650977393353420",
+        "1140975188437909",
+        "1108748478682533"
+      ],
+      "read": 30,
+      "unread": 0,
+      "oldest_observed_active_start": "2026-07-29T07:00:00+00:00",
+      "newest_observed_active_start": "2026-10-20T07:00:00+00:00",
+      "unique_body_hashes": 16,
+      "unique_text_bundle_hashes": 24,
+      "offer_types": {
+        "quiz_or_content_lead": 9,
+        "physical_goods": 9,
+        "free_platform_registration": 7,
+        "platform_registration": 5
+      },
+      "jobs": {
+        "baby_registry_gear_decisions": 21,
+        "baby_sleep_routines": 2,
+        "first_solids_nutrition_content": 3,
+        "feeding_pump_gear": 4
+      },
+      "products": {
+        "Registry personality quiz with curated picks": 2,
+        "Branded diapers/carriers/playard promoted through editorial product content": 4,
+        "Newborn day/night routines article": 2,
+        "Gerber-linked early-meal nutrition article": 2,
+        "Medela pump setup promoted through a product story": 2,
+        "Registry creation/add-items giveaway entry": 1,
+        "Registry giveaway entry": 1,
+        "Motif Luna electric breast pump": 1,
+        "Universal baby registry with product-card destinations": 1,
+        "Universal baby registry with bottle/brush product cards": 2,
+        "Baby registry acquisition with free-goods pitch": 1,
+        "Nuna stroller-selection quiz": 1,
+        "Universal registry acquisition with six bottle/brush cards": 1,
+        "Nuna stroller quiz": 1,
+        "Joie Kava stroller editorial promotion": 1,
+        "Motif Aura Glow wearable pump": 1,
+        "Registry giveaway entry for $250 gift-card chance": 3,
+        "Gerber baby-food myths article": 1,
+        "Free-goods registry acquisition": 1,
+        "baby_registry": 1
+      }
+    },
+    {
+      "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/029-nugget-savings-page.json",
+      "source_file_sha256": "4c186c0cbce53010b30dd3329840db662aa7118de6925f8318d9d8a404827271",
+      "captured_at": "2026-10-24T21:52:57.077Z",
+      "page_id": "681765001686370",
+      "page_name": "Nugget Savings",
+      "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=681765001686370",
+      "native_reported_result_counts": [
+        4
+      ],
+      "visible_reported_results": [
+        "~4 results"
+      ],
+      "retained_native_ids": 4,
+      "retained_edges": 4,
+      "has_next_page": [
+        false
+      ],
+      "ad_ids": [
+        "2045675566116239",
+        "2505543623302383",
+        "1792875188650830",
+        "1435524078717049"
+      ],
+      "read": 4,
+      "unread": 0,
+      "oldest_observed_active_start": "2026-10-20T07:00:00+00:00",
+      "newest_observed_active_start": "2026-10-24T07:00:00+00:00",
+      "unique_body_hashes": 4,
+      "unique_text_bundle_hashes": 4,
+      "offer_types": {
+        "paid_webinar": 1,
+        "subscription_bundle_trial": 3
+      },
+      "jobs": {
+        "childcare_financial_entitlements": 1,
+        "parental_leave_and_childcare_finances": 3
+      },
+      "products": {
+        "live_expert_webinar_recording": 1,
+        "membership_tools_classes_support": 3
+      }
+    },
+    {
+      "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/040b-ohai-page.json",
+      "source_file_sha256": "e8f13eeef8b03e7f32868018caad2b637208b47a3727b023e95f9251f8e54266",
+      "captured_at": "2026-10-24T21:57:07.874Z",
+      "page_id": "119605771104265",
+      "page_name": "ohai.ai",
+      "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=119605771104265",
+      "native_reported_result_counts": [
+        11
+      ],
+      "visible_reported_results": [
+        "~11 results"
+      ],
+      "retained_native_ids": 11,
+      "retained_edges": 11,
+      "has_next_page": [
+        false
+      ],
+      "ad_ids": [
+        "1403178724981703",
+        "1328714648587991",
+        "2184429142484733",
+        "1027823133029968",
+        "1270930381786218",
+        "1549192026738436",
+        "1403548988262483",
+        "1151895391343132",
+        "1384307913156396",
+        "1652584746006550",
+        "1528335235417660"
+      ],
+      "read": 11,
+      "unread": 0,
+      "oldest_observed_active_start": "2026-06-11T07:00:00+00:00",
+      "newest_observed_active_start": "2026-09-04T07:00:00+00:00",
+      "unique_body_hashes": 6,
+      "unique_text_bundle_hashes": 11,
+      "offer_types": {
+        "digital_assistant_acquisition": 11
+      },
+      "jobs": {
+        "household_schedules_and_tasks": 5,
+        "voice_capture_and_organization": 4,
+        "daily_preparation": 2
+      },
+      "products": {
+        "family_ai_assistant": 10,
+        "ai_plus_human_assistant": 1
+      }
+    },
+    {
+      "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/041-cozi-page.json",
+      "source_file_sha256": "b1a9390a90b61993e0d285a3d44f94a4a606da86326a3c1ec5c2619425d9c662",
+      "captured_at": "2026-10-24T21:57:23.202Z",
+      "page_id": "12326449530",
+      "page_name": "Cozi",
+      "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=12326449530",
+      "native_reported_result_counts": [
+        6
+      ],
+      "visible_reported_results": [
+        "~6 results"
+      ],
+      "retained_native_ids": 6,
+      "retained_edges": 6,
+      "has_next_page": [
+        false
+      ],
+      "ad_ids": [
+        "933668406478924",
+        "1819330272389711",
+        "1057114590521913",
+        "1439150874726674",
+        "1066155716309460",
+        "4089399201361479"
+      ],
+      "read": 6,
+      "unread": 0,
+      "oldest_observed_active_start": "2026-09-14T07:00:00+00:00",
+      "newest_observed_active_start": "2026-09-14T07:00:00+00:00",
+      "unique_body_hashes": 1,
+      "unique_text_bundle_hashes": 1,
+      "offer_types": {
+        "app_install": 6
+      },
+      "jobs": {
+        "shared_calendars_lists_reminders": 6
+      },
+      "products": {
+        "family_organizer_app": 6
+      }
+    },
+    {
+      "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/042-familywall-page.json",
+      "source_file_sha256": "6c4a261be04d0aee222861ab1127974894b1d1ccb78da394d2dd6e892496dd31",
+      "captured_at": "2026-10-24T21:57:36.658Z",
+      "page_id": "144291815707408",
+      "page_name": "FamilyWall - Family Organizer",
+      "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=144291815707408",
+      "native_reported_result_counts": [
+        68
+      ],
+      "visible_reported_results": [
+        "~68 results"
+      ],
+      "retained_native_ids": 30,
+      "retained_edges": 13,
+      "has_next_page": [
+        true
+      ],
+      "ad_ids": [
+        "1815118386180379",
+        "962706646191624",
+        "1061833206466119",
+        "1994350507891120",
+        "3106193799724901",
+        "1819903229167325",
+        "1081696541245454",
+        "939462932043627",
+        "1393923648943825",
+        "1407840140778548",
+        "1458136940068361",
+        "1805660717285153",
+        "1995013791018560",
+        "4467715376891808",
+        "1753912509160198",
+        "3230067217381605",
+        "1630790815169759",
+        "2570013136829571",
+        "2083052228970551",
+        "2581062732304847",
+        "1095202873005352",
+        "1096658509886190",
+        "2374811023260507",
+        "2042190273835486",
+        "2937838489948429",
+        "2954784651536249",
+        "2134053867464467",
+        "4375379902726299",
+        "1666861915033553",
+        "1702800887479515"
+      ],
+      "read": 30,
+      "unread": 0,
+      "oldest_observed_active_start": "2026-09-21T07:00:00+00:00",
+      "newest_observed_active_start": "2026-10-07T07:00:00+00:00",
+      "unique_body_hashes": 7,
+      "unique_text_bundle_hashes": 15,
+      "offer_types": {
+        "app_install": 21,
+        "app_install_discount": 9
+      },
+      "jobs": {
+        "daily_family_connection": 20,
+        "daily_family_routine": 9,
+        "family_organization": 1
+      },
+      "products": {
+        "family_organizer_app": 30
+      }
+    },
+    {
+      "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/043-skylight-page.json",
+      "source_file_sha256": "4ec970a7be639386523fc6ef0d82f4caec8f95f6cbf924da5cae214dffa7ddc7",
+      "captured_at": "2026-10-24T21:57:52.881Z",
+      "page_id": "620732004665539",
+      "page_name": "Skylight",
+      "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=620732004665539",
+      "native_reported_result_counts": [
+        878
+      ],
+      "visible_reported_results": [
+        "~880 results"
+      ],
+      "retained_native_ids": 30,
+      "retained_edges": 28,
+      "has_next_page": [
+        true
+      ],
+      "ad_ids": [
+        "1670066174535861",
+        "3856842307788746",
+        "913852734911856",
+        "3308737399334313",
+        "1374933231474941",
+        "1739449977356387",
+        "2485252295320272",
+        "2911042999282593",
+        "1084659817865033",
+        "1130283035999678",
+        "2324419385037090",
+        "2377081549777431",
+        "1546924529902191",
+        "1674291417389127",
+        "4615777552027253",
+        "1817183535994216",
+        "1428130845955242",
+        "1422168432807046",
+        "1256073496711949",
+        "1629806398719566",
+        "1890477405260177",
+        "1085725040722148",
+        "3803295726504954",
+        "1406657477583884",
+        "887121960551651",
+        "853358217799914",
+        "2506904683170186",
+        "1600789854695466",
+        "1785749155742016",
+        "1801835637812827"
+      ],
+      "read": 30,
+      "unread": 0,
+      "oldest_observed_active_start": "2026-06-23T07:00:00+00:00",
+      "newest_observed_active_start": "2026-10-18T07:00:00+00:00",
+      "unique_body_hashes": 14,
+      "unique_text_bundle_hashes": 24,
+      "offer_types": {
+        "calendar_hardware": 15,
+        "calendar_hardware_retail": 4,
+        "calendar_hardware_partner_ad": 5,
+        "calendar_hardware_partner_ad_discount": 1,
+        "calendar_hardware_partner_copy": 1,
+        "calendar_hardware_partner_copy_discount": 2,
+        "photo_frame_hardware": 2
+      },
+      "jobs": {
+        "couple_coordination": 3,
+        "shared_schedules_chores_rewards": 3,
+        "shared_schedules_chores": 2,
+        "children_chores_and_routines": 8,
+        "family_organization": 6,
+        "school_and_family_organization": 2,
+        "school_and_family_routines": 1,
+        "shared_family_schedules": 2,
+        "photo_sharing_and_gifting": 2,
+        "shared_schedules_and_chores": 1
+      },
+      "products": {
+        "skylight_calendar": 17,
+        "skylight_calendar_2": 3,
+        "skylight_calendar_hearth_and_hand": 3,
+        "skylight_calendar_disney_mode": 2,
+        "skylight_calendar_max": 3,
+        "skylight_frame": 2
+      }
+    },
+    {
+      "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/047c-myregistry-page.json",
+      "source_file_sha256": "65e851b7c63a00cd76df1d6d8bfe463a7f1209a6591a9ce33a17d6c565a0b91c",
+      "captured_at": "2026-10-24T22:03:10.834Z",
+      "page_id": "65021071071",
+      "page_name": "myregistry.com",
+      "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=65021071071",
+      "native_reported_result_counts": [
+        36
+      ],
+      "visible_reported_results": [
+        "~36 results"
+      ],
+      "retained_native_ids": 14,
+      "retained_edges": 13,
+      "has_next_page": [
+        true
+      ],
+      "ad_ids": [
+        "945974301338938",
+        "1135486355475553",
+        "1455426013348028",
+        "1455476406558927",
+        "1293444152908269",
+        "2233580224225531",
+        "1370349825174296",
+        "28759727343720763",
+        "4586463681604634",
+        "1656166229516980",
+        "2008295543180663",
+        "1878809340069306",
+        "984517930706606",
+        "1140908805282628"
+      ],
+      "read": 14,
+      "unread": 0,
+      "oldest_observed_active_start": "2026-09-17T07:00:00+00:00",
+      "newest_observed_active_start": "2026-10-24T07:00:00+00:00",
+      "unique_body_hashes": 3,
+      "unique_text_bundle_hashes": 7,
+      "offer_types": {
+        "sweepstakes_lead_generation": 14
+      },
+      "jobs": {
+        "wedding_registry_acquisition": 14
+      },
+      "products": {
+        "wedding_sweepstakes_registry": 14
+      }
+    },
+    {
+      "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/054-hearth-page.json",
+      "source_file_sha256": "8d26a40b9ac33a3d52c62324c7f8010c019036cff7d518f37c477e12abe40929",
+      "captured_at": "2026-10-24T22:07:07.818Z",
+      "page_id": "110342517475089",
+      "page_name": "Hearth Display",
+      "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=110342517475089",
+      "native_reported_result_counts": [
+        11
+      ],
+      "visible_reported_results": [
+        "~11 results"
+      ],
+      "retained_native_ids": 11,
+      "retained_edges": 11,
+      "has_next_page": [
+        false
+      ],
+      "ad_ids": [
+        "1307291864159409",
+        "1921692788633021",
+        "886752334446219",
+        "2154358908749225",
+        "3216247972045376",
+        "1407577741574972",
+        "1412478904366000",
+        "1101213379182280",
+        "1634262701531549",
+        "1458565074008251",
+        "4660221647547659"
+      ],
+      "read": 11,
+      "unread": 0,
+      "oldest_observed_active_start": "2026-05-26T07:00:00+00:00",
+      "newest_observed_active_start": "2026-10-22T07:00:00+00:00",
+      "unique_body_hashes": 2,
+      "unique_text_bundle_hashes": 5,
+      "offer_types": {
+        "calendar_display_hardware": 10,
+        "calendar_display_hardware_partner_ad": 1
+      },
+      "jobs": {
+        "general_family_organization": 11
+      },
+      "products": {
+        "hearth_display": 11
+      }
+    }
+  ],
+  "offer_types": {
+    "consultation_support_bundle": 2,
+    "unclear": 1,
+    "free_lead_magnet": 2,
+    "quiz_or_content_lead": 9,
+    "physical_goods": 9,
+    "free_platform_registration": 7,
+    "platform_registration": 5,
+    "paid_webinar": 1,
+    "subscription_bundle_trial": 3,
+    "digital_assistant_acquisition": 11,
+    "app_install": 27,
+    "app_install_discount": 9,
+    "calendar_hardware": 15,
+    "calendar_hardware_retail": 4,
+    "calendar_hardware_partner_ad": 5,
+    "calendar_hardware_partner_ad_discount": 1,
+    "calendar_hardware_partner_copy": 1,
+    "calendar_hardware_partner_copy_discount": 2,
+    "photo_frame_hardware": 2,
+    "sweepstakes_lead_generation": 14,
+    "calendar_display_hardware": 10,
+    "calendar_display_hardware_partner_ad": 1
+  },
+  "jobs": {
+    "self_employed_leave_pay_and_client_coverage": 2,
+    "self_employed_leave_pay": 1,
+    "baby_registry_gear_decisions": 23,
+    "baby_sleep_routines": 2,
+    "first_solids_nutrition_content": 3,
+    "feeding_pump_gear": 4,
+    "childcare_financial_entitlements": 1,
+    "parental_leave_and_childcare_finances": 3,
+    "household_schedules_and_tasks": 5,
+    "voice_capture_and_organization": 4,
+    "daily_preparation": 2,
+    "shared_calendars_lists_reminders": 6,
+    "daily_family_connection": 20,
+    "daily_family_routine": 9,
+    "family_organization": 7,
+    "couple_coordination": 3,
+    "shared_schedules_chores_rewards": 3,
+    "shared_schedules_chores": 2,
+    "children_chores_and_routines": 8,
+    "school_and_family_organization": 2,
+    "school_and_family_routines": 1,
+    "shared_family_schedules": 2,
+    "photo_sharing_and_gifting": 2,
+    "shared_schedules_and_chores": 1,
+    "wedding_registry_acquisition": 14,
+    "general_family_organization": 11
+  }
+}

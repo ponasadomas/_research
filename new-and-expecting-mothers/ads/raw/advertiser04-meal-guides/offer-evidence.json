@@ -1,0 +1,42 @@
+{
+  "scope": "Two advertisers only; primary published offers, not inspected purchases or verified outcomes.",
+  "happy_eaters": {
+    "page_id": "148367001700025",
+    "native_ads_read": 30,
+    "model": "App subscription",
+    "primary_url": "https://apps.apple.com/us/app/happy-eaters-weaning-recipes/id6469004584",
+    "price_scope": "US Apple listed IAP variants, applicable tier/checkout not selected",
+    "monthly_price_variants": [
+      3.99,
+      4.99,
+      6.49,
+      7.99,
+      19.99
+    ],
+    "quarterly_price_variants": [
+      9.99,
+      11.99,
+      15.99
+    ],
+    "yearly_price": 49.99,
+    "trial": "Three days for unspecified token fee, per developer listing",
+    "standalone_custom_report_established": false,
+    "website_probe": "TLS handshake failure; target not requested"
+  },
+  "my_little_eater": {
+    "page_id": "1701853073368370",
+    "native_ads_read": 3,
+    "ad_model": "Free workshop/sample plan then course upsell",
+    "paid_primary_url": "https://mylittleeater.com/blfmealplan/",
+    "standalone_meal_plan_USD": 39.99,
+    "meal_plan_plus_course_USD": 85,
+    "currency_evidence": "USD purchase CTA adjacent to price-table rows; separate CAD route not inspected",
+    "format": "Fixed60day/9week meal plan, app access or printable download; prep videos,63recipes,weeklygroceries,115foodchecklist",
+    "individualized_intake_observed": false,
+    "standalone_custom_report_established": false
+  },
+  "unique_ad_ids": 33,
+  "source_occurrences": 42,
+  "overlap_with_frozen149": [],
+  "new_voice_quotes": 0
+}

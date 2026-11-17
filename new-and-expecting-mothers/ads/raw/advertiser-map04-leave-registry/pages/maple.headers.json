@@ -1,0 +1,22 @@
+{
+  "headers": {
+    "Age": "7520799",
+    "Cache-Control": "public, max-age=0, must-revalidate",
+    "Content-Encoding": "gzip",
+    "Content-Security-Policy": "frame-ancestors 'self' https://*.webflow.com http://*.webflow.com http://*.webflow.io http://webflow.com https://webflow.com",
+    "Content-Type": "text/html; charset=utf-8",
+    "Date": "Sat, 24 Oct 2026 21:54:56 GMT",
+    "Link": "<https://cdn.prod.website-files.com>; rel=preconnect; crossorigin, <https://cdn.prod.website-files.com/684eb797958abbf77e63d6cd/css/growmaple.webflow.shared.05a0b5f06.css>; rel=preload; as=style; crossorigin; integrity=\"sha384-BaC18GxExq9TlzuFViHWuH3HpZfHCdLiS/2q8PrE7x3+X/oalq3BqQvaMe/OWasz\", <https://cdn.jsdelivr.net/npm/lenis@1.2.3/dist/lenis.css>; rel=preload; as=style",
+    "Server": "Vercel",
+    "Set-Cookie": "_cfuvid=G1Y_hVhd12jEhIL8PFFQyzmH1.BGZbL43GHA4zwfdCY-1792878896.1418397-1.0.1.1-gFddgJMEogl8w3Qw9H.PruhEhGFWXQ31_rZINLJHPYk; HttpOnly; SameSite=None; Secure; Path=/; Domain=webflow.io",
+    "Strict-Transport-Security": "max-age=63072000",
+    "Surrogate-Control": "max-age=2147483647",
+    "Surrogate-Key": "growmaple.webflow.io 684eb797958abbf77e63d6cd pageId:684eb797958abbf77e63d720",
+    "Vary": "accept-encoding",
+    "X-Lambda-Id": "a4a7302a-a5a6-4e91-a487-aba5c199a6a6",
+    "X-Vercel-Id": "arn1::pvjzt-1792878896084-7de38aa22e96",
+    "X-Wf-Region": "us-east-1",
+    "Transfer-Encoding": "chunked"
+  },
+  "history": []
+}

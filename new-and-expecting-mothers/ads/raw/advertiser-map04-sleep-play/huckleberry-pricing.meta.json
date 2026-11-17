@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://huckleberrycare.com/pricing",
+  "final_url": "https://huckleberrycare.com/pricing",
+  "status": 200,
+  "date_utc": "2026-10-24T21:47:27.251437+00:00",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Age": "1",
+    "Cache-Control": "public,max-age=0,must-revalidate",
+    "Cache-Status": "\"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
+    "Content-Encoding": "gzip",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Date": "Sat, 24 Oct 2026 21:47:27 GMT",
+    "Etag": "W/\"0fe1b572e2ad04242560844953046cb0-ssl-df\"",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "Netlify",
+    "Set-Cookie": "geo_location=%7B%22country%22%3A%22LT%22%2C%22region%22%3A%22VL%22%2C%22city%22%3A%22Vilnius%22%7D; Secure; Path=/; Expires=Mon, 23 Nov 2026 21:47:26 GMT",
+    "Strict-Transport-Security": "max-age=63113904; includeSubDomains; preload",
+    "Vary": "Accept-Encoding",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "DENY",
+    "X-Nf-Request-Id": "01M5QY42ADJ1WSRFYYTDKTH87N",
+    "Transfer-Encoding": "chunked"
+  },
+  "redirects": [],
+  "raw_file": "_raw/advertiser-map04-sleep-play/huckleberry-pricing.body",
+  "sha256": "bd021e127c83d405fcf6e785867e7befa6fc3dec675ef3ca11d632fe03448cd1",
+  "bytes": 647131
+}

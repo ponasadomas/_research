@@ -1,0 +1,38 @@
+{
+  "ad_id": "1570661731043353",
+  "advertiser": "Huckleberry",
+  "page_id": "120943168474518",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/002-huckleberry-page.json",
+  "capture_sha256": "760e51d7505f6124143e9e4d6f1722142030f237b679ea8871becc64a72e3fb8",
+  "native_pointer": "connections[0].edges[3].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=120943168474518",
+  "captured_at": "2026-10-24T21:45:50.164Z",
+  "is_active": true,
+  "start_utc": "2026-10-08T07:00:00+00:00",
+  "display_format": "VIDEO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1570661731043353",
+  "snapshot_sha256": "0ad0dca35291cbc679c6bdcb105a4d9e3d897ec8e2cd8d8fc00e616e7b396c58",
+  "text_fields": {
+    "body": {
+      "text": "one thing I’d tell every first-time parent? download @huckleberrycare 🍼 as a new mom, it has been such a helpful way for me to keep track of Leo’s sleep, feedings, diapers and more! download the free app through the link in my bio, new users get two weeks of free access to a premium membership! #huckleberrypartner"
+    },
+    "title": null,
+    "caption": "itunes.apple.com",
+    "link_description": null,
+    "link_url": "http://itunes.apple.com/app/id1169136078",
+    "cta_text": "Install now",
+    "cta_type": "INSTALL_MOBILE_APP",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "bfc2fc7ad709f65b22cbe28f1a859e6bf9f83392abc79f94425aa59151d10b69",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 1,
+  "cards_count": 0
+}

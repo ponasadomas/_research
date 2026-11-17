@@ -1,0 +1,23 @@
+{
+  "requested_url": "https://babysparks.com/",
+  "final_url": "https://babysparks.com/",
+  "status": 200,
+  "date_utc": "2026-10-24T21:47:32.356147+00:00",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:47:31 GMT",
+    "Server": "Apache",
+    "Vary": "Accept-Encoding,Cookie",
+    "Cache-Control": "max-age=3, must-revalidate",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Upgrade": "h2,h2c",
+    "Connection": "Upgrade, Keep-Alive",
+    "Content-Encoding": "gzip",
+    "Keep-Alive": "timeout=2, max=100",
+    "Transfer-Encoding": "chunked",
+    "Content-Type": "text/html; charset=UTF-8"
+  },
+  "redirects": [],
+  "raw_file": "_raw/advertiser-map04-sleep-play/babysparks-home.body",
+  "sha256": "c34d5b8db97c99c24f2005293d52b528788ffb9c29825c4629ce47d615b92900",
+  "bytes": 312436
+}

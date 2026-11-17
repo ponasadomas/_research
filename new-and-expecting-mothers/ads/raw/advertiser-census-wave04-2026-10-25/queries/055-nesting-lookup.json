@@ -1,0 +1,16 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "Nesting Notes",
+  "captured_at": "2026-10-24T22:07:11.308Z",
+  "suggestions": "e/\"\n  uid=105_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=105_1 generic\n      uid=105_2 button \"Search for exact phrase Nesting Notes\"\n    uid=105_3 generic description=\"Nesting Notes Co. 58 follow this · Consulting agency @nestingnotesco· 231 followers\"\n    uid=105_4 generic description=\"Notes on Nesting @notes.on.nesting.nl· 75 follow this · Baby goods/kids goods\"\n",
+  "candidates": [
+    {
+      "uid": "105_3",
+      "description": "Nesting Notes Co. 58 follow this · Consulting agency @nestingnotesco· 231 followers"
+    },
+    {
+      "uid": "105_4",
+      "description": "Notes on Nesting @notes.on.nesting.nl· 75 follow this · Baby goods/kids goods"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+SOURCE: https://www.digistore24.com/robots.txt
+FINAL: https://www.digistore24.com/robots.txt
+HTTP: 200
+ERROR: 
+
+# Marketing site (www.digistore24.com)
+User-agent: *
+Allow: /
+
+Sitemap: https://www.digistore24.com/sitemap.xml
+
+
+# App (digistore24.com platform)
+User-agent: *
+Disallow: /webinc/
+Disallow: /application/
+Disallow: /scripts/
+Disallow: /doc/
+Disallow: /third_party/
+Disallow: /upload/
+Disallow: /data/
+Disallow: /invoice/
+Disallow: /receipt/
+Disallow: /eticket/
+Disallow: /personal_data/
+Disallow: /creditnote/
+Disallow: /order_confirmation/
+Disallow: /commissions/
+Disallow: /proof/
+Disallow: /access/
+Disallow: /config/
+Disallow: /browser/
+Disallow: /file/
+Disallow: /renew/
+Disallow: /pay/
+Disallow: /ajax/
+
+Sitemap: https://www.digistore24.com/v2/marketplace/sitemaps.xml

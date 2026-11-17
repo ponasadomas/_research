@@ -1,0 +1,84 @@
+{
+  "ad_id": "1359873516041583",
+  "advertiser": "Lovevery",
+  "page_id": "1859617107640244",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/005-lovevery-page.json",
+  "capture_sha256": "90a8b882dbb1767b9749a6e1fc440e0cf6a15ce0443a164b39221c0ba9fae64d",
+  "native_pointer": "connections[0].edges[7].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=1859617107640244",
+  "captured_at": "2026-10-24T21:46:30.893Z",
+  "is_active": true,
+  "start_utc": "2026-06-09T07:00:00+00:00",
+  "display_format": "DCO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1359873516041583",
+  "snapshot_sha256": "bb940350187e45569fcaa7a2b39499ac254e0e7302cd62f2279834635a17cd57",
+  "text_fields": {
+    "body": {
+      "text": "{{product.brand}}"
+    },
+    "title": "{{product.name}}",
+    "caption": "lovevery.com",
+    "link_description": "{{product.description}}",
+    "link_url": "https://lovevery.com/products/the-play-kits-the-looker",
+    "cta_text": "Shop now",
+    "cta_type": "SHOP_NOW",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": [
+      {
+        "body": "Parents call it a few minutes of peace. We call it purposeful play. 🙌\n\nWith movement that captures babies' attention, the Look At Me Ladybug encourages visual tracking and focus while supporting early development through play.",
+        "title": "The Looker Play Kit 🐞",
+        "caption": "lovevery.com",
+        "link_description": " ",
+        "link_url": "https://lovevery.com/products/the-play-kits-the-looker",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      },
+      {
+        "body": "Parents call it a few minutes of peace. We call it purposeful play. 🙌\n\nWith movement that captures babies' attention, the Look At Me Ladybug encourages visual tracking and focus while supporting early development through play.",
+        "title": "The Looker Play Kit 🐞",
+        "caption": "lovevery.com",
+        "link_description": " ",
+        "link_url": "https://lovevery.com/products/the-play-kits-the-looker",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      },
+      {
+        "body": "Parents call it a few minutes of peace. We call it purposeful play. 🙌\n\nWith movement that captures babies' attention, the Look At Me Ladybug encourages visual tracking and focus while supporting early development through play.",
+        "title": "The Looker Play Kit 🐞",
+        "caption": "lovevery.com",
+        "link_description": " ",
+        "link_url": "https://lovevery.com/products/the-play-kits-the-looker",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      },
+      {
+        "body": "Parents call it a few minutes of peace. We call it purposeful play. 🙌\n\nWith movement that captures babies' attention, the Look At Me Ladybug encourages visual tracking and focus while supporting early development through play.",
+        "title": "The Looker Play Kit 🐞",
+        "caption": "lovevery.com",
+        "link_description": " ",
+        "link_url": "https://lovevery.com/products/the-play-kits-the-looker",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      },
+      {
+        "body": "Parents call it a few minutes of peace. We call it purposeful play. 🙌\n\nWith movement that captures babies' attention, the Look At Me Ladybug encourages visual tracking and focus while supporting early development through play.",
+        "title": "The Looker Play Kit 🐞",
+        "caption": "lovevery.com",
+        "link_description": " ",
+        "link_url": "https://lovevery.com/products/the-play-kits-the-looker",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      }
+    ]
+  },
+  "text_fields_sha256": "6cdffd29b4b19631b5518aa6623aa326c34c502ccc77e9258fc72a24af66db40",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 0,
+  "cards_count": 5
+}

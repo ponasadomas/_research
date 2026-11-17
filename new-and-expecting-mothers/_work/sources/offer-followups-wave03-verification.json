@@ -1,0 +1,64 @@
+{
+  "status": "passed",
+  "errors": [],
+  "counts": {
+    "domains": 4,
+    "robots_read": 4,
+    "retained_pages": 15,
+    "full_public_pages": 15,
+    "partial_retained_pages": 0,
+    "unread_retained_pages": 0,
+    "faq_answers_individually_expanded_read": 6,
+    "complete_seller_hosted_testimonials": 4,
+    "seller_process_illustrations": 1,
+    "truncated_widget_previews_not_original_reads": 1,
+    "new_competitor_notes": 4,
+    "quotes": 4,
+    "all_quotes_research_only": true,
+    "relevant_access_denials": 0,
+    "independent_original_buyers": 0,
+    "standalone_customized_report_transactions_established": 0
+  },
+  "per_original_quoted_words_including_note_repeats": {
+    "stresslessmom.com/": 18,
+    "thevillageparentcommunity.com/virtual-baby-proofing": 8,
+    "curatedtogrow.com/copy-of-services": 10,
+    "nestingnotesco.com/services": 16
+  },
+  "prior_work_quote_overlap": [],
+  "manual_full_context_checks": 4,
+  "note_id_checks": [
+    {
+      "file": "competitors/wave03-followup-curatedtogrow.md",
+      "distinct_ids": 1,
+      "mentions": 1
+    },
+    {
+      "file": "competitors/wave03-followup-nestingnotes.md",
+      "distinct_ids": 1,
+      "mentions": 1
+    },
+    {
+      "file": "competitors/wave03-followup-stresslessmom.md",
+      "distinct_ids": 1,
+      "mentions": 1
+    },
+    {
+      "file": "competitors/wave03-followup-village.md",
+      "distinct_ids": 1,
+      "mentions": 1
+    },
+    {
+      "file": "sources/offer-followups-wave03.md",
+      "distinct_ids": 4,
+      "mentions": 4
+    },
+    {
+      "file": "synthesis/reader-notes-offer-followups-wave03.md",
+      "distinct_ids": 4,
+      "mentions": 7
+    }
+  ],
+  "strict_verifier": "offer-followups-wave03.jsonl: 4 quotes, 0 failed\nTOTAL 4 quotes, 0 failed",
+  "source_limits": "Seller offers/hosted testimonials/illustration only; external widget original and account/form/payment/output routes uninspected; earlier other11 leads untouched."
+}

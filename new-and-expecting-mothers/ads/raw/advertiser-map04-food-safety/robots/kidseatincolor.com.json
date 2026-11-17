@@ -1,0 +1,26 @@
+{
+  "url": "https://kidseatincolor.com/robots.txt",
+  "status": 200,
+  "final_url": "https://kidseatincolor.com/robots.txt",
+  "headers": {
+    "Connection": "close",
+    "Content-Length": "265",
+    "Cache-Control": "public, max-age=604800",
+    "Content-Type": "text/plain; charset=utf-8",
+    "Link": "<https://kidseatincolor.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "Server": "nginx",
+    "Strict-Transport-Security": "max-age=31622400",
+    "X-Pantheon-Styx-Hostname": "styx-us-a-fbbcf58dd-4rlp7",
+    "X-Robots-Tag": "noindex, follow",
+    "X-Styx-Req-Id": "80f58109-ce30-11f1-b3c5-0e9613a5aa45",
+    "Date": "Sat, 24 Oct 2026 21:45:44 GMT",
+    "X-Served-By": "cache-chi-kigq8000152-CHI, cache-ber1080038-BER",
+    "X-Cache": "HIT, MISS",
+    "X-Cache-Hits": "54, 0",
+    "X-Timer": "S1792878345.596025,VS0,VE119",
+    "Vary": "Accept-Encoding",
+    "Age": "194029",
+    "Accept-Ranges": "bytes",
+    "Via": "1.1 varnish, 1.1 varnish"
+  }
+}

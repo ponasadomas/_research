@@ -1,0 +1,28 @@
+{
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:46:31 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "x-lambda-id": "3b1b8993-e850-45a8-886e-47c3f3348767",
+    "x-wf-region": "us-east-1",
+    "set-cookie": "_cfuvid=cJbA_ZfXX3h7zSiIAyn07K2i5SEgaoel2YoRjxbi_QI-1792878391.125499-1.0.1.1-eqLYJAwPwDjeyp.sqDQPlgVTKV58lfvVjLJVNVlpiqA; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.safeintheseat.com",
+    "cf-cache-status": "DYNAMIC",
+    "Age": "354918",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ZB5v%2Fcg2ZYNprK6b%2F2sUgeodRTb%2Fwy7UIT3BfixN284o79kaD9o5Agj%2F8ld9dc8TL6oras%2B3fy9ZUbAEZBnSza3uG9srec8pZEjFc%2FZpwQ5M7ZUn9SozcEKsmuhOrjltzoxikNMEPg%3D%3D\"}]}",
+    "Last-Modified": "Sat, 24 Oct 2026 21:46:31 GMT",
+    "Link": "<https://cdn.prod.website-files.com>; rel=preconnect; crossorigin, <https://cdn.prod.website-files.com/65f0928c857dd6313c02fa18/css/safeintheseat.webflow.shared.1796d2771.min.css>; rel=preload; as=style; crossorigin; integrity=\"sha384-F5bSdxVXVOr1uG4U73JtqZQF/XKMZiKKIHUhAcNm4hv3nsRk8n8VvMi07PjOfcYp\", <https://cdn.jsdelivr.net/gh/sygnaltech/webflow-util@4.11/dist/css/webflow-format.min.css>; rel=preload; as=style",
+    "Server": "cloudflare",
+    "Strict-Transport-Security": "max-age=31536000; preload",
+    "Vary": "accept-encoding",
+    "content-security-policy": "frame-ancestors 'self'",
+    "o2o-cache-status": "HIT",
+    "surrogate-control": "max-age=432000",
+    "surrogate-key": "www.safeintheseat.com 65f0928c857dd6313c02fa18 pageId:66881dbf3dd6eedf3935ebb2 66eb5b4ff851d1651fd2fdea 66eb5b71cb6e2041a4aceae1",
+    "x-frame-options": "SAMEORIGIN",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "gzip",
+    "CF-RAY": "a4fc2cb8688fb80a-RIX"
+  },
+  "history": []
+}

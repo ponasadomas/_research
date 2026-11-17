@@ -1,0 +1,28 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "Mothercould",
+  "captured_at": "2026-10-24T21:58:30.476Z",
+  "suggestions": "ge/\"\n  uid=66_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=66_1 generic description=\"Search for exact phrase Mothercould \"Mothercould\" Search this exact phrase\"\n      uid=66_2 button \"Search for exact phrase Mothercould\"\n    uid=66_3 generic description=\"MOTHERCOULD @mothercould · 807.7K follow this · Digital creator @mothercould · 1.6M followers\"\n    uid=66_4 generic description=\"Mothercould 2.4K follow this · Artist\"\n    uid=66_5 generic description=\"Mothercould Shop 0 follow this · Children & Parenting @shop.mothercould· 404 followers\"\n    uid=66_6 generic description=\"IG Ads Identity\"\n    uid=66_7 generic description=\"shop.mothercould @shop.mothercould· 404 followers\"\n",
+  "candidates": [
+    {
+      "uid": "66_3",
+      "description": "MOTHERCOULD @mothercould · 807.7K follow this · Digital creator @mothercould · 1.6M followers"
+    },
+    {
+      "uid": "66_4",
+      "description": "Mothercould 2.4K follow this · Artist"
+    },
+    {
+      "uid": "66_5",
+      "description": "Mothercould Shop 0 follow this · Children & Parenting @shop.mothercould· 404 followers"
+    },
+    {
+      "uid": "66_6",
+      "description": "IG Ads Identity"
+    },
+    {
+      "uid": "66_7",
+      "description": "shop.mothercould @shop.mothercould· 404 followers"
+    }
+  ]
+}

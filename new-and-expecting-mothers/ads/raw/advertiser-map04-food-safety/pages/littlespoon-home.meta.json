@@ -1,0 +1,32 @@
+{
+  "slug": "littlespoon-home",
+  "url": "https://www.littlespoon.com/",
+  "robots_status": 200,
+  "robots_allowed": true,
+  "robots_file": "_raw/advertiser-map04-food-safety/robots/www.littlespoon.com.txt",
+  "raw_file": "_raw/advertiser-map04-food-safety/pages/littlespoon-home.html",
+  "text_file": "_raw/advertiser-map04-food-safety/pages/littlespoon-home.txt",
+  "sha256": "3b574ea810e085cc59fcb90322a785dab1523349f09632271e3f480bfd84be9d",
+  "bytes": 311164,
+  "utc": "2026-10-24T21:46:32.613444+00:00",
+  "status": 200,
+  "final_url": "https://www.littlespoon.com/",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:46:32 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "CF-Ray": "a4fc2cbdabbce4da-RIX",
+    "CF-Cache-Status": "DYNAMIC",
+    "Cache-Control": "s-maxage=31536000",
+    "Server": "cloudflare",
+    "Strict-Transport-Security": "max-age=7776000; includeSubDomains",
+    "Vary": "Accept-Encoding",
+    "Via": "2.0 heroku-router",
+    "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+    "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=viWxfSOQPgSUT%2BXA8eDUgMmPjQq5J3yMJNkwMeZC7zs%3D\\u0026sid=67ff5de4-ad2b-4112-9289-cf96be89efed\\u0026ts=1792878392\"}],\"max_age\":3600}",
+    "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=viWxfSOQPgSUT%2BXA8eDUgMmPjQq5J3yMJNkwMeZC7zs%3D&sid=67ff5de4-ad2b-4112-9289-cf96be89efed&ts=1792878392\"",
+    "x-nextjs-cache": "HIT",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  }
+}

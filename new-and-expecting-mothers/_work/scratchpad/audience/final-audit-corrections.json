@@ -1,0 +1,58 @@
+[
+  {
+    "id": "rev01-0055",
+    "before": {
+      "context": "Mother and nanny stopped after a previously free feature became paid; historical 2021 account."
+    },
+    "after": {
+      "context": "Mother working as a nanny stopped after a previously free feature became paid; historical 2021 account."
+    }
+  },
+  {
+    "id": "rev01-0085",
+    "before": {
+      "stage": "baby_6_12_months"
+    },
+    "after": {
+      "stage": "unknown"
+    }
+  },
+  {
+    "id": "rev01-0087",
+    "before": {
+      "stage": "baby_6_12_months"
+    },
+    "after": {
+      "stage": "unknown"
+    }
+  },
+  {
+    "id": "rev01-0125",
+    "before": {
+      "speaker": "experienced_mother",
+      "context": "Mother of four values an explanation for changing behavior; perceived accuracy does not validate scheduled leaps."
+    },
+    "after": {
+      "speaker": "parent_unspecified",
+      "context": "Parent of four values an explanation for changing behavior; perceived accuracy does not validate scheduled leaps."
+    }
+  },
+  {
+    "id": "aud01-0087",
+    "before": {
+      "context": "Commenter describes an organizational tool that helped protect work breaks."
+    },
+    "after": {
+      "context": "Commenter describes recurring calendar blocks used to reserve workplace pumping breaks."
+    }
+  },
+  {
+    "id": "aud01-0028",
+    "before": {
+      "stage": "baby_4_6_months"
+    },
+    "after": {
+      "stage": "unknown"
+    }
+  }
+]

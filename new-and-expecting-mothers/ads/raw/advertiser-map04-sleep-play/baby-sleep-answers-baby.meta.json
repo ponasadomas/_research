@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://www.babysleepanswers.com/baby",
+  "final_url": "https://www.babysleepanswers.com/baby",
+  "status": 200,
+  "date_utc": "2026-10-24T21:47:29.408067+00:00",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:47:29 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Age": "0",
+    "Cache-Control": "public,max-age=0,must-revalidate",
+    "cache-status": "\"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=4O%2BBSDzRwKdyfMDMSXkwh%2FzPs9JzEFn8eMltCf9UL5eor3nMCI5DKDfi1InbVDJR53pWpHZeiAb20vjgCynWOQvqqgLBEEncnyxXw78%2Bt6xq6uSSpgz2%2FbXBiKT4XXeNM8xuysy%2BSXfEnNo%3D\"}]}",
+    "Server": "cloudflare",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Accept-Encoding",
+    "x-nf-request-id": "01M5QY44KZ1981YY97H8Q41R6P",
+    "cf-cache-status": "DYNAMIC",
+    "Content-Encoding": "zstd",
+    "CF-RAY": "a4fc2e229e0ee4e4-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "redirects": [],
+  "raw_file": "_raw/advertiser-map04-sleep-play/baby-sleep-answers-baby.body",
+  "sha256": "8b8f58f461ca0f6d761e2ece2456a0ad2959161b94e4890c2b5dcebb0c78578b",
+  "bytes": 10626
+}

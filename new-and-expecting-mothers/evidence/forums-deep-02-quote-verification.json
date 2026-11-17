@@ -1,0 +1,14 @@
+{
+  "file": "voice/forums-deep-02.jsonl",
+  "quotes": 15,
+  "failed": 0,
+  "max_quote_words": 17,
+  "cross_wave_author_aggregate_word_max": 23,
+  "checks": [
+    "exact original post substring",
+    "normalized raw HTML text match",
+    "quote/context<=25words",
+    "aggregate author quote words<=25 across fdeep01+02",
+    "complete thread/page read"
+  ]
+}

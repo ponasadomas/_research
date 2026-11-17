@@ -1,0 +1,540 @@
+{
+  "method": "Every cited quote id looked up against final voice and checked for claim/source alignment; all corrected links also looked up literally. Unquoted original ids in crosspost audit are not quote ids.",
+  "corrected_claim_reference_groups": 8,
+  "originally_mislinked_id_references": 9,
+  "corrections": [
+    {
+      "claim": "Return-to-work research absorption",
+      "old_suffixes": "0048",
+      "new_suffixes": "0047"
+    },
+    {
+      "claim": "Grandparents and upstairs nursery",
+      "old_suffixes": "0109",
+      "new_suffixes": "0111"
+    },
+    {
+      "claim": "Books rejected by high-energy infant",
+      "old_suffixes": "0101",
+      "new_suffixes": "0100"
+    },
+    {
+      "claim": "Useful adaptive Huckleberry tracking",
+      "old_suffixes": "0104",
+      "new_suffixes": "0103"
+    },
+    {
+      "claim": "Gifted Precious Little Sleep book",
+      "old_suffixes": "0061",
+      "new_suffixes": "0060"
+    },
+    {
+      "claim": "Monitor value statement narrowed to remote access",
+      "old_suffixes": "0110,0111",
+      "new_suffixes": "0113"
+    },
+    {
+      "claim": "Professor workload and pumping",
+      "old_suffixes": "0115",
+      "new_suffixes": "0116"
+    },
+    {
+      "claim": "Year-round subsidized childcare coverage",
+      "old_suffixes": "0116",
+      "new_suffixes": "0117"
+    }
+  ],
+  "unique_reader_note_quote_ids": 64,
+  "active_reference_records": [
+    {
+      "id": "rjnp01-0004",
+      "post_id": "1lp25ez",
+      "quote": "I see so many people following moms on call and I feel like I’m doing this wrong but it seems to work for us? Will I regret this?",
+      "context": "Eleven-week-old sleeps well; flexible cue-based days already fit outings and grandparents.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0005",
+      "post_id": "1lp25ez",
+      "quote": "On weekends we’re out and about so I don’t want some strict nap time to be home for. I work from home with her with me sometimes and other times she’s at her grandparents.",
+      "context": "Existing flexible routine works; strict schedules may conflict with family life.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0018",
+      "post_id": "1lqfinz",
+      "quote": "I joined a Facebook group, but the amount of information is honestly a little too much right now. I’m looking for something that simplifies the process but still helps me feel confident and well prepared.",
+      "context": "Approaching solids; asks for step-by-step food selection, serving and avoidance resource.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0019",
+      "post_id": "1lqmfvu",
+      "quote": "I had to hold my 4 month old for 8 hours straight as a result.",
+      "context": "Airline bassinet research and advance phone advice failed at the gate; operational claims are author reports.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0020",
+      "post_id": "1lqq63g",
+      "quote": "Baby is a very snacky eater (we never know if he’ll eat 4oz or 1oz), so we use a formula pitcher and pour an ounce at a time typically.",
+      "context": "Two-story home; parents weigh bottle access, fridge purchase and shifts as partner leave ends.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0023",
+      "post_id": "1lr4adu",
+      "quote": "I feel like the point at which I would feed him soilds he’s so sleepy and ready for a nap he doesn’t want it.",
+      "context": "First-time mother combining purees and BLW asks where solids fit between bottles and naps.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0027",
+      "post_id": "1lsdadr",
+      "quote": "I thought I spent a lot of time curating my baby registry and researching baby products. I thought it was all minimal yet realistic and perfect and blah blah blah. But I still found that there were a lot of things I wanted and thought I had to have that I just never used or cared for.",
+      "context": "Full original enumerates unused high chair, phone substitute for sound machine and short-lived bath seat.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0028",
+      "post_id": "1lsdadr",
+      "quote": "**Portable noise machine:** I used an app on my phone",
+      "context": "Author lists a free existing device as substitute for researched registry equipment.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0033",
+      "post_id": "1lt7fap",
+      "quote": "I just want something like the physical book but in a file that has pages with questions and prompts for milestones that I can type into and attach pictures. Then print out myself.",
+      "context": "Explicit editable printable file preference after rejecting expensive subscriptions and locked printing.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0035",
+      "post_id": "1lthmtz",
+      "quote": "LOVE the app, I don’t know how to survive without it. I’m wondering when did you start to see a trend developing?",
+      "context": "Satisfied Huckleberry user reports one month of use without a consistent daily schedule.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0036",
+      "post_id": "1ltw1aj",
+      "quote": "I downloaded the Sleeper app to help guide our wake windows and nap times. It was helpful at first, but eventually, it became more of a burden than a tool.",
+      "context": "Eight-month-old; parent later abandoned rigid tracking and reports cue-led days helped.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0037",
+      "post_id": "1ltw1aj",
+      "quote": "The turning point for me was when my partner and I went to a wedding and left our son with my mom for the weekend. She totally winged it—no schedule, no stress.",
+      "context": "Grandparent weekend challenged app-led rules; personal outcome does not establish causal sleep advice.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0041",
+      "post_id": "1luupbd",
+      "quote": "I honestly wish i could shadow someone with an 8 week old and just see how they do it, because i just don't understand.",
+      "context": "Bottle preparation, infant placement and shopping logistics make ordinary outings hard to picture.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0047",
+      "post_id": "1lvi1bi",
+      "quote": "The timing couldn't be worse - just when the sleep got worse, I've returned to work. I'm finding myself too tired or have too little free time to really sit and do the research, let alone absorb it.",
+      "context": "Requests exact routine steps and realistic time required; information access alone is insufficient.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0053",
+      "post_id": "1lwgt5d",
+      "quote": "Then I see online how people are practicing sitting with their 4 month olds, so I add that to the routine.",
+      "context": "Each online comparison adds another daily task; parent asks for a stage checklist.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0054",
+      "post_id": "1lwgt5d",
+      "quote": "Is there an app or something that has a checklist of things I should be doing at each stage?",
+      "context": "Task list expands from rolling to sitting, talking and assisted crawling; no accelerated-development promise warranted.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0060",
+      "post_id": "1lxm2lp",
+      "quote": "We didn’t stress about bad habits because we learned that newborns are too young to develop them, and had a great guide for the best timeline to start routines for sleep and when to change habits.",
+      "context": "Sixteen-week-old; parent reports helpful gifted Precious Little Sleep book; developmental claim is author belief.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0066",
+      "post_id": "1lywce7",
+      "quote": "This whole thing made me very nervous because we have a nanny starting next week and now I'm worried she won't be able to get her to nap... Any tips to help ease the transition?? I have a week of overlap with the nanny before I have to go back to work.",
+      "context": "Mother’s successful routine failed when husband followed same steps; needs practical transfer to another caregiver.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0067",
+      "post_id": "1lyy1pr",
+      "quote": "During playtime he doesn’t care and doesn’t really listen if I try to read something to him, he only wants to destroy the book lol.",
+      "context": "Nine-month-old ignores reading during play and before sleep; ideal activity requires an age-fit adaptation.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0069",
+      "post_id": "1lzxf31",
+      "quote": "He's currently 10 months old, so will be 11 months at the time of the trip. I keep seeing suggestions about sticker books and stuff, but that's too old for him.",
+      "context": "Previous toys did not help five-hour car journeys; common travel advice targets older children.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0072",
+      "post_id": "1m0rtzq",
+      "quote": "I have the solid starts app but I’m honestly overwhelmed with how to….start??  I see a guide that lists the top first foods for babies but I wish it were more like, “day 1 start with this exact food!”",
+      "context": "Existing food reference does not supply wanted sequence; family already offers purees.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0073",
+      "post_id": "1m0rtzq",
+      "quote": "I also ordered some stuff from Little Spoon.",
+      "context": "Actual Little Spoon order reported alongside Solid Starts use; no price, delivery or improvement established.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0075",
+      "post_id": "1m0wwus",
+      "quote": "But if I google solid for baby it shows all these multiple ingredient recipes. There is also confusing advice on what texture of food to aim for at this age (like when to transition from puree to more lumpy)",
+      "context": "Eight-month-old; clinician advice and search recipe format appear hard to reconcile; no clinical protocol endorsed.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0077",
+      "post_id": "1m1fp76",
+      "quote": "Hi been using the app for 7 month now and the app just glitched and everything I recorded is gone. All sleep,  diaper change and growth, just gone! It also took away the annual plus membership I paid and offering me a 14 days trail.",
+      "context": "Huckleberry user explicitly reports paid annual membership and loss of access/data; no independent outage confirmation.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0078",
+      "post_id": "1m1othf",
+      "quote": "My husband and I decided it would be best for me to have a little extra space and comfort and we used points to upgrade.",
+      "context": "Solo breastfeeding traveler used points for first-class upgrade; purchase addressed space but social worry remains.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0081",
+      "post_id": "1m2k92s",
+      "quote": "We have a hard time wrapping our brains around eating at 6 and frankly we just aren’t hungry.",
+      "context": "Adult supper at 8–10pm conflicts with eleven-month-old bedtime and desire for shared meals.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0082",
+      "post_id": "1m2pr5d",
+      "quote": "I'm very anxious that my in-laws are overstimulating her and have no idea how to read her cues., I packed a nap kit and sent a nap routine but she isn't sleeping there.",
+      "context": "Six-month-old with grandparents; written routine and kit failed, preferred paid sitter cancelled for cost.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0088",
+      "post_id": "1m3dz9x",
+      "quote": "Also if I use frozen fruits do I have to do anything with those beyond warming them up and blending them?",
+      "context": "Six-month-old, five months adjusted; practical cooking assumptions unclear; quote is a question, not food-safety guidance.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0089",
+      "post_id": "1m3dz9x",
+      "quote": "I think I'm overthinking this 😭 I need like an idiot's guide website to just give me recipes.",
+      "context": "Homemade-food questions distinguish raw, cooked and frozen ingredients; search has not resolved basic preparation.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0091",
+      "post_id": "1m4ezom",
+      "quote": "Also, I'd like for it notify me to check the photos every so often (let's say every week?) so I can select my favorite photos. In that way, by the time the year is over, I would have the best photos for a photo album for the year.",
+      "context": "Android/iPhone household uses Shutterfly albums; annual photo selection is time-consuming and Google sync feels risky.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0094",
+      "post_id": "1m4txc7",
+      "quote": "Most of the things here I purchased with the mindset of convenience and not wanting to spend a second doing things that took me away from baby or prolonged baby screams.",
+      "context": "Parent reports extensive actual purchases with deals; affluent self-selected account, not typical spending estimate.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0095",
+      "post_id": "1m4txc7",
+      "quote": "We can check the app vs waking each other to see when her last feedings and changes were to avoid waking her up too frequently.",
+      "context": "Nanit owner values passive shared record during split duties; quoted benefit is author report.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0096",
+      "post_id": "1m4txc7",
+      "quote": "Convenience and ease of caring for baby tip these into the necessary column for me!",
+      "context": "Countervoice to minimalist registry advice; author would repurchase convenience equipment.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0100",
+      "post_id": "1m5rjxk",
+      "quote": "Everyone says I should start reading her books, I tried but she gets bored very quickly and squirms off my lap.",
+      "context": "Happy high-energy five-month-old; standard quiet play advice clashes with observed interests.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0103",
+      "post_id": "1m6kn27",
+      "quote": "Currently I have the huckleberry app that’s usually pretty accurate for her naps and helps me keep track of her feedings but my friend swears by the moms on call schedule.",
+      "context": "Four-and-a-half-month-old has variable nap length; useful adaptive app challenges fixed routine recommendation.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0105",
+      "post_id": "1m6z7ik",
+      "quote": "I don’t mind planning around naps bc I’ve gotten into a groove for what works.",
+      "context": "Six-month-old; mother enjoys contact naps and night care and does not describe an unmet planning need.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0106",
+      "post_id": "1m7h6ho",
+      "quote": "Ideally I could text or upload photos as I like them and then they are stored for an order - as opposed to uploading and ordering in one go.",
+      "context": "One-month-old; wants low-effort printing cadence and one-handed uploads while feeding.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0107",
+      "post_id": "1m7h6ho",
+      "quote": "Price is not as much as a consideration but ideally it would be reasonable. I think a mobile app may be nice but could also do a good responsive website. Will likely be uploading while breastfeeding with one hand :)",
+      "context": "Stated willingness to consider convenience over lowest price; no purchase observed.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0108",
+      "post_id": "1m7whox",
+      "quote": "It’s now been 2 weeks since I left my job and I’m still sending my son to day care. I’ve been feeling guilty about this but I have found that I’m able to do the chores much more efficiently, cook decent tasty meals for us, and even go to the gym!",
+      "context": "Actual ongoing childcare provides time that an information product alone cannot supply.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0111",
+      "post_id": "1m89206",
+      "quote": "None of the grandparents “trust themselves” to use the stairs in our house while carrying the baby, *but the nursery is on the second level of our home.",
+      "context": "Free childcare offer requires workable downstairs nap setup rather than an upstairs ideal nursery.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0113",
+      "post_id": "1m8eexg",
+      "quote": "I travel occasionally for work, so having an app-enabled baby monitor was essential for us.",
+      "context": "Remote viewing is a specific work constraint; first monitor app proved unreliable, replacement reported better.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0116",
+      "post_id": "1m9g9h4",
+      "quote": "I'm a professor of music and meet with students individually all day. I can create my own schedule more or less. The trouble is that my teaching load is very full.",
+      "context": "Nominal schedule flexibility does not create time; pumping may require fewer students and workload adjustment.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0117",
+      "post_id": "1m9jj4k",
+      "quote": "I will be going back to college and will be hammering out summer and winter semesters so I’d need year round child care.",
+      "context": "Subsidized options remove immediate price difference; school-year closures leave real coverage gaps.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0127",
+      "post_id": "1mb6nlq",
+      "quote": "We’re communicating and not fighting, but it feels like we’re just co-workers in the trenches lately.",
+      "context": "First-time parent describes good shared care alongside loss of couple connection; no violence/crisis disclosed.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0128",
+      "post_id": "1mbab2b",
+      "quote": "That feels chaotic to me. It’s what works best with everyone’s schedule and saves me buckets of money and I don’t have to pay my mom or sister for babysitting.",
+      "context": "Single college student maps a different caregiver/location each weekday, including split days and two overnights.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0129",
+      "post_id": "1mbdqhf",
+      "quote": "We’re now subscribed to huckleberry and nanit pro or whatever the fuck the paid version is called. Ugh. Fine, whatever, take our $$$.",
+      "context": "Existing Nanit/Hatch/Huckleberry purchases; parent discovered recurring fees and underuses overlapping hardware.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0130",
+      "post_id": "1mbh2cv",
+      "quote": "I’m happy to spend $$$ on something that I will love. We walk everyday in our rural neighbourhood (mostly on pavement but also on gravel shoulders and paths) and go on frequent outings around town, so a good stroller is worth the investment for us.",
+      "context": "Free stroller outgrown; used replacement too bulky. Parent values terrain, facing direction and trunk fit over minimum cost.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0131",
+      "post_id": "1mbog2e",
+      "quote": "I got a custom sleep plan from Huckleberry and some of the suggestions sound great. \nBut implementing anything new just feels like so much extra work that I rarely stick with it.",
+      "context": "Custom plan received; payment unobserved. Advice must fit parent capacity and flight-instructor partner’s overnight limits.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0133",
+      "post_id": "1mc0m5s",
+      "quote": "How do you shower/dress yourself? Should I bring my own hair drier set up for my baby? (He has tons of thick hair and it will be really cold + we will get there by bus).",
+      "context": "Swimming class booked around naps; parent needs walkthrough of changing-room logistics before first visit.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0134",
+      "post_id": "1mcegtd",
+      "quote": "I am nervous about when she starts daycare since they want us to provide a schedule.",
+      "context": "Child has variable daytime naps and mainly contact naps; institutional form requires certainty family does not have.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0136",
+      "post_id": "1mcom5n",
+      "quote": "I’d never ever do cry it out, but when my baby was a few weeks old I turned to taking Cara babies - bought the program out of desperation really.",
+      "context": "Now nine months; parent retrospectively reports program purchase and difficult transfer to daycare/on-the-go naps.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0137",
+      "post_id": "1mcom5n",
+      "quote": "The program has you use a dark room with a noise machine… I feel like I set my baby to only sleep in those conditions and he ever since has struggled sleeping on the go or anywhere else really.",
+      "context": "Parent attributes location inflexibility to program; causal claim is unverified personal interpretation.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0138",
+      "post_id": "1mcx8xp",
+      "quote": "Normally, it would take me 2 hrs to prep, make 4-5meal worth and cleanup. Well with two working hands, we got triple the amount in 1.5 hr and both enjoy the adult socialization.",
+      "context": "Meal-prep gatherings with two known families combine shared ingredients, parallel kitchen tasks and fathers handling children.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0139",
+      "post_id": "1mcx8xp",
+      "quote": "At least 1 person needs to be very comfortable with the recipe and ideally the recipe is not complicated.",
+      "context": "Author’s successful collaborative meal prep requires someone with recipe familiarity; not automatically suitable for low-cooking households.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0140",
+      "post_id": "1md5re4",
+      "quote": "We even started taking walks together with the stroller just to get outside and talk about something other than nap schedules.",
+      "context": "Parent reports notes, voice memos, walks and weekly check-ins; unnamed app also used, no purchase established.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0141",
+      "post_id": "1md8uu1",
+      "quote": "My friends are all telling me that when the baby comes I will not want to cook. However, my friends have all historically hated cooking anyway.",
+      "context": "Enthusiastic cook sees dinner preparation as restoration; cooking-avoidance assumption does not fit this parent.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0143",
+      "post_id": "1mdd81p",
+      "quote": "If we deviate in the slightest bit, I have a hard time thinking about the schedule as “flexible” and we end up disregarding it altogether.",
+      "context": "Eight-month-old; babysitter starts soon; parent needs recovery rules after a plan changes, with later bedtime retained.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0144",
+      "post_id": "1mdd81p",
+      "quote": "Do you suggest making a hour by hour schedule? Do you suggest disregarding times and going with routines instead? What’s an example?",
+      "context": "Concrete example sought rather than generic instruction to be flexible.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0145",
+      "post_id": "1mdg7fw",
+      "quote": "if business, do I buy 2 tickets? I definitely will have to break a leg and an arm to book even 1 business class ticket but I'm assuming it might be necessary to book atleast 1 business class ticket.",
+      "context": "Solo 24–36-hour journey planned for when child is eighteen months; affordability conflicts with perceived comfort requirement.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0147",
+      "post_id": "1mdva3q",
+      "quote": "is setting a schedule good for her? Or just good for predictability for the parents?",
+      "context": "Fifteen-week-old already has zero to one wakeup; parent asks what problem a schedule would solve.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0148",
+      "post_id": "1me6091",
+      "quote": "Anyway my question is where do you fit in the cognitive learning when baby is so busy exploring they just can’t be bothered to pay attention?",
+      "context": "Eleven-month-old is mobile and uninterested in stationary reading; parent treats movement and learning as competing tasks.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0149",
+      "post_id": "1medrv6",
+      "quote": "I can never make their storytime events for my 4 month old but I decided to bring her in the afternoon and even though nothing is scheduled we sat and she watched the other kids play!",
+      "context": "Unscheduled library visit works when formal storytime cannot fit baby’s day; parent plans to repeat.",
+      "human_alignment_checked": true
+    },
+    {
+      "id": "rjnp01-0150",
+      "post_id": "1mef23j",
+      "quote": "- when added as a widget, it’s lightning fast, 3 taps, just a current timestamp and an emoji\n- no app to navigate, no ads, \n- free and customizable",
+      "context": "Parent shares self-built iOS shortcuts as free tracker; no charts, graphs or polished app, and customization requires coding.",
+      "human_alignment_checked": true
+    }
+  ],
+  "explicitly_withdrawn_references": [
+    "rjnp01-0076"
+  ],
+  "source_ledger_reference_status": [
+    {
+      "id": "rjnp01-0014",
+      "status": "withdrawn"
+    },
+    {
+      "id": "rjnp01-0057",
+      "status": "active"
+    },
+    {
+      "id": "rjnp01-0073",
+      "status": "active"
+    },
+    {
+      "id": "rjnp01-0076",
+      "status": "withdrawn"
+    },
+    {
+      "id": "rjnp01-0092",
+      "status": "withdrawn"
+    },
+    {
+      "id": "rjnp01-0093",
+      "status": "withdrawn"
+    },
+    {
+      "id": "rjnp01-0097",
+      "status": "withdrawn"
+    },
+    {
+      "id": "rjnp01-0112",
+      "status": "duplicate_removed"
+    },
+    {
+      "id": "rjnp01-0118",
+      "status": "withdrawn"
+    },
+    {
+      "id": "rjnp01-0119",
+      "status": "withdrawn"
+    },
+    {
+      "id": "rjnp01-0120",
+      "status": "withdrawn"
+    }
+  ]
+}

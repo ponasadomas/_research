@@ -1,0 +1,76 @@
+{
+  "ad_id": "1814444903242979",
+  "page_id": "186268468076113",
+  "page_name": "Babylist",
+  "snapshot_page_id": "186268468076113",
+  "snapshot_page_name": "Babylist",
+  "snapshot_identity_differs": false,
+  "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/025-babylist-page.json",
+  "source_file_sha256": "dde70e8c18f3207f84afe706c6f2755c427dfe16d758878c6a2e475652c6807b",
+  "captured_at": "2026-10-24T21:52:19.573Z",
+  "native_is_active": true,
+  "start_timestamp": 1790838000,
+  "start_utc": "2026-10-01T07:00:00+00:00",
+  "displayed_start_date": "Oct 1, 2026",
+  "collation_id": "1802548307546513",
+  "collation_count": 1,
+  "display_format": "CAROUSEL",
+  "primary_destination": "https://www.babylist.com/quiz/which-nuna-stroller-should-you-get",
+  "card_destinations": [
+    "https://www.babylist.com/quiz/which-nuna-stroller-should-you-get",
+    "https://www.babylist.com/quiz/which-nuna-stroller-should-you-get"
+  ],
+  "native_body_sha256": "9bbe13d6f5af338e9c9e2fb5bd82a1f9225da911de88ff7a979180391cc8a6b5",
+  "native_text_bundle_sha256": "9f559dee388558ecae1d320e64afc05b4429d14d65a30fdab793663994feb5b6",
+  "native_ad_sha256": "228073465e847d220c174d3cac43375cff3ce3257adf68fd0716c81a77e900a9",
+  "text_bundle": {
+    "body": "Too many wheels to compare? Take this quick quiz to find the right fit for your family.",
+    "top": {
+      "caption": "www.babylist.com",
+      "cta_text": "Learn more",
+      "cta_type": "LEARN_MORE",
+      "title": "Babylist",
+      "link_description": null,
+      "link_url": "https://www.babylist.com/quiz/which-nuna-stroller-should-you-get",
+      "display_format": "CAROUSEL",
+      "byline": null,
+      "disclaimer_label": null,
+      "additional_info": null,
+      "extra_links": [],
+      "extra_texts": [],
+      "branded_content": null,
+      "root_reshared_post": null
+    },
+    "cards": [
+      {
+        "body": "",
+        "caption": "babylist.com",
+        "title": "Find your match ➡️",
+        "link_description": "",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://www.babylist.com/quiz/which-nuna-stroller-should-you-get"
+      },
+      {
+        "body": "",
+        "caption": "babylist.com",
+        "title": "Find your match ➡️",
+        "link_description": "",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://www.babylist.com/quiz/which-nuna-stroller-should-you-get"
+      }
+    ]
+  },
+  "excluded_card_media_fields": [
+    "image_crops",
+    "original_image_url",
+    "resized_image_url",
+    "video_hd_url",
+    "video_preview_image_url",
+    "video_sd_url",
+    "watermarked_resized_image_url",
+    "watermarked_video_hd_url",
+    "watermarked_video_sd_url"
+  ]
+}

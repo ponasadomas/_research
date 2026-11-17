@@ -1,0 +1,164 @@
+[
+  {
+    "app": "huckleberry",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/huckleberry-baby-tracker/id1169136078?see-all=reviews",
+    "http_status": "200_existing_capture",
+    "raw_file": "_raw/reviews/huckleberry-us-reviews.html",
+    "corpus_file": "_raw/reviews/huckleberry-us-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "huckleberry",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/huckleberry-baby-tracker/id1169136078?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/huckleberry-gb-reviews.html",
+    "corpus_file": "_raw/reviews/huckleberry-gb-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "kinedu",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/kinedu-baby-development/id741277284?see-all=reviews",
+    "http_status": "200_existing_capture",
+    "raw_file": "_raw/reviews/kinedu-us-reviews.html",
+    "corpus_file": "_raw/reviews/kinedu-us-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "kinedu",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/kinedu-baby-development/id741277284?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/kinedu-gb-reviews.html",
+    "corpus_file": "_raw/reviews/kinedu-gb-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "babysparks",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/babysparks-development-app/id794574199?see-all=reviews",
+    "http_status": "200_existing_capture",
+    "raw_file": "_raw/reviews/babysparks-us-reviews.html",
+    "corpus_file": "_raw/reviews/babysparks-us-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "babysparks",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/babysparks-development-app/id794574199?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/babysparks-gb-reviews.html",
+    "corpus_file": "_raw/reviews/babysparks-gb-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "solidstarts",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/solid-starts-baby-first-foods/id1564189151?see-all=reviews",
+    "http_status": "200_existing_capture",
+    "raw_file": "_raw/reviews/solidstarts-us-reviews.html",
+    "corpus_file": "_raw/reviews/solidstarts-us-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "solidstarts",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/solid-starts-baby-first-foods/id1564189151?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/solidstarts-gb-reviews.html",
+    "corpus_file": "_raw/reviews/solidstarts-gb-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "wonderweeks",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/the-wonder-weeks-baby-leaps/id529815782?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/wonderweeks-us-reviews.html",
+    "corpus_file": "_raw/reviews/wonderweeks-us-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "wonderweeks",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/the-wonder-weeks-baby-leaps/id529815782?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/wonderweeks-gb-reviews.html",
+    "corpus_file": "_raw/reviews/wonderweeks-gb-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "pumplog",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/pump-log-track-breast-milk/id814112299?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/pumplog-us-reviews.html",
+    "corpus_file": "_raw/reviews/pumplog-us-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "pumplog",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/pump-log-track-breast-milk/id814112299?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/pumplog-gb-reviews.html",
+    "corpus_file": "_raw/reviews/pumplog-gb-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "blwmeals",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/blw-meals-starting-solids/id1540196240?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/blwmeals-us-reviews.html",
+    "corpus_file": "_raw/reviews/blwmeals-us-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "blwmeals",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/blw-meals-starting-solids/id1540196240?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/blwmeals-gb-reviews.html",
+    "corpus_file": "_raw/reviews/blwmeals-gb-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "napper",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/napper-baby-sleep-tracker/id1491340863?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/napper-us-reviews.html",
+    "corpus_file": "_raw/reviews/napper-us-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "napper",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/napper-baby-sleep-tracker/id1491340863?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/napper-gb-reviews.html",
+    "corpus_file": "_raw/reviews/napper-gb-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "babydaybook",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/baby-daybook-newborn-tracker/id1446283219?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/babydaybook-us-reviews.html",
+    "corpus_file": "_raw/reviews/babydaybook-us-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "babydaybook",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/baby-daybook-newborn-tracker/id1446283219?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/babydaybook-gb-reviews.html",
+    "corpus_file": "_raw/reviews/babydaybook-gb-corpus.txt",
+    "review_count": 10
+  }
+]

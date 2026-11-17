@@ -1,0 +1,49 @@
+{
+  "ad_id": "1921692788633021",
+  "page_id": "110342517475089",
+  "page_name": "Hearth Display",
+  "snapshot_page_id": "264409273423982",
+  "snapshot_page_name": "Dzanina Tahirovic",
+  "snapshot_identity_differs": true,
+  "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/054-hearth-page.json",
+  "source_file_sha256": "8d26a40b9ac33a3d52c62324c7f8010c019036cff7d518f37c477e12abe40929",
+  "captured_at": "2026-10-24T22:07:07.818Z",
+  "native_is_active": true,
+  "start_timestamp": 1782370800,
+  "start_utc": "2026-06-25T07:00:00+00:00",
+  "displayed_start_date": "Jun 25, 2026",
+  "collation_id": "1039650271740019",
+  "collation_count": 1,
+  "display_format": "VIDEO",
+  "primary_destination": "https://hearthdisplay.com/products/hearth-display",
+  "card_destinations": [],
+  "native_body_sha256": "b949c4a8b473b22ba7651856fe23ab8092a6b7f872ba600983f3848de5c7cf99",
+  "native_text_bundle_sha256": "674f72e36214cd14795d221ec634f56f43e3db5d788cfe68464fe8c27b44717a",
+  "native_ad_sha256": "cc3568120fb8bfaccdaa9beb8a2f7f31a31d670f9bae1a8272a5026c9b1448a8",
+  "text_bundle": {
+    "body": "Built by moms and tested with real families and child development experts, to create tools that actually work at home.",
+    "top": {
+      "caption": "hearthdisplay.com",
+      "cta_text": "Shop now",
+      "cta_type": "SHOP_NOW",
+      "title": "Hearth is Built for Families",
+      "link_description": "Your All-in-One Command Center",
+      "link_url": "https://hearthdisplay.com/products/hearth-display",
+      "display_format": "VIDEO",
+      "byline": null,
+      "disclaimer_label": null,
+      "additional_info": null,
+      "extra_links": [],
+      "extra_texts": [],
+      "branded_content": {
+        "page_id": "110342517475089",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/hearthdisplay/",
+        "page_name": "Hearth Display"
+      },
+      "root_reshared_post": null
+    },
+    "cards": []
+  },
+  "excluded_card_media_fields": []
+}

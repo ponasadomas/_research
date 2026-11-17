@@ -1,0 +1,3 @@
+# Final review-source audit
+
+Read final findings/niche-opportunities plus reviews-media and reviews-followups ledgers. Audit all original-review citations used for the recommendation against actual records/raw contexts. Verify 201 app reviews read -> 192 app quotes, 15 original book reviews read ->14 book quotes, 216 original review units ->206 quotes. Preserve historical/app-version, dietary-complication, source-selection and unverified-purchase limitations. Check global source-map/not-harvested for stale unprobed Amazon/GooglePlay/Kobo claims now that followups exist. Fix clear review-specific prose inaccuracies without changing parent totals or raw/voice. Save concise outcome in synthesis/final-review-audit.md. No new collection.

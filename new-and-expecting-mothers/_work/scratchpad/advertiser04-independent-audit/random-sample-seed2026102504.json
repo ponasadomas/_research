@@ -1,0 +1,1057 @@
+{
+  "seed": 2026102504,
+  "method": "Python random.Random(seed), lexicographically sorted six ledger paths; sample two rows per ledger, then sample eight uniformly from pooled remainder in ledger/line order. Saved before native context inspection.",
+  "ledger_counts": {
+    "mamivio.com/research/global/sources/advertiser04-coordination-registry-reading.jsonl": 141,
+    "mamivio.com/research/global/sources/advertiser04-direct-discovery-reading.jsonl": 22,
+    "mamivio.com/research/global/sources/advertiser04-food-safety-reading.jsonl": 149,
+    "mamivio.com/research/global/sources/advertiser04-meal-guides-reading.jsonl": 33,
+    "mamivio.com/research/global/sources/advertiser04-root-safety-reading.jsonl": 60,
+    "mamivio.com/research/global/sources/advertiser04-sleep-play-reading.jsonl": 199
+  },
+  "sample": [
+    {
+      "ledger": "mamivio.com/research/global/sources/advertiser04-coordination-registry-reading.jsonl",
+      "line": 38,
+      "record": {
+        "ad_id": "1792875188650830",
+        "page_id": "681765001686370",
+        "page_name": "Nugget Savings",
+        "snapshot_page_id": "681765001686370",
+        "snapshot_page_name": "Nugget Savings",
+        "snapshot_identity_differs": false,
+        "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/029-nugget-savings-page.json",
+        "source_file_sha256": "4c186c0cbce53010b30dd3329840db662aa7118de6925f8318d9d8a404827271",
+        "captured_at": "2026-10-24T21:52:57.077Z",
+        "native_is_active": true,
+        "start_timestamp": 1792825200,
+        "start_utc": "2026-10-24T07:00:00+00:00",
+        "displayed_start_date": "Oct 24, 2026 · Total active time 11 hrs",
+        "collation_id": "981723188345879",
+        "collation_count": 1,
+        "display_format": "VIDEO",
+        "primary_destination": "https://www.nuggetsavings.com/membership-1",
+        "card_destinations": [],
+        "native_body_sha256": "782f91d059d83323fa99e0bba818e32078168a769db4b9762d2fe145f40c0267",
+        "native_text_bundle_sha256": "6d8560567a7de5f237311b3463b58cf13beed3d92b10e475b0a4db8dfd2fc960",
+        "native_ad_sha256": "ef41b60b59f2785258d93a30f8da4e2e00e3c8fba95769bd9c76c0abb637e84c",
+        "excluded_card_media_fields": [],
+        "unit_file": "scratchpad/advertiser04-coordination-registry/units/1792875188650830.json",
+        "unit_sha256": "0be8417fa2367dbf810fea90929865d838870e49b5551cea3319ec177a461e88",
+        "full_available_body_and_card_text_read": true,
+        "images_viewed": false,
+        "videos_viewed": false,
+        "offer_type": "subscription_bundle_trial",
+        "job": "parental_leave_and_childcare_finances",
+        "product": "membership_tools_classes_support",
+        "scope": "parent_finances",
+        "note": "7-day free trial; first ID explicitly £29.99/year after trial and planner RRP £14.99. Planner/templates/25+ masterclasses/900+ policies; support/Q&A explicit in some variants. Claimed savings and entitlement accuracy unverified; not a standalone bespoke written report. Body /membership differs from CTA /membership-1.",
+        "native_ad_url": "https://www.facebook.com/ads/library/?id=1792875188650830",
+        "advertiser_library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=681765001686370",
+        "read_view_file": "scratchpad/advertiser04-coordination-registry/read-09.txt",
+        "read_view_sha256": "2ca8c41db1f0377d2d46cd17d304217cfb65facecdcac296181362408ae256a5",
+        "supplied_card_count": 0,
+        "branded_content": null,
+        "native_body_verified": true,
+        "native_cards_and_top_text_verified": true,
+        "verification_scope": "all retained loaded text; no image/video viewing or unretained variants",
+        "independent_purchase_proof": false,
+        "spend_revenue_profit_unknown": true
+      }
+    },
+    {
+      "ledger": "mamivio.com/research/global/sources/advertiser04-coordination-registry-reading.jsonl",
+      "line": 30,
+      "record": {
+        "ad_id": "28813767631596028",
+        "page_id": "186268468076113",
+        "page_name": "Babylist",
+        "snapshot_page_id": "186268468076113",
+        "snapshot_page_name": "Babylist",
+        "snapshot_identity_differs": false,
+        "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/025-babylist-page.json",
+        "source_file_sha256": "dde70e8c18f3207f84afe706c6f2755c427dfe16d758878c6a2e475652c6807b",
+        "captured_at": "2026-10-24T21:52:19.573Z",
+        "native_is_active": true,
+        "start_timestamp": 1792393200,
+        "start_utc": "2026-10-19T07:00:00+00:00",
+        "displayed_start_date": "Oct 19, 2026",
+        "collation_id": "28732919442959245",
+        "collation_count": 3,
+        "display_format": "VIDEO",
+        "primary_destination": "https://www.babylist.com/registry/new",
+        "card_destinations": [],
+        "native_body_sha256": "77852a84cc48cb71d380b68c5698494ad6bf40e888eeb2b2911ebac50562a57f",
+        "native_text_bundle_sha256": "739c42ec18a45a8d990646a937845286d72b44a63a1db0ed46ee8c683c102499",
+        "native_ad_sha256": "dca5a191f6ef3d41defedef6343adb22518d0c457415fc0e47b8c8668fa5a3d8",
+        "excluded_card_media_fields": [],
+        "unit_file": "scratchpad/advertiser04-coordination-registry/units/28813767631596028.json",
+        "unit_sha256": "02f517d4892b8f1068cf51e386bacaa3517c76b1e7c26d85958f7200f3cb3f4d",
+        "full_available_body_and_card_text_read": true,
+        "images_viewed": false,
+        "videos_viewed": false,
+        "offer_type": "free_platform_registration",
+        "job": "baby_registry_gear_decisions",
+        "product": "Registry giveaway entry for $250 gift-card chance",
+        "scope": "baby_registry",
+        "note": "All supplied no-purchase giveaway terms read; prize not service/report price. Videos unviewed.",
+        "native_ad_url": "https://www.facebook.com/ads/library/?id=28813767631596028",
+        "advertiser_library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=186268468076113",
+        "read_view_file": "scratchpad/advertiser04-coordination-registry/read-07.txt",
+        "read_view_sha256": "00277c93abe5f967e803cd047ed1f9a077ec2f019fbd543818f81d1513fe3f29",
+        "supplied_card_count": 0,
+        "branded_content": null,
+        "native_body_verified": true,
+        "native_cards_and_top_text_verified": true,
+        "verification_scope": "all retained loaded text; no image/video viewing or unretained variants",
+        "independent_purchase_proof": false,
+        "spend_revenue_profit_unknown": true
+      }
+    },
+    {
+      "ledger": "mamivio.com/research/global/sources/advertiser04-direct-discovery-reading.jsonl",
+      "line": 10,
+      "record": {
+        "ad_id": "1642161400900265",
+        "advertiser": "Good Inside Baby",
+        "page_id": "482750678569835",
+        "display_format": "DCO",
+        "ad_library_url": "https://www.facebook.com/ads/library/?id=1642161400900265",
+        "start_utc": "2026-09-30T07:00:00+00:00",
+        "ad_text_offer_type": "sleep_program_support",
+        "manual_reason": "Zero-to-24-month program/support and all four cards; same bundle destination.",
+        "native_body_and_all_card_text_read_complete": true,
+        "media_viewed": false,
+        "media_status": "images/video/audio not viewed; text reading only",
+        "destination_urls": [
+          "https://www.goodinside.com/lp/baby-sleep-program-bundle/"
+        ],
+        "source_occurrences": [
+          {
+            "ad_id": "1642161400900265",
+            "advertiser": "Good Inside Baby",
+            "page_id": "482750678569835",
+            "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/069-goodinside-baby-page.json",
+            "capture_sha256": "342a155f4b57340f15d03cb313d9e0ad2ba22f440ef8124378d3b7aa77aa73b0",
+            "native_pointer": "connections[0].edges[6].node.collated_results[1]",
+            "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=482750678569835",
+            "captured_at": "2026-10-24T22:10:39.675Z",
+            "kind": "advertiser_page",
+            "is_active": true,
+            "start_date": 1790751600,
+            "snapshot_sha256": "2f00e2340d25ea653940791407cf95ace8aadb22bd43c810c9817ed80ee218b8",
+            "native_body_text_sha256": "864278a88655406c106d98e00b59ad2a58a82fe31b7c9f89c446b54be982d60f",
+            "text_fields_sha256": "864b31082368cccbdd86e3bbb8825ec64ac025030f38121a2a74725800e78d0c",
+            "display_format": "DCO"
+          }
+        ],
+        "occurrence_count": 1,
+        "all_occurrences_full_text_read": true,
+        "landed_offer_type": "general_sleep_program_plus_human_personalized_plan_session_plus_app_bundle"
+      }
+    },
+    {
+      "ledger": "mamivio.com/research/global/sources/advertiser04-direct-discovery-reading.jsonl",
+      "line": 16,
+      "record": {
+        "ad_id": "2922599128112033",
+        "advertiser": "Good Inside Baby",
+        "page_id": "482750678569835",
+        "display_format": "VIDEO",
+        "ad_library_url": "https://www.facebook.com/ads/library/?id=2922599128112033",
+        "start_utc": "2026-10-01T07:00:00+00:00",
+        "ad_text_offer_type": "sleep_program_support",
+        "manual_reason": "Reassurance and support across sleep challenges; video unviewed.",
+        "native_body_and_all_card_text_read_complete": true,
+        "media_viewed": false,
+        "media_status": "images/video/audio not viewed; text reading only",
+        "destination_urls": [
+          "https://www.goodinside.com/lp/baby-sleep-program-bundle/"
+        ],
+        "source_occurrences": [
+          {
+            "ad_id": "2922599128112033",
+            "advertiser": "Good Inside Baby",
+            "page_id": "482750678569835",
+            "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/069-goodinside-baby-page.json",
+            "capture_sha256": "342a155f4b57340f15d03cb313d9e0ad2ba22f440ef8124378d3b7aa77aa73b0",
+            "native_pointer": "connections[0].edges[12].node.collated_results[0]",
+            "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=482750678569835",
+            "captured_at": "2026-10-24T22:10:39.675Z",
+            "kind": "advertiser_page",
+            "is_active": true,
+            "start_date": 1790838000,
+            "snapshot_sha256": "d0e1a75562ec86ed52df539bad15b8057a1db6df5891c01130c55b2b647195da",
+            "native_body_text_sha256": "30358c4625621a67b802f688e303ce9f0a0f53e7f447f46e9a03d1418c651c8a",
+            "text_fields_sha256": "1cc93f8b0047aeea7e1854ef65ba20c68dc4fbe0c512115d1ef87f3e82d273f6",
+            "display_format": "VIDEO"
+          }
+        ],
+        "occurrence_count": 1,
+        "all_occurrences_full_text_read": true,
+        "landed_offer_type": "general_sleep_program_plus_human_personalized_plan_session_plus_app_bundle"
+      }
+    },
+    {
+      "ledger": "mamivio.com/research/global/sources/advertiser04-food-safety-reading.jsonl",
+      "line": 122,
+      "record": {
+        "record_type": "ad_text_read",
+        "ad_id": "962828846373103",
+        "page_name": "Tiny Hearts Education",
+        "page_id": "182652498588710",
+        "snapshot_page_id": "182652498588710",
+        "is_active": true,
+        "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/053-tiny-hearts-page.json",
+        "source_sha256": "eba93fd6598e86cd94c7c42987fb4a1d300c42849f25ec61eb86376f606d9590",
+        "native_locator": {
+          "connection": 0,
+          "edge": 0,
+          "collated_result": 0
+        },
+        "snapshot_sha256": "df0f21bc0b847a2a80b8194eb9128c2ef6e0d56a7ce6aae459825f39e5612614",
+        "body_sha256": "4716ab2a13c4bcbc0169d0be5bafa647531affa785a23c95125f7559ac94a11f",
+        "all_text_sha256": "1f84701dab50f5616a3d3b38e39fa0700dfc82fe9c4a549d76bd7b39d5282d23",
+        "body_and_all_loaded_card_headline_text_read": true,
+        "cta_and_destinations_read": true,
+        "media_viewed": false,
+        "creative_variants_complete": false,
+        "full_advertiser_library_complete": false,
+        "native_start_date": 1792134000,
+        "start_utc": "2026-10-16T07:00:00+00:00",
+        "native_end_date": 1792825200,
+        "end_utc": "2026-10-24T07:00:00+00:00",
+        "display_format": "DCO",
+        "destinations": [
+          "https://tinyhearts.com/pages/baby-and-child-first-aid-online-m"
+        ],
+        "loaded_card_count": 2,
+        "native_media_count": {
+          "videos": 0,
+          "images": 0,
+          "cards": 2
+        },
+        "collation_id": "2198630264398696",
+        "collation_count": 1,
+        "promoted_offer": "paid_course",
+        "promoted_job": "online_baby_child_first_aid",
+        "assessment": "Online one-hour Baby and Child First Aid course via exact course page; safety/efficacy/trained-family claims are unverified advertiser statements, not an inspected report or individualized home plan.",
+        "text_state": "readable",
+        "phase": "extension-lean-v4",
+        "reading_view": 3,
+        "advertiser_page_name": "Tiny Hearts Education",
+        "branded_content": null,
+        "partner_metadata_reviewed": true,
+        "exact_native_text_fields_verified": true
+      }
+    },
+    {
+      "ledger": "mamivio.com/research/global/sources/advertiser04-food-safety-reading.jsonl",
+      "line": 144,
+      "record": {
+        "record_type": "ad_text_read",
+        "ad_id": "1648415323628975",
+        "page_name": "Tiny Hearts Education",
+        "page_id": "182652498588710",
+        "snapshot_page_id": "182652498588710",
+        "is_active": true,
+        "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/053-tiny-hearts-page.json",
+        "source_sha256": "eba93fd6598e86cd94c7c42987fb4a1d300c42849f25ec61eb86376f606d9590",
+        "native_locator": {
+          "connection": 0,
+          "edge": 21,
+          "collated_result": 1
+        },
+        "snapshot_sha256": "e2a8f34ab05dc7f383bea4d9ba18358b120c29cf5eb54187f7e6c691aaedea39",
+        "body_sha256": "855b767bcc81b3e1bf76b74732a4d9819c354997275ed56e27c308f3d0548873",
+        "all_text_sha256": "48f3aec1439a742681203202d0611b72ecb627d985edf4d8a664ccb887c0cae7",
+        "body_and_all_loaded_card_headline_text_read": true,
+        "cta_and_destinations_read": true,
+        "media_viewed": false,
+        "creative_variants_complete": false,
+        "full_advertiser_library_complete": false,
+        "native_start_date": 1792566000,
+        "start_utc": "2026-10-21T07:00:00+00:00",
+        "native_end_date": 1792825200,
+        "end_utc": "2026-10-24T07:00:00+00:00",
+        "display_format": "VIDEO",
+        "destinations": [
+          "https://tinyhearts.com/pages/baby-and-child-first-aid-online-m"
+        ],
+        "loaded_card_count": 0,
+        "native_media_count": {
+          "videos": 1,
+          "images": 0,
+          "cards": 0
+        },
+        "collation_id": "1507948337871976",
+        "collation_count": null,
+        "promoted_offer": "paid_course",
+        "promoted_job": "online_baby_child_first_aid",
+        "assessment": "One-hour online baby/child first-aid course; prevention, emergency-recognition, caregiver/rural-access or reassurance positioning. Not a personalized home inspection/report. Seller medical/outcome/credential claims and testimonials not independently validated.",
+        "text_state": "readable",
+        "phase": "extension-lean-v4",
+        "reading_view": 4,
+        "advertiser_page_name": "Tiny Hearts Education",
+        "branded_content": {
+          "page_id": "1346785155185775",
+          "page_is_deleted": false,
+          "page_profile_uri": "https://www.instagram.com/_u/nikki_jurcutz",
+          "page_name": "nikki_jurcutz"
+        },
+        "partner_metadata_reviewed": true,
+        "exact_native_text_fields_verified": true,
+        "partner_identity_note": "Native advertiser and displayed creator/partner identities preserved separately; not independent customer testimony."
+      }
+    },
+    {
+      "ledger": "mamivio.com/research/global/sources/advertiser04-meal-guides-reading.jsonl",
+      "line": 14,
+      "record": {
+        "ad_id": "3468043670033767",
+        "advertiser_page_id": "148367001700025",
+        "snapshot_page_id": "148367001700025",
+        "advertiser_name": "Happy Eaters Club",
+        "snapshot_page_name": "Happy Eaters Club",
+        "branded_content": null,
+        "is_active": true,
+        "start_utc": "2026-09-24T07:00:00+00:00",
+        "source_occurrences": [
+          {
+            "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/070-happy-eaters-page.json",
+            "sha256": "a5396129213dd99b5858f8962be015b0dc9b3b7eed347c70b8fe75e245671568",
+            "native_locator": {
+              "connection": 0,
+              "edge": 4,
+              "collated_result": 0
+            },
+            "capture_kind": "advertiser_page",
+            "text_sha256": "ff0b560c574570e9880438dcd92697786f7f065a08dd3c6b9d656a0bef636f84",
+            "all_loaded_text_read": true
+          }
+        ],
+        "body_sha256": "3de42843ac86c93a50f489955639c578dc0943f7f6360b4bcf093dda529025a1",
+        "text_sha256": "ff0b560c574570e9880438dcd92697786f7f065a08dd3c6b9d656a0bef636f84",
+        "body_and_all_loaded_text_read": true,
+        "destinations": [
+          "http://itunes.apple.com/app/id6469004584"
+        ],
+        "media_viewed": false,
+        "page_capture_read_complete": true,
+        "promoted_offer": "app_acquisition",
+        "assessment": "Happy Eaters app-install ad: meal ideas, mental load, Indian recipes, stage-based plans or texture progression; not standalone paid written report. Creator identity preserved when present; claims are seller-controlled."
+      }
+    },
+    {
+      "ledger": "mamivio.com/research/global/sources/advertiser04-meal-guides-reading.jsonl",
+      "line": 13,
+      "record": {
+        "ad_id": "1733523184315673",
+        "advertiser_page_id": "148367001700025",
+        "snapshot_page_id": "148367001700025",
+        "advertiser_name": "Happy Eaters Club",
+        "snapshot_page_name": "Happy Eaters Club",
+        "branded_content": null,
+        "is_active": true,
+        "start_utc": "2026-07-03T07:00:00+00:00",
+        "source_occurrences": [
+          {
+            "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/070-happy-eaters-page.json",
+            "sha256": "a5396129213dd99b5858f8962be015b0dc9b3b7eed347c70b8fe75e245671568",
+            "native_locator": {
+              "connection": 0,
+              "edge": 2,
+              "collated_result": 0
+            },
+            "capture_kind": "advertiser_page",
+            "text_sha256": "afe5412c7066994cf5b4b063952d283d5d4193e7472bee3cdc76cab9c8273c7f",
+            "all_loaded_text_read": true
+          }
+        ],
+        "body_sha256": "7b624a9569ce31eaf741f1f0b7bcaaee243610cca7a805bef35e88633f8a932a",
+        "text_sha256": "afe5412c7066994cf5b4b063952d283d5d4193e7472bee3cdc76cab9c8273c7f",
+        "body_and_all_loaded_text_read": true,
+        "destinations": [
+          "http://play.google.com/store/apps/details?id=happy.eaters.picky.baby.led.weaning.feeding.BLW.toddler.recipes.solids.meal.planner.nutrition.diet.chart"
+        ],
+        "media_viewed": false,
+        "page_capture_read_complete": true,
+        "promoted_offer": "app_acquisition",
+        "assessment": "Happy Eaters app-install ad: meal ideas, mental load, Indian recipes, stage-based plans or texture progression; not standalone paid written report. Creator identity preserved when present; claims are seller-controlled."
+      }
+    },
+    {
+      "ledger": "mamivio.com/research/global/sources/advertiser04-root-safety-reading.jsonl",
+      "line": 13,
+      "record": {
+        "ad_id": "1337246441579212",
+        "advertiser_page_id": "762858233577136",
+        "capture": "_raw/advertiser-census-wave04-2026-10-25/queries/072-pom-babyproofing-page.json",
+        "read_status": "full_loaded_text_read",
+        "body_sha256": "b1d1c403fa105b462396e86337e47e930c7028e1f8c39ed290c8891b1f0c9250",
+        "native_start_date": "2026-04-17",
+        "destination_url": "https://fb.com/canvas_doc/2047436862467142",
+        "primary_offer": "physical_babyproofing_goods",
+        "pet_gate_ad": false,
+        "non_English_body": false,
+        "media_viewed": false,
+        "text_fields_reviewed": [
+          {
+            "field": "body",
+            "text_id": "rt006",
+            "sha256": "b1d1c403fa105b462396e86337e47e930c7028e1f8c39ed290c8891b1f0c9250"
+          },
+          {
+            "field": "title",
+            "text_id": "rt007",
+            "sha256": "1804651b2d4a4ee0b29b25bc44ddd431a0acf4fa0ef5e23e55943fa919977dfa"
+          },
+          {
+            "field": "caption",
+            "text_id": "rt026",
+            "sha256": "187205d2d4b9a9b359e4ae09b9c30debbe7a6dd1de94f3052e358b70efbd0a51"
+          },
+          {
+            "field": "cta_text",
+            "text_id": "rt005",
+            "sha256": "8b9cb1b7a3fc77a60066a17199fa49c15775106dc0f92fecd3830fdd74ca947b"
+          }
+        ],
+        "review_method": "All119 exact field strings read in full; per-ID body/card maps reviewed. Exact duplicate strings presented once with SHA256 equality.119 strings,60 distinct native ad IDs, not60 unique concepts.",
+        "claim_boundary": "Product safety/testimonials and expert qualifications remain unvalidated seller claims."
+      }
+    },
+    {
+      "ledger": "mamivio.com/research/global/sources/advertiser04-root-safety-reading.jsonl",
+      "line": 53,
+      "record": {
+        "ad_id": "1923060102437580",
+        "advertiser_page_id": "151178121596569",
+        "capture": "_raw/advertiser-census-wave04-2026-10-25/queries/073-safetots-page.json",
+        "read_status": "full_loaded_text_read",
+        "body_sha256": "465db88e370856db896efbf8dcb228bc7b8b35e972df44baeb2033b2d4fe5e1b",
+        "native_start_date": "2026-08-24",
+        "destination_url": "https://www.safetots.co.uk/stair-gates/pet-dog.html",
+        "primary_offer": "physical_retail_goods",
+        "pet_gate_ad": true,
+        "non_English_body": false,
+        "media_viewed": false,
+        "text_fields_reviewed": [
+          {
+            "field": "body",
+            "text_id": "rt086",
+            "sha256": "465db88e370856db896efbf8dcb228bc7b8b35e972df44baeb2033b2d4fe5e1b"
+          },
+          {
+            "field": "title",
+            "text_id": "rt087",
+            "sha256": "6faa31879b0acecd346035c69e0ca03a8ca5f6472f91c2cba9f6f99a9e5faa33"
+          },
+          {
+            "field": "caption",
+            "text_id": "rt055",
+            "sha256": "c1f657207d880cb17b0691ebccc59043da0db93c5bf41fe7730f9ab09e99fd3d"
+          },
+          {
+            "field": "link_description",
+            "text_id": "rt088",
+            "sha256": "0c489f65e649e2ffcbf1101aad2d752768986078f2956d0c7112decf7f2f21fa"
+          },
+          {
+            "field": "cta_text",
+            "text_id": "rt005",
+            "sha256": "8b9cb1b7a3fc77a60066a17199fa49c15775106dc0f92fecd3830fdd74ca947b"
+          },
+          {
+            "field": "cards[0].body",
+            "text_id": "rt086",
+            "sha256": "465db88e370856db896efbf8dcb228bc7b8b35e972df44baeb2033b2d4fe5e1b"
+          },
+          {
+            "field": "cards[0].title",
+            "text_id": "rt087",
+            "sha256": "6faa31879b0acecd346035c69e0ca03a8ca5f6472f91c2cba9f6f99a9e5faa33"
+          },
+          {
+            "field": "cards[0].link_description",
+            "text_id": "rt088",
+            "sha256": "0c489f65e649e2ffcbf1101aad2d752768986078f2956d0c7112decf7f2f21fa"
+          },
+          {
+            "field": "cards[0].cta_text",
+            "text_id": "rt008",
+            "sha256": "6edcd4efa9dfc367033228e465243a8aaf0c9e80d1e474a6a84bfe1ebf972614"
+          },
+          {
+            "field": "cards[1].body",
+            "text_id": "rt086",
+            "sha256": "465db88e370856db896efbf8dcb228bc7b8b35e972df44baeb2033b2d4fe5e1b"
+          },
+          {
+            "field": "cards[1].title",
+            "text_id": "rt087",
+            "sha256": "6faa31879b0acecd346035c69e0ca03a8ca5f6472f91c2cba9f6f99a9e5faa33"
+          },
+          {
+            "field": "cards[1].link_description",
+            "text_id": "rt088",
+            "sha256": "0c489f65e649e2ffcbf1101aad2d752768986078f2956d0c7112decf7f2f21fa"
+          },
+          {
+            "field": "cards[1].cta_text",
+            "text_id": "rt008",
+            "sha256": "6edcd4efa9dfc367033228e465243a8aaf0c9e80d1e474a6a84bfe1ebf972614"
+          },
+          {
+            "field": "cards[2].body",
+            "text_id": "rt086",
+            "sha256": "465db88e370856db896efbf8dcb228bc7b8b35e972df44baeb2033b2d4fe5e1b"
+          },
+          {
+            "field": "cards[2].title",
+            "text_id": "rt087",
+            "sha256": "6faa31879b0acecd346035c69e0ca03a8ca5f6472f91c2cba9f6f99a9e5faa33"
+          },
+          {
+            "field": "cards[2].link_description",
+            "text_id": "rt088",
+            "sha256": "0c489f65e649e2ffcbf1101aad2d752768986078f2956d0c7112decf7f2f21fa"
+          },
+          {
+            "field": "cards[2].cta_text",
+            "text_id": "rt008",
+            "sha256": "6edcd4efa9dfc367033228e465243a8aaf0c9e80d1e474a6a84bfe1ebf972614"
+          }
+        ],
+        "review_method": "All119 exact field strings read in full; per-ID body/card maps reviewed. Exact duplicate strings presented once with SHA256 equality.119 strings,60 distinct native ad IDs, not60 unique concepts.",
+        "claim_boundary": "Product safety/testimonials and expert qualifications remain unvalidated seller claims."
+      }
+    },
+    {
+      "ledger": "mamivio.com/research/global/sources/advertiser04-sleep-play-reading.jsonl",
+      "line": 36,
+      "record": {
+        "ad_id": "1634740090828783",
+        "advertiser": "BabySparks",
+        "page_id": "168950569926881",
+        "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/003-babysparks-page.json",
+        "capture_sha256": "6370ffeb4ed7c3c0d5b1c31f8e092042c1c95c1a1831de63a71b8c602abab7d7",
+        "native_pointer": "connections[0].edges[4].node.collated_results[0]",
+        "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=168950569926881",
+        "captured_at": "2026-10-24T21:46:18.060Z",
+        "is_active": true,
+        "start_utc": "2025-11-18T08:00:00+00:00",
+        "ad_library_url": "https://www.facebook.com/ads/library/?id=1634740090828783",
+        "snapshot_sha256": "d3a01ebe6750b8c57ce490bc63ef95659e23fe9d8882353344814a2cb167a75d",
+        "text_fields_sha256": "7beac3a8246ba593832f1fd029747c700147830db85fa3d057944ca2f6312f97",
+        "unit_file": "scratchpad/advertiser-map04-sleep-play/ads-reader-v1/units/003-1634740090828783.json",
+        "unit_sha256": "0921c438724721df3d0b4cea5ddf6b24435a37679131bc3f8f870b1cc136acba",
+        "cards_count": 0,
+        "native_body_and_all_card_text_read_complete": true,
+        "offer_types": [
+          "app"
+        ],
+        "text_status": "resolved",
+        "reason": "Spanish development activity and milestones app copy; direct Google Play install, no report transaction.",
+        "destination_urls": [
+          "http://play.google.com/store/apps/details?id=com.babysparks.babysparks"
+        ],
+        "media_viewed": false,
+        "media_status": "images and video not viewed; no imagery or playback inference",
+        "reading_chunk": "scratchpad/advertiser-map04-sleep-play/ads-reader-v1/chunks/002.txt",
+        "native_body_sha256": "20a5c2c18f47f9146ece3892efbc45713bbcbb246b36077c9ccde046673377e4",
+        "native_all_card_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "native_text_containment_verified": true,
+        "native_body_text_sha256": "672c95f6718768c14563fa1dbf2d56c445d21dce6282973e7ed56abb768b0efe"
+      }
+    },
+    {
+      "ledger": "mamivio.com/research/global/sources/advertiser04-sleep-play-reading.jsonl",
+      "line": 169,
+      "record": {
+        "ad_id": "1494752132484861",
+        "advertiser": "Napper",
+        "page_id": "100208041597677",
+        "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/020-napper-page.json",
+        "capture_sha256": "3f6886f7ea4051f1ad3adbc0f17a258dea8e360603fb788374b4a744a32925b8",
+        "native_pointer": "connections[0].edges[13].node.collated_results[0]",
+        "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=100208041597677",
+        "captured_at": "2026-10-24T21:50:21.141Z",
+        "is_active": true,
+        "start_utc": "2026-09-28T07:00:00+00:00",
+        "ad_library_url": "https://www.facebook.com/ads/library/?id=1494752132484861",
+        "snapshot_sha256": "685c3ba5dd2259a1383d9212f9f8e6d07c6393c335a5a27b22f4a57c87f8e1ac",
+        "text_fields_sha256": "8d2a453679746f13ccf7c75b751aaee49670da5a1fc9783657da68f18b8b01e8",
+        "unit_file": "scratchpad/advertiser-map04-sleep-play/ads-reader-v1/units/020-1494752132484861.json",
+        "unit_sha256": "4b5bd5b936d3fdab711e71d314129949f0b62b44dfc28d53bb95c9bfe50c0797",
+        "cards_count": 0,
+        "native_body_and_all_card_text_read_complete": true,
+        "offer_types": [
+          "app"
+        ],
+        "text_status": "resolved",
+        "reason": "Portuguese baby sleep app; App Store install.",
+        "destination_urls": [
+          "http://itunes.apple.com/app/id1491340863"
+        ],
+        "media_viewed": false,
+        "media_status": "images and video not viewed; no imagery or playback inference",
+        "reading_chunk": "scratchpad/advertiser-map04-sleep-play/ads-reader-v1/chunks/010.txt",
+        "native_body_sha256": "15ee289c365d151030f2a4ff3cd8b788c703b542fd0e7da7650bcaa6da269cfe",
+        "native_all_card_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "native_text_containment_verified": true,
+        "native_body_text_sha256": "9ced8347ebc732e382670aa86e17d4d225ae06b28057e8097d1c2521b9c9038d"
+      }
+    },
+    {
+      "ledger": "mamivio.com/research/global/sources/advertiser04-food-safety-reading.jsonl",
+      "line": 24,
+      "record": {
+        "record_type": "ad_text_read",
+        "ad_id": "1825779965438706",
+        "page_name": "Solid Starts",
+        "page_id": "102312321163259",
+        "snapshot_page_id": "102312321163259",
+        "is_active": true,
+        "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/006-solid-starts-page.json",
+        "source_sha256": "946a150efa0f1236db0a66d2de3005a989672cde3628e11c49b813c8fcbb65a0",
+        "native_locator": {
+          "connection": 0,
+          "edge": 17,
+          "collated_result": 0
+        },
+        "snapshot_sha256": "d2bdee530e9098ea859d7fc350b67329ad0a7007c86eb286436015e11960d2c7",
+        "body_sha256": "8b299e6ac2920a7dff98a44401e1464ab30355223bfb78457f6e2d61fa6a3d5f",
+        "all_text_sha256": "9b8e7c2c8172e8cfd8eec2e8fe2ee292722e68b77b5a4f950e43179c12ebd38e",
+        "body_and_all_loaded_card_headline_text_read": true,
+        "cta_and_destinations_read": true,
+        "media_viewed": false,
+        "creative_variants_complete": false,
+        "full_advertiser_library_complete": false,
+        "native_start_date": 1792479600,
+        "start_utc": "2026-10-20T07:00:00+00:00",
+        "native_end_date": 1792825200,
+        "end_utc": "2026-10-24T07:00:00+00:00",
+        "display_format": "VIDEO",
+        "destinations": [
+          "https://try.solidstarts.com/venus/08-24-2026_lw_lp3"
+        ],
+        "loaded_card_count": 0,
+        "native_media_count": {
+          "videos": 1,
+          "images": 0,
+          "cards": 0
+        },
+        "collation_id": "2990007604668153",
+        "collation_count": 1,
+        "promoted_offer": "app_subscription",
+        "promoted_job": "infant_feeding_app",
+        "assessment": "App acquisition via Apple/Adjust or trial landing page; educational food/schedule messaging, no custom written-report offer.",
+        "text_state": "readable",
+        "phase": "full-read-v2",
+        "reading_view": 3,
+        "advertiser_page_name": "Solid Starts",
+        "branded_content": {
+          "page_id": "107503824720286",
+          "page_is_deleted": false,
+          "page_profile_uri": "https://www.instagram.com/_u/nellakirtley",
+          "page_name": "nellakirtley"
+        },
+        "partner_metadata_reviewed": true,
+        "exact_native_text_fields_verified": true,
+        "partner_identity_note": "Native advertiser and displayed creator/partner identities preserved separately; not independent customer testimony."
+      }
+    },
+    {
+      "ledger": "mamivio.com/research/global/sources/advertiser04-sleep-play-reading.jsonl",
+      "line": 181,
+      "record": {
+        "ad_id": "940553628854291",
+        "advertiser": "The Wonder Weeks",
+        "page_id": "129492440396348",
+        "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/046c-wonder-weeks-page.json",
+        "capture_sha256": "948f6c6250040a7b35df1a5e488a4b2c6d6c28ab0e2105574f96ea2b27fcbc9b",
+        "native_pointer": "connections[0].edges[2].node.collated_results[0]",
+        "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=129492440396348",
+        "captured_at": "2026-10-24T22:03:04.532Z",
+        "is_active": true,
+        "start_utc": "2026-05-31T07:00:00+00:00",
+        "ad_library_url": "https://www.facebook.com/ads/library/?id=940553628854291",
+        "snapshot_sha256": "9b7615a50bc7cd7bb54b877f72a5161a3218a4a5d1fd00cb67ca11b42f2ea46d",
+        "text_fields_sha256": "967eb5e3c3ff6688a5057e9531d460173ba9cf2c93f2e0495e8b8d77227d771f",
+        "unit_file": "scratchpad/advertiser-map04-sleep-play/ads-reader-wonder-v1/units/046-940553628854291.json",
+        "unit_sha256": "3ac2004b7274d7ffdbc0ee2543a17ca769021a75560b8088fc6c94280f9f6456",
+        "cards_count": 2,
+        "native_body_and_all_card_text_read_complete": true,
+        "offer_types": [
+          "app"
+        ],
+        "text_status": "body_template_cards_resolved",
+        "reason": "Top-level placeholders unresolved; both cards promote app answers to development/behavior puzzles and relief.",
+        "destination_urls": [
+          "http://itunes.apple.com/app/id529815782"
+        ],
+        "media_viewed": false,
+        "media_status": "images and video not viewed; no imagery or playback inference",
+        "reading_chunk": "scratchpad/advertiser-map04-sleep-play/ads-reader-wonder-v1/chunks/001.txt",
+        "native_body_sha256": "94220e770e2315bd7610401eaa50b562f5e48f97cd2f1f08e0ca9833aa70fc3b",
+        "native_all_card_text_sha256": "8deef0fb347018611fa0dd4b12f60ec6e284084e9f1cf0c33c3cc7dd24d520e5",
+        "native_text_containment_verified": true,
+        "native_body_text_sha256": "4428e555047db9f0eb45cbf5f2d09823be88ff161318aa78da359d9fd39492f5"
+      }
+    },
+    {
+      "ledger": "mamivio.com/research/global/sources/advertiser04-sleep-play-reading.jsonl",
+      "line": 74,
+      "record": {
+        "ad_id": "2961899827485513",
+        "advertiser": "Kinedu",
+        "page_id": "443378469063877",
+        "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/004-kinedu-english-page.json",
+        "capture_sha256": "27428c29add8bef39a61c3f3ad4fe314e3d8aedc024262f3f85921ea78b70ad4",
+        "native_pointer": "connections[0].edges[9].node.collated_results[1]",
+        "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=443378469063877",
+        "captured_at": "2026-10-24T21:46:24.774Z",
+        "is_active": true,
+        "start_utc": "2026-08-14T07:00:00+00:00",
+        "ad_library_url": "https://www.facebook.com/ads/library/?id=2961899827485513",
+        "snapshot_sha256": "5a0abf46fdad45e891181195e92dbb6f2491e3af0bf59ff363823b4ed4e45ab8",
+        "text_fields_sha256": "c3060a5ca301e98db05abbe3f14445ddb5be099e978a8e1abe4453abf18b14b9",
+        "unit_file": "scratchpad/advertiser-map04-sleep-play/ads-reader-v1/units/004-2961899827485513.json",
+        "unit_sha256": "baeef42df6871d6be240221f617ae0cee68acd396ba4ada8d47d89fa39e7713f",
+        "cards_count": 0,
+        "native_body_and_all_card_text_read_complete": true,
+        "offer_types": [
+          "app"
+        ],
+        "text_status": "resolved",
+        "reason": "Premium app seven-day trial, daily tailored activity plans, classes, tracking and optional professional coaching; App Store destination.",
+        "destination_urls": [
+          "http://itunes.apple.com/app/id741277284"
+        ],
+        "media_viewed": false,
+        "media_status": "images and video not viewed; no imagery or playback inference",
+        "reading_chunk": "scratchpad/advertiser-map04-sleep-play/ads-reader-v1/chunks/004.txt",
+        "native_body_sha256": "879cc26a89750e72a232f0bf6741f60559c8ce49bb14b3968b27def7d1ac1b71",
+        "native_all_card_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "native_text_containment_verified": true,
+        "native_body_text_sha256": "88721b7bc5317d4ddbce1ef8cfef1cd71f79bdf8e6ea9f38936178b2e5ffbbfa"
+      }
+    },
+    {
+      "ledger": "mamivio.com/research/global/sources/advertiser04-sleep-play-reading.jsonl",
+      "line": 83,
+      "record": {
+        "ad_id": "1605977997612916",
+        "advertiser": "Kinedu",
+        "page_id": "443378469063877",
+        "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/004-kinedu-english-page.json",
+        "capture_sha256": "27428c29add8bef39a61c3f3ad4fe314e3d8aedc024262f3f85921ea78b70ad4",
+        "native_pointer": "connections[0].edges[15].node.collated_results[1]",
+        "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=443378469063877",
+        "captured_at": "2026-10-24T21:46:24.774Z",
+        "is_active": true,
+        "start_utc": "2026-07-27T07:00:00+00:00",
+        "ad_library_url": "https://www.facebook.com/ads/library/?id=1605977997612916",
+        "snapshot_sha256": "860b02050e64a3517fafaa7ddfceb934985b98fa4f2173ffad060b303a0fb38a",
+        "text_fields_sha256": "22eb7175ded8e4d25a680e1fccc4b03f50a2863c8d1756c4954ab82605a03b7f",
+        "unit_file": "scratchpad/advertiser-map04-sleep-play/ads-reader-v1/units/004-1605977997612916.json",
+        "unit_sha256": "ce07914e2e248a13b272f20e3620e1c7afaf74d75d207969f1ec02f567babfce",
+        "cards_count": 0,
+        "native_body_and_all_card_text_read_complete": true,
+        "offer_types": [
+          "app"
+        ],
+        "text_status": "resolved",
+        "reason": "Spanish expert-created developmental activity app; Android install.",
+        "destination_urls": [
+          "http://play.google.com/store/apps/details?id=com.kinedu.appkinedu"
+        ],
+        "media_viewed": false,
+        "media_status": "images and video not viewed; no imagery or playback inference",
+        "reading_chunk": "scratchpad/advertiser-map04-sleep-play/ads-reader-v1/chunks/005.txt",
+        "native_body_sha256": "863af85334e8a67268b3aa68b583e408f0123ec2a50aba6402556814e24c5d01",
+        "native_all_card_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "native_text_containment_verified": true,
+        "native_body_text_sha256": "fd1459048b49b7694288be2da567331bf81c3d268949b9562f9d2b14a0e7ccd6"
+      }
+    },
+    {
+      "ledger": "mamivio.com/research/global/sources/advertiser04-food-safety-reading.jsonl",
+      "line": 113,
+      "record": {
+        "record_type": "ad_text_read",
+        "ad_id": "1434028511628039",
+        "page_name": "eMeals",
+        "page_id": "138553919372",
+        "snapshot_page_id": "138553919372",
+        "is_active": true,
+        "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+        "source_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+        "native_locator": {
+          "connection": 0,
+          "edge": 13,
+          "collated_result": 0
+        },
+        "snapshot_sha256": "b1420b29060a86d34e120a36c3ef9a345cedfa8009576460ee8344a72db31e2c",
+        "body_sha256": "4428e555047db9f0eb45cbf5f2d09823be88ff161318aa78da359d9fd39492f5",
+        "all_text_sha256": "7f5d43fb8b0a639cd105f4bf3aa44ee7aad861da7d22633992a9fd40a3ea816d",
+        "body_and_all_loaded_card_headline_text_read": true,
+        "cta_and_destinations_read": true,
+        "media_viewed": false,
+        "creative_variants_complete": false,
+        "full_advertiser_library_complete": false,
+        "native_start_date": 1767081600,
+        "start_utc": "2025-12-30T08:00:00+00:00",
+        "native_end_date": 1792825200,
+        "end_utc": "2026-10-24T07:00:00+00:00",
+        "display_format": "DCO",
+        "destinations": [
+          "https://try.emeals.com/tired-of-meal-kits/"
+        ],
+        "loaded_card_count": 2,
+        "native_media_count": {
+          "videos": 0,
+          "images": 0,
+          "cards": 2
+        },
+        "collation_id": "1152441296937014",
+        "collation_count": 1,
+        "promoted_offer": "app_subscription",
+        "promoted_job": "family_meal_planning_workflow",
+        "assessment": "Broader planning app, grocery pickup/Walmart offer, quiz or meal-kit replacement. Grocery discount/testimonial claims not checked; no infant-tailored report.",
+        "text_state": "template_body_resolved_by_cards",
+        "phase": "extension-lean-v4",
+        "reading_view": 2,
+        "advertiser_page_name": "eMeals",
+        "branded_content": null,
+        "partner_metadata_reviewed": true,
+        "exact_native_text_fields_verified": true
+      }
+    },
+    {
+      "ledger": "mamivio.com/research/global/sources/advertiser04-sleep-play-reading.jsonl",
+      "line": 112,
+      "record": {
+        "ad_id": "2118641622369025",
+        "advertiser": "Lovevery",
+        "page_id": "1859617107640244",
+        "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/005-lovevery-page.json",
+        "capture_sha256": "90a8b882dbb1767b9749a6e1fc440e0cf6a15ce0443a164b39221c0ba9fae64d",
+        "native_pointer": "connections[0].edges[25].node.collated_results[0]",
+        "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=1859617107640244",
+        "captured_at": "2026-10-24T21:46:30.893Z",
+        "is_active": true,
+        "start_utc": "2026-09-11T07:00:00+00:00",
+        "ad_library_url": "https://www.facebook.com/ads/library/?id=2118641622369025",
+        "snapshot_sha256": "987fd8e959d08619cef956a905029967d3754420c3e07bc0b384d80acff740a1",
+        "text_fields_sha256": "36be475ed43b3ad5cd5f93e41e2e74261060db9a39a38d35c3aa7081ed730063",
+        "unit_file": "scratchpad/advertiser-map04-sleep-play/ads-reader-v1/units/005-2118641622369025.json",
+        "unit_sha256": "299cd8b58cb64d65136d90a62218eae50fc8607b66106f7d3caedd5d43bee56f",
+        "cards_count": 6,
+        "native_body_and_all_card_text_read_complete": true,
+        "offer_types": [
+          "physical"
+        ],
+        "text_status": "body_template_cards_resolved",
+        "reason": "Product title placeholder unresolved; testimonial body about first Play Kit is paired with six physical reading/math set and Early Reader Club destinations; do not assign all cards to newborn kit.",
+        "destination_urls": [
+          "https://lovevery.com/products/the-play-kits-the-looker",
+          "https://lovevery.com/products/part-3-advanced-rules-to-chapter-books",
+          "https://lovevery.com/products/part-2-words-to-books",
+          "https://lovevery.com/products/part-1-hands-on-math",
+          "https://lovevery.com/products/part-1-sounds-to-reading",
+          "https://lovevery.com/products/the-math-skill-set",
+          "https://lovevery.com/products/the-early-reader-club-months-25-26"
+        ],
+        "media_viewed": false,
+        "media_status": "images and video not viewed; no imagery or playback inference",
+        "reading_chunk": "scratchpad/advertiser-map04-sleep-play/ads-reader-v1/chunks/007.txt",
+        "native_body_sha256": "516f79c40d387f8d35be779f5a25314edd249df9f67e977920617ebd73fd02f9",
+        "native_all_card_text_sha256": "a2326e7e9244a21ee640cb1b3d67c22836f1827048ddf5244318ec71665c74b9",
+        "native_text_containment_verified": true,
+        "native_body_text_sha256": "737fea405c7a3e00323fc5dedfc6804e9c2de26790c77fb3c879e321e8912017"
+      }
+    },
+    {
+      "ledger": "mamivio.com/research/global/sources/advertiser04-coordination-registry-reading.jsonl",
+      "line": 84,
+      "record": {
+        "ad_id": "4375379902726299",
+        "page_id": "144291815707408",
+        "page_name": "FamilyWall - Family Organizer",
+        "snapshot_page_id": "144291815707408",
+        "snapshot_page_name": "FamilyWall - Family Organizer",
+        "snapshot_identity_differs": false,
+        "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/042-familywall-page.json",
+        "source_file_sha256": "6c4a261be04d0aee222861ab1127974894b1d1ccb78da394d2dd6e892496dd31",
+        "captured_at": "2026-10-24T21:57:36.658Z",
+        "native_is_active": true,
+        "start_timestamp": 1789974000,
+        "start_utc": "2026-09-21T07:00:00+00:00",
+        "displayed_start_date": "Sep 21, 2026",
+        "collation_id": "1799470497922621",
+        "collation_count": 1,
+        "display_format": "IMAGE",
+        "primary_destination": "http://itunes.apple.com/app/id496889629",
+        "card_destinations": [],
+        "native_body_sha256": "8116f055332bca8fa9574dd731abb19fc7c8804e1b2b99cac7d4ca8fcf0121aa",
+        "native_text_bundle_sha256": "be251a29b91dca80714b3cbe3f4fe227eb6ec2d10b5662b8eaf7caf9c8b9d12f",
+        "native_ad_sha256": "0f21d4441365740c19f14c75975fb7565f0ed3533440f00eed05a6acc16de8b0",
+        "excluded_card_media_fields": [],
+        "unit_file": "scratchpad/advertiser04-coordination-registry/units/4375379902726299.json",
+        "unit_sha256": "01b68a94d85e34439183a625404429e772fc20df39cae1e557fd7a4c446b3051",
+        "full_available_body_and_card_text_read": true,
+        "images_viewed": false,
+        "videos_viewed": false,
+        "offer_type": "app_install",
+        "job": "family_organization",
+        "product": "family_organizer_app",
+        "scope": "general_family",
+        "note": "German goodbye family chaos/hello FamilyWall; family life made easy. Apple install; no price or specific return-to-work copy.",
+        "native_ad_url": "https://www.facebook.com/ads/library/?id=4375379902726299",
+        "advertiser_library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=144291815707408",
+        "read_view_file": "scratchpad/advertiser04-coordination-registry/read-13.txt",
+        "read_view_sha256": "ecdd8e5c235b153b077655945e0eeec82ed4cbf6fec0c37d94d422ad26374c33",
+        "supplied_card_count": 0,
+        "branded_content": null,
+        "native_body_verified": true,
+        "native_cards_and_top_text_verified": true,
+        "verification_scope": "all retained loaded text; no image/video viewing or unretained variants",
+        "independent_purchase_proof": false,
+        "spend_revenue_profit_unknown": true
+      }
+    },
+    {
+      "ledger": "mamivio.com/research/global/sources/advertiser04-root-safety-reading.jsonl",
+      "line": 19,
+      "record": {
+        "ad_id": "1110469378139358",
+        "advertiser_page_id": "762858233577136",
+        "capture": "_raw/advertiser-census-wave04-2026-10-25/queries/072-pom-babyproofing-page.json",
+        "read_status": "full_loaded_text_read",
+        "body_sha256": "0099dbf7f33a603379cb49ad5dec9a965e4187e141f2d7e024352963b2280ccf",
+        "native_start_date": "2026-10-16",
+        "destination_url": "https://getpom.com/",
+        "primary_offer": "physical_babyproofing_goods",
+        "pet_gate_ad": false,
+        "non_English_body": false,
+        "media_viewed": false,
+        "text_fields_reviewed": [
+          {
+            "field": "body",
+            "text_id": "rt038",
+            "sha256": "0099dbf7f33a603379cb49ad5dec9a965e4187e141f2d7e024352963b2280ccf"
+          },
+          {
+            "field": "title",
+            "text_id": "rt039",
+            "sha256": "526015953251bb29527260a6202849d686bde4ef90e841179f22ffe04896880e"
+          },
+          {
+            "field": "caption",
+            "text_id": "rt003",
+            "sha256": "13f2569c42d68992103a23b9ea12937214ff45bb4e520215bb43c9a7f16ca172"
+          },
+          {
+            "field": "cta_text",
+            "text_id": "rt005",
+            "sha256": "8b9cb1b7a3fc77a60066a17199fa49c15775106dc0f92fecd3830fdd74ca947b"
+          },
+          {
+            "field": "cards[0].body",
+            "text_id": "rt038",
+            "sha256": "0099dbf7f33a603379cb49ad5dec9a965e4187e141f2d7e024352963b2280ccf"
+          },
+          {
+            "field": "cards[0].title",
+            "text_id": "rt039",
+            "sha256": "526015953251bb29527260a6202849d686bde4ef90e841179f22ffe04896880e"
+          },
+          {
+            "field": "cards[0].cta_text",
+            "text_id": "rt008",
+            "sha256": "6edcd4efa9dfc367033228e465243a8aaf0c9e80d1e474a6a84bfe1ebf972614"
+          },
+          {
+            "field": "cards[1].body",
+            "text_id": "rt038",
+            "sha256": "0099dbf7f33a603379cb49ad5dec9a965e4187e141f2d7e024352963b2280ccf"
+          },
+          {
+            "field": "cards[1].title",
+            "text_id": "rt039",
+            "sha256": "526015953251bb29527260a6202849d686bde4ef90e841179f22ffe04896880e"
+          },
+          {
+            "field": "cards[1].cta_text",
+            "text_id": "rt008",
+            "sha256": "6edcd4efa9dfc367033228e465243a8aaf0c9e80d1e474a6a84bfe1ebf972614"
+          },
+          {
+            "field": "cards[2].body",
+            "text_id": "rt038",
+            "sha256": "0099dbf7f33a603379cb49ad5dec9a965e4187e141f2d7e024352963b2280ccf"
+          },
+          {
+            "field": "cards[2].title",
+            "text_id": "rt039",
+            "sha256": "526015953251bb29527260a6202849d686bde4ef90e841179f22ffe04896880e"
+          },
+          {
+            "field": "cards[2].cta_text",
+            "text_id": "rt008",
+            "sha256": "6edcd4efa9dfc367033228e465243a8aaf0c9e80d1e474a6a84bfe1ebf972614"
+          },
+          {
+            "field": "cards[3].body",
+            "text_id": "rt038",
+            "sha256": "0099dbf7f33a603379cb49ad5dec9a965e4187e141f2d7e024352963b2280ccf"
+          },
+          {
+            "field": "cards[3].title",
+            "text_id": "rt039",
+            "sha256": "526015953251bb29527260a6202849d686bde4ef90e841179f22ffe04896880e"
+          },
+          {
+            "field": "cards[3].cta_text",
+            "text_id": "rt008",
+            "sha256": "6edcd4efa9dfc367033228e465243a8aaf0c9e80d1e474a6a84bfe1ebf972614"
+          },
+          {
+            "field": "cards[4].body",
+            "text_id": "rt038",
+            "sha256": "0099dbf7f33a603379cb49ad5dec9a965e4187e141f2d7e024352963b2280ccf"
+          },
+          {
+            "field": "cards[4].title",
+            "text_id": "rt039",
+            "sha256": "526015953251bb29527260a6202849d686bde4ef90e841179f22ffe04896880e"
+          },
+          {
+            "field": "cards[4].cta_text",
+            "text_id": "rt008",
+            "sha256": "6edcd4efa9dfc367033228e465243a8aaf0c9e80d1e474a6a84bfe1ebf972614"
+          },
+          {
+            "field": "cards[5].body",
+            "text_id": "rt038",
+            "sha256": "0099dbf7f33a603379cb49ad5dec9a965e4187e141f2d7e024352963b2280ccf"
+          },
+          {
+            "field": "cards[5].title",
+            "text_id": "rt039",
+            "sha256": "526015953251bb29527260a6202849d686bde4ef90e841179f22ffe04896880e"
+          },
+          {
+            "field": "cards[5].cta_text",
+            "text_id": "rt008",
+            "sha256": "6edcd4efa9dfc367033228e465243a8aaf0c9e80d1e474a6a84bfe1ebf972614"
+          }
+        ],
+        "review_method": "All119 exact field strings read in full; per-ID body/card maps reviewed. Exact duplicate strings presented once with SHA256 equality.119 strings,60 distinct native ad IDs, not60 unique concepts.",
+        "claim_boundary": "Product safety/testimonials and expert qualifications remain unvalidated seller claims."
+      }
+    }
+  ]
+}

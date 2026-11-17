@@ -1,0 +1,38 @@
+{
+  "ad_id": "990517894093421",
+  "advertiser": "BabySparks",
+  "page_id": "168950569926881",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/003-babysparks-page.json",
+  "capture_sha256": "6370ffeb4ed7c3c0d5b1c31f8e092042c1c95c1a1831de63a71b8c602abab7d7",
+  "native_pointer": "connections[0].edges[2].node.collated_results[2]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=168950569926881",
+  "captured_at": "2026-10-24T21:46:18.060Z",
+  "is_active": true,
+  "start_utc": "2026-10-17T07:00:00+00:00",
+  "display_format": "VIDEO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=990517894093421",
+  "snapshot_sha256": "f1b2eae31c34b53bbe5592f7cd928c6ded5b3f092d75e7cbdaccc9c059af0c37",
+  "text_fields": {
+    "body": {
+      "text": "Thousands of expert-created development activities & milestones for children 0-36 months."
+    },
+    "title": "Activities & Milestones",
+    "caption": "play.google.com",
+    "link_description": null,
+    "link_url": "http://play.google.com/store/apps/details?id=com.babysparks.babysparks",
+    "cta_text": "Install now",
+    "cta_type": "INSTALL_MOBILE_APP",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "4fa02513f116fa29d72ac68c93891ae176f6b5a8dd4639e44a5a5dc4cbe13e0c",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 1,
+  "cards_count": 0
+}

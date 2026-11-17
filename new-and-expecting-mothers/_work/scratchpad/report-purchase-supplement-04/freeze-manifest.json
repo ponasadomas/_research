@@ -1,0 +1,119 @@
+{
+  "status": "complete_frozen",
+  "files": [
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/triage-04.tsv",
+      "bytes": 22591,
+      "sha256": "023b9a8a503e4421446e6234246c680e71a420d4430f8e2b8677974b73dc6e2e"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-04/audit.py",
+      "bytes": 9411,
+      "sha256": "bb652f94fb6523ddc969de6be38ffccc271ef3b1cf51a28cc92799c5c8db89df"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-04/card-dropped-unread.jsonl",
+      "bytes": 38901,
+      "sha256": "18a69d12e201cc7a946f9ec66306eb0c6365def6919aceebbfff7f31cd66fa3b"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-04/dependence-candidates.json",
+      "bytes": 2933,
+      "sha256": "94623190f7f0e6e806164d820885439376ac911eb201f82b1bb28d12be978b19"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-04/dependence.py",
+      "bytes": 1945,
+      "sha256": "89f5dc275a3fe0e9f4fb00c182c8cafed8f1c0656ac1e6f5e96153a6e10cd6b0"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-04/finalize.py",
+      "bytes": 15026,
+      "sha256": "b88937d10b7f6c8bcaccf0b14ca7d22d41dea365e7eb0739f2bbdcc99e45ca88"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-04/full-01.txt",
+      "bytes": 13199,
+      "sha256": "e07188bbc9827f0ba29a94117016339c57b6ae4163df2d64ef7c06b6df4bf46a"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-04/full-02.txt",
+      "bytes": 11399,
+      "sha256": "4fc159b7c7dc09bb1e7ab7995206ff50c7407c90ad8a2e1455f3c02dd47d35ff"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-04/full-03.txt",
+      "bytes": 11181,
+      "sha256": "f3345266b8e7f9f8907d3149678cdeb547e6162a567e5d982bad8019fdd11dc4"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-04/full-04.txt",
+      "bytes": 12101,
+      "sha256": "599d2a86144ea6e4e6c75fa961e20e10c6e5dc345bbd6f379c468890d5566d83"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-04/full-manifest.json",
+      "bytes": 21332,
+      "sha256": "6caeefebe770a2cf76427ff10f5bbb218c3cff55459a5c6c81e5e6e734387b2d"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-04/manual-safety-review.json",
+      "bytes": 3612,
+      "sha256": "da4a713b6be4cc6762966e9651a5d3b8299499dc9cee612125db55c94da25cf6"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-04/prepare.py",
+      "bytes": 1363,
+      "sha256": "983b62a2a434fb867c3e11a68a4e389ad9560f4c1cf25243d7c5a248d92d6feb"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-04/selections.jsonl",
+      "bytes": 15455,
+      "sha256": "9bf540a03cb46d686c0b73f88c42fc1828f02c551b19c8f6d210e5e591b043d9"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-04/strict-verification.txt",
+      "bytes": 83,
+      "sha256": "ec5bf78786cad713373034972b87bca7b81734c5abce3efe23de854c5ac49835"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-04/triage.py",
+      "bytes": 949,
+      "sha256": "9b601bd91f267579fba47b3398213207351263d705f743a51ec6727dc1eb2055"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-04/verify_quotes.py",
+      "bytes": 2483,
+      "sha256": "c7a7988170215ac12a561d13b7b451bcb2a40641bbd7d6feca7dfe037444920e"
+    },
+    {
+      "file": "sources/report-purchase-supplement-04-reading.jsonl",
+      "bytes": 23159,
+      "sha256": "e5eaa4a4f057df54b37abe43f56189c09fdf234068e41e3134eb39b48b7b1a91"
+    },
+    {
+      "file": "sources/report-purchase-supplement-04-verification.json",
+      "bytes": 1339,
+      "sha256": "d284c4ec59db3306b4a8dc3e38284740a70e468191da2e7af7ddade47baa815e"
+    },
+    {
+      "file": "sources/report-purchase-supplement-04.md",
+      "bytes": 7437,
+      "sha256": "29088ce4cbe13897d677452d4d6fe772be9f6bad49ab7a5e5a5d725fc945aad1"
+    },
+    {
+      "file": "synthesis/reader-notes-report-purchase-supplement-04.md",
+      "bytes": 4778,
+      "sha256": "cb75e4783fd327339e4367b36779358f327e6f26df0288a109624a8a9d829c86"
+    },
+    {
+      "file": "voice/report-purchase-supplement-04.jsonl",
+      "bytes": 15455,
+      "sha256": "9bf540a03cb46d686c0b73f88c42fc1828f02c551b19c8f6d210e5e591b043d9"
+    }
+  ],
+  "verification": "sources/report-purchase-supplement-04-verification.json",
+  "errors": 0,
+  "unread_keeps": 0,
+  "unread_dropped_originals": 127
+}

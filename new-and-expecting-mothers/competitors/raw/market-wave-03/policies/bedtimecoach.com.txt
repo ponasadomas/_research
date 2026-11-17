@@ -1,0 +1,51 @@
+# bedtimecoach.com robots.txt
+# Keep public pages crawlable for search engines and AI assistants while protecting non-public routes.
+
+User-agent: *
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /llm-index.json
+
+Sitemap: https://bedtimecoach.com/sitemap.xml
+
+# OpenAI search and retrieval
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# OpenAI model training
+User-agent: GPTBot
+Allow: /
+
+# Anthropic search and retrieval
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+# Anthropic model training
+User-agent: ClaudeBot
+Allow: /
+
+# Legacy Anthropic token kept for compatibility
+User-agent: Anthropic-AI
+Allow: /
+
+# Perplexity search and retrieval
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# Google AI opt-in
+User-agent: Google-Extended
+Allow: /
+
+# Additional answer-engine crawlers already seen in the wild
+User-agent: Bytespider
+Allow: /

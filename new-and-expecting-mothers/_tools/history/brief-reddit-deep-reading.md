@@ -1,0 +1,21 @@
+# Deep Reddit — full original reading and quote extraction
+
+Read the research README/playbook and `sources/reddit-deep.md`. Parent assigns exact **human-kept** post ids or frozen chunks, a unique voice filename, id prefix and scratch directory. Do not append to an existing reader's voice file or touch the frozen initial 418 records.
+
+Source provenance: public HF archive, publisher `yikeee`, dataset `reddit-subreddits25`, pinned commit `ea497c510aa68765c07ed744ec9f84d68bbedf7f`. Collection window: 2025-07-01 through 2025-12-31 UTC. These are archived originals from a separate published dataset, not live Reddit access or search snippets. Publisher rights/provenance and live completeness are unverified. Main-community comment shards are absent at this commit. BabyLedWeaning/workingmoms units contain all linked comments available in the saved window, including identifiable OP follow-ups; missing parent references and reported/observed counts are metadata, not proof of full live thread completeness.
+
+## Read in full
+
+Read every assigned kept original post body and every included comment in full. Units live at `_raw/reddit-deep/corpus-A-v1/units/<subreddit>-<id>.txt`; index/chunk metadata in the same folder. No truncation was used. Some single-thread chunks exceed 40KB to preserve all available comments. If an assigned kept unit cannot be completed, name its exact path and unread portions. Card-only review never counts as a full original read.
+
+Extract the concrete scene/trigger; exactly what someone said; failed attempts and why; actual buying/refund/free-substitute decisions; what the parent wants a tool/person to do; household/time/food/caregiver constraints; disagreement; and what people who stopped or adapted say helped. Cover all candidate jobs, not confirmation of the initial first-solids hypothesis. Research records what people actually say and do, in their own words, whatever the subject; sensitive, clinical, crisis and other material is kept and quoted like any other evidence. The owner decides later what to use in copy; research never makes that decision. Attribute clinical claims as beliefs or advice, not verified effects.
+
+## Record
+
+Write the parent's assigned new `voice/reddit-deep-<reader>.jsonl`, unique assigned prefix. Required fields: `id`, `source`, `url`, `date`, `speaker`, `stage`, `type`, `themes`, `quote`, `context` (at most 25 words), `raw_file`. Add `source_class=reddit_archive`, `evidence_kind=archived_original`, `archive_dataset=yikeee/reddit-subreddits25`, `archive_commit=ea497c510aa68765c07ed744ec9f84d68bbedf7f`, `post_id`, `comment_id` when applicable, and `read_scope=full_post` or `full_available_archived_thread` as the actual unit supports.
+
+For post quotes, use the original permalink in metadata; for comment quotes use that comment's recorded URL. Date from that post/comment, not the enclosing OP. Speaker/age must be established for the quoted author; do not assign a commenter's age, gender, parental stage or first-child status from the OP. Use `parent_unspecified`/`unknown` freely. `[deleted]` authors are not identifiable OP matches. No usernames or names in quote/context; choose a shorter exact excerpt if necessary. Copy the literal text and punctuation, no typography repair; trim only with ` […] `. Quote `raw_file` points to the frozen individual unit, not an unstable rebuilt chunk.
+
+Research records what people actually say and do, in their own words, whatever the subject; sensitive, clinical, crisis and other material is kept and quoted like any other evidence. The owner decides later what to use in copy; research never makes that decision. Do not market an allergy/supply/medical/sleep guarantee. Report suspicious seller/referral replies as such, never as verified purchasers or professionals.
+
+Write your own `sources/reddit-deep-reading-<reader>.md` ledger (assigned→kept/excluded→fully read→quotes) and `synthesis/reader-notes-reddit-deep-<reader>.md`, with quote ids supporting every proposed pattern and explicit contrary evidence. Run `verify_quotes.py` on your new voice file to **0 failed**; count from disk, check id uniqueness. Do not edit global findings/README/counts. Return counts, paths, 5 strongest ids, surprises and exact unread paths. No outreach.

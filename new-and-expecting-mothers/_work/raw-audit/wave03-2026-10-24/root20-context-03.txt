@@ -1,0 +1,87 @@
+SELECTED RECORD {"id": "rvw03-0015", "source": "Apple App Store — babysparks, CA storefront review", "url": "https://apps.apple.com/ca/app/babysparks-development-app/id794574199?see-all=reviews", "date": "2024-11-22T05:38:41.000Z", "speaker": "parent_unspecified", "stage": "unknown", "type": "objection", "themes": ["development_play", "personalization", "price_value"], "quote": "It would be so much more useful if it actually provided suggestions based on what milestones I’ve indicated that my baby has already achieved.", "context": "User says entered milestones do not improve recommendations. Payment absent; personalization complaint only.", "raw_file": "_raw/market-wave-03/reviews/babysparks-ca-corpus.txt", "source_class": "app_review", "evidence_kind": "original_review", "review_id": "11977501949", "storefront": "ca", "rating": 1, "full_review_read": true}
+COMPLETE ORIGINAL UNIT
+Disappointing
+The app seems to randomly offer activity suggestions.  It would be so much more useful if it actually provided suggestions based on what milestones I’ve indicated that my baby has already achieved.  I have yet to see their algorithm work for me despite all the input I have already given the app.  Also, I can’t seem to figure out how to “backdate” my baby’s milestones so the app might think my baby just achieved something today when in reality he accomplished it weeks or months ago.
+
+SELECTED RECORD {"id": "rvw03-0013", "source": "Apple App Store — babysparks, CA storefront review", "url": "https://apps.apple.com/ca/app/babysparks-development-app/id794574199?see-all=reviews", "date": "2025-12-15T19:15:45.000Z", "speaker": "parent_unspecified", "stage": "unknown", "type": "objection", "themes": ["development_play", "personalization", "price_value"], "quote": "Bought annual pass, the app doesn’t work.", "context": "Explicit annual-pass purchase; reports malfunction, excluded workshops and age mismatch. No report deliverable or price stated.", "raw_file": "_raw/market-wave-03/reviews/babysparks-ca-corpus.txt", "source_class": "app_review", "evidence_kind": "original_review", "review_id": "13517505756", "storefront": "ca", "rating": 2, "full_review_read": true}
+COMPLETE ORIGINAL UNIT
+Disappointed
+Bought annual pass, the app doesn’t work. I add milestones but nothing submits. Also all the workshops and courses are not included in the annual subscription. Activities seem repetitive every day and don’t match my child’s age.
+
+SELECTED RECORD {"id": "rvw03-0006", "source": "Apple App Store — huckleberry, AU storefront review", "url": "https://apps.apple.com/au/app/huckleberry-baby-tracker/id1169136078?see-all=reviews", "date": "2025-08-10T03:19:10.000Z", "speaker": "parent_unspecified", "stage": "unknown", "type": "advice_given", "themes": ["sleep_routines", "personalization", "price_value"], "quote": "his sleep schedule is prepared for me based on the parameters I choose.", "context": "Self-reports premium annual subscription after contact-nap difficulty. Positive personalized-schedule experience; format and exact price absent, app bundle only.", "raw_file": "_raw/market-wave-03/reviews/huckleberry-au-corpus.txt", "source_class": "app_review", "evidence_kind": "original_review", "review_id": "12997384716", "storefront": "au", "rating": 5, "full_review_read": true, "marketing_eligible": false, "evidence_use": "Research-only: claimed safety/clinical context or unverified review-incentive allegation; no targeting or clinical efficacy inference."}
+COMPLETE ORIGINAL UNIT
+A godsend for getting my son to nap
+I was struggling really bad with my son only contact napping during the day and waking up every time his head touched his cot mattress. Huckleberry was recommended to me and within 2 days of using it I was finally able to get him to sleep in his cot on his own. It’s been amazing for me to put him on a schedule cause clearly I had no idea what I was doing. I really appreciate the extra support option I have with premium where his sleep schedule is prepared for me based on the parameters I choose. Would highly recommend this app to anyone (I get the price can be a lot for some people but I rationalised it by noting a 12 month subscription for premium was cheaper than a psychologist appt which was my next stop if I couldn’t get him to sleep on his own so I had some time to myself or to get chores done!)
+
+SELECTED RECORD {"id": "rba01-0002", "source": "Reddit — r/beyondthebump (publisher archive)", "url": "https://www.reddit.com/r/beyondthebump/comments/1o70lus/car_seat_stroller_bassinet_combo/", "date": "2025-10-15T03:38:16+00:00", "speaker": "parent_unspecified", "stage": "unknown", "type": "question", "themes": ["registry_gear", "personalization", "decision_fatigue"], "quote": "My head is swimming and I just want my trusted reddit community to tell me what to do.", "context": "Expecting parent asks community to resolve travel-system decisions; spending intent concerns hardware, not paid information.", "raw_file": "_raw/reddit-deep/report-purchases-v2/units/beyondthebump-1o70lus.txt", "source_class": "reddit_archive", "evidence_kind": "archived_original", "archive_dataset": "yikeee/reddit-subreddits25", "archive_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f", "post_id": "1o70lus", "read_scope": "full_post_comment_source_unavailable", "paid_report_demand_proven": false}
+COMPLETE ORIGINAL UNIT
+REPORT-PURCHASE DISCOVERY CANDIDATE — NOT A HUMAN PURCHASE CLASSIFICATION
+{
+  "post_id": "1o70lus",
+  "subreddit": "beyondthebump",
+  "url": "https://www.reddit.com/r/beyondthebump/comments/1o70lus/car_seat_stroller_bassinet_combo/",
+  "post_date": "2025-10-15T03:38:16+00:00",
+  "title": "car seat + stroller + bassinet combo",
+  "source_post_file": "_raw/reddit-deep/windows/2025-h2-v1/beyondthebump_submissions.jsonl.gz",
+  "source_comment_file": null,
+  "comment_source_available": false,
+  "OP_replies": 0,
+  "OP_comment_ids": [],
+  "prior_full_read": false,
+  "country_current_assignment": false,
+  "matched_original_body": true,
+  "matched_OP_comment_ids": [],
+  "provenance": "independentpublisherarchive, pinnedcommit ea497c510aa68765c07ed744ec9f84d68bbedf7f, authenticity/license/livecompletenessunverified"
+}
+
+=== COMPLETE ORIGINAL POST TITLE ===
+car seat + stroller + bassinet combo
+
+=== COMPLETE ORIGINAL POST BODY ===
+I am rapidly approaching my due date & feel so overwhelmed with the options for infant car seat / travel system, bassinet attachment and stroller combo. 
+
+Do I go Nuna all the way? Open to spending $ if it’s worth it. 
+Do I mix n match? Nuna infant car seat (highly rated on Consumer Reports) and go cheaper for the Mockingbird stroller + bassinet? 
+Is the bassinet attachment for a stroller actually necessary/useful? I know it’s recommended to avoid 2+ hours of infant car seat so is the travel system worth it?
+
+my priorities are in this order 
+1. safety 
+2. ease / one handed / lightweight 
+3. aesthetics 
+
+My head is swimming and I just want my trusted reddit community to tell me what to do. Lol please and thank you <3
+
+
+
+=== ALL AVAILABLE IDENTIFIABLE OP REPLIES ===
+The publisher comment file is unavailable; no live follow-up completeness is claimed.
+
+
+SELECTED RECORD {"id": "rvw03-0002", "source": "Apple App Store — huckleberry, CA storefront review", "url": "https://apps.apple.com/ca/app/huckleberry-baby-tracker/id1169136078?see-all=reviews", "date": "2025-03-30T20:42:58.000Z", "speaker": "parent_unspecified", "stage": "unknown", "type": "objection", "themes": ["sleep_routines", "personalization", "price_value"], "quote": "I initially paid $76 for Huckleberry’s SweetSpot feature", "context": "Explicit feature payment and later widget-paywall complaint; purchase price self-reported, currency unspecified. Personalized report not purchased explicitly.", "raw_file": "_raw/market-wave-03/reviews/huckleberry-ca-corpus.txt", "source_class": "app_review", "evidence_kind": "original_review", "review_id": "12484098443", "storefront": "ca", "rating": 1, "full_review_read": true}
+COMPLETE ORIGINAL UNIT
+Another money hungry company
+I initially paid $76 for Huckleberry’s SweetSpot feature, expecting full access to the tools I needed to track my baby’s sleep. Now, with their latest update, they’re asking for even more money just to use the widget!!! A feature that was previously included. It feels like a blatant cash grab, especially for parents who already paid for a premium service!! 
+
+The app itself is helpful, but this constant paywalling of basic functionality is frustrating and unfair to loyal users. If you’re considering paying for Huckleberry, be aware that they may keep locking features behind new subscriptions. I regret investing in this when there are free alternatives out there. So disgusted by your company!
+
+SELECTED RECORD {"id": "rvw03-0020", "source": "Apple App Store — solidstarts, AU storefront review", "url": "https://apps.apple.com/au/app/solid-starts-baby-first-foods/id1564189151?see-all=reviews", "date": "2023-05-27T22:09:06.000Z", "speaker": "parent_unspecified", "stage": "unknown", "type": "advice_given", "themes": ["family_meals", "price_value", "implementation_effort"], "quote": "I love being able to modify any meal we are having to suit my baby at any age.", "context": "User values adapting family meals and reducing leftovers. No payment stated; reported benefit does not establish personalized-report purchase.", "raw_file": "_raw/market-wave-03/reviews/solidstarts-au-corpus.txt", "source_class": "app_review", "evidence_kind": "original_review", "review_id": "9972034944", "storefront": "au", "rating": 5, "full_review_read": true}
+COMPLETE ORIGINAL UNIT
+The best!
+I use this app multiple times a day! It is so clear and easy. It’s given me the confidence to start my baby on solids. I love being able to modify any meal we are having to suit my baby at any age. It means we save on leftovers! I often look up whatever I have in my fridge or on my plate when I’m out and serve accordingly. When there’s a million different bits of information out there it can be hard to know what to do but this app makes it easy!
+
+SELECTED RECORD {"id": "rvw03-0022", "source": "Apple App Store — solidstarts, AU storefront review", "url": "https://apps.apple.com/au/app/solid-starts-baby-first-foods/id1564189151?see-all=reviews", "date": "2022-11-27T06:17:27.000Z", "speaker": "parent_unspecified", "stage": "unknown", "type": "advice_given", "themes": ["family_meals", "price_value", "implementation_effort"], "quote": "Don’t like the fact that I am being charged for something that doesn’t work.", "context": "Explicit charged app user likes recipes and tracking but reports outage. Food subscription, not a customized report transaction.", "raw_file": "_raw/market-wave-03/reviews/solidstarts-au-corpus.txt", "source_class": "app_review", "evidence_kind": "original_review", "review_id": "9333526001", "storefront": "au", "rating": 5, "full_review_read": true}
+COMPLETE ORIGINAL UNIT
+Generally a good app but is not working since the last few days
+Hi! I really like the app as it helps to track what I have already introduced, and helps plan what I need to. Love the recipes as well. 
+
+But hate that it has not been working over the last few days. It still isn’t working. Could you please share how this can be fixed? Don’t like the fact that I am being charged for something that doesn’t work. Look forward to hear back from you. Ta
+
+SELECTED RECORD {"id": "rvw03-0010", "source": "Apple App Store — kinedu, AU storefront review", "url": "https://apps.apple.com/au/app/kinedu-baby-development/id741277284?see-all=reviews", "date": "2021-10-10T22:44:13.000Z", "speaker": "parent_unspecified", "stage": "unknown", "type": "objection", "themes": ["development_play", "personalization", "price_value"], "quote": "I really liked the concept of this app so I downloaded it and paid for a yearly subscription.", "context": "Explicit paid activities subscription; complains recommendations ignore milestones, require preparation and partial refund refused. No paid assessment-report transaction.", "raw_file": "_raw/market-wave-03/reviews/kinedu-au-corpus.txt", "source_class": "app_review", "evidence_kind": "original_review", "review_id": "7900590971", "storefront": "au", "rating": 1, "full_review_read": true}
+COMPLETE ORIGINAL UNIT
+Activities not great, customer service very poor
+I really liked the concept of this app so I downloaded it and paid for a yearly subscription. However, I found the activities are not challenging enough for my son. 
+My son is meeting all of his milestones a little bit early or on time, so he is not super advanced or anything. Nonetheless, the app asks you to confirm list after list of which milestones they have reached and I have wasted so much time doing this, only to be recommended ideas that are boring for him/not engaging because the difficulty level is so low. My son is 14 months old and I still get recommended activities like “Sitting - to help your baby reach the sitting positions” when he is so beyond that. He is running! And I have updated that in the milestones page too!
+I contacted Kinedu and they didn’t assist me by providing more challenging activities/suggestions and refused to refund me even a partial amount of the subscription cost that I paid. Since I have paid for it, I have logged back in from time to time over the past couple of months and updated the milestones pages, but the activities are just not good.
+Furthermore, I found that most of the activities require some kind of set up which makes the app not practical to just whip out on a rainy day with your child and start an activity straight away. You have to watch the videos for the activity and since we don’t do screens with our son, I found it hard to watch them with him around.
+I could be wrong but I think this app is designed for younger babies, maybe 0-6 months old. However, that’s the stage where they get fascinated by lying under a tree looking at the leaves and a kitchen utensil like a spatula is the best thing they’ve ever seen, so I personally wouldn’t pay for the subscription then either.
+

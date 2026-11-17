@@ -1,0 +1,38 @@
+{
+  "ad_id": "1019784520818571",
+  "advertiser": "Napper",
+  "page_id": "100208041597677",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/020-napper-page.json",
+  "capture_sha256": "3f6886f7ea4051f1ad3adbc0f17a258dea8e360603fb788374b4a744a32925b8",
+  "native_pointer": "connections[0].edges[3].node.collated_results[1]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=100208041597677",
+  "captured_at": "2026-10-24T21:50:21.141Z",
+  "is_active": true,
+  "start_utc": "2026-07-10T07:00:00+00:00",
+  "display_format": "VIDEO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1019784520818571",
+  "snapshot_sha256": "ca68929c044cd7d1bfa32913560da2bb8a061d6f8f4cfb4da306f6877e647c04",
+  "text_fields": {
+    "body": {
+      "text": "🌸 Únete a millones de papás que encuentran paz en el sueño de su bebé con Napper\n\n ➡️ Descarga la aplicación ahora"
+    },
+    "title": "¿Te cuesta encontrar el momento perfecto para dormir a tu bebé? Deja que Napper te ayude. 👋",
+    "caption": "play.google.com",
+    "link_description": null,
+    "link_url": "http://play.google.com/store/apps/details?id=com.napper",
+    "cta_text": "Install now",
+    "cta_type": "INSTALL_MOBILE_APP",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "16f4cb49125899f25d9976d3a496a15e2ad69d9820adaa2ca3148987081033b6",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 1,
+  "cards_count": 0
+}

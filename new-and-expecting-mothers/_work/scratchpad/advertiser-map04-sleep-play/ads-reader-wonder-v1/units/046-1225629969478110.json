@@ -1,0 +1,66 @@
+{
+  "ad_id": "1225629969478110",
+  "advertiser": "The Wonder Weeks",
+  "page_id": "129492440396348",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/046c-wonder-weeks-page.json",
+  "capture_sha256": "948f6c6250040a7b35df1a5e488a4b2c6d6c28ab0e2105574f96ea2b27fcbc9b",
+  "native_pointer": "connections[0].edges[10].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=129492440396348",
+  "captured_at": "2026-10-24T22:03:04.532Z",
+  "is_active": true,
+  "start_utc": "2026-05-30T07:00:00+00:00",
+  "display_format": "DCO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1225629969478110",
+  "snapshot_sha256": "a1849a4f592d2c6e4f987fed4280906b61210211242301c0c8c51dd7b2ada039",
+  "text_fields": {
+    "body": {
+      "text": "{{product.brand}}"
+    },
+    "title": "{{product.name}}",
+    "caption": "itunes.apple.com",
+    "link_description": "{{product.description}}",
+    "link_url": "http://itunes.apple.com/app/id529815782",
+    "cta_text": "Install now",
+    "cta_type": "INSTALL_MOBILE_APP",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": [
+      {
+        "body": "Ever wonder what's going on in your baby's mind? \nTrack their development and behavior like a pro with The Wonder Weeks App! \nMillions of parents have found confidence in our scientifically-backed insights. 👶 Ready to start parenting with clarity today?",
+        "title": "The #1 Baby App",
+        "caption": "",
+        "link_description": null,
+        "link_url": "http://itunes.apple.com/app/id529815782",
+        "cta_text": "Install Now",
+        "cta_type": "INSTALL_MOBILE_APP"
+      },
+      {
+        "body": "Ever wonder what's going on in your baby's mind? \nTrack their development and behavior like a pro with The Wonder Weeks App! \nMillions of parents have found confidence in our scientifically-backed insights. 👶 Ready to start parenting with clarity today?",
+        "title": "The #1 Baby App",
+        "caption": "",
+        "link_description": null,
+        "link_url": "http://itunes.apple.com/app/id529815782",
+        "cta_text": "Install Now",
+        "cta_type": "INSTALL_MOBILE_APP"
+      },
+      {
+        "body": "Ever wonder what's going on in your baby's mind? \nTrack their development and behavior like a pro with The Wonder Weeks App! \nMillions of parents have found confidence in our scientifically-backed insights. 👶 Ready to start parenting with clarity today?",
+        "title": "The #1 Baby App",
+        "caption": "",
+        "link_description": null,
+        "link_url": "http://itunes.apple.com/app/id529815782",
+        "cta_text": "Install Now",
+        "cta_type": "INSTALL_MOBILE_APP"
+      }
+    ]
+  },
+  "text_fields_sha256": "8ad772b525cc62c8ed280401cd8e1a67a2be83e3428864a28f537335a8feff96",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 0,
+  "cards_count": 3
+}

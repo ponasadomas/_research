@@ -1,0 +1,14 @@
+SOURCE: https://napper.app/robots.txt
+HTTP: 200
+ERROR: 
+
+# Block all crawlers for /admin
+User-agent: *
+Disallow: /admin
+Disallow: /api
+Disallow: /login
+
+# Allow all crawlers
+User-agent: *
+Allow: /
+Sitemap: https://napper.app/sitemap.xml

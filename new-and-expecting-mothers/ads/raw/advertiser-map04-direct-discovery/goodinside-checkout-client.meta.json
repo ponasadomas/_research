@@ -1,0 +1,28 @@
+{
+  "requested_url": "https://www.goodinside.com/_next/static/chunks/pages/purchase/checkout-297cb31e31c7a6f3.js",
+  "final_url": "https://www.goodinside.com/_next/static/chunks/pages/purchase/checkout-297cb31e31c7a6f3.js",
+  "status": 200,
+  "date_utc": "2026-10-24T22:11:30.099789+00:00",
+  "headers": {
+    "Access-Control-Allow-Origin": "*",
+    "Age": "92830",
+    "Cache-Control": "public,max-age=31536000,immutable",
+    "Content-Disposition": "inline; filename=\"checkout-297cb31e31c7a6f3.js\"",
+    "Content-Encoding": "gzip",
+    "Content-Type": "application/javascript; charset=utf-8",
+    "Date": "Sat, 24 Oct 2026 22:11:30 GMT",
+    "Etag": "W/\"979f73defdcc7d405822d69ca67eee06\"",
+    "Last-Modified": "Fri, 23 Oct 2026 20:24:19 GMT",
+    "Server": "Vercel",
+    "Strict-Transport-Security": "max-age=63072000",
+    "X-Matched-Path": "/_next/static/chunks/pages/purchase/checkout-297cb31e31c7a6f3.js",
+    "X-Robots-Tag": "noindex",
+    "X-Vercel-Cache": "HIT",
+    "X-Vercel-Id": "arn1::h6jnh-1792879890043-c2fa5086af6e",
+    "Transfer-Encoding": "chunked"
+  },
+  "redirects": [],
+  "raw_file": "_raw/advertiser-map04-direct-discovery/goodinside-checkout-client.body",
+  "sha256": "9fae588bbfc6c20b59c90a2932ed0f6f701e5cc3aa9dba9554a48c6235fd973f",
+  "bytes": 39383
+}

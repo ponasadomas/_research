@@ -1,0 +1,32 @@
+{
+  "slug": "littlespoon-babyblends",
+  "url": "https://www.littlespoon.com/products/babyblends",
+  "robots_status": 200,
+  "robots_allowed": true,
+  "robots_file": "_raw/advertiser-map04-food-safety/robots/www.littlespoon.com.txt",
+  "raw_file": "_raw/advertiser-map04-food-safety/pages/littlespoon-babyblends.html",
+  "text_file": "_raw/advertiser-map04-food-safety/pages/littlespoon-babyblends.txt",
+  "sha256": "9087d66ad470e6c1fc8851cb943e0622cf1589dade2240ea9407d6d2e7effef0",
+  "bytes": 2011204,
+  "utc": "2026-10-24T21:48:31.784473+00:00",
+  "status": 200,
+  "final_url": "https://www.littlespoon.com/products/babyblends",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:48:31 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "CF-Ray": "a4fc2fa50f46e4d1-RIX",
+    "CF-Cache-Status": "DYNAMIC",
+    "Cache-Control": "s-maxage=31536000",
+    "Server": "cloudflare",
+    "Strict-Transport-Security": "max-age=7776000; includeSubDomains",
+    "Vary": "Accept-Encoding",
+    "Via": "2.0 heroku-router",
+    "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+    "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=10WbDfJ9TDfNMp1ftVnVHUkNCZE8iAsU0k%2FnIoyBPZA%3D\\u0026sid=67ff5de4-ad2b-4112-9289-cf96be89efed\\u0026ts=1792878511\"}],\"max_age\":3600}",
+    "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=10WbDfJ9TDfNMp1ftVnVHUkNCZE8iAsU0k%2FnIoyBPZA%3D&sid=67ff5de4-ad2b-4112-9289-cf96be89efed&ts=1792878511\"",
+    "x-nextjs-cache": "HIT",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  }
+}

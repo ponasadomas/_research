@@ -1,0 +1,81 @@
+{
+  "ad_id": "1256073496711949",
+  "page_id": "620732004665539",
+  "page_name": "Skylight",
+  "snapshot_page_id": "239388882769452",
+  "snapshot_page_name": "Mindy Kaling",
+  "snapshot_identity_differs": true,
+  "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/043-skylight-page.json",
+  "source_file_sha256": "4ec970a7be639386523fc6ef0d82f4caec8f95f6cbf924da5cae214dffa7ddc7",
+  "captured_at": "2026-10-24T21:57:52.881Z",
+  "native_is_active": true,
+  "start_timestamp": 1792306800,
+  "start_utc": "2026-10-18T07:00:00+00:00",
+  "displayed_start_date": "Oct 18, 2026",
+  "collation_id": "1909207130438972",
+  "collation_count": 1,
+  "display_format": "DCO",
+  "primary_destination": "https://myskylight.com/products/skylight-calendar",
+  "card_destinations": [
+    "https://myskylight.com/products/skylight-calendar",
+    "https://myskylight.com/products/skylight-calendar"
+  ],
+  "native_body_sha256": "4943807229137ffa568529267c8c728e9db26019bacaf5d1451599638391eb58",
+  "native_text_bundle_sha256": "2fec76d428c3ab962a883485ebcc8c1466aedb7f6595bc468f0d89ed623f5e3f",
+  "native_ad_sha256": "66880aa4a0476a8f546c05081e8c7bd643fec78e2becea7986cb4c19aa8d7dc3",
+  "text_bundle": {
+    "body": "My kids have very busy schedules for people who can't drive. Skylight Calendar puts it all in one place, color-coded by person, so I can see what’s happening without mentally reviewing six different conversations...game changer.",
+    "top": {
+      "caption": "myskylight.com",
+      "cta_text": "Shop now",
+      "cta_type": "SHOP_NOW",
+      "title": "Skylight Calendar",
+      "link_description": null,
+      "link_url": "https://myskylight.com/products/skylight-calendar",
+      "display_format": "DCO",
+      "byline": null,
+      "disclaimer_label": null,
+      "additional_info": null,
+      "extra_links": [],
+      "extra_texts": [],
+      "branded_content": {
+        "page_id": "620732004665539",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/ourskylight/",
+        "page_name": "Skylight"
+      },
+      "root_reshared_post": null
+    },
+    "cards": [
+      {
+        "body": "My kids have very busy schedules for people who can't drive. Skylight Calendar puts it all in one place, color-coded by person, so I can see what’s happening without mentally reviewing six different conversations...game changer.",
+        "caption": "myskylight.com",
+        "title": "Skylight Calendar",
+        "link_description": null,
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW",
+        "link_url": "https://myskylight.com/products/skylight-calendar"
+      },
+      {
+        "body": "My kids have very busy schedules for people who can't drive. Skylight Calendar puts it all in one place, color-coded by person, so I can see what’s happening without mentally reviewing six different conversations...game changer.",
+        "caption": "myskylight.com",
+        "title": "Skylight Calendar",
+        "link_description": null,
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW",
+        "link_url": "https://myskylight.com/products/skylight-calendar"
+      }
+    ]
+  },
+  "excluded_card_media_fields": [
+    "image_crops",
+    "original_image_url",
+    "resized_image_url",
+    "video_hd_url",
+    "video_preview_image_url",
+    "video_sd_url",
+    "watermarked_resized_image_url",
+    "watermarked_video_hd_url",
+    "watermarked_video_sd_url"
+  ]
+}

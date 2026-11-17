@@ -1,0 +1,329 @@
+SOURCE: https://www.takingcarababies.com/robots.txt
+HTTP: 200
+ERROR: 
+
+
+User-agent: *
+Disallow: /a/downloads/-/*
+Disallow: /admin
+Disallow: /cart
+Disallow: /orders
+Disallow: /checkouts/
+Disallow: /checkout
+Disallow: /75584831712/checkouts
+Disallow: /75584831712/orders
+Disallow: /carts
+Disallow: /account
+Disallow: /collections/*sort_by*
+Disallow: /*/collections/*sort_by*
+Disallow: /collections/*+*
+Disallow: /collections/*%2B*
+Disallow: /collections/*%2b*
+Disallow: /*/collections/*+*
+Disallow: /*/collections/*%2B*
+Disallow: /*/collections/*%2b*
+Disallow: */collections/*filter*&*filter*
+Disallow: /blogs/*+*
+Disallow: /blogs/*%2B*
+Disallow: /blogs/*%2b*
+Disallow: /*/blogs/*+*
+Disallow: /*/blogs/*%2B*
+Disallow: /*/blogs/*%2b*
+Disallow: /*?*oseid=*
+Disallow: /*preview_theme_id*
+Disallow: /*preview_script_id*
+Disallow: /policies/
+Disallow: /*/policies/
+Disallow: /*/*?*ls=*&ls=*
+Disallow: /*/*?*ls%3D*%3Fls%3D*
+Disallow: /*/*?*ls%3d*%3fls%3d*
+Disallow: /search
+Disallow: /apple-app-site-association
+Disallow: /.well-known/shopify/monorail
+Disallow: /cdn/wpm/*.js
+Disallow: /recommendations/products
+Disallow: /*/recommendations/products
+Disallow: /services/login_with_shop
+Disallow: /products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /collections/*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /*/collections/*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Sitemap: https://www.takingcarababies.com/sitemap.xml
+
+User-agent: adsbot-google
+Disallow: /checkouts/
+Disallow: /checkout
+Disallow: /carts
+Disallow: /orders
+Disallow: /75584831712/checkouts
+Disallow: /75584831712/orders
+Disallow: /*?*oseid=*
+Disallow: /*preview_theme_id*
+Disallow: /*preview_script_id*
+Disallow: /cdn/wpm/*.js
+Disallow: /products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /collections/*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /*/collections/*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /services/login_with_shop
+
+User-agent: Nutch
+Disallow: /
+
+User-agent: AhrefsBot
+Crawl-delay: 10
+Disallow: /a/downloads/-/*
+Disallow: /admin
+Disallow: /cart
+Disallow: /orders
+Disallow: /checkouts/
+Disallow: /checkout
+Disallow: /75584831712/checkouts
+Disallow: /75584831712/orders
+Disallow: /carts
+Disallow: /account
+Disallow: /collections/*sort_by*
+Disallow: /*/collections/*sort_by*
+Disallow: /collections/*+*
+Disallow: /collections/*%2B*
+Disallow: /collections/*%2b*
+Disallow: /*/collections/*+*
+Disallow: /*/collections/*%2B*
+Disallow: /*/collections/*%2b*
+Disallow: */collections/*filter*&*filter*
+Disallow: /blogs/*+*
+Disallow: /blogs/*%2B*
+Disallow: /blogs/*%2b*
+Disallow: /*/blogs/*+*
+Disallow: /*/blogs/*%2B*
+Disallow: /*/blogs/*%2b*
+Disallow: /*?*oseid=*
+Disallow: /*preview_theme_id*
+Disallow: /*preview_script_id*
+Disallow: /policies/
+Disallow: /*/policies/
+Disallow: /*/*?*ls=*&ls=*
+Disallow: /*/*?*ls%3D*%3Fls%3D*
+Disallow: /*/*?*ls%3d*%3fls%3d*
+Disallow: /search
+Disallow: /apple-app-site-association
+Disallow: /.well-known/shopify/monorail
+Disallow: /cdn/wpm/*.js
+Disallow: /services/login_with_shop
+Disallow: /products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /collections/*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /*/collections/*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Sitemap: https://www.takingcarababies.com/sitemap.xml
+
+User-agent: AhrefsSiteAudit
+Crawl-delay: 10
+Disallow: /a/downloads/-/*
+Disallow: /admin
+Disallow: /cart
+Disallow: /orders
+Disallow: /checkouts/
+Disallow: /checkout
+Disallow: /75584831712/checkouts
+Disallow: /75584831712/orders
+Disallow: /carts
+Disallow: /account
+Disallow: /collections/*sort_by*
+Disallow: /*/collections/*sort_by*
+Disallow: /collections/*+*
+Disallow: /collections/*%2B*
+Disallow: /collections/*%2b*
+Disallow: /*/collections/*+*
+Disallow: /*/collections/*%2B*
+Disallow: /*/collections/*%2b*
+Disallow: */collections/*filter*&*filter*
+Disallow: /blogs/*+*
+Disallow: /blogs/*%2B*
+Disallow: /blogs/*%2b*
+Disallow: /*/blogs/*+*
+Disallow: /*/blogs/*%2B*
+Disallow: /*/blogs/*%2b*
+Disallow: /*?*oseid=*
+Disallow: /*preview_theme_id*
+Disallow: /*preview_script_id*
+Disallow: /policies/
+Disallow: /*/policies/
+Disallow: /*/*?*ls=*&ls=*
+Disallow: /*/*?*ls%3D*%3Fls%3D*
+Disallow: /*/*?*ls%3d*%3fls%3d*
+Disallow: /search
+Disallow: /apple-app-site-association
+Disallow: /.well-known/shopify/monorail
+Disallow: /cdn/wpm/*.js
+Disallow: /services/login_with_shop
+Disallow: /products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /collections/*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /*/collections/*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Sitemap: https://www.takingcarababies.com/sitemap.xml
+
+User-agent: MJ12bot
+Crawl-delay: 10
+
+User-agent: Pinterest
+Crawl-delay: 1
+
+
+
+# we use Shopify as our e-commerce platform
+
+User-agent: *
+Disallow: /a/downloads/-/*
+Disallow: /admin/
+Disallow: /cart
+Disallow: /carts
+Disallow: /orders
+Disallow: /checkouts/
+Disallow: /checkout
+Disallow: /90892796204/checkouts
+Disallow: /90892796204/orders
+Disallow: /account
+Disallow: /collections/*sort_by*
+Disallow: /*/collections/*sort_by*
+Disallow: /collections/*+*
+Disallow: /collections/*%2B*
+Disallow: /*/collections/*+*
+Disallow: /*/collections/*%2B*
+Disallow: */collections/*filter*&*filter*
+Disallow: /blogs/*+*
+Disallow: /blogs/*%2B*
+Disallow: /*/blogs/*+*
+Disallow: /*/blogs/*%2B*
+Disallow: /*?*oseid=*
+Disallow: /*preview_theme_id*
+Disallow: /*preview_script_id*
+Disallow: /policies/
+Disallow: /*/policies/
+Disallow: /*/*?*ls=*&ls=*
+Disallow: /*/*?*ls%3D*%3Fls%3D*
+Disallow: /search
+Disallow: /apple-app-site-association
+Disallow: /.well-known/shopify/monorail
+Disallow: /cdn/wpm/*.js
+Disallow: /recommendations/products
+Disallow: /*/recommendations/products
+
+# Google Adsbot exceptions
+User-agent: adsbot-google
+Disallow: /checkouts/
+Disallow: /checkout
+Disallow: /carts
+Disallow: /orders
+Disallow: /90892796204/checkouts
+Disallow: /90892796204/orders
+Disallow: /*?*oseid=*
+Disallow: /*preview_theme_id*
+Disallow: /*preview_script_id*
+Disallow: /cdn/wpm/*.js
+
+# =========================
+# AI Bots – Explicitly Allowed
+# =========================
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: MistralAI-User/1.0
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: AmazonBot
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+# Shopify XML Sitemaps – auto-generated for search engine bots.
+# Main index file contains links to all products, collections, blog, and policy sitemaps.
+# Bots should start with sitemap.xml to discover all current and future sitemaps automatically.
+Sitemap: https://takingcarababies.com/sitemap.xml
+
+# Full block for certain crawlers
+User-agent: Nutch
+Disallow: /
+
+# Ahrefs & SiteAudit – delay & same rules as *
+User-agent: AhrefsBot
+User-agent: AhrefsSiteAudit
+Crawl-delay: 10
+Disallow: /a/downloads/-/*
+Disallow: /admin/
+Disallow: /cart
+Disallow: /carts
+Disallow: /orders
+Disallow: /checkouts/
+Disallow: /checkout
+Disallow: /90892796204/checkouts
+Disallow: /90892796204/orders
+Disallow: /account
+Disallow: /collections/*sort_by*
+Disallow: /*/collections/*sort_by*
+Disallow: /collections/*+*
+Disallow: /collections/*%2B*
+Disallow: /*/collections/*+*
+Disallow: /*/collections/*%2B*
+Disallow: */collections/*filter*&*filter*
+Disallow: /blogs/*+*
+Disallow: /blogs/*%2B*
+Disallow: /*/blogs/*+*
+Disallow: /*/blogs/*%2B*
+Disallow: /*?*oseid=*
+Disallow: /*preview_theme_id*
+Disallow: /*preview_script_id*
+Disallow: /policies/
+Disallow: /*/policies/
+Disallow: /*/*?*ls=*&ls=*
+Disallow: /*/*?*ls%3D*%3Fls%3D*
+Disallow: /search
+Disallow: /apple-app-site-association
+Disallow: /.well-known/shopify/monorail
+Disallow: /cdn/wpm/*.js
+Disallow: /recommendations/products
+Disallow: /*/recommendations/products
+
+# Other bots
+User-agent: MJ12bot
+Crawl-delay: 10
+
+User-agent: Pinterest
+Crawl-delay: 1
+

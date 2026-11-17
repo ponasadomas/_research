@@ -1,0 +1,17 @@
+SOURCE: https://www.smartsleepcoach.com/robots.txt
+HTTP: 200
+ERROR: 
+
+User-agent: *
+
+Disallow:/account/subscriptions
+Disallow:/reset-password
+Disallow:/checkout
+Disallow:/checkout/order-confirmation
+Disallow:/ep_softwarehp
+
+User-agent: *
+Disallow: /*?_bc_fsnf=1*
+Disallow: /*&_bc_fsnf=1*
+
+Sitemap: https://smart-sleep-coach.webflow.io/sitemap.xml

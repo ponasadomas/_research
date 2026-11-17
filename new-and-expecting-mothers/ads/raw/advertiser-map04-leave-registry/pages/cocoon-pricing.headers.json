@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:46:30 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "x-lambda-id": "484baa06-d366-43ba-9853-73445650cead",
+    "x-wf-region": "us-east-1",
+    "set-cookie": "_cfuvid=hwRSY99Jmd.lA452kMRrCHjsNjW1NSaYemFp1bjZIec-1792878390.5926406-1.0.1.1-dKTigWG6WEqdR.gEFNckCMx2_Lmc.WNX8qU3wA51024; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.cocoon.com",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=vV7IsZZm9ybA%2BJBXB4QpQfMrbstLcxWICkpgypZ1rS3fulve8lh0iGubfqIWLYP7SOcxyouu84H5M5v%2Bo4aGgwBCjUFFRn5UeZGP8B%2Bya9Rvq0NU6uGnNRYDuO7aRru%2B\"}]}",
+    "Last-Modified": "Sat, 24 Oct 2026 21:46:30 GMT",
+    "Link": "<https://cdn.prod.website-files.com>; rel=preconnect; crossorigin, <https://cdn.prod.website-files.com/64ce9f51615cb3ead94d5f9f/css/cocoon2023.webflow.shared.5e5a9614c.min.css>; rel=preload; as=style; crossorigin; integrity=\"sha384-XlqWFMUWGuN7uZnyFxhMPEBa/jg/8Kb7SZpAlntOjB1YD+InkEaVNgI2m1ME/4xT\"",
+    "Server": "cloudflare",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "accept-encoding",
+    "content-security-policy": "frame-ancestors 'self'",
+    "o2o-cache-status": "HIT",
+    "surrogate-control": "max-age=432000",
+    "surrogate-key": "www.cocoon.com 64ce9f51615cb3ead94d5f9f pageId:65e8f391d30b9a99da9119b8 65e8f391d30b9a99da9119f8 65e8f391d30b9a99da9119dd 65e8f391d30b9a99da911949 65e8f391d30b9a99da91199d 65e8f391d30b9a99da9119f7 65e8f391d30b9a99da9119fb",
+    "x-frame-options": "SAMEORIGIN",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "gzip",
+    "CF-RAY": "a4fc2cb4ef10e4e5-RIX"
+  },
+  "history": []
+}

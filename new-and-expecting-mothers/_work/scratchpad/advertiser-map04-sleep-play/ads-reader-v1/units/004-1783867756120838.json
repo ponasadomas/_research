@@ -1,0 +1,66 @@
+{
+  "ad_id": "1783867756120838",
+  "advertiser": "Kinedu",
+  "page_id": "443378469063877",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/004-kinedu-english-page.json",
+  "capture_sha256": "27428c29add8bef39a61c3f3ad4fe314e3d8aedc024262f3f85921ea78b70ad4",
+  "native_pointer": "connections[0].edges[17].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=443378469063877",
+  "captured_at": "2026-10-24T21:46:24.774Z",
+  "is_active": true,
+  "start_utc": "2026-08-13T07:00:00+00:00",
+  "display_format": "DCO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1783867756120838",
+  "snapshot_sha256": "88a7a75a9d509c78cf810b5a0071bc629a5ac7f9ece2d5b02e487bbdb69f3b93",
+  "text_fields": {
+    "body": {
+      "text": "{{product.brand}}"
+    },
+    "title": "{{product.name}}",
+    "caption": "itunes.apple.com",
+    "link_description": "{{product.description}}",
+    "link_url": "http://itunes.apple.com/app/id741277284",
+    "cta_text": "Install now",
+    "cta_type": "INSTALL_MOBILE_APP",
+    "byline": "",
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": [
+      {
+        "body": "Wondering how to boost your baby's development? 🤔👶 Discover daily activity recommendations tailored to your baby's age, milestones, and developmental needs.",
+        "title": "Find activities, tips and personalized advice inside Kinedu. 👶❤️",
+        "caption": "",
+        "link_description": null,
+        "link_url": "http://itunes.apple.com/app/id741277284",
+        "cta_text": "Install Now",
+        "cta_type": "INSTALL_MOBILE_APP"
+      },
+      {
+        "body": "Wondering how to boost your baby's development? 🤔👶 Discover daily activity recommendations tailored to your baby's age, milestones, and developmental needs.",
+        "title": "Find activities, tips and personalized advice inside Kinedu. 👶❤️",
+        "caption": "",
+        "link_description": null,
+        "link_url": "http://itunes.apple.com/app/id741277284",
+        "cta_text": "Install Now",
+        "cta_type": "INSTALL_MOBILE_APP"
+      },
+      {
+        "body": "Wondering how to boost your baby's development? 🤔👶 Discover daily activity recommendations tailored to your baby's age, milestones, and developmental needs.",
+        "title": "Find activities, tips and personalized advice inside Kinedu. 👶❤️",
+        "caption": "",
+        "link_description": null,
+        "link_url": "http://itunes.apple.com/app/id741277284",
+        "cta_text": "Install Now",
+        "cta_type": "INSTALL_MOBILE_APP"
+      }
+    ]
+  },
+  "text_fields_sha256": "c9da0bad4680a0debaa6843a8b8267bd034938eb66deb2e9ba229840a2fededa",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 0,
+  "cards_count": 3
+}

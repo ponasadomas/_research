@@ -1,0 +1,23 @@
+{
+  "status": 200,
+  "url": "https://www.baby-chick.com/robots.txt",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 20:05:32 GMT",
+    "Content-Type": "text/plain; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "set-cookie": "__cf_bm=rEw8RmoOfWBMEnF_JfMESAyDRUmfAC49hPoXa.VlW2c-1792872332.7424848-1.0.1.1-7dBXYnzaOkJNMc.l7wpAxcNUBuOPKfp6yTsr4TbYxiux8U.1z5q6okrekovgeJM5gw6kqRsA4YLA99jRGcPwvdz1JQUaz4HO39A8ub87Ohgjyr0hyyQ589OFNpan7zj7; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.baby-chick.com; Expires=Sat, 24 Oct 2026 20:35:32 GMT",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Xj%2F%2F26mDUvfDZ8YTysOWoHoK%2FL6JbeVG%2FoxZor%2F2x4jkqFG017%2BvSCRaOP22EvqgI34xSmjo8U6E5kT85F1mhyV%2BSPiofaueHJTRdcRg54uNdjdtaAMymR%2F2YZqiHJzJKaxkPw%3D%3D\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}",
+    "Access-Control-Allow-Origin": "*",
+    "Cache-Control": "public, s-maxage=31536000, max-age=60, must-revalidate",
+    "Strict-Transport-Security": "max-age=15552000; preload",
+    "X-Content-Type-Options": "nosniff",
+    "Vary": "accept-encoding",
+    "Content-Encoding": "zstd",
+    "Server": "cloudflare",
+    "cf-cache-status": "DYNAMIC",
+    "CF-RAY": "a4fb98cf8e87fc65-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  }
+}

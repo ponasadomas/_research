@@ -1,0 +1,77 @@
+{
+  "quote_ids": [
+    "rad03-0155",
+    "rad03-0170",
+    "rad03-0174",
+    "rad03-0181",
+    "rad03-0196",
+    "rad03-0202",
+    "rad01-0089",
+    "rad01-0098"
+  ],
+  "chunks": [
+    {
+      "chunk": 1,
+      "path": "_raw/audit/continuation-2026-10-24/targeted-contexts-v2/contexts-01.txt",
+      "sha256": "f204d8edf36bcb56eb833643665b0208cf5d8aa8d63c23883fa98ff933e9d356",
+      "sources": [
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1mkb7mm.txt",
+          "quote_ids": [
+            "rad03-0155"
+          ],
+          "raw_sha256": "941c15df8203560d0fb2b43b8f2e41b63add1c8df2d489e19469db3908ac056a"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1mwrhxg.txt",
+          "quote_ids": [
+            "rad03-0170"
+          ],
+          "raw_sha256": "16ff31b77718926024dbf4592e56155941d54775fbf522d6df2fdfa9ee17307b"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1n958w2.txt",
+          "quote_ids": [
+            "rad03-0174"
+          ],
+          "raw_sha256": "466e6cbccf5fa6dc1d7af492413894a4569e5206b6af335523a33847466f7c99"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1nf9arc.txt",
+          "quote_ids": [
+            "rad03-0181"
+          ],
+          "raw_sha256": "afc1c35002b12f26a7eb677703c44671f7c14a8b30980fdb4fa48195b5e1405c"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1o1bxcd.txt",
+          "quote_ids": [
+            "rad03-0196"
+          ],
+          "raw_sha256": "61413a86e68da1993cc6c7d61b0fea943ddaa2df66b3fb8a133333321d04e8f4"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1omjghn.txt",
+          "quote_ids": [
+            "rad03-0202"
+          ],
+          "raw_sha256": "9bf04c086f82b96e7700b348945bf04b4c947fc254772b43d7beeecd712ac928"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1ok3zxh.txt",
+          "quote_ids": [
+            "rad01-0089"
+          ],
+          "raw_sha256": "d603c4cbc0ca3757a96eebb051a1f8c25b7327c24ac6f4a53ce1e1340451701a"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pdzwp9.txt",
+          "quote_ids": [
+            "rad01-0098"
+          ],
+          "raw_sha256": "aeeb96ac3e3da9c95ecbf3a1e82ff38770c830b405761139da3669abe9d2bdf8"
+        }
+      ]
+    }
+  ]
+}

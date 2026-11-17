@@ -1,0 +1,27 @@
+{
+  "removed_record": {
+    "id": "rad04-0019",
+    "source": "Reddit r/NewParents \u2014 August\u2013December archive",
+    "url": "https://www.reddit.com/r/NewParents/comments/1oql8bo/1st_birthday/",
+    "date": "2025-11-07",
+    "speaker": "parent_unspecified",
+    "stage": "baby_6_12_months",
+    "type": "objection",
+    "themes": [
+      "first_birthday",
+      "space_constraints",
+      "price_value"
+    ],
+    "quote": "I could do a private event room at a restaurant as it's mostly adults but that would also be about at least 1000 and I'm not sure I want to do that.",
+    "context": "Parent with small home compares January first-birthday options; venue estimate has no stated currency, verified quote or payment.",
+    "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1oql8bo.txt",
+    "source_class": "reddit_archive",
+    "evidence_kind": "archived_original",
+    "archive_dataset": "yikeee/reddit-subreddits25",
+    "archive_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f",
+    "post_id": "1oql8bo",
+    "read_scope": "full_post_comment_source_unavailable",
+    "selection_scope": "All620root-owned A cards human triaged; first60of432keeps assigned root04"
+  },
+  "reason": "Later exact-body first-birthday crosspost; earlier1oql6b9 already fully read and eligible in02. Preserve one independent body representative, no renumbering."
+}

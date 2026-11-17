@@ -1,0 +1,109 @@
+[
+  {
+    "chunk": 1,
+    "path": "_raw/audit/continuation-2026-10-24/targeted-contexts-v1/contexts-01.txt",
+    "sha256": "2a8b143bdef39bea80b68c963dab641d3f45c3cde320cb0cfbeec8a03ad113ae",
+    "sources": [
+      {
+        "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/BabyLedWeaning-1n1yo2d.txt",
+        "quote_ids": [
+          "rad01-0001",
+          "rad01-0002"
+        ],
+        "raw_sha256": "80138b7a7d7996264505e1fca173a2f8d4bee2b3b521f5af9a2b843f0ef933cb"
+      },
+      {
+        "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1nwm2ab.txt",
+        "quote_ids": [
+          "rad01-0080"
+        ],
+        "raw_sha256": "d8a0ed8525cdc115ccf89eb80e8f309dbccff5c8bd55771c01461d0bdddadc89"
+      },
+      {
+        "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1ozqayn.txt",
+        "quote_ids": [
+          "rad01-0095"
+        ],
+        "raw_sha256": "bd59b222633f9fdf9684a4f3e7b6809390dc010fd1329fee5c077b10014428ca"
+      },
+      {
+        "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1mts3jj.txt",
+        "quote_ids": [
+          "rad02-0116"
+        ],
+        "raw_sha256": "921d2ce9cf14d39ccf5fda13c9cce63457444b55029ec2abe36a926dd53978cd"
+      },
+      {
+        "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1nnx0we.txt",
+        "quote_ids": [
+          "rad02-0123"
+        ],
+        "raw_sha256": "d057abb5611188cf6ffd63fd942ba994e90470b758518e7d5ba0ab89ab613a46"
+      },
+      {
+        "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1pzmgwk.txt",
+        "quote_ids": [
+          "rad02-0092"
+        ],
+        "raw_sha256": "a21581da944fabf81e3b416c354dd8f6b02d6ba0064c9474485b9edc7639ee26"
+      },
+      {
+        "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1p3nte6.txt",
+        "quote_ids": [
+          "rad02-0085"
+        ],
+        "raw_sha256": "b86bd7d5e5da1e9acfc7d831c79bac6d32be29a6d359bc210ce4df973aed6cbf"
+      },
+      {
+        "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/ExclusivelyPumping-1pp2w09.txt",
+        "quote_ids": [
+          "rad03-0139"
+        ],
+        "raw_sha256": "a8f20b03c905bde8c5286d814bf379310f70fde835f56e83907d7ab130e1aa51"
+      },
+      {
+        "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/BabyBumps-1nf8wv3.txt",
+        "quote_ids": [
+          "rad03-0021"
+        ],
+        "raw_sha256": "bc3202d2694b90918aa69dcf85d98ed88e1022f4863c1887f8972e25dc10c442"
+      }
+    ]
+  },
+  {
+    "chunk": 2,
+    "path": "_raw/audit/continuation-2026-10-24/targeted-contexts-v1/contexts-02.txt",
+    "sha256": "ee23f4153e0b9fd37b587cbcb97e8aa5f2f69bc9011159d088afa9377a4acf73",
+    "sources": [
+      {
+        "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/BabyBumps-1p30jzc.txt",
+        "quote_ids": [
+          "rad03-0038"
+        ],
+        "raw_sha256": "6cf9c7cc1c19f653eb3d27c9aaff6e0ee1387692e2c88772cba2642ce7735d56"
+      },
+      {
+        "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/ExclusivelyPumping-1n48uo5.txt",
+        "quote_ids": [
+          "rad03-0123"
+        ],
+        "raw_sha256": "0dce3ef19fc85bed4d172eba2bae9f4babc8874feed9bd3ed4d2af825e137feb"
+      },
+      {
+        "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/BabyLedWeaning-1pljxxh.txt",
+        "quote_ids": [
+          "rad03-0089",
+          "rad03-0090"
+        ],
+        "raw_sha256": "177fb50239c34aca07751aaa1790b3ea5ff24322f32dfed006efe8842148927d"
+      },
+      {
+        "raw_file": "_raw/reddit-deep/july-B-solids-v1/primary-units/BabyLedWeaning-1m1g4p6.txt",
+        "quote_ids": [
+          "rbc01-0027"
+        ],
+        "raw_sha256": "f083427dddef0eb1a7ada795382516ba7d8126c526f79f1425bd2b647c6e24b2"
+      }
+    ]
+  }
+]

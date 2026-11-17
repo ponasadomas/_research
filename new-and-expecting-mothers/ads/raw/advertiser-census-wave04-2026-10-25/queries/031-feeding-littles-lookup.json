@@ -1,0 +1,28 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "Feeding Littles",
+  "captured_at": "2026-10-24T21:53:28.587Z",
+  "suggestions": "ge/\"\n  uid=31_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=31_1 generic\n      uid=31_2 button \"Search for exact phrase Feeding Littles\"\n    uid=31_3 generic description=\"Feeding Littles @feedinglittles· 129.1K follow this · Local Business @feedinglittles · 1.9M followers\"\n    uid=31_4 generic description=\"Feeding Littles @feedinglittle· 25 follow this · Baby goods/kids goods\"\n    uid=31_5 generic description=\"Feeding My Littles @feedingmylittles· 715 follow this · Blogger @feedingmylittles· 1.7K followers\"\n    uid=31_6 generic description=\"Feeding4Littles 109 follow this · Personal blog\"\n    uid=31_7 generic description=\"Breast Feeding the Littles @breastfeedingthelittles· 29 follow this · Community\"\n",
+  "candidates": [
+    {
+      "uid": "31_3",
+      "description": "Feeding Littles @feedinglittles· 129.1K follow this · Local Business @feedinglittles · 1.9M followers"
+    },
+    {
+      "uid": "31_4",
+      "description": "Feeding Littles @feedinglittle· 25 follow this · Baby goods/kids goods"
+    },
+    {
+      "uid": "31_5",
+      "description": "Feeding My Littles @feedingmylittles· 715 follow this · Blogger @feedingmylittles· 1.7K followers"
+    },
+    {
+      "uid": "31_6",
+      "description": "Feeding4Littles 109 follow this · Personal blog"
+    },
+    {
+      "uid": "31_7",
+      "description": "Breast Feeding the Littles @breastfeedingthelittles· 29 follow this · Community"
+    }
+  ]
+}

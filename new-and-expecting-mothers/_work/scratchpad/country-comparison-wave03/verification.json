@@ -1,0 +1,123 @@
+{
+  "complete": true,
+  "readers": [
+    {
+      "reader": 1,
+      "triaged": 292,
+      "kept": 224,
+      "dropped": 68,
+      "statuses": {
+        "eligible": 184,
+        "excluded_after_read": 40
+      },
+      "quotes": 31,
+      "research_only": 8
+    },
+    {
+      "reader": 2,
+      "triaged": 264,
+      "kept": 157,
+      "dropped": 107,
+      "statuses": {
+        "eligible": 123,
+        "excluded_after_read": 34
+      },
+      "quotes": 47,
+      "research_only": 3
+    },
+    {
+      "reader": 3,
+      "triaged": 291,
+      "kept": 203,
+      "dropped": 88,
+      "statuses": {
+        "eligible": 171,
+        "excluded_after_read": 32
+      },
+      "quotes": 39,
+      "research_only": 15
+    }
+  ],
+  "communities": {
+    "BabyBumpsCanada": {
+      "triaged": 182,
+      "read": 142,
+      "card_drops": 40
+    },
+    "BabyBumpsandBeyondAu": {
+      "triaged": 385,
+      "read": 256,
+      "card_drops": 129
+    },
+    "BeyondTheBumpUK": {
+      "triaged": 280,
+      "read": 186,
+      "card_drops": 94
+    }
+  },
+  "triaged": 847,
+  "kept_full_originals": 584,
+  "card_drop_bodies_unread": 263,
+  "eligible_contexts": 478,
+  "excluded_after_read": 106,
+  "quotes": 117,
+  "research_only": 26,
+  "missing_comment_sources": 584,
+  "OP_replies_read": 0,
+  "extra_duplicate_only_bodies_separate": 5,
+  "comparison_native_context_rereads": 31,
+  "new_original_reading_credit": 0,
+  "new_quotes": 0,
+  "cited_quote_ids": [
+    "rcb01-0001",
+    "rcb01-0004",
+    "rcb01-0006",
+    "rcb01-0010",
+    "rcb01-0017",
+    "rcb01-0020",
+    "rcb01-0024",
+    "rcb01-0026",
+    "rcb02-0001",
+    "rcb02-0004",
+    "rcb02-0018",
+    "rcb02-0022",
+    "rcb02-0023",
+    "rcb02-0029",
+    "rcb02-0041",
+    "rcb02-0042",
+    "rcb02-0044",
+    "rcb02-0045",
+    "rcb03-0005",
+    "rcb03-0010",
+    "rcb03-0011",
+    "rcb03-0019",
+    "rcb03-0023",
+    "rcb03-0026",
+    "rcb03-0027",
+    "rcb03-0029",
+    "rcb03-0030",
+    "rcb03-0033",
+    "rcb03-0036",
+    "rcb03-0037",
+    "rcb03-0039"
+  ],
+  "errors": [],
+  "inputs_sha256": {
+    "_raw/reddit-deep/triage/country-B-01.tsv": "4f13593273f413cb76a9b002ce4f6782bf27cd1b6a057b81509c1ff164be9aa5",
+    "sources/reddit-country-B-01-reading.jsonl": "694332cb53d8bbf5bb13b041b94f72243ab4b27d9b4f18d85492d2caff716c05",
+    "voice/reddit-country-B-01.jsonl": "9068fbe4751512acf14cfae00fa542d532d6e6fb5508ffb0f579ee14796ed277",
+    "synthesis/reader-notes-reddit-country-B-01.md": "29d4714a80f2c582e54b66f87ea9a5454d19335931744bc78df70a7642e68d63",
+    "sources/reddit-country-B-01.md": "66577b0895b7f3aaec52adeb66bfe0d76e39898d0229184d8b4456d923e5bd83",
+    "_raw/reddit-deep/triage/country-B-02.tsv": "1bbca48b2679177093b43ab9aa873150128fb7091ac238c80cf3fb48678ae9aa",
+    "sources/reddit-country-B-02-reading.jsonl": "bc8341c86c7e12c1b57b9307edcff6938dc4d131e20c76998f20bb45591a80b0",
+    "voice/reddit-country-B-02.jsonl": "8eb55fc0c42489ea5263947d9d54125dccab9e348b76d93de1e25fe2debf7fe2",
+    "synthesis/reader-notes-reddit-country-B-02.md": "6eef47e648746f319feb422516294ac6301e83b1de2e9d731f01442590eb5869",
+    "sources/reddit-country-B-02.md": "3b59df029a42c6daa3e826a8b92c99f7476d7156d9df4fc40f90ed0c0c01bf87",
+    "_raw/reddit-deep/triage/country-B-03.tsv": "c261b2cf667501d38963efe3f9b615e0969f1277213282ff42c7f33032e3b024",
+    "sources/reddit-country-B-03-reading.jsonl": "96229b5ef1fc24e4650e7e0017cf51435299b1edea4e2dc8d8de5ff97c359620",
+    "voice/reddit-country-B-03.jsonl": "d56151c1310b9f2fd21e82de65840965af6d9f15af85eb15e71cd53a19327b19",
+    "synthesis/reader-notes-reddit-country-B-03.md": "c8a2a9ac681d2611266d4f353fef6faa0c4a1e529547f89b32a11a4bec7d0480",
+    "sources/reddit-country-B-03.md": "23c7610f8fb6f48fd000a60ea99bf4a37d2c40873aed64297942fd76f4621520"
+  },
+  "comparison_sha256": "416c38cc558b31243dfa39cab72e669d6786d75593c49ae577ebbda9a5a2948e"
+}

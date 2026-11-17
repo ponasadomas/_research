@@ -1,0 +1,911 @@
+{
+  "status": "complete_frozen",
+  "audit": "scratchpad/advertiser-map04-leave-registry/verification.json",
+  "files": [
+    {
+      "file": "_raw/advertiser-map04-leave-registry/access.jsonl",
+      "bytes": 17937,
+      "sha256": "8775474f02d78eb31e5fd2e49b438e71f1abaa8b6bf2ea055812fbdeeeb8dc2f"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/candidates.json",
+      "bytes": 37202,
+      "sha256": "ed18bda61974face10b64cd55a41584aa1495da4df65ad9c46c1a24a05cdea09"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/limitations.jsonl",
+      "bytes": 1962,
+      "sha256": "0cd088017fd4ae2edef42bd0b0bf2f0edc966ff2f4a7dbf753ccae137d7a72b2"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/babylist.headers.json",
+      "bytes": 3209,
+      "sha256": "4891ff8a959ef00a24aeb16897a50d01b9654e90d63c0de7c5c3ae25537508b1"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/babylist.html",
+      "bytes": 191336,
+      "sha256": "cca9f44075350130be46ee23a990f6965d01bc89f5c233986e6bf0decc2921f8"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/babylist.links.json",
+      "bytes": 14988,
+      "sha256": "bc988830f9761fe34759f34d8a2869fd27981ac6fa3edba8d8c8a0d9a48b2b2a"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/babylist.txt",
+      "bytes": 4301,
+      "sha256": "16b59e54349f5ea5d96fde401f2596a54616379cd4de452da06540d2244696de"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/cocoon-pricing.headers.json",
+      "bytes": 1853,
+      "sha256": "2b93f00dd045a2dd260013a9fe1eef521c7df0ddccf13dfaf5c324fdaeaf064d"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/cocoon-pricing.html",
+      "bytes": 61882,
+      "sha256": "5e09c6b8f38a01fa6c1c1549607fcd79a8fbdac5efbddc23318887b87793f2ed"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/cocoon-pricing.links.json",
+      "bytes": 6288,
+      "sha256": "9c844c263eae844d6ca33c0dcb2c548e0f7e7a63652ada5d78117ce8ed0323ae"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/cocoon-pricing.txt",
+      "bytes": 5082,
+      "sha256": "f8b2e9b56d1558a51828df461fae6dea99fae3bb30c4932df0f06e59084152d7"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/cozi-plans.headers.json",
+      "bytes": 1296,
+      "sha256": "c90e837a55845c29e96668aa1842addf19dfd9a02e258bcfa2b49ce6d50b87c7"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/cozi-plans.html",
+      "bytes": 103831,
+      "sha256": "31a68849b03238964150ff791986fd44fc57f408125b69e5db6da776165cf42a"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/cozi-plans.links.json",
+      "bytes": 4201,
+      "sha256": "f5eff38fa18863ca305379b72de318d5e52e267358bf90d5a5d705aca10200e5"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/cozi-plans.txt",
+      "bytes": 4569,
+      "sha256": "aec79ffcce09f267c0f1eb55a0e092e0961ac953779342295778127dadfab263"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/familywall-premium.headers.json",
+      "bytes": 373,
+      "sha256": "88c148f3d4e66310ec665bcf48cc2a5ade5ba46b50ed89a58d4a610182b55e67"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/familywall-premium.html",
+      "bytes": 32655,
+      "sha256": "ca096f986bc40e310305897d64d6518fbb58c9f0d22d20c7e58fed2469db0c5d"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/familywall-premium.links.json",
+      "bytes": 1697,
+      "sha256": "3170a080bd8ae4776b4643e68b8751e2778d450057a1e882efa952c22c05f8a8"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/familywall-premium.txt",
+      "bytes": 4223,
+      "sha256": "45a48e4f68256ac2051750f14008cd81fed60a9ae1423e127d701d58e861e7ac"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/goodbuygear.headers.json",
+      "bytes": 4488,
+      "sha256": "b31c66e8918bd9138f818e9ef8c58b5fd23ccfca54e64b0a1b2b60b11a6d4a17"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/goodbuygear.html",
+      "bytes": 851672,
+      "sha256": "8d084755dcf896e830f0682274c3082e1250dc4562766c5b4a39e1ceb4d8f38c"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/goodbuygear.links.json",
+      "bytes": 36988,
+      "sha256": "636d1e594f8b94d22ce9504d839f62d215e0c2fe07ac640e4f94d6a7a9624a84"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/goodbuygear.txt",
+      "bytes": 16657,
+      "sha256": "e879072c200fc2be82b56a9aebf955e13a022020c61b8b0dd722d68efa0855f1"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/maple.headers.json",
+      "bytes": 1445,
+      "sha256": "2691b3f62eb3110d989854d2cc8e0507221f9a3b7cd6162b7b8ad5d315b4e508"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/maple.html",
+      "bytes": 18977,
+      "sha256": "970d9a62dc217e0372b904a07dc577b0cb0823746677a62dd217eeac5bd28a76"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/maple.links.json",
+      "bytes": 491,
+      "sha256": "94382183afaf51bd18e65b13b24bfa4c0ddd118e8dd6d689346256fa8550367e"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/maple.txt",
+      "bytes": 1585,
+      "sha256": "ed01285660be540a3f3b22835449538a36528739d674bde1a108ca1ff06036b6"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/master-blueprint.headers.json",
+      "bytes": 1068,
+      "sha256": "c643b88a2070585364105288e0a7d749bd4afff7d2a8c25d9962208c0694c38e"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/master-blueprint.html",
+      "bytes": 539433,
+      "sha256": "78654636f363e86ea0e90634791b6c5a18178ea03b78837067841ee68c1f1279"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/master-blueprint.links.json",
+      "bytes": 10553,
+      "sha256": "30cd24cd7f9151b7a7950fc7ac1e71e35af691d74ab30b05c9c0e9dd132e110e"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/master-blueprint.txt",
+      "bytes": 21102,
+      "sha256": "d3be048ea6df0d4a226e44f8fef8025a4edffdb51a4c54f145eac177bb487f56"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/master-services.headers.json",
+      "bytes": 881,
+      "sha256": "4ee59351a7fbf12d77cd1a5d4457b2f34aa3dc51c1779b2cd7c6f35ef7249264"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/master-services.html",
+      "bytes": 277943,
+      "sha256": "421bc57e1eb30962821355fff21bde8bc28a6a7d503f8d7058549669d28ae217"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/master-services.links.json",
+      "bytes": 7105,
+      "sha256": "1f208fd1b1f0632b38b6c32dd04fe77fe0aa0b145ba66681fed8665cb72f6040"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/master-services.txt",
+      "bytes": 5152,
+      "sha256": "adc0b4ad6b0fbc394cc91832a2461af48807877cfde8eb062a0c4882877a7cf2"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/mastermaternity.headers.json",
+      "bytes": 947,
+      "sha256": "6230409cecfe0dffaba3db172142c89e1f10f201e11f21f995fbfebb6149941d"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/mastermaternity.html",
+      "bytes": 352814,
+      "sha256": "80f84051778c76e0b8885ea5bac6787022361faf0289734f61a2c926cbd1e960"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/mastermaternity.links.json",
+      "bytes": 6441,
+      "sha256": "863a0d57e08e0dd247e74b4223a419232e01322ff5b41e8932f5e74fd55e1c02"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/mastermaternity.txt",
+      "bytes": 6788,
+      "sha256": "f53858f0c5983df68bdeed2c582f17a64c2a96cf608159bc7800fbdcbaf05788"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/mindful-course.headers.json",
+      "bytes": 881,
+      "sha256": "bd481ce188fec569f8e5677a47fc1c16a85ddebe263164cb2e6089dd621bae1b"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/mindful-course.html",
+      "bytes": 119850,
+      "sha256": "ff2a2621a4f4d2cfb39171fad875bacada0b7096fc2ca472229be33ed0dfc7cb"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/mindful-course.links.json",
+      "bytes": 9173,
+      "sha256": "c38a2c86fdf642ff49188f520d7efd9973789e2cfa0c1a620274af9189210994"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/mindful-course.txt",
+      "bytes": 17155,
+      "sha256": "a1d43dfa6bfc5bb6bdf335f25f151410ffd958511e1a055ade148e0a875ece60"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/mybumppay.headers.json",
+      "bytes": 859,
+      "sha256": "d94fa26f5ba16501ebf9685dfde142e481e2830e7725d4d7cdcdd59956efeae9"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/mybumppay.html",
+      "bytes": 112930,
+      "sha256": "9e65afd5f9be36713ad8a4e4898c1491c6a4899c984a232c4b716013e49a08e0"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/mybumppay.links.json",
+      "bytes": 4043,
+      "sha256": "4ffe3b41d20a08d559a8d4b95bfd7d0d96b1e4ac7439320fcc82c5eff82828f3"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/mybumppay.txt",
+      "bytes": 3940,
+      "sha256": "ddcbf4143625709b3c51f8d5429849ce5b69e79e89b43d98941bf2cb6164ffdc"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/mymatleave.headers.json",
+      "bytes": 985,
+      "sha256": "39184349024c6865640e71f62475351e0145feeac075373a122d8e4daf884711"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/mymatleave.html",
+      "bytes": 3386,
+      "sha256": "4c66ca32884c19f628f0b3a8e57f3519cae1e32ab150b5e9832def1bf76f2189"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/mymatleave.links.json",
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/mymatleave.txt",
+      "bytes": 52,
+      "sha256": "b1a01c2c372e6bf7115dd5b42017109dea7b9ac0604885841f67594a18407b40"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/myregistry-cash.headers.json",
+      "bytes": 1029,
+      "sha256": "47e4e0c5e6b7b58631b516cd8018f42d656e38da9f78ce2e365804d94c816860"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/myregistry-cash.html",
+      "bytes": 45033,
+      "sha256": "d5b4f56916b7cf87d0333e8c5b41f7f970eb3f4ddd3dbda71ffa7ba52cbdf203"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/myregistry-cash.links.json",
+      "bytes": 8491,
+      "sha256": "559932043c220e2ef51a4ee4d94ec4411fa54f5e51cab97296e8145902f7915c"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/myregistry-cash.txt",
+      "bytes": 4886,
+      "sha256": "d700c4807222a761d332a7a45f41edfc07f3c671d47b49a8823b0abf1cc24e07"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/myregistry.headers.json",
+      "bytes": 1701,
+      "sha256": "bb0652f7d2e5568a12127401c4ef3e77f613e6c9cda8a7d2cde5bfb562801d04"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/myregistry.html",
+      "bytes": 266214,
+      "sha256": "4e38ca5ad9b97e27b07a42130e4c336057cca3bc5120ee7ac17780c472e147a8"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/myregistry.links.json",
+      "bytes": 10655,
+      "sha256": "a92b8c273fcb6c332c05cf63fa897196f85382b3d6e4ba06b197bf5bfed9a2f7"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/myregistry.txt",
+      "bytes": 7149,
+      "sha256": "c7d73c3e27358a4c535047a4f30bdc618cef1648a7423156d34bc505362d9b43"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/nugget-membership.headers.json",
+      "bytes": 679,
+      "sha256": "70ca4461c0afe8934a909e2cdd335b992284fa130a027fc00d5b8e054fb012ad"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/nugget-membership.html",
+      "bytes": 705965,
+      "sha256": "549148aa661de64ea3238f9973222f575981e655e0b3c37aeb0b9a43fd5e198a"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/nugget-membership.links.json",
+      "bytes": 8586,
+      "sha256": "693c6b522faae5fe2ef7d34ce4c11ba910d9a1f8330f8e03671ddb33e6b8d234"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/nugget-membership.txt",
+      "bytes": 30850,
+      "sha256": "18b9001c20490a7afa2335790e7a2b08f77fa91f64e33b7e2d1ff9ec9c629167"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/nugget.headers.json",
+      "bytes": 684,
+      "sha256": "08326a69c3ef723befe88a0ed83cb686d93e6dec106a9b938c22752bc2eaf799"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/nugget.html",
+      "bytes": 507795,
+      "sha256": "dbc8e3bca02dd36c0c5cd30c362b045177da9fc5614e627fa3df115fd4e0b802"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/nugget.links.json",
+      "bytes": 5510,
+      "sha256": "049d7471421b61fc12e93ffe579a9145ba5c24ddfe9c27d85d0d1187a9bafb0f"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/nugget.txt",
+      "bytes": 11207,
+      "sha256": "1329059649b3c7b6e2eb944306b154fc1b1616028a56052b06484a41a3a07371"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/ohai-how.headers.json",
+      "bytes": 2676,
+      "sha256": "0f3d26f514c097c371420226e9801c178a2145e0c9150d3188b67dc29efa0db6"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/ohai-how.html",
+      "bytes": 83116,
+      "sha256": "deab6ad92b51672082ba8dbb7d7384a7aa5bfb3151046cc0301dbdadc68432b5"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/ohai-how.links.json",
+      "bytes": 1575,
+      "sha256": "21b7a08de3c967b85caa2688daf4208b2887b446601ac7ff82803c60b465decb"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/ohai-how.txt",
+      "bytes": 5379,
+      "sha256": "7258881adc3b39a2f708f73df7887c1625abeeb590acfbef4799c5fcccc677ae"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/parentaly-coaching.headers.json",
+      "bytes": 1559,
+      "sha256": "8b00ebdd6d0c32d38cb48d6152eef4e43c549621b610b67fe6e129cd703dfc83"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/parentaly-coaching.html",
+      "bytes": 99259,
+      "sha256": "787ecfec1a2bdb69ff67d9390179f2b950b5f60ab8d07ab7577aebf287629486"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/parentaly-coaching.links.json",
+      "bytes": 2832,
+      "sha256": "02ad864bb406201f470c2302d62ecd04eb22fc28e33b83c4032753983cc12f4c"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/parentaly-coaching.txt",
+      "bytes": 6175,
+      "sha256": "09fc313cf325d3dd8e27c29fb532c7c907b590a5000b058128c59531b3432575"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/parentaly.headers.json",
+      "bytes": 1586,
+      "sha256": "c6f1f2e487643b64456de163383bfab2803346510b423771feb9a73472608173"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/parentaly.html",
+      "bytes": 187402,
+      "sha256": "a1b1b837c32f3ee49965f6839ffcd36323c96ad11f6af12997ea6b19d3f2cc1a"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/parentaly.links.json",
+      "bytes": 6453,
+      "sha256": "a8424d77c295cfcabab53a79a114dc3dd880c5caca92b5cfe12c00a306ed405d"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/parentaly.txt",
+      "bytes": 14467,
+      "sha256": "c0882fc4b5cead5bd391bb2d4a5079042ce20cc6b881c682a4316aeebdecba62"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/safeintheseat.headers.json",
+      "bytes": 1934,
+      "sha256": "f92f83d30d5fb85c176409b6c1b61f9adb3ef7c3b219e3d87dcdd6baa958b588"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/safeintheseat.html",
+      "bytes": 122441,
+      "sha256": "30657bad4c72ba1d72f6b2c0af24e2b32a65903517b25e4f4b5cac960d4d74c3"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/safeintheseat.links.json",
+      "bytes": 5640,
+      "sha256": "1a34449b4f18570e6bbb812b9d23e5cad77df9f631569e3efcf0e8315b6da89a"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/safeintheseat.txt",
+      "bytes": 7710,
+      "sha256": "c817f5fe35cbdf884f31de23a10ea540332d04ccb94c4ef639f0024de1b1652c"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/sits-consults.headers.json",
+      "bytes": 1802,
+      "sha256": "a005ddf9cef57fe3b737a06b29c1ace30ebde7454c7e35df5d03450dca35366b"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/sits-consults.html",
+      "bytes": 97781,
+      "sha256": "e9584cf2b24f791b9f3b6494cae17dffd329142f69df52e5b5da990c2863e15e"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/sits-consults.links.json",
+      "bytes": 3739,
+      "sha256": "c2406e12bb2fcc68581a8ac7fdcd7fd6030e9f844f19aa40f1dff8dcb35e2d78"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/sits-consults.txt",
+      "bytes": 5770,
+      "sha256": "c7a7c3bbc92a1862af1e7fb098a5d64fb8bf78c49ac596338d744174df2000bb"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/sits-course-store.headers.json",
+      "bytes": 3376,
+      "sha256": "3539304d075e18360d4a4a576cd72bab085255a7751d5785d903aa51509abc83"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/sits-course-store.html",
+      "bytes": 24238,
+      "sha256": "0ce97d2a03c05d6482797f72fc3d43572e461c3a1c46c9213bbaab34ae87eec5"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/sits-course-store.links.json",
+      "bytes": 3090,
+      "sha256": "499d1dc46e543b9e61c5eb950c3eb91e2fa7469df29520f8b632f8f60c4f7846"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/sits-course-store.txt",
+      "bytes": 2069,
+      "sha256": "109abe73e768c47cbb35e1a10f3ec728f65753ee3d8b72354610e204070e10b6"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/skylight-calendar.headers.json",
+      "bytes": 3621,
+      "sha256": "d179f53049bf7e620a467f5605af963e9b6a7425b770d67188b4636e88ab3343"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/skylight-calendar.html",
+      "bytes": 1204034,
+      "sha256": "123a977d26a7803294f3236edde558b3be4af71d30c0e74d2e2618ca0cf8e604"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/skylight-calendar.links.json",
+      "bytes": 3986,
+      "sha256": "138610b6c4baeed8f12997d17046d272850fa1fede2d0749b465f1becc3c8987"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/skylight-calendar.txt",
+      "bytes": 15848,
+      "sha256": "5a557f09bc05fc31bc8eda6a5b81f7732ba8111114fd6c8410075e1c25ee6c61"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/skylight-plus.headers.json",
+      "bytes": 4182,
+      "sha256": "c1b84f6f83bab286a9dbbc70fb8d019482f2488910c10c8a99db96bcbb9e98b3"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/skylight-plus.html",
+      "bytes": 358573,
+      "sha256": "f02d8784b55860f7e95827f3dc8b9721c05a6f680fd7f67a8ec44f7ddf6e3e15"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/skylight-plus.links.json",
+      "bytes": 3521,
+      "sha256": "73b2068b8858beb8e3ec20d91e34169a3656ae300481b2a97f6c88fd08e85390"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/skylight-plus.txt",
+      "bytes": 2336,
+      "sha256": "b73c85ea4f474a2269cf8676dc19fa2bdc1722f20f36f7de6d14283e7a0c6bed"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/skylight.headers.json",
+      "bytes": 3691,
+      "sha256": "7942cf289b5a703c71a0b9f267bbf293f077bad48f7f00cbe1be0ecf086ae246"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/skylight.html",
+      "bytes": 370138,
+      "sha256": "7861622545c39763d1134b34af25c7a1ff8706c59d80c19c616826b7eed519ad"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/skylight.links.json",
+      "bytes": 4323,
+      "sha256": "b684808ddcbcca689911c53f064bb46d86fcc426a9759f77edeaf93f8e047bbf"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/skylight.txt",
+      "bytes": 3967,
+      "sha256": "27ff5b480a9f3cb0b9734a2cd6a758daffc6e7183f1e03fb11fc3e9834da0da8"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/sparrow-faq.headers.json",
+      "bytes": 1551,
+      "sha256": "0e217322593f29becbd827e268845a7ad26530649b1e135d26fe1eb59534f39d"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/sparrow-faq.html",
+      "bytes": 77691,
+      "sha256": "1f7e6363356b791ae70d4d93a01f6868371d4378f8f7d1c17a14b44d8be21f3e"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/sparrow-faq.links.json",
+      "bytes": 5965,
+      "sha256": "2e5a80596ff8eb919dd27174021babe374c54bc1e1fa257bc7e3f4a3195587a1"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/sparrow-faq.txt",
+      "bytes": 5686,
+      "sha256": "270b452e15010151be3da11c1776fe429d6a7db21307874db8d6633132811791"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/starterset.headers.json",
+      "bytes": 2200,
+      "sha256": "b14b13b84323cd22bc68db11df6d0e25dfcff903c4b21a2b18c724c8de5c202f"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/starterset.html",
+      "bytes": 55622,
+      "sha256": "e2b6a9af7e3580607cd5f2a356caa07ddc2f4d0e222dcddaf4242f26cbb5b70d"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/starterset.links.json",
+      "bytes": 2284,
+      "sha256": "aaf28774fbb3c8903968976e8105addd13c62c9bfbcd4c2a24d5c25aff8172aa"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/starterset.txt",
+      "bytes": 6429,
+      "sha256": "e5648b3be59e9c69b6773e2f609d49b3aac2bbb0b3e4793c704672a78153bad7"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/tilt-pricing.headers.json",
+      "bytes": 717,
+      "sha256": "5e3afeba0ce53c3fd84be4193310da1d9629323dd52daba1968118577a10a444"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/tilt-pricing.html",
+      "bytes": 1084,
+      "sha256": "31b43f58a33061f43cfc90701f3d08bb1b4a9621eee5bd651b3eb11b55ef95a3"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/tilt-pricing.links.json",
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/pages/tilt-pricing.txt",
+      "bytes": 34,
+      "sha256": "f710cc6964ff9b1f50df65f40f2fe843221bc259b9b60d729e536193542b2818"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/courses.safeintheseat.com.headers.json",
+      "bytes": 1692,
+      "sha256": "a139de53e56b580e5fdf2ce6586406cbce80fb37c3bb5f88e3c8ab9d4af3fc3e"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/courses.safeintheseat.com.txt",
+      "bytes": 121,
+      "sha256": "6d91bd53d0489267ae6a398c6b13762087f4a2f7ccecbe5cfd7c02e11f0cc516"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/goodbuygear.com.headers.json",
+      "bytes": 3016,
+      "sha256": "ca7640cc710b75e3aaf4856a9ebd1ce1bd41dd04c401692c7ab1741a38c141e3"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/goodbuygear.com.txt",
+      "bytes": 2289,
+      "sha256": "faeb5c83344cbdf96d4852be769b028ff6893380f84fee728d4144e4f9b5c5cc"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/hellotilt.com.headers.json",
+      "bytes": 1461,
+      "sha256": "bfda8eb645d401cb915de7bfcccffd61ec64c567c897cdb777cc8989e18c48e9"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/hellotilt.com.txt",
+      "bytes": 111,
+      "sha256": "0d3aa877c94846eda6620009d0baaea86f4a62e878d3c996c4230f4ed4447081"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/mastermaternityleave.com.headers.json",
+      "bytes": 788,
+      "sha256": "9cc107d605a2f80b3189a2036289dbdaadb8be6de2585ff245a754f4b6619e35"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/mastermaternityleave.com.txt",
+      "bytes": 181,
+      "sha256": "d84684dbd284df5b8165cae51d2cbd0c7d5b948c81d5d6471ee2ff2115f8fc43"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/mybumppay.com.headers.json",
+      "bytes": 445,
+      "sha256": "d8f51c80f55dd9e5b8ecd772fc495a0a52d1c5c6448911e470e8e3a2852353c7"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/mybumppay.com.txt",
+      "bytes": 220,
+      "sha256": "3a816508f4cd17400f324c547eaa6cb424dab0925d6f5473970492f720001aa4"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/mymatleave.com.headers.json",
+      "bytes": 981,
+      "sha256": "686a49af347a4754a76c93993d38aa08d35a0eaf5c7a627ffd08ac64408e14e1"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/mymatleave.com.txt",
+      "bytes": 240,
+      "sha256": "53926870351804edfe663e89ea6a60fe0454a05b3e4cd8c400d4a7043cbfe11e"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/shop.safeintheseat.com.headers.json",
+      "bytes": 3027,
+      "sha256": "4fd2515df65a2d80aba291053429914ccced761c9ac407c694f14958ba412f18"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/shop.safeintheseat.com.txt",
+      "bytes": 3688,
+      "sha256": "8c2a9737d0d6c3ede60ab47d7c7fc095e49e14b52f41bc1fd2724ef9c3c92eb2"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/sits-shop-agents.headers.json",
+      "bytes": 2939,
+      "sha256": "b6ffa88589f385090ce29380bd8991dcc8106f861fa2b0fc62aa5e1d39232d3e"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/sits-shop-agents.txt",
+      "bytes": 5729,
+      "sha256": "7bd3d3b578150d0f762a8d27a10ba337fa100e6b8bdd818f3abe6f3256a7da43"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/sparrow.com.headers.json",
+      "bytes": 1367,
+      "sha256": "5337f7bd0e023b3cc53ab2a9b0856bfefbfe59dbe54f235dc2a90e779faf3d1d"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/sparrow.com.txt",
+      "bytes": 66,
+      "sha256": "c21c2f95f1229e29c8ac61a5501142b5f767c7ea7cba2cdf63ea106fcb02a367"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/strolleria-agents.headers.json",
+      "bytes": 2555,
+      "sha256": "f7f884b136d8c37b2041e12681f99cd30a2996639c82f0d323a0da0f16c7d357"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/strolleria-agents.txt",
+      "bytes": 5669,
+      "sha256": "f297f904dcd0249d0ff41fe39dccb0f95239e4e1dec7a5f4ba72dfb242c2e9da"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/strolleria.com.headers.json",
+      "bytes": 2587,
+      "sha256": "79ea00c86d24c16a63aeb4a07a24118216ccfd0646a5fabae69c560db387a74a"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/strolleria.com.txt",
+      "bytes": 3642,
+      "sha256": "8996fab5bc700b326cb121939738c4ffa1cac83805bce3e7142df9b66810be5d"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/thestarterset.com.headers.json",
+      "bytes": 1712,
+      "sha256": "4bb6594d419c509000dd44da2b8447a82e5dcd153b5dec272b909f5f595484ac"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/thestarterset.com.txt",
+      "bytes": 50,
+      "sha256": "f3b5becf05a30dde8409cda0841b8dba6dcd9672e9622f38948d9ae9dc240a90"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/www.babylist.com.headers.json",
+      "bytes": 1604,
+      "sha256": "b3e9314edb656ee062387323841d1471e19ca8a41f3b79d5d11041a6c14d81bb"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/www.babylist.com.txt",
+      "bytes": 1196,
+      "sha256": "999feded889591437b1111828a5a166dbc57b10c75669893d780ab1fb56216c1"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/www.cocoon.com.headers.json",
+      "bytes": 1348,
+      "sha256": "bdf8ffd4292213d4e8c8a1212a6618436270e7c776e10fb51d2a9ea4250437e5"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/www.cocoon.com.txt",
+      "bytes": 58,
+      "sha256": "1ba5d7507260ab3a708df20d399786a225a891c41643f85f3088223f1e2fdc00"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/www.cozi.com.headers.json",
+      "bytes": 1225,
+      "sha256": "66944123fb7939d623d14516849c964a0a6e900be0c28e72f17b7f47a62ff002"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/www.cozi.com.txt",
+      "bytes": 204,
+      "sha256": "a6e0725f25c260a1857150a555d914ff43ce163316645f33e15e7b9c5170f31c"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/www.familywall.com.headers.json",
+      "bytes": 417,
+      "sha256": "537f0fa0f860e70729c050a3a965202109af559c5f9ef5c9edf28750c1ad6488"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/www.familywall.com.txt",
+      "bytes": 107,
+      "sha256": "35f0a6f3820c37d98ddb2797cad3008a4e393d371fbeba395f8a0fe04295a316"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/www.growmaple.com.headers.json",
+      "bytes": 970,
+      "sha256": "620d67e039a090cd96202f8967ae80e15722a043c9b207d1d79918d21d4058ad"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/www.growmaple.com.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/www.mindfulreturn.com.headers.json",
+      "bytes": 1014,
+      "sha256": "e77103ff0f81ea3cb42c6ac21f0c0b0356ffaae3c904526216afaf7d8d81379b"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/www.mindfulreturn.com.txt",
+      "bytes": 179,
+      "sha256": "d21ce7bec4ea4ac68daf0c4c11c16dc4623a7e326d840115ce09687f4f34b646"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/www.myregistry.com.headers.json",
+      "bytes": 1027,
+      "sha256": "3b318cc9ad59f9363147f7e35e720de8cfb1bfeb492b9c3d6165271150ddce63"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/www.myregistry.com.txt",
+      "bytes": 220,
+      "sha256": "a6fca7c5bf4f9326f4c0f72e119bb70058c3af06abf57581cf0f298021089af6"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/www.myskylight.com.headers.json",
+      "bytes": 680,
+      "sha256": "a3add2bc1a803b77b5619c08555832a13142c7c60f59b13bb90c60e00a9fc304"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/www.myskylight.com.txt",
+      "bytes": 2417,
+      "sha256": "92f4c65e82b6f905fd9ffaed9903647ab40b1f5625ad5acb911cf61f8732d778"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/www.nuggetsavings.com.headers.json",
+      "bytes": 680,
+      "sha256": "e18119d5b9ffd28eadaf9001e51412afffc5f5a3e7377f46acc1030592681325"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/www.nuggetsavings.com.txt",
+      "bytes": 1512,
+      "sha256": "78c34de6746c158f0b44981664c1f403fb4ffc2b0ffe58763e3c3abaecbcac79"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/www.ohai.ai.headers.json",
+      "bytes": 2512,
+      "sha256": "89adf71743fa76c861c8ebbca93726f6e0ee2ffef55c48806a327be000d9f023"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/www.ohai.ai.txt",
+      "bytes": 184,
+      "sha256": "b3030813bead70403090420920967c38d1bd276a597e3f027e9e62d3b2b03bdf"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/www.parentaly.com.headers.json",
+      "bytes": 986,
+      "sha256": "bfd9f8f184ebbe7c381fc98b1ac961d621cffa345a12bae58d9eb63bef486ee4"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/www.parentaly.com.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/www.safeintheseat.com.headers.json",
+      "bytes": 1383,
+      "sha256": "160bafabfa63a363241b6d34912ad4b2f52d0dc24d139f05876059feeef85a2b"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policies/www.safeintheseat.com.txt",
+      "bytes": 75,
+      "sha256": "33aaaf93824f2d8ccf86b41f6862d92dcc6dde2fc88b5d08f5e187826bb539f6"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policy-access.jsonl",
+      "bytes": 7673,
+      "sha256": "3e9234e29403c7ad831dcce789b8a9d6ac8f980eb7a9ac8be5624c6b29a81e04"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/policy-review.jsonl",
+      "bytes": 11318,
+      "sha256": "1a9773f64a43758fc8228fb40daa9442fd5ceeddecb78aec3b1f349b05dbebf1"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/reading.jsonl",
+      "bytes": 21508,
+      "sha256": "0e4b39e6e92ead89b4b3811fb5b6969d4633aea4b706ac966d4e93730cbba207"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/root-chrome-handoff.jsonl",
+      "bytes": 5208,
+      "sha256": "7f173c2ccd4c6e54f0a8fb2c7f2889e5c7f9a21716d20d2f4ded1fd6872eb424"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/root-identity-source-check.json",
+      "bytes": 4525,
+      "sha256": "fe82331e04aa755f2120a469a033506e1b62a0a2b2e7fd6c88fc9e6fc0b12986"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/search-01.json",
+      "bytes": 38445,
+      "sha256": "03660f1d1c1913755780f8a003920ba7a4fe4b068f55635554d6561c2d2d8639"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/search-02.json",
+      "bytes": 37782,
+      "sha256": "1f8263c3c93cbf0c13ae430b5b9751ee523cda150569a699968e23f39cbe9c97"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/search-03.json",
+      "bytes": 35832,
+      "sha256": "995be67a4d3b340b6f5351beb6eac1e970b3be4b7e0c9ff4e94b40e980fd6086"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/search-04.json",
+      "bytes": 35506,
+      "sha256": "132ba60ed1e1c628a4f79344e3c784fcfbf1d0ffa85651e517972a41f33b9c75"
+    },
+    {
+      "file": "_raw/advertiser-map04-leave-registry/search-05.json",
+      "bytes": 36917,
+      "sha256": "6aa2d56fd444ea6feabc90f442c77664e6e4c703b356d51c743d88402bd13a2d"
+    },
+    {
+      "file": "scratchpad/advertiser-map04-leave-registry/audit.py",
+      "bytes": 6243,
+      "sha256": "f88de56bb31a9f88603532265ae3b24ebd83f2ccdb59ec534e6cd924acb91af5"
+    },
+    {
+      "file": "scratchpad/advertiser-map04-leave-registry/capture.py",
+      "bytes": 2593,
+      "sha256": "d860a4474b0f6bb823d4994cac9ba8f77e246dfbf42accf85247930df78702e1"
+    },
+    {
+      "file": "scratchpad/advertiser-map04-leave-registry/coordination-capture.py",
+      "bytes": 1936,
+      "sha256": "d16f9fef158268f59fa74df494af0a76af91e4c1c2e3e6fddf5fe157a6929fe0"
+    },
+    {
+      "file": "scratchpad/advertiser-map04-leave-registry/coordination-record.py",
+      "bytes": 7483,
+      "sha256": "34e394d23c9d7f1f7fdba5f2347c64e3020f49593c9898fcef8716b04b55ef6f"
+    },
+    {
+      "file": "scratchpad/advertiser-map04-leave-registry/policies.py",
+      "bytes": 1370,
+      "sha256": "61970736b9b2fa61fe7a80e66961b5e5c73613300fa1eef580cabf9452f7afe0"
+    },
+    {
+      "file": "scratchpad/advertiser-map04-leave-registry/record.py",
+      "bytes": 17222,
+      "sha256": "1ef883d768ec1c39a8bac83d2281e6e3661ec0ab0684045d30c3b653c0c600ed"
+    },
+    {
+      "file": "scratchpad/advertiser-map04-leave-registry/verification.json",
+      "bytes": 1185,
+      "sha256": "65996cb87d8f8c5eeea23d7311a21426f2aa075e18cfe150347c20d6bfc44407"
+    },
+    {
+      "file": "synthesis/reader-notes-advertiser-map04-leave-registry.md",
+      "bytes": 14023,
+      "sha256": "caabefd66eaefb2cd8bfb8414fce1bc8a143d45a8d3201d250dd422d187dd5b3"
+    }
+  ]
+}

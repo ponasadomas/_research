@@ -1,0 +1,42 @@
+{
+  "frozen_at_utc": "2026-10-24T22:08:49.696737+00:00",
+  "retained_read": 199,
+  "unread": 0,
+  "failures": 0,
+  "media_viewed": 0,
+  "promoted_offer_counts": {
+    "app": 139,
+    "general_course": 20,
+    "physical": 40
+  },
+  "files": [
+    {
+      "file": "sources/advertiser04-sleep-play-reading.jsonl",
+      "sha256": "b6a714122c20c5237874e6d869ec3365d792aba8b5d3cbcccf0341823f28c33a"
+    },
+    {
+      "file": "synthesis/reader-notes-advertiser04-sleep-play-ads.md",
+      "sha256": "8fd13e962112eda0ca294f734d46561957fdb9f3ec539f603b17f68a2d7649b5"
+    },
+    {
+      "file": "scratchpad/advertiser-map04-sleep-play/ads-verification.json",
+      "sha256": "1568377d3242db8b13f1f6d2956f1be8ac0af9414fcede8a94e238b8992bde13"
+    },
+    {
+      "file": "scratchpad/advertiser-map04-sleep-play/ads-reader-v1/manifest.json",
+      "sha256": "fdb179b06954c3c8d0701bb3d4db606a3928d9f2320f5b58cbb7f6d1c449add4"
+    },
+    {
+      "file": "scratchpad/advertiser-map04-sleep-play/ads-reader-wonder-v1/manifest.json",
+      "sha256": "51cee2a84a6a2cc8b0f2908dd7c4696c8211b882ecb34ab3a766e59d6b433e68"
+    },
+    {
+      "file": "scratchpad/advertiser-map04-sleep-play/verify_ads.py",
+      "sha256": "03def55cd71ddab5cecfd14aeffa953d4d5f4859d20d07164697097123edce7b"
+    },
+    {
+      "file": "synthesis/reader-notes-advertiser-map04-sleep-play.md",
+      "sha256": "ac21b6521db47d4ff4d716919c4918c6aa33d0219850aae27082cff94e7f3fec"
+    }
+  ]
+}

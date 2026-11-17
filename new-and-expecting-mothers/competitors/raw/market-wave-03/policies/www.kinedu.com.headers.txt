@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Access-Control-Allow-Origin: *
+Age: 152685
+Cache-Control: public, max-age=0, must-revalidate
+Content-Disposition: inline; filename="robots.txt"
+Content-Type: text/plain; charset=utf-8
+Date: Sat, 24 Oct 2026 19:50:13 GMT
+Etag: "0e633a58749e9dc3e9fb5beb71cb58d7"
+Last-Modified: Fri, 23 Oct 2026 01:25:27 GMT
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx/1.16.1
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload;
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Vercel-Cache: HIT
+X-Vercel-Id: pdx1::bd4hm-1792871413481-ad0161610777
+Content-Length: 311
+Connection: keep-alive
+

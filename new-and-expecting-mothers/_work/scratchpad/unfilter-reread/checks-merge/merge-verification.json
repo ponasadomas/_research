@@ -1,0 +1,33 @@
+{
+  "quotes_read_in_recovery": 4829,
+  "voice_records": 6991,
+  "evidence_full_quote_ids": 4970,
+  "new_full_evidence_quote_ids": 4829,
+  "money_index_ids": 1017,
+  "request_index_ids": 2038,
+  "conclusion_distinct_ids": 254,
+  "conclusion_new_recovery_ids": 56,
+  "conclusion_files": {
+    "mamivio.com/research/global/synthesis/findings.md": {
+      "distinct_ids": 153,
+      "new_ids": 41
+    },
+    "mamivio.com/research/global/synthesis/niche-opportunities.md": {
+      "distinct_ids": 116,
+      "new_ids": 29
+    },
+    "mamivio.com/research/global/synthesis/purchase-evidence.md": {
+      "distinct_ids": 48,
+      "new_ids": 28
+    },
+    "mamivio.com/research/main/synthesis/sub-niche-map.md": {
+      "distinct_ids": 124,
+      "new_ids": 35
+    }
+  },
+  "assigned_units_accounted_for": 3807,
+  "protected_files_unchanged": 76,
+  "duplicate_ids": 0,
+  "failed": 0,
+  "errors": []
+}

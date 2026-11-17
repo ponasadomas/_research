@@ -1,0 +1,38 @@
+{
+  "ad_id": "1278605054138441",
+  "advertiser": "Lovevery",
+  "page_id": "1859617107640244",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/005-lovevery-page.json",
+  "capture_sha256": "90a8b882dbb1767b9749a6e1fc440e0cf6a15ce0443a164b39221c0ba9fae64d",
+  "native_pointer": "connections[0].edges[14].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=1859617107640244",
+  "captured_at": "2026-10-24T21:46:30.893Z",
+  "is_active": true,
+  "start_utc": "2026-06-22T07:00:00+00:00",
+  "display_format": "VIDEO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1278605054138441",
+  "snapshot_sha256": "908cbc9d1815fb7dfe39ff7b85dbef1fa0e4dc4d1df6dbd06d2e042f6235ecad",
+  "text_fields": {
+    "body": {
+      "text": "\"Give the gift of @Lovevery! These Play Kits are the perfect gift. Seriously, we love that our daughter has been growing and still uses these kits to play & learn.\" 🤍 \n\n🎥: @good.boys.nash.mac"
+    },
+    "title": "The Play Kits by Lovevery",
+    "caption": "lovevery.com",
+    "link_description": null,
+    "link_url": "https://lovevery.com/products/the-play-kits-the-looker",
+    "cta_text": "Shop now",
+    "cta_type": "SHOP_NOW",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "68e14a58cb4d4c6901d9ec43063ef5c323a581b040570a4d4859d8a71c2c40da",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 1,
+  "cards_count": 0
+}

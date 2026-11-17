@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Disallow: /GetLink.ashx
+Disallow: /search/
+Disallow: /StoreRegistry-Embed/
+
+Sitemap: https://www.myregistry.com/sitemap.xml
+Sitemap: https://www.myregistry.com/sitemaps/sitemap_index.xml

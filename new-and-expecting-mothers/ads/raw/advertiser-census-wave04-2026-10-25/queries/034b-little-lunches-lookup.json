@@ -1,0 +1,48 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "Little Lunches",
+  "captured_at": "2026-10-24T21:54:57.175Z",
+  "suggestions": "ge/\"\n  uid=45_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=45_1 generic\n      uid=45_2 button \"Search for exact phrase Little Lunches\"\n    uid=45_3 generic description=\"Little Lunches @LittleLunchesCo· 144.8K follow this · Product/service @littlelunchesco· 288.5K followers\"\n    uid=45_4 generic description=\"Little Lunches @littleluncheshealthyeasyyum· 1.7K follow this · Food delivery service @littleluncheshealthyeasyyum· 826 followers\"\n    uid=45_5 generic description=\"Little Lunches @LittleLunches· 1.5K follow this · Health & wellness website\"\n    uid=45_6 generic description=\"Little Lunches @LittleLunchesLtd· 527 follow this · Caterer @little_lunches_ltd· 139 followers\"\n    uid=45_7 generic description=\"Little Lunches - Feeding & Meal Planning @littlelunches.us· 15.4K follow this · Entrepreneur @littlelunches.us· 31.3K followers\"\n    uid=45_8 generic description=\"Lunches 4 Littles & Co. @Lunches4Littles· 4.1K follow this · Website @lunches4littles· 159 followers\"\n    uid=45_9 generic description=\"Little's Lunches & Kitchen @LittlesLunchesFL· 2.3K follow this · Restaurant @littleslunchesfl· 464 followers\"\n    uid=45_10 generic description=\"Little’s Lunches & Kitchen @littleslunches· 1.5K follow this · Food delivery service @littleslunches· 208 followers\"\n    uid=45_11 generic description=\"Little Lunches South Africa @littlelunches1· 1.4K follow this · Food & Beverage\"\n    uid=45_12 generic description=\"Little Birdy Lunches 939 follow this · Foodservice distributor @anglouise1· 164 followers\"\n",
+  "candidates": [
+    {
+      "uid": "45_3",
+      "description": "Little Lunches @LittleLunchesCo· 144.8K follow this · Product/service @littlelunchesco· 288.5K followers"
+    },
+    {
+      "uid": "45_4",
+      "description": "Little Lunches @littleluncheshealthyeasyyum· 1.7K follow this · Food delivery service @littleluncheshealthyeasyyum· 826 followers"
+    },
+    {
+      "uid": "45_5",
+      "description": "Little Lunches @LittleLunches· 1.5K follow this · Health & wellness website"
+    },
+    {
+      "uid": "45_6",
+      "description": "Little Lunches @LittleLunchesLtd· 527 follow this · Caterer @little_lunches_ltd· 139 followers"
+    },
+    {
+      "uid": "45_7",
+      "description": "Little Lunches - Feeding & Meal Planning @littlelunches.us· 15.4K follow this · Entrepreneur @littlelunches.us· 31.3K followers"
+    },
+    {
+      "uid": "45_8",
+      "description": "Lunches 4 Littles & Co. @Lunches4Littles· 4.1K follow this · Website @lunches4littles· 159 followers"
+    },
+    {
+      "uid": "45_9",
+      "description": "Little's Lunches & Kitchen @LittlesLunchesFL· 2.3K follow this · Restaurant @littleslunchesfl· 464 followers"
+    },
+    {
+      "uid": "45_10",
+      "description": "Little’s Lunches & Kitchen @littleslunches· 1.5K follow this · Food delivery service @littleslunches· 208 followers"
+    },
+    {
+      "uid": "45_11",
+      "description": "Little Lunches South Africa @littlelunches1· 1.4K follow this · Food & Beverage"
+    },
+    {
+      "uid": "45_12",
+      "description": "Little Birdy Lunches 939 follow this · Foodservice distributor @anglouise1· 164 followers"
+    }
+  ]
+}

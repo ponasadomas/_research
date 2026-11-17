@@ -1,0 +1,38 @@
+{
+  "ad_id": "2903252076704018",
+  "advertiser": "Napper",
+  "page_id": "100208041597677",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/020-napper-page.json",
+  "capture_sha256": "3f6886f7ea4051f1ad3adbc0f17a258dea8e360603fb788374b4a744a32925b8",
+  "native_pointer": "connections[0].edges[11].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=100208041597677",
+  "captured_at": "2026-10-24T21:50:21.141Z",
+  "is_active": true,
+  "start_utc": "2026-06-10T07:00:00+00:00",
+  "display_format": "VIDEO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=2903252076704018",
+  "snapshot_sha256": "bed8ee74c72edb417d5fd9136bfd1e0e9133fcec9bd5120490ca5f5d3ee61448",
+  "text_fields": {
+    "body": {
+      "text": "🌸 Join millions of parents finding baby sleep peace with Napper\n\n➡️ Download the app now"
+    },
+    "title": "Got an overtired baby at home? 👋",
+    "caption": "itunes.apple.com",
+    "link_description": null,
+    "link_url": "http://itunes.apple.com/app/id1491340863",
+    "cta_text": "Install now",
+    "cta_type": "INSTALL_MOBILE_APP",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "60283bc43625eac8d27ee451f59cde2f09b113003a14ef6c8a423adcfe3ce979",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 1,
+  "cards_count": 0
+}

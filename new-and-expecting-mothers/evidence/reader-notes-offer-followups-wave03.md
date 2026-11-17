@@ -1,0 +1,19 @@
+# Four offer follow-ups — reader comparison
+
+All 15 retained public pages and all 6 Nesting Notes FAQ answers are fully read. Four complete hosted testimonials and one seller process illustration are separate proof categories; no independent original buyer or completed standalone-report transaction was established. Exact access and unread boundaries: [source note](../sources/offer-followups-wave03.md). All 4 excerpts are research-only seller claims.
+
+| Offer | Trigger and input/output | Advertised money and human involvement | Buyer/format limitation |
+|---|---|---|---|
+| Stress Less Mom | Registry uncertainty; registry links/due date feed review, while pregnancy goals inform a plan | Free review and free planning call; premium concierge price absent | Actual output format/receipt absent; free human alternative [ofw03-0001] |
+| Village registry | Lifestyle/budget/space produce master registry and perk guide | Free introductory call; service price absent; support until shower | Work includes list building and ongoing human help; no independent transaction |
+| Village childproofing | New mobility/expecting-parent concern; photos/intake produce written recommendations | $75 room/$149 home, currency code absent; conversation mentioned, required-call duration unclear; follow-up included | No actual buyer; free generic checklist alternative; no physical inspection/current local-standard validation; not licensed inspector, IAFCS pending [ofw03-0002] |
+| Curated to Grow | Registry, feeding and play needs; consultation/list/space support | Free introduction; gift-card amounts are not service fees | Three hosted testimonials lack service payment/price; clinical credentials unverified [ofw03-0003] |
+| Nesting Notes | Lifestyle/home/caregiving goals produce registry drafts and notes | Starting service categories US$300/$400/$1,500; calls/refinement/implementation accompany documents | One hosted testimonial and illustrative payment narrative, no independent buyer or report-only fee [ofw03-0004] |
+
+The childproofing offer is an adjacent written-plan contender with weaker demand evidence. Its published format is more concrete than a vague personalization promise, but required buyer proof is absent. Photos cannot resolve hidden physical conditions, and the capture does not verify product installation, completeness or the relevant current local standards. Those limits prevent treating the seller's safety promise or advertised price as validated value. No independent buyer/domain expansion was undertaken; root owns any comparison with existing need evidence.
+
+Nesting Notes' services, process and terms illuminate different pieces. A tailored proposal concerns scope/pricing, while registry notes explain choices inside a broader service. The process uses deposit/final invoicing; terms default to full payment unless otherwise stated. This is preserved as seller wording with no conclusion about legal effect. Its detailed client story is seller-authored process illustration, not a native buyer account or confirmed report transaction [ofw03-0004].
+
+Curated to Grow is relevant across registry, play and feeding, but the service page does not price an individualized list. Its reported gear investment concerns items, and OT/feeding/sensory/development claims are not independently endorsed [ofw03-0003]. Stress Less Mom shows that personalized preparation guidance may be free and call-based alongside a premium practical service; this does not prove a document-only willingness to pay [ofw03-0001].
+
+The four closed seller gaps add format, free-alternative and service-bundle evidence. Actual accepted report-specific prices, original independent buyer accounts, delivered artifacts, quality of individualized decisions, verified qualifications and refund/outcome evidence remain missing. This is a finite source comparison, not a new winner, prevalence estimate or market-size calculation.

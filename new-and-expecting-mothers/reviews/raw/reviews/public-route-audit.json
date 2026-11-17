@@ -1,0 +1,362 @@
+[
+  {
+    "file": "_raw/reviews/babydaybook-gb-reviews.html",
+    "intent": {
+      "id": "1446283219",
+      "storefront": "gb",
+      "language": "en-GB",
+      "see-all": "reviews",
+      "$kind": "SeeAllPageIntent"
+    },
+    "pagination_fields": {
+      "url": null,
+      "seeAllAction": null,
+      "footerAction": null,
+      "fetchStrategy": "onPageLoad",
+      "itemCount": {
+        "type": "all"
+      }
+    },
+    "user_reviews": 10
+  },
+  {
+    "file": "_raw/reviews/babydaybook-us-reviews.html",
+    "intent": {
+      "id": "1446283219",
+      "storefront": "us",
+      "language": "en-US",
+      "see-all": "reviews",
+      "$kind": "SeeAllPageIntent"
+    },
+    "pagination_fields": {
+      "url": null,
+      "seeAllAction": null,
+      "footerAction": null,
+      "fetchStrategy": "onPageLoad",
+      "itemCount": {
+        "type": "all"
+      }
+    },
+    "user_reviews": 10
+  },
+  {
+    "file": "_raw/reviews/babysparks-gb-reviews.html",
+    "intent": {
+      "id": "794574199",
+      "storefront": "gb",
+      "language": "en-GB",
+      "see-all": "reviews",
+      "$kind": "SeeAllPageIntent"
+    },
+    "pagination_fields": {
+      "url": null,
+      "seeAllAction": null,
+      "footerAction": null,
+      "fetchStrategy": "onPageLoad",
+      "itemCount": {
+        "type": "all"
+      }
+    },
+    "user_reviews": 10
+  },
+  {
+    "file": "_raw/reviews/babysparks-us-reviews.html",
+    "intent": {
+      "id": "794574199",
+      "storefront": "us",
+      "language": "en-US",
+      "see-all": "reviews",
+      "$kind": "SeeAllPageIntent"
+    },
+    "pagination_fields": {
+      "url": null,
+      "seeAllAction": null,
+      "footerAction": null,
+      "fetchStrategy": "onPageLoad",
+      "itemCount": {
+        "type": "all"
+      }
+    },
+    "user_reviews": 10
+  },
+  {
+    "file": "_raw/reviews/blwmeals-gb-reviews.html",
+    "intent": {
+      "id": "1540196240",
+      "storefront": "gb",
+      "language": "en-GB",
+      "see-all": "reviews",
+      "$kind": "SeeAllPageIntent"
+    },
+    "pagination_fields": {
+      "url": null,
+      "seeAllAction": null,
+      "footerAction": null,
+      "fetchStrategy": "onPageLoad",
+      "itemCount": {
+        "type": "all"
+      }
+    },
+    "user_reviews": 10
+  },
+  {
+    "file": "_raw/reviews/blwmeals-us-reviews.html",
+    "intent": {
+      "id": "1540196240",
+      "storefront": "us",
+      "language": "en-US",
+      "see-all": "reviews",
+      "$kind": "SeeAllPageIntent"
+    },
+    "pagination_fields": {
+      "url": null,
+      "seeAllAction": null,
+      "footerAction": null,
+      "fetchStrategy": "onPageLoad",
+      "itemCount": {
+        "type": "all"
+      }
+    },
+    "user_reviews": 10
+  },
+  {
+    "file": "_raw/reviews/huckleberry-gb-reviews.html",
+    "intent": {
+      "id": "1169136078",
+      "storefront": "gb",
+      "language": "en-GB",
+      "see-all": "reviews",
+      "$kind": "SeeAllPageIntent"
+    },
+    "pagination_fields": {
+      "url": null,
+      "seeAllAction": null,
+      "footerAction": null,
+      "fetchStrategy": "onPageLoad",
+      "itemCount": {
+        "type": "all"
+      }
+    },
+    "user_reviews": 10
+  },
+  {
+    "file": "_raw/reviews/huckleberry-us-reviews.html",
+    "intent": {
+      "id": "1169136078",
+      "storefront": "us",
+      "language": "en-US",
+      "see-all": "reviews",
+      "$kind": "SeeAllPageIntent"
+    },
+    "pagination_fields": {
+      "url": null,
+      "seeAllAction": null,
+      "footerAction": null,
+      "fetchStrategy": "onPageLoad",
+      "itemCount": {
+        "type": "all"
+      }
+    },
+    "user_reviews": 10
+  },
+  {
+    "file": "_raw/reviews/kinedu-gb-reviews.html",
+    "intent": {
+      "id": "741277284",
+      "storefront": "gb",
+      "language": "en-GB",
+      "see-all": "reviews",
+      "$kind": "SeeAllPageIntent"
+    },
+    "pagination_fields": {
+      "url": null,
+      "seeAllAction": null,
+      "footerAction": null,
+      "fetchStrategy": "onPageLoad",
+      "itemCount": {
+        "type": "all"
+      }
+    },
+    "user_reviews": 10
+  },
+  {
+    "file": "_raw/reviews/kinedu-us-reviews.html",
+    "intent": {
+      "id": "741277284",
+      "storefront": "us",
+      "language": "en-US",
+      "see-all": "reviews",
+      "$kind": "SeeAllPageIntent"
+    },
+    "pagination_fields": {
+      "url": null,
+      "seeAllAction": null,
+      "footerAction": null,
+      "fetchStrategy": "onPageLoad",
+      "itemCount": {
+        "type": "all"
+      }
+    },
+    "user_reviews": 10
+  },
+  {
+    "file": "_raw/reviews/napper-gb-reviews.html",
+    "intent": {
+      "id": "1491340863",
+      "storefront": "gb",
+      "language": "en-GB",
+      "see-all": "reviews",
+      "$kind": "SeeAllPageIntent"
+    },
+    "pagination_fields": {
+      "url": null,
+      "seeAllAction": null,
+      "footerAction": null,
+      "fetchStrategy": "onPageLoad",
+      "itemCount": {
+        "type": "all"
+      }
+    },
+    "user_reviews": 10
+  },
+  {
+    "file": "_raw/reviews/napper-us-reviews.html",
+    "intent": {
+      "id": "1491340863",
+      "storefront": "us",
+      "language": "en-US",
+      "see-all": "reviews",
+      "$kind": "SeeAllPageIntent"
+    },
+    "pagination_fields": {
+      "url": null,
+      "seeAllAction": null,
+      "footerAction": null,
+      "fetchStrategy": "onPageLoad",
+      "itemCount": {
+        "type": "all"
+      }
+    },
+    "user_reviews": 10
+  },
+  {
+    "file": "_raw/reviews/pumplog-gb-reviews.html",
+    "intent": {
+      "id": "814112299",
+      "storefront": "gb",
+      "language": "en-GB",
+      "see-all": "reviews",
+      "$kind": "SeeAllPageIntent"
+    },
+    "pagination_fields": {
+      "url": null,
+      "seeAllAction": null,
+      "footerAction": null,
+      "fetchStrategy": "onPageLoad",
+      "itemCount": {
+        "type": "all"
+      }
+    },
+    "user_reviews": 10
+  },
+  {
+    "file": "_raw/reviews/pumplog-us-reviews.html",
+    "intent": {
+      "id": "814112299",
+      "storefront": "us",
+      "language": "en-US",
+      "see-all": "reviews",
+      "$kind": "SeeAllPageIntent"
+    },
+    "pagination_fields": {
+      "url": null,
+      "seeAllAction": null,
+      "footerAction": null,
+      "fetchStrategy": "onPageLoad",
+      "itemCount": {
+        "type": "all"
+      }
+    },
+    "user_reviews": 10
+  },
+  {
+    "file": "_raw/reviews/solidstarts-gb-reviews.html",
+    "intent": {
+      "id": "1564189151",
+      "storefront": "gb",
+      "language": "en-GB",
+      "see-all": "reviews",
+      "$kind": "SeeAllPageIntent"
+    },
+    "pagination_fields": {
+      "url": null,
+      "seeAllAction": null,
+      "footerAction": null,
+      "fetchStrategy": "onPageLoad",
+      "itemCount": {
+        "type": "all"
+      }
+    },
+    "user_reviews": 10
+  },
+  {
+    "file": "_raw/reviews/solidstarts-us-reviews.html",
+    "intent": {
+      "id": "1564189151",
+      "storefront": "us",
+      "language": "en-US",
+      "see-all": "reviews",
+      "$kind": "SeeAllPageIntent"
+    },
+    "pagination_fields": {
+      "url": null,
+      "seeAllAction": null,
+      "footerAction": null,
+      "fetchStrategy": "onPageLoad",
+      "itemCount": {
+        "type": "all"
+      }
+    },
+    "user_reviews": 10
+  },
+  {
+    "file": "_raw/reviews/wonderweeks-gb-reviews.html",
+    "intent": {
+      "id": "529815782",
+      "storefront": "gb",
+      "language": "en-GB",
+      "see-all": "reviews",
+      "$kind": "SeeAllPageIntent"
+    },
+    "pagination_fields": {
+      "url": null,
+      "seeAllAction": null,
+      "footerAction": null,
+      "fetchStrategy": "onPageLoad",
+      "itemCount": {
+        "type": "all"
+      }
+    },
+    "user_reviews": 10
+  },
+  {
+    "file": "_raw/reviews/wonderweeks-us-reviews.html",
+    "intent": {
+      "id": "529815782",
+      "storefront": "us",
+      "language": "en-US",
+      "see-all": "reviews",
+      "$kind": "SeeAllPageIntent"
+    },
+    "pagination_fields": {
+      "url": null,
+      "seeAllAction": null,
+      "footerAction": null,
+      "fetchStrategy": "onPageLoad",
+      "itemCount": {
+        "type": "all"
+      }
+    },
+    "user_reviews": 10
+  }
+]

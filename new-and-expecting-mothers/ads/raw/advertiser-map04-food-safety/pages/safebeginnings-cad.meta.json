@@ -1,0 +1,31 @@
+{
+  "slug": "safebeginnings-cad",
+  "url": "https://safebeginnings.ca/cad-purchases/",
+  "robots_status": 200,
+  "robots_allowed": true,
+  "robots_file": "_raw/advertiser-map04-food-safety/robots/safebeginnings.ca.txt",
+  "raw_file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-cad.html",
+  "text_file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-cad.txt",
+  "sha256": "1bef347a7e42ca5d359f0f16be0c780d47cfdc0c373236fa216e432887413b32",
+  "bytes": 533117,
+  "utc": "2026-10-24T21:48:34.570806+00:00",
+  "status": 200,
+  "final_url": "https://safebeginnings.ca/cad-purchases/",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:48:31 GMT",
+    "Server": "Apache",
+    "Strict-Transport-Security": "max-age=63072000;",
+    "X-XSS-Protection": "0",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Content-Security-Policy": "frame-ancestors 'self' ; upgrade-insecure-requests;",
+    "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+    "Cache-Control": "no-store, no-cache, must-revalidate",
+    "Pragma": "no-cache",
+    "Link": "<https://safebeginnings.ca/wp-json/>; rel=\"https://api.w.org/\", <https://safebeginnings.ca/wp-json/wp/v2/pages/37549>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://safebeginnings.ca/?p=37549>; rel=shortlink",
+    "Set-Cookie": "PHPSESSID=36b23400e299a306439207e6d11ae4a8; path=/; secure; HttpOnly",
+    "Connection": "close",
+    "Transfer-Encoding": "chunked",
+    "Content-Type": "text/html; charset=UTF-8"
+  }
+}

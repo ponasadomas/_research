@@ -1,0 +1,142 @@
+[
+  {
+    "id": "rjnp01-0066",
+    "manually_checked": true,
+    "quote_literal_pass": true,
+    "finding": "Context inferred mother from husband; corrected to parent. Full quoted original and date/age checked.",
+    "result": "pass_after_metadata_correction"
+  },
+  {
+    "id": "fdeep02-0001",
+    "manually_checked": true,
+    "quote_literal_pass": true,
+    "finding": "Literal source, speaker/stage and bounded context checked against complete quoted post and original OP where needed.",
+    "result": "pass"
+  },
+  {
+    "id": "mkt03-0003",
+    "manually_checked": true,
+    "quote_literal_pass": true,
+    "finding": "Seller offer verified, not buyer voice; professional/pregnancy-stage labels changed conservatively to advisor/unknown across all5newrecords.",
+    "result": "pass_after_metadata_correction"
+  },
+  {
+    "id": "odeep01-0031",
+    "manually_checked": true,
+    "quote_literal_pass": true,
+    "finding": "Purchase/adoption is not demonstrated improvement; type changed to belief. Older-child adjacent audience remains explicit.",
+    "result": "pass_after_metadata_correction"
+  },
+  {
+    "id": "rjnp01-0105",
+    "manually_checked": true,
+    "quote_literal_pass": true,
+    "finding": "Literal source, speaker/stage and bounded context checked against complete quoted post and original OP where needed.",
+    "result": "pass"
+  },
+  {
+    "id": "rjnp01-0137",
+    "manually_checked": true,
+    "quote_literal_pass": true,
+    "finding": "Literal source, speaker/stage and bounded context checked against complete quoted post and original OP where needed.",
+    "result": "pass"
+  },
+  {
+    "id": "odeep01-0016",
+    "manually_checked": true,
+    "quote_literal_pass": true,
+    "finding": "Literal source, speaker/stage and bounded context checked against complete quoted post and original OP where needed.",
+    "result": "pass"
+  },
+  {
+    "id": "rjnp01-0086",
+    "manually_checked": true,
+    "quote_literal_pass": true,
+    "finding": "Conflicting sleep promises are author interpretation. Whole original checked; safe-sleep assertions/instructions not endorsed or extracted.",
+    "result": "pass"
+  },
+  {
+    "id": "fdeep02-0011",
+    "manually_checked": true,
+    "quote_literal_pass": true,
+    "finding": "Literal source, speaker/stage and bounded context checked against complete quoted post and original OP where needed.",
+    "result": "pass"
+  },
+  {
+    "id": "rjnp01-0131",
+    "manually_checked": true,
+    "quote_literal_pass": true,
+    "finding": "Receipt of custom plan established; payment not stated. Operational burden and partner constraints are faithful; safe-sleep claim not endorsed.",
+    "result": "pass"
+  },
+  {
+    "id": "rjnp01-0060",
+    "manually_checked": true,
+    "quote_literal_pass": true,
+    "finding": "Gifted-book improvement is parent report; developmental habit assertion remains parent belief, not clinical guidance. Whole original checked.",
+    "result": "pass"
+  },
+  {
+    "id": "rjnp01-0017",
+    "manually_checked": true,
+    "quote_literal_pass": true,
+    "finding": "Literal source, speaker/stage and bounded context checked against complete quoted post and original OP where needed.",
+    "result": "pass"
+  },
+  {
+    "id": "rjnp01-0007",
+    "manually_checked": true,
+    "quote_literal_pass": true,
+    "finding": "Literal source, speaker/stage and bounded context checked against complete quoted post and original OP where needed.",
+    "result": "pass"
+  },
+  {
+    "id": "odeep01-0011",
+    "manually_checked": true,
+    "quote_literal_pass": true,
+    "finding": "Literal source, speaker/stage and bounded context checked against complete quoted post and original OP where needed.",
+    "result": "pass"
+  },
+  {
+    "id": "rjnp01-0109",
+    "manually_checked": true,
+    "quote_literal_pass": true,
+    "finding": "Literal source, speaker/stage and bounded context checked against complete quoted post and original OP where needed.",
+    "result": "pass"
+  },
+  {
+    "id": "rjnp01-0125",
+    "manually_checked": true,
+    "quote_literal_pass": true,
+    "finding": "Literal source, speaker/stage and bounded context checked against complete quoted post and original OP where needed.",
+    "result": "pass"
+  },
+  {
+    "id": "odeep01-0030",
+    "manually_checked": true,
+    "quote_literal_pass": true,
+    "finding": "Literal source, speaker/stage and bounded context checked against complete quoted post and original OP where needed.",
+    "result": "pass"
+  },
+  {
+    "id": "rjnp01-0020",
+    "manually_checked": true,
+    "quote_literal_pass": true,
+    "finding": "Literal source, speaker/stage and bounded context checked against complete quoted post and original OP where needed.",
+    "result": "pass"
+  },
+  {
+    "id": "mkt03-0002",
+    "manually_checked": true,
+    "quote_literal_pass": true,
+    "finding": "Seller offer verified, not buyer voice; professional/pregnancy-stage labels changed conservatively to advisor/unknown across all5newrecords.",
+    "result": "pass_after_metadata_correction"
+  },
+  {
+    "id": "rjnp01-0117",
+    "manually_checked": true,
+    "quote_literal_pass": true,
+    "finding": "Literal source, speaker/stage and bounded context checked against complete quoted post and original OP where needed.",
+    "result": "pass"
+  }
+]

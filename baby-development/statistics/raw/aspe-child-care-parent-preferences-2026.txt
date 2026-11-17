@@ -1,0 +1,36 @@
+URL: https://aspe.hhs.gov/sites/default/files/documents/a8bceacd4847aed313841e37836da40b/Child-Care-Parent-Preferences.pdf
+Fetched: 2026-11-17
+Method: curl, pdftotext -layout; exact lines. Secondary (ASPE issue brief) citing primary: OPRE report Ventura et al. 2026, Children's Participation in Child Care and Early Education (NSECE 2024), acf.gov/opre. The OPRE page itself returned HTTP 403 to fetch.
+
+                                                                                                November 10, 2026
+
+
+
+
+          Most Parents of Young Children Prefer Either
+         Parental Care or a Home-Based Setting, Though
+                  Preferences Vary by Child Age
+                                      Jessica Rendon and Alayna Schreier
+
+
+ KEY POINTS
+...
+Care patterns for young children differ substantially by age: parental and home-based arrangements are most
+common among infants and toddlers, while center-based care is most common among preschool-age
+children.5 While this mirrors the findings about care preferences at a high level, the share of parents actually in
+these types of arrangements varies from their stated preferences.
+
+Our analysis of the 2024 NSECE data found that about 22 percent of households with a child under age five use
+only parental care, lower than the 35 percent of parents who report they would most want parental care if
+cost and location were not barriers. Other published estimates on children’s participation in child care show
+that among children under age three, 53 percent received regular nonparental care in 2024.6 Unpaid care from
+an individual other than a parent was the most common type (24 percent), followed by center-based care (18
+percent). Among children ages three through five, 69 percent received regular nonparental care. Center-based
+care was the most common type (42 percent), followed by unpaid individual care (27 percent).
+
+...
+https://doi.org/10.1016/j.ecresq.2014.03.006
+6
+  I M Ventura, T Tran, S Bell, J Rev, A Ryckaert, A R Datta (2026). Children’s Participation in Child Care and Early Education:
+Counts and Characteristics. Report No 2026-020. Washington DC: Administration for Children and Families, US
+Department of Health and Human Services. Available at: https://acf.gov/opre/project/national-survey-early-care-and-

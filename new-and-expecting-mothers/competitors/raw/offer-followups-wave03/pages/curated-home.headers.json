@@ -1,0 +1,29 @@
+{
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 20:45:09 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "CF-Ray": "a4fbd2d01e55e4e5-RIX",
+    "CF-Cache-Status": "DYNAMIC",
+    "x-served-by": "cache-hel1410020-HEL",
+    "Age": "0",
+    "Cache-Control": "public,max-age=0,must-revalidate",
+    "Set-Cookie": "sec-fetch-unsupported=1; Path=/; Secure; SameSite=Lax;, ssr-caching=cache#desc=miss#varnish=miss_miss#dc#desc=fastly_ireland-phy; max-age=20, __cf_bm=Oz8iCQTXLADyb8593bQbjRRI7vP.Il.v2X6OakeBaeo-1792874708.4958267-1.0.1.1-mVzyQQ81W0xPP.sJGxoAzPa_BHfWerinTRAcjqWCLRiqjI2FnweEBg8NCcrqUsIOuEpyM.EFuwVnqJjTxOE4ljDFUqfftvindrVKmu6NyM.PVUtYIxmrgqAqCT2O8TBT; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.curatedtogrow.com; Expires=Sat, 24 Oct 2026 21:15:09 GMT",
+    "Content-Language": "en",
+    "ETag": "W/\"6c44cf794829f7c5adcde2174d69a25a\"",
+    "Link": "<https://static.parastorage.com/>; rel=preconnect; crossorigin, <https://static.parastorage.com/>; rel=preconnect, <https://static.wixstatic.com/>; rel=preconnect; crossorigin, <https://static.wixstatic.com/>; rel=preconnect, <https://siteassets.parastorage.com>; rel=preconnect; crossorigin",
+    "Server": "cloudflare",
+    "x-wix-request-id": "1792874708.5375162365531471",
+    "Strict-Transport-Security": "max-age=31556952",
+    "Vary": "Accept-Encoding",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "server-timing": "cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly_ireland-phy_cf",
+    "x-cache": "MISS",
+    "x-cache-status": "MISS",
+    "x-content-type-options": "nosniff",
+    "x-seen-by": "bQAXdg/f3pWGCb3VI6q72A==,bQAXdg/f3pWGCb3VI6q72A==,Ct40diYObxC+je8ScvxEPQ==,W1c2/pqHBqplxcWufHCkILxkNjrXdwdgtu6E0yACibU=,GilIRCy+Ky2nI9KZaDKzWLxkNjrXdwdgtu6E0yACibU=,Ua1iSBCTq7qSXjmRCGE1N2Gzg6tNvZOkfghS+B/tomtDdDWIRTJtfqZQb1cFZhHOHg7BELI99pG9//pIrgbIJO6Sj/OhVrs3hrJ3tzca3j3gCd4UkbXrkK+4Yb2fL3Jg,2d58ifebGbosy5xc+FRaluBuu3ZzxfzyCoB8ukIfbWMvlWxYXd2Liqn0NIyLQJHdcHiHUYyEsNaO1DY5SvLvVBBrV1DaGnKOVwJ7ENRGSNo=,2UNV7KOq4oGjA5+PKsX47P2WsnMQkzaqaUb8Y1bjGakqUshVO4awhZVCZMTGn/DQ,TeEjV9lv7/HACQr2VMOeG1ViJ6U22PRntBKU/ByLkvk=,kO0u+7q+TL0DeeE//9W7MMDm0EjkaFnj9NIizVvYXEw9prx8l5JFxd0HBUgYSiSURmoCN/dec41P06+FW6XuAw==,TeEjV9lv7/HACQr2VMOeG1p52+ZvO5YI7QV1d7t+M28=,LoUK8/saGAmOxZWtpubo2vSUAlUr6Gji/6RAthM2juZfik0b8J9qTHZCH43zHe6nPf8dkUf1zeR0mN0gjW1fI6KyHGM0T1sECtttaaqi5+U=,TeEjV9lv7/HACQr2VMOeG+0YVHpzzbU0MW8fGknunrs=,/a5ccLSK1HEmwPNg/x6OusPlQawY2CDKm7VVqq2PzBZsJ1Lam6r7GudHlOmrmjF5ybv7Tud0zCvcn0AUTkRh61iB5QmpRe2J37zq9nDD6cs=",
+    "Content-Encoding": "gzip"
+  },
+  "history": []
+}

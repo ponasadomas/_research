@@ -1,0 +1,38 @@
+{
+  "ad_id": "1387640953430893",
+  "advertiser": "Napper",
+  "page_id": "100208041597677",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/020-napper-page.json",
+  "capture_sha256": "3f6886f7ea4051f1ad3adbc0f17a258dea8e360603fb788374b4a744a32925b8",
+  "native_pointer": "connections[0].edges[7].node.collated_results[1]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=100208041597677",
+  "captured_at": "2026-10-24T21:50:21.141Z",
+  "is_active": true,
+  "start_utc": "2026-06-29T07:00:00+00:00",
+  "display_format": "VIDEO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1387640953430893",
+  "snapshot_sha256": "703484ef32f4f107a89a898ffd8df67cb6b60a1b8f97f27c1d0b3a3f171f3047",
+  "text_fields": {
+    "body": {
+      "text": "🌸 Dołącz do milionów rodziców, którzy dzięki Napper znaleźli spokój w śnie swojego dziecka\n\n➡️ Pobierz aplikację teraz"
+    },
+    "title": "Rozpocznij korzystanie z Napper już dziś! 👋",
+    "caption": "play.google.com",
+    "link_description": null,
+    "link_url": "http://play.google.com/store/apps/details?id=com.napper",
+    "cta_text": "Install now",
+    "cta_type": "INSTALL_MOBILE_APP",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "c74a4123fc282c4a70fc159a83a031023b1f3e90d29f8cbf0286f076d22ba539",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 1,
+  "cards_count": 0
+}

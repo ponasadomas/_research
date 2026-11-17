@@ -1,0 +1,47 @@
+[
+  {
+    "id": "rcb03-0014",
+    "quote": "I am a minimalist and we live in a 2br inner city terrace house that I love. Things are piling up all around me, our guest room and garage are now full and I don’t have the capacity to sort through any of it and it is giving me extreme anxiety.",
+    "context": "Three-week postpartum parent reports excess gifts filling a small home and no capacity to sort them; practical-help boundary, not a request for more products.",
+    "marketing_eligible": false,
+    "terms": [
+      "anxiety"
+    ]
+  },
+  {
+    "id": "rcb03-0016",
+    "quote": "The bibs do look like they could be a solution, but I recognise I'm desperate and vulnerable to marketing rn and wanted to see if anyone has tried them before I spend $43 on 2 bibs.",
+    "context": "Parent managing infant reflux recognizes vulnerability to targeted bib advertising and seeks user experience before spending; no purchase, efficacy or current price verified.",
+    "marketing_eligible": false,
+    "terms": [
+      "reflux"
+    ]
+  },
+  {
+    "id": "rcb03-0024",
+    "quote": "I’ve been playing a lullaby playlist that’s piano covers which isn’t triggering.",
+    "context": "Room-sharing parent with stated sound intolerance tries a playlist instead of white noise; personal comfort only, no infant sleep outcome established.",
+    "marketing_eligible": false,
+    "terms": [
+      "sleep"
+    ]
+  },
+  {
+    "id": "rcb03-0027",
+    "quote": "I haven’t really spoken with my baby every time I try and talk to him I get stuck and nothing comes to my head and I say his name over and over again in song form.",
+    "context": "Parent gets stuck finding words to say to baby and seeks conversation ideas; no developmental delay or paid-information purchase established.",
+    "marketing_eligible": false,
+    "terms": [
+      "delay"
+    ]
+  },
+  {
+    "id": "rcb03-0030",
+    "quote": "The cot won’t fit in our room no matter how much furniture Tetris we do!",
+    "context": "Parent of four-and-a-half-month baby and toddler has no room for the cot; a physical-space constraint, not a request for sleep guarantees.",
+    "marketing_eligible": true,
+    "terms": [
+      "sleep"
+    ]
+  }
+]

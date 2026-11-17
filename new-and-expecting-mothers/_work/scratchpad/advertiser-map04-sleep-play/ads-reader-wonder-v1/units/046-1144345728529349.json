@@ -1,0 +1,38 @@
+{
+  "ad_id": "1144345728529349",
+  "advertiser": "The Wonder Weeks",
+  "page_id": "129492440396348",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/046c-wonder-weeks-page.json",
+  "capture_sha256": "948f6c6250040a7b35df1a5e488a4b2c6d6c28ab0e2105574f96ea2b27fcbc9b",
+  "native_pointer": "connections[0].edges[16].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=129492440396348",
+  "captured_at": "2026-10-24T22:03:04.532Z",
+  "is_active": true,
+  "start_utc": "2026-10-22T07:00:00+00:00",
+  "display_format": "IMAGE",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1144345728529349",
+  "snapshot_sha256": "123f7d05b7e596cac68efc1e907e64892a55f1efcd42c95c2ab89da5a5fb0a26",
+  "text_fields": {
+    "body": {
+      "text": "Dein Baby weint plötzlich mehr, schläft schlechter oder braucht ständig deine Nähe? 👶💛 Diese Veränderungen können mit einem Entwicklungssprung zusammenhängen. Mit „Oje, ich wachse!“ verstehst du besser, was in deinem Baby vorgeht und wie du es in dieser Phase begleiten kannst."
+    },
+    "title": "Warum ist dein Baby so unruhig?",
+    "caption": "apps.apple.com",
+    "link_description": null,
+    "link_url": "http://itunes.apple.com/app/id529815782",
+    "cta_text": "Download",
+    "cta_type": "DOWNLOAD",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "a9baf4a82d12ae8ce5689bd4503f67d259214a57441da38a92b764486f8c3875",
+  "media_seen": false,
+  "image_count": 1,
+  "video_count": 0,
+  "cards_count": 0
+}

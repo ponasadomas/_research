@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /blog/
+Allow: /convos/
+Allow: /doc-processing/share/
+Allow: /referrals/
+Disallow: /member/
+Disallow: /payment/
+
+Sitemap: https://cms.ohai.ai/api/sitemap/index.xml

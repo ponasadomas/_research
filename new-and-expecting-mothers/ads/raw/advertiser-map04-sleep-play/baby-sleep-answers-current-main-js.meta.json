@@ -1,0 +1,30 @@
+{
+  "requested_url": "https://www.babysleepanswers.com/static/js/main.f69873e9.chunk.js",
+  "final_url": "https://www.babysleepanswers.com/static/js/main.f69873e9.chunk.js",
+  "status": 200,
+  "date_utc": "2026-10-24T21:54:15.229674+00:00",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:54:15 GMT",
+    "Content-Type": "application/javascript; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Age": "1",
+    "Cache-Control": "public, max-age=14400, must-revalidate",
+    "cache-status": "\"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
+    "etag": "W/\"b04674d315de4cff2e1c4f2bdd4e296f-ssl-df\"",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ehdwGAz8auu%2BNa8et9Ik31vCB6f3TfxgDOA3zxtKno5VKR8ffdEoTK8%2FfNz1HuXWLbsynwes4ccl8DkHOCmWEvTU2VJL%2B7psqULr6LWgeGfXGNhYo6MqD2ZmdVgqW%2BBbi13mmP%2FzztsFL2w%3D\"}]}",
+    "Server": "cloudflare",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Accept-Encoding",
+    "x-nf-request-id": "01M5QYGGSKJ23ZRFXEW2NA62M7",
+    "cf-cache-status": "EXPIRED",
+    "Content-Encoding": "zstd",
+    "CF-RAY": "a4fc380a08b8e4db-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "redirects": [],
+  "raw_file": "_raw/advertiser-map04-sleep-play/baby-sleep-answers-current-main-js.body",
+  "sha256": "2f9b85354c22984e06f7c5e98aaaca0e8b280af2059abb4ba97512d5ed493884",
+  "bytes": 54776
+}

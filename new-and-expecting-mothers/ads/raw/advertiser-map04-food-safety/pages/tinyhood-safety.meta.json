@@ -1,0 +1,29 @@
+{
+  "slug": "tinyhood-safety",
+  "url": "https://www.tinyhood.com/classes/babyproofing",
+  "robots_status": 200,
+  "robots_allowed": true,
+  "robots_file": "_raw/advertiser-map04-food-safety/robots/www.tinyhood.com.txt",
+  "raw_file": "_raw/advertiser-map04-food-safety/pages/tinyhood-safety.html",
+  "text_file": "_raw/advertiser-map04-food-safety/pages/tinyhood-safety.txt",
+  "sha256": "5ddd0d403e8de4f71bd96cf9d7278b84307761d3f56e477918a621dec0dc52fe",
+  "bytes": 100267,
+  "utc": "2026-10-24T21:47:16.856834+00:00",
+  "status": 200,
+  "final_url": "https://www.tinyhood.com/classes/babyproofing",
+  "headers": {
+    "Age": "0",
+    "Cache-Control": "private, no-cache, no-store, max-age=0, must-revalidate",
+    "Content-Length": "100267",
+    "Content-Type": "text/html; charset=utf-8",
+    "Date": "Sat, 24 Oct 2026 21:47:16 GMT",
+    "Etag": "\"15snoafvuup25cm\"",
+    "Server": "Vercel",
+    "Strict-Transport-Security": "max-age=63072000",
+    "X-Matched-Path": "/classes/[slug]",
+    "X-Powered-By": "Next.js",
+    "X-Vercel-Cache": "MISS",
+    "X-Vercel-Id": "arn1::iad1::xzxrp-1792878435590-f91b4577d3ba",
+    "Connection": "close"
+  }
+}

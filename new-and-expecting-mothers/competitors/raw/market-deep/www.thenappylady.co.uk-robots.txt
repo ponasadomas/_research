@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /api/
+Crawl-delay: 1
+
+Sitemap: https://www.thenappylady.co.uk/sitemap.xml

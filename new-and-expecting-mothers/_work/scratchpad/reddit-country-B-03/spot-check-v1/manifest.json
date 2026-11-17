@@ -1,0 +1,61 @@
+{
+  "seed": 20261024,
+  "selected": 20,
+  "packets": [
+    {
+      "file": "scratchpad/reddit-country-B-03/spot-check-v1/check-01.txt",
+      "quote_ids": [
+        "rcb03-0038",
+        "rcb03-0012",
+        "rcb03-0005",
+        "rcb03-0020",
+        "rcb03-0002",
+        "rcb03-0013",
+        "rcb03-0004"
+      ],
+      "sha256": "3f19bf7adbd2ba40382c7ddfed8c0d9e942798633d304fe87a6dd6e570241d73"
+    },
+    {
+      "file": "scratchpad/reddit-country-B-03/spot-check-v1/check-02.txt",
+      "quote_ids": [
+        "rcb03-0006",
+        "rcb03-0011",
+        "rcb03-0029",
+        "rcb03-0017",
+        "rcb03-0028",
+        "rcb03-0021",
+        "rcb03-0030"
+      ],
+      "sha256": "2aafce84759c3273b93a556a2f4bbf9e3da91b30784ac1d47330775937c7fd4a"
+    },
+    {
+      "file": "scratchpad/reddit-country-B-03/spot-check-v1/check-03.txt",
+      "quote_ids": [
+        "rcb03-0036",
+        "rcb03-0039",
+        "rcb03-0034",
+        "rcb03-0026"
+      ],
+      "sha256": "e5fa7077a5cec5d6a4ec675ba1ea5a9db7ef2841d6779033055e6b965bd9aaf1"
+    },
+    {
+      "file": "scratchpad/reddit-country-B-03/spot-check-v1/check-04.txt",
+      "quote_ids": [
+        "rcb03-0032",
+        "rcb03-0027"
+      ],
+      "sha256": "e25ca034467741f2bf5a531e4a984825db673e3fe9fbf08a444e578b43198894"
+    }
+  ],
+  "completion": "all20fullsourcebodiesandquotedrecords_human_reread",
+  "utc": "2026-10-24T20:16:20.147948+00:00",
+  "quote_fidelity_errors": 0,
+  "context_clarity_corrections": [
+    "rcb03-0013",
+    "rcb03-0020",
+    "rcb03-0034",
+    "rcb03-0038",
+    "rcb03-0039"
+  ],
+  "scope": "20deterministic random quotes checked after all203 original reads; excerpts unchanged, context timing/child-age grammar clarified where needed."
+}

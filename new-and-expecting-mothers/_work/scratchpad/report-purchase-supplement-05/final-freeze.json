@@ -1,0 +1,1361 @@
+{
+  "scope": "Completed bounded reader05 supplement: all 121 cards triaged, all 43 kept full originals read; no OP source. No old output appended.",
+  "counts": {
+    "assigned_cards": 121,
+    "triaged_cards": 121,
+    "kept_cards": 43,
+    "dropped_cards_full_body_unread": 78,
+    "full_originals_read": 43,
+    "partial_originals": 0,
+    "OP_replies_read": 0,
+    "comment_source_unavailable": 43,
+    "statuses": {
+      "eligible": 40,
+      "excluded_after_read": 3
+    },
+    "quotes": 22,
+    "quoted_post_ids": 22,
+    "research_only_quotes": 9,
+    "actual_standalone_custom_report_purchases": 0,
+    "outside_assignment_human_body_inspections": 0
+  },
+  "files": [
+    {
+      "file": "_raw/report-purchase-archive-wave03/archive-files/parentsnark_submissions.jsonl.zst",
+      "sha256": "db734f41f91671e4f37c9f2ee05cd0c7ab6e472e3c610c393a14a1b53c8b5e3b",
+      "bytes": 435420,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/archive-files/sleeptrain_submissions.jsonl.zst",
+      "sha256": "257816ebb3768b6491d400a1b6a2429403dc8d6edd5d7f99d67dcbe718589c0e",
+      "bytes": 55333761,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/capture-summary.json",
+      "sha256": "3d6174e2983843efe81b659683b6f71d1d95c7be279fcc8ff7b0c3e9f72fb490",
+      "bytes": 6949,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/commercial-candidates.jsonl",
+      "sha256": "899933e8472a7ff0c52d8e2331d10b77a15f5daf7ad3714d650e242ce3a5d652",
+      "bytes": 91708,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/native-index.jsonl",
+      "sha256": "6715a840e69004d8643bb5063b386327acebc9be6918995331fd9849232d9dc3",
+      "bytes": 15694990,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/assignments/reader-05.json",
+      "sha256": "70bdb3668298a4a5c0343ea7996df7a46b983533a3d80346fa573a43b9c3a11e",
+      "bytes": 6996,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1oobkf2.txt",
+      "sha256": "ab0e69b308d5b7ad56424c719440c990ca46402b9d18efee99680ffeec37ecfd",
+      "bytes": 1802,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1oovxee.txt",
+      "sha256": "de64f29bd6ea7b6eb880ba9eecd3320ff79d2ead8f6609882a5ef4714ee8a429",
+      "bytes": 1260,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1op1h2k.txt",
+      "sha256": "d78bbfc544f0c5bbe0bdab5d0b98448b26bfb1cb59ed81c1940b2d1c933746b7",
+      "bytes": 1072,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1opj00j.txt",
+      "sha256": "a00ab91d46c5b7dbd33333b1f65b2284c55e81a8b15b727bd56e56910526a42a",
+      "bytes": 1051,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1oq2t8a.txt",
+      "sha256": "44863cfde954ecf8d8a816c96aec0d6d77c214981a064e94980fb75b9cc09e98",
+      "bytes": 1060,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1oqr01d.txt",
+      "sha256": "acd8d605a3df44eec25deda6ba6e9525b24a6bf2bc83783c3e4c16fccdcc1df5",
+      "bytes": 1865,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1oqw9ak.txt",
+      "sha256": "fde5e943c1824891318ebef3841ed398fc68d0b9230b1dbe27b096b28afc4e38",
+      "bytes": 1862,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1or8ih0.txt",
+      "sha256": "c25736a6dcfe996059d3cb06afa0e98915e263fa85fe1c5ba121b33ca4d0fc36",
+      "bytes": 1066,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1osqa7a.txt",
+      "sha256": "e1cf250040ef4d5f9a56337563da427abd1bfc3440c11eec9848046923c846da",
+      "bytes": 2320,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1ot1g8h.txt",
+      "sha256": "4fe51076d3aea4e761dddc65ab7602ab0897ce7aab52d39d4c5256320eb10528",
+      "bytes": 991,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1otyyf7.txt",
+      "sha256": "4de37a87cae36adfefe01695974ed9429ee64f9daa9b8aade35b8c3c6c95f8e1",
+      "bytes": 1470,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1ou8na7.txt",
+      "sha256": "15d642b7ab6ebfd003eb4540e82e1a8fc2b8d6d5593d86c1ce9a69702f2925ad",
+      "bytes": 1173,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1ouah0y.txt",
+      "sha256": "d2308d7353a8330dde872876e3ad6be0e3efb042bc92924d719d1db1a1d60595",
+      "bytes": 1287,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1oue9yx.txt",
+      "sha256": "a91a0f934e23360489c73da4fc17a30c448fd7eb9302d8106941cf8b423a0e2a",
+      "bytes": 1259,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1oukdo9.txt",
+      "sha256": "4a5987c9fba461f4ebeef92e4c9ce5c766b3051af3c6cafc3c914807c83eb516",
+      "bytes": 1074,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1ousneb.txt",
+      "sha256": "6cd40e96b1a263d7c30c66f9d00088f44536a0c9c4bf5c8c2f71dd48bd1a41ac",
+      "bytes": 1426,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1ov0j7y.txt",
+      "sha256": "09c5e8104d3e9a692fccfe5521310d9eeba6daab5f3b5ddb3d1a1f112d2ea799",
+      "bytes": 1300,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1ovb6ot.txt",
+      "sha256": "b78509f5c105349d2fac6dfdb6d77cd1bd30510409c8b8b87f4a9d038a0d0509",
+      "bytes": 1260,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1ovc0om.txt",
+      "sha256": "5009c3b4c77650e2794c43146298f88858fb07cca8c74b2ac6adf6b5a5cd5c8d",
+      "bytes": 1080,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1ovebb4.txt",
+      "sha256": "b139cb5b370d0a2d1553b8d87c87f0b900acebee01643e8f52716655b105ae57",
+      "bytes": 1165,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1owq5te.txt",
+      "sha256": "9a9055b81ce8080e454cbffc1e8783961278518d30ea9aadf5afe8b0a17409b8",
+      "bytes": 1122,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1oy1grz.txt",
+      "sha256": "9f5101a18c5b054fa268996e3dec71e2d015c6851bafa92919887ea5e366f1c3",
+      "bytes": 1441,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1oyp703.txt",
+      "sha256": "5eb23ca245e3419c9aa9ce90ac139c920abdef4d0e37e393964b0960751b9000",
+      "bytes": 1094,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1oyqws9.txt",
+      "sha256": "fc7f3ab0dd6f2fcf644788607c448c8ae7623a4895abafb4f8dec372c4d1479e",
+      "bytes": 1294,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1oz81jq.txt",
+      "sha256": "8a8ec528b52070b2b84e16b2a4df34992143cb0bba5e07cddaf03dd7e398ec8f",
+      "bytes": 1752,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1ozjcfg.txt",
+      "sha256": "c0634cb231a7842b263889c049e6a090e7b017fa36c36ef74b803abf00e75df5",
+      "bytes": 1209,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1ozl7ei.txt",
+      "sha256": "5ccc5ef5c7e9f8c80ed1ffee994223b5d0e92710d197f3c5246393bb42491fae",
+      "bytes": 1094,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p00we6.txt",
+      "sha256": "b5b199e5b59e41b68e57c483e03ac8ffea45b66b35ee915513ee63f5a046af21",
+      "bytes": 1063,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p01wje.txt",
+      "sha256": "9a5fb30f953c13847b301f2dd6c90836ed9c2457befd653b6400664f023d2959",
+      "bytes": 1282,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p0s7is.txt",
+      "sha256": "9412b576ff0151bf849c9de8d66a4aa8bb6ce86e3b498fe45f2af0e0540cfacd",
+      "bytes": 1496,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p14jlb.txt",
+      "sha256": "566e1403d9859c331283620d8d9411fc760d6c0f343e16f63fe9ac2fc7b76575",
+      "bytes": 1093,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p1a1c2.txt",
+      "sha256": "71c19f48ad270beca4d30aa0ffcb218dd6256809aebf022c84b7aa1265839671",
+      "bytes": 1246,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p1et2u.txt",
+      "sha256": "6e80430a45eb674e0f9a5126f84f7263e522d88bed61d2def61235f19b18d377",
+      "bytes": 976,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p26kpj.txt",
+      "sha256": "aae1763399c969d2c9a00efde0705ea37edced469e3467e08546742ace960d54",
+      "bytes": 1232,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p2n59c.txt",
+      "sha256": "3fdee45e6fd0a63398f117da0438286f7ece18350c125e92f9fb262dabe271d0",
+      "bytes": 1065,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p3e60b.txt",
+      "sha256": "aacb2b0a5582583d60ceb8a15f20a8c6ab122646a933650b553eef10dbc7b359",
+      "bytes": 1264,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p4jefh.txt",
+      "sha256": "7f362989cdd54e34faaa2595abe2ee27662a4a83647f4709cdfee93716c9ef5b",
+      "bytes": 1300,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p4k2tl.txt",
+      "sha256": "6b073759af14d2732d27514d10e9dd37dc11dfdd51eb1018cfa33f32aab0b092",
+      "bytes": 1488,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p4mc3w.txt",
+      "sha256": "eb38c8bf053aa972f66c6e6ac7ba5d85d5a57bbc516aafb9b0f652bee7b4db74",
+      "bytes": 1814,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p4nu4q.txt",
+      "sha256": "81c46703ce259a9a4d62a569828e3cc3fc283c8ea95333f94094d8b3c3f50b09",
+      "bytes": 1616,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p4vvu9.txt",
+      "sha256": "0e26df589ab2e44f1ce3e0fe73d1647cec3fba2cac4426b338022f47990069fb",
+      "bytes": 1303,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p4z6gk.txt",
+      "sha256": "a1b93bdc012b5fbe0ba2c967661a6c76fcf0ea5529542e70ca081376c3c58730",
+      "bytes": 1513,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p5j8se.txt",
+      "sha256": "7c8c367a3109c1e89c5b2f600fe792c52dbdd57c7ba96641cd8eb06294c73022",
+      "bytes": 1448,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p5kyvw.txt",
+      "sha256": "6b7225366b7086ee3080db0edfe0cfc97ff9141465c20fa670fd2352ebef27a2",
+      "bytes": 1049,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p5u2j8.txt",
+      "sha256": "57929208326bf0b161bb281b2ec9a1c40f97507bb46cb15a46fcf04e6c8aa346",
+      "bytes": 1037,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p62t4w.txt",
+      "sha256": "2e1347948924d3da830a266282166226d22f0e7a1eb81e7d3fbdb75b189f77bf",
+      "bytes": 1226,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p6d9e1.txt",
+      "sha256": "214d02ff0325043c2226731a367d6244b4a8f01ceb752861b3e19f41d0f4cfb8",
+      "bytes": 1079,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p7qv9i.txt",
+      "sha256": "5b7aa94e441d9d018da12538f0e63b27c78fcccca1ba9a9ae5cb390684e43dae",
+      "bytes": 1128,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p80cmn.txt",
+      "sha256": "366b397261a4b24575ab9470aef0029a682abcf1eff0b154be34360a19bed7c1",
+      "bytes": 1659,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p80kyp.txt",
+      "sha256": "2105fdeb14fb37e79387f71807b508a8d8985dda7e46555c07104cc137321b12",
+      "bytes": 1063,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p8faq3.txt",
+      "sha256": "9debe030b05308f22fc299d946853958c7b7996f468b07ad9a0e6438e3d138a0",
+      "bytes": 1079,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p8sz3k.txt",
+      "sha256": "a353a7ee58b8704ad5d4f1bf30ca8218462ab82d525e3b653ddf8278b213f9e7",
+      "bytes": 1033,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p941lk.txt",
+      "sha256": "4fd6acb557ce2b2b801ab9b49c95f6b0748a25e74de4b0c4f9687a254e5718dd",
+      "bytes": 1072,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1p9lp9e.txt",
+      "sha256": "a89f46ebe32975e54e7b2fa2de03576474fc33096332e76351a0113555c76c6e",
+      "bytes": 1467,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pade7t.txt",
+      "sha256": "efba87aec48ebb25cf960cb8285bcaa859b375b96d5b2f69b21e35cee8735d59",
+      "bytes": 1261,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1panay5.txt",
+      "sha256": "30561eaf9fdeeefbaa54fb9e691a6d93b7d80eb20f8e9c36b06c85cfd1451901",
+      "bytes": 1659,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pbjr4a.txt",
+      "sha256": "126ebf4e6881f3abd934e51cbb96405ca56b1263b3da11f7bca5c026cdacfe80",
+      "bytes": 1260,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pbjri0.txt",
+      "sha256": "9838bb5df057907f74379f50b95197c5ea4257945687782749bb60ae02ec55ea",
+      "bytes": 1260,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pbzgw6.txt",
+      "sha256": "8be8a9a651fe015da39fa4dceeafc4bd8a52e8280f20261b271b1bbf6a69738c",
+      "bytes": 1990,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pc1y6t.txt",
+      "sha256": "c053750edf38c1495f8065868e496bc86f84c55635a8664821be108e2525fe21",
+      "bytes": 2176,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pccd9q.txt",
+      "sha256": "1cbaed524d90212d45d5eccd5cdf6274868ed122d985c0b46f13c3403bec4dae",
+      "bytes": 1054,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pcu61m.txt",
+      "sha256": "cce1519d42b91ba90b0c388d1615878a343da5626fa02a8de032293f7f40f5fc",
+      "bytes": 1295,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pdmxes.txt",
+      "sha256": "76a5325716f7737c39e2f04924712415a7b8ee4c9a7c96828d3a92db60cdc57d",
+      "bytes": 1065,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pdnnkw.txt",
+      "sha256": "763b3ec134004fe4854ffed59eded85b42aaec1bc22688708e321a3294ba7877",
+      "bytes": 1301,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pdqqko.txt",
+      "sha256": "9f6bcf9a2ae28bca85445af8c5f5003165b778052cf55fd7b356837298116439",
+      "bytes": 1061,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pdur1d.txt",
+      "sha256": "6995357a0e1d953de912cdc5a2095475ccf02bf33fce9834611b706e4d1e3213",
+      "bytes": 1262,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pe09qm.txt",
+      "sha256": "9f6acb0bcc345cfd6440481faefab332b84cabfb5cf3d9962186d65222381e47",
+      "bytes": 1460,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pe48sm.txt",
+      "sha256": "579ab6188797b36be4fb64f10e97dfc5f403e94e4ad9ec6a7ccb99034611756d",
+      "bytes": 1084,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pekehv.txt",
+      "sha256": "d7358d8a6742b869886dd5aea82562a2e32700eb9470f4920e29f80f2d15be04",
+      "bytes": 1713,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pf96c4.txt",
+      "sha256": "0d591c40ca5bd38d9b06e8ee6d3bf88f7aaa6638a265e39bd6a08aebb62c715a",
+      "bytes": 1003,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pfdfde.txt",
+      "sha256": "fefca6a21a1297428f30a6b5affe4563da599f29c6fed17c68c065eaafdd0965",
+      "bytes": 1828,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pfdxbn.txt",
+      "sha256": "1ff21661a7d20067fd94168e7b017cd40256c6dc3e67043c1d55ac8a98194f23",
+      "bytes": 1080,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pfigjg.txt",
+      "sha256": "1c41d9b67f8ae4941d082cf861b8624fbb76e9743d857b3974d881e36d1c6cbc",
+      "bytes": 1073,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pg3unc.txt",
+      "sha256": "c4cc58460767f7b793f32c26b25051651e0396577426ac74e522add007aaad85",
+      "bytes": 1138,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pgpxwe.txt",
+      "sha256": "bc597bfbf90c38e1342af2c3ca677a4c61e63223c6f5abb75b4d03a772031eb5",
+      "bytes": 2268,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1phbrxc.txt",
+      "sha256": "15a2f08f7cc894a27bbafe5ea2c4add4f007652209361cb872deb34719f8f289",
+      "bytes": 1068,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1phmndf.txt",
+      "sha256": "75e240d9b0015e2fc8be448951f90a39b624ea414dc4bf6cabe2c54f9bc0c138",
+      "bytes": 1083,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pi3tb8.txt",
+      "sha256": "db588556e50899b66c66889ff24e48fce29479caa222b7f3f8492380e861b885",
+      "bytes": 1084,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pj5t5z.txt",
+      "sha256": "7182912f9f0042684a044522b32b98970b55dc88bfb0913bffa8de929b225827",
+      "bytes": 1255,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pjcgbh.txt",
+      "sha256": "f82279040babfc0b5abf41c8517f34b44cf9ee0bead92053d6b68a63319cd6e3",
+      "bytes": 1072,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pjf9cp.txt",
+      "sha256": "53cf8f56029bce01e882317aa3cede012cbab13b9f855a2aabaec5d98ddd8781",
+      "bytes": 1263,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pk3v5d.txt",
+      "sha256": "5a2a8cc293e83b2c7b35ffe7efa7df30c19e5bdf9a2c42628bba0be943218844",
+      "bytes": 1409,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pknn82.txt",
+      "sha256": "fd68c35eb6378b45d070fb6586e675de6317b10d3c3111c1fb9cef1d9a0eaf97",
+      "bytes": 1256,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pkt551.txt",
+      "sha256": "49a08938e56e3a867301aaa0bd08fa41f8cc83b1a38cf471a0ed90d4310b808e",
+      "bytes": 1415,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pl8jaq.txt",
+      "sha256": "0fcfb8f18c9ecf1796787dbadb59e7466c91bb5c24353825dddc3042f53f5208",
+      "bytes": 1239,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1plhd3s.txt",
+      "sha256": "41142021a5a4c8f54aedf8c60861d67b39b91b149863e80df013d87c96e38482",
+      "bytes": 1634,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1plpc92.txt",
+      "sha256": "f8342b82da65d3f0bd577711877cfc0df964c8666595182eb5c43b5544ade9e8",
+      "bytes": 2118,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pls85u.txt",
+      "sha256": "605c18f36d8420b975b7b26385671e217314c9b4fda0e1e67570f3bbc17524a0",
+      "bytes": 1232,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pmiqt5.txt",
+      "sha256": "6e6e3e6d39d6372b29a42bd7be43e81db800686f88c68dc4cc31fd4883f2fc9b",
+      "bytes": 1762,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pmmfb0.txt",
+      "sha256": "5cd0bd809b71d6d268d80cd5564a6b217b4596e6d0faf40296b0582e304b6066",
+      "bytes": 1065,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pmqdjz.txt",
+      "sha256": "05dd377e8fbd59d0c33d85538857b6d804532ba074c0531104243cb0bff730c7",
+      "bytes": 1470,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pnoepf.txt",
+      "sha256": "6ae299b5ecdffcf4c04cc0e0faf0ccde5292c299a21713be0382b58839c4a4d7",
+      "bytes": 1963,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pnr08r.txt",
+      "sha256": "745cf11396ee30264007bfd8cb3a0b3b49ea1f9e0111e0dd26eebfb23dbc7b64",
+      "bytes": 1064,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1po7mq5.txt",
+      "sha256": "cd6907f66a5a7da6f9c23c60649c30986102e6b83491e4404ab27cd25cf4dc2d",
+      "bytes": 1072,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pod4oo.txt",
+      "sha256": "2c2991229f86e89b499e6a92b0647f43255c5237c3799588d053aece6cb531f4",
+      "bytes": 1200,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1poe4di.txt",
+      "sha256": "2e9843c6f76ac5dfd0f3c3644776b28a87a63f77b83498ef1fbbc0f6f66ea42a",
+      "bytes": 1211,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1poj9rb.txt",
+      "sha256": "b40f67b8307bab2c2e111ff459002643c0ce050630b971bb878daf00569e67c2",
+      "bytes": 1064,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pojlhe.txt",
+      "sha256": "f939ce1b7a198cb46959dcd2540c0611b84f3ef207bd69d97b65d5dcadd6299c",
+      "bytes": 1275,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1ponrt5.txt",
+      "sha256": "c603951cb39e36edf035721d5622c91f91a94e29c290ee03d94e47af5931f086",
+      "bytes": 1060,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pp58w6.txt",
+      "sha256": "eb8f73c55e30243a91775e792d4685e3ed6e4c1362a348f3a51694448ccd508a",
+      "bytes": 1009,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1ppfcii.txt",
+      "sha256": "60b8dd16c9fb826a1a58fcda904ec903368a3c53d5cc8cd75e511c1397685486",
+      "bytes": 1245,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1ppp4iy.txt",
+      "sha256": "267a19f0b32dcea23fde664c963b826e5252fbc0e5321392bc69c6936616645f",
+      "bytes": 1454,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pq1rkx.txt",
+      "sha256": "6196068909bceb37a6b9ce536d5143b9482afeadfc11f002442876807acc1cab",
+      "bytes": 1585,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pqibij.txt",
+      "sha256": "32f9226eafe6bf9f800607cf3c311df940d4e4c9eb8b1724cc2c83d8977b03a1",
+      "bytes": 1633,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pqm10s.txt",
+      "sha256": "66c7e963f1e6a89612b0be1295a463ddfa1315ab431f50051312c93420b1266b",
+      "bytes": 1080,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pqt6qw.txt",
+      "sha256": "0119e749f828a46324e350b6e01e297a6a55d7eda69e64319cd1f51ec31e05ca",
+      "bytes": 2565,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pr6144.txt",
+      "sha256": "762a19955c4817c19f81b9caebee914e6fa555f7597c0d83e5d6723b1e7a7a23",
+      "bytes": 1101,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pr8ya9.txt",
+      "sha256": "8d3490f57b7d337b638fe7c6f6d8d84dc5be56bd5960acff18831ff418ea7fa3",
+      "bytes": 1064,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pra71z.txt",
+      "sha256": "09a7c5c39b6aa68d6a7f0ac5c101eeb5103c6a99a322df8a174823707fdd49e9",
+      "bytes": 1099,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pseeiv.txt",
+      "sha256": "32d9f4da722eaca43fbf36a93ebe5479a1e13ce61da9a52ea97a830e06deeb65",
+      "bytes": 1090,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pspcsd.txt",
+      "sha256": "80e4f3e76ce960ef0b73c8bfa2ffe9ce28a541ba56884e97e2cb137f43238336",
+      "bytes": 1240,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1psxuha.txt",
+      "sha256": "8ba4af44a7e1ed39a443793f6120445f7d7d31659cb5194cfc9b75e5933236f7",
+      "bytes": 1136,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1psy47y.txt",
+      "sha256": "24d87789d8cf18e9d8afe9c642356bf0a35ff0fb5fd1b979fa76bbf165e7cd00",
+      "bytes": 1493,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1ptk8vz.txt",
+      "sha256": "681c205fbb234d6716d97ace94faa084dda3bc45921b72a1fc56f16f7f290134",
+      "bytes": 1498,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pu3eik.txt",
+      "sha256": "236412d214ab61a131c1d9889e591ea5496c32d8ad88fb797888c34ef5fedf9d",
+      "bytes": 1486,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pue79m.txt",
+      "sha256": "a40ea7e4fdc5a1047fda7858df21eca3c2f30c1c2eb56d38b8a873dafea0f6b0",
+      "bytes": 2811,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pwa90p.txt",
+      "sha256": "f4b1bc900e05e1cc4d52df193be546316a85684e334e52582d6d24fa031e618b",
+      "bytes": 1253,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pwjgrx.txt",
+      "sha256": "06749f78abc6292bff3d691e15ccb5ca0b4d7a4d7b5d2d64ec03528ce66acc2f",
+      "bytes": 1068,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pyffmj.txt",
+      "sha256": "7bca5b07b1ff3e0e8531d4e23b52f3a5717bacd17811076e0571971eea89d72f",
+      "bytes": 1112,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pz1spv.txt",
+      "sha256": "3d43882ad5b1c2f7ed5e326f4cb24a2d7d45a93609b0a9011a3abb618ac312ce",
+      "bytes": 1401,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/cards/1pzcss5.txt",
+      "sha256": "e12bdb983646e4502076d9030eb1ab9166c8be12f4f86c5ad78edd8fc38ef257",
+      "bytes": 1484,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/commercial-candidates.jsonl",
+      "sha256": "f6804d5ca9175146741968c679b86d2c12c00b0765753801af082aa24b5803c4",
+      "bytes": 384492,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/supplement-v1/triage-05.tsv",
+      "sha256": "d728d26fc162bff6268ce2fe0a26d978f956816258fe8a8b36e83955a66cdaab",
+      "bytes": 21197,
+      "ownership": "reader05"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1oobkf2.txt",
+      "sha256": "0484b7dd2d9ead4515779f86fc35a5c332778b4efe8bb899a19dd3eae2deaf0d",
+      "bytes": 1689,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1opj00j.txt",
+      "sha256": "a036f81b6369e9cd0481caf3fb904a1d8e25956a5b3624b34e3697936d165f79",
+      "bytes": 2556,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1oq2t8a.txt",
+      "sha256": "2d0d7fe4e0486b996be8272a572694a319c8feaec432f4507d50058a31781011",
+      "bytes": 2907,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1ouah0y.txt",
+      "sha256": "1c5d7a25bed7d1c0da41e801078897786155e55d8813680581b372eef5405ffc",
+      "bytes": 3155,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1ovc0om.txt",
+      "sha256": "7dc4e2c306d24d9e9973fe4dd475b8d3a2ed38c90e133ae38fd0649d6c1fc1f9",
+      "bytes": 1985,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1oz81jq.txt",
+      "sha256": "25c2eb6612512e61d3970a695ed2126ea43b02ddcaea84d429caa5b707810b54",
+      "bytes": 3869,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1p3e60b.txt",
+      "sha256": "ea36445fea524de161714245b58a68cc020701a649b73091d910371ceb11d849",
+      "bytes": 4417,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1p4mc3w.txt",
+      "sha256": "6f53401322185e8be09e0d0324a97bca8b4a417e940896ad57934bf364282135",
+      "bytes": 3310,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1p4vvu9.txt",
+      "sha256": "1bbdeaed6279fd6c227997502e3e92cbeda47907f465cce6be1cd17c517f3a67",
+      "bytes": 3455,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1p4z6gk.txt",
+      "sha256": "4dc593eaf3dac3d7b1cfd51f418fa681e7d1990c8cd6e7aab2f2423aac730000",
+      "bytes": 4030,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1p6d9e1.txt",
+      "sha256": "8db6f37cf3abcdfde1a95095d2e41c3236fc00f382cfb28d842150ea45fa7732",
+      "bytes": 2674,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1p80cmn.txt",
+      "sha256": "8c9728b724c99d27c336c286148c298a8f3ada369ae64174324d049473c14bc2",
+      "bytes": 3964,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1p80kyp.txt",
+      "sha256": "a8ff59ad93e65332208c326993ed05c5b57fa5267e4cbd804feb0ef77f4ab9de",
+      "bytes": 2584,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1p8faq3.txt",
+      "sha256": "90e2350844d32b2d84bc6534e36587242ebf7870964fb413ab6b50162554c9b4",
+      "bytes": 2738,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1p9lp9e.txt",
+      "sha256": "4a6be8c9a9982bf9110ca4a2385a74d38728f3416285ea6dcd9f84bbe1739584",
+      "bytes": 2841,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1panay5.txt",
+      "sha256": "652a02a53531ab1feb77e10255d4e62e5c6a1e26a2ac4af98032684459d35b1a",
+      "bytes": 3415,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1pc1y6t.txt",
+      "sha256": "f044bfd88e6c1a56b2e57a9c3f8d196c8885ddcfe918e8b096f62d98e6808e76",
+      "bytes": 3280,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1pccd9q.txt",
+      "sha256": "0d7dcf583f199d7fbd39dd48756a56fc48000fe327b5a2d80ef35947fa41194d",
+      "bytes": 2474,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1pcu61m.txt",
+      "sha256": "6fcd1d56ffc359ce2cdef17a0abf73f23983513abf57314655f2f939194f5cd9",
+      "bytes": 5650,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1pdmxes.txt",
+      "sha256": "89db11b224799a56d2ed7fb112a4d5988190eff8501c790cffe65d30c4fe73b0",
+      "bytes": 2317,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1pe48sm.txt",
+      "sha256": "3e8233d62ad321858ad8041f41847fe402e0ebd8951cbc18955abda48a0459d3",
+      "bytes": 3410,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1pekehv.txt",
+      "sha256": "7ec941b30f1d61cdddbc1fa0021866bd4df9bb10081ef151fe90449259aea415",
+      "bytes": 2402,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1pfdfde.txt",
+      "sha256": "5973a4823100c9495dd6f5df4e3f6b420727634d6a8bd8179c76b40522a6a31e",
+      "bytes": 2876,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1pgpxwe.txt",
+      "sha256": "104209e0a9d094b60aed8967b020fa82446d7fdd17548b36cdb3b10e82b9305e",
+      "bytes": 6372,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1pjcgbh.txt",
+      "sha256": "3738c5bb1504945d0f4da8626c4d3736957bd9629685cb3f77f5460786bd53c6",
+      "bytes": 2842,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1pknn82.txt",
+      "sha256": "3ec4da5eee0170361540414d3217970faa7487602910584561c3ef72a87e106f",
+      "bytes": 2048,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1plhd3s.txt",
+      "sha256": "0c5d017b5f9093d0e3f5cb78118291cc33f508414eb101cc08658f04c67f634b",
+      "bytes": 2434,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1plpc92.txt",
+      "sha256": "b4f3514dadea9d8376a26a642436eecc4a8bcb4baff9830972d75493afaf9260",
+      "bytes": 3497,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1pls85u.txt",
+      "sha256": "d797fc63c434b85eafdd13121a8b0a4686646f4dd93c301bce0b9ce7cddd751f",
+      "bytes": 2431,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1pmiqt5.txt",
+      "sha256": "6f489fc2c6239d80f2d338b7968b8c8f4f336b4743c9724338ba362923bb762f",
+      "bytes": 4872,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1pnoepf.txt",
+      "sha256": "c2fa562de7a755a1599fd6c8261ba9f2db98402f5c4fccf2f12bfc2b4ef0b9ab",
+      "bytes": 7323,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1po7mq5.txt",
+      "sha256": "1ce73947e77ee63a60b5b333ebd5a0116a13f3205a9491b3ea7121661efcd191",
+      "bytes": 2733,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1poj9rb.txt",
+      "sha256": "01146b3fa34534940054b7b19e5980be6f70aeaf9a4963646a5e4a5a36ced3dd",
+      "bytes": 2395,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1ppfcii.txt",
+      "sha256": "20fc9550f5cfe3751c2e27b780a51110fe0bc3d5f1eb60e4716a525fcffbe166",
+      "bytes": 2988,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1ppp4iy.txt",
+      "sha256": "456fee72ab4bfbf1b3adc051273a0fd78ba942701448d9eb5da4965cc8113acd",
+      "bytes": 3234,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1pq1rkx.txt",
+      "sha256": "7fbb32c7134df9ff93a6b20df352ba933838d3666ad566c14967281ab27d333f",
+      "bytes": 2558,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1pqm10s.txt",
+      "sha256": "f68adff2e76289aeb98c37ddf727df9334f8757e74a19cada0f171ff101dd2fa",
+      "bytes": 2453,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1pqt6qw.txt",
+      "sha256": "51597453922c063d1976a911a1b157f982905fd02689047d4f5115049200ff4a",
+      "bytes": 4115,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1pr8ya9.txt",
+      "sha256": "6ef54e9edc5ecd871cbb34214778fef5f2eae6d8cab852b0eeb52128cc4b55aa",
+      "bytes": 2895,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1pseeiv.txt",
+      "sha256": "90c217e89a2baa3dd7b9cf3595cc4471ca72e532b2d4f84ec50d5c9078a9a7e5",
+      "bytes": 2781,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1psxuha.txt",
+      "sha256": "c168b891b930049867941d0b2bb97d1bda64411a8bb628cd938168cc8e110dfb",
+      "bytes": 5051,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1ptk8vz.txt",
+      "sha256": "821a62914b01efe88e088296eef1b4def740ebc701b9ab91f08052135b320dae",
+      "bytes": 3296,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/units/sleeptrain-1pu3eik.txt",
+      "sha256": "29eb25d402f78b370f67c4cb19d034112dc063ad16fd0f45b304b121c6907bf9",
+      "bytes": 3504,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/window/parentsnark_submissions.jsonl.gz",
+      "sha256": "f11c90609585bedae6c91ecd3b0558daa1263f294323319722b80dd1dd55a7b4",
+      "bytes": 117968,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "_raw/report-purchase-archive-wave03/window/sleeptrain_submissions.jsonl.gz",
+      "sha256": "e51f9705638110a700b279a623fde77cd94004ed5c1df097c3b8e643c1e17387",
+      "bytes": 9031726,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "scratchpad/report-purchase-archive-wave03/supplement-v1/card-views/019.txt",
+      "sha256": "07fa547a058b69e73e9c2ee2c5a6b01ee202b5fe992ebb7dc829c38d6940953e",
+      "bytes": 14368,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "scratchpad/report-purchase-archive-wave03/supplement-v1/card-views/020.txt",
+      "sha256": "506367c6b8b4c51b2c78b3f7565c2a577a9801fbb9918c7f3045ef709308b2aa",
+      "bytes": 13637,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "scratchpad/report-purchase-archive-wave03/supplement-v1/card-views/021.txt",
+      "sha256": "20c548b59f3ddb0bb828b4311889bd88b5e6382238c94d34d8ef9bbc8f62a7d1",
+      "bytes": 14085,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "scratchpad/report-purchase-archive-wave03/supplement-v1/card-views/022.txt",
+      "sha256": "e69901235c5f848ce38570fb9253fd4881d3822f86a73db1206c8480add8307a",
+      "bytes": 13590,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "scratchpad/report-purchase-archive-wave03/supplement-v1/card-views/023.txt",
+      "sha256": "94909f847416632e31f5affb207b58a843d9259d9b33568a4f213b0d36cd65d1",
+      "bytes": 14363,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "scratchpad/report-purchase-archive-wave03/supplement-v1/card-views/024.txt",
+      "sha256": "ca70f92765704e833537c81d135bb530f6ae66f37814ab3850173dcc4bc4f23c",
+      "bytes": 14340,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "scratchpad/report-purchase-archive-wave03/supplement-v1/card-views/025.txt",
+      "sha256": "6d7b4f0f52a7371013d556c7498502993fc2b4ac62bea4cfecd3dd8424ac2a27",
+      "bytes": 12721,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "scratchpad/report-purchase-archive-wave03/supplement-v1/card-views/026.txt",
+      "sha256": "3cca29e06060f265bc5855bea44c13c585f7784fa861eb7a76bb8b77b65c7282",
+      "bytes": 14433,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "scratchpad/report-purchase-archive-wave03/supplement-v1/card-views/027.txt",
+      "sha256": "3c0df01f5754c98ef5e0922dcd8ab8cad42fa3c37c6cc572b6d741f5e9cee45c",
+      "bytes": 13397,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "scratchpad/report-purchase-archive-wave03/supplement-v1/card-views/028.txt",
+      "sha256": "4a32b0cb45e182c2a00a9806ea4920da36de266676b145aa5e463c2bc7415335",
+      "bytes": 13837,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "scratchpad/report-purchase-archive-wave03/supplement-v1/card-views/029.txt",
+      "sha256": "8881678cbe181f4c23158054dab239fe61829b2f6ebeeda5fa433448522397d0",
+      "bytes": 13791,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "scratchpad/report-purchase-archive-wave03/supplement-v1/card-views/030.txt",
+      "sha256": "e37838e6a6f07080c8ed35f271c94e294e324b9961807fb866113602695e0b00",
+      "bytes": 9140,
+      "ownership": "immutable_parent_dependency"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/audit.py",
+      "sha256": "3aa407087814755798162cf2336d3737cc8a1fc9a9346bd6b1e95af7626affbb",
+      "bytes": 9363,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/checkpoint.json",
+      "sha256": "771dfc089b571b102f36a8c3efed23a35bc9dfa9ffb10e41685c88341724b803",
+      "bytes": 281,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/copied-verifier.txt",
+      "sha256": "e1daf1cd52a4e2312b8bc91b1f10559d73b168a6688020a256826a5353331cac",
+      "bytes": 83,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/dependence-audit.json",
+      "sha256": "ba20fe609e283379d8d0a7d55944ec5905748953dab510293c3b5d5034100fd0",
+      "bytes": 9357,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/dependence_audit.py",
+      "sha256": "7f9caba24248c24020bc756dbf66b124ab9e02e021c5e10a50bd620fd629acc0",
+      "bytes": 3279,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/final-coverage.json",
+      "sha256": "10ef3a9feffa993eaf350ac66ccd64b0c294f5e52c627094d338f08adb5a7e7a",
+      "bytes": 4707,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/full-read-v1/001.txt",
+      "sha256": "056a71acccf25b8c013b53df8d94dc61bd8ef871fc3406da05bb7a9bb0b5b4fb",
+      "bytes": 10093,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/full-read-v1/002.txt",
+      "sha256": "bf9f2aa0b6148110af5e1ea672735ddbed99d64be31c4c5f30f28f838eb90d7f",
+      "bytes": 12766,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/full-read-v1/003.txt",
+      "sha256": "2ebde54d495ac396a9fe0392936b92042815f2d7a27ba16b2364d763c2481b7f",
+      "bytes": 12834,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/full-read-v1/004.txt",
+      "sha256": "e840fee338af2672ce4e424126ed3148d3e077dad118bcf54be6881630232a69",
+      "bytes": 13066,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/full-read-v1/005.txt",
+      "sha256": "3ae7be4e772e340bfd454030d5b5c3a7dc8d909efbde956bba3ae3c35691736d",
+      "bytes": 12178,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/full-read-v1/006.txt",
+      "sha256": "0f8d357dfdc759d70093d05f5119f6e365f014bd75b5d692c10b61705a1ec59d",
+      "bytes": 11504,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/full-read-v1/007.txt",
+      "sha256": "0f7a33531ab6a9cad9aa60d566cd56ff62d8215f476089f4ac9766cd6f009b23",
+      "bytes": 10402,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/full-read-v1/008.txt",
+      "sha256": "f11f6746557ce78d789c0d03d29409db90a016dce8b4fe6d6df0950e09aa1779",
+      "bytes": 13070,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/full-read-v1/009.txt",
+      "sha256": "ec1d812a812c66a8699375e5f2979ad8d1afda704bc088a7fa1f3413d5c1dd20",
+      "bytes": 2501,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/full-read-v1/manifest.json",
+      "sha256": "de864b9e7c79bebc0768f2f53a157427ec4530aedb209eb6676a3d708264eb53",
+      "bytes": 4074,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/full-reading.jsonl",
+      "sha256": "21951d93f4d7e20f3c4cfbbabd65757b687e3306a76d8bf84b76aee6dfd0752c",
+      "bytes": 4165,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/full_reader.py",
+      "sha256": "085215f6761a178b1142efa050a99d9d56d95717ee15ffd5804f1bd7e097b324",
+      "bytes": 3981,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/interpretation-corrections.jsonl",
+      "sha256": "755183162a4284d4c302dc585feb6233dee451c4e25f812c29d56ad7845791d7",
+      "bytes": 398,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/manual-spotchecks-reading.jsonl",
+      "sha256": "6fa657a29c26b4d26b28982bcbd053647ba7cee128a50c453450546b6bb70d01",
+      "bytes": 2509,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/manual-spotchecks-v1/001.txt",
+      "sha256": "c7666b304a734214f7dfedb0647138623c8128af176fa3bcff15647ecbc44454",
+      "bytes": 10114,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/manual-spotchecks-v1/002.txt",
+      "sha256": "be1b143dca01ba51b3572e181645599ebad56619b81729e78a782ee6611df92a",
+      "bytes": 12192,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/manual-spotchecks-v1/003.txt",
+      "sha256": "ee57a52e51f450bbfed6b8dff613af2d57885a0c5c82f955ef79f6271e796c93",
+      "bytes": 12836,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/manual-spotchecks-v1/004.txt",
+      "sha256": "0b654402f643be5f5385a2e9734156cd929d96260442dc0fb07771a6c269bfd0",
+      "bytes": 12805,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/manual-spotchecks-v1/005.txt",
+      "sha256": "b326cbb11641493938906ae14931bafe78a049bda538f9c18d01e9bf3cdfd26c",
+      "bytes": 7699,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/manual-spotchecks-v1/manifest.json",
+      "sha256": "e08bee13a1f700a242b0dbd33d65836b5efdb281fc145a50b8782eb2f7bed7e6",
+      "bytes": 2025,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/safety-context-review.json",
+      "sha256": "fa2da69f86d257571c1215244b267347990ca6fc566001d9902a278c3976a365",
+      "bytes": 4892,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/triage-checkpoint.json",
+      "sha256": "97df9ca137e9070e9296d7ef82c77135460a92897a11d19d06764c2c3fb6858a",
+      "bytes": 122,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/triage-reading.jsonl",
+      "sha256": "79d1e0741d31994ed8180da11f1111bda5e94951d179c9b2691d55e31265cfb9",
+      "bytes": 4658,
+      "ownership": "reader05"
+    },
+    {
+      "file": "scratchpad/report-purchase-supplement-05/triage_reader.py",
+      "sha256": "8ad03005a2c0a7071e5e655e20d318b83692a98f99ed627b2ebb46bef92ac8e6",
+      "bytes": 1722,
+      "ownership": "reader05"
+    },
+    {
+      "file": "sources/report-purchase-supplement-05-purchase-evidence.jsonl",
+      "sha256": "574894f7d53f35bf47091303ca7e42a99e9b3750763cc8a88b5c308b374bcc2a",
+      "bytes": 24415,
+      "ownership": "reader05"
+    },
+    {
+      "file": "sources/report-purchase-supplement-05-reading.jsonl",
+      "sha256": "a08ea7cb9b653cea920a9b57d25b1614e6ebc1a1d004b5287e4ba1ed2ec5a3ef",
+      "bytes": 29214,
+      "ownership": "reader05"
+    },
+    {
+      "file": "sources/report-purchase-supplement-05-verification.json",
+      "sha256": "6a3cd89985fa3c4ce8a2071e5fb453dd0fcad4b4c184ae8ce429d8c77d3981b8",
+      "bytes": 1002,
+      "ownership": "reader05"
+    },
+    {
+      "file": "sources/report-purchase-supplement-05.md",
+      "sha256": "4e73c72160311b49776affac8580c95744becdb7a519e167cb98148b16d49e88",
+      "bytes": 11907,
+      "ownership": "reader05"
+    },
+    {
+      "file": "synthesis/reader-notes-report-purchase-supplement-05.md",
+      "sha256": "38fc11a5db384a7976503e50fa67f85b3aba227cadd5dc58dc05ba4898381217",
+      "bytes": 10250,
+      "ownership": "reader05"
+    },
+    {
+      "file": "voice/report-purchase-supplement-05.jsonl",
+      "sha256": "758ee046382b05c16868f624de4f722e1e1abddd266617b5164be025d2b5067f",
+      "bytes": 24448,
+      "ownership": "reader05"
+    }
+  ],
+  "documentation_link_errors": [],
+  "strict_native_audit_failures": 0,
+  "copied_quote_verifier_failures": 0,
+  "manual_random_full_context_checks": 20,
+  "utc": "2026-10-24T21:00:19.120465+00:00"
+}

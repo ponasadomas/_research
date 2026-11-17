@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 20:45:41 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "CF-Ray": "a4fbd39c7e20b80f-RIX",
+    "CF-Cache-Status": "HIT",
+    "Cache-Control": "public,max-age=0,must-revalidate",
+    "x-seen-by": "bQAXdg/f3pWGCb3VI6q72A==,",
+    "Content-Language": "en-US",
+    "ETag": "W/\"06c8e2bd6f2e45b39d0037dd43800957\"",
+    "Link": "<https://static.parastorage.com/>; rel=preconnect; crossorigin, <https://static.parastorage.com/>; rel=preconnect, <https://static.wixstatic.com/>; rel=preconnect; crossorigin, <https://static.wixstatic.com/>; rel=preconnect, <https://siteassets.parastorage.com>; rel=preconnect; crossorigin",
+    "Server": "cloudflare",
+    "x-wix-request-id": "1792874741.201325620416898855",
+    "Strict-Transport-Security": "max-age=31556952",
+    "Vary": "Accept-Encoding",
+    "server-timing": "cache;desc=miss, varnish;desc=miss_hit, dc;desc=cloudflare",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "RIX",
+    "Set-Cookie": "ssr-caching=cache#desc=miss#varnish=miss_hit#dc#desc=cloudflare; Max-Age=20, sec-fetch-unsupported=1; Path=/; Secure; SameSite=Lax;, __cf_bm=JKEXeuSugjLRlL0GzFJNG3BaD9PA5D_wNNvmbZuG_R4-1792874741.1965706-1.0.1.1-759fWmcClejTmhGSGCUIR9CRD7exx_uT_urZlALVaKAq5PPHqO8LzbEpNtzyFjv7jFw52ESgS3WkIhR0hWqY.Xp9rPrhJRLnP.Y9kr0KrvSmv1a1aUVwQnVSsWmXRqaU; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.nestingnotesco.com; Expires=Sat, 24 Oct 2026 21:15:41 GMT",
+    "Content-Encoding": "gzip",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "history": []
+}

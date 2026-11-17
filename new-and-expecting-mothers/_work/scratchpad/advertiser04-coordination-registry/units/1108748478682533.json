@@ -1,0 +1,116 @@
+{
+  "ad_id": "1108748478682533",
+  "page_id": "186268468076113",
+  "page_name": "Babylist",
+  "snapshot_page_id": "186268468076113",
+  "snapshot_page_name": "Babylist",
+  "snapshot_identity_differs": false,
+  "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/025-babylist-page.json",
+  "source_file_sha256": "dde70e8c18f3207f84afe706c6f2755c427dfe16d758878c6a2e475652c6807b",
+  "captured_at": "2026-10-24T21:52:19.573Z",
+  "native_is_active": true,
+  "start_timestamp": 1792047600,
+  "start_utc": "2026-10-15T07:00:00+00:00",
+  "displayed_start_date": "Oct 15, 2026",
+  "collation_id": null,
+  "collation_count": null,
+  "display_format": "DPA",
+  "primary_destination": "https://www.babylist.com/registry/new",
+  "card_destinations": [
+    "https://www.babylist.com/gp/philips-avent-glass-natural-bottle-baby-set/24133/1006493",
+    "https://www.babylist.com/gp/philips-avent-natural-baby-bottle-newborn-starter-gift-set/24134/1006494",
+    "https://www.babylist.com/gp/oxo-tot-bottle-brush-with-stand/22578/1005339",
+    "https://www.babylist.com/gp/philips-avent-natural-baby-bottle-with-natural-response-nipple/24594/1006492",
+    "https://www.babylist.com/gp/philips-avent-anti-colic-baby-bottle-with-airfree-vent-essentials-gift-set/24129/1006485",
+    "https://www.babylist.com/gp/philips-avent-anti-colic-bottle-with-airfree-vent/24126/1006479"
+  ],
+  "native_body_sha256": "abb9a985e274345c18223131e8597cfc5b189ddf19b126424ed0e9082993970f",
+  "native_text_bundle_sha256": "8a98741e805ef0b0e79225b80dcc486d1517ccd011006460db4d0f586a359970",
+  "native_ad_sha256": "897749f74d4079689dd8e0dfaa78f5af56b7910dac3c27dcaae26b1f23f3d01a",
+  "text_bundle": {
+    "body": "Meet the baby registry that lets you register for ANYTHING you could possibly want. Moccasins from Etsy? Lactation cookies from Amazon? Maternity Leave Cash Fund? Check, check, and check.\n\nStart your registry now!",
+    "top": {
+      "caption": "babylist.com",
+      "cta_text": "Learn more",
+      "cta_type": "LEARN_MORE",
+      "title": "Register for {{product.name}}",
+      "link_description": null,
+      "link_url": "https://www.babylist.com/registry/new",
+      "display_format": "DPA",
+      "byline": null,
+      "disclaimer_label": null,
+      "additional_info": null,
+      "extra_links": [],
+      "extra_texts": [],
+      "branded_content": null,
+      "root_reshared_post": null
+    },
+    "cards": [
+      {
+        "body": "Meet the baby registry that lets you register for ANYTHING you could possibly want. Moccasins from Etsy? Lactation cookies from Amazon? Maternity Leave Cash Fund? Check, check, and check.\n\nStart your registry now!",
+        "caption": "babylist.com",
+        "title": "Register for Philips Avent Glass Natural Bottle Baby Set",
+        "link_description": "Start your Babylist registry. Sign up to add any item from any store. Create an account today.",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://www.babylist.com/gp/philips-avent-glass-natural-bottle-baby-set/24133/1006493"
+      },
+      {
+        "body": "Meet the baby registry that lets you register for ANYTHING you could possibly want. Moccasins from Etsy? Lactation cookies from Amazon? Maternity Leave Cash Fund? Check, check, and check.\n\nStart your registry now!",
+        "caption": "babylist.com",
+        "title": "Register for Philips Avent Natural Baby Bottle Newborn Starter Gift Set",
+        "link_description": "Start your Babylist registry. Sign up to add any item from any store. Create an account today.",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://www.babylist.com/gp/philips-avent-natural-baby-bottle-newborn-starter-gift-set/24134/1006494"
+      },
+      {
+        "body": "Meet the baby registry that lets you register for ANYTHING you could possibly want. Moccasins from Etsy? Lactation cookies from Amazon? Maternity Leave Cash Fund? Check, check, and check.\n\nStart your registry now!",
+        "caption": "babylist.com",
+        "title": "Register for OXO Tot Bottle Brush with Stand in Sage",
+        "link_description": "Start your Babylist registry. Sign up to add any item from any store. Create an account today.",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://www.babylist.com/gp/oxo-tot-bottle-brush-with-stand/22578/1005339"
+      },
+      {
+        "body": "Meet the baby registry that lets you register for ANYTHING you could possibly want. Moccasins from Etsy? Lactation cookies from Amazon? Maternity Leave Cash Fund? Check, check, and check.\n\nStart your registry now!",
+        "caption": "babylist.com",
+        "title": "Register for Philips Avent Natural Baby Bottle with Natural Response Nipple Size 9 oz",
+        "link_description": "Start your Babylist registry. Sign up to add any item from any store. Create an account today.",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://www.babylist.com/gp/philips-avent-natural-baby-bottle-with-natural-response-nipple/24594/1006492"
+      },
+      {
+        "body": "Meet the baby registry that lets you register for ANYTHING you could possibly want. Moccasins from Etsy? Lactation cookies from Amazon? Maternity Leave Cash Fund? Check, check, and check.\n\nStart your registry now!",
+        "caption": "babylist.com",
+        "title": "Register for Philips Avent Anti-colic Baby Bottle with AirFree Vent Essentials Gift Set",
+        "link_description": "Start your Babylist registry. Sign up to add any item from any store. Create an account today.",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://www.babylist.com/gp/philips-avent-anti-colic-baby-bottle-with-airfree-vent-essentials-gift-set/24129/1006485"
+      },
+      {
+        "body": "Meet the baby registry that lets you register for ANYTHING you could possibly want. Moccasins from Etsy? Lactation cookies from Amazon? Maternity Leave Cash Fund? Check, check, and check.\n\nStart your registry now!",
+        "caption": "babylist.com",
+        "title": "Register for Philips Avent Anti-colic Bottle with AirFree Vent Size 4 oz",
+        "link_description": "Start your Babylist registry. Sign up to add any item from any store. Create an account today.",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://www.babylist.com/gp/philips-avent-anti-colic-bottle-with-airfree-vent/24126/1006479"
+      }
+    ]
+  },
+  "excluded_card_media_fields": [
+    "image_crops",
+    "original_image_url",
+    "resized_image_url",
+    "video_hd_url",
+    "video_preview_image_url",
+    "video_sd_url",
+    "watermarked_resized_image_url",
+    "watermarked_video_hd_url",
+    "watermarked_video_sd_url"
+  ]
+}

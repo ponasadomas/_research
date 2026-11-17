@@ -1,0 +1,105 @@
+{
+  "exact_groups": [
+    {
+      "group": 2,
+      "post_ids": [
+        "1lwd724",
+        "1lwd8k0"
+      ],
+      "representative_assigned_post_id": "1lwd724",
+      "earliest_archived_post_id": "1lwd724",
+      "all_bodies_human_read": true,
+      "representative_rule": "Earliest assigned copy, only one quoted work; earlier outside-assignment copies remain unquoted, separately inspected.",
+      "quoted_ids": [
+        "rcb03-0010"
+      ],
+      "independent_work_count": 1,
+      "identity_verified": false
+    },
+    {
+      "group": 5,
+      "post_ids": [
+        "1ls5hd0",
+        "1ls5fpr"
+      ],
+      "representative_assigned_post_id": "1ls5fpr",
+      "earliest_archived_post_id": "1ls5fpr",
+      "all_bodies_human_read": true,
+      "representative_rule": "Earliest assigned copy, only one quoted work; earlier outside-assignment copies remain unquoted, separately inspected.",
+      "quoted_ids": [],
+      "independent_work_count": 1,
+      "identity_verified": false
+    },
+    {
+      "group": 6,
+      "post_ids": [
+        "1lthird",
+        "1lthjkf"
+      ],
+      "representative_assigned_post_id": "1lthjkf",
+      "earliest_archived_post_id": "1lthird",
+      "all_bodies_human_read": true,
+      "representative_rule": "Earliest assigned copy, only one quoted work; earlier outside-assignment copies remain unquoted, separately inspected.",
+      "quoted_ids": [
+        "rcb03-0017"
+      ],
+      "independent_work_count": 1,
+      "identity_verified": false
+    },
+    {
+      "group": 7,
+      "post_ids": [
+        "1ltq5ow",
+        "1ltrqcm"
+      ],
+      "representative_assigned_post_id": "1ltrqcm",
+      "earliest_archived_post_id": "1ltq5ow",
+      "all_bodies_human_read": true,
+      "representative_rule": "Earliest assigned copy, only one quoted work; earlier outside-assignment copies remain unquoted, separately inspected.",
+      "quoted_ids": [],
+      "independent_work_count": 1,
+      "identity_verified": false
+    },
+    {
+      "group": 13,
+      "post_ids": [
+        "1m4lyol",
+        "1m4m2pi"
+      ],
+      "representative_assigned_post_id": "1m4lyol",
+      "earliest_archived_post_id": "1m4lyol",
+      "all_bodies_human_read": true,
+      "representative_rule": "Earliest assigned copy, only one quoted work; earlier outside-assignment copies remain unquoted, separately inspected.",
+      "quoted_ids": [],
+      "independent_work_count": 1,
+      "identity_verified": false
+    },
+    {
+      "group": 16,
+      "post_ids": [
+        "1lt67ao",
+        "1lt68ba"
+      ],
+      "representative_assigned_post_id": "1lt67ao",
+      "earliest_archived_post_id": "1lt67ao",
+      "all_bodies_human_read": true,
+      "representative_rule": "Earliest assigned copy, only one quoted work; earlier outside-assignment copies remain unquoted, separately inspected.",
+      "quoted_ids": [],
+      "independent_work_count": 1,
+      "identity_verified": false
+    }
+  ],
+  "near_repeat_groups": [
+    {
+      "post_ids": [
+        "1m0ul9d",
+        "1m1068a"
+      ],
+      "human_review": "Substantially repeated toddler/inlaw account with edits; both fully read and excluded for safeguarding. No quote or independent corroboration.",
+      "independent_work_count": 1
+    }
+  ],
+  "all_touching_kept_flags_reviewed": true,
+  "additional_duplicate_only_inspections": 5,
+  "additional_inspections_not_added_to_assigned203": true
+}

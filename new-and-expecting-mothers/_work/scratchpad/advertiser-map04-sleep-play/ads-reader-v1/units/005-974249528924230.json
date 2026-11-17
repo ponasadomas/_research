@@ -1,0 +1,93 @@
+{
+  "ad_id": "974249528924230",
+  "advertiser": "Lovevery",
+  "page_id": "1859617107640244",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/005-lovevery-page.json",
+  "capture_sha256": "90a8b882dbb1767b9749a6e1fc440e0cf6a15ce0443a164b39221c0ba9fae64d",
+  "native_pointer": "connections[0].edges[4].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=1859617107640244",
+  "captured_at": "2026-10-24T21:46:30.893Z",
+  "is_active": true,
+  "start_utc": "2026-06-06T07:00:00+00:00",
+  "display_format": "DPA",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=974249528924230",
+  "snapshot_sha256": "04bc313d3bce4d6ddbe8ddde1071d73a249b9d627b7f8737fb62a34b0d3b6cbc",
+  "text_fields": {
+    "body": {
+      "text": "POV: your baby is fully entertained, and you suddenly remember you’re a person too.\n\nLovevery Play Kits = toys designed by experts to actually hold your child’s attention with play that matches their stage."
+    },
+    "title": "{{product.name}}",
+    "caption": "lovevery.com",
+    "link_description": null,
+    "link_url": "https://lovevery.com/products/the-play-kits-the-looker",
+    "cta_text": "Shop now",
+    "cta_type": "SHOP_NOW",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": [
+      {
+        "body": "POV: your baby is fully entertained, and you suddenly remember you’re a person too.\n\nLovevery Play Kits = toys designed by experts to actually hold your child’s attention with play that matches their stage.",
+        "title": "Months 9-10: The Explorer Play Kit",
+        "caption": "lovevery.com",
+        "link_description": "",
+        "link_url": "https://lovevery.com/products/the-play-kits-the-explorer",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      },
+      {
+        "body": "POV: your baby is fully entertained, and you suddenly remember you’re a person too.\n\nLovevery Play Kits = toys designed by experts to actually hold your child’s attention with play that matches their stage.",
+        "title": "The Thinker Play Kit",
+        "caption": "lovevery.com",
+        "link_description": "",
+        "link_url": "https://lovevery.com/products/the-play-kits-the-thinker",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      },
+      {
+        "body": "POV: your baby is fully entertained, and you suddenly remember you’re a person too.\n\nLovevery Play Kits = toys designed by experts to actually hold your child’s attention with play that matches their stage.",
+        "title": "Months 5-6: The Senser Play Kit",
+        "caption": "lovevery.com",
+        "link_description": "",
+        "link_url": "https://lovevery.com/products/the-play-kits-the-senser",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      },
+      {
+        "body": "POV: your baby is fully entertained, and you suddenly remember you’re a person too.\n\nLovevery Play Kits = toys designed by experts to actually hold your child’s attention with play that matches their stage.",
+        "title": "Months 3-4: The Charmer Play Kit",
+        "caption": "lovevery.com",
+        "link_description": "",
+        "link_url": "https://lovevery.com/products/the-play-kits-the-charmer",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      },
+      {
+        "body": "POV: your baby is fully entertained, and you suddenly remember you’re a person too.\n\nLovevery Play Kits = toys designed by experts to actually hold your child’s attention with play that matches their stage.",
+        "title": "Weeks 0-12: The Looker Play Kit",
+        "caption": "lovevery.com",
+        "link_description": "",
+        "link_url": "https://lovevery.com/products/the-play-kits-the-looker",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      },
+      {
+        "body": "POV: your baby is fully entertained, and you suddenly remember you’re a person too.\n\nLovevery Play Kits = toys designed by experts to actually hold your child’s attention with play that matches their stage.",
+        "title": "Months 7-8: The Inspector Play Kit",
+        "caption": "lovevery.com",
+        "link_description": "",
+        "link_url": "https://lovevery.com/products/the-play-kits-the-inspector",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      }
+    ]
+  },
+  "text_fields_sha256": "1e22a18d6aa65158dfc59c80b1f62bc1686b80b88854a27df11e3f67659569c6",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 0,
+  "cards_count": 6
+}

@@ -1,0 +1,19 @@
+{
+  "corrections": [
+    {
+      "id": "odeep04-0031",
+      "old_speaker": "expecting_mother",
+      "new_speaker": "parent_unspecified",
+      "reason": "Parent spot-check found pregnancy/feeding context but no explicit maternal self-identification in same-author posts; conservative speaker label."
+    },
+    {
+      "id": "odeep04-0053",
+      "old_speaker": "expecting_mother",
+      "new_speaker": "parent_unspecified",
+      "reason": "Parent spot-check found pregnancy/feeding context but no explicit maternal self-identification in same-author posts; conservative speaker label."
+    }
+  ],
+  "previous_voice_sha256": "51e84e8046427eb41769cfbae24f0e2a9b186acb8374df3898c3dd3f34716f95",
+  "current_voice_sha256": "8b6c07a4dd70ef00aec1ec18b4aeb7b53f2c4a21bb57e2c21e738ccd6130afa3",
+  "ids_quotes_raw_unchanged": true
+}

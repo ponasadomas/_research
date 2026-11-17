@@ -1,0 +1,169 @@
+{
+  "assignment_file": "_raw/report-purchase-archive-wave03/supplement-v1/assignments/reader-05.json",
+  "triage_file": "_raw/report-purchase-archive-wave03/supplement-v1/triage-05.tsv",
+  "triage_sha256": "d728d26fc162bff6268ce2fe0a26d978f956816258fe8a8b36e83955a66cdaab",
+  "kept_post_ids": [
+    "1oobkf2",
+    "1opj00j",
+    "1oq2t8a",
+    "1ouah0y",
+    "1ovc0om",
+    "1oz81jq",
+    "1p3e60b",
+    "1p4mc3w",
+    "1p4vvu9",
+    "1p4z6gk",
+    "1p6d9e1",
+    "1p80cmn",
+    "1p80kyp",
+    "1p8faq3",
+    "1p9lp9e",
+    "1panay5",
+    "1pc1y6t",
+    "1pccd9q",
+    "1pcu61m",
+    "1pdmxes",
+    "1pe48sm",
+    "1pekehv",
+    "1pfdfde",
+    "1pgpxwe",
+    "1pjcgbh",
+    "1pknn82",
+    "1plhd3s",
+    "1plpc92",
+    "1pls85u",
+    "1pmiqt5",
+    "1pnoepf",
+    "1po7mq5",
+    "1poj9rb",
+    "1ppfcii",
+    "1ppp4iy",
+    "1pq1rkx",
+    "1pqm10s",
+    "1pqt6qw",
+    "1pr8ya9",
+    "1pseeiv",
+    "1psxuha",
+    "1ptk8vz",
+    "1pu3eik"
+  ],
+  "views": [
+    {
+      "view": 1,
+      "file": "scratchpad/report-purchase-supplement-05/full-read-v1/001.txt",
+      "post_ids": [
+        "1oobkf2",
+        "1opj00j",
+        "1oq2t8a",
+        "1ouah0y",
+        "1ovc0om",
+        "1oz81jq"
+      ],
+      "utf8_bytes": 10093,
+      "sha256": "056a71acccf25b8c013b53df8d94dc61bd8ef871fc3406da05bb7a9bb0b5b4fb"
+    },
+    {
+      "view": 2,
+      "file": "scratchpad/report-purchase-supplement-05/full-read-v1/002.txt",
+      "post_ids": [
+        "1p3e60b",
+        "1p4mc3w",
+        "1p4vvu9",
+        "1p4z6gk",
+        "1p6d9e1"
+      ],
+      "utf8_bytes": 12766,
+      "sha256": "bf9f2aa0b6148110af5e1ea672735ddbed99d64be31c4c5f30f28f838eb90d7f"
+    },
+    {
+      "view": 3,
+      "file": "scratchpad/report-purchase-supplement-05/full-read-v1/003.txt",
+      "post_ids": [
+        "1p80cmn",
+        "1p80kyp",
+        "1p8faq3",
+        "1p9lp9e",
+        "1panay5",
+        "1pc1y6t"
+      ],
+      "utf8_bytes": 12834,
+      "sha256": "2ebde54d495ac396a9fe0392936b92042815f2d7a27ba16b2364d763c2481b7f"
+    },
+    {
+      "view": 4,
+      "file": "scratchpad/report-purchase-supplement-05/full-read-v1/004.txt",
+      "post_ids": [
+        "1pccd9q",
+        "1pcu61m",
+        "1pdmxes",
+        "1pe48sm",
+        "1pekehv",
+        "1pfdfde"
+      ],
+      "utf8_bytes": 13066,
+      "sha256": "e840fee338af2672ce4e424126ed3148d3e077dad118bcf54be6881630232a69"
+    },
+    {
+      "view": 5,
+      "file": "scratchpad/report-purchase-supplement-05/full-read-v1/005.txt",
+      "post_ids": [
+        "1pgpxwe",
+        "1pjcgbh",
+        "1pknn82",
+        "1plhd3s",
+        "1plpc92"
+      ],
+      "utf8_bytes": 12178,
+      "sha256": "3ae7be4e772e340bfd454030d5b5c3a7dc8d909efbde956bba3ae3c35691736d"
+    },
+    {
+      "view": 6,
+      "file": "scratchpad/report-purchase-supplement-05/full-read-v1/006.txt",
+      "post_ids": [
+        "1pls85u",
+        "1pmiqt5",
+        "1pnoepf"
+      ],
+      "utf8_bytes": 11504,
+      "sha256": "0f8d357dfdc759d70093d05f5119f6e365f014bd75b5d692c10b61705a1ec59d"
+    },
+    {
+      "view": 7,
+      "file": "scratchpad/report-purchase-supplement-05/full-read-v1/007.txt",
+      "post_ids": [
+        "1po7mq5",
+        "1poj9rb",
+        "1ppfcii",
+        "1ppp4iy",
+        "1pq1rkx",
+        "1pqm10s"
+      ],
+      "utf8_bytes": 10402,
+      "sha256": "0f7a33531ab6a9cad9aa60d566cd56ff62d8215f476089f4ac9766cd6f009b23"
+    },
+    {
+      "view": 8,
+      "file": "scratchpad/report-purchase-supplement-05/full-read-v1/008.txt",
+      "post_ids": [
+        "1pqt6qw",
+        "1pr8ya9",
+        "1pseeiv",
+        "1psxuha",
+        "1ptk8vz"
+      ],
+      "utf8_bytes": 13070,
+      "sha256": "f11f6746557ce78d789c0d03d29409db90a016dce8b4fe6d6df0950e09aa1779"
+    },
+    {
+      "view": 9,
+      "file": "scratchpad/report-purchase-supplement-05/full-read-v1/009.txt",
+      "post_ids": [
+        "1pu3eik"
+      ],
+      "utf8_bytes": 2501,
+      "sha256": "ec1d812a812c66a8699375e5f2979ad8d1afda704bc088a7fa1f3413d5c1dd20"
+    }
+  ],
+  "full_body_preservation": true,
+  "comment_sources_unavailable": true
+}

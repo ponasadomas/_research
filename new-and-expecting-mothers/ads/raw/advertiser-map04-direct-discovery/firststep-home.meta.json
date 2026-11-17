@@ -1,0 +1,31 @@
+{
+  "requested_url": "https://www.firststepmethod.com/",
+  "final_url": "https://firststepmethod.com/",
+  "status": 200,
+  "date_utc": "2026-10-24T22:10:18.729009+00:00",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 22:10:18 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "vary": "Accept-Encoding",
+    "x-powered-by": "PHP/8.2.35",
+    "link": "<https://firststepmethod.com/wp-json/>; rel=\"https://api.w.org/\", <https://firststepmethod.com/wp-json/wp/v2/pages/23>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://firststepmethod.com/>; rel=shortlink",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=xbNi7Ej7Ygr8OqDEdK%2BZiLaaWxCCRjXTBU3p4uHpbo%2Btgc8LVDkMrGLVKM4vtk2bfK%2FiqF8QKo7ajIwuFMIEMYr65wGBJrwpMXK%2Fx%2BxQDEq3%2B%2B8Jg7b1PXOxdEiC73yx%2BJn8au7X\"}]}",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "zstd",
+    "CF-RAY": "a4fc4f868dd9a885-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "redirects": [
+    {
+      "url": "https://www.firststepmethod.com/",
+      "status": 301
+    }
+  ],
+  "raw_file": "_raw/advertiser-map04-direct-discovery/firststep-home.body",
+  "sha256": "2e98cae1b7000333bcddef49a1aee22822850cd0f6d7f275ac7295e795489785",
+  "bytes": 261256
+}

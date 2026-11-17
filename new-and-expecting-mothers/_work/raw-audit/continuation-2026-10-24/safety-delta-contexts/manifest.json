@@ -1,0 +1,60 @@
+{
+  "quote_ids": [
+    "rad06-0041",
+    "rad08-0001",
+    "rad08-0003",
+    "rad08-0005",
+    "rad08-0014"
+  ],
+  "chunks": [
+    {
+      "chunk": 1,
+      "path": "_raw/audit/continuation-2026-10-24/safety-delta-contexts/contexts-01.txt",
+      "sha256": "a58c784110975446e7ed40ed021c75d9f671c142d0f7f53315cc1722ce670e69",
+      "sources": [
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pceljv.txt",
+          "quote_ids": [
+            "rad06-0041"
+          ],
+          "raw_sha256": "f69a42aa417d1ce73721b7100045d432861acee154fb9177326083d01d50046e"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1oax05z.txt",
+          "quote_ids": [
+            "rad08-0001"
+          ],
+          "raw_sha256": "18ae287034fd239826a46755b1bfba24a549809d96014640ac8bb5717f18679c"
+        }
+      ]
+    },
+    {
+      "chunk": 2,
+      "path": "_raw/audit/continuation-2026-10-24/safety-delta-contexts/contexts-02.txt",
+      "sha256": "4b74a8040c2c9679b1461f78615989d1fc4eda6d5eee51c43aec3f99f1b87f5c",
+      "sources": [
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1obp3ha.txt",
+          "quote_ids": [
+            "rad08-0003"
+          ],
+          "raw_sha256": "354fa773674bc18316ac9afd29da1c4b2e930e1ccc4b15e00f76e19560daee41"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ogazwz.txt",
+          "quote_ids": [
+            "rad08-0005"
+          ],
+          "raw_sha256": "8c00bbdecd1ad34cce8da9d66e367ae48b857519fa26cab72e34b14a72716e16"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1or1uok.txt",
+          "quote_ids": [
+            "rad08-0014"
+          ],
+          "raw_sha256": "384efe1a8fe6fec55d7edbb5aa7c87fe8e92578bd0faec093c33e4c1cc552084"
+        }
+      ]
+    }
+  ]
+}

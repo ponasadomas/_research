@@ -1,0 +1,12 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "101beforeone",
+  "captured_at": "2026-10-24T21:56:43.278Z",
+  "suggestions": "ge/\"\n  uid=56_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=56_1 generic description=\"Search for exact phrase 101beforeone \"101beforeone\" Search this exact phrase\"\n      uid=56_2 button \"Search for exact phrase 101beforeone\"\n    uid=56_3 generic description=\"101 before one @101beforeone· 104.5K follow this · Education @101beforeone· 468.4K followers\"\n",
+  "candidates": [
+    {
+      "uid": "56_3",
+      "description": "101 before one @101beforeone· 104.5K follow this · Education @101beforeone· 468.4K followers"
+    }
+  ]
+}

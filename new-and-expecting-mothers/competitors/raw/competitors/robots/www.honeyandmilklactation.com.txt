@@ -1,0 +1,64 @@
+SOURCE: https://www.honeyandmilklactation.com/robots.txt
+HTTP: 200
+ERROR: 
+
+# Honey & Milk Lactation - robots.txt
+# https://www.honeyandmilklactation.com
+
+# ===== ALL CRAWLERS =====
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /.env
+Disallow: /node_modules/
+Disallow: /utils/
+Disallow: /middlewares/
+Disallow: /controllers/
+Disallow: /data/
+Crawl-delay: 1
+
+# ===== GOOGLE =====
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Googlebot-Image
+Allow: /assets/images/
+
+# ===== BING =====
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# ===== AI CRAWLERS — explicitly welcomed =====
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# ===== SITEMAPS =====
+Sitemap: https://www.honeyandmilklactation.com/sitemap.xml
+Sitemap: https://www.honeyandmilklactation.com/sitemap-images.xml

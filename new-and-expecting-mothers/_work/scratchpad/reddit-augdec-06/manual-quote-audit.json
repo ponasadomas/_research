@@ -1,0 +1,17 @@
+{
+  "review_date": "2026-10-24",
+  "all_44_selected_quotes_contexts_and_roles_reviewed": true,
+  "names_or_usernames_in_quote_or_context": 0,
+  "source_comparison_sample_method": "Deterministic random sample of20 using seed6, displayed with own original surrounding body; inspected by reader after all186 complete bodies were read.",
+  "source_comparison_sample_ids": ["rad06-0037", "rad06-0006", "rad06-0032", "rad06-0017", "rad06-0003", "rad06-0001", "rad06-0010", "rad06-0031", "rad06-0024", "rad06-0021", "rad06-0002", "rad06-0018", "rad06-0042", "rad06-0026", "rad06-0007", "rad06-0036", "rad06-0028", "rad06-0014", "rad06-0033", "rad06-0044"],
+  "sample_findings": "All20 own-body quotes and surrounding meaning match. Constraint, hypothetical-interest and payment distinctions retained. Remote-monitoring account remains research-only. Book gift age and uncertain baby age remain conservative. No name/user handle selected.",
+  "safety_regex": "suicid|self.harm|kill|violenc|abuse|chok|allerg|reflux|death|died|minor|safe|cry|nurs|feed|birth|sleep|pump",
+  "safety_quote_hits_reviewed": [
+    {"id":"rad06-0017", "decision":"Ordinary shared-care schedule question, no individualized infant care protocol or guaranteed sleep result."},
+    {"id":"rad06-0028", "decision":"Advertising-induced doubt, no clinical or safety recommendation."},
+    {"id":"rad06-0041", "decision":"Bounded objection to repeatedly suggested intervention; own outcome is unverified and no general efficacy conclusion follows."}
+  ],
+  "research_only_review": {"id":"rad06-0018", "decision":"Remote service-booking claim is not a paid information/report sale; breathing detection and safety/efficacy claims excluded. Promotional tone and authenticity unverified."},
+  "attribution_review": "All44 actual native authors, UTC dates and exact original permalinks checked by native audit; only explicitly established partner role differs from parent_unspecified. Few-month age changed to unknown.",
+  "source_boundaries": "All assigned original text was read. No comment sources exist for the two assigned communities, no external linked image/page content or non-OP comments claimed. No source rewritten."
+}

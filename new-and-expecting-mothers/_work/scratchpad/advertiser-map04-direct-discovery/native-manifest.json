@@ -1,0 +1,1095 @@
+{
+  "units": [
+    {
+      "ad_id": "1762465444948789",
+      "advertiser": "First Step Method",
+      "page_id": "124737507587747",
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/062-baby-development-plan-discovery.json",
+      "capture_sha256": "1310ed8b075eb7484a2aac28154a53034b9aa3eb89095be4cf75b04ac51aa76f",
+      "native_pointer": "connections[0].edges[0].node.collated_results[0]",
+      "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&q=%22baby%20development%22&search_type=keyword_exact_phrase&sort_data[mode]=total_impressions&sort_data[direction]=desc",
+      "captured_at": "2026-10-24T22:08:43.760Z",
+      "kind": "category_discovery",
+      "is_active": true,
+      "start_date": 1783407600,
+      "snapshot_sha256": "ea42cf57bddf3b41ac88bb6c30f9ed54cf502dc81207642ccd3a5f12c5226589",
+      "native_body_text_sha256": "ab0eecc4aea87bab8bb144527676cc3ff558d0cf01f4300e18665f430cb73269",
+      "text_fields": {
+        "body": {
+          "text": "How can you encourage comfortable head lifting?\n\nIn this video, we’re demonstrating one of the techniques we teach our students to encourage head lifting by positioning the baby on a parent’s legs.\n\nHead lifting is one of the first developmental milestones, but every baby reaches it in their own way and at their own pace.\n\nThis exercise can help make tummy time more comfortable while gently encouraging babies to lift their heads, always according to their individual abilities.\n\nAt First Step College, we don’t just teach what to do- we teach why it works, when each technique is appropriate, and how to adapt it to the unique needs of every baby.\n\nWould you like to gain a deeper understanding of baby development?\n\nIn our Baby Development Instructor Training Program, you’ll learn to understand development from the ground up, recognize each baby’s unique needs, and gain professional tools to work with babies and their families.\n\n Tap the link in our bio to learn more about our upcoming course 🩵"
+        },
+        "title": null,
+        "caption": "instagram.com",
+        "link_description": null,
+        "link_url": "http://instagram.com/firststepmethod_en",
+        "cta_text": "Visit Instagram profile",
+        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+        "byline": null,
+        "disclaimer_label": null,
+        "event": null,
+        "extra_texts": [],
+        "extra_links": [],
+        "additional_info": null,
+        "cards": []
+      },
+      "text_fields_sha256": "1bd98c4050d6b4b8d0ef808558dc053d8bf6f67ea4e81b8fa1b6bdd9419827f7",
+      "display_format": "VIDEO"
+    },
+    {
+      "ad_id": "2330981761051210",
+      "advertiser": "Good Inside Baby",
+      "page_id": "482750678569835",
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/061-sleep-plan-discovery.json",
+      "capture_sha256": "3d02fdd63743b086ede0fba7a6884e53b9bc2f875b8d8d76ff9a15e90c7d444f",
+      "native_pointer": "connections[0].edges[10].node.collated_results[0]",
+      "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&q=%22sleep%20plan%22&search_type=keyword_exact_phrase&sort_data[mode]=total_impressions&sort_data[direction]=desc",
+      "captured_at": "2026-10-24T22:08:37.344Z",
+      "kind": "category_discovery",
+      "is_active": true,
+      "start_date": 1790751600,
+      "snapshot_sha256": "ddf508ee74b910181b4779170ff4cfba29a4a391e272c3808a14faee81d5d686",
+      "native_body_text_sha256": "864278a88655406c106d98e00b59ad2a58a82fe31b7c9f89c446b54be982d60f",
+      "text_fields": {
+        "body": {
+          "text": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months."
+        },
+        "title": "Good Inside Sleep Program",
+        "caption": "goodinside.com",
+        "link_description": "Join Good Inside",
+        "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+        "cta_text": "See details",
+        "cta_type": "SEE_DETAILS",
+        "byline": null,
+        "disclaimer_label": null,
+        "event": null,
+        "extra_texts": [],
+        "extra_links": [],
+        "additional_info": null,
+        "cards": [
+          {
+            "body": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months.",
+            "title": "Good Inside Sleep Program",
+            "caption": "goodinside.com",
+            "link_description": "Join Good Inside",
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "See Details",
+            "cta_type": "SEE_DETAILS"
+          },
+          {
+            "body": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months.",
+            "title": "Good Inside Sleep Program",
+            "caption": "goodinside.com",
+            "link_description": "Join Good Inside",
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "See Details",
+            "cta_type": "SEE_DETAILS"
+          },
+          {
+            "body": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months.",
+            "title": "Good Inside Sleep Program",
+            "caption": "goodinside.com",
+            "link_description": "Join Good Inside",
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "See Details",
+            "cta_type": "SEE_DETAILS"
+          },
+          {
+            "body": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months.",
+            "title": "Good Inside Sleep Program",
+            "caption": "goodinside.com",
+            "link_description": "Join Good Inside",
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "See Details",
+            "cta_type": "SEE_DETAILS"
+          }
+        ]
+      },
+      "text_fields_sha256": "1d8ec80128825b1eb6d30e34a30c5907ac2b31ac095e244615444ae2f69fe9ec",
+      "display_format": "DCO"
+    },
+    {
+      "ad_id": "28939336319066324",
+      "advertiser": "Good Inside Baby",
+      "page_id": "482750678569835",
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/061-sleep-plan-discovery.json",
+      "capture_sha256": "3d02fdd63743b086ede0fba7a6884e53b9bc2f875b8d8d76ff9a15e90c7d444f",
+      "native_pointer": "connections[0].edges[23].node.collated_results[0]",
+      "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&q=%22sleep%20plan%22&search_type=keyword_exact_phrase&sort_data[mode]=total_impressions&sort_data[direction]=desc",
+      "captured_at": "2026-10-24T22:08:37.344Z",
+      "kind": "category_discovery",
+      "is_active": true,
+      "start_date": 1791874800,
+      "snapshot_sha256": "13c6a33f0dc1b36ae9659ba140624a14b0c10c8093ae760c2909b711ada57d6d",
+      "native_body_text_sha256": "30358c4625621a67b802f688e303ce9f0a0f53e7f447f46e9a03d1418c651c8a",
+      "text_fields": {
+        "body": {
+          "text": "Hard nights don't mean you're doing it wrong. They mean you need support that fits your baby.\n\nThe Good Inside Sleep Program supports you through every sleep challenge, from wake windows and night feeds to regressions and independent sleep."
+        },
+        "title": "Baby Sleep Support",
+        "caption": "goodinside.com",
+        "link_description": "Join Good Inside",
+        "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+        "cta_text": "See details",
+        "cta_type": "SEE_DETAILS",
+        "byline": null,
+        "disclaimer_label": null,
+        "event": null,
+        "extra_texts": [],
+        "extra_links": [],
+        "additional_info": null,
+        "cards": []
+      },
+      "text_fields_sha256": "3a109e20ec0fccc954b3832945f1b668ff067454de38c8728a48163853f15ceb",
+      "display_format": "IMAGE"
+    },
+    {
+      "ad_id": "2333647027172966",
+      "advertiser": "Good Inside Baby",
+      "page_id": "482750678569835",
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/069-goodinside-baby-page.json",
+      "capture_sha256": "342a155f4b57340f15d03cb313d9e0ad2ba22f440ef8124378d3b7aa77aa73b0",
+      "native_pointer": "connections[0].edges[0].node.collated_results[0]",
+      "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=482750678569835",
+      "captured_at": "2026-10-24T22:10:39.675Z",
+      "kind": "advertiser_page",
+      "is_active": true,
+      "start_date": 1790751600,
+      "snapshot_sha256": "4ed8df0d06457f796a32ac50d7d1689cd810074fb6fd2efabc26a563ff0e8d3a",
+      "native_body_text_sha256": "864278a88655406c106d98e00b59ad2a58a82fe31b7c9f89c446b54be982d60f",
+      "text_fields": {
+        "body": {
+          "text": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months."
+        },
+        "title": "Good Inside Sleep Program",
+        "caption": "goodinside.com",
+        "link_description": "Join Good Inside",
+        "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+        "cta_text": "Learn more",
+        "cta_type": "LEARN_MORE",
+        "byline": null,
+        "disclaimer_label": null,
+        "event": null,
+        "extra_texts": [],
+        "extra_links": [],
+        "additional_info": null,
+        "cards": [
+          {
+            "body": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months.",
+            "title": "Good Inside Sleep Program",
+            "caption": "goodinside.com",
+            "link_description": "Join Good Inside",
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "Learn More",
+            "cta_type": "LEARN_MORE"
+          },
+          {
+            "body": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months.",
+            "title": "Good Inside Sleep Program",
+            "caption": "goodinside.com",
+            "link_description": "Join Good Inside",
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "Learn More",
+            "cta_type": "LEARN_MORE"
+          },
+          {
+            "body": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months.",
+            "title": "Good Inside Sleep Program",
+            "caption": "goodinside.com",
+            "link_description": "Join Good Inside",
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "Learn More",
+            "cta_type": "LEARN_MORE"
+          }
+        ]
+      },
+      "text_fields_sha256": "b3858fdb3d735d7460db0be18fb6f22b08d8e32578922b2aad43356d01f66a23",
+      "display_format": "DCO"
+    },
+    {
+      "ad_id": "1337329074891445",
+      "advertiser": "Good Inside Baby",
+      "page_id": "482750678569835",
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/069-goodinside-baby-page.json",
+      "capture_sha256": "342a155f4b57340f15d03cb313d9e0ad2ba22f440ef8124378d3b7aa77aa73b0",
+      "native_pointer": "connections[0].edges[1].node.collated_results[0]",
+      "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=482750678569835",
+      "captured_at": "2026-10-24T22:10:39.675Z",
+      "kind": "advertiser_page",
+      "is_active": true,
+      "start_date": 1788850800,
+      "snapshot_sha256": "c73f3463f2e5e834d54c0df1f2083400b2483c26445d0542442ce4d28a47bf68",
+      "native_body_text_sha256": "e5ef04ec71cf70649cd5ee18f1ef97e087cdcf0b175871d11d62396a2ae4166f",
+      "text_fields": {
+        "body": {
+          "text": "There's no method that works for every baby. There is an approach that works for yours and it starts with understanding what’s happening, not following a checklist. Join Good Inside for sleep support built around you and your baby."
+        },
+        "title": "Newborn Sleep Support",
+        "caption": "goodinside.com",
+        "link_description": null,
+        "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+        "cta_text": "Learn more",
+        "cta_type": "LEARN_MORE",
+        "byline": null,
+        "disclaimer_label": null,
+        "event": null,
+        "extra_texts": [],
+        "extra_links": [],
+        "additional_info": null,
+        "cards": [
+          {
+            "body": "There's no method that works for every baby. There is an approach that works for yours and it starts with understanding what’s happening, not following a checklist. Join Good Inside for sleep support built around you and your baby.",
+            "title": "Newborn Sleep Support",
+            "caption": "goodinside.com",
+            "link_description": null,
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "Learn More",
+            "cta_type": "LEARN_MORE"
+          },
+          {
+            "body": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months.",
+            "title": "Good Inside Sleep Program",
+            "caption": "goodinside.com",
+            "link_description": null,
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "Learn More",
+            "cta_type": "LEARN_MORE"
+          }
+        ]
+      },
+      "text_fields_sha256": "6392eecfee22b8851b092a33f05c07389250fecccc270fcb9f2df606a0d73ba9",
+      "display_format": "DCO"
+    },
+    {
+      "ad_id": "2161844534396720",
+      "advertiser": "Good Inside Baby",
+      "page_id": "482750678569835",
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/069-goodinside-baby-page.json",
+      "capture_sha256": "342a155f4b57340f15d03cb313d9e0ad2ba22f440ef8124378d3b7aa77aa73b0",
+      "native_pointer": "connections[0].edges[2].node.collated_results[0]",
+      "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=482750678569835",
+      "captured_at": "2026-10-24T22:10:39.675Z",
+      "kind": "advertiser_page",
+      "is_active": true,
+      "start_date": 1788850800,
+      "snapshot_sha256": "151ab38407756e0581ddf60e27b21b8749359793080e893474794525ee3ee2dc",
+      "native_body_text_sha256": "864278a88655406c106d98e00b59ad2a58a82fe31b7c9f89c446b54be982d60f",
+      "text_fields": {
+        "body": {
+          "text": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months."
+        },
+        "title": "Good Inside Sleep Program",
+        "caption": "goodinside.com",
+        "link_description": "Join Good Inside",
+        "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+        "cta_text": "Learn more",
+        "cta_type": "LEARN_MORE",
+        "byline": null,
+        "disclaimer_label": null,
+        "event": null,
+        "extra_texts": [],
+        "extra_links": [],
+        "additional_info": null,
+        "cards": []
+      },
+      "text_fields_sha256": "59136453c1efb3e623d4ffeecfff253ef8c4cf91c5ab40c5060de98a10f35ca9",
+      "display_format": "VIDEO"
+    },
+    {
+      "ad_id": "1318082193566212",
+      "advertiser": "Good Inside Baby",
+      "page_id": "482750678569835",
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/069-goodinside-baby-page.json",
+      "capture_sha256": "342a155f4b57340f15d03cb313d9e0ad2ba22f440ef8124378d3b7aa77aa73b0",
+      "native_pointer": "connections[0].edges[2].node.collated_results[1]",
+      "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=482750678569835",
+      "captured_at": "2026-10-24T22:10:39.675Z",
+      "kind": "advertiser_page",
+      "is_active": true,
+      "start_date": 1788850800,
+      "snapshot_sha256": "5a8700fa847e7b0d6b9f4737c91c71f67b5af37f4459f64f0a3c99985718f533",
+      "native_body_text_sha256": "864278a88655406c106d98e00b59ad2a58a82fe31b7c9f89c446b54be982d60f",
+      "text_fields": {
+        "body": {
+          "text": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months."
+        },
+        "title": "Good Inside Sleep Program",
+        "caption": "goodinside.com",
+        "link_description": null,
+        "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+        "cta_text": "Learn more",
+        "cta_type": "LEARN_MORE",
+        "byline": null,
+        "disclaimer_label": null,
+        "event": null,
+        "extra_texts": [],
+        "extra_links": [],
+        "additional_info": null,
+        "cards": []
+      },
+      "text_fields_sha256": "bbb9988d5ff7e29e5520cf808505bdea37730f850aaa0980eba0d4c470e262ec",
+      "display_format": "VIDEO"
+    },
+    {
+      "ad_id": "2151991929003625",
+      "advertiser": "Good Inside Baby",
+      "page_id": "482750678569835",
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/069-goodinside-baby-page.json",
+      "capture_sha256": "342a155f4b57340f15d03cb313d9e0ad2ba22f440ef8124378d3b7aa77aa73b0",
+      "native_pointer": "connections[0].edges[3].node.collated_results[0]",
+      "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=482750678569835",
+      "captured_at": "2026-10-24T22:10:39.675Z",
+      "kind": "advertiser_page",
+      "is_active": true,
+      "start_date": 1791615600,
+      "snapshot_sha256": "6dffaa79ff55ec7e0614a4ea6df04617811c3b45c3a0b1ecae46f96c3e9a4feb",
+      "native_body_text_sha256": "30358c4625621a67b802f688e303ce9f0a0f53e7f447f46e9a03d1418c651c8a",
+      "text_fields": {
+        "body": {
+          "text": "Hard nights don't mean you're doing it wrong. They mean you need support that fits your baby.\n\nThe Good Inside Sleep Program supports you through every sleep challenge, from wake windows and night feeds to regressions and independent sleep."
+        },
+        "title": "Baby Sleep Support",
+        "caption": "goodinside.com",
+        "link_description": "Join Good Inside",
+        "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+        "cta_text": "Learn more",
+        "cta_type": "LEARN_MORE",
+        "byline": null,
+        "disclaimer_label": null,
+        "event": null,
+        "extra_texts": [],
+        "extra_links": [],
+        "additional_info": null,
+        "cards": []
+      },
+      "text_fields_sha256": "1ef82e9d8048bf8016bfb9bd355f157e2db874537a06636e0dd820a03d31b8a0",
+      "display_format": "IMAGE"
+    },
+    {
+      "ad_id": "1462001052467740",
+      "advertiser": "Good Inside Baby",
+      "page_id": "482750678569835",
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/069-goodinside-baby-page.json",
+      "capture_sha256": "342a155f4b57340f15d03cb313d9e0ad2ba22f440ef8124378d3b7aa77aa73b0",
+      "native_pointer": "connections[0].edges[4].node.collated_results[0]",
+      "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=482750678569835",
+      "captured_at": "2026-10-24T22:10:39.675Z",
+      "kind": "advertiser_page",
+      "is_active": true,
+      "start_date": 1788850800,
+      "snapshot_sha256": "9a2c7a906182b17580761a738cbe7ac8641387f8719c2330d78d5fbca067a732",
+      "native_body_text_sha256": "864278a88655406c106d98e00b59ad2a58a82fe31b7c9f89c446b54be982d60f",
+      "text_fields": {
+        "body": {
+          "text": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months."
+        },
+        "title": "Good Inside Sleep Program",
+        "caption": "goodinside.com",
+        "link_description": "Join Good Inside",
+        "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+        "cta_text": "Learn more",
+        "cta_type": "LEARN_MORE",
+        "byline": null,
+        "disclaimer_label": null,
+        "event": null,
+        "extra_texts": [],
+        "extra_links": [],
+        "additional_info": null,
+        "cards": []
+      },
+      "text_fields_sha256": "59136453c1efb3e623d4ffeecfff253ef8c4cf91c5ab40c5060de98a10f35ca9",
+      "display_format": "VIDEO"
+    },
+    {
+      "ad_id": "2117006635869981",
+      "advertiser": "Good Inside Baby",
+      "page_id": "482750678569835",
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/069-goodinside-baby-page.json",
+      "capture_sha256": "342a155f4b57340f15d03cb313d9e0ad2ba22f440ef8124378d3b7aa77aa73b0",
+      "native_pointer": "connections[0].edges[5].node.collated_results[0]",
+      "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=482750678569835",
+      "captured_at": "2026-10-24T22:10:39.675Z",
+      "kind": "advertiser_page",
+      "is_active": true,
+      "start_date": 1790838000,
+      "snapshot_sha256": "b68faefc5199b03a7ee3b111b4c3696e3ec6811c5b6708a4b5faeb69f8dd69b3",
+      "native_body_text_sha256": "30358c4625621a67b802f688e303ce9f0a0f53e7f447f46e9a03d1418c651c8a",
+      "text_fields": {
+        "body": {
+          "text": "Hard nights don't mean you're doing it wrong. They mean you need support that fits your baby.\n\nThe Good Inside Sleep Program supports you through every sleep challenge, from wake windows and night feeds to regressions and independent sleep."
+        },
+        "title": "Baby Sleep Support",
+        "caption": "goodinside.com",
+        "link_description": "Join Good Inside",
+        "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+        "cta_text": "Learn more",
+        "cta_type": "LEARN_MORE",
+        "byline": null,
+        "disclaimer_label": null,
+        "event": null,
+        "extra_texts": [],
+        "extra_links": [],
+        "additional_info": null,
+        "cards": []
+      },
+      "text_fields_sha256": "1ef82e9d8048bf8016bfb9bd355f157e2db874537a06636e0dd820a03d31b8a0",
+      "display_format": "IMAGE"
+    },
+    {
+      "ad_id": "2330981761051210",
+      "advertiser": "Good Inside Baby",
+      "page_id": "482750678569835",
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/069-goodinside-baby-page.json",
+      "capture_sha256": "342a155f4b57340f15d03cb313d9e0ad2ba22f440ef8124378d3b7aa77aa73b0",
+      "native_pointer": "connections[0].edges[6].node.collated_results[0]",
+      "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=482750678569835",
+      "captured_at": "2026-10-24T22:10:39.675Z",
+      "kind": "advertiser_page",
+      "is_active": true,
+      "start_date": 1790751600,
+      "snapshot_sha256": "367df071fe87ac93af18ccbbf1a66cd9d02d116a931adda0d75c349fad8b4ac0",
+      "native_body_text_sha256": "864278a88655406c106d98e00b59ad2a58a82fe31b7c9f89c446b54be982d60f",
+      "text_fields": {
+        "body": {
+          "text": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months."
+        },
+        "title": "Good Inside Sleep Program",
+        "caption": "goodinside.com",
+        "link_description": "Join Good Inside",
+        "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+        "cta_text": "See details",
+        "cta_type": "SEE_DETAILS",
+        "byline": null,
+        "disclaimer_label": null,
+        "event": null,
+        "extra_texts": [],
+        "extra_links": [],
+        "additional_info": null,
+        "cards": [
+          {
+            "body": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months.",
+            "title": "Good Inside Sleep Program",
+            "caption": "goodinside.com",
+            "link_description": "Join Good Inside",
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "See Details",
+            "cta_type": "SEE_DETAILS"
+          },
+          {
+            "body": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months.",
+            "title": "Good Inside Sleep Program",
+            "caption": "goodinside.com",
+            "link_description": "Join Good Inside",
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "See Details",
+            "cta_type": "SEE_DETAILS"
+          },
+          {
+            "body": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months.",
+            "title": "Good Inside Sleep Program",
+            "caption": "goodinside.com",
+            "link_description": "Join Good Inside",
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "See Details",
+            "cta_type": "SEE_DETAILS"
+          },
+          {
+            "body": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months.",
+            "title": "Good Inside Sleep Program",
+            "caption": "goodinside.com",
+            "link_description": "Join Good Inside",
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "See Details",
+            "cta_type": "SEE_DETAILS"
+          }
+        ]
+      },
+      "text_fields_sha256": "1d8ec80128825b1eb6d30e34a30c5907ac2b31ac095e244615444ae2f69fe9ec",
+      "display_format": "DCO"
+    },
+    {
+      "ad_id": "1642161400900265",
+      "advertiser": "Good Inside Baby",
+      "page_id": "482750678569835",
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/069-goodinside-baby-page.json",
+      "capture_sha256": "342a155f4b57340f15d03cb313d9e0ad2ba22f440ef8124378d3b7aa77aa73b0",
+      "native_pointer": "connections[0].edges[6].node.collated_results[1]",
+      "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=482750678569835",
+      "captured_at": "2026-10-24T22:10:39.675Z",
+      "kind": "advertiser_page",
+      "is_active": true,
+      "start_date": 1790751600,
+      "snapshot_sha256": "2f00e2340d25ea653940791407cf95ace8aadb22bd43c810c9817ed80ee218b8",
+      "native_body_text_sha256": "864278a88655406c106d98e00b59ad2a58a82fe31b7c9f89c446b54be982d60f",
+      "text_fields": {
+        "body": {
+          "text": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months."
+        },
+        "title": "Good Inside Sleep Program",
+        "caption": "goodinside.com",
+        "link_description": null,
+        "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+        "cta_text": "Learn more",
+        "cta_type": "LEARN_MORE",
+        "byline": null,
+        "disclaimer_label": null,
+        "event": null,
+        "extra_texts": [],
+        "extra_links": [],
+        "additional_info": null,
+        "cards": [
+          {
+            "body": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months.",
+            "title": "Good Inside Sleep Program",
+            "caption": "goodinside.com",
+            "link_description": null,
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "Learn More",
+            "cta_type": "LEARN_MORE"
+          },
+          {
+            "body": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months.",
+            "title": "Good Inside Sleep Program",
+            "caption": "goodinside.com",
+            "link_description": null,
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "Learn More",
+            "cta_type": "LEARN_MORE"
+          },
+          {
+            "body": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months.",
+            "title": "Good Inside Sleep Program",
+            "caption": "goodinside.com",
+            "link_description": null,
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "Learn More",
+            "cta_type": "LEARN_MORE"
+          },
+          {
+            "body": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months.",
+            "title": "Good Inside Sleep Program",
+            "caption": "goodinside.com",
+            "link_description": null,
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "Learn More",
+            "cta_type": "LEARN_MORE"
+          }
+        ]
+      },
+      "text_fields_sha256": "864b31082368cccbdd86e3bbb8825ec64ac025030f38121a2a74725800e78d0c",
+      "display_format": "DCO"
+    },
+    {
+      "ad_id": "1762471648398303",
+      "advertiser": "Good Inside Baby",
+      "page_id": "482750678569835",
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/069-goodinside-baby-page.json",
+      "capture_sha256": "342a155f4b57340f15d03cb313d9e0ad2ba22f440ef8124378d3b7aa77aa73b0",
+      "native_pointer": "connections[0].edges[7].node.collated_results[0]",
+      "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=482750678569835",
+      "captured_at": "2026-10-24T22:10:39.675Z",
+      "kind": "advertiser_page",
+      "is_active": true,
+      "start_date": 1789714800,
+      "snapshot_sha256": "d6faf25e20840e63da0902b3242ceb487231c28697e95ca4031fe59fda9816a5",
+      "native_body_text_sha256": "864278a88655406c106d98e00b59ad2a58a82fe31b7c9f89c446b54be982d60f",
+      "text_fields": {
+        "body": {
+          "text": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months."
+        },
+        "title": "Good Inside Sleep Program",
+        "caption": "goodinside.com",
+        "link_description": null,
+        "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+        "cta_text": "Learn more",
+        "cta_type": "LEARN_MORE",
+        "byline": null,
+        "disclaimer_label": null,
+        "event": null,
+        "extra_texts": [],
+        "extra_links": [],
+        "additional_info": null,
+        "cards": [
+          {
+            "body": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months.",
+            "title": "Good Inside Sleep Program",
+            "caption": "goodinside.com",
+            "link_description": null,
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "Learn More",
+            "cta_type": "LEARN_MORE"
+          },
+          {
+            "body": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months.",
+            "title": "Good Inside Sleep Program",
+            "caption": "goodinside.com",
+            "link_description": null,
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "Learn More",
+            "cta_type": "LEARN_MORE"
+          }
+        ]
+      },
+      "text_fields_sha256": "140e5f8d75190bff5fe6aa38ce2751716bcc042d181428238d3e5867f8008d98",
+      "display_format": "DCO"
+    },
+    {
+      "ad_id": "1697574784676006",
+      "advertiser": "Good Inside Baby",
+      "page_id": "482750678569835",
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/069-goodinside-baby-page.json",
+      "capture_sha256": "342a155f4b57340f15d03cb313d9e0ad2ba22f440ef8124378d3b7aa77aa73b0",
+      "native_pointer": "connections[0].edges[8].node.collated_results[0]",
+      "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=482750678569835",
+      "captured_at": "2026-10-24T22:10:39.675Z",
+      "kind": "advertiser_page",
+      "is_active": true,
+      "start_date": 1789714800,
+      "snapshot_sha256": "e228ccfd44cac0ae18c1d835a23d9d11abbff7ffdcc0cb89e8aff20825315c3f",
+      "native_body_text_sha256": "864278a88655406c106d98e00b59ad2a58a82fe31b7c9f89c446b54be982d60f",
+      "text_fields": {
+        "body": {
+          "text": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months."
+        },
+        "title": "Good Inside Sleep Program",
+        "caption": "goodinside.com",
+        "link_description": null,
+        "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+        "cta_text": "Learn more",
+        "cta_type": "LEARN_MORE",
+        "byline": null,
+        "disclaimer_label": null,
+        "event": null,
+        "extra_texts": [],
+        "extra_links": [],
+        "additional_info": null,
+        "cards": [
+          {
+            "body": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months.",
+            "title": "Good Inside Sleep Program",
+            "caption": "goodinside.com",
+            "link_description": null,
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "Learn More",
+            "cta_type": "LEARN_MORE"
+          },
+          {
+            "body": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months.",
+            "title": "Good Inside Sleep Program",
+            "caption": "goodinside.com",
+            "link_description": null,
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "Learn More",
+            "cta_type": "LEARN_MORE"
+          }
+        ]
+      },
+      "text_fields_sha256": "140e5f8d75190bff5fe6aa38ce2751716bcc042d181428238d3e5867f8008d98",
+      "display_format": "DCO"
+    },
+    {
+      "ad_id": "27808755218797942",
+      "advertiser": "Good Inside Baby",
+      "page_id": "482750678569835",
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/069-goodinside-baby-page.json",
+      "capture_sha256": "342a155f4b57340f15d03cb313d9e0ad2ba22f440ef8124378d3b7aa77aa73b0",
+      "native_pointer": "connections[0].edges[9].node.collated_results[0]",
+      "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=482750678569835",
+      "captured_at": "2026-10-24T22:10:39.675Z",
+      "kind": "advertiser_page",
+      "is_active": true,
+      "start_date": 1790233200,
+      "snapshot_sha256": "a2cb53829ff2a32f68270e0f37a7c10883bd3219d41734cb56522ac3263be35a",
+      "native_body_text_sha256": "864278a88655406c106d98e00b59ad2a58a82fe31b7c9f89c446b54be982d60f",
+      "text_fields": {
+        "body": {
+          "text": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months."
+        },
+        "title": "Good Inside Sleep Program",
+        "caption": "goodinside.com",
+        "link_description": null,
+        "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+        "cta_text": "Learn more",
+        "cta_type": "LEARN_MORE",
+        "byline": null,
+        "disclaimer_label": null,
+        "event": null,
+        "extra_texts": [],
+        "extra_links": [],
+        "additional_info": null,
+        "cards": [
+          {
+            "body": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months.",
+            "title": "Good Inside Sleep Program",
+            "caption": "goodinside.com",
+            "link_description": null,
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "Learn More",
+            "cta_type": "LEARN_MORE"
+          },
+          {
+            "body": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months.",
+            "title": "Good Inside Sleep Program",
+            "caption": "goodinside.com",
+            "link_description": null,
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "Learn More",
+            "cta_type": "LEARN_MORE"
+          }
+        ]
+      },
+      "text_fields_sha256": "140e5f8d75190bff5fe6aa38ce2751716bcc042d181428238d3e5867f8008d98",
+      "display_format": "DCO"
+    },
+    {
+      "ad_id": "28425859573750001",
+      "advertiser": "Good Inside Baby",
+      "page_id": "482750678569835",
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/069-goodinside-baby-page.json",
+      "capture_sha256": "342a155f4b57340f15d03cb313d9e0ad2ba22f440ef8124378d3b7aa77aa73b0",
+      "native_pointer": "connections[0].edges[10].node.collated_results[0]",
+      "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=482750678569835",
+      "captured_at": "2026-10-24T22:10:39.675Z",
+      "kind": "advertiser_page",
+      "is_active": true,
+      "start_date": 1790665200,
+      "snapshot_sha256": "57d3f220821868f28d9018b8fdc1831008b039a0c2d90f12fe88623ee8893b00",
+      "native_body_text_sha256": "30358c4625621a67b802f688e303ce9f0a0f53e7f447f46e9a03d1418c651c8a",
+      "text_fields": {
+        "body": {
+          "text": "Hard nights don't mean you're doing it wrong. They mean you need support that fits your baby.\n\nThe Good Inside Sleep Program supports you through every sleep challenge, from wake windows and night feeds to regressions and independent sleep."
+        },
+        "title": "Baby Sleep Support",
+        "caption": "goodinside.com",
+        "link_description": null,
+        "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+        "cta_text": "Learn more",
+        "cta_type": "LEARN_MORE",
+        "byline": null,
+        "disclaimer_label": null,
+        "event": null,
+        "extra_texts": [],
+        "extra_links": [],
+        "additional_info": null,
+        "cards": []
+      },
+      "text_fields_sha256": "1cc93f8b0047aeea7e1854ef65ba20c68dc4fbe0c512115d1ef87f3e82d273f6",
+      "display_format": "VIDEO"
+    },
+    {
+      "ad_id": "28939336319066324",
+      "advertiser": "Good Inside Baby",
+      "page_id": "482750678569835",
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/069-goodinside-baby-page.json",
+      "capture_sha256": "342a155f4b57340f15d03cb313d9e0ad2ba22f440ef8124378d3b7aa77aa73b0",
+      "native_pointer": "connections[0].edges[11].node.collated_results[0]",
+      "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=482750678569835",
+      "captured_at": "2026-10-24T22:10:39.675Z",
+      "kind": "advertiser_page",
+      "is_active": true,
+      "start_date": 1791874800,
+      "snapshot_sha256": "785dbab215a8d694e0bb350f51695bffc15d65d424c154f7ede25a3078e44f3a",
+      "native_body_text_sha256": "30358c4625621a67b802f688e303ce9f0a0f53e7f447f46e9a03d1418c651c8a",
+      "text_fields": {
+        "body": {
+          "text": "Hard nights don't mean you're doing it wrong. They mean you need support that fits your baby.\n\nThe Good Inside Sleep Program supports you through every sleep challenge, from wake windows and night feeds to regressions and independent sleep."
+        },
+        "title": "Baby Sleep Support",
+        "caption": "goodinside.com",
+        "link_description": "Join Good Inside",
+        "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+        "cta_text": "See details",
+        "cta_type": "SEE_DETAILS",
+        "byline": null,
+        "disclaimer_label": null,
+        "event": null,
+        "extra_texts": [],
+        "extra_links": [],
+        "additional_info": null,
+        "cards": []
+      },
+      "text_fields_sha256": "3a109e20ec0fccc954b3832945f1b668ff067454de38c8728a48163853f15ceb",
+      "display_format": "IMAGE"
+    },
+    {
+      "ad_id": "2922599128112033",
+      "advertiser": "Good Inside Baby",
+      "page_id": "482750678569835",
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/069-goodinside-baby-page.json",
+      "capture_sha256": "342a155f4b57340f15d03cb313d9e0ad2ba22f440ef8124378d3b7aa77aa73b0",
+      "native_pointer": "connections[0].edges[12].node.collated_results[0]",
+      "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=482750678569835",
+      "captured_at": "2026-10-24T22:10:39.675Z",
+      "kind": "advertiser_page",
+      "is_active": true,
+      "start_date": 1790838000,
+      "snapshot_sha256": "d0e1a75562ec86ed52df539bad15b8057a1db6df5891c01130c55b2b647195da",
+      "native_body_text_sha256": "30358c4625621a67b802f688e303ce9f0a0f53e7f447f46e9a03d1418c651c8a",
+      "text_fields": {
+        "body": {
+          "text": "Hard nights don't mean you're doing it wrong. They mean you need support that fits your baby.\n\nThe Good Inside Sleep Program supports you through every sleep challenge, from wake windows and night feeds to regressions and independent sleep."
+        },
+        "title": "Baby Sleep Support",
+        "caption": "goodinside.com",
+        "link_description": null,
+        "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+        "cta_text": "Learn more",
+        "cta_type": "LEARN_MORE",
+        "byline": null,
+        "disclaimer_label": null,
+        "event": null,
+        "extra_texts": [],
+        "extra_links": [],
+        "additional_info": null,
+        "cards": []
+      },
+      "text_fields_sha256": "1cc93f8b0047aeea7e1854ef65ba20c68dc4fbe0c512115d1ef87f3e82d273f6",
+      "display_format": "VIDEO"
+    },
+    {
+      "ad_id": "1154391017275444",
+      "advertiser": "Good Inside Baby",
+      "page_id": "482750678569835",
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/069-goodinside-baby-page.json",
+      "capture_sha256": "342a155f4b57340f15d03cb313d9e0ad2ba22f440ef8124378d3b7aa77aa73b0",
+      "native_pointer": "connections[0].edges[13].node.collated_results[0]",
+      "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=482750678569835",
+      "captured_at": "2026-10-24T22:10:39.675Z",
+      "kind": "advertiser_page",
+      "is_active": true,
+      "start_date": 1791788400,
+      "snapshot_sha256": "d71262288b5039c1b19eea50c6181083df833ef6fa1321d872ddfbaa15aa5f4d",
+      "native_body_text_sha256": "30358c4625621a67b802f688e303ce9f0a0f53e7f447f46e9a03d1418c651c8a",
+      "text_fields": {
+        "body": {
+          "text": "Hard nights don't mean you're doing it wrong. They mean you need support that fits your baby.\n\nThe Good Inside Sleep Program supports you through every sleep challenge, from wake windows and night feeds to regressions and independent sleep."
+        },
+        "title": "Baby Sleep Support",
+        "caption": "goodinside.com",
+        "link_description": "Join Good Inside",
+        "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+        "cta_text": "See details",
+        "cta_type": "SEE_DETAILS",
+        "byline": null,
+        "disclaimer_label": null,
+        "event": null,
+        "extra_texts": [],
+        "extra_links": [],
+        "additional_info": null,
+        "cards": []
+      },
+      "text_fields_sha256": "3a109e20ec0fccc954b3832945f1b668ff067454de38c8728a48163853f15ceb",
+      "display_format": "IMAGE"
+    },
+    {
+      "ad_id": "1813086166401443",
+      "advertiser": "Good Inside Baby",
+      "page_id": "482750678569835",
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/069-goodinside-baby-page.json",
+      "capture_sha256": "342a155f4b57340f15d03cb313d9e0ad2ba22f440ef8124378d3b7aa77aa73b0",
+      "native_pointer": "connections[0].edges[14].node.collated_results[0]",
+      "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=482750678569835",
+      "captured_at": "2026-10-24T22:10:39.675Z",
+      "kind": "advertiser_page",
+      "is_active": true,
+      "start_date": 1792738800,
+      "snapshot_sha256": "29c5b3bc0cdea44e8b88a7f977c51b2a4636ed45472561dae36dbb390a280248",
+      "native_body_text_sha256": "30358c4625621a67b802f688e303ce9f0a0f53e7f447f46e9a03d1418c651c8a",
+      "text_fields": {
+        "body": {
+          "text": "Hard nights don't mean you're doing it wrong. They mean you need support that fits your baby.\n\nThe Good Inside Sleep Program supports you through every sleep challenge, from wake windows and night feeds to regressions and independent sleep."
+        },
+        "title": "Baby Sleep Support",
+        "caption": "goodinside.com",
+        "link_description": null,
+        "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+        "cta_text": "Learn more",
+        "cta_type": "LEARN_MORE",
+        "byline": null,
+        "disclaimer_label": null,
+        "event": null,
+        "extra_texts": [],
+        "extra_links": [],
+        "additional_info": null,
+        "cards": []
+      },
+      "text_fields_sha256": "1cc93f8b0047aeea7e1854ef65ba20c68dc4fbe0c512115d1ef87f3e82d273f6",
+      "display_format": "VIDEO"
+    },
+    {
+      "ad_id": "1438201214911753",
+      "advertiser": "Good Inside Baby",
+      "page_id": "482750678569835",
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/069-goodinside-baby-page.json",
+      "capture_sha256": "342a155f4b57340f15d03cb313d9e0ad2ba22f440ef8124378d3b7aa77aa73b0",
+      "native_pointer": "connections[0].edges[15].node.collated_results[0]",
+      "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=482750678569835",
+      "captured_at": "2026-10-24T22:10:39.675Z",
+      "kind": "advertiser_page",
+      "is_active": true,
+      "start_date": 1792566000,
+      "snapshot_sha256": "cea935c12e6d19c30953d95194762efb55924ea1f62619be9a5b5c7fc422d2d8",
+      "native_body_text_sha256": "864278a88655406c106d98e00b59ad2a58a82fe31b7c9f89c446b54be982d60f",
+      "text_fields": {
+        "body": {
+          "text": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months."
+        },
+        "title": "Baby Sleep Support",
+        "caption": "goodinside.com",
+        "link_description": null,
+        "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+        "cta_text": "Learn more",
+        "cta_type": "LEARN_MORE",
+        "byline": null,
+        "disclaimer_label": null,
+        "event": null,
+        "extra_texts": [],
+        "extra_links": [],
+        "additional_info": null,
+        "cards": []
+      },
+      "text_fields_sha256": "cdb2366f1a1b14568b57712574288f71f634cf7642056a82a2caafd3eccf82d4",
+      "display_format": "VIDEO"
+    },
+    {
+      "ad_id": "1644148133807363",
+      "advertiser": "Good Inside Baby",
+      "page_id": "482750678569835",
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/069-goodinside-baby-page.json",
+      "capture_sha256": "342a155f4b57340f15d03cb313d9e0ad2ba22f440ef8124378d3b7aa77aa73b0",
+      "native_pointer": "connections[0].edges[16].node.collated_results[0]",
+      "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=482750678569835",
+      "captured_at": "2026-10-24T22:10:39.675Z",
+      "kind": "advertiser_page",
+      "is_active": true,
+      "start_date": 1788850800,
+      "snapshot_sha256": "442e5cd7b0df61e072fd218fc009ef78d78e234cc2d74de313f3f53124db8b0b",
+      "native_body_text_sha256": "864278a88655406c106d98e00b59ad2a58a82fe31b7c9f89c446b54be982d60f",
+      "text_fields": {
+        "body": {
+          "text": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months."
+        },
+        "title": "Good Inside Sleep Program",
+        "caption": "goodinside.com",
+        "link_description": null,
+        "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+        "cta_text": "Learn more",
+        "cta_type": "LEARN_MORE",
+        "byline": null,
+        "disclaimer_label": null,
+        "event": null,
+        "extra_texts": [],
+        "extra_links": [],
+        "additional_info": null,
+        "cards": [
+          {
+            "body": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months.",
+            "title": "Good Inside Sleep Program",
+            "caption": "goodinside.com",
+            "link_description": null,
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "Learn More",
+            "cta_type": "LEARN_MORE"
+          },
+          {
+            "body": "There's no sleep method that works for every baby. There is an approach that works for yours, and it starts with understanding what's happening, not following a checklist.\n\nThe Good Inside Sleep Program is built around you and your baby. Get support for every sleep challenge from birth to 24 months.",
+            "title": "Good Inside Sleep Program",
+            "caption": "goodinside.com",
+            "link_description": null,
+            "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+            "cta_text": "Learn More",
+            "cta_type": "LEARN_MORE"
+          }
+        ]
+      },
+      "text_fields_sha256": "140e5f8d75190bff5fe6aa38ce2751716bcc042d181428238d3e5867f8008d98",
+      "display_format": "DCO"
+    },
+    {
+      "ad_id": "2719320865152200",
+      "advertiser": "Good Inside Baby",
+      "page_id": "482750678569835",
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/069-goodinside-baby-page.json",
+      "capture_sha256": "342a155f4b57340f15d03cb313d9e0ad2ba22f440ef8124378d3b7aa77aa73b0",
+      "native_pointer": "connections[0].edges[17].node.collated_results[0]",
+      "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=482750678569835",
+      "captured_at": "2026-10-24T22:10:39.675Z",
+      "kind": "advertiser_page",
+      "is_active": true,
+      "start_date": 1790233200,
+      "snapshot_sha256": "f2c0eae8c6f65f13e97353c340daede3a2d05f28190ed2113d652cd22ff3bc85",
+      "native_body_text_sha256": "30358c4625621a67b802f688e303ce9f0a0f53e7f447f46e9a03d1418c651c8a",
+      "text_fields": {
+        "body": {
+          "text": "Hard nights don't mean you're doing it wrong. They mean you need support that fits your baby.\n\nThe Good Inside Sleep Program supports you through every sleep challenge, from wake windows and night feeds to regressions and independent sleep."
+        },
+        "title": "Baby Sleep Support",
+        "caption": "goodinside.com",
+        "link_description": null,
+        "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+        "cta_text": "Learn more",
+        "cta_type": "LEARN_MORE",
+        "byline": null,
+        "disclaimer_label": null,
+        "event": null,
+        "extra_texts": [],
+        "extra_links": [],
+        "additional_info": null,
+        "cards": []
+      },
+      "text_fields_sha256": "1cc93f8b0047aeea7e1854ef65ba20c68dc4fbe0c512115d1ef87f3e82d273f6",
+      "display_format": "VIDEO"
+    },
+    {
+      "ad_id": "2138442813430768",
+      "advertiser": "Good Inside Baby",
+      "page_id": "482750678569835",
+      "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/069-goodinside-baby-page.json",
+      "capture_sha256": "342a155f4b57340f15d03cb313d9e0ad2ba22f440ef8124378d3b7aa77aa73b0",
+      "native_pointer": "connections[0].edges[18].node.collated_results[0]",
+      "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=482750678569835",
+      "captured_at": "2026-10-24T22:10:39.675Z",
+      "kind": "advertiser_page",
+      "is_active": true,
+      "start_date": 1790319600,
+      "snapshot_sha256": "beb3322518959123763294349979ffb4739418ca6f46c07e1482a0afe4d7379e",
+      "native_body_text_sha256": "30358c4625621a67b802f688e303ce9f0a0f53e7f447f46e9a03d1418c651c8a",
+      "text_fields": {
+        "body": {
+          "text": "Hard nights don't mean you're doing it wrong. They mean you need support that fits your baby.\n\nThe Good Inside Sleep Program supports you through every sleep challenge, from wake windows and night feeds to regressions and independent sleep."
+        },
+        "title": "Baby Sleep Support",
+        "caption": "goodinside.com",
+        "link_description": null,
+        "link_url": "https://www.goodinside.com/lp/baby-sleep-program-bundle/",
+        "cta_text": "Learn more",
+        "cta_type": "LEARN_MORE",
+        "byline": null,
+        "disclaimer_label": null,
+        "event": null,
+        "extra_texts": [],
+        "extra_links": [],
+        "additional_info": null,
+        "cards": []
+      },
+      "text_fields_sha256": "1cc93f8b0047aeea7e1854ef65ba20c68dc4fbe0c512115d1ef87f3e82d273f6",
+      "display_format": "VIDEO"
+    }
+  ],
+  "occurrences": 24,
+  "unique_ad_ids": 22,
+  "keys": [
+    "body",
+    "title",
+    "caption",
+    "link_description",
+    "link_url",
+    "cta_text",
+    "cta_type",
+    "byline",
+    "disclaimer_label",
+    "event",
+    "extra_texts",
+    "extra_links",
+    "additional_info"
+  ]
+}

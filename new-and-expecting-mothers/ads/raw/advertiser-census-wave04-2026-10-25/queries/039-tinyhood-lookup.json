@@ -1,0 +1,20 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "Tinyhood",
+  "captured_at": "2026-10-24T21:55:29.507Z",
+  "suggestions": "ge/\"\n  uid=51_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=51_1 generic description=\"Search for exact phrase Tinyhood \"Tinyhood\" Search this exact phrase\"\n      uid=51_2 button \"Search for exact phrase Tinyhood\"\n    uid=51_3 generic description=\"Tinyhood @tinyhood· 12.3K follow this · App page @tinyhood· 105.8K followers\"\n    uid=51_4 generic description=\"tiny.hoody @TinyHoodyKids· 14 follow this · Shopping & Retail @tiny.hoody· 1.2K followers\"\n",
+  "candidates": [
+    {
+      "uid": "51_1",
+      "description": "Search for exact phrase Tinyhood "
+    },
+    {
+      "uid": "51_3",
+      "description": "Tinyhood @tinyhood· 12.3K follow this · App page @tinyhood· 105.8K followers"
+    },
+    {
+      "uid": "51_4",
+      "description": "tiny.hoody @TinyHoodyKids· 14 follow this · Shopping & Retail @tiny.hoody· 1.2K followers"
+    }
+  ]
+}

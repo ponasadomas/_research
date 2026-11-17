@@ -1,0 +1,13 @@
+{
+  "kind": "google_domain_search_snapshot",
+  "query": "babylist.com",
+  "observed_utc_window": "2026-10-24T22:08",
+  "browser_response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "## Latest page snapshot\nuid=110_0 RootWebArea \"Search\" url=\"https://adstransparency.google.com/search?region=anywhere&hl=en&query=babylist.com\"\n  uid=110_1 banner\n    uid=110_2 link \"Go to Ads Transparency Center home page.\" url=\"https://adstransparency.google.com/\"\n      uid=110_3 \"Ads Transparency Center\"\n    uid=110_4 button \"Google apps\" expandable\n    uid=110_5 link \"Sign in\" url=\"https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://adstransparency.google.com/search?region%3Danywhere%26hl%3Den%26query%3Dbabylist.com&followup=https://adstransparency.google.com/search?region%3Danywhere%26hl%3Den%26query%3Dbabylist.com&hl=en&ec=GAZAsQQ\"\n  uid=110_7 \"Search Results\"\n  uid=110_8 search\n    uid=110_9 button \"All topics\" pressed\n    uid=110_10 button \"Political ads\"\n    uid=110_11 generic\n      uid=110_12 \"Find the ads you’ve seen by searching by advertiser name or website\"\n      uid=110_13 textbox \"Find the ads you’ve seen by searching by advertiser name or website\"\n    uid=110_14 button \"Region selection filter button\" haspopup=\"menu\"\n  uid=110_15 tab \"By advertiser name\" selectable\n  uid=110_16 tab \"By domain\" focusable focused selectable selected\n  uid=111_0 \"Showing 0 results for babylist.com. What ads and advertisers are included?\"\n  uid=111_1 \"Cannot find results\"\n  uid=111_2 \"Try refreshing the page or altering the search\"\n  uid=110_19 button \"Previous Page\" disableable disabled\n  uid=110_20 button \"Next Page\" disableable disabled\n  uid=110_21 contentinfo\n    uid=110_22 button \"Privacy\"\n    \"•\"\n    uid=110_23 button \"Terms\"\n    \"•\"\n    uid=110_24 button \"Ads Policies\"\n    \"•\"\n    uid=110_25 link \"FAQ\" url=\"https://adstransparency.google.com/faq\"\n    uid=110_27 button \"Principles\"\n    \"•\"\n    uid=110_28 button \"Ads Blog\"\n"
+      }
+    ]
+  }
+}

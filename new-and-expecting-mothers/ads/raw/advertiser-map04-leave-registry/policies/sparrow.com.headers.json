@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:45:32 GMT",
+    "Content-Type": "text/plain; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "etag": "W/\"4330e71ca904e52029a4b101460d72b8-ssl\"",
+    "Age": "1",
+    "Cache-Control": "public, max-age=14400, must-revalidate",
+    "Cache-Status": "\"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
+    "Content-Security-Policy": "frame-ancestors 'self' https://sparrow.gtmbuddy.io https://content.sparrow.com;",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=1nGGRh%2FK7W4Wz8ZMUZHLLMapsyaanx5wVyLcFVdn%2F7XH9s1sylPmhyeh1pqr7TmWMh3rqkOSFpl476ypoqEI%2FDFZk0dENuKjLbTWW9B%2FYZ1oJuJnYf0xViyYevSjFA%3D%3D\"}]}",
+    "Permissions-Policy": "camera=(), microphone=(), geolocation=()",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "cloudflare",
+    "X-Content-Type-Options": "nosniff",
+    "X-Nf-Request-Id": "01M441NSG945Q56WESFD1ZAZ70",
+    "X-Xss-Protection": "0",
+    "cf-cache-status": "REVALIDATED",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Strict-Transport-Security": "max-age=15552000",
+    "Content-Encoding": "zstd",
+    "CF-RAY": "a4fc2b482c43e4d2-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "redirects": []
+}

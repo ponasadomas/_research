@@ -1,0 +1,2794 @@
+{
+  "responseContext": {
+    "serviceTrackingParams": [
+      {
+        "service": "GFEEDBACK",
+        "params": [
+          {
+            "key": "is_viewed_live",
+            "value": "False"
+          },
+          {
+            "key": "is_alc_surface",
+            "value": "false"
+          },
+          {
+            "key": "ipcc",
+            "value": "0"
+          },
+          {
+            "key": "logged_in",
+            "value": "0"
+          },
+          {
+            "key": "visitor_data",
+            "value": "CgtBbUdKSFllSXAwVSiSufLWBjIoCgJMVBIiEh4SHAsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJicgV2LVAgrSAkN2b0JDQVlTckFFQld5Ylo2SzYxRk5ocERTbGNxRkVhVUlaTEpOVjJIaHI5bXRtU25DMGQycnV1YXhFaGFmSVFkNU1VVmd2R0ZyZW83OElUYThlTEdpTkp5ZzVMUm0wUWR3TzkyNEdTLXlGTWZ2Slg4NGptbEVPRFIwQmVDOUtMZHpzelRWVzNRUmpHTTE0QTVKLThrd2luZUVOT2U4MS1RY1Z0UDN1YmRtVktySW9qV1Npb1NDNWpxNjVkM0RKcTU3XzBFUWNaSmFNR0NEb2NHUl94Y0UtN2hva1BXbmY2SnFuSkJ2ckY1UzYyM1BCLUtBWXlSUUd5YUo5bENQSXNjTDJ3cjU4UURvYk9FSlFFck9FdU9oMkN1OFhHWllzQzFmVi01Q1FFUzNZa0xaWkQ2d2E2UXFnVlAtdXNWNjJLZDFaTUdQOEFJQUlNLVN0VEFB"
+          }
+        ]
+      },
+      {
+        "service": "CSI",
+        "params": [
+          {
+            "key": "yt_ad",
+            "value": "1"
+          },
+          {
+            "key": "c",
+            "value": "WEB"
+          },
+          {
+            "key": "cver",
+            "value": "2.20261023.01.00"
+          },
+          {
+            "key": "yt_li",
+            "value": "0"
+          },
+          {
+            "key": "GetPlayer_rid",
+            "value": "0xd425e5ca58a5bae3"
+          }
+        ]
+      },
+      {
+        "service": "GUIDED_HELP",
+        "params": [
+          {
+            "key": "logged_in",
+            "value": "0"
+          }
+        ]
+      },
+      {
+        "service": "ECATCHER",
+        "params": [
+          {
+            "key": "client.version",
+            "value": "2.20261023"
+          },
+          {
+            "key": "client.name",
+            "value": "WEB"
+          }
+        ]
+      }
+    ],
+    "maxAgeSeconds": 0,
+    "mainAppWebResponseContext": {
+      "loggedOut": true,
+      "trackingParam": "k5_fmPxhoXZRr98caHfERWqsgEN0EEcIyeVX90rsk2WXI6f7nmgsbMTrYzRMkuMYNLBwOcCw59TLtslLKPQGSS"
+    },
+    "responseId": "IhMIteH3oMzSlwMVaER6BR3BjQs8",
+    "webResponseContextExtensionData": {
+      "webResponseContextPreloadData": {
+        "preloadMessageNames": [
+          "miniplayerRenderer",
+          "adPlacementRenderer",
+          "clientForecastingAdRenderer",
+          "playerCaptionsTracklistRenderer",
+          "playerAnnotationsExpandedRenderer",
+          "subscribeButtonRenderer",
+          "confirmDialogRenderer",
+          "buttonRenderer",
+          "playerStoryboardSpecRenderer",
+          "playerMicroformatRenderer",
+          "cardCollectionRenderer",
+          "cardRenderer",
+          "simpleCardTeaserRenderer",
+          "infoCardIconRenderer",
+          "endscreenRenderer",
+          "endscreenElementRenderer",
+          "thumbnailOverlayTimeStatusRenderer",
+          "toggleButtonViewModel",
+          "buttonViewModel"
+        ]
+      },
+      "hasDecorated": true
+    }
+  },
+  "playabilityStatus": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "streamingData": {
+    "expiresInSeconds": "21540",
+    "adaptiveFormats": [
+      {
+        "itag": 137,
+        "mimeType": "video/mp4; codecs=\"avc1.640028\"",
+        "bitrate": 3539343,
+        "width": 1920,
+        "height": 1080,
+        "initRange": {
+          "start": "0",
+          "end": "741"
+        },
+        "indexRange": {
+          "start": "742",
+          "end": "1817"
+        },
+        "lastModified": "1615209621275353",
+        "contentLength": "110976874",
+        "quality": "hd1080",
+        "fps": 24,
+        "qualityLabel": "1080p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 1924455,
+        "approxDurationMs": "461333",
+        "qualityOrdinal": "QUALITY_ORDINAL_1080P"
+      },
+      {
+        "itag": 399,
+        "mimeType": "video/mp4; codecs=\"av01.0.08M.08\"",
+        "bitrate": 1175946,
+        "width": 1920,
+        "height": 1080,
+        "initRange": {
+          "start": "0",
+          "end": "699"
+        },
+        "indexRange": {
+          "start": "700",
+          "end": "1655"
+        },
+        "lastModified": "1780031148100383",
+        "contentLength": "31856960",
+        "quality": "hd1080",
+        "fps": 24,
+        "qualityLabel": "1080p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 552433,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "461333",
+        "qualityOrdinal": "QUALITY_ORDINAL_1080P"
+      },
+      {
+        "itag": 136,
+        "mimeType": "video/mp4; codecs=\"avc1.64001F\"",
+        "bitrate": 1737789,
+        "width": 1280,
+        "height": 720,
+        "initRange": {
+          "start": "0",
+          "end": "739"
+        },
+        "indexRange": {
+          "start": "740",
+          "end": "1815"
+        },
+        "lastModified": "1615209620045772",
+        "contentLength": "55283036",
+        "quality": "hd720",
+        "fps": 24,
+        "qualityLabel": "720p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 958666,
+        "approxDurationMs": "461333",
+        "qualityOrdinal": "QUALITY_ORDINAL_720P"
+      },
+      {
+        "itag": 398,
+        "mimeType": "video/mp4; codecs=\"av01.0.05M.08\"",
+        "bitrate": 624359,
+        "width": 1280,
+        "height": 720,
+        "initRange": {
+          "start": "0",
+          "end": "699"
+        },
+        "indexRange": {
+          "start": "700",
+          "end": "1655"
+        },
+        "lastModified": "1780031319332730",
+        "contentLength": "18693593",
+        "quality": "hd720",
+        "fps": 24,
+        "qualityLabel": "720p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 324166,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "461333",
+        "qualityOrdinal": "QUALITY_ORDINAL_720P"
+      },
+      {
+        "itag": 397,
+        "mimeType": "video/mp4; codecs=\"av01.0.04M.08\"",
+        "bitrate": 343184,
+        "width": 854,
+        "height": 480,
+        "initRange": {
+          "start": "0",
+          "end": "699"
+        },
+        "indexRange": {
+          "start": "700",
+          "end": "1655"
+        },
+        "lastModified": "1780030981660936",
+        "contentLength": "10848857",
+        "quality": "large",
+        "fps": 24,
+        "qualityLabel": "480p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 188130,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "461333",
+        "qualityOrdinal": "QUALITY_ORDINAL_480P"
+      },
+      {
+        "itag": 134,
+        "mimeType": "video/mp4; codecs=\"avc1.4D401E\"",
+        "bitrate": 416811,
+        "width": 640,
+        "height": 360,
+        "initRange": {
+          "start": "0",
+          "end": "740"
+        },
+        "indexRange": {
+          "start": "741",
+          "end": "1816"
+        },
+        "lastModified": "1615209619620663",
+        "contentLength": "15342962",
+        "quality": "medium",
+        "fps": 24,
+        "qualityLabel": "360p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 266063,
+        "highReplication": true,
+        "approxDurationMs": "461333",
+        "qualityOrdinal": "QUALITY_ORDINAL_360P"
+      },
+      {
+        "itag": 243,
+        "mimeType": "video/webm; codecs=\"vp9\"",
+        "bitrate": 321681,
+        "width": 640,
+        "height": 360,
+        "initRange": {
+          "start": "0",
+          "end": "219"
+        },
+        "indexRange": {
+          "start": "220",
+          "end": "1689"
+        },
+        "lastModified": "1615209621963364",
+        "contentLength": "9772810",
+        "quality": "medium",
+        "fps": 24,
+        "qualityLabel": "360p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 169470,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "461333",
+        "qualityOrdinal": "QUALITY_ORDINAL_360P"
+      },
+      {
+        "itag": 396,
+        "mimeType": "video/mp4; codecs=\"av01.0.01M.08\"",
+        "bitrate": 205621,
+        "width": 640,
+        "height": 360,
+        "initRange": {
+          "start": "0",
+          "end": "699"
+        },
+        "indexRange": {
+          "start": "700",
+          "end": "1655"
+        },
+        "lastModified": "1780031609761178",
+        "contentLength": "6980020",
+        "quality": "medium",
+        "fps": 24,
+        "qualityLabel": "360p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 121040,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "461333",
+        "qualityOrdinal": "QUALITY_ORDINAL_360P"
+      },
+      {
+        "itag": 395,
+        "mimeType": "video/mp4; codecs=\"av01.0.00M.08\"",
+        "bitrate": 105490,
+        "width": 426,
+        "height": 240,
+        "initRange": {
+          "start": "0",
+          "end": "699"
+        },
+        "indexRange": {
+          "start": "700",
+          "end": "1655"
+        },
+        "lastModified": "1780031343049941",
+        "contentLength": "3878306",
+        "quality": "small",
+        "fps": 24,
+        "qualityLabel": "240p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 67253,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "461333",
+        "qualityOrdinal": "QUALITY_ORDINAL_240P"
+      },
+      {
+        "itag": 160,
+        "mimeType": "video/mp4; codecs=\"avc1.4D400C\"",
+        "bitrate": 102591,
+        "width": 256,
+        "height": 144,
+        "initRange": {
+          "start": "0",
+          "end": "738"
+        },
+        "indexRange": {
+          "start": "739",
+          "end": "1814"
+        },
+        "lastModified": "1615209618994619",
+        "contentLength": "3846177",
+        "quality": "tiny",
+        "fps": 24,
+        "qualityLabel": "144p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 66696,
+        "approxDurationMs": "461333",
+        "qualityOrdinal": "QUALITY_ORDINAL_144P"
+      },
+      {
+        "itag": 394,
+        "mimeType": "video/mp4; codecs=\"av01.0.00M.08\"",
+        "bitrate": 63941,
+        "width": 256,
+        "height": 144,
+        "initRange": {
+          "start": "0",
+          "end": "699"
+        },
+        "indexRange": {
+          "start": "700",
+          "end": "1655"
+        },
+        "lastModified": "1780031037731810",
+        "contentLength": "2301295",
+        "quality": "tiny",
+        "fps": 24,
+        "qualityLabel": "144p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 39906,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "461333",
+        "qualityOrdinal": "QUALITY_ORDINAL_144P"
+      },
+      {
+        "itag": 140,
+        "mimeType": "audio/mp4; codecs=\"mp4a.40.2\"",
+        "bitrate": 130728,
+        "initRange": {
+          "start": "0",
+          "end": "631"
+        },
+        "indexRange": {
+          "start": "632",
+          "end": "1227"
+        },
+        "lastModified": "1615209615296433",
+        "contentLength": "7467981",
+        "quality": "tiny",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 129489,
+        "highReplication": true,
+        "audioQuality": "AUDIO_QUALITY_MEDIUM",
+        "approxDurationMs": "461380",
+        "audioSampleRate": "44100",
+        "audioChannels": 2,
+        "loudnessDb": -8.8552208,
+        "trackAbsoluteLoudnessLkfs": -22.855221,
+        "qualityOrdinal": "QUALITY_ORDINAL_UNKNOWN"
+      },
+      {
+        "itag": 251,
+        "mimeType": "audio/webm; codecs=\"opus\"",
+        "bitrate": 146172,
+        "initRange": {
+          "start": "0",
+          "end": "265"
+        },
+        "indexRange": {
+          "start": "266",
+          "end": "1061"
+        },
+        "lastModified": "1615209608982027",
+        "contentLength": "7352718",
+        "quality": "tiny",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 127496,
+        "audioQuality": "AUDIO_QUALITY_MEDIUM",
+        "approxDurationMs": "461361",
+        "audioSampleRate": "48000",
+        "audioChannels": 2,
+        "loudnessDb": -8.8552208,
+        "trackAbsoluteLoudnessLkfs": -22.855221,
+        "qualityOrdinal": "QUALITY_ORDINAL_UNKNOWN"
+      }
+    ],
+    "probeUrl": "https://r5---sn-uxv-30ol.googlevideo.com/videogoodput?id=o-AD_DaXaLs06yVVuRxPlaikwIBJgkqEv4YqNW7I1u3Xsr&source=goodput&range=0-4999&expire=1792846498&ip=78.61.157.188&ms=pm&mm=35&pl=24&sparams=id,source,range,expire,ip,ms,mm,pl&signature=630CD0DECE2C130D6514E720B050AC55DA82E12C.078085FCAB68BD7E86938BC51E01478AE1F1D644&key=cms1",
+    "serverAbrStreamingUrl": "https://rr2---sn-uxv-8ov6.googlevideo.com/videoplayback?expire=1792864498&ei=kpzcarXQLOiI6dsPwZuu4AM&ip=78.61.157.188&id=o-AFIWjFuuw1f2hPfU8C_ZFEmlLZNKWgta5S5OgjOQdiEj&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=231&met=1792842898%2C&mh=S_&mm=31%2C29&mn=sn-uxv-8ov6%2Csn-ajf5f5-5a&ms=au%2Crdu&mv=m&mvi=2&pl=22&rms=au%2Cau&initcwndbps=2883250&spc=mpRQ_5qTYoEzPblnwP3n0fyeDKlQt_9Pgv5AqAC8EWIFZnnN0jdWtu0ywPWzZ2cCUWghblYpq5Q&svpuc=1&ns=bMGYD4O5XyvkJh42pGNoF7cZ&sabr=1&rqh=1&mt=1792842107&fvip=5&epbp=1&keepalive=yes&fexp=51565116%2C52184236&c=WEB&n=8o3viGhke6_50YBydY1&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AE0s2JYwRAIgIq5kmA8Ot_IVG4B4zvD6hWCq6sXd9lEPxX3rlOM_C7UCIGOt5jBoIPKVjmXcuwDvTACttMO2RH48dLCsTpEwYcSq&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAPmYKoUZ9NaJvmIeNTkSRmBgcW-gAmMcNXcGLuskE9_mAiEAzixsYqwrfuVWcE6Zwjam3k106_kSwU_irdD8NcHms0Y%3D"
+  },
+  "playbackTracking": {
+    "videostatsPlaybackUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/playback?cl=1003354060&docid=377j05F4edY&ei=kpzcarXQLOiI6dsPwZuu4AM&fexp=&ns=yt&plid=AAZelMQePv-G7i7A&el=detailpage&len=462&of=cLY0yG6CoIu-lphGDY0c5Q&vm=CAEQARgEOjJBSHFpSlRJdl9SQWtNTXU3VXNkTkszbmlSdUtwQU5qMkJueElQcC1pWmdmVVh2dlpoQWJXQUNPdTRMUzZGMW9KYUE1V1c0STBpaUpmMGw0SW5JVW9WNzNqNDBxZ05Wcng4Y0VMUlcyWUh2d0ZjTUZDdFM5Zm9jeVVZY2ZTR2sxN09TaVBhdHVoVV9V"
+    },
+    "videostatsDelayplayUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/delayplay?cl=1003354060&docid=377j05F4edY&ei=kpzcarXQLOiI6dsPwZuu4AM&fexp=&ns=yt&plid=AAZelMQePv-G7i7A&el=detailpage&len=462&of=cLY0yG6CoIu-lphGDY0c5Q&vm=CAEQARgEOjJBSHFpSlRJdl9SQWtNTXU3VXNkTkszbmlSdUtwQU5qMkJueElQcC1pWmdmVVh2dlpoQWJXQUNPdTRMUzZGMW9KYUE1V1c0STBpaUpmMGw0SW5JVW9WNzNqNDBxZ05Wcng4Y0VMUlcyWUh2d0ZjTUZDdFM5Zm9jeVVZY2ZTR2sxN09TaVBhdHVoVV9V"
+    },
+    "videostatsWatchtimeUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/watchtime?cl=1003354060&docid=377j05F4edY&ei=kpzcarXQLOiI6dsPwZuu4AM&fexp=&ns=yt&plid=AAZelMQePv-G7i7A&el=detailpage&len=462&of=cLY0yG6CoIu-lphGDY0c5Q&vm=CAEQARgEOjJBSHFpSlRJdl9SQWtNTXU3VXNkTkszbmlSdUtwQU5qMkJueElQcC1pWmdmVVh2dlpoQWJXQUNPdTRMUzZGMW9KYUE1V1c0STBpaUpmMGw0SW5JVW9WNzNqNDBxZ05Wcng4Y0VMUlcyWUh2d0ZjTUZDdFM5Zm9jeVVZY2ZTR2sxN09TaVBhdHVoVV9V"
+    },
+    "ptrackingUrl": {
+      "baseUrl": "https://www.youtube.com/ptracking?ei=kpzcarXQLOiI6dsPwZuu4AM&oid=2H6o7PMzThoYfCFKzSATeg&plid=AAZelMQePv-G7i7A&pltype=content&ptchn=s_CXnifPUvP1zKIpgAYwqw&ptk=youtube_single&video_id=377j05F4edY"
+    },
+    "qoeUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/qoe?cl=1003354060&docid=377j05F4edY&ei=kpzcarXQLOiI6dsPwZuu4AM&el=detailpage&event=streamingstats&fexp=&ns=yt&plid=AAZelMQePv-G7i7A"
+    },
+    "atrUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/atr?c=WEB&docid=377j05F4edY&ei=kpzcarXQLOiI6dsPwZuu4AM&len=462&ns=yt&plid=AAZelMQePv-G7i7A&ver=2&vm=CAEQARgEOjJBSHFpSlRJdl9SQWtNTXU3VXNkTkszbmlSdUtwQU5qMkJueElQcC1pWmdmVVh2dlpoQWJXQUNPdTRMUzZGMW9KYUE1V1c0STBpaUpmMGw0SW5JVW9WNzNqNDBxZ05Wcng4Y0VMUlcyWUh2d0ZjTUZDdFM5Zm9jeVVZY2ZTR2sxN09TaVBhdHVoVV9V",
+      "elapsedMediaTimeSeconds": 5
+    },
+    "videostatsScheduledFlushWalltimeSeconds": [
+      10,
+      20,
+      30
+    ],
+    "videostatsDefaultFlushIntervalSeconds": 40
+  },
+  "captions": {
+    "playerCaptionsTracklistRenderer": {
+      "captionTracks": [
+        {
+          "baseUrl": "https://www.youtube.com/api/timedtext?v=377j05F4edY&ei=kpzcarXQLOiI6dsPwZuu4AM&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1792868098&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A7052E14CCDBCF5F36F8397530A5CDE7E0951F03.39A50FE8B9348DA7A6C772C1E9D6F25443AC33D5&key=yt8&lang=en",
+          "name": {
+            "simpleText": "English"
+          },
+          "vssId": ".en",
+          "languageCode": "en",
+          "isTranslatable": true,
+          "trackName": ""
+        },
+        {
+          "baseUrl": "https://www.youtube.com/api/timedtext?v=377j05F4edY&ei=kpzcarXQLOiI6dsPwZuu4AM&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1792868098&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A7052E14CCDBCF5F36F8397530A5CDE7E0951F03.39A50FE8B9348DA7A6C772C1E9D6F25443AC33D5&key=yt8&kind=asr&lang=en",
+          "name": {
+            "simpleText": "English (auto-generated)"
+          },
+          "vssId": "a.en",
+          "languageCode": "en",
+          "kind": "asr",
+          "isTranslatable": true,
+          "trackName": ""
+        }
+      ],
+      "audioTracks": [
+        {
+          "captionTrackIndices": [
+            0,
+            1
+          ],
+          "defaultCaptionTrackIndex": 0,
+          "hasDefaultTrack": true,
+          "captionsInitialState": "CAPTIONS_INITIAL_STATE_OFF_RECOMMENDED"
+        }
+      ],
+      "translationLanguages": [
+        {
+          "languageCode": "ab",
+          "languageName": {
+            "simpleText": "Abkhazian"
+          }
+        },
+        {
+          "languageCode": "aa",
+          "languageName": {
+            "simpleText": "Afar"
+          }
+        },
+        {
+          "languageCode": "af",
+          "languageName": {
+            "simpleText": "Afrikaans"
+          }
+        },
+        {
+          "languageCode": "ak",
+          "languageName": {
+            "simpleText": "Akan"
+          }
+        },
+        {
+          "languageCode": "sq",
+          "languageName": {
+            "simpleText": "Albanian"
+          }
+        },
+        {
+          "languageCode": "am",
+          "languageName": {
+            "simpleText": "Amharic"
+          }
+        },
+        {
+          "languageCode": "ar",
+          "languageName": {
+            "simpleText": "Arabic"
+          }
+        },
+        {
+          "languageCode": "hy",
+          "languageName": {
+            "simpleText": "Armenian"
+          }
+        },
+        {
+          "languageCode": "as",
+          "languageName": {
+            "simpleText": "Assamese"
+          }
+        },
+        {
+          "languageCode": "ay",
+          "languageName": {
+            "simpleText": "Aymara"
+          }
+        },
+        {
+          "languageCode": "az",
+          "languageName": {
+            "simpleText": "Azerbaijani"
+          }
+        },
+        {
+          "languageCode": "bn",
+          "languageName": {
+            "simpleText": "Bangla"
+          }
+        },
+        {
+          "languageCode": "ba",
+          "languageName": {
+            "simpleText": "Bashkir"
+          }
+        },
+        {
+          "languageCode": "eu",
+          "languageName": {
+            "simpleText": "Basque"
+          }
+        },
+        {
+          "languageCode": "be",
+          "languageName": {
+            "simpleText": "Belarusian"
+          }
+        },
+        {
+          "languageCode": "bho",
+          "languageName": {
+            "simpleText": "Bhojpuri"
+          }
+        },
+        {
+          "languageCode": "bs",
+          "languageName": {
+            "simpleText": "Bosnian"
+          }
+        },
+        {
+          "languageCode": "br",
+          "languageName": {
+            "simpleText": "Breton"
+          }
+        },
+        {
+          "languageCode": "bg",
+          "languageName": {
+            "simpleText": "Bulgarian"
+          }
+        },
+        {
+          "languageCode": "my",
+          "languageName": {
+            "simpleText": "Burmese"
+          }
+        },
+        {
+          "languageCode": "ca",
+          "languageName": {
+            "simpleText": "Catalan"
+          }
+        },
+        {
+          "languageCode": "ceb",
+          "languageName": {
+            "simpleText": "Cebuano"
+          }
+        },
+        {
+          "languageCode": "zh-Hans",
+          "languageName": {
+            "simpleText": "Chinese (Simplified)"
+          }
+        },
+        {
+          "languageCode": "zh-Hant",
+          "languageName": {
+            "simpleText": "Chinese (Traditional)"
+          }
+        },
+        {
+          "languageCode": "co",
+          "languageName": {
+            "simpleText": "Corsican"
+          }
+        },
+        {
+          "languageCode": "hr",
+          "languageName": {
+            "simpleText": "Croatian"
+          }
+        },
+        {
+          "languageCode": "cs",
+          "languageName": {
+            "simpleText": "Czech"
+          }
+        },
+        {
+          "languageCode": "da",
+          "languageName": {
+            "simpleText": "Danish"
+          }
+        },
+        {
+          "languageCode": "dv",
+          "languageName": {
+            "simpleText": "Divehi"
+          }
+        },
+        {
+          "languageCode": "nl",
+          "languageName": {
+            "simpleText": "Dutch"
+          }
+        },
+        {
+          "languageCode": "dz",
+          "languageName": {
+            "simpleText": "Dzongkha"
+          }
+        },
+        {
+          "languageCode": "en",
+          "languageName": {
+            "simpleText": "English"
+          }
+        },
+        {
+          "languageCode": "eo",
+          "languageName": {
+            "simpleText": "Esperanto"
+          }
+        },
+        {
+          "languageCode": "et",
+          "languageName": {
+            "simpleText": "Estonian"
+          }
+        },
+        {
+          "languageCode": "ee",
+          "languageName": {
+            "simpleText": "Ewe"
+          }
+        },
+        {
+          "languageCode": "fo",
+          "languageName": {
+            "simpleText": "Faroese"
+          }
+        },
+        {
+          "languageCode": "fj",
+          "languageName": {
+            "simpleText": "Fijian"
+          }
+        },
+        {
+          "languageCode": "fil",
+          "languageName": {
+            "simpleText": "Filipino"
+          }
+        },
+        {
+          "languageCode": "fi",
+          "languageName": {
+            "simpleText": "Finnish"
+          }
+        },
+        {
+          "languageCode": "fr",
+          "languageName": {
+            "simpleText": "French"
+          }
+        },
+        {
+          "languageCode": "gaa",
+          "languageName": {
+            "simpleText": "Ga"
+          }
+        },
+        {
+          "languageCode": "gl",
+          "languageName": {
+            "simpleText": "Galician"
+          }
+        },
+        {
+          "languageCode": "lg",
+          "languageName": {
+            "simpleText": "Ganda"
+          }
+        },
+        {
+          "languageCode": "ka",
+          "languageName": {
+            "simpleText": "Georgian"
+          }
+        },
+        {
+          "languageCode": "de",
+          "languageName": {
+            "simpleText": "German"
+          }
+        },
+        {
+          "languageCode": "el",
+          "languageName": {
+            "simpleText": "Greek"
+          }
+        },
+        {
+          "languageCode": "gn",
+          "languageName": {
+            "simpleText": "Guarani"
+          }
+        },
+        {
+          "languageCode": "gu",
+          "languageName": {
+            "simpleText": "Gujarati"
+          }
+        },
+        {
+          "languageCode": "ht",
+          "languageName": {
+            "simpleText": "Haitian Creole"
+          }
+        },
+        {
+          "languageCode": "ha",
+          "languageName": {
+            "simpleText": "Hausa"
+          }
+        },
+        {
+          "languageCode": "haw",
+          "languageName": {
+            "simpleText": "Hawaiian"
+          }
+        },
+        {
+          "languageCode": "iw",
+          "languageName": {
+            "simpleText": "Hebrew"
+          }
+        },
+        {
+          "languageCode": "hi",
+          "languageName": {
+            "simpleText": "Hindi"
+          }
+        },
+        {
+          "languageCode": "hmn",
+          "languageName": {
+            "simpleText": "Hmong"
+          }
+        },
+        {
+          "languageCode": "hu",
+          "languageName": {
+            "simpleText": "Hungarian"
+          }
+        },
+        {
+          "languageCode": "is",
+          "languageName": {
+            "simpleText": "Icelandic"
+          }
+        },
+        {
+          "languageCode": "ig",
+          "languageName": {
+            "simpleText": "Igbo"
+          }
+        },
+        {
+          "languageCode": "id",
+          "languageName": {
+            "simpleText": "Indonesian"
+          }
+        },
+        {
+          "languageCode": "iu",
+          "languageName": {
+            "simpleText": "Inuktitut"
+          }
+        },
+        {
+          "languageCode": "ga",
+          "languageName": {
+            "simpleText": "Irish"
+          }
+        },
+        {
+          "languageCode": "it",
+          "languageName": {
+            "simpleText": "Italian"
+          }
+        },
+        {
+          "languageCode": "ja",
+          "languageName": {
+            "simpleText": "Japanese"
+          }
+        },
+        {
+          "languageCode": "jv",
+          "languageName": {
+            "simpleText": "Javanese"
+          }
+        },
+        {
+          "languageCode": "kl",
+          "languageName": {
+            "simpleText": "Kalaallisut"
+          }
+        },
+        {
+          "languageCode": "kn",
+          "languageName": {
+            "simpleText": "Kannada"
+          }
+        },
+        {
+          "languageCode": "kk",
+          "languageName": {
+            "simpleText": "Kazakh"
+          }
+        },
+        {
+          "languageCode": "kha",
+          "languageName": {
+            "simpleText": "Khasi"
+          }
+        },
+        {
+          "languageCode": "km",
+          "languageName": {
+            "simpleText": "Khmer"
+          }
+        },
+        {
+          "languageCode": "rw",
+          "languageName": {
+            "simpleText": "Kinyarwanda"
+          }
+        },
+        {
+          "languageCode": "ko",
+          "languageName": {
+            "simpleText": "Korean"
+          }
+        },
+        {
+          "languageCode": "kri",
+          "languageName": {
+            "simpleText": "Krio"
+          }
+        },
+        {
+          "languageCode": "ku",
+          "languageName": {
+            "simpleText": "Kurdish"
+          }
+        },
+        {
+          "languageCode": "ky",
+          "languageName": {
+            "simpleText": "Kyrgyz"
+          }
+        },
+        {
+          "languageCode": "lo",
+          "languageName": {
+            "simpleText": "Lao"
+          }
+        },
+        {
+          "languageCode": "la",
+          "languageName": {
+            "simpleText": "Latin"
+          }
+        },
+        {
+          "languageCode": "lv",
+          "languageName": {
+            "simpleText": "Latvian"
+          }
+        },
+        {
+          "languageCode": "ln",
+          "languageName": {
+            "simpleText": "Lingala"
+          }
+        },
+        {
+          "languageCode": "lt",
+          "languageName": {
+            "simpleText": "Lithuanian"
+          }
+        },
+        {
+          "languageCode": "lua",
+          "languageName": {
+            "simpleText": "Luba-Lulua"
+          }
+        },
+        {
+          "languageCode": "luo",
+          "languageName": {
+            "simpleText": "Luo"
+          }
+        },
+        {
+          "languageCode": "lb",
+          "languageName": {
+            "simpleText": "Luxembourgish"
+          }
+        },
+        {
+          "languageCode": "mk",
+          "languageName": {
+            "simpleText": "Macedonian"
+          }
+        },
+        {
+          "languageCode": "mg",
+          "languageName": {
+            "simpleText": "Malagasy"
+          }
+        },
+        {
+          "languageCode": "ms",
+          "languageName": {
+            "simpleText": "Malay"
+          }
+        },
+        {
+          "languageCode": "ml",
+          "languageName": {
+            "simpleText": "Malayalam"
+          }
+        },
+        {
+          "languageCode": "mt",
+          "languageName": {
+            "simpleText": "Maltese"
+          }
+        },
+        {
+          "languageCode": "gv",
+          "languageName": {
+            "simpleText": "Manx"
+          }
+        },
+        {
+          "languageCode": "mi",
+          "languageName": {
+            "simpleText": "Māori"
+          }
+        },
+        {
+          "languageCode": "mr",
+          "languageName": {
+            "simpleText": "Marathi"
+          }
+        },
+        {
+          "languageCode": "mn",
+          "languageName": {
+            "simpleText": "Mongolian"
+          }
+        },
+        {
+          "languageCode": "mfe",
+          "languageName": {
+            "simpleText": "Morisyen"
+          }
+        },
+        {
+          "languageCode": "ne",
+          "languageName": {
+            "simpleText": "Nepali"
+          }
+        },
+        {
+          "languageCode": "new",
+          "languageName": {
+            "simpleText": "Newari"
+          }
+        },
+        {
+          "languageCode": "nso",
+          "languageName": {
+            "simpleText": "Northern Sotho"
+          }
+        },
+        {
+          "languageCode": "no",
+          "languageName": {
+            "simpleText": "Norwegian"
+          }
+        },
+        {
+          "languageCode": "ny",
+          "languageName": {
+            "simpleText": "Nyanja"
+          }
+        },
+        {
+          "languageCode": "oc",
+          "languageName": {
+            "simpleText": "Occitan"
+          }
+        },
+        {
+          "languageCode": "or",
+          "languageName": {
+            "simpleText": "Odia"
+          }
+        },
+        {
+          "languageCode": "om",
+          "languageName": {
+            "simpleText": "Oromo"
+          }
+        },
+        {
+          "languageCode": "os",
+          "languageName": {
+            "simpleText": "Ossetic"
+          }
+        },
+        {
+          "languageCode": "pam",
+          "languageName": {
+            "simpleText": "Pampanga"
+          }
+        },
+        {
+          "languageCode": "ps",
+          "languageName": {
+            "simpleText": "Pashto"
+          }
+        },
+        {
+          "languageCode": "fa",
+          "languageName": {
+            "simpleText": "Persian"
+          }
+        },
+        {
+          "languageCode": "pl",
+          "languageName": {
+            "simpleText": "Polish"
+          }
+        },
+        {
+          "languageCode": "pt",
+          "languageName": {
+            "simpleText": "Portuguese"
+          }
+        },
+        {
+          "languageCode": "pt-PT",
+          "languageName": {
+            "simpleText": "Portuguese (Portugal)"
+          }
+        },
+        {
+          "languageCode": "pa",
+          "languageName": {
+            "simpleText": "Punjabi"
+          }
+        },
+        {
+          "languageCode": "qu",
+          "languageName": {
+            "simpleText": "Quechua"
+          }
+        },
+        {
+          "languageCode": "ro",
+          "languageName": {
+            "simpleText": "Romanian"
+          }
+        },
+        {
+          "languageCode": "rn",
+          "languageName": {
+            "simpleText": "Rundi"
+          }
+        },
+        {
+          "languageCode": "ru",
+          "languageName": {
+            "simpleText": "Russian"
+          }
+        },
+        {
+          "languageCode": "sm",
+          "languageName": {
+            "simpleText": "Samoan"
+          }
+        },
+        {
+          "languageCode": "sg",
+          "languageName": {
+            "simpleText": "Sango"
+          }
+        },
+        {
+          "languageCode": "sa",
+          "languageName": {
+            "simpleText": "Sanskrit"
+          }
+        },
+        {
+          "languageCode": "gd",
+          "languageName": {
+            "simpleText": "Scottish Gaelic"
+          }
+        },
+        {
+          "languageCode": "sr",
+          "languageName": {
+            "simpleText": "Serbian"
+          }
+        },
+        {
+          "languageCode": "crs",
+          "languageName": {
+            "simpleText": "Seselwa Creole French"
+          }
+        },
+        {
+          "languageCode": "sn",
+          "languageName": {
+            "simpleText": "Shona"
+          }
+        },
+        {
+          "languageCode": "sd",
+          "languageName": {
+            "simpleText": "Sindhi"
+          }
+        },
+        {
+          "languageCode": "si",
+          "languageName": {
+            "simpleText": "Sinhala"
+          }
+        },
+        {
+          "languageCode": "sk",
+          "languageName": {
+            "simpleText": "Slovak"
+          }
+        },
+        {
+          "languageCode": "sl",
+          "languageName": {
+            "simpleText": "Slovenian"
+          }
+        },
+        {
+          "languageCode": "so",
+          "languageName": {
+            "simpleText": "Somali"
+          }
+        },
+        {
+          "languageCode": "st",
+          "languageName": {
+            "simpleText": "Southern Sotho"
+          }
+        },
+        {
+          "languageCode": "es",
+          "languageName": {
+            "simpleText": "Spanish"
+          }
+        },
+        {
+          "languageCode": "su",
+          "languageName": {
+            "simpleText": "Sundanese"
+          }
+        },
+        {
+          "languageCode": "sw",
+          "languageName": {
+            "simpleText": "Swahili"
+          }
+        },
+        {
+          "languageCode": "ss",
+          "languageName": {
+            "simpleText": "Swati"
+          }
+        },
+        {
+          "languageCode": "sv",
+          "languageName": {
+            "simpleText": "Swedish"
+          }
+        },
+        {
+          "languageCode": "tg",
+          "languageName": {
+            "simpleText": "Tajik"
+          }
+        },
+        {
+          "languageCode": "ta",
+          "languageName": {
+            "simpleText": "Tamil"
+          }
+        },
+        {
+          "languageCode": "tt",
+          "languageName": {
+            "simpleText": "Tatar"
+          }
+        },
+        {
+          "languageCode": "te",
+          "languageName": {
+            "simpleText": "Telugu"
+          }
+        },
+        {
+          "languageCode": "th",
+          "languageName": {
+            "simpleText": "Thai"
+          }
+        },
+        {
+          "languageCode": "bo",
+          "languageName": {
+            "simpleText": "Tibetan"
+          }
+        },
+        {
+          "languageCode": "ti",
+          "languageName": {
+            "simpleText": "Tigrinya"
+          }
+        },
+        {
+          "languageCode": "to",
+          "languageName": {
+            "simpleText": "Tongan"
+          }
+        },
+        {
+          "languageCode": "ts",
+          "languageName": {
+            "simpleText": "Tsonga"
+          }
+        },
+        {
+          "languageCode": "tn",
+          "languageName": {
+            "simpleText": "Tswana"
+          }
+        },
+        {
+          "languageCode": "tum",
+          "languageName": {
+            "simpleText": "Tumbuka"
+          }
+        },
+        {
+          "languageCode": "tr",
+          "languageName": {
+            "simpleText": "Turkish"
+          }
+        },
+        {
+          "languageCode": "tk",
+          "languageName": {
+            "simpleText": "Turkmen"
+          }
+        },
+        {
+          "languageCode": "uk",
+          "languageName": {
+            "simpleText": "Ukrainian"
+          }
+        },
+        {
+          "languageCode": "ur",
+          "languageName": {
+            "simpleText": "Urdu"
+          }
+        },
+        {
+          "languageCode": "ug",
+          "languageName": {
+            "simpleText": "Uyghur"
+          }
+        },
+        {
+          "languageCode": "uz",
+          "languageName": {
+            "simpleText": "Uzbek"
+          }
+        },
+        {
+          "languageCode": "ve",
+          "languageName": {
+            "simpleText": "Venda"
+          }
+        },
+        {
+          "languageCode": "vi",
+          "languageName": {
+            "simpleText": "Vietnamese"
+          }
+        },
+        {
+          "languageCode": "war",
+          "languageName": {
+            "simpleText": "Waray"
+          }
+        },
+        {
+          "languageCode": "cy",
+          "languageName": {
+            "simpleText": "Welsh"
+          }
+        },
+        {
+          "languageCode": "fy",
+          "languageName": {
+            "simpleText": "Western Frisian"
+          }
+        },
+        {
+          "languageCode": "wo",
+          "languageName": {
+            "simpleText": "Wolof"
+          }
+        },
+        {
+          "languageCode": "xh",
+          "languageName": {
+            "simpleText": "Xhosa"
+          }
+        },
+        {
+          "languageCode": "yi",
+          "languageName": {
+            "simpleText": "Yiddish"
+          }
+        },
+        {
+          "languageCode": "yo",
+          "languageName": {
+            "simpleText": "Yoruba"
+          }
+        },
+        {
+          "languageCode": "zu",
+          "languageName": {
+            "simpleText": "Zulu"
+          }
+        }
+      ],
+      "defaultAudioTrackIndex": 0
+    }
+  },
+  "videoDetails": {
+    "videoId": "377j05F4edY",
+    "title": "Baby Hates Tummy Time? Try These Tummy Time Positions Instead!!(Tummy Time How To)",
+    "lengthSeconds": "461",
+    "keywords": [
+      "baby hates tummy time",
+      "tummy time newborn",
+      "tummy time exercises for baby",
+      "tummy time",
+      "tummy time tips",
+      "how to do tummy time with newborn",
+      "tummy time for 0 -3",
+      "newborn tummy time",
+      "tummy time boppy",
+      "tummy time on chest",
+      "tummy time on pillow",
+      "tummy time on lap",
+      "tummy time in newborns",
+      "tummy time for babies",
+      "tummy time for babies toys",
+      "tummy time how to",
+      "tummy time for babies when to start",
+      "tummy time for infants",
+      "emma hubbard",
+      "tummy time positions",
+      "how to do tummy time",
+      "baby"
+    ],
+    "channelId": "UCs_CXnifPUvP1zKIpgAYwqw",
+    "isOwnerViewing": false,
+    "shortDescription": "If your baby hates tummy time, you must watch this video!  This video covers 5 different tummy time positions and how you can make all 5 of these tummy time exercises for baby easier so your baby will start to enjoy tummy time. In this video you will be shown how to do tummy time with newborn and game changing tummy time tips. This video will help you make tummy time for babies enjoyable. A great tummy time how to for all new parents.\n\nThese 5 tummy time positions are great tummy time for 0 -3 month old babies and include:\n- Tummy time on pillow/ Tummy time boppy\n- Tummy time on chest\n- Tummy time on Lap\n- Football hold tummy time position\n- Tummy Time on an exercise ball\n\n\n✅ Get your free 0 - 12 months old developmental milestone chart here:\nhttps://brightestbeginning.me/hpsni\n\n👶 Learn how to make sure your baby hits their crucial developmental milestones in their first 6 months with my course, Bright Beginnings: https://brightestbeginning.com/courses/bright-beginnings/\n\n\n0:00-01:13: Introduction\n01:14-02:01: Traditional Tummy Time Position\n02:02-02:54: Football Hold Tummy Time Position\n02:55-03:51: Chest to Chest Tummy Time Position\n03:52-04:16: Tummy Time Across your Lap\n04:16-04:58: Tummy Time on an Exercise Ball\n04:59-05:57: Build Up the Tummy Time Sessions\n07:58-06:54: Distraction is Key\n\n\n#babyhatestummytime  #tummytime #babydevelopment   #emmahubbard\n\nhttps://youtu.be/377j05F4edY",
+    "isCrawlable": true,
+    "thumbnail": {
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/377j05F4edY/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==&rs=AOn4CLDyPxKldntuNKhDE9OKvOdpIGBGGQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/377j05F4edY/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==&rs=AOn4CLC4FAQilYPniA5Cek_6xBs38WBh2w",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/377j05F4edY/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBQ2YHbMy4X469Efo4ZEGMRVrE9mg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/377j05F4edY/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAl4eIfo36J0l29Dq5IPbUTHVGGVQ",
+          "width": 336,
+          "height": 188
+        },
+        {
+          "url": "https://i.ytimg.com/vi/377j05F4edY/maxresdefault.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "allowRatings": true,
+    "viewCount": "867897",
+    "author": "Emma Hubbard",
+    "isPrivate": false,
+    "isUnpluggedCorpus": false,
+    "isLiveContent": false,
+    "isTvfilmVideo": false
+  },
+  "annotations": [
+    {
+      "playerAnnotationsExpandedRenderer": {
+        "featuredChannel": {
+          "startTimeMs": "0",
+          "endTimeMs": "441000",
+          "watermark": {
+            "thumbnails": [
+              {
+                "url": "https://i.ytimg.com/an/s_CXnifPUvP1zKIpgAYwqw/featured_channel.jpg?v=60765caa",
+                "width": 40,
+                "height": 40
+              }
+            ]
+          },
+          "trackingParams": "CBEQ8zciEwi14fegzNKXAxVoRHoFHcGNCzw=",
+          "navigationEndpoint": {
+            "clickTrackingParams": "CBEQ8zciEwi14fegzNKXAxVoRHoFHcGNCzwyAml2ygEEYdRluA==",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "/channel/UCs_CXnifPUvP1zKIpgAYwqw",
+                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                "rootVe": 3611,
+                "apiUrl": "/youtubei/v1/browse"
+              }
+            },
+            "browseEndpoint": {
+              "browseId": "UCs_CXnifPUvP1zKIpgAYwqw"
+            }
+          },
+          "channelName": "Emma Hubbard",
+          "subscribeButton": {
+            "subscribeButtonRenderer": {
+              "buttonText": {
+                "runs": [
+                  {
+                    "text": "SUBSCRIBE"
+                  }
+                ]
+              },
+              "subscribed": false,
+              "enabled": true,
+              "type": "FREE",
+              "channelId": "UCs_CXnifPUvP1zKIpgAYwqw",
+              "showPreferences": false,
+              "subscribedButtonText": {
+                "runs": [
+                  {
+                    "text": "SUBSCRIBED"
+                  }
+                ]
+              },
+              "unsubscribedButtonText": {
+                "runs": [
+                  {
+                    "text": "SUBSCRIBE"
+                  }
+                ]
+              },
+              "trackingParams": "CBIQmysiEwi14fegzNKXAxVoRHoFHcGNCzwyAml2",
+              "unsubscribeButtonText": {
+                "runs": [
+                  {
+                    "text": "UNSUBSCRIBE"
+                  }
+                ]
+              },
+              "serviceEndpoints": [
+                {
+                  "clickTrackingParams": "CBIQmysiEwi14fegzNKXAxVoRHoFHcGNCzwyAml2ygEEYdRluA==",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "sendPost": true,
+                      "apiUrl": "/youtubei/v1/subscription/subscribe"
+                    }
+                  },
+                  "subscribeEndpoint": {
+                    "channelIds": [
+                      "UCs_CXnifPUvP1zKIpgAYwqw"
+                    ],
+                    "params": "EgIIBBgAWAE%3D"
+                  }
+                },
+                {
+                  "clickTrackingParams": "CBIQmysiEwi14fegzNKXAxVoRHoFHcGNCzzKAQRh1GW4",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "sendPost": true
+                    }
+                  },
+                  "signalServiceEndpoint": {
+                    "signal": "CLIENT_SIGNAL",
+                    "actions": [
+                      {
+                        "clickTrackingParams": "CBIQmysiEwi14fegzNKXAxVoRHoFHcGNCzzKAQRh1GW4",
+                        "openPopupAction": {
+                          "popup": {
+                            "confirmDialogRenderer": {
+                              "trackingParams": "CBMQxjgiEwi14fegzNKXAxVoRHoFHcGNCzw=",
+                              "dialogMessages": [
+                                {
+                                  "runs": [
+                                    {
+                                      "text": "Unsubscribe from "
+                                    },
+                                    {
+                                      "text": "Emma Hubbard"
+                                    },
+                                    {
+                                      "text": "?"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "confirmButton": {
+                                "buttonRenderer": {
+                                  "style": "STYLE_BLUE_TEXT",
+                                  "size": "SIZE_DEFAULT",
+                                  "isDisabled": false,
+                                  "text": {
+                                    "runs": [
+                                      {
+                                        "text": "Unsubscribe"
+                                      }
+                                    ]
+                                  },
+                                  "serviceEndpoint": {
+                                    "clickTrackingParams": "CBUQ8FsiEwi14fegzNKXAxVoRHoFHcGNCzwyAml2ygEEYdRluA==",
+                                    "commandMetadata": {
+                                      "webCommandMetadata": {
+                                        "sendPost": true,
+                                        "apiUrl": "/youtubei/v1/subscription/unsubscribe"
+                                      }
+                                    },
+                                    "unsubscribeEndpoint": {
+                                      "channelIds": [
+                                        "UCs_CXnifPUvP1zKIpgAYwqw"
+                                      ],
+                                      "params": "CgIIBBgAMAE%3D"
+                                    }
+                                  },
+                                  "accessibility": {
+                                    "label": "Unsubscribe"
+                                  },
+                                  "trackingParams": "CBUQ8FsiEwi14fegzNKXAxVoRHoFHcGNCzw="
+                                }
+                              },
+                              "cancelButton": {
+                                "buttonRenderer": {
+                                  "style": "STYLE_TEXT",
+                                  "size": "SIZE_DEFAULT",
+                                  "isDisabled": false,
+                                  "text": {
+                                    "runs": [
+                                      {
+                                        "text": "Cancel"
+                                      }
+                                    ]
+                                  },
+                                  "accessibility": {
+                                    "label": "Cancel"
+                                  },
+                                  "trackingParams": "CBQQ8FsiEwi14fegzNKXAxVoRHoFHcGNCzw="
+                                }
+                              },
+                              "primaryIsCancel": false
+                            }
+                          },
+                          "popupType": "DIALOG"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "subscribeAccessibility": {
+                "accessibilityData": {
+                  "label": "Subscribe to Emma Hubbard."
+                }
+              },
+              "unsubscribeAccessibility": {
+                "accessibilityData": {
+                  "label": "Unsubscribe from Emma Hubbard."
+                }
+              },
+              "signInEndpoint": {
+                "clickTrackingParams": "CBIQmysiEwi14fegzNKXAxVoRHoFHcGNCzzKAQRh1GW4",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCs_CXnifPUvP1zKIpgAYwqw%26feature%3Div%26continue_action%3DQUlxb01IYUJyZUYyOTVndHJSUDZIX0k5QUJMenxBSTVJdTV1Z2M3SG5BVzRYMS01Qjh5eXJWd3pfeW5MVTdoU2J4ZHBrV2ZyUWpDNEx1N2stT3N5aFVzbXF3eG9vNFVzQmd1dmVsV19IazcyWnVtQzlMaUdQWVY3QjlVemh6N24xTGNrbERtV0pqMUxZUUxkakZVMmVBLXRZLUtLbHVnYXA5SklpOExvNFdYemFxclhuMUpJVHpJakh5R0hQd2tJN0hzLTJPTXdBVnJoODlMR19LR3RXWG5v&hl=en"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "allowSwipeDismiss": true,
+        "annotationId": "5ef9b5fe-0000-21af-b75c-883d24fcec4c"
+      }
+    }
+  ],
+  "playerConfig": {
+    "granularVariableSpeedConfig": {
+      "minimumPlaybackRate": 25,
+      "maximumPlaybackRate": 200,
+      "stepSize": 5,
+      "defaultPlaybackRateOptions": [
+        {
+          "label": "1.0",
+          "value": 100,
+          "isPremiumUpsell": false,
+          "priority": 5
+        },
+        {
+          "label": "1.25",
+          "value": 125,
+          "isPremiumUpsell": false,
+          "priority": 2
+        },
+        {
+          "label": "1.5",
+          "value": 150,
+          "isPremiumUpsell": false,
+          "priority": 3
+        },
+        {
+          "label": "1.75",
+          "value": 175,
+          "isPremiumUpsell": false,
+          "priority": 0
+        },
+        {
+          "label": "2.0",
+          "value": 200,
+          "isPremiumUpsell": false,
+          "priority": 4
+        },
+        {
+          "label": "3.0",
+          "value": 300,
+          "isPremiumUpsell": true,
+          "priority": 1
+        }
+      ]
+    },
+    "vssClientConfig": {
+      "vssUsePostRequest": true
+    },
+    "audioConfig": {
+      "loudnessDb": -8.8552208,
+      "perceptualLoudnessDb": -22.855221,
+      "enablePerFormatLoudness": true,
+      "trackAbsoluteLoudnessLkfs": -22.855221,
+      "loudnessTargetLkfs": -14,
+      "loudnessNormalizationConfig": {
+        "applyStatefulNormalization": false,
+        "preserveStatefulLoudnessTarget": true,
+        "maxStatefulTimeThresholdSec": 300,
+        "minimumLoudnessTargetLkfs": -31
+      }
+    },
+    "streamSelectionConfig": {
+      "maxBitrate": "23066000"
+    },
+    "playerControlsConfig": {
+      "showCachedInTimebar": true
+    },
+    "daiConfig": {
+      "sendSsdaiMissingAdBreakReasons": true
+    },
+    "mediaCommonConfig": {
+      "dynamicReadaheadConfig": {
+        "maxReadAheadMediaTimeMs": 120000,
+        "minReadAheadMediaTimeMs": 15000,
+        "readAheadGrowthRateMs": 1000
+      },
+      "mediaUstreamerRequestConfig": {
+        "videoPlaybackUstreamerConfig": "CuAGCt4ECAAlAACAPy0zM3M_NT0Klz9yBAoAGACgAQGoAQC4AgHaAn0QsOoBGIDd2wEgoJwBKKCcAXCIJ4AB9APgAQOYAgzQAgLoAgSAAwKIA4gnqAMDwAMByAMBgAQB0AQB2AQB-AQHgAV9wAUByAUB4AXQD_gF0A-QBgHQBgHwBgGAB9APgAgBiAgBnQjNzEw-oAjoB-AIAegI____________AfoCRagB0IYDhQKamRk_jQIAAIA_wALfA_0CzczMPZADAZ0DCtcjPdUEAAAgQbUGvTeGNb0GMzODQMgHAeUHAIAJRPAHAYAIAagDAbADA9ADAdgDAcoEHAoTCMCpBxCYdRjoByUAAAAAKAAwABDg1AMY0A_SBA8KCAiwCRCwCSABIIgnKAHaBA0KBgjwLhDwLiDwLigBmAYBqAaAgALSBhQI6AcQZBoNCIgnFQAAAD8dzcxMP9gGAbgHAaAIAdIIBggBEAEYAakJAAAAAAAA8L-xCQAAAAAAAPC_0AkB2gkkQTFxYXRaSExSdVI2UWxyNEtpN0lycENHcGdMQndxb2RsMjZIoAsB6gsEiwaMBoAMAagMkAHgDQHIDwHQDwGYEAHoEAGQEQGgEQHQEgHgEgGAEwGwEwHYEwDoEwGIFACRFAAAAAAAAPC_mRQAAAAAAADwv8oUEXYyMDI1MDkyMl8xMjI2LjAw2BSIJ-IUNAoAEjBDQU1TSUJVWnVMYkpESlVDbkE3NUZYYWdCcWZ5RDdvUEJNTUdCdFVPMEFTWkFySUSBFQAAAAAAAPC_mBUBqBUBuBUByBUBiKehygsBMgwIiQEQ2YXb3eSg7wIyDAiPAxCflpbi3N2UAzIMCIgBEMz_j93koO8CMgwIjgMQ-q7ps93dlAMyDAiNAxCIwueS3N2UAzIMCIYBELeG9tzkoO8CMgwI8wEQ5ISF3uSg7wIyDAiMAxCa26e-3t2UAzIMCIsDENX5kL_d3ZQDMgwIoAEQu-vP3OSg7wIyDAiKAxDi58Wt3N2UAzIMCIwBELGP7trkoO8CMgwI-wEQi9zs1-Sg7wI6AFIoGgJlbigAMhhVQ3NfQ1huaWZQVXZQMXpLSXBnQVl3cXdAAFgAYAB4AKABAbABBboBAwQFMcIBCAECAwQFCCow0AEAgAIAEkwAot77TTBFAiBhOmzoO-Q52G40SgxIRpsqbl29v7OjZcl9KtSKoWUJmwIhAJsnWj8YBhnNozILPvp4e4baVb7_vNm_jVIAsnhxnAZGGgJlaQ=="
+      },
+      "useServerDrivenAbr": true,
+      "serverPlaybackStartConfig": {
+        "enable": true,
+        "playbackStartPolicy": {
+          "startMinReadaheadPolicy": [
+            {
+              "minReadaheadMs": 1200
+            }
+          ]
+        }
+      },
+      "platypusUseEnvoyNetFetch": false,
+      "fixLivePlaybackModelDefaultPosition": false
+    },
+    "webPlayerConfig": {
+      "useCobaltTvosDash": true,
+      "webPlayerActionsPorting": {
+        "getSharePanelCommand": {
+          "clickTrackingParams": "CAAQu2kiEwi14fegzNKXAxVoRHoFHcGNCzzKAQRh1GW4",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/share/get_web_player_share_panel"
+            }
+          },
+          "webPlayerShareEntityServiceEndpoint": {
+            "serializedShareEntity": "CgszNzdqMDVGNGVkWQ%3D%3D"
+          }
+        },
+        "subscribeCommand": {
+          "clickTrackingParams": "CAAQu2kiEwi14fegzNKXAxVoRHoFHcGNCzzKAQRh1GW4",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/subscription/subscribe"
+            }
+          },
+          "subscribeEndpoint": {
+            "channelIds": [
+              "UCs_CXnifPUvP1zKIpgAYwqw"
+            ],
+            "params": "EgIIBxgA"
+          }
+        },
+        "unsubscribeCommand": {
+          "clickTrackingParams": "CAAQu2kiEwi14fegzNKXAxVoRHoFHcGNCzzKAQRh1GW4",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/subscription/unsubscribe"
+            }
+          },
+          "unsubscribeEndpoint": {
+            "channelIds": [
+              "UCs_CXnifPUvP1zKIpgAYwqw"
+            ],
+            "params": "CgIIBxgA"
+          }
+        },
+        "addToWatchLaterCommand": {
+          "clickTrackingParams": "CAAQu2kiEwi14fegzNKXAxVoRHoFHcGNCzzKAQRh1GW4",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/browse/edit_playlist"
+            }
+          },
+          "playlistEditEndpoint": {
+            "playlistId": "WL",
+            "actions": [
+              {
+                "addedVideoId": "377j05F4edY",
+                "action": "ACTION_ADD_VIDEO"
+              }
+            ]
+          }
+        },
+        "removeFromWatchLaterCommand": {
+          "clickTrackingParams": "CAAQu2kiEwi14fegzNKXAxVoRHoFHcGNCzzKAQRh1GW4",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/browse/edit_playlist"
+            }
+          },
+          "playlistEditEndpoint": {
+            "playlistId": "WL",
+            "actions": [
+              {
+                "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                "removedVideoId": "377j05F4edY"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "storyboards": {
+    "playerStoryboardSpecRenderer": {
+      "spec": "https://i.ytimg.com/sb/377j05F4edY/storyboard3_L$L/$N.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjGjOWoBg==|48#27#100#10#10#0#default#rs$AOn4CLDwJRUN4BouCN-Oq_csg0GM0ifF7Q|80#45#94#10#10#5000#M$M#rs$AOn4CLCpoku_XOw4WWWGAjjtc96PyLXXmw|160#90#94#5#5#5000#M$M#rs$AOn4CLC-Ms-jTnZaJny2e23vMBO9-s-9bw|320#180#94#3#3#5000#M$M#rs$AOn4CLBmndOOJhvY6yIFQ7WA79JnlutrbQ",
+      "recommendedLevel": 3,
+      "fineScrubbingRecommendedLevel": 2,
+      "highResolutionRecommendedLevel": 3
+    }
+  },
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/377j05F4edY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      },
+      "embed": {
+        "iframeUrl": "https://www.youtube.com/embed/377j05F4edY",
+        "width": 1280,
+        "height": 720
+      },
+      "title": {
+        "simpleText": "Baby Hates Tummy Time? Try These Tummy Time Positions Instead!!(Tummy Time How To)"
+      },
+      "description": {
+        "simpleText": "If your baby hates tummy time, you must watch this video!  This video covers 5 different tummy time positions and how you can make all 5 of these tummy time exercises for baby easier so your baby will start to enjoy tummy time. In this video you will be shown how to do tummy time with newborn and game changing tummy time tips. This video will help you make tummy time for babies enjoyable. A great tummy time how to for all new parents.\n\nThese 5 tummy time positions are great tummy time for 0 -3 month old babies and include:\n- Tummy time on pillow/ Tummy time boppy\n- Tummy time on chest\n- Tummy time on Lap\n- Football hold tummy time position\n- Tummy Time on an exercise ball\n\n\n✅ Get your free 0 - 12 months old developmental milestone chart here:\nhttps://brightestbeginning.me/hpsni\n\n👶 Learn how to make sure your baby hits their crucial developmental milestones in their first 6 months with my course, Bright Beginnings: https://brightestbeginning.com/courses/bright-beginnings/\n\n\n0:00-01:13: Introduction\n01:14-02:01: Traditional Tummy Time Position\n02:02-02:54: Football Hold Tummy Time Position\n02:55-03:51: Chest to Chest Tummy Time Position\n03:52-04:16: Tummy Time Across your Lap\n04:16-04:58: Tummy Time on an Exercise Ball\n04:59-05:57: Build Up the Tummy Time Sessions\n07:58-06:54: Distraction is Key\n\n\n#babyhatestummytime  #tummytime #babydevelopment   #emmahubbard\n\nhttps://youtu.be/377j05F4edY"
+      },
+      "lengthSeconds": "462",
+      "ownerProfileUrl": "http://www.youtube.com/@EmmaHubbard",
+      "externalChannelId": "UCs_CXnifPUvP1zKIpgAYwqw",
+      "isFamilySafe": true,
+      "availableCountries": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AI",
+        "AL",
+        "AM",
+        "AO",
+        "AQ",
+        "AR",
+        "AS",
+        "AT",
+        "AU",
+        "AW",
+        "AX",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BL",
+        "BM",
+        "BN",
+        "BO",
+        "BQ",
+        "BR",
+        "BS",
+        "BT",
+        "BV",
+        "BW",
+        "BY",
+        "BZ",
+        "CA",
+        "CC",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CK",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CW",
+        "CX",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "EH",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FK",
+        "FM",
+        "FO",
+        "FR",
+        "GA",
+        "GB",
+        "GD",
+        "GE",
+        "GF",
+        "GG",
+        "GH",
+        "GI",
+        "GL",
+        "GM",
+        "GN",
+        "GP",
+        "GQ",
+        "GR",
+        "GS",
+        "GT",
+        "GU",
+        "GW",
+        "GY",
+        "HK",
+        "HM",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IM",
+        "IN",
+        "IO",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JE",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KY",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MF",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MP",
+        "MQ",
+        "MR",
+        "MS",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NC",
+        "NE",
+        "NF",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NU",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PF",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PM",
+        "PN",
+        "PR",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RE",
+        "RO",
+        "RS",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SH",
+        "SI",
+        "SJ",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SX",
+        "SY",
+        "SZ",
+        "TC",
+        "TD",
+        "TF",
+        "TG",
+        "TH",
+        "TJ",
+        "TK",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "UM",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VG",
+        "VI",
+        "VN",
+        "VU",
+        "WF",
+        "WS",
+        "YE",
+        "YT",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "isUnlisted": false,
+      "hasYpcMetadata": false,
+      "viewCount": "867897",
+      "category": "People & Blogs",
+      "publishDate": "2021-01-07T13:00:04-08:00",
+      "ownerChannelName": "Emma Hubbard",
+      "uploadDate": "2021-01-07T13:00:04-08:00",
+      "isShortsEligible": false,
+      "externalVideoId": "377j05F4edY",
+      "likeCount": "14641",
+      "canonicalUrl": "https://www.youtube.com/watch?v=377j05F4edY"
+    }
+  },
+  "cards": {
+    "cardCollectionRenderer": {
+      "cards": [
+        {
+          "cardRenderer": {
+            "teaser": {
+              "simpleCardTeaserRenderer": {
+                "message": {
+                  "simpleText": "View corrections"
+                },
+                "trackingParams": "CBAQ0DYiEwi14fegzNKXAxVoRHoFHcGNCzw=",
+                "prominent": true,
+                "logVisibilityUpdates": true,
+                "onTapCommand": {
+                  "clickTrackingParams": "CBAQ0DYiEwi14fegzNKXAxVoRHoFHcGNCzzKAQRh1GW4",
+                  "changeEngagementPanelVisibilityAction": {
+                    "targetId": "engagement-panel-error-corrections",
+                    "visibility": "ENGAGEMENT_PANEL_VISIBILITY_EXPANDED"
+                  }
+                }
+              }
+            },
+            "cueRanges": [
+              {
+                "startCardActiveMs": "0",
+                "endCardActiveMs": "5000",
+                "teaserDurationMs": "6000",
+                "iconAfterTeaserMs": "5000"
+              }
+            ],
+            "trackingParams": "CA8QtZcBGAAiEwi14fegzNKXAxVoRHoFHcGNCzw="
+          }
+        }
+      ],
+      "headerText": {
+        "simpleText": "From Emma Hubbard"
+      },
+      "icon": {
+        "infoCardIconRenderer": {
+          "trackingParams": "CA4QsJcBIhMIteH3oMzSlwMVaER6BR3BjQs8"
+        }
+      },
+      "closeButton": {
+        "infoCardIconRenderer": {
+          "trackingParams": "CA0QsZcBIhMIteH3oMzSlwMVaER6BR3BjQs8"
+        }
+      },
+      "trackingParams": "CAwQwjciEwi14fegzNKXAxVoRHoFHcGNCzw=",
+      "allowTeaserDismiss": true,
+      "logIconVisibilityUpdates": true
+    }
+  },
+  "trackingParams": "CAAQu2kiEwi14fegzNKXAxVoRHoFHcGNCzzKAQRh1GW4",
+  "endscreen": {
+    "endscreenRenderer": {
+      "elements": [
+        {
+          "endscreenElementRenderer": {
+            "style": "CHANNEL",
+            "image": {
+              "thumbnails": [
+                {
+                  "url": "https://yt3.ggpht.com/uAh6W2A90TzajfAd7mkG9UoZzqSx5WXwWIirPI6G8WXke6i0XFEo5aK7lnSn4f8LuL4pnmWs=s250-c-k-c0x00ffffff-no-rj",
+                  "width": 250,
+                  "height": 250
+                },
+                {
+                  "url": "https://yt3.ggpht.com/uAh6W2A90TzajfAd7mkG9UoZzqSx5WXwWIirPI6G8WXke6i0XFEo5aK7lnSn4f8LuL4pnmWs=s400-c-k-c0x00ffffff-no-rj",
+                  "width": 400,
+                  "height": 400
+                }
+              ]
+            },
+            "icon": {
+              "thumbnails": [
+                {
+                  "url": "https://www.gstatic.com/youtube/img/annotations/youtube.png"
+                }
+              ]
+            },
+            "left": 0.42280701,
+            "width": 0.15438597,
+            "top": 0.35202491,
+            "aspectRatio": 1,
+            "startMs": "452920",
+            "endMs": "461333",
+            "title": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Emma Hubbard, channel"
+                }
+              },
+              "simpleText": "Emma Hubbard"
+            },
+            "metadata": {
+              "simpleText": "Hi! I'm a Pediatric Occupational Therapist with over 12 years experience and a mum to 3 children. \n\nIf you're a parent this channel is for you! Here you'll learn about child development, common parenting myths to avoid, and get tips and tricks to make your life as parents easier. Everything you see here is evidence based, combined with hands-on clinical experience after working with 1000's of families throughout my career. Not only will this help you be great parents but it will help your child learn important life skills and give them the best start to life.\n\nFor more parenting advice, check out our website: https://brightestbeginning.com\n\nFor sponsorship enquiries please contact via the email address listed on this page.\n\nEmma"
+            },
+            "callToAction": {
+              "simpleText": "VISIT CHANNEL"
+            },
+            "dismiss": {
+              "simpleText": "CANCEL"
+            },
+            "endpoint": {
+              "clickTrackingParams": "CAcQ-N4BGAAiEwi14fegzNKXAxVoRHoFHcGNCzwyDGl2LWVuZHNjcmVlbkjW8-GLufq4398BygEEYdRluA==",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UCs_CXnifPUvP1zKIpgAYwqw",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCs_CXnifPUvP1zKIpgAYwqw"
+              }
+            },
+            "hovercardButton": {
+              "subscribeButtonRenderer": {
+                "buttonText": {
+                  "runs": [
+                    {
+                      "text": "SUBSCRIBE"
+                    }
+                  ]
+                },
+                "subscribed": false,
+                "enabled": true,
+                "type": "FREE",
+                "channelId": "UCs_CXnifPUvP1zKIpgAYwqw",
+                "showPreferences": false,
+                "subscribedButtonText": {
+                  "runs": [
+                    {
+                      "text": "SUBSCRIBED"
+                    }
+                  ]
+                },
+                "unsubscribedButtonText": {
+                  "runs": [
+                    {
+                      "text": "SUBSCRIBE"
+                    }
+                  ]
+                },
+                "trackingParams": "CAgQmysiEwi14fegzNKXAxVoRHoFHcGNCzwyDGl2LWVuZHNjcmVlbg==",
+                "unsubscribeButtonText": {
+                  "runs": [
+                    {
+                      "text": "UNSUBSCRIBE"
+                    }
+                  ]
+                },
+                "serviceEndpoints": [
+                  {
+                    "clickTrackingParams": "CAgQmysiEwi14fegzNKXAxVoRHoFHcGNCzwyDGl2LWVuZHNjcmVlbsoBBGHUZbg=",
+                    "commandMetadata": {
+                      "webCommandMetadata": {
+                        "sendPost": true,
+                        "apiUrl": "/youtubei/v1/subscription/subscribe"
+                      }
+                    },
+                    "subscribeEndpoint": {
+                      "channelIds": [
+                        "UCs_CXnifPUvP1zKIpgAYwqw"
+                      ],
+                      "params": "EgIIBBgAWAE%3D"
+                    }
+                  },
+                  {
+                    "clickTrackingParams": "CAgQmysiEwi14fegzNKXAxVoRHoFHcGNCzzKAQRh1GW4",
+                    "commandMetadata": {
+                      "webCommandMetadata": {
+                        "sendPost": true
+                      }
+                    },
+                    "signalServiceEndpoint": {
+                      "signal": "CLIENT_SIGNAL",
+                      "actions": [
+                        {
+                          "clickTrackingParams": "CAgQmysiEwi14fegzNKXAxVoRHoFHcGNCzzKAQRh1GW4",
+                          "openPopupAction": {
+                            "popup": {
+                              "confirmDialogRenderer": {
+                                "trackingParams": "CAkQxjgiEwi14fegzNKXAxVoRHoFHcGNCzw=",
+                                "dialogMessages": [
+                                  {
+                                    "runs": [
+                                      {
+                                        "text": "Unsubscribe from "
+                                      },
+                                      {
+                                        "text": "Emma Hubbard"
+                                      },
+                                      {
+                                        "text": "?"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "confirmButton": {
+                                  "buttonRenderer": {
+                                    "style": "STYLE_BLUE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "isDisabled": false,
+                                    "text": {
+                                      "runs": [
+                                        {
+                                          "text": "Unsubscribe"
+                                        }
+                                      ]
+                                    },
+                                    "serviceEndpoint": {
+                                      "clickTrackingParams": "CAsQ8FsiEwi14fegzNKXAxVoRHoFHcGNCzwyDGl2LWVuZHNjcmVlbsoBBGHUZbg=",
+                                      "commandMetadata": {
+                                        "webCommandMetadata": {
+                                          "sendPost": true,
+                                          "apiUrl": "/youtubei/v1/subscription/unsubscribe"
+                                        }
+                                      },
+                                      "unsubscribeEndpoint": {
+                                        "channelIds": [
+                                          "UCs_CXnifPUvP1zKIpgAYwqw"
+                                        ],
+                                        "params": "CgIIBBgAMAE%3D"
+                                      }
+                                    },
+                                    "accessibility": {
+                                      "label": "Unsubscribe"
+                                    },
+                                    "trackingParams": "CAsQ8FsiEwi14fegzNKXAxVoRHoFHcGNCzw="
+                                  }
+                                },
+                                "cancelButton": {
+                                  "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "isDisabled": false,
+                                    "text": {
+                                      "runs": [
+                                        {
+                                          "text": "Cancel"
+                                        }
+                                      ]
+                                    },
+                                    "accessibility": {
+                                      "label": "Cancel"
+                                    },
+                                    "trackingParams": "CAoQ8FsiEwi14fegzNKXAxVoRHoFHcGNCzw="
+                                  }
+                                },
+                                "primaryIsCancel": false
+                              }
+                            },
+                            "popupType": "DIALOG"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "subscribeAccessibility": {
+                  "accessibilityData": {
+                    "label": "Subscribe to Emma Hubbard."
+                  }
+                },
+                "unsubscribeAccessibility": {
+                  "accessibilityData": {
+                    "label": "Unsubscribe from Emma Hubbard."
+                  }
+                },
+                "signInEndpoint": {
+                  "clickTrackingParams": "CAgQmysiEwi14fegzNKXAxVoRHoFHcGNCzzKAQRh1GW4",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCs_CXnifPUvP1zKIpgAYwqw%26feature%3Div-endscreen%26continue_action%3DQUlxb01IYldteWZleWJhaEpjbXI2RU5TUEhMeHxBSTVJdTV0YjVtYXlKejU1ZkkxTkMxMVhoOXhCVndRYkVBeFU4QnFqNDVGWGIwM1BNLWJMd2JHV3ZwSmJ0cVpBSmxYMU5NU052VXhJUUkzUXlNLUpHaEEtcVBIaVRxLVNZZEEzNUN6ZUljUjM2eURJc1J4WWlLUjhTSmY0MXU0RFNwdDU5NG5MZ0hsUVR0MEU3WnFUOW1WeUhwT250SGlwZGk0MDBKbHFkSnBsWFROSUxaRDNQVl8xUW1j&hl=en"
+                    }
+                  }
+                }
+              }
+            },
+            "trackingParams": "CAcQ-N4BGAAiEwi14fegzNKXAxVoRHoFHcGNCzw=",
+            "isSubscribe": true,
+            "id": "15453037284544967104"
+          }
+        },
+        {
+          "endscreenElementRenderer": {
+            "style": "VIDEO",
+            "image": {
+              "thumbnails": [
+                {
+                  "url": "https://i.ytimg.com/vi/EcbZr6I12Yc/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==&rs=AOn4CLD-_-io9kGVJk-JqgcaVc2p6MaRBQ",
+                  "width": 168,
+                  "height": 94
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/EcbZr6I12Yc/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==&rs=AOn4CLCqnvo07QcazJ2uobiUSGKgZg27ag",
+                  "width": 196,
+                  "height": 110
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/EcbZr6I12Yc/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDcN-qV8RCgZIhLa1EfK0QWFzOvBw",
+                  "width": 246,
+                  "height": 138
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/EcbZr6I12Yc/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCuGnXiwljfv5ycbF9VNhw2qnIgoA",
+                  "width": 336,
+                  "height": 188
+                },
+                {
+                  "url": "https://i.ytimg.com/vi_webp/EcbZr6I12Yc/maxresdefault.webp",
+                  "width": 1920,
+                  "height": 1080
+                }
+              ]
+            },
+            "left": 0.022807017,
+            "width": 0.32280701,
+            "top": 0.32788163,
+            "aspectRatio": 1.7777778,
+            "startMs": "452920",
+            "endMs": "461333",
+            "title": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "These are the behaviors you need to worry about..., video"
+                }
+              },
+              "simpleText": "These are the behaviors you need to worry about..."
+            },
+            "metadata": {
+              "simpleText": "249,532 views"
+            },
+            "endpoint": {
+              "clickTrackingParams": "CAYQ8t4BGAEiEwi14fegzNKXAxVoRHoFHcGNCzwyDGl2LWVuZHNjcmVlbkjW8-GLufq4398BmgEDELtpygEEYdRluA==",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/watch?v=EcbZr6I12Yc",
+                  "webPageType": "WEB_PAGE_TYPE_WATCH",
+                  "rootVe": 3832
+                },
+                "interactionLoggingCommandMetadata": {
+                  "loggingExpectations": {
+                    "screenCreatedLoggingExpectations": {
+                      "expectedParentScreens": [
+                        {
+                          "screenVeType": 3832
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              "watchEndpoint": {
+                "videoId": "EcbZr6I12Yc",
+                "watchEndpointSupportedOnesieConfig": {
+                  "html5PlaybackOnesieConfig": {
+                    "commonConfig": {
+                      "url": "https://rr2---sn-uxv-8ovd.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&oehoh5=1&epbp=1&msp=1&odepv=1&id=11c6d9afa235d987&ip=78.61.157.188&initcwndbps=2883250&mt=1792842107&oweuc="
+                    }
+                  }
+                }
+              }
+            },
+            "trackingParams": "CAYQ8t4BGAEiEwi14fegzNKXAxVoRHoFHcGNCzw=",
+            "id": "15453037284544970215",
+            "thumbnailOverlays": [
+              {
+                "thumbnailOverlayTimeStatusRenderer": {
+                  "text": {
+                    "accessibility": {
+                      "accessibilityData": {
+                        "label": "10 minutes, 35 seconds"
+                      }
+                    },
+                    "simpleText": "10:35"
+                  },
+                  "style": "DEFAULT"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "endscreenElementRenderer": {
+            "style": "PLAYLIST",
+            "image": {
+              "thumbnails": [
+                {
+                  "url": "https://i.ytimg.com/vi/NT71VUpWYCY/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==&rs=AOn4CLDUAoHPHVO4hczyxaSL38cRFJQL1w",
+                  "width": 168,
+                  "height": 94
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/NT71VUpWYCY/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==&rs=AOn4CLCS2GnJVXhHR_K66OsNE0GPYjEjbA",
+                  "width": 196,
+                  "height": 110
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/NT71VUpWYCY/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAvQuJRnHIEOESAtOSEDiiQAgGOwQ",
+                  "width": 246,
+                  "height": 138
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/NT71VUpWYCY/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAmh5G1ypY48RIrAHCfGDNlyJUJ3Q",
+                  "width": 336,
+                  "height": 188
+                },
+                {
+                  "url": "https://i.ytimg.com/vi_webp/NT71VUpWYCY/maxresdefault.webp",
+                  "width": 1920,
+                  "height": 1080
+                }
+              ]
+            },
+            "playlistLength": {
+              "simpleText": "117 videos"
+            },
+            "left": 0.65438598,
+            "width": 0.32280701,
+            "top": 0.32788163,
+            "aspectRatio": 1.7777778,
+            "startMs": "452920",
+            "endMs": "461333",
+            "title": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "117 videos, Baby Development (0-3 Months)"
+                }
+              },
+              "simpleText": "Baby Development (0-3 Months)"
+            },
+            "metadata": {
+              "simpleText": "by Emma Hubbard"
+            },
+            "endpoint": {
+              "clickTrackingParams": "CAUQ894BGAIiEwi14fegzNKXAxVoRHoFHcGNCzwyDGl2LWVuZHNjcmVlbkjW8-GLufq4398BmgEDELtpygEEYdRluA==",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/watch?v=NT71VUpWYCY&list=PLEPQYw7MIUjYo7jne9pNJ1O96qtGik5BW&pp=0gcJCW0BHUcdqGbM",
+                  "webPageType": "WEB_PAGE_TYPE_WATCH",
+                  "rootVe": 3832
+                }
+              },
+              "watchEndpoint": {
+                "videoId": "NT71VUpWYCY",
+                "playlistId": "PLEPQYw7MIUjYo7jne9pNJ1O96qtGik5BW",
+                "playerParams": "0gcJCW0BHUcdqGbM",
+                "loggingContext": {
+                  "vssLoggingContext": {
+                    "serializedContextData": "GiJQTEVQUVl3N01JVWpZbzdqbmU5cE5KMU85NnF0R2lrNUJX"
+                  }
+                },
+                "watchEndpointSupportedOnesieConfig": {
+                  "html5PlaybackOnesieConfig": {
+                    "commonConfig": {
+                      "url": "https://rr2---sn-uxv-8ovd.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&oehoh5=1&epbp=1&msp=1&odepv=1&id=353ef5554a566026&ip=78.61.157.188&initcwndbps=2883250&mt=1792842107&oweuc="
+                    }
+                  }
+                }
+              }
+            },
+            "trackingParams": "CAUQ894BGAIiEwi14fegzNKXAxVoRHoFHcGNCzw=",
+            "id": "15453037284544969230"
+          }
+        }
+      ],
+      "startMs": "452920",
+      "trackingParams": "CAEQ794BIhMIteH3oMzSlwMVaER6BR3BjQs8",
+      "hideButton": {
+        "toggleButtonViewModel": {
+          "defaultButtonViewModel": {
+            "buttonViewModel": {
+              "iconName": "VISIBILITY_OFF",
+              "title": "Hide",
+              "onTap": {
+                "innertubeCommand": {
+                  "clickTrackingParams": "CAQQ088OIhMIteH3oMzSlwMVaER6BR3BjQs8ygEEYdRluA==",
+                  "changeCreatorEndscreenVisibilityCommand": {
+                    "hide": true
+                  }
+                }
+              },
+              "accessibilityText": "Hide endscreen cards",
+              "style": "BUTTON_VIEW_MODEL_STYLE_OVERLAY",
+              "trackingParams": "CAQQ088OIhMIteH3oMzSlwMVaER6BR3BjQs8",
+              "type": "BUTTON_VIEW_MODEL_TYPE_FILLED",
+              "buttonSize": "BUTTON_VIEW_MODEL_SIZE_XSMALL"
+            }
+          },
+          "toggledButtonViewModel": {
+            "buttonViewModel": {
+              "iconName": "VISIBILITY",
+              "title": "Show",
+              "onTap": {
+                "innertubeCommand": {
+                  "clickTrackingParams": "CAMQ1M8OIhMIteH3oMzSlwMVaER6BR3BjQs8ygEEYdRluA==",
+                  "changeCreatorEndscreenVisibilityCommand": {
+                    "hide": false
+                  }
+                }
+              },
+              "accessibilityText": "Show endscreen cards",
+              "style": "BUTTON_VIEW_MODEL_STYLE_OVERLAY",
+              "trackingParams": "CAMQ1M8OIhMIteH3oMzSlwMVaER6BR3BjQs8",
+              "type": "BUTTON_VIEW_MODEL_TYPE_FILLED",
+              "buttonSize": "BUTTON_VIEW_MODEL_SIZE_XSMALL"
+            }
+          },
+          "rendererContext": {
+            "loggingContext": {
+              "loggingDirectives": {
+                "trackingParams": "CAIQ_O4OIhMIteH3oMzSlwMVaER6BR3BjQs8",
+                "visibility": {
+                  "types": "12"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "adPlacements": [
+    {
+      "adPlacementRenderer": {
+        "config": {
+          "adPlacementConfig": {
+            "kind": "AD_PLACEMENT_KIND_START",
+            "adTimeOffset": {
+              "offsetStartMilliseconds": "0",
+              "offsetEndMilliseconds": "-1"
+            },
+            "hideCueRangeMarker": true
+          }
+        },
+        "renderer": {
+          "clientForecastingAdRenderer": {}
+        },
+        "adSlotLoggingData": {
+          "serializedSlotAdServingDataEntry": "ChMIxLX5oMzSlwMVkDsGAB1QkS9BGhJiEEpTYW00Mmd0SjJpM1ZIT2g="
+        }
+      }
+    }
+  ],
+  "adBreakHeartbeatParams": "Q0FBJTNE",
+  "frameworkUpdates": {
+    "entityBatchUpdate": {
+      "mutations": [
+        {
+          "entityKey": "Eg0KCzM3N2owNUY0ZWRZIPYBKAE%3D",
+          "type": "ENTITY_MUTATION_TYPE_REPLACE",
+          "payload": {
+            "offlineabilityEntity": {
+              "key": "Eg0KCzM3N2owNUY0ZWRZIPYBKAE%3D",
+              "addToOfflineButtonState": "ADD_TO_OFFLINE_BUTTON_STATE_UNKNOWN"
+            }
+          }
+        }
+      ],
+      "timestamp": {
+        "seconds": "1792842898",
+        "nanos": 791371444
+      }
+    }
+  }
+}

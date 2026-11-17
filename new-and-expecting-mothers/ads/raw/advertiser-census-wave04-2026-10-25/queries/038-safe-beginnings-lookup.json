@@ -1,0 +1,20 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "Safe Beginnings",
+  "captured_at": "2026-10-24T21:55:15.765Z",
+  "suggestions": "ge/\"\n  uid=49_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=49_1 generic\n      uid=49_2 button \"Search for exact phrase Safe Beginnings\"\n    uid=49_3 generic description=\"Truth Before Comfort @FreshBeginningsSafeHouse· 1.2K follow this · Digital creator @freshbeginningssafehouse· 214 followers\"\n    uid=49_4 generic description=\"Safe Beginnings First Aid @safebeginningsfirstaid· 4.4K follow this · Safety & First Aid Service @safebeginnings· 158K followers\"\n    uid=49_5 generic description=\"New Beginnings Place of Safety @NewbeginningsSA· 73 follow this · Organization\"\n",
+  "candidates": [
+    {
+      "uid": "49_3",
+      "description": "Truth Before Comfort @FreshBeginningsSafeHouse· 1.2K follow this · Digital creator @freshbeginningssafehouse· 214 followers"
+    },
+    {
+      "uid": "49_4",
+      "description": "Safe Beginnings First Aid @safebeginningsfirstaid· 4.4K follow this · Safety & First Aid Service @safebeginnings· 158K followers"
+    },
+    {
+      "uid": "49_5",
+      "description": "New Beginnings Place of Safety @NewbeginningsSA· 73 follow this · Organization"
+    }
+  ]
+}

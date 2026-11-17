@@ -1,0 +1,295 @@
+{
+  "repeated_native_authors": [
+    {
+      "native_author_sha256": "888160a4d2ee4622d43dafcdf6a6bbbf7299488f7db74c80ea70fec643de3a0f",
+      "own_post_ids": [
+        "1ptk8vz",
+        "1pu3eik"
+      ],
+      "other_voice_records": []
+    }
+  ],
+  "exact_native_body_matches": [],
+  "same_post_other_voice_records": [],
+  "index_records": 15226,
+  "other_commercial_reader_shared_authors": [],
+  "other_commercial_ledgers_checked": [
+    {
+      "file": "sources/report-purchase-archive-wave03-reading.jsonl",
+      "sha256": "4024f9ec31d6297170dbe3b884b14dde8d3f89d1957eb77b9a275f0f24ca0968",
+      "records": 64
+    },
+    {
+      "file": "sources/report-purchase-supplement-04-reading.jsonl",
+      "sha256": "e5eaa4a4f057df54b37abe43f56189c09fdf234068e41e3134eb39b48b7b1a91",
+      "records": 15
+    }
+  ],
+  "all_391_candidate_shared_authors": [
+    {
+      "own_full_read_post_ids": [
+        "1pcu61m"
+      ],
+      "all_candidate_post_ids": [
+        "1p62t4w",
+        "1pcu61m"
+      ],
+      "outside_full_read_ids_are_metadata_only": true
+    },
+    {
+      "own_full_read_post_ids": [
+        "1ptk8vz",
+        "1pu3eik"
+      ],
+      "all_candidate_post_ids": [
+        "1ptk8vz",
+        "1pu3eik"
+      ],
+      "outside_full_read_ids_are_metadata_only": true
+    },
+    {
+      "own_full_read_post_ids": [
+        "1ouah0y"
+      ],
+      "all_candidate_post_ids": [
+        "1nz1nuy",
+        "1ouah0y"
+      ],
+      "outside_full_read_ids_are_metadata_only": true
+    }
+  ],
+  "voice_snapshot": [
+    {
+      "file": "voice/ads-01.jsonl",
+      "sha256": "e01002b9177a9a0be12a1351a59b561174723b350c8f40df59cf86930417ff0a",
+      "records": 4
+    },
+    {
+      "file": "voice/ads-deep-01.jsonl",
+      "sha256": "0394a89d82fd1cfba40fa540365bea4022594edfd3e83a28d28796f95508cff6",
+      "records": 2
+    },
+    {
+      "file": "voice/audience-01.jsonl",
+      "sha256": "924aa9351200bddf3856b543c30ac868dcca7488db8a0a672360f372be02a596",
+      "records": 155
+    },
+    {
+      "file": "voice/forums-deep-01.jsonl",
+      "sha256": "2d6b9a04d55edc1d13393f8d863489d89843b31eec21588222ccefe4955d75fe",
+      "records": 11
+    },
+    {
+      "file": "voice/forums-deep-02.jsonl",
+      "sha256": "2a1411f5107e82c63a47c3d47619355390678b8e8fd54d2ce8b358c2b5c0171a",
+      "records": 15
+    },
+    {
+      "file": "voice/guidance-01.jsonl",
+      "sha256": "e971797472528d9dedeefb1f9d1965b7c4cdb84e0bed114eea5159e94eac3d37",
+      "records": 8
+    },
+    {
+      "file": "voice/guidance-02.jsonl",
+      "sha256": "8e2b20d7bd0adee08c9ec5510c84b8ea0822be11e890e0da367b3684a6af851d",
+      "records": 2
+    },
+    {
+      "file": "voice/market-01.jsonl",
+      "sha256": "3686418d7f7d9cb50c20df469680d757110180e118873e87fefcc9884a7df4bd",
+      "records": 27
+    },
+    {
+      "file": "voice/market-02.jsonl",
+      "sha256": "2c8fc3f2d92e2cc5604273a903f12300528f959cc78d6e36d37895b840b2978f",
+      "records": 16
+    },
+    {
+      "file": "voice/market-03.jsonl",
+      "sha256": "9715348982f680c3e90302e3a67391340aff8c1fa328b11d1df252ad46a00140",
+      "records": 5
+    },
+    {
+      "file": "voice/market-04.jsonl",
+      "sha256": "57da9821dcf0376cf5b409abccd6847d1ae937c942219c884ca511e459aa8aaf",
+      "records": 2
+    },
+    {
+      "file": "voice/market-05.jsonl",
+      "sha256": "5f7495940d78c5dd47d38946e26c0749fe9f464be9abec76c2832a4b72009d1c",
+      "records": 6
+    },
+    {
+      "file": "voice/oblique-deep-01.jsonl",
+      "sha256": "0acae1a521d13ba0ca003f7ec22be473cdaba0a8ac5a9740fee2ffde22f2e44a",
+      "records": 57
+    },
+    {
+      "file": "voice/oblique-deep-02.jsonl",
+      "sha256": "13ba859647827807e14331aa1c526ef002b03879caeb4292460f9eb67c3ec6df",
+      "records": 111
+    },
+    {
+      "file": "voice/oblique-deep-03.jsonl",
+      "sha256": "f7d7ed4d6cd31e03663fcd585ef4dc9d038941a9503c87ad0dbff95db54ae2c5",
+      "records": 106
+    },
+    {
+      "file": "voice/oblique-deep-04.jsonl",
+      "sha256": "8b6c07a4dd70ef00aec1ec18b4aeb7b53f2c4a21bb57e2c21e738ccd6130afa3",
+      "records": 81
+    },
+    {
+      "file": "voice/oblique-deep-05.jsonl",
+      "sha256": "bd6541576c52ddb6f5033a52141245eb9baeaddbad91f001a781d73907332e38",
+      "records": 53
+    },
+    {
+      "file": "voice/offer-followups-wave03.jsonl",
+      "sha256": "383f0c54c7acc85e267d11527c6dc04ea9ef54b89622e2bdd79cdee0e1a846e3",
+      "records": 4
+    },
+    {
+      "file": "voice/qa-deep-01.jsonl",
+      "sha256": "e888f4e143f2b77fce0713b3087a8e3db012d085050dd5b4d90115a1a17ad489",
+      "records": 134
+    },
+    {
+      "file": "voice/reddit-augdec-01.jsonl",
+      "sha256": "ca54efe645c497879fe5d81f2458164cc9ff4e2a1b91d86239edcb3dedbaa4db",
+      "records": 102
+    },
+    {
+      "file": "voice/reddit-augdec-02.jsonl",
+      "sha256": "58f9e62b5d2c913d921fbfa8f7345e90bd0a0cc52107df83a4836a53e4c925c9",
+      "records": 134
+    },
+    {
+      "file": "voice/reddit-augdec-03.jsonl",
+      "sha256": "238753a57e71defb577f4ff10e18633e36004d3879b0a2e6d7b29d672671c47b",
+      "records": 207
+    },
+    {
+      "file": "voice/reddit-augdec-04.jsonl",
+      "sha256": "4b18b005f6d491859d646665de274c0807799fdc840188a3078bf744423ed1fc",
+      "records": 27
+    },
+    {
+      "file": "voice/reddit-augdec-05.jsonl",
+      "sha256": "8e705befdb22896ef56c7a8ae31604b9fbe603ba57ca8e2f8a9e763b7804fe97",
+      "records": 49
+    },
+    {
+      "file": "voice/reddit-augdec-06.jsonl",
+      "sha256": "b7d138eb629286279f3dbc5fdb7ca903bfcb035f6c7b948e44eaf8acaf0c5deb",
+      "records": 44
+    },
+    {
+      "file": "voice/reddit-augdec-07.jsonl",
+      "sha256": "a871510818eb8f67c5b7ec58d29bca34921ee8d797856c92fcf533e53c3ace3c",
+      "records": 22
+    },
+    {
+      "file": "voice/reddit-augdec-08.jsonl",
+      "sha256": "8fbb9ded7b8795a692029af68e7458e137bfdb3c70695dcb1c1b372e70733ab8",
+      "records": 16
+    },
+    {
+      "file": "voice/reddit-country-B-01.jsonl",
+      "sha256": "9068fbe4751512acf14cfae00fa542d532d6e6fb5508ffb0f579ee14796ed277",
+      "records": 31
+    },
+    {
+      "file": "voice/reddit-country-B-02.jsonl",
+      "sha256": "8eb55fc0c42489ea5263947d9d54125dccab9e348b76d93de1e25fe2debf7fe2",
+      "records": 47
+    },
+    {
+      "file": "voice/reddit-country-B-03.jsonl",
+      "sha256": "d56151c1310b9f2fd21e82de65840965af6d9f15af85eb15e71cd53a19327b19",
+      "records": 39
+    },
+    {
+      "file": "voice/reddit-july-B-solids.jsonl",
+      "sha256": "0618ca4092174eb62668d38d9c6ac1529b14abcf4f5eb1ee1b3afcaa142cab8f",
+      "records": 47
+    },
+    {
+      "file": "voice/reddit-july-focused.jsonl",
+      "sha256": "0b5a72dbbbf324fd771cde985ad76fb1614678baedcfd5c7ac7d806908993a5d",
+      "records": 97
+    },
+    {
+      "file": "voice/reddit-july-newparents.jsonl",
+      "sha256": "4192caaf6be5063795cdd2d1ce16d940746b38c7561cd0e9e65989b22086ebc0",
+      "records": 142
+    },
+    {
+      "file": "voice/reddit-july-pregnancy.jsonl",
+      "sha256": "fee973ed1603e27b73258438df170b2db4cb826875f268054b011c9f846bc520",
+      "records": 42
+    },
+    {
+      "file": "voice/reddit-payment-01.jsonl",
+      "sha256": "3a83cc51ea3d5e6930607e85cb661fe19d5070f7fbb2901a2c4119b2ba8dcf2a",
+      "records": 17
+    },
+    {
+      "file": "voice/reddit-purchase-followups-wave03.jsonl",
+      "sha256": "96353e65a959f446897841882f2e44af10e1802f700f5bdf9117440e8fc8de2e",
+      "records": 1
+    },
+    {
+      "file": "voice/reddit-report-purchases-v2.jsonl",
+      "sha256": "358f87b0066440691399fa00afbba697d6412bd55de8f4d7c8fe05ad294a60a5",
+      "records": 3
+    },
+    {
+      "file": "voice/report-buyers-wave03.jsonl",
+      "sha256": "dbefcb083d19ad04f78aa071ed65365a057adbeafb8d43c447de95070bc302e4",
+      "records": 7
+    },
+    {
+      "file": "voice/report-purchase-archive-wave03.jsonl",
+      "sha256": "4c79fe6071293518bd57106988784b33cc8de22c39026cf275a508bb312dc48b",
+      "records": 21
+    },
+    {
+      "file": "voice/report-purchase-supplement-04.jsonl",
+      "sha256": "9bf540a03cb46d686c0b73f88c42fc1828f02c551b19c8f6d210e5e591b043d9",
+      "records": 13
+    },
+    {
+      "file": "voice/report-purchase-supplement-05.jsonl",
+      "sha256": "758ee046382b05c16868f624de4f722e1e1abddd266617b5164be025d2b5067f",
+      "records": 22
+    },
+    {
+      "file": "voice/reviews-books-01.jsonl",
+      "sha256": "be6a40148929a623ea783925158c6590fb7a23dbd7055429dc1d36353288cb05",
+      "records": 9
+    },
+    {
+      "file": "voice/reviews-followup-01.jsonl",
+      "sha256": "879ec6ec253d01412ba041b1526baaae2b6cae57e4f2452df5873fa5d99b7366",
+      "records": 26
+    },
+    {
+      "file": "voice/reviews-media-01.jsonl",
+      "sha256": "0a3d4f9c518a7e1d7e376df320a0361862508f736a9d3efb8013a9fb831e3208",
+      "records": 171
+    },
+    {
+      "file": "voice/reviews-registry-01.jsonl",
+      "sha256": "37b0a17faef854bfca213c88c71a354564d971e693980e5d70f311276de3f344",
+      "records": 3
+    },
+    {
+      "file": "voice/reviews-wave-03.jsonl",
+      "sha256": "9b559dd0309d18a997a845a14a56cbf1538679be0e3b9d7e76a06adc8862ac58",
+      "records": 22
+    }
+  ],
+  "scope": "Machine metadata/hash dependence audit only, not new human full-original credit. All voice work IDs checked; author comparison is limited to the two-community native index and its shared hash namespace. Archived identity/authenticity unverified.",
+  "utc": "2026-10-24T20:59:45.265622+00:00"
+}

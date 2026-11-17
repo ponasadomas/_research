@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:54:56 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Cache-Control": "public, max-age=600",
+    "content-security-policy": "default-src 'unsafe-inline' https:; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https:; frame-ancestors 'self' https:; font-src 'unsafe-inline' https: data:; img-src 'unsafe-inline' https: data:",
+    "no-vary-search": "params=(\"PageSpeed\")",
+    "permissions-policy": "",
+    "referrer-policy": "same-origin",
+    "Server": "cloudflare",
+    "strict-transport-security": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-pantheon-styx-hostname": "styx-us-a-fbbcf58dd-prmzk",
+    "x-styx-req-id": "48cb826c-cff4-11f1-82f4-3a0c68d6cd48",
+    "x-served-by": "cache-chi-kigq8000156-CHI, cache-hel1410024-HEL",
+    "x-cache": "HIT, MISS",
+    "x-cache-hits": "3, 0",
+    "x-timer": "S1792878896.092714,VS0,VE112",
+    "vary": "Accept-Encoding, Cookie, Cookie",
+    "Age": "543",
+    "via": "1.1 varnish, 1.1 varnish",
+    "cf-cache-status": "DYNAMIC",
+    "Content-Encoding": "gzip",
+    "CF-RAY": "a4fc390c585ea866-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "history": []
+}

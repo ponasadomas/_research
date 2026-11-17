@@ -1,0 +1,50 @@
+{
+  "before_sha256": "4dd1f259bd34bd70db3c57e8d2b43afed27f0e47128630c785ea2470a35ae3be",
+  "after_sha256": "021ea8402c4badc20bed69b6ecbd4c5e5e10481e614dfcd7675430d4b94003a8",
+  "literal_quotes_IDs_and_raw_sources_unchanged": true,
+  "reasons": [
+    "Daycare restart does not establish employment.",
+    "Book found at retailer does not establish free access.",
+    "Instagram absence is source access, not language access."
+  ],
+  "changes": [
+    {
+      "id": "rbc01-0017",
+      "field": "themes",
+      "before": [
+        "meal_planning",
+        "daycare_handoff",
+        "return_to_work"
+      ],
+      "after": [
+        "meal_planning",
+        "daycare_handoff"
+      ]
+    },
+    {
+      "id": "rbc01-0029",
+      "field": "themes",
+      "before": [
+        "language_access",
+        "free_alternatives"
+      ],
+      "after": [
+        "source_access",
+        "free_alternatives"
+      ]
+    },
+    {
+      "id": "rbc01-0031",
+      "field": "themes",
+      "before": [
+        "meal_planning",
+        "free_alternatives",
+        "counterevidence"
+      ],
+      "after": [
+        "meal_planning",
+        "counterevidence"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "query": "\"MyMatLeave\"",
+    "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&q=%22MyMatLeave%22&search_type=keyword_exact_phrase&sort_data[mode]=total_impressions&sort_data[direction]=desc",
+    "visible_ids": [],
+    "result_label": "No ads match your search criteria",
+    "raw_file": "_raw/ads/my-mat-leave-deep-query.json"
+  },
+  {
+    "query": "\"The Starter Set\"",
+    "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&q=%22The%20Starter%20Set%22&search_type=keyword_exact_phrase&sort_data[mode]=total_impressions&sort_data[direction]=desc",
+    "visible_ids": [
+      "1072650265415876",
+      "2369249913846363",
+      "903212632383812",
+      "4701615743391548",
+      "1031518676332557",
+      "1178158960311977",
+      "890123310749144",
+      "917419820838151",
+      "872635038863371",
+      "858593213855107",
+      "983092768120826",
+      "2290593161693899",
+      "1763679408119653",
+      "1402725235211147",
+      "2200916814028502",
+      "1315991453821457",
+      "1765556334772421",
+      "2111693586436314",
+      "1636273920954188",
+      "1488156073150217",
+      "4785619468332490",
+      "1305264834880281",
+      "991075894012632",
+      "2101531890791015",
+      "2156401914978141",
+      "896910590137766",
+      "816100997694177",
+      "1367069605639876",
+      "2314480815991433"
+    ],
+    "result_label": "~910 results",
+    "raw_file": "_raw/ads/starter-set-deep-query.json"
+  },
+  {
+    "query": "thestarterset.com",
+    "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&q=thestarterset.com&search_type=keyword_unordered&sort_data[mode]=total_impressions&sort_data[direction]=desc",
+    "visible_ids": [
+      "1335468128154823",
+      "1487210410125193",
+      "1889792095496859",
+      "3262395007292940",
+      "1604462863973703"
+    ],
+    "result_label": "~5 results",
+    "raw_file": "_raw/ads/starter-domain-deep-query.json"
+  },
+  {
+    "query": "mastermaternityleave.com",
+    "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&q=mastermaternityleave.com&search_type=keyword_unordered&sort_data[mode]=total_impressions&sort_data[direction]=desc",
+    "visible_ids": [
+      "1804441577549614",
+      "1124475943769660",
+      "2527356304342424"
+    ],
+    "result_label": "~3 results",
+    "raw_file": "_raw/ads/master-maternity-deep-query.json"
+  }
+]

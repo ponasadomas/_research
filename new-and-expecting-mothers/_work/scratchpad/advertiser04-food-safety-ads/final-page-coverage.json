@@ -1,0 +1,557 @@
+[
+  {
+    "query": "Solid Starts",
+    "page_id": "102312321163259",
+    "file": "_raw/advertiser-census-wave04-2026-10-25/queries/006-solid-starts-page.json",
+    "source_sha256": "946a150efa0f1236db0a66d2de3005a989672cde3628e11c49b813c8fcbb65a0",
+    "captured_at": "2026-10-24T21:46:36.672Z",
+    "reported_counts": [
+      55
+    ],
+    "loaded_native_ids": [
+      "1493608326139798",
+      "1782895229398382",
+      "1387559156820124",
+      "1407162141547875",
+      "2249339199187804",
+      "2145698232685649",
+      "1567176648026364",
+      "1134433752774872",
+      "1372397251385919",
+      "901467522933362",
+      "1134478395590415",
+      "1091538683683478",
+      "1823690918850617",
+      "1449891517106003",
+      "1809608526847638",
+      "1657703569296422",
+      "1768549194446088",
+      "2076846812947710",
+      "1428072875964750",
+      "1638043364397190",
+      "2885073658544562",
+      "1776452140069303",
+      "1110645974901883",
+      "1825779965438706",
+      "972897852538605"
+    ],
+    "loaded_native_count": 25,
+    "loaded_collation_groups": 19,
+    "page_info": [
+      {
+        "end_cursor": "AQHTJI2O4QeFWelulFIGOeuMpFVA4o3Ffqv2hC3sRBhuPUdrcdN4IwWEToMlqC-JmjCL",
+        "has_next_page": true
+      }
+    ],
+    "full_native_texts_read": 25,
+    "unread_native_ad_ids": [],
+    "promoted_offer_counts": {
+      "app_subscription": 24,
+      "editorial_content": 1
+    },
+    "promoted_job_counts": {
+      "infant_feeding_app": 24,
+      "halloween_feeding_safety": 1
+    },
+    "oldest_observed_active_start": "2026-09-02T07:00:00+00:00",
+    "newest_observed_active_start": "2026-10-22T07:00:00+00:00",
+    "creator_or_partner_ad_ids": [
+      "1493608326139798",
+      "1407162141547875",
+      "1825779965438706"
+    ]
+  },
+  {
+    "query": "The Village Parent Community",
+    "page_id": "104277479266731",
+    "file": "_raw/advertiser-census-wave04-2026-10-25/queries/007-village-page.json",
+    "source_sha256": "accbb3ba0c4f66e4a513dbb92ba31ea30c1498cf5866620783911e9e489f9cbd",
+    "captured_at": "2026-10-24T21:46:41.845Z",
+    "reported_counts": [
+      0
+    ],
+    "loaded_native_ids": [],
+    "loaded_native_count": 0,
+    "loaded_collation_groups": 0,
+    "page_info": [
+      {
+        "end_cursor": "",
+        "has_next_page": false
+      }
+    ],
+    "full_native_texts_read": 0,
+    "unread_native_ad_ids": [],
+    "promoted_offer_counts": {},
+    "promoted_job_counts": {},
+    "oldest_observed_active_start": null,
+    "newest_observed_active_start": null,
+    "creator_or_partner_ad_ids": []
+  },
+  {
+    "query": "Feeding Littles",
+    "page_id": "1667971850089895",
+    "file": "_raw/advertiser-census-wave04-2026-10-25/queries/031b-feeding-littles-page.json",
+    "source_sha256": "6ac8adda8c521c6e24f33007b30e513519d2d92ca3b874ead12d978fcdf57718",
+    "captured_at": "2026-10-24T21:54:53.232Z",
+    "reported_counts": [
+      12
+    ],
+    "loaded_native_ids": [
+      "1282692093634049",
+      "942325021949436",
+      "2827933270891882",
+      "2011519039497079",
+      "1538900030959058",
+      "26840011149033787",
+      "1561067705615487",
+      "4313531572242902",
+      "2212350289517490",
+      "1844023216557061",
+      "928648470233009",
+      "27464367416578066"
+    ],
+    "loaded_native_count": 12,
+    "loaded_collation_groups": 10,
+    "page_info": [
+      {
+        "end_cursor": "",
+        "has_next_page": false
+      }
+    ],
+    "full_native_texts_read": 12,
+    "unread_native_ad_ids": [],
+    "promoted_offer_counts": {
+      "paid_course": 12
+    },
+    "promoted_job_counts": {
+      "toddler_picky_eating_course": 12
+    },
+    "oldest_observed_active_start": "2026-05-15T07:00:00+00:00",
+    "newest_observed_active_start": "2026-07-27T07:00:00+00:00",
+    "creator_or_partner_ad_ids": []
+  },
+  {
+    "query": "Kids Eat in Color",
+    "page_id": "1883693531911455",
+    "file": "_raw/advertiser-census-wave04-2026-10-25/queries/032-kids-eat-color-page.json",
+    "source_sha256": "5b1e550ec6d4cc98ed61953718105ff242901b9f267107f523603ea2a5c09bec",
+    "captured_at": "2026-10-24T21:53:41.855Z",
+    "reported_counts": [
+      0
+    ],
+    "loaded_native_ids": [],
+    "loaded_native_count": 0,
+    "loaded_collation_groups": 0,
+    "page_info": [
+      {
+        "end_cursor": "",
+        "has_next_page": false
+      }
+    ],
+    "full_native_texts_read": 0,
+    "unread_native_ad_ids": [],
+    "promoted_offer_counts": {},
+    "promoted_job_counts": {},
+    "oldest_observed_active_start": null,
+    "newest_observed_active_start": null,
+    "creator_or_partner_ad_ids": []
+  },
+  {
+    "query": "Little Lunches",
+    "page_id": "125076404980461",
+    "file": "_raw/advertiser-census-wave04-2026-10-25/queries/034b-little-lunches-page.json",
+    "source_sha256": "d583d835d106565484c6c7fcbfd41e70285729f7350df28babf100d0ed8d3fc4",
+    "captured_at": "2026-10-24T21:55:07.438Z",
+    "reported_counts": [
+      0
+    ],
+    "loaded_native_ids": [],
+    "loaded_native_count": 0,
+    "loaded_collation_groups": 0,
+    "page_info": [
+      {
+        "end_cursor": "",
+        "has_next_page": false
+      }
+    ],
+    "full_native_texts_read": 0,
+    "unread_native_ad_ids": [],
+    "promoted_offer_counts": {},
+    "promoted_job_counts": {},
+    "oldest_observed_active_start": null,
+    "newest_observed_active_start": null,
+    "creator_or_partner_ad_ids": []
+  },
+  {
+    "query": "BLW Meals",
+    "page_id": "101395885189650",
+    "file": "_raw/advertiser-census-wave04-2026-10-25/queries/035-blw-meals-page.json",
+    "source_sha256": "e3c867fbef45740186b93fe311387c82525ec8f5fb3cbb50c66a957b1c66bb6d",
+    "captured_at": "2026-10-24T21:54:04.473Z",
+    "reported_counts": [
+      0
+    ],
+    "loaded_native_ids": [],
+    "loaded_native_count": 0,
+    "loaded_collation_groups": 0,
+    "page_info": [
+      {
+        "end_cursor": "",
+        "has_next_page": false
+      }
+    ],
+    "full_native_texts_read": 0,
+    "unread_native_ad_ids": [],
+    "promoted_offer_counts": {},
+    "promoted_job_counts": {},
+    "oldest_observed_active_start": null,
+    "newest_observed_active_start": null,
+    "creator_or_partner_ad_ids": []
+  },
+  {
+    "query": "Boob to Food",
+    "page_id": "504812539927968",
+    "file": "_raw/advertiser-census-wave04-2026-10-25/queries/036-boob-food-page.json",
+    "source_sha256": "e88d5a61a38addc440558d105c497e088678a58346bc9c7498e9daaeba77ca02",
+    "captured_at": "2026-10-24T21:54:17.459Z",
+    "reported_counts": [
+      46
+    ],
+    "loaded_native_ids": [
+      "898024633302555",
+      "1639763890464805",
+      "1321024906322173",
+      "1314077524274851",
+      "27236719736014756",
+      "1706002560479474",
+      "1574889333787504",
+      "1526016459174620",
+      "1519627996441303",
+      "1682725739501117",
+      "1310549844563984",
+      "4537801519819643",
+      "984725347523721",
+      "1488961949151239",
+      "2488170298272802",
+      "2098756747354718",
+      "971713705423407",
+      "1136161099090766",
+      "1475471850562542",
+      "1487754523087041",
+      "1647155560122217",
+      "1665889625212584",
+      "1924558188200641",
+      "1324311815699317",
+      "3201508003391798",
+      "2200806771317417",
+      "1000153185706204",
+      "1746101636471802",
+      "1370773991582907",
+      "2379705209229062"
+    ],
+    "loaded_native_count": 30,
+    "loaded_collation_groups": 28,
+    "page_info": [
+      {
+        "end_cursor": "AQHTjBpo1kQTS9mCPT9c-WjE83yyhjaZ4BOuxoeJaswBnu7AsoDfx6JNLYlw9CNNxRRM",
+        "has_next_page": true
+      }
+    ],
+    "full_native_texts_read": 30,
+    "unread_native_ad_ids": [],
+    "promoted_offer_counts": {
+      "free_lead_magnet": 23,
+      "physical_goods_partner_promotion": 1,
+      "book": 6
+    },
+    "promoted_job_counts": {
+      "eight_BLW_recipe_guide": 7,
+      "first_food_guide": 6,
+      "starting_solids_equipment_guide": 9,
+      "pre_solids_readiness_guide": 1,
+      "kitchen_knife_discount_recipe": 1,
+      "toddler_family_cookbook": 4,
+      "starting_solids_cookbook_partner_endorsement": 1,
+      "starting_solids_cookbook": 1
+    },
+    "oldest_observed_active_start": "2026-06-05T07:00:00+00:00",
+    "newest_observed_active_start": "2026-10-20T07:00:00+00:00",
+    "creator_or_partner_ad_ids": [
+      "1746101636471802"
+    ]
+  },
+  {
+    "query": "101beforeone",
+    "page_id": "100989669032740",
+    "file": "_raw/advertiser-census-wave04-2026-10-25/queries/037b-101beforeone-page.json",
+    "source_sha256": "138d62868cd4fe019190d383e5b688057545d07a4cd6dd1facf371148d821351",
+    "captured_at": "2026-10-24T21:56:52.370Z",
+    "reported_counts": [
+      0
+    ],
+    "loaded_native_ids": [],
+    "loaded_native_count": 0,
+    "loaded_collation_groups": 0,
+    "page_info": [
+      {
+        "end_cursor": "",
+        "has_next_page": false
+      }
+    ],
+    "full_native_texts_read": 0,
+    "unread_native_ad_ids": [],
+    "promoted_offer_counts": {},
+    "promoted_job_counts": {},
+    "oldest_observed_active_start": null,
+    "newest_observed_active_start": null,
+    "creator_or_partner_ad_ids": []
+  },
+  {
+    "query": "Safe Beginnings",
+    "page_id": "1501073320132721",
+    "file": "_raw/advertiser-census-wave04-2026-10-25/queries/038-safe-beginnings-page.json",
+    "source_sha256": "6ff4a28c4229ccae32754f27e17a9770c3d33f4d4ca5f949f3b13a368f15a59b",
+    "captured_at": "2026-10-24T21:55:25.256Z",
+    "reported_counts": [
+      0
+    ],
+    "loaded_native_ids": [],
+    "loaded_native_count": 0,
+    "loaded_collation_groups": 0,
+    "page_info": [
+      {
+        "end_cursor": "",
+        "has_next_page": false
+      }
+    ],
+    "full_native_texts_read": 0,
+    "unread_native_ad_ids": [],
+    "promoted_offer_counts": {},
+    "promoted_job_counts": {},
+    "oldest_observed_active_start": null,
+    "newest_observed_active_start": null,
+    "creator_or_partner_ad_ids": []
+  },
+  {
+    "query": "Tinyhood",
+    "page_id": "211619642320733",
+    "file": "_raw/advertiser-census-wave04-2026-10-25/queries/039-tinyhood-page.json",
+    "source_sha256": "fab2b0f1d8e70b5d08597000bc1d89798a47828b42e585f1ea7a070c3e458a47",
+    "captured_at": "2026-10-24T21:55:39.664Z",
+    "reported_counts": [
+      25
+    ],
+    "loaded_native_ids": [
+      "2126439084973893",
+      "1749653106339327",
+      "4564127960488834",
+      "1649023880136291",
+      "1354766193095070",
+      "2063250630951200",
+      "1042375315390636",
+      "1005556859238946",
+      "1846542492993920",
+      "4097405610402303",
+      "2655920388199783",
+      "1498360098991665",
+      "1104597998906923",
+      "2159785775416138",
+      "1093676840250842",
+      "1111742518453684",
+      "1636210851886269",
+      "2132759230771873",
+      "1659110268986942",
+      "2207191623159657",
+      "1984962788844732",
+      "1322390504299970",
+      "1667929761504986"
+    ],
+    "loaded_native_count": 23,
+    "loaded_collation_groups": 20,
+    "page_info": [
+      {
+        "end_cursor": "",
+        "has_next_page": false
+      }
+    ],
+    "full_native_texts_read": 23,
+    "unread_native_ad_ids": [],
+    "promoted_offer_counts": {
+      "free_lead_magnet": 2,
+      "course_bundle": 21
+    },
+    "promoted_job_counts": {
+      "cord_blood_banking_ViaCord": 2,
+      "expecting_parent_bundle_includes_CPR": 18,
+      "general_expecting_parent_courses": 2,
+      "broad_parenting_bundle_includes_safety": 1
+    },
+    "oldest_observed_active_start": "2026-07-29T07:00:00+00:00",
+    "newest_observed_active_start": "2026-10-23T07:00:00+00:00",
+    "creator_or_partner_ad_ids": []
+  },
+  {
+    "query": "eMeals",
+    "page_id": "138553919372",
+    "file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+    "source_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+    "captured_at": "2026-10-24T22:03:17.725Z",
+    "reported_counts": [
+      401
+    ],
+    "loaded_native_ids": [
+      "25414872794838589",
+      "2073844973417075",
+      "2272282739959881",
+      "909465895313343",
+      "1527225161899010",
+      "1268120485152483",
+      "4238931593016828",
+      "2148945109243968",
+      "1442173817699335",
+      "861752936381547",
+      "861944829884495",
+      "946368974738674",
+      "1237280417872402",
+      "2182597029225978",
+      "1409199477510531",
+      "2637140163309156",
+      "2310257306153529",
+      "844068205132859",
+      "850405537826026",
+      "1430525584569948",
+      "908962141788365",
+      "890666777148334",
+      "1434028511628039",
+      "2104349103648816",
+      "25036465196032009",
+      "1408794290773898",
+      "2069782513877105",
+      "1160003072625370",
+      "1249215433834864",
+      "1019867427333229"
+    ],
+    "loaded_native_count": 30,
+    "loaded_collation_groups": 21,
+    "page_info": [
+      {
+        "end_cursor": "AQHT360mV0HXpBxKR69_gC55wlwnYt6_R9b29rxMbqWvj4WfRjm4e218zdkCwo748Euq",
+        "has_next_page": true
+      }
+    ],
+    "full_native_texts_read": 30,
+    "unread_native_ad_ids": [],
+    "promoted_offer_counts": {
+      "app_subscription": 30
+    },
+    "promoted_job_counts": {
+      "family_meal_planning_workflow": 29,
+      "general_keto_meal_plan_workflow": 1
+    },
+    "oldest_observed_active_start": "2025-12-08T08:00:00+00:00",
+    "newest_observed_active_start": "2026-08-06T07:00:00+00:00",
+    "creator_or_partner_ad_ids": []
+  },
+  {
+    "query": "Plan to Eat",
+    "page_id": "119570619324",
+    "file": "_raw/advertiser-census-wave04-2026-10-25/queries/049b-plan-to-eat-page.json",
+    "source_sha256": "3c20fd7a5a23f9df0bcd606e3bd157590f70436314d34bffce5a5f1f2e055882",
+    "captured_at": "2026-10-24T22:03:22.992Z",
+    "reported_counts": [
+      1
+    ],
+    "loaded_native_ids": [
+      "1143201975028121"
+    ],
+    "loaded_native_count": 1,
+    "loaded_collation_groups": 1,
+    "page_info": [
+      {
+        "end_cursor": "",
+        "has_next_page": false
+      }
+    ],
+    "full_native_texts_read": 1,
+    "unread_native_ad_ids": [],
+    "promoted_offer_counts": {
+      "app_subscription": 1
+    },
+    "promoted_job_counts": {
+      "family_recipe_to_meal_workflow": 1
+    },
+    "oldest_observed_active_start": "2026-10-22T07:00:00+00:00",
+    "newest_observed_active_start": "2026-10-22T07:00:00+00:00",
+    "creator_or_partner_ad_ids": []
+  },
+  {
+    "query": "Tiny Hearts Education",
+    "page_id": "182652498588710",
+    "file": "_raw/advertiser-census-wave04-2026-10-25/queries/053-tiny-hearts-page.json",
+    "source_sha256": "eba93fd6598e86cd94c7c42987fb4a1d300c42849f25ec61eb86376f606d9590",
+    "captured_at": "2026-10-24T22:04:46.498Z",
+    "reported_counts": [
+      33
+    ],
+    "loaded_native_ids": [
+      "962828846373103",
+      "1723712025544601",
+      "1419613440141877",
+      "2227760671101908",
+      "1027418466986945",
+      "4613049235581110",
+      "1421364800210118",
+      "906695728987074",
+      "2174052486820386",
+      "1396749749091125",
+      "1334491189750940",
+      "1832387154612353",
+      "1408158914194503",
+      "4410208732642175",
+      "933610392876325",
+      "1672099084343076",
+      "1893835505319959",
+      "1657931689343878",
+      "1106472598828952",
+      "4728783977340331",
+      "1400662562233013",
+      "1342463438952830",
+      "1648415323628975",
+      "1094634269847980",
+      "1734832998648720",
+      "1105141705237195",
+      "1799805117897774",
+      "1682434180066358"
+    ],
+    "loaded_native_count": 28,
+    "loaded_collation_groups": 25,
+    "page_info": [
+      {
+        "end_cursor": "AQHTsPssvkVdrd4jMnCXkbF1ST7O8_DMZ6PYIrSW9tAyFrm6MXAtys4jbbGpdznlg7uC",
+        "has_next_page": true
+      }
+    ],
+    "full_native_texts_read": 28,
+    "unread_native_ad_ids": [],
+    "promoted_offer_counts": {
+      "paid_course": 26,
+      "free_lead_magnet": 1,
+      "course_bundle": 1
+    },
+    "promoted_job_counts": {
+      "online_baby_child_first_aid": 26,
+      "pregnancy_CMV_guide": 1,
+      "pregnancy_to_kinder_online_courses": 1
+    },
+    "oldest_observed_active_start": "2026-08-26T07:00:00+00:00",
+    "newest_observed_active_start": "2026-10-22T07:00:00+00:00",
+    "creator_or_partner_ad_ids": [
+      "1672099084343076",
+      "1106472598828952",
+      "1342463438952830",
+      "1648415323628975",
+      "1734832998648720",
+      "1105141705237195"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "ad_id": "3012147115791671",
+  "advertiser": "Napper",
+  "page_id": "100208041597677",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/020-napper-page.json",
+  "capture_sha256": "3f6886f7ea4051f1ad3adbc0f17a258dea8e360603fb788374b4a744a32925b8",
+  "native_pointer": "connections[0].edges[20].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=100208041597677",
+  "captured_at": "2026-10-24T21:50:21.141Z",
+  "is_active": true,
+  "start_utc": "2026-09-02T07:00:00+00:00",
+  "display_format": "VIDEO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=3012147115791671",
+  "snapshot_sha256": "1ea54c254e124e58e2ffaf1f375a034a91cb4fd405aac0cbdcccac2fc48dd488",
+  "text_fields": {
+    "body": {
+      "text": "🌸 Napper est une application de sommeil pour bébé qui aide les parents à mieux comprendre le rythme de sommeil unique de leur enfant. En suivant les siestes, les heures de coucher et les périodes d’éveil, Napper fournit des recommandations de sommeil personnalisées pour faciliter les siestes, les nuits et l’endormissement."
+    },
+    "title": "Mieux comprendre le sommeil de bébé  👶💤",
+    "caption": "napper.app",
+    "link_description": null,
+    "link_url": "http://napper.app/de",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "cc1ecd487e06348beb2fe6ca847495991747e9a99744b4836762651f15347c1b",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 1,
+  "cards_count": 0
+}

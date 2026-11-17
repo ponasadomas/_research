@@ -1,0 +1,33 @@
+{
+  "slug": "emeals-cost",
+  "url": "https://support.emeals.com/portal/en/kb/articles/emeals-cost",
+  "robots_status": 200,
+  "robots_allowed": true,
+  "robots_file": "_raw/advertiser-map04-food-planners/robots/support.emeals.com.txt",
+  "raw_file": "_raw/advertiser-map04-food-planners/pages/emeals-cost.html",
+  "text_file": "_raw/advertiser-map04-food-planners/pages/emeals-cost.txt",
+  "sha256": "4ded158e64583be472ed0bcc6304ea0d46f2b8f0be5ca6659f6c0801e50de674",
+  "bytes": 25245,
+  "utc": "2026-10-24T21:56:56.777736+00:00",
+  "status": 200,
+  "final_url": "https://support.emeals.com/portal/en/kb/articles/emeals-cost",
+  "headers": {
+    "Server": "ZGS",
+    "Date": "Sat, 24 Oct 2026 21:56:56 GMT",
+    "Content-Type": "text/html;charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "Set-Cookie": "zalb_a64cedc0bf=0559f5e4aba1b9ad78a103d26f58e389; Path=/; Secure; HttpOnly",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "X-XSS-Protection": "1; mode=block",
+    "Cache-Control": "private,no-cache,no-store,max-age=0,must-revalidate",
+    "Pragma": "no-cache",
+    "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+    "Content-Security-Policy": "script-src 'self' 'strict-dynamic' static.zohocdn.com salesiq.zoho.com dtzpfzv31buvf.cloudfront.net cdn.pagesense.io js.zohocdn.com widgets.zohosalesiq.com zohotagmanager.cdn.pagesense.io 'nonce-b200ffb0c7c270bf4f197294d507ea23';object-src 'none';base-uri 'self' static.zohocdn.com;report-uri https://logsapi.zoho.com/csplog?service=support;",
+    "Permissions-Policy": "accelerometer=(), ambient-light-sensor=(), bluetooth=(), compute-pressure=(), document-domain=(), encrypted-media=(), gamepad=(), gyroscope=(), hid=(), magnetometer=(), midi=(), screen-wake-lock=(), serial=(), speaker-selection=(), usb=(), xr-spatial-tracking=()",
+    "X-Frame-Options": "SAMEORIGIN",
+    "vary": "accept-encoding",
+    "Strict-Transport-Security": "max-age=63072000;includeSubDomains"
+  }
+}

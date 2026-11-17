@@ -1,0 +1,13 @@
+# Independent source-context audit — advertiser wave 04
+
+Read-only research audit; do not use Chrome, collect sources, delegate, edit source/voice/reader files or commit. Root owns the shared browser. Work in `scratchpad/advertiser04-independent-audit/`, write only the sample, your note and audit JSON there.
+
+Population: six `sources/advertiser04-*-reading.jsonl` ledgers, 604 distinct ad IDs. Draw 20 reproducible stratified random records: two from each ledger, then eight uniformly from the remainder, seed 2026102504. Save sample before inspection. Read every sampled native body, headline/description/CTA, all supplied card text and destinations in full from the immutable original Chrome query capture, independently of the reader's interpretation. Review raw identity/start/active status and outer advertiser versus creator snapshots. Do not credit reinspection as new unique reading.
+
+Native captures: `_raw/advertiser-census-wave04-2026-10-25/queries/*.json`. Wrapper `browser_response.content` has a fenced JSON value containing `connections[].edges[].node.collated_results[]`. Correct sources are the Page captures, with one additional professional First Step record selected from 062. Invalid/superseded 008,013,017,047 must not support conclusions. Retain them as historical error evidence.
+
+For each sampled record, decide whether the saved classification and derived note accurately distinguish paid report, app acquisition, general course, human support, free lead/personalization, physical goods, wedding/other subject and unknown. No inferred spend, accepted price, profit or efficacy. In particular, whole-Page counts cannot price one ad, identify its niche, isolate English markets or prove a standalone report sale. Images/videos remain unviewed. Exact start dates do not prove uninterrupted delivery.
+
+Also inspect five targeted cases after the random sample: Master Maternity Leave ad1804441577549614 must not inherit the separately researched USD997 Blueprint price; Nugget2045675566116239 advertises a GBP14.99 webinar; Babylist total534 is brand-wide; GoodInside Baby's USD175 offer includes a human session, with Page ownership attribution limited; Safetots1079293854792431 advertises a FREE personalized consultation alongside retail. Use saved primary offer notes when needed; do not browse.
+
+Report checked IDs/source paths, any material interpretation errors, exact corrections proposed and unresolved limitations. Do not edit another reader's files. Root will make any necessary amendments in the final synthesis with a correction log. A zero result applies to the inspected sample, not global factual certainty.

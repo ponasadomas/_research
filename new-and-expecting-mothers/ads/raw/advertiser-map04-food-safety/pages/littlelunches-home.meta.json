@@ -1,0 +1,27 @@
+{
+  "slug": "littlelunches-home",
+  "url": "https://www.littlelunches.com/en/mealplans",
+  "robots_status": 200,
+  "robots_allowed": true,
+  "robots_file": "_raw/advertiser-map04-food-safety/robots/www.littlelunches.com.txt",
+  "raw_file": "_raw/advertiser-map04-food-safety/pages/littlelunches-home.html",
+  "text_file": "_raw/advertiser-map04-food-safety/pages/littlelunches-home.txt",
+  "sha256": "a91e5c35aa2d81694e6c1498e6f175be811b40bf4778f2a4dbb71de144248f9c",
+  "bytes": 99658,
+  "utc": "2026-10-24T21:45:45.586284+00:00",
+  "status": 200,
+  "final_url": "https://www.littlelunches.com/en/mealplans",
+  "headers": {
+    "Server": "nginx/1.18.0 (Ubuntu)",
+    "Date": "Sat, 24 Oct 2026 21:45:45 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "Vary": "Accept-Encoding",
+    "Cache-Control": "private, must-revalidate",
+    "pragma": "no-cache",
+    "expires": "-1",
+    "Set-Cookie": "XSRF-TOKEN=eyJpdiI6IkVaRUVOVmNCcTc5ckJhOUlpRW5YbEE9PSIsInZhbHVlIjoiL3JiZHN6dmM0RTRzT3A1YWx6SytWQk5LTHVmaW9WS2NsRXV3WFlUMFJDeWI1NUpBY09kbWkwRG1RN1pVczJuL3hxWThabGl0RVBFc0Y1cHUzMkg5cnNNODRSN21aVTRBQUNRMm54RUhhbWlqU0VxOWlmV0lqek80bU5YcGFxdTkiLCJtYWMiOiI3NjNmN2E2ODc0OThhOGMwYWJkMzhiZTBjYzkyZTA3Zjc2N2E5OTVkOWFiODc2MWFmNjIzNzRlOGIxM2RjMDBlIiwidGFnIjoiIn0%3D; expires=Sat, 24-Oct-2026 23:45:45 GMT; Max-Age=7200; path=/; samesite=lax",
+    "Strict-Transport-Security": "max-age=31536000"
+  }
+}

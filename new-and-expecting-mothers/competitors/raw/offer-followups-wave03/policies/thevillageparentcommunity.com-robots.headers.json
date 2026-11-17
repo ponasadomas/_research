@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "Vary": "Accept-Encoding",
+    "Link": "<https://fonts.googleapis.com>; rel=preconnect; crossorigin,<https://fonts.gstatic.com>; rel=preconnect; crossorigin,<https://img1.wsimg.com>; rel=preconnect; crossorigin,<https://isteam.wsimg.com>; rel=preconnect; crossorigin",
+    "Cache-Control": "max-age=30",
+    "Content-Security-Policy": "frame-ancestors 'self' godaddy.com *.godaddy.com dev-godaddy.com *.dev-godaddy.com test-godaddy.com *.test-godaddy.com",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "Content-Type": "text/plain; charset=utf-8",
+    "ETag": "f84dd2eadf71d19ac07834f908eaa482",
+    "Content-Encoding": "gzip",
+    "Content-Length": "48",
+    "Set-Cookie": "dps_site_id=eu-central-1; path=/; secure",
+    "Server": "DPS/2.0.0+sha-4384650",
+    "X-Version": "4384650",
+    "X-SiteId": "eu-central-1",
+    "Date": "Sat, 24 Oct 2026 20:44:39 GMT",
+    "Connection": "keep-alive",
+    "Keep-Alive": "timeout=5"
+  },
+  "history": []
+}

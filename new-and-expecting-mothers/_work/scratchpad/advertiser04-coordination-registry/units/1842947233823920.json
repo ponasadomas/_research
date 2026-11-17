@@ -1,0 +1,49 @@
+{
+  "ad_id": "1842947233823920",
+  "page_id": "186268468076113",
+  "page_name": "Babylist",
+  "snapshot_page_id": "186268468076113",
+  "snapshot_page_name": "Babylist",
+  "snapshot_identity_differs": false,
+  "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/025-babylist-page.json",
+  "source_file_sha256": "dde70e8c18f3207f84afe706c6f2755c427dfe16d758878c6a2e475652c6807b",
+  "captured_at": "2026-10-24T21:52:19.573Z",
+  "native_is_active": true,
+  "start_timestamp": 1791874800,
+  "start_utc": "2026-10-13T07:00:00+00:00",
+  "displayed_start_date": "Oct 13, 2026",
+  "collation_id": "1825084611826006",
+  "collation_count": 1,
+  "display_format": "IMAGE",
+  "primary_destination": "https://www.babylist.com/gp/motif-medical-luna-double-electric-breast-pump-with-battery/21397/693498",
+  "card_destinations": [],
+  "native_body_sha256": "c070d6ec423841cae74bcdaf7fc593eb91c21dbc63113671228d22477ba504d0",
+  "native_text_bundle_sha256": "b897c3ebe39539ad8392a3d818806ed23b7de1e89aed6551d18d05c3444390fe",
+  "native_ad_sha256": "d1a1dc954ca0c3b7ff1fab53468bbb3a340b9b50876b95b33ecc3260b27725b7",
+  "text_bundle": {
+    "body": "Hospital-strength suction, customizable settings, and a quiet motor, all designed to make pumping more efficient.",
+    "top": {
+      "caption": "babylist.com",
+      "cta_text": "Shop now",
+      "cta_type": "SHOP_NOW",
+      "title": "Power Meets Comfort",
+      "link_description": "4+ hours of battery life",
+      "link_url": "https://www.babylist.com/gp/motif-medical-luna-double-electric-breast-pump-with-battery/21397/693498",
+      "display_format": "IMAGE",
+      "byline": null,
+      "disclaimer_label": null,
+      "additional_info": null,
+      "extra_links": [],
+      "extra_texts": [],
+      "branded_content": {
+        "page_id": "1920765654825908",
+        "page_is_deleted": null,
+        "page_profile_uri": null,
+        "page_name": "Motif Medical"
+      },
+      "root_reshared_post": null
+    },
+    "cards": []
+  },
+  "excluded_card_media_fields": []
+}

@@ -1,0 +1,49 @@
+{
+  "ad_id": "1925146871805215",
+  "page_id": "186268468076113",
+  "page_name": "Babylist",
+  "snapshot_page_id": "186268468076113",
+  "snapshot_page_name": "Babylist",
+  "snapshot_identity_differs": false,
+  "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/025-babylist-page.json",
+  "source_file_sha256": "dde70e8c18f3207f84afe706c6f2755c427dfe16d758878c6a2e475652c6807b",
+  "captured_at": "2026-10-24T21:52:19.573Z",
+  "native_is_active": true,
+  "start_timestamp": 1791874800,
+  "start_utc": "2026-10-13T07:00:00+00:00",
+  "displayed_start_date": "Oct 13, 2026",
+  "collation_id": "1157299200598810",
+  "collation_count": 1,
+  "display_format": "VIDEO",
+  "primary_destination": "https://www.babylist.com/gp/motif-medical-aura-glow-wearable-breast-pump/71029/2357907",
+  "card_destinations": [],
+  "native_body_sha256": "1d041f4cc7a5b8bc8d4c4eb2e72cc29f6abf4c9105a3e6a19a4bc510212dfbd5",
+  "native_text_bundle_sha256": "fba60804156037ec261080e7cd331a5e72ce50579e817bdcef29aaabe551c8e8",
+  "native_ad_sha256": "d5b4719442675204d22d7c4e649b8c31f5ec37d3e0be32fc4d81cc2574e63dc9",
+  "text_bundle": {
+    "body": "Keep moving while you pump. Meet Motif Aura Glow, a wireless wearable pump made for life on the go.",
+    "top": {
+      "caption": "www.babylist.com",
+      "cta_text": "Shop now",
+      "cta_type": "SHOP_NOW",
+      "title": "Pump Without Slowing Down",
+      "link_description": "Made for multitasking",
+      "link_url": "https://www.babylist.com/gp/motif-medical-aura-glow-wearable-breast-pump/71029/2357907",
+      "display_format": "VIDEO",
+      "byline": null,
+      "disclaimer_label": null,
+      "additional_info": null,
+      "extra_links": [],
+      "extra_texts": [],
+      "branded_content": {
+        "page_id": "1920765654825908",
+        "page_is_deleted": null,
+        "page_profile_uri": null,
+        "page_name": "Motif Medical"
+      },
+      "root_reshared_post": null
+    },
+    "cards": []
+  },
+  "excluded_card_media_fields": []
+}

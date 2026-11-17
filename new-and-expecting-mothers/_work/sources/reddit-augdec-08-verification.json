@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-24",
+  "scope": "all60 transferred unstarted originals in original07 frozen views041-060; inherited root04 triage, no additional cards",
+  "inherited_cards": 620,
+  "inherited_keeps": 432,
+  "partition_counts_root04_helper06_current07_helper08": [
+    60,
+    186,
+    126,
+    60
+  ],
+  "exact_partition_disjoint_union_passed": true,
+  "full_original_posts": 60,
+  "partial_original_posts": 0,
+  "OP_replies_read": 197,
+  "auxiliary_comments_read": 0,
+  "statuses": {
+    "eligible": 56,
+    "excluded_after_read": 4
+  },
+  "quotes": 16,
+  "quoted_post_ids": 15,
+  "quoted_OP_replies": 3,
+  "research_only_quote_ids": [],
+  "primary_unit_utf8_bytes": 254766,
+  "original_body_bytes": 73252,
+  "frozen_source_views_checked": 20,
+  "note_quote_ids_checked": 16,
+  "native_original_OP_quote_bodies_dates_canonical_URLs_hashes_and_global_own_ID_uniqueness": "passed",
+  "baseline_and_other_reader_ID_nonoverlap": "passed",
+  "verify_quotes_stdout": "reddit-augdec-08.jsonl: 16 quotes, 0 failed\nTOTAL 16 quotes, 0 failed",
+  "manifest_sha256": "71a1563f2df3e788c4813474e3e04087e4688eb7ca8064077f2fe4456b28f22e",
+  "transfer_manifest": "_raw/reddit-deep/aug-dec-2025-wave-v1/assignments/fullread-transfer-07-to-08-v1.json",
+  "transfer_sha256": "bd05b05f4cde4e75d86162a6e4af090d781d080fce7aea9a6ba047663f323703",
+  "voice_sha256": "8fbb9ded7b8795a692029af68e7458e137bfdb3c70695dcb1c1b372e70733ab8",
+  "reading_sha256": "50e311c28a824c95c912186dd8007e53baa63ed145104bdb7b41e9222ea63fc6",
+  "failed": 0,
+  "limits": "Finite local archive attribution and coverage only; no live completeness, verified purchases, clinical efficacy, independent buyer count or market prevalence established."
+}

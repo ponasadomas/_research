@@ -1,0 +1,29 @@
+{
+  "complete": true,
+  "assignment_mode": "full_read_only_inherited_root_triage",
+  "original_full_assignment": 186,
+  "transferred_to08": 60,
+  "assigned_revised": 126,
+  "expected_OP_replies": 338,
+  "full_originals_read": 126,
+  "available_identifiable_OP_replies_read": 338,
+  "statuses": {
+    "eligible": 101,
+    "excluded_after_read": 25
+  },
+  "quotes": 22,
+  "quoted_posts": 22,
+  "cross_wave_post_references": {},
+  "strict_native_quote_failures": [],
+  "errors": [],
+  "voice_sha256": "a871510818eb8f67c5b7ec58d29bca34921ee8d797856c92fcf533e53c3ace3c",
+  "inherited_triage_sha256": "f81584461301c347eb3cc3aa5bacc0a9a2e0d032158cf19de1849de3ad18d2de",
+  "reading_sha256": "2a9e8e6c402b7a4bc6fdaecd5a6dc51fc150a7a8b3477d12e30aee9e8b037c8f",
+  "auxiliary_native_parent_comments_read": 7,
+  "available_non_OP_comments_unread": 2053,
+  "kept_posts_comment_source_unavailable": 37,
+  "frozen_full_read_views": 40,
+  "post_body_excerpts": 15,
+  "OP_reply_excerpts": 7,
+  "research_only_excerpts": 9
+}

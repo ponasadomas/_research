@@ -1,0 +1,38 @@
+{
+  "ad_id": "28526471120271766",
+  "advertiser": "Kinedu",
+  "page_id": "443378469063877",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/004-kinedu-english-page.json",
+  "capture_sha256": "27428c29add8bef39a61c3f3ad4fe314e3d8aedc024262f3f85921ea78b70ad4",
+  "native_pointer": "connections[0].edges[5].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=443378469063877",
+  "captured_at": "2026-10-24T21:46:24.774Z",
+  "is_active": true,
+  "start_utc": "2026-08-13T07:00:00+00:00",
+  "display_format": "VIDEO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=28526471120271766",
+  "snapshot_sha256": "399b2ff54a31a45a6b17b2d8b539a39dc1aee2504958596ba59caa2b33f40aae",
+  "text_fields": {
+    "body": {
+      "text": "Wondering how to boost your baby's development? 🤔👶 Discover daily activity recommendations tailored to your baby's age, milestones, and developmental needs.\n\nWith Kinedu Premium, you'll receive:\n- FREE 7-day trial to explore all premium features\n- 1,800+ expert-designed play activities personalized to your baby's age and developmental stage\n- Daily personalized activity plans that take the guesswork out of supporting your baby's development\n- Comprehensive tracking tools for milestones, feeding, and other key developmental indicators\n- Live and on-demand classes led by child development specialists\n- Access to exclusive Masterclasses for parents with babies of specific age groups\n- Progress charts and developmental insights based on scientific research\n- Support from a global community of parents and experts\n- Option for 1:1 coaching sessions with child development professionals\n- Family sharing capabilities for up to 5 babies per account\n\nRemove the guesswork. Give your baby the best start.\n\nIt’s a worthwhile investment for your baby’s first year."
+    },
+    "title": "Find activities, tips and personalized advice inside Kinedu. 👶❤️",
+    "caption": "itunes.apple.com",
+    "link_description": null,
+    "link_url": "http://itunes.apple.com/app/id741277284",
+    "cta_text": "Install now",
+    "cta_type": "INSTALL_MOBILE_APP",
+    "byline": "",
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "c3060a5ca301e98db05abbe3f14445ddb5be099e978a8e1abe4453abf18b14b9",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 1,
+  "cards_count": 0
+}

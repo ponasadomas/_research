@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Beyond Birthing</title>
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="css/styles.css" rel="stylesheet">
+    <!-- Social Media Icon CSS -->
+    <link rel="stylesheet" type="text/css"
+        href="https://cdn.jsdelivr.net/gh/vaakash/socializer@master/css/socializer.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+    <!-- Local Styles -->
+    <link href="css/localstyles.css" rel="stylesheet">
+</head>
+
+<body onload="clearAll()">
+    <!-- Responsive navbar-->
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">
+                <img class="img-fluid rounded-3 my-3" src="assets/BeyondBirthingLogo.jpg" alt="Beyond Birthing Logo">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ms-auto mt-lg-5 mb-0 mb-lg-0 px-2 text-light">
+                    <li class="nav-item btn btn-sm btn-primary bg-gradient mx-2"><a class="nav-link"
+                            href="index.html">Home</a></li>
+                    <li class="nav-item btn btn-sm btn-primary bg-gradient mx-2 current-nav"><a class="nav-link"
+                            aria-current="page" href="services.html">Services</a></li>
+                    <li class="nav-item btn btn-sm btn-primary bg-gradient mx-2"><a class="nav-link"
+                            href="about.html">About Me</a></li>
+                    <li class="nav-item btn btn-sm btn-primary bg-gradient mx-2"><a class="nav-link"
+                            href="faq.html">FAQ</a></li>
+                    <li class="nav-item btn btn-sm btn-primary bg-gradient mx-2"><a class="nav-link"
+                            href="contact.html">Contact Me</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- Page Content-->
+    <div class="container pink border pt-3 px-4 px-lg-5">
+        <!-- Heading Row-->
+        <!-- Call to Action
+        <div class="my-5 py-4 text-white text-center">
+            <div>
+                <h1 class="font-weight-light page-title text-center pt-2">My Doula Service Packages</h1>
+            </div>
+        </div>-->
+        <!-- Content Row-->
+        <div class="row gx-4 gx-lg-5 mt-lg-5">
+            <div class="col-md-4 mb-5">
+                <div class="card bg-light h-100">
+                    <div class="card-body">
+                        <h2 class="card-title">Doula in Your Pocket</h2>
+                        <hr class="hr hr-blurry">
+                        <div class="card-text">
+                            <p>This service gives you direct access to a trained Postpartum Doula. Through it, you can
+                                obtain evidence-based information for all things postpartum. This type of support is
+                                primarily done through text messaging.
+                            </p>
+                        </div>
+                        <div id="myService1">
+                            <h4 class="price">Includes:</h4>
+                            <ul class="service-list">
+                                <li>initial in-person, video or telephone visit to discuss needs</li>
+                                <li>daytime text support between 9am and 6pm</li>
+                                <li>for the first two weeks, evening text support between 6pm and 9pm</li>
+                                <li>access to information and resources provided by the doula</li>
+                            </ul>
+                            <h4 class="price">Price:</h4>
+                            <ul class="service-list">
+                                <li>$100 per month</li>
+                            </ul>
+                            <a class="btn btn-primary btn-sm" href="contact.html">Contact me for further details</a>
+                        </div>
+                    </div>
+                    <div class="card-footer"><button class="btn btn-primary btn-sm" onclick="displayService(1)">More
+                            Info</button></div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-5">
+                <div class="card bg-light h-100">
+                    <div class="card-body">
+                        <h2 class="card-title">Virtual Doula</h2>
+                        <hr class="hr hr-blurry">
+                        <div class="card-text">
+                            <p>Virtual services are helpful when you live somewhere that isn't within my range of
+                                travel. If you have regular in-person support but would like to have someone to answer
+                                questions or check in on you to see how you are feeling, then Virtual Support might be
+                                for you. </p>
+                        </div>
+                        <div id="myService2">
+                            <h4 class="price">Includes:</h4>
+                            <ul class="service-list">
+                                <li>video support (roughly 8 hours of video meetings accessed throughout the month)</li>
+                                <li>phone support between 9am and 5pm</li>
+                                <li>text support</li>
+                            </ul>
+                            <h4 class="price">Price:</h4>
+                            <ul class="service-list">
+                                <li>$250 per month</li>
+                                <li>this service can also be arranged on an hourly rate</li>
+                            </ul>
+                            <a class="btn btn-primary btn-sm" href="contact.html">Contact me for further details</a>
+                        </div>
+                    </div>
+                    <div class="card-footer"><button class="btn btn-primary btn-sm" onclick="displayService(2)">More
+                            Info</button></div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-5">
+                <div class="card bg-light h-100">
+                    <div class="card-body">
+                        <h2 class="card-title">Postpartum Planning</h2>
+                        <hr class="hr hr-blurry">
+                        <div class="card-text">
+                            <p>Are you wondering what the first weeks and months will look like when your baby arrives?
+                                A postpartum planning session is helpful to discuss what your hopes are and how to best
+                                implement them. </p>
+                        </div>
+                        <div id="myService3">
+                            <h4 class="price">Includes:</h4>
+                            <ul class="service-list">
+                                <li>Two in-person consultations:
+                                    <ul class="service-list">
+                                        <li>1st consultation is to discuss what your hopes and wishes are</li>
+                                        <li>2nd consultation is to go over the proposed plans</li>
+                                    </ul>
+                                </li>
+                                <li>The final postpartum plan will be e-mailed to you</li>
+                            </ul>
+                            <h4 class="price">Price:</h4>
+                            <ul class="service-list">
+                                <li>$100.00</li>
+                            </ul>
+                            <a class="btn btn-primary btn-sm" href="contact.html">Contact me for further details</a>
+                        </div>
+                    </div>
+                    <div class="card-footer"><button class="btn btn-primary btn-sm" onclick="displayService(3)">More
+                            Info</button></div>
+                </div>
+            </div>
+        </div>
+        <div class="row gx-4 gx-lg-5">
+            <div class="col-md-4 mb-5">
+                <div class="card  bg-light h-100">
+                    <div class="card-body">
+                        <h2 class="card-title">Overnight Services</h2>
+                        <hr class="hr hr-blurry">
+                        <div class="card-text">
+                            <p>A restful sleep is important during the postpartum period. Is baby keeping you up more
+                                than you had hoped? Do you have other children to get ready in the morning? </p>
+                            <p>In person services available in your home between the hours of 9pm and 7am</p>
+                        </div>
+                        <div id="myService4">
+                            <h4 class="price">Includes:</h4>
+                            <ul class="service-list">
+                                <li>getting up with baby as needed during the night</li>
+                                <li>giving bottles or bringing baby to breastfeeding parent</li>
+                                <li>light housework if needed (depending on the layout of your home)</li>
+                                <li>help with the preparation of items needed for the morning routine</li>
+                            </ul>
+                            <h4 class="price">Price:</h4>
+                            <ul class="service-list">
+                                <li>$40 per hour</li>
+                                <li>minimum of 8 hours</li>
+                            </ul>
+                            <a class="btn btn-primary btn-sm" href="contact.html">Contact me for further details</a>
+                        </div>
+                    </div>
+                    <div class="card-footer"><button class="btn btn-primary btn-sm" onclick="displayService(4)">More
+                            Info</button></div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-5">
+                <div class="card  bg-light h-100">
+                    <div class="card-body">
+                        <h2 class="card-title">Day Services</h2>
+                        <hr class="hr hr-blurry">
+                        <div class="card-text">
+                            <p>Whether
+                                directly after the baby is born or in the months after, daytime support helps ease the
+                                task load for new families. </p>
+                            <p>In person services available in your home between the hours of 9am and 5pm.</p>
+                        </div>
+                        <div id="myService5">
+                            <h4 class="price">Includes:</h4>
+                            <ul class="service-list">
+                                <li>light housekeeping</li>
+                                <li>meal preparation</li>
+                                <li>support for parents, infants, and other children</li>
+                                <li>access to resources for parents on topics such as infant feeding, infant sleep, safe
+                                    sleep and postpartum concerns</li>
+                            </ul>
+                            <h4 class="price">Price:</h4>
+                            <ul class="service-list">
+                                <li>$25 per hour (minimum 2 hours per visit)</li>
+                            </ul>
+                            <a class="btn btn-primary btn-sm" href="contact.html">Contact me for further details</a>
+                        </div>
+                    </div>
+                    <div class="card-footer"><button class="btn btn-primary btn-sm" onclick="displayService(5)">More
+                            Info</button></div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-5">
+                <div class="card bg-light h-100">
+                    <div class="card-body">
+                        <h2 class="card-title">In-Hospital Services</h2>
+                        <hr class="hr hr-blurry">
+                        <div class="card-text">
+                            <p>In-hospital immediate postpartum support at the hospital once baby has arrived. Assistance in answering questions about the transition from hospital to home, help supporting early feeding and baby care. </p>
+                        </div>
+                        <div id="myService6">
+                            <h4 class="price">Includes:</h4>
+                            <ul class="service-list">
+                                <li>up to two hours of support immediately after birth including (but not limited to):
+                                    <ul class="service-list">
+                                        <li>assisting with inital feeding</li>
+                                        <li>information and support on how to care for baby</li>
+                                        <li>information and support on how to care for birthing parent after delivery
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <h4 class="price">Price:</h4>
+                            <ul class="service-list">
+                                <li>$70</li>
+                            </ul>
+                            <a class="btn btn-primary btn-sm" href="contact.html">Contact me for further details</a>
+                        </div>
+                    </div>
+                    <div class="card-footer"><button class="btn btn-primary btn-sm" onclick="displayService(6)">More
+                            Info</button></div>
+                </div>
+            </div>
+        </div>
+        <!-- Footer-->
+        <footer class="bg-white rounded py-3 mb-3">
+            <div class="container px-4 px-lg-5">
+                <div class="d-flex flex-column">
+                    <div class="align-self-start">
+                        <a class="link-dark small" href="index.html">Home</a>
+                        <span class="text-dark mx-1">&middot;</span>
+                        <a id="anatomyButton2" class="link-dark small current" href="services.html">Services</a>
+                        <span class="text-dark mx-1">&middot;</span>
+                        <a class="link-dark small" href="about.html">About Me</a>
+                        <span class="text-dark mx-1">&middot;</span>
+                        <a class="link-dark small" href="faq.html">FAQ</a>
+                        <span class="text-dark mx-1">&middot;</span>
+                        <a class="link-dark small" href="contact.html">Contact Me</a>
+                    </div>
+                    <div class="contactButton align-self-center py-3">
+                        <a class="btn btn-primary bg-gradient shadow px-5 btn-lg consult" href="contact.html">
+                            Book a Consultation </a>
+                    </div>
+                </div>
+                <div class="icons d-flex flex-column flex-lg-row align-items-sm-center justify-content-lg-between">
+                    <p class="copyright order-2 order-lg-0 align-self-center align-self-lg-end pt-1"> &copy; Beyond
+                        Birthing 2025</p>
+                    <!--                        
+                    <div>
+                        <p class="contact order-0 order-lg-1">306-123-4567
+                            <br><a class="mail"
+                                href="mailto:elizabethrbusiness@gmail.com">elizabethrbusiness@gmail.com</a>
+                        </p>
+                    </div>
+                    -->
+                    <div>
+                        <p class="contact order-0 order-lg-1"><a class="mail"
+                                href="mailto:beyondbirthingdoulacare@gmail.com">beyondbirthingdoulacare@gmail.com</a></p>
+                    </div>
+                    <ul class="socializer align-self-center align-self-lg-end order-1 order-lg-2 sr-48px sr-squircle sr-bg-white sr-bdr-none sr-bdr-sm sr-icon-dark
+                            ">
+                        <li>
+                            <a class="sr-facebooks invisible" href="#"><i class="fa fa-facebook"></i></a>
+                            <a class="sr-instagram" href="https://www.instagram.com/beyondbirthingdoulacare/" data-bs-toggle="tooltip" data-bs-placement="top"
+                                data-bs-title="Follow me on Instagram!"><i class="fa fa-instagram"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </div>
+</body>
+
+</html>

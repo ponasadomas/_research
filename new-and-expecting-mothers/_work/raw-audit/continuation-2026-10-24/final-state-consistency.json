@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-24",
+  "total_quotes": 1944,
+  "new_quotes": 648,
+  "bank_ids": 1113,
+  "research_only": 67,
+  "full_Reddit_posts": 5879,
+  "OP_replies": 2149,
+  "auxiliary_comments": 43,
+  "body_unread": {
+    "A": 2532,
+    "B": 51126,
+    "C": 38463
+  },
+  "available_comments_unread": 145387,
+  "manual_safety_reviewed": 68,
+  "manual_random_samples": [
+    20,
+    20
+  ],
+  "distinct_random_IDs": 39,
+  "targeted_record_checks": 23,
+  "selected_exactbody_groups": 10,
+  "baseline_voice_files_unchanged": 25,
+  "baseline_raw_inventories_unchanged": 5,
+  "raw_files": 25508,
+  "oversized_raw": [],
+  "ignored_raw": [],
+  "errors": [],
+  "failed": 0
+}

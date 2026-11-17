@@ -16,6 +16,8 @@ Rules for all research: `../README.md`.
 | `reviews/` | App Store and Google Play reviews of 9 apps, 177 complete reviews (165 files) | 2026-10-25 | 159 quotes |
 | `sales-letters/` | Old long-form sales letters from the Wayback Machine (553 files) | from 2026-11-03 | Captured and listed; notes per letter not written yet |
 | `youtube/` | nothing | | Not collected |
+| `statistics/` | Published figures on American first-time mothers, 17 saved sources | 2026-11-17 | 23 figures; most cover all mothers, not first-time mothers |
+| `forums/`, `marketplaces/`, `official-guidance/` | nothing | | Not collected in this niche. The niche-selection research in `../new-and-expecting-mothers/` has all three for the whole market |
 | `quotes/` | 2,970 quotes, one record each, in 12 files; `merged/all.jsonl` is a generated copy | | Every quote checked against its source |
 | `evidence/` | `evidence.md`: the quotes sorted under themes with conclusions (44,500 words, cites 1,086 quotes); counts; readers' notes; the unfilter report | 2026-11-16 | Current |
 
@@ -73,7 +75,7 @@ and logs written before the move are left as written and use the old ones:
 | `scratchpad/` | `_work/scratchpad/` |
 | `product/product-brief.md` | `brief.md` |
 | `../_shared/_tools/`, `_tools/` | `_tools/history/shared/`, `_tools/history/` |
-| `../global/`, `../main/` | still in `ads/mamivio.com/research/` until they are moved to `../new-and-expecting-mothers/` |
+| `../global/`, `../main/` | `../new-and-expecting-mothers/` |
 
 ## Quote schema
 

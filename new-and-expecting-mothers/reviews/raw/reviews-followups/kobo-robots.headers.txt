@@ -1,0 +1,19 @@
+HTTP/2 200 
+date: Sat, 24 Oct 2026 11:51:27 GMT
+content-type: text/plain
+cf-ray: a4f8c50b9ad2b80d-RIX
+cf-cache-status: HIT
+x-frame-options: DENY
+age: 276
+cache-control: public, max-age=14400
+etag: W/"0191b7e2562dd1:0"
+set-cookie: __cf_bm=pMQtng.eOQZq7o_RYpcFkUJdheNH4sQ1EN5fGkpms1o-1792842687.2928238-1.0.1.1-tkthow0WXwvY7s962K7ug2QaOXecglY0hJN5XjGF9UDsZ81I3wx2Hm9WiPxzjomaiq16l7ajd_kFMTY8lrfqAWC8vmAqsn95o9fTUwjHB47VB0tByKtpQ.ZqbUgF91Co; HttpOnly; SameSite=None; Secure; Path=/; Domain=kobo.com; Expires=Sat, 24 Oct 2026 12:21:27 GMT
+expires: Sat, 24 Oct 2026 15:51:27 GMT
+last-modified: Thu, 22 Oct 2026 13:01:46 GMT
+server: cloudflare
+strict-transport-security: max-age=31536000; includeSubDomains
+vary: Accept-Encoding
+content-security-policy: default-src https://*.kobobooks.com:443 https://*.kobo.com:443 https://cdn.kobo.com:443 'unsafe-inline' 'self' blob:;worker-src https://*.kobo.com:443 https://*.kobobooks.com:443 'self' blob:;base-uri 'self' ;form-action 'self' https:;frame-ancestors 'self' https://builder.io ;script-src-attr 'unsafe-inline';style-src https://*.kobobooks.com:443 https://*.kobo.com:443 https://cdn.kobo.com:443 'self' 'unsafe-inline' *.visualwebsiteoptimizer.com app.vwo.com s3.amazonaws.com; style-src-attr 'unsafe-inline' ;img-src 'self' data: https: blob: *.visualwebsiteoptimizer.com chart.googleapis.com wingify-assets.s3.amazonaws.com app.vwo.com;font-src data: https: blob: data:;connect-src 'self' https: *.visualwebsiteoptimizer.com app.vwo.com;script-src-elem 'self' 'unsafe-inline' https: *.visualwebsiteoptimizer.com app.vwo.com;style-src-elem 'unsafe-inline' https: blob:;script-src 'self' https: 'unsafe-inline' 'unsafe-eval' *.visualwebsiteoptimizer.com app.vwo.com;frame-src https: blob: app.vwo.com *.visualwebsiteoptimizer.com;media-src https:
+content-security-policy: default-src https://*.kobobooks.com:443 https://*.kobo.com:443 https://cdn.kobo.com:443 'unsafe-inline' 'self' blob: ;worker-src blob: https://*.kobo.com:443 https://*.kobobooks.com:443 ;base-uri 'self' ;form-action 'self' https: ;frame-ancestors 'self' https://builder.io ;script-src-attr 'unsafe-inline' ;style-src-attr 'unsafe-inline' ;img-src data: https: blob: ;font-src data: https: blob: data:;connect-src 'self' https: ;script-src-elem 'unsafe-inline' https: ;style-src-elem 'unsafe-inline' https: blob: ;script-src https: 'unsafe-inline' 'unsafe-eval' ;frame-src https: blob: ;media-src https:
+x-content-type-options: nosniff
+

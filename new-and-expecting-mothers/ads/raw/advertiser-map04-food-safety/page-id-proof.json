@@ -1,0 +1,27 @@
+{
+  "solid_starts": {
+    "source_raw": "_raw/ads-running/exact-solid-starts.json",
+    "capture_date": "2026-10-24",
+    "native_snapshots": [
+      {
+        "page_name": "Solid Starts",
+        "page_id": "102312321163259",
+        "page_profile_uri": null
+      },
+      {
+        "page_name": "Solid Starts",
+        "page_id": "102312321163259",
+        "page_profile_uri": "https://www.facebook.com/solidstartsbaby/"
+      }
+    ]
+  },
+  "village": {
+    "source_raw": "_raw/advertiser-map04-food-safety/pages/village-safety.html",
+    "official_numeric_url": "https://www.facebook.com/104277479266731",
+    "native_resolution_pending": true
+  },
+  "pixel_ids_are_not_page_ids": [
+    "1046260886607485",
+    "1623011435647569"
+  ]
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "source": "Community index occurrences",
+    "downloaded": 100,
+    "matched": 92,
+    "kept": 62,
+    "read": 62,
+    "quotes": 155,
+    "read_unit": "available extracts; original threads 0",
+    "scope": "historical_initial_418_record_pass",
+    "superseded_by": "synthesis/coverage.json and synthesis/session-report.md"
+  },
+  {
+    "source": "App reviews: Apple + Google Play",
+    "downloaded": 201,
+    "matched": 201,
+    "kept": 201,
+    "read": 201,
+    "quotes": 192,
+    "read_unit": "complete original review bodies",
+    "scope": "historical_initial_418_record_pass",
+    "superseded_by": "synthesis/coverage.json and synthesis/session-report.md"
+  },
+  {
+    "source": "Book reviews: Apple + Barnes",
+    "downloaded": 15,
+    "matched": 15,
+    "kept": 15,
+    "read": 15,
+    "quotes": 14,
+    "read_unit": "complete original review bodies",
+    "scope": "historical_initial_418_record_pass",
+    "superseded_by": "synthesis/coverage.json and synthesis/session-report.md"
+  },
+  {
+    "source": "Competitor and free-resource pages",
+    "downloaded": 41,
+    "matched": 41,
+    "kept": 41,
+    "read": 41,
+    "quotes": 43,
+    "read_unit": "successful extracted page texts",
+    "scope": "historical_initial_418_record_pass",
+    "superseded_by": "synthesis/coverage.json and synthesis/session-report.md"
+  },
+  {
+    "source": "Professional guidance",
+    "downloaded": 12,
+    "matched": 11,
+    "kept": 11,
+    "read": 11,
+    "quotes": 10,
+    "read_unit": "11 valid documents; one404 response",
+    "scope": "historical_initial_418_record_pass",
+    "superseded_by": "synthesis/coverage.json and synthesis/session-report.md"
+  },
+  {
+    "source": "Meta Library ad ids",
+    "downloaded": 325,
+    "matched": 63,
+    "kept": 63,
+    "read": 63,
+    "quotes": 4,
+    "read_unit": "complete retained ad body texts; full creatives unviewed",
+    "scope": "historical_initial_418_record_pass",
+    "superseded_by": "synthesis/coverage.json and synthesis/session-report.md"
+  },
+  {
+    "source": "YouTube discovery metadata",
+    "downloaded": 5,
+    "matched": 4,
+    "kept": 4,
+    "read": 4,
+    "quotes": 0,
+    "read_unit": "metadata only; videos/comments0",
+    "scope": "historical_initial_418_record_pass",
+    "superseded_by": "synthesis/coverage.json and synthesis/session-report.md"
+  },
+  {
+    "source": "Owner customer data",
+    "downloaded": 0,
+    "matched": 0,
+    "kept": 0,
+    "read": 0,
+    "quotes": 0,
+    "read_unit": "none supplied",
+    "scope": "historical_initial_418_record_pass",
+    "superseded_by": "synthesis/coverage.json and synthesis/session-report.md"
+  }
+]

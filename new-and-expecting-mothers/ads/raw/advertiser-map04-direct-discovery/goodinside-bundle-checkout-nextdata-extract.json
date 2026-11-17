@@ -1,0 +1,100 @@
+{
+  "item": {
+    "id": "baby-sleep-bundle-20260827",
+    "type": "Bundle",
+    "analyticsProduct": "Bundle",
+    "name": "Baby Sleep Program Bundle",
+    "analyticsModalTitle": "Baby Sleep Program Bundle",
+    "bundledItemIds": [
+      "newborn-sleep-20260827",
+      "baby-sleep-20260827"
+    ],
+    "topic": "sleep",
+    "hubCard": {
+      "header": "Baby Sleep Program",
+      "description": "Everything you need to build safe, healthy sleep, protect your own rest, handle  regressions, and teach your baby to sleep through the night, the Good Inside way. Unlock 2 free gifts with purchase.",
+      "topics": [
+        "Sleep"
+      ],
+      "ageRange": "For 0-24 months",
+      "landingPageUrl": "/lp/baby-sleep-program-bundle",
+      "coverImage": "https://media.goodinside.com/wp-content/uploads/2026/08/07130108/NewbornSleep_Cover_Program.png"
+    },
+    "product_id": "prod_V8zj2WeJbhwGXv",
+    "price_id": "price_1U8hjYCMtlwvIv97EEwycfaN",
+    "checkout": {
+      "title": "Better nights start here",
+      "subtitle": "A clear plan and real support, no more guessing.",
+      "summaryLabel": "The Complete Sleep Program",
+      "bonusLineItems": [
+        {
+          "label": "One personalized 1:1 sleep coaching session",
+          "valueText": "FREE"
+        },
+        {
+          "label": "3 months of access to the Good Inside app",
+          "valueText": "FREE"
+        }
+      ],
+      "bonusLineItemsPriceRevealVariant": [
+        {
+          "label": "One personalized 1:1 sleep coaching session",
+          "valueText": "FREE",
+          "originalValueText": "$125",
+          "originalValueCents": 12500
+        },
+        {
+          "label": "3 months of access to the Good Inside app",
+          "valueText": "FREE",
+          "originalValueText": "$84",
+          "originalValueCents": 8400
+        }
+      ]
+    },
+    "success": {
+      "sectionLabel": "Order Confirmed",
+      "title": "You're in, ${user.first_name}!",
+      "subtitle": "We sent your order confirmation to ${user.email}.",
+      "details": {
+        "title": "You\u2019re one step closer to getting more sleep.",
+        "subtitle": "Create your account to unlock your Sleep Program. Tap below, or use the link in your email anytime.",
+        "description": ""
+      },
+      "button": {
+        "ctaText": "Create Account & Start",
+        "action": "content-access"
+      }
+    },
+    "subscriptionDiscount": {
+      "couponId": "YcvOt9vS",
+      "checkoutLineItemLabel": "Prorated program credit",
+      "fallbackPromoCode": "BABYSLEEPXU84"
+    },
+    "banners": {
+      "success": [
+        {
+          "title": "Your gifts are on their way to in your inbox",
+          "body": "Everything you need to redeem your 1:1 coaching session and 3 free months of access to the Good Inside app is on it\u2019s way to your inbox. You should receive it in the next 5 minutes!",
+          "color": "light-blue",
+          "image": {
+            "src": "https://media.goodinside.com/wp-content/uploads/2022/08/16211911/Bitesize_Learning.svg",
+            "width": 105,
+            "height": 154,
+            "display": "bleed",
+            "bleedTop": 1,
+            "bleedLeft": 5
+          }
+        }
+      ]
+    }
+  },
+  "pageProps_keys": [
+    "item",
+    "searchLinks",
+    "globalContent",
+    "eventLogo",
+    "emailFromQuery",
+    "_sentryTraceData",
+    "_sentryBaggage"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-24",
+  "independent_publisher": "yikeee/reddit-subreddits25",
+  "pinned_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f",
+  "scope_separate_from_nine_community_ABC": true,
+  "capture_files": [
+    {
+      "community": "sleeptrain",
+      "full_records": 115812,
+      "window_records": 14920,
+      "min_date": "2016-06-17T14:33:04+00:00",
+      "max_date": "2025-12-31T23:48:51+00:00",
+      "status": {
+        "present": 14820,
+        "empty": 18,
+        "removed": 82
+      },
+      "compressed_sha256": "257816ebb3768b6491d400a1b6a2429403dc8d6edd5d7f99d67dcbe718589c0e",
+      "zstd_integrity_and_full_JSON_EOF": true
+    },
+    {
+      "community": "parentsnark",
+      "full_records": 1901,
+      "window_records": 306,
+      "min_date": "2022-08-16T13:57:21+00:00",
+      "max_date": "2025-12-31T19:32:03+00:00",
+      "status": {
+        "present": 268,
+        "empty": 33,
+        "deleted": 3,
+        "removed": 2
+      },
+      "compressed_sha256": "db734f41f91671e4f37c9f2ee05cd0c7ab6e472e3c610c393a14a1b53c8b5e3b",
+      "zstd_integrity_and_full_JSON_EOF": true
+    }
+  ],
+  "whole_compressed_bytes": 55769181,
+  "window_originals": 15226,
+  "readable_original_units": 15088,
+  "unavailable_window_bodies": 138,
+  "initial_candidates": 72,
+  "supplement_candidates": 319,
+  "own_initial_triage": 72,
+  "own_initial_keeps": 55,
+  "own_initial_drops": 17,
+  "own_supplement_triage": 56,
+  "own_supplement_keeps": 9,
+  "own_supplement_drops": 47,
+  "supplement_delegated_to_existing_readers": {
+    "04": 142,
+    "05": 121
+  },
+  "all_own_full_reads": 64,
+  "all_own_keeps_read": true,
+  "partial_originals": 0,
+  "unread_own_keeps": [],
+  "statuses": {
+    "excluded_after_read": 11,
+    "eligible": 53
+  },
+  "own_card_drop_bodies_human_unread": 64,
+  "comments_and_identifiable_OP_replies_read": 0,
+  "comment_sources_unavailable": true,
+  "human_extra_originals": 0,
+  "machine_validation_not_human_reading": true,
+  "quotes": 21,
+  "quoted_originals": 21,
+  "research_only_quote_ids": [
+    "rpa03-0001",
+    "rpa03-0003",
+    "rpa03-0005",
+    "rpa03-0006",
+    "rpa03-0007",
+    "rpa03-0009",
+    "rpa03-0011",
+    "rpa03-0012",
+    "rpa03-0015",
+    "rpa03-0016",
+    "rpa03-0018",
+    "rpa03-0021"
+  ],
+  "per_original_transaction_field_records": 64,
+  "documented_standalone_customized_written_report_transactions": 0,
+  "native_readable_unit_title_body_metadata_hash_checks": 15088,
+  "full_source_JSON_records_scanned": 117713,
+  "card_display_view_hash_checks": 38,
+  "human_card_views_read_initial": 8,
+  "human_card_views_read_supplement_own": 5,
+  "full_display_views_hash_checked": 8,
+  "native_body_date_canonical_URL_checks": 21,
+  "global_own_ID_uniqueness": true,
+  "note_quote_ids_checked": 21,
+  "verify_quotes_stdout": "report-purchase-archive-wave03.jsonl: 21 quotes, 0 failed\nTOTAL 21 quotes, 0 failed",
+  "failed": 0,
+  "voice_sha256": "4c79fe6071293518bd57106988784b33cc8de22c39026cf275a508bb312dc48b",
+  "reading_sha256": "4024f9ec31d6297170dbe3b884b14dde8d3f89d1957eb77b9a275f0f24ca0968",
+  "transactions_sha256": "f689603ea1c9c091bc44e837b2c9628905b42c6bee2b8cae47aec8d8b8342c81",
+  "source_note_sha256": "dc017009a6aed94a0d0818227a8cdd15ad1deccf257b6b5a2f5de4a26367a556",
+  "reader_notes_sha256": "9cce8ea48fc2d7b76e7fab7071c909d3e631aa6eec4f5b4c8cea4f057979120d",
+  "limits": "Archived unverified self reports; no live completeness, authenticated independence, clinical efficacy, price acceptance for a custom report, causal outcomes or market prevalence. Other readers own remaining263supplement cards and their keeps."
+}

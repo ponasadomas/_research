@@ -1,0 +1,31 @@
+{
+  "requested_url": "https://www.kinedu.com/robots.txt",
+  "final_url": "https://www.kinedu.com/robots.txt",
+  "status": 200,
+  "date_utc": "2026-10-24T21:46:38.544880+00:00",
+  "headers": {
+    "Access-Control-Allow-Origin": "*",
+    "Age": "159670",
+    "Cache-Control": "public, max-age=0, must-revalidate",
+    "Content-Disposition": "inline; filename=\"robots.txt\"",
+    "Content-Encoding": "gzip",
+    "Content-Type": "text/plain; charset=utf-8",
+    "Date": "Sat, 24 Oct 2026 21:46:38 GMT",
+    "Etag": "W/\"0e633a58749e9dc3e9fb5beb71cb58d7\"",
+    "Last-Modified": "Fri, 23 Oct 2026 01:25:27 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "nginx/1.16.1",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload, max-age=31536000; includeSubDomains; preload;",
+    "Vary": "Accept-Encoding",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-Vercel-Cache": "HIT",
+    "X-Vercel-Id": "pdx1::spqmq-1792878398444-aa79cf403b37",
+    "Content-Length": "157",
+    "Connection": "keep-alive"
+  },
+  "redirects": [],
+  "raw_file": "_raw/advertiser-map04-sleep-play/robots-www.kinedu.com.body",
+  "sha256": "0ed8e88c281167a0ec41f24b6388d40688e804752d30ff491061b61d17bfc1d5",
+  "bytes": 311
+}

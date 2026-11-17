@@ -1,0 +1,48 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "Little Ones",
+  "captured_at": "2026-10-24T21:51:00.119Z",
+  "suggestions": "age/\"\n  uid=9_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=9_1 generic\n      uid=9_2 button \"Search for exact phrase Little Ones\"\n    uid=9_3 generic description=\"Little Ones @TheLittle1s· 219.8K follow this · Child Development @littleonesbabysleep· 142.6K followers\"\n    uid=9_4 generic description=\"Fun For Little Ones Live @funforlittleoneslive· 6.5K follow this · Theatrical Productions @funforlittleoneslive· 6.5K followers\"\n    uid=9_5 generic description=\"Lenas Little Ones 5.1M follow this · Child Care Service @lenas_little_ones_daycare_· 2.7M followers\"\n    uid=9_6 generic description=\"Little Ones @littleonespk· 49.2K follow this · Clothing (Brand) @littleonespakistan· 70.8K followers\"\n    uid=9_7 generic description=\"Chess Fun For Little Ones 4.1K follow this · Games/toys @chessfunforlittleones· 16.7K followers\"\n    uid=9_8 generic description=\"Little Ones @shopatlittleones· 5K follow this · Baby goods/kids goods @shopatlittleones· 1.6K followers\"\n    uid=9_9 generic description=\"Little Ones 1.9K follow this · Baby goods/kids goods\"\n    uid=9_10 generic description=\"Little Ones 1.5K follow this · Apparel & Clothing\"\n    uid=9_11 generic description=\"Little Ones @LittleOnesLondon· 10.1K follow this · Child Care Service @littleonesukltd· 4.2K followers\"\n    uid=9_12 generic description=\"Little Ones. 3.1K follow this · Baby & children's clothing store @littleones.eg· 141.3K followers\"\n",
+  "candidates": [
+    {
+      "uid": "9_3",
+      "description": "Little Ones @TheLittle1s· 219.8K follow this · Child Development @littleonesbabysleep· 142.6K followers"
+    },
+    {
+      "uid": "9_4",
+      "description": "Fun For Little Ones Live @funforlittleoneslive· 6.5K follow this · Theatrical Productions @funforlittleoneslive· 6.5K followers"
+    },
+    {
+      "uid": "9_5",
+      "description": "Lenas Little Ones 5.1M follow this · Child Care Service @lenas_little_ones_daycare_· 2.7M followers"
+    },
+    {
+      "uid": "9_6",
+      "description": "Little Ones @littleonespk· 49.2K follow this · Clothing (Brand) @littleonespakistan· 70.8K followers"
+    },
+    {
+      "uid": "9_7",
+      "description": "Chess Fun For Little Ones 4.1K follow this · Games/toys @chessfunforlittleones· 16.7K followers"
+    },
+    {
+      "uid": "9_8",
+      "description": "Little Ones @shopatlittleones· 5K follow this · Baby goods/kids goods @shopatlittleones· 1.6K followers"
+    },
+    {
+      "uid": "9_9",
+      "description": "Little Ones 1.9K follow this · Baby goods/kids goods"
+    },
+    {
+      "uid": "9_10",
+      "description": "Little Ones 1.5K follow this · Apparel & Clothing"
+    },
+    {
+      "uid": "9_11",
+      "description": "Little Ones @LittleOnesLondon· 10.1K follow this · Child Care Service @littleonesukltd· 4.2K followers"
+    },
+    {
+      "uid": "9_12",
+      "description": "Little Ones. 3.1K follow this · Baby & children's clothing store @littleones.eg· 141.3K followers"
+    }
+  ]
+}

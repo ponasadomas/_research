@@ -1,0 +1,32 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "The Wonder Weeks",
+  "captured_at": "2026-10-24T22:01:38.628Z",
+  "suggestions": "ge/\"\n  uid=80_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=80_1 generic\n      uid=80_2 button \"Search for exact phrase The Wonder Weeks\"\n    uid=80_3 generic description=\"The Wonder Weeks @WonderWeeks· 201.1K follow this · Book @thewonderweeks· 217.1K followers\"\n    uid=80_4 generic description=\"Wonderful Weeks 1.5K follow this · Health/beauty\"\n    uid=80_5 generic description=\"Wonderful Weeks C 1.1K follow this · Health/beauty\"\n    uid=80_6 generic description=\"Weeks Of Wonders 171 follow this · Musician/band\"\n    uid=80_7 generic description=\"Tobias Mathias The Wonder Pup - 13 weeks old @TobiasMathias2020· 52 follow this · Dog Trainer\"\n    uid=80_8 generic description=\"Wonder Weeks - Tuần khủng hoảng của bé @wonderweeksVn· 3.9K follow this · Community @tuankhunghoang· 120 followers\"\n",
+  "candidates": [
+    {
+      "uid": "80_3",
+      "description": "The Wonder Weeks @WonderWeeks· 201.1K follow this · Book @thewonderweeks· 217.1K followers"
+    },
+    {
+      "uid": "80_4",
+      "description": "Wonderful Weeks 1.5K follow this · Health/beauty"
+    },
+    {
+      "uid": "80_5",
+      "description": "Wonderful Weeks C 1.1K follow this · Health/beauty"
+    },
+    {
+      "uid": "80_6",
+      "description": "Weeks Of Wonders 171 follow this · Musician/band"
+    },
+    {
+      "uid": "80_7",
+      "description": "Tobias Mathias The Wonder Pup - 13 weeks old @TobiasMathias2020· 52 follow this · Dog Trainer"
+    },
+    {
+      "uid": "80_8",
+      "description": "Wonder Weeks - Tuần khủng hoảng của bé @wonderweeksVn· 3.9K follow this · Community @tuankhunghoang· 120 followers"
+    }
+  ]
+}

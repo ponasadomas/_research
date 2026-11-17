@@ -1,0 +1,27 @@
+{
+  "requested_url": "https://www.mothercould.com/",
+  "final_url": "https://www.mothercould.com/",
+  "status": 200,
+  "date_utc": "2026-10-24T21:47:34.427270+00:00",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Age": "197879",
+    "Content-Encoding": "gzip",
+    "Content-Length": "56665",
+    "Content-Type": "text/html;charset=utf-8",
+    "Date": "Thu, 22 Oct 2026 14:41:05 GMT",
+    "Etag": "W/\"2f2bf88a452cc6fff9237d435ca5b4e0\"",
+    "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+    "Server": "Squarespace",
+    "Set-Cookie": "crumb=BfuzNM9WVme/MTE4YzM3MWQxMTdmNGVhMjk2NzRjNDk1NWQwMjZl;Secure;Path=/",
+    "Strict-Transport-Security": "max-age=15552000",
+    "Vary": "Accept-Encoding",
+    "X-Content-Type-Options": "nosniff",
+    "X-Contextid": "qUmYC2P4/EBKy9jhh",
+    "X-Frame-Options": "SAMEORIGIN, SAMEORIGIN"
+  },
+  "redirects": [],
+  "raw_file": "_raw/advertiser-map04-sleep-play/mothercould-home.body",
+  "sha256": "e426f81dbf1d5b92c6ca05c31163f9c11a052be38b0109f2beae240ee646aef1",
+  "bytes": 479757
+}

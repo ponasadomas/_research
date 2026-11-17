@@ -1,0 +1,157 @@
+[
+  {
+    "host": "forums.moneysavingexpert.com",
+    "url": "https://forums.moneysavingexpert.com/robots.txt",
+    "http_status": 200,
+    "classification": "allowed_public_paths",
+    "observed_note": "Explicit ChatGPT-User Allow:/; generic exclusions avoided. Main-site terms normal route403 challenge, terms unknown. Category/thread routes public200.",
+    "raw_files": [
+      "_raw/oblique-deep/probes/mse-robots.txt",
+      "_raw/oblique-deep/probes/mse-robots.headers.txt",
+      "_raw/oblique-deep/probes/mse-terms.txt",
+      "_raw/oblique-deep/probes/mse-mums.txt",
+      "_raw/oblique-deep/probes/mse-dads.txt"
+    ],
+    "observed_date": "2026-10-24"
+  },
+  {
+    "host": "www.dcurbanmom.com",
+    "url": "https://www.dcurbanmom.com/faq.html",
+    "http_status": 200,
+    "classification": "explicit_content_reuse_restriction",
+    "observed_note": "FAQ footer requires explicit permission for any content use. No discussion harvesting/quotes. Robots and public category probes200.",
+    "raw_files": [
+      "_raw/oblique-deep/probes/dcurbanmom-robots.txt",
+      "_raw/oblique-deep/probes/dcurbanmom-guidelines.txt",
+      "_raw/oblique-deep/probes/dc-infants.txt",
+      "_raw/oblique-deep/probes/dc-expectant.txt",
+      "_raw/oblique-deep/probes/dc-childcare.txt"
+    ],
+    "observed_date": "2026-10-24"
+  },
+  {
+    "host": "www.city-data.com",
+    "url": "https://www.city-data.com/robots.txt",
+    "http_status": 200,
+    "classification": "explicit_ai_restriction",
+    "observed_note": "GPTBot Disallow:/; stopped before original discussion collection.",
+    "raw_files": [
+      "_raw/oblique-deep/probes/citydata-robots.txt",
+      "_raw/oblique-deep/probes/citydata-robots.headers.txt"
+    ],
+    "observed_date": "2026-10-24"
+  },
+  {
+    "host": "www.expatforum.com",
+    "url": "https://www.expatforum.com/robots.txt",
+    "http_status": 200,
+    "classification": "explicit_ai_restriction",
+    "observed_note": "GPTBot and ChatGPT-User/OAI group Disallow:/; stopped.",
+    "raw_files": [
+      "_raw/oblique-deep/probes/expatforum-robots.txt",
+      "_raw/oblique-deep/probes/expatforum-robots.headers.txt"
+    ],
+    "observed_date": "2026-10-24"
+  },
+  {
+    "host": "forums.twinstuff.com",
+    "url": "https://forums.twinstuff.com/robots.txt",
+    "http_status": 0,
+    "classification": "connection_failure_unknown_policy",
+    "observed_note": "Host resolution failed; no content obtained.",
+    "raw_files": [
+      "_raw/oblique-deep/probes/twinstuff-robots.headers.txt"
+    ],
+    "observed_date": "2026-10-24",
+    "raw_body_note": "No response body saved for failed connection; header artifact only."
+  },
+  {
+    "host": "www.twinstuff.com",
+    "url": "https://www.twinstuff.com/forums/",
+    "http_status": 403,
+    "classification": "public_forum_unavailable",
+    "observed_note": "Main robots200 permits ordinary paths and homepage200; public /forums/403, no bypass.",
+    "raw_files": [
+      "_raw/oblique-deep/probes/twinstuff-main-robots.txt",
+      "_raw/oblique-deep/probes/twinstuff-home.txt",
+      "_raw/oblique-deep/probes/twinstuff-forums.txt"
+    ],
+    "observed_date": "2026-10-24"
+  },
+  {
+    "host": "forum.singaporeexpats.com",
+    "url": "https://forum.singaporeexpats.com/",
+    "http_status": 403,
+    "classification": "content_wall_unknown_policy",
+    "observed_note": "Robots403 alone was unknown; ordinary public index also403 challenge. No bypass.",
+    "raw_files": [
+      "_raw/oblique-deep/probes/singaporeexpats-robots.txt",
+      "_raw/oblique-deep/probes/singaporeexpats-index.txt"
+    ],
+    "observed_date": "2026-10-24"
+  },
+  {
+    "host": "www.englishforum.ch",
+    "url": "https://www.englishforum.ch/robots.txt",
+    "http_status": 0,
+    "classification": "connection_failure_unknown_policy",
+    "observed_note": "Connection failed; no discussion content obtained.",
+    "raw_files": [
+      "_raw/oblique-deep/probes/englishforum-robots.headers.txt"
+    ],
+    "observed_date": "2026-10-24"
+  },
+  {
+    "host": "www.expat.com",
+    "url": "https://www.expat.com/robots.txt",
+    "http_status": 200,
+    "classification": "forum_path_restriction",
+    "observed_note": "Generic rule disallows /forum/*.html$ and private routes; standard forum-topic route excluded, no topic harvest.",
+    "raw_files": [
+      "_raw/oblique-deep/probes/expatcom-robots.txt",
+      "_raw/oblique-deep/probes/expatcom-robots.headers.txt"
+    ],
+    "observed_date": "2026-10-24"
+  },
+  {
+    "host": "www.expatwoman.com",
+    "url": "https://www.expatwoman.com/dubai/forum",
+    "http_status": 403,
+    "classification": "content_wall",
+    "observed_note": "Robots200 permits this ordinary route with10second crawl delay; public forum403 challenge, no bypass.",
+    "raw_files": [
+      "_raw/oblique-deep/probes/expatwoman-robots.txt",
+      "_raw/oblique-deep/probes/expatwoman-forum.txt"
+    ],
+    "observed_date": "2026-10-24"
+  },
+  {
+    "host": "www.geobaby.com",
+    "url": "https://www.geobaby.com/robots.txt",
+    "http_status": 200,
+    "classification": "publisher_redirect_not_robots",
+    "observed_note": "Original host robots redirects301 to archive category HTML; that response is not a valid robots policy. Canonical archive checked separately.",
+    "raw_files": [
+      "_raw/oblique-deep/probes/geobaby-robots.txt",
+      "_raw/oblique-deep/probes/geobaby-robots.headers.txt",
+      "_raw/oblique-deep/probes/geobaby-index.txt"
+    ],
+    "observed_date": "2026-10-24"
+  },
+  {
+    "host": "archive.geoclicks.com",
+    "url": "https://archive.geoclicks.com/robots.txt",
+    "http_status": 200,
+    "classification": "allowed_public_archive",
+    "observed_note": "Robots contains explanatory content-signal comments only, no actual restrictive directive/signal. Terms200 standard user-generated-content terms; public archive read-only.",
+    "raw_files": [
+      "_raw/oblique-deep/probes/geoclicks-robots.txt",
+      "_raw/oblique-deep/probes/geoclicks-robots.headers.txt",
+      "_raw/oblique-deep/probes/geoclicks-terms.txt",
+      "_raw/oblique-deep/probes/geo-arrival.txt",
+      "_raw/oblique-deep/probes/geo-twins.txt",
+      "_raw/oblique-deep/probes/geo-pregnant-multiples.txt"
+    ],
+    "observed_date": "2026-10-24"
+  }
+]

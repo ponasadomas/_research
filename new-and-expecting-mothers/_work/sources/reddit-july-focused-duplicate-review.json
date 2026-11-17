@@ -1,0 +1,252 @@
+{
+  "groups": [
+    {
+      "group_id": "focused-exact-01",
+      "kind": "exact_normalized_body",
+      "post_ids": [
+        "1lq8s4c",
+        "1lqaxfh",
+        "1lqaz6t"
+      ]
+    },
+    {
+      "group_id": "focused-exact-02",
+      "kind": "exact_normalized_body",
+      "post_ids": [
+        "1m8lf32",
+        "1m8lgws",
+        "1m8lecn"
+      ]
+    },
+    {
+      "group_id": "focused-exact-03",
+      "kind": "exact_normalized_body",
+      "post_ids": [
+        "1lyshz8",
+        "1lynp2u"
+      ]
+    },
+    {
+      "group_id": "focused-exact-04",
+      "kind": "exact_normalized_body",
+      "post_ids": [
+        "1lxc7y0",
+        "1lxc8ho",
+        "1lxc9oi"
+      ]
+    },
+    {
+      "group_id": "focused-exact-05",
+      "kind": "exact_normalized_body",
+      "post_ids": [
+        "1lywgwj",
+        "1lywg3x"
+      ]
+    },
+    {
+      "group_id": "focused-exact-06",
+      "kind": "exact_normalized_body",
+      "post_ids": [
+        "1m1g6ex",
+        "1m1g6l1"
+      ]
+    },
+    {
+      "group_id": "focused-exact-07",
+      "kind": "exact_normalized_body",
+      "post_ids": [
+        "1m4k3dc",
+        "1m4k4gs"
+      ]
+    },
+    {
+      "group_id": "focused-exact-08",
+      "kind": "exact_normalized_body",
+      "post_ids": [
+        "1lsgd4l",
+        "1lsgljp"
+      ]
+    },
+    {
+      "group_id": "focused-exact-09",
+      "kind": "exact_normalized_body",
+      "post_ids": [
+        "1lwzwe9",
+        "1lx2kpy"
+      ]
+    },
+    {
+      "group_id": "focused-exact-10",
+      "kind": "exact_normalized_body",
+      "post_ids": [
+        "1ly4icq",
+        "1ly4dbj"
+      ]
+    },
+    {
+      "group_id": "focused-exact-11",
+      "kind": "exact_normalized_body",
+      "post_ids": [
+        "1m7xeaf",
+        "1m7xher"
+      ]
+    },
+    {
+      "group_id": "focused-exact-12",
+      "kind": "exact_normalized_body",
+      "post_ids": [
+        "1m85bqc",
+        "1m85dio"
+      ]
+    },
+    {
+      "group_id": "focused-exact-13",
+      "kind": "exact_normalized_body",
+      "post_ids": [
+        "1mb8vw2",
+        "1mb8wx2"
+      ]
+    },
+    {
+      "group_id": "focused-exact-14",
+      "kind": "exact_normalized_body",
+      "post_ids": [
+        "1ls027q",
+        "1ls03az"
+      ]
+    },
+    {
+      "group_id": "focused-exact-15",
+      "kind": "exact_normalized_body",
+      "post_ids": [
+        "1lzzs52",
+        "1lzzqlk"
+      ]
+    },
+    {
+      "group_id": "focused-exact-16",
+      "kind": "exact_normalized_body",
+      "post_ids": [
+        "1m1gn4d",
+        "1m1gn6l",
+        "1m1gn7f",
+        "1m1gn8k",
+        "1m1gnaj",
+        "1m1gnju",
+        "1m1gno6",
+        "1m1go51"
+      ]
+    },
+    {
+      "group_id": "focused-near-01",
+      "kind": "near_body_machine_flag_human_triaged",
+      "post_ids": [
+        "1lozw9r",
+        "1lp016v"
+      ],
+      "jaccard_5word": 0.9787
+    },
+    {
+      "group_id": "focused-near-02",
+      "kind": "near_body_machine_flag_human_triaged",
+      "post_ids": [
+        "1lqtn5t",
+        "1lqtbsh"
+      ],
+      "jaccard_5word": 0.7576
+    },
+    {
+      "group_id": "focused-near-03",
+      "kind": "near_body_machine_flag_human_triaged",
+      "post_ids": [
+        "1lwwvce",
+        "1lwwxd9"
+      ],
+      "jaccard_5word": 0.989
+    },
+    {
+      "group_id": "focused-near-04",
+      "kind": "near_body_machine_flag_human_triaged",
+      "post_ids": [
+        "1m0hduo",
+        "1m0iqla"
+      ],
+      "jaccard_5word": 0.9628
+    },
+    {
+      "group_id": "focused-near-05",
+      "kind": "near_body_machine_flag_human_triaged",
+      "post_ids": [
+        "1m65vxl",
+        "1m670cr"
+      ],
+      "jaccard_5word": 1.0
+    },
+    {
+      "group_id": "focused-near-06",
+      "kind": "near_body_machine_flag_human_triaged",
+      "post_ids": [
+        "1m7l9xg",
+        "1m7lfq1"
+      ],
+      "jaccard_5word": 0.9458
+    },
+    {
+      "group_id": "focused-near-07",
+      "kind": "near_body_machine_flag_human_triaged",
+      "post_ids": [
+        "1lzy9q1",
+        "1m0075h"
+      ],
+      "jaccard_5word": 0.9873
+    },
+    {
+      "group_id": "focused-manual-pump-near",
+      "kind": "same_author_near_duplicate_human_read",
+      "post_ids": [
+        "1m9a034",
+        "1m9aewx"
+      ],
+      "selected_representative": "1m9a034",
+      "excluded_later": "1m9aewx"
+    },
+    {
+      "group_id": "focused-teacher-related",
+      "kind": "same_author_related_question_not_independent_person",
+      "post_ids": [
+        "1m1ljot",
+        "1m1lsou"
+      ]
+    },
+    {
+      "group_id": "focused-career-related",
+      "kind": "same_author_related_followup_not_independent_person",
+      "post_ids": [
+        "1lzzqlk",
+        "1m5412d"
+      ]
+    },
+    {
+      "group_id": "focused-happysleeper-followup",
+      "kind": "same_author_changed_question_and_later_outcome",
+      "post_ids": [
+        "1lp19lb",
+        "1lscc4q"
+      ],
+      "note": "Later source reports sleep improved after4days but spouse opposed method; earlier outing constraint not a claim of overall failure."
+    }
+  ],
+  "scope": "All1661 July bodies machine-screened, human card/source decisions only for assigned scope. Exact/near group is not automatically malicious or fraudulent.",
+  "within_assignment": "At card stage kept earliest eligible representative of repeated body; new full-read pump near-duplicate excluded later. Distinct later OP replies are not independent people.",
+  "cross_reader_quote_overlap": [
+    {
+      "this_quote": "rjfc01-0078",
+      "other_quote": "rjnp01-0058",
+      "post_ids": [
+        "1lx2kpy",
+        "1lwzwe9"
+      ],
+      "finding": "Same body/account; two excerpts are not two independent buyers. Gifted Lovevery, not author purchase."
+    }
+  ]
+}

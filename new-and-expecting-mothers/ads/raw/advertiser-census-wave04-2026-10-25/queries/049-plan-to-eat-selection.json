@@ -1,0 +1,22 @@
+{
+  "kind": "advertiser_UI_selection",
+  "query": "Plan to Eat",
+  "expected_name": "Plan to Eat",
+  "chosen": {
+    "uid": "86_7",
+    "description": "Plan to Eat @plantoeat· 53.1K follow this · Kitchen/cooking @plantoeat_official· 4.6K followers"
+  },
+  "click_response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Successfully clicked on the element\nPage navigated to https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=119570619324."
+      }
+    ]
+  },
+  "observed": {
+    "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=119570619324",
+    "title": "Ad Library"
+  },
+  "captured_at": "2026-10-24T22:02:21.255Z"
+}

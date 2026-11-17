@@ -1,0 +1,21 @@
+{
+  "status": 200,
+  "url": "https://www.taylormadebabyco.com/robots.txt",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 20:05:33 GMT",
+    "Content-Type": "text/plain; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Cache-Control": "public, max-age=14400",
+    "Cf-Cache-Status": "MISS",
+    "Nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+    "Report-To": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=lWcnj0O9%2BsSyH93CbsFYzixSHUYQ3P86t5mNIY%2FgJpI%3D\\u0026sid=1b10b0ff-8a76-4548-befa-353fc6c6c045\\u0026ts=1792872333\"}],\"max_age\":3600}",
+    "Reporting-Endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=lWcnj0O9%2BsSyH93CbsFYzixSHUYQ3P86t5mNIY%2FgJpI%3D&sid=1b10b0ff-8a76-4548-befa-353fc6c6c045&ts=1792872333\"",
+    "Server": "cloudflare",
+    "Vary": "Accept-Encoding",
+    "Via": "2.0 heroku-router",
+    "Content-Encoding": "zstd",
+    "CF-RAY": "a4fb98cf7e8be4d3-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  }
+}

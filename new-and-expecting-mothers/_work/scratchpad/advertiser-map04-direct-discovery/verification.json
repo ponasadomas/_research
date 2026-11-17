@@ -1,0 +1,116 @@
+{
+  "verified_at_utc": "2026-10-24T22:15:37.887162+00:00",
+  "failures": 0,
+  "unique_native_ads": 22,
+  "fully_read_unique_ads": 22,
+  "source_occurrences": 24,
+  "fully_read_occurrences": 24,
+  "unread_unique_ads": 0,
+  "duplicate_discovery_occurrences_collapsed": 2,
+  "Good_Inside_Page_reported_native_count": 21,
+  "Good_Inside_Page_loaded_retained_read": 21,
+  "Good_Inside_Page_cards": 21,
+  "all_occurrence_cards_read_including_repeats": 25,
+  "media_viewed": 0,
+  "source_response_hashes_verified": [
+    {
+      "meta_file": "_raw/advertiser-map04-direct-discovery/firststep-home.meta.json",
+      "raw_file": "_raw/advertiser-map04-direct-discovery/firststep-home.body",
+      "sha256": "2e98cae1b7000333bcddef49a1aee22822850cd0f6d7f275ac7295e795489785",
+      "status": 200,
+      "date_utc": "2026-10-24T22:10:18.729009+00:00"
+    },
+    {
+      "meta_file": "_raw/advertiser-map04-direct-discovery/firststep-onlinecourse.meta.json",
+      "raw_file": "_raw/advertiser-map04-direct-discovery/firststep-onlinecourse.body",
+      "sha256": "bcc16aa6e28741e636e96d15044715b3348051418ca5db74ddc55970a766663a",
+      "status": 200,
+      "date_utc": "2026-10-24T22:10:52.635550+00:00"
+    },
+    {
+      "meta_file": "_raw/advertiser-map04-direct-discovery/firststep-registration-fee.meta.json",
+      "raw_file": "_raw/advertiser-map04-direct-discovery/firststep-registration-fee.body",
+      "sha256": "63942dda99c855db8404b5cbc8fa2a5bf394a472914394bcf8c0360ca7fc9860",
+      "status": 200,
+      "date_utc": "2026-10-24T22:11:33.524540+00:00"
+    },
+    {
+      "meta_file": "_raw/advertiser-map04-direct-discovery/firststep-training-program.meta.json",
+      "raw_file": "_raw/advertiser-map04-direct-discovery/firststep-training-program.body",
+      "sha256": "030fd59b6ab7095a463b034388479301697382ad51537978d4653f35016e3502",
+      "status": 200,
+      "date_utc": "2026-10-24T22:10:50.776334+00:00"
+    },
+    {
+      "meta_file": "_raw/advertiser-map04-direct-discovery/goodinside-about.meta.json",
+      "raw_file": "_raw/advertiser-map04-direct-discovery/goodinside-about.body",
+      "sha256": "5448c89ccc18b5ce923b7a10c6b5d0e8807580d7f9d560bc368005f3064b40cc",
+      "status": 200,
+      "date_utc": "2026-10-24T22:10:48.718065+00:00"
+    },
+    {
+      "meta_file": "_raw/advertiser-map04-direct-discovery/goodinside-baby-sleep-program-bundle.meta.json",
+      "raw_file": "_raw/advertiser-map04-direct-discovery/goodinside-baby-sleep-program-bundle.body",
+      "sha256": "25b6714882a3e8454ef76fa366a1232eeef7ad705ffb6857ce0a44c5edc474cc",
+      "status": 200,
+      "date_utc": "2026-10-24T22:10:15.265077+00:00"
+    },
+    {
+      "meta_file": "_raw/advertiser-map04-direct-discovery/goodinside-bundle-public-checkout.meta.json",
+      "raw_file": "_raw/advertiser-map04-direct-discovery/goodinside-bundle-public-checkout.body",
+      "sha256": "aca50be40ea49c123c55ab15ed22b025df2173b89856401c6e15c3dfda7696db",
+      "status": 200,
+      "date_utc": "2026-10-24T22:10:48.251029+00:00"
+    },
+    {
+      "meta_file": "_raw/advertiser-map04-direct-discovery/goodinside-checkout-client.meta.json",
+      "raw_file": "_raw/advertiser-map04-direct-discovery/goodinside-checkout-client.body",
+      "sha256": "9fae588bbfc6c20b59c90a2932ed0f6f701e5cc3aa9dba9554a48c6235fd973f",
+      "status": 200,
+      "date_utc": "2026-10-24T22:11:30.099789+00:00"
+    },
+    {
+      "meta_file": "_raw/advertiser-map04-direct-discovery/goodinside-public-bundle-price.meta.json",
+      "raw_file": "_raw/advertiser-map04-direct-discovery/goodinside-public-bundle-price.body",
+      "sha256": "266d2deee93feac7705144933f264e25460927de840c5a7d813aa073ed6e6786",
+      "status": 200,
+      "date_utc": "2026-10-24T22:11:48.997389+00:00"
+    },
+    {
+      "meta_file": "_raw/advertiser-map04-direct-discovery/robots-firststepmethod.com.meta.json",
+      "raw_file": "_raw/advertiser-map04-direct-discovery/robots-firststepmethod.com.body",
+      "sha256": "929c59b7e66a570a9050070b9a906b4a15c34da9fb7f7f06f62d27091484d829",
+      "status": 200,
+      "date_utc": "2026-10-24T22:10:09.686417+00:00"
+    },
+    {
+      "meta_file": "_raw/advertiser-map04-direct-discovery/robots-goodinside.com.meta.json",
+      "raw_file": "_raw/advertiser-map04-direct-discovery/robots-goodinside.com.body",
+      "sha256": "545aae0f14c11583b5cfe1a9206af7c53f27ee979fd716fcb3987c0667988a77",
+      "status": 200,
+      "date_utc": "2026-10-24T22:10:09.341828+00:00"
+    },
+    {
+      "meta_file": "_raw/advertiser-map04-direct-discovery/robots-www.firststepmethod.com.meta.json",
+      "raw_file": "_raw/advertiser-map04-direct-discovery/robots-www.firststepmethod.com.body",
+      "sha256": "929c59b7e66a570a9050070b9a906b4a15c34da9fb7f7f06f62d27091484d829",
+      "status": 200,
+      "date_utc": "2026-10-24T22:10:09.520997+00:00"
+    },
+    {
+      "meta_file": "_raw/advertiser-map04-direct-discovery/robots-www.goodinside.com.meta.json",
+      "raw_file": "_raw/advertiser-map04-direct-discovery/robots-www.goodinside.com.body",
+      "sha256": "545aae0f14c11583b5cfe1a9206af7c53f27ee979fd716fcb3987c0667988a77",
+      "status": 200,
+      "date_utc": "2026-10-24T22:10:09.130597+00:00"
+    }
+  ],
+  "prior_frozen_file_hashes_unchanged": 7,
+  "bundle_base_price": {
+    "amount_minor_units": 17500,
+    "currency": "USD",
+    "amount_major_units": 175,
+    "method": "Public checkout client GET price response plus same client USD cents formatter; no payment action"
+  },
+  "ledger_sha256": "1d9c5ddf637b6cf5c80a2b46f0635bd641a697b73eeecb324eb24b87a928c720"
+}

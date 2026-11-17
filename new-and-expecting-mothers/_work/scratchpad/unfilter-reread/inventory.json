@@ -1,0 +1,21 @@
+{
+  "decision_rows": 6507,
+  "categories": {
+    "subject_or_mixed": 3476,
+    "off_topic_or_repetition": 2573,
+    "provenance_review": 402,
+    "duplicate": 56
+  },
+  "queue_units": 3807,
+  "queue_stages": {
+    "quote_extraction": 76,
+    "quote_extraction;reading": 19,
+    "quote_extraction;reading_partial": 11,
+    "reading;reading_partial": 1,
+    "reading": 1131,
+    "reading;triage": 7,
+    "reading_partial": 3,
+    "triage": 2559
+  },
+  "missing_paths": 0
+}

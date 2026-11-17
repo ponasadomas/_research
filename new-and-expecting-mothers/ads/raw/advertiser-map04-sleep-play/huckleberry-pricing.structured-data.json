@@ -1,0 +1,218 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://huckleberrycare.com/",
+        "url": "https://huckleberrycare.com/",
+        "name": "Huckleberry: Expert sleep help for all families | Sleep Improvement For Newborns To 5-year-olds",
+        "isPartOf": {
+          "@id": "https://huckleberrycare.com/#website"
+        },
+        "description": "Good sleep made easy with Huckleberry. Access free tools & the most affordable expert help for your baby, toddler, or preschooler.",
+        "inLanguage": "en-US"
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://huckleberrycare.com/#website",
+        "url": "https://huckleberrycare.com/",
+        "name": "Huckleberry",
+        "inLanguage": "en-US"
+      },
+      {
+        "@type": "Organization",
+        "@id": "https://huckleberrycare.com/#organization",
+        "name": "Huckleberry",
+        "url": "https://huckleberrycare.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "inLanguage": "en-US",
+          "@id": "https://huckleberrycare.com/#/schema/logo/image/",
+          "url": "https://huckleberrycare.com/img/logo.png",
+          "width": 482,
+          "height": 73
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Product",
+        "@id": "https://huckleberrycare.com/product/premium#product",
+        "name": "Huckleberry Premium",
+        "description": "Premium includes: Personalized sleep plans, 24/7 parenting guidance with Berry, Data-driven tips and miniplans with Insights (0-17 months), Sleep predictions with SweetSpot\u00ae (2+ months), Plan ahead with Schedule Creator (2+ months), Easy tracking with AI logging, Live lock screen updates, Widgets*, and Apple Watch* (*iOS only), Spot patterns with Enhanced Reports (2+ months), and Track sleep, feeding, and more.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Huckleberry"
+        },
+        "image": "https://huckleberrycare.com/img/logo.png",
+        "url": "https://huckleberrycare.com/product/premium",
+        "offers": {
+          "@type": "AggregateOffer",
+          "@id": "https://huckleberrycare.com/product/premium#offers",
+          "url": "https://huckleberrycare.com/product/premium",
+          "priceCurrency": "USD",
+          "lowPrice": 14.99,
+          "highPrice": 119.99,
+          "offerCount": 2,
+          "offers": [
+            {
+              "@type": "Offer",
+              "@id": "https://huckleberrycare.com/product/premium#offer-annual",
+              "name": "Huckleberry Premium \u2014 Annual",
+              "url": "https://huckleberrycare.com/checkout?cycle=yearly&plan=premium",
+              "price": 119.99,
+              "priceCurrency": "USD",
+              "availability": "https://schema.org/InStock",
+              "seller": {
+                "@type": "Organization",
+                "name": "Huckleberry"
+              },
+              "priceSpecification": {
+                "@type": "UnitPriceSpecification",
+                "price": 119.99,
+                "priceCurrency": "USD",
+                "billingDuration": 12,
+                "billingIncrement": 1,
+                "unitCode": "MON",
+                "referenceQuantity": {
+                  "@type": "QuantitativeValue",
+                  "value": 12,
+                  "unitCode": "MON"
+                }
+              }
+            },
+            {
+              "@type": "Offer",
+              "@id": "https://huckleberrycare.com/product/premium#offer-monthly",
+              "name": "Huckleberry Premium \u2014 Monthly",
+              "url": "https://huckleberrycare.com/checkout?cycle=monthly&plan=premium",
+              "price": 14.99,
+              "priceCurrency": "USD",
+              "availability": "https://schema.org/InStock",
+              "seller": {
+                "@type": "Organization",
+                "name": "Huckleberry"
+              },
+              "priceSpecification": {
+                "@type": "UnitPriceSpecification",
+                "price": 14.99,
+                "priceCurrency": "USD",
+                "billingDuration": 1,
+                "billingIncrement": 1,
+                "unitCode": "MON",
+                "referenceQuantity": {
+                  "@type": "QuantitativeValue",
+                  "value": 1,
+                  "unitCode": "MON"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@type": "Product",
+        "@id": "https://huckleberrycare.com/product/plus#product",
+        "name": "Huckleberry Plus",
+        "description": "Plus includes: Data-driven tips and miniplans with Insights (0-17 months), Sleep predictions with SweetSpot\u00ae (2+ months), Plan ahead with Schedule Creator (2+ months), Easy tracking with AI logging, Live lock screen updates, Widgets*, and Apple Watch* (*iOS only), Spot patterns with Enhanced Reports (2+ months), and Track sleep, feeding, and more.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Huckleberry"
+        },
+        "image": "https://huckleberrycare.com/img/logo.png",
+        "url": "https://huckleberrycare.com/product/plus",
+        "offers": {
+          "@type": "AggregateOffer",
+          "@id": "https://huckleberrycare.com/product/plus#offers",
+          "url": "https://huckleberrycare.com/product/plus",
+          "priceCurrency": "USD",
+          "lowPrice": 11.99,
+          "highPrice": 68.99,
+          "offerCount": 2,
+          "offers": [
+            {
+              "@type": "Offer",
+              "@id": "https://huckleberrycare.com/product/plus#offer-annual",
+              "name": "Huckleberry Plus \u2014 Annual",
+              "url": "https://huckleberrycare.com/checkout?cycle=yearly&plan=plus",
+              "price": 68.99,
+              "priceCurrency": "USD",
+              "availability": "https://schema.org/InStock",
+              "seller": {
+                "@type": "Organization",
+                "name": "Huckleberry"
+              },
+              "priceSpecification": {
+                "@type": "UnitPriceSpecification",
+                "price": 68.99,
+                "priceCurrency": "USD",
+                "billingDuration": 12,
+                "billingIncrement": 1,
+                "unitCode": "MON",
+                "referenceQuantity": {
+                  "@type": "QuantitativeValue",
+                  "value": 12,
+                  "unitCode": "MON"
+                }
+              }
+            },
+            {
+              "@type": "Offer",
+              "@id": "https://huckleberrycare.com/product/plus#offer-monthly",
+              "name": "Huckleberry Plus \u2014 Monthly",
+              "url": "https://huckleberrycare.com/checkout?cycle=monthly&plan=plus",
+              "price": 11.99,
+              "priceCurrency": "USD",
+              "availability": "https://schema.org/InStock",
+              "seller": {
+                "@type": "Organization",
+                "name": "Huckleberry"
+              },
+              "priceSpecification": {
+                "@type": "UnitPriceSpecification",
+                "price": 11.99,
+                "priceCurrency": "USD",
+                "billingDuration": 1,
+                "billingIncrement": 1,
+                "unitCode": "MON",
+                "referenceQuantity": {
+                  "@type": "QuantitativeValue",
+                  "value": 1,
+                  "unitCode": "MON"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@type": "Product",
+        "@id": "https://huckleberrycare.com/product/free#product",
+        "name": "Huckleberry Free",
+        "description": "Free includes: Track sleep, feeding, and more.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Huckleberry"
+        },
+        "image": "https://huckleberrycare.com/img/logo.png",
+        "url": "https://huckleberrycare.com/product/free",
+        "offers": {
+          "@type": "Offer",
+          "@id": "https://huckleberrycare.com/product/free#offer",
+          "price": "0",
+          "priceCurrency": "USD",
+          "url": "https://huckleberrycare.com/product/free",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "Huckleberry"
+          }
+        }
+      }
+    ]
+  }
+]

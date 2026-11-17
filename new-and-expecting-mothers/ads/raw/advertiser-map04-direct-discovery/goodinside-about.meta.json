@@ -1,0 +1,24 @@
+{
+  "requested_url": "https://www.goodinside.com/about/",
+  "final_url": "https://www.goodinside.com/about/",
+  "status": 200,
+  "date_utc": "2026-10-24T22:10:48.718065+00:00",
+  "headers": {
+    "Age": "2772",
+    "Cache-Control": "public, max-age=0, must-revalidate",
+    "Content-Encoding": "gzip",
+    "Content-Type": "text/html; charset=utf-8",
+    "Date": "Sat, 24 Oct 2026 20:22:57 GMT",
+    "Etag": "W/\"103nz6uj95u4jvi\"",
+    "Server": "Vercel",
+    "Strict-Transport-Security": "max-age=63072000",
+    "X-Matched-Path": "/[slug]",
+    "X-Vercel-Cache": "HIT",
+    "X-Vercel-Id": "arn1::cle1::scz4h-1792879848345-14da4ff38022",
+    "Transfer-Encoding": "chunked"
+  },
+  "redirects": [],
+  "raw_file": "_raw/advertiser-map04-direct-discovery/goodinside-about.body",
+  "sha256": "5448c89ccc18b5ce923b7a10c6b5d0e8807580d7f9d560bc368005f3064b40cc",
+  "bytes": 212500
+}

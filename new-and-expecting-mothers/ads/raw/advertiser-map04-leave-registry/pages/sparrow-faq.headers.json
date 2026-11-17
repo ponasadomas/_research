@@ -1,0 +1,29 @@
+{
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:46:30 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Strict-Transport-Security": "max-age=15552000",
+    "Age": "7947",
+    "Cache-Control": "public,max-age=0,must-revalidate",
+    "Cache-Status": "\"Netlify Edge\"; hit; ttl=31528054",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=MhHCq1Boi0pDG0dNeDBpH0gmql9YOcRehiMV9TY3R8FZbsMx5xr034wY0R%2BBfQHMYpe7OX2kwsc1eOEBgzHs8RlCICO2Nqvia1jy%2Fdznv%2BVR8ZW4x9GDSRY%2FLDSuTg%3D%3D\"}]}",
+    "Content-Security-Policy": "frame-ancestors 'self' https://sparrow.gtmbuddy.io https://content.sparrow.com;",
+    "Content-Security-Policy-Report-Only": "script-src 'nonce-ntHkC9z+Ojk+XuRIGqAZppFPDHt5/qW5' 'strict-dynamic' 'unsafe-inline' 'self' https: http:; report-uri /.netlify/functions/__csp-violations",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Permissions-Policy": "camera=(), microphone=(), geolocation=()",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "cloudflare",
+    "Vary": "Accept-Encoding",
+    "X-Content-Type-Options": "nosniff",
+    "X-Debug-Csp-Nonce": "invoked",
+    "X-Nf-Request-Id": "01M5QY2BDWFF62TZTXW4B8HYS2",
+    "X-Xss-Protection": "0",
+    "cf-cache-status": "DYNAMIC",
+    "Content-Encoding": "zstd",
+    "CF-RAY": "a4fc2cb59f0974f5-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "history": []
+}

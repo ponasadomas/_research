@@ -1,0 +1,9 @@
+{
+  "baseline_commit": "34ec30af",
+  "baseline_quotes": 1944,
+  "baseline_read_posts": 5879,
+  "read_inventory": "_raw/reddit-deep/continuation-v1/final-read-post-ids.json",
+  "read_inventory_sha256": "7475aa9b86209cd59e95d1fbc2ea3c4ca26efe5a2b2a35a2c6292aab00d68d38",
+  "assigned_direct_read_or_quoted_overlap": [],
+  "scope": "frozen 1944 quotes and authoritative 5879 complete original IDs; legacy final inventory not used"
+}

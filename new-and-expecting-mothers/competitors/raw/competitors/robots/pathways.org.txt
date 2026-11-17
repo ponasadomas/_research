@@ -1,0 +1,9 @@
+SOURCE: https://pathways.org/robots.txt
+HTTP: 200
+ERROR: 
+
+User-Agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://pathways.org/sitemap.xml

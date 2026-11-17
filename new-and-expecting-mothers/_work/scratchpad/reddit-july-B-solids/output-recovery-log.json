@@ -1,0 +1,6 @@
+{
+  "event": "First combined full01/full02 call exceeded outer 10k-token output budget.",
+  "recovery": "Both complete source chunks individually reread without truncation before any full-read ledger entry.",
+  "post_context_lost": false,
+  "future_views": "Lean metadata-only headers; all author text preserved."
+}

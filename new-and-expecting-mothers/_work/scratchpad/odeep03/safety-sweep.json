@@ -1,0 +1,5 @@
+{
+  "pattern": "\\b(?:abuse|suicid\\w*|self.harm|death|dead|died|miscar\\w*|stillbirth|violence|kill\\w*|hit\\w*|crisis|cry\\w*|PTSD)\\b",
+  "hits": [],
+  "review": "All hits checked against full-read original context; retained only ordinary sleep questions, no crisis or treatment guidance."
+}

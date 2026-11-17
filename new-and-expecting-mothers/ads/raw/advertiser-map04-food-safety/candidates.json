@@ -1,0 +1,428 @@
+{
+  "scope": "Official public offers and identity candidates only. Root owns ALL Chrome/active-ad proof. No new voice quotes.",
+  "observed_local_date": "2026-10-25 Europe/Vilnius",
+  "captured_utc": "2026-10-24T21:52:24.051222+00:00",
+  "candidates": [
+    {
+      "name": "Solid Starts",
+      "niche": "food_meal_planning",
+      "candidate_priority": "core",
+      "domain": "https://solidstarts.com",
+      "monetization": "Personalized feeding app subscription, meal plans/recipes; additional toddler digital products",
+      "observed_price": "USD19.99 monthly or99.99 yearly;7-day trial",
+      "offer_sources": [
+        {
+          "url": "https://solidstarts.com/",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/solidstarts-home.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/solidstarts-home.txt"
+        },
+        {
+          "url": "https://solidstarts.com/app/",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/solidstarts-app.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/solidstarts-app.txt"
+        }
+      ],
+      "facebook_url": "https://www.facebook.com/solidstartsbaby/",
+      "facebook_page_id": "102312321163259",
+      "page_id_status": "verified_native_id_in_prior_saved_library_snapshot",
+      "ad_activity": "NOT verified by this reader; root must supply fresh Chrome Library proof",
+      "sales_or_profit": "not observed",
+      "notes": "Page ID from snapshot.page_id with page_name Solid Starts; branded creator ID is separate. USD confirmed in app page plan labels."
+    },
+    {
+      "name": "Little Lunches",
+      "niche": "food_meal_planning",
+      "candidate_priority": "core",
+      "domain": "https://www.littlelunches.com",
+      "monetization": "Family meal-plan app subscription, groceries and caregiver coordination",
+      "observed_price": "Website $7.99/month or49.99/year; free first plan",
+      "offer_sources": [
+        {
+          "url": "https://www.littlelunches.com/en/mealplans",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/littlelunches-home.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/littlelunches-home.txt"
+        },
+        {
+          "url": "https://www.littlelunches.com/en/pricing",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/littlelunches-pricing.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/littlelunches-pricing.txt"
+        }
+      ],
+      "facebook_url": "https://www.facebook.com/LittleLunchesCo/",
+      "facebook_page_id": null,
+      "page_id_status": "unresolved",
+      "ad_activity": "NOT verified by this reader; root must supply fresh Chrome Library proof",
+      "sales_or_profit": "not observed",
+      "notes": "Visible national currency code absent; site warns app-store/location prices may differ. 1046260886607485 is Meta PIXEL, not Page ID."
+    },
+    {
+      "name": "101 before one",
+      "niche": "food_meal_planning",
+      "candidate_priority": "core",
+      "domain": "https://www.101beforeone.com",
+      "monetization": "Fixed printable guides, printed-book/lifetime-app bundle, recipes/courses",
+      "observed_price": "First-month54-page PDF $29; homepage101-food guide29/puree-transition39",
+      "offer_sources": [
+        {
+          "url": "https://www.101beforeone.com/",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/101-home.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/101-home.txt"
+        },
+        {
+          "url": "https://www.101beforeone.com/first-month-meal-plan",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/101-firstmonth.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/101-firstmonth.txt"
+        },
+        {
+          "url": "https://www.101beforeone.com/app",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/101-app.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/101-app.txt"
+        }
+      ],
+      "facebook_url": null,
+      "facebook_page_id": null,
+      "page_id_status": "unresolved",
+      "ad_activity": "NOT verified by this reader; root must supply fresh Chrome Library proof",
+      "sales_or_profit": "not observed",
+      "notes": "First-month PDF has no observed individualized intake. Supported-currency list is not proof of selected currency. No Facebook URL on inspected official pages."
+    },
+    {
+      "name": "Kids Eat in Color",
+      "niche": "food_meal_planning",
+      "candidate_priority": "core",
+      "domain": "https://kidseatincolor.com",
+      "monetization": "Fixed digital meal systems, recipes, shopping lists; courses/workshops and books",
+      "observed_price": "Real Easy Weekdays USD29.74 sale,34.99 regular",
+      "offer_sources": [
+        {
+          "url": "https://kidseatincolor.com/",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/keic-home.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/keic-home.txt"
+        },
+        {
+          "url": "https://kidseatincolor.com/product/real-easy-weekdays/",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/keic-weekdays.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/keic-weekdays.txt"
+        },
+        {
+          "url": "https://kidseatincolor.com/shop/",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/keic-shop.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/keic-shop.txt"
+        }
+      ],
+      "facebook_url": "https://www.facebook.com/kids.eat.in.color",
+      "facebook_page_id": null,
+      "page_id_status": "unresolved",
+      "ad_activity": "NOT verified by this reader; root must supply fresh Chrome Library proof",
+      "sales_or_profit": "not observed",
+      "notes": "USD in site commerce metadata. User-customizable guide, no seller-generated individualized report established. Clinical treatment offers separate."
+    },
+    {
+      "name": "Feeding Littles",
+      "niche": "food_meal_planning",
+      "candidate_priority": "core",
+      "domain": "https://feedinglittles.com",
+      "monetization": "Courses/books plus freemium household recipe/meal-planning app",
+      "observed_price": "USD infant59/toddler69; bundle108. App9.99/month or39.99/year",
+      "offer_sources": [
+        {
+          "url": "https://feedinglittles.com/",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/feedinglittles-home.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/feedinglittles-home.txt"
+        },
+        {
+          "url": "https://feedinglittles.com/pages/infant-course",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/feedinglittles-infant.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/feedinglittles-infant.txt"
+        },
+        {
+          "url": "https://feedinglittles.com/pages/toddler-course",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/feedinglittles-toddler.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/feedinglittles-toddler.txt"
+        },
+        {
+          "url": "https://feedinglittles.com/pages/feeding-littles-app",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/feedinglittles-app.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/feedinglittles-app.txt"
+        }
+      ],
+      "facebook_url": "https://facebook.com/feedinglittles",
+      "facebook_page_id": null,
+      "page_id_status": "unresolved",
+      "ad_activity": "NOT verified by this reader; root must supply fresh Chrome Library proof",
+      "sales_or_profit": "not observed",
+      "notes": "App core recipes, weekly planner and auto grocery list free; Premium adds unlimited imports/household features. Family can have up to6 household members; iOS-only per current seller."
+    },
+    {
+      "name": "BLW Meals / BLW SOCIAL",
+      "niche": "food_meal_planning",
+      "candidate_priority": "core",
+      "domain": "https://blwmeals.com",
+      "monetization": "Age-based food introduction, recipes/meal-plan app subscription",
+      "observed_price": "US Apple monthly4.99/9.99; annual34.99/59.99; discounted20.99 and6months29 coexist",
+      "offer_sources": [
+        {
+          "url": "https://blwmeals.com/blw-meals-app/",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/blw-app.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/blw-app.txt"
+        },
+        {
+          "url": "https://apps.apple.com/us/app/blw-meals-starting-solids/id1540196240",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/blw-apple-us.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/blw-apple-us.txt"
+        }
+      ],
+      "facebook_url": null,
+      "facebook_page_id": null,
+      "page_id_status": "unresolved",
+      "ad_activity": "NOT verified by this reader; root must supply fresh Chrome Library proof",
+      "sales_or_profit": "not observed",
+      "notes": "No applicable checkout SKU selected. Official website advertises14-day trial. Instagram blwmealsapp; Facebook unresolved. Guessed blwmealsapp.com had TLS failure, correct official blwmeals.com works."
+    },
+    {
+      "name": "Boob to Food",
+      "niche": "food_meal_planning",
+      "candidate_priority": "core",
+      "domain": "https://boobtofood.com",
+      "monetization": "Books, recorded classes with PDFs/ebooks; separate individualized online clinic",
+      "observed_price": "AUD24.95 balanced-meal class; AUD100 two-book bundle; AUD12.99 posterPDF",
+      "offer_sources": [
+        {
+          "url": "https://boobtofood.com/",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/boobtofood-home.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/boobtofood-home.txt"
+        },
+        {
+          "url": "https://boobtofood.com/products/building-a-balanced-meal-masterclass",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/boobtofood-balanced.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/boobtofood-balanced.txt"
+        }
+      ],
+      "facebook_url": "https://facebook.com/boobtofood",
+      "facebook_page_id": null,
+      "page_id_status": "unresolved",
+      "ad_activity": "NOT verified by this reader; root must supply fresh Chrome Library proof",
+      "sales_or_profit": "not observed",
+      "notes": "Fresh Shopify active currency AUD/countryAU; earlier euro capture was a different locale. Class includes formulaPDF,10-recipe ebook and pantry guide; no bespoke meal report or app fee established."
+    },
+    {
+      "name": "The Village Parent Community / The Village Babyproof Co.",
+      "niche": "childproofing",
+      "candidate_priority": "core_direct_written_plan",
+      "domain": "https://thevillageparentcommunity.com",
+      "monetization": "Photo/intake-based written home safety plan, product recommendations and follow-up",
+      "observed_price": "$75 single room /149 full home",
+      "offer_sources": [
+        {
+          "url": "https://thevillageparentcommunity.com/virtual-baby-proofing",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/village-safety.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/village-safety.txt"
+        }
+      ],
+      "facebook_url": "https://www.facebook.com/104277479266731",
+      "facebook_page_id": "104277479266731",
+      "page_id_status": "numeric_page_url_from_current_official_site_native_fb_resolution_pending",
+      "ad_activity": "NOT verified by this reader; root must supply fresh Chrome Library proof",
+      "sales_or_profit": "not observed",
+      "notes": "Current page title The Village Babyproof Co.; footer Parent Community. No licensed safety inspector/contractor; IAFCS certification stated in progress. Not physical inspection or independent buyer proof."
+    },
+    {
+      "name": "Safe Beginnings First Aid / Holly Choi",
+      "niche": "childproofing",
+      "candidate_priority": "core_course_and_consult_report",
+      "domain": "https://safebeginnings.ca",
+      "monetization": "Digital home-safety course; separate30min virtual consult with emailed summary report/recommendations",
+      "observed_price": "Course USD119 lifetime; CAD120+GST route. Consult USD145, waitlist",
+      "offer_sources": [
+        {
+          "url": "https://safebeginnings.ca/onlinecourses/",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-home.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-home.txt"
+        },
+        {
+          "url": "https://safebeginnings.ca/home-safety-course/",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-course.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-course.txt"
+        },
+        {
+          "url": "https://safebeginnings.ca/consults/",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-consult.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-consult.txt"
+        },
+        {
+          "url": "https://safebeginnings.ca/cad-purchases/",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-cad.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/safebeginnings-cad.txt"
+        }
+      ],
+      "facebook_url": "https://urlgeni.us/facebook/safebeginnings",
+      "facebook_page_id": null,
+      "page_id_status": "unresolved",
+      "ad_activity": "NOT verified by this reader; root must supply fresh Chrome Library proof",
+      "sales_or_profit": "not observed",
+      "notes": "Consult US/Canada residents only, intake and optional additional photos; report within week. Official social redirect not followed into FB. Distinct from US Safe Beginnings Direct hardware seller. Search-only safebeginningsfirstaid handle is not yet verified here."
+    },
+    {
+      "name": "Tinyhood",
+      "niche": "childproofing",
+      "candidate_priority": "broad_course_crossover",
+      "domain": "https://www.tinyhood.com",
+      "monetization": "Babyproofing class within broader parent-education membership; downloads and group sessions",
+      "observed_price": "No price exposed on inspected class page; free-start CTA",
+      "offer_sources": [
+        {
+          "url": "https://www.tinyhood.com/classes/babyproofing",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/tinyhood-safety.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/tinyhood-safety.txt"
+        }
+      ],
+      "facebook_url": "https://www.facebook.com/tinyhood",
+      "facebook_page_id": null,
+      "page_id_status": "unresolved",
+      "ad_activity": "NOT verified by this reader; root must supply fresh Chrome Library proof",
+      "sales_or_profit": "not observed",
+      "notes": "Coordinate with pregnancy/birth reader; no fixed PDF fee or personalization established."
+    },
+    {
+      "name": "Nurtured Nest",
+      "niche": "childproofing",
+      "candidate_priority": "broad_course_crossover",
+      "domain": "https://nurturednest.org",
+      "monetization": "Infant CPR/safety course including babyproofing; downloads and questions to team",
+      "observed_price": "USD99 standalone;39 add-on with named other courses;12month access",
+      "offer_sources": [
+        {
+          "url": "https://nurturednest.org/products/infant-safety-course",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/nurturednest-safety.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/nurturednest-safety.txt"
+        }
+      ],
+      "facebook_url": "https://www.facebook.com/nurturednestorg",
+      "facebook_page_id": null,
+      "page_id_status": "unresolved",
+      "ad_activity": "NOT verified by this reader; root must supply fresh Chrome Library proof",
+      "sales_or_profit": "not observed",
+      "notes": "33 lessons,2.5+hours,25downloads. Not formal hands-on CPR certification or individualized home inspection. HSA/FSA/benefit claims are not independently verified."
+    },
+    {
+      "name": "POM Baby",
+      "niche": "childproofing",
+      "candidate_priority": "optional_live_education",
+      "domain": "https://www.pombaby.com",
+      "monetization": "75minute live online Babyproofing & Child Safety class",
+      "observed_price": "$60 per couple; national currency not labeled",
+      "offer_sources": [
+        {
+          "url": "https://www.pombaby.com/home/online",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/pom-online.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/pom-online.txt"
+        }
+      ],
+      "facebook_url": null,
+      "facebook_page_id": null,
+      "page_id_status": "unresolved",
+      "ad_activity": "NOT verified by this reader; root must supply fresh Chrome Library proof",
+      "sales_or_profit": "not observed",
+      "notes": "Actual digital class supply; no Facebook identity or advertising established. Other parent classes on same page are separate."
+    },
+    {
+      "name": "Safe Nest Babyproofing (search title Babyproofing Help)",
+      "niche": "childproofing",
+      "candidate_priority": "adjacent_physical_service",
+      "domain": "https://www.safenestbabyproofing.com",
+      "monetization": "In-home evaluation plus custom product/install quote and installation",
+      "observed_price": "$300 evaluation, about2hours",
+      "offer_sources": [
+        {
+          "url": "https://www.safenestbabyproofing.com/services",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/safenest-services.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/safenest-services.txt"
+        }
+      ],
+      "facebook_url": "https://www.facebook.com/SafeNestBabyProofing",
+      "facebook_page_id": null,
+      "page_id_status": "unresolved",
+      "ad_activity": "NOT verified by this reader; root must supply fresh Chrome Library proof",
+      "sales_or_profit": "not observed",
+      "notes": "Search found this under Babyproofing Help, but no evidence it is the intended BabyproofingHelp brand. Not digital report/course. .com/www guessed domains unresolved DNS."
+    },
+    {
+      "name": "Little Spoon",
+      "niche": "food_meal_planning",
+      "candidate_priority": "adjacent_physical_food",
+      "domain": "https://www.littlespoon.com",
+      "monetization": "Prepared baby/kid food delivery, snacks/formula",
+      "observed_price": "$3.92/blend starting price on Babyblends page",
+      "offer_sources": [
+        {
+          "url": "https://www.littlespoon.com/",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/littlespoon-home.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/littlespoon-home.txt"
+        },
+        {
+          "url": "https://www.littlespoon.com/products/babyblends",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/littlespoon-babyblends.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/littlespoon-babyblends.txt"
+        }
+      ],
+      "facebook_url": "https://www.facebook.com/LittleSpoonOrganic",
+      "facebook_page_id": null,
+      "page_id_status": "unresolved",
+      "ad_activity": "NOT verified by this reader; root must supply fresh Chrome Library proof",
+      "sales_or_profit": "not observed",
+      "notes": "Physical fulfilment; not paid-information/report revenue."
+    },
+    {
+      "name": "Nurture Life",
+      "niche": "food_meal_planning",
+      "candidate_priority": "adjacent_physical_food",
+      "domain": "https://www.nurturelife.com",
+      "monetization": "Prepared fingerfoods/kid meals delivered on a plan",
+      "observed_price": "$6.99 fingerfood item /7.69 kid meal; snacks from6.50",
+      "offer_sources": [
+        {
+          "url": "https://www.nurturelife.com/",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/nurturelife-home.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/nurturelife-home.txt"
+        }
+      ],
+      "facebook_url": "https://www.facebook.com/nurturelife/",
+      "facebook_page_id": null,
+      "page_id_status": "unresolved",
+      "ad_activity": "NOT verified by this reader; root must supply fresh Chrome Library proof",
+      "sales_or_profit": "not observed",
+      "notes": "Physical fulfilment; homepage six-item minimum and plan discounts. Not report demand."
+    },
+    {
+      "name": "Tiny Organics",
+      "niche": "food_meal_planning",
+      "candidate_priority": "adjacent_physical_food",
+      "domain": "https://www.tinyorganics.com",
+      "monetization": "Prepared frozen baby/toddler meals, recurring and one-time boxes",
+      "observed_price": "Apple Pie Oatmeal item $7.49/meal; separate starting-at3.66 promo copy",
+      "offer_sources": [
+        {
+          "url": "https://www.tinyorganics.com/",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/tinyorganics-home.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/tinyorganics-home.txt"
+        },
+        {
+          "url": "https://www.tinyorganics.com/collections/menu",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/tinyorganics-menu.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/tinyorganics-menu.txt"
+        },
+        {
+          "url": "https://www.tinyorganics.com/products/apple-pi-oatmeal",
+          "raw_file": "_raw/advertiser-map04-food-safety/pages/tinyorganics-item.html",
+          "text_file": "_raw/advertiser-map04-food-safety/pages/tinyorganics-item.txt"
+        }
+      ],
+      "facebook_url": "https://www.facebook.com/tinyorganicsmeals/",
+      "facebook_page_id": null,
+      "page_id_status": "unresolved",
+      "ad_activity": "NOT verified by this reader; root must supply fresh Chrome Library proof",
+      "sales_or_profit": "not observed",
+      "notes": "Do not treat promotional starting-at figure as the inspected individual-item price. No plan/cart completed. Physical fulfilment, not report revenue."
+    }
+  ]
+}

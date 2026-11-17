@@ -1,0 +1,116 @@
+{
+  "ad_id": "1588966196189739",
+  "page_id": "186268468076113",
+  "page_name": "Babylist",
+  "snapshot_page_id": "186268468076113",
+  "snapshot_page_name": "Babylist",
+  "snapshot_identity_differs": false,
+  "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/025-babylist-page.json",
+  "source_file_sha256": "dde70e8c18f3207f84afe706c6f2755c427dfe16d758878c6a2e475652c6807b",
+  "captured_at": "2026-10-24T21:52:19.573Z",
+  "native_is_active": true,
+  "start_timestamp": 1785308400,
+  "start_utc": "2026-07-29T07:00:00+00:00",
+  "displayed_start_date": "Jul 29, 2026",
+  "collation_id": "2548571478907810",
+  "collation_count": 1,
+  "display_format": "CAROUSEL",
+  "primary_destination": "https://www.babylist.com/hello-baby/whats-your-baby-registry-personality",
+  "card_destinations": [
+    "https://www.babylist.com/hello-baby/whats-your-baby-registry-personality",
+    "https://www.babylist.com/hello-baby/whats-your-baby-registry-personality",
+    "https://www.babylist.com/hello-baby/whats-your-baby-registry-personality",
+    "https://www.babylist.com/hello-baby/whats-your-baby-registry-personality",
+    "https://www.babylist.com/hello-baby/whats-your-baby-registry-personality",
+    "https://www.babylist.com/hello-baby/whats-your-baby-registry-personality"
+  ],
+  "native_body_sha256": "f0bf51bfe8aca76a82d7c1f29a348ebb288bf97ba3f694517ac52fdd15d5b94b",
+  "native_text_bundle_sha256": "28a301f47846aab4124bff87141761a913d099f539c2f92564a03265abd6af68",
+  "native_ad_sha256": "d0d874c25418928761b8d3e5d6151d0d4c7672d235e28392655dc0e1bf510233",
+  "text_bundle": {
+    "body": "Are you about elevated essentials, gentle picks, practical must-haves or memory-making moments?  👀",
+    "top": {
+      "caption": "babylist.com",
+      "cta_text": "Learn more",
+      "cta_type": "LEARN_MORE",
+      "title": "Babylist",
+      "link_description": null,
+      "link_url": "https://www.babylist.com/hello-baby/whats-your-baby-registry-personality",
+      "display_format": "CAROUSEL",
+      "byline": null,
+      "disclaimer_label": null,
+      "additional_info": null,
+      "extra_links": [],
+      "extra_texts": [],
+      "branded_content": null,
+      "root_reshared_post": null
+    },
+    "cards": [
+      {
+        "body": "And get your curated picks",
+        "caption": "babylist.com",
+        "title": "Take the quiz",
+        "link_description": "And get your curated picks",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://www.babylist.com/hello-baby/whats-your-baby-registry-personality"
+      },
+      {
+        "body": "And get your curated picks",
+        "caption": "babylist.com",
+        "title": "Take the quiz",
+        "link_description": "And get your curated picks",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://www.babylist.com/hello-baby/whats-your-baby-registry-personality"
+      },
+      {
+        "body": "And get your curated picks",
+        "caption": "babylist.com",
+        "title": "Take the quiz",
+        "link_description": "And get your curated picks",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://www.babylist.com/hello-baby/whats-your-baby-registry-personality"
+      },
+      {
+        "body": "And get your curated picks",
+        "caption": "babylist.com",
+        "title": "Take the quiz",
+        "link_description": "And get your curated picks",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://www.babylist.com/hello-baby/whats-your-baby-registry-personality"
+      },
+      {
+        "body": "And get your curated picks",
+        "caption": "babylist.com",
+        "title": "Take the quiz",
+        "link_description": "And get your curated picks",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://www.babylist.com/hello-baby/whats-your-baby-registry-personality"
+      },
+      {
+        "body": "And get your curated picks",
+        "caption": "babylist.com",
+        "title": "Take the quiz",
+        "link_description": "And get your curated picks",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://www.babylist.com/hello-baby/whats-your-baby-registry-personality"
+      }
+    ]
+  },
+  "excluded_card_media_fields": [
+    "image_crops",
+    "original_image_url",
+    "resized_image_url",
+    "video_hd_url",
+    "video_preview_image_url",
+    "video_sd_url",
+    "watermarked_resized_image_url",
+    "watermarked_video_hd_url",
+    "watermarked_video_sd_url"
+  ]
+}

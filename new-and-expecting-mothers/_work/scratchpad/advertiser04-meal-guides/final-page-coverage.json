@@ -1,0 +1,83 @@
+[
+  {
+    "page_id": "148367001700025",
+    "query": "Happy Eaters Club",
+    "reported_counts": [
+      32
+    ],
+    "captured_native_count": 30,
+    "read_ad_ids": [
+      "1522598089533260",
+      "992120580271103",
+      "1796325828183245",
+      "1011096347954079",
+      "1286311553629602",
+      "1000729579415744",
+      "1361448449156218",
+      "2023923941644993",
+      "951612091257512",
+      "1996438235091907",
+      "4323679644576651",
+      "1733523184315673",
+      "3468043670033767",
+      "2062877421260363",
+      "1580883797389260",
+      "1429790505577429",
+      "2588969444912496",
+      "2319137231944248",
+      "1315583180553763",
+      "1011995374646774",
+      "918059951305274",
+      "1062429106586122",
+      "2285744642202751",
+      "1389494085936254",
+      "1414333757520817",
+      "1144197155025731",
+      "1445387080857288",
+      "2023038044999014",
+      "998969179156315",
+      "1671127717872953"
+    ],
+    "promotion_counts": {
+      "app_acquisition": 30
+    },
+    "oldest_observed_active_start": "2025-12-18T08:00:00+00:00",
+    "creator_partner_records": 8,
+    "different_snapshot_page_records": 7,
+    "source_raw": "_raw/advertiser-census-wave04-2026-10-25/queries/070-happy-eaters-page.json",
+    "source_sha256": "a5396129213dd99b5858f8962be015b0dc9b3b7eed347c70b8fe75e245671568",
+    "page_info": [
+      {
+        "end_cursor": "AQHTJ50CdsbMxOvews2Q1iE52savswo4kqmfznezYBcO_pGXzz56i69mnf8vcyw8zMj2",
+        "has_next_page": true
+      }
+    ]
+  },
+  {
+    "page_id": "1701853073368370",
+    "query": "My Little Eater",
+    "reported_counts": [
+      3
+    ],
+    "captured_native_count": 3,
+    "read_ad_ids": [
+      "1665477835142745",
+      "1107391221772642",
+      "1415540913998076"
+    ],
+    "promotion_counts": {
+      "free_workshop_lead_with_course_upsell": 3
+    },
+    "oldest_observed_active_start": "2026-10-19T07:00:00+00:00",
+    "creator_partner_records": 0,
+    "different_snapshot_page_records": 0,
+    "source_raw": "_raw/advertiser-census-wave04-2026-10-25/queries/071-my-little-eater-page.json",
+    "source_sha256": "01d5d9135206d823989b1abd61e6bb2e4e4f6ea66b2759b0e15c247e297e96bd",
+    "page_info": [
+      {
+        "end_cursor": "",
+        "has_next_page": false
+      }
+    ]
+  }
+]

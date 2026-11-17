@@ -1,0 +1,675 @@
+{
+  "seed": 2026102405,
+  "selection": "Two random records per frozen other-reader file, plus10random remaining; excludes auditor own01 and incomplete06/07 which root will sample separately.",
+  "files": [
+    "reddit-augdec-02",
+    "reddit-augdec-03",
+    "reddit-augdec-04",
+    "reddit-augdec-05",
+    "reddit-july-B-solids"
+  ],
+  "quote_ids": [
+    "rad02-0081",
+    "rad02-0032",
+    "rad03-0171",
+    "rad03-0022",
+    "rad04-0018",
+    "rad04-0014",
+    "rad05-0005",
+    "rad05-0026",
+    "rbc01-0025",
+    "rbc01-0024",
+    "rad03-0094",
+    "rad02-0048",
+    "rad03-0014",
+    "rad02-0070",
+    "rad05-0009",
+    "rad03-0081",
+    "rad05-0035",
+    "rad05-0028",
+    "rad03-0155",
+    "rad02-0060"
+  ],
+  "source_quote_records": [
+    {
+      "id": "rad02-0081",
+      "source": "Reddit r/NewParents (frozen public archive)",
+      "url": "https://www.reddit.com/r/NewParents/comments/1obm3qs/educational_routines_with_7_month_old/",
+      "date": "2025-10-20T15:46:17+00:00",
+      "author": "suedaloodolphin",
+      "speaker": "parent_unspecified",
+      "stage": "baby_6_12_months",
+      "type": "desire",
+      "themes": [
+        "activity_planning",
+        "price_value"
+      ],
+      "quote": "Doesn't have to be free but obviously can't break the bank.",
+      "context": "Parent requests simple infant learning activities for non-daycare days and states limited willingness to pay; no curriculum purchase reported.",
+      "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1obm3qs.txt",
+      "source_class": "reddit_archive",
+      "evidence_kind": "archived_original",
+      "archive_dataset": "yikeee/reddit-subreddits25",
+      "archive_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f",
+      "post_id": "1obm3qs",
+      "read_scope": "full_post_comment_source_unavailable",
+      "paid_report_demand_proven": false
+    },
+    {
+      "id": "rad02-0032",
+      "source": "Reddit r/BabyBumpsCanada (frozen public archive)",
+      "url": "https://www.reddit.com/r/BabyBumpsCanada/comments/1orbhb0/how_to_approach_leave_in_a_company_without_policy/",
+      "date": "2025-11-08T00:41:46+00:00",
+      "author": "ana_winter",
+      "speaker": "parent_unspecified",
+      "stage": "pregnancy_late",
+      "type": "trigger_moment",
+      "themes": [
+        "return_to_work",
+        "household_routines"
+      ],
+      "quote": "We don’t have a maternity or parental leave policy.",
+      "context": "Director at a small employer must initiate leave expectations without a workplace precedent; legal entitlements are not inferred.",
+      "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/BabyBumpsCanada-1orbhb0.txt",
+      "source_class": "reddit_archive",
+      "evidence_kind": "archived_original",
+      "archive_dataset": "yikeee/reddit-subreddits25",
+      "archive_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f",
+      "post_id": "1orbhb0",
+      "read_scope": "full_post_comment_source_unavailable",
+      "paid_report_demand_proven": false
+    },
+    {
+      "id": "rad03-0171",
+      "source": "Reddit — r/NewParents (publisher archive)",
+      "url": "https://www.reddit.com/r/NewParents/comments/1mx3fm6/i_dont_want_to_track_every_minute_of_his/",
+      "date": "2025-08-22",
+      "speaker": "parent_unspecified",
+      "stage": "newborn_0_6_weeks",
+      "type": "success_story",
+      "themes": [
+        "free_alternatives",
+        "tracking_burden"
+      ],
+      "quote": "We go out and enjoy life whether he’s asleep or awake and then during the night he has a pretty consistent one wake up during the night so everyone’s happy",
+      "context": "UK parent with long leave describes contentment without tracking; no universal sleep or monitoring advice inferred.",
+      "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1mx3fm6.txt",
+      "source_class": "reddit_archive",
+      "evidence_kind": "archived_original",
+      "archive_dataset": "yikeee/reddit-subreddits25",
+      "archive_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f",
+      "post_id": "1mx3fm6",
+      "read_scope": "full_post_comment_source_unavailable"
+    },
+    {
+      "id": "rad03-0022",
+      "source": "Reddit — r/BabyBumps (publisher archive)",
+      "url": "https://www.reddit.com/r/BabyBumps/comments/1nfi952/how_far_in_advance_did_your_doctors_office/",
+      "date": "2025-09-12",
+      "speaker": "parent_unspecified",
+      "stage": "pregnancy_late",
+      "type": "pain",
+      "themes": [
+        "second_baby",
+        "birth_preparation",
+        "household_support",
+        "external_dependencies"
+      ],
+      "quote": "I get that I’m not the only patient and there is a lot of coordination, but i feel like I should know a date by now, especially because one of the benefits they’ve told me about scheduling it is so you can coordinate your own schedule (childcare, mat leave plans, etc).",
+      "context": "Second-baby parent cannot finalize childcare and leave without provider date; no procedure recommendation.",
+      "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/BabyBumps-1nfi952.txt",
+      "source_class": "reddit_archive",
+      "evidence_kind": "archived_original",
+      "archive_dataset": "yikeee/reddit-subreddits25",
+      "archive_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f",
+      "post_id": "1nfi952",
+      "read_scope": "full_post_comment_source_unavailable",
+      "marketing_eligible": false,
+      "evidence_use": "Research boundary: information report cannot supply missing provider scheduling decision."
+    },
+    {
+      "id": "rad04-0018",
+      "source": "Reddit r/NewParents — August–December archive",
+      "url": "https://www.reddit.com/r/NewParents/comments/1oq26bh/realistic_nap_schedule_for_3_month_old/",
+      "date": "2025-11-06",
+      "speaker": "parent_unspecified",
+      "stage": "baby_6_16_weeks",
+      "type": "pain",
+      "themes": [
+        "sleep_routines",
+        "first_outings",
+        "book_mismatch"
+      ],
+      "quote": "But I’m struggling to think of a schedule that can fit in her feeds and naps but that also suit our lifestyle.",
+      "context": "Three-month-old parent downloaded unnamed guide but wants morning outings alongside routine; guide payment and clinical suitability unverified.",
+      "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1oq26bh.txt",
+      "source_class": "reddit_archive",
+      "evidence_kind": "archived_original",
+      "archive_dataset": "yikeee/reddit-subreddits25",
+      "archive_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f",
+      "post_id": "1oq26bh",
+      "read_scope": "full_post_comment_source_unavailable",
+      "selection_scope": "All620root-owned A cards human triaged; first60of432keeps assigned root04"
+    },
+    {
+      "id": "rad04-0014",
+      "source": "Reddit r/NewParents — August–December archive",
+      "url": "https://www.reddit.com/r/NewParents/comments/1ophayc/explain_to_me_like_im_5_how_were_handling_the_4/",
+      "date": "2025-11-05",
+      "speaker": "parent_unspecified",
+      "stage": "baby_6_16_weeks",
+      "type": "objection",
+      "themes": [
+        "sleep_routines",
+        "skepticism",
+        "information_overload"
+      ],
+      "quote": "Everything I look up anything about sleep regressions it’s somebody trying to get me to buy their course.",
+      "context": "Twelve-week-old parent already sees conflicting sleep advice and rejects recurring course sales pitches.",
+      "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1ophayc.txt",
+      "source_class": "reddit_archive",
+      "evidence_kind": "archived_original",
+      "archive_dataset": "yikeee/reddit-subreddits25",
+      "archive_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f",
+      "post_id": "1ophayc",
+      "read_scope": "full_post_comment_source_unavailable",
+      "selection_scope": "All620root-owned A cards human triaged; first60of432keeps assigned root04"
+    },
+    {
+      "id": "rad05-0005",
+      "source": "Reddit r/beyondthebump (frozen public archive)",
+      "url": "https://www.reddit.com/r/beyondthebump/comments/1n6q92l/anyone_know_how_a_tushbaby_is_counted_by_airlines/",
+      "date": "2025-09-02T17:44:48+00:00",
+      "author": "Ok-Sherbert-75",
+      "speaker": "parent_unspecified",
+      "stage": "unknown",
+      "type": "tried_failed",
+      "themes": [
+        "conflicting_advice",
+        "information_overload"
+      ],
+      "quote": "I called Alaska twice and neither of them knew what I was talking about and said baby carriers are fine but a hip bag/fanny pack would count as an item. But it’s both…",
+      "context": "Flying parent owns a hybrid carrier-bag and cannot resolve allowance classification after two airline calls; historical uncertainty, not current airline policy.",
+      "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1n6q92l.txt",
+      "source_class": "reddit_archive",
+      "evidence_kind": "archived_original",
+      "archive_dataset": "yikeee/reddit-subreddits25",
+      "archive_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f",
+      "post_id": "1n6q92l",
+      "read_scope": "full_post_comment_source_unavailable",
+      "paid_report_demand_proven": false
+    },
+    {
+      "id": "rad05-0026",
+      "source": "Reddit r/beyondthebump (frozen public archive)",
+      "url": "https://www.reddit.com/r/beyondthebump/comments/1pjqmcq/am_i_crazy_for_starting_a_masters_program_with_a/",
+      "date": "2025-12-11T06:30:06+00:00",
+      "author": "muff-peaksie",
+      "speaker": "parent_unspecified",
+      "stage": "baby_6_16_weeks",
+      "type": "trigger_moment",
+      "themes": [
+        "daycare_handoff",
+        "price_value",
+        "return_to_work"
+      ],
+      "quote": "I thought that the class would be online but apparently it’s in person from 6-9 PM once per week.",
+      "context": "Parent enrolled for employee tuition and student childcare benefits; unexpected evening attendance complicates the affordability strategy. Historical institutional terms, not verified policy.",
+      "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pjqmcq.txt",
+      "source_class": "reddit_archive",
+      "evidence_kind": "archived_original",
+      "archive_dataset": "yikeee/reddit-subreddits25",
+      "archive_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f",
+      "post_id": "1pjqmcq",
+      "read_scope": "full_post_comment_source_unavailable",
+      "paid_report_demand_proven": false
+    },
+    {
+      "id": "rbc01-0025",
+      "source": "Reddit r/BabyLedWeaning — July B comparison",
+      "url": "https://www.reddit.com/r/BabyLedWeaning/comments/1m1ez71/freezer_prepping/",
+      "date": "2025-07-16T15:04:27+00:00",
+      "speaker": "parent_unspecified",
+      "stage": "baby_4_6_months",
+      "type": "desire",
+      "themes": [
+        "meal_planning",
+        "household_support",
+        "first_solids"
+      ],
+      "quote": "We are big on efficiency and preparation, for example we freezer prepped almost 3 months worth of food for the postpartum period which was a savior.",
+      "context": "Already experienced freezer-prep household plans ahead; clinician/SLP advice is present, and only practical preparation is quoted.",
+      "raw_file": "_raw/reddit-deep/july-B-solids-v1/primary-units/BabyLedWeaning-1m1ez71.txt",
+      "source_class": "reddit_archive",
+      "evidence_kind": "archived_original",
+      "archive_dataset": "yikeee/reddit-subreddits25",
+      "archive_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f",
+      "post_id": "1m1ez71",
+      "read_scope": "full_post_and_available_identifiable_OP_replies",
+      "selection_scope": "all July2025 BabyLedWeaning B cards, then human kept full reads"
+    },
+    {
+      "id": "rbc01-0024",
+      "source": "Reddit r/BabyLedWeaning — July B comparison",
+      "url": "https://www.reddit.com/r/BabyLedWeaning/comments/1lzqlgx/what_do_you_do_if_baby_doesnt_like_the_meal_you/",
+      "date": "2025-07-14T16:11:22+00:00",
+      "speaker": "parent_unspecified",
+      "stage": "toddler",
+      "type": "question",
+      "themes": [
+        "meal_planning",
+        "backup_plan"
+      ],
+      "quote": "What do you do if baby doesn’t like the meal? Offer an alternative or is that teaching them to refuse until they get what they want?",
+      "context": "Fourteen-month-old’s parent already tries new recipes and wants a fallback decision; adjacent older-baby case, no purchase reported.",
+      "raw_file": "_raw/reddit-deep/july-B-solids-v1/primary-units/BabyLedWeaning-1lzqlgx.txt",
+      "source_class": "reddit_archive",
+      "evidence_kind": "archived_original",
+      "archive_dataset": "yikeee/reddit-subreddits25",
+      "archive_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f",
+      "post_id": "1lzqlgx",
+      "read_scope": "full_post_and_available_identifiable_OP_replies",
+      "selection_scope": "all July2025 BabyLedWeaning B cards, then human kept full reads"
+    },
+    {
+      "id": "rad03-0094",
+      "source": "Reddit — r/BabyLedWeaning (publisher archive)",
+      "url": "https://www.reddit.com/r/BabyLedWeaning/comments/1q0d6qh/what_do_i_do_now/",
+      "date": "2025-12-31",
+      "speaker": "parent_unspecified",
+      "stage": "baby_4_6_months",
+      "type": "desire",
+      "themes": [
+        "portable_formats",
+        "implementation_effort",
+        "first_time_parent"
+      ],
+      "quote": "I can do all the research I want but I still feel totally lost unless there’s like a guide in front of me. I follow direction given to me better than making my own with stuff like this 😬",
+      "context": "First-time parent liked initial meal but now needs repeatable loose guidance; no price acceptance stated.",
+      "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/BabyLedWeaning-1q0d6qh.txt",
+      "source_class": "reddit_archive",
+      "evidence_kind": "archived_original",
+      "archive_dataset": "yikeee/reddit-subreddits25",
+      "archive_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f",
+      "post_id": "1q0d6qh",
+      "read_scope": "full_post_and_available_identifiable_OP_replies"
+    },
+    {
+      "id": "rad02-0048",
+      "source": "Reddit r/ExclusivelyPumping (frozen public archive)",
+      "url": "https://www.reddit.com/r/ExclusivelyPumping/comments/1mf67l2/fep_blue_cross_blue_shield_pump_options_helppump/",
+      "date": "2025-08-01T19:43:30+00:00",
+      "author": "Equivalent-Turn-491",
+      "speaker": "parent_unspecified",
+      "stage": "unknown",
+      "type": "pain",
+      "themes": [
+        "pumping_schedule",
+        "price_value"
+      ],
+      "quote": "You cannot click on details in the my blue app to see only can order.",
+      "context": "Insured pump buyer cannot inspect the covered model before ordering and hesitates to spend $300 privately; historical gear-cost evidence.",
+      "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/ExclusivelyPumping-1mf67l2.txt",
+      "source_class": "reddit_archive",
+      "evidence_kind": "archived_original",
+      "archive_dataset": "yikeee/reddit-subreddits25",
+      "archive_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f",
+      "post_id": "1mf67l2",
+      "read_scope": "full_post_comment_source_unavailable",
+      "paid_report_demand_proven": false
+    },
+    {
+      "id": "rad03-0014",
+      "source": "Reddit — r/BabyBumps (publisher archive)",
+      "url": "https://www.reddit.com/r/BabyBumps/comments/1nc3vo2/birth_plan_template_recommendations/",
+      "date": "2025-09-08",
+      "speaker": "experienced_mother",
+      "stage": "unknown",
+      "type": "desire",
+      "themes": [
+        "birth_preparation",
+        "portable_formats",
+        "human_help"
+      ],
+      "quote": "Looking for birth plan template recommendations that are comprehensive of natural birth but are was for the midwife or nurse to read without fluff they don’t need. I’ve heard a one pager is good.",
+      "context": "Second-time mother has doula but wants concise plan readable by clinical staff; preferences require clinician discussion.",
+      "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/BabyBumps-1nc3vo2.txt",
+      "source_class": "reddit_archive",
+      "evidence_kind": "archived_original",
+      "archive_dataset": "yikeee/reddit-subreddits25",
+      "archive_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f",
+      "post_id": "1nc3vo2",
+      "read_scope": "full_post_comment_source_unavailable",
+      "marketing_eligible": false,
+      "evidence_use": "Research boundary on document usability; no personalized birth-treatment plan or clinical efficacy claim."
+    },
+    {
+      "id": "rad02-0070",
+      "source": "Reddit r/NewParents (frozen public archive)",
+      "url": "https://www.reddit.com/r/NewParents/comments/1n2nhso/wake_windows_narrative_is_bs_convince_me_otherwise/",
+      "date": "2025-08-28T20:35:23+00:00",
+      "author": "Srbushka",
+      "speaker": "parent_unspecified",
+      "stage": "baby_6_16_weeks",
+      "type": "success_story",
+      "themes": [
+        "sleep_routines",
+        "household_routines"
+      ],
+      "quote": "I stopped following WW schedule and now just follow baby's cues.",
+      "context": "Parent reports less fussing after abandoning wake-window schedules; one retrospective personal experience, not clinical proof or recommendation.",
+      "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1n2nhso.txt",
+      "source_class": "reddit_archive",
+      "evidence_kind": "archived_original",
+      "archive_dataset": "yikeee/reddit-subreddits25",
+      "archive_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f",
+      "post_id": "1n2nhso",
+      "read_scope": "full_post_comment_source_unavailable",
+      "paid_report_demand_proven": false
+    },
+    {
+      "id": "rad05-0009",
+      "source": "Reddit r/beyondthebump (frozen public archive)",
+      "url": "https://www.reddit.com/r/beyondthebump/comments/1nid2y8/huckleberry_app_alternative/",
+      "date": "2025-09-16T09:49:24+00:00",
+      "author": "Desperate-Reply-8492",
+      "speaker": "parent_unspecified",
+      "stage": "baby_4_6_months",
+      "type": "tried_failed",
+      "themes": [
+        "sleep_routines",
+        "price_value",
+        "skepticism"
+      ],
+      "quote": "I also downloaded Huckleberry app and am using the paid version per people’s recommendation, but I’m honestly extremely disappointed with it.",
+      "context": "Paid app user seeks an alternative after disappointing sleep tracking; reported worsening cannot establish causation. App purchase, not report purchase.",
+      "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1nid2y8.txt",
+      "source_class": "reddit_archive",
+      "evidence_kind": "archived_original",
+      "archive_dataset": "yikeee/reddit-subreddits25",
+      "archive_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f",
+      "post_id": "1nid2y8",
+      "read_scope": "full_post_comment_source_unavailable",
+      "paid_report_demand_proven": false,
+      "marketing_eligible": false,
+      "evidence_use": "research_only",
+      "authenticity_note": "Author attributes worse sleep to the app without controlled evidence; no clinical efficacy or infant sleep recommendations endorsed."
+    },
+    {
+      "id": "rad03-0081",
+      "source": "Reddit — r/BabyLedWeaning (publisher archive)",
+      "url": "https://www.reddit.com/r/BabyLedWeaning/comments/1o9atg9/what_fish_are_we_serving_our_babies/",
+      "date": "2025-10-17",
+      "speaker": "parent_unspecified",
+      "stage": "baby_6_12_months",
+      "type": "pain",
+      "themes": [
+        "meal_planning",
+        "household_constraints",
+        "first_solids"
+      ],
+      "quote": "I have the solid starts app but I just really struggling with figuring out what to feed her, my husband and I are such plain repeat eaters😂",
+      "context": "Ontario parent has food app but wants ordinary grocery-accessible options beyond adults repetitive menus.",
+      "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/BabyLedWeaning-1o9atg9.txt",
+      "source_class": "reddit_archive",
+      "evidence_kind": "archived_original",
+      "archive_dataset": "yikeee/reddit-subreddits25",
+      "archive_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f",
+      "post_id": "1o9atg9",
+      "read_scope": "full_post_and_available_identifiable_OP_replies"
+    },
+    {
+      "id": "rad05-0035",
+      "source": "Reddit r/workingmoms (frozen public archive)",
+      "url": "https://www.reddit.com/r/workingmoms/comments/1ow5lkr/daycare_registration_fee_reimbursement_dfsa/",
+      "date": "2025-11-13T16:28:35+00:00",
+      "author": "AdditionalRecipe825",
+      "speaker": "parent_unspecified",
+      "stage": "unknown",
+      "type": "tried_failed",
+      "themes": [
+        "daycare_handoff",
+        "price_value",
+        "information_overload"
+      ],
+      "quote": "There is no selection on the app for registration fee, only date of service.",
+      "context": "Parent’s childcare reimbursement repeatedly fails over receipt dates despite attendance already starting; administrative workflow obstacle, no tax-eligibility or policy conclusion.",
+      "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ow5lkr.txt",
+      "source_class": "reddit_archive",
+      "evidence_kind": "archived_original",
+      "archive_dataset": "yikeee/reddit-subreddits25",
+      "archive_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f",
+      "post_id": "1ow5lkr",
+      "read_scope": "full_post_and_available_identifiable_OP_replies",
+      "paid_report_demand_proven": false
+    },
+    {
+      "id": "rad05-0028",
+      "source": "Reddit r/beyondthebump (frozen public archive)",
+      "url": "https://www.reddit.com/r/beyondthebump/comments/1pmypd8/solids_during_vacation/",
+      "date": "2025-12-15T04:43:00+00:00",
+      "author": "Blackberryay",
+      "speaker": "parent_unspecified",
+      "stage": "baby_6_12_months",
+      "type": "desire",
+      "themes": [
+        "meal_planning",
+        "first_solids",
+        "personalization"
+      ],
+      "quote": "While this would be fine for one two meals, I just don’t want my baby to have puree for a week when she normally eats regular non puree at home.",
+      "context": "Healthy ten-month-old already eats varied meals; experienced feeding parent needs hotel-trip meal access. Sodium limits and nutrition prescriptions are outside selected use.",
+      "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pmypd8.txt",
+      "source_class": "reddit_archive",
+      "evidence_kind": "archived_original",
+      "archive_dataset": "yikeee/reddit-subreddits25",
+      "archive_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f",
+      "post_id": "1pmypd8",
+      "read_scope": "full_post_comment_source_unavailable",
+      "paid_report_demand_proven": false
+    },
+    {
+      "id": "rad03-0155",
+      "source": "Reddit — r/NewParents (publisher archive)",
+      "url": "https://www.reddit.com/r/NewParents/comments/1mkb7mm/advice_for_daytime_naps_when_grandma_takes_over/",
+      "date": "2025-08-07",
+      "speaker": "parent_unspecified",
+      "stage": "baby_6_16_weeks",
+      "type": "trigger_moment",
+      "themes": [
+        "caregiver_handoff",
+        "older_child",
+        "external_dependencies"
+      ],
+      "quote": "The problem is at 4.5months grandma will watch him during the day and she already has a 2 year old to watch and contact naps would be very difficult for her to do all day.",
+      "context": "Grandmother will care for infant alongside a two-year-old; handoff must fit caregiver capacity rather than reproduce parents’ contact naps.",
+      "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1mkb7mm.txt",
+      "source_class": "reddit_archive",
+      "evidence_kind": "archived_original",
+      "archive_dataset": "yikeee/reddit-subreddits25",
+      "archive_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f",
+      "post_id": "1mkb7mm",
+      "read_scope": "full_post_comment_source_unavailable"
+    },
+    {
+      "id": "rad02-0060",
+      "source": "Reddit r/ExclusivelyPumping (frozen public archive)",
+      "url": "https://www.reddit.com/r/ExclusivelyPumping/comments/1of0mrj/i_used_to_hate_pumping_but_now_i_miss_it_so_much/",
+      "date": "2025-10-24T15:21:55+00:00",
+      "author": "GuiltyName7169",
+      "speaker": "parent_unspecified",
+      "stage": "looking_back",
+      "type": "belief",
+      "themes": [
+        "pumping_schedule",
+        "maternal_guilt"
+      ],
+      "quote": "I even miss the little routines I used to complain about.",
+      "context": "Single parent found formula practical after stopping pumping, yet later felt nostalgia; relief and attachment coexist without implying demand for another solution.",
+      "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/ExclusivelyPumping-1of0mrj.txt",
+      "source_class": "reddit_archive",
+      "evidence_kind": "archived_original",
+      "archive_dataset": "yikeee/reddit-subreddits25",
+      "archive_commit": "ea497c510aa68765c07ed744ec9f84d68bbedf7f",
+      "post_id": "1of0mrj",
+      "read_scope": "full_post_comment_source_unavailable",
+      "paid_report_demand_proven": false
+    }
+  ],
+  "views": [
+    {
+      "chunk": 1,
+      "path": "_raw/audit/continuation-2026-10-24/independent-semantic20/contexts-01.txt",
+      "sha256": "f962d260f712b89e57fdc7a72525c34b266a6140b39ffc97bbc8225c967c0581",
+      "sources": [
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1obm3qs.txt",
+          "quote_ids": [
+            "rad02-0081"
+          ],
+          "raw_sha256": "a178e4d2eeacc8b3caa1f98dfb67347d16164fdc1aeb21343403817f046e57ca"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/BabyBumpsCanada-1orbhb0.txt",
+          "quote_ids": [
+            "rad02-0032"
+          ],
+          "raw_sha256": "81286c57decfdf9fbee10667d9737994d980e12d9f1482ef706621dc003dbea7"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1mx3fm6.txt",
+          "quote_ids": [
+            "rad03-0171"
+          ],
+          "raw_sha256": "50361a0fc2a8a3fe46f06d4a8933028e75627877715912e43013859f7b6671c2"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/BabyBumps-1nfi952.txt",
+          "quote_ids": [
+            "rad03-0022"
+          ],
+          "raw_sha256": "0d52e59994a942ff57c80c84af76c22fdac374fda937ec80d6298c3533f733c8"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1oq26bh.txt",
+          "quote_ids": [
+            "rad04-0018"
+          ],
+          "raw_sha256": "859b03858ead15efc5dd9fca0a14d618a74e26ea2499455c4bf09a271f2b4d81"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1ophayc.txt",
+          "quote_ids": [
+            "rad04-0014"
+          ],
+          "raw_sha256": "b1b1b87ee5eca99d2fc92f1b912ae4e749d49d02e43c908d33e930f9caadaa5f"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1n6q92l.txt",
+          "quote_ids": [
+            "rad05-0005"
+          ],
+          "raw_sha256": "75b0380368a7cfdba8d2283628904d7f16e288e4b055ce751b42e2aebf1cc845"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pjqmcq.txt",
+          "quote_ids": [
+            "rad05-0026"
+          ],
+          "raw_sha256": "becffa8d3046605d4013fec046b59f21eef67b44ac521c08d8adeb014551196b"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/july-B-solids-v1/primary-units/BabyLedWeaning-1m1ez71.txt",
+          "quote_ids": [
+            "rbc01-0025"
+          ],
+          "raw_sha256": "e668f7b02ecfda6039cea836f7f300e596b5aa084dc76decd0f15da80f8e8926"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/july-B-solids-v1/primary-units/BabyLedWeaning-1lzqlgx.txt",
+          "quote_ids": [
+            "rbc01-0024"
+          ],
+          "raw_sha256": "ae89d702e26120c82b11f9a0c2c5d0447b1d38aa347f0e288d2d4e1e51420a49"
+        }
+      ]
+    },
+    {
+      "chunk": 2,
+      "path": "_raw/audit/continuation-2026-10-24/independent-semantic20/contexts-02.txt",
+      "sha256": "098502190dad23a0fa3d9c5285afbb8c8a2c060af1fb2ee3b6363d56a56df440",
+      "sources": [
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/BabyLedWeaning-1q0d6qh.txt",
+          "quote_ids": [
+            "rad03-0094"
+          ],
+          "raw_sha256": "df9263368ef6ff8d8824fc01416ded638b2515754490e0ac13ba583561745e1a"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/ExclusivelyPumping-1mf67l2.txt",
+          "quote_ids": [
+            "rad02-0048"
+          ],
+          "raw_sha256": "5c3c778d7c98789e3f58ba677a399af26ec060adb368e37587cf7293ca8b796c"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/BabyBumps-1nc3vo2.txt",
+          "quote_ids": [
+            "rad03-0014"
+          ],
+          "raw_sha256": "b4c8823e46b6d9e263d0b352ae6fe7e60e966828b7954bce5c7104452a7b0563"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1n2nhso.txt",
+          "quote_ids": [
+            "rad02-0070"
+          ],
+          "raw_sha256": "a1ecc7f0164614e192999a3377f5d15cf1c40b7699c9365c5e9ba952d6f1c828"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1nid2y8.txt",
+          "quote_ids": [
+            "rad05-0009"
+          ],
+          "raw_sha256": "7b7893173dcbe4923f084c1b99d7e8073beba82187c71c17ca003ea8a043fe26"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/BabyLedWeaning-1o9atg9.txt",
+          "quote_ids": [
+            "rad03-0081"
+          ],
+          "raw_sha256": "480967b5df0d23dd8cff35ddfdb51efcb15b0180e10196adbfde3408b487cc85"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/workingmoms-1ow5lkr.txt",
+          "quote_ids": [
+            "rad05-0035"
+          ],
+          "raw_sha256": "fcfbd407dc3ca56459a24926e1db15f3a4329be9e85ad13a6851179b9ec84cdf"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/beyondthebump-1pmypd8.txt",
+          "quote_ids": [
+            "rad05-0028"
+          ],
+          "raw_sha256": "71968571b6d13bcfcc31733fa2b71c1fcaf241ef516d31690ced30c7753a9f74"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/NewParents-1mkb7mm.txt",
+          "quote_ids": [
+            "rad03-0155"
+          ],
+          "raw_sha256": "941c15df8203560d0fb2b43b8f2e41b63add1c8df2d489e19469db3908ac056a"
+        },
+        {
+          "raw_file": "_raw/reddit-deep/aug-dec-2025-wave-v1/primary-units/ExclusivelyPumping-1of0mrj.txt",
+          "quote_ids": [
+            "rad02-0060"
+          ],
+          "raw_sha256": "90bbc908df6805b0d78f432efc443b815f05fcb59ef02e94ddfcd308665431d1"
+        }
+      ]
+    }
+  ]
+}

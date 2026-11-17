@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-24",
+  "scope": "all 2199 assigned cards; owned complete reading of frozen chunks001-072; chunks073-097 transferred unread to reader05",
+  "assigned_and_triaged_cards": 2199,
+  "triage_labels": {
+    "keep_pumping_work": 305,
+    "keep_pregnancy": 110,
+    "keep_other": 115,
+    "drop": 553,
+    "keep_postpartum": 470,
+    "keep_registry": 158,
+    "keep_sleep": 345,
+    "keep_solids": 103,
+    "keep_play": 40
+  },
+  "original_kept_batch_total": 1646,
+  "card_drops_original_unread_by_this_reader": 553,
+  "owned_full_original_posts": 1292,
+  "owned_partial_original_posts": 0,
+  "transferred_full_read_units": 354,
+  "transfer_manifest": "_raw/reddit-deep/aug-dec-2025-wave-v1/assignments/fullread-transfer-to-05-v1.json",
+  "transfer_manifest_sha256": "c97e03419728cc1bb0aceaa5551de8ef554e131539fcc19647be0bb827369faa",
+  "ownership_disjoint_union_equals_original_keeps": true,
+  "owned_OP_replies_read": 115,
+  "owned_auxiliary_comments_read": 5,
+  "owned_statuses": {
+    "eligible": 1125,
+    "excluded_after_read": 167
+  },
+  "owned_source_communities": {
+    "BabyLedWeaning": 42,
+    "BabyBumps": 369,
+    "BabyBumpsandBeyondAu": 94,
+    "BeyondTheBumpUK": 69,
+    "ExclusivelyPumping": 82,
+    "NewParents": 632,
+    "beyondthebump": 4
+  },
+  "own_primary_unit_utf8_bytes": 3193244,
+  "own_primary_original_body_bytes": 1560732,
+  "quotes": 102,
+  "quoted_post_ids": 100,
+  "quoted_OP_replies": 3,
+  "research_only_quote_ids": [
+    "rad01-0009",
+    "rad01-0010",
+    "rad01-0021",
+    "rad01-0054",
+    "rad01-0064",
+    "rad01-0069",
+    "rad01-0070",
+    "rad01-0100"
+  ],
+  "reader_note_ids_checked": 62,
+  "native_body_dates_URLs_OP_attribution_hashes_and_global_own_ID_uniqueness": "passed",
+  "verify_quotes_stdout": "reddit-augdec-01.jsonl: 102 quotes, 0 failed\nTOTAL 102 quotes, 0 failed",
+  "voice_sha256": "ca54efe645c497879fe5d81f2458164cc9ff4e2a1b91d86239edcb3dedbaa4db",
+  "reading_sha256": "5768efdce5f3d3908585243b4db01ff8c5bfd941136251f27711b51dfb0de63d",
+  "failed": 0,
+  "limitations": "Machine checks substantiate finite saved-source coverage and excerpt attribution; human reading, safety judgment and truth of self-report are not established by substring checks. No live follow-up completeness, independent buyers, receipts, clinical efficacy or market prevalence claimed."
+}

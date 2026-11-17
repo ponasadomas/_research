@@ -1,0 +1,86 @@
+{
+  "ad_id": "1900979554594871",
+  "page_id": "186268468076113",
+  "page_name": "Babylist",
+  "snapshot_page_id": "186268468076113",
+  "snapshot_page_name": "Babylist",
+  "snapshot_identity_differs": false,
+  "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/025-babylist-page.json",
+  "source_file_sha256": "dde70e8c18f3207f84afe706c6f2755c427dfe16d758878c6a2e475652c6807b",
+  "captured_at": "2026-10-24T21:52:19.573Z",
+  "native_is_active": true,
+  "start_timestamp": 1792393200,
+  "start_utc": "2026-10-19T07:00:00+00:00",
+  "displayed_start_date": null,
+  "collation_id": "38194374136877569",
+  "collation_count": null,
+  "display_format": "DCO",
+  "primary_destination": "https://www.babylist.com/registry/new",
+  "card_destinations": [
+    "https://www.babylist.com/registry/new",
+    "https://www.babylist.com/registry/new",
+    "https://www.babylist.com/registry/new"
+  ],
+  "native_body_sha256": "77852a84cc48cb71d380b68c5698494ad6bf40e888eeb2b2911ebac50562a57f",
+  "native_text_bundle_sha256": "f03a34d4884408f256eea1eb7f5f423007572c142de233d0ea8d6e27df02f24e",
+  "native_ad_sha256": "f8ac681a1a053fbe8e2173947931bb695162fdddea6e0faba55c93025eacc97f",
+  "text_bundle": {
+    "body": "Enter for a chance to win a $250 Babylist gift card when you sign up for a Babylist registry and start adding your baby's must-haves. No purchase necessary; terms and conditions may apply.\n\n*Terms and Conditions\n-Open to all new registrants in the United States only.\n-To qualify, users must create a Babylist registry and add items to the registry.\n-No purchase necessary.\n-One registry per entrant.\n-Users will qualify for the drawing for the week in which they signed up\n-One winner will be chosen weekly from the previous week's registry sign-ups.\n-Winners will be contacted through email. Winners must respond to that email within 7 days to accept the prize. If the winner does not respond within 7 days, a new winner will be selected.\n-Upon acceptance, winners will be emailed their e-gift card ($250 value).\n-Gift cards must be redeemed at babylist.com/store.\n-Gift cards are not exchangeable for cash or replaceable if lost or stolen.",
+    "top": {
+      "caption": "babylist.com",
+      "cta_text": "Learn more",
+      "cta_type": "LEARN_MORE",
+      "title": "Limited Time Offer",
+      "link_description": null,
+      "link_url": "https://www.babylist.com/registry/new",
+      "display_format": "DCO",
+      "byline": null,
+      "disclaimer_label": null,
+      "additional_info": null,
+      "extra_links": [],
+      "extra_texts": [],
+      "branded_content": null,
+      "root_reshared_post": null
+    },
+    "cards": [
+      {
+        "body": "Enter for a chance to win a $250 Babylist gift card when you sign up for a Babylist registry and start adding your baby's must-haves. No purchase necessary; terms and conditions may apply.\n\n\n*Terms and Conditions\n-Open to all new registrants in the United States only.\n-To qualify, users must create a Babylist registry and add items to the registry.\n-No purchase necessary.\n-One registry per entrant.\n-Users will qualify for the drawing for the week in which they signed up\n-One winner will be chosen weekly from the previous week's registry sign-ups.\n-Winners will be contacted through email. Winners must respond to that email within 7 days to accept the prize. If the winner does not respond within 7 days, a new winner will be selected.\n-Upon acceptance, winners will be emailed their e-gift card ($250 value).\n-Gift cards must be redeemed at babylist.com/store.\n-Gift cards are not exchangeable for cash or replaceable if lost or stolen.",
+        "caption": "",
+        "title": "Limited Time Offer",
+        "link_description": null,
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://www.babylist.com/registry/new"
+      },
+      {
+        "body": "Enter for a chance to win a $250 Babylist gift card when you sign up for a Babylist registry and start adding your baby's must-haves. No purchase necessary; terms and conditions may apply.\n\n\n*Terms and Conditions\n-Open to all new registrants in the United States only.\n-To qualify, users must create a Babylist registry and add items to the registry.\n-No purchase necessary.\n-One registry per entrant.\n-Users will qualify for the drawing for the week in which they signed up\n-One winner will be chosen weekly from the previous week's registry sign-ups.\n-Winners will be contacted through email. Winners must respond to that email within 7 days to accept the prize. If the winner does not respond within 7 days, a new winner will be selected.\n-Upon acceptance, winners will be emailed their e-gift card ($250 value).\n-Gift cards must be redeemed at babylist.com/store.\n-Gift cards are not exchangeable for cash or replaceable if lost or stolen.",
+        "caption": "",
+        "title": "Limited Time Offer",
+        "link_description": null,
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://www.babylist.com/registry/new"
+      },
+      {
+        "body": "Enter for a chance to win a $250 Babylist gift card when you sign up for a Babylist registry and start adding your baby's must-haves. No purchase necessary; terms and conditions may apply.\n\n\n*Terms and Conditions\n-Open to all new registrants in the United States only.\n-To qualify, users must create a Babylist registry and add items to the registry.\n-No purchase necessary.\n-One registry per entrant.\n-Users will qualify for the drawing for the week in which they signed up\n-One winner will be chosen weekly from the previous week's registry sign-ups.\n-Winners will be contacted through email. Winners must respond to that email within 7 days to accept the prize. If the winner does not respond within 7 days, a new winner will be selected.\n-Upon acceptance, winners will be emailed their e-gift card ($250 value).\n-Gift cards must be redeemed at babylist.com/store.\n-Gift cards are not exchangeable for cash or replaceable if lost or stolen.",
+        "caption": "",
+        "title": "Limited Time Offer",
+        "link_description": null,
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://www.babylist.com/registry/new"
+      }
+    ]
+  },
+  "excluded_card_media_fields": [
+    "image_crops",
+    "original_image_url",
+    "resized_image_url",
+    "video_hd_url",
+    "video_preview_image_url",
+    "video_sd_url",
+    "watermarked_resized_image_url",
+    "watermarked_video_hd_url",
+    "watermarked_video_sd_url"
+  ]
+}

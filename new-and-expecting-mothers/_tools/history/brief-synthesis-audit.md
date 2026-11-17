@@ -1,0 +1,3 @@
+# Independent synthesis audit brief
+
+Read synthesis/findings.md, niche-opportunities.md and success-stories.md against voice/audience-01.jsonl, market and review notes. Look up every audience citation by exact id. Check first-time/non-cooking-mother framing is evidence-supported or explicitly hypothetical. Keep search-index extracts distinct from original full-thread reads. Challenge recommendations against current direct meal-plan competitors. Write synthesis/synthesis-review.md with concrete inaccuracies, weak evidence and missing limitations. Narrow clear audience-semantic corrections to the three documents are authorized; report each. Do not change counts/headers while other branches finish. Do not add research quotes.

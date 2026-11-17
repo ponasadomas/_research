@@ -1,0 +1,85 @@
+{
+  "basis": "Human card readings plus separately logged complete-source eligibility inspections; original wording preserved in triage reasons. Linked pages/media not followed. Suspicion does not prove seller affiliation.",
+  "screening_records": [
+    {
+      "post_id": "1mbl4na",
+      "label": "drop",
+      "reason": "seller app promotion, older-child screen use"
+    },
+    {
+      "post_id": "1lqv8h9",
+      "label": "drop",
+      "reason": "app builder recruitment/gift-card promotion"
+    },
+    {
+      "post_id": "1lu3ynv",
+      "label": "drop",
+      "reason": "academic recruitment promotion, not consumer testimony"
+    },
+    {
+      "post_id": "1lvptrp",
+      "label": "drop",
+      "reason": "academic Huckleberry recruitment/gift-card promotion"
+    },
+    {
+      "post_id": "1lxptd6",
+      "label": "drop",
+      "reason": "promotional paid milk-donation legitimacy claim, not a report-sized buying need"
+    },
+    {
+      "post_id": "1m0j2ft",
+      "label": "drop",
+      "reason": "virtual-assistant seller promotion"
+    },
+    {
+      "post_id": "1m8lecn",
+      "label": "drop",
+      "reason": "SAHM platform seller promotion; exact crossposts in other communities"
+    },
+    {
+      "post_id": "1me32x4",
+      "label": "drop",
+      "reason": "full-source inspection: promotional-style linked meditation article; no verified independent purchase, OP denies advertising, intent unverified"
+    },
+    {
+      "post_id": "1lzp6af",
+      "label": "keep_registry",
+      "reason": "full-source inspection: prospective warmer auto-shutoff question, no explicit seller affiliation or purchase claim; authenticity not independently verified"
+    },
+    {
+      "post_id": "1m0n9n3",
+      "label": "drop",
+      "reason": "creator app promotion and ChatGPT synthesis of claimed600responses; not independent customer voice or verified comment count"
+    },
+    {
+      "post_id": "1m542iw",
+      "label": "drop",
+      "reason": "linked AI health-management narrative for severe pregnancy vomiting; promotional-style, independence unverified, no medical efficacy evidence"
+    },
+    {
+      "post_id": "1ma1gjz",
+      "label": "drop",
+      "reason": "academic fertility/lactation study recruitment, not consumer testimony"
+    },
+    {
+      "post_id": "1mb0cf6",
+      "label": "drop",
+      "reason": "full-source inspection: possible creator/market-research framing for printables (inference from offering fifth-baby expertise), no independent purchase claim"
+    }
+  ],
+  "retained_cautions": [
+    {
+      "post_id": "1lzp6af",
+      "finding": "Prospective product auto-off question; no explicit seller affiliation or purchase; not automatically promotional."
+    },
+    {
+      "post_id": "1m9x8ft",
+      "finding": "Detailed enthusiastic pump review, no exposed affiliate marker. Independence unverified; not excluded solely for tone."
+    },
+    {
+      "post_id": "1m8l9o5",
+      "finding": "FamilyAlbum member-display support question; no memorybook seller pitch in body."
+    }
+  ],
+  "memorybook_cluster": "No retained photo/AI memorybook seller body was identified within assigned five-community originals. This is a bounded inspection, not a claim of no promotion in Reddit."
+}

@@ -1,0 +1,38 @@
+{
+  "ad_id": "1102462346064342",
+  "advertiser": "Lovevery",
+  "page_id": "1859617107640244",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/005-lovevery-page.json",
+  "capture_sha256": "90a8b882dbb1767b9749a6e1fc440e0cf6a15ce0443a164b39221c0ba9fae64d",
+  "native_pointer": "connections[0].edges[6].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=1859617107640244",
+  "captured_at": "2026-10-24T21:46:30.893Z",
+  "is_active": true,
+  "start_utc": "2026-09-09T07:00:00+00:00",
+  "display_format": "IMAGE",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1102462346064342",
+  "snapshot_sha256": "7faa319cb7669de4516a1ee388756db298cfbcd28d0e24b7966a194fe167e948",
+  "text_fields": {
+    "body": {
+      "text": "Turns out, being completely mesmerized by a ladybug is productive. 🐞\n\nAs it rolls down the ramp, your baby gets to practice watching and tracking—while happily doing what babies do best: staring at something fascinating.\n\nMeet The Ladybug, only in The Looker Play Kit."
+    },
+    "title": "The Play Kits by Lovevery",
+    "caption": "lovevery.com",
+    "link_description": null,
+    "link_url": "https://lovevery.com/products/the-play-kits-the-looker",
+    "cta_text": "Shop now",
+    "cta_type": "SHOP_NOW",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "938e4135778e2550a89a64e4dbd5e35cc62b7d0197d326b4f1fb8d106d237dea",
+  "media_seen": false,
+  "image_count": 1,
+  "video_count": 0,
+  "cards_count": 0
+}

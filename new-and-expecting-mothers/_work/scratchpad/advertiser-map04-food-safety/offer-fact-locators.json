@@ -1,0 +1,93 @@
+{
+  "scope": "Small exact strings checked only as price/format locators; no customer quotes or efficacy verification.",
+  "checks": {
+    "solidstarts-app": [
+      "$99.99",
+      "$19.99"
+    ],
+    "littlelunches-pricing": [
+      "$49.99/year",
+      "$7.99/month"
+    ],
+    "101-firstmonth": [
+      "$29",
+      "54-page digital PDF",
+      "40 total recipes"
+    ],
+    "keic-weekdays": [
+      "$34.99",
+      "$29.74",
+      "Format: digital download"
+    ],
+    "feedinglittles-infant": [
+      "$59",
+      "Read the script",
+      "lifetime access"
+    ],
+    "feedinglittles-toddler": [
+      "$69"
+    ],
+    "feedinglittles-app": [
+      "$39.99",
+      "$9.99",
+      "Free features:",
+      "up to 6 people"
+    ],
+    "blw-apple-us": [
+      "Monthly plan $4.99",
+      "Monthly plan $9.99",
+      "Annual Plan $59.99",
+      "Annual plan $34.99"
+    ],
+    "boobtofood-balanced": [
+      "$24.95",
+      "Balanced Meal Formula PDF",
+      "10 \u2013 Recipe Ebook"
+    ],
+    "village-safety": [
+      "$75",
+      "$149",
+      "Personalized Written Safety Plan",
+      "not a licensed safety inspector"
+    ],
+    "safebeginnings-consult": [
+      "$145 USD",
+      "video call - 30 minutes",
+      "summary report",
+      "within a week",
+      "only open to residents of the US and Canada",
+      "join the waitlist"
+    ],
+    "safebeginnings-course": [
+      "$119 USD",
+      "55 lessons",
+      "28-page"
+    ],
+    "nurturednest-safety": [
+      "$99",
+      "$39",
+      "12 months",
+      "33 lessons"
+    ],
+    "pom-online": [
+      "$60 per couple",
+      "75 minute"
+    ],
+    "safenest-services": [
+      "$300.00",
+      "about two hours"
+    ],
+    "littlespoon-babyblends": [
+      "From $3.92/Blend"
+    ],
+    "nurturelife-home": [
+      "Finger Foods at $6.99",
+      "Kids Meals at $7.69"
+    ],
+    "tinyorganics-item": [
+      "$7.49/meal",
+      "starting at $3.66/meal"
+    ]
+  },
+  "errors": []
+}

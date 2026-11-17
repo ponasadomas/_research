@@ -1,0 +1,38 @@
+{
+  "ad_id": "1060279876701018",
+  "advertiser": "Taking Cara Babies",
+  "page_id": "362568527156955",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/019-taking-cara-babies-page.json",
+  "capture_sha256": "90087c5f484111bbc2fba4fd4f642e2dff76af3b3a8273ceb5b83244053f8008",
+  "native_pointer": "connections[0].edges[17].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=362568527156955",
+  "captured_at": "2026-10-24T21:50:13.463Z",
+  "is_active": true,
+  "start_utc": "2026-08-11T07:00:00+00:00",
+  "display_format": "VIDEO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1060279876701018",
+  "snapshot_sha256": "259b74d612adb726ceae59182dc63400f2ade0e0c18b5383dff33f2eead440ce",
+  "text_fields": {
+    "body": {
+      "text": "When parents find something that helps them feel more confident through baby sleep, they remember it. Taking Cara Babies offers online sleep classes for every stage, from newborns to toddlers, so you can get clear, practical guidance right when you need it."
+    },
+    "title": "Sleep Help For Every Stage",
+    "caption": "www.takingcarababies.com",
+    "link_description": "Trusted by families again and again.",
+    "link_url": "https://www.takingcarababies.com/",
+    "cta_text": "See details",
+    "cta_type": "SEE_DETAILS",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "b7bca18c7b02926d1098ab058c8be9d2776bf4ad20cf2527e727b726552648b1",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 1,
+  "cards_count": 0
+}

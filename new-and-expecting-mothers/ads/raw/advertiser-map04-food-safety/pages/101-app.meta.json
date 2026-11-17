@@ -1,0 +1,31 @@
+{
+  "slug": "101-app",
+  "url": "https://www.101beforeone.com/app",
+  "robots_status": 200,
+  "robots_allowed": true,
+  "robots_file": "_raw/advertiser-map04-food-safety/robots/www.101beforeone.com.txt",
+  "raw_file": "_raw/advertiser-map04-food-safety/pages/101-app.html",
+  "text_file": "_raw/advertiser-map04-food-safety/pages/101-app.txt",
+  "sha256": "dc5ee229ab773f66e5d188f732be11daf1d57b4ce9b9356dde8da810a1aba314",
+  "bytes": 1489004,
+  "utc": "2026-10-24T21:49:18.713723+00:00",
+  "status": 200,
+  "final_url": "https://www.101beforeone.com/app",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Age": "0",
+    "Content-Type": "text/html;charset=utf-8",
+    "Date": "Sat, 24 Oct 2026 21:49:18 GMT",
+    "Etag": "W/\"c747ad89ce5320c570450cf405e552cd\"",
+    "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+    "Server": "Squarespace",
+    "Set-Cookie": "crumb=BfK2EM691egxOGEwZDFlODVjOWJmY2UwYWRlNTYwMDhjN2NmOTJm;Secure;Path=/",
+    "Strict-Transport-Security": "max-age=15552000",
+    "Vary": "Accept-Encoding",
+    "X-Content-Type-Options": "nosniff",
+    "X-Contextid": "qMXFqmtc/lUfwdmhM",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Connection": "close",
+    "Transfer-Encoding": "chunked"
+  }
+}

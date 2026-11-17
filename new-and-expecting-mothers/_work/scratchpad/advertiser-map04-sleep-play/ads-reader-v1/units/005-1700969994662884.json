@@ -1,0 +1,38 @@
+{
+  "ad_id": "1700969994662884",
+  "advertiser": "Lovevery",
+  "page_id": "1859617107640244",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/005-lovevery-page.json",
+  "capture_sha256": "90a8b882dbb1767b9749a6e1fc440e0cf6a15ce0443a164b39221c0ba9fae64d",
+  "native_pointer": "connections[0].edges[10].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=1859617107640244",
+  "captured_at": "2026-10-24T21:46:30.893Z",
+  "is_active": true,
+  "start_utc": "2026-05-06T07:00:00+00:00",
+  "display_format": "VIDEO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1700969994662884",
+  "snapshot_sha256": "47e5c7287e4ad2c4b05c5f0a7c655aa92398221121fb9719a0c4c49d09b507ad",
+  "text_fields": {
+    "body": {
+      "text": "Not all tummy time has to look the same. Here are 4 simple ways we use the Look at Me Ladybug to support early development 🐞"
+    },
+    "title": "The Play Kits by Lovevery",
+    "caption": "lovevery.com",
+    "link_description": null,
+    "link_url": "https://try.lovevery.com/looker",
+    "cta_text": "Shop now",
+    "cta_type": "SHOP_NOW",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": []
+  },
+  "text_fields_sha256": "d2cd32fd56f977ed93300f90d7fbd540e0e77be9738da35dbbc9cd1bc7ffc65c",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 1,
+  "cards_count": 0
+}

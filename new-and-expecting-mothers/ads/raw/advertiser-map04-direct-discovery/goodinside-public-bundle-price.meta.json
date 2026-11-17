@@ -1,0 +1,23 @@
+{
+  "requested_url": "https://www.goodinside.com/api/stripe/get-purchasable-item-price/?id=baby-sleep-bundle-20260827",
+  "final_url": "https://www.goodinside.com/api/stripe/get-purchasable-item-price/?id=baby-sleep-bundle-20260827",
+  "status": 200,
+  "date_utc": "2026-10-24T22:11:48.997389+00:00",
+  "headers": {
+    "Age": "0",
+    "Cache-Control": "public, max-age=0, must-revalidate",
+    "Content-Length": "118",
+    "Content-Type": "application/json; charset=utf-8",
+    "Date": "Sat, 24 Oct 2026 22:11:48 GMT",
+    "Etag": "\"3q36ep8v2v3a\"",
+    "Server": "Vercel",
+    "Strict-Transport-Security": "max-age=63072000",
+    "X-Matched-Path": "/api/stripe/get-purchasable-item-price",
+    "X-Vercel-Cache": "MISS",
+    "X-Vercel-Id": "arn1::cle1::z8l7j-1792879908778-fb428a6b7e02"
+  },
+  "redirects": [],
+  "raw_file": "_raw/advertiser-map04-direct-discovery/goodinside-public-bundle-price.body",
+  "sha256": "266d2deee93feac7705144933f264e25460927de840c5a7d813aa073ed6e6786",
+  "bytes": 118
+}

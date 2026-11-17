@@ -1,0 +1,48 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "FamilyWall",
+  "captured_at": "2026-10-24T21:57:26.757Z",
+  "suggestions": "ge/\"\n  uid=62_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=62_1 generic description=\"Search for exact phrase FamilyWall \"FamilyWall\" Search this exact phrase\"\n      uid=62_2 button \"Search for exact phrase FamilyWall\"\n    uid=62_3 generic description=\"FamilyWall - Family Organizer @Familywall· 1.7K follow this · App page @familywall_app· 19.9K followers\"\n    uid=62_4 generic description=\"Family Wall 0 follow this · Clothing (Brand)\"\n    uid=62_5 generic description=\"Cathy Wallace for Family Court Judge 444 follow this · Juvenile Lawyer\"\n    uid=62_6 generic description=\"Wild on the Wall Family Music Festival @wildonthewall· 4.1K follow this · Festival @wildonthewall· 942 followers\"\n    uid=62_7 generic description=\"The Nehemiah Project - Rebuilding the Walls of Faith and Family. 6 follow this · Digital creator @nehemiah.project· 2 followers\"\n    uid=62_8 generic description=\"FamilyWallet.ai @FamilyWalletAI· 5 follow this · Software @familywallet.ai· 1 follows this\"\n    uid=62_9 generic description=\"Wallen Family 3 follow this · Personal blog\"\n    uid=62_10 generic description=\"Wallen Family Connect 0 follow this · Musician\"\n    uid=62_11 generic description=\"Wallen family county 0 follow this · Personal blog\"\n    uid=62_12 generic description=\"Wallace Family Chiropractic @WallaceFamilyChiropractic· 322 follow this · Medical & Health\"\n",
+  "candidates": [
+    {
+      "uid": "62_3",
+      "description": "FamilyWall - Family Organizer @Familywall· 1.7K follow this · App page @familywall_app· 19.9K followers"
+    },
+    {
+      "uid": "62_4",
+      "description": "Family Wall 0 follow this · Clothing (Brand)"
+    },
+    {
+      "uid": "62_5",
+      "description": "Cathy Wallace for Family Court Judge 444 follow this · Juvenile Lawyer"
+    },
+    {
+      "uid": "62_6",
+      "description": "Wild on the Wall Family Music Festival @wildonthewall· 4.1K follow this · Festival @wildonthewall· 942 followers"
+    },
+    {
+      "uid": "62_7",
+      "description": "The Nehemiah Project - Rebuilding the Walls of Faith and Family. 6 follow this · Digital creator @nehemiah.project· 2 followers"
+    },
+    {
+      "uid": "62_8",
+      "description": "FamilyWallet.ai @FamilyWalletAI· 5 follow this · Software @familywallet.ai· 1 follows this"
+    },
+    {
+      "uid": "62_9",
+      "description": "Wallen Family 3 follow this · Personal blog"
+    },
+    {
+      "uid": "62_10",
+      "description": "Wallen Family Connect 0 follow this · Musician"
+    },
+    {
+      "uid": "62_11",
+      "description": "Wallen family county 0 follow this · Personal blog"
+    },
+    {
+      "uid": "62_12",
+      "description": "Wallace Family Chiropractic @WallaceFamilyChiropractic· 322 follow this · Medical & Health"
+    }
+  ]
+}

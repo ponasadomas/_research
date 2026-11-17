@@ -1,0 +1,22 @@
+{
+  "kind": "advertiser_UI_selection",
+  "query": "eMeals",
+  "expected_name": "eMeals",
+  "chosen": {
+    "uid": "84_3",
+    "description": "eMeals @emealz · 397.6K follow this · Kitchen/cooking @emeals· 63.4K followers"
+  },
+  "click_response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Successfully clicked on the element\nPage navigated to https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=138553919372."
+      }
+    ]
+  },
+  "observed": {
+    "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=138553919372",
+    "title": "Ad Library"
+  },
+  "captured_at": "2026-10-24T22:02:09.236Z"
+}

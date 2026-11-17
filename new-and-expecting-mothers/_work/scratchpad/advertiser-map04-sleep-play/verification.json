@@ -1,0 +1,334 @@
+{
+  "observed_local_date": "2026-10-25",
+  "capture_date_utc": "2026-10-24",
+  "robots_responses": 14,
+  "all_robot_responses_status200": true,
+  "page_or_linked_client_asset_responses": 21,
+  "fresh_direct_site_denials": [
+    "wonder-weeks-home"
+  ],
+  "denial_honored": true,
+  "raw_hash_failures": 0,
+  "selected_price_evidence_checks_passed": true,
+  "no_browser_interaction_by_this_reader": true,
+  "no_new_voice_records": true,
+  "source_note": "synthesis/reader-notes-advertiser-map04-sleep-play.md",
+  "source_note_sha256": "ac21b6521db47d4ff4d716919c4918c6aa33d0219850aae27082cff94e7f3fec",
+  "responses": [
+    {
+      "slug": "baby-sleep-answers-baby",
+      "status": 200,
+      "url": "https://www.babysleepanswers.com/baby",
+      "final_url": "https://www.babysleepanswers.com/baby",
+      "raw_file": "_raw/advertiser-map04-sleep-play/baby-sleep-answers-baby.body",
+      "sha256": "8b8f58f461ca0f6d761e2ece2456a0ad2959161b94e4890c2b5dcebb0c78578b",
+      "utc": "2026-10-24T21:47:29.408067+00:00"
+    },
+    {
+      "slug": "baby-sleep-answers-current-main-js",
+      "status": 200,
+      "url": "https://www.babysleepanswers.com/static/js/main.f69873e9.chunk.js",
+      "final_url": "https://www.babysleepanswers.com/static/js/main.f69873e9.chunk.js",
+      "raw_file": "_raw/advertiser-map04-sleep-play/baby-sleep-answers-current-main-js.body",
+      "sha256": "2f9b85354c22984e06f7c5e98aaaca0e8b280af2059abb4ba97512d5ed493884",
+      "utc": "2026-10-24T21:54:15.229674+00:00"
+    },
+    {
+      "slug": "babysparks-appstore-us",
+      "status": 200,
+      "url": "https://apps.apple.com/us/app/babysparks-development-app/id794574199",
+      "final_url": "https://apps.apple.com/us/app/babysparks-development-app/id794574199",
+      "raw_file": "_raw/advertiser-map04-sleep-play/babysparks-appstore-us.body",
+      "sha256": "00dc7845e1f259f17797f4709991ecd720f46b238fe6ee7ecdaf4557cebc0f66",
+      "utc": "2026-10-24T21:47:36.160033+00:00"
+    },
+    {
+      "slug": "babysparks-home",
+      "status": 200,
+      "url": "https://babysparks.com/",
+      "final_url": "https://babysparks.com/",
+      "raw_file": "_raw/advertiser-map04-sleep-play/babysparks-home.body",
+      "sha256": "c34d5b8db97c99c24f2005293d52b528788ffb9c29825c4629ce47d615b92900",
+      "utc": "2026-10-24T21:47:32.356147+00:00"
+    },
+    {
+      "slug": "busy-toddler-preschool",
+      "status": 200,
+      "url": "https://busytoddler.com/playing-preschool/",
+      "final_url": "https://busytoddler.com/playing-preschool-book-list-year-1/",
+      "raw_file": "_raw/advertiser-map04-sleep-play/busy-toddler-preschool.body",
+      "sha256": "5af28a31fe026954d763b4aa0527c74a7984e384705a33dc79f0a9e24243b7b5",
+      "utc": "2026-10-24T21:47:34.852503+00:00"
+    },
+    {
+      "slug": "busy-toddler-year1",
+      "status": 200,
+      "url": "https://shop.busytoddler.com/product/playing-preschool-complete-program/",
+      "final_url": "https://shop.busytoddler.com/product/playing-preschool-complete-program/",
+      "raw_file": "_raw/advertiser-map04-sleep-play/busy-toddler-year1.body",
+      "sha256": "6be63c9488956b4527703b0611dd54c55badec798f499b19aded23f97ee78089",
+      "utc": "2026-10-24T21:49:02.658053+00:00"
+    },
+    {
+      "slug": "huckleberry-pricing",
+      "status": 200,
+      "url": "https://huckleberrycare.com/pricing",
+      "final_url": "https://huckleberrycare.com/pricing",
+      "raw_file": "_raw/advertiser-map04-sleep-play/huckleberry-pricing.body",
+      "sha256": "bd021e127c83d405fcf6e785867e7befa6fc3dec675ef3ca11d632fe03448cd1",
+      "utc": "2026-10-24T21:47:27.251437+00:00"
+    },
+    {
+      "slug": "kinedu-assessment",
+      "status": 200,
+      "url": "https://www.kinedu.com/assessment",
+      "final_url": "https://www.kinedu.com/assessment",
+      "raw_file": "_raw/advertiser-map04-sleep-play/kinedu-assessment.body",
+      "sha256": "e2247019b279d63165887dd46152ce44a5d45d76419dd989ad0d52e669270ada",
+      "utc": "2026-10-24T21:47:31.480960+00:00"
+    },
+    {
+      "slug": "kinedu-home",
+      "status": 200,
+      "url": "https://www.kinedu.com/",
+      "final_url": "https://www.kinedu.com/",
+      "raw_file": "_raw/advertiser-map04-sleep-play/kinedu-home.body",
+      "sha256": "2f3ee024a913f65173c70f74215a08c9f6e424ae5f61f9e6feddeabdd53fea4e",
+      "utc": "2026-10-24T21:47:30.394354+00:00"
+    },
+    {
+      "slug": "little-ones-appstore-us",
+      "status": 200,
+      "url": "https://apps.apple.com/us/app/little-ones-baby-sleep/id1382444112",
+      "final_url": "https://apps.apple.com/us/app/little-ones-baby-sleep/id1382444112",
+      "raw_file": "_raw/advertiser-map04-sleep-play/little-ones-appstore-us.body",
+      "sha256": "0ee265bb75bc0663bc8289806a24b8a641fe2087dd3fe14213e4cbf932203fa4",
+      "utc": "2026-10-24T21:47:35.230949+00:00"
+    },
+    {
+      "slug": "little-ones-consult",
+      "status": 200,
+      "url": "https://www.littleones.co/products/sleep-consult",
+      "final_url": "https://www.littleones.co/products/sleep-consult",
+      "raw_file": "_raw/advertiser-map04-sleep-play/little-ones-consult.body",
+      "sha256": "c8afd978bdebc4cd7034fe33a5787217586bb6004c2243a522c6e2c3aa97f9a3",
+      "utc": "2026-10-24T21:49:03.526442+00:00"
+    },
+    {
+      "slug": "little-ones-home",
+      "status": 200,
+      "url": "https://www.littleones.co/",
+      "final_url": "https://www.littleones.co/",
+      "raw_file": "_raw/advertiser-map04-sleep-play/little-ones-home.body",
+      "sha256": "c3c6fce151b10b9d3538748bb675a0e358931fe6048cf63ecf28b781c65e778d",
+      "utc": "2026-10-24T21:47:27.994840+00:00"
+    },
+    {
+      "slug": "little-ones-sleep-app",
+      "status": 200,
+      "url": "https://www.littleones.co/products/sleep-app",
+      "final_url": "https://www.littleones.co/products/sleep-app",
+      "raw_file": "_raw/advertiser-map04-sleep-play/little-ones-sleep-app.body",
+      "sha256": "fcb40d334d429c048ca852733e29fdc45f2626ee4b3b3e21220159b1b5a9898d",
+      "utc": "2026-10-24T21:49:03.053364+00:00"
+    },
+    {
+      "slug": "lovevery-app",
+      "status": 200,
+      "url": "https://blog.lovevery.com/product-recommendations/the-lovevery-app-for-parents/",
+      "final_url": "https://blog.lovevery.com/product-recommendations/the-lovevery-app-for-parents/",
+      "raw_file": "_raw/advertiser-map04-sleep-play/lovevery-app.body",
+      "sha256": "73d32b9afad474ce41ad873d0ae113e0aaf0737538089bb8c70277daf65099a3",
+      "utc": "2026-10-24T21:47:34.190255+00:00"
+    },
+    {
+      "slug": "lovevery-kits",
+      "status": 200,
+      "url": "https://lovevery.com/products/the-play-kits",
+      "final_url": "https://lovevery.com/products/the-play-kits",
+      "raw_file": "_raw/advertiser-map04-sleep-play/lovevery-kits.body",
+      "sha256": "2c1b817aeb75df7c85e0f71b1ddc59eb0f13e8912c289aa0fb6cb05b2a0fc291",
+      "utc": "2026-10-24T21:47:32.951412+00:00"
+    },
+    {
+      "slug": "mothercould-home",
+      "status": 200,
+      "url": "https://www.mothercould.com/",
+      "final_url": "https://www.mothercould.com/",
+      "raw_file": "_raw/advertiser-map04-sleep-play/mothercould-home.body",
+      "sha256": "e426f81dbf1d5b92c6ca05c31163f9c11a052be38b0109f2beae240ee646aef1",
+      "utc": "2026-10-24T21:47:34.427270+00:00"
+    },
+    {
+      "slug": "mothercould-pocket",
+      "status": 200,
+      "url": "https://www.mothercould.com/mothercould-in-your-pocket",
+      "final_url": "https://www.mothercould.com/mothercould-in-your-pocket",
+      "raw_file": "_raw/advertiser-map04-sleep-play/mothercould-pocket.body",
+      "sha256": "a3acefb241973afa6b7090762537a3b1d584893ba83f8950ce207895752d7108",
+      "utc": "2026-10-24T21:49:02.580117+00:00"
+    },
+    {
+      "slug": "napper-pricing",
+      "status": 200,
+      "url": "https://napper.app/en/pricing/",
+      "final_url": "https://napper.app/en/pricing/",
+      "raw_file": "_raw/advertiser-map04-sleep-play/napper-pricing.body",
+      "sha256": "77ea3bc1ac3b9aac1e521fcccb4910458b7c62c1dadca8c0a980f3692161430d",
+      "utc": "2026-10-24T21:47:29.010376+00:00"
+    },
+    {
+      "slug": "robots-apps.apple.com",
+      "status": 200,
+      "url": "https://apps.apple.com/robots.txt",
+      "final_url": "https://apps.apple.com/robots.txt",
+      "raw_file": "_raw/advertiser-map04-sleep-play/robots-apps.apple.com.body",
+      "sha256": "c21b0e8b8f4defbaa32015dbcbf74eae73f6528b211c524f18e34bc75863a2c5",
+      "utc": "2026-10-24T21:46:40.236282+00:00"
+    },
+    {
+      "slug": "robots-babysparks.com",
+      "status": 200,
+      "url": "https://babysparks.com/robots.txt",
+      "final_url": "https://babysparks.com/robots.txt",
+      "raw_file": "_raw/advertiser-map04-sleep-play/robots-babysparks.com.body",
+      "sha256": "3f2b22077eaa3be6596ad53879dc8b129e2f826a1ffe1c7489e417ef2a2caa2a",
+      "utc": "2026-10-24T21:46:39.094585+00:00"
+    },
+    {
+      "slug": "robots-blog.lovevery.com",
+      "status": 200,
+      "url": "https://blog.lovevery.com/robots.txt",
+      "final_url": "https://blog.lovevery.com/robots.txt",
+      "raw_file": "_raw/advertiser-map04-sleep-play/robots-blog.lovevery.com.body",
+      "sha256": "938816eb05155bdfb7b8b4e5da4974e732ac50b1ee68ff1976789809ef99180d",
+      "utc": "2026-10-24T21:46:39.798928+00:00"
+    },
+    {
+      "slug": "robots-busytoddler.com",
+      "status": 200,
+      "url": "https://busytoddler.com/robots.txt",
+      "final_url": "https://busytoddler.com/robots.txt",
+      "raw_file": "_raw/advertiser-map04-sleep-play/robots-busytoddler.com.body",
+      "sha256": "fec550d7c3ad05b6a4c5f04152f0d6a0b15636472fe8b75c1331593ebf1e2f6c",
+      "utc": "2026-10-24T21:46:40.161498+00:00"
+    },
+    {
+      "slug": "robots-huckleberrycare.com",
+      "status": 200,
+      "url": "https://huckleberrycare.com/robots.txt",
+      "final_url": "https://huckleberrycare.com/robots.txt",
+      "raw_file": "_raw/advertiser-map04-sleep-play/robots-huckleberrycare.com.body",
+      "sha256": "99f2bdf8b96f96dc667e69f4d258b25b741d6c99837a878f883c79536f43f8a6",
+      "utc": "2026-10-24T21:46:36.685341+00:00"
+    },
+    {
+      "slug": "robots-lovevery.com",
+      "status": 200,
+      "url": "https://lovevery.com/robots.txt",
+      "final_url": "https://lovevery.com/robots.txt",
+      "raw_file": "_raw/advertiser-map04-sleep-play/robots-lovevery.com.body",
+      "sha256": "2aa699e44c0b939a5f05044b094d554c5070ef38f35c9b0e8e274986984409bf",
+      "utc": "2026-10-24T21:46:39.368261+00:00"
+    },
+    {
+      "slug": "robots-napper.app",
+      "status": 200,
+      "url": "https://napper.app/robots.txt",
+      "final_url": "https://napper.app/robots.txt",
+      "raw_file": "_raw/advertiser-map04-sleep-play/robots-napper.app.body",
+      "sha256": "baf3d0a4d14954bde48d56337cf8ff486faa06f8a44b72f9cb38bdd3d77b456c",
+      "utc": "2026-10-24T21:46:37.333642+00:00"
+    },
+    {
+      "slug": "robots-shop.busytoddler.com",
+      "status": 200,
+      "url": "https://shop.busytoddler.com/robots.txt",
+      "final_url": "https://shop.busytoddler.com/robots.txt",
+      "raw_file": "_raw/advertiser-map04-sleep-play/robots-shop.busytoddler.com.body",
+      "sha256": "8fa3036c68bfcbd32365f6225d24333264093b7cd38d306e106b4dbdc934fd5b",
+      "utc": "2026-10-24T21:49:01.640138+00:00"
+    },
+    {
+      "slug": "robots-thewonderweeks.com",
+      "status": 200,
+      "url": "https://thewonderweeks.com/robots.txt",
+      "final_url": "https://thewonderweeks.com/robots.txt",
+      "raw_file": "_raw/advertiser-map04-sleep-play/robots-thewonderweeks.com.body",
+      "sha256": "1743b59559d1d28ef8346afac430269350708e46edebc2655a5834241b4efdca",
+      "utc": "2026-10-24T21:46:39.896910+00:00"
+    },
+    {
+      "slug": "robots-www.babysleepanswers.com",
+      "status": 200,
+      "url": "https://www.babysleepanswers.com/robots.txt",
+      "final_url": "https://www.babysleepanswers.com/robots.txt",
+      "raw_file": "_raw/advertiser-map04-sleep-play/robots-www.babysleepanswers.com.body",
+      "sha256": "1763661bb494a09d68fa5f186294c0009bc1edfedb0f3ecbf8e086ecaa021909",
+      "utc": "2026-10-24T21:46:37.714387+00:00"
+    },
+    {
+      "slug": "robots-www.kinedu.com",
+      "status": 200,
+      "url": "https://www.kinedu.com/robots.txt",
+      "final_url": "https://www.kinedu.com/robots.txt",
+      "raw_file": "_raw/advertiser-map04-sleep-play/robots-www.kinedu.com.body",
+      "sha256": "0ed8e88c281167a0ec41f24b6388d40688e804752d30ff491061b61d17bfc1d5",
+      "utc": "2026-10-24T21:46:38.544880+00:00"
+    },
+    {
+      "slug": "robots-www.littleones.co",
+      "status": 200,
+      "url": "https://www.littleones.co/robots.txt",
+      "final_url": "https://www.littleones.co/robots.txt",
+      "raw_file": "_raw/advertiser-map04-sleep-play/robots-www.littleones.co.body",
+      "sha256": "8861febfa9acaba1f3fc2c9639ef9ead47698061b4f1f6867d53c68feca6af1b",
+      "utc": "2026-10-24T21:46:37.079730+00:00"
+    },
+    {
+      "slug": "robots-www.mothercould.com",
+      "status": 200,
+      "url": "https://www.mothercould.com/robots.txt",
+      "final_url": "https://www.mothercould.com/robots.txt",
+      "raw_file": "_raw/advertiser-map04-sleep-play/robots-www.mothercould.com.body",
+      "sha256": "848c80f09348cd855aa18d7517f1bf2ff4c4d2a1e5d895a25ea2f21420f38c6c",
+      "utc": "2026-10-24T21:46:40.044483+00:00"
+    },
+    {
+      "slug": "robots-www.takingcarababies.com",
+      "status": 200,
+      "url": "https://www.takingcarababies.com/robots.txt",
+      "final_url": "https://www.takingcarababies.com/robots.txt",
+      "raw_file": "_raw/advertiser-map04-sleep-play/robots-www.takingcarababies.com.body",
+      "sha256": "c2da27479c2bbfb84d57418a1a67980304c217fa0223ca4db34b009258816bf7",
+      "utc": "2026-10-24T21:46:36.867681+00:00"
+    },
+    {
+      "slug": "taking-cara-babies-collection",
+      "status": 200,
+      "url": "https://www.takingcarababies.com/products/the-5-24-month-collection",
+      "final_url": "https://www.takingcarababies.com/products/the-5-24-month-collection",
+      "raw_file": "_raw/advertiser-map04-sleep-play/taking-cara-babies-collection.body",
+      "sha256": "7f8edbb95bb3a3a0fa2c41f1c1fefa1d4673840d850650cd964f84cfce579c17",
+      "utc": "2026-10-24T21:47:27.575433+00:00"
+    },
+    {
+      "slug": "wonder-weeks-appstore-us",
+      "status": 200,
+      "url": "https://apps.apple.com/us/app/the-wonder-weeks-baby-leaps/id529815782",
+      "final_url": "https://apps.apple.com/us/app/the-wonder-weeks-baby-leaps/id529815782",
+      "raw_file": "_raw/advertiser-map04-sleep-play/wonder-weeks-appstore-us.body",
+      "sha256": "b78c211684ebb63d74adc119383d3ba612eb5a759792f95dd2ae936eb8ed8e41",
+      "utc": "2026-10-24T21:47:35.829832+00:00"
+    },
+    {
+      "slug": "wonder-weeks-home",
+      "status": 403,
+      "url": "https://thewonderweeks.com/",
+      "final_url": "https://thewonderweeks.com/",
+      "raw_file": "_raw/advertiser-map04-sleep-play/wonder-weeks-home.body",
+      "sha256": "4459cc01890a1f3c0f5084be986c4c3abceebe2e0b7f405ff19e89a27c97a899",
+      "utc": "2026-10-24T21:47:34.245848+00:00"
+    }
+  ]
+}

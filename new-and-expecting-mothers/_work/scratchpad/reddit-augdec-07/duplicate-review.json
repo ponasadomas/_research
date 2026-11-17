@@ -1,0 +1,46 @@
+{
+  "machine_flags_touching_assigned": 2,
+  "all_touching_flags_human_reviewed": true,
+  "groups": [
+    {
+      "duplicate_body_group": 87,
+      "post_ids": [
+        "1pyzmh4",
+        "1pyzonc"
+      ],
+      "representative_post_id": "1pyzmh4",
+      "selection": "Earliest archived timestamp in exact-body group; each body actually displayed/read in own assignment or separately logged duplicate-only inspection.",
+      "dates": {
+        "1pyzmh4": "2025-12-29T22:02:25+00:00",
+        "1pyzonc": "2025-12-29T22:04:50+00:00"
+      },
+      "body_equal_after_outer_strip": true,
+      "body_sha256": "f3aedef95f1d4408c2ce87f1bc56629a62a0075d5fda97b81899793d0250fd18",
+      "quoted_ids": [],
+      "independent_corroborating_bodies": 1,
+      "identity_and_affiliation_verified": false
+    },
+    {
+      "duplicate_body_group": 99,
+      "post_ids": [
+        "1nfme1m",
+        "1nfmfl0"
+      ],
+      "representative_post_id": "1nfme1m",
+      "selection": "Earliest archived timestamp in exact-body group; each body actually displayed/read in own assignment or separately logged duplicate-only inspection.",
+      "dates": {
+        "1nfme1m": "2025-09-13T02:49:18+00:00",
+        "1nfmfl0": "2025-09-13T02:51:28+00:00"
+      },
+      "body_equal_after_outer_strip": true,
+      "body_sha256": "9d733ebffb2c0b0779d39f06b55f8dcf2899ced447ba2d3b214943d5ca54a2e5",
+      "quoted_ids": [
+        "rad07-0015"
+      ],
+      "independent_corroborating_bodies": 1,
+      "identity_and_affiliation_verified": false
+    }
+  ],
+  "extra_inspections_do_not_add_assigned_coverage": true,
+  "near_duplicate_limit": "Human full-body reading and these two local exact-body flags were reviewed. No claim of detecting every paraphrase, unseen crosspost or promotional affiliation."
+}

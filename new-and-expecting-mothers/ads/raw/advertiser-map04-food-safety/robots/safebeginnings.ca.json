@@ -1,0 +1,22 @@
+{
+  "url": "https://safebeginnings.ca/robots.txt",
+  "status": 200,
+  "final_url": "https://safebeginnings.ca/robots.txt",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:45:45 GMT",
+    "Server": "Apache",
+    "Strict-Transport-Security": "max-age=63072000;",
+    "X-XSS-Protection": "0",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Content-Security-Policy": "frame-ancestors 'self' ; upgrade-insecure-requests;",
+    "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+    "Cache-Control": "no-store, no-cache, must-revalidate",
+    "Pragma": "no-cache",
+    "Link": "<https://safebeginnings.ca/wp-json/>; rel=\"https://api.w.org/\"",
+    "Set-Cookie": "PHPSESSID=0b112a12f015b2ab28f5b4d120e45d97; path=/; secure; HttpOnly",
+    "Connection": "close",
+    "Transfer-Encoding": "chunked",
+    "Content-Type": "text/plain; charset=utf-8"
+  }
+}

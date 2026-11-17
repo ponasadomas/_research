@@ -1,0 +1,436 @@
+{
+  "ad_id": "1442173817699335",
+  "page_name": "eMeals",
+  "page_id": "138553919372",
+  "snapshot_page_id": "138553919372",
+  "is_active": true,
+  "collation_id": "1297175298802286",
+  "collation_count": null,
+  "native_start_date": 1768032000,
+  "start_utc": "2026-01-10T08:00:00+00:00",
+  "native_end_date": 1792738800,
+  "end_utc": "2026-10-23T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "MESSENGER",
+    "THREADS"
+  ],
+  "media_count": {
+    "videos": 0,
+    "images": 1,
+    "cards": 0
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "try.emeals.com",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "display_format": "IMAGE",
+    "body": {
+      "text": "“We used to subscribe to \n👋👋👋👋👋 🍈🥬🥒🥦🥑 \nbut eMeals is so much cheaper and a lot more selection!\" - Kim M."
+    },
+    "title": "Cancel Your Meal Kit & Try Free Easy Meal Plans",
+    "link_description": "“THIS is so much better than meal kits! You pick the meals that sound good, make ingredient substitutions, and it avoids all that packaging that come with meal kits. I can't imagine running my household without this tool.\"",
+    "link_url": "https://try.emeals.com/tired-of-meal-kits/",
+    "cards": []
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+  "raw_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+  "native_locator": {
+    "connection": 0,
+    "edge": 3,
+    "collated_result": 1
+  },
+  "snapshot_sha256": "3e0b474767e4f608b40ed436e1ec6fd6e30bf4a787d4247eb344efcaa642d96c"
+}
+
+{
+  "ad_id": "861752936381547",
+  "page_name": "eMeals",
+  "page_id": "138553919372",
+  "snapshot_page_id": "138553919372",
+  "is_active": true,
+  "collation_id": "1297175298802286",
+  "collation_count": null,
+  "native_start_date": 1767254400,
+  "start_utc": "2026-01-01T08:00:00+00:00",
+  "native_end_date": 1791097200,
+  "end_utc": "2026-10-04T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "MESSENGER",
+    "THREADS"
+  ],
+  "media_count": {
+    "videos": 0,
+    "images": 1,
+    "cards": 0
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "try.emeals.com",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "display_format": "IMAGE",
+    "body": {
+      "text": "“We used to subscribe to \n👋👋👋👋👋 🍈🥬🥒🥦🥑 \nbut eMeals is so much cheaper and a lot more selection!\" - Kim M."
+    },
+    "title": "Cancel Your Meal Kit & Try Free Easy Meal Plans",
+    "link_description": "“THIS is so much better than meal kits! You pick the meals that sound good, make ingredient substitutions, and it avoids all that packaging that come with meal kits. I can't imagine running my household without this tool.\"",
+    "link_url": "https://try.emeals.com/tired-of-meal-kits/",
+    "cards": []
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+  "raw_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+  "native_locator": {
+    "connection": 0,
+    "edge": 3,
+    "collated_result": 2
+  },
+  "snapshot_sha256": "6842c0b4cfa68313e8c1a757b5c38d0fb6d4d1e1d2178a2112725130faba4002"
+}
+
+{
+  "ad_id": "861944829884495",
+  "page_name": "eMeals",
+  "page_id": "138553919372",
+  "snapshot_page_id": "138553919372",
+  "is_active": true,
+  "collation_id": "803183298798132",
+  "collation_count": 1,
+  "native_start_date": 1767081600,
+  "start_utc": "2025-12-30T08:00:00+00:00",
+  "native_end_date": 1792825200,
+  "end_utc": "2026-10-24T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "MESSENGER",
+    "THREADS"
+  ],
+  "media_count": {
+    "videos": 0,
+    "images": 0,
+    "cards": 2
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "try.emeals.com",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "display_format": "DCO",
+    "body": {
+      "text": "{{product.brand}}"
+    },
+    "title": "{{product.name}}",
+    "link_description": "{{product.description}}",
+    "link_url": "https://try.emeals.com/tired-of-meal-kits/",
+    "cards": [
+      {
+        "body": "“We used to subscribe to \n👋👋👋👋👋 🍈🥬🥒🥦🥑 \nbut eMeals is so much cheaper and a lot more selection!\" - Kim M.",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://try.emeals.com/tired-of-meal-kits/",
+        "title": "Cancel Your Meal Kit & Try Free Easy Meal Plans",
+        "cta_text": "Learn More"
+      },
+      {
+        "body": "“We used to subscribe to \n👋👋👋👋👋 🍈🥬🥒🥦🥑 \nbut eMeals is so much cheaper and a lot more selection!\" - Kim M.",
+        "cta_type": "LEARN_MORE",
+        "link_url": "https://try.emeals.com/tired-of-meal-kits/",
+        "title": "Cancel Your Meal Kit & Try Free Easy Meal Plans",
+        "cta_text": "Learn More"
+      }
+    ]
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+  "raw_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+  "native_locator": {
+    "connection": 0,
+    "edge": 4,
+    "collated_result": 0
+  },
+  "snapshot_sha256": "b52a295a594c37598d975b2c9e60d040a1005e8db1740a3e8718a2e82103f296"
+}
+
+{
+  "ad_id": "946368974738674",
+  "page_name": "eMeals",
+  "page_id": "138553919372",
+  "snapshot_page_id": "138553919372",
+  "is_active": true,
+  "collation_id": "1933363613968664",
+  "collation_count": 5,
+  "native_start_date": 1771574400,
+  "start_utc": "2026-02-20T08:00:00+00:00",
+  "native_end_date": 1792220400,
+  "end_utc": "2026-10-17T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "MESSENGER",
+    "THREADS"
+  ],
+  "media_count": {
+    "videos": 1,
+    "images": 0,
+    "cards": 0
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "emeals.com/quiz",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "display_format": "VIDEO",
+    "body": {
+      "text": "Save your energy for bedtime, not brainstorming dinner."
+    },
+    "title": "Plan. Shop. Cook. Dinner Done!",
+    "link_url": "https://emeals.com/account/quiz/",
+    "cards": []
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+  "raw_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+  "native_locator": {
+    "connection": 0,
+    "edge": 5,
+    "collated_result": 0
+  },
+  "snapshot_sha256": "5e767c872ba06e15e39453c5710e09145921b26b848cefe7fa3ab72f72d4c164"
+}
+
+{
+  "ad_id": "1237280417872402",
+  "page_name": "eMeals",
+  "page_id": "138553919372",
+  "snapshot_page_id": "138553919372",
+  "is_active": true,
+  "collation_id": "1933363613968664",
+  "collation_count": null,
+  "native_start_date": 1771574400,
+  "start_utc": "2026-02-20T08:00:00+00:00",
+  "native_end_date": 1792825200,
+  "end_utc": "2026-10-24T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "MESSENGER",
+    "THREADS"
+  ],
+  "media_count": {
+    "videos": 1,
+    "images": 0,
+    "cards": 0
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "emeals.com/quiz",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "display_format": "VIDEO",
+    "body": {
+      "text": "Save your energy for bedtime, not brainstorming dinner."
+    },
+    "title": "Plan. Shop. Cook. Dinner Done!",
+    "link_url": "https://emeals.com/account/quiz/",
+    "cards": []
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+  "raw_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+  "native_locator": {
+    "connection": 0,
+    "edge": 5,
+    "collated_result": 1
+  },
+  "snapshot_sha256": "4aebc5f918a431277fd7e1246de70ff78e1c8741fbea952ded1633c7ee52c715"
+}
+
+{
+  "ad_id": "2182597029225978",
+  "page_name": "eMeals",
+  "page_id": "138553919372",
+  "snapshot_page_id": "138553919372",
+  "is_active": true,
+  "collation_id": "1933363613968664",
+  "collation_count": null,
+  "native_start_date": 1771574400,
+  "start_utc": "2026-02-20T08:00:00+00:00",
+  "native_end_date": 1792825200,
+  "end_utc": "2026-10-24T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "MESSENGER",
+    "THREADS"
+  ],
+  "media_count": {
+    "videos": 1,
+    "images": 0,
+    "cards": 0
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "emeals.com/quiz",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "display_format": "VIDEO",
+    "body": {
+      "text": "Save your energy for bedtime, not brainstorming dinner."
+    },
+    "title": "Plan. Shop. Cook. Dinner Done!",
+    "link_url": "https://emeals.com/account/quiz/",
+    "cards": []
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+  "raw_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+  "native_locator": {
+    "connection": 0,
+    "edge": 5,
+    "collated_result": 2
+  },
+  "snapshot_sha256": "67499eda4db86e35d1327e0c6116695fd20f410cd5f89fba79e6814221d92e99"
+}
+
+{
+  "ad_id": "1409199477510531",
+  "page_name": "eMeals",
+  "page_id": "138553919372",
+  "snapshot_page_id": "138553919372",
+  "is_active": true,
+  "collation_id": "2173187116820217",
+  "collation_count": 3,
+  "native_start_date": 1768809600,
+  "start_utc": "2026-01-19T08:00:00+00:00",
+  "native_end_date": 1792825200,
+  "end_utc": "2026-10-24T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "AUDIENCE_NETWORK",
+    "MESSENGER",
+    "THREADS"
+  ],
+  "media_count": {
+    "videos": 1,
+    "images": 0,
+    "cards": 0
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "emeals.com",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "display_format": "VIDEO",
+    "body": {
+      "text": "“We used to subscribe to \n👋👋👋👋👋 🍈🥬🥒🥦🥑 \nbut eMeals is so much cheaper and a lot more selection!\" - Kim M."
+    },
+    "title": "Cancel Your Meal Kit & Try Free Easy Meal Plans",
+    "link_description": "emeals.com",
+    "link_url": "https://try.emeals.com/tired-of-meal-kits/",
+    "cards": []
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+  "raw_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+  "native_locator": {
+    "connection": 0,
+    "edge": 6,
+    "collated_result": 0
+  },
+  "snapshot_sha256": "99b7a4d22bd368e71e79392a7a6015986cd5c93826b82505c200b7ebd42fedcd"
+}
+
+{
+  "ad_id": "2637140163309156",
+  "page_name": "eMeals",
+  "page_id": "138553919372",
+  "snapshot_page_id": "138553919372",
+  "is_active": true,
+  "collation_id": "1653155335655988",
+  "collation_count": 2,
+  "native_start_date": 1766995200,
+  "start_utc": "2025-12-29T08:00:00+00:00",
+  "native_end_date": 1792825200,
+  "end_utc": "2026-10-24T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "MESSENGER",
+    "THREADS"
+  ],
+  "media_count": {
+    "videos": 0,
+    "images": 1,
+    "cards": 0
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "try.emeals.com",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "display_format": "IMAGE",
+    "body": {
+      "text": "“We used to subscribe to \n👋👋👋👋👋 🍈🥬🥒🥦🥑 \nbut eMeals is so much cheaper and a lot more selection!\" - Kim M."
+    },
+    "title": "Cancel Your Meal Kit & Try Free Easy Meal Plans",
+    "link_description": "“THIS is so much better than meal kits! You pick the meals that sound good, make ingredient substitutions, and it avoids all that packaging that come with meal kits. I can't imagine running my household without this tool.\"",
+    "link_url": "https://try.emeals.com/tired-of-meal-kits/",
+    "cards": []
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+  "raw_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+  "native_locator": {
+    "connection": 0,
+    "edge": 7,
+    "collated_result": 0
+  },
+  "snapshot_sha256": "b60d5e1e2d9f88011902f95b83a86a39feab231fbca4afbdb6e28b24579e09df"
+}
+
+{
+  "ad_id": "2310257306153529",
+  "page_name": "eMeals",
+  "page_id": "138553919372",
+  "snapshot_page_id": "138553919372",
+  "is_active": true,
+  "collation_id": "1653155335655988",
+  "collation_count": null,
+  "native_start_date": 1765180800,
+  "start_utc": "2025-12-08T08:00:00+00:00",
+  "native_end_date": 1792825200,
+  "end_utc": "2026-10-24T07:00:00+00:00",
+  "publisher_platform": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "MESSENGER",
+    "THREADS"
+  ],
+  "media_count": {
+    "videos": 0,
+    "images": 1,
+    "cards": 0
+  },
+  "media_viewed": false,
+  "text": {
+    "caption": "try.emeals.com",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "display_format": "IMAGE",
+    "body": {
+      "text": "“We used to subscribe to \n👋👋👋👋👋 🍈🥬🥒🥦🥑 \nbut eMeals is so much cheaper and a lot more selection!\" - Kim M."
+    },
+    "title": "Cancel Your Meal Kit & Try Free Easy Meal Plans",
+    "link_description": "“THIS is so much better than meal kits! You pick the meals that sound good, make ingredient substitutions, and it avoids all that packaging that come with meal kits. I can't imagine running my household without this tool.\"",
+    "link_url": "https://try.emeals.com/tired-of-meal-kits/",
+    "cards": []
+  },
+  "raw_file": "_raw/advertiser-census-wave04-2026-10-25/queries/048b-emeals-page.json",
+  "raw_sha256": "5fdaf494aa1c1596fe2e786dc01fa3e5c164bf1b70f2b3a0041ebbc1276ba124",
+  "native_locator": {
+    "connection": 0,
+    "edge": 7,
+    "collated_result": 1
+  },
+  "snapshot_sha256": "a38c3f7b225876df698ac359c2aa981cb0d8b437aa31b6d592236ff91510cec7"
+}
+

@@ -1,0 +1,3 @@
+# Final market audit
+
+Read the final findings and niche-opportunities documents. Independently look up every mkt02 citation and pricing/feature statement against the frozen raw sources. Check no generic grocery/diet/28-day feature is presented as novel; no price/active ad/ratings absence becomes demand or profitability. Check cumulative market totals: 41 successful pages, 34 notes, 43 quotes, 34 blockquote lines. Read global source-map/not-harvested for contradictory stale gap statements. Fix only clear market-source inaccuracies, preserving voice ids/raw and parent header/counts. Save concise outcome in synthesis/final-market-audit.md. No new collection.

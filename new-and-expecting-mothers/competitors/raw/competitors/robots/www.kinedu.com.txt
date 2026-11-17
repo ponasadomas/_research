@@ -1,0 +1,16 @@
+SOURCE: https://www.kinedu.com/robots.txt
+HTTP: 200
+ERROR: 
+
+User-agent: *
+Allow: /
+Disallow: /analytics.html
+Disallow: /paywall-reference.html
+Disallow: /live-classes-ads-en
+Disallow: /live-classes-ads-es
+Disallow: /live-classes-ads-pt
+Disallow: /api/
+Disallow: /app/
+
+Sitemap: https://www.kinedu.com/sitemap.xml
+Sitemap: https://www.kinedu.com/masterclasses/sitemap.xml

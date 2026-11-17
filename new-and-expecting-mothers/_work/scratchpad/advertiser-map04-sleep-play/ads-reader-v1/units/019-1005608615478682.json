@@ -1,0 +1,57 @@
+{
+  "ad_id": "1005608615478682",
+  "advertiser": "Taking Cara Babies",
+  "page_id": "362568527156955",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/019-taking-cara-babies-page.json",
+  "capture_sha256": "90087c5f484111bbc2fba4fd4f642e2dff76af3b3a8273ceb5b83244053f8008",
+  "native_pointer": "connections[0].edges[27].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=362568527156955",
+  "captured_at": "2026-10-24T21:50:13.463Z",
+  "is_active": true,
+  "start_utc": "2026-06-02T07:00:00+00:00",
+  "display_format": "DCO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1005608615478682",
+  "snapshot_sha256": "b1f507b908490d2f2d628176d01063a1ae002978eb83c122a210025f7683a063",
+  "text_fields": {
+    "body": {
+      "text": "{{product.brand}}"
+    },
+    "title": "{{product.name}}",
+    "caption": "takingcarababies.com",
+    "link_description": "{{product.description}}",
+    "link_url": "https://www.takingcarababies.com/products/newborn-sleep-bundle",
+    "cta_text": "Shop now",
+    "cta_type": "SHOP_NOW",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": [
+      {
+        "body": "Newborn sleep can feel confusing, but you don’t have to figure it out alone. The Newborn Sleep Bundle gives parents simple, step-by-step guidance for understanding newborn sleep, soothing, wake windows, naps, nights, and those early months at home.",
+        "title": "Newborn Sleep Help",
+        "caption": "",
+        "link_description": "Learn how to soothe, support, and understand your baby.",
+        "link_url": "https://www.takingcarababies.com/products/newborn-sleep-bundle",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      },
+      {
+        "body": "Newborn sleep can feel confusing, but you don’t have to figure it out alone. The Newborn Sleep Bundle gives parents simple, step-by-step guidance for understanding newborn sleep, soothing, wake windows, naps, nights, and those early months at home.",
+        "title": "Sleep Support From Day One",
+        "caption": "",
+        "link_description": "Learn how to soothe, support, and understand your baby.",
+        "link_url": "https://www.takingcarababies.com/products/newborn-sleep-bundle",
+        "cta_text": "Shop Now",
+        "cta_type": "SHOP_NOW"
+      }
+    ]
+  },
+  "text_fields_sha256": "18dac169fdeb300674a64e091cb8c0b6106ec7b82e98c1fbb6d6225214ff0226",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 0,
+  "cards_count": 2
+}

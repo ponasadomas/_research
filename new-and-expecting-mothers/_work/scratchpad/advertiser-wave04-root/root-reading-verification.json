@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-25",
+  "native_ads_read": 60,
+  "unread_retained": 0,
+  "complete_distinct_text_fields_read": 119,
+  "promotion_type": {
+    "physical_babyproofing_goods": 30,
+    "physical_retail_goods": 27,
+    "free_personalized_consultation_retail_funnel": 2,
+    "free_gate_finder_retail_funnel": 1
+  },
+  "pet_gate_ads": 6,
+  "non_English_body_ads": 1,
+  "media_viewed": 0,
+  "failed": 0,
+  "errors": [],
+  "capture_issues": [
+    {
+      "capture": "017-baby-sleep-answers-page-ui",
+      "issue": "Stale SPA embedded scripts; replaced018; excluded."
+    },
+    {
+      "capture": "047-myregistry-page",
+      "issue": "PreviousPage after UI selection race; replaced047c; excluded."
+    },
+    {
+      "capture": "008-nesting-notes-page",
+      "issue": "Public profile namespace unresolved; verified055 governs."
+    },
+    {
+      "capture": "013-master-maternity-page",
+      "issue": "Public profile namespace unresolved; verified022 governs."
+    }
+  ],
+  "screenshot_attempt": "Read-only Safetots screenshot request did not complete; orchestration cell terminated after allfive native captures were saved. No screenshot/visual-read credit."
+}

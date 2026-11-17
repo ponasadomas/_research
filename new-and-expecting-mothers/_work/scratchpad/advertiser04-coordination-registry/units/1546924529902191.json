@@ -1,0 +1,49 @@
+{
+  "ad_id": "1546924529902191",
+  "page_id": "620732004665539",
+  "page_name": "Skylight",
+  "snapshot_page_id": "873596569165994",
+  "snapshot_page_name": "Amie Gribble",
+  "snapshot_identity_differs": true,
+  "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/043-skylight-page.json",
+  "source_file_sha256": "4ec970a7be639386523fc6ef0d82f4caec8f95f6cbf924da5cae214dffa7ddc7",
+  "captured_at": "2026-10-24T21:57:52.881Z",
+  "native_is_active": true,
+  "start_timestamp": 1788159600,
+  "start_utc": "2026-08-31T07:00:00+00:00",
+  "displayed_start_date": "Aug 31, 2026",
+  "collation_id": "939240609217587",
+  "collation_count": 1,
+  "display_format": "VIDEO",
+  "primary_destination": "https://uk.myskylight.com/products/skylight-calendar-max/?utm_source=face&utm_medium=paidsocial&utm_campaign={{campaign.name}}&utm_content={{ad.name}}",
+  "card_destinations": [],
+  "native_body_sha256": "04bf5c42e37d2114402c29fcd7759905b498edee1f9786d8f89d392fe62426fb",
+  "native_text_bundle_sha256": "a34c65a6c379c55374a522d234e95e6c529e5076485f2489548f94e9d82da9dd",
+  "native_ad_sha256": "9db972a0247519bf4dae9d32370e9da281099ab7b41193fc5a0e5fc611ad301b",
+  "text_bundle": {
+    "body": "AD | Back to school 🍎📓✏️\n\nNew school, new routines, and a whole lot of change for our girls 🥹🤍 With them starting a new school, we’ve been looking for ways to make our days feel a little more organised — and we’ve started using the Skylight Calendar Max to help us do just that.\n\nHaving everyone’s school days, activities and family routines all in one place has already been such a help, especially as we get ready for this new chapter.\n\nAMIEB2SMAX for £90 off the Skylight Calendar Max\n\n1. Only valid on the Skylight Calendar Max\n2. Only applies to the UK website \n3. Valid until 24 September 202\n\n@myskylight \n\n#SkylightCalendar #SkylightCalendarMax #BackToSchool #FamilyRoutine #MumLife",
+    "top": {
+      "caption": "myskylight.com",
+      "cta_text": "Shop now",
+      "cta_type": "SHOP_NOW",
+      "title": null,
+      "link_description": null,
+      "link_url": "https://uk.myskylight.com/products/skylight-calendar-max/?utm_source=face&utm_medium=paidsocial&utm_campaign={{campaign.name}}&utm_content={{ad.name}}",
+      "display_format": "VIDEO",
+      "byline": null,
+      "disclaimer_label": null,
+      "additional_info": null,
+      "extra_links": [],
+      "extra_texts": [],
+      "branded_content": {
+        "page_id": "620732004665539",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/ourskylight/",
+        "page_name": "Skylight"
+      },
+      "root_reshared_post": null
+    },
+    "cards": []
+  },
+  "excluded_card_media_fields": []
+}

@@ -1,0 +1,181 @@
+{
+  "ad_id": "1135486355475553",
+  "page_id": "65021071071",
+  "page_name": "myregistry.com",
+  "snapshot_page_id": "65021071071",
+  "snapshot_page_name": "myregistry.com",
+  "snapshot_identity_differs": false,
+  "source_file": "_raw/advertiser-census-wave04-2026-10-25/queries/047c-myregistry-page.json",
+  "source_file_sha256": "65e851b7c63a00cd76df1d6d8bfe463a7f1209a6591a9ce33a17d6c565a0b91c",
+  "captured_at": "2026-10-24T22:03:10.834Z",
+  "native_is_active": true,
+  "start_timestamp": 1790060400,
+  "start_utc": "2026-09-22T07:00:00+00:00",
+  "displayed_start_date": "Sep 22, 2026",
+  "collation_id": "970365232209710",
+  "collation_count": 2,
+  "display_format": "IMAGE",
+  "primary_destination": "http://fb.me/",
+  "card_destinations": [],
+  "native_body_sha256": "efb732a7efd11900fb9abd21dfbdf38a0d58459f074ffe89ddcaf71d4f09f5e4",
+  "native_text_bundle_sha256": "0d195be18fed2c3e2fac0f9f043808ded1206357baa5267b23144bb632722c7b",
+  "native_ad_sha256": "a1b9903814cd939e29968edce2c01bc7b51f00f26712773983316364143d162f",
+  "text_bundle": {
+    "body": "¿Quieres ganar $10,000 para tu boda? ¡Responde una pregunta para participar en el sorteo de MyRegistry.com y hacer que tu gran día sea aún mejor!",
+    "top": {
+      "caption": "fb.me",
+      "cta_text": "Sign up",
+      "cta_type": "SIGN_UP",
+      "title": "Gana tu premio de registro de bodas favorito!",
+      "link_description": "¡Obtén $10,000 para tu boda!",
+      "link_url": "http://fb.me/",
+      "display_format": "IMAGE",
+      "byline": null,
+      "disclaimer_label": null,
+      "additional_info": null,
+      "extra_links": [
+        "https://www.myregistry.com/9/tracklink-R4cM_MxQ",
+        "https://guides.myregistry.com/blog/myregistry-10000-giveaway-terms-and-conditions-2025/",
+        "https://www.myregistry.com/9/tracklink-R4cM_MxQ"
+      ],
+      "extra_texts": [
+        {
+          "text": "¡Felicidades!"
+        },
+        {
+          "text": "¡Gana $10,000 para tu boda respondiendo estas preguntas!"
+        },
+        {
+          "text": "Ingrese sus datos a continuación para participar:"
+        },
+        {
+          "text": "¿Qué día del mes te casas? Selecciona una opción"
+        },
+        {
+          "text": "1"
+        },
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        },
+        {
+          "text": "6"
+        },
+        {
+          "text": "7"
+        },
+        {
+          "text": "8"
+        },
+        {
+          "text": "9"
+        },
+        {
+          "text": "10"
+        },
+        {
+          "text": "11"
+        },
+        {
+          "text": "12"
+        },
+        {
+          "text": "13"
+        },
+        {
+          "text": "14"
+        },
+        {
+          "text": "15"
+        },
+        {
+          "text": "16"
+        },
+        {
+          "text": "17"
+        },
+        {
+          "text": "18"
+        },
+        {
+          "text": "19"
+        },
+        {
+          "text": "20"
+        },
+        {
+          "text": "21"
+        },
+        {
+          "text": "22"
+        },
+        {
+          "text": "23"
+        },
+        {
+          "text": "24"
+        },
+        {
+          "text": "25"
+        },
+        {
+          "text": "26"
+        },
+        {
+          "text": "27"
+        },
+        {
+          "text": "28"
+        },
+        {
+          "text": "29"
+        },
+        {
+          "text": "30"
+        },
+        {
+          "text": "31"
+        },
+        {
+          "text": "Email"
+        },
+        {
+          "text": "First name"
+        },
+        {
+          "text": "Last name"
+        },
+        {
+          "text": "City"
+        },
+        {
+          "text": "State"
+        },
+        {
+          "text": "Terms and Conditions for myregistry.com"
+        },
+        {
+          "text": "Myregistry.com's Terms & Conditions."
+        },
+        {
+          "text": "¿Quiere aumentar sus posibilidades de ganar?"
+        },
+        {
+          "text": "¡Cree su lista de bodas con nosotros para aumentar significativamente sus posibilidades!"
+        }
+      ],
+      "branded_content": null,
+      "root_reshared_post": null
+    },
+    "cards": []
+  },
+  "excluded_card_media_fields": []
+}

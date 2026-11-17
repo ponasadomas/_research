@@ -1,0 +1,14 @@
+{
+  "build_time_triage_sha256": "9dd62f0c4e674ce6026d1505811a80d51a6b2fa2fbfee69300cd7b7cad32c2d0",
+  "current_triage_sha256": "c261b2cf667501d38963efe3f9b615e0969f1277213282ff42c7f33032e3b024",
+  "label_and_id_sets_unchanged": true,
+  "corrections": [
+    {
+      "post_id": "1lw669f",
+      "field": "reason",
+      "before": "Five-hour infant lap-flight products after bassinet unavailable",
+      "after": "Infant lap-flight comfort products and ambiguous cot-seat reservation context",
+      "basis": "Body says cot seat reserved but does not identify by whom; no unavailability inferred. Label and kept/read ID sets unchanged."
+    }
+  ]
+}

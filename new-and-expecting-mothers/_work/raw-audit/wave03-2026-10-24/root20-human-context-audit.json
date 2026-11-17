@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-24",
+  "sampled_ids": [
+    "mkt05-0004",
+    "rvw03-0016",
+    "rvw03-0009",
+    "mkt05-0006",
+    "rvw03-0015",
+    "rvw03-0013",
+    "rvw03-0006",
+    "rba01-0002",
+    "rvw03-0002",
+    "rvw03-0020",
+    "rvw03-0022",
+    "rvw03-0010",
+    "rba01-0003",
+    "rvw03-0005",
+    "rvw03-0012",
+    "mkt05-0003",
+    "rvw03-0021",
+    "rvw03-0011",
+    "rvw03-0003",
+    "rba01-0001"
+  ],
+  "human_context_reviews": 20,
+  "complete_originals_previously_read": true,
+  "audit_display": "root20-review-view-01.txt and02.txt contain full review/post units; seller excerpts checked against already fully read original pages",
+  "checks": [
+    "quoted wording and native unit",
+    "role/stage conservative without inferred demographics",
+    "paid versus got/used/free/trial distinction",
+    "app/service bundle versus report-only distinction",
+    "hypothetical or advertised price versus actual charged amount",
+    "claimed outcomes/allegations not treated as verified causation",
+    "research-only claims excluded from bank"
+  ],
+  "failed": 0,
+  "corrections_needed": [],
+  "source_native_verification": "All22reviewexcerpts matched original serialized Apple review body, nativeid,date,rating and captured URL; root26Redditpost bodies/title/hash/permalinks checked; seller quotes verified against complete permitted captures."
+}

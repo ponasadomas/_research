@@ -1,0 +1,24 @@
+{
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 20:44:39 GMT",
+    "Content-Type": "text/plain; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "CF-Ray": "a4fbd21d2da4e4cc-RIX",
+    "CF-Cache-Status": "HIT",
+    "x-seen-by": "bQAXdg/f3pWGCb3VI6q72A==,",
+    "Age": "245190",
+    "Cache-Control": "public,max-age=0,must-revalidate",
+    "ETag": "W/\"1f0-72jaTisNd1fLPC0P7OpfyQTJj2Q\"",
+    "Server": "cloudflare",
+    "Strict-Transport-Security": "max-age=31556952",
+    "server-timing": "cache;desc=hit, varnish;desc=hit_hit, dc;desc=cloudflare",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "RIX",
+    "x-wix-request-id": "1792874679.868407369341445079",
+    "set-cookie": "__cf_bm=HJFeWNuL5o3nWkqAOV2YceFB41dN2wtzr41BFebzo5c-1792874679.8627257-1.0.1.1-MrgCqc8rY.H42HN5DbBFp2.GbG3OZu4ul.OavPZAHzNhEwUEbix60jvOQk.TrLVFfA09nX_3Y6e9ia0CQuEmLvabxr6TCVfqW6KMeSRb0uFq2AaCZze.D.ZAju9740sm; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.nestingnotesco.com; Expires=Sat, 24 Oct 2026 21:14:39 GMT",
+    "Content-Encoding": "gzip",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "history": []
+}

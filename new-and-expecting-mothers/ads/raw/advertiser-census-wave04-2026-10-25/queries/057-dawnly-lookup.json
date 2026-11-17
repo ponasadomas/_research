@@ -1,0 +1,48 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "Dawnly",
+  "captured_at": "2026-10-24T22:07:29.840Z",
+  "suggestions": "e/\"\n  uid=109_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=109_1 generic description=\"Search for exact phrase Dawnly \"Dawnly\" Search this exact phrase\"\n      uid=109_2 button \"Search for exact phrase Dawnly\"\n    uid=109_3 generic description=\"Dawnly 1 follower · Electronics\"\n    uid=109_4 generic description=\"Dawnly 0 follow this · E-commerce website\"\n    uid=109_5 generic description=\"Dawnly @dawnlyapp· 1 follower · Health & wellness website\"\n    uid=109_6 generic description=\"DawnLynn 6.1K follow this · Digital creator\"\n    uid=109_7 generic description=\"Haley Dawnlyn Bates @haley.d.bates· 6.3K follow this · Digital creator\"\n    uid=109_8 generic description=\"Dawn-lyn Lamar @dawnlolo.marape· 6K follow this · Digital creator\"\n    uid=109_9 generic description=\"Dawnlyn Holman 915 follow this · Author @dawnlynholman· 0 followers\"\n    uid=109_10 generic description=\"Dawn Dyer Realtor- Iron Valley Real Estate @dawndyer.IVRE· 457 follow this · Real Estate Agent @dawnlynndyer.realestate· 5 followers\"\n    uid=109_11 generic description=\"Dawn Lynch Chicago Living @DawnLynchChicagoLiving· 277 follow this · Real Estate Agent @dawnlynchchicagoliving· 1.1K followers\"\n    uid=109_12 generic description=\"Handmade by Dawnlyn @Handmadebydawnlyn· 258 follow this · Arts & Crafts Store\"\n",
+  "candidates": [
+    {
+      "uid": "109_3",
+      "description": "Dawnly 1 follower · Electronics"
+    },
+    {
+      "uid": "109_4",
+      "description": "Dawnly 0 follow this · E-commerce website"
+    },
+    {
+      "uid": "109_5",
+      "description": "Dawnly @dawnlyapp· 1 follower · Health & wellness website"
+    },
+    {
+      "uid": "109_6",
+      "description": "DawnLynn 6.1K follow this · Digital creator"
+    },
+    {
+      "uid": "109_7",
+      "description": "Haley Dawnlyn Bates @haley.d.bates· 6.3K follow this · Digital creator"
+    },
+    {
+      "uid": "109_8",
+      "description": "Dawn-lyn Lamar @dawnlolo.marape· 6K follow this · Digital creator"
+    },
+    {
+      "uid": "109_9",
+      "description": "Dawnlyn Holman 915 follow this · Author @dawnlynholman· 0 followers"
+    },
+    {
+      "uid": "109_10",
+      "description": "Dawn Dyer Realtor- Iron Valley Real Estate @dawndyer.IVRE· 457 follow this · Real Estate Agent @dawnlynndyer.realestate· 5 followers"
+    },
+    {
+      "uid": "109_11",
+      "description": "Dawn Lynch Chicago Living @DawnLynchChicagoLiving· 277 follow this · Real Estate Agent @dawnlynchchicagoliving· 1.1K followers"
+    },
+    {
+      "uid": "109_12",
+      "description": "Handmade by Dawnlyn @Handmadebydawnlyn· 258 follow this · Arts & Crafts Store"
+    }
+  ]
+}

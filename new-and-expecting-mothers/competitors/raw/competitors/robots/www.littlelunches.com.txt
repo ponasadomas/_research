@@ -1,0 +1,10 @@
+SOURCE: https://www.littlelunches.com/robots.txt
+HTTP: 200
+ERROR: 
+
+User-agent: *
+Disallow:
+Sitemap: https://www.littlelunches.com/sitemap-index
+
+# AI guidance file for LLMs
+# https://www.littlelunches.com/llms.txt

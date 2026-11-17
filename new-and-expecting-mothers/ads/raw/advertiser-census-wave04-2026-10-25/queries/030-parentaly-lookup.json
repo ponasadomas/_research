@@ -1,0 +1,16 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "Parentaly",
+  "captured_at": "2026-10-24T21:52:59.412Z",
+  "suggestions": "ge/\"\n  uid=29_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=29_1 generic description=\"Search for exact phrase Parentaly \"Parentaly\" Search this exact phrase\"\n      uid=29_2 button \"Search for exact phrase Parentaly\"\n    uid=29_3 generic description=\"cycy_parentalys @cycy_parentalys· 1.4K followers\"\n",
+  "candidates": [
+    {
+      "uid": "29_1",
+      "description": "Search for exact phrase Parentaly "
+    },
+    {
+      "uid": "29_3",
+      "description": "cycy_parentalys @cycy_parentalys· 1.4K followers"
+    }
+  ]
+}

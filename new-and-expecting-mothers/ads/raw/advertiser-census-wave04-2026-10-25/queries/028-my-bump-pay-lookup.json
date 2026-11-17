@@ -1,0 +1,44 @@
+{
+  "kind": "advertiser_UI_lookup",
+  "query": "My Bump Pay",
+  "captured_at": "2026-10-24T21:52:40.949Z",
+  "suggestions": "ge/\"\n  uid=25_0 listbox \"4 suggested searches\" orientation=\"vertical\"\n    uid=25_1 generic\n      uid=25_2 button \"Search for exact phrase My Bump Pay\"\n    uid=25_3 generic description=\"My Bump Pay @Mybumppay· 162 follow this · Product/service @tobi.asare · 47.5K followers\"\n    uid=25_4 generic description=\"Payasito Bumpy Boo escuadron payasos puebla 53 follow this · Personal blog\"\n    uid=25_5 generic description=\"Pay Bump 9 follow this · Internet Company\"\n    uid=25_6 generic description=\"PayBump @paybump· 13 follow this · Education\"\n    uid=25_7 generic description=\"Bumpy payment 0 follow this · Sports\"\n    uid=25_8 generic description=\"Bumpy payment 0 follow this · Personal blog\"\n    uid=25_9 generic description=\"Bumpy payment 0 follow this · Personal blog\"\n    uid=25_10 generic description=\"Bubble Bump Pays Basque @Bubblebumpcotebasque· 2.3K follow this · Sports & Recreation Venue\"\n    uid=25_11 generic description=\"Payaso Bumpy Bailarin Profile\"\n",
+  "candidates": [
+    {
+      "uid": "25_3",
+      "description": "My Bump Pay @Mybumppay· 162 follow this · Product/service @tobi.asare · 47.5K followers"
+    },
+    {
+      "uid": "25_4",
+      "description": "Payasito Bumpy Boo escuadron payasos puebla 53 follow this · Personal blog"
+    },
+    {
+      "uid": "25_5",
+      "description": "Pay Bump 9 follow this · Internet Company"
+    },
+    {
+      "uid": "25_6",
+      "description": "PayBump @paybump· 13 follow this · Education"
+    },
+    {
+      "uid": "25_7",
+      "description": "Bumpy payment 0 follow this · Sports"
+    },
+    {
+      "uid": "25_8",
+      "description": "Bumpy payment 0 follow this · Personal blog"
+    },
+    {
+      "uid": "25_9",
+      "description": "Bumpy payment 0 follow this · Personal blog"
+    },
+    {
+      "uid": "25_10",
+      "description": "Bubble Bump Pays Basque @Bubblebumpcotebasque· 2.3K follow this · Sports & Recreation Venue"
+    },
+    {
+      "uid": "25_11",
+      "description": "Payaso Bumpy Bailarin Profile"
+    }
+  ]
+}

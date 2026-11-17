@@ -1,0 +1,66 @@
+{
+  "ad_id": "1102649142288263",
+  "advertiser": "Taking Cara Babies",
+  "page_id": "362568527156955",
+  "capture_file": "_raw/advertiser-census-wave04-2026-10-25/queries/019-taking-cara-babies-page.json",
+  "capture_sha256": "90087c5f484111bbc2fba4fd4f642e2dff76af3b3a8273ceb5b83244053f8008",
+  "native_pointer": "connections[0].edges[9].node.collated_results[0]",
+  "capture_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=362568527156955",
+  "captured_at": "2026-10-24T21:50:13.463Z",
+  "is_active": true,
+  "start_utc": "2026-08-31T07:00:00+00:00",
+  "display_format": "DCO",
+  "ad_library_url": "https://www.facebook.com/ads/library/?id=1102649142288263",
+  "snapshot_sha256": "0f969699d057e3cc72fc40ffa9f241d71028e405c12227fc6e5a496435eb53ab",
+  "text_fields": {
+    "body": {
+      "text": "Meet Jacky, the swaddle transition jacket.\nIt’s designed for the stage when your baby is ready to move out of the swaddle, but still needs calming support for the startle reflex."
+    },
+    "title": "Lose the swaddle, not the sleep",
+    "caption": "takingcarababies.com",
+    "link_description": "Safe for babies who are rolling or starting to roll, Jacky is a non-weighted swaddle transition jacket designed to support smoother sleep through the transition.",
+    "link_url": "https://www.takingcarababies.com/products/jacky",
+    "cta_text": "Learn more",
+    "cta_type": "LEARN_MORE",
+    "byline": null,
+    "disclaimer_label": null,
+    "event": null,
+    "extra_texts": [],
+    "extra_links": [],
+    "additional_info": null,
+    "cards": [
+      {
+        "body": "Meet Jacky, the swaddle transition jacket.\nIt’s designed for the stage when your baby is ready to move out of the swaddle, but still needs calming support for the startle reflex.",
+        "title": "Lose the swaddle, not the sleep",
+        "caption": "",
+        "link_description": "Safe for babies who are rolling or starting to roll, Jacky is a non-weighted swaddle transition jacket designed to support smoother sleep through the transition.",
+        "link_url": "https://www.takingcarababies.com/products/jacky",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE"
+      },
+      {
+        "body": "Meet Jacky, the swaddle transition jacket.\nIt’s designed for the stage when your baby is ready to move out of the swaddle, but still needs calming support for the startle reflex.",
+        "title": "Lose the swaddle, not the sleep",
+        "caption": "",
+        "link_description": "Safe for babies who are rolling or starting to roll, Jacky is a non-weighted swaddle transition jacket designed to support smoother sleep through the transition.",
+        "link_url": "https://www.takingcarababies.com/products/jacky",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE"
+      },
+      {
+        "body": "Meet Jacky, the swaddle transition jacket.\nIt’s designed for the stage when your baby is ready to move out of the swaddle, but still needs calming support for the startle reflex.",
+        "title": "Lose the swaddle, not the sleep",
+        "caption": "",
+        "link_description": "Safe for babies who are rolling or starting to roll, Jacky is a non-weighted swaddle transition jacket designed to support smoother sleep through the transition.",
+        "link_url": "https://www.takingcarababies.com/products/jacky",
+        "cta_text": "Learn More",
+        "cta_type": "LEARN_MORE"
+      }
+    ]
+  },
+  "text_fields_sha256": "5d0afab1cae8520a20c86961f49ef53ef5801b7e94e8ad85cbbadff42742808e",
+  "media_seen": false,
+  "image_count": 0,
+  "video_count": 0,
+  "cards_count": 3
+}

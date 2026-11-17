@@ -1,0 +1,27 @@
+{
+  "requested_url": "https://www.goodinside.com/robots.txt",
+  "final_url": "https://www.goodinside.com/robots.txt",
+  "status": 200,
+  "date_utc": "2026-10-24T22:10:09.130597+00:00",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Access-Control-Allow-Origin": "*",
+    "Age": "75154",
+    "Cache-Control": "public, max-age=0, must-revalidate",
+    "Content-Disposition": "inline; filename=\"robots.txt\"",
+    "Content-Length": "561",
+    "Content-Type": "text/plain; charset=utf-8",
+    "Date": "Sat, 24 Oct 2026 22:10:09 GMT",
+    "Etag": "\"bf03da61fb0c122b02ffe5eb812e4656\"",
+    "Last-Modified": "Sat, 24 Oct 2026 01:17:34 GMT",
+    "Server": "Vercel",
+    "Strict-Transport-Security": "max-age=63072000",
+    "X-Matched-Path": "/robots.txt",
+    "X-Vercel-Cache": "HIT",
+    "X-Vercel-Id": "arn1::2nftq-1792879809100-b3439723df5f"
+  },
+  "redirects": [],
+  "raw_file": "_raw/advertiser-map04-direct-discovery/robots-www.goodinside.com.body",
+  "sha256": "545aae0f14c11583b5cfe1a9206af7c53f27ee979fd716fcb3987c0667988a77",
+  "bytes": 561
+}

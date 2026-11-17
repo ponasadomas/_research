@@ -1,0 +1,27 @@
+{
+  "requested_url": "https://shop.busytoddler.com/robots.txt",
+  "final_url": "https://shop.busytoddler.com/robots.txt",
+  "status": 200,
+  "date_utc": "2026-10-24T21:49:01.640138+00:00",
+  "headers": {
+    "Date": "Sat, 24 Oct 2026 21:49:01 GMT",
+    "Content-Type": "text/plain; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "X-Hosted-By": "BigScoots",
+    "Server": "cloudflare",
+    "X-Xss-Protection": "1; mode=block",
+    "X-Content-Type-Options": "nosniff",
+    "Vary": "Accept, Accept-Encoding",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Cf-Cache-Status": "BYPASS",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=twh5TbXC%2FPACDffebIXJnsnR4rVgHoZhSC017H%2B%2Fqo%2FZIAzuc5xg40AsKHXANnw1usmo1fVrMfxRDVm07za3gr%2FPxEAYDdPMR7FVrtYmwc%2Bn6%2FZkq0Mr6ckc3z484ZX%2F3%2FtYj35xUQ%3D%3D\"}]}",
+    "Content-Encoding": "zstd",
+    "CF-RAY": "a4fc3064481ae4dd-RIX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "redirects": [],
+  "raw_file": "_raw/advertiser-map04-sleep-play/robots-shop.busytoddler.com.body",
+  "sha256": "8fa3036c68bfcbd32365f6225d24333264093b7cd38d306e106b4dbdc934fd5b",
+  "bytes": 1248
+}

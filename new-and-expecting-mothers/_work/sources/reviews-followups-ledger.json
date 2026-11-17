@@ -1,0 +1,293 @@
+[
+  {
+    "source": "googleplay-babysparks",
+    "url": "https://play.google.com/store/apps/details?id=com.babysparks.babysparks&hl=en_US&gl=US",
+    "http_status": 200,
+    "unit": "exposed complete review body",
+    "downloaded": 3,
+    "matched": 3,
+    "triaged": 3,
+    "kept": 3,
+    "read": 3,
+    "quotes": 3,
+    "raw_file": "_raw/reviews-followups/googleplay-babysparks.txt",
+    "scope": "All three original review bodies exposed in public US-English app detail HTML; no prohibited continuation backend accessed."
+  },
+  {
+    "source": "googleplay-cdc",
+    "url": "https://play.google.com/store/apps/details?id=gov.cdc.ncbddd.actearly.milestones&hl=en_US&gl=US",
+    "http_status": 200,
+    "unit": "exposed complete review body",
+    "downloaded": 3,
+    "matched": 3,
+    "triaged": 3,
+    "kept": 3,
+    "read": 3,
+    "quotes": 3,
+    "raw_file": "_raw/reviews-followups/googleplay-cdc.txt",
+    "scope": "All three original review bodies exposed in public US-English app detail HTML; no prohibited continuation backend accessed."
+  },
+  {
+    "source": "googleplay-huckleberry",
+    "url": "https://play.google.com/store/apps/details?id=com.huckleberry_labs.app&hl=en_US&gl=US",
+    "http_status": 200,
+    "unit": "exposed complete review body",
+    "downloaded": 3,
+    "matched": 3,
+    "triaged": 3,
+    "kept": 3,
+    "read": 3,
+    "quotes": 3,
+    "raw_file": "_raw/reviews-followups/googleplay-huckleberry.txt",
+    "scope": "All three original review bodies exposed in public US-English app detail HTML; no prohibited continuation backend accessed."
+  },
+  {
+    "source": "googleplay-kinedu",
+    "url": "https://play.google.com/store/apps/details?id=com.kinedu.appkinedu&hl=en_US&gl=US",
+    "http_status": 200,
+    "unit": "exposed complete review body",
+    "downloaded": 3,
+    "matched": 3,
+    "triaged": 3,
+    "kept": 3,
+    "read": 3,
+    "quotes": 3,
+    "raw_file": "_raw/reviews-followups/googleplay-kinedu.txt",
+    "scope": "All three original review bodies exposed in public US-English app detail HTML; no prohibited continuation backend accessed."
+  },
+  {
+    "source": "googleplay-napper",
+    "url": "https://play.google.com/store/apps/details?id=com.napper&hl=en_US&gl=US",
+    "http_status": 200,
+    "unit": "exposed complete review body",
+    "downloaded": 3,
+    "matched": 3,
+    "triaged": 3,
+    "kept": 3,
+    "read": 3,
+    "quotes": 3,
+    "raw_file": "_raw/reviews-followups/googleplay-napper.txt",
+    "scope": "All three original review bodies exposed in public US-English app detail HTML; no prohibited continuation backend accessed."
+  },
+  {
+    "source": "googleplay-pathways",
+    "url": "https://play.google.com/store/apps/details?id=com.pathwaysapp&hl=en_US&gl=US",
+    "http_status": 200,
+    "unit": "exposed complete review body",
+    "downloaded": 3,
+    "matched": 3,
+    "triaged": 3,
+    "kept": 3,
+    "read": 3,
+    "quotes": 3,
+    "raw_file": "_raw/reviews-followups/googleplay-pathways.txt",
+    "scope": "All three original review bodies exposed in public US-English app detail HTML; no prohibited continuation backend accessed."
+  },
+  {
+    "source": "googleplay-solidstarts",
+    "url": "https://play.google.com/store/apps/details?id=com.digitas.solidstarts&hl=en_US&gl=US",
+    "http_status": 200,
+    "unit": "exposed complete review body",
+    "downloaded": 3,
+    "matched": 3,
+    "triaged": 3,
+    "kept": 3,
+    "read": 3,
+    "quotes": 3,
+    "raw_file": "_raw/reviews-followups/googleplay-solidstarts.txt",
+    "scope": "All three original review bodies exposed in public US-English app detail HTML; no prohibited continuation backend accessed."
+  },
+  {
+    "source": "barnes-baby-led-feeding",
+    "url": "https://www.barnesandnoble.com/w/baby-led-feeding-jenna-helwig/1127290557",
+    "http_status": 200,
+    "unit": "public retailer widget review",
+    "downloaded": 0,
+    "matched": 0,
+    "triaged": 0,
+    "kept": 0,
+    "read": 0,
+    "quotes": 0,
+    "raw_file": "_raw/reviews-followups/barnes-baby-led-feeding-yotpo-reviews.json",
+    "pagination": {
+      "page": 1,
+      "perPage": 8,
+      "total": 0
+    },
+    "scope": "All currently reported widget reviews: total fits in one page of eight. No historical archive claim."
+  },
+  {
+    "source": "barnes-blw",
+    "url": "https://www.barnesandnoble.com/w/baby-led-weaning-completely-updated-and-expanded-tenth-anniversary-edition-tracey-murkett/1144541269",
+    "http_status": 200,
+    "unit": "public retailer widget review",
+    "downloaded": 0,
+    "matched": 0,
+    "triaged": 0,
+    "kept": 0,
+    "read": 0,
+    "quotes": 0,
+    "raw_file": "_raw/reviews-followups/barnes-blw-yotpo-reviews.json",
+    "pagination": {
+      "page": 1,
+      "perPage": 8,
+      "total": 0
+    },
+    "scope": "All currently reported widget reviews: total fits in one page of eight. No historical archive claim."
+  },
+  {
+    "source": "barnes-cribsheet",
+    "url": "https://www.barnesandnoble.com/w/cribsheet-emily-oster/1129201405?ean=9780525559276",
+    "http_status": 200,
+    "unit": "public retailer widget review",
+    "downloaded": 2,
+    "matched": 2,
+    "triaged": 2,
+    "kept": 2,
+    "read": 2,
+    "quotes": 2,
+    "raw_file": "_raw/reviews-followups/barnes-cribsheet-yotpo-reviews.json",
+    "pagination": {
+      "page": 1,
+      "perPage": 8,
+      "total": 2
+    },
+    "scope": "All currently reported widget reviews: total fits in one page of eight. No historical archive claim."
+  },
+  {
+    "source": "barnes-first40",
+    "url": "https://www.barnesandnoble.com/w/?ean=9781617691836",
+    "http_status": 200,
+    "unit": "public retailer widget review",
+    "downloaded": 2,
+    "matched": 2,
+    "triaged": 2,
+    "kept": 2,
+    "read": 2,
+    "quotes": 2,
+    "raw_file": "_raw/reviews-followups/barnes-first40-yotpo-reviews.json",
+    "pagination": {
+      "page": 1,
+      "perPage": 8,
+      "total": 2
+    },
+    "scope": "All currently reported widget reviews: total fits in one page of eight. No historical archive claim."
+  },
+  {
+    "source": "barnes-montessori",
+    "url": "https://www.barnesandnoble.com/w/the-montessori-baby-simone-davies/1137177299",
+    "http_status": 200,
+    "unit": "public retailer widget review",
+    "downloaded": 0,
+    "matched": 0,
+    "triaged": 0,
+    "kept": 0,
+    "read": 0,
+    "quotes": 0,
+    "raw_file": "_raw/reviews-followups/barnes-montessori-yotpo-reviews.json",
+    "pagination": {
+      "page": 1,
+      "perPage": 8,
+      "total": 0
+    },
+    "scope": "All currently reported widget reviews: total fits in one page of eight. No historical archive claim."
+  },
+  {
+    "source": "barnes-pls",
+    "url": "https://www.barnesandnoble.com/w/precious-little-sleep-alexis-dubief/1129208254",
+    "http_status": 200,
+    "unit": "public retailer widget review",
+    "downloaded": 0,
+    "matched": 0,
+    "triaged": 0,
+    "kept": 0,
+    "read": 0,
+    "quotes": 0,
+    "raw_file": "_raw/reviews-followups/barnes-pls-yotpo-reviews.json",
+    "pagination": {
+      "page": 1,
+      "perPage": 8,
+      "total": 0
+    },
+    "scope": "All currently reported widget reviews: total fits in one page of eight. No historical archive claim."
+  },
+  {
+    "source": "barnes-simplest",
+    "url": "https://www.barnesandnoble.com/w/the-simplest-baby-book-in-the-world-sm-gross/1139541990",
+    "http_status": 200,
+    "unit": "public retailer widget review",
+    "downloaded": 1,
+    "matched": 1,
+    "triaged": 1,
+    "kept": 1,
+    "read": 1,
+    "quotes": 1,
+    "raw_file": "_raw/reviews-followups/barnes-simplest-yotpo-reviews.json",
+    "pagination": {
+      "page": 1,
+      "perPage": 8,
+      "total": 1
+    },
+    "scope": "All currently reported widget reviews: total fits in one page of eight. No historical archive claim."
+  },
+  {
+    "source": "barnes-workpump",
+    "url": "https://www.barnesandnoble.com/w/?ean=9781419718700",
+    "http_status": 200,
+    "unit": "public retailer widget review",
+    "downloaded": 0,
+    "matched": 0,
+    "triaged": 0,
+    "kept": 0,
+    "read": 0,
+    "quotes": 0,
+    "raw_file": "_raw/reviews-followups/barnes-workpump-yotpo-reviews.json",
+    "pagination": {
+      "page": 1,
+      "perPage": 8,
+      "total": 0
+    },
+    "scope": "All currently reported widget reviews: total fits in one page of eight. No historical archive claim."
+  },
+  {
+    "source": "Kobo public book reviews",
+    "unit": "review",
+    "http_status": 403,
+    "downloaded": 0,
+    "matched": 0,
+    "triaged": 0,
+    "kept": 0,
+    "read": 0,
+    "quotes": 0,
+    "probed_routes": [
+      "https://www.kobo.com/us/en/ebook/precious-little-sleep-1",
+      "https://www.kobo.com/ww/en/ebook/baby-led-weaning",
+      "https://www.kobo.com/us/en/ebook/simple-safe-baby-led-weaning-1"
+    ],
+    "scope": "Three public pages returned403; no review bodies exposed; no bypass."
+  },
+  {
+    "source": "Amazon US review lists",
+    "unit": "review",
+    "http_status": "not requested; robots200",
+    "downloaded": 0,
+    "matched": 0,
+    "triaged": 0,
+    "kept": 0,
+    "read": 0,
+    "quotes": 0,
+    "scope": "Explicit GPTBot and ChatGPT-User Disallow:/ policy; no review request."
+  },
+  {
+    "source": "YouTube direct watch metadata",
+    "unit": "metadata fields of already known video",
+    "http_status": 200,
+    "downloaded": 1,
+    "matched": 1,
+    "triaged": 1,
+    "kept": 1,
+    "read": 1,
+    "quotes": 0,
+    "scope": "Title/author/id/duration/views/uploaddate only;0comments;0videos watched;description/player remainder unread."
+  }
+]

@@ -1,0 +1,68 @@
+CHECK quotes
+ads-01.jsonl: 4 quotes, 0 failed
+ads-deep-01.jsonl: 2 quotes, 0 failed
+audience-01.jsonl: 155 quotes, 0 failed
+forums-deep-01.jsonl: 11 quotes, 0 failed
+forums-deep-02.jsonl: 15 quotes, 0 failed
+guidance-01.jsonl: 8 quotes, 0 failed
+guidance-02.jsonl: 2 quotes, 0 failed
+market-01.jsonl: 27 quotes, 0 failed
+market-02.jsonl: 16 quotes, 0 failed
+market-03.jsonl: 5 quotes, 0 failed
+market-04.jsonl: 2 quotes, 0 failed
+market-05.jsonl: 6 quotes, 0 failed
+oblique-deep-01.jsonl: 57 quotes, 0 failed
+oblique-deep-02.jsonl: 111 quotes, 0 failed
+oblique-deep-03.jsonl: 106 quotes, 0 failed
+oblique-deep-04.jsonl: 81 quotes, 0 failed
+oblique-deep-05.jsonl: 53 quotes, 0 failed
+offer-followups-wave03.jsonl: 4 quotes, 0 failed
+qa-deep-01.jsonl: 134 quotes, 0 failed
+reddit-augdec-01.jsonl: 102 quotes, 0 failed
+reddit-augdec-02.jsonl: 134 quotes, 0 failed
+reddit-augdec-03.jsonl: 207 quotes, 0 failed
+reddit-augdec-04.jsonl: 27 quotes, 0 failed
+reddit-augdec-05.jsonl: 49 quotes, 0 failed
+reddit-augdec-06.jsonl: 44 quotes, 0 failed
+reddit-augdec-07.jsonl: 22 quotes, 0 failed
+reddit-augdec-08.jsonl: 16 quotes, 0 failed
+reddit-country-B-01.jsonl: 31 quotes, 0 failed
+reddit-country-B-02.jsonl: 47 quotes, 0 failed
+reddit-country-B-03.jsonl: 39 quotes, 0 failed
+reddit-july-B-solids.jsonl: 47 quotes, 0 failed
+reddit-july-focused.jsonl: 97 quotes, 0 failed
+reddit-july-newparents.jsonl: 142 quotes, 0 failed
+reddit-july-pregnancy.jsonl: 42 quotes, 0 failed
+reddit-payment-01.jsonl: 17 quotes, 0 failed
+reddit-purchase-followups-wave03.jsonl: 3 quotes, 0 failed
+reddit-report-purchases-v2.jsonl: 3 quotes, 0 failed
+report-buyers-wave03.jsonl: 7 quotes, 0 failed
+report-purchase-archive-wave03.jsonl: 21 quotes, 0 failed
+report-purchase-supplement-04.jsonl: 13 quotes, 0 failed
+report-purchase-supplement-05.jsonl: 22 quotes, 0 failed
+reviews-books-01.jsonl: 9 quotes, 0 failed
+reviews-followup-01.jsonl: 26 quotes, 0 failed
+reviews-media-01.jsonl: 171 quotes, 0 failed
+reviews-registry-01.jsonl: 3 quotes, 0 failed
+reviews-wave-03.jsonl: 22 quotes, 0 failed
+TOTAL 2162 quotes, 0 failed
+exit_code=0
+
+CHECK findings
+TOTAL 307 id references, 0 exact quote pairs, 0 failed
+exit_code=0
+
+CHECK ids
+2162 records, 2162 distinct ids, 0 duplicated
+exit_code=0
+
+CHECK main
+79 distinct ids cited, 0 unresolved
+23 verbatim fragments paired with an id, 0 failed
+exit_code=0
+
+CHECK shared
+111 distinct ids cited, 0 unresolved
+0 verbatim fragments paired with an id, 0 failed
+exit_code=0
+
