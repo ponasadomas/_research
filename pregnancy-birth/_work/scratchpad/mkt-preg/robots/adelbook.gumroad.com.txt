@@ -1,0 +1,7 @@
+User-agent: bingbot
+Crawl-delay: 10
+Disallow: /purchases/
+
+User-agent: *
+Disallow: /purchases/
+

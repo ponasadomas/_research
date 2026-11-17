@@ -1,0 +1,3 @@
+#!/bin/bash
+R=/home/thinkpad/GitHub/ads/mamivio.com/research/toddler-behaviour/_raw/competitors
+python3 -I /home/thinkpad/GitHub/ads/mamivio.com/research/toddler-behaviour/scratchpad/mkt-toddler/bin/skim.py "$R/$1.txt" ${2:-4000}

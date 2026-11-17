@@ -1,0 +1,2 @@
+Q("pregnant-1vdyo3u","",EM,"third_trimester","pain",["heat_in_pregnancy","pelvic_pain"],"I am also extremely hot and out of breath just standing in place— I can't stand for longer than 5 minutes without feeling like my hips are going to fall off of me and I start sweating profusely. This is even with us running the AC on full blast.","34+1, convinced the baby will come early; at least three weeks to term.")
+Q("pregnant-1vdyo3u","",EM,"third_trimester","belief",["comparison_other_pregnancies"],"I don't remember feeling this terrible during my last pregnancy.","Same post.")

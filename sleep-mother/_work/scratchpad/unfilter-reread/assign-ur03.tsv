@@ -1,0 +1,230 @@
+kind	id	why_it_was_dropped
+post	BabyBumps-1sd1eg6	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=MMC
+post	BabyBumps-1soj6ew	wave3-W3MT1.tsv: medical complications list; "can't sleep" one passing line
+unit	BabyBumps-1sto7db	reddit-reading-mr08.md: intrusive thoughts and rough handling of the child
+post	BabyBumps-1syzqfy	wave3-W3MT1.tsv: first pregnancy anxiety backstory; no sleep detail
+unit	BabyBumps-1tl5h3z	reddit-reading-mr07.md: possible medical emergency and monitor alarms centre the post
+post	BabyBumps-1tshwb6	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=miscarriage
+post	BabyBumps-1tyqlmk	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=passed away
+unit	BabyBumps-1uogsr1	MR04: medication lines omitted
+post	BabyBumps-1ux8mg6	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=hurt her
+unit	BabyBumps-1va6d41	reddit-reading-mr05.md: centred on a named medication and dose in pregnancy
+post	BabyBumps-1vi8t25	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=miscarriage
+post	BabyBumps-1vvt5od	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=miscarriages
+unit	BabyBumps-1wjhxsq	reddit-reading-mr02.md: BabyBumps-1wjhxsq prescription and dose
+post	BabyBumps-1wy7r5z	wave1-MT1.tsv: safety: acute low mood episode with medication stopped, centred on crisis
+unit	FirstTimeMom-1sdz5rl	reddit-reading-mr07.md: condition names not quoted.
+unit	FirstTimeMom-1uos7gg	MR04: medication lines omitted
+post	FirstTimeMom-1x12ovc	wave1-MT2.tsv: pregnancy nausea and migraines; sleep only via medication anxiety
+unit	Mommit-1sa3jlg	reddit-reading-mr07.md: medication and condition detail not quoted.
+unit	Mommit-1sm9p95	reddit-reading-mr08.md: quoted (bed-sharing lines skipped) (2 quotes)
+unit	Mommit-1stbb9p	reddit-reading-mr08.md: quoted (one restricted; child supplement list skipped) (5 quotes)
+post	Mommit-1t1vw50	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=abusive
+post	Mommit-1tgjtq1	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=passed away
+post	Mommit-1towca6	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=miscarriage
+post	Mommit-1tztsnn	wave3-W3MT1.tsv: postpartum mood question; sleep deprivation passing
+post	Mommit-1uaafsb	wave3-W3MT1.tsv: fear of missed postpartum diagnosis; mental-health centred
+post	Mommit-1ufs0vo	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=MMC
+post	Mommit-1uqaqh6	wave2-W2MT1.tsv: postpartum rage vent about relatives, sleep not concrete
+unit	Mommit-1uruosa	reddit-reading-mr04.md (read, no quote): teething; infant medication dosing and the mother's medical condition
+post	Mommit-1v0obcw	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=16m
+post	Mommit-1v8s4rj	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=suicidal
+post	Mommit-1vjp10a	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=passed away
+post	Mommit-1vvaaiy	wave2-W2MT1.tsv: older child's bedtime separation anxiety
+unit	Mommit-1vz1a0b	reddit-reading-mr01.md: Partial skips inside quoted units (passages left out, unit still quoted): self-described hallucinations from sleep loss (NewParents-1w2hzuc), a father's hostile thoughts about the newborn and "won't make it" wording (daddit-1wward4), a father's "spiralling"/hatred lines (daddit-1w8e2qa), "I can't do this anymore" (Mommit-1vz1a0b), medication passages (daddit-1wk38pn, workingmoms-1vz1jqo), a sibling's past medical emergency (NewParents-1wyeyva), toddler self-injury at the door (sleeptrain-1w2ekex), the OP's later update describing a medical emergency (PregnancyUK-1w21hd0
+unit	Mommit-1w23z99	reddit-reading-mr01.md: safe-sleep incident
+unit	Mommit-1w5y0co	reddit-reading-mr02.md: a partner asleep with the baby on a sofa edge and a bath incident (Mommit-1w5y0co)
+post	Mommit-1wbza4q	wave1-MT1.tsv: PPD psychiatrist referral, no sleep content
+post	Mommit-1wme9yf	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=miscarriage
+post	Mommit-1wvj6rd	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=self-harm
+unit	Mommit-1x681rf	reddit-reading-mr01.md: substance and medication use for sleep and mood
+unit	Mommit-1xahz2o	reddit-reading-mr03.md: centred on child injury incidents, trauma and medication enquiries
+unit	NewParents-1sck46o	reddit-reading-mr07.md: poster's replies name a condition; not quoted.
+unit	NewParents-1sk665j	reddit-reading-mr07.md: physical incident and abuse history in replies; not quoted.
+unit	NewParents-1so0im5	reddit-reading-mr08.md: quoted (medication line skipped) (3 quotes)
+unit	NewParents-1sqlh40	reddit-reading-mr08.md: quoted (road-safety, bed-sharing, condition and loss lines skipped) (10 quotes)
+unit	NewParents-1stvtvo	reddit-reading-mr08.md: quoted (condition line skipped) (2 quotes)
+unit	NewParents-1t1jei7	reddit-reading-mr08.md: clean lines quoted; bed-sharing and mattress lines skipped (2 quotes)
+unit	NewParents-1t3ziwd	reddit-reading-mr08.md: centred on accidental substance ingestion while caring for the baby
+unit	NewParents-1t657ya	reddit-reading-mr08.md: quoted (infant medical and bed-sharing lines skipped) (2 quotes)
+unit	NewParents-1t8d0tm	reddit-reading-mr08.md: quoted (bed-sharing fear lines skipped) (3 quotes)
+unit	NewParents-1tdmq89	reddit-reading-mr08.md: quoted (bed-sharing and medication replies skipped) (4 quotes)
+post	NewParents-1tmatle	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=11M
+post	NewParents-1tt83w8	wave3-W3MT2.tsv: baby health scare guilt
+post	NewParents-1u1p1c4	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=hurt my baby
+post	NewParents-1u7gaay	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=hurt her
+post	NewParents-1uag6ty	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=hurt her
+post	NewParents-1ufspca	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=hurt him
+unit	NewParents-1uoq7f0	reddit-reading-mr04.md: safe-sleep incident; hallucination content
+unit	NewParents-1utiv1w	reddit-reading-mr04.md: safe-sleep incident
+post	NewParents-1v9liwv	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=miscarriages
+post	NewParents-1vfnbgq	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=hurt myself
+post	NewParents-1vt8p7m	wave2-W2MT1.tsv: safety: crisis wording in a sleep-deprivation post
+post	NewParents-1vv8s1g	wave2-W2MT1.tsv: safety: sleep loss with perceptual symptoms, severe
+post	NewParents-1w0opga	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=hurt him
+unit	NewParents-1w3gmh0	reddit-reading-mr01.md: author describes not sleeping because of overwhelming emotion and says she is "starting to lose it a bit from lack of sleep"; held back for review, not quoted
+post	NewParents-1w6ymw0	wave1-MT1.tsv: baby refuses bassinet, bed sharing from sleep deprivation in passing
+unit	NewParents-1wajuwt	reddit-reading-mr02.md: NewParents-1wajuwt medication lines; reddit-reading-mr02.md: the opening panic episode (NewParents-1wajuwt post)
+post	NewParents-1wc9ig9	wave1-MT1.tsv: hospital stay feelings
+post	NewParents-1wfoluc	wave1-MT1.tsv: preemie hardship, low mood, no sleep detail
+post	NewParents-1wls3ba	wave1-MT2.tsv: formula supplementing grievance
+post	NewParents-1wrq06r	wave1-MT2.tsv: safety: intrusive thoughts content tied to a news case
+unit	NewParents-1wyeyva	reddit-reading-mr01.md: Partial skips inside quoted units (passages left out, unit still quoted): self-described hallucinations from sleep loss (NewParents-1w2hzuc), a father's hostile thoughts about the newborn and "won't make it" wording (daddit-1wward4), a father's "spiralling"/hatred lines (daddit-1w8e2qa), "I can't do this anymore" (Mommit-1vz1a0b), medication passages (daddit-1wk38pn, workingmoms-1vz1jqo), a sibling's past medical emergency (NewParents-1wyeyva), toddler self-injury at the door (sleeptrain-1w2ekex), the OP's later update describing a medical emergency (PregnancyUK-1w21hd0
+post	NewParents-1x5t1tr	wave1-MT1.tsv: panic about baby falls, sleep in passing
+post	NewParents-1xbtpx3	wave1-MT1.tsv: baby rolling safety
+post	Parenting-1ssw0bt	wave3-W3MT2.tsv: five year old anxiety
+post	Parenting-1ub7nov	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=hurt her
+post	Parenting-1vhr9kd	wave2-W2MT2.tsv: Seven- and four-year-old bed-sharing; older children
+post	Postpartum_Depression-1sh007a	wave3-W3MT2.tsv: daycare change worry, mood
+post	Postpartum_Depression-1sw8n02	wave3-W3MT2.tsv: health anxiety rant
+post	Postpartum_Depression-1t7f61q	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=psychosis
+unit	Postpartum_Depression-1tt9sn2	reddit-reading-mr07.md: crisis wording in the post
+post	Postpartum_Depression-1u2zwsb	wave3-W3MT2.tsv: pregnancy relationship distress
+post	Postpartum_Depression-1uo5c02	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=miscarriage
+unit	Postpartum_Depression-1uv9tjd	reddit-reading-mr04.md: wording about not being here
+post	Postpartum_Depression-1v7r6en	wave2-W2MT1.tsv: safety: crisis wording about baby's sleep
+post	Postpartum_Depression-1vh1pfv	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=miscarriage
+post	Postpartum_Depression-1vnz2bf	wave2-W2MT1.tsv: safety: post centred on a high-profile infanticide case
+post	Postpartum_Depression-1w0wtuy	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=miscarriage
+post	Postpartum_Depression-1w4lglh	wave1-MT1.tsv: anxiety about harming baby in sleep, not her sleep
+post	Postpartum_Depression-1we08ct	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=psychosis
+unit	Postpartum_Depression-1wko0ph	reddit-reading-mr02.md: centred on a parent's acute mental-health wording; dropped under the README rule
+unit	Postpartum_Depression-1wug0yb	reddit-reading-mr03.md: centred on acute mental-health distress and medication decisions
+unit	Postpartum_Depression-1wxjlnp	reddit-reading-mr03.md: centred on postpartum mental-health distress, including distressing thoughts about the baby
+post	Postpartum_Depression-1x18gxs	wave1-MT1.tsv: realising low mood, no sleep content
+post	PregnancyUK-1sa9y41	wave3-W3MT1.tsv: work conflict; insomnia one word in a symptom list
+post	PregnancyUK-1ts3g7n	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=miscarried
+post	PregnancyUK-1u5sx7x	wave3-W3MT1.tsv: safety: acute distress with scared-for-herself wording and hospital crisis
+post	PregnancyUK-1v402lk	wave2-W2MT2.tsv: Hospital birth review; off topic
+post	PregnancyUK-1vqs6yn	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=Miscarriage
+post	PregnancyUK-1wh4ifc	wave1-MT2.tsv: first trimester nausea question
+post	PregnancyUK-1xc0gdk	wave1-MT2.tsv: overwhelmed by visitors near due date
+post	beyondthebump-1sbwyvs	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=no heartbeat
+post	beyondthebump-1shh05a	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=hurt her
+post	beyondthebump-1sjsdk0	wave3-W3MT3.tsv: PPD medication question, no sleep content
+post	beyondthebump-1srvlba	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=ectopic
+unit	beyondthebump-1swav1o	reddit-reading-mr08.md: quoted (bed-sharing and infant medication lines skipped) (4 quotes)
+post	beyondthebump-1szipbl	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=passed away
+unit	beyondthebump-1t5b2im	reddit-reading-mr08.md: quoted (panic wording skipped) (2 quotes)
+post	beyondthebump-1tcgzxc	wave3-W3MT1.tsv: asks about medicating a baby with syringe; baby-sleep and medication
+post	beyondthebump-1tia5az	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=lost our baby
+post	beyondthebump-1tm5l0n	wave3-W3MT1.tsv: ringworm exposure anxiety
+post	beyondthebump-1tx3802	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=hurt him
+unit	beyondthebump-1u0hfnf	reddit-reading-mr09.md: post contains thoughts of harming the baby
+post	beyondthebump-1u9az9r	wave3-W3MT2.tsv: rage reflection, no sleep thread
+post	beyondthebump-1uezasg	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=hurt her
+post	beyondthebump-1uu06gj	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=11m
+unit	beyondthebump-1v1qj75	MR04: upright-sleeping question omitted
+unit	beyondthebump-1va73eo	MR06: sm06-0154 has an extraction trim; ledger says subject clauses were trimmed but does not identify which trims; candidate for re-reading, not proof every trim censored
+post	beyondthebump-1vemgoe	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=miscarry
+post	beyondthebump-1vknw5y	wave2-W2MT2.tsv: Postpartum depression medication story; off scope
+unit	beyondthebump-1vo9bjs	reddit-reading-mr05.md: describes a safe-sleep incident
+post	beyondthebump-1vsc7s5	wave2-W2MT2.tsv: Postpartum headaches; medical
+post	beyondthebump-1vudda3	wave2-W2MT2.tsv: safety: acute mental health emergency visit
+post	beyondthebump-1w5uqyi	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=Cps
+unit	beyondthebump-1w98az8	reddit-reading-mr02.md: "mental hospital" line (beyondthebump-1w98az8)
+post	beyondthebump-1wdlusc	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=passed away
+post	beyondthebump-1wh8xd7	wave1-MT1.tsv: relationship trauma vent
+post	beyondthebump-1wx3x5j	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=abuse
+post	beyondthebump-1xbe3kg	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=abuse
+post	beyondthebumpUK-1six4v3	wave3-W3MT2.tsv: dog and baby safety
+unit	beyondthebumpUK-1tasbr7	reddit-reading-mr08.md: quoted (bed-sharing and unsafe-surface reply skipped) (4 quotes)
+post	beyondthebumpUK-1u3cxsv	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=10m
+post	beyondthebumpUK-1uv3mv3	wave2-W2MT1.tsv: asks for PPD recovery stories, sleep only passing
+unit	beyondthebumpUK-1vsarwb	MR06: sm06-0058 has an extraction trim; ledger says subject clauses were trimmed but does not identify which trims; candidate for re-reading, not proof every trim censored
+post	beyondthebumpUK-1w1rzeu	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=miscarriages
+post	beyondthebumpUK-1weeegu	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=psychosis
+post	beyondthebumpUK-1wnbd2n	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=hurt him
+unit	beyondthebumpUK-1x4ez8s	reddit-reading-mr03.md: centred on a mental-health crisis and medication
+unit	calm-us-6055007108	reading-ledger-rv1.tsv: read, not quoted: reviewer states age nine; age/role exclusion candidate, mixed relevance where stated
+post	daddit-1u053b7	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=domestic violence
+post	daddit-1ulyzgi	wave2-W2MT2.tsv: Father four weeks in; low mood, no concrete sleep content
+post	daddit-1v9b8uk	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=abusive
+post	daddit-1vmbxqd	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=miscarriage
+post	daddit-1we6vd3	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=10m
+post	daddit-1woj1ig	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=abusing
+unit	headspace-au-11279364037	reading-ledger-rv1.tsv: read, not quoted: grandparent/husband illness and GAD; not about sleep; mental-health frame; age/role exclusion candidate, mixed relevance where stated
+post	postpartumprogress-1v2u559	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=I am 15
+post	pregnant-1sf3sch	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=hurt my baby
+post	pregnant-1sjihwv	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=hurt her
+post	pregnant-1sprkd8	wave3-W3MT3.tsv: pregnancy anxiety humour
+post	pregnant-1sqokrc	wave3-W3MT3.tsv: gestational blood pressure hospital visit
+post	pregnant-1st5mk6	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=hurt myself
+unit	pregnant-1sxrj1g	reddit-reading-mr08.md: quoted (symptom/hospital lines skipped) (2 quotes)
+post	pregnant-1t1qa3g	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=chemical pregnancy
+unit	pregnant-1t542oq	reddit-reading-mr08.md: quoted (loss lines skipped) (2 quotes)
+post	pregnant-1t799re	wave3-W3MT1.tsv: SSRI and mood question; sleep passing
+unit	pregnant-1ta2c6r	reddit-reading-mr08.md: quoted once; labour-symptom content skipped (1 quotes)
+post	pregnant-1td14ck	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=miscarriages
+post	pregnant-1the5jj	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=passed away
+post	pregnant-1tk4929	wave3-W3MT1.tsv: two days postpartum overwhelm
+post	pregnant-1tplar6	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=Ectopic
+post	pregnant-1tsl1fx	wave3-W3MT1.tsv: safety: wish-not-to-be-alive wording amid pain
+post	pregnant-1ttzev3	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=suicide
+post	pregnant-1tw6vik	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=abused
+post	pregnant-1u1hsc9	wave3-W3MT1.tsv: medical worry about OB care
+post	pregnant-1u6qvlv	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=miscarriages
+post	pregnant-1ubz897	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=hurt my baby
+post	pregnant-1uglpoc	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=miscarriage
+post	pregnant-1ukc4z6	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=funeral
+post	pregnant-1uq45u5	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=hurt him
+post	pregnant-1uv3uz0	wave2-W2MT2.tsv: False pregnancy panic; off topic
+post	pregnant-1uwn3z3	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=miscarriage
+post	pregnant-1v4hdub	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=I'm 16
+post	pregnant-1v81mdk	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=suicidal
+post	pregnant-1vb4grw	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=psychosis
+post	pregnant-1vcbpxp	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=miscarriage
+post	pregnant-1vewkyr	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=miscarriage
+unit	pregnant-1vhmzvt	reddit-reading-mr05.md: acute medical emergency and medication in pregnancy
+post	pregnant-1vmv7z3	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=miscarriages
+post	pregnant-1vryear	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=Miscarriage
+post	pregnant-1vtivjr	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=passed away
+post	pregnant-1vzfxl7	wave1-MT2.tsv: hospital complaint about birth care
+post	pregnant-1w39ccq	wave1-MT2.tsv: hyperemesis misery
+post	pregnant-1w5ln7a	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=hurt him
+unit	pregnant-1w8o7j5	reddit-reading-mr02.md: pregnant-1w8o7j5 OTC sleep-aid line
+post	pregnant-1wcqqna	wave1-MT2.tsv: safety: self-harm thought in a pregnancy struggle post
+post	pregnant-1wfcbdj	wave1-MT2.tsv: unexpected third pregnancy distress
+post	pregnant-1wieby4	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=stillbirth
+post	pregnant-1wkk8j0	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=passed away
+unit	pregnant-1wnd923	reddit-reading-mr02.md: "hallucinating" wording (pregnant-1wnd923).
+post	pregnant-1wo4och	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=ABUSED
+post	pregnant-1wqi935	wave1-MT2.tsv: screening result panic
+post	pregnant-1wttbg4	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=abusing
+post	pregnant-1x23xug	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=miscarriages
+post	pregnant-1x6q7u5	wave1-MT1.tsv: nausea question
+post	pregnant-1x8zj1k	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=I am 14
+post	pregnant-1xbbjqi	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=MMC
+unit	rise-us-12213698339	reading-ledger-rv1.tsv: read, not quoted: "my parents would say" (reviewer is the adult child); age/role exclusion candidate, mixed relevance where stated
+post	sahm-1to8zr3	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=chemical pregnancy
+post	sahm-1vy583r	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=abuse
+post	sahm-1x7rxs0	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=passed away
+unit	sleeptrain-1sgx8fh	reddit-reading-mr07.md: bed-sharing detail not quoted.
+post	sleeptrain-1sm3gbo	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=10m
+post	sleeptrain-1spsr0u	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=angel baby
+post	sleeptrain-1sx79wt	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=abuse
+post	sleeptrain-1t9172p	wave3-W3MT3.tsv: baby wakes 7 times, co-sleeping necessity
+unit	sleeptrain-1tdbv3u	reddit-reading-mr08.md: quoted (infant allergy and chest-sleep lines skipped) (2 quotes)
+post	sleeptrain-1tkos7a	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=12m
+post	sleeptrain-1ttzf90	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=15m
+post	sleeptrain-1u59dlv	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=15m
+post	sleeptrain-1ua0byw	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=10m
+post	sleeptrain-1umofe3	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=13m
+post	sleeptrain-1ursqti	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=10m
+post	sleeptrain-1uzkwek	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=suicidal
+post	sleeptrain-1v4e1y9	wave2-W2MT2.tsv: Twelve-month separation anxiety; baby sleep only
+post	sleeptrain-1v9yave	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=15m
+post	sleeptrain-1vfjox5	wave2-W2MT1.tsv: toddler separation anxiety after travel
+post	sleeptrain-1vh1mm0	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=hurt my baby
+post	sleeptrain-1vo3rhw	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=14m
+post	sleeptrain-1vvl3me	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=17m
+unit	sleeptrain-1w0sxy2	reddit-reading-mr01.md: safe-sleep incident
+post	sleeptrain-1w9qbx1	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=15m
+post	sleeptrain-1wfp78o	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=Infant loss
+unit	sleeptrain-1wmc90a	reddit-reading-mr02.md: toddler head-hitting (sleeptrain-1wmpqkw, sleeptrain-1wmc90a)
+post	sleeptrain-1wo1r60	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=12m
+unit	sleeptrain-1x212de	reddit-reading-mr03.md: contains thoughts of harming the baby
+post	sleeptrain-1x6plae	_raw/reddit/filter-v1/safety-candidates.jsonl: intake routed to safety tier; match=13m
+unit	slumber-au-9977194584	reading-ledger-rv1.tsv: read, not quoted: school-age reviewer; age/role exclusion candidate, mixed relevance where stated
+unit	workingmoms-1t9kltx	reddit-reading-mr08.md: quoted (one restricted; condition and medication lines skipped) (2 quotes)
+post	workingmoms-1w15tjy	wave1-MT1.tsv: toddler illness, work pressure, sleep in passing

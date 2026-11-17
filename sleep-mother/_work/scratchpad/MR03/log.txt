@@ -1,0 +1,52 @@
+## 011
+excluded pregnant-1wpenjc: centred on cold and supplement remedies in early pregnancy
+restricted MH: sm03-0002 sm03-0023
+restricted safe-sleep: sm03-0031 sm03-0032
+## 012
+excluded pregnant-1ws9015: centred on mental-health crisis wording and health-system distress; sleep detail secondary
+restricted MH: sm03-0038 sm03-0046 sm03-0048
+restricted safe-sleep: sm03-0037 sm03-0048 sm03-0065 sm03-0047(slept through crying, monitor phone dead)
+restricted medication (unit lists sleep aids; quotes avoid them): sm03-0059 sm03-0060 sm03-0061 sm03-0062 sm03-0063 sm03-0064
+## 013
+excluded Postpartum_Depression-1wug0yb: centred on acute mental-health distress and medication decisions
+restricted MH: sm03-0077 sm03-0086 sm03-0087 sm03-0088 sm03-0089 sm03-0090 (units centred on depression; 0089/0090 unit names an antidepressant, not quoted)
+restricted safe-sleep: sm03-0073 sm03-0075 sm03-0076(room temperature for baby) sm03-0077(sleeping in nursing chair with baby)
+restricted medical condition: sm03-0084 (postpartum thyroiditis insomnia)
+## 014
+excluded Postpartum_Depression-1wxjlnp: centred on postpartum mental-health distress, including distressing thoughts about the baby
+restricted MH: sm03-0114 sm03-0115 sm03-0116 sm03-0117 (unit names PPD and anxiety) sm03-0133 sm03-0134 (unit asks insomnia vs depression) sm03-0135 (worry, sobbing) sm03-0140..0143 (unit: feeling depressed and hopeless)
+restricted medication/supplement units (quotes avoid the substances): sm03-0110 (magnesium) sm03-0112 (antihistamine) sm03-0129..0132 (stopped her medication) sm03-0133 sm03-0134 (sleep aids) sm03-0138 sm03-0139 (supplements, herbal) sm03-0140..0143 (asks about melatonin for the toddler)
+restricted safe-sleep: sm03-0107 sm03-0108 (newborn on her chest while she cannot keep eyes open; heating pad in bassinet) sm03-0116 (cosleeping)
+## 015
+excluded sleeptrain-1wzwyx7: trigger is a road-safety incident caused by exhaustion
+excluded sleeptrain-1x212de: contains thoughts of harming the baby
+excluded Postpartum_Depression-1x2k4c2: centred on postpartum mental-health distress with crisis-adjacent wording
+restricted MH: sm03-0153 sm03-0154 (unit centred on shouting at the baby, guilt) sm03-0162 sm03-0165 (unit: fear for her mental health) sm03-0170..0172 (anxiety) sm03-0174..0176 (depression discussed) sm03-0179 sm03-0180 sm03-0184(unit: postpartum rage) sm03-0185..0187 (postpartum anxiety) sm03-0190..0192 (unit: treated for anxiety; panic)
+restricted safe-sleep: sm03-0161 (room temperature for newborn) sm03-0183 (all-night latching, cosleeping) sm03-0185 sm03-0186 (SIDS fear in unit)
+restricted medication: sm03-0190..0192 (unit mentions giving the baby a painkiller; not quoted)
+## 016
+excluded beyondthebump-1x351x1: centred on postpartum mental-health distress and prescription sleep medication use
+excluded beyondthebumpUK-1x4ez8s: centred on a mental-health crisis (thoughts of leaving, not wanting to be here) and medication
+restricted MH: sm03-0195 sm03-0209 sm03-0210 sm03-0213..0216 (postpartum anxiety) sm03-0221 sm03-0222 (title raises depression)
+restricted safe-sleep: sm03-0194 sm03-0195 (cosleeping) sm03-0203 (unit: dozing in glider, floor cosleeping) sm03-0213 (fear of falling asleep holding baby) sm03-0225 (room temperature for newborn)
+restricted medication/condition: sm03-0193 (unit lists prescribed painkillers) sm03-0196 sm03-0197 (thyroid condition on medication) sm03-0201 sm03-0202 (unit: takes an OTC sleep aid)
+## 017
+excluded pregnant-1x7umic: centred on medication choice in pregnancy
+duplicate (read, not quoted): beyondthebump-1x571kw (= NewParents-1x570bf), Mommit-1x5gous (= NewParents-1x5gmn3), beyondthebump-1x5sgiu (= NewParents-1x5rcw6)
+restricted MH: sm03-0229 sm03-0232 sm03-0240 (panic at noises; unit fears PPD)
+restricted safe-sleep: sm03-0230 sm03-0231 (bedsharing) sm03-0244 (cosleeping) sm03-0257 (unit: dozing upright with baby)
+## 018
+excluded NewParents-1x9ypaz: centred on a safe-sleep near-incident (falling asleep holding the baby) and bedsharing risk
+excluded BabyBumps-1xaf7qb: centred on eating disorder, self-harm behaviour and psychiatric medication
+restricted MH: sm03-0280..0283 (post raises PPD) sm03-0284 sm03-0285 (unit: depressed, 'give up' wording) sm03-0286 sm03-0289 (unit title: mental health; crying in pain)
+restricted safe-sleep: sm03-0264 sm03-0265 (pregnancy sleep position) sm03-0270 (cosleeping)
+restricted unverified medical (not quoted): NewParents-1x8lh9u doctor's feeding advice; pregnant-1x88a12 position claim
+## 019
+excluded Mommit-1xahz2o: centred on child injury incidents, trauma and medication enquiries
+excluded FirstTimeMom-1xcucjl: centred on prescription sleep and psychiatric medication dosing
+restricted MH: sm03-0312 sm03-0313 (unit uses despair wording) sm03-0318
+restricted safe-sleep: sm03-0303 (cosleeping; unit mentions unsafe nap surface) sm03-0306 sm03-0308 sm03-0312 (cosleeping)
+restricted treatment/medication: sm03-0298..0301 (unit: supplement taken, CBT referral by doctor; quote lists a herbal tea) sm03-0309 (reply weighs medication) sm03-0314 (unit: supplement dosing in reply)
+## 020
+restricted MH: sm03-0320 sm03-0321 (unit mentions depression and anxiety) sm03-0328..0330 (posted in a PPD sub; 0330 names PPD)
+restricted safety: sm03-0322 (fell asleep while supervising a toddler; no harm)

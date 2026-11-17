@@ -1,0 +1,25 @@
+S = {
+41: "quoted",
+42: "quoted",
+43: "quoted",
+44: "quoted",
+45: "quoted (unit is postpartum mental-health centred; one clean support quote only)",
+46: "excluded: post centres on deciding whether to continue the pregnancy",
+47: "read, not quoted: perinatal depression and medication centred",
+48: "read, not quoted: fertility treatment and fear of loss centred",
+49: "quoted",
+}
+Q = [
+(41, "", "expecting_mother", "first_trimester", "question", ["scan_and_test", "first_pregnancy"], "The waiting is driving me insane. My symptoms lightened up a bit this week which made me nervous. […] How do you wait until the first ultrasound without going insane?", "First-timer at 8 weeks, a week before her first scan.", "first scan and fear about the pregnancy's viability in same passage"),
+(42, "", "expecting_mother", "third_trimester", "purchase", ["hospital_bag", "feeding", "what_to_buy"], "I will be taking a hand pump with me to the hospital, should I pack my Eufy wearables too? (These are my only options)   I have bought formula for the baby too.", "Planned c-section in three days at 35 weeks.", ""),
+(43, "", "expecting_mother", "first_trimester", "pain", ["nausea", "diet_rules"], "My algorithm quickly learned what was going on and stopped showing the various videos of recipes and diverse cuisines  that used to flood my feed", "11 weeks; a food lover now disgusted by the thought of food.", ""),
+(43, "", "expecting_mother", "first_trimester", "others_said", ["nausea", "unwanted_advice"], "People keep telling me this will pass and I wish there was something I could do to make it better now", "Same post.", ""),
+(44, "", "expecting_mother", "third_trimester", "trigger_moment", ["work_in_pregnancy", "maternity_leave", "us_insurance"], "I just need to rant because I’m sitting on my pregnancy ball with tears running down my face because I’m so uncomfortable and I’m completely over everything.", "US temp worker at 31/32 weeks waiting a month for a remote-work decision.", ""),
+(44, "", "expecting_mother", "third_trimester", "pain", ["work_in_pregnancy", "maternity_leave"], "I’m literally planning to return before the end of the year because I only get six weeks of short-term disability.", "Same post.", ""),
+(44, "", "expecting_mother", "third_trimester", "fear", ["work_in_pregnancy", "maternity_leave", "price_value"], "because I’m a temp worker, I already have limited leave/job protections, so I feel like I’m constantly trying to calculate how much I can physically tolerate without fucking myself financially or risking my job.", "Same post.", ""),
+(44, "", "expecting_mother", "third_trimester", "desire", ["work_in_pregnancy", "country_difference"], "If I didn’t need the money and my short-term disability benefits, I would quit this damn job tomorrow and spend the last month and a half of my pregnancy RESTING. I am so fucking tired.", "Same post.", ""),
+(44, "p8mv0qx", "expecting_mother", "third_trimester", "others_said", ["work_in_pregnancy"], "I got a professional professionally worded catty email from the person handling this accommodation request telling me to stop reaching out about it because it's not going to expedite the process essentially.", "Her reply on chasing the accommodation request.", ""),
+(45, "", "new_mother", "newborn_2_8_weeks", "success_story", ["family_support", "first_two_weeks", "visitors"], "My mother is a freaking saint. She came to live with me and my husband from 39 weeks till I was 6 weeks PP since I’m a FTM.", "First-timer whose mother stayed through the first six weeks and has just left.", ""),
+(49, "", "expecting_mother", "third_trimester", "fear", ["c_section", "birth_fear", "first_pregnancy"], "I cried finding out baby is breech at 34 weeks today :( my midwife wants to schedule a c section to be on the safe side, and I’m terrified of having a c section.", "First-timer at 34 weeks.", "fetal position finding"),
+(49, "", "expecting_mother", "third_trimester", "fear", ["information_overload", "c_section"], "Reading things on Reddit scared me because some people said to be extra careful trying to flip baby due to the umbilical cord.", "Same post; after being told to try positions and a chiropractor.", "fetal position and cord risk"),
+]

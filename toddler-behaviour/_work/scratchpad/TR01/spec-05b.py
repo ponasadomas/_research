@@ -1,0 +1,8 @@
+[
+{"u":"toddlers-1w5fts3","s":"My husband thinks I’m overreacting","e":"something that we’re missing.","sp":"parent_unspecified","st":"daycare_start","t":"fear","th":["daycare_report","partner_disagreement"],"c":"After a new daycare teacher's first-day remarks about a 2.5-year-old; parent and spouse disagree on acting fast."},
+{"u":"pottytraining-1w5lwzu","s":"Because we are doing this separately at our own homes","e":"never build sustained momentum.","sp":"partner","st":"toddler_18_24_months","t":"pain","th":["oh_crap","partner_disagreement","personalization"],"c":"Co-parenting father following Oh Crap during short custody visits with a 20-month-old."},
+{"u":"pottytraining-1w5lwzu","s":"My biggest concern right now:","e":"the new normal at my house.","sp":"partner","st":"toddler_18_24_months","t":"fear","th":["accidents","oh_crap"],"c":"Floor accidents at his home."},
+{"u":"pottytraining-1w5lwzu","s":"I guess I’ve been self conscious","e":"it’s been inconsistent.","sp":"partner","st":"toddler_18_24_months","t":"pain","th":["potty_regression"],"c":"Reply after describing a good weekend."},
+{"u":"toddlers-1w5pvq6","s":"Right now, one of the only things that consistently works","e":"constantly micromanaging him.","sp":"professional","st":"preschool_3_4_years","t":"tried_failed","th":["not_listening","transitions","daycare_behaviour"],"c":"Aftercare teacher of three-year-olds asking how to handle one child's refusals at transitions."},
+{"u":"toddlers-1w5pvq6","s":"when we tell him it's time to move to another area","e":"his immediate response is often \"no.\"","sp":"professional","st":"preschool_3_4_years","t":"pain","th":["transitions","no_phase","daycare_behaviour"],"c":"When classrooms combine."}
+]

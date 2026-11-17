@@ -1,0 +1,434 @@
+[
+  {
+    "app": "flo",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/flo-cycle-period-tracker/id1038369065?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/flo-us-reviews.html",
+    "corpus_file": "_raw/reviews/flo-us-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "flo",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/flo-cycle-period-tracker/id1038369065?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/flo-gb-reviews.html",
+    "corpus_file": "_raw/reviews/flo-gb-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "flo",
+    "country": "ca",
+    "url": "https://apps.apple.com/ca/app/flo-cycle-period-tracker/id1038369065?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/flo-ca-reviews.html",
+    "corpus_file": "_raw/reviews/flo-ca-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "flo",
+    "country": "au",
+    "url": "https://apps.apple.com/au/app/flo-cycle-period-tracker/id1038369065?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/flo-au-reviews.html",
+    "corpus_file": "_raw/reviews/flo-au-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "babycenter",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/babycenter-pregnancy-tracker/id386022579?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/babycenter-us-reviews.html",
+    "corpus_file": "_raw/reviews/babycenter-us-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "babycenter",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/babycenter-pregnancy-tracker/id386022579?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/babycenter-gb-reviews.html",
+    "corpus_file": "_raw/reviews/babycenter-gb-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "babycenter",
+    "country": "ca",
+    "url": "https://apps.apple.com/ca/app/babycenter-pregnancy-tracker/id386022579?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/babycenter-ca-reviews.html",
+    "corpus_file": "_raw/reviews/babycenter-ca-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "babycenter",
+    "country": "au",
+    "url": "https://apps.apple.com/au/app/babycenter-pregnancy-tracker/id386022579?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/babycenter-au-reviews.html",
+    "corpus_file": "_raw/reviews/babycenter-au-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "wte",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/pregnancy-tracker-app-wte/id289560144?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/wte-us-reviews.html",
+    "corpus_file": "_raw/reviews/wte-us-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "wte",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/pregnancy-tracker-app-wte/id289560144?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/wte-gb-reviews.html",
+    "corpus_file": "_raw/reviews/wte-gb-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "wte",
+    "country": "ca",
+    "url": "https://apps.apple.com/ca/app/pregnancy-tracker-app-wte/id289560144?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/wte-ca-reviews.html",
+    "corpus_file": "_raw/reviews/wte-ca-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "wte",
+    "country": "au",
+    "url": "https://apps.apple.com/au/app/pregnancy-tracker-app-wte/id289560144?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/wte-au-reviews.html",
+    "corpus_file": "_raw/reviews/wte-au-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "ovia",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/ovia-cycle-pregnancy-tracker/id570244389?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/ovia-us-reviews.html",
+    "corpus_file": "_raw/reviews/ovia-us-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "ovia",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/ovia-cycle-pregnancy-tracker/id570244389?see-all=reviews",
+    "http_status": "404",
+    "raw_file": "_raw/reviews/ovia-gb-reviews.html",
+    "corpus_file": "_raw/reviews/ovia-gb-corpus.txt",
+    "review_count": 0
+  },
+  {
+    "app": "ovia",
+    "country": "ca",
+    "url": "https://apps.apple.com/ca/app/ovia-cycle-pregnancy-tracker/id570244389?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/ovia-ca-reviews.html",
+    "corpus_file": "_raw/reviews/ovia-ca-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "ovia",
+    "country": "au",
+    "url": "https://apps.apple.com/au/app/ovia-cycle-pregnancy-tracker/id570244389?see-all=reviews",
+    "http_status": "404",
+    "raw_file": "_raw/reviews/ovia-au-reviews.html",
+    "corpus_file": "_raw/reviews/ovia-au-corpus.txt",
+    "review_count": 0
+  },
+  {
+    "app": "pregnancyplus",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/pregnancy-tracker-app/id505864483?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/pregnancyplus-us-reviews.html",
+    "corpus_file": "_raw/reviews/pregnancyplus-us-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "pregnancyplus",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/pregnancy-tracker-app/id505864483?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/pregnancyplus-gb-reviews.html",
+    "corpus_file": "_raw/reviews/pregnancyplus-gb-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "pregnancyplus",
+    "country": "ca",
+    "url": "https://apps.apple.com/ca/app/pregnancy-tracker-app/id505864483?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/pregnancyplus-ca-reviews.html",
+    "corpus_file": "_raw/reviews/pregnancyplus-ca-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "pregnancyplus",
+    "country": "au",
+    "url": "https://apps.apple.com/au/app/pregnancy-tracker-app/id505864483?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/pregnancyplus-au-reviews.html",
+    "corpus_file": "_raw/reviews/pregnancyplus-au-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "thebump",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/the-bump-pregnancy-baby-app/id568940747?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/thebump-us-reviews.html",
+    "corpus_file": "_raw/reviews/thebump-us-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "thebump",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/the-bump-pregnancy-baby-app/id568940747?see-all=reviews",
+    "http_status": "404",
+    "raw_file": "_raw/reviews/thebump-gb-reviews.html",
+    "corpus_file": "_raw/reviews/thebump-gb-corpus.txt",
+    "review_count": 0
+  },
+  {
+    "app": "thebump",
+    "country": "ca",
+    "url": "https://apps.apple.com/ca/app/the-bump-pregnancy-baby-app/id568940747?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/thebump-ca-reviews.html",
+    "corpus_file": "_raw/reviews/thebump-ca-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "thebump",
+    "country": "au",
+    "url": "https://apps.apple.com/au/app/the-bump-pregnancy-baby-app/id568940747?see-all=reviews",
+    "http_status": "404",
+    "raw_file": "_raw/reviews/thebump-au-reviews.html",
+    "corpus_file": "_raw/reviews/thebump-au-corpus.txt",
+    "review_count": 0
+  },
+  {
+    "app": "expectful",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/expectful-wellness-for-moms/id1173564771?see-all=reviews",
+    "http_status": "404",
+    "raw_file": "_raw/reviews/expectful-us-reviews.html",
+    "corpus_file": "_raw/reviews/expectful-us-corpus.txt",
+    "review_count": 0
+  },
+  {
+    "app": "expectful",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/expectful-wellness-for-moms/id1173564771?see-all=reviews",
+    "http_status": "404",
+    "raw_file": "_raw/reviews/expectful-gb-reviews.html",
+    "corpus_file": "_raw/reviews/expectful-gb-corpus.txt",
+    "review_count": 0
+  },
+  {
+    "app": "expectful",
+    "country": "ca",
+    "url": "https://apps.apple.com/ca/app/expectful-wellness-for-moms/id1173564771?see-all=reviews",
+    "http_status": "404",
+    "raw_file": "_raw/reviews/expectful-ca-reviews.html",
+    "corpus_file": "_raw/reviews/expectful-ca-corpus.txt",
+    "review_count": 0
+  },
+  {
+    "app": "expectful",
+    "country": "au",
+    "url": "https://apps.apple.com/au/app/expectful-wellness-for-moms/id1173564771?see-all=reviews",
+    "http_status": "404",
+    "raw_file": "_raw/reviews/expectful-au-reviews.html",
+    "corpus_file": "_raw/reviews/expectful-au-corpus.txt",
+    "review_count": 0
+  },
+  {
+    "app": "gentlebirth",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/gentlebirth-pregnancy-app/id1499302192?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/gentlebirth-us-reviews.html",
+    "corpus_file": "_raw/reviews/gentlebirth-us-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "gentlebirth",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/gentlebirth-pregnancy-app/id1499302192?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/gentlebirth-gb-reviews.html",
+    "corpus_file": "_raw/reviews/gentlebirth-gb-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "gentlebirth",
+    "country": "ca",
+    "url": "https://apps.apple.com/ca/app/gentlebirth-pregnancy-app/id1499302192?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/gentlebirth-ca-reviews.html",
+    "corpus_file": "_raw/reviews/gentlebirth-ca-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "gentlebirth",
+    "country": "au",
+    "url": "https://apps.apple.com/au/app/gentlebirth-pregnancy-app/id1499302192?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/gentlebirth-au-reviews.html",
+    "corpus_file": "_raw/reviews/gentlebirth-au-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "christianhypno",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/christian-hypnobirthing/id1362809276?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/christianhypno-us-reviews.html",
+    "corpus_file": "_raw/reviews/christianhypno-us-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "christianhypno",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/christian-hypnobirthing/id1362809276?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/christianhypno-gb-reviews.html",
+    "corpus_file": "_raw/reviews/christianhypno-gb-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "christianhypno",
+    "country": "ca",
+    "url": "https://apps.apple.com/ca/app/christian-hypnobirthing/id1362809276?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/christianhypno-ca-reviews.html",
+    "corpus_file": "_raw/reviews/christianhypno-ca-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "christianhypno",
+    "country": "au",
+    "url": "https://apps.apple.com/au/app/christian-hypnobirthing/id1362809276?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/christianhypno-au-reviews.html",
+    "corpus_file": "_raw/reviews/christianhypno-au-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "freya",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/freya-surge-timer/id1447509164?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/freya-us-reviews.html",
+    "corpus_file": "_raw/reviews/freya-us-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "freya",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/freya-surge-timer/id1447509164?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/freya-gb-reviews.html",
+    "corpus_file": "_raw/reviews/freya-gb-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "freya",
+    "country": "ca",
+    "url": "https://apps.apple.com/ca/app/freya-surge-timer/id1447509164?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/freya-ca-reviews.html",
+    "corpus_file": "_raw/reviews/freya-ca-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "freya",
+    "country": "au",
+    "url": "https://apps.apple.com/au/app/freya-surge-timer/id1447509164?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/freya-au-reviews.html",
+    "corpus_file": "_raw/reviews/freya-au-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "everymother",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/every-mother/id1369750567?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/everymother-us-reviews.html",
+    "corpus_file": "_raw/reviews/everymother-us-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "everymother",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/every-mother/id1369750567?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/everymother-gb-reviews.html",
+    "corpus_file": "_raw/reviews/everymother-gb-corpus.txt",
+    "review_count": 8
+  },
+  {
+    "app": "everymother",
+    "country": "ca",
+    "url": "https://apps.apple.com/ca/app/every-mother/id1369750567?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/everymother-ca-reviews.html",
+    "corpus_file": "_raw/reviews/everymother-ca-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "everymother",
+    "country": "au",
+    "url": "https://apps.apple.com/au/app/every-mother/id1369750567?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/everymother-au-reviews.html",
+    "corpus_file": "_raw/reviews/everymother-au-corpus.txt",
+    "review_count": 3
+  },
+  {
+    "app": "expect",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/expect-prenatal-pelvic-floor/id1523369578?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/expect-us-reviews.html",
+    "corpus_file": "_raw/reviews/expect-us-corpus.txt",
+    "review_count": 3
+  },
+  {
+    "app": "expect",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/expect-prenatal-pelvic-floor/id1523369578?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/expect-gb-reviews.html",
+    "corpus_file": "_raw/reviews/expect-gb-corpus.txt",
+    "review_count": 0
+  },
+  {
+    "app": "expect",
+    "country": "ca",
+    "url": "https://apps.apple.com/ca/app/expect-prenatal-pelvic-floor/id1523369578?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/expect-ca-reviews.html",
+    "corpus_file": "_raw/reviews/expect-ca-corpus.txt",
+    "review_count": 0
+  },
+  {
+    "app": "expect",
+    "country": "au",
+    "url": "https://apps.apple.com/au/app/expect-prenatal-pelvic-floor/id1523369578?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/expect-au-reviews.html",
+    "corpus_file": "_raw/reviews/expect-au-corpus.txt",
+    "review_count": 0
+  }
+]

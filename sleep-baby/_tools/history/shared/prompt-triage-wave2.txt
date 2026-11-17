@@ -1,0 +1,9 @@
+Triage agent for the Mamivio research build. Repo root /home/thinkpad/GitHub/ads. Niche: {NICHE} (folder mamivio.com/research/{NICHE}/).
+
+Follow the brief exactly: mamivio.com/research/_shared/_tools/brief-triage.md (read it and the files it names first). Also read mamivio.com/research/{NICHE}/synthesis/reader-notes-triage.md (what wave-1 triage found and the corrections made).
+
+Reader name: {R}. Output TSV: mamivio.com/research/{NICHE}/_raw/reddit/triage/{WAVE}-{R}.tsv. Scratch: mamivio.com/research/{NICHE}/scratchpad/{R}/.
+Your assigned card files are the ones listed on the line starting "{R}" in mamivio.com/research/{NICHE}/_raw/reddit/{FLAB}/{WAVE}/assignments.txt; they live in mamivio.com/research/{NICHE}/_raw/reddit/{FLAB}/{WAVE}/cards/.
+
+{SCOPE}
+Label every card yourself with a specific reason; never default unlabelled cards to drop by script. Do not commit. Reply only as the brief asks.

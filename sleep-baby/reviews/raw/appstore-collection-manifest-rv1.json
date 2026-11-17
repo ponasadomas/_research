@@ -1,0 +1,218 @@
+[
+  {
+    "app": "huckleberry",
+    "country": "ca",
+    "url": "https://apps.apple.com/ca/app/id1169136078?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/huckleberry-ca-reviews.html",
+    "corpus_file": "_raw/reviews/huckleberry-ca-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "huckleberry",
+    "country": "au",
+    "url": "https://apps.apple.com/au/app/id1169136078?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/huckleberry-au-reviews.html",
+    "corpus_file": "_raw/reviews/huckleberry-au-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "napper",
+    "country": "ca",
+    "url": "https://apps.apple.com/ca/app/id1491340863?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/napper-ca-reviews.html",
+    "corpus_file": "_raw/reviews/napper-ca-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "napper",
+    "country": "au",
+    "url": "https://apps.apple.com/au/app/id1491340863?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/napper-au-reviews.html",
+    "corpus_file": "_raw/reviews/napper-au-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "nara",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/id1444639029?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/nara-us-reviews.html",
+    "corpus_file": "_raw/reviews/nara-us-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "nara",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/id1444639029?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/nara-gb-reviews.html",
+    "corpus_file": "_raw/reviews/nara-gb-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "nara",
+    "country": "ca",
+    "url": "https://apps.apple.com/ca/app/id1444639029?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/nara-ca-reviews.html",
+    "corpus_file": "_raw/reviews/nara-ca-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "nara",
+    "country": "au",
+    "url": "https://apps.apple.com/au/app/id1444639029?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/nara-au-reviews.html",
+    "corpus_file": "_raw/reviews/nara-au-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "glowbaby",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/id1077177456?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/glowbaby-us-reviews.html",
+    "corpus_file": "_raw/reviews/glowbaby-us-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "glowbaby",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/id1077177456?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/glowbaby-gb-reviews.html",
+    "corpus_file": "_raw/reviews/glowbaby-gb-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "glowbaby",
+    "country": "ca",
+    "url": "https://apps.apple.com/ca/app/id1077177456?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/glowbaby-ca-reviews.html",
+    "corpus_file": "_raw/reviews/glowbaby-ca-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "glowbaby",
+    "country": "au",
+    "url": "https://apps.apple.com/au/app/id1077177456?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/glowbaby-au-reviews.html",
+    "corpus_file": "_raw/reviews/glowbaby-au-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "smartsleepcoach",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/id1616824897?see-all=reviews",
+    "http_status": "404",
+    "raw_file": "_raw/reviews/smartsleepcoach-us-reviews.html",
+    "corpus_file": "_raw/reviews/smartsleepcoach-us-corpus.txt",
+    "review_count": 0
+  },
+  {
+    "app": "smartsleepcoach",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/id1616824897?see-all=reviews",
+    "http_status": "404",
+    "raw_file": "_raw/reviews/smartsleepcoach-gb-reviews.html",
+    "corpus_file": "_raw/reviews/smartsleepcoach-gb-corpus.txt",
+    "review_count": 0
+  },
+  {
+    "app": "smartsleepcoach",
+    "country": "ca",
+    "url": "https://apps.apple.com/ca/app/id1616824897?see-all=reviews",
+    "http_status": "404",
+    "raw_file": "_raw/reviews/smartsleepcoach-ca-reviews.html",
+    "corpus_file": "_raw/reviews/smartsleepcoach-ca-corpus.txt",
+    "review_count": 0
+  },
+  {
+    "app": "smartsleepcoach",
+    "country": "au",
+    "url": "https://apps.apple.com/au/app/id1616824897?see-all=reviews",
+    "http_status": "404",
+    "raw_file": "_raw/reviews/smartsleepcoach-au-reviews.html",
+    "corpus_file": "_raw/reviews/smartsleepcoach-au-corpus.txt",
+    "review_count": 0
+  },
+  {
+    "app": "littleones",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/id1382444112?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/littleones-us-reviews.html",
+    "corpus_file": "_raw/reviews/littleones-us-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "littleones",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/id1382444112?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/littleones-gb-reviews.html",
+    "corpus_file": "_raw/reviews/littleones-gb-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "littleones",
+    "country": "ca",
+    "url": "https://apps.apple.com/ca/app/id1382444112?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/littleones-ca-reviews.html",
+    "corpus_file": "_raw/reviews/littleones-ca-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "littleones",
+    "country": "au",
+    "url": "https://apps.apple.com/au/app/id1382444112?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/littleones-au-reviews.html",
+    "corpus_file": "_raw/reviews/littleones-au-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "happybaby",
+    "country": "us",
+    "url": "https://apps.apple.com/us/app/id6450744756?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/happybaby-us-reviews.html",
+    "corpus_file": "_raw/reviews/happybaby-us-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "happybaby",
+    "country": "gb",
+    "url": "https://apps.apple.com/gb/app/id6450744756?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/happybaby-gb-reviews.html",
+    "corpus_file": "_raw/reviews/happybaby-gb-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "happybaby",
+    "country": "ca",
+    "url": "https://apps.apple.com/ca/app/id6450744756?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/happybaby-ca-reviews.html",
+    "corpus_file": "_raw/reviews/happybaby-ca-corpus.txt",
+    "review_count": 10
+  },
+  {
+    "app": "happybaby",
+    "country": "au",
+    "url": "https://apps.apple.com/au/app/id6450744756?see-all=reviews",
+    "http_status": "200",
+    "raw_file": "_raw/reviews/happybaby-au-reviews.html",
+    "corpus_file": "_raw/reviews/happybaby-au-corpus.txt",
+    "review_count": 10
+  }
+]

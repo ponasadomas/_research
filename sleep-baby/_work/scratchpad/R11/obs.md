@@ -1,0 +1,72 @@
+- u1: undertired advice from stranger worked; later undertired/overtired confusion; partner conflict on intervening; teething found later. Feeding drop/"visibly slimmer" not quoted.
+- u2: CIO -> vomiting -> rocking; commenters said schedule, OP right it was separation anxiety; chair method.
+- u7: Huckleberry tracking; Woolino sleep sack, Hatch; gagging; wants modified Ferber.
+- u8: CIO stopped after vomiting; 12h shifts.
+- u9: consultations + books failed, CIO worked; re-training after daycare sickness. Ledger: child hurting head while crying (not quoted); bedsharing.
+- u10: PPD recovery, bedsharing + Owlet (safe-sleep/mental-health: not quoted). Ferber month then road trip setback. Paid helper few hrs/week.
+- u14: Moms on Call book helped; asks for photo of next schedule rather than pay full price.
+- u12: nanny vs parent wake windows.
+- u18: PPD vs regret question + starting therapy (mental-health: not quoted; sleep part quoted sb11-0043).
+- u20: TCB "Jackie" + Woolino.
+- u22: father working til 3am.
+- u25: sleep anxiety, heart racing (restricted-candidate id from rec02 #12 -> check id).
+- u28: insomnia; doctor bloodwork; Ferber failed; "everyone told me 4mo regression".
+- u29: newborn, mental-health wording ("affecting my mental health", wanted to drive to hospital, traumatic c-section) not quoted; Dr Brown's bottle; Google; doctor visit early.
+- u30: TCB night weaning plan followed literally -> 2h crying; doubts plan. KEY paid-plan-not-personal.
+- u35: snapped, vomited (UK).
+- u36: Clock rules; daycare won't cap nap.
+- u37: deployed spouse; safe-sleep fear quote -> restricted.
+- u38: repost of u4 by same author (post body quoted from u4; comments only from u38).
+- u40: pediatrician: water instead of formula overnight; TCB no success; consultant question. "so much noise".
+- u42: grandparents upset over not staying overnight.
+- u43: friend locks son in.
+- u47: Huckleberry averages; "full reset"; SAHM.
+- u48: followed thread advice closely -> worse (free advice failing). Asks which method.
+- u49: "So it works for all their students?" personalization.
+- u50: twins, Huckleberry SweetSpot trusted.
+- u52: consultant working; still asks Reddit to check consultant's schedule.
+- u54: grandmother gave bottle against instruction; stranger judgment; book success. Bought on Amazon (stuffy/book?).
+- u55: daddit father alone; hired help worse; luxury crib mattress.
+- u56: daddit father does bulk of nights; daycare+ear infection; too late to retrain?
+- u58: Sleep Lady Shuffle; nanny force-fed (not quoted); reflux, torticollis (medical, noted not diagnosed); CIO -> choking cough/spit up.
+- u59: SNOO; birth ball; dad refused.
+- u61: UK health visitor + lactation consultant.
+- u63: Tylenol at night (not quoted).
+- u65: propping sick baby / no safe-sleep guidance for it (safe-sleep, not quoted).
+- u66: SIDS risk, resentment/"hate being a mother", "wasn't depressed anymore", fear of falling asleep holding baby unsafely -> safe-sleep + mental-health; only the "strong opinions" quote taken.
+- u67: "i have come to resent this child" (strong; not crisis). Iron for anaemia noted.
+- u71: candle.
+- u74: Tylenol/Motrin rotation, Cefdinir, ENT (medical; noted).
+- u77: carrier post reads like seeding/promo; one quote flagged.
+- u79/u82: likely same author (8mo, 1.30 nap) — two consultants; consultant advice stopped working. Cross-check.
+- u80: "6th night" story vs reality.
+- u81: iron deficiency; method overload.
+- u83: comment pbp5yvt has self-harm-adjacent wording about breastfeeding struggle ("remove myself from this world") — mental-health crisis wording; NOT quoted. pbm4sw8 "let go of the baby" — not quoted. Night help "not in the budget".
+- u84: floor bed bought; carrier; WFH; undertired-new-to-her.
+- u86: "single mom who's married".
+- u88: KEY partner fight CIO vs Ferber. "The Pause".
+- u90: Napper app; won't hand to dad.
+- u93: secondary lactose intolerance, Alimentum, GI appt (medical; not diagnosed).
+- u94: 4am cosleeping when exhausted (safe-sleep-adjacent; not quoted). Huckleberry.
+- u95: Snoo + swaddle while starting to roll -> safe-sleep; quote of panic restricted.
+- u97: hallucinating from sleep deprivation before doctors listened (restricted); family doctor dismissal; paediatrician cut off; omeprazole/silent reflux; motor delay (medical, noted).
+- u98: two nannies quit.
+- u100: chronic/autoimmune illness; tubes tied; husband wants second.
+- u101: pediatrician green-lit CIO at 17 weeks; 5 nights no sleep.
+- u103: KEY paediatrician pushed sleep training at 14.5 weeks; OT said 4-6 months; dad doesn't do nights; bed-sharing after first wake (safe-sleep, noted).
+- u104: father ran Ferber while mother away. Crib fear after.
+- u106: baby's name in post: quote trimmed to avoid it.
+- u111: child death mention (older brother passed) — not quoted; neutral quotes only.
+- u112: Montessori floor bed "raving reviews".
+- u118: father with panic disorder (mental-health, not quoted); melatonin, magnesium; doctor unsure.
+- u121: KEY neighbours/apartment block CIO. Stomach rolling (safe-sleep adjacent, noted).
+- u122: husband blames; "very dark places" (mental-health, not quoted; quote trimmed before it). Sleep study mention in comments.
+- u123: Owlet data.
+- u124: repost of u107 by same author (same schedule text).
+- u120: Pepcid+Nexium.
+- u125: SAME author as u52 (consultant schedule identical: 8am / 11:15-12:45 / 4-4:30 / 8pm). Consultant + cold-turkey night weaning -> sleeping through by night 5 (3-week update).
+- u127: Precious Little Sleep book; naps on a mattress-less bed (safe-sleep, noted).
+- u129: bedsharing in king bed when husband on nights (safe-sleep, not quoted).
+- u134: "I feel bipolar" figurative — not quoted.
+- u135: "feeling super depressed" — not quoted; heartbroken quote ok.
+- u136: SIDS terror, side-sleeping, bedsharing 4-5am with Owlet — safe-sleep + infant-death fear; only the Google-tricks quote taken.

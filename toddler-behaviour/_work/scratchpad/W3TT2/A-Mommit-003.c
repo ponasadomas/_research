@@ -1,0 +1,268 @@
+1t3nl6v SF=False
+T: When did you introduce potty training?
+O: Even if it wasnt stuck to and you ended up waiting and trying again later... when did you first introduce it? Is "too early" such a thing? 
+My daughter is 17 months old and is starting to understand when she needs a diaper change and wakes up with a dry diaper sometimes. Her communication is still not great though, so I think that could be a facto
+1t3xvzt SF=False
+T: I’m so over parenting and I feel like a horrible mom
+O: I have a 3 soon to be 4 year old son and a 8 month old daughter. I am so exhausted and this past two-three weeks have been yelling so much.  
+Backstory: I’m a full time college student as well. I’m also a sewist and have projects that others are relying on me for. I’m a sahm mom, I’ve also got an iud last month have been bleeding everyday since an
+1t3z3hb SF=False
+T: Failing as a mom and wife
+O: I have a two year old, a 9 week old and a wonderful husband. Really everything I’ve ever prayed for but I am struggling so hard, which is so stupid. I’m so worried about my newborn getting sick and dying. We aren’t seeing anyone or going anywhere other than parks or the zoo and when we go t
+1t4czuj SF=False
+T: I actually had to change a diaper with a clothespin on my nose
+O: So I’m currently pregnant and chasing around a one-year-old who is very much still in diapers. Which means I’ve unlocked a new level of parenting challenge: pregnancy nose + toddler diaper changes. And wow… P.U.
+I swear my sense of smell is operating at superhero levels right now, except instead of saving the world I’m just detecting every possibl
+1t4mw40 SF=False
+T: Toddler sick & I have a newborn
+O: Hi everyone. Today my toddler had to stay home due to cough, runny nose, diarrhea, and vomiting. I am overwhelmed to say the slightest. First of all, my mom literally left yesterday as she was here to help us with the transition of another baby. Today was going to be my first day alone with my ne
+1t4n9y5 SF=False
+T: Am I being unreasonable?
+O: Hi everyone. Newcomer here and this is my first post. I'm having a really bad day and would love some feedback. My youngest son's daycare was closed unexpectedly and I had to take the day off work. He is 19 months, and my oldest (5 y.o.) is at school. 
+My husband works from home and said that he "would be available to help a bit" if needed. Mornin
+1t4oz2v SF=False
+T: I think I need some outside insight on if I'm being unreasonable. I'm losing perspective.
+O: My husband and I have an 18mo old. I work a pretty reliable schedule. Husband's work schedule is super sporadic and somewhat out of his control. So on the days that I work, we base childcare needs on that schedule  because his workday is so unpredictable.
+We are so incredibly lucky to have my mom who comes to our house at 7:30am to watch our child
+1t4u7hn SF=False
+T: Anyone else’s kids strep carriers?
+O: My kids are strep carriers and I’m the one paying the price. 
+During their first year in daycare I had strep 6 times. Literally tested positive with a killer throat and other symptoms EVERY MONTH from February to July. 
+It was thought it actually just the same infection that never cleared til I got hit with the big guy antibiotics. 
+Last year I 
+1t5qg0g SF=False
+T: Grandpa crossing set boundaries
+O: For context, I have a 3 year old and a 5 month old. My husband and I live on the farm I grew up on and farm alongside my dad. My dad lives off farm but is here everyday to work. For the past two or three weeks, he’s been bringing my 3 year old a treat everyday. It’s usually a half a sandwich 
+1t5qqpd SF=False
+T: Am I being unreasonable?
+O: So my mom recently retired and is helping watch my toddler. I gave birth to my second late February so it’s been a huge help to have her around to do stuff with my kiddo while I stay home/take care of the baby. In the early days she was at my house/taking my toddler to the library/park/on erran
+I want to be as subjective as pos
+1t5rzss SF=False
+T: 2yo suddenly hitting/crying nonstop
+O: Hi everyone, I really need some advice or just to hear from moms who have been through this.
+My son just turned 2, and I also have a 10-month-old baby girl. Lately his behavior has been really hard to handle. He’s been having intense tantrums, crying almost nonstop over everything, and he’s started trying to hit—sometimes with his hands, but also 
+1t60vc7 SF=False
+T: How do I get my kids to drink water?
+O: I grew up in a house where you drank pop or juice all day. The well water there was awful. So I only drank pop or juice until I was in college and realized I couldn’t keep paying for that. And my teeth were obviously ruined. So I started drinking a can of diet pop in the morning and then I drin
+1t6m485 SF=False
+T: What's your second child temperament like compared to your first?
+O: My first daughter was somewhere in the middle when it comes to how "easy" she was when she was a baby. She didn't cry all the time but she did cry, sometimes a lot. She didn't keep us up at night but she didn't sleep through the night till she was 17 months old. We had some tough phases which is 
+But now that she's a toddler she's
+1t6n2jm SF=False
+T: Ex and my kiddos school has me fuming
+O: My youngest is 4, almost 5, and level 2 autistic. Non verbal. But she’s smart and honestly the sweetest little girl. I also have a 16 and 11 year old whom I have full custody of. No visits, no child support (even though I’m owed over $50,000 at this point.) Dad of my youngest has kiddo slight
+1t6oth6 SF=False
+T: My husband won’t set boundaries for 15 month old daughter and I’m so frustrated
+O: I am really frustrated. I will give 2 concrete examples:
+The first was last night. She was resisting bedtime and I asked to switch with him as I had no success for 90 mins to put her to bed. He gave her goldfish crackers, immediately put her down and let her play with her light up fruit stand toy after I said no to her playing and eating her favou
+1t6pnqw SF=False
+T: 4 year old won’t sleep through the night and I’m at a breaking point…
+O: I’m at my wits end with my girls sleep and her inability to consistently sleep through the night. 
+Where I live we need a referral from family doctor to see a pediatrician so I have an appt booked but it’s not until mid June so I’m just coming on here to get some ideas or advice.
+She has always been up and down with sleep but we have had periods 
+1t6prie SF=False
+T: Diary dump from the struggle bus
+O: Just really not the mom I want to be right now. I’ve lost all patience. I’m mean, always frustrated and short fused and can’t shake it.   
+No doubt I’m in a depressive episode - this is established. I’m burnt out. I’ve also tried most antidepressants and none seem to work long term for me. So I’ve been free ballin emotions for the past year and act
+1t6uaj5 SF=False
+T: Melt down over losing
+O: I have a 4 year old nephew who absolutely has a melt down every time we play anything and he dosent win. He is such a sweet loving and good boy most of the time but the second he dosent win all hell breaks loose.
+For example one time we were all paying a matching card game and he didn’t win so he picked up all the cards and threw them and then ran
+1t6xv6v SF=False
+T: Horrible bedtime woes in three year old
+O: Horrible bedtime woes in three year old
+Three year old was sleep trained at 8 months, wonderful sleeper until she became sick recently at three.    
+She had a bad case of hand foot mouth so I brought her to my bed because she was in severe pain and we did for three days. Ever since then, she has been crying once I close the lights out. Her dad and
+1t78ql4 SF=False
+T: This is the most thankless job
+O: Just tired. This week I kept up with the preschool group chat so I could contribute to the teacher’s appreciation gift. I ordered two birthday presents for a 1 yr old bday party today and a 4 yr old tomorrow — still need to wrap them. I ordered Mother’s Day flowers for my MIL and bought a p
+1t8bx6e SF=False
+T: I just need to vent about toddlers…
+O: My only child is a boy who is almost 3 and he’s just such an asshole right now. I think I’m taking it too personally but it’s just hard to live with him right now let alone be a good parent. I wanted kids so badly and i wanted to be a SAHM. For factors outside of my control, i work full-tim
+1t8nczn SF=False
+T: Dog poops and child yard play
+O: Hi moms. I have a husky who produces big ol poops in the yard on the grass. I, of course, clean it regularly (every day if my toddler is going to be outside). However, my dogs poops gets smeared on the grass sometimes if its not a solid poop. What are y'all doing about this? Should I section off 
+1t8oanv SF=False
+T: Second time moms, what was the last few weeks of pregnancy like?
+O: I’ve had a much harder pregnancy this time around. I was told I had a short cervix at 20 weeks and had to cancel our vacation because I was high risk for premature labor, I had to do daily progesterone suppositories for 17 weeks, baby was measuring small one week so I did a growth scan (hes jus
+1t94cab SF=False
+T: Is it worth leaving to struggle?
+O: Without getting too into it, my (ex-ish)partner of 10 years and I have a 2 year old. We always had a very loving, respectful, albeit sometimes rocky relationship.   
+When he is stressed he is so cold and u reasonable. Well I guess having a kid is too stressful because he acts like he hates me now. Hiding in his room all the time. He started using w
+1t94k70 SF=False
+T: What is this fresh hell I'm in with my 4 year old?
+O: Some background info:
+My first born (daughter, currently 6) was an extreme challenge for us. Highly sensitive, highly emotional, likely ADHD. Intense meltdowns about everything and anything, all the time, which she still hasn't grown out of but it has gotten better. She's of course lovely in many other ways.
+Then my second came along and he was p
+1t94s6y SF=False
+T: Im so sick of being sad.
+O: Ive been up all night with my 1 year old and its not even his fault. He wakes up sometimes and I lay him on my bed once hes asleep so I can have a minute to go pee then move him. But My leg is killing me. I have a flat foot and its just getting worse and nkw its waking me up lololol. Between husb
+1t9dgv3 SF=False
+T: At 4am, my toddler went full hulk ripping off his pajamas then blamed me for it
+O: I used to think full snap pajamas were stupid and the worse gift when baby was an infant. I hated lining up and snapping the bazillion buttons when for a few buck more you can get zipper pajamas.
+But dressing a standing, thrashing toddler in zipper footies is a full-contact sport and taking them off and back on to potty is just as difficult.
+So w
+1t9dolc SF=False
+T: Challenging Dynamics with Boomer Grandparents
+O: My posts continue to be removed from the parenting sub - which just…lol. So here I go in mommit. Hopefully this crew is a little more understanding and accepting of relationship dynamics that extend beyond the definition of a nuclear family. The parenting sub is a cog in the machine. Ick. 
+Some context & an high level overview of my thoughts befor
+1t9gtrm SF=False
+T: Am I overreacting??
+O: Am I overreacting for feeling really sad/disappointed about Mother’s Day?
+We didn’t have major plans because I’m 20 weeks pregnant, we have a toddler, and the weather has been iffy, so I said we could just play the day by ear. Usually we do something simple like the petting zoo, and I had mentioned maybe going to the cinema and seeing a kids movie
+1t9p7gn SF=False
+T: Best tips to improve patience?
+O: i have really been struggling lately with patience. My 9 mo daughter has recently become mobile, and of course does not listen to no, don’t touch that, sit down, etc.
+I find that I am snapping far more than I like, which ideally would be never. I know that she is not intentionally acting out or anything like that but in the moment I am just losing
+1t9r72a SF=False
+T: Absolutely Dreading Every Bedtime
+O: Ranty rant rant. Looking for solidarity.
+Hi all, for context my son is two years, 9 months old. He has never been a good sleeper. We've had a bedtime routine that has adjusted slightly for age since he was a newborn. He does \*generally\* sleep through the night now, but did not sleep through the night until 16 months old. He's in daycare 
+1ta03do SF=False
+T: Potty Training Secret to Share!
+O: My daughter is three and has had no interest in using the potty. Like she has full control of her bladder, tells us when she goes and needs a new diaper and will go on command if we tell her to before getting in the car. She just absolutely has refused to use the toilet. We've been trying for a y
+1ta6p83 SF=False
+T: Lost my cool in public after 8 hellish hours traveling with my newborn and toddler. So embarrassed.
+O: I’m so mortified.
+My mother, toddler, and newborn all got on an overnight flight home last night. I thought it would be perfect so my toddler could sleep, which he did for about an hour. Then he started screaming at the top of his lungs all of a sudden. I could tell he wasn’t fully awake, but nothing would calm him
+1ta7ic5 SF=False
+T: needing encouragement and maybe advice
+O: Hi!! I have been overwhelmed and letting mom guilt get to me. I know there is more I can do better, but also have that feeling that I am overwhelmed and ”stuck” in that feeling if that makes sense. 
+I have a 2 year old and 3 month old. My husband started a new job where he has to commute 1.5 hours there & then 1.5 hours home (until we move) five d
+1tamfku SF=False
+T: It feels like I’m in a depression competition with my husband
+O: I’m 7 weeks post partum.
+I never thought I’d experience pp depression.  
+I didn’t with my first. I did anxiety but not depression but it creeps up on you like a monster.
+I have lost my identity, I feel like sevral things.
+All possibly triggering to name but I will be honest I feel disgusting I feel like a bad my to my three year old like suddenl
+1taz6d5 SF=False
+T: We did a 7 hr drive with a 2 y/o—this is how.
+O: So prefacing: this drive was very helpful for our toddler who will be doing an international flight next month!
+TOYS:
+We brought a handful of little things. What she really liked the most was: Sticker Wow, Pop It’s, 100 words book, Bunny Ears from easter, clipboard + coloring page + crayons
+I would probably bring some more artsy things, like a m
+1tb7qy0 SF=False
+T: Highly organized people I need all of your tricks! I have an extremely overloaded plate.
+O: TLDR; husband and I moved in with my dad after his divorce and now I’m managing my dads life, my husbands life, my kids lives, my husbands business, and the sale of my dads current home and purchase of the new home. None of this is a problem for me I just need tricks to manage it.
+Long version:
+My husband had horrible examples from his parents gr
+1tbk64h SF=False
+T: struggling to wean 16 month old
+O: I’ve tried the bandaid method and just saying no which works during the day but when it hits nighttime that’s when the screaming would start. I knew she’d be pretty inconsolable and that it would be hard. We both didn’t get much sleep and i’d replace the milk with water or a snack overn
+1tbn8p4 SF=False
+T: Hard day with 3year old
+O: My daughter will be 4 next month but she is still showing a lot of emotional struggles that are consistent with 3 year olds. The one that I’m really struggling with is her fear of trying new things. She’s a VERY picky eater, we are struggling with potty training, and tonight I took her to her
+1tbnvtr SF=False
+T: Daycare concerns
+O: Alright moms of mommit, I need some advice! 
+I have two children - 2.5 and 8 months. They attend an unlicensed in home daycare. The woman has 4 children, all about 18 months apart with the youngest being a little over 2. The older two go to school but join around 3:30 pm. Other than my two, she cares for 4 others and her other two children. We
+1tboxhb SF=False
+T: Don’t know what to do regarding my son’s double ear infection
+O: Starting last Tuesday or Wednesday, my 14 month old son was rubbing his ear, acting ridiculously fussy, reduced appetite, vomited on me twice in 2 days and the morning we booked an emergency sick visit with the pediatrician he was crying hysterically and inconsolable by my husband and I. As a bab
+1tbyn8v SF=False
+T: Don’t do what I did and forget to eat while breastfeeding
+O: So I’m exclusively breastfeeding my 100th percentile 7 week old. And the other night during feedings I started to notice one of my breasts feeling sore. I think “great, a clogged duct. Hopefully I don’t get mastitis.” I got up around 6 and still had the boob pain, plus now I have a headac
+1tc6jcf SF=False
+T: Do other moms secretly panic about what their kid doesn’t eat?
+O: Please tell me this isn’t just me.
+I feel like I spend an embarrassing amount of mental energy thinking about my kid’s nutrition. Not in a crunchy Pinterest mom way, more in a “how has this tiny person survived 4 days eating mostly crackers, yogurt tubes, and air?” way.
+Some weeks I’m like okay, balance over time, he’ll be fine.
+Other weeks I sp
+1tcjs1j SF=False
+T: I feel like a failure
+O: My husband is out of town. He left yesterday. Since he left my life has been a literal nightmare. My 3yo is acting out. I know its because she wants more attention and I have been trying to be patient but she has been making it so hard. Today really was the worst day in a long time and I did not 
+It started at
+1tco23r SF=False
+T: Need Some Reassurance on Daycare
+O: FTM here. Baby Boy just turned 3 months old yesterday. Next week, we are doing a trail run of daycare while I go in for shadowing at my new job. Starting full time work & daycare June 1st. Background info- I had a really difficult and high risk pregnancy and was placed on bed rest multiple times,
+1tczob6 SF=False
+T: 3 year old is addicted to their tablet
+O: They got a tablet for their second Birthday which was only given when they’re in the car, sick or I’m needing to clean or shower. Didn’t have it for very long or often either, but then I got pregnant and was beyond sick. I found myself giving the tablet more and more. Eventually, my toddler
+1td04ur SF=False
+T: Going back to work and having a ton of anxiety.
+O: Hi moms, really looking for some encouragement here because the guilt is eating me alive. 
+In 2019 I obtained my masters degree and immediately started working in my field. A few years later, my now partner and I got together and we decided we wanted a baby. While I was pregnant, I was looking at postings for positions and came across my dream pos
+1tdd4tg SF=False
+T: Misbehaviour only at preschool
+O: Our 3.5 year old is a big, smart boy. He’s about 3’5 and 40 lbs. He’s really articulate and is pushing every single boundary right now. I know that’s normal. We are also going through some life changes, new baby on the way which he knows about which means he won’t be an only child, movi
+1tdgd54 SF=False
+T: 4 year old nightly tantrums
+O: Hi fellow moms. My husband and I are at our wits end with our soon to be 4 year old daughter (2nd of 3). Day time, naps, all generally good. Tantrum a day or so, naps are as smooth as can be sleeping about 1:15-2:45.
+Bedtime comes and all hell breaks loose. It's been 4 straight months (and before that, off an on for the previous year after our 3rd
+1tdh5dh SF=False
+T: I feel like my 9yo has too much power.
+O: My therapist wants to unpack this because children have so little power and he's probably just seizing on what he has. Okay. And I am considering that he has some unmet need he's trying to meet here but I feel controlled and resentful and it's making me really angry.
+He does have a trauma history and mental health issues, and when off meds he had 
+1te2mue SF=False
+T: Global Developmental Delay
+O: I will try to keep this as short as possible because I feel as though there is just too much to say but here goes— my journey to motherhood has been nothing less than a nightmare. Very healthy pregnancy which led to a surprising traumatic delivery where I hemorrhaged and my son stopped breathin
+1te6jzi SF=False
+T: What would you do in my situation?
+O: Hey mommas,   
+I’m kind of needing advice/curious to know what other moms would do in my situation I’m 25 with an almost 3-year-old and pretty much homeless. Every situation that I have put myself to make better false approval I do not have access to childcare. I have tried to apply for state childcare assista
+1te89ko SF=False
+T: How is he able to throw so hard and accurately?!
+O: I poured myself a nice, full glass of ice water in one of those glass goblet-style cups and put it in the center of our dining table, exactly where my toddler can't reach. I went to grab his bottle from his little art table, and as I was walking back, he grabbed the blue paw patrol ball. I reache
+1teadvs SF=False
+T: 17 month old and peer interaction
+O: My daughter is 17 months and is just starting to ease into daycare before i go back to work. The daycare workers have commented that she doesnt like other kids and wont play with them. Even often crying if they get too close to her. If hanging with a teacher isnt an option, she'll choose to sit a
+1teg35w SF=False
+T: I don’t know how to act in public with my 2 year old, it gives me horrible anxiety. Please explain if you can
+O: I am a single mom to a 2.5 year old little boy and trying to just take my son to places that we can both enjoy, I really don’t understand how to manage the dynamic though. Due to the nature of my relationship with his father I got out of a bad situation with literally no friends and no family s
+1tegqoz SF=False
+T: 16 mo old still being rocked to sleep!
+O: Somehow I was unaware that by this age, most toddlers are able to go to sleep on their own without being rocked. I’ve been rocking my daughter every night and honestly it’s one of my favorite things to do, but apparently I should be teaching her to fall asleep on her own? 
+Just a show of hands, is this concerning - not concerning as in very seriou
+1tehs00 SF=False
+T: Toddler (may have) gotten shocked
+O: Title. 2.5 year old was crying. Way past bedtime, figured she had bad dream. Went to her room to find her  by her closet and her lamp on the floor. Picked up the lamp and I got electrocuted. Freaked out, unplugged lamp, yelled for her dad, hugged her and gave her kisses. She was fine in under 5 m
+1tev030 SF=False
+T: To daycare or not to daycare?
+O: Ok long post ahead but would love everyone’s opinions.
+Here’s the situation, my toddler is 15mo & he’s been with me (he is EBF) full time as I am a SAHM. He is fed to sleep (which I love so not looking to change this) and breastfeeds on command but also eats solids like a champ.
+I’m considering starting daycare ASAP bc I just need a break, I need
+1tevvaf SF=False
+T: Moving toddler to bed
+O: Looking for advice as my husband and I have been going around and around with what to do.
+We have a 2.5 year old that will be 3 in October and another baby on the way, due in August. Our son currently still sleeps in a cot and sleep sack and sleeps amazingly. He currently sleeps from 7.30 to about 7 each morning, no wake ups and has never attempte
+1teyaof SF=False
+T: 11 year old Adhd kid problems
+O: I'm feeling very discouraged. I've come here because I just genuinely need advice because I feel like I have given my all and it's still not enough. This may be long so sorry in advance. I have an 11 year old son who was diagnosed with ADHD. I love him with all my heart but he is so unpleasnt to 
+1tfdmj3 SF=False
+T: What are we feeling guilty about tonight?
+O: I’ll go first…
+the chicken for our chicken Caesar salad dinner wasn’t ready in time for my 12 month olds dinnertime. so, instead she had to get greek yogurt and a munchy stick for her main protein & carb tonight. she was stoked, i on the other hand felt like a total failure.
+oh! and can’t forget the full episode of sesame street she watched today
+1tfxdlp SF=False
+T: I am at my limit (vent/seeking advice)
+O: Context: I am 20 weeks pregnant and have a 2.5 year old. I also work with level 3 special needs adults every day. Needless to say, I. Am. Tired.
+I am so stressed my chest hurts. I am at my absolute limit; I’m considering checking myself into a psych ward just to get a f\*cking break and I truly, genuinely wish I was joking. I think I’m heading tow
+1tfzcob SF=False
+T: It’s so hard to do this away from family. I’m so, so tired and sad.
+O: Just need to put some feelings somewhere.
+My husband (39M) and I (36f) both moved several provinces away from our families when we were young. Not because we wanted to get away from them, but because we were adventurous and chased learning opportunities away from home. I always thought I might end up back where my parents are, but we’ve e
+1tgbtyi SF=False
+T: Son with ASD and ADHD while spouse plays video games
+O: Guys I’m so mentally exhausted I’m pregnant and so drained my spouse helps on his day off but when my toddler starts acting out or freaking out he’s on the game…. I stay home with my toddler and never get any alone time to myself and no the shower doesn’t count…. He works and I don’
+1tgn2mg SF=False
+T: Silent divorce?
+O: For the last couple weeks, I’ve been seriously debating divorce due to a completely dead marriage. My husband and I have had unresolved issues for years that we’ve never really been able to fix. We tried marriage counseling and it honestly made things worse. Every conversation about improving
+At this p
+1tgytkk SF=False
+T: Struggling to trust grandad around son - protecting my child vs sabotaging their relationship
+O: I need your unbiased advice on an issue that literally causes me a stomach ache and sleepless nights, namely the relationship between my father (M59) and my son (4M). I am lost and insecure about how much of a relationship I need to enable for them to have and how to ensure my child's wellbeing (
+1th8m3p SF=False
+T: Would this irritate you?
+O: I live in an apartment complex with my two girls 7 & 12. Last year we became friends with a family down the hall with a 9 y/o boy and 2.5 y/o girl. The boy, let’s call him Henry has ADHD and is off the wall and really loud a lot of the time. I’ll admit, I’m not a fan. Honestly, I’m not re
+1thn5j7 SF=False
+T: I get triggered at my 4yo not listening and I’m scared I’m a horrible mum because of it 😫
+O: Is it typical to have to repeat things many times over in order to get a 4 year old to do something?
+If I ask my daughter to put on her shoes when we’re trying to get out the door for kindy, for an example, she will do everything but that, unless I physically sit with her to do it with her. 
+At times when we’re rushed or my patience is thin, or I
+1thqggt SF=False
+T: 2 year old has extreme separation anxiety out of nowhere
+O: I’m at a loss and need help. I have an 8mo and a 25mo, my 8mo is an amazing napper and has always preferred his crib which has worked out great for us. Ever since he went down to 2 naps this is what our schedule looks like, once his morning nap approaches I pop on a 20 minute Curious George epi
+1ti1wza SF=False
+T: Just a frustration rant
+O: I am so frustrated right now. Really at my wits end. So back in feb my husband lost his job, super unavoidable (federal issues). We weren’t living check to check but werent living lavishly either. Like JUST enough to have a slight savings. Now we’re just living on my check and trust, it is no

@@ -1,0 +1,9 @@
+EM='expecting_mother'; XM='experienced_mother'; NM='new_mother'; PU='parent_unspecified'
+Q=[
+(132,'',NM,'newborn_0_2_weeks','fear',['birth_plan','first_pregnancy','plan_b'],"This is my first child, first birth experience, first surgery, and even my first time staying in a hospital. I didn’t know what to expect, especially for the surgery. This is not how I imagined it would go.","Her written birth plan changed late in pregnancy.",True),
+(133,'',NM,'newborn_0_2_weeks','pain',['heat','uk','nhs','waiting'],"considering we were going through a heatwave and I was just fed up at this point and anxious of going into labour","Past 40 weeks in a UK heatwave with no booked date."),
+(133,'',NM,'newborn_0_2_weeks','pain',['uk','nhs','scheduling','advocacy'],"My midwife had little control over communicating with the elective bookings team and co-ordinator, so my partner and I really had to advocate for myself as I surpassed 39 weeks without a date for the procedure.","Chasing a date for a planned birth at a busy NHS trust.",True),
+(133,'',NM,'newborn_0_2_weeks','pain',['first_two_weeks','hospital','first_time_parent'],"I was left to my own devices at one point to change a nappy which was incredibly daunting as a first time Mum and in quite a bit of pain.","On the postnatal ward the day after the birth."),
+(133,'',NM,'newborn_0_2_weeks','advice_given',['hospital_bag','heat','postpartum_recovery'],"I had my op on the hottest day in June so I took a fan in with me - this was imperative otherwise I probably would have been even more sick in recovery.","Her hospital-bag list after a summer birth.",True),
+(133,'',NM,'newborn_0_2_weeks','advice_given',['hospital_bag'],"Amazon labelled bags for your suitcase - mum’s clothes, babies clothes, muslins, blankets, sanitary towels (I didn’t use them as the hospital provided them)","Start of her packing list."),
+]

@@ -1,0 +1,19 @@
+units1-19 batch01 done; excluded none; note 1szdftd crosspost of 1szdecd (not quoted); 1szkl5a medication line skipped; 1szhx8a bed-sharing question line skipped
+b02-04: cross-posts not quoted: 1t0coxo,1t0cqlx (of 1t0cnv9); 1t0sz1z (of 1t0sx3b, reply only about crib transition). 1t0q8r8 is cross of 1t0pj22 (both quoted, distinct text)
+EXCLUDE daddit-1t0x2cx: toddler climbing out of crib / fall-injury fear (safe-sleep incident)
+skipped lines: 1szr6ud cosleep; 1sztcnx PPD; 1t00aj9 bedsharing; 1t06ei2 cosleep risk, calpol/nurofen, belly-sleep; 1t06tzx glider unsupervised; 1t07xul rolling to tummy; 1t0dpul breath; 1t0kfe5 cosleep; 1t0msz6 back injury; 1t0o0qh crib falling; 1t0sxur cosleep safety, pain meds; 1t0un68 AAP/cosleep, PPA; 1t0uzy3 cosleep; 1t0w1sd bed; 1t104zf bedsharing, chiro, tongue tie; 1t0qdes vitamin; 1t0rga5 scratches
+EXCLUDE NewParents-1t10wax: infant breathing/choking episodes and hospital stay (medical/safety)
+EXCLUDE NewParents-1t17uks: newborn safety worry after special-care stay; parents' mental distress (nothing quoted)
+skipped lines b05: 1t1fx6q ibuprofen, parent health; 1t1jei7 soft mattress; 1t1k2bd paracetamol, heat/setup; 1t1kozb CMPA, calpol, cosleep; 1t0x... 
+SPEAKERFIX parent_unspecified: 1t07kcf 1t0ekor 1t1kn7k 1t10u6m 1t12j6x
+EXCLUDE Mommit-1t1krah: parent mental-health crisis wording and partner's self-harm remark
+cross-post not quoted: toddlers-1t1qnic (of sleeptrain-1t1qhi3)
+skipped lines b06: 1t1ock6 reflux/CMPA meds; 1t1oubs breathing, cosleep; 1t1qhi3 fever/ear; 1t1shyj MH, cosleep; 1t1smgo bedsharing; 1t1y8mo dentist; 1t1yrm5 jumping off bed; 1t225oo cosleep
+EXCLUDE NewParents-1t2b517: parent describes being hit as a child (physical force toward a child) and a neurodivergence self-report
+skipped lines b07: 1t2frvr vomiting/colic; 1t2kwha burley safety, heat; 1t2lf40 reflux, cosleep safety, breastfeeding body; 1t2n6xt adult bed at 4am; 1t2s5i0 pain relief, cosleep; 1t2logt colic
+SPEAKERFIX parent_unspecified: 1t2kwha(no self id? 'myself'...check) 1t2n6xt breastfed passive
+EXCLUDE sleeptrain-1t2zpn3: face-down sleeping position (safe-sleep detail) and breakdown wording
+EXCLUDE beyondthebump-1t33wss: child hitting head / standing and falling in crib (injury risk)
+skipped lines b08: 1t2xtcm reflux; 1t31sw4 bedsharing; 1t2y5vk cosleep/anxious; 1t33qq4 swaddle; 1t2twmc adult bed
+SPEAKERFIX parent_unspecified: 1t33qq4 1t33s9m 1t148? 1t35458(returned to work - no self id)
+skipped lines b09: 1t370og nipple-touching, teeth worry; 1t3bz59 rolling-on-baby fear, alcohol, in-laws unsafe care; 1t3auz0 cosleep

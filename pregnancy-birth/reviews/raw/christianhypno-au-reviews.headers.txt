@@ -1,0 +1,29 @@
+HTTP/2 200 
+server: daiquiri/5
+content-type: text/html
+cache-control: public, max-age=900
+content-security-policy: upgrade-insecure-requests; default-src 'none'; manifest-src 'self' https://*.apple.com; img-src 'self' https://*.apple.com https://*.mzstatic.com data:; font-src 'self' https://*.apple.com; style-src 'self' https://*.apple.com 'unsafe-inline'; script-src 'self' https://*.apple.com; connect-src 'self' https://*.apple.com https://*.mzstatic.com; media-src 'self' https://*.apple.com blob:; child-src 'self' https://*.apple.com; frame-src 'self' https://*.apple.com itms-appss: macappstore:; worker-src blob:; frame-ancestors 'none'; block-all-mixed-content; report-uri /api/csp-report
+etag: "sDmmQThwcAYMdIXT1I9xThp7kYQG9goMHu7h5rAj6jg="
+x-apple-jingle-correlation-key: YGA3SVOZXU72TABZOWU7I7NXZI
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-responding-instance: amp-web-app-store-server:amp-web-app-store-server-main-75c7cb9d4b-gck6g:4200:2642.2.0-external
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubDomains
+x-daiquiri-instance: daiquiri:10001:daiquiri-cluster-6c785cc98b-bf59h:7987:26HOTFIX48:daiquiri-amp-kubernetes-shared-cluster-ak8s-prod-du2-amp-web-app-store-prod
+x-daiquiri-debug-worker-pid: 87280
+x-daiquiri-instance: daiquiri:10001:daiquiri-all-shared-ext-5454bbfdf9-5jnkv:7987:26HOTFIX48:daiquiri-amp-kubernetes-shared-ext-ak8s-prod-du2-amp-daiquiri-ingress-prod
+x-daiquiri-debug-worker-pid: 305491
+accept-ranges: bytes
+age: 0
+date: Sun, 25 Oct 2026 08:14:32 GMT
+via: 1.1 varnish
+x-cdn: fsly
+x-served-by: cache-ber1080038-BER
+x-cache-hits: 0
+x-timer: S1792916073.553522,VS0,VE337
+vary: accept-encoding
+set-cookie: geo=LT; domain=apple.com
+x-cache: MISS fsly
+content-length: 249902
+

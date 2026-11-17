@@ -1,0 +1,25 @@
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+x-ua-compatible: IE=edge
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Sun, 25 Oct 2026 08:34:08 GMT
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+strict-transport-security: max-age=31536000
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*
+content-security-policy: require-trusted-types-for 'script';report-uri /_/PlayStoreUi/cspreport
+content-security-policy: script-src 'nonce-TZ_4EPKL3aSYK3cFdll5Mw' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /_/PlayStoreUi/cspreport;worker-src 'self'
+cross-origin-opener-policy: same-origin-allow-popups
+cross-origin-resource-policy: same-site
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+reporting-endpoints: default="/_/PlayStoreUi/web-reports?context=eJzj2sGoxSXF4KkhxdB68xzrdCAuWXSetQ2Iu4B4DhAbKlxidQbiIokrrC1A_KnqBqtI9Q3Wryvvs_4H4lmMD1gXALG_6kPWUCBOb3zImgXE6QsesuYCsf6uh6ymQPx570PWn0CccOAhaxoQMx97yMoJxNVnHrI2ArHXlYesAUCcde8hawEQz37xkHUeEH_9_JD1LxB_K_Zl4yjxZWN568_2tzuWTYiHo-Hft2tsAgda1lxjVJJPyi-ML8hJrCzNLE4tKkstijcyMDIzNDAy1DMwjC8wAACeF2dr"
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+set-cookie: NID=CoICCAEStAEBOxGDSC-4i_t3Q0iqWcl-2E320nDZqDSOkjvSKMX9FHQ6Qz1INbCj8JlEZ6A27X3EgWqHKCi3_siL8WXibow8_f6sTrinAx58taK3R6xbir3pJW3CkzJ14a2p0cMgAujg3DHzzi6IjSAlCyF_lF9xwpsDQQ28Ob5Yt3aSXI5lLfx7d5EmR-fDGx8UjqpH8wkvfmlSFj-W-CfkarDRLPW-iiZ9jAJ0iqW5I8RBpa8auW4zk74oATJFAdKsB88uIp5vXSwsJEv_gsZuLZaKZeXYJ6wzLInDY54Z0O2m8bRNSC9nR3CX5GrhLuzYW0ycIvocoM6frfGAaVCuzh8I; expires=Mon, 26-Apr-2027 08:34:08 GMT; path=/; domain=.google.com; HttpOnly
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+accept-ranges: none
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site,Accept-Encoding
+

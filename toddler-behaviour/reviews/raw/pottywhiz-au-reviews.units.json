@@ -1,0 +1,31 @@
+{
+  "app": "pottywhiz",
+  "country": "au",
+  "url": "https://apps.apple.com/au/app/-/id1493987452?see-all=reviews",
+  "http_status": "200",
+  "raw_file": "_raw/reviews/pottywhiz-au-reviews.html",
+  "corpus_file": "_raw/reviews/pottywhiz-au-corpus.txt",
+  "reviews": [
+    {
+      "id": "11435835580",
+      "title": "GREAT FOR TRACKING POTTY USE!",
+      "contents": "I don’t know how this app doesn’t have as many reviews as it should. I think it’s great! \n\nEasy to track. Very straight forward! \n\nYou have the option to pay for a premium but without it it still does the trick! We are 5 days into potty training and I wish I had this on day one! It’s a good visual to see how well my little one is progressing!",
+      "rating": 5,
+      "date": "2024-06-29T07:59:54.000Z"
+    },
+    {
+      "id": "12698760052",
+      "title": "A real joke",
+      "contents": "After FIRST HOUR using it, it already ask you to pay for a plan. It doesn’t allow you to play the timer and other basics settings, without joining a monthly plan!! I don’t even know if the app will help me, how do you guys expect that a customer pay for a plan without being able to test the basics of your app?",
+      "rating": 1,
+      "date": "2025-05-26T02:56:52.000Z"
+    },
+    {
+      "id": "6994554779",
+      "title": "Disappointing",
+      "contents": "I purchased the app and was sad to realise that my previous purchase was not valid when I upgraded my iPhone 10 to iPhone 12. I sent an email to support to get assistance with this and no one had the decency to reply and help me sort this out.",
+      "rating": 1,
+      "date": "2021-02-14T20:16:58.000Z"
+    }
+  ]
+}

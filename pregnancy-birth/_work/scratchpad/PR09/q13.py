@@ -1,0 +1,25 @@
+S = {
+90: "read, not quoted: fetal monitoring, reduced movements and growth-scan centred",
+91: "excluded: post centres on deciding whether to end the pregnancy",
+92: "quoted",
+93: "quoted",
+94: "read, not quoted: early-pregnancy illness, fever and medication worry centred",
+95: "quoted",
+}
+Q = [
+(92, "", "expecting_mother", "third_trimester", "desire", ["birth_plan", "epidural_decision"], "labor as long as possible without an epidural", "First line of the birth plan she will hand over, at 38+2 weeks.", ""),
+(92, "", "expecting_mother", "third_trimester", "belief", ["birth_plan", "flexibility"], "If interventions are needed I am open to changing circumstances for the safety and well being of my son", "Same birth plan.", ""),
+(92, "", "expecting_mother", "third_trimester", "desire", ["birth_plan", "epidural_decision", "flexibility"], "If pain is too much I am open to laughing gas […] I am open to epidural if I cannot handle labor pain any longer and if it is feasible at the stage I am in.", "Pain-relief section of the same birth plan.", ""),
+(92, "", "expecting_mother", "third_trimester", "desire", ["birth_plan", "postnatal_ward", "visitors", "feeding"], "If possible Id like to room in with my son the whole stay […] I will be breast feeding and would like to have access to a lactation consultant […] I am okay with visitors post birth", "Post-delivery section of the same birth plan.", ""),
+(92, "", "expecting_mother", "third_trimester", "fear", ["birth_plan", "not_listened_to"], "I feel awkward having to have this discussion with on call new physicians because I worry about judgment.", "Same post; medications cleared from her chart by mistake.", "medication list in same passage"),
+(92, "p8ssqaq", "expecting_mother", "third_trimester", "pain", ["third_trimester", "losing_control"], "It's hard because I can't tell what's going on inside at home.", "Reply on why strong contractions worried her.", ""),
+(93, "", "new_mother", "newborn_0_2_weeks", "others_said", ["feeding", "partner_role", "first_two_weeks", "uk_nhs"], "Midwive said that If I want to have a successfull mix feeding then I have to stablish my supply properly and that takes ,as I said, offering breastfeeding constantly and supplementing with formula. Maybe my husband could help with one babby bottle once or twice per day but not more she said.", "UK first-timer with a two-week-old, switching to bottles.", ""),
+(93, "", "new_mother", "newborn_0_2_weeks", "pain", ["feeding", "first_two_weeks", "family_pressure"], "Back at home I first decided to go heavy on formula but preassure, guilt and wanting to give it a try got me to finally trying more breastfeeding.", "Same post.", ""),
+(93, "", "new_mother", "newborn_0_2_weeks", "pain", ["feeding", "fatigue", "first_two_weeks"], "Now I have terrible sore boobs and sleep deprivation which is not making me a happy mum tbh.", "Same post.", ""),
+(93, "p8sy3dn", "new_mother", "newborn_0_2_weeks", "pain", ["feeding", "information_overload"], "But information is so confused. The message I have received is that breastfeeding during night hours is super important for the milk supply…", "Reply in her thread.", ""),
+(95, "", "expecting_mother", "third_trimester", "purchase", ["nesting", "first_pregnancy", "price_value"], "With that came EIGHT new pieces of furniture (a long overdue bedroom set for us, and some shelving units for various places in the house), 6 of which my husband has to assemble", "40-year-old first-timer, just into the third trimester, nesting hard.", ""),
+(95, "", "expecting_mother", "third_trimester", "purchase", ["nesting", "price_value"], "Hired a handyman for several smaller house projects we keep talking about needing to get done but don't have the skill or will to do ourselves", "Same post.", ""),
+(95, "", "expecting_mother", "third_trimester", "purchase", ["nesting", "price_value"], "Just today signed a proposal for a massive hardscape/landscape project for our front yard", "Same post; started from steps too narrow for a stroller.", ""),
+(95, "", "expecting_mother", "third_trimester", "belief", ["nesting"], "Time to do EVERYTHING, right NOW.", "Same post; projects saved for over years.", ""),
+(95, "p8x62t0", "expecting_mother", "third_trimester", "purchase", ["nesting", "what_to_buy"], "Highly recommend a chest freezer! We got a pretty inexpensive one a few years ago from Best Buy (their store brand Insignia) and it has served us well.", "Her reply; planning meal prep before the birth.", ""),
+]

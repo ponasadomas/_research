@@ -1,0 +1,181 @@
+ID 1s9r7ep | r/daddit | 2026-04-01
+TITLE: 4 Months in the Trenches: From "Zombie Mode" to "Grogu Coos." My honest review/advice
+OPENING: Hey fellas, my girl just hit 4 months. I’m currently writing this on paternity leave with her sleeping in a carrier on my chest. We’ve officially survived the "4th Trimester," and I wanted to share what worked for us from the corporate benefits to the 2 AM gaming shifts.
+# 1. The First 2 Weeks: The "Night Doula" Secret
+We were lucky—my company be
+ID 1sal23l | r/daddit | 2026-04-02
+TITLE: 4 months in and finally the Grogu coos are real 😄
+OPENING: My girl just hit the 4-month mark and I’m finally on paternity leave.  I'm writing this while she’s passed out in the carrier on my chest and honestly it's the best feeling. The first few months were as crazy as everyone said they'd be but we’re finally seeing the "reward" kick in. Those smiles and the weird little Grogu-like coos are life-changing
+ID 1sc1m2u | r/daddit | 2026-04-04
+TITLE: help lol
+OPENING: fiance is mad that i work a night shift job, ive tried to move to mornings past few months but no luck as ive made my self to important to my shift lol thats a warehouse for ya.. anyway i have 2 month old and 2 step kids of hers that i do take care of and pay for alot of the time. sometimes i work 12 or more hours but others i can leave in 8 hours 
+ID 1scwzze | r/daddit | 2026-04-05
+TITLE: How do I get my partner to start helping without me continuously asking?
+OPENING: Hello daddit! 
+I apologise if this isnt allowed but I genuinely need advice from other dads. 
+partner and I have two kids (eldest is his step child, 4yo, and youngest is ours, 9mo) 
+he works part time as he is (meant to be) the main care taker for our kids as I study full time nursing 
+A sickness bug has gone round our home and its decided to f
+ID 1si47am | r/daddit | 2026-04-11
+TITLE: Anyone have periods where your toddler starts crying suddenly at bedtime?
+OPENING: Our almost 3 year old is a great sleeper. Usually we read his books, light out, falls asleep. 
+For the past week he’s been crying a ton every night. Mostly it just sounds like whining but it goes on for like 30min. Then I go sleep in his bed with him and he falls asleep quickly. 
+This started when my wife started doing his bedtime. She had been t
+ID 1skgldr | r/daddit | 2026-04-13
+TITLE: I’m a former pro rugby player. Now I’m a dad of 4 under 9. Here’s how I stay lean all year round with almost no time.
+OPENING: I’m Phil Mackenzie. I played professional rugby for Sale Sharks and represented Canada in two Rugby World Cups. Back then, staying in shape wasn’t something I had to think about… it was literally my job. Train, eat, recover, repeat. I’d finish a session, crush a massive lunch, and then go nap in the middle of the day like it was part of my job desc
+ID 1slktx2 | r/daddit | 2026-04-14
+TITLE: Sleep-training not working after months, baby screams for hours... I'm just so tired...
+OPENING: Our baby girl is almost 10 months and just will not sleep for more than 30 minutes at a time and never goes back to sleep unless we lay next to her...
+  
+From day 1 she has struggled with sleep, never fully relaxing and always kicking/thrashing in bed... 
+In addition, she always goes direct into full frenzy panic scream at top of her lungs mode, 
+ID 1sotzeb | r/daddit | 2026-04-18
+TITLE: Am I the asshole?
+OPENING: My wife works monday to friday. She gets up between 5 to 5:30 am everyday. Then gets our daughter up and me because she goes to work by 6ish. I happliy do this and watch the child until I bring her to daycare at around 8 am. Mondays I still bring her to daycare when I am off because we are paying for the entire week anyways. I work Tuesday to satur
+ID 1sq7ife | r/daddit | 2026-04-19
+TITLE: Dads. What did you only find out was on your wife's list after something fell through?
+OPENING: 6 month old. yesterday my wife had a GI bug, slept the whole morning. i ran solo from 6am to about 1pm.
+baby was fine. fed her, changed her, took her to the coffee shop on the corner because i was going stir crazy. sat down around 11 to reply to slack.
+then i went to put her in the pack n play and noticed we were on the last three size 2 pampers.
+ID 1sr849x | r/daddit | 2026-04-21
+TITLE: Money, Failing, Dance
+OPENING: Not sure what I'm looking for, just feel like a failure and needing to vent.
+My daughter does dance classes, it's been the only thing she's really stuck with. Doesn't practice a huge amount, but always keen to go and she tries.
+Her club have arranged a big trip to LA, which would cost more than we budget for a family holiday for the year. It's ju
+ID 1srveb5 | r/daddit | 2026-04-21
+TITLE: I've read the same book every night for three months and I still do the voices every single time
+OPENING: It's a book about a bear who can't sleep and it's not even a bad book, I just never expected to have a relationship with it like this. The voices started as a joke the first week, low gravelly one for the bear, high squeaky one for the owl he runs into, my son lost it and that was it, I was locked in permanently with no exit. We're three months dee
+ID 1sx4zai | r/daddit | 2026-04-27
+TITLE: 46, busted back, solo dad to a 5yo Asperger's tornado - I'm doing everything right and still running on empty by 4PM. Help.
+OPENING: Hey guys. 46 year old girl dad here. My little girl is 5,5 years old.   
+  
+She is high functioning autistic/Aspergers. Her condition (not sure if this is the right word, English is not my first language) manifests in physical and verbal hyper activity.   
+  
+She basically starts talking and running around at 7AM at stops around 9PM. Every thought,
+ID 1sxno8g | r/daddit | 2026-04-28
+TITLE: Worst time of my life
+OPENING: I can’t deal with the criticism anymore. Everything I seem to do is wrong. Not supportive enough, don’t help enough. I’m beyond breaking point. 
+I have a 10 month old son and I’ve never been less happy. I love him more than anything, he brings me so much joy, but I think my wife and I are on the verge of divorcing. I haven’t worked since he was bo
+ID 1sz4e7w | r/daddit | 2026-04-29
+TITLE: I need to get this out of my head and into the world. It has been swirling in my head and I start to cry every time it comes around. I hope this stops the crying at least.
+OPENING: There are 27 more days of 3rd grade for my daughter and 1st grade for my son. That seems impossible, way too fast. The year just started! Life is picking up speed and I'm starting to feel scared. 
+My daughter is growing into such a confident, smart, empathetic, strong, compassionate, and genuine young woman. Destroying every math assignment this y
+ID 1t0g4qd | r/daddit | 2026-05-01
+TITLE: Perspective
+OPENING: Our little dude is a bit over a year old. After the initial nearly year of his insomnia and screaming, he’s chilled out. To a point where I truly enjoy being around him and with him.
+He’s starting to talk, play with me, is experiencing the wonders of this world for the first time and my feeling like an actual \_dad\_ is hitting full swing.
+I neve
+ID 1t2paxs | r/daddit | 2026-05-03
+TITLE: Sometimes my wife and I both need another hour of sleep, but the baby decides he's fully rested and ready to wake up. How would you navigate this?
+OPENING: Here's the situation. Our baby is 1 month old. This morning, my wife and I both needed just another hour of sleep, two max. We were both feeling a little irritable, sluggish, and generally not out best. The baby, however, was wide awake. He was freshly changed and full of milk. He wasn't fussing or crying, just kinda laying there in his bassinet, s
+ID 1t5k18s | r/daddit | 2026-05-06
+TITLE: My little angel
+OPENING: I was brooding dark thoughts, had no purpose, had no motivation to keep going, had doubts about me, about my nature, about who I am, about the choices I made. 
+And then I heard your voice, I felt your hand on me, your head resting on me, so tender, so small, your fist held my finger so tightly. You never judged, you never withdrew, you never held 
+ID 1t9ela8 | r/daddit | 2026-05-10
+TITLE: How do you deal/relax with being a newer dad and always on the go 24/7?
+OPENING: Recently I usually work 4 days (Tuesday to Saturday) 40+ hours a week. Mainly cause they've cracked down on overtime on our team and frankly I don't desire it like I used to since being a dad. My partner works part time 3 days a week (Friday through Sunday) and if she picks up shifts or hours. The main problem is I can sleep at work if our special 
+ID 1tag9lz | r/daddit | 2026-05-11
+TITLE: Advice on Getting Almost 4yo to Go to Sleep
+OPENING: My almost 4yo son has been a surprisingly good sleeper, all things considered. Sure there have been some rough patches, but if I crunch the numbers he's probably slept through the night 90+% of his life. We're super lucky. We're even super lucky in that he's been out of a crib for over a year and never seemed to realize he could leave the bed excep
+ID 1tbw64m | r/daddit | 2026-05-13
+TITLE: Struggles with Baby #2
+OPENING: I'm having a really hard time at the moment adjusting to a 3 week old at home with an almost 3 year old toddler. Does anyone have some advice for how to push through the wall I'm hitting to bikd with our second child? 
+I've been seeking podcasts, finding old posts from other people, etc. but I can't really find what Ive been looking for. 
+Our fir
+ID 1tco0qa | r/daddit | 2026-05-14
+TITLE: Mindset change for dad night duties changed my life
+OPENING: TLDR: 
+I decided to start seeing night time kid issues as "problems" that I could solve and I almost instantly started to feel better every night.
+Background info:
+My wife and I just had our 4th child (2nd son) on 4/8. For all of our kids, I have mostly taken the responsibility of night duty for 2hr feedings, because I do much much better than m
+ID 1tg8al0 | r/daddit | 2026-05-18
+TITLE: Frustrated!!!
+OPENING: Let me first say my wife is great, she’s an amazing mom.  
+But she has no concept of enforcing rules or holding the kids accountable.  
+My kids struggle with mornings, especially when they get to bed late..it’s now an hour past their bedtime, that was agreed upon 3 hours ago, and she’s still letting them run around the house because one of them i
+ID 1tk5a31 | r/daddit | 2026-05-22
+TITLE: Taking care of my baby makes me sleep-deprived everyday...
+OPENING: Any dad who’s been through it should knows the fact, it is the most painful thing is being able to sleep only intermittently, day after day.. Although I’m more than willing to share the tasks with my wife, and indeed I’ve been doing it consistently. But I still need to tell my frustration here, taking care of my baby is truly exhausting!!!   
+At tw
+ID 1tn0ttl | r/daddit | 2026-05-25
+TITLE: 5 week old with reflux and I’m at my breaking point
+OPENING: First-time dad here. LO is 5 weeks old and I’m genuinely at my breaking point. Not looking for advice — just solidarity and maybe some light at the end of the tunnel.
+# The overnight situation
+I take the earlier part of the night shift. Around 1am is consistently the worst part of my day. Bottle feeding pumped breastmilk is a disaster every singl
+ID 1tnq75n | r/daddit | 2026-05-26
+TITLE: I feel like a failure today
+OPENING: My precious beautiful baby daughter is just over seven weeks old. We had a long tough journey to finally meet her. Between the extra hospital stay due to jaundice, I thought I was doing ok. Cooking, cleaning, diaper changes, night shifts, feeding baby and mom, tummy times and everything.
+The last week and a half has been brutal. The witching hour 
+ID 1tpeu2v | r/daddit | 2026-05-27
+TITLE: Anyone with a dumb phone or similar, how are you photographing your kids?
+OPENING: I'm quite sick of the attention sink that is my phone and I'm considering downgrading in one form or another. One of the main things holding me back is the camera. I don't have a flagship but even mid tier smartphones have pretty solid cameras at this point. Being able to capture things at a moment's notice is honestly one of the best things about 
+ID 1tq571a | r/daddit | 2026-05-28
+TITLE: What stupid sh*t did sleep deprivation make you do?
+OPENING: Apologies for the AI generated image, but my sense of self worth was damaged too much by the scene from yesterday evening that I did not dare recreate it. Joke of course, I laughed till I cried. Real apology is that a dad doesn't have time to recreate such scenes. Apart from that: I would need a third hand.
+My question to you:  
+What stupid things
+ID 1tq6i6n | r/daddit | 2026-05-28
+TITLE: Hands up if you have a bad sleeper?
+OPENING: Just looking for some community. My wife and our 2 LOs (4.75 and 2.0) are about to take a 4 day road trip and yet again our youngest has been waking up crying 2-3 times per night the last few nights. Pediatrician confirms no teething and no ear infections so it’s just…him. 
+Every time we travel (and sometimes when we aren’t) this kid denies us sle
+ID 1tsl7ow | r/daddit | 2026-05-31
+TITLE: Baby can’t fall asleep due to gas
+OPENING: Hi guys,
+Just writing here because my partner and I are at our wits end. Our lil guy is 10 weeks old and has been awesome. But since having him we can’t seem to have him sleep in his bassinet at all. Every time within ten minutes of setting him in his bassinet he starts grunting, kicking legs up, and crying (while still staying asleep) until he wa
+ID 1tstfvo | r/daddit | 2026-05-31
+TITLE: Husbands of SAHMs, did you ever feel really guilty about going back to work and your wife’s sleep/health during infant stage?
+OPENING: My wife is an absolute trooper, and I just feel so guilty about her lack of sleep during the week when she takes night shift to give me some sleep for work. I try helping on the weekends more with taking the night, and I try to take the first half of the night on weekdays (9pm-1am so she can get at least 4-5 hours of sleep), and even just taking th
+ID 1tthi87 | r/daddit | 2026-06-01
+TITLE: I’m sorry, but I can’t help but feel being a dad sucks ass. I’m miserable.
+OPENING: First time father of a 3 month old boy.
+I miss my old life. I’m constantly tired af. He won’t go to sleep until 1 or 2 am sometimes. And always gets up around 6 or 7. 
+My performance at work is dwindling. I’ve had to stop my gym routine altogether, something I was proud of being consistent with , pre-baby times.
+This is not sustainable. 
+When t
+ID 1ttjuc1 | r/daddit | 2026-06-01
+TITLE: To All The Fathers
+OPENING: I'm here to say it does get easier. I'm a father of a 2 year old boy and I can certainly say 2 years ago wasn't exactly the most entertaining time of my life. I was struggling mentally, physically, and financially before he was born and bringing him into this world certainly wasn't going to make self-improvement any easier, or so I thought. 
+A few
+ID 1tx11k4 | r/daddit | 2026-06-04
+TITLE: It's not getting easier, it's getting much harder (9.5mo)
+OPENING: Hello!
+I need some help. Or commiseration. Or reassurance. Or a priest. 
+Our little boy has never been a good sleeper, waking 4ish times per night on average. All along the way, we've been told "this is just a phase/regression, he will grow out of it \[insert time frame\]." Well, he hasn't grown out of it. In fact, recently, the sleep has gotten 
+ID 1u033yl | r/daddit | 2026-06-08
+TITLE: New dad, leadership role, back from leave, and I just don't feel like working. Is this normal?
+OPENING: I became a father about a month ago and was away from work for a few weeks. I recently returned to my job, where I have a leadership role, and I'm honestly struggling.
+I don't feel motivated at all. I'm procrastinating, skipping tasks, and sometimes I just don't want to work. I worry that people will notice and that I might eventually lose my job.
+ID 1u14ufa | r/daddit | 2026-06-09
+TITLE: Does anyone else's brain play phantom crying on loop or is it just me
+OPENING: Is there a way to uninstall the phantom crying software from my brain or am i just stuck like this forever. I was in the shower today for the first time in like forty eight hours because life has been a literal blender lately. Both kids were finally down for a nap and the wife was out grabbing groceries. Total silence right. Wrong. As soon as the w
+ID 1u3l9sl | r/daddit | 2026-06-12
+TITLE: I feel like I dread every night
+OPENING: My son is 4 weeks old and I feel like I dread every single night. We are first time parents… trying to figure this out. We split the night shift (me 8-2am , her 2am - 8am.) and I work full time too. I’m absolutely exhausted. Baby cries and screams every night without ever sleeping more than a hour at a time . When does this get better? Please I’m d
+ID 1u5egsr | r/daddit | 2026-06-14
+TITLE: How to Transfer
+OPENING: My 7 month old will not sleep unless she is being held. It is almost immediate the crying sobbing wake up when either her mother or I try to transfer her.
+Its manageable when I am home but night shift makes that challenging. It makes quality time with my wife impossible. 
+Its also just torture watching her exhausted and unable or unwilling to sle
+ID 1u7zljb | r/daddit | 2026-06-17
+TITLE: Terrible school drop offs
+OPENING: My oldest boy is 3 years and 10 months. About to go a real school, he had been attending a small kindergarten for about a year and a half.
+Drop offs at kindergarten were fine, a bit hesitant sometimes or needing some encouragement but fine. 6 months ago we had a new baby, and I have to travel quite a lot for work.
+The combination of those 2 seems
+ID 1ub87o5 | r/daddit | 2026-06-20
+TITLE: Cant transition to sleeping beside my wife and daughter and it makes me feel guilty.
+OPENING: Our 6-month-old daughter sleeps only on the breast. We discovered this around a month to six weeks after her birth, and once we figured it out, things got a lot better. My wife slept much more soundly with the baby beside her than during the endless feeding shifts we'd been doing before. Since then I've been sleeping in the study, and she'd call me
+ID 1ud3c11 | r/daddit | 2026-06-23
+TITLE: Balancing it all
+OPENING: Hey Dads,
+This is a long one and I just need to let it all out. 
+I’m a relatively new dad. My wife gave birth to our first son 4 months ago. The pregnancy was… rough and high risk and the delivery (C-Section) was very traumatic and emergency. She was super anemic but bounced back quickly (she’s an absolute legend in my book). Thankfully both her 
+ID 1ue2smc | r/daddit | 2026-06-24
+TITLE: A Somber Reminder to My Fellow Dads
+OPENING: My wife and I have two beautiful little girls, both under 4 years old. They are happy and healthy, and the light of our lives.   
+  
+Before them, however, (and also before my wife 11 years ago), I had a 6 week old heeler I bought from a friend. About 6 months later, my dad found a young male pitbull in a very rough neighborhood and brought him home
+ID 1uelrjb | r/daddit | 2026-06-24
+TITLE: 8 hours of sleep is a scam
+OPENING: I finaly got the legendary eight hours of sleep last night because the mother in law took the kid for a sleepover . I went to bed at 10 PM like a responsible adult thinking I would wake up feeling like a million bucks and ready to finaly clear out the garage . Insted I woke up at 9 AM feeling like I had been hit by a literal truck and then dragged 

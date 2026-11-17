@@ -1,0 +1,46 @@
+HTTP/2 301 
+server: daiquiri/5
+content-length: 0
+cache-control: public, max-age=900
+content-security-policy: upgrade-insecure-requests; default-src 'none'; manifest-src 'self' https://*.apple.com; img-src 'self' https://*.apple.com https://*.mzstatic.com data:; font-src 'self' https://*.apple.com; style-src 'self' https://*.apple.com 'unsafe-inline'; script-src 'self' https://*.apple.com; connect-src 'self' https://*.apple.com https://*.mzstatic.com; media-src 'self' https://*.apple.com blob:; child-src 'self' https://*.apple.com; frame-src 'self' https://*.apple.com itms-appss: macappstore:; worker-src blob:; frame-ancestors 'none'; block-all-mixed-content; report-uri /api/csp-report
+location: https://apps.apple.com/us/app/little-ones-baby-sleep/id1382444112?see-all=reviews
+x-apple-jingle-correlation-key: A73O6PM5724AYS3MF2NZVTQ5UU
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-responding-instance: amp-web-app-store-server:amp-web-app-store-server-main-f58d85979-xspnv:4200:2642.2.0-external
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubDomains
+x-daiquiri-instance: daiquiri:10001:daiquiri-cluster-86cff5bb8-q8l99:7987:26HOTFIX48:daiquiri-amp-kubernetes-shared-cluster-ak8s-prod-sk2-amp-web-app-store-prod
+x-daiquiri-debug-worker-pid: 80019
+x-daiquiri-instance: daiquiri:10001:daiquiri-all-shared-ext-5659599cb-78plh:7987:26HOTFIX48:daiquiri-amp-kubernetes-shared-ext-ak8s-prod-sk2-amp-daiquiri-ingress-prod
+x-daiquiri-debug-worker-pid: 171444
+date: Sun, 25 Oct 2026 08:11:06 GMT
+x-cache: TCP_MISS from a2-22-31-191.deploy.akamaitechnologies.com (AkamaiGHost/22.6.5-e48a1e600c03e7d517694b5b11b937be) (-)
+x-cache-remote: TCP_MISS from a23-213-187-201.deploy.akamaitechnologies.com (AkamaiGHost/22.6.5-e48a1e600c03e7d517694b5b11b937be) (-)
+set-cookie: geo=LT; domain=.apple.com
+alt-svc: h3=":443"; ma=93600
+
+HTTP/2 200 
+server: daiquiri/5
+content-type: text/html
+cache-control: public, max-age=900
+content-security-policy: upgrade-insecure-requests; default-src 'none'; manifest-src 'self' https://*.apple.com; img-src 'self' https://*.apple.com https://*.mzstatic.com data:; font-src 'self' https://*.apple.com; style-src 'self' https://*.apple.com 'unsafe-inline'; script-src 'self' https://*.apple.com; connect-src 'self' https://*.apple.com https://*.mzstatic.com; media-src 'self' https://*.apple.com blob:; child-src 'self' https://*.apple.com; frame-src 'self' https://*.apple.com itms-appss: macappstore:; worker-src blob:; frame-ancestors 'none'; block-all-mixed-content; report-uri /api/csp-report
+etag: "/VVic2/hPxbFMyfqeGg9r+1Nwp/9KvyMq+RrZibY3uE="
+link: 
+x-apple-jingle-correlation-key: SKC274CFBTP3CCBEZFGC4XNRNQ
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-original-content-length: 292718
+x-responding-instance: amp-web-app-store-server:amp-web-app-store-server-main-f58d85979-b47t4:4200:2642.2.0-external
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubDomains
+x-daiquiri-instance: daiquiri:10001:daiquiri-cluster-86cff5bb8-q8l99:7987:26HOTFIX48:daiquiri-amp-kubernetes-shared-cluster-ak8s-prod-sk2-amp-web-app-store-prod
+x-daiquiri-debug-worker-pid: 80005
+x-daiquiri-instance: daiquiri:10001:daiquiri-all-shared-ext-5659599cb-vdh82:7987:26HOTFIX48:daiquiri-amp-kubernetes-shared-ext-ak8s-prod-sk2-amp-daiquiri-ingress-prod
+x-daiquiri-debug-worker-pid: 157859
+date: Sun, 25 Oct 2026 08:11:06 GMT
+x-cache: TCP_MISS from a2-22-31-191.deploy.akamaitechnologies.com (AkamaiGHost/22.6.5-e48a1e600c03e7d517694b5b11b937be) (-)
+x-cache-remote: TCP_MISS from a96-16-52-139.deploy.akamaitechnologies.com (AkamaiGHost/22.7.0-e687e9264c02f058b1bf8e920219e21f) (-)
+set-cookie: geo=LT; domain=.apple.com
+alt-svc: h3=":443"; ma=93600
+

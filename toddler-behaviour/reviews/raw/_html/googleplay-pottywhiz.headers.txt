@@ -1,0 +1,25 @@
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+x-ua-compatible: IE=edge
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Sun, 25 Oct 2026 08:14:35 GMT
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+strict-transport-security: max-age=31536000
+content-security-policy: script-src 'nonce-gYrwzB3UCIcUu2ZgCAXUfw' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /_/PlayStoreUi/cspreport;worker-src 'self'
+content-security-policy: require-trusted-types-for 'script';report-uri /_/PlayStoreUi/cspreport
+cross-origin-opener-policy: same-origin-allow-popups
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*
+cross-origin-resource-policy: same-site
+reporting-endpoints: default="/_/PlayStoreUi/web-reports?context=eJzj2sCoxSXF4KghxdB68xzrdCAuWXSetQ2Iu4B4DhAbKlxidQbiIokrrC1A_KnqBqtI9Q3Wryvvs_4H4lmMD1gXALG_6kPWUCBOb3zImgXE6QsesuYCsf6uh6ymQPxp70PWb0DMfOwhKycQ15x5yNoExF5XHrIGAHHWvYesBUA8-8VD1nlA_PXzQ9a_QPyt2JeNo8SXjeWtP9vf7lg2IR6O11--XWMTeLBq6VwmJfmk_ML4gpzEytLM4tSistSieCMDIzNDAyNDPQPD-AIDADlvY68"
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+set-cookie: NID=CoMCCAEStQEBOxGDSOlH8EQuBD42_wyYlnvM7yMWg9giYVm5683NjSNLkP2l3qTUUljZJq-ZL1jPgbZLwP6kSrri7d_bmrkcRgXB6w4-EfrhMsoiFglGAHbIRYkqtAJq-5buZwNHxTDY39QAIiqoI0OEECl00m3MatwaZq7DcXoFAMBDPfwzvR4DPSlR2edl1X2ixkJb3sg9mnZlne56Q4yvlf12J-i6d0YB8Wdwq1pc9Ui3iMVHL3hivHVdKAEyRQHSrAfP52kdEcuFV91Sq-NhtR3MLvtiQOshsAUTwheVExb0NSesPJaUsBg2dlGPTBpMsuwuuEPe0ENZIvP-m3SuNAZsBg; expires=Mon, 26-Apr-2027 08:14:35 GMT; path=/; domain=.google.com; HttpOnly
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+accept-ranges: none
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site,Accept-Encoding
+

@@ -1,0 +1,31 @@
+{
+  "app": "everymother",
+  "country": "au",
+  "url": "https://apps.apple.com/au/app/every-mother/id1369750567?see-all=reviews",
+  "http_status": "200",
+  "raw_file": "_raw/reviews/everymother-au-reviews.html",
+  "corpus_file": "_raw/reviews/everymother-au-corpus.txt",
+  "reviews": [
+    {
+      "id": "7909461355",
+      "title": "Love it!",
+      "contents": "I had two c sections in under two years which has left me with a weak core. This program has helped immensely and my abdominal separation is already improving after only a few weeks.",
+      "rating": 5,
+      "date": "2021-10-13T09:41:17.000Z"
+    },
+    {
+      "id": "6277800160",
+      "title": "Really inspiring",
+      "contents": "The program is really well rounded. I can already see results two weeks in. Looking forward to continuing my progress!",
+      "rating": 5,
+      "date": "2020-08-04T06:49:03.000Z"
+    },
+    {
+      "id": "4839993249",
+      "title": "Great and motivational",
+      "contents": "Such a great, easy to use app. Love it all. Two weeks in and still finding it very motivational! Thanks EM.",
+      "rating": 4,
+      "date": "2019-09-26T10:57:50.000Z"
+    }
+  ]
+}

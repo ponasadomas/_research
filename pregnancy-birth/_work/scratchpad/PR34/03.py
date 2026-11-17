@@ -1,0 +1,14 @@
+EM='expecting_mother'
+R=[
+(22,None,EM,'third_trimester','desire',['positive_stories','birth_fear','first_two_weeks'],"I think we all hear so much about postpartum and the tremendous hormone dip, and all of the emotional ups and downs that come with that. Of course, the process of giving birth itself is painful. There’s a lot to be apprehensive about, for sure.","36 weeks; asks mothers for the best parts of having the baby."),
+(22,None,EM,'third_trimester','question',['positive_stories'],"how does it feel to have gone through the process and have your baby? What were some of your most positive experiences? Through all of the hard stuff, what aspects of having your baby got you through?","Same post."),
+(23,None,EM,'first_trimester','pain',['diet_rules','nobody_told_me'],"I didn’t know chicken liver should be avoided during pregnancy.","Seven weeks; ate it three days running. Crossposted to r/BabyBumps with different amounts."),
+(26,None,EM,'first_trimester','pain',['nausea'],"Im tired of being sick if I don't eat and being sick if I do.","8w4d, sick all day every day since six weeks."),
+(26,None,EM,'first_trimester','pain',['nausea','partner_role'],"Yesterday i was throwing up and crying and poor thing just  kept apologizing for \"doing this to you\" (getting me pregnant haha)","Same post; she is irritable with her partner and feels bad he takes the brunt."),
+(26,None,EM,'first_trimester','pain',['nausea','guilt'],"Just had to vent because this absolutely sucks right now and I feel guilty for not enjoying the pregnancy so far.","Same post."),
+(26,'oxt4if7',EM,'first_trimester','belief',['second_trimester_promise','nausea'],"Hopefully we both make it over the 1st trimester hump and have beautifully smooth 2nd trimesters. Im ready for my pregnancy glow haha.","Same author, replying to another sick commenter."),
+(28,'oxswr9w',EM,'first_trimester','others_said',['nausea','information_overload'],"I’ve just been worried when my OB told me “There’s of course risks, but” and i got paranoid & looked into it","13 weeks, prescribed an anti-nausea medicine.",True),
+(29,None,EM,'first_trimester','tried_failed',['weight_gain','exercise_in_pregnancy','app_tracking'],"I am trying to monitor my eating and eat nutritious foods with protein, and I am walking every day and working out at home with the Moves prenatal app 3 times a week. No matter what I do it’s like fat is just sticking to me","Under 12 weeks; distressed about her body changing."),
+(29,None,EM,'first_trimester','pain',['weight_gain','social_media_comparison'],"I see so many other pregnant women who look amazing, who are fit and slim with just a little bump much farther in their pregnancies.","Same post."),
+(29,'oxse8sr',EM,'first_trimester','others_said',['partner_role','weight_gain'],"My husband tells me I’m beautiful but it just upsets me because I feel so hideous that I just think he’s lying to be nice","Same author."),
+]

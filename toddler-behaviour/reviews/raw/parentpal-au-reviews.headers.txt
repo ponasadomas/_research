@@ -1,0 +1,56 @@
+HTTP/2 301 
+server: daiquiri/5
+cache-control: public, max-age=900
+content-security-policy: upgrade-insecure-requests; default-src 'none'; manifest-src 'self' https://*.apple.com; img-src 'self' https://*.apple.com https://*.mzstatic.com data:; font-src 'self' https://*.apple.com; style-src 'self' https://*.apple.com 'unsafe-inline'; script-src 'self' https://*.apple.com; connect-src 'self' https://*.apple.com https://*.mzstatic.com; media-src 'self' https://*.apple.com blob:; child-src 'self' https://*.apple.com; frame-src 'self' https://*.apple.com itms-appss: macappstore:; worker-src blob:; frame-ancestors 'none'; block-all-mixed-content; report-uri /api/csp-report
+location: https://apps.apple.com/au/app/parentpal-ai-parenting-coach/id6463043510?see-all=reviews
+x-apple-jingle-correlation-key: DC6RUIGDWKGDAXKNXYVQVM6NN4
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-responding-instance: amp-web-app-store-server:amp-web-app-store-server-main-f58d85979-ml2fq:4200:2642.2.0-external
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubDomains
+x-daiquiri-instance: daiquiri:10001:daiquiri-cluster-86cff5bb8-r6k2w:7987:26HOTFIX48:daiquiri-amp-kubernetes-shared-cluster-ak8s-prod-sk2-amp-web-app-store-prod
+x-daiquiri-debug-worker-pid: 79368
+x-daiquiri-instance: daiquiri:10001:daiquiri-all-shared-ext-5659599cb-6b6x2:7987:26HOTFIX48:daiquiri-amp-kubernetes-shared-ext-ak8s-prod-sk2-amp-daiquiri-ingress-prod
+x-daiquiri-debug-worker-pid: 261725
+accept-ranges: bytes
+age: 0
+date: Sun, 25 Oct 2026 08:14:10 GMT
+via: 1.1 varnish
+x-cdn: fsly
+x-served-by: cache-ber1080029-BER
+x-cache-hits: 0
+x-timer: S1792916050.466089,VS0,VE58
+set-cookie: geo=LT; domain=apple.com
+x-cache: MISS fsly
+content-length: 0
+
+HTTP/2 200 
+server: daiquiri/5
+content-type: text/html
+cache-control: public, max-age=900
+content-security-policy: upgrade-insecure-requests; default-src 'none'; manifest-src 'self' https://*.apple.com; img-src 'self' https://*.apple.com https://*.mzstatic.com data:; font-src 'self' https://*.apple.com; style-src 'self' https://*.apple.com 'unsafe-inline'; script-src 'self' https://*.apple.com; connect-src 'self' https://*.apple.com https://*.mzstatic.com; media-src 'self' https://*.apple.com blob:; child-src 'self' https://*.apple.com; frame-src 'self' https://*.apple.com itms-appss: macappstore:; worker-src blob:; frame-ancestors 'none'; block-all-mixed-content; report-uri /api/csp-report
+etag: "l7pJ5EJ7Qk5iJOWJth1xaJRsVPbcyz+BjN3g8aBXD4Q="
+x-apple-jingle-correlation-key: UHRNOC33Z6JFP7NHV6PIXT62J4
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-responding-instance: amp-web-app-store-server:amp-web-app-store-server-main-f58d85979-p649f:4200:2642.2.0-external
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubDomains
+x-daiquiri-instance: daiquiri:10001:daiquiri-cluster-86cff5bb8-q8l99:7987:26HOTFIX48:daiquiri-amp-kubernetes-shared-cluster-ak8s-prod-sk2-amp-web-app-store-prod
+x-daiquiri-debug-worker-pid: 80048
+x-daiquiri-instance: daiquiri:10001:daiquiri-all-shared-ext-5659599cb-52qtw:7987:26HOTFIX48:daiquiri-amp-kubernetes-shared-ext-ak8s-prod-sk2-amp-daiquiri-ingress-prod
+x-daiquiri-debug-worker-pid: 151316
+accept-ranges: bytes
+age: 0
+date: Sun, 25 Oct 2026 08:14:10 GMT
+via: 1.1 varnish
+x-cdn: fsly
+x-served-by: cache-ber1080029-BER
+x-cache-hits: 0
+x-timer: S1792916051.552728,VS0,VE119
+vary: accept-encoding
+set-cookie: geo=LT; domain=apple.com
+x-cache: MISS fsly
+content-length: 100073
+

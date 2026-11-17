@@ -1,0 +1,7 @@
+[
+{"u":"pottytraining-1wrmacl","s":"The daycare requires pullups and potty trains them during the day.","e":"during the day.","sp":"parent_unspecified","st":"daycare_start","t":"others_said","th":["daycare_policy","pullups","oh_crap"],"c":"Nearly through Oh Crap at home when a new daycare starts."},
+{"u":"pottytraining-1wrmacl","s":"I have no doubt she will be potty trained","e":"spend her whole day in pullups.","sp":"parent_unspecified","st":"daycare_start","t":"fear","th":["daycare_policy","pullups"],"c":"Wondering whether to push night training to escape the daycare rule."},
+{"u":"ScienceBasedParenting-1wrqkpx","s":"I was talking to my son’s father today","e":"trying to get what he wants.","sp":"parent_unspecified","st":"toddler_12_18_months","t":"others_said","th":["partner_disagreement","tantrum","consequences"],"c":"Parents of a 12-month-old disagree on whether tantrums are manipulation."},
+{"u":"ScienceBasedParenting-1wrqkpx","s":"He said that when he looked it up","e":"or he’ll keep doing it.","sp":"parent_unspecified","st":"toddler_12_18_months","t":"others_said","th":["partner_disagreement","information_overload"],"c":"The father's source for his view."},
+{"u":"ScienceBasedParenting-1wrqkpx","s":"The other thing is that my son’s father thinks our son is advanced","e":"before other babies.","sp":"parent_unspecified","st":"toddler_12_18_months","t":"belief","th":["partner_disagreement"],"c":"Asks what a one-year-old is capable of."}
+]

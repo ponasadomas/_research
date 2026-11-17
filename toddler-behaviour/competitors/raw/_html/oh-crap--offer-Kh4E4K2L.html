@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html lang="en" class="ie9"><![endif]-->
+<!--[if gt IE 9]><!--><html lang="en"><!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="turbo-prefetch" content="false">
+    <script type="text/javascript" src="https://js.stripe.com/basil/stripe.js"></script>
+
+      <meta name="robots" content="noindex">
+
+    <meta name="site_locale" content="en"></meta>
+    <title>Jamie Glowacki</title>
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<!-- Update @kajabi-ui/styles version to match Kajabi-UI/styles — includes all Pine tokens + fonts -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@kajabi-ui/styles@2.0.0/dist/kajabi_products/kajabi_products.css" />
+<!-- Update @pine-ds/core version for ESM and nomodule — must stay in sync with each other -->
+<script type="module" src="https://cdn.jsdelivr.net/npm/@pine-ds/core@4.7.2/dist/pine-core/pine-core.esm.js"></script>
+<script nomodule src="https://cdn.jsdelivr.net/npm/@pine-ds/core@4.7.2/dist/pine-core/index.esm.js"></script>
+
+  <!-- Load the toast controller -->
+  <script src="https://kajabi-app-assets.kajabi-cdn.com/assets/admin/pine_pds_toast_controller-a9b1ad2e76d9c4b6692dc9f27668e2eeb25585ba690d94242f30307b53b33670.js"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,700i" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://kajabi-app-assets.kajabi-cdn.com/assets/checkout_next_gen-3b874f0d2ef1f87c87630e912d4aa05cfa48823ef958490f8c942d0fd90c00a6.css" media="all" />
+    
+    
+    <link rel="stylesheet" href="https://kajabi-app-assets.kajabi-cdn.com/assets/ladera_masquerade_member-2ec5c467d2adc3e29d7e1af082357f7863a64ec4196a369472eeb085ca6f6587.css" media="screen" />
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="_wXYxYOaXgbE6kuEUq1rrl4YhiQ4ujLQw7HkWWcDOtSFjV1N88fDs8uZMUj-NN6XdiTz4AuAOqYyWVLILN7ZWA" />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-GTBWYV09JY{}&l=kajabiDataLayer"></script>
+<script>
+    window.kajabiDataLayer = window.kajabiDataLayer || [];
+    function ktag(){kajabiDataLayer.push(arguments);}
+    ktag('js', new Date());
+    ktag('config', 'G-GTBWYV09JY');
+</script>
+
+    <script>
+      const analyticsOptions = {"event_category":"member_checkout","productSku":2149879281,"productName":"Oh Crap! Potty Training 101 Mini Course ","checkoutVersion":"next_gen","currencyCode":"USD","transactionRevenue":"7.0","offerType":"single","memberLoginRequired":false,"priceStrategy":"fixed","siteId":2147799737,"siteName":"Jamie Glowacki","accountId":2147786433,"heroTier":"250k","businessType":"coach","experience":"existing_online","industry":"health_fitness","isKajabiPayments":false,"stripeElement":"card"}
+;
+      const kajabiPaymentsOffer = (false === true);
+
+      if (kajabiPaymentsOffer) {
+        analyticsOptions.applePayDisplayed = !!window.ApplePaySession
+      }
+
+      ktag('event', 'view_cart', analyticsOptions);
+    </script>
+
+  <script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.agent='plkajabi';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+                                                                      document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+
+fbq('init', '724730254376467');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=724730254376467&ev=PageView&noscript=1"
+/></noscript>
+<script type='text/javascript'>fbq('track', 'InitiateCheckout', {
+  content_name: "Oh Crap! Potty Training 101 Mini Course ",
+  value: "7.0",
+  currency: "USD"
+});
+</script>
+  
+    <script src="https://www.paypalobjects.com/api/checkout.js"></script>
+
+    
+      <link rel="icon" type="image/x-icon" href="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/sites/2147799737/images/dd562c-f0e-f60f-200-86e10d64445_7508282b-893f-43e5-884d-39cf76ff1b22.png" />
+  <link rel="apple-touch-icon" type="image/png" href="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/sites/2147799737/images/dd562c-f0e-f60f-200-86e10d64445_7508282b-893f-43e5-884d-39cf76ff1b22.png" />
+
+          <script type="text/javascript">
+        if (typeof (window.rudderanalytics) === "undefined") {
+          !function(){"use strict";window.RudderSnippetVersion="3.0.3";var sdkBaseUrl="https://cdn.rudderlabs.com/v3"
+          ;var sdkName="rsa.min.js";var asyncScript=true;window.rudderAnalyticsBuildType="legacy",window.rudderanalytics=[]
+          ;var e=["setDefaultInstanceKey","load","ready","page","track","identify","alias","group","reset","setAnonymousId","startSession","endSession","consent"]
+          ;for(var n=0;n<e.length;n++){var t=e[n];window.rudderanalytics[t]=function(e){return function(){
+          window.rudderanalytics.push([e].concat(Array.prototype.slice.call(arguments)))}}(t)}try{
+          new Function('return import("")'),window.rudderAnalyticsBuildType="modern"}catch(a){}
+          if(window.rudderAnalyticsMount=function(){
+          "undefined"==typeof globalThis&&(Object.defineProperty(Object.prototype,"__globalThis_magic__",{get:function get(){
+          return this},configurable:true}),__globalThis_magic__.globalThis=__globalThis_magic__,
+          delete Object.prototype.__globalThis_magic__);var e=document.createElement("script")
+          ;e.src="".concat(sdkBaseUrl,"/").concat(window.rudderAnalyticsBuildType,"/").concat(sdkName),e.async=asyncScript,
+          document.head?document.head.appendChild(e):document.body.appendChild(e)
+          },"undefined"==typeof Promise||"undefined"==typeof globalThis){var d=document.createElement("script")
+          ;d.src="https://polyfill-fastly.io/v3/polyfill.min.js?version=3.111.0&features=Symbol%2CPromise&callback=rudderAnalyticsMount",
+          d.async=asyncScript,document.head?document.head.appendChild(d):document.body.appendChild(d)}else{
+          window.rudderAnalyticsMount()}window.rudderanalytics.load("2apYBMHHHWpiGqicceKmzPebApa","https://rs-dp.kajabi.com",{})}();
+        }
+      </script>
+      <script type="text/javascript">
+        if (typeof (window.rudderanalytics) !== "undefined") {
+          rudderanalytics.page({"account_id":"2147786433","site_id":"2147799737"});
+        }
+      </script>
+      <script type="text/javascript">
+        if (typeof (window.rudderanalytics) !== "undefined") {
+          (function () {
+            function AnalyticsClickHandler (event) {
+              const targetEl = event.target.closest('a') || event.target.closest('button');
+              if (targetEl) {
+                rudderanalytics.track('Site Link Clicked', Object.assign(
+                  {"account_id":"2147786433","site_id":"2147799737"},
+                  {
+                    link_text: targetEl.textContent.trim(),
+                    link_href: targetEl.href,
+                    tag_name: targetEl.tagName,
+                  }
+                ));
+              }
+            };
+            document.addEventListener('click', AnalyticsClickHandler);
+          })();
+        }
+      </script>
+
+  </head>
+  <body class="offer-checkout offer-checkout-show offer-checkout-offer-2149879281 offer-checkout-next-gen checkout-email-autofill offer-checkout--analytics">
+    <script src="https://kajabi-app-assets.kajabi-cdn.com/assets/iframe_detector-11ee2500a3041daf902cf68b2ef697c2b7ea30d3388009e2d76e5616514c1af5.js"></script>
+    
+
+    
+
+    <script type="text/javascript">
+  window.CLIENT_INFO = window.CLIENT_INFO || {};
+  window.CLIENT_INFO.site_id = 2147799737;
+  window.CLIENT_INFO.locale = "en";
+  window.CLIENT_INFO.features =   window.CLIENT_INFO.features || {};
+  window.CLIENT_INFO.imagePaths = window.CLIENT_INFO.imagePaths || {};
+  window.CLIENT_INFO.imagePaths.default = "https://kajabi-app-assets.kajabi-cdn.com/assets/default_image-cff4ebeceb3839d5908ba7c7d5071a751234f2a6b34575505002eef3deb5e3c7.png";
+  window.CLIENT_INFO.imagePaths.default_avatar = "https://kajabi-app-assets.kajabi-cdn.com/assets/defaults/default_avatar-b3744a61876b6f23004ea211ac36efc3ce9b91d5e3cfe612869f2f48f20c4f38.jpg";
+
+
+    window.CLIENT_INFO.ga_id = "G-GTBWYV09JY"
+
+  window.CLIENT_INFO.env = "production";
+  window.CLIENT_INFO.git_sha = "b13d26712e018ed40a715a13a19e922e43aae628";
+
+  window.CLIENT_INFO.app_name = 'kajabi-storefronts-production';
+
+  window.CLIENT_INFO.datadogSampleRates = {"kajabi-admin":25,"hero-site-checkout":25};
+
+  window.CLIENT_INFO.account = {
+    id: 2147786433,
+    tier: "250k",
+    businessType: "coach",
+    experience: "existing_online",
+    industry: "health_fitness"
+  }
+
+
+
+    window.CLIENT_INFO.offer_token = "Kh4E4K2L";
+</script>
+
+<script>
+//<![CDATA[
+        window.CLIENT_INFO = {
+          ...(window.CLIENT_INFO),
+          features: {
+            ...(window.CLIENT_INFO.features),
+            comm_stripe_link_payment_option: true
+          }
+        }
+
+//]]>
+</script>
+
+<style id="offer-checkout-page-color" type="text/css">
+  :root {
+    --offer-checkout-primary-color: #3498db;
+  }
+  .checkout-banner {
+    background-color: #3498db;
+  }
+  .checkout-panel .checkbox input[type="checkbox"]:before {
+    color: #3498db;
+  }
+  .checkout-panel input:focus:not(.parsley-error),
+  .checkout-panel select:focus:not(.parsley-error) {
+    border-color: #3498db;
+    box-shadow: none;
+  }
+  .checkout-panel input[type=checkbox]:focus:not(.parsley-error),
+  .checkout-panel input[type=checkbox]:active:not(.parsley-error) {
+    border-color: currentColor;
+  }
+  .checkout-personal-info-container .account-check-spinner > div {
+    background-color: #3498db;
+  }
+  .price-breakdown-coupon {
+    color: #3498db;
+  }
+  .btn-text {
+    color: #3498db;
+  }
+  a:hover {
+    color: #3498db;
+  }
+
+  .offer-checkout-form .btn-checkout,
+  .offer-checkout-form .btn-primary,
+  .checkout-form-container .btn-checkout,
+  .checkout-form-container .btn-primary,
+  .new-offer-upsell .btn-offer-upsell,
+  .upsell-panel .btn-primary {
+    border-color: #3498db;
+    background-color: #3498db;
+  }
+
+  .checkout-form-container .btn-checkout:hover,
+  .checkout-form-container .btn-checkout:focus,
+  .checkout-form-container .btn-checkout:active,
+  .checkout-form-container .btn-checkout.active,
+  .checkout-form-container .btn-primary:hover,
+  .checkout-form-container .btn-primary:focus,
+  .checkout-form-container .btn-primary:active,
+  .checkout-form-container .btn-primary.active,
+  .new-offer-upsell .btn-offer-upsell:hover,
+  .new-offer-upsell .btn-offer-upsell:focus,
+  .new-offer-upsell .btn-offer-upsell:active,
+  .new-offer-upsell .btn-offer-upsell.active,
+  .upsell-panel .btn-primary:hover,
+  .upsell-panel .btn-primary:focus,
+  .upsell-panel .btn-primary:active,
+  .upsell-panel .btn-primary.active {
+    border-color: #217dbb;
+    background-color: #217dbb;
+  }
+
+  .checkout-form-container .btn-outline {
+    color: #3498db;
+    background-color: transparent;
+  }
+
+  .checkout-form-container .btn-outline:hover {
+    color: #3498db;
+    border-color: #3498db;
+    background-color: #eaf4fb;
+  }
+
+  .offer-checkout-multi-step .offer-checkout-form .checkout-order-bump {
+    background-color: rgba(52, 152, 219, 0.05);
+    border-color: rgba(52, 152, 219, 0.7);
+    padding: 15px;
+  }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form class="simple_form offer-checkout-form" id="new_checkout_offer" data-fancy-placeholders="" data-parsley-validate="true" data-stripe-form-disabled="false" novalidate="novalidate" action="/offers/Kh4E4K2L/checkout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1iqKS33FIjIQWKsgoW0SRQ3lOEzin8Lyb_DbWGYI7khuxx7z9x8eL5CMqAhPSz_nING4sf02ksGvXBNMqlyM1w" autocomplete="off" />
+  
+<div class="content">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        
+
+      </div>
+    </div>
+
+      <div class="row" data-kjb-element="mobile-form-bottom">
+        <div class="col-md-6">
+          <div class="checkout-content">
+    <img class="img-responsive checkout-content-img" kjb-settings-id="offer-image-section" src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/site/2147799737/images/866b1d-8db-12f6-33aa-07b08134e7_Consults_With_Jamie_2_.png" />
+  <h1 class="checkout-content-title" kjb-settings-id="offer-title-section">Oh Crap! Potty Training 101 Mini Course </h1>
+  <div class="checkout-content-body" kjb-settings-id="checkout-copy-section">
+    <p><span style="font-weight: 400;">Tired of conflicting advice and potty training stress? Join potty training expert Jamie Glowacki for a game-changing mini course.&nbsp;</span></p>
+<p><strong>In this $7 mini course, discover:</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;"><span>The ideal age to start &amp; t</span></span><span style="font-weight: 400;">he developmental sweet spot for potty training success</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Common myths debunked</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">How to avoid common potty training pitfalls</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prepare your toddler (and yourself) for potty training</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">&amp; so much more!</span></li>
+</ul>
+  </div>
+</div>
+
+          
+        </div>
+        <div class="col-md-offset-1 col-md-5 checkout-content-left">
+          <div class="panel checkout-panel"
+     define="{ checkoutPanel: new App.CheckoutPanel(this, {&quot;hasSetupFee&quot;:false,&quot;showPayment&quot;:true,&quot;basePrice&quot;:{&quot;cents&quot;:700,&quot;currency_iso&quot;:&quot;USD&quot;},&quot;hasAdditionalPaymentMethods&quot;:false,&quot;quantityRemaining&quot;:null,&quot;qtyLimitDisplayEnabled&quot;:false,&quot;qtyLimitDisplayThreshold&quot;:1}) }"
+     context="checkoutPanel"
+     data-offer-token="Kh4E4K2L"
+>
+  <div class="panel-heading">
+    
+  <h1 class="checkout-panel-title js-checkout-panel-price-discountable">
+    $7.00 USD 
+  </h1>
+
+
+
+  </div>
+
+  <div eval="new App.CheckoutPriceBreakdown(this, { alwaysShowBreakdown: false })">
+</div>
+
+
+  <div class="panel-body">
+    <div id="main-flash-messages">
+
+</div>
+
+
+
+
+        
+    <input data-js-time-zone="" autocomplete="off" type="hidden" name="checkout_offer[member][time_zone]" id="checkout_offer_member_time_zone" />
+    <a class="checkout-panel__log-in-link" href="https://www.jamieglowacki.com/login?offer_token=Kh4E4K2L">Log in</a>
+    <div class="form-group email required checkout_offer_member_email"><input class="form-control string email required form-control required" autocomplete="email" placeholder="Email Address" type="email" value="" name="checkout_offer[member][email]" id="checkout_offer_member_email" /></div>
+
+    <input type="hidden" name="frictionless" id="frictionless" value="true" autocomplete="off" />
+
+
+
+  
+
+
+    <div class="form-group string optional checkout_offer_extra_contact_information_custom_1"><label class="control-label string optional" for="checkout_offer_extra_contact_information_custom_1">First Name</label><input class="form-control string optional" bind="custom_1" data-parsley-required-message="* Required" data-parsley-type-message="is invalid" data-parsley-group="extra_contact_information" type="text" name="checkout_offer[extra_contact_information][custom_1]" id="checkout_offer_extra_contact_information_custom_1" /></div>
+
+
+  
+<div class="hide" define="{ checkoutPaymentStep: new App.CheckoutPaymentStep(this, false, null, false) }" bind-show="showPayment">
+    <div class=" hide" bind-show="checkoutPaymentStep.paymentType == null &amp;&amp; !checkoutPaymentStep.hasAdditionalPaymentMethods">
+    <div class="payment-types">
+      <div class="payment-types-item">
+        <label>
+          <input type="radio" name="payment_type" value="stripe"
+            bind="checkoutPaymentStep.paymentType"
+            bind-event-change="checkoutPaymentStep.paymentChoiceChanged()">
+            Card
+        </label>
+      </div>
+      <div class="payment-types-item paypal">
+        <label>
+          <input type="radio" name="payment_type" value="paypal"
+            bind="checkoutPaymentStep.paymentType"
+            bind-event-change="checkoutPaymentStep.paymentChoiceChanged()">
+            PayPal
+        </label>
+      </div>
+    </div>
+</div>
+<input type="hidden" name="checkout_offer[payment_provider]" bind="checkoutPaymentStep.paymentType" />
+
+    <div class=" hide" bind-show="checkoutPaymentStep.paymentType == &#39;stripe&#39; || checkoutPaymentStep.paymentType == &#39;kajabi_payments&#39; || checkoutPaymentStep.hasAdditionalPaymentMethods">
+      
+
+<div class="new-credit-card" data-stripe-elements-form="pk_live_GM2gUsVfs3fY1xot5C7WDhBP" data-stripe-elements-options="{&quot;stripeAccount&quot;:&quot;acct_1Ng8HxHk7E4lF4QW&quot;,&quot;analyticsOptions&quot;:{&quot;event_category&quot;:&quot;member_checkout&quot;,&quot;productSku&quot;:2149879281,&quot;productName&quot;:&quot;Oh Crap! Potty Training 101 Mini Course &quot;,&quot;checkoutVersion&quot;:&quot;next_gen&quot;,&quot;currencyCode&quot;:&quot;USD&quot;,&quot;transactionRevenue&quot;:&quot;7.0&quot;,&quot;offerType&quot;:&quot;single&quot;,&quot;memberLoginRequired&quot;:false,&quot;priceStrategy&quot;:&quot;fixed&quot;,&quot;siteId&quot;:2147799737,&quot;siteName&quot;:&quot;Jamie Glowacki&quot;,&quot;accountId&quot;:2147786433,&quot;heroTier&quot;:&quot;250k&quot;,&quot;businessType&quot;:&quot;coach&quot;,&quot;experience&quot;:&quot;existing_online&quot;,&quot;industry&quot;:&quot;health_fitness&quot;,&quot;paymentMethod&quot;:&quot;stripe&quot;,&quot;isKajabiPayments&quot;:false,&quot;stripeElement&quot;:&quot;card&quot;},&quot;publishableKey&quot;:&quot;pk_live_GM2gUsVfs3fY1xot5C7WDhBP&quot;,&quot;checkoutPageColor&quot;:&quot;#3498db&quot;,&quot;mode&quot;:&quot;card&quot;,&quot;disableLink&quot;:true,&quot;acceptsPaypal&quot;:true,&quot;currency&quot;:&quot;USD&quot;,&quot;amount&quot;:700,&quot;exponent&quot;:2,&quot;siteName&quot;:&quot;Jamie Glowacki&quot;,&quot;stripeElementTimeoutPromptMessage&quot;:&quot;Difficulty connecting to payment processor. Refresh and try again&quot;,&quot;locale&quot;:&quot;en&quot;,&quot;hidePostalCode&quot;:&quot;false&quot;}">
+  <div class="form-group">
+     <div id="card-element" class="form-control card-element"></div>
+  </div>
+</div>
+  <div id="manage_payment_method" class="form-group">
+    <div class="checkbox">
+      <label class="checkbox__label--group">
+        <input name="checkout_offer[consent_to_store_payment_method]" type="hidden" value="0" autocomplete="off" /><input class="boolean optional" type="checkbox" value="1" name="checkout_offer[consent_to_store_payment_method]" id="checkout_offer_consent_to_store_payment_method" />
+        Store this card for future purchases
+        <span class="checkbox__label__hint" data-toggle="tooltip" title="Your payment information will be stored on a secure server for future purchases"><i class="mi checkbox__label__icon" aria-hidden="true">help_outline</i></span>
+      </label>
+    </div>
+  </div>
+
+
+<input value="card" bind-disabled="checkoutPaymentStep.paymentChoice == &#39;cardOnFile&#39;" autocomplete="off" type="hidden" name="checkout_offer[payment_method_type]" id="checkout_offer_payment_method_type" />
+<input value="" autocomplete="off" type="hidden" name="checkout_offer[payment_wallet_type]" id="checkout_offer_payment_wallet_type" />
+
+<input type="hidden" name="checkout_offer[payment_intent_id]" data-stripe-payment-intent />
+<input id="new_stripe_payment_method"
+       type="hidden"
+       name="checkout_offer[payment_method_id]"
+       data-stripe-payment-method
+        />
+
+</div>
+
+
+    <div class=" hide" bind-show="checkoutPaymentStep.paymentType != null &amp;&amp; !checkoutPaymentStep.hasAdditionalPaymentMethods">
+      <a class="form-link" bind-event-click="checkoutPaymentStep.changePaymentType()" href="#">Change payment method</a>
+</div></div>
+
+  <div class="form-group boolean optional checkout_offer_opt_in"><div class="checkbox"><input value="0" autocomplete="off" type="hidden" name="checkout_offer[opt_in]" /><label class="boolean optional" for="checkout_offer_opt_in"><input class="boolean optional" type="checkbox" value="1" name="checkout_offer[opt_in]" id="checkout_offer_opt_in" />Subscribe to our email list.</label></div></div>
+
+
+
+  
+<input type="hidden" name="coupon_code" id="stripe_coupon_id" value="" autocomplete="off" />
+<input type="hidden" name="checkout_offer[coupon_revision_number]" id="coupon_revision_number" value="" autocomplete="off" />
+<input type="hidden" name="single_use_code" id="single_use_code" value="" autocomplete="off" />
+<input type="hidden" name="affiliate_coupon_code" id="affiliate_coupon_code" value="" autocomplete="off" />
+
+  <div class="checkout-panel__btn-wrapper hide" bind-show="typeof checkoutPaymentStep === &#39;undefined&#39; || checkoutPaymentStep.paymentType != &#39;paypal&#39; || window.freePwyw || freeForeverCouponApplied">
+  <input type="submit" name="commit" value="Complete my purchase" bind-event-click="submitCheckout({&quot;event_category&quot;:&quot;member_checkout&quot;,&quot;productSku&quot;:2149879281,&quot;productName&quot;:&quot;Oh Crap! Potty Training 101 Mini Course &quot;,&quot;checkoutVersion&quot;:&quot;next_gen&quot;,&quot;currencyCode&quot;:&quot;USD&quot;,&quot;transactionRevenue&quot;:&quot;7.0&quot;,&quot;offerType&quot;:&quot;single&quot;,&quot;memberLoginRequired&quot;:false,&quot;priceStrategy&quot;:&quot;fixed&quot;,&quot;siteId&quot;:2147799737,&quot;siteName&quot;:&quot;Jamie Glowacki&quot;,&quot;accountId&quot;:2147786433,&quot;heroTier&quot;:&quot;250k&quot;,&quot;businessType&quot;:&quot;coach&quot;,&quot;experience&quot;:&quot;existing_online&quot;,&quot;industry&quot;:&quot;health_fitness&quot;,&quot;paymentMethod&quot;:&quot;stripe&quot;,&quot;isKajabiPayments&quot;:false,&quot;stripeElement&quot;:&quot;card&quot;})" class="btn btn-primary btn-block checkout-panel-btn" data-disable-with="Submitting..." />
+</div>
+
+  <div class=" hide" bind-show="checkoutPaymentStep.paymentType == &#39;paypal&#39; &amp;&amp; !window.freePwyw &amp;&amp; !freeForeverCouponApplied">
+  <div class="checkout-panel__paypal-btn">
+      <div define="{ paypalButton: new App.PaypalButton(this, {&quot;analytics_options&quot;:{&quot;event_category&quot;:&quot;member_checkout&quot;,&quot;productSku&quot;:2149879281,&quot;productName&quot;:&quot;Oh Crap! Potty Training 101 Mini Course &quot;,&quot;checkoutVersion&quot;:&quot;next_gen&quot;,&quot;currencyCode&quot;:&quot;USD&quot;,&quot;transactionRevenue&quot;:&quot;7.0&quot;,&quot;offerType&quot;:&quot;single&quot;,&quot;memberLoginRequired&quot;:false,&quot;priceStrategy&quot;:&quot;fixed&quot;,&quot;siteId&quot;:2147799737,&quot;siteName&quot;:&quot;Jamie Glowacki&quot;,&quot;accountId&quot;:2147786433,&quot;heroTier&quot;:&quot;250k&quot;,&quot;businessType&quot;:&quot;coach&quot;,&quot;experience&quot;:&quot;existing_online&quot;,&quot;industry&quot;:&quot;health_fitness&quot;,&quot;paymentMethod&quot;:&quot;paypal&quot;,&quot;isKajabiPayments&quot;:false,&quot;stripeElement&quot;:&quot;card&quot;},&quot;url&quot;:&quot;/offers/Kh4E4K2L/paypal_payments&quot;,&quot;env&quot;:&quot;production&quot;,&quot;coupon_revision_changed_message&quot;:&quot;This coupon has changed, please re-apply and review.&quot;}) }" context="paypalButton" id="paypal-button" style="" data-controller="turbo-twine">
+  <input type="hidden" name="checkout_offer[paypal_details][payer_id]" data-paypal-payer-id />
+  <input type="hidden" name="checkout_offer[paypal_details][payment_id]" data-paypal-payment-id />
+  <input type="hidden" name="checkout_offer[paypal_details][order_id]" data-paypal-order-id />
+  <input type="hidden" name="checkout_offer[paypal_details][token]" data-paypal-token />
+  <input type="hidden" name="checkout_offer[paypal_details][cart_id]" data-paypal-cart-id />
+</div>
+  </div>
+</div>
+
+
+  </div>
+</div>
+
+        </div>
+      </div>
+
+    <div class="row">
+      <div class="col-12">
+        
+      </div>
+    </div>
+  </div>
+
+</div>
+
+</form>
+
+
+      <script src="https://kajabi-app-assets.kajabi-cdn.com/assets/checkout_manifest-dd151b3ca26e385361d1a4654bbf6d76a1a431e29d9baa8d316beaee69af4ac9.js"></script>
+
+    
+      <script src="https://kajabi-app-assets.kajabi-cdn.com/assets/fingerprinter-8aeb0ee01d16e36ebf90c24b3e1d0f75aaa91cff5a353231248eef297b054fce.js"></script>
+
+<script src="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/kj_uploader-BfpAr1Kx.js" crossorigin="anonymous" type="module"></script><link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/_commonjsHelpers-D6-XlEtG.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/index-2HrbkdmI.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/index-BMINkH_c.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/index-DceP92G8.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/index-C1yU1zDQ.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/index-DCVmC_zB.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/index-BAhZ9Oq5.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/index-Dgva5LoJ.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/index-CbxPj78a.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/uuid-CDusTtPx.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/main-DAI7hpe6.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/telemetrySessionContext-Netkh-bv.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/main-BRFKjl-Y.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/clientInfo-DvTkLKvj.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/BrowserLogger-B0rRroDf.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/trackProductAnalytics-DkwkqJGV.js" as="script" crossorigin="anonymous"><link rel="stylesheet" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/kj_uploader-xRyFHV5N.css" media="screen" />
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/dompurify@2.2.3/dist/purify.min.js"></script>
+
+<script type="text/javascript">
+  +function(a,p,P,b,y){a.appboy={};a.appboyQueue=[];for(var s="DeviceProperties Card Card.prototype.dismissCard Card.prototype.removeAllSubscriptions Card.prototype.removeSubscription Card.prototype.subscribeToClickedEvent Card.prototype.subscribeToDismissedEvent Banner CaptionedImage ClassicCard ControlCard ContentCards ContentCards.prototype.getUnviewedCardCount Feed Feed.prototype.getUnreadCardCount ControlMessage InAppMessage InAppMessage.SlideFrom InAppMessage.ClickAction InAppMessage.DismissType InAppMessage.OpenTarget InAppMessage.ImageStyle InAppMessage.Orientation InAppMessage.TextAlignment InAppMessage.CropType InAppMessage.prototype.closeMessage InAppMessage.prototype.removeAllSubscriptions InAppMessage.prototype.removeSubscription InAppMessage.prototype.subscribeToClickedEvent InAppMessage.prototype.subscribeToDismissedEvent FullScreenMessage ModalMessage HtmlMessage SlideUpMessage User User.Genders User.NotificationSubscriptionTypes User.prototype.addAlias User.prototype.addToCustomAttributeArray User.prototype.getUserId User.prototype.incrementCustomUserAttribute User.prototype.removeFromCustomAttributeArray User.prototype.setAvatarImageUrl User.prototype.setCountry User.prototype.setCustomLocationAttribute User.prototype.setCustomUserAttribute User.prototype.setDateOfBirth User.prototype.setEmail User.prototype.setEmailNotificationSubscriptionType User.prototype.setFirstName User.prototype.setGender User.prototype.setHomeCity User.prototype.setLanguage User.prototype.setLastKnownLocation User.prototype.setLastName User.prototype.setPhoneNumber User.prototype.setPushNotificationSubscriptionType InAppMessageButton InAppMessageButton.prototype.removeAllSubscriptions InAppMessageButton.prototype.removeSubscription InAppMessageButton.prototype.subscribeToClickedEvent display display.automaticallyShowNewInAppMessages display.destroyFeed display.hideContentCards display.showContentCards display.showFeed display.showInAppMessage display.toggleContentCards display.toggleFeed changeUser destroy getDeviceId initialize isPushBlocked isPushGranted isPushPermissionGranted isPushSupported logCardClick logCardDismissal logCardImpressions logContentCardsDisplayed logCustomEvent logFeedDisplayed logInAppMessageButtonClick logInAppMessageClick logInAppMessageHtmlClick logInAppMessageImpression logPurchase openSession registerAppboyPushMessages removeAllSubscriptions removeSubscription requestContentCardsRefresh requestFeedRefresh requestImmediateDataFlush resumeWebTracking setLogger setSdkAuthenticationSignature stopWebTracking subscribeToContentCardsUpdates subscribeToFeedUpdates subscribeToInAppMessage subscribeToNewInAppMessages subscribeToSdkAuthenticationFailures toggleAppboyLogging trackLocation unregisterAppboyPushMessages wipeData".split(" "),i=0;i<s.length;i++){for(var m=s[i],k=a.appboy,l=m.split("."),j=0;j<l.length-1;j++)k=k[l[j]];k[l[j]]=(new Function("return function "+m.replace(/\./g,"_")+"(){window.appboyQueue.push(arguments); return true}"))()}window.appboy.getCachedContentCards=function(){return new window.appboy.ContentCards};window.appboy.getCachedFeed=function(){return new window.appboy.Feed};window.appboy.getUser=function(){return new window.appboy.User};(y=p.createElement(P)).type='text/javascript';
+    y.src='https://js.appboycdn.com/web-sdk/3.3/appboy.min.js';
+    y.async=1;(b=p.getElementsByTagName(P)[0]).parentNode.insertBefore(y,b)
+  }(window,document,'script');
+</script>
+
+    
+  </body>
+</html>

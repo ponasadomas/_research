@@ -1,0 +1,136 @@
+{
+  "niche": "sleep-mother",
+  "label": "filter-v1",
+  "window": "2026-04-01 to 2026-10-25 (harvest)",
+  "totals": {
+    "scanned": 247503,
+    "A": 3023,
+    "safety": 425,
+    "B": 3694,
+    "C": 882,
+    "unavailable": 32
+  },
+  "by_subreddit": {
+    "BabyBumps": {
+      "scanned": 26597,
+      "A": 137,
+      "safety": 27,
+      "B": 174,
+      "C": 78,
+      "unavailable": 5
+    },
+    "FirstTimeMom": {
+      "scanned": 4111,
+      "A": 42,
+      "B": 48,
+      "safety": 3,
+      "C": 6
+    },
+    "Mommit": {
+      "scanned": 19451,
+      "A": 246,
+      "safety": 43,
+      "B": 201,
+      "C": 55,
+      "unavailable": 3
+    },
+    "NewParents": {
+      "scanned": 27258,
+      "A": 526,
+      "B": 639,
+      "C": 176,
+      "safety": 44,
+      "unavailable": 6
+    },
+    "Parenting": {
+      "scanned": 29349,
+      "B": 143,
+      "A": 109,
+      "C": 23,
+      "safety": 6,
+      "unavailable": 6
+    },
+    "Postpartum_Depression": {
+      "scanned": 2256,
+      "A": 90,
+      "safety": 25,
+      "B": 44,
+      "C": 12,
+      "unavailable": 3
+    },
+    "PregnancyUK": {
+      "scanned": 6941,
+      "A": 50,
+      "B": 64,
+      "safety": 12,
+      "C": 24
+    },
+    "beyondthebump": {
+      "scanned": 16469,
+      "A": 346,
+      "B": 345,
+      "C": 89,
+      "safety": 43,
+      "unavailable": 2
+    },
+    "beyondthebumpUK": {
+      "scanned": 6909,
+      "B": 120,
+      "A": 97,
+      "C": 31,
+      "safety": 13
+    },
+    "daddit": {
+      "scanned": 18390,
+      "A": 107,
+      "B": 111,
+      "C": 36,
+      "safety": 12,
+      "unavailable": 3
+    },
+    "postpartumprogress": {
+      "scanned": 2081,
+      "C": 12,
+      "A": 11,
+      "B": 8,
+      "unavailable": 1,
+      "safety": 2
+    },
+    "pregnant": {
+      "scanned": 61664,
+      "B": 648,
+      "A": 376,
+      "C": 248,
+      "safety": 117,
+      "unavailable": 2
+    },
+    "sahm": {
+      "scanned": 4231,
+      "A": 58,
+      "B": 43,
+      "C": 8,
+      "safety": 7,
+      "unavailable": 1
+    },
+    "sleeptrain": {
+      "scanned": 16084,
+      "A": 778,
+      "B": 1051,
+      "C": 74,
+      "safety": 70
+    },
+    "workingmoms": {
+      "scanned": 5712,
+      "B": 55,
+      "A": 50,
+      "C": 10,
+      "safety": 1
+    }
+  },
+  "card_chunks": 52,
+  "tier_rule": "A = topic + explicit purchase/paid-tool/brand signal or 2+ distinct pain words; B = topic + one pain word, a help question or a generic tool word (plan, method, guide, book, app, class, schedule, routine); C = topic only; safety = safety regex hit (inspected, not auto-dropped); non-core subs also need the niche's person regex",
+  "triaged": 0,
+  "kept": 0,
+  "read": 0,
+  "quoted": 0
+}

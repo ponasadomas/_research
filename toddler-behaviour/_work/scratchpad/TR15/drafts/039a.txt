@@ -1,0 +1,55 @@
+U toddlers-1vdhc52
+S parent_unspecified | daycare_start | trigger_moment | potty_regression, daycare
+Q The timing couldn’t be worse because she starts preschool on Monday. They accepted her into the 2-year-old program specifically because she was already potty trained, and now I’m internally panicking.
+C Parent of a 2-year-old trained for almost three months, suddenly having accidents.
+
+U toddlers-1vdhc52
+S parent_unspecified | daycare_start | pain | potty_regression
+Q I’m trying really hard not to make a big deal out of it because I don’t want to create anxiety around using the potty, but I’m definitely screaming on the inside.
+C Same parent.
+
+U pottytraining-1vdjxhu
+S parent_unspecified | preschool_3_4_years | others_said | daycare, pullups, potty_refusal
+Q However, because of licensing the daycare cannot use pull-ups at all. I of course, don't want to stress him out and push him and make it worse, but we feel like we don't have any other options.
+C Parent of a 4-year-old starting preschool in two weeks; asks for a pull-up to pee.
+
+U pottytraining-1vdjxhu
+S parent_unspecified | preschool_3_4_years | tried_failed | potty_refusal
+Q We’ve tried rewards, no rewards, the naked method, we feel at a loss. He just melts down if I ask him to use the potty at home.
+C Same parent; he sometimes uses the potty at the nanny-share house.
+
+U pottytraining-1vdjxhu
+S parent_unspecified | preschool_3_4_years | others_said | daycare, potty_readiness
+Q We've talked to our Pediatrician who was very supportive who basically said he needs some time but unfortunately, we do not have that.
+C Same parent; preschool deadline versus 'give him time'.
+R pediatrician / referral context
+
+U pottytraining-1vdjxhu
+S parent_unspecified | preschool_3_4_years | objection | oh_crap
+Q I only hesitate because we tried the oh crap and it wasn’t very successful.
+C Same parent replying to a suggestion.
+
+U toddlers-1vdl60h
+S new_mother | toddler_18_24_months | purchase | potty_readiness
+Q How did you guys potty train your son ? My baby is turning 2 in November I bought a Toilet put it in the bathroom.
+C New mother asking 'boymoms' how to start.
+
+U toddlers-1vdl60h
+S new_mother | toddler_18_24_months | question | pullups, information_overload
+Q I am a new mom , he’s currently in diapers , should I buy pull up ?
+C Same mother in the thread.
+
+U toddlers-1vdl60h
+S new_mother | toddler_18_24_months | purchase | potty_readiness
+Q Thank youuu , I will take your advice! I am going to buy a toilet adapter 😭 I’m nervous
+C Same mother; most of her replies are about what to buy next.
+
+U Parenting-1vdngo5
+S parent_unspecified | preschool_3_4_years | pain | defiance, not_listening
+Q Or even just when I tell her she has to hold my hand because the road is dangerous and she says 'no I'll walk by your foot instead' and I feel like tearing my hair out.
+C Parent of a fiercely independent 4-year-old who must do everything herself.
+
+U Parenting-1vdngo5
+S parent_unspecified | preschool_3_4_years | others_said | daycare
+Q She starts school in September and I have heard when they enter education they become easier to manage? Praying for September.
+C Same parent.

@@ -1,0 +1,31 @@
+{
+  "app": "expect",
+  "country": "us",
+  "url": "https://apps.apple.com/us/app/expect-prenatal-pelvic-floor/id1523369578?see-all=reviews",
+  "http_status": "200",
+  "raw_file": "_raw/reviews/expect-us-reviews.html",
+  "corpus_file": "_raw/reviews/expect-us-corpus.txt",
+  "reviews": [
+    {
+      "id": "14545323475",
+      "title": "Perfect pregnancy workout app",
+      "contents": "I've been searching for a pregnancy strength training app and this is the one! The workouts are fun and there's a huge variety - both for different workout needs during pregnancy and as your capacity changes throughout the pregnancy! I've never seen a workout app where people are having this much fun and you can hear the crew cheering them on! Plus I love the doctors notes for every exercise, it helps me know exactly what to expect and to tailor my workout to what my body needs.",
+      "rating": 5,
+      "date": "2026-09-13T14:47:41.000Z"
+    },
+    {
+      "id": "12712795545",
+      "title": "Great for pregnancy workouts!",
+      "contents": "I used this app almost every single day during my pregnancy and would highly recommend to anyone looking for safe pregnancy workouts.",
+      "rating": 5,
+      "date": "2025-05-29T19:28:02.000Z"
+    },
+    {
+      "id": "12551555964",
+      "title": "App doesn’t work",
+      "contents": "Even during set up the app glitches. Tells you to pick why you would like to use the app. No selections available. Tells you to check and see if your health insurance covers the app. Tells you to select your health insurance. No selections available. Please fix the app.",
+      "rating": 1,
+      "date": "2025-04-16T22:19:01.000Z"
+    }
+  ]
+}

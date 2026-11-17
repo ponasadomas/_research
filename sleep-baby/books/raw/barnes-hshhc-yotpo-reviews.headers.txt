@@ -1,0 +1,14 @@
+HTTP/2 200 
+content-type: application/json
+access-control-allow-origin: *
+ratelimit-reset: 5
+x-ratelimit-remaining-minute: 25879
+x-ratelimit-limit-minute: 29900
+ratelimit-remaining: 25879
+ratelimit-limit: 29900
+expires: Sun, 25 Oct 2026 08:12:55 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Sun, 25 Oct 2026 08:12:55 GMT
+content-length: 885
+

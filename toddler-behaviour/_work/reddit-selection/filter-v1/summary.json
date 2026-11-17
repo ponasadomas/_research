@@ -1,0 +1,116 @@
+{
+  "niche": "toddler-behaviour",
+  "label": "filter-v1",
+  "window": "2026-04-01 to 2026-10-25 (harvest)",
+  "totals": {
+    "scanned": 138445,
+    "B": 10431,
+    "A": 6679,
+    "safety": 806,
+    "C": 3174,
+    "unavailable": 982
+  },
+  "by_subreddit": {
+    "AttachmentParenting": {
+      "scanned": 2375,
+      "B": 257,
+      "A": 220,
+      "safety": 34,
+      "C": 46,
+      "unavailable": 14
+    },
+    "FirstTimeMom": {
+      "scanned": 4111,
+      "B": 53,
+      "C": 15,
+      "safety": 2,
+      "A": 24,
+      "unavailable": 3
+    },
+    "GentleParenting": {
+      "scanned": 719,
+      "A": 77,
+      "B": 117,
+      "C": 30,
+      "safety": 19,
+      "unavailable": 55
+    },
+    "Mommit": {
+      "scanned": 19451,
+      "B": 1052,
+      "A": 922,
+      "safety": 174,
+      "C": 317,
+      "unavailable": 33
+    },
+    "NewParents": {
+      "scanned": 27258,
+      "B": 756,
+      "C": 240,
+      "A": 468,
+      "safety": 80,
+      "unavailable": 19
+    },
+    "Parenting": {
+      "scanned": 29349,
+      "unavailable": 220,
+      "B": 1319,
+      "A": 799,
+      "C": 346,
+      "safety": 104
+    },
+    "ScienceBasedParenting": {
+      "scanned": 3124,
+      "A": 53,
+      "B": 107,
+      "C": 68,
+      "safety": 7
+    },
+    "daddit": {
+      "scanned": 18390,
+      "C": 254,
+      "B": 549,
+      "A": 392,
+      "safety": 57,
+      "unavailable": 21
+    },
+    "pottytraining": {
+      "scanned": 2992,
+      "B": 1545,
+      "A": 927,
+      "C": 447,
+      "safety": 25,
+      "unavailable": 19
+    },
+    "sahm": {
+      "scanned": 4231,
+      "B": 156,
+      "safety": 21,
+      "A": 179,
+      "C": 40,
+      "unavailable": 3
+    },
+    "toddlers": {
+      "scanned": 20733,
+      "B": 4245,
+      "C": 1326,
+      "A": 2356,
+      "unavailable": 592,
+      "safety": 266
+    },
+    "workingmoms": {
+      "scanned": 5712,
+      "B": 275,
+      "A": 262,
+      "C": 45,
+      "safety": 17,
+      "unavailable": 3
+    }
+  },
+  "card_chunks": 103,
+  "tier_rule": "A = topic + explicit purchase/paid-tool/brand signal or 2+ distinct pain words; B = topic + one pain word, a help question or a generic tool word (plan, method, guide, book, app, class, schedule, routine); C = topic only; safety = safety regex hit (inspected, not auto-dropped); non-core subs also need the niche's person regex",
+  "triaged": 0,
+  "kept": 0,
+  "read": 0,
+  "quoted": 0
+}

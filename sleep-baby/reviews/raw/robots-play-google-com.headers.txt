@@ -1,0 +1,24 @@
+HTTP/2 200 
+content-type: text/plain; charset=utf-8
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Sun, 25 Oct 2026 08:12:22 GMT
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+strict-transport-security: max-age=31536000
+cross-origin-resource-policy: cross-origin
+content-security-policy: require-trusted-types-for 'script';report-uri /_/PlayRobotsHttp/cspreport
+content-security-policy: script-src 'report-sample' 'nonce-dQBzfJHtaiYrOhynp9qF-A' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/PlayRobotsHttp/cspreport;worker-src 'self'
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+cross-origin-opener-policy: same-origin
+reporting-endpoints: default="/_/PlayRobotsHttp/web-reports?context=eJzjctDikmLw05BiaL15jnU6EJcsOs_aBsRdQDwHiA0VLrE6A3GRxBXWFiD-VHWDVaT6Buu3Yl82jhJfNiEejmefv11jEzixZ9kTRiX5pPzC-IKcxMrSzOLUorLUongjAyMzQwMjQz0Dw_gCAwCnTSqH"
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+set-cookie: NID=CoMCCAEStQEBOxGDSPcHxTMRcuJJN_GUDlhpF5Ldw_Rx7h8FB-_THPYpzumm7XPJOSMukby3rEwCuye8hEnYLZZ6biCJyiG_bepjh0xdwUPs1U0xb3d1Bi56KgvYmIfxfk2pNZzTikCXbRBRe0PALjmtY_pZYqeahcRY5F9lINrDiz7zcWIxm0N0rWbPyqKdDwYKzCPT86m6wQLFFkiPFrRLGvaSo85BWJJOSrvrJanwMPYmABErIDPqh8xGKAEyRQHSrAfPPiQAs-xdiOw2dNfLkVlkvmQ6R9REb-mrxX1QQnsN_osMXSTEb30pyaD-9lp9TUfgz8D2Q7bioQ5HZtvsixOhAg; expires=Mon, 26-Apr-2027 08:12:22 GMT; path=/; domain=.google.com; HttpOnly
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+accept-ranges: none
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site,Accept-Encoding
+

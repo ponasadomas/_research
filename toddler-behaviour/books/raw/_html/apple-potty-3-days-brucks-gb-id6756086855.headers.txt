@@ -1,0 +1,55 @@
+HTTP/2 301 
+server: daiquiri/5
+cache-control: public, max-age=600
+content-security-policy: upgrade-insecure-requests ; default-src 'none'; img-src 'self' https://*.apple.com https://*.mzstatic.com data:; style-src 'self' https://*.apple.com 'unsafe-inline'; font-src 'self' https://*.apple.com; media-src 'self' https://*.apple.com blob:; connect-src 'self' https://*.apple.com https://*.mzstatic.com; script-src 'self' https://*.apple.com 'unsafe-eval' 'sha256-4ywTGAe4rEpoHt8XkjbkdOWklMJ/1Py/x6b3/aGbtSQ='; frame-src 'self' https://*.apple.com itmss: itms-appss: itms-bookss: itms-itunesus: itms-messagess: itms-podcasts: itms-watchs: macappstores: musics: apple-musics: podcasts: videos:;
+location: https://books.apple.com/gb/book/potty-training-in-3-days/id6756086855
+x-apple-jingle-correlation-key: QY6F66RBMFC3FPFBGNBAQ7SH6Y
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-responding-instance: amp-web-books-preview-server:amp-web-books-preview-server-main-578f84986-j5xn7:4000:2640.0.0
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubDomains
+x-daiquiri-instance: daiquiri:10001:daiquiri-cluster-657f4876d6-sr29n:7987:26HOTFIX48:daiquiri-amp-kubernetes-shared-cluster-ak8s-prod-as4-amp-web-books-preview-prod
+x-daiquiri-debug-worker-pid: 368
+x-daiquiri-instance: daiquiri:10001:daiquiri-all-shared-ext-5779d75bfb-rzm8c:7987:26HOTFIX48:daiquiri-amp-kubernetes-shared-ext-ak8s-prod-as4-amp-daiquiri-ingress-prod
+x-daiquiri-debug-worker-pid: 1149475
+accept-ranges: bytes
+age: 0
+date: Sun, 25 Oct 2026 08:19:56 GMT
+via: 1.1 varnish
+x-cdn: fsly
+x-served-by: cache-ber1080055-BER
+x-cache-hits: 0
+x-timer: S1792916396.418171,VS0,VE533
+set-cookie: geo=LT; domain=apple.com
+x-cache: MISS fsly
+content-length: 0
+
+HTTP/2 200 
+server: daiquiri/5
+content-type: text/html
+cache-control: public, max-age=600
+content-security-policy: upgrade-insecure-requests ; default-src 'none'; img-src 'self' https://*.apple.com https://*.mzstatic.com data:; style-src 'self' https://*.apple.com 'unsafe-inline'; font-src 'self' https://*.apple.com; media-src 'self' https://*.apple.com blob:; connect-src 'self' https://*.apple.com https://*.mzstatic.com; script-src 'self' https://*.apple.com 'unsafe-eval' 'sha256-4ywTGAe4rEpoHt8XkjbkdOWklMJ/1Py/x6b3/aGbtSQ='; frame-src 'self' https://*.apple.com itmss: itms-appss: itms-bookss: itms-itunesus: itms-messagess: itms-podcasts: itms-watchs: macappstores: musics: apple-musics: podcasts: videos:;
+x-apple-jingle-correlation-key: 26G6ZQ7FVFOLR7ADGTUYFSP3WQ
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-responding-instance: amp-web-books-preview-server:amp-web-books-preview-server-main-578f84986-rkmfb:4000:2640.0.0
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubDomains
+x-daiquiri-instance: daiquiri:10001:daiquiri-cluster-657f4876d6-g6t74:7987:26HOTFIX48:daiquiri-amp-kubernetes-shared-cluster-ak8s-prod-as4-amp-web-books-preview-prod
+x-daiquiri-debug-worker-pid: 474
+x-daiquiri-instance: daiquiri:10001:daiquiri-all-shared-ext-5779d75bfb-6s8bp:7987:26HOTFIX48:daiquiri-amp-kubernetes-shared-ext-ak8s-prod-as4-amp-daiquiri-ingress-prod
+x-daiquiri-debug-worker-pid: 1150324
+accept-ranges: bytes
+age: 0
+date: Sun, 25 Oct 2026 08:19:57 GMT
+via: 1.1 varnish
+x-cdn: fsly
+x-served-by: cache-ber1080055-BER
+x-cache-hits: 0
+x-timer: S1792916397.980084,VS0,VE896
+vary: accept-encoding
+set-cookie: geo=LT; domain=apple.com
+x-cache: MISS fsly
+content-length: 329236
+

@@ -1,0 +1,101 @@
+{
+  "niche": "pregnancy-birth",
+  "label": "filter-v1",
+  "window": "2026-04-01 to 2026-10-25 (harvest)",
+  "totals": {
+    "scanned": 188283,
+    "A": 13869,
+    "unavailable": 5838,
+    "C": 21664,
+    "B": 31785,
+    "safety": 8822
+  },
+  "by_subreddit": {
+    "BabyBumps": {
+      "scanned": 26597,
+      "A": 2027,
+      "unavailable": 3042,
+      "C": 3257,
+      "B": 4419,
+      "safety": 1129
+    },
+    "Doulas": {
+      "scanned": 493,
+      "unavailable": 43,
+      "A": 153,
+      "C": 118,
+      "safety": 16,
+      "B": 108
+    },
+    "FirstTimeMom": {
+      "scanned": 4111,
+      "C": 198,
+      "B": 330,
+      "safety": 58,
+      "unavailable": 138,
+      "A": 160
+    },
+    "Mommit": {
+      "scanned": 19451,
+      "C": 824,
+      "A": 1097,
+      "B": 1515,
+      "safety": 380,
+      "unavailable": 131
+    },
+    "NewParents": {
+      "scanned": 27258,
+      "A": 869,
+      "B": 1291,
+      "safety": 147,
+      "C": 605,
+      "unavailable": 103
+    },
+    "PregnancyUK": {
+      "scanned": 6941,
+      "C": 1360,
+      "B": 2171,
+      "A": 986,
+      "unavailable": 195,
+      "safety": 509
+    },
+    "beyondthebump": {
+      "scanned": 16469,
+      "B": 2012,
+      "safety": 326,
+      "C": 1210,
+      "A": 1233,
+      "unavailable": 122
+    },
+    "beyondthebumpUK": {
+      "scanned": 6909,
+      "B": 554,
+      "A": 375,
+      "C": 324,
+      "unavailable": 37,
+      "safety": 58
+    },
+    "daddit": {
+      "scanned": 18390,
+      "A": 419,
+      "B": 658,
+      "C": 419,
+      "unavailable": 79,
+      "safety": 146
+    },
+    "pregnant": {
+      "scanned": 61664,
+      "C": 13349,
+      "B": 18727,
+      "A": 6550,
+      "safety": 6053,
+      "unavailable": 1948
+    }
+  },
+  "card_chunks": 206,
+  "tier_rule": "A = topic + explicit purchase/paid-tool/brand signal or 2+ distinct pain words; B = topic + one pain word, a help question or a generic tool word (plan, method, guide, book, app, class, schedule, routine); C = topic only; safety = safety regex hit (inspected, not auto-dropped); non-core subs also need the niche's person regex",
+  "triaged": 0,
+  "kept": 0,
+  "read": 0,
+  "quoted": 0
+}

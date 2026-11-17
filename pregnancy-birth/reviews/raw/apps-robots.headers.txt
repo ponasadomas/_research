@@ -1,0 +1,38 @@
+HTTP/2 200 
+server: daiquiri/5
+content-type: text/plain
+x-apple-version-number: 2642.2.0-external
+x-frame-options: DENY
+cache-control: public, no-transform, max-age=300
+etag: "6a69551e339c695ee67cbdc162133a09"
+x-content-type-options: nosniff
+content-security-policy: upgrade-insecure-requests; default-src 'none'; manifest-src 'self' https://*.apple.com; img-src 'self' https://*.apple.com https://*.mzstatic.com data:; font-src 'self' https://*.apple.com; style-src 'self' https://*.apple.com 'unsafe-inline'; script-src 'self' https://*.apple.com; connect-src 'self' https://*.apple.com https://*.mzstatic.com; media-src 'self' https://*.apple.com blob:; child-src 'self' https://*.apple.com; frame-src 'self' https://*.apple.com itms-appss: macappstore:; worker-src blob:; frame-ancestors 'none'; block-all-mixed-content; report-uri /api/csp-report
+last-modified: Mon, 19 Oct 2026 20:08:48 GMT
+x-xss-protection: 1; mode=block
+x-responding-instance: silverbullet-external:2106:st00p00it-vmsilverbullet006:8300:26C57
+x-apple-jingle-correlation-key: SDDBR3TBUHUDQQIOR7P5N5AQDI
+x-apple-request-uuid: 90c618ee-61a1-e838-410e-8fdfd6f4101a
+apple-seq: 0.0
+apple-tk: false
+apple-originating-system: UnknownOriginatingSystem
+strict-transport-security: max-age=31536000; includeSubDomains
+x-daiquiri-instance: daiquiri:45887001:st44p00it-hyhk15124201:7987:26HOTFIX48:daiquiri-amp-all-shared-int-001-st
+x-daiquiri-debug-worker-pid: 57208
+via: http/1.1 usuqo1-dccdn-lx-0101.ts.apple.com (acdn/25.17695), https/1.1 usuqo1-dccdn-bx-0102.ts.apple.com (acdn/25.17695), 1.1 varnish
+cdnuuid: bf890a42-0628-46eb-86b6-0e356ce114a3-91954024
+x-daiquiri-instance: daiquiri:48493001:st44p00it-hyhk15034601:7987:26HOTFIX48:daiquiri-amp-all-shared-ext-001-st
+x-daiquiri-debug-worker-pid: 34494
+x-daiquiri-instance: daiquiri:10001:daiquiri-all-shared-ext-5659599cb-vdh82:7987:26HOTFIX48:daiquiri-amp-kubernetes-shared-ext-ak8s-prod-sk2-amp-daiquiri-ingress-prod
+x-daiquiri-debug-worker-pid: 157875
+accept-ranges: bytes
+date: Sun, 25 Oct 2026 08:14:23 GMT
+age: 121
+x-cdn: fsly
+x-served-by: cache-ber1080055-BER
+x-cache-hits: 1
+x-timer: S1792916063.381544,VS0,VE1
+vary: Accept-Encoding
+set-cookie: geo=LT; domain=apple.com
+x-cache: hit-fresh, hit-stale, HIT fsly
+content-length: 506
+

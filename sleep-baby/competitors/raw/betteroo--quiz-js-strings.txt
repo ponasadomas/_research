@@ -1,0 +1,760 @@
+SOURCE: https://quiz.betteroo.ai/assets/ (quiz-EY3q_TDy.js, index-Aoz1Yk6B.js, quizState-BGifne0R.js)
+FINAL: static JS bundles saved untouched in _js/
+HTTP: 200  FETCHED: 2026-10-25
+TITLE: Betteroo quiz: human-readable string literals extracted from the JS bundles (order kept, duplicates kept)
+----------------------------------------------------------------------
+## _js/betteroo-quiz-index-Aoz1Yk6B.js
+||t.displayName instanceof String)&&t.displayName.startsWith(
+Select the date
+Enter your answer
+Enter your email
+Family Choice Awards
+Baby Innovation Award
+Invalid question configuration
+Terms of Service
+28-DAY BETTER SLEEP
+GET YOURSELF BACK
+28-DAY BABY SLEEP
+Build Your Newborn's Perfect Sleep Foundation
+Survive & Thrive the 4-Month Sleep Regression
+End the Night Wakings: Personalized Sleep Success
+Tame Toddler Bedtime Battles & Night Struggles
+The Big Kid Sleep Solution: Ages 3 and Up
+Value must be at least ${a.min}
+Value must be at most ${a.max}
+Please enter an amount
+Amount cannot be negative
+Amount must be at least ${a.min}
+Amount must be at most ${a.max}
+Please enter your answer
+Answer must be at least {n} characters
+Answer must be at most {n} characters
+Please enter your email
+Please enter a valid email address
+Please enter a valid email address
+Did you mean {email}?
+bg-white border border-gray-200
+Invalid question type
+bg-white border border-gray-200
+full nights of rest
+Stay on track
+goalchart.your goal of
+your goal of
+And love how rested you feel.
+And love how rested you feel.
+*This chart is for illustrative purposes only
+)return a;throw new TypeError(
+⚠️ Failed to capture Paddle checkout totals:
+Failed to initialize Paddle instance
+Error initializing Paddle:
+Failed to initialize Paddle: ${e}
+Paddle not initialized. Call initializePaddleService() first.
+✅ Guides upsell checkout opened
+✅ Guides checkout opened (regular)
+⚠️ Upsell checkout produced no iframe — falling back
+⚠️ Guides upsell open failed, retrying as regular checkout:
+❌ Guides regular-checkout fallback also failed:
+)throw new TypeError(
+Invalid attempt to destructure non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+Invalid attempt to destructure non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+Invalid attempt to iterate non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+);else throw new Error(
+);else throw new Error(
+))&&s(m).test(l);throw new Error(
+ is not a valid credit card provider.
+Invalid attempt to spread non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+)),be[v].test(A)?v in Ae?Ae[v](A):!0:!1;throw new Error(
+Invalid attempt to destructure non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+Invalid attempt to iterate non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+Invalid country code: '
+Invalid ref detected in URL parameters:
+🔑 Clerk signin tokens stored (primary + backup)
+Failed to store Clerk signin tokens:
+Failed to retrieve Clerk signin tokens:
+⚠️ App URL without tokens
+no more early wakeups
+be there for your family
+get yourself back
+feel in control
+keep your cool
+🎁 Continuing to guides upsell
+🔄 Redirecting to Betteroo app
+Your personalized plan is ready.
+bg-brand-green text-white px-8 py-4 rounded-full font-semibold text-lg hover:bg-brand-green-dark transition-colors flex items-center justify-center mx-auto max-w-sm
+Unknown question type: 
+Go back to previous question
+⚠️ Failed to preload ${t}:
+,r.error),Pe.value=r.error,Ie.value=null):r.data?(S.debug(`✅ Pricing data loaded via plans service (${r.fromCache?
+,e.error),Pe.value=e.error):e.data?(S.debug(`✅ Increased discount pricing loaded (${e.fromCache?
+Failed to refetch pricing
+,r.error),Pe.value=r.error):r.data?(S.debug(`✅ Email campaign pricing loaded (${r.fromCache?
+Failed to fetch email campaign pricing
+Failed to fetch discounted plans
+✅ Discount data fetched successfully:
+Failed to fetch discount
+📦 Discount cache hit:
+📦 Discount cache expired:
+❌ Missing required discount IDs in config, using fallback values
+🔄 Fetching discount comparison from Paddle API
+Failed to fetch required discount data
+❌ Failed to fetch required discount data, using fallback
+⚠️ Email campaign discount failed to fetch, using fallback value
+✅ Discount comparison calculated from API:
+❌ Error fetching discount comparison:
+Failed to fetch discount comparison
+}}formatPrice(e,r){try{return new Intl.NumberFormat(
+PayPro pricing API error: ${n.status}
+PayPro API error: ${(o.errors||[]).join(", ")}
+[PayPro] No pricing found for product ${m} (${l})
+Failed to refetch PayPro pricing
+Failed to fetch PayPro email campaign pricing
+🌍 Fetching geolocation data from:
+Geolocation API returned unsuccessful response
+✅ Geolocation data fetched successfully:
+## _js/betteroo-quiz-quiz-EY3q_TDy.js
+Payment completion processing failed: ${o.status} ${u}
+✅ User payment completion processed successfully:
+❌ Failed to process payment completion:
+Guides purchase processing failed: ${t.status}
+✅ Guides purchase processed for:
+❌ Failed to process guides purchase:
+💳 Payment method on completion event:
+🎉 Paddle checkout completed
+🔍 Extracted transaction ID:
+✅ Analytics tracked for purchase completion with transaction ID:
+📊 Skipping duplicate analytics tracking - already tracked
+❌ CRITICAL: Cannot track Purchase event - missing required data!
+🔍 Extracted transaction ID:
+✅ Analytics tracked for purchase completion with transaction ID:
+📊 Skipping duplicate analytics tracking - already tracked by checkout.completed
+❌ CRITICAL: Cannot track Purchase event - missing required data!
+📋 Paddle checkout closed
+📋 Guides upsell declined via Paddle skip
+📋 Payment method selected
+💥 Payment error (no payment methods or integration issue)
+📋 Customer created - no analytics tracking needed
+📋 Ping size event - no analytics tracking needed
+📋 Other Paddle event:
+🚫 Rejected message with empty origin
+🔍 Incoming message event:
+🔒 Trusted origins configuration:
+🚫 Rejected message from untrusted origin:
+✅ Message origin is trusted:
+🚫 Rejected message with invalid data payload:
+❌ Paddle configuration is disabled - missing required environment variables
+⚠️ No geolocation data available for Paddle checkout
+🔍 Container state before init:
+❌ Checkout initialization failed:
+🔄 Updating Paddle checkout with new plan...
+Paddle instance or Checkout not available
+✅ Paddle checkout updated successfully
+Failed to update checkout
+❌ Checkout update failed:
+✅ Checkout container found
+Checkout container not found after ${e} retries
+🎯 Paddle iframe detected, waiting for contentWindow...
+Paddle iframe contentWindow not ready within timeout
+❌ Paddle iframe not found within timeout
+Paddle iframe not found within timeout
+❌ Paddle iframe not ready within timeout
+Paddle iframe not ready within timeout
+familias con crianza compartida
+familias con apoyo extra
+con varios peques
+que están en casa todo el día
+que trabajan medio tiempo
+con mil cosas encima
+families with extra support
+A proven plan to reach 0 night wakeups
+A proven plan for peaceful bedtimes
+A proven plan for longer, deeper naps
+A proven plan for a predictable routine
+A proven plan to end early wakeups
+A proven plan to help your baby sleep through the night
+A proven plan for peaceful, stress-free bedtimes
+A proven plan for longer, more restorative naps
+A proven plan for consistent, reliable sleep patterns
+A proven plan to shift your baby's wake time later
+A proven plan for better sleep
+A proven plan that works
+Perfect for you
+Gentle and effective methods
+Aligned with your parenting values
+Science-backed approaches that respect your parenting style
+1:1 Expert Human Support
+Included with every plan — **$150 value**
+You qualify for our money-back guarantee
+Sort sleep before returning to work
+Ready before childcare changes
+Sorted before your move
+Fixed before your trip
+Ready for your new schedule
+Ready for the sleep space change
+Get sleep sorted before returning to work
+Be prepared for the childcare transition
+Create stability before your move
+Sleep well before your trip
+Smooth transition to your new schedule
+Prepare for the sleep space change
+Establish routines before {baby} arrives
+Based on your milestone
+your new baby
+your new baby
+A proven plan to help your baby sleep through the night
+A proven plan for peaceful, stress-free bedtimes
+A proven plan for longer, more restorative naps
+A proven plan for consistent, reliable sleep patterns
+A proven plan to shift your baby's wake time later
+A proven plan that works
+families with extra support
+Perfect for you
+Gentle and effective methods
+Science-backed approaches that respect your parenting style
+1:1 Expert Human Support
+Included with every plan — **$150 value**
+You qualify for our money-back guarantee
+I've tried everything. Why would this be different?
+You're not doing it wrong. Most sleep advice fails because it's built for a textbook baby and a perfect parent — not real life.
+
+Betteroo adapts to your child and to you — your energy, your capacity, your comfort level. When things change — teething, regressions, illness, or just a really bad week — we adjust. We don't hand you a plan and disappear. We stay with you through the chaos.
+Is this just another cry-it-out program?
+No. If it feels wrong, we don't do it. Period.
+
+You choose the approach that fits your instincts — gentle, gradual, or somewhere in between. We never ask you to do something that goes against who you are as a parent.
+My baby is different. Will this actually work for us?
+Your baby IS different — that's exactly why generic advice fails. A 4-month-old with reflux needs a completely different approach than a toddler with bedtime battles.
+
+Your plan is built around your child's age, temperament, and sleep challenges — and around your reality too. Breastfeeding, co-sleeping, daycare, single parent, two parents — we meet you where you are.
+I feel like I should be able to figure this out myself.
+That guilt? You're not the only one carrying it.
+
+But here's the truth: you're navigating something genuinely hard while running on fumes. Asking for support isn't failing — it's the smartest thing you can do for yourself and your child.
+Can my partner or other caregivers follow the plan too?
+Yes — and this is one of the biggest reasons it works.
+
+Whether it's bedtime with mom, naptime with grandma, or the weekend with dad — everyone follows the same approach. Unlimited caregiver sharing, no extra cost.
+We built this for parents in survival mode.
+
+Daily check-ins take 5–15 minutes, not hour-long modules. No complex sleep logs. Everything assumes you're depleted — because you are, and that's okay.
+What if it doesn't work?
+30-day money-back guarantee. No questions, no hassle.
+
+We'd rather you try risk-free than stay stuck wondering "what if."
+How can Betteroo be so confident when every family is different?
+Because Betteroo doesn't need families to be the same. We get to know yours.
+
+Generic programs give every family the same method. Basic “personalized” apps use your quiz answers once. Betteroo keeps learning through the app and our experts, understanding what your baby needs, how your household works, and what you can realistically sustain.
+
+We're not betting on one method working for everyone. We're betting on knowing your family well enough to find what works for you.
+You're really that confident it will work?
+Absolutely.
+
+Betteroo gets to know your family, learns what works, and adapts when real life changes.
+
+If you're not satisfied with your family's progress within 30 days, we'll refund every cent.
+
+You give us 30 days. We take the risk.
+Your success is our priority. If you're not completely satisfied with your results, simply let us know within 30 days from when you were charged, **and we'll provide a full refund - no questions asked.**
+Grab Your Personal Plan
+Your journey is based on decades of research
+Start Your 28-Day Better Sleep Journey Today!
+Backed by Experts,
+Based on Science,
+Grounded in established sleep and developmental research and guidance from leading organizations worldwide
+American Academy of Pediatrics
+American College of Obstetricians and Gynecologists
+American Psychological Association
+Postpartum Support International
+NHS (UK National Health Service)
+Red Nose (Australian safe sleep authority)
+International Family Association Awards
+Access Betteroo Anywhere,
+Using Your Mobile Device
+Special discount applied!
+⏸️ Already on success page, skipping redirect...
+🔄 Redirecting to success page...
+✅ Successfully set current question to success
+❌ Error redirecting to success page:
+📨 Message event received:
+❌ CRITICAL: Missing currencyCode for message event! Purchase tracking will fail.
+🔧 Global event listener added
+Loading secure checkout...
+You are just weeks away from **having your energy back**.
+You are just weeks away from **feeling in control of your days again**.
+You are just weeks away from **feeling more confident as a parent**.
+You are just weeks away from **seeing your baby happier and calmer**.
+You are just weeks away from **having more time with your partner**.
+You are just weeks away from **saying yes to plans again**.
+You are just weeks away from **more restful nights**.
+Selected plan is not available
+Fewer night wake-ups
+End bedtime battles
+Stop early mornings
+Show up for family
+Keep my cool
+Stay in control
+w-full bg-[#38AF76] text-white py-4 px-6 rounded-2xl text-lg font-medium hover:bg-[#38AF76]/90 transition-colors disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center min-h-[44px]
+Night two of our sleep plan with our one-year-old, and **she slept through the night**, 11 hours, for the **first time ever**. If she stirs now, she settles herself, and **she wakes up happily playing with her teddies.** I have so much more energy to actually enjoy my days. **Betteroo has been invaluable: 24/7 support, a plan personalised to her, 1:1 help from a real sleep expert**, and guidance on what’s actually happening for her developmentally.
+Kiki and her partner on the beach on a sunny morning
+My baby never slept without breastfeeding, **she used me as a pacifier all night and woke almost hourly**. I honestly hadn’t had a decent sleep since she was born. **Within days she slept almost 5 hours straight and I felt so much more energetic** than I thought I would. She still wakes sometimes but resettles in 10 minutes now. **I’m finally feeling more confident.** Thank you.
+Nina holding her daughter in the nursery at bedtime
+Two weeks in
+I tried Betteroo when I had nothing left to lose. Two weeks in, my baby slept until 7am and I got my first 8-hour night. I’m waking up without a raging migraine, I’m calmer with my older boys, and **I finished a full cup of coffee while it was still hot**. Last night I sat around a bonfire with my husband at 11:30pm, not listening for a cry, just enjoying the night. That’s not a small thing. **That’s me, getting myself back.**
+Margot at an outdoor market with her toddler
+Four weeks in
+**I was at my lowest point of sleep exhaustion** when I found Betteroo, and the tips and schedule were working. My daughter has been sleeping through the night for 4 weeks now. I almost feel like we graduated from Betteroo. **It truly helped me when I needed it most.** We are so appreciative.
+Becca sitting on her front porch holding her baby
+Photos are illustrative.
+pointer-events-none absolute inset-x-0 bottom-0 h-16 bg-gradient-to-b from-[#F5F6F8] to-white
+I’ve really loved that it doesn’t just focus on the baby, it considers the parent too. Because sometimes we need a little support, reassurance and guidance along the way too 🤍
+It’s more than a sleep guide — it’s like having someone looking after you, too. Because rested children matter, but so do exhausted parents 🌙
+My sleep plan was personalised to my twins, so it was very twin specific — which was great! Just the most easy and straightforward way to get the information 💕
+Dilly holding her twin daughters
+If you’re in the “why is my kid STILL waking up?!” phase 😭 A personalized sleep plan, guidance from Joey, and support that adapts to real life 💤🤍
+Insights reflect this creator’s personal experience and were shared as part of a paid collaboration. Individual results vary.
+She's doing 6-hour stretches now and I can feel my body recovering. Like, physically recovering.
+Ate a hot dinner sitting down last night. Such a small thing but it made me emotional.
+Thought newborns just don't sleep. 5-hour stretches now. It's possible this early.
+The 4th trimester was brutal. Finally getting 4-hour blocks and I feel human again.
+Everyone said 'sleep when baby sleeps' but baby never slept. Now she does. Life changing.
+I'm finally sleeping 7 hours straight. Honestly forgot what it felt like to be safe to drive.
+The 4-month regression hit us like a truck. Back to 6-hour stretches now. We survived.
+Getting real sleep again. I can actually think. Made a grocery list yesterday without forgetting half of it.
+Was waking every hour in our bed. She self-settles in her crib now. We're all actually sleeping.
+We were co-sleeping just to survive. Now she's in her crib until 5am most nights. I have my bed back.
+A year of broken sleep almost broke me. Finally sleeping through. Should have done this sooner.
+Thought I'd missed the window. 15 months and she learned in a week. Never too late.
+The crib-to-bed transition was a nightmare. He stays in his big kid bed all night now. We did it.
+My husband's been amazing with the consistency. She stopped fighting bedtime after a week. Team effort.
+Two and a half years of no sleep. Finally sleeping 11 hours straight. I'm a different person.
+She was in our bed every night for 2 years. Finally sleeps in her own room. We have our bed back.
+He was getting out of bed 10 times a night. Now stays put and sleeps through. We have evenings again.
+Bedtime fears were ruling our evenings. She feels safe in her room now. Confident and independent.
+I was basically a human mattress. She goes down drowsy now and sleeps 2 hours. I eat lunch sitting down!
+He only slept ON me for months. Crib naps actually work now. Finally have my arms back.
+Baby's down by 7pm now. Doing this solo and it's actually working. I can handle this.
+Sleeping 7 hours and showing up at work again. No more hiding in the bathroom to collect myself.
+Baby sleeps through now. Going back to work Monday and I actually feel ready.
+Reflux made everything so much harder. The gentle approach actually worked with his sensitive tummy. He sleeps flat in his crib now.
+Between the allergies and sleep issues I was losing it. The plan worked around his needs. Finally getting rest.
+Home all day and barely coping. Now I'm getting through the day without breaking down. I can do this.
+All three are sleeping better. I can actually handle them now. Survival mode is over.
+Both babies sleep through. I finally have breaks during the day. Like actual breaks.
+Four kids and I was barely surviving. They're all sleeping better now. I can breathe.
+I thought I was failing at this whole mom thing. Baby's sleeping 6 hours now. I'm not broken, I just needed a plan.
+The 4-month regression hit us hard. Back to 6-hour stretches now. Survived the wall.
+Twin sleep deprivation is next level. They both sleep through now. I'm human again.
+Thought newborns just don't sleep. 5-hour stretches now. It's possible this early.
+The witching hour was destroying me. Now she settles by 8pm every night. Evenings are peaceful.
+Everyone said wait until 4 months. Started foundations early and it's already so much better.
+Day/night confusion was brutal. She knows the difference now. Nights are actually for sleeping.
+First 3 months were survival mode. Finally have a rhythm. It does get better.
+She naps alone for 90 minutes now. I finally have time to shower AND eat. Game changer.
+Went to dinner with friends last week. Felt like myself for the first time in months.
+The routine of day naps has been the biggest contributor. She sleeps so much better at night now too!
+Getting 2-hour break windows every day. I can actually get things done. Life feels manageable.
+He used to wake up the second I left the bed. Now sleeps independently until 6am. Freedom.
+Sleeping 6+ hours straight. Can handle everything without losing it. Patience is back.
+Getting 7 hours and I'm a patient mom again. No more yelling. I feel like myself.
+Bedtime is calm now. The gentle approach actually worked. No harsh methods needed.
+A year of broken sleep and I finally took action. She sleeps 11 hours now. Why did I wait?
+The crib-to-bed transition was a nightmare. He stays in his big kid bed all night now. We did it.
+My husband's been amazing with the consistency. She stopped fighting bedtime after a week. Team effort.
+Dropping the nap was making nights terrible. Found the right balance. Everyone's happier.
+Toddler bedtime battles were exhausting. Now it's stories and kisses and done. Peace.
+He kept climbing out of his crib. Transitioned to a bed and now stays put. Problem solved.
+She actually stays in her bed now. No more midnight visits to our room. We all sleep through.
+Bedtime used to be an hour of negotiations. Now it's stories, kiss goodnight, done. She stays in bed.
+He was coming to our bed every single night. Now sleeps in his own room until morning. Freedom.
+Thought we'd missed the window for sleep training. She goes to bed without a fight now. It's never too late.
+Bedtime fears were ruling our evenings. She feels safe in her room now. Confident and independent.
+The stalling and excuses were endless. Clear routine now and she follows it. So much easier.
+We share a room but she self-settles in her crib now. We all sleep so much better.
+We co-slept because nothing else worked. She actually loves her crib now. I sleep deeply again.
+She only slept ON me for months. 90-minute crib naps now. Finally have my arms back.
+Felt so stuck under a sleeping baby all day. She naps in her crib now. I have a life again.
+Tried everything to get her off me for naps. Crib naps actually work now. Can finally eat lunch.
+My reflux baby hated lying flat. He's comfortable in his crib now, sleeping longer stretches.
+Thought his tummy issues meant sleep training was off the table. The gentle approach worked perfectly.
+Dreaded the crib transition. She actually prefers it now. Sleeps better than in our room.
+Baby fought the crib so hard. Now he goes down happy and sleeps all night. Wish I'd started sooner.
+Had no idea what I was doing. Now I have a confident bedtime routine. Finally feel like a real mom.
+Everyone had advice, nothing worked. Baby sleeps through now. Should've trusted the process sooner.
+Was googling 'why won't my baby sleep' at 3am every night. She sleeps 7 hours now. Google can rest too.
+Thought bad sleep was just my life now. She self-soothes. I was wrong, it can get better.
+Baby sleeps through now. Doing this on my own and it's actually working.
+Both nap at once now. I finally get a break. Single mom life just got a lot easier.
+Bedtime takes 15 minutes now. Have my evenings back. Can actually be present with my partner.
+Baby's down by 7:30. Date nights are back. We have us again.
+Showing up at work fully present. Sleeping 6+ hours changed everything. Can actually think again.
+Juggling work-from-home and baby was chaos. Predictable naps mean productive work hours now.
+Some days home, some days office, always exhausted. Consistent routine now no matter where I am.
+Eating hot meals sitting down now. Simple but honestly life-changing.
+All three nap at the same time now. First real break in years. I almost cried.
+Patient with all three now. The calm mom I always wanted to be. Sleep makes everything easier.
+Can leave the house again. Predictable schedule changed everything. Made plans with friends this week.
+All four on a schedule now. First real break in years. Forgot what quiet sounded like.
+Managing all four kids now. Finally have a system that works. No more chaos.
+Have patience for both kids now. Getting 6+ hours makes all the difference. Feel like me again.
+Consistent schedule now. Ready to go back to work. Feel prepared, not terrified.
+Maternity leave ending in 3 weeks. Baby sleeps through. Going back feeling confident.
+Back to yoga and coffee dates. Feel alive again. Found myself somewhere in all this.
+Getting out of the house daily now. Predictable naps gave me freedom. Joined a mom group.
+Have an actual social life again. Can make plans and keep them. Life beyond the house.
+Days felt endless and exhausting. Naptime is my time now. Finally have moments to myself.
+Everyone doubted I could do this. Baby sleeps through now. Proving them wrong feels good.
+Both babies on the same schedule now. They sleep 7pm-6am. I actually have evenings.
+Synced their naps finally. Two hours of quiet at the same time. Game changer for twins.
+The bassinet-to-crib move was seamless. She sleeps better in her own room now. Predictable schedule.
+Dreaded the crib transition but it went smoothly. Naps are consistent now. Wish I'd done it earlier.
+Managing everything solo is easier with a solid routine. He sleeps 7-7 now. I have my evenings.
+No partner to tag-team with, so predictable sleep is everything. She's on a schedule now. I can plan my days.
+Predictable 2-hour windows every day now. Life is finally manageable. Can plan my days.
+Consistent schedule now. Can actually plan my days. No more guessing when naps will happen.
+Same routine every night. Finally have control. Know exactly what to expect.
+Smooth morning routine now. Stress is way down. Everyone knows what's happening.
+Optimized everything. More time for what actually matters. Efficient days.
+Mornings are peaceful now. The routine changed everything. No more chaos.
+Love room-sharing but wanted better sleep. She sleeps in her space, we sleep in ours. Best of both.
+Contact naps were sweet but limiting. Independent naps AND I still get cuddles. Win-win.
+Good sleep but wanted great sleep. Consistent 11-hour nights now. Optimized our routine.
+Naps were unpredictable, work was suffering. Like clockwork now. Schedule meetings with confidence.
+Both kids on the same schedule now. Evenings are predictable. Can actually plan dinner.
+Mornings used to be chaos. Now everyone knows the routine. Out the door on time every day.
+Dropping the nap was chaos. Now she does quiet time and sleeps 11 hours at night. Even better.
+Bedtime used to be endless stalling and excuses. Now it's routine, stories, lights out. So peaceful.
+He was waking us up at 5am every day. Sleeps until 6:30 now. That extra time is everything.
+Foundations in place early. Predictable 4-hour stretches already. Setting us up for success.
+Nap transition was unpredictable. Consistent quiet time routine now. Know exactly when I have my break.
+Bedtime used to drag on forever. 20 minutes now, start to finish. Evenings are ours again.
+The big kid bed transition went smoothly. He stays put all night. Mornings are calm.
+Predictable twin schedule means I can plan work calls. Both nap 10-12 and 2-4. Clockwork.
+Fine-tuned the toddler schedule perfectly. 12-hour nights, 2-hour nap. Textbook sleep.
+The 1-nap transition was smooth. She sleeps independently and wakes happy. Total confidence.
+She reads quietly in bed if she wakes early. Independent sleeper, finally. Worth every effort.
+Bedtime routine is like clockwork. Stories, songs, goodnight. She doesn't even call for us anymore.
+Fine-tuned wake windows to perfection. 12-hour nights consistently. Total control of schedule.
+Good sleep but wanted great. Optimized the routine and now it's textbook. Couldn't be happier.
+She puts herself to sleep and sleeps 12 hours. Perfected the routine. Total independence.
+Dropped the nap seamlessly. 11-hour nights like clockwork. He's thriving.
+Transitioned from contact naps to independent sleep perfectly. She self-settles and naps 2 hours. Best of both worlds.
+Still do one contact nap for cuddles, but she independently naps twice a day too. Perfect balance.
+We loved co-sleeping but needed better rest. She's in her crib now and we all sleep 11 hours. Best of both worlds.
+Transitioned from bed-sharing smoothly. She self-settles in her own space now. No tears, just sleep.
+Thousands of happy parents
+Money Back Guarantee
+Digital Health Awards 2026
+@ HLTH
+Family Choice Awards 2026
+Recognized for putting the parent, not just the baby, at the center of sleep support.
+Most parenting products are built around the baby. Betteroo was built for the parent.
+Baby Innovation Award
+Health Service Company
+of the Year
+Best Mom Products
+Betteroo isn't just helping babies sleep, it's helping parents feel seen.
+}}},Image(){},Date(){},screen:{},setTimeout(){},clearTimeout(){},matchMedia(){return{}},requestAnimationFrame(e){return typeof setTimeout>
+Swiper Loop Warning: Loop mode is not compatible with grid.fill = `row`
+Clinical Social Worker
+Over 15 Years Helping Families Navigate Developmental, Sensory, and Behavioral Differences
+Occupational Therapist With 20+ Years of Experience · Board-Certified in Pediatrics · Adjunct Professor at NYU Steinhardt
+Pediatric Medical Advisor
+Co-founder & Chief Parenting Officer
+Former Chief Technologist, Good Housekeeping Institute · Featured Expert on GMA, Today Show, CBS ·
+Mom of 3
+Board-Certified Clinical Specialist in Pediatric PT ·
+Clinical Lead at the HSS
+Decades of Experience Working With Children, Parents, and Multidisciplinary Care Teams
+} text-lg font-medium hover:bg-[#38AF76]/90 active:bg-[#2E9664] transition-colors flex items-center justify-center min-h-[48px]`,onClick:e,children:p(
+Introductory offer expires in
+All over the place
+Your new evenings
+Time to recharge
+Your new days
+Through the night
+object-cover w-full filter saturate-75 brightness-85 grayscale-[20%]
+reduced night wakeups in the
+saw longer naps in the
+cut bedtime battles in the
+pushed wakeups later in the
+built a predictable routine in the
+saw real sleep improvements in the
+of parents who started their
+Based on user-reported progress within the app.
+} text-lg font-bold hover:bg-[#38AF76]/90 active:bg-[#2E9664] transition-colors flex items-center justify-center min-h-[48px] mt-5`,onClick:e,children:p(
+w-full bg-[#38AF76] text-white py-1 px-6 rounded-lg text-lg font-bold hover:bg-[#38AF76]/90 transition-colors flex items-center justify-center min-h-[48px]
+🎯 EmailCampaignPaywall mounted - email campaign pricing already handled by service
+🔍 Opening checkout modal
+Could not proceed to checkout.
+Animation setup error:
+Failed to start animation
+Cross-checking with similar parent profiles
+Calculating optimal sleep recommendations
+Adapting to your family routine
+Selecting your optimal sleep plan
+Failed to continue. Please try again.
+Analyzing Sleep Parameters
+Lifestyle and Habits
+Generating Your Action Plan
+🚀 Auto-advancing to goal visualization
+Trusted by over 77,031 moms
+be there for your family
+get yourself back
+feel in control
+keep your cool
+no more early wakeups
+🔄 Leaving guides upsell for the app
+🔄 Skipping guides upsell for the app
+Essential guides to speed up your results
+- a special offer, just for you!
+We help parents like you be the parent they want to be - 
+without choosing between sleep and staying close to your baby.
+A chart showing the decline of mental performance as sleep hours decrease. The line starts high and drops sharply after 7 hours of sleep, with a 45% decline at 6 hours and a 70% decline at 4 hours.
+Stanford Sleep Medicine Center
+reports that repeated night wakings reduces mental performance by up to 70% - same impact as sleeping 2 hours less
+Sleep better and wake up rested with gentle but effective methods
+Smart schedules that adapt to your baby's rhythm
+A calmer baby and more confident you
+Guidance when you need it most
+Failed to continue. Please try again.
+And love how rested you feel
+already use Betteroo
+Staying on track can be hard. Betteroo makes it easy.
+Jessica, sleeping full nights
+Zoe has mastered sleeping through the night, and she’s asleep in under 10 minutes at bedtime. I always thought I was doing something wrong, but the guidance I’ve received is amazing. I became a better mom, wife and person because I got myself back.
+Jessica with her daughter Zoe
+Doing this alone is hard. With Betteroo, you never have to.
+Phoebe, back on track
+I love that I can get 1:1 expert support whenever I need it. Rachel’s note meant the world to me, especially in the exact moment I read it. Betteroo took the guesswork out of our days and let us focus on what mattered.
+Phoebe with her daughter
+reducing night wakeups
+making bedtime easier
+stopping early morning wakeups
+How many children do you have?
+Keitaro lead postback failed:
+How old is your child?
+How old are your children?
+Select all the ages that apply
+How much sleep do you get?
+How do you feel when you wake up?
+Tell us which areas you'd like
+Select all that apply
+Fewer night wakeups
+Make bedtime easier
+Stop early morning wakeups
+What will better sleep help you do?
+Select all that apply
+Get myself back
+Be there for my family
+Keep my cool
+Feel in control
+A goal without a plan is just a wish
+reduce those endless wakeups
+improve nap quality
+make sleep predictable
+end bedtime battles
+stop those early morning wakes
+get yourself back
+be there for your family
+feel in control
+keep your cool
+feel your best
+. Now, tell us about your baby's sleep so we can build a personalized plan that works for you — and see if you can hit your goals faster!
+Most mornings, when is baby up for the day?
+It changes day to day
+How many naps does baby take on most days?
+It changes day to day
+A typical nap lasts...
+It changes day to day
+Which of these do you use to get baby to sleep?
+Select whatever's working for you right now
+Feeding to sleep
+They settle on their own
+You don't need to cry it out!
+Mother gently comforting baby
+Guess what: You don't need to choose between sleep and staying close to your baby.
+With responsive methods that match your parenting style, you can 
+get better sleep and feel confident in your approach — starting tonight!
+That sounds better
+How long does it take baby to fall asleep at night?
+It changes night to night
+Most nights, what time does baby fall asleep?
+It changes night to night
+How many times does baby typically wake up at night?
+It changes night to night
+Doesn't wake up at all
+When baby wakes, what helps them fall back asleep?
+Select all that apply
+Rock or hold them
+Sit or shush them
+They resettle on their own
+It changes night to night
+Your plan will work with your baby's natural patterns
+Peaceful sleeping baby
+support longer sleep, fewer night wakings, and peaceful bedtimes
+ — empowering you to parent with confidence, not exhaustion.
+What's your current parenting status?
+Married or partnered
+Separated but sharing parenting
+Raising children with extended family
+What's your typical weekday routine?
+Choose your main setup
+Home with baby full time
+Home with baby part time
+Working full-time out of home
+How often do you feel physically and emotionally drained?
+How often do you feel depleted no matter how much rest you get?
+Why broken sleep hits harder than the hours suggest
+How often do you feel stressed or anxious?
+How often do you feel overwhelmed by the amount of work you have to do?
+I feel like my phone has become my escape
+How often do you feel guilty for not being the parent you hoped to be?
+Which areas take the biggest hit when you are sleep deprived?
+Select all that apply
+Work or focus
+Partner or family time
+Patience or mood
+Taking care of myself
+Lately, have you caught yourself doing any of these?
+Select all that apply
+Cancelling plans with friends
+Eating cold meals
+Feeling distant from my partner
+Struggling with daily tasks
+None of these
+Built for your real life, not a generic sleep plan
+Mother managing schedule
+work and home
+we build a plan that works with your life, not against it.
+What's pushing you to fix sleep now?
+Pick all that apply
+We're stuck with sleep
+Big change coming
+I miss feeling like myself
+I want to feel more confident
+Going back to work soon
+When baby sleeps better, I see myself...
+Pick what applies
+Back in control of my day
+Waking up truly rested
+Watching my baby happier & calmer
+Enjoying time with my partner
+Saying yes to social plans
+Let us handle the plan while you take care of your family. We're here for you every step of the way. 🧡
+The #1 reason sleep plans fail
+ rigid for real life.
+Your plan adapts — and is built to stick.
+While we're customizing your journey, what else do you want to explore?
+Our holistic approach goes beyond sleep to 
+improve your energy, confidence, and sense of control
+Building my confidence
+Caring for me
+Navigating big emotions
+Feeling more in control
+Understanding my parenting style
+Is there anything specific motivating you to improve sleep right now?
+Starting or changing childcare
+Adjusting my schedule/routines
+Trip or vacation coming up
+Changing sleep space
+I'm having another baby
+Returning to work
+No - just ready for better sleep!
+What's your timeline to improve sleep?
+We will keep this in mind for your journey
+Date must be in the future
+Date must be in the past or today
+Almost done! Anything else we should know?
+Co-sleeping, reflux, contact naps — our experts tailor your plan around your reality
+ending night wakeups
+ending bedtime battles
+fixing early wakeups
+How do you feel about {phrase} by {date}?
+I can totally do it!
+I'm uncertain, but willing to try
+You've got a strong foundation! We'll build on this to create custom recommendations.
+Enter your email to get your personal better sleep plan
+Failed to initial user registration
+✅ Initial user registration completed
+✅ Clerk signin tokens stored (primary + backup)
+❌ Clerk user creation failed:
+Error completing initial user registration
+Name must be 30 characters or less
+Failed to update user registration with name
+✅ User registration updated with name
+✅ Clerk signin tokens stored for post-purchase redirect (primary + backup)
+❌ Failed to store Clerk signin tokens:
+❌ Clerk user update failed:
+Failed to track registration completion:
+Failed to track name in analytics:
+## _js/betteroo-quiz-quizState-BGifne0R.js
+. Must be one of: ${$.join(
+Environment configuration errors:
+${n.join(
+Microsoft Clarity disabled - window not available (SSR)
+Microsoft Clarity disabled - project ID not configured
+Microsoft Clarity service initialized successfully (Project ID: ${E.analytics.clarity.projectId})
+Failed to initialize Microsoft Clarity:
+Microsoft Clarity not initialized - cannot identify user
+Microsoft Clarity user identified: ${e}
+Failed to identify user in Clarity:
+Microsoft Clarity not initialized - cannot set tag
+Microsoft Clarity tag set: ${e} = ${t}
+Clarity Set Tag
+Failed to set Clarity tag "${e}":
+Microsoft Clarity not initialized - cannot upgrade session
+Microsoft Clarity session upgraded
+Clarity Upgrade Session
+Failed to upgrade Clarity session:
+Microsoft Clarity not initialized - cannot track event
+Microsoft Clarity event tracked: ${e}
+Clarity Track Event
+Failed to track Clarity event "${e}":
+Microsoft Clarity not initialized - cannot set consent
+Microsoft Clarity consent set: ${e}
+Clarity Set Consent
+Failed to set Clarity consent:
+Expert Carousel Swiped
+Google Ads disabled - window not available (SSR)
+Google Ads disabled - measurement ID not configured
+Google Ads service initialized successfully (gtag configured in HTML head)
+Google Ads not initialized - cannot track event: ${e}
+Google Ads user properties updated
+Google Ads not initialized - cannot set user ID
+Google Ads measurement ID not available - cannot set user ID
+,d),o.info(`Google Ads enhanced conversion data updated: ${f}/${c} new fields, ${_} total fields active`,{new_fields:Object.keys(s),all_active_fields:Object.keys(d)})):o.warn(`No enhanced conversion data available: ${c} fields attempted, ${f} succeeded, ${_} total. This may result in empty enhanced conversions (ec_mode: 'c' but no data).`)}trackConversion(e,t,i=
+,c),o.info(`Google Ads conversion tracked: ${e}`,{value:t,currency:i,transaction_id:r,enhanced_conversions_active:s,enhanced_data_fields:s?a:
+Meta Pixel disabled - window not available (SSR)
+Meta Pixel disabled - token not configured
+);this.suppressForKeitaroCapi=!1,this.suppressForKeitaroCapi?(this.pixelId=t||e,o.info(`Meta Pixel suppressed (Keitaro session): events will fire via CAPI only. pixelId=${this.pixelId}`)):t&&t!==e?(this.pixelId=t,this.useTrackSingle=!0,window.fbq(
+⏳ Waiting for Meta Pixel to be ready before tracking: ${e}
+Error waiting for pixel ready for ${e}:
+Meta Pixel suppressed [${e}] — Keitaro CAPI will fire this event
+Meta Pixel trackSingle(${this.pixelId}): ${e}
+,this.pixelId,e,r),o.debug(`Meta Pixel trackSingle: ${e}${i?` (eventID: ${i})`:
+,e,r),o.debug(`Meta Pixel tracked: ${e}${i?` (eventID: ${i})`:
+,e,r),o.debug(`Meta Pixel tracked: ${e}${i?` (eventID: ${i})`:
+Mixpanel disabled - window not available (SSR)
+Mixpanel disabled - token not configured
+Mixpanel disabled - mixpanel object not available
+Mixpanel service initialized successfully
+Mixpanel not initialized - cannot track event: ${e}
+Mixpanel not initialized - cannot track beacon event: ${e}
+Mixpanel beacon track: ${e}
+Mixpanel not initialized - cannot identify user
+Mixpanel user identified: ${e}
+Mixpanel not initialized - cannot update user properties
+Mixpanel user properties updated
+OpenAI Pixel initialized
+Failed to generate quiz config hash, using fallback:
+📚 Added to history:
+📚 Skipped duplicate history entry:
+Failed to save question history after going back:
+Failed to save header:
+Failed to execute postAnswerEffect for ${n}:

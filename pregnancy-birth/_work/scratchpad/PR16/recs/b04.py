@@ -1,0 +1,27 @@
+R = [
+("PregnancyUK-1wvoily","pddjyu1","2026-10-02","expecting_mother","first_trimester","price_signal",["price_value","uk_nhs","first_pregnancy"],
+ "I did take a look at early reassurance scans, there’s only 1 place where I live that offers it for like £120 which is quite crazy 😭","First-time mother at five weeks, desperate for proof before the first NHS scan.","private reassurance scan (screening); unit centres on pregnancy anxiety"),
+("PregnancyUK-1wvp2hd","","2026-10-02","experienced_mother","second_pregnancy","fear",["previous_birth","birth_fear","second_pregnancy","comparison_other_pregnancies"],
+ "Last time, it was unknown which was scary but also a bit of a blessing. This time, I feel confident in my ability to get through the first stage, a little fearful about pushing because it was all a big panic blur last time, but absolutely terrified of transition.","Preparing for her second birth in the UK; the first birth sets the fear.",None),
+("PregnancyUK-1wvp2hd","","2026-10-02","experienced_mother","second_pregnancy","question",["partner_role","previous_birth","birth_prep"],
+ "My partner has asked me what he should do if I ask for a section again (knowing I absolutely do not want one in my rational brain) and how to support me through transition. I have no idea.","Same post; last time she begged for a section in transition.",None),
+("PregnancyUK-1wvp2hd","pddnvem","2026-10-02","experienced_mother","second_pregnancy","fear",["partner_role","not_listened_to","previous_birth"],
+ "I think my biggest worry is not knowing I’m in transition and being reliant on other people hearing the fear and interpreting it correctly. […] He’s scared of not knowing when to encourage me, when to ask for things or when to listen to me (and I’m a bit scared of him calling that wrong too).","Reply; her fear and her partner's.",None),
+("PregnancyUK-1wvp2hd","pddtw89","2026-10-02","experienced_mother","second_pregnancy","objection",["birth_course","information_overload","skepticism"],
+ "The fact there’s so many out there is why I’d prefer to go for something based on a real recommendation. There’s a lot of rubbish about these days 😂","Reply to a commenter recommending birth-preparation resources.",None),
+("Mommit-1wvp9xk","","2026-10-02","experienced_mother","second_pregnancy","pain",["pregnancy_with_toddler","military","partner_role","no_village"],
+ "trying to maintain everything while extremely pregnant and chasing around a toddler all day, delivering our second baby alone, taking care of two babies by myself. i don’t know how i’m gonna do it.","At 37 weeks with a 15-month-old; husband left on deployment this week.",None),
+("Mommit-1wvp9xk","","2026-10-02","experienced_mother","second_pregnancy","pain",["no_village","loneliness","pregnancy_with_toddler"],
+ "i have no family support and no friends. i can’t have 15 seconds to myself. my house is a mess.","Same post.",None),
+("Mommit-1wvp9xk","pdfodj7","2026-10-02","experienced_mother","second_pregnancy","pain",["childcare","nursery_waitlist","military"],
+ "i did see a few suggestions about getting my son into daycare. unfortunately thats not possible for me right now as the cdc’s on base have a good year long wait list.","Reply; why daycare isn't an option.",None),
+("Mommit-1wvp9xk","pdfodj7","2026-10-02","experienced_mother","second_pregnancy","purchase",["childcare","help_at_home"],
+ "i think ill also hire a cleaner to help me out every once in a while.","Same reply; the help she plans to pay for.",None),
+("BabyBumps-1wvqrjm","","2026-10-02","expecting_mother","first_trimester","pain",["first_pregnancy","no_village","partner_role","information_gap"],
+ "I dont have a mom or any real family to teach me anything about this. So im virtually completely alone in this learning phase. My boyfriend knows even less than me lol and believes its \"too soon\" to be planning and researching.","At 5+2, a first pregnancy after years of trying, asking what to read.",None),
+("BabyBumps-1wvqrjm","","2026-10-02","expecting_mother","first_trimester","question",["information_overload","books","first_pregnancy"],
+ "Im desperate to get this right and find out as much as i can. But theres so many options and variations its a little overwhelming and its stunting my mind on where to begin.","Same post; where to start.",None),
+]
+S = {
+"PregnancyUK-1wvqcm1":"EXCLUDED: centred on an acute medical emergency assessment and emergency scans in late pregnancy",
+}

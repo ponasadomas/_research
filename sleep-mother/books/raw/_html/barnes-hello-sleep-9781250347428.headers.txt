@@ -1,0 +1,42 @@
+HTTP/2 301 
+date: Sun, 25 Oct 2026 08:34:23 GMT
+content-length: 0
+location: /w/hello-sleep-jade-wu/1141344278?ean=9781250347428
+link: </.well-known/ucp>; rel="ucp"
+set-cookie: session=eyJ2aXNpdG9ySWQiOiJkOWM4MGE1Ni1lZDk2LTRjMzktOTc5Yy1lNWFjZGVlZjczYTAiLCJtZXJjaEZpbHRlciI6IlkifQ%3D%3D.bCwpTRLy66MVMyI8aMusNzMsjwTBklyxHQWRj3OwXTU; Path=/; HttpOnly; Secure; SameSite=None
+strict-transport-security: max-age=31536000
+x-permitted-cross-domain-policies: none
+oxygen-full-page-cache: uncacheable
+powered-by: Shopify, Oxygen, Hydrogen
+x-request-id: 3180737f-522f-4e35-8b57-07c9867066f9-1792917263
+x-download-options: noopen
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=aL1wIdtwWB5jhi98pfHah6MFawLpWe3jZRWqy2KbtkS6keM%2B5kFx2DO9gqlvjIMyktMKUW4CsNxlx2I3iq6qlPGNfM4fOcS1Sb9sx%2BFiCZ7jLSXoKDyOWYyXPIbgS%2BOX0lqJt%2BS78I0%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+server: cloudflare
+cf-ray: a4ffe1c06eeaa87b-RIX
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 200 
+date: Sun, 25 Oct 2026 08:34:23 GMT
+content-type: text/html
+link: </.well-known/ucp>; rel="ucp"
+set-cookie: session=eyJ2aXNpdG9ySWQiOiJiZTgzZTllMy1hY2I5LTQ1MTUtODE2ZS0xNmY2NGY5YjNjZWUiLCJtZXJjaEZpbHRlciI6IlkifQ%3D%3D.9YH8pJVKceauq6Hiwum7%2B1DE2BxUR%2BD9r%2FvesqjlUvA; Path=/; HttpOnly; Secure; SameSite=None
+strict-transport-security: max-age=31536000
+vary: User-Agent, Accept, Accept-Encoding, Accept-Language, Cookie, Authorization, Range, X-App, X-App-Platform, Origin, Oxygen-Buyer-Country, CF-IPCountry
+access-control-allow-credentials: true
+content-security-policy: base-uri 'self'; default-src https://cdn.sanity.io https://lh3.googleusercontent.com https://placehold.co https://cdn.cookielaw.org 'self' 'nonce-1c2b3cdf4994f6c96f5c223cbbbf5fd0' https://cdn.shopify.com https://shopify.com; frame-ancestors https://qa-nook.barnesandnoble.com https://nook-wb.barnesandnoble.com https://nook.barnesandnoble.com https://stores-test.barnesandnoble.com https://stores-beta.barnesandnoble.com https://stores.barnesandnoble.com https://customer-test.barnesandnoble.com https://customer-dev.barnesandnoble.com https://barnesandnoble1652385960.zendesk.com https://stores-dev.barnesandnoble.com https://customer.barnesandnoble.com https://help.barnesandnoble.com http://qa-nook.barnesandnoble.com http://nook.barnesandnoble.com http://stores-test.barnesandnoble.com http://stores.barnesandnoble.com http://customer-test.barnesandnoble.com http://customer-dev.barnesandnoble.com http://barnesandnoble1652385960.zendesk.com http://stores-dev.barnesandnoble.com http://customer.barnesandnoble.com http://help.barnesandnoble.com https://help.barnesandnoble.com https://beta.barnesandnoble.com https://accounts.shopify.com https://customer-beta.barnesandnoble.com; style-src 'self' https://*.yotpo.com https://cdn.clarip.com https://cdn.clarip.com/bn/donotsell/assets/css/donotsell-extended.min.css https://cdn.clarip.com/bn1/donotsell/assets/css/donotsell-extended.min.css https://*.syndigo.com https://*.syndigo.cloud 'unsafe-inline' 'self' 'unsafe-inline' https://cdn.shopify.com; connect-src https://uecy4ntd.api.sanity.io https://cdn.clarip.com wss://uecy4ntd.api.sanity.io https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com https://www.google.com https://*.yotpo.com https://*.go-mpulse.net sha256-71bwvRX/dj+QAShLggqZOrpB337lMmNVTSuzTmgkY4E= https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location https://cdn.shopify.com https://cdn.clarip.com/bn/donotsell/assets/css/donotsell-extended.min.css https://privacyportal.onetrust.com/request/v1/consentreceipts/anonymous https://*.onetrust.com https://*.cookielaw.org https://*.optimizely.com https://*.cdn.optimizely.com https://*.barnesandnoble.com https://*.akstat.io https://brnbs.omni.manh.com https://barnesp.omni.manh.com https://retail-client-events-service.internal.salsify.com https://salsify-ecdn.com https://*.syndigo.com https://*.syndigo.cloud https://*.libsyn.com https://utt.impactcdn.com https://barnesandnoble.sjv.io https://*.impct.site https://www.ojrq.net https://logs-01.loggly.com https://cdnjs.cloudflare.com https://*.signals.engageplatform.com 'self' https://cdn.shopify.com/ https://monorail-edge.shopifysvc.com https://e9c22f-3.myshopify.com https://e9c22f-3.myshopify.com; img-src 'self' data: https://cdn.shopify.com https://*.google-analytics.com https://*.googletagmanager.com https://www.google.com https://cdn.sanity.io https://lh3.googleusercontent.com https://placehold.co https://*.yotpo.com https://*.barnesandnoble.com http://p.yotpo.com https://*.cookielaw.org https://*.syndigo.com https://*.syndigo.cloud https://retail.googleapis.com; media-src 'self' blob: https://barnesandnoble-dev.myshopify.com https://barnesandnoble.myshopify.com https://*.barnesandnoble.com https://cdn.shopify.com https://*.cookielaw.org https://samples.findawayworld.com https://www.google.com https://*.syndigo.com https://*.syndigo.cloud https://cdnjs.cloudflare.com; font-src 'self' data: https://*.shopify.com https://*.yotpo.com; script-src 'self' 'strict-dynamic' https://cdn.shopify.com https://*.googletagmanager.com https://www.google.com https://*.yotpo.com https://qa.barnesandnoble.com https://barnesandnoble.com https://salsify-ecdn.com https://*.syndigo.com https://*.syndigo.cloud https://utt.impactcdn.com https://barnesandnoble.sjv.io https://*.impct.site https://www.ojrq.net https://logs-01.loggly.com 'unsafe-hashes' 'unsafe-eval' 'nonce-1c2b3cdf4994f6c96f5c223cbbbf5fd0'; frame-src https://cdn.clarip.com https://*.onetrust.com https://*.cookielaw.org https://*.optimizely.com https://*.cdn.optimizely.com https://www.youtube.com https://www.youtube-nocookie.com https://www.googletagmanager.com https://brnbs.omni.manh.com https://barness.omni.manh.com https://barnesp.omni.manh.com https://barnesp.omni.manh.com https://salsify-ecdn.com https://*.barnesandnoble.com https://*.syndigo.com https://*.syndigo.cloud https://*.libsyn.com
+x-permitted-cross-domain-policies: none
+oxygen-full-page-cache: uncacheable
+powered-by: Shopify, Oxygen, Hydrogen
+x-request-id: e5fc6a10-f1e6-4957-9c09-d0f3d4a1a3e7-1792917263
+x-download-options: noopen
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=xwBT2musQNmAndSj3T2k6NcUVLcT3%2Fbv4nJWFvDL7oUMfWnVb7YlTk%2Fw8%2FlzClPFYH08ro7ou7EId6pl7jVk5pZGZkC8caJ3d%2BHQkSQXGERMfoVuZ3lps%2BBGrJVThrXHgvumLlIOqhQ%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+server: cloudflare
+cf-ray: a4ffe1c0bf07a87b-RIX
+alt-svc: h3=":443"; ma=86400
+

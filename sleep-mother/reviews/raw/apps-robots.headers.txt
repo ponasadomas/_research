@@ -1,0 +1,28 @@
+HTTP/2 200 
+expires: Sat, 13 Jun 2026 17:47:42 GMT
+last-modified: Mon, 3 Nov 2025 22:44:09 GMT
+etag: "6a69551e339c695ee67cbdc162133a09"
+cache-control: public, no-transform, max-age=300
+server: daiquiri/5
+cdnuuid: 1e969be7-06d1-4e9c-82dc-e249d5e5da1f-1222443006
+strict-transport-security: max-age=31536000; includeSubDomains
+x-apple-jingle-correlation-key: X46XMVQDRQYVSIKEQV4HTN7MSI
+x-daiquiri-instance: daiquiri:48493002:st44p00it-hyhk16134201:7987:25RELEASE142:daiquiri-amp-all-shared-ext-001-st
+content-type: text/plain
+x-apple-version-number: 2544.15.0-external
+x-frame-options: DENY
+x-content-type-options: nosniff
+content-security-policy: upgrade-insecure-requests; default-src 'none'; img-src 'self' https://*.apple.com https://*.mzstatic.com data:; font-src 'self' https://*.apple.com; style-src 'self' https://*.apple.com 'unsafe-inline'; script-src 'self' https://*.apple.com 'sha256-MS6/3FCg4WjP9gwgaBGwLpRCY6fZBgwmhVCdrPrNf3E=' 'sha256-tQjf8gvb2ROOMapIxFvFAYBeUJ0v1HCbOcSmDNXGtDo=' 'sha256-p7PoC97FO+Lu90RNjGWxhbm13yALSR4xzV8vaDhaQBo=' 'sha256-+5XkZFazzJo8n0iOP4ti/cLCMUudTf//Mzkb7xNPXIc='; connect-src 'self' https://*.apple.com https://*.mzstatic.com; media-src 'self' https://*.apple.com blob:; child-src 'self' https://*.apple.com; frame-src 'self' https://*.apple.com itms-appss: macappstore:; worker-src blob:; frame-ancestors 'none'; block-all-mixed-content; report-uri /api/csp-report
+x-xss-protection: 1; mode=block
+x-responding-instance: silverbullet-external:2106:st00p00it-vmsilverbullet006:8300:24M28
+x-apple-request-uuid: de79bb3c-1257-dd6f-e635-e8ed9e48f8a7
+apple-seq: 0.0
+apple-tk: false
+apple-originating-system: UnknownOriginatingSystem
+date: Sun, 25 Oct 2026 08:33:43 GMT
+content-length: 506
+x-cache: TCP_REFRESH_HIT from a2-22-31-191.deploy.akamaitechnologies.com (AkamaiGHost/22.6.5-e48a1e600c03e7d517694b5b11b937be) (S)
+x-cache-remote: TCP_IMS_HIT from a96-16-52-155.deploy.akamaitechnologies.com (AkamaiGHost/22.7.0-e687e9264c02f058b1bf8e920219e21f) (-)
+set-cookie: geo=LT; domain=.apple.com
+alt-svc: h3=":443"; ma=93600
+

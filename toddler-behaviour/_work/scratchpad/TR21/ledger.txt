@@ -1,0 +1,86 @@
+EXCL toddlers-1sn2696 | parent describes physical punishment of the child; excluded whole
+PARTIAL toddlers-1slplzl | early-intervention detail not quoted
+PROMO toddlers-1smneoo | author says they partner with the tablet brand; one quote tagged possible_promo, not counted
+PARTIAL toddlers-1sn6884 | parent's medication and therapy passages not quoted
+DUP toddlers-1snbhui | same post text as NewParents-1snb53s (quoted there)
+DUP toddlers-1sngh7m | same post text as Parenting-1snhzhx (quoted there)
+PARTIAL Parenting-1snhzhx | infection check and pain passages not quoted
+READ-NOQUOTE Parenting-1sncu12 | 4-year-old shy at daycare drop-off; read, little niche-relevant (peer teasing)
+DUP Parenting-1so5d6v | same post text as toddlers-1snhjud (quoted there)
+PARTIAL NewParents-1snxfis | developmental worry and pregnancy passages not quoted
+PARTIAL toddlers-1so8rsg | parent's postpartum diagnosis not quoted
+PARTIAL Mommit-1soif5o | parent's own family history not quoted
+EXCL pottytraining-1sojuk4 | child body and medical detail; excluded whole
+EXCL toddlers-1soopky | bathing-centred post framed around a diagnosis question, parent holds child; excluded whole
+EXCL AttachmentParenting-1sosxay | parent's medical detail and verbal harshness toward the child at the centre; excluded whole
+PARTIAL Parenting-1souh48 | parent's fear of striking the child not quoted
+PARTIAL AttachmentParenting-1sox6qq | parent's own childhood not quoted
+PARTIAL toddlers-1sp3qmv | other parent snapping not quoted
+PARTIAL Parenting-1sp95yf | developmental and specialist passages not quoted
+PARTIAL toddlers-1spahuy | passage where parent carries child to the toilet not quoted
+PARTIAL toddlers-1spwazj | motor-delay detail not quoted
+PARTIAL toddlers-1spwuij | diagnosis-testing passages not quoted; a relative's childhood punishment not quoted; quotes from this diagnosis-question unit restricted where they touch medical/mental-health words
+PARTIAL pottytraining-1spy08x | infection worry not quoted
+EXCL toddlers-1sq2c9i | parent describes physical force and punishment toward the child; excluded whole
+EXCL toddlers-1sq3huk | parent describes harsh scolding and forced sitting; excluded whole
+PARTIAL Mommit-1sq5lqx | parent's mental-health line not quoted
+PARTIAL Parenting-1sq62pf | speech-therapy passage not quoted
+EXCL NewParents-1sqic71 | parent describes yelling at the toddler as the centre of the post (also reads as polished engagement copy); excluded whole
+PARTIAL toddlers-1sqjmse | child separation-worry label not quoted
+PARTIAL toddlers-1sqso1n | therapy and milestone passages not quoted
+PARTIAL toddlers-1sqwk6x | constipation and panic wording not quoted
+PARTIAL toddlers-1sqx5a0 | medical treatment and child body (smearing) passages not quoted
+PARTIAL Mommit-1sqyv0e | development and medical passages not quoted; one worry quote restricted
+PARTIAL Mommit-1sr7ot5 | parent's postpartum diagnosis not quoted
+EXCL Mommit-1sr9afi | parent's yelling at the child and own childhood at the centre (also reads as polished engagement copy); excluded whole
+PARTIAL Mommit-1sr9tqr | parent yelling passage and dietitian detail not quoted
+PARTIAL toddlers-1sraisk | parent's medical detail and own upbringing not quoted
+EXCL toddlers-1srml5t | parents describe yelling at the child daily as the centre of the post; excluded whole
+PARTIAL toddlers-1srmwz8 | doctor's advice not quoted
+PARTIAL Mommit-1srr2rt | parent's raised voice and own childhood not quoted
+DUP Parenting-1srrsh8 | same post text as Mommit-1srw01k (quoted there); its one reply read, not quoted
+PARTIAL Mommit-1srw01k | school psychologist reply not quoted
+DUP Parenting-1srrxjw | same post text as toddlers-1srrwks (quoted there)
+PARTIAL toddlers-1srrwks | speech-therapy line not quoted
+PARTIAL Parenting-1ss0ydu | breastfeeding body detail not quoted
+PARTIAL pottytraining-1ssdhwe | illness detail not quoted
+PARTIAL Mommit-1sso2c9 | medical tests passages not quoted
+PARTIAL Mommit-1ssthtt | parent's postpartum diagnosis and medication not quoted
+PARTIAL toddlers-1ssu328 | diaper-rash and immunisation detail not quoted
+FLAG Mommit-1sswqax | unit mentions a developmental diagnosis; only home-vs-school and public-judgement words quoted; do not build hooks from it
+EXCL toddlers-1sszkx2 | parent describes yelling at a 17-month-old as the centre of the post; excluded whole
+PARTIAL toddlers-1st46wx | doctor, supplement and weight passages not quoted
+FLAG Mommit-1st5q9c | unit centres on a diagnosed delay; only one price-signal line quoted; do not build hooks from it
+PARTIAL AttachmentParenting-1st7yym | parent's mental-health line and medication not quoted
+FLAG Mommit-1sqyv0e | development-question unit; tb21-0194 words are clean but do not build hooks from it
+FLAG NewParents-1snxfis | development worry unit; quoted words clean (tb21-0070, tb21-0071)
+FLAG toddlers-1spwuij | diagnosis-question unit; quotes tb21-0143, tb21-0144, tb21-0145, tb21-0146 are not restricted (clean words), tb21-0147 is restricted; do not build hooks from it
+PARTIAL NewParents-1st9qab | parent's own childhood and development worry not quoted
+PARTIAL Mommit-1stba2k | parent's mental-health line not quoted
+PARTIAL pottytraining-1stlbg7 | pain and bowel detail not quoted
+PARTIAL Parenting-1stm14a | parent's urge to strike not quoted
+PARTIAL toddlers-1stm63q | therapy question not quoted
+EXCL Parenting-1stocy4 | parent describes striking the child; excluded whole
+FLAG NewParents-1stoi7a | a specialist's diagnosis remark, parent's health and upbringing not quoted; other remarks quoted
+PARTIAL toddlers-1stoscd | contraception line not quoted
+PARTIAL toddlers-1stx8ac | one desperation line quoted (restricted, medical); diet and medication details not quoted
+PARTIAL Parenting-1stxhne | parent's raised-voice line not quoted
+PARTIAL Parenting-1su1l1g | breastfeeding and injury details not quoted
+PARTIAL toddlers-1su64pz | medication and doctor detail not quoted
+PARTIAL Parenting-1suktb2 | therapist observation not quoted
+FLAG sahm-1sul9w4 | replies name siblings' diagnoses and a therapist's punitive suggestion; neither quoted; clean-word quotes only
+PARTIAL daddit-1sup697 | parent's own diagnosis and bereavement not quoted
+EXCL Parenting-1suvgb2 | child body/hygiene incident at the centre; excluded whole
+PARTIAL Parenting-1sveao5 | parent's own upbringing not quoted
+PARTIAL toddlers-1svk7oj | medication detail not quoted
+EXCL NewParents-1svn06c | child head-banging (self-injury) described; excluded whole
+PARTIAL toddlers-1svwwgv | nappy-change body detail not quoted
+FLAG toddlers-1sw113s | diagnosis-question unit (sensory); doctor quote restricted, one strain quote clean; do not build hooks from it
+PARTIAL workingmoms-1sw1dvo | fear for child's mental health not quoted
+EXCL toddlers-1smpweu | parent describes striking the child's hand; excluded whole (quotes tb21-0024 to tb21-0027 withdrawn)
+EXCL Parenting-1soeqoy | parent describes physical punishment and yelling; excluded whole (tb21-0084, tb21-0085 withdrawn)
+EXCL toddlers-1solau1 | parent describes yelling at the child in replies; excluded whole (tb21-0097 to tb21-0107 withdrawn)
+EXCL pottytraining-1sp513a | parent describes forcing the child onto the potty; excluded whole (tb21-0127, tb21-0128 withdrawn)
+EXCL toddlers-1sraugr | parent describes slapping the child; excluded whole (tb21-0218, tb21-0219 withdrawn)
+EXCL pottytraining-1sqwywk | partner keeps the child in the bathroom until he goes; excluded whole (tb21-0186 to tb21-0188 withdrawn)
+EXCL toddlers-1ssaiw1 | parent describes physical restraint during routines; excluded whole (tb21-0251 to tb21-0254 withdrawn)

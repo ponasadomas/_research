@@ -1,0 +1,28 @@
+# R51 working log
+## 059 (12 units)
+- excluded: sleeptrain-1sw7j07 (sleepwear-near-rolling detail is the whole post); beyondthebump-1swdnik (duplicate cross-post of sleeptrain-1sw7mdl)
+## 060 (18 units)
+- excluded: beyondthebump-1swn8fm (duplicate cross-post of sleeptrain-1swmf7z; bedsharing and positioning detail throughout)
+- 1swmf7z: bedsharing/positioning detail not quoted; only the night-one line quoted
+- read, nothing quoted: AttachmentParenting-? none; all others quoted
+## 061 (17 units)
+- excluded: sleeptrain-1swxg6u (safe-sleep incident during training is the core of the post)
+- partial: sleeptrain-1swr69w rolling/prone detail not quoted; sleeptrain-1swxqpz chest-sleeping lines not quoted; sleeptrain-1swsmbo bed lines not quoted
+## 062 (15 units)
+- no unit excluded; not quoted: holding-at-3am/bedsharing line (NewParents-1swzr2a), sleeping-on-parent and heated-blanket lines (sleeptrain-1sx8naa), heating pad (sleeptrain-1sx9mm4), couch/futon nap (Mommit-1sxc8i6), teething medicine (NewParents-1swzudk)
+## 063 (18 units)
+- excluded: beyondthebump-1sxlqes (physical restraint of a child at bedtime and caregiver anger are the core of the post)
+- not quoted: reflux/medication lines (sleeptrain-1sxk9cv), chest sleeping (sleeptrain-1sxkteg), prone self-soothing (Parenting-1sxp4sd), colic/medication (Mommit-1sxjf24), twins brought into bed (sleeptrain-1sxrsrp)
+## 064 (18 units)
+- excluded: sahm-1sxz1lw (caregiver rage toward the baby and crisis wording); beyondthebump-1sy2nb8 (physical punishment of a toddler); NewParents-1sy47t7 (chest-sleeping overnight and infant-death fear are the post)
+- not quoted: laxatives/withholding (toddlers-1sxv6t2), ear tubes (toddlers-1sxxuuo), cosleep lines (sleeptrain-1sy18c6, sleeptrain-1sy38rb), 'will to live' line (beyondthebumpUK-1sy2ru2)
+## 065 (16 units)
+- excluded: NewParents-1syayoy (prone and side day-sleep positioning is the whole post)
+- read, nothing quoted: NewParents-1sya6rt (nightmare question, no sleep-help content worth a quote)
+- not quoted: cosleep/bed lines (sleeptrain-1syb2ty), UK room-sharing guidance line, reflux/vaccine lines (Parenting-1sydn9y), depression line (daddit-1syk4k4)
+## 066 (17 units)
+- excluded: NewParents-1syq42j (overnight safety-monitor worry, sleep medication and a missed-crying fear are the post)
+- not quoted: bed/cosleep lines (sleeptrain-1syn3vp, sleeptrain-1syrgev, sleeptrain-1sywe04, daddit-1sym6pf), ibuprofen/paracetamol, swaddle-and-rolling line (NewParents-1synkb1), padded bench and night contact sleep (beyondthebumpUK-1synp70), warming bassinet (sleeptrain-1sywjio), 'ruining my life' line (sleeptrain-1syut8c), husband's surgery detail (sleeptrain-1syyavg)
+## 067 (20 units)
+- excluded: NewParents-1sz11wm (duplicate cross-post of AttachmentParenting-1sz10wn); FirstTimeMom-1sz1h4x (not a sleep-help post; centres on an infant-neglect news story and a caregiving lapse)
+- not quoted: prone/back-patting line (sleeptrain-1sz120l), bed-sharing line (sleeptrain-1sz1klf), head-hitting lines (sleeptrain-1sz1lgb), positioning-on-side line (sleeptrain-1sz5a63), heating pad and bed lines (NewParents-1sz402z), teething medication (NewParents-1szamgo), dentist line (Parenting-1szaoe2), partner's condition and breakdown line (sleeptrain-1szbhco)

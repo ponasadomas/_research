@@ -1,0 +1,270 @@
+ID 1t4xrg1 | r/sleeptrain | 2026-05-06
+TITLE: Still struggling
+OPENING: My daughter is just over 6 months and sleep has been hot garbage since she learned to roll at 11 weeks. I swear it continues to get worse every single day.   
+I want to stop cosleeping, I hate it, I’m so uncomfortable and she keeps me awake all night every night. I’m suffering from the lack of sleep and my patience is dwindling. Please help me!
+We
+ID 1t4ycba | r/sleeptrain | 2026-05-06
+TITLE: At a loss
+OPENING: Our daughter is 2 years and 8 months old. We did sleep training at 10 months old using Precious Little Sleep. She has slept absolutely perfect every night and for daily naps from 10 months up until just a few weeks ago. We stopped use of her pacifier by taking it to build a bear and having her place it in a stuffy. She was really excited about the 
+ID 1t57i1g | r/sleeptrain | 2026-05-06
+TITLE: Sleep struggles
+OPENING: ​My 18-month-old was previously sleep trained and reliably sleeping 12 hours a night in his crib. Two weeks ago, everything changed. He suddenly developed a massive aversion to his crib and cries the moment he sees it.
+​For the last week, I’ve been rocking him for 90 minutes and transferring him at 9:00 PM. He then wakes up screaming at 12:30 AM an
+ID 1t5ffbv | r/sleeptrain | 2026-05-06
+TITLE: 9 month cat napper with split nights / 35yo at the brink
+OPENING: I'm at my wits end. 
+Baby Boy is 9 months. Never been a good sleeper, obly ever catnapped and bedtime was horrendous - 30min intervals until about midnight and then we would maybe get two 3 hour stretches. Started a sleep training programme a month ago, which set a routine for us;
+Up between 6-7.30am (he's usually up by 6.30), then it follows a 2
+ID 1t5klm4 | r/sleeptrain | 2026-05-06
+TITLE: Short naps and middle of night wake up HELP.
+OPENING: My LO is 8 months old. 
+For the first 6 months of her life she was a great napper and sleeper, in my opinion. Her naps were pretty consistently 1 hour or so, and overnight she would usually wake once, I would just put my hand on her and shush her back to sleep. After 6 months something changed. She started napping only 30 mins at every single nap 
+ID 1t5xhob | r/sleeptrain | 2026-05-07
+TITLE: Starting sleep training and looking for support
+OPENING: About to start sleep training my 4-month old. Never thought I’d do it this early but he has absolutely no independent sleep skills during days or night (my partner and I have to take turns with him chest sleeping while we’re awake) and the sleep deprivation is killing me. My mental health has never been worse. I’m so scared of the emotions and nega
+ID 1t6cyvq | r/sleeptrain | 2026-05-07
+TITLE: PLEASE 🙏 help me crack the code
+OPENING: 😮‍💨 I need different eyes/minds on this sleep situation, I've tried some schedule adjustments assuming undertiredness but they definitely haven't helped. Overtired? To me the signals are mixed. 
+Main issues: false starts and frequent night wakings requiring assistance… until the last part of the night/morning.
+My now-8mo slept beautifully for abo
+ID 1t6pq8d | r/sleeptrain | 2026-05-07
+TITLE: How can my 6mo be undertired if he's barely sleeping at night?
+OPENING: We have a six month old who has always been a ‘bad sleeper’ but we’re really reaching a new level recently. We talked with a sleep consultant who diagnosed him as under tired because he was taking really long naps at daycare and we were putting him to bed too early. But now we’re really starting to wonder if that is true.
+Based on the sleep consul
+ID 1t70x7r | r/sleeptrain | 2026-05-08
+TITLE: Is my 15 month old ready for 1 nap?
+OPENING: **Firstly:** ***Sorry if this doesn't fall under sleeptrain, but reddit won't let me post in beyondthebump. If anybody knows a better community to post in, let me know, and I will take the post down.***
+*Some background info:*
+We finally got a decent schedule when he turned 1, as we hired a sleep consultant. Turns out our wws had been completely 
+ID 1t77hiu | r/sleeptrain | 2026-05-08
+TITLE: Sleep training a high needs baby
+OPENING: Since my baby was born, she has been really tough. She constantly cries and fusses when awake unless standing/rocked or soother.(In the last few weeks we can get like 15 min per wake window where she is chill enough to sit in a chair or swing without crying). She screams in the car and stroller and will only tolerate the carrier if I bounce her to 
+ID 1t789x5 | r/sleeptrain | 2026-05-08
+TITLE: 12mo sleep help!
+OPENING: For context, we sleep trained using Ferber at 5 months (both naps and overnight) and it was successful. Around 8 months he transitioned to no overnight wakes and would sleep 7:30-7ish overnight with 2 naps capped at 1 hour each. But since then, we’ve became much more flexible with his sleep and feeding.
+Our son just turned 1 (yesterday!) and for t
+ID 1t78cy6 | r/sleeptrain | 2026-05-08
+TITLE: Impossibly Low Sleep Needs, Impossibly High Energy / Stimulation Needs Baby
+OPENING: Long rant, but I need someone to hear me. My husband and I live in a state with no family and zero friends. His family is across the country, mine are a state over. We moved 6mo before having a baby and left his only church/friends behind. My husband works a blue collar job, and for several months has been working 60-70 hour weeks.
+My LO is now 6.
+ID 1t7e1v0 | r/sleeptrain | 2026-05-08
+TITLE: 5 month old sleep help
+OPENING: My 5 month old has been crying a lot at bedtime. He's been sleep trained at 4 months and have been going down from wake for both night sleep and naps usually less than 10 minutes of fussing / light crying. This week, he's had a few days where he would try to sleep and self soothe by himself for 5-10 minutes, then starts screaming because he's frust
+ID 1t7idft | r/sleeptrain | 2026-05-08
+TITLE: So overwhelmed. Where do I start?
+OPENING: I cosleep with a 3 year old and 6 month old alone. I nurse my 6 month old all night long it feels like. He started crawling at 5 months and is now pulling to stand. I’m chasing him around all day and then I’m awake all night. I feel like I could collapse any day now. I’m also returning to work in a month. I don’t know how I will do it because I’m n
+ID 1t7wfa8 | r/sleeptrain | 2026-05-09
+TITLE: Still really struggling with 13/14 month old sleep :(
+OPENING: hey all,
+our girl is just about 14 months old. She got sick with her first ear infection a month  ago simultaneously while cutting 6 teeth at once and started waking up very reliably between 1am to 4am and because I became desperate to sleep I started nursing her in the middle of the night just to quickly get her down, but that has really effected
+ID 1t8gqkg | r/sleeptrain | 2026-05-09
+TITLE: Give me all the advice please!
+OPENING: This is a two parter as I have two children.  I have a 11 month (f) and 4 year old (f).  I slept trained the 4 year old when she was about 7 month using Ferber.  It worked for the most part, had to retrain a couple times but she was mostly sleeping through the night.  Once she turned 3 we took her out of her crib and into a toddler bed.  Now she wo
+ID 1t8ijfe | r/sleeptrain | 2026-05-09
+TITLE: 2 year old has never slept through the night
+OPENING: Hello
+Im just after some advice please
+So my little girl turned 2 in April & her sleep has always been bad. We’ve gone through months of trying different methods, ferber, sitting with her whilst she falls asleep, rocking her to sleep etc. 
+We are at a stage now where she will happily fall asleep on her own, in her toddler bed, as long as we leav
+ID 1t9172p | r/sleeptrain | 2026-05-10
+TITLE: Confused about my 6 month old sleep
+OPENING: Hi everyone, 
+Im looking for advice because I am beyond confused.
+My 6 month old was sleeping amazingly with only 1-2 wakeups until 3 months and then everything went crazy.
+She now almost always has a false start at 45min and wakes up 7+ times a night. She has also recently been refusing her cot so I have resorted to cosleeping out of necessity.
+ID 1t9ofcv | r/sleeptrain | 2026-05-11
+TITLE: Sleep training PLEASE HELP
+OPENING: So I have successfully sleep trained one baby my daughter when she was 7 months old, she stopped sleeping well in bed with me and she just really seemed to struggle at being comfortable and she slept so much better after about the 2nd day of sleep training she’s been a rockstar ever since. Shes now 2 and still does great! I had another baby, my son
+ID 1t9sfcw | r/sleeptrain | 2026-05-11
+TITLE: How on earth do I start unpicking this problem i've created?
+OPENING: Please be kind, I'm very sleep deprived, and through previous ignorance, the magnitude of the problem I've created is only now coming to light.
+My boy is 4.5 months, and I've done everything wrong in regards to his sleep. Feeding to sleep, contact naps only, no routine or schedule, inconsistant wakes, etc. And now my boy who would previously wak
+ID 1t9vnqc | r/sleeptrain | 2026-05-11
+TITLE: Sleep trained baby waking every 2 hrs? Schedule adjustment vs sleep association?
+OPENING: My 8 month old who is sleep trained recently is now waking every 2 hours again 
+We’ve had a rough time sleep training but finally were successful at 6 months. Sleep wasn’t always perfect we had ups and downs but never waking every 2 hours like last few nights
+We used to let her cry for all night wakes but for last few weeks, we stopped and starte
+ID 1taifc2 | r/sleeptrain | 2026-05-11
+TITLE: Schedule help
+OPENING: Hi everyone! Looking for some schedule advice.  
+My 32 week baby is currently on a 3-nap schedule with wake windows of **2.25 / 2.5 / 2.75 / 3**.  
+He usually gets about 11 hours of sleep at night, but we’ve hit a major wall with the third nap. He is fighting it tooth and nail—lots of crying and protesting.  
+The dilemma:  
+• If we force the 3rd na
+ID 1tb1gwn | r/sleeptrain | 2026-05-12
+TITLE: 6 month old - Sleep deprived - Sanity check
+OPENING: Hello, 
+I have a 6 month old who has been chronically sleep deprived and we have not been able to break this cycle. I am looking for a sanity check. I've searched this sub for other  overtired posts, read through Omegaxx19 (very helpful) posts but nothing seems to make a dent. It could just be the way it is, and I will accept that but if anyone ha
+ID 1tb4ix0 | r/sleeptrain | 2026-05-12
+TITLE: 7 month old waking every 1.5-2 hours overnight even when co-sleeping
+OPENING: Here again completely sleep deprived and at a loss. Baby still only does 30 minute naps since the 4 month regression. It doesn’t matter where she is (car, stroller, crib etc) she will wake right at the 30 minute mark. Schedule is 3/3/4 if doing only 2 naps (which I always have to extend one of them) and then usually 3/2.5/2.5/3.5 if doing 3 naps. T
+ID 1tc68en | r/sleeptrain | 2026-05-13
+TITLE: I think I need some tough love??
+OPENING: Hi all, FTM here with a newly 6 month old that would rather eat glass than sleep more than 2-3 hours in a row. We have been playing with his daytime schedule and it seems like 2.5/2.5/2.5/3 into bedtime has been working for us. On a good day we get 3 hours of daytime sleep and they have to be contact naps. If we do crib naps its closer 1.5 - 2 hour
+ID 1td0iwl | r/sleeptrain | 2026-05-14
+TITLE: 13 month old: Is he overtired?
+OPENING: 13 month old 5/6. Nap capped at 2 hours. DWT 7:30. Asleep by 8:30
+He has been on one nap for about 2.5 weeks. He would skip the second nap entirely if he didn’t wake from the first nap by noon. With his WW increasing, it’s been hard to fit both naps in. I swear if he doesn’t get at least 11 hours of wake time, we have a 3 hour split night
+He’s be
+ID 1tdbv3u | r/sleeptrain | 2026-05-14
+TITLE: Getting desperate
+OPENING: My baby is 7.5 months old, we’re on a 2 nap schedule. Wake up is 6-7am then we follow 2.5/3/3.5. Naps are still contact naps and they last anywhere from 30 minutes to 1.5 hours. Baby typically gets 1.5-2.5 hours of day sleep. Bedtime is where the problem lies. When baby was born he had severe reflux and would only sleep upright on our chests for th
+ID 1tdhvd5 | r/sleeptrain | 2026-05-15
+TITLE: Not sure what to do. Sleep train or no?
+OPENING: My baby is 5.5 months old and early last week two teeth cut through, but are not all the way out yet. His sleep went out the window and he seems to be doing better teething wise, but sleep no. Currently, I am tracking his wake windows with Huckleberry’s sweet spot and he’s all over the place. He is at 2/2/2 with wake time being 7am and bedtime bein
+ID 1tdst5m | r/sleeptrain | 2026-05-15
+TITLE: Sleep cycle issues
+OPENING: My daughter is almost 5 months old. She is EBF. 
+From a newborn she did 2-3 hour stretches overnight. Around 10-12 weeks she would generally sleep through from 10/11pm to 5/6am feed and then back to sleep until 9am. 
+Around that time she could take a while to get to sleep, we’d battle the witching hours and probable overtiredness for a few hours 
+ID 1tdsufr | r/sleeptrain | 2026-05-15
+TITLE: Seriously sleep-deprived FTM in need of advice!
+OPENING: We're right in the middle (or hopefully near the end) of the 4 month sleep regression and slowly losing our minds! Our son used to sleep a good 5-6 hour chunk at the beginning of the night but since 3 months old that slowly became 3 hours, then 2, and now at 4.5 months old, he's taken up the fun habit of just napping through the night, waking every
+ID 1tdvbyv | r/sleeptrain | 2026-05-15
+TITLE: Split Nights Help - 13 Month Old
+OPENING: My 13‑month‑old has been having split nights for almost a week now. Before this, her sleep wasn’t great, but she *could* go back to sleep if we rocked her or co‑slept (which we don’t want to continue). Without doing that, we’d be awake for 2–3 hours. Now, no matter what we try, she’s been waking around 9:30pm and staying up until midnight almost ev
+ID 1tdw2me | r/sleeptrain | 2026-05-15
+TITLE: Sleep cycle issues?
+OPENING: My daughter is almost 5 months old. She is EBF.
+From a newborn she did 2-3 hour stretches overnight. Around 10-12 weeks she would generally sleep through from 10/11pm to 5/6am feed and then back to sleep until 9am.
+Around that time she could take a while to get to sleep, we’d battle the witching hours and probable overtiredness for a few hours be
+ID 1te1wc1 | r/sleeptrain | 2026-05-15
+TITLE: 11 Month Old Sleep Advice
+OPENING: Our near 11-month-old normally isn’t a good sleeper. We're lucky if we get 1 good night every month. He generally always wakes up every night. Some nights are easy to get him back to sleep and others are very difficult. Since about 6 months, we've been dealing with split nights where he's up for 2-3 hours and ready to party.
+Normally, we let him f
+ID 1te3og6 | r/sleeptrain | 2026-05-15
+TITLE: 11 Month Old Sleep Worse Than Newborn Era - Advice?
+OPENING: Our near **11-month-old** normally isn’t a good sleeper. We're lucky if we get 1 good night every month. He generally always wakes up every night. Some nights are easy to get him back to sleep and others are very difficult. Since about 6 months, we've been dealing with **split nights** where he's up for 2-3 hours and ready to party.
+**Normally**, 
+ID 1te8tkg | r/sleeptrain | 2026-05-15
+TITLE: Help/advice with nearly 3 year old sleep regression since moving to cot bed
+OPENING: My son has been sleep trained very successfully since he was 6 months old. When he was just over 2.5 he started to climb out his cot. We loved him to a toddler bed and it’s been hell ever since. My sleep consultants only advice was to put him back in a bed until he’s 3 but the cot has been taken apart and put back together so many times it’s just n
+ID 1ter7n4 | r/sleeptrain | 2026-05-16
+TITLE: Cot training almost 6m
+OPENING: Hey everyone! I’m looking for some possible insight/advice/solidarity if anyone reads this and feels their baby was the same/similar and have anything to add? 
+From birth, by baby refused all sleep that wasn’t on my chest. The second I’d put him down he’d wake crying within 5 minutes. He would never settle with the “give him a chance” approach, he
+ID 1tevhdr | r/sleeptrain | 2026-05-16
+TITLE: Sleep trained baby still has long wakes at night, I want to give up
+OPENING: I’m very much struggling. After a bout of hand foot mouth we had to retrain. He was mostly sleeping through the night sometimes 1-2 wakes. However now we get one night of sleeping through the night followed by several days of 1-2 wakes that last a long time. 
+11 month old schedule as follows   
+7:30/7:45 am wake up  
+Nap 1-2 (or two 30 min naps at
+ID 1tfqikg | r/sleeptrain | 2026-05-17
+TITLE: I totally dismissed feed-to-sleep association!
+OPENING: I have been struggling with my sleep-trained 5 month old’s schedule for a couple of WEEKS. Her naps and nighttime had become so erratic. Where we used to see long, consistent naps, we got short, broken-up sleeps. Nighttime went from a very brief false start (5m) to a long one (20m). Night wakings got earlier and more frequent (from 2 wakes to 4-5 w
+ID 1tg8z9v | r/sleeptrain | 2026-05-18
+TITLE: 4 nights into training with sleep consultant, need opinions
+OPENING: We hired a sleep consultant to help us sleep train out 18 month old. We tried in the past to no avail. For background, he stopped sleeping through the night in January and now wakes 1-2 times a night where I end up sleeping on the floor + early wakes up. 
+Night 1 he cried for 2 hours before passing out from sheer exhaustion. Woke up at 2 am and di
+ID 1tg914e | r/sleeptrain | 2026-05-18
+TITLE: As if the four night wakings and the micro naps weren’t bad enough…
+OPENING: Baby is 4 months old today and as of yesterday he refuses to nap in his crib. I’ve been putting him down awake in the crib for the first two (very short) naps. Always had to soothe him to sleep, but he only really protested at the beginning. For the past two days, he’s been generally more fussy, resisting all the naps and most of all, refusing the 
+ID 1tg99kz | r/sleeptrain | 2026-05-18
+TITLE: How to get a 2.5 month old baby to sleep?
+OPENING: Hi,
+We’re two and a half months in and we have no system or method to get our little one asleep. During the day he sleeps in a carrier since that’s the only way he sleeps for long periods of time. In the evening however nothing works to get him down. He‘s never fallen asleep while breastfeeding, cries while being rocked or soothed. Our only method
+ID 1tggtla | r/sleeptrain | 2026-05-18
+TITLE: Previously sleep trained baby back to waking every hour how to re sleep train
+OPENING: What is the gentlest way to sleep train an 8 month old?
+Did Ferber and CIO at 4 months, didn’t work. At 5.5 months did chair method and got rid of feed to sleep association with success. She night weaned at same time. 
+My sleep consultant instructed me to basically let her CIO for all night wakings from here on out but it got incredibly difficult
+ID 1tgmiz7 | r/sleeptrain | 2026-05-18
+TITLE: 7.5 month old having split nights and I have no idea why
+OPENING: My son is 7.5 months old (almost 8 months), and for the past two weeks he has been having consistent split nights where he wakes up and stays awake for 2-3 hours in the middle of the night.
+I should mention that we have never sleep trained, used Ferber, or done any formal sleep training methods. He has never slept fully through the night, but befo
+ID 1tgsi41 | r/sleeptrain | 2026-05-18
+TITLE: Nap training causing missed naps
+OPENING: So we hired a sleep consultant to help with our little one. They recommended nap training and sleep training at the same time. It’s been a couple nights of 30 mins of crying at bedtime but over all success overnight. That being said the naps have been bad with over an hour of crying resulting in missed naps and the constant telling us to then scrap
+ID 1thbn36 | r/sleeptrain | 2026-05-19
+TITLE: Desperate for help, 13 months
+OPENING: Hi everyone,
+I have a 13 month old daughter. Her typical wake windows are 3-4/2-3/5-6. She wakes in the morning between 630-7am and goes down between 7-830pm. (I know our schedule is a mess)
+\-Naps are lying on Mom and Dads bed, as that's the only way we can get her to nap somewhat consistently. 
+\-Window wise, I usually just follow her cues and
+ID 1thboxz | r/sleeptrain | 2026-05-19
+TITLE: 2 year sleep regression? Help!
+OPENING: My daughter is 22.5 months old and up until recently was generally a very good sleeper. We could do bedtime routine, put her into the cot awake and she’d happily go to sleep independently around 7pm.
+Over the last couple of weeks things have completely changed and I’m struggling to work out if this is:  
+\- separation anxiety / the 2 year sleep re
+ID 1thghrg | r/sleeptrain | 2026-05-19
+TITLE: 16 week old - need schedule help
+OPENING: So I have read the pinned post and I know the general advice for the amount of wake time needed per day/count up how many hours your schedule demands and ensure it adds up to a 24 hour period with a sensible amount of night sleep/wake window lengths but we are in the thick of the 4 month sleep regression and LO is waking up so much overnight now (p
+ID 1thh8hg | r/sleeptrain | 2026-05-19
+TITLE: Should I wait till after 4 month regression?
+OPENING: We're deep in the middle of the 4 month sleep regression with our 4.5 month son, complete with 30 minute naps day and night, wake windows out the window, false starts aplenty every night and early rises. Everything is a constantly moving target and I'm at my wits end and don't know what to do any more. My partner and I have taken to sleeping in shi
+ID 1thrsyk | r/sleeptrain | 2026-05-19
+TITLE: Split nights, help! Husband thinks overtired, I think undertired?
+OPENING: Split nights have probably been our hardest sleep challenge yet. My LO just turned 9 months old on the 17th and we’ve been dealing with split nights for about a week and a half. Not every night, two nights ago she slept through the night, then last night she had a split night where she was up for roughly 2 hours.
+She’s on 2 naps, wake windows are 
+ID 1thzdhq | r/sleeptrain | 2026-05-19
+TITLE: Planning to Night wean/ST 1-year-old to help with nights...
+OPENING: Have a 1-year-old who falls asleep independently but wakes a lot each night (as soon as 2 hours after bedtime, and sometimes mix of split nights and 2-4 wake ups...). Alongside 3 year old sleep challenges (RLS), just so exhausted and at wits end. 
+  
+Currently, wakes up \~7am, naps from 12:30-2:30 (ish), then bedtime 7-7:30pm (aka a 5.5/5? did I d
+ID 1tidvmy | r/sleeptrain | 2026-05-20
+TITLE: FIO sleep training help
+OPENING: Hello! We are on night 1 of CIO sleep training. LO is 4mo. At bedtime he cried 50 minutes then fell asleep. We decided to follow 5/3/3 for night feeds. He was fed at 12:45 and put down awake at 1:05. He is used to being held and rocked back to sleep after night wakes whether for feeding or transitioning between sleep cycles. He has now been crying 
+ID 1tirvfs | r/sleeptrain | 2026-05-20
+TITLE: At my Wits End!
+OPENING: My LO is 18 weeks old and cannot sleep. I thought for a while this was the famous 4 month sleep regression because around the beginning of April (he was only 3 months) he switched from 3/4 hour stretches at night to 2 hour, and that decreased then to an hour. I’ve tried everything I feel like just to get him back to 3/4 hr stretches. He was in a be
+ID 1tiu8mp | r/sleeptrain | 2026-05-20
+TITLE: Math ain’t mathing
+OPENING: My 5.5 month old was an avid 27 minute napper and this week has spontaneously been connecting sleep cycles where she’s now able to nap for an hour at a time. 
+Her schedule is 2.5/2.5/2.5/3 (10.5 awake time) and she would usually nap for 1.5-2 hours per day and sleep 11.5 hours at night. 
+Her DWT was 6:30am and she would go to bed at 7pm (10.5 awa
+ID 1tj2ht1 | r/sleeptrain | 2026-05-20
+TITLE: Feeling guilty sleep training 4mo
+OPENING: Our background: my baby used to be able to fall asleep by himself and just wake up 2-3 times a night to feed. Then suddenly around 3 months he started to wake up every hour which drove me crazy. I dont mind feeding at night as long as it’s not too much but waking up 5 times a night was draining me out. I dont have help during the day, it’s just me 
+ID 1tjeqnw | r/sleeptrain | 2026-05-21
+TITLE: Coming to terms with having a lower sleep needs baby
+OPENING: I have an 8 month old who is the absolute light of my life! They make me and my husband so happy, and I often wonder how we could be so lucky to have such a wonderful LO. However, we struggled with sleep from day dot, fighting naps, awake for hours upon hours in the newborn phase and contact napped exclusively. After a lot of hard work learning abo
+ID 1tjkyh1 | r/sleeptrain | 2026-05-21
+TITLE: Coming to you live from the nursery
+OPENING: 11 week old babe is in his crib napping and has been for almost 25 minutes!! Been a contact napper since birth, we tried the basinet for naps (he sleeps in it at night) and pack n play with no luck. Finally put up the crib and went for it for his first nap today. I’d like to leave the room but I’m afraid to move 🤪 Either way we’re winning for the m
+ID 1tk504a | r/sleeptrain | 2026-05-22
+TITLE: I failed on the first night of Ferber
+OPENING: Bedtime went fine. He only took 45 minutes with 5 min interval checks. Woke again an hour later and took one check in. Woke again and hour after that and he was hysterical during the first check in no matter what I did. It actually took me a good minute to get him to calm down once I picked him up. I feel like I made him go through all of that cryi
+ID 1tkeh60 | r/sleeptrain | 2026-05-22
+TITLE: Sleep Trainer v Nursery Battle
+OPENING: Hey, we had a consultation last week with a sleep trainer regarding our 18 month old who had never slept. One of the big things she wanted to change was his nap length at nursery - he normally slept 2 hours, she suggested 30 minutes maximum.
+Since we started training, he has improved significantly. He slept through for the first time, but then the
+ID 1tl5h9b | r/sleeptrain | 2026-05-23
+TITLE: In desperate need of help here. Early morning wakes 16 month old.
+OPENING: I am crying as I write this, it has been 3 months of hell for us and every time we thought it could not get any worse, it did lol. 
+Our 16.5 old girl was a dream sleeper from newborn-12 months. She slept through the night at 8 weeks and continued to do so with an average bedtime of 7.30pm and wake up between 6.30-7.30am.
+Between 12-14 months, we 
+ID 1tlk3ph | r/sleeptrain | 2026-05-23
+TITLE: How would you handle this? Husband and I disagree
+OPENING: I need some advice because my husband and I don’t really know how to proceed with this. 
+Our almost 9 month old goes to bed around 8pm; **Sometimes** he will wake up around midnight but my husband and I both agree that CIO is appropriate here; no problem. The problem comes with the fact that he **almost always** wakes up at 3 or 3:30am (this wake 
+ID 1tmcm0h | r/sleeptrain | 2026-05-24
+TITLE: Sleep training a stubborn / high needs baby : advice needed!
+OPENING: My baby is 4 months and very high needs. She is a colicky baby who cries most of the day and the we contact nap most naps. She is on medicine for her reflux. 
+She will do a couple 2 -3 hour stretches throughout the night but no consistency and at least have the night is contact sleep. I’m really struggling from the sleep deprivation and want to sl
+ID 1tmh9td | r/sleeptrain | 2026-05-24
+TITLE: I'm going to crash soon.
+OPENING: My boy is going to be 9 months next week. We've never sleep trained. Currently I'm in the cycle of trying to lock him into two naps, he wakes up between 4-5am right now. DWT is minimum 6am that I've tried to get him to. I 'save' the nap with contact naps constantly.
+He has never had a 4 hour wake window. He's typically 2, and we'll fight and strug
+ID 1tmw7ga | r/sleeptrain | 2026-05-25
+TITLE: Baby stopped rolling to tummy?
+OPENING: My 5 month old was trained at 4 months (about 5 weeks ago). After tweaking wake windows things were going really well - he would go down for crib naps and bedtime in usually less than 10 mins and sleep through the night with no feeds, so around 11 hours straight.
+A little hiccup about a week in - he started rolling to tummy kind of reflexively and
+ID 1tmyiec | r/sleeptrain | 2026-05-25
+TITLE: Schedule/Sanity Check - 10 months Ferber Progress
+OPENING: Writing this from night 6 of Ferber. Starting to doubt the schedule. Baby is 10 months - about 1.5 weeks from 11. She was giving us long enough stretches for us to put off sleep training for awhile but after an international trip, sleep continued to decline for 5 weeks. We were looking at 1-3 false starts and then a 3/4/5am wake where the crib was 
+ID 1tneb0x | r/sleeptrain | 2026-05-25
+TITLE: Almost two year old sleep regression?
+OPENING: My LO is almost 22 months, with her birthday in August. She started daycare at the beginning of the month (about 3 weeks ago). Since then, her sleep has gotten progressively worse to the point where she is waking up between 3am and 5am, and won’t stop screaming until mom (only mom) picks her up. After starting daycare, I noticed that she didn’t wan
+ID 1tneydy | r/sleeptrain | 2026-05-25
+TITLE: Where to start again?
+OPENING: **Sleep**  
+Hello I’m at my breaking point (again). My son was sleeping through the night finally in March this year (my last breaking point, wits end thank god for this sub). This sub helped me figure out his schedule, which was the key, and despite some sickness ups and downs, he’s mostly been sleeping through the night with schedule adjustments 
+ID 1tnlnjl | r/sleeptrain | 2026-05-25
+TITLE: Sudden sleep issues, Help?
+OPENING: Our 2.5 year old used to be the perfect sleeper. She’d go down independently around 6:30-6:45pm and wake around 6-6:30am consistently.  
+About 2 weeks ago she discovered she could climb out of her cot. Since then everything has spiralled a bit.
+She climbed out crying looking for us and now refuses to stay in bed unless someone is nearby. We’ve at 
+ID 1to44rs | r/sleeptrain | 2026-05-26
+TITLE: Please help desperate
+OPENING: Hi I’ve been trying to sleep train my 9 month old for a month now. We’ve made progress and had set back. She absolutely knows how to put herself back to sleep she’s done it so many times. She falls asleep independently for naps and bed time and connects cycles when she chooses. 
+Some nights she will wake only once around 4:39 and I’ll feed her othe

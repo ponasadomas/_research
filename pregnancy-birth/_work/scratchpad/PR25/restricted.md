@@ -1,0 +1,42 @@
+- pb25-0011 — procedure decision (instrumental delivery refusal)
+- pb25-0024 — treatment outcome experience (acupuncture for nausea; reads as medical claim)
+- pb25-0040 — reduced fetal movements
+- pb25-0044 — medical procedure (induction balloon)
+- pb25-0045 — procedure decision (induction method)
+- pb25-0048 — medical procedure (membrane sweep)
+- pb25-0049 — reads like a birth-outcome promise
+- pb25-0052 — medication decision (epidural)
+- pb25-0053 — medication decision (epidural)
+- pb25-0059 — medical procedure (c-section recovery)
+- pb25-0063 — procedure decision (c-section)
+- pb25-0065 — follows a haemorrhage; birth injury context
+- pb25-0072 — exercise credited for birth preparation (reads toward outcome claim)
+- pb25-0077 — medical procedure (c-section)
+- pb25-0078 — surgical recovery
+- pb25-0079 — medical procedure (cervical exam)
+- pb25-0102 — clinical procedure (induction assessment, cervical exams)
+- pb25-0119 — previous-birth injury and medication (self-blame after pain relief)
+- pb25-0127 — mental health (self-blame after a traumatic birth)
+- pb25-0139 — procedure decision (induction)
+- pb25-0145 — medication plan (epidural)
+- pb25-0156 — medication advice (epidural)
+- pb25-0160 — surgical recovery
+- pb25-0161 — surgical recovery
+- pb25-0162 — medical finding (placenta position)
+- pb25-0163 — mental health (early postpartum weeks)
+- pb25-0167 — medication decision (epidural)
+- pb25-0197 — medical claim (pelvic-floor therapy and continence)
+- pb25-0200 — medication decision (epidural)
+- pb25-0201 — procedure context (external cephalic version)
+- pb25-0212 — procedure (c-section) and fetal position
+- pb25-0216 — procedure decision (future VBAC) after a hard birth
+- pb25-0219 — procedure (planned c-section)
+- pb25-0221 — procedure (planned c-section)
+- pb25-0223 — procedure context (external cephalic version)
+- pb25-0227 — procedure decision (assisted delivery vs surgery)
+- pb25-0233 — previous-birth injury
+- pb25-0249 — birth-injury/medical care complaint and postpartum grief
+- pb25-0259 — procedure decision with a medical statistic
+- pb25-0268 — procedure (c-section rates)
+- pb25-0309 — procedure decision (declining cervical checks)
+- pb25-0334 — medical (vaccination as a visitor condition)

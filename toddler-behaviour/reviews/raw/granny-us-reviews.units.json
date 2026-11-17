@@ -1,0 +1,31 @@
+{
+  "app": "granny",
+  "country": "us",
+  "url": "https://apps.apple.com/us/app/-/id6466166824?see-all=reviews",
+  "http_status": "200",
+  "raw_file": "_raw/reviews/granny-us-reviews.html",
+  "corpus_file": "_raw/reviews/granny-us-corpus.txt",
+  "reviews": [
+    {
+      "id": "10566017623",
+      "title": "This is exactly what I needed!",
+      "contents": "Navigating this path of parenting is one that I continue to struggle with. Kids these days have become so aware so fast through access to the internet and it’s become difficult to figure out how to best bring them up and prepare them for the future. Granny app is exactly what I needed to improve my style of parenting and nurturing my kids to become their best",
+      "rating": 5,
+      "date": "2023-11-09T08:23:13.000Z"
+    },
+    {
+      "id": "10559908662",
+      "title": "This Granny app is amazing!!!!! I love it",
+      "contents": "As parents, we are often clueless and we have no idea what to do sometimes ……it’s so wonderful to have a source that you can count on. I get great advice from this app it’s like talking a wise friend that seems to have read every parenting book cover to end. I would highly recommend this app to all parents!!!!",
+      "rating": 5,
+      "date": "2023-11-07T14:32:50.000Z"
+    },
+    {
+      "id": "10566857122",
+      "title": "Best app for parents!!",
+      "contents": "I really find this app helpful by developing better parenting skills. Definitely recommend this app to any parent!! Extremely life changing 🙏",
+      "rating": 5,
+      "date": "2023-11-09T13:39:10.000Z"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+S = {
+63: "excluded: post raises ending the pregnancy",
+64: "quoted",
+65: "read, not quoted: word-for-word crosspost of beyondthebump-1wb6c7l (quoted there)",
+66: "quoted (earlier pregnancy ending at 13 weeks mentioned in passing; quote clean)",
+67: "quoted",
+68: "quoted",
+69: "quoted",
+70: "quoted",
+}
+Q = [
+(64, "", "expecting_mother", "second_trimester", "desire", ["partner_role", "isolation"], "I asked for a PEACEFUL PREGNANCY from the day we found out but nope that’s too much to ask for", "22 weeks, arguing with her boyfriend, family on the other side of the country.", ""),
+(66, "", "expecting_mother", "first_trimester", "question", ["week_by_week", "personalization", "body_changes"], "google of course says you can’t feel anything until weeks 16 or even later, but im wondering if anyone else felt these little sensations already this early?", "10 weeks, feeling something low in her belly that the timelines say she shouldn't.", ""),
+(66, "p8phxr7", "expecting_mother", "first_trimester", "pain", ["body_changes"], "it feels like little bubbles popping, a small fish swimming around?", "Reply describing the sensation.", ""),
+(67, "", "new_mother", "newborn_2_8_weeks", "fear", ["partner_role", "maternity_leave", "postpartum_recovery", "uk_nhs"], "He works nights so I'm terrified for the sleep deprivation and having no one else to help if I needed it.", "UK, 5.5 weeks after a c-section, husband about to return to work.", ""),
+(67, "", "new_mother", "newborn_2_8_weeks", "others_said", ["postpartum_recovery", "c_section"], "My friends are convinced getting out the house every day will help but I still can't drive or carry the car seat 🥲", "Same post; she hasn't left the house yet.", ""),
+(67, "p8pypig", "new_mother", "newborn_2_8_weeks", "others_said", ["postpartum_recovery", "c_section"], "my only problem is I live on the hill and every health professional has told me not to push the Pram on a hill ... so i feel so trapped x", "Reply on why getting out is hard.", ""),
+(67, "p8rv4em", "new_mother", "newborn_2_8_weeks", "success_story", ["postpartum_recovery", "partner_role"], "I was motivated after all this advice and have just completed my first walk around the block with my husband!", "Update the same day.", ""),
+(68, "", "experienced_mother", "newborn_2_8_weeks", "belief", ["feeding", "second_pregnancy", "previous_birth"], "When I got pregnant with my second I swore up and down that I couldn't do all that again with my second and now I'm still here obsessing over it.", "Second baby at 6 weeks, repeating feeding struggles from her first.", ""),
+(68, "", "experienced_mother", "newborn_2_8_weeks", "others_said", ["feeding", "partner_role"], "In the beginning he even mentioned off handedly that I don't need to breastfeed, well just pump and feed him as much as breastmilk as possible. And that broke me.", "Same post; her partner's suggestion.", ""),
+(68, "", "experienced_mother", "newborn_2_8_weeks", "purchase", ["feeding", "what_to_buy"], "I do everything to make it more convenient (even got wearables for during the day, fridge hack...).", "Same post; what she bought to make pumping easier.", ""),
+(69, "", "expecting_mother", "first_trimester", "success_story", ["partner_role", "first_pregnancy"], "I’m incredibly lucky to have my husband. Immediately reassured me that everything will be okay, had no problem taking over cleaning our cat’s litter box, meal prepped for us…", "Positive test about 6 weeks, a week after her wedding.", ""),
+(69, "", "expecting_mother", "first_trimester", "fear", ["first_pregnancy", "identity"], "going from total wedding bliss to immediately going into another transition is so scary. I’m excited. It really does feel like the anticipation you have before getting on a rollercoaster carnival ride.", "Same post.", ""),
+(70, "", "expecting_mother", "first_trimester", "objection", ["exercise_in_pregnancy", "skepticism_preparation"], "I’m not sure I’ll enjoy Pilates if I need to modify what everybody else in the class is doing. […] I also heard prenatal classes were often not -real- workouts where I live…", "11 weeks, former hot yoga and Pilates regular, asking what workouts others enjoyed.", ""),
+]

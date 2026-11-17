@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /*add-to-cart=*
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /my-account/
+
+User-agent: *
+Disallow: /?blackhole
+
+Sitemap: https://shebirths.com/sitemap_index.xml

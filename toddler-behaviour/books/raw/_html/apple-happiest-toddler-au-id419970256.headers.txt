@@ -1,0 +1,55 @@
+HTTP/2 301 
+server: daiquiri/5
+cache-control: public, max-age=600
+content-security-policy: upgrade-insecure-requests ; default-src 'none'; img-src 'self' https://*.apple.com https://*.mzstatic.com data:; style-src 'self' https://*.apple.com 'unsafe-inline'; font-src 'self' https://*.apple.com; media-src 'self' https://*.apple.com blob:; connect-src 'self' https://*.apple.com https://*.mzstatic.com; script-src 'self' https://*.apple.com 'unsafe-eval' 'sha256-4ywTGAe4rEpoHt8XkjbkdOWklMJ/1Py/x6b3/aGbtSQ='; frame-src 'self' https://*.apple.com itmss: itms-appss: itms-bookss: itms-itunesus: itms-messagess: itms-podcasts: itms-watchs: macappstores: musics: apple-musics: podcasts: videos:;
+location: https://books.apple.com/au/book/the-happiest-toddler-on-the-block/id419970256
+x-apple-jingle-correlation-key: R7HN74TFWW3LX2K3MVXD756AA4
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-responding-instance: amp-web-books-preview-server:amp-web-books-preview-server-main-7fc8558f96-t2xzg:4000:2640.0.0
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubDomains
+x-daiquiri-instance: daiquiri:10001:daiquiri-cluster-79f57c7d96-4dkqd:7987:26HOTFIX47:daiquiri-amp-kubernetes-shared-cluster-ak8s-prod-pv4-amp-web-books-preview-prod
+x-daiquiri-debug-worker-pid: 336
+x-daiquiri-instance: daiquiri:10001:daiquiri-all-shared-ext-69c87c59dd-j68t5:7987:26HOTFIX47:daiquiri-amp-kubernetes-shared-ext-ak8s-prod-pv4-amp-daiquiri-ingress-prod
+x-daiquiri-debug-worker-pid: 1293527
+accept-ranges: bytes
+age: 0
+date: Sun, 25 Oct 2026 08:19:39 GMT
+via: 1.1 varnish
+x-cdn: fsly
+x-served-by: cache-ber1080040-BER
+x-cache-hits: 0
+x-timer: S1792916378.473463,VS0,VE933
+set-cookie: geo=LT; domain=apple.com
+x-cache: MISS fsly
+content-length: 0
+
+HTTP/2 200 
+server: daiquiri/5
+content-type: text/html
+cache-control: public, max-age=600
+content-security-policy: upgrade-insecure-requests ; default-src 'none'; img-src 'self' https://*.apple.com https://*.mzstatic.com data:; style-src 'self' https://*.apple.com 'unsafe-inline'; font-src 'self' https://*.apple.com; media-src 'self' https://*.apple.com blob:; connect-src 'self' https://*.apple.com https://*.mzstatic.com; script-src 'self' https://*.apple.com 'unsafe-eval' 'sha256-4ywTGAe4rEpoHt8XkjbkdOWklMJ/1Py/x6b3/aGbtSQ='; frame-src 'self' https://*.apple.com itmss: itms-appss: itms-bookss: itms-itunesus: itms-messagess: itms-podcasts: itms-watchs: macappstores: musics: apple-musics: podcasts: videos:;
+x-apple-jingle-correlation-key: BQWPOG3RAL5JOQAPPHUCOZNPZQ
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-responding-instance: amp-web-books-preview-server:amp-web-books-preview-server-main-7fc8558f96-57cnv:4000:2640.0.0
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubDomains
+x-daiquiri-instance: daiquiri:10001:daiquiri-cluster-79f57c7d96-4dkqd:7987:26HOTFIX47:daiquiri-amp-kubernetes-shared-cluster-ak8s-prod-pv4-amp-web-books-preview-prod
+x-daiquiri-debug-worker-pid: 352
+x-daiquiri-instance: daiquiri:10001:daiquiri-all-shared-ext-69c87c59dd-jtc5g:7987:26HOTFIX47:daiquiri-amp-kubernetes-shared-ext-ak8s-prod-pv4-amp-daiquiri-ingress-prod
+x-daiquiri-debug-worker-pid: 1387097
+accept-ranges: bytes
+age: 0
+date: Sun, 25 Oct 2026 08:19:40 GMT
+via: 1.1 varnish
+x-cdn: fsly
+x-served-by: cache-ber1080040-BER
+x-cache-hits: 0
+x-timer: S1792916379.434541,VS0,VE1417
+vary: accept-encoding
+set-cookie: geo=LT; domain=apple.com
+x-cache: MISS fsly
+content-length: 360526
+

@@ -1,0 +1,22 @@
+User-Agent: GPTBot
+Disallow: /
+
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /auth/
+Disallow: /avatar/
+Disallow: /cancellations/
+Disallow: /course/
+Disallow: /health$
+Disallow: /health/
+Disallow: /iframe/
+Disallow: /internals$
+Disallow: /internals/
+Disallow: /monitoring$
+Disallow: /monitoring/
+Disallow: /reschedulings/
+Disallow: /subscribe/
+Disallow: /unsubscribe/
+
+Sitemap: https://v2.stan.store/aeo-sitemap.xml

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+
+User-agent: SemrushBot
+User-agent: Mozilla/5.0 (compatible; SemrushBot/6~bl; +http://www.semrush.com/bot.html)
+User-agent: SemrushBot-BA
+Disallow: /

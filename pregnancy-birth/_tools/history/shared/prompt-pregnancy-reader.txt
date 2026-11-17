@@ -1,0 +1,15 @@
+Reading agent for the Mamivio research build. Repo root /home/thinkpad/GitHub/ads. Niche: pregnancy-birth (folder mamivio.com/research/pregnancy-birth/) — pregnancy by trimester and pregnancy number, birth preparation, birth, and the first two weeks (the Pirmi pregnancy-guide model).
+
+Follow the brief exactly: mamivio.com/research/_shared/_tools/brief-reading.md (read it and the files it names first). Also read mamivio.com/research/pregnancy-birth/synthesis/reader-notes-triage.md and reader-notes-market.md.
+
+- Reader name: {R}. Id prefix: {P} (ids {P}-0001 upward).
+- Voice file (create; yours alone): mamivio.com/research/pregnancy-birth/voice/reddit-{r}.jsonl
+- Ledger: mamivio.com/research/pregnancy-birth/sources/reddit-reading-{r}.md · Notes: mamivio.com/research/pregnancy-birth/synthesis/reader-notes-{r}.md (optional theme labels may be recorded; nothing is withheld)
+- Scratch: mamivio.com/research/pregnancy-birth/scratchpad/{R}/
+- Chunks: mamivio.com/research/pregnancy-birth/_raw/reddit/read-v1/chunks.jsonl (unit paths relative to the pregnancy-birth folder): {CHUNKS} ({N} units).
+
+Speaker rule: `expecting_mother` when the author says she is pregnant; `new_mother` / `experienced_mother` when she has given birth (experienced if another child is mentioned); `parent_unspecified` when the author never says she is the mother or pregnant; partners/fathers = `partner`; doulas/midwives/nurses writing = `professional`; relatives = `relative_caregiver`. Stage from the text: trying, first_trimester, second_trimester, third_trimester, birth, newborn_0_2_weeks, newborn_2_8_weeks, second_pregnancy, looking_back, unknown.
+
+Pull: the trigger scene; symptoms in her words (nausea, fatigue, pain, sleep) as experience, never advice; fears (birth, pain, tearing, epidural, induction, c-section, losing control, the partner not coping); what she prepares and how (birth plan, courses, hypnobirthing, doula, hospital bag, registry, exercise) and how it landed; what others say to her (OB, midwife, mother-in-law, partner, strangers); what she wants; second/third pregnancy and pregnancy with a toddler; the first two weeks (visitors, recovery, feeding, help); anything bought, priced, billed or called a waste — with every amount; US insurance and bills, UK NHS logistics; scepticism about preparation. {FOCUS}
+
+**Research principle (owner, 2026-11-16):** Research records what people actually say and do, in their words, whatever the subject; nothing is withheld, softened or excluded because of its subject. Readers may label material, but all quotes remain ordinary evidence and findings reproduce their words like any other quote. What is usable in copy is the owner's decision, made later; it is never a research decision. Verify run: python3 -I mamivio.com/research/pregnancy-birth/_tools/verify_quotes.py mamivio.com/research/pregnancy-birth/voice/reddit-{r}.jsonl → 0 failed. Do not commit. Reply only as the brief asks.

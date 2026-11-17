@@ -1,0 +1,92 @@
+ID 1sg3m8z | r/workingmoms | 2026-04-08
+TITLE: Toddler Split Nights
+OPENING: There are 500 other subs where I could ask this but I trust this group the most. 
+My mostly decent 19 MO sleeper has been having split nights for the last two weeks. 2:30 almost on the dot, sometimes 2:06, until 3:30 or 4:30 am. 
+We still breastfeed to sleep but he can put himself to sleep and has been “sleep trained” to sleep through the night i
+ID 1skkvgl | r/workingmoms | 2026-04-13
+TITLE: Baby refuses bottle at 9 months- returning to work
+OPENING: I've finally returned to work after exhausting my pregnancy, bonding and personal leave options. I wanted to take an entire year off for him but for the sake of my hours and the bills, I returned to work. Now, baby is refusing the bottle from his dad and we are both stressing over it.
+He used to take the bottle just fine. I was pumping a lot in th
+ID 1skx3gh | r/workingmoms | 2026-04-14
+TITLE: Question for littles who started daycare when they only contact napped prior…
+OPENING: My little dude starts in a month and he’ll be closer to 7 months when he starts. Heard great reviews and I’m also looking forward to returning to work (I wfh and am so grateful for this).
+My little guy contact naps on me during the daytime. He only has a few naps a day and it’s random and they usually aren’t too long. No schedule really, we just g
+ID 1sm3pp9 | r/workingmoms | 2026-04-15
+TITLE: Immediately Screwed up at my New Job - Advice on Navigating?
+OPENING: TL;DR: was labeled as a problem during my negotiation/onboarding process and I have no idea how to navigate this going forward. 
+Hey all, I'm 8 days into my new job. I went through a 14-week interview process and a 6-week wait to start (the wait was due to my son's spring break week, which my husband & I with no village had no coverage for). I'm f
+ID 1sm8sn3 | r/workingmoms | 2026-04-15
+TITLE: How am I supposed to succeed when I don't get any sleep?
+OPENING: I have twin toddlers who haven't slept through the night in over two months. Hours of middle of the night crying and screaming, split over multiple episodes. Just as I manage to get one of them down, the other one starts. My husband gets up with them too, so it's not like I'm handling this alone, but it sems to be hitting me harder than him. 
+I'm 
+ID 1ss1yof | r/workingmoms | 2026-04-21
+TITLE: Time to leave?
+OPENING: I normally work from home on Tuesdays but my son decided to wake up at 3am and wouldn’t go back to sleep. He’s 17 months and I’m still breastfeeding so I tried to put him back to sleep. Partner doesn’t work and he sleeps in the guest room. After almost 2 hours I decided to hand him over and got some sleep ( bare in mind we used to argue about this,
+ID 1suh46l | r/workingmoms | 2026-04-24
+TITLE: My entire team was eliminated due to RIF - Not sure what to do
+OPENING: I found out this week that my position after 5 years is being eliminated (RIF), along with my entire team and a few others. The days are hard but the nights are the worst. I lay awake running numbers, running scenarios, trying to figure out what I'm going to do. My brain will not stop.
+It's essentially business as usual at work since I have one mo
+ID 1sycuof | r/workingmoms | 2026-04-28
+TITLE: Second thoughts about resigning from a part-time job as a new mom (need advice)
+OPENING: I’m currently thinking about resigning from one of my part-time jobs, but I keep going back and forth.
+For context, I have a 4-month-old baby, and I’m the only one working in our household. My husband handles chores during the day and takes care of our baby in the afternoon when I start working. At night, I take over again when she wakes up, so my
+ID 1t4ae38 | r/workingmoms | 2026-05-05
+TITLE: Angry at myself and business partners
+OPENING: I am a small business owner, with 3 other partners (all male). We work a high stress long hours business. We are European.
+Last year I got pregnant (FTM) and gave birth to a baby boy at the end of September. Knowing I was going to give birth, I only took 1 week of holiday throughout the year (typically we take 5 to 6 weeks spread throughout the ye
+ID 1t67qpr | r/workingmoms | 2026-05-07
+TITLE: Thinking about skipping a work trip because I didn’t sleep
+OPENING: Fell asleep at 9pm, awake at 11:15pm to deal with toddler who is not sleeping (no idea why - maybe illness, maybe bad dreams, who knows). Toddler whimpered pretty much continuously from 11:30-1:20am so I did not sleep. Now it’s 3:25 and I still haven’t slept (pregnant with insomnia, yay) and I have to get up in 5 min to travel to an all day worksho
+ID 1t67w5z | r/workingmoms | 2026-05-07
+TITLE: Feeling terrible
+OPENING: i’m not sure where to start, but I’m feeling exhausted and terrible. My 14 months old has very strong temperament that’s really getting hard. He has issue with solid as well as sleep. We are cosleeping from 5 months, he is very light sleeper. After he started crawling, our sleeping situation is on floor bed in his playroom, I co-sleep with him in a
+ID 1t8t9fw | r/workingmoms | 2026-05-10
+TITLE: Thinking about having a second child but so so scared - how did you get the support you needed?
+OPENING: I had my first child last spring when I was 36.  I had a really really hard time with the first several months of her life (we got a baby on hard mode - I think she had colic), and then I got laid off when she was 9.5 months old. She recently turned one, and I am finally starting to feel like we have a slightly better handle on things.
+My husband 
+ID 1t9kltx | r/workingmoms | 2026-05-10
+TITLE: Perfectionism and motherhood
+OPENING: I’ve always been someone who has trouble sitting down or sitting still, I don’t like it. The only time I really can is when I’m removed from my house (on vacation or a trip) when I physically cannot do chores at home. And even then sometimes I just get bored, like I cannot just sit at the beach all day. 
+I’m a new first time mom to a 6 month old b
+ID 1tci92v | r/workingmoms | 2026-05-14
+TITLE: Boss is never happy with anything I do
+OPENING: For context- I work at a country club in laundry and housekeeping.
+I've been at my job for a year, and up until a few months ago everything was fine. 
+My boss went from never bothering me to suddenly stressing on me all the time, going as far as messaging and/or calling me about little things that could have been fixed by her or someone else at w
+ID 1th8ydy | r/workingmoms | 2026-05-19
+TITLE: Should I switch from night shift to day shift??
+OPENING: I really need outside opinions because I keep going in circles.  
+I work in X-ray and I genuinely love my job, but it’s physically and mentally demanding. Right now I work **night shift (6 PM–1:30 AM)** at a hospital **45 minutes away**, so I get home around **2:30 AM** and I’m back up every morning around **7 AM**.  
+The reason we’ve stayed on thi
+ID 1ti8kff | r/workingmoms | 2026-05-20
+TITLE: Too much all at once
+OPENING: I can't sleep due to a recent argument with my husband. I work as a teacher and apparently, my late meetings are just too much of ask due to our sons being so young (3 and 5 respectively). His mom and grandma watch our boys when we work, taking the oldest to school, so they cant help on these nights.  I'm trying to figure out if I can make this wor
+ID 1to5h1j | r/workingmoms | 2026-05-26
+TITLE: Working moms: how do you split night wake-ups so it feels fair and you can still function at work?
+OPENING: My partner and I both work and have a toddler who has started waking up again after switching daycare rooms and getting a cold. Lately the default has become that I get up first, and then I am wiped the next day so my work suffers. We both end up cranky and keeping score, which is exhausting.
+  
+It is not about willingness. We both want to help. T
+ID 1tqj5fg | r/workingmoms | 2026-05-28
+TITLE: Why am I always tired??
+OPENING: I feel like this is a common thing for working moms but I’m curious if others have found any useful solutions. I am ALWAYS tired. It doesn’t matter if I get 6 hours of sleep or 10, I just constantly feel worn out. I just had labs done and of course all came back “normal”. I get okay sleep, usually 6-8 hours a night with some wake ups depending on k
+ID 1tvaykn | r/workingmoms | 2026-06-03
+TITLE: Possible herpes for my son
+OPENING: My son seems to have a red spot on his nose. I have the herpes virus (yeah yeah I got it when I was a small child) anyway, I noticed my son has a red spot under his nose. I’m not seeing any blistering but this is the EXACT spot that i get mine atz I haven’t had a breakout since last year so I don’t know if it really is it or not. But I’m panicking.
+ID 1tvx53u | r/workingmoms | 2026-06-03
+TITLE: The phone is ringing and it is from daycare…
+OPENING: Daycare is going to drive me insane. 
+In the last three weeks we have missed five days and been called four times. I am going to lose my sleep mind because while my work is trying to be accommodating it is hard to constantly need to be out.
+The first call us because they had to wake my baby up because he was breathing weird. Went down to get him 
+ID 1u3gsof | r/workingmoms | 2026-06-12
+TITLE: Motivate me to work out… please!
+OPENING: I need exercise for my sanity. I miss it. But at the end of the day I have no motivation. So I need to summon some (likely via some habit that feels low-friction and easy enough to implement). 
+Exercise I DO pull off now:  
+\-Yoga in person 2x/month   
+\-Walks most days, even if short - usually getting about 6-8,000 steps over the course of a coup
+ID 1ucnp3c | r/workingmoms | 2026-06-22
+TITLE: Grandmother mad over daycare
+OPENING: Hello everyone! Id love to hear opinions on something I am VERY upset about. So I am a nurse who works every single saturday and sunday 6am-11pm both days. My fiance is an aircraft mechanic who works night shift Saturday night-tuesday night. My daughter (3 years old) stays with her grandmother one weekend then my SIL the next. Well my daughter had 
+ID 1udr6xh | r/workingmoms | 2026-06-23
+TITLE: How the heck do you upskill (and not burn out)
+OPENING: How the heck does anyone have time to upskill. I’m burnt out and annoyed in my current job, so I’m trying to apply and interview. Finding some roles but I need to upskill in some data/AI areas to stay relevant and be able to talk the talk and walk the walk. Because AI is the important thing these days. I’m a project manager. 
+In my current job I’v

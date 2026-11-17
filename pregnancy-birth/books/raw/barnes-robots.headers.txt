@@ -1,0 +1,23 @@
+HTTP/2 200 
+date: Sun, 25 Oct 2026 08:16:46 GMT
+content-type: text/plain
+content-length: 4352
+cache-control: max-age=86400
+link: </.well-known/ucp>; rel="ucp"
+set-cookie: session=eyJ2aXNpdG9ySWQiOiJlYzg1MTM4OC0xYjE5LTQ1MmQtOGVlNi0yZWM2OTdlOGNkNjgiLCJtZXJjaEZpbHRlciI6IlkifQ%3D%3D.8UGsUwRAKKt0W3MtmtTFvBN3JWORVgarlAWzpyQiEQU; Path=/; HttpOnly; Secure; SameSite=None
+strict-transport-security: max-age=31536000
+vary: Accept-Encoding, Accept-Language
+oxygen-cache-control: public, max-age=86400
+x-permitted-cross-domain-policies: none
+oxygen-full-page-cache: uncacheable
+powered-by: Shopify, Oxygen, Hydrogen
+x-request-id: 6bb48668-10c7-4caa-9a32-de57c84803a0-1792916205
+x-download-options: noopen
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1j61TKZJIkbQBI6vctDGUMOozxjzDlHQMB9%2Fwhzi5yaOw15p62Bbj4NqnDcy626GtB7yCKdZwUDwOyuFUO3FNE2TKV8d14vl38RtUq2TEQ90i42s96NjdTgQLQqi2JlWdx1jEe0BNok%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+server: cloudflare
+cf-ray: a4ffc7eec80b340e-RIX
+alt-svc: h3=":443"; ma=86400
+

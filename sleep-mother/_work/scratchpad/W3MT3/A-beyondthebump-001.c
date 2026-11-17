@@ -1,0 +1,262 @@
+ID 1s99q1h | r/beyondthebump | 2026-04-01
+TITLE: 18 month old takes sleeping sack of
+OPENING: okay so my 18 month old constantly will take his sleeping sack of at night. I tried everything, inside out, backwards etc. He knows his ways around it. He sleeps in a short sleeve footless pajama but now that he constantly takes it off I put him in a long sleeve pajama without footies. I’m scared that he will be cold with his feet open.
+  
+Does an
+ID 1sa80k5 | r/beyondthebump | 2026-04-02
+TITLE: Opportunity to get more sleep but feel guilty about it. I just need some reassurance.
+OPENING: Sorry for the extremely long post. 
+So my son is almost 4 weeks old and over the last week has decided he will only sleep if held and his wake windows are really long. Sometimes he doesn't sleep between bottles anymore. Since Saturday I've gotten about 10 hours of sleep. 
+My husband is back at work from 5a-4p and this is our first week solo. My m
+ID 1safvxb | r/beyondthebump | 2026-04-02
+TITLE: Trying to wean 18 month old off bottle
+OPENING: I’m going to preface this by saying that my 18 month old is a horrible sleeper and has never slept through the night in his life. He wakes up every 1-2 hours all night long, every night, and takes anywhere from 2 minutes to an hour to fall back asleep. This is an improvement from when he was an infant and would wake up every 30 minutes. We have tri
+ID 1sagsjh | r/beyondthebump | 2026-04-02
+TITLE: Late Postpartum Insomnia?
+OPENING: I had my first child 18 months ago. During the newborn stage, sleep was tough, and I struggled with hearing phantom cries throughout the night until about 1 year PP, but it gradually went away. 
+I’m currently struggled with insomnia on work trips or in new places. I lay in bed, exhausted, and can’t fully drift off. The first few times it happened,
+ID 1san0bg | r/beyondthebump | 2026-04-02
+TITLE: I wish I had known you can do everything right and still have a difficult baby who won't sleep.
+OPENING: Mostly writing this in case it helps anyone else in this situation feel less guilty and less alone. But also because I spent a lot of time in this sub when my son was a baby, reading every single advice post, writing ever more desperate posts asking about how to get him to sleep, trying every single sleep training technique and tip out there...and 
+ID 1sap4s4 | r/beyondthebump | 2026-04-02
+TITLE: I dont feel like I own my body postpartum
+OPENING: Just ranting about mental health into the void in case anyone else feels this way which im sure others do.
+Im (33F) currently 7 months postpartum with my baby girl and I have an almost 5 year old son. Im currently on Bonding Leave through my state because my son is having some behavior problems that we are working through. 
+Ever since I started m
+ID 1sasuqh | r/beyondthebump | 2026-04-02
+TITLE: I don’t know what to do anymore. 8mo old won’t sleep through the night
+OPENING: I’m 21, a FTM and my son turned 8 months old yesterday. He refuses to sleep through the night. From what I’ve seen, other people have had this issue as well and it’s been fixed for them. But my mom, aunt and Oma are making me feel insane for the fact that he’s not sleeping through the night yet. And i’ve tried everything. Letting him cry for a whil
+ID 1sb5orc | r/beyondthebump | 2026-04-03
+TITLE: Written up at work 3 m PP and after surgery
+OPENING: So a bit of a longer story here. I tried returning to work at 6 weeks pp. At 3 weeks I started having gallbladder attacks and was scheduled for surgery at 8 weeks pp. The day before surgery I had an enormous amount of time sensitive data to get in. Upon arriving at work I was told “not to bug so and so because she is having a serious situation occu
+ID 1sba4f1 | r/beyondthebump | 2026-04-03
+TITLE: 9.5 month old is not sleeping
+OPENING: I'm in desperate need of help. My baby that was a fairly well sleeper has turned into a rough sleeper. I haven't nursed her in the middle of the night since she was 5 or 6 months old, but I always nurse her to sleep for naps and bedtime, and middle of the night wake ups were a non issue. if she did wake up (which was rare), she was always able to s
+ID 1sbm3oq | r/beyondthebump | 2026-04-03
+TITLE: Regret becoming a mom
+OPENING: I know I’m “in the trenches” and everyone says things will get better, but I really regret becoming a mom. I’m 3.5 weeks ppd. My entire life I’ve wanted to be a mom and when my husband and I decided to have a baby, I was super excited. My pregnancy was pretty easy at first. I had some back problems and had to have surgery at 23 weeks and then got s
+ID 1sd3wjo | r/beyondthebump | 2026-04-05
+TITLE: Sad I’m not having the “happy newborn bubble” experience (Instagram made me cry)
+OPENING: Just a general vent not really looking for anything. An influencer I follow, who kind of infamously pretends life is perfect (imo anyway) just happened to have a baby around the same time as me, yesterday she posted  
+“nothing could ever prepare me for the amount of inner peace, grounding, and pure bliss motherhood would bring me“ and while I know 
+ID 1sddm18 | r/beyondthebump | 2026-04-05
+TITLE: 16 month old cant sleep anymore!
+OPENING: Our 16 month old son has basically not been sleeping properly since the daylight saving time change almost 2 weeks ago, and we are starting to worry that something might actually be wrong. Before this, sleep was almost perfect with 11 hrs straight. Sometimes he has one bottle of formula at 2 or 3am. Since the time change, everything has fallen apar
+ID 1sdksnt | r/beyondthebump | 2026-04-06
+TITLE: 37 weeks and feeling weird.
+OPENING: I’m 37 weeks with baby #3. I’ll be having a C-section next week. 
+I’m feeling so “off”. I don’t even know how to explain it, it’s like I’m incredibly anxious to the point of feeling nauseas and vomiting but for no clear reason. 
+I’m so restless, I can’t sleep at night because I feel myself starting to panic but again, no clear reason why. 
+All d
+ID 1sdxz8m | r/beyondthebump | 2026-04-06
+TITLE: Is this unfair of me?
+OPENING: Some background: my husband and I are both in our late 20s and have an 18 month old son. My husband is a medical resident with one year of residency to go. We live in a small city very far away (10+ hour drive, no direct flights) from either of our families and pretty much have no support network. For the first few months after our son was born, my
+ID 1sehia6 | r/beyondthebump | 2026-04-07
+TITLE: Anxiety after a traumatic birth
+OPENING: I hope that I have selected the right tag for this post! I am desperate for advice or honestly even a "it gets better" .
+After having a traumatic birth experience (induction that failed and resulted in emergency c-section and my baby had troubles breathing that resulted in her NICU stay), i am struggling so badly with anxiety about my baby being o
+ID 1sflo8z | r/beyondthebump | 2026-04-08
+TITLE: No sleep till when?
+OPENING: I had an emergency c-section on Sunday April 5th. I can’t sleep because of the awful back pain when I try to sleep on my side then my incision hurts and it feels like no matter what I do I can’t get any actual sleep, this is the first night out of the hospital and I’m miserable, I don’t mind getting up at night for my newborn or only sleeping betwe
+ID 1sg5zff | r/beyondthebump | 2026-04-08
+TITLE: My sleep deprivation is putting my job in jeopardy
+OPENING: I'm so stressed out. I used to be a rockstar at my job. I was my boss's star pupil. 
+It went all downhill last year when I got pregnant. This pregnancy kicked my ass. I was so tired and fatigued my performance tanked. My performance review got worse and worse and then I started making mistakes. 
+My boss is a mother and she was really trying to be
+ID 1sh0kci | r/beyondthebump | 2026-04-09
+TITLE: Panicking when I wake up
+OPENING: Hoping this flair is appropriate! 
+LO is 4 days old and I love her beyond words. She does not like sleeping in her crib, so my husband and I take turns holding her while the other person sleeps. I have so much anxiety about him or me falling asleep holding her that every time I wake up from my sleep shift I will panic and frantically search for he
+ID 1sh7rde | r/beyondthebump | 2026-04-10
+TITLE: In the trenches
+OPENING: just a rant because I'm going through it today. 3 weeks postpartum. c section recovery not great. still feeling stabby at my incision and my nerves all around feel hyper sensitive and inflamed. I'm exclusively breastfeeding and my newborn is cluster feeding. I'm feeding him constantly and if he's not attached to my boob he's screaming. I know he's 
+ID 1shv3c1 | r/beyondthebump | 2026-04-10
+TITLE: Bottle refusal - two weeks before return to work
+OPENING: Hi all - I am desperate for help. I have a ten week old who is mostly nursed but would have one bottle of formula a day to give me a break, given by dad. I never had to time to pump because little guy fed every 45 minutes since he was about one week old. 
+As of last week, he is refusing a bottle. Up until this point, he took the tommee tippee no p
+ID 1sigq06 | r/beyondthebump | 2026-04-11
+TITLE: How in the world do you get your 5mo to sleep more
+OPENING: He slept SO good through the night for about a month and then the regression happened at 4 months. His sleep is getting increasingly worse. First he was waking up once, then twice, now he wakes up every 45 minutes for the first 3 hours and then every 2-3 hours after that. The only thing that will get him to calm down is a bottle. We try the rocking
+ID 1sipdie | r/beyondthebump | 2026-04-11
+TITLE: Sleep Regression Advice
+OPENING: Hello! I am a first time mom and my baby is 12 weeks old today. He has been a fantastic sleeper since probably about 2 weeks old. Once he regained birth weight he would sleep from 8:00pm-5:30/6:30am no night wake ups or feeds. This last week he’s been sleeping 7:30/8pm- 12/1am then he eats and is up every 3 hours for more food. We start the day at 
+ID 1sizipp | r/beyondthebump | 2026-04-12
+TITLE: Husband drives me nuts with how he handles crying!
+OPENING: TW: prior baby loss mentioned briefly.
+To be clear, This is a ***ME*** Problem, not a him problem. 
+We have different styles. Different approaches and thats totally valid and ok. He's a fantastic parent, and I'm feeling less than confident. 
+But also, I'm a complete softy and don't know how to handle crying except to pop the baby on the boob. 
+ID 1sjiq9w | r/beyondthebump | 2026-04-12
+TITLE: Coping with PPD
+OPENING: How to cope with postpartum depression/anxiety/rage? I (33) am a FTM and struggling. I also have CPTSD that presents similarly to borderline, due to trauma at age 18..
+I'm 2.5 weeks pp. My OBGYN is worried about PPD/PPA and told me to reach out to my psychiatrist. While I am waiting for this appointment (tomorrow) how do I cope with these feelings
+ID 1sjk4op | r/beyondthebump | 2026-04-12
+TITLE: “I’m tired”
+OPENING: I fully respect and understand that people without kids can and are tired. I used to be quite a tired person. However now since having my baby, she’s 7m, I am exhausted. And I get SO frustrated when people complain to me about being tired. I don’t let it show (except for sometimes with my partner when he chose to stay up late) because they’re of co
+ID 1sjr7fl | r/beyondthebump | 2026-04-12
+TITLE: Breastfeeding broke me mentally and physically… so why do I suddenly want it back after weaning?
+OPENING: Hi everyone, I’m really struggling and could use some honest perspective.
+I’m 6 weeks postpartum with my fourth baby. I recently weaned after a really hard breastfeeding experience — I had mastitis, my nipples were cracked and bleeding, and even with lactation consultant help things never really improved. I was constantly nursing, pumping, and sup
+ID 1sjsdk0 | r/beyondthebump | 2026-04-12
+TITLE: Zuranalone?
+OPENING: has anyone used zuranalone for PPD? my doctor is strongly recommending it for me. I called the OB on call line yesterday and said I needed help, and they called my actual OB, who is my aunt. so she was able to come to my house and talk to me for a long time. I have an appointment tomorrow and she said I needed to research zuranalone and decide if I
+ID 1sjwwc8 | r/beyondthebump | 2026-04-13
+TITLE: Postpartum wife wants divorce as soon as possible. I need outside perspective because I feel too overwhelmed and confused.
+OPENING: 
+I have used chatgpt to write this down from my narration. I'm unable to to sort my thoughts.
+My wife and I have a second baby, and our marriage feels like it is in a serious crisis. This does not feel like one bad argument. It feels like years of hurt, weeks of distance, poor communication, and less and less sense of teamwork. When I recently sai
+ID 1smcwmg | r/beyondthebump | 2026-04-15
+TITLE: What are we wearing postpartum?
+OPENING: 4 months postpartum and I'm still 40# over my pre pregnancy weight and nothing fits. 
+Sick of wearing baggy shorts and grubby tank tops. I miss looking semi decent. None of my wardrobe fits.
+I might buy a couple items to bridge me over. Btw I also am hot all the time. I never got night sweats so I think perhaps this is my version? 
+Any ideas? 
+ID 1smvs5r | r/beyondthebump | 2026-04-16
+TITLE: What silly mistake did you make while deep in the sleep deprived newborn phase?
+OPENING: I’ll go first. I’m a 30 year old woman with a 10 week old little girl. Nonfunny part is I’m an underproducer and recently had to add formula to compensate for nearly 60% of my baby’s daily intake. I pump every 2-4hrs, BF 2-3x a day, and bottle feed formula and breastmilk on demand whenever she is hungry. It’s exhausting. I started pumping even when
+ID 1sn6zt1 | r/beyondthebump | 2026-04-16
+TITLE: How to get 9 week old to sleep longer at night?
+OPENING: Our 9 week old doesn’t sleep long stretches at night. At most he gets 1 hour of sleep then he wakes up eyes wide open and just kinda chills for another 2 hours. I know about REM sleep but his eyes are wide open and he stays fixated on stuff.
+During the day we contact nap in a dim room with a sound machine on where he’ll sleep usually 1-2 hours som
+ID 1so1tbv | r/beyondthebump | 2026-04-17
+TITLE: Sleep Deprivation & Husband Works Night Shift
+OPENING: I'm 19 months postpartum and 24 weeks pregnant, sleep deprivation is killing me. However, my husband works night shift with a commute, so on nights he works, he has to sleep in between shifts, and so I'm essentially on alone for 4-5 days in a row. Some nights I'm getting less than 4 hours of sleep and still have to function for our child.
+  
+Does 
+ID 1so442s | r/beyondthebump | 2026-04-17
+TITLE: Sleep regression trenches
+OPENING: Hi all, my girl is almost 10 months old. Shes the love of my life and my best friend. She has been in a horrible sleep regression and I’m at my wits end. She had been sleeping throughout the night but since she’s learned to sit up in the crib she’s been waking multiple times a night. Sometimes it’s simple like laying her back down and she’ll go bac
+ID 1spz2sp | r/beyondthebump | 2026-04-19
+TITLE: I’m the bad sleeper, not my baby
+OPENING: I have a 10 week old who is honestly not a bad sleeper (I think?). I’m the bad sleeper. Our typical night goes something like this:
+  
+Last big feed somewhere between 7:30 - 8:30, she’s usually awake another 30 mins to an hour. 
+Start winding down for bed around 9, usually get her sleeping by 10. Always fresh change and boob offered to help get h
+ID 1sru1fw | r/beyondthebump | 2026-04-21
+TITLE: Having two is so difficult
+OPENING: Maybe it's cause my husband went back to work today (after only two weeks 😒) but I feel like having a 4 year old and a newborn is an impossible task. Especially on less than 5 hours of sleep (broken up into 45 min intervals of course) 
+I feel like I'm always neglecting one of them for the sake of the other. 
+Put the baby down and let him scream b
+ID 1ss5jx3 | r/beyondthebump | 2026-04-22
+TITLE: THIS IS SO HARD
+OPENING: 9 week old triple rainbow baby. I feel like I'm going insane. I'm so sleep deprived I'm getting headaches most days. He is a terrible napper and will only sleep for 50 minutes unless he's held. I work every other day but when I'm home I can't rest during the day because of this. I have to do the night feed because my partner is such a heavy sleeper
+ID 1ss5m7b | r/beyondthebump | 2026-04-22
+TITLE: On the freaking out of it all…
+OPENING: Comments on the recent post got locked, but it really struck a nerve with me so I wanted to post for anyone else struggling. 
+I often feel extremely overwhelmed about all of the crises going on in the world, and that panic was absolutely heightened postpartum, when hormones and sleep deprivation conspired to push me into an anxiety spiral. 
+But I
+ID 1stqgnl | r/beyondthebump | 2026-04-23
+TITLE: I resent being a mom of two kids that hate/hated sleep.
+OPENING: I have a 4 year old and a 4 month old. My 4 year old didn’t sleep well(ish) until very recently. My 4 month old also reallllllllly is not a great sleeper so far. Which I know isn’t out of the norm for this age, but I have ptsd from the sleep torture our first inflicted on me and I have a feeling my baby will follow in his footsteps. I have so many 
+ID 1swav1o | r/beyondthebump | 2026-04-26
+TITLE: Need advice from parents who didn’t not sleep train!
+OPENING: My baby is 6.5 months old and sleep is getting ROUGH around here. He was a great sleeper up until about 5 months, he’d sleep from 8-2/3 AM, wake-up to eat and we’d do a diaper change, then back down until 6-7. Now, he’s waking up anywhere from 5-20 times a night screaming and crying. I know part of this is likely due to starting solids and teething
+ID 1swdnik | r/beyondthebump | 2026-04-26
+TITLE: Baby wakes up multiple times a night since newborn
+OPENING: Hi everyone, I am looking for some advice.
+My baby (11 months old) has been having ongoing sleep issues since the newborn stage. At the time, we understood it might be due to development, but now that he is 11 months old, we are still dealing with the same problem every night with little to no improvement.
+He has been waking up every 1.5 to 2 hou
+ID 1swn8fm | r/beyondthebump | 2026-04-26
+TITLE: First night of sleep training made me want to quit by 1am
+OPENING: I’m not sure if you can even call what I’m doing sleep training.
+For context: first 3 months of baby’s life he struggled with silent reflux and he needed to sleep upright to help. My husband and I took shifts so someone was awake with him and he could sleep upright on our chest. We got his oral ties revised and silent reflex seriously disappeared 
+ID 1sx56dm | r/beyondthebump | 2026-04-27
+TITLE: I feel super guilty towards my 2.5 year old toddler ever since my newborn was born.
+OPENING: Before giving birth, my toddler would just go to daycare 4 hours a day, and I would take care of my toddler 24/7 (I am a sahm) she seemed pretty content with how things were going. Then my newborn (6 weeks currently) was born and she started regressing by peeing on herself (she is potty trained). But it’s fine I understand. But my husband took care
+ID 1sxlqes | r/beyondthebump | 2026-04-28
+TITLE: Bed time rage? To let the run ramped or enforce bed time?
+OPENING: Sometimes my girl takes really Long to fall asleep. She’s 14months; we have a very standard bed time routine — some days it’s easier, some not so much. Just spent 50 minutes putting her down, which is considered short;  I can’t help but get frustrated after a while. I’m at SAHM, I prepare all the meals, put her down for every nap, baths, play time,
+ID 1sxoz8y | r/beyondthebump | 2026-04-28
+TITLE: Baby doesn't seem to like husband that much
+OPENING: Baby is 4 months old and mostly EBF. When he was a newborn my husband could give him a bottle and we were splitting the night shift but once baby started sleeping better I would just do all the wake ups because it was easier for me than having to pump all the time. Now baby refuses to be put to bed by husband, refuses a bottle from him, and just ge
+ID 1syjct2 | r/beyondthebump | 2026-04-29
+TITLE: Why am I STILL so tired??
+OPENING: Genuinely looking for answers here
+Why am I so tired?? 
+We have an 8 month old baby boy. We had a bumpy start when we was born but now he’s such an easy baby. Most notably, he sleeps through the night very consistently. Like, he goes down at 7:30, he gets a sleepy bottle at 9:30, then Hes out until 6am. So we’re a full nights rest almost every ni
+ID 1syk268 | r/beyondthebump | 2026-04-29
+TITLE: Building resentment towards my husband postpartum
+OPENING: Just need to rant I think, and maybe hear other perspectives to see if im the asshole 
+Currently 7 weeks postpartum with my second, and my first is 22 months. 
+Situation: My husband has a wedding coming up for his best friend that is out of town this weekend, so he will be gone for 3 full days. The wedding is no kids, so I will be staying home wi
+ID 1szdgui | r/beyondthebump | 2026-04-29
+TITLE: I don’t feel safe leaving my baby around my mother
+OPENING: I’m 8 weeks postpartum and honestly just need to vent because I feel like I’m losing my mind a bit.
+I’m currently staying at my mum’s house , and she has helped a lot, which I do appreciate. But at the same time, I feel like she keeps undermining me as a mum.
+Today she put garlic in my baby’s formula and gave it to her without telling me. I only 
+ID 1szf0ys | r/beyondthebump | 2026-04-29
+TITLE: I moved back home for the village and now the village is swallowing me whole — how do you find balance?
+OPENING: When my boyfriend and I found out we were pregnant, we made the decision to move back to my hometown so our baby could grow up surrounded by family — that village everyone talks about. It felt like the right call, and honestly, it still does. But what I didn’t fully prepare for was just how hard the transition would hit me.
+I had moved away at 17 
+ID 1t0cqlx | r/beyondthebump | 2026-04-30
+TITLE: Mom in dire need of sleep!
+OPENING: Our 6-month-old has basically been stuck in a sleep regression since 4 months. They’ve never been a great sleeper, even from birth, but this feels like a whole new level of bad sleeping. When they were a newborn up until about 3 months old we could barely put them down and they had to sleep in our arms, so my husband and I would take shifts during 
+ID 1t0lrl5 | r/beyondthebump | 2026-05-01
+TITLE: Feeling terrible at ER
+OPENING: I took my 7 week old’s temp because she felt super warm, it was 100.4 but then I took it a few more times and got something different each time.
+I called and of course the nurse line told me to go to ER.
+She did not have a fever upon arrival but of course they’re doing tests- she had a catheter urine sample, blood test, nose swab, and has been aw
+ID 1t0zt63 | r/beyondthebump | 2026-05-01
+TITLE: 12 month old started SLEEPING THROUGH THE NIGHT after a year of waking every 1-2 hours
+OPENING: I don’t want to jinx it but our son has spent the last two weeks SLEEPING through the night. 
+Since he was little he was a terrible sleeper.  Every 1-2 would wake, after a 3-4 hour stretch at bedtime.   He sleeps in a toddler sized sidecar crib while we prepare his room (we just moved) and literally changed nothing.  We were ready to hire a sleep 
+ID 1t14mp2 | r/beyondthebump | 2026-05-01
+TITLE: I need advice. These nights are destroying me.
+OPENING: My 6 month old boy has never been a sleeper. I had been transitioning him to his room in a large floor bed that I can lay down with him on. The last week I have been sleeping with him since we have been cosleeping since 2 months and I want to slowly get him sleeping alone and used to his bed.   
+This week, no joke, he has not gone to sleep until 3:
+ID 1t2g884 | r/beyondthebump | 2026-05-03
+TITLE: I feel mentally weak
+OPENING: When I feel overwhelmed, touched out, sleep deprived, frustrated with the crying etc I can’t help but think about all the women who have had it so much harder than me. Women in the olden days who had many children with barbaric deliveries, the women who birthed these babies in times with such high infant mortality rate they didn’t even name them fo
+ID 1t32yxl | r/beyondthebump | 2026-05-04
+TITLE: Help. Severe infant dyschezia!
+OPENING: Hi everyone, I’m a 31-year-old FTM to a 9-week-old baby boy.
+Since around week 3, he’s been dealing with what seems like infant dyschezia, and honestly it’s been really hard. He barely sleeps more than an hour at a stretch—keeps waking himself up straining, crying, turning red, even just to pass gas.
+I’ve gone through so many Reddit threads and a
+ID 1t474hj | r/beyondthebump | 2026-05-05
+TITLE: Baby’s sleep is driving me crazy
+OPENING: Baby will be 6 months on may 14th. 
+She has slept through the night since 8 weeks, and for the last 2 weeks she has been waking frequently overnight or early in the morning. I figured it was most likely schedule issues, she was on a 3.5-4 hour daily sleep, 7:30-7:30, with short wake windows so I started there. I have been able to get her to 2/2.5/
+ID 1t4rbjc | r/beyondthebump | 2026-05-05
+TITLE: Insomnia 😭
+OPENING: My baby is 3mo and formula-fed, he has started to sleep longer stretches. I'm also lucky to have my husband and mom do most night shifts so I can sleep. BUT I CANNOT SLEEP 😭 my brain fucking hates me. I'm seeing a therapist for PPA and a psychiatrist to get sleep under control but I'm too scared of trying heavy drugs, the one she has me on doesn't 
+ID 1t4veji | r/beyondthebump | 2026-05-05
+TITLE: Have terrible thoughts these days
+OPENING: Baby is 3 weeks. The spitups, non stop crying and sleep deprivation make me feel hopeless. I feel this is never going to end. Yesterday in the mid of night when he was awake and cried from 2am-5am, I couldn’t help but had terrible thoughts. I couldn’t even say it because I feel ashamed of even having these thoughts. I love him I truly do. But I’m s
+ID 1t4yfuf | r/beyondthebump | 2026-05-06
+TITLE: What’s the dumbest thing you and your partner fought about postpartum? I’ll go first 🥒🧊
+OPENING: I want to start this by saying I am very aware that postpartum can break couples in ways far more serious than this, but that’s not what this is. We love each other more than ever and we are solid.
+…which is exactly why it’s almost offensive how close we’ve come to losing our minds over the most ridiculous, unhinged and borderline surreal argument
+ID 1t5b2im | r/beyondthebump | 2026-05-06
+TITLE: I’m at a loss
+OPENING: I don’t know what to do anymore. I’m so fucking exhausted. Please God someone help in some way. I just had my daughter 6 days ago. During the day she’s an angel; sleeping the entire time other than for diaper changes and feeding. I love her so much. But at night she’s absolutely inconsolable. She will cry for hours, HOURS for seemingly no reason. I
+ID 1t5su9w | r/beyondthebump | 2026-05-06
+TITLE: Sleeping too heavy…solutions? (Also kinda a rant).
+OPENING: My baby is 11 weeks old. Everything is going really well. But recently the sleep deprivation has gotten to me and I notice that when I wake up because of her crying, it takes me a few minutes to even realize I’m conscious and do something about it. Like, I hear her but I don’t register reality and then I jump up and get to her of course. But I feel
+ID 1t646fk | r/beyondthebump | 2026-05-07
+TITLE: Cannot sleep
+OPENING: I’m 4 weeks PP and can never go back to sleep after her 1 or 2 am feeding. She cannot nap during the day unless it’s on me so I cannot nap during the day. I think it’s starting to take a toll on me. I breast feed and give a bottle at night but when she takes a bottle I need to pump so I can’t even stay asleep while my husband feeds her a bottle. 
+ID 1t85il6 | r/beyondthebump | 2026-05-09
+TITLE: Flowers Don’t Always Equal Love
+OPENING: Motherhood is so much deeper than flowers, gifts, social media posts, or whether someone remembers to say “Happy Mother’s Day.”
+I’ve seen so many posts from moms this morning feeling forgotten, unsupported, exhausted, overlooked, and emotionally drained. Especially moms in the newborn stage. And my heart genuinely goes out to them because motherho
+ID 1t8zqly | r/beyondthebump | 2026-05-10
+TITLE: Just need to get this out
+OPENING: TLDR: im just rambling abput how tired i am 
+Baby is a month old and still waking every hour at night. Not during the day of course, he'll sleep 2-3 hours straight when I need to eat, or do laundry or be awake for my toddler. But at night he wakes every hour on the hour. 
+And the constant eating is really getting to me. He was on my boob for over
+ID 1t9r75q | r/beyondthebump | 2026-05-11
+TITLE: i was so worried, but it's better than i ever could have imagined
+OPENING: content warning for mentions of a traumatic birth
+figured i should share my experience because 1. i want to gush and 2. it might seriously help someone. 
+  
+i was so so so terrified of childbirth but my husband was a huge help and by the time my elective induction rolled around, i felt prepared and ready. but i had an extremely traumatic birth 
+ID 1ta6ji7 | r/beyondthebump | 2026-05-11
+TITLE: Desperately need advice on how to wean my baby off unsafe sleep practices
+OPENING: My 8 week old recently recovered from rsv. When she was sick she was so congested that she had to be held up to sleep, all the time. She simply couldn't breathe laying down. My mom and I took shifts holding her up and watching her sleep. When we couldn't hold her anymore we placed her on some propped up pillows and blankets and stayed awake to watc
+ID 1taaqz6 | r/beyondthebump | 2026-05-11
+TITLE: My partner isnt stepping up
+OPENING: i need some advice from people who arent in my life. he’s 20 and im 19, 5 weeks postpartum with a beautiful baby boy. i had a positive birth and i have a lot of support around me. my boyfriend and i dont live together i live with my mum and he lives with his parents, the first week or two he’d come round every day to “help” with the baby but i was 
+ID 1tb5w5n | r/beyondthebump | 2026-05-12
+TITLE: My Own Sanity
+OPENING: I had to do something I told myself I never would as a FTM...let my baby scream. 
+After months of terrible sleep, I reached my breaking point. Sleep deprivation is turning me into a person I hate. My 6 month old has been waking up most nights every hour for months. I have been attentive, telling myself every night that it would be better. Last nig

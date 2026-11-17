@@ -1,0 +1,27 @@
+S = {
+78: "quoted (structured, bolded, possibly AI-polished)",
+79: "quoted",
+80: "quoted (crosspost of BabyBumps-1wbn7v9; only different OP replies quoted)",
+81: "quoted",
+82: "quoted",
+83: "quoted",
+84: "read, not quoted: postpartum urinary condition and therapy centred",
+}
+Q = [
+(78, "", "expecting_mother", "unknown", "fear", ["birth_fear", "tearing", "horror_stories", "first_pregnancy"], "I’ve heard so many difficult birth stories from women around me — 20+ hours of labor, severe tearing, hours of intense pain, long recoveries", "First-timer weighing asking for a planned c-section over vaginal birth with an epidural.", ""),
+(78, "", "expecting_mother", "unknown", "belief", ["birth_fear", "comparison_other_pregnancies"], "Personally, I only know maybe one or two mothers who would describe their vaginal birth as genuinely positive and uncomplicated.", "Same post.", ""),
+(78, "", "expecting_mother", "unknown", "desire", ["c_section", "losing_control", "birth_plan"], "the idea of knowing approximately which day my baby will be born, going into the hospital with a plan, and knowing that the baby will usually be there relatively quickly feels much more reassuring to me than the uncertainty of labor.", "Same post; why a planned section appeals.", ""),
+(78, "", "expecting_mother", "unknown", "fear", ["c_section", "epidural_decision", "second_pregnancy"], "I would ideally like to have at least one more child in the future, possibly two more if our life circumstances and desire for more children are right, so the impact on future pregnancies is also something I’m thinking about.", "Same post.", ""),
+(79, "", "expecting_mother", "second_trimester", "belief", ["week_by_week", "nausea", "fatigue", "first_pregnancy"], "Pretty much as soon as 14w started, I felt alll of the nausea, fatigue, stress, crying all at once. […] what happened to the promised glory of the second trimester?", "First-timer at 15+3 weeks; first trimester was easy. Crossposted to r/pregnant.", ""),
+(79, "p8t9hnm", "expecting_mother", "second_trimester", "fear", ["week_by_week", "fatigue"], "Ngl my first trimester was not hell at all incomparison to now... I'm afraid its all downhill from me from this point", "Reply in her own thread.", ""),
+(80, "p8tsxs0", "expecting_mother", "second_trimester", "tried_failed", ["week_by_week", "books", "partner_role"], "I was promised a glorious second trimester by all these baby books my spouse and I read but omg... it is quite the opposite.", "Reply in the r/pregnant copy of her post.", ""),
+(80, "p8ttujc", "expecting_mother", "second_trimester", "question", ["fatigue", "identity"], "Do you do anything to feel like yourself again? I feel this wave of never ending exhaustion all day", "Reply in same thread.", ""),
+(81, "", "expecting_mother", "third_trimester", "fear", ["nesting", "information_overload"], "Im pretty cautious about toxic materials, or at least i try to be, but of course it honestly feels so impossible to avoid sometimes especially when doing something mindlessly.", "31 weeks, worried about a strong-smelling hand-me-down rug pad in the bedroom.", ""),
+(82, "", "expecting_mother", "third_trimester", "pain", ["diet_rules", "third_trimester", "fatigue"], "I’ve no energy to cook lately and lots of options available around me are greasy food. I crave Popeyes, burgers, pizza, and all that but I’m so scared to eat cuz I keep having really bad pains and it’s exhausting me.", "39-week first-timer with night-time gas pain she mistook for contractions.", ""),
+(83, "", "expecting_mother", "third_trimester", "pain", ["c_section", "birth_plan"], "I was told there would be some “discomfort,” but I literally saw stars while they tried three times to turn baby girl.", "First-timer at 37+3 after an unsuccessful attempt to turn her breech baby.", "procedure to turn a breech baby"),
+(83, "", "expecting_mother", "third_trimester", "fear", ["c_section", "postpartum_recovery"], "There is definitely something comforting about knowing when we’ll meet our baby girl (unless she decides to surprise us before then lol), but if I’m being completely honest, I am TERRIFIED of the recovery and postpartum period after major surgery.", "Same post; planned section now booked.", ""),
+(83, "", "expecting_mother", "third_trimester", "pain", ["c_section", "who_to_ask", "family_support"], "All of the women in my family have had vaginal births, so I don’t really have anyone close to me who has been through a C-section and can tell me what it’s actually like.", "Same post.", ""),
+(83, "", "expecting_mother", "third_trimester", "others_said", ["c_section", "birth_plan", "unwanted_advice"], "Everyone keeps telling me that “everything will be fine” and that I’m “lucky” because I get to know when my baby is coming, and I know they mean well.", "Same post.", ""),
+(83, "", "expecting_mother", "third_trimester", "pain", ["birth_plan", "c_section", "losing_control"], "I also feel like I haven’t really had much space to be sad about the birth I thought I was going to have.", "Same post.", ""),
+(83, "", "expecting_mother", "third_trimester", "desire", ["c_section", "birth_prep"], "What surprised you? What helped the most? What do you wish someone had told you beforehand?", "Same post; questions to people who had a planned section.", ""),
+]

@@ -1,0 +1,26 @@
+S = {
+50: "quoted",
+51: "quoted",
+52: "quoted",
+53: "excluded: early spotting and fear of loss",
+54: "quoted",
+55: "read, not quoted: postpartum readmission for a blood-pressure condition and mental-health centred",
+56: "quoted",
+}
+Q = [
+(50, "", "new_mother", "looking_back", "price_signal", ["home_birth", "birth_trauma_story", "price_value"], "I feel like while nothing necessarily “bad” happened, I feel lied to, pissed I paid thousands of dollars for a homebirth midwife, and just overall really disappointed in my birth.", "Three months after a 52-hour labour planned at home that ended in hospital transfer.", ""),
+(50, "", "new_mother", "looking_back", "belief", ["birth_trauma_story", "mental_health"], "I also feel like I can’t call it “birth trauma” because from the outside in, nothing really looks “wrong.”", "Same post; she works as a doula herself.", "birth-trauma wording"),
+(50, "p8nnudd", "new_mother", "looking_back", "regret", ["home_birth", "professional_support"], "I actually cancelled my 6w visit with her bc I just feel dread when I think about talking to her or going to her office.", "Reply on the homebirth midwife she no longer trusts.", ""),
+(51, "", "expecting_mother", "second_trimester", "fear", ["first_two_weeks", "family_support", "isolation"], "I was going to wait until after but I’m terrified at how I can manage by myself. Literally no one has been able to confirm consistent help following my birth.", "27 weeks, father not involved, weighing a move across the US to a friend.", ""),
+(51, "", "expecting_mother", "second_trimester", "purchase", ["what_to_buy", "price_value"], "I have no savings, and no financial help. I work remotely, so my job will be secure. The last trimester of pregnancy, it is anticipated that I will be able to save and I’ve gotten donations for most of baby’s large items.", "Same post.", ""),
+(51, "", "expecting_mother", "second_trimester", "pain", ["identity", "first_pregnancy"], "I’m just so terrified of how to be a good mom and manage myself. I already feel like such a failure.", "Same post.", ""),
+(52, "", "expecting_mother", "third_trimester", "desire", ["visitors", "partner_role", "maternity_leave", "uk_nhs"], "I’m 37 weeks so due soon, my partner only gets 2 weeks pat leave and I don’t want to share any of that precious time with anyone else.", "London; both families must fly in from Scotland.", ""),
+(52, "", "expecting_mother", "third_trimester", "question", ["visitors", "family_pressure"], "I don’t want anyone staying with us for at least 4-6 weeks as I don’t want people in my personal space.  Can I tell them they can get an air BnB after 2 weeks? Or is that horrible?", "Same post.", ""),
+(52, "", "expecting_mother", "third_trimester", "pain", ["visitors", "family_pressure"], "Maybe ll feel differently after birth but right now it feels like people think they’re entitled to the precious little time I have with my partner", "Same post; she calls herself a people pleaser.", ""),
+(54, "", "expecting_mother", "third_trimester", "pain", ["body_changes", "first_pregnancy"], "i’m a FTM & 29W and cannot stress how real pregnancy brain is.", "Forgot the litter box; the cats ruined the pool table.", ""),
+(54, "", "expecting_mother", "third_trimester", "pain", ["body_changes", "losing_control"], "i have never felt so out of control of my own brain. this is so insane to me.", "Same post.", ""),
+(56, "", "expecting_mother", "second_trimester", "pain", ["partner_role", "isolation"], "I have to ask him to spend 15 minutes with me in the morning just laying with me because he wakes up and instantly goes on his computer.", "27 weeks, working 12-hour shifts, sleeping 3-4 hours.", ""),
+(56, "", "expecting_mother", "second_trimester", "fear", ["partner_role", "postpartum_recovery"], "I’ve asked so many times and told him how scared I am about post partum because if he can’t handle this now idk what I’m going to do.", "Same post.", ""),
+(56, "p8o3kff", "expecting_mother", "second_trimester", "tried_failed", ["partner_role", "partner_reading"], "I’ve asked him multiple times to research post partum because I’m scared. He hasn’t. His focus is on work and his band.", "Reply; she asked her boyfriend to read up on postpartum.", ""),
+(56, "p8o3sev", "expecting_mother", "second_trimester", "others_said", ["partner_role"], "I asked him once what he’s going to do when our daughter is here and he jokingly said she’ll be allowed in here.", "Reply; he sends her out of his office.", ""),
+]

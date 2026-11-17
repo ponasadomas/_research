@@ -1,0 +1,24 @@
+{
+  "app": "aiparentingcoach",
+  "country": "gb",
+  "url": "https://apps.apple.com/gb/app/-/id6451044904?see-all=reviews",
+  "http_status": "200",
+  "raw_file": "_raw/reviews/aiparentingcoach-gb-reviews.html",
+  "corpus_file": "_raw/reviews/aiparentingcoach-gb-corpus.txt",
+  "reviews": [
+    {
+      "id": "10135414079",
+      "title": "Nice",
+      "contents": "This app has been a real lifesaver. The instant, accurate advice has made my parenting journey so much easier.",
+      "rating": 5,
+      "date": "2023-07-13T11:46:56.000Z"
+    },
+    {
+      "id": "10892106365",
+      "title": "Didn’t work",
+      "contents": "Message received every question asked: Bad Response: 401. \nThe OpenAI account associated with this API key has been deactivated. If you are the developer for this OpenAI app, please check your email for more information. If you are seeing this error while using another app or site, please reach out to them for more help.",
+      "rating": 1,
+      "date": "2024-02-02T10:01:32.000Z"
+    }
+  ]
+}
