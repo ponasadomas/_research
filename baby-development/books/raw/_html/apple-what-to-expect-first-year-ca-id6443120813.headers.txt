@@ -1,0 +1,44 @@
+HTTP/2 301 
+server: daiquiri/5
+content-length: 0
+cache-control: public, max-age=600
+content-security-policy: upgrade-insecure-requests ; default-src 'none'; img-src 'self' https://*.apple.com https://*.mzstatic.com data:; style-src 'self' https://*.apple.com 'unsafe-inline'; font-src 'self' https://*.apple.com; media-src 'self' https://*.apple.com blob:; connect-src 'self' https://*.apple.com https://*.mzstatic.com; script-src 'self' https://*.apple.com 'unsafe-eval' 'sha256-4ywTGAe4rEpoHt8XkjbkdOWklMJ/1Py/x6b3/aGbtSQ='; frame-src 'self' https://*.apple.com itmss: itms-appss: itms-bookss: itms-itunesus: itms-messagess: itms-podcasts: itms-watchs: macappstores: musics: apple-musics: podcasts: videos:;
+location: https://books.apple.com/ca/book/what-to-expect-the-first-year/id6443120813
+x-apple-jingle-correlation-key: 6B57OGJ2ZU7I7WY647BDHHUYRE
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-responding-instance: amp-web-books-preview-server:amp-web-books-preview-server-main-578f84986-q5l2x:4000:2640.0.0
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubDomains
+x-daiquiri-instance: daiquiri:10001:daiquiri-cluster-657f4876d6-g6t74:7987:26HOTFIX48:daiquiri-amp-kubernetes-shared-cluster-ak8s-prod-as4-amp-web-books-preview-prod
+x-daiquiri-debug-worker-pid: 468
+x-daiquiri-instance: daiquiri:10001:daiquiri-all-shared-ext-5779d75bfb-4sndl:7987:26HOTFIX48:daiquiri-amp-kubernetes-shared-ext-ak8s-prod-as4-amp-daiquiri-ingress-prod
+x-daiquiri-debug-worker-pid: 1127086
+date: Sun, 25 Oct 2026 08:31:57 GMT
+x-cache: TCP_MISS from a2-22-31-191.deploy.akamaitechnologies.com (AkamaiGHost/22.6.5-e48a1e600c03e7d517694b5b11b937be) (-)
+x-cache-remote: TCP_MISS from a23-213-187-201.deploy.akamaitechnologies.com (AkamaiGHost/22.6.5-e48a1e600c03e7d517694b5b11b937be) (-)
+set-cookie: geo=LT; domain=.apple.com
+alt-svc: h3=":443"; ma=93600
+
+HTTP/2 200 
+server: daiquiri/5
+content-type: text/html
+cache-control: public, max-age=600
+content-security-policy: upgrade-insecure-requests ; default-src 'none'; img-src 'self' https://*.apple.com https://*.mzstatic.com data:; style-src 'self' https://*.apple.com 'unsafe-inline'; font-src 'self' https://*.apple.com; media-src 'self' https://*.apple.com blob:; connect-src 'self' https://*.apple.com https://*.mzstatic.com; script-src 'self' https://*.apple.com 'unsafe-eval' 'sha256-4ywTGAe4rEpoHt8XkjbkdOWklMJ/1Py/x6b3/aGbtSQ='; frame-src 'self' https://*.apple.com itmss: itms-appss: itms-bookss: itms-itunesus: itms-messagess: itms-podcasts: itms-watchs: macappstores: musics: apple-musics: podcasts: videos:;
+x-apple-jingle-correlation-key: RCESRGNGDS2HMH6UB7MEAMWYRM
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-original-content-length: 547959
+x-responding-instance: amp-web-books-preview-server:amp-web-books-preview-server-main-578f84986-klzvv:4000:2640.0.0
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubDomains
+x-daiquiri-instance: daiquiri:10001:daiquiri-cluster-657f4876d6-sr29n:7987:26HOTFIX48:daiquiri-amp-kubernetes-shared-cluster-ak8s-prod-as4-amp-web-books-preview-prod
+x-daiquiri-debug-worker-pid: 331
+x-daiquiri-instance: daiquiri:10001:daiquiri-all-shared-ext-5779d75bfb-fzttm:7987:26HOTFIX48:daiquiri-amp-kubernetes-shared-ext-ak8s-prod-as4-amp-daiquiri-ingress-prod
+x-daiquiri-debug-worker-pid: 1087440
+date: Sun, 25 Oct 2026 08:31:58 GMT
+x-cache: TCP_MISS from a2-22-31-191.deploy.akamaitechnologies.com (AkamaiGHost/22.6.5-e48a1e600c03e7d517694b5b11b937be) (-)
+x-cache-remote: TCP_MISS from a2-23-186-21.deploy.akamaitechnologies.com (AkamaiGHost/22.7.0-e687e9264c02f058b1bf8e920219e21f) (-)
+set-cookie: geo=LT; domain=.apple.com
+alt-svc: h3=":443"; ma=93600
+

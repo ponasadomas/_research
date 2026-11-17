@@ -1,0 +1,13 @@
+# See http://www.robotstxt.org/wc/norobots.html for documentation on how to use the robots.txt file
+#
+# To ban all spiders from the entire site uncomment the next two lines:
+User-Agent: *
+Disallow: /
+Allow: /products/*/*/reviews
+Allow: /products/*/*/bottomline
+Allow: /products/*/*/questions
+Allow: /products/*/*/qna_bottomline
+Allow: /v1/widget/*
+Allow: /v1/star_distribution/*
+Allow: /v3/rich_snippets/*
+Allow: /v3/storefront/store/*

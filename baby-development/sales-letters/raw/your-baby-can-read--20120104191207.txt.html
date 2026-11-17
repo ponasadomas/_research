@@ -1,0 +1,253 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	
+    Your Baby Can
+
+</title>
+<link href="http://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=PT+Sans+Narrow:700" rel="stylesheet" type="text/css" />
+    <link rel="Stylesheet" href="/Assets/Global/css/default_style.css" media="screen" />
+    <link rel="Stylesheet" href="/Assets/Global/css/form.css" media="screen" />
+    <link rel="Stylesheet" href="/Assets/Home/css/home-stylesheet.css" media="screen" />
+
+    
+    <script type="text/javascript" src="/Assets/Global/js/jquery_full.js"></script>
+    <script type="text/javascript" src="/Scripts/MicrosoftAjax.js"></script>
+	<script type="text/javascript" src="/Scripts/MicrosoftMvcAjax.js"></script>
+	
+	<script type="text/javascript">
+	    function success(content) {
+	        jQuery(".cart_refresh_top").load("/Partial/Cart/" + Math.random() * 99999);
+	        //jQuery(".item_in_progress").hide();
+	    }
+	    function failed(content) {
+	        alert("You Have Reached the Maximum Number of Items");
+	    }
+	    function begin() {
+	        //jQuery(".item_in_progress").fadeIn();
+
+	    }
+	</script>
+     <script type="text/javascript">
+         $(document).ready(function() {
+
+             $('.animate').click(function() {
+                 var $box = $('#box');
+                 if ($box.is(':visible')) {
+                     $box.delay(5000).fadeOut('slow');
+                 } else {
+                 $box.fadeIn('slow').delay(5000).fadeOut('slow').fadeIn(400).fadeOut(400).fadeIn(400).fadeOut(400).fadeIn(400).delay(5000).fadeOut('slow');
+                 }
+             });
+             $('.pif').click(function() {
+                 var $paidinfull = $('#paidinfull');
+                 if ($paidinfull.is(':visible')) {
+                     $paidinfull.hide();
+                 } else {
+                     $paidinfull.fadeIn('fast');
+                 }
+             });
+         });
+         
+ </script>
+    
+
+    <script type="text/javascript" src="/Assets/Global/js/flowplayer-3.2.6.min.js"></script>
+    
+    
+</head>
+<body>
+    
+         
+    
+<style type="text/css">
+ul#error-summary {width:100%; background-color:#ffdddd; border:1px solid Red; margin:0; list-style-type:none; margin-top:-1px;  position:relative;}
+ul#error-summary h2 {margin:5px}
+ul#error-summary li { padding-left:25px; margin:5px; background:url(http://error-summary.s3.amazonaws.com/warning.png) no-repeat;}
+ul#error-summary p {display:none; font-weight:600; margin:0; padding:5px; position:absolute; right:3px; bottom:-30px; background:#eeb720; color:#333; border:1px solid #ffb43d; cursor:pointer !important }
+ul#error-summary p:hover {background:#ee9e20; color:#333;  }
+
+</style>
+
+<script>
+    $(document).ready(function() {
+        $('#error-summary').hide();
+        $('#error-summary').delay(500).slideDown('slow');
+        $('ul#error-summary p').show().click(function() {
+        $('#error-summary').slideUp('slow');
+        });
+    });
+</script>
+
+<div id="wrap">
+	<div class="header">
+    	
+
+<div class="cart">
+    <a href="/Home/Contact"><img src="/Assets/Global/images/btnCheckout.png" /></a>
+	
+</div>
+    	<div class="logo logo-home">
+        	
+        </div>
+        <ul>
+        	<li><a href="/Home/Read"><img src="/Assets/Home/images/btnRead.png" alt="Read!" /></a></li>
+            <li><a href="/Home/Discover"><img src="/Assets/Home/images/btnDiscover.png" alt="Discover!" /></a></li>
+            <li><a href="/Home/Speak"><img src="/Assets/Home/images/btnSpeak.png" alt="Speak!" /></a></li>
+            <li><a href="/Home/Fun"><img src="/Assets/Home/images/btnFun.png" alt="Fun!" /></a></li>
+            <li style="padding-top:4px;"><a href="/Home/Angie"><img src="/Assets/Home/images/btnTestimonials.png" alt="Testimonials" /></a></li>
+            <li style="padding-top:4px;"><a href="/Home/FAQ"><img src="/Assets/Home/images/btnFaq.png" alt="FAQ"/></a></li>
+        </ul>
+    </div>
+    <div class="content">
+    	<div class="section1">
+        	<div class="video" style="width:442px;">
+        	    <a href="http://streamingunique.s3.amazonaws.com/ybc/YBCROpeningWebsite110811.flv" style="display: block; width:442px; height:295px; z-index:-9999" id="player"></a>
+			</div>
+			<script language="JavaScript">
+			    flowplayer("player", { src:'/Assets/Global/swf/flowplayer-3.2.7-1.swf',  wmode: 'opaque'}, {
+			        wmode: 'opaque',
+			        plugins: {
+			            controls: {
+			                autoHide: 'always'
+			            }
+			        },
+			        clip: {
+			            autoPlay: true,
+			            autoBuffering: true
+			        },
+			        scaling: 'orig'
+			    });
+            </script>
+            <!--TO RE-ENABLE THE PIF POPUP, CHANGE THE BUTTON BELOW'S CLASS TO 'pif' -->
+            <div style="float:left; margin:326px 0 0 272px;">
+            	<form action="/Add" method="post" onclick="Sys.Mvc.AsyncForm.handleClick(this, new Sys.UI.DomEvent(event));" onsubmit="Sys.Mvc.AsyncForm.handleSubmit(this, new Sys.UI.DomEvent(event), { insertionMode: Sys.Mvc.InsertionMode.replace, httpMethod: 'Post', loadingElementId: 'ItemAdding', onBegin: Function.createDelegate(this, begin), onFailure: Function.createDelegate(this, failed), onSuccess: Function.createDelegate(this, success) });">
+                    <input type="hidden" name="OfferSEO" value="Your-Baby-Can-Read-Holiday-Bundle-Trial" />
+				    <input type="image" src="/Assets/Global/images/btnAddToCartMed.png" class="pif animate" />
+                </form>
+            </div>
+        </div>
+        <div class="section2">
+            
+        </div>
+        <div class="section4">
+            <!--TO RE-ENABLE THE PIF POPUP, CHANGE THE BUTTON BELOW'S CLASS TO 'pif' -->
+        	<div style="float:left; margin:168px 0 0 658px;">
+        	<form action="/Add" method="post" onclick="Sys.Mvc.AsyncForm.handleClick(this, new Sys.UI.DomEvent(event));" onsubmit="Sys.Mvc.AsyncForm.handleSubmit(this, new Sys.UI.DomEvent(event), { insertionMode: Sys.Mvc.InsertionMode.replace, httpMethod: 'Post', loadingElementId: 'ItemAdding', onBegin: Function.createDelegate(this, begin), onFailure: Function.createDelegate(this, failed), onSuccess: Function.createDelegate(this, success) });">
+                <input type="hidden" name="OfferSEO" value="Your-Baby-Can-Read-Holiday-Bundle-Trial" />
+            	<input type="image" src="/Assets/Global/images/btnAddToCartLg.png" class="pif animate" />
+            </form>
+            </div>
+        </div>
+        <div class="section3">
+        	<div class="more discover">
+            	<a href="/Home/Discover" style="display:block; width:220px; height:240px;"></a>
+        		<div style="margin:8px 0 0 109px;">
+            		<form action="/Add" method="post" onclick="Sys.Mvc.AsyncForm.handleClick(this, new Sys.UI.DomEvent(event));" onsubmit="Sys.Mvc.AsyncForm.handleSubmit(this, new Sys.UI.DomEvent(event), { insertionMode: Sys.Mvc.InsertionMode.replace, httpMethod: 'Post', loadingElementId: 'ItemAdding', onBegin: Function.createDelegate(this, begin), onFailure: Function.createDelegate(this, failed), onSuccess: Function.createDelegate(this, success) });">
+                    <input type="hidden" name="OfferSEO" value="Your-Child-Can-Discover" />
+				    <input type="image" src="/Assets/Global/images/btnAddToCartSm.png" class="animate" />
+                </form>
+            	</div>
+            </div>
+            <div class="more spanish">
+            	<a href="/Home/Speak" style="display:block; width:220px; height:240px;"></a>
+            	<div style="margin:8px 0 0 110px;">
+            		<form action="/Add" method="post" onclick="Sys.Mvc.AsyncForm.handleClick(this, new Sys.UI.DomEvent(event));" onsubmit="Sys.Mvc.AsyncForm.handleSubmit(this, new Sys.UI.DomEvent(event), { insertionMode: Sys.Mvc.InsertionMode.replace, httpMethod: 'Post', loadingElementId: 'ItemAdding', onBegin: Function.createDelegate(this, begin), onFailure: Function.createDelegate(this, failed), onSuccess: Function.createDelegate(this, success) });">
+                    <input type="hidden" name="OfferSEO" value="Your-Child-Can-Speak-Spanish" />
+				    <input type="image" src="/Assets/Global/images/btnAddToCartSm.png" class="animate" />
+                </form>
+               	</div>
+            </div>
+            <div class="more spanish">
+            	<a href="/Home/Fun" style="display:block; width:220px; height:240px;"></a>
+            	<div style="margin:8px 0 0 113px;">
+            	<form action="/Add" method="post" onclick="Sys.Mvc.AsyncForm.handleClick(this, new Sys.UI.DomEvent(event));" onsubmit="Sys.Mvc.AsyncForm.handleSubmit(this, new Sys.UI.DomEvent(event), { insertionMode: Sys.Mvc.InsertionMode.replace, httpMethod: 'Post', loadingElementId: 'ItemAdding', onBegin: Function.createDelegate(this, begin), onFailure: Function.createDelegate(this, failed), onSuccess: Function.createDelegate(this, success) });">
+                    <input type="hidden" name="OfferSEO" value="Mini-Sliding-Books" />
+				    <input type="image" src="/Assets/Global/images/btnAddToCartSm.png" class="animate" />
+                </form>
+            	</div>
+            </div>
+        </div>
+        
+    </div>
+    
+
+<div class="social">
+    <div class="social-button facebook"> <a href="http://www.facebook.com/YourBabyCanRead" target="_blank"><img src="/Assets/Global/images/iconFacebook.png" alt="Facebook" /></a>
+      	<p><a href="http://www.facebook.com/YourBabyCanRead" target="_blank">Become a fan on<br />Facebook</a></p>
+    </div>
+    <div class="social-button twitter"> <a href="http://twitter.com/#%21/yourbabycanread" target="_blank"><img src="/Assets/Global/images/iconTwitter.png" alt="Twitter" /></a>
+    	<p><a href="http://twitter.com/#%21/yourbabycanread" target="_blank">Follow Your Baby Can Read!<br /> on Twitter</a></p>
+    </div>
+    <div class="social-button youtube"> <a href="http://www.youtube.com/user/YBCR" target="_blank"><img src="/Assets/Global/images/iconYouTube.png" alt="YouTube" /></a>
+    	<p><a href="http://www.youtube.com/user/YBCR" target="_blank">Watch us on<br /> YouTube</a></p>
+    </div>
+</div>
+<div class="clear"></div>
+
+<div id="footer">
+    <p>*Try Your Baby Can Read! for 30 days. Upon shipment, your credit card will be charged the trial price of $14.95, plus applicable taxes. 
+    At the end of the 30 day trial period, if you're as pleased with the program as we believe you'll be, do nothing and your credit card will be conveniently 
+    charged 2 easy payments of $67.50, billed each 30 days. If you are not completely satisfied within 30 days of receipt, contact our customer service department 
+    at 888.945.3830 to arrange for a return authorization and a refund of your $14.95. <b>Your return must be postmarked within 7 days of receiving return authorization.</b> 
+    All refunds will be in the amount of the product price only. No further charges will be billed to you. Processing and return shipping charges are non-refundable. </p>
+    
+    <p>*Free Shipping & Handling and $14.95 Trial Offer are only available for orders shipped within the US, Alaska, Hawaii, Canada and AE/AA/AP addresses.<br /> 
+    Your Baby Can does not ship to PO Boxes.</p>
+    <p>Reading is a highly individualized skill and each child's performance will vary. Reading skills of babies and toddlers will differ from those of older children.<br /> 
+    Typically babies between 10 and 23 months of age who use the YBCR program for at least seven months will learn to recognize words in the program.</p>
+    <p>Copyright &copy; 2011 Your Baby Can, LLC. All Rights Reserved. <a href="/Popup/PrivacyPolicy" class="popup">Privacy Policy</a> | <a href="/Popup/CustomerService" class="popup">Customer Service</a> | <a href="/Popup/TermsOfUse" class="popup">Terms and Conditions</a></p>
+</div>
+</div>
+
+
+<div id="box">
+<p>Product added to your cart</p>
+<ul>
+	<li><a href="/Home/Contact">Proceed to Checkout</a></li>
+</ul>
+</div>  
+
+<div id="paidinfull">
+    <div style="width:30px; height:30px; float:right;">
+        <a href="#" style="display:block; width:30px; height:30px;" class="pif"></a>
+    </div>
+    <div style="float:left; margin:392px 0 0 287px;">
+        <div class="left" style="padding-top:10px;">
+            <a href="#" class="pif" style="float:left;"><img src="/Assets/Global/images/btnNoThanks.png" /></a>
+        </div>
+        <div class="left" style="margin-left:5px;">
+         	<form action="/Add" method="post" onclick="Sys.Mvc.AsyncForm.handleClick(this, new Sys.UI.DomEvent(event));" onsubmit="Sys.Mvc.AsyncForm.handleSubmit(this, new Sys.UI.DomEvent(event), { insertionMode: Sys.Mvc.InsertionMode.replace, httpMethod: 'Post', loadingElementId: 'ItemAdding', onBegin: Function.createDelegate(this, begin), onFailure: Function.createDelegate(this, failed), onSuccess: Function.createDelegate(this, success) });">
+            <input type="hidden" name="OfferSEO" value="Your-Baby-Can-Read-Holiday-Bundle" />
+		    <input type="image" src="/Assets/Global/images/btnUpgrade.jpg" class="animate pif" />
+            </form>
+        </div>
+    </div>
+</div> 
+    
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-25753428-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+
+<script type="text/javascript">
+    //var gaJsHost = (("https:" == document.location.protocol) ? "https://www." : "http://www.");
+    //document.write(unescape("%3Cscript src='" + gaJsHost + "intellichat.com/launch/chat.php?cid=' type='text/javascript'%3E%3C/script%3E"));
+</script>     
+
+    
+
+</body>
+</html>

@@ -1,0 +1,24 @@
+{
+  "app": "cdc",
+  "country": "au",
+  "url": "https://apps.apple.com/au/app/cdcs-milestone-tracker/id1232718688?see-all=reviews",
+  "http_status": "200",
+  "raw_file": "_raw/reviews/cdc-au-reviews.html",
+  "corpus_file": "_raw/reviews/cdc-au-corpus.txt",
+  "reviews": [
+    {
+      "id": "10540165852",
+      "title": "Brilliant App",
+      "contents": "This is something brilliant to share with parents and caregivers as child health is a partnership with these great child raisers.",
+      "rating": 5,
+      "date": "2023-11-02T00:21:00.000Z"
+    },
+    {
+      "id": "8407073229",
+      "title": "Most of the reference videos don’t work",
+      "contents": "Most of the reference videos that have been included to give examples of what each milestone should look like, do not work.",
+      "rating": 1,
+      "date": "2022-03-01T00:22:25.000Z"
+    }
+  ]
+}

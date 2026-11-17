@@ -1,0 +1,13 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+Allow: /wp-admin/admin-ajax.php
+Disallow: /pdf
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+
+Sitemap: https://themontessorinotebook.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

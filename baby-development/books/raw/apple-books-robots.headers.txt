@@ -1,0 +1,27 @@
+HTTP/2 200 
+server: daiquiri/5
+etag: "a80d8ac546cd5d79f4755eef9144398a"
+cache-control: public, no-transform, max-age=300
+cdnuuid: 60bf447b-b156-4e6b-bbd8-c7e39139f430-258534495
+strict-transport-security: max-age=31536000; includeSubDomains
+x-apple-jingle-correlation-key: 3ML2NFJDTLAJIZBE2DI7ZD7KL4
+x-daiquiri-instance: daiquiri:38493001:pv50p00it-hyhk12043901:7987:26HOTFIX26:daiquiri-amp-all-shared-ext-001-pv
+x-daiquiri-debug-worker-pid: 58487
+x-daiquiri-instance: daiquiri:10001:daiquiri-all-shared-ext-547d47765d-vvrh5:7987:26HOTFIX26:daiquiri-amp-kubernetes-shared-ext-ak8s-prod-pv4-amp-daiquiri-ingress-prod
+x-daiquiri-debug-worker-pid: 279727
+expires: Sat, 23 May 2026 00:26:17 GMT
+last-modified: Fri, 13 Feb 2026 00:52:53 GMT
+content-type: text/plain
+x-apple-version-number: 2612.1.0
+x-responding-instance: silverbullet-external:4106:pv01p00it-vmsilverbullet006:8300:26C11
+x-apple-request-uuid: 6fb142ee-ecf6-2785-eb00-8e9865e350b7
+apple-seq: 0.0
+apple-tk: false
+apple-originating-system: UnknownOriginatingSystem
+date: Sun, 25 Oct 2026 08:29:09 GMT
+content-length: 471
+x-cache: TCP_REFRESH_HIT from a2-22-31-191.deploy.akamaitechnologies.com (AkamaiGHost/22.6.5-e48a1e600c03e7d517694b5b11b937be) (S)
+x-cache-remote: TCP_REFRESH_HIT from a96-16-52-174.deploy.akamaitechnologies.com (AkamaiGHost/22.6.5-e48a1e600c03e7d517694b5b11b937be) (S)
+set-cookie: geo=LT; domain=.apple.com
+alt-svc: h3=":443"; ma=93600
+

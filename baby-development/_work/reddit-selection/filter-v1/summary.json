@@ -1,0 +1,117 @@
+{
+  "niche": "development",
+  "label": "filter-v1",
+  "window": "2026-04-01 to 2026-10-25 (harvest)",
+  "totals": {
+    "scanned": 156551,
+    "B": 11096,
+    "C": 4919,
+    "A": 6801,
+    "unavailable": 572,
+    "safety": 938
+  },
+  "by_subreddit": {
+    "FirstTimeMom": {
+      "scanned": 4111,
+      "B": 158,
+      "C": 74,
+      "A": 83,
+      "unavailable": 28,
+      "safety": 11
+    },
+    "Mommit": {
+      "scanned": 19451,
+      "C": 493,
+      "safety": 206,
+      "A": 953,
+      "B": 1146,
+      "unavailable": 23
+    },
+    "Montessori": {
+      "scanned": 814,
+      "A": 174,
+      "C": 124,
+      "B": 222,
+      "safety": 10,
+      "unavailable": 79
+    },
+    "NewParents": {
+      "scanned": 27258,
+      "A": 1279,
+      "B": 2516,
+      "C": 1192,
+      "unavailable": 76,
+      "safety": 126
+    },
+    "Parenting": {
+      "scanned": 29349,
+      "B": 1625,
+      "A": 941,
+      "unavailable": 145,
+      "C": 590,
+      "safety": 138
+    },
+    "ScienceBasedParenting": {
+      "scanned": 3124,
+      "A": 96,
+      "C": 267,
+      "B": 295,
+      "unavailable": 13,
+      "safety": 25
+    },
+    "beyondthebump": {
+      "scanned": 16469,
+      "safety": 110,
+      "B": 1105,
+      "A": 722,
+      "C": 523,
+      "unavailable": 31
+    },
+    "beyondthebumpUK": {
+      "scanned": 6909,
+      "B": 459,
+      "unavailable": 13,
+      "C": 241,
+      "A": 301,
+      "safety": 38
+    },
+    "daddit": {
+      "scanned": 18390,
+      "C": 425,
+      "A": 526,
+      "B": 809,
+      "unavailable": 23,
+      "safety": 87
+    },
+    "sahm": {
+      "scanned": 4231,
+      "B": 247,
+      "C": 76,
+      "A": 231,
+      "unavailable": 10,
+      "safety": 20
+    },
+    "toddlers": {
+      "scanned": 20733,
+      "A": 1264,
+      "B": 2277,
+      "C": 856,
+      "safety": 146,
+      "unavailable": 130
+    },
+    "workingmoms": {
+      "scanned": 5712,
+      "A": 231,
+      "C": 58,
+      "B": 237,
+      "unavailable": 1,
+      "safety": 21
+    }
+  },
+  "card_chunks": 105,
+  "tier_rule": "A = topic + explicit purchase/paid-tool/brand signal or 2+ distinct pain words; B = topic + one pain word, a help question or a generic tool word (plan, method, guide, book, app, class, schedule, routine); C = topic only; safety = safety regex hit (inspected, not auto-dropped); non-core subs also need the niche's person regex",
+  "triaged": 0,
+  "kept": 0,
+  "read": 0,
+  "quoted": 0
+}

@@ -1,0 +1,41 @@
+# Public pages are open to search and AI crawlers. The same exclusions apply to all.
+# Search discovery and model training use different bots; existing training access remains allowed.
+User-agent: *
+Disallow: /guide
+Disallow: /course
+Disallow: /thank-you
+Disallow: /checkout
+Disallow: /gift-thank-you
+Disallow: /redeem
+Disallow: /start
+Disallow: /coming-soon
+Disallow: /dev
+Allow: /
+
+# AI crawlers get the same rules, plus unlisted pages kept out entirely. Search
+# engines must still crawl those to see their noindex header (next.config.ts).
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: GPTBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: ClaudeBot
+User-agent: PerplexityBot
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
+User-agent: meta-externalagent
+Disallow: /guide
+Disallow: /course
+Disallow: /thank-you
+Disallow: /checkout
+Disallow: /gift-thank-you
+Disallow: /redeem
+Disallow: /start
+Disallow: /coming-soon
+Disallow: /dev
+Disallow: /potty-from-birth
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.babyacrobatics.com/sitemap.xml

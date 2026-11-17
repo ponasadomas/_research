@@ -1,0 +1,24 @@
+{
+  "app": "cdc",
+  "country": "gb",
+  "url": "https://apps.apple.com/gb/app/cdcs-milestone-tracker/id1232718688?see-all=reviews",
+  "http_status": "200",
+  "raw_file": "_raw/reviews/cdc-gb-reviews.html",
+  "corpus_file": "_raw/reviews/cdc-gb-corpus.txt",
+  "reviews": [
+    {
+      "id": "13059767414",
+      "title": "Under 5 years only",
+      "contents": "It’s such a shame it doesn’t go up to 18 years old, but it’s not too bad for under 5 years… covers basics",
+      "rating": 2,
+      "date": "2025-08-25T17:45:42.000Z"
+    },
+    {
+      "id": "11281499304",
+      "title": "Start to a great app",
+      "contents": "This app has such great potential. I would love to have more data views and lists to check etc. It needs a bit more depth, to fully realise its concept.",
+      "rating": 1,
+      "date": "2024-05-18T19:08:22.000Z"
+    }
+  ]
+}

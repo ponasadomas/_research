@@ -1,0 +1,83 @@
+{
+  "bbysleep": {
+    "domain": "babysleepmiracle.com",
+    "url": "http://babysleepmiracle.com/aff",
+    "source": "clickbank-feed-2017-v1.xml; Id=BBYSLEEP"
+  },
+  "alicek1": {
+    "domain": "fiveminutesleep.com",
+    "url": "http://fiveminutesleep.com/affiliates",
+    "source": "clickbank-feed-2017-v1.xml; Id=ALICEK1"
+  },
+  "totspeech": {
+    "domain": "toddlerspeechboost.com",
+    "url": "http://www.toddlerspeechboost.com/affiliatesignup",
+    "source": "clickbank-feed-2017-v1.xml; Id=TOTSPEECH"
+  },
+  "signbaby": {
+    "domain": "signing4babies.com",
+    "url": "http://www.signing4babies.com?hop=brightbaby",
+    "source": "hopdomain-signbaby.cdx.tsv",
+    "note": "Seller target decoded from CBRehoppp2 in CDX original URL; timestamp=20120130164206; target page not fetched."
+  },
+  "d3w1r35s": {
+    "domain": "babydevelopmentnews.com",
+    "url": "http://www.babydevelopmentnews.com/babymilestoneguide.html?hop=lun4tic",
+    "source": "hopdomain-targets-d3w1r35s.cdx.tsv",
+    "note": "Seller target decoded from CBRehoppp2 in CDX original URL; timestamp=20130317024041; target page not fetched."
+  },
+  "angelsong7": {
+    "domain": "mommyjingles.com",
+    "url": "http://www.mommyjingles.com/introduction?hop=ahuat",
+    "source": "hopdomain-targets-angelsong7.cdx.tsv",
+    "note": "Seller target decoded from CBRehoppp2 in CDX original URL; timestamp=20150724235647; target page not fetched."
+  },
+  "babyswim": {
+    "domain": "teachbabytoswim.info",
+    "url": "http://teachbabytoswim.info?hop=tradeweb",
+    "source": "hopdomain-targets-babyswim.cdx.tsv",
+    "note": "Seller target decoded from CBRehoppp2 in CDX original URL; timestamp=20160314142827; target page not fetched."
+  },
+  "speakebook": {
+    "domain": "helpyourchildspeak.com",
+    "url": "http://www.helpyourchildspeak.com?hop=japonczyk",
+    "source": "hopdomain-targets-speakebook.cdx.tsv",
+    "note": "Seller target decoded from CBRehoppp2 in CDX original URL; timestamp=20130614125037; target page not fetched."
+  },
+  "qandrews02": {
+    "domain": "all-gifted-children.com",
+    "url": "http://www.all-gifted-children.com/package-c.htm?hop=maninchiba",
+    "source": "hopdomain-targets-qandrews02.cdx.tsv",
+    "note": "Seller target decoded from CBRehoppp2 in CDX original URL; timestamp=20130617145926; target page not fetched."
+  },
+  "speechbrg": {
+    "domain": "speechtherapytalk.com",
+    "url": "http://www.speechtherapytalk.com/Toddler-Talk-Clickbank.html?hop=imsrasad",
+    "source": "hopdomain-targets-speechbrg.cdx.tsv",
+    "note": "Seller target decoded from CBRehoppp2 in CDX original URL; timestamp=20190420115511; target page not fetched."
+  },
+  "mserv": {
+    "domain": "babysleepsolution.com",
+    "url": "http://www.babysleepsolution.com/tcf/TAFX.php?hop=abook4you",
+    "source": "hopdomain-targets-mserv.cdx.tsv",
+    "note": "Seller target decoded from CBRehoppp2 in CDX original URL; timestamp=20110202152109; target page not fetched."
+  },
+  "maxteiner2": {
+    "domain": "magiclullabies.com",
+    "url": "http://www.magiclullabies.com/?hop=ossie",
+    "source": "hopdomain-targets-maxteiner2.cdx.tsv",
+    "note": "Seller target decoded from CBRehoppp2 in CDX original URL; timestamp=20131020210334; target page not fetched."
+  },
+  "lifemusic": {
+    "domain": "instantbabysleep.com",
+    "url": "http://www.instantbabysleep.com/get-your-baby-to-sleep?hop=maninchiba",
+    "source": "hopdomain-targets-lifemusic.cdx.tsv",
+    "note": "Seller target decoded from CBRehoppp2 in CDX original URL; timestamp=20130511224241; target page not fetched."
+  },
+  "prd123": {
+    "domain": "newstorktimes.co.uk",
+    "url": "http://www.newstorktimes.co.uk/shop/?hop=cyberzoo",
+    "source": "hopdomain-prd123-header.txt.headers.json",
+    "note": "Seller target decoded from CBRehoppp2 in the saved archived hop Location header; timestamp=20121124224433; redirect target not fetched; /shop/ may be a catalogue rather than a long-form letter."
+  }
+}

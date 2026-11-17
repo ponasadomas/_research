@@ -1,0 +1,31 @@
+{
+  "app": "bloomie",
+  "country": "us",
+  "url": "https://apps.apple.com/us/app/bloomie-baby-tracker-play/id6787718356?see-all=reviews",
+  "http_status": "200",
+  "raw_file": "_raw/reviews/bloomie-us-reviews.html",
+  "corpus_file": "_raw/reviews/bloomie-us-corpus.txt",
+  "reviews": [
+    {
+      "id": "14419790393",
+      "title": "Best and most useful app",
+      "contents": "Finally an app that actually has helpful information that is up to date and is easy to follow. My son is 11 months. He is finally sleeping through the night and eating so much better. My hair was starting to fall out just from stress and I feel better than I have my entire time of being a mother. So much has changed from using this app it’s insane",
+      "rating": 5,
+      "date": "2026-08-12T19:10:30.000Z"
+    },
+    {
+      "id": "14455090186",
+      "title": "Great app!",
+      "contents": "This app has been soooo helpful as a first time mom. I especially love the wake window activities as that is something I have always struggled with. It gave me so much piece of mind to have all my information in one app that was easy to use and navigate. It is filled with so much helpful information and I also love how it predicts my baby’s sleep windows based on his sleep patterns. Such a cool app!",
+      "rating": 5,
+      "date": "2026-08-21T14:43:56.000Z"
+    },
+    {
+      "id": "14670259312",
+      "title": "A lot of bugs",
+      "contents": "This app is great aside from so many bugs and glitches. If you hit certain categories the app just closes and the actual links don’t open under the tools tab. Really disappointing because the app it’s self has a lot of great de",
+      "rating": 3,
+      "date": "2026-10-15T16:59:16.000Z"
+    }
+  ]
+}

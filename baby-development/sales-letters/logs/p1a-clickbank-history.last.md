@@ -1,0 +1,3 @@
+Created the [28-row candidate list](/home/thinkpad/GitHub/ads/mamivio.com/research/development/sales-letters/candidates-A.tsv) and [report with ten priorities](/home/thinkpad/GitHub/ads/mamivio.com/research/development/sales-letters/logs/p1a-report.md).
+
+14 seller domains resolved; 14 remain unresolved. The list includes 11 labelled sleep-adjacent leads. All 42 fetches were logged. Stayed within the 120-request cap; no sales pages fetched.

@@ -1,0 +1,2858 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<link href='https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:32,height:32/https://file-uploads.teachablecdn.com/3345e0c348194a7ba507d689b13145f1/5e2c246a7ccf47bc9e58f16f1b7033cb' rel='icon' type='image/png'>
+<link href='https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:72,height:72/https://file-uploads.teachablecdn.com/3345e0c348194a7ba507d689b13145f1/5e2c246a7ccf47bc9e58f16f1b7033cb' rel='apple-touch-icon' type='image/png'>
+<link href='https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:144,height:144/https://file-uploads.teachablecdn.com/3345e0c348194a7ba507d689b13145f1/5e2c246a7ccf47bc9e58f16f1b7033cb' rel='apple-touch-icon' type='image/png'>
+<link href='https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:320,height:345/https://file-uploads.teachablecdn.com/0a0bfaeb4e314a38bd15aa2fa91c14f1/af3aed1f0a40446088dd8b32f552f317' rel='apple-touch-startup-image' type='image/png'>
+<link href='https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:640,height:690/https://file-uploads.teachablecdn.com/0a0bfaeb4e314a38bd15aa2fa91c14f1/af3aed1f0a40446088dd8b32f552f317' rel='apple-touch-startup-image' type='image/png'>
+<meta name='apple-mobile-web-app-capable' content='yes' />
+<meta charset="UTF-8">
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="eQ88pwCK5Thh9O99k4jrgDd/sgIol/wV1l2A+IT+T0vIaO0Fp+SO+oXfSff92v1IOeZh2q6UpBQV5srkLU9JhA==" />
+<style type='text/css'>:root{--brand_primary: #72A688;--brand_secondary: #F69D9D;--brand_heading: #FFF;--brand_text: #2b3636;--brand_navbar_text: #fff;--brand_navbar_fixed_text: #fff;--brand_homepage_heading: #FFF;--brand_course_heading: #FFF;--brand_video_player_color: #72A688;--font_family:Lato;} @font-face {
+  font-family: 'Lato';
+  src: url("//assets.teachablecdn.com/fonts/lato/Lato-LightItalic.eot");
+  src: url("//assets.teachablecdn.com/fonts/lato/Lato-LightItalic.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/lato/Lato-LightItalic.woff") format("woff"), url("//assets.teachablecdn.com/fonts/lato/Lato-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Lato';
+  src: url("//assets.teachablecdn.com/fonts/lato/Lato-Regular.eot");
+  src: url("//assets.teachablecdn.com/fonts/lato/Lato-Regular.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/lato/Lato-Regular.woff") format("woff"), url("//assets.teachablecdn.com/fonts/lato/Lato-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Lato';
+  src: url("//assets.teachablecdn.com/fonts/lato/Lato-BlackItalic.eot");
+  src: url("//assets.teachablecdn.com/fonts/lato/Lato-BlackItalic.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/lato/Lato-BlackItalic.woff") format("woff"), url("//assets.teachablecdn.com/fonts/lato/Lato-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Lato';
+  src: url("//assets.teachablecdn.com/fonts/lato/Lato-Light.eot");
+  src: url("//assets.teachablecdn.com/fonts/lato/Lato-Light.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/lato/Lato-Light.woff") format("woff"), url("//assets.teachablecdn.com/fonts/lato/Lato-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Lato';
+  src: url("//assets.teachablecdn.com/fonts/lato/Lato-Bold.eot");
+  src: url("//assets.teachablecdn.com/fonts/lato/Lato-Bold.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/lato/Lato-Bold.woff") format("woff"), url("//assets.teachablecdn.com/fonts/lato/Lato-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Lato';
+  src: url("//assets.teachablecdn.com/fonts/lato/Lato-Italic.eot");
+  src: url("//assets.teachablecdn.com/fonts/lato/Lato-Italic.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/lato/Lato-Italic.woff") format("woff"), url("//assets.teachablecdn.com/fonts/lato/Lato-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Lato';
+  src: url("//assets.teachablecdn.com/fonts/lato/Lato-BoldItalic.eot");
+  src: url("//assets.teachablecdn.com/fonts/lato/Lato-BoldItalic.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/lato/Lato-BoldItalic.woff") format("woff"), url("//assets.teachablecdn.com/fonts/lato/Lato-BoldItalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Lato';
+  src: url("//assets.teachablecdn.com/fonts/lato/Lato-Black.eot");
+  src: url("//assets.teachablecdn.com/fonts/lato/Lato-Black.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/lato/Lato-Black.woff") format("woff"), url("//assets.teachablecdn.com/fonts/lato/Lato-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap; }
+</style>
+<link rel="stylesheet" media="screen" href="https://fedora.teachablecdn.com/assets/pages-b974df9a704f87d5f07a257e46146b6808cf99f47e933ee4932aece2a0219416.css" />
+<style></style>
+<title>The Montessori Babies Course - Promo | Baby Tour Guide</title>
+<link rel="canonical" href="https://babytourguide.teachable.com/p/the-montessori-babies-course-promo">
+<meta property="og:image" content="https://file-uploads.teachablecdn.com/4777ef3e3c9f4e6bb11aa77c5a27c6f1/29b1ab7318824d529c738cf4f360d19f">
+<meta property="og:title" content="The Montessori Babies Course - Promo">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://babytourguide.teachable.com/p/the-montessori-babies-course-promo">
+<meta name="brand_video_player_color" content="#72A688">
+<meta name="site_title" content="Baby Tour Guide">
+<script src='//fast.wistia.com/assets/external/E-v1.js'></script>
+<script src='https://www.recaptcha.net/recaptcha/api.js' async defer></script>
+
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f.fbq)f.fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('dataProcessingOptions', ['LDU'], 0, 0);
+fbq('init', '667802281749806');
+fbq('track', 'PageView');
+</script>
+<noscript>
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=667802281749806&ev=PageView&noscript=1"/>
+</noscript>
+
+<meta name="asset_host" content="https://fedora.teachablecdn.com">
+<script src="https://fedora.teachablecdn.com/packs/pages--5fc481238d49daf046a8.js"></script>
+<meta id='iris-url' data-iris-url=https://eventable.teachable.cloud />
+<script type="text/javascript">
+  window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=document.createElement("script");r.type="text/javascript",r.async=!0,r.src="https://cdn.heapanalytics.com/js/heap-"+e+".js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(r,a);for(var n=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","resetIdentity","removeEventProperty","setEventProperties","track","unsetEventProperty"],o=0;o<p.length;o++)heap[p[o]]=n(p[o])},heap.load("318805607");
+  window.heapShouldTrackUser = true;
+</script>
+<script type="text/javascript">
+  var _user_id = ''; // Set to the user's ID, username, or email address, or '' if not yet known.
+  var _session_id = '86f3926c0a39469442f552d1ceb18c74'; // Set to a unique session ID for the visitor's current browsing session.
+
+  var _sift = window._sift = window._sift || [];
+  _sift.push(['_setAccount', '2e541754ec']);
+  _sift.push(['_setUserId', _user_id]);
+  _sift.push(['_setSessionId', _session_id]);
+  _sift.push(['_trackPageview']);
+
+  (function() {
+    function ls() {
+      var e = document.createElement('script');
+      e.src = 'https://cdn.sift.com/s.js';
+      document.body.appendChild(e);
+    }
+    if (window.attachEvent) {
+      window.attachEvent('onload', ls);
+    } else {
+      window.addEventListener('load', ls, false);
+    }
+  })();
+</script>
+<script>
+  if(typeof ga != 'function') {
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  }
+  ga('create', 'UA-44397410-1', 'auto', {'name': 'fedoraTracker', 'allowLinker': true});
+  ga('fedoraTracker.set', 'anonymizeIp', false);
+  ga('fedoraTracker.require', 'linker');
+  ga('fedoraTracker.linker:autoLink', ['babytourguide.teachable.com',  'sso.teachable.com'], false, true );
+  ga('fedoraTracker.require', 'ecommerce');
+  ga('fedoraTracker.require', 'ec');
+  ga('fedoraTracker.send', 'pageview');
+  ga('create', 'UA-44397410-4', 'auto', {'name': 'teachableTracker', 'allowLinker': true});
+  ga('teachableTracker.set', 'anonymizeIp', false);
+  ga('teachableTracker.require', 'linker');
+  ga('teachableTracker.linker:autoLink', ['babytourguide.teachable.com', 'sso.teachable.com'], false, true );
+  ga('teachableTracker.require', 'ecommerce');
+  ga('teachableTracker.require', 'ec');
+  ga('teachableTracker.send', 'pageview');
+</script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+<body class="revamped_lecture_player">
+<meta http-content='IE=Edge' http-equiv='X-UA-Compatible'>
+<meta content='width=device-width,initial-scale=1.0' name='viewport'>
+<meta id="fedora-keys" data-commit-sha="7a31b13f923812aeba8e69c66dc69f55799da256" data-env="production" data-sentry-public-dsn="https://8149a85a83fa4ec69640c43ddd69017d@sentry.io/120346" data-stripe="pk_live_hkgvgSBxG4TAl3zGlXiB1KUX" data-track-all-ahoy="false" data-track-changes-ahoy="false" data-track-clicks-ahoy="false" data-track-sumbits-ahoy="false" data-filepicker="ADNupMnWyR7kCWRvm76Laz" data-iris-url="https://eventable.teachable.cloud" /><meta id="fedora-data" data-report-card="{}" data-course-ids="[]" data-completed-lecture-ids="[]" data-school-id="880597" data-school-launched="true" data-preview="logged_out" data-turn-off-fedora-branding="true" data-plan-supports-whitelabeling="true" data-powered-by-text="Powered by" data-asset-path="//https://fedora.teachablecdn.com/assets/footer/teachable-logomark-white-31d2296978598bacace50e6d48a2e1223c20a9b074af424acdd465676f81560f.svg" data-school-preferences="{&quot;ssl_forced&quot;:&quot;true&quot;,&quot;anonymize_ips&quot;:&quot;false&quot;,&quot;paypal_enabled&quot;:&quot;false&quot;,&quot;autoplay_lectures&quot;:&quot;true&quot;,&quot;comments_threaded&quot;:&quot;true&quot;,&quot;community_enabled&quot;:&quot;false&quot;,&quot;course_blocks_beta&quot;:&quot;true&quot;,&quot;eu_vat_tax_enabled&quot;:&quot;false&quot;,&quot;legacy_back_office&quot;:&quot;false&quot;,&quot;themeable_disabled&quot;:&quot;false&quot;,&quot;back_office_enabled&quot;:&quot;false&quot;,&quot;comments_moderation&quot;:&quot;true&quot;,&quot;eu_vat_tax_eligible&quot;:&quot;true&quot;,&quot;charge_exclusive_tax&quot;:&quot;true&quot;,&quot;send_receipts_emails&quot;:&quot;true&quot;,&quot;autocomplete_lectures&quot;:&quot;true&quot;,&quot;class_periods_enabled&quot;:&quot;false&quot;,&quot;tax_inclusive_pricing&quot;:&quot;false&quot;,&quot;authors_can_manage_pbc&quot;:&quot;true&quot;,&quot;css_properties_enabled&quot;:&quot;false&quot;,&quot;preenrollments_enabled&quot;:&quot;false&quot;,&quot;new_text_editor_enabled&quot;:&quot;false&quot;,&quot;require_terms_agreement&quot;:&quot;true&quot;,&quot;send_new_comment_emails&quot;:&quot;true&quot;,&quot;send_drip_content_emails&quot;:&quot;true&quot;,&quot;ssl_forced_from_creation&quot;:&quot;true&quot;,&quot;turn_off_fedora_branding&quot;:&quot;true&quot;,&quot;allow_comment_attachments&quot;:&quot;true&quot;,&quot;authors_can_email_students&quot;:&quot;false&quot;,&quot;authors_can_manage_coupons&quot;:&quot;false&quot;,&quot;custom_email_limit_applied&quot;:&quot;false&quot;,&quot;teachable_accounts_enabled&quot;:&quot;true&quot;,&quot;teachable_payments_enabled&quot;:&quot;true&quot;,&quot;authors_can_import_students&quot;:&quot;false&quot;,&quot;authors_can_publish_courses&quot;:&quot;false&quot;,&quot;internal_subscriptions_beta&quot;:&quot;true&quot;,&quot;recaptcha_enabled_on_signup&quot;:&quot;true&quot;,&quot;display_vat_inclusive_prices&quot;:&quot;true&quot;,&quot;single_page_checkout_enabled&quot;:&quot;true&quot;,&quot;authors_can_set_course_prices&quot;:&quot;false&quot;,&quot;send_lead_confirmation_emails&quot;:&quot;true&quot;,&quot;affiliate_cookie_duration_days&quot;:&quot;365&quot;,&quot;authors_can_issue_certificates&quot;:&quot;false&quot;,&quot;store_student_cards_separately&quot;:&quot;true&quot;,&quot;authors_can_manage_certificates&quot;:&quot;false&quot;,&quot;authors_can_manage_course_pages&quot;:&quot;false&quot;,&quot;prevent_new_coupon_applications&quot;:&quot;true&quot;,&quot;disable_js_course_event_tracking&quot;:&quot;false&quot;,&quot;exclusive_vat_on_custom_gateways&quot;:&quot;true&quot;,&quot;is_edit_site_onboarding_complete&quot;:&quot;false&quot;,&quot;send_certificate_issuance_emails&quot;:&quot;true&quot;,&quot;owner_teachable_accounts_required&quot;:&quot;true&quot;,&quot;prevent_payment_plan_cancellation&quot;:&quot;true&quot;,&quot;send_subscription_reminder_emails&quot;:&quot;true&quot;,&quot;automatically_add_disqus_attachments&quot;:&quot;true&quot;,&quot;recalc_course_pct_on_lecture_publish&quot;:&quot;false&quot;,&quot;send_confirmation_instructions_emails&quot;:&quot;true&quot;,&quot;send_limited_time_unenrollment_emails&quot;:&quot;true&quot;,&quot;turn_off_myteachable_sign_up_branding&quot;:&quot;false&quot;}" data-accessible-features="[&quot;bulk_enroll_students&quot;,&quot;manually_importing_users&quot;,&quot;native_certificates&quot;,&quot;earnings_statements&quot;,&quot;teachable_payments&quot;,&quot;teachable_u&quot;,&quot;course_compliance&quot;,&quot;page_editor_v2&quot;,&quot;page_editor_v2_only&quot;,&quot;certificates_editor_v2&quot;,&quot;drip_content&quot;,&quot;custom_domain&quot;,&quot;coupons&quot;,&quot;graded_quizzes&quot;,&quot;email&quot;,&quot;course_reports&quot;,&quot;webhooks&quot;,&quot;integrations&quot;,&quot;zapier_action_create_user&quot;,&quot;teachable_payments_payout_view&quot;,&quot;upsells&quot;,&quot;facebook_pixel&quot;,&quot;user_search_filters&quot;,&quot;user_tags&quot;,&quot;multiple_course_pages&quot;,&quot;proration_upgrade_flow&quot;,&quot;cross_border_payments&quot;,&quot;limited_time_enrollments&quot;,&quot;sales_tax_on_student_checkout&quot;,&quot;warroom_jan_22_blocks&quot;,&quot;paid_integrations&quot;,&quot;new_device_confirmation&quot;,&quot;elasticsearch_users&quot;,&quot;elasticsearch_transactions&quot;,&quot;reset_progress&quot;,&quot;fraud_warnings&quot;,&quot;paypal_through_tp&quot;,&quot;new_creator_checkout&quot;,&quot;circle_oauth&quot;]" data-course-data="{&quot;is_lecture_order_enforced&quot;:false,&quot;is_minimum_quiz_score_enforced&quot;:false,&quot;is_video_completion_enforced&quot;:false,&quot;minimum_quiz_score&quot;:0.0,&quot;maximum_quiz_retakes&quot;:0}" data-course-url="https://babytourguide.teachable.com/courses/1646361" data-course-id="1646361" /><meta id="analytics-keys" name="analytics" data-analytics="{&quot;Google Analytics&quot;:{&quot;trackingId&quot;:&quot;UA-1759154612&quot;,&quot;enhancedEcommerce&quot;:true,&quot;sendUserId&quot;:true,&quot;schoolDomain&quot;:&quot;babytourguide.teachable.com&quot;,&quot;anonymizeIp&quot;:true}}" />
+<div class="root" onclick="offMenu(event)">
+
+
+<a id="top"></a>
+<style id="ncs">
+  :root {
+    
+    --header_width: 960px;
+  }
+</style>
+<header id="header" class="header header-sticky">
+
+<nav class="navbar is-not-signed-in navbar-course-hero  at-top" id='navbar' role='navigation'>
+<div class='navbar__header'>
+
+<a class='navbar__header__logolink' href='https://babytourguide.teachable.com'>
+<img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:60/https://file-uploads.teachablecdn.com/5a7f2fa66f684bf3bec8630195ca41f1/79cfe18b41054e01900b88cd89cd6534" alt="Baby Tour Guide" srcset="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:120/https://file-uploads.teachablecdn.com/5a7f2fa66f684bf3bec8630195ca41f1/79cfe18b41054e01900b88cd89cd6534 2x" />
+</a>
+
+<div class="navbar__menu">
+<button for="f-toggle" tabindex="0" role="button" id="hamburger" class="hamburger" aria-label="Toggle navigation" onclick="toggleMenu('hamburger-menu')">
+<span></span>
+</button>
+<ul class='navbar__menu__list menu hidden' id="hamburger-menu" role="menu" aria-describedby="hamburger" tabindex="0">
+
+<li>
+<a href='/sign_in'>
+Login
+</a>
+</li>
+<li>
+<a href='/sign_up'>
+Sign Up
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+</header>
+<main class='view-school page-layout-v2 main'>
+<div id="blocks" data-ss-school-id='880597' class="blocks-page blocks-page-course_sales_page_v2 ">
+
+<style type='text/css'>.b-129446910-top { padding-top: 22.400000000000002px; } .b-129446910-bottom { padding-bottom: 22.400000000000002px; } .b-129446910-alignment { text-align: center; } .b-129446910-content_width { max-width: 668px; } .b-129446910-image_overlay { opacity: 0.8; } .b-129446910-background_color { background-color: #543523; } .b-129446910-heading_text_color { color: #ffffff; } .b-129446910-button_border_radius { border-radius: 25px; } .b-129446910-subheading_text_color { color: #ffffff; }</style>
+<div class="course-block block banner  " id="block-129446910">
+<style>
+    
+      .banner .b-129446910-heading_text_color {
+        color: #ffffff
+      }
+    
+
+    
+      .banner .b-129446910-subheading_text_color {
+        color: #ffffff
+      }
+    
+
+    .banner__button.b-129446910-button_border_radius {
+      border-radius: 25;
+    }
+
+    @media screen and (min-width: 768px) {
+      .b-129446910-top {
+        padding-top: 40px;
+      }
+      .b-129446910-bottom {
+        padding-bottom: 40px;
+      }
+    }
+    .bl {
+      width: 100%;
+    }
+  </style>
+<section class="banner b-129446910-background_color">
+<img src='https://cdn.fs.teachablecdn.com/08p2viBdScmlLmaPeuNz' alt='' data-target="block.data.image_url " class=b-129446910-image_overlay />
+<div class="bl">
+<div class="banner__inner b-129446910-alignment b-129446910-bottom b-129446910-top b-129446910-content_width">
+<div class="banner__heading-group heading-type-h2">
+<div data-target="block.data.heading_text" class="header b-129446910-heading_text_color rich-text">
+<h2><strong>The Montessori Babies Course </strong></h2><p><br></p>
+</div>
+<div data-target="block.data.subheading_text" class="subheader b-129446910-subheading_text_color rich-text">
+<h4 class="ql-align-center"><strong>Ease into your Montessori journey equipped with the knowledge, skills, and confidence to create a Montessori Experience that optimizes your baby’s development every step of the way!</strong></h4>
+</div>
+</div>
+<div class="banner__button-wrapper">
+<a href='https://babytourguide.teachable.com/purchase?product_id=3768385' target="_blank" rel="noopener">
+<button class='banner__button b-129446910-button_border_radius base-button' data-target="block.data.button_text">
+Sign Me Up! (PROMO INSIDE)
+</button>
+</a>
+</div>
+</div>
+</div>
+</section>
+</div>
+
+<style type='text/css'>.b-129446911-top { padding-top: 33.6px; } .b-129446911-bottom { padding-bottom: 33.6px; } .b-129446911-text_color { color: #000000; } .b-129446911-content_width { max-width: 590px; } .b-129446911-background_color { background-color: #F2E0D0; } .b-129446911-heading_text_color { color: #000000; }</style>
+<div class="course-block block text block-custom-name-brain-facts " id="block-129446911">
+<style>
+
+  .block__text .b-129446911-text_color {
+    color: #000000
+  }
+
+
+
+  .block__text .b-129446911-content_width {
+    width: 590px;
+  }
+
+
+
+  .block__text .b-129446911-heading_text_color h1,
+  .block__text .b-129446911-heading_text_color h2,
+  .block__text .b-129446911-heading_text_color h3,
+  .block__text .b-129446911-heading_text_color h4,
+  .block__text .b-129446911-heading_text_color h5,
+  .block__text .b-129446911-heading_text_color h6 {
+    color: #000000
+  }
+
+
+  .block__text .block__text-wrapper h2{
+    margin-bottom: 2px;
+  }
+
+  .block__text .block__text-wrapper h3{
+    margin-bottom: 5px;
+  }
+
+  .block__text .block__text-wrapper h4{
+    margin-bottom: 9px;
+  }
+
+  .block__text .block__text-wrapper h5{
+    margin-bottom: 11px;
+  }
+
+  .block__text .block__text-wrapper h6{
+    margin-bottom: 14px;
+  }
+
+@media screen and (min-width: 768px) {
+  .b-129446911-top {
+    padding-top: 60px;
+  }
+  .b-129446911-bottom {
+    padding-bottom: 60px;
+  }
+}
+</style>
+<section class='container bl block__text rich-text b-129446911-top b-129446911-bottom b-129446911-background_color'>
+<div class="block__text-wrapper b-129446911-content_width b-129446911-heading_text_color b-129446911-text_color" data-target="block.data.body">
+<h3 class="ql-align-center"><strong>We Now Know...</strong></h3><h4>⭐️ Babies are born with 100 billion neurons (all the neurons they'll ever have)!</h4><h4>⭐️ Babies brains double in size during their first year!</h4><h4>⭐️ Every second babies make at least 1 million brain connections!</h4><h4>⭐️ Infancy sees the fastest rate of brain development of their life!<br class="softbreak">
+</h4>
+</div>
+</section>
+</div>
+
+<style type='text/css'>.b-129446912-top { padding-top: 33.6px; } .b-129446912-bottom { padding-bottom: 33.6px; } .b-129446912-text_color { color: #36414D; } .b-129446912-content_width { max-width: 590px; } .b-129446912-background_color { background-color: #72A688; } .b-129446912-heading_text_color { color: #ffffff; }</style>
+<div class="course-block block text block-custom-name-what-if " id="block-129446912">
+<style>
+
+  .block__text .b-129446912-text_color {
+    color: #36414D
+  }
+
+
+
+  .block__text .b-129446912-content_width {
+    width: 590px;
+  }
+
+
+
+  .block__text .b-129446912-heading_text_color h1,
+  .block__text .b-129446912-heading_text_color h2,
+  .block__text .b-129446912-heading_text_color h3,
+  .block__text .b-129446912-heading_text_color h4,
+  .block__text .b-129446912-heading_text_color h5,
+  .block__text .b-129446912-heading_text_color h6 {
+    color: #ffffff
+  }
+
+
+  .block__text .block__text-wrapper h2{
+    margin-bottom: 2px;
+  }
+
+  .block__text .block__text-wrapper h3{
+    margin-bottom: 5px;
+  }
+
+  .block__text .block__text-wrapper h4{
+    margin-bottom: 9px;
+  }
+
+  .block__text .block__text-wrapper h5{
+    margin-bottom: 11px;
+  }
+
+  .block__text .block__text-wrapper h6{
+    margin-bottom: 14px;
+  }
+
+@media screen and (min-width: 768px) {
+  .b-129446912-top {
+    padding-top: 60px;
+  }
+  .b-129446912-bottom {
+    padding-bottom: 60px;
+  }
+}
+</style>
+<section class='container bl block__text rich-text b-129446912-top b-129446912-bottom b-129446912-background_color'>
+<div class="block__text-wrapper b-129446912-content_width b-129446912-heading_text_color b-129446912-text_color" data-target="block.data.body">
+<h3 class="ql-align-center">
+<strong>What if you had a step-by-step guide to understand, create, build, and implement a Montessori experience that optimizes the development of <em>your</em> baby? </strong>🤍<br class="softbreak">
+</h3>
+</div>
+</section>
+</div>
+
+<style type='text/css'>.b-129446913-top { padding-top: 7.280000000000001px; } .b-129446913-bottom { padding-bottom: 0.0px; } .b-129446913-text_color { color: #36414D; } .b-129446913-content_width { max-width: 590px; } .b-129446913-background_color { background-color: #D6854F; } .b-129446913-heading_text_color { color: #ffffff; }</style>
+<div class="course-block block text block-custom-name-introducing " id="block-129446913">
+<style>
+
+  .block__text .b-129446913-text_color {
+    color: #36414D
+  }
+
+
+
+  .block__text .b-129446913-content_width {
+    width: 590px;
+  }
+
+
+
+  .block__text .b-129446913-heading_text_color h1,
+  .block__text .b-129446913-heading_text_color h2,
+  .block__text .b-129446913-heading_text_color h3,
+  .block__text .b-129446913-heading_text_color h4,
+  .block__text .b-129446913-heading_text_color h5,
+  .block__text .b-129446913-heading_text_color h6 {
+    color: #ffffff
+  }
+
+
+  .block__text .block__text-wrapper h2{
+    margin-bottom: 2px;
+  }
+
+  .block__text .block__text-wrapper h3{
+    margin-bottom: 5px;
+  }
+
+  .block__text .block__text-wrapper h4{
+    margin-bottom: 9px;
+  }
+
+  .block__text .block__text-wrapper h5{
+    margin-bottom: 11px;
+  }
+
+  .block__text .block__text-wrapper h6{
+    margin-bottom: 14px;
+  }
+
+@media screen and (min-width: 768px) {
+  .b-129446913-top {
+    padding-top: 13px;
+  }
+  .b-129446913-bottom {
+    padding-bottom: 0px;
+  }
+}
+</style>
+<section class='container bl block__text rich-text b-129446913-top b-129446913-bottom b-129446913-background_color'>
+<div class="block__text-wrapper b-129446913-content_width b-129446913-heading_text_color b-129446913-text_color" data-target="block.data.body">
+<h1 class="ql-align-center"><strong><u>Introducing...</u></strong></h1>
+</div>
+</section>
+</div>
+
+<style type='text/css'>.b-129446914-top { padding-top: 22.400000000000002px; } .b-129446914-bottom { padding-bottom: 22.400000000000002px; } .b-129446914-full_bleed { --full_bleed: false; } .b-129446914-content_width { width: 960px; } .b-129446914-background_color { background-color: #D6854F; } .b-129446914-image_border_radius { border-radius: 0px; }</style>
+<div class="course-block block image block-custom-name-monti-babies-course " id="block-129446914">
+<style>
+
+  .block__image__image.b-129446914-image_border_radius {
+    border-radius: 0px;
+  }
+
+  @media screen and (min-width: 768px) {
+    .b-129446914-top {
+      padding-top: 40px;
+    }
+    .b-129446914-bottom {
+      padding-bottom: 40px;
+    }
+  }
+</style>
+<section class='bl container block__image b-129446914-background_color b-129446914-top b-129446914-bottom '>
+<div class="block__image__wrapper b-129446914-content_width">
+<img src='https://cdn.fs.teachablecdn.com/0dXPqhPORsKqSjBmabMc' alt='' data-target="block.data.image_url block.data.alt_text" class="block__image__image b-129446914-image_border_radius" />
+</div>
+</section>
+</div>
+
+<style type='text/css'>.b-129446915-top { padding-top: 22.400000000000002px; } .b-129446915-bottom { padding-bottom: 22.400000000000002px; } .b-129446915-text_color { color: #000000; } .b-129446915-gutter_width { --gutter-width: 24px; } .b-129446915-content_width { width: 960px; } .b-129446915-heading_color { color: #000000; } .b-129446915-text_alignment { text-align: center; } .b-129446915-background_color { background-color: #F2E0D0; } .b-129446915-image_border_radius { border-radius: 0px; }</style>
+<div class="course-block block image_with_text block-custom-name-you-will-learn " id="block-129446915">
+<style>
+
+  .block__image-with-text .b-129446915-text_color {
+    color: #000000;
+  }
+
+
+
+  .block__image-with-text.b-129446915-background_color {
+    background-color: #F2E0D0;
+  }
+
+
+
+  .block__image-with-text .b-129446915-heading_color .block__image-with-text__inner__heading {
+    color: #000000;
+  }
+
+
+
+  .block__image-with-text .b-129446915-text_alignment {
+    text-align: center;
+  }
+
+
+  .block__image-with-text__image.b-129446915-image_border_radius {
+    border-radius: 0px;
+  }
+
+  .block__image-with-text .block__image-with-text__inner__heading h2{
+    margin-bottom: 2px;
+  }
+
+  .block__image-with-text .block__image-with-text__inner__heading h3{
+    margin-bottom: 5px;
+  }
+
+  .block__image-with-text .block__image-with-text__inner__heading h4{
+    margin-bottom: 9px;
+  }
+
+  .block__image-with-text .block__image-with-text__inner__heading h5{
+    margin-bottom: 11px;
+  }
+
+  .block__image-with-text .block__image-with-text__inner__heading h6{
+    margin-bottom: 14px;
+  }
+
+@media screen and (min-width: 768px) {
+  .b-129446915-top {
+    padding-top: 40px;
+  }
+  .b-129446915-bottom {
+    padding-bottom: 40px;
+  }
+  
+    .b-129446915-gutter_width .block__image-with-text__text-wrapper {
+      width: calc(50% - 12px);
+      
+        margin-left: 12px;
+      
+    }
+    .b-129446915-gutter_width div.block__image-with-text__image {
+      width: calc(50% - 12px);
+      
+        margin-right: 12px;
+      
+    }
+  
+}
+</style>
+<section class='bl container block__image-with-text b-129446915-background_color b-129446915-top b-129446915-bottom b-129446915-gutter_width image-with-text-layout-left'>
+<div class="b-129446915-content_width block__image-with-text__wrapper b-129446915-heading_color b-129446915-text_color b-129446915-text_alignment">
+<div class="block__image-with-text__inner block__image-with-text__image">
+<img src='https://cdn.fs.teachablecdn.com/40wqBeVYT1Ccd7ij00cy' alt='' data-target="block.data.image_url block.data.alt_text" class="block__image-with-text__image b-129446915-image_border_radius image" />
+</div>
+<div class="block__image-with-text__inner block__image-with-text__text-wrapper rich-text">
+<div class="block__image-with-text__inner__heading">
+<h4><strong><u>In this course you will learn how to:</u></strong></h4>
+</div>
+<p>✔️ Build an in-home Montessori experience for your baby and family through a go-at-your-own-pace guide</p><p>✔️ Use a foundational understanding of Baby Development to then implement Montessori with your baby</p><p>✔️ Set up your home environment for each stage of baby development (even with limited space)</p><p>✔️ Understand how to "follow your child"</p><p>✔️ Use the Montessori Approach in everyday baby interactions and experiences to optimize their development</p><p>✔️ Find, offer, set out, and use Montessori Baby Toys/Materials</p><p>✔️ Use the Montessori, Baby Development, and Positive Approaches to handling phases, transitions, and behaviors</p><p>✔️ Be your best, most inspired, empowered, prepared self for this beautiful stage in development. ❤️</p>
+</div>
+</div>
+</section>
+</div>
+
+<style type='text/css'>.b-129446916-top { padding-top: 33.6px; } .b-129446916-bottom { padding-bottom: 33.6px; } .b-129446916-text_color { color: #ffffff; } .b-129446916-content_width { max-width: 590px; } .b-129446916-background_color { background-color: #72A688; } .b-129446916-heading_text_color { color: #ffffff; }</style>
+<div class="course-block block text block-custom-name-this-course-100%-online-program " id="block-129446916">
+<style>
+
+  .block__text .b-129446916-text_color {
+    color: #ffffff
+  }
+
+
+
+  .block__text .b-129446916-content_width {
+    width: 590px;
+  }
+
+
+
+  .block__text .b-129446916-heading_text_color h1,
+  .block__text .b-129446916-heading_text_color h2,
+  .block__text .b-129446916-heading_text_color h3,
+  .block__text .b-129446916-heading_text_color h4,
+  .block__text .b-129446916-heading_text_color h5,
+  .block__text .b-129446916-heading_text_color h6 {
+    color: #ffffff
+  }
+
+
+  .block__text .block__text-wrapper h2{
+    margin-bottom: 2px;
+  }
+
+  .block__text .block__text-wrapper h3{
+    margin-bottom: 5px;
+  }
+
+  .block__text .block__text-wrapper h4{
+    margin-bottom: 9px;
+  }
+
+  .block__text .block__text-wrapper h5{
+    margin-bottom: 11px;
+  }
+
+  .block__text .block__text-wrapper h6{
+    margin-bottom: 14px;
+  }
+
+@media screen and (min-width: 768px) {
+  .b-129446916-top {
+    padding-top: 60px;
+  }
+  .b-129446916-bottom {
+    padding-bottom: 60px;
+  }
+}
+</style>
+<section class='container bl block__text rich-text b-129446916-top b-129446916-bottom b-129446916-background_color'>
+<div class="block__text-wrapper b-129446916-content_width b-129446916-heading_text_color b-129446916-text_color" data-target="block.data.body">
+<h3 class="ql-align-center">
+<strong>The Montessori Babies Course </strong>🌻</h3><h5 class="ql-align-center">is a self-paced, 100% online program with a step-by-step process designed to get you<br class="softbreak">
+</h5><h3 class="ql-align-center"><strong>From... </strong></h3><ul>
+<li>The overwhelming amount of information on the internet</li>
+<li>Lack of time for research</li>
+<li>Not knowing how or where to begin...</li>
+</ul><h3 class="ql-align-center">
+<strong>To... </strong> </h3><ul>
+<li>Deeply understanding Baby Development and Montessori for Babies</li>
+<li>Knowing how to setup a Montessori friendly environment in <strong><em>your</em></strong> home for <strong><em>your</em></strong> baby</li>
+<li>Knowing what Montessori Infant Materials to offer, where to find them, how to offer them, and when to rotate them for <strong><em>your</em></strong> child</li>
+<li>Being prepared to implement Montessori at each stage in infancy</li>
+<li>Being fully inspired, empowered, and encouraged to create a Montessori Experience that is just right for <strong><em>you and your baby!</em></strong><br class="softbreak">
+</li>
+</ul><p class="ql-align-center"><br></p><h4 class="ql-align-center"><strong><u>﻿Thereby laying an incredible foundation for a lifetime!</u></strong></h4><p><br class="softbreak"></p>
+</div>
+</section>
+</div>
+
+<style type='text/css'>.b-129446917-top { padding-top: 33.6px; } .b-129446917-bottom { padding-bottom: 33.6px; } .b-129446917-text_color { color: #000000; } .b-129446917-content_width { max-width: 590px; } .b-129446917-background_color { background-color: #F2E0D0; } .b-129446917-heading_text_color { color: #000000; }</style>
+<div class="course-block block text block-custom-name-access-to " id="block-129446917">
+<style>
+
+  .block__text .b-129446917-text_color {
+    color: #000000
+  }
+
+
+
+  .block__text .b-129446917-content_width {
+    width: 590px;
+  }
+
+
+
+  .block__text .b-129446917-heading_text_color h1,
+  .block__text .b-129446917-heading_text_color h2,
+  .block__text .b-129446917-heading_text_color h3,
+  .block__text .b-129446917-heading_text_color h4,
+  .block__text .b-129446917-heading_text_color h5,
+  .block__text .b-129446917-heading_text_color h6 {
+    color: #000000
+  }
+
+
+  .block__text .block__text-wrapper h2{
+    margin-bottom: 2px;
+  }
+
+  .block__text .block__text-wrapper h3{
+    margin-bottom: 5px;
+  }
+
+  .block__text .block__text-wrapper h4{
+    margin-bottom: 9px;
+  }
+
+  .block__text .block__text-wrapper h5{
+    margin-bottom: 11px;
+  }
+
+  .block__text .block__text-wrapper h6{
+    margin-bottom: 14px;
+  }
+
+@media screen and (min-width: 768px) {
+  .b-129446917-top {
+    padding-top: 60px;
+  }
+  .b-129446917-bottom {
+    padding-bottom: 60px;
+  }
+}
+</style>
+<section class='container bl block__text rich-text b-129446917-top b-129446917-bottom b-129446917-background_color'>
+<div class="block__text-wrapper b-129446917-content_width b-129446917-heading_text_color b-129446917-text_color" data-target="block.data.body">
+<h3 class="ql-align-center"><strong>Upon enrollment, you'll have access to all course content including: </strong></h3><h3 class="ql-align-center">🎥 Video Lessons</h3><h3 class="ql-align-center">🎙 Audio Lessons</h3><h3 class="ql-align-center">📓 Journal Prompts</h3><h3 class="ql-align-center">📝 Montessori Checklists</h3><h3 class="ql-align-center">👩🏻‍🏫 Instructor Email Support</h3><h3 class="ql-align-center">🖥 Members only Facebook Group<br class="softbreak">
+</h3>
+</div>
+</section>
+</div>
+
+<style type='text/css'>.b-129446918-top { padding-top: 22.400000000000002px; } .b-129446918-bottom { padding-bottom: 22.400000000000002px; } .b-129446918-content_width { width: 710px; } .b-129446918-background_color { background-color: #D6854F; } .b-129446918-heading_text_color { color: #ffffff; } .b-129446918-lecture_name_background_color { background-color: #F9FAFD; } .b-129446918-section_name_background_color { background-color: #EFEFF5; }</style>
+<div class="course-block block curriculum_v2  " id="block-129446918">
+<style>
+  @media screen and (min-width: 768px) {
+    .b-129446918-top {
+      padding-top: 40px;
+    }
+    .b-129446918-bottom {
+      padding-bottom: 40px;
+    }
+  }
+  .block__curriculum__section__title.b-129446918-section_name_background_color {
+    background-color: #EFEFF5;
+  }
+  .block__curriculum__section__list__item.b-129446918-lecture_name_background_color {
+    background-color: #F9FAFD;
+  }
+</style>
+<div class='container bl b-129446918-top b-129446918-bottom b-129446918-background_color block__curriculum__wrapper'>
+<div class='block__curriculum__container b-129446918-content_width'>
+<div class='block__curriculum'>
+<div class='block__curriculum__title b-129446918-heading_text_color rich-text'><h4><strong><u>The Montessori Babies Course Curriculum</u></strong></h4><p><br></p></div>
+<div class='block_curriculum_sections'>
+<section class='bl block__curriculum__section'>
+<div class='block__curriculum__section__title b-129446918-section_name_background_color' data-release-date="2022-02-20 00:00:00 UTC" data-days-until-dripped="0" data-is-dripped-by-date="true" data-course-id="1646361">
+<span class="block__curriculum__section__lock-icon">
+<i class="fa fa-lock"></i>&nbsp;
+</span>
+Welcome Module
+<div class="block__curriculum__section__days-to-drip">
+<div class="block__curriculum__section__days-to-drip--logged-in">
+Available in
+<span class="block__curriculum__section__days-to-drip__number"></span>
+days
+</div>
+<div class="block__curriculum__section__days-to-drip--logged-out">
+<span class="block__curriculum__section__days-to-drip__number"></span>
+days
+after you enroll
+</div>
+</div>
+</div>
+<ul class='block__curriculum__section__list'>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/37509311' data-ss-event-type='button' data-ss-lecture-id='37509311' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/37509311'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Welcome to The Montessori Babies Course</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(7:42)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/37552603' data-ss-event-type='button' data-ss-lecture-id='37552603' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/37552603'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Course Objectives + Next Steps</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(5:25)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+</ul>
+</section>
+<section class='bl block__curriculum__section'>
+<div class='block__curriculum__section__title b-129446918-section_name_background_color' data-release-date="2022-03-20 00:00:00 UTC" data-days-until-dripped="0" data-is-dripped-by-date="true" data-course-id="1646361">
+<span class="block__curriculum__section__lock-icon">
+<i class="fa fa-lock"></i>&nbsp;
+</span>
+Module 1: The Prepared Adult
+<div class="block__curriculum__section__days-to-drip">
+<div class="block__curriculum__section__days-to-drip--logged-in">
+Available in
+<span class="block__curriculum__section__days-to-drip__number"></span>
+days
+</div>
+<div class="block__curriculum__section__days-to-drip--logged-out">
+<span class="block__curriculum__section__days-to-drip__number"></span>
+days
+after you enroll
+</div>
+</div>
+</div>
+<ul class='block__curriculum__section__list'>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38219299' data-ss-event-type='button' data-ss-lecture-id='38219299' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38219299'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Being A Prepared Adult</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(15:09)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288675' data-ss-event-type='button' data-ss-lecture-id='38288675' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288675'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Our Role As Baby’s Guide</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(6:52)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288678' data-ss-event-type='button' data-ss-lecture-id='38288678' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288678'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">How To Do Montessori Observation</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(7:15)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288679' data-ss-event-type='button' data-ss-lecture-id='38288679' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288679'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Your Baby’s Unique Montessori Journey</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(4:22)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288680' data-ss-event-type='button' data-ss-lecture-id='38288680' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288680'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">What Consistency Means for Babies</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(7:20)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288702' data-ss-event-type='button' data-ss-lecture-id='38288702' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288702'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Creating Your Own Montessori Baby Experience</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(5:39)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+</ul>
+</section>
+<section class='bl block__curriculum__section'>
+<div class='block__curriculum__section__title b-129446918-section_name_background_color' data-release-date="2022-03-20 00:00:00 UTC" data-days-until-dripped="0" data-is-dripped-by-date="true" data-course-id="1646361">
+<span class="block__curriculum__section__lock-icon">
+<i class="fa fa-lock"></i>&nbsp;
+</span>
+Module 2: Understanding Baby Development
+<div class="block__curriculum__section__days-to-drip">
+<div class="block__curriculum__section__days-to-drip--logged-in">
+Available in
+<span class="block__curriculum__section__days-to-drip__number"></span>
+days
+</div>
+<div class="block__curriculum__section__days-to-drip--logged-out">
+<span class="block__curriculum__section__days-to-drip__number"></span>
+days
+after you enroll
+</div>
+</div>
+</div>
+<ul class='block__curriculum__section__list'>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38219327' data-ss-event-type='button' data-ss-lecture-id='38219327' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38219327'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Foundations of Baby Development</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(5:30)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288704' data-ss-event-type='button' data-ss-lecture-id='38288704' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288704'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Areas of Baby Development</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(10:01)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38810553' data-ss-event-type='button' data-ss-lecture-id='38810553' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38810553'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Brain Development in Infancy</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(5:44)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288705' data-ss-event-type='button' data-ss-lecture-id='38288705' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288705'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+ <use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Developing A Secure Attachment</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(8:20)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288706' data-ss-event-type='button' data-ss-lecture-id='38288706' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288706'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Language Development in Infancy</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(6:37)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288708' data-ss-event-type='button' data-ss-lecture-id='38288708' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288708'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Supporting Development of Language</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(20:46)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288709' data-ss-event-type='button' data-ss-lecture-id='38288709' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288709'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">The Development of Movement</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(7:47)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+ </li>
+</ul>
+</section>
+<section class='bl block__curriculum__section'>
+<div class='block__curriculum__section__title b-129446918-section_name_background_color' data-release-date="2022-03-20 00:00:00 UTC" data-days-until-dripped="0" data-is-dripped-by-date="true" data-course-id="1646361">
+<span class="block__curriculum__section__lock-icon">
+<i class="fa fa-lock"></i>&nbsp;
+</span>
+Module 3: Baby Development Concepts
+<div class="block__curriculum__section__days-to-drip">
+<div class="block__curriculum__section__days-to-drip--logged-in">
+Available in
+<span class="block__curriculum__section__days-to-drip__number"></span>
+days
+</div>
+<div class="block__curriculum__section__days-to-drip--logged-out">
+<span class="block__curriculum__section__days-to-drip__number"></span>
+days
+after you enroll
+</div>
+</div>
+</div>
+<ul class='block__curriculum__section__list'>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38219329' data-ss-event-type='button' data-ss-lecture-id='38219329' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38219329'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">How Babies Learn</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(4:40)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288714' data-ss-event-type='button' data-ss-lecture-id='38288714' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288714'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">The Development of Concentration</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(5:20)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288716' data-ss-event-type='button' data-ss-lecture-id='38288716' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288716'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+ <svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Developing Sense of Self</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(9:24)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288717' data-ss-event-type='button' data-ss-lecture-id='38288717' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288717'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">The Power of Play</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(8:09)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288720' data-ss-event-type='button' data-ss-lecture-id='38288720' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288720'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Addressing Toys + Screen Time</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(7:07)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288721' data-ss-event-type='button' data-ss-lecture-id='38288721' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288721'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">The Less is More Approach</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(6:11)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+</ul>
+</section>
+<section class='bl block__curriculum__section'>
+<div class='block__curriculum__section__title b-129446918-section_name_background_color' data-release-date="2022-03-20 00:00:00 UTC" data-days-until-dripped="0" data-is-dripped-by-date="true" data-course-id="1646361">
+<span class="block__curriculum__section__lock-icon">
+<i class="fa fa-lock"></i>&nbsp;
+</span>
+Module 4: Understanding Montessori for Babies
+<div class="block__curriculum__section__days-to-drip">
+<div class="block__curriculum__section__days-to-drip--logged-in">
+Available in
+<span class="block__curriculum__section__days-to-drip__number"></span>
+days
+</div>
+<div class="block__curriculum__section__days-to-drip--logged-out">
+<span class="block__curriculum__section__days-to-drip__number"></span>
+days
+after you enroll
+</div>
+</div>
+</div>
+<ul class='block__curriculum__section__list'>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38219308' data-ss-event-type='button' data-ss-lecture-id='38219308' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38219308'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">The Montessori Method</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(6:52)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288726' data-ss-event-type='button' data-ss-lecture-id='38288726' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288726'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Montessori for Infants</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(14:20)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288727' data-ss-event-type='button' data-ss-lecture-id='38288727' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288727'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Sensitive Periods</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(4:11)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288728' data-ss-event-type='button' data-ss-lecture-id='38288728' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288728'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Follow Your Child, Freedom Within Limits, & Fostering Independence</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(8:37)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288731' data-ss-event-type='button' data-ss-lecture-id='38288731' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288731'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">The Prepared Environment</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(6:03)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288732' data-ss-event-type='button' data-ss-lecture-id='38288732' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288732'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">The Montessori Material Progression + Toy Rotation</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(7:31)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288734' data-ss-event-type='button' data-ss-lecture-id='38288734' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288734'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">BONUS: Montessori Baby FAQ</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(6:52)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+</ul>
+</section>
+<section class='bl block__curriculum__section'>
+<div class='block__curriculum__section__title b-129446918-section_name_background_color' data-release-date="2022-03-20 00:00:00 UTC" data-days-until-dripped="0" data-is-dripped-by-date="true" data-course-id="1646361">
+<span class="block__curriculum__section__lock-icon">
+<i class="fa fa-lock"></i>&nbsp;
+</span>
+Module 5: The Non-Mobile Baby
+<div class="block__curriculum__section__days-to-drip">
+<div class="block__curriculum__section__days-to-drip--logged-in">
+Available in
+<span class="block__curriculum__section__days-to-drip__number"></span>
+days
+</div>
+<div class="block__curriculum__section__days-to-drip--logged-out">
+<span class="block__curriculum__section__days-to-drip__number"></span>
+days
+after you enroll
+</div>
+</div>
+</div>
+<ul class='block__curriculum__section__list'>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38219346' data-ss-event-type='button' data-ss-lecture-id='38219346' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38219346'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Preparing Yourself: The Non-Mobile Baby</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(2:57)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288737' data-ss-event-type='button' data-ss-lecture-id='38288737' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288737'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Understanding Development: The First Months of Life</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(5:15)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288739' data-ss-event-type='button' data-ss-lecture-id='38288739' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288739'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Preparing The Environment: Non Mobile Baby</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(4:34)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288741' data-ss-event-type='button' data-ss-lecture-id='38288741' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288741'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Montessori Material Suggestions</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(5:12)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288742' data-ss-event-type='button' data-ss-lecture-id='38288742' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288742'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Activity Ideas for the Non-Mobile Baby</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(4:34)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288744' data-ss-event-type='button' data-ss-lecture-id='38288744' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288744'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Laying Foundations of Independence</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(2:21)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288748' data-ss-event-type='button' data-ss-lecture-id='38288748' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288748'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">BONUS: Creating A Montessori Routine for The Non-Mobile Baby</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(3:02)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+</ul>
+</section>
+<section class='bl block__curriculum__section'>
+<div class='block__curriculum__section__title b-129446918-section_name_background_color' data-release-date="2022-03-20 00:00:00 UTC" data-days-until-dripped="0" data-is-dripped-by-date="true" data-course-id="1646361">
+<span class="block__curriculum__section__lock-icon">
+<i class="fa fa-lock"></i>&nbsp;
+</span>
+Module 6: The Sitting, Slithering, Crawling, and Cruising Baby
+<div class="block__curriculum__section__days-to-drip">
+<div class="block__curriculum__section__days-to-drip--logged-in">
+Available in
+<span class="block__curriculum__section__days-to-drip__number"></span>
+days
+</div>
+<div class="block__curriculum__section__days-to-drip--logged-out">
+<span class="block__curriculum__section__days-to-drip__number"></span>
+days
+after you enroll
+</div>
+</div>
+</div>
+<ul class='block__curriculum__section__list'>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38219351' data-ss-event-type='button' data-ss-lecture-id='38219351' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38219351'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Preparing Yourself: The S-S-C-C Baby</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(5:46)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288754' data-ss-event-type='button' data-ss-lecture-id='38288754' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288754'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Understanding Development: The Sitting, Slithering, Crawling, Cruising Baby</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(5:14)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288758' data-ss-event-type='button' data-ss-lecture-id='38288758' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288758'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Preparing The Environment: The S-S-C-C Baby</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(8:40)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288760' data-ss-event-type='button' data-ss-lecture-id='38288760' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288760'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Montessori Material Suggestions</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(6:23)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288762' data-ss-event-type='button' data-ss-lecture-id='38288762' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288762'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Activity Ideas for the SSCC Baby</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(10:31)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288763' data-ss-event-type='button' data-ss-lecture-id='38288763' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288763'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Fostering Independence with S-S-C-C Baby</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(3:26)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288765' data-ss-event-type='button' data-ss-lecture-id='38288765' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288765'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">BONUS: Creating A Montessori Routine for the S-S-C-C Baby</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(2:53)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+</ul>
+</section>
+<section class='bl block__curriculum__section'>
+<div class='block__curriculum__section__title b-129446918-section_name_background_color' data-release-date="2022-03-20 00:00:00 UTC" data-days-until-dripped="0" data-is-dripped-by-date="true" data-course-id="1646361">
+<span class="block__curriculum__section__lock-icon">
+<i class="fa fa-lock"></i>&nbsp;
+</span>
+Module 7: The Montessori Feeding Experience
+<div class="block__curriculum__section__days-to-drip">
+<div class="block__curriculum__section__days-to-drip--logged-in">
+Available in
+<span class="block__curriculum__section__days-to-drip__number"></span>
+days
+</div>
+<div class="block__curriculum__section__days-to-drip--logged-out">
+<span class="block__curriculum__section__days-to-drip__number"></span>
+days
+after you enroll
+</div>
+</div>
+</div>
+<ul class='block__curriculum__section__list'>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38219354' data-ss-event-type='button' data-ss-lecture-id='38219354' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38219354'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Preparing for The Montessori Feeding Experience</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(7:33)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288767' data-ss-event-type='button' data-ss-lecture-id='38288767' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288767'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">How to Introduce Solids The Montessori Way</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(3:56)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288770' data-ss-event-type='button' data-ss-lecture-id='38288770' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288770'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Baby-led Weaning vs. Purees</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(4:18)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288773' data-ss-event-type='button' data-ss-lecture-id='38288773' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288773'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Tips For Montessori Feeding</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(7:04)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288775' data-ss-event-type='button' data-ss-lecture-id='38288775' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288775'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Drinking From An Open Cup</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(4:41)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288778' data-ss-event-type='button' data-ss-lecture-id='38288778' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288778'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">The Family Meal</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(2:59)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288779' data-ss-event-type='button' data-ss-lecture-id='38288779' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288779'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">BONUS: Tips for Introducing the Bottle (if applicable)</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(3:44)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38298501' data-ss-event-type='button' data-ss-lecture-id='38298501' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38298501'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">BONUS: Tips for Addressing Food Throwing + Picky Eating</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(5:51)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+</ul>
+</section>
+<section class='bl block__curriculum__section'>
+<div class='block__curriculum__section__title b-129446918-section_name_background_color' data-release-date="2022-03-20 00:00:00 UTC" data-days-until-dripped="0" data-is-dripped-by-date="true" data-course-id="1646361">
+<span class="block__curriculum__section__lock-icon">
+<i class="fa fa-lock"></i>&nbsp;
+</span>
+Module 8: The Walking Baby
+<div class="block__curriculum__section__days-to-drip">
+<div class="block__curriculum__section__days-to-drip--logged-in">
+Available in
+<span class="block__curriculum__section__days-to-drip__number"></span>
+days
+</div>
+<div class="block__curriculum__section__days-to-drip--logged-out">
+<span class="block__curriculum__section__days-to-drip__number"></span>
+days
+after you enroll
+</div>
+</div>
+</div>
+<ul class='block__curriculum__section__list'>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38219367' data-ss-event-type='button' data-ss-lecture-id='38219367' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38219367'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Preparing Yourself: The Walking Baby</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(4:31)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288781' data-ss-event-type='button' data-ss-lecture-id='38288781' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288781'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Understanding Development: The Walking Baby</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(3:36)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288782' data-ss-event-type='button' data-ss-lecture-id='38288782' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288782'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Preparing the Environment for The Walking Baby</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(7:09)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288784' data-ss-event-type='button' data-ss-lecture-id='38288784' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288784'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Montessori Material Suggestions</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(6:56)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288786' data-ss-event-type='button' data-ss-lecture-id='38288786' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288786'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Activity Ideas for the Walking Baby</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(5:00)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288788' data-ss-event-type='button' data-ss-lecture-id='38288788' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288788'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Fostering Independence with The Walking Baby</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(2:54)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288790' data-ss-event-type='button' data-ss-lecture-id='38288790' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288790'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">BONUS: Intro To Toileting</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(6:06)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288792' data-ss-event-type='button' data-ss-lecture-id='38288792' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288792'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">BONUS: Creating a Montessori Routine: The Walking Baby</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(4:01)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+</ul>
+</section>
+<section class='bl block__curriculum__section'>
+<div class='block__curriculum__section__title b-129446918-section_name_background_color' data-release-date="2022-03-20 00:00:00 UTC" data-days-until-dripped="0" data-is-dripped-by-date="true" data-course-id="1646361">
+<span class="block__curriculum__section__lock-icon">
+<i class="fa fa-lock"></i>&nbsp;
+</span>
+Module 9: Addressing Phases, Transitions, & Behavioral Expressions
+<div class="block__curriculum__section__days-to-drip">
+<div class="block__curriculum__section__days-to-drip--logged-in">
+Available in
+<span class="block__curriculum__section__days-to-drip__number"></span>
+days
+</div>
+<div class="block__curriculum__section__days-to-drip--logged-out">
+<span class="block__curriculum__section__days-to-drip__number"></span>
+days
+after you enroll
+</div>
+</div>
+</div>
+<ul class='block__curriculum__section__list'>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288796' data-ss-event-type='button' data-ss-lecture-id='38288796' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288796'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Separation Anxiety + Stranger Anxiety</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(4:10)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38219374' data-ss-event-type='button' data-ss-lecture-id='38219374' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38219374'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">How To Set Limits With Babies</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(3:34)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288799' data-ss-event-type='button' data-ss-lecture-id='38288799' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288799'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Development of the Tantrum</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(3:47)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288800' data-ss-event-type='button' data-ss-lecture-id='38288800' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288800'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Positive Redirection + The Word “No”</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(3:30)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288809' data-ss-event-type='button' data-ss-lecture-id='38288809' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288809'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">How To Positively Redirect Behavioral Expressions</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(8:18)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38288813' data-ss-event-type='button' data-ss-lecture-id='38288813' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38288813'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Video icon">
+<use xlink:href="#icon__Video"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">BONUS: Transitioning Into School</span>
+<span class="block__curriculum__section__list__item__lecture-duration">(6:37)</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+</ul>
+</section>
+<section class='bl block__curriculum__section'>
+<div class='block__curriculum__section__title b-129446918-section_name_background_color' data-release-date="" data-days-until-dripped="" data-is-dripped-by-date="" data-course-id="1646361">
+<span class="block__curriculum__section__lock-icon">
+<i class="fa fa-lock"></i>&nbsp;
+</span>
+Share Your Testimonial
+<div class="block__curriculum__section__days-to-drip">
+<div class="block__curriculum__section__days-to-drip--logged-in">
+Available in
+<span class="block__curriculum__section__days-to-drip__number"></span>
+days
+</div>
+<div class="block__curriculum__section__days-to-drip--logged-out">
+<span class="block__curriculum__section__days-to-drip__number"></span>
+days
+after you enroll
+</div>
+</div>
+</div>
+<ul class='block__curriculum__section__list'>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/38289011' data-ss-event-type='button' data-ss-lecture-id='38289011' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/38289011'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Subject icon">
+<use xlink:href="#icon__Subject"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Did our course transform your parenting experience?</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+<li class='block__curriculum__section__list__item b-129446918-lecture_name_background_color'>
+<a class='block__curriculum__section__list__item__link' data-ss-course-id='1646361' data-ss-event-name='Lecture: Start (Sales - PE v2)' data-ss-event-href='/courses/the-montessori-babies-course-promo/lectures/42437179' data-ss-event-type='button' data-ss-lecture-id='42437179' data-ss-school-id='880597' data-ss-user-id='' href='/courses/the-montessori-babies-course-promo/lectures/42437179'>
+<span class='block__curriculum__section__list__item__lecture-icon'>
+<svg width="24" height="24" class='block__curriculum__section__list__item__lecture-icon__svg' alt="Subject icon">
+<use xlink:href="#icon__Subject"></use>
+</svg>
+</span>
+<span class="block__curriculum__section__list__item__lecture-name">Become a Montessori Babies Affiliate!</span>
+<button class='block__curriculum__section__list__item__button start'>Start</button>
+</a>
+</li>
+</ul>
+</section>
+</div>
+<button class='block__curriculum__view-all-lectures-btn' type='button'>
+<span>Show All Lectures</span>
+<img alt="show all lectures icon" class='block__curriculum__view-all-lectures-btn-icon__svg' src="https://fedora.teachablecdn.com/assets/icons/chevron-down-solid-263093b97bd01b06adb0ad6caee9cc0ed3fd93607596fb8dee102ebd20d6d85e.svg" />
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<style type='text/css'>.b-129446919-top { padding-top: 22.400000000000002px; } .b-129446919-bottom { padding-bottom: 22.400000000000002px; } .b-129446919-text_color { color: #000000; } .b-129446919-gutter_width { --gutter-width: 24px; } .b-129446919-content_width { width: 960px; } .b-129446919-heading_color { color: #000000; } .b-129446919-text_alignment { text-align: center; } .b-129446919-background_color { background-color: #F2E0D0; } .b-129446919-image_border_radius { border-radius: 0px; }</style>
+<div class="course-block block image_with_text block-custom-name-about-me " id="block-129446919">
+<style>
+
+  .block__image-with-text .b-129446919-text_color {
+    color: #000000;
+  }
+
+
+
+  .block__image-with-text.b-129446919-background_color {
+    background-color: #F2E0D0;
+  }
+
+
+
+  .block__image-with-text .b-129446919-heading_color .block__image-with-text__inner__heading {
+    color: #000000;
+  }
+
+
+
+  .block__image-with-text .b-129446919-text_alignment {
+    text-align: center;
+  }
+
+
+  .block__image-with-text__image.b-129446919-image_border_radius {
+    border-radius: 0px;
+  }
+
+  .block__image-with-text .block__image-with-text__inner__heading h2{
+    margin-bottom: 2px;
+  }
+
+  .block__image-with-text .block__image-with-text__inner__heading h3{
+    margin-bottom: 5px;
+  }
+
+  .block__image-with-text .block__image-with-text__inner__heading h4{
+    margin-bottom: 9px;
+  }
+
+  .block__image-with-text .block__image-with-text__inner__heading h5{
+    margin-bottom: 11px;
+  }
+
+  .block__image-with-text .block__image-with-text__inner__heading h6{
+    margin-bottom: 14px;
+  }
+
+@media screen and (min-width: 768px) {
+  .b-129446919-top {
+    padding-top: 40px;
+  }
+  .b-129446919-bottom {
+    padding-bottom: 40px;
+  }
+  
+    .b-129446919-gutter_width .block__image-with-text__text-wrapper {
+      width: calc(50% - 12px);
+      
+        margin-left: 12px;
+      
+    }
+    .b-129446919-gutter_width div.block__image-with-text__image {
+      width: calc(50% - 12px);
+      
+        margin-right: 12px;
+      
+    }
+  
+}
+</style>
+<section class='bl container block__image-with-text b-129446919-background_color b-129446919-top b-129446919-bottom b-129446919-gutter_width image-with-text-layout-left'>
+<div class="b-129446919-content_width block__image-with-text__wrapper b-129446919-heading_color b-129446919-text_color b-129446919-text_alignment">
+<div class="block__image-with-text__inner block__image-with-text__image">
+<img src='https://cdn.fs.teachablecdn.com/dQglCKWQ66P5UPcuaw7B' alt='' data-target="block.data.image_url block.data.alt_text" class="block__image-with-text__image b-129446919-image_border_radius image" />
+</div>
+<div class="block__image-with-text__inner block__image-with-text__text-wrapper rich-text">
+<div class="block__image-with-text__inner__heading">
+<h4><strong><u>Instructor: </u></strong></h4><h4>
+<strong><u>Bianca A. Solorzano, M.Ed.</u></strong><br class="softbreak">
+</h4><h4>
+<strong>Hi! I'm Bianca. Baby Development Specialist, Montessori Consultant, Early Childhood Advocate, Montessori Infant Teacher, Host of Montessori Babies Podcast, Founder of Baby Tour Guide, and Montessori Mother to my sweet boy.</strong>🤍<br class="softbreak">
+</h4>
+</div>
+<p><strong><u>I started out having no idea how to "do" Montessori with Babies, but over the last decade I gained field experience and knowledge through...</u></strong></p><p>🔅 Running my own Montessori Baby Class (Nido) for many years, Running Montessori Mommy and Me, and Giving Talks at various Parent Education Events</p><p>🔅 Getting my International AMI Montessori Training (Birth - 3 years), along with my Bachelor's in Child Development and Master's in Montessori Education</p><p>🔅 Learning how to assess development and implement Montessori ideas at just the right time for each unique baby</p><p><strong><u>And now...</u></strong></p><p>I run my own Infant Development + Montessori business where I use my step-by-step process to help inspire, encourage, and empower other amazing parents, educators, and caregivers to optimize baby development through a Montessori Lens!</p>
+</div>
+</div>
+</section>
+</div>
+
+<style type='text/css'>.b-129446920-top { padding-top: 22.400000000000002px; } .b-129446920-bottom { padding-bottom: 22.400000000000002px; } .b-129446920-content_width { width: 960px; } .b-129446920-background_color { background-color: #ffffff; } .b-129446920-heading_text_color { color: #000000; } .b-129446920-button_border_radius { border-radius: 25px; }</style>
+<div class="course-block block pricing_v3 block-custom-name-pricing---full " id="block-129446920">
+<style>
+
+  .block__pricing__button.b-129446920-button_border_radius{
+    border-radius: 25
+    px;
+  }
+
+  .block_cap_badge_text {
+    background-color: #F7D7D7;
+    color: #222222;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.2rem;
+    padding: 4px 8px;
+    border-radius: 4px;
+    margin-left: 1rem;
+    width: fit-content;
+  }
+
+  .block_coupon_badge {
+    background-color: #e4e4e4;
+  }
+
+  .block_cap_badge_tooltip {
+    position: relative;
+    display: inline-block
+  }
+
+  .block_cap_badge_tooltip .block_cap_tooltip_text {
+    visibility: hidden;
+    font-size: 13px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 19px;
+    width: 180px;
+    top: 100%;
+    left: 50%;
+    margin-left: -90px;
+    margin-top: 10px;
+    background-color: #222222;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 5px 2px;
+    border-radius: 4px;
+    position: absolute;
+    z-index: 1;
+  }
+
+  .block_cap_badge_tooltip .block_cap_tooltip_text::after {
+    content: "";
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent black transparent;
+  }
+
+  .block_cap_badge_tooltip:hover .block_cap_tooltip_text {
+    visibility: visible;
+  }
+
+  @media screen and (min-width: 768px) {
+    .b-129446920-top{
+      padding-top: 40
+      px;
+    }
+    .b-129446920-bottom{
+      padding-bottom: 40
+      px;
+    }
+  }
+
+  @media screen and (max-width: 767px) {
+    .block_cap_badge_text {
+      display: block;
+      margin: 8px 0;
+    }
+  }
+</style>
+<section class='container b-129446920-top b-129446920-bottom b-129446920-background_color'>
+<div class="block__pricing__container b-129446920-content_width">
+<form class="block__pricing flex-grow" action="/purchase" method="get">
+<input type="hidden" name="course_id" value="1646361" id="course_id">
+<div class="block__pricing__heading empty_state__heading-text b-129446920-heading_text_color rich-text"><h4><strong><u>Choose a Pricing Option</u></strong></h4></div>
+<div class="block__pricing__plans">
+<label for="3768385">
+<section class="block__pricing__plan" data-id="3768385">
+<div class="block__pricing__plan__radio-wrapper">
+<input checked class="radio block__pricing__plan__radio" name="product_id" type="radio" id="3768385" value="3768385" />
+<div class="block__pricing__plan__radio__custom-indicator"></div>
+</div>
+<div class="block__pricing__plan__text">
+<div class="block__pricing__plan__price" data-include-vat-price=3768385>
+$252
+</div>
+<h3 class="block__pricing__plan__name">The Montessori Babies Course: Pay In Full</h3>
+<h4 class="block__pricing__plan__subtitle">
+A Step-by-Step Course on Understanding and Implementing Montessori in Infancy
+</h4>
+<div class="block__pricing__plan__description__container">
+<button class="block__pricing__plan__description__show-button" type="button">
+<span class="block__pricing__plan__description__show-button__text" data-more="More" data-less="Less">More</span>
+<span class="block__pricing__plan__description__show-button__icon"></span>
+</button>
+<div class="block__pricing__plan__description">
+<p><br></p>
+</div>
+</div>
+</div>
+</section>
+</label>
+</div>
+<div class="block__pricing__button-wrapper">
+<button class="block__pricing__button b-129446920-button_border_radius base-button" type="submit">**Enroll now!**</button>
+</div>
+</form>
+</div>
+</section>
+</div>
+
+<style type='text/css'>.b-129446921-top { padding-top: 33.6px; } .b-129446921-bottom { padding-bottom: 33.6px; } .b-129446921-text_color { color: #000000; } .b-129446921-content_width { max-width: 590px; } .b-129446921-background_color { background-color: #F2E0D0; } .b-129446921-heading_text_color { color: #000000; }</style>
+<div class="course-block block text block-custom-name-who-can-benefits " id="block-129446921">
+<style>
+
+  .block__text .b-129446921-text_color {
+    color: #000000
+  }
+
+
+
+  .block__text .b-129446921-content_width {
+    width: 590px;
+  }
+
+
+
+  .block__text .b-129446921-heading_text_color h1,
+  .block__text .b-129446921-heading_text_color h2,
+  .block__text .b-129446921-heading_text_color h3,
+  .block__text .b-129446921-heading_text_color h4,
+  .block__text .b-129446921-heading_text_color h5,
+  .block__text .b-129446921-heading_text_color h6 {
+    color: #000000
+  }
+
+
+  .block__text .block__text-wrapper h2{
+    margin-bottom: 2px;
+  }
+
+  .block__text .block__text-wrapper h3{
+    margin-bottom: 5px;
+  }
+
+  .block__text .block__text-wrapper h4{
+    margin-bottom: 9px;
+  }
+
+  .block__text .block__text-wrapper h5{
+    margin-bottom: 11px;
+  }
+
+  .block__text .block__text-wrapper h6{
+    margin-bottom: 14px;
+  }
+
+@media screen and (min-width: 768px) {
+  .b-129446921-top {
+    padding-top: 60px;
+  }
+  .b-129446921-bottom {
+    padding-bottom: 60px;
+  }
+}
+</style>
+<section class='container bl block__text rich-text b-129446921-top b-129446921-bottom b-129446921-background_color'>
+<div class="block__text-wrapper b-129446921-content_width b-129446921-heading_text_color b-129446921-text_color" data-target="block.data.body">
+<h2 class="ql-align-center"><strong>Who can benefit from this course?</strong></h2><h4 class="ql-align-center">❤️ Current Parents</h4><h4 class="ql-align-center">❤️ Expectant Parents</h4><h4 class="ql-align-center">❤️ Grandparents</h4><h4 class="ql-align-center">❤️ Nannies + Babysitters</h4><h4 class="ql-align-center">❤️ Infant Educators</h4><h4 class="ql-align-center">❤️ And all people who have or care for babies<br class="softbreak">
+</h4>
+</div>
+</section>
+</div>
+
+<style type='text/css'>.b-129446922-top { padding-top: 22.400000000000002px; } .b-129446922-bottom { padding-bottom: 22.400000000000002px; } .b-129446922-full_bleed { --full_bleed: false; } .b-129446922-content_width { width: 960px; } .b-129446922-background_color { background-color: #f5f5f5; } .b-129446922-image_border_radius { border-radius: 0px; }</style>
+<div class="course-block block image block-custom-name-image-me-with-shelf " id="block-129446922">
+<style>
+
+  .block__image__image.b-129446922-image_border_radius {
+    border-radius: 0px;
+  }
+
+  @media screen and (min-width: 768px) {
+    .b-129446922-top {
+      padding-top: 40px;
+    }
+    .b-129446922-bottom {
+      padding-bottom: 40px;
+    }
+  }
+</style>
+<section class='bl container block__image b-129446922-background_color b-129446922-top b-129446922-bottom '>
+<div class="block__image__wrapper b-129446922-content_width">
+<img src='https://cdn.fs.teachablecdn.com/67tafgcWTv24KmFWUClm' alt='' data-target="block.data.image_url block.data.alt_text" class="block__image__image b-129446922-image_border_radius" />
+</div>
+</section>
+</div>
+
+<style type='text/css'>.b-129446923-top { padding-top: 33.6px; } .b-129446923-bottom { padding-bottom: 33.6px; } .b-129446923-text_color { color: #ffffff; } .b-129446923-content_width { max-width: 590px; } .b-129446923-background_color { background-color: #72A688; } .b-129446923-heading_text_color { color: #ffffff; }</style>
+<div class="course-block block text block-custom-name-faq " id="block-129446923">
+<style>
+
+  .block__text .b-129446923-text_color {
+    color: #ffffff
+  }
+
+
+
+  .block__text .b-129446923-content_width {
+    width: 590px;
+  }
+
+
+
+  .block__text .b-129446923-heading_text_color h1,
+  .block__text .b-129446923-heading_text_color h2,
+  .block__text .b-129446923-heading_text_color h3,
+  .block__text .b-129446923-heading_text_color h4,
+  .block__text .b-129446923-heading_text_color h5,
+  .block__text .b-129446923-heading_text_color h6 {
+    color: #ffffff
+  }
+
+
+  .block__text .block__text-wrapper h2{
+    margin-bottom: 2px;
+  }
+
+  .block__text .block__text-wrapper h3{
+    margin-bottom: 5px;
+  }
+
+  .block__text .block__text-wrapper h4{
+    margin-bottom: 9px;
+  }
+
+  .block__text .block__text-wrapper h5{
+    margin-bottom: 11px;
+  }
+
+  .block__text .block__text-wrapper h6{
+    margin-bottom: 14px;
+  }
+
+@media screen and (min-width: 768px) {
+  .b-129446923-top {
+    padding-top: 60px;
+  }
+  .b-129446923-bottom {
+    padding-bottom: 60px;
+  }
+}
+</style>
+<section class='container bl block__text rich-text b-129446923-top b-129446923-bottom b-129446923-background_color'>
+<div class="block__text-wrapper b-129446923-content_width b-129446923-heading_text_color b-129446923-text_color" data-target="block.data.body">
+<h1 class="ql-align-center"><strong><u>FAQ</u></strong></h1><p class="ql-align-center"><br class="softbreak"></p><p class="ql-align-center"><strong>When does this course start and finish?</strong></p><p class="ql-align-center"><em>This course begins on March 20th, 2022 and never ends! It's a completely self-paced program - so you can go through the lessons at a time that works best for you and your baby. There are 9 Modules with 6 lessons per module. Each lesson is info-packed &amp; less than 10 minutes so you can listen or watch the lesson as quick inspiration in the morning, whilst on a walk, in the shower, as you wind down the end of your day, or whatever works best for you!</em></p><p class="ql-align-center"><br class="softbreak"></p><p class="ql-align-center"><strong>Can you start The Montessori Babies Course at any point in Infancy? </strong></p><p class="ql-align-center"><em>Absolutely! This course is formatted so the first couple modules create a foundational understanding. The next few modules are sectioned by stage of development within Infancy... so whether you are an expectant parent hoping to prep in advance, your baby is a newborn, or your baby is 10-12 months you can absolutely benefit from this course! (We also venture into the transition from Infancy to Toddlerhood with The Walking Baby Module!)</em></p><p class="ql-align-center"><br class="softbreak"></p><p class="ql-align-center"><strong>Does this course show you where to buy Montessori Furniture and Materials?</strong></p><p class="ql-align-center"><em>Yes! One reason I created this course was so that you are able to build a Montessori experience that works for your baby, your home, and your lifestyle... while also understanding the "why" behind everything!</em></p><p class="ql-align-center"><br class="softbreak"></p><p class="ql-align-center"><strong>How long do I keep this course after I enroll?</strong></p><p class="ql-align-center"><em>You keep this course for a lifetime! I actually encourage you to come back to it for continued inspiration and/or use it with multiple children!</em></p><p class="ql-align-center"><br class="softbreak"></p><p class="ql-align-center"><strong>Is this course a Montessori Training?</strong></p><p class="ql-align-center"><em>No. Taking this course does not offer a certification in Montessori from Birth - 3. This course is a personal, professional, and parental development experience that I created based off of my years of experience, Montessori Training, Child Development Studies, and Montessori Masters - to help you ease into your Montessori journey with your sweet baby!</em></p><h4 class="ql-align-center"><br class="softbreak"></h4><h4 class="ql-align-center">
+<strong>If you have any further questions about this course, feel free to send an email to </strong><a href="/cdn-cgi/l/email-protection#a3c1cac2cdc0c2e3c1c2c1dad7ccd6d1c4d6cac7c68dc0ccce8d" target="_blank"><strong><span class="__cf_email__" data-cfemail="93f1faf2fdf0f2d3f1f2f1eae7fce6e1f4e6faf7f6bdf0fcfebd">[email&#160;protected]</span></strong></a><strong> I'm happy to help!</strong><br class="softbreak">
+</h4>
+</div>
+</section>
+</div>
+
+<style type='text/css'>.b-129446924-top { padding-top: 22.400000000000002px; } .b-129446924-bottom { padding-bottom: 22.400000000000002px; } .b-129446924-full_bleed { --full_bleed: false; } .b-129446924-content_width { width: 960px; } .b-129446924-background_color { background-color: #F2E0D0; } .b-129446924-image_border_radius { border-radius: 0px; }</style>
+<div class="course-block block image block-custom-name-refund-policy-image " id="block-129446924">
+<style>
+
+  .block__image__image.b-129446924-image_border_radius {
+    border-radius: 0px;
+  }
+
+  @media screen and (min-width: 768px) {
+    .b-129446924-top {
+      padding-top: 40px;
+    }
+    .b-129446924-bottom {
+      padding-bottom: 40px;
+    }
+  }
+</style>
+<section class='bl container block__image b-129446924-background_color b-129446924-top b-129446924-bottom '>
+<div class="block__image__wrapper b-129446924-content_width">
+<img src='https://cdn.fs.teachablecdn.com/TtPLuiOkSiStv875OaGP' alt='' data-target="block.data.image_url block.data.alt_text" class="block__image__image b-129446924-image_border_radius" />
+</div>
+</section>
+</div>
+
+<style type='text/css'>.b-129446925-top { padding-top: 22.400000000000002px; } .b-129446925-bottom { padding-bottom: 22.400000000000002px; } .b-129446925-content_width { width: 960px; } .b-129446925-background_color { background-color: #ffffff; } .b-129446925-heading_text_color { color: #000000; } .b-129446925-button_border_radius { border-radius: 25px; }</style>
+<div class="course-block block pricing_v3 block-custom-name-pricing---full " id="block-129446925">
+<style>
+
+  .block__pricing__button.b-129446925-button_border_radius{
+    border-radius: 25
+    px;
+  }
+
+  .block_cap_badge_text {
+    background-color: #F7D7D7;
+    color: #222222;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.2rem;
+    padding: 4px 8px;
+    border-radius: 4px;
+    margin-left: 1rem;
+    width: fit-content;
+  }
+
+  .block_coupon_badge {
+    background-color: #e4e4e4;
+  }
+
+  .block_cap_badge_tooltip {
+    position: relative;
+    display: inline-block
+  }
+
+  .block_cap_badge_tooltip .block_cap_tooltip_text {
+    visibility: hidden;
+    font-size: 13px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 19px;
+    width: 180px;
+    top: 100%;
+    left: 50%;
+    margin-left: -90px;
+    margin-top: 10px;
+    background-color: #222222;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 5px 2px;
+    border-radius: 4px;
+    position: absolute;
+    z-index: 1;
+  }
+
+  .block_cap_badge_tooltip .block_cap_tooltip_text::after {
+    content: "";
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent black transparent;
+  }
+
+  .block_cap_badge_tooltip:hover .block_cap_tooltip_text {
+    visibility: visible;
+  }
+
+  @media screen and (min-width: 768px) {
+    .b-129446925-top{
+      padding-top: 40
+      px;
+    }
+    .b-129446925-bottom{
+      padding-bottom: 40
+      px;
+    }
+  }
+
+  @media screen and (max-width: 767px) {
+    .block_cap_badge_text {
+      display: block;
+      margin: 8px 0;
+    }
+  }
+</style>
+<section class='container b-129446925-top b-129446925-bottom b-129446925-background_color'>
+<div class="block__pricing__container b-129446925-content_width">
+<form class="block__pricing flex-grow" action="/purchase" method="get">
+<input type="hidden" name="course_id" value="1646361" id="course_id">
+<div class="block__pricing__heading empty_state__heading-text b-129446925-heading_text_color rich-text"><h4><strong><u>Choose a Pricing Option</u></strong></h4></div>
+<div class="block__pricing__plans">
+<label for="3768385">
+<section class="block__pricing__plan" data-id="3768385">
+<div class="block__pricing__plan__radio-wrapper">
+<input checked class="radio block__pricing__plan__radio" name="product_id" type="radio" id="3768385" value="3768385" />
+<div class="block__pricing__plan__radio__custom-indicator"></div>
+</div>
+<div class="block__pricing__plan__text">
+<div class="block__pricing__plan__price" data-include-vat-price=3768385>
+$252
+</div>
+<h3 class="block__pricing__plan__name">The Montessori Babies Course: Pay In Full</h3>
+<h4 class="block__pricing__plan__subtitle">
+A Step-by-Step Course on Understanding and Implementing Montessori in Infancy
+</h4>
+<div class="block__pricing__plan__description__container">
+<button class="block__pricing__plan__description__show-button" type="button">
+<span class="block__pricing__plan__description__show-button__text" data-more="More" data-less="Less">More</span>
+<span class="block__pricing__plan__description__show-button__icon"></span>
+</button>
+<div class="block__pricing__plan__description">
+<p><br></p>
+</div>
+</div>
+</div>
+</section>
+</label>
+</div>
+<div class="block__pricing__button-wrapper">
+<button class="block__pricing__button b-129446925-button_border_radius base-button" type="submit">**Enroll now!**</button>
+</div>
+</form>
+</div>
+</section>
+</div>
+
+<style type='text/css'>.b-129446926-top { padding-top: 22.400000000000002px; } .b-129446926-bottom { padding-bottom: 22.400000000000002px; } .b-129446926-gutter_width { --gutter-width: 50px; } .b-129446926-content_width { max-width: 960px; } .b-129446926-text_alignment { text-align: center; } .b-129446926-background_color { background-color: #F2E0D0; } .b-129446926-heading_text_color { color: #36414D; } .b-129446926-image_border_radius { border-radius: 18px; } .b-129446926-description_text_color { color: #36414D; }</style>
+<div class="course-block block text_with_image_grid  " id="block-129446926">
+<style>
+  
+    .block__text-with-image-grid.b-129446926-background_color {
+      background-color: #F2E0D0
+    }
+  
+
+  
+    .block__text-with-image-grid.b-129446926-text_alignment {
+      text-align: center
+    }
+  
+
+  
+    .block__text-with-image-grid.b-129446926-heading_text_color .block__text-with-image-grid__column__heading-text {
+      color: #36414D
+    }
+  
+
+  
+    .block__text-with-image-grid.b-129446926-description_text_color .block__text-with-image-grid__column__body {
+      color: #36414D
+    }
+  
+
+  .block__text-with-image-grid__column__image.b-129446926-image_border_radius {
+    border-radius: 18px;
+  }
+
+@media screen and (min-width: 768px) {
+  .b-129446926-top {
+    padding-top: 40px;
+  }
+  .b-129446926-bottom {
+    padding-bottom: 40px;
+  }
+   
+    .b-129446926-gutter_width .block__columns {
+      grid-column-gap: 50px;
+    }
+  
+}
+
+</style>
+<section class="bl block__text-with-image-grid b-129446926-background_color b-129446926-top b-129446926-bottom b-129446926-text_alignment b-129446926-heading_text_color b-129446926-description_text_color block__columns-per-row--3 b-129446926-gutter_width">
+<div class="block__columns b-129446926-content_width">
+<div class="block__column">
+<img class="block__text-with-image-grid__column__image b-129446926-image_border_radius" alt="" src="https://cdn.fs.teachablecdn.com/jaQ524EQTUa95kCpArSc" />
+<div class="block__text-with-image-grid__column__heading-text rich-text"></div>
+<div class="block__text-with-image-grid__column__body"></div>
+</div>
+<div class="block__column">
+<img class="block__text-with-image-grid__column__image b-129446926-image_border_radius" alt="" src="https://cdn.fs.teachablecdn.com/UddPFJRnqfLpv9w4AlwK" />
+<div class="block__text-with-image-grid__column__heading-text rich-text"></div>
+<div class="block__text-with-image-grid__column__body"></div>
+</div>
+<div class="block__column">
+<img class="block__text-with-image-grid__column__image b-129446926-image_border_radius" alt="" src="https://cdn.fs.teachablecdn.com/KmiDBkkqQ2KA9FNpVfoA" />
+<div class="block__text-with-image-grid__column__heading-text rich-text"></div>
+<div class="block__text-with-image-grid__column__body"></div>
+</div>
+</div>
+</section>
+</div>
+
+<style type='text/css'>.b-129446927-top { padding-top: 22.400000000000002px; } .b-129446927-bottom { padding-bottom: 22.400000000000002px; } .b-129446927-full_bleed { --full_bleed: false; } .b-129446927-content_width { width: 960px; } .b-129446927-background_color { background-color: #D6854F; } .b-129446927-image_border_radius { border-radius: 0px; }</style>
+<div class="course-block block image block-custom-name-reviews " id="block-129446927">
+<style>
+
+  .block__image__image.b-129446927-image_border_radius {
+    border-radius: 0px;
+  }
+
+  @media screen and (min-width: 768px) {
+    .b-129446927-top {
+      padding-top: 40px;
+    }
+    .b-129446927-bottom {
+      padding-bottom: 40px;
+    }
+  }
+</style>
+<section class='bl container block__image b-129446927-background_color b-129446927-top b-129446927-bottom '>
+<div class="block__image__wrapper b-129446927-content_width">
+<img src='https://cdn.fs.teachablecdn.com/0v6gQ136RLi5sMzRmFGx' alt='' data-target="block.data.image_url block.data.alt_text" class="block__image__image b-129446927-image_border_radius" />
+</div>
+</section>
+</div>
+
+<style type='text/css'>.b-129446928-top { padding-top: 22.400000000000002px; } .b-129446928-bottom { padding-bottom: 22.400000000000002px; } .b-129446928-full_bleed { --full_bleed: false; } .b-129446928-content_width { width: 960px; } .b-129446928-background_color { background-color: #D6854F; } .b-129446928-image_border_radius { border-radius: 0px; }</style>
+<div class="course-block block image block-custom-name-review " id="block-129446928">
+<style>
+
+  .block__image__image.b-129446928-image_border_radius {
+    border-radius: 0px;
+  }
+
+  @media screen and (min-width: 768px) {
+    .b-129446928-top {
+      padding-top: 40px;
+    }
+    .b-129446928-bottom {
+      padding-bottom: 40px;
+    }
+  }
+</style>
+<section class='bl container block__image b-129446928-background_color b-129446928-top b-129446928-bottom '>
+<div class="block__image__wrapper b-129446928-content_width">
+<img src='https://cdn.fs.teachablecdn.com/rsUeOArXQX6rLe1HjRzH' alt='' data-target="block.data.image_url block.data.alt_text" class="block__image__image b-129446928-image_border_radius" />
+</div>
+</section>
+</div>
+
+<style type='text/css'>.b-129446929-top { padding-top: 22.400000000000002px; } .b-129446929-bottom { padding-bottom: 22.400000000000002px; } .b-129446929-full_bleed { --full_bleed: false; } .b-129446929-content_width { width: 960px; } .b-129446929-background_color { background-color: #D6854F; } .b-129446929-image_border_radius { border-radius: 0px; }</style>
+<div class="course-block block image block-custom-name-review " id="block-129446929">
+<style>
+
+  .block__image__image.b-129446929-image_border_radius {
+    border-radius: 0px;
+  }
+
+  @media screen and (min-width: 768px) {
+    .b-129446929-top {
+      padding-top: 40px;
+    }
+    .b-129446929-bottom {
+      padding-bottom: 40px;
+    }
+  }
+</style>
+<section class='bl container block__image b-129446929-background_color b-129446929-top b-129446929-bottom '>
+<div class="block__image__wrapper b-129446929-content_width">
+<img src='https://cdn.fs.teachablecdn.com/lYyccWm5TS6S9nqgv5Lb' alt='' data-target="block.data.image_url block.data.alt_text" class="block__image__image b-129446929-image_border_radius" />
+</div>
+</section>
+</div>
+
+<style type='text/css'>.b-129446930-top { padding-top: 16.8px; } .b-129446930-bottom { padding-bottom: 16.8px; } .b-129446930-text_color { color: #000000; } .b-129446930-content_width { max-width: 590px; } .b-129446930-background_color { background-color: #F2E0D0; } .b-129446930-heading_text_color { color: #000000; }</style>
+<div class="course-block block text block-custom-name-infant-development " id="block-129446930">
+<style>
+
+  .block__text .b-129446930-text_color {
+    color: #000000
+  }
+
+
+
+  .block__text .b-129446930-content_width {
+    width: 590px;
+  }
+
+
+
+  .block__text .b-129446930-heading_text_color h1,
+  .block__text .b-129446930-heading_text_color h2,
+  .block__text .b-129446930-heading_text_color h3,
+  .block__text .b-129446930-heading_text_color h4,
+  .block__text .b-129446930-heading_text_color h5,
+  .block__text .b-129446930-heading_text_color h6 {
+    color: #000000
+  }
+
+
+  .block__text .block__text-wrapper h2{
+    margin-bottom: 2px;
+  }
+
+  .block__text .block__text-wrapper h3{
+    margin-bottom: 5px;
+  }
+
+  .block__text .block__text-wrapper h4{
+    margin-bottom: 9px;
+  }
+
+  .block__text .block__text-wrapper h5{
+    margin-bottom: 11px;
+  }
+
+  .block__text .block__text-wrapper h6{
+    margin-bottom: 14px;
+  }
+
+@media screen and (min-width: 768px) {
+  .b-129446930-top {
+    padding-top: 30px;
+  }
+  .b-129446930-bottom {
+    padding-bottom: 30px;
+  }
+}
+</style>
+<section class='container bl block__text rich-text b-129446930-top b-129446930-bottom b-129446930-background_color'>
+<div class="block__text-wrapper b-129446930-content_width b-129446930-heading_text_color b-129446930-text_color" data-target="block.data.body">
+<h3 class="ql-align-center"><strong>From how our sweet babies will eventually learn in school to how they form relationships...</strong></h3><h3 class="ql-align-center">
+<strong>Development in infancy lays a foundation that sets a trajectory for a lifetime.</strong>❤️<br class="softbreak">
+</h3>
+</div>
+</section>
+</div>
+
+<style type='text/css'>.b-129446931-top { padding-top: 22.400000000000002px; } .b-129446931-bottom { padding-bottom: 22.400000000000002px; } .b-129446931-content_width { width: 960px; } .b-129446931-background_color { background-color: #ffffff; } .b-129446931-heading_text_color { color: #000000; } .b-129446931-button_border_radius { border-radius: 25px; }</style>
+<div class="course-block block pricing_v3 block-custom-name-pricing---full " id="block-129446931">
+<style>
+
+  .block__pricing__button.b-129446931-button_border_radius{
+    border-radius: 25
+    px;
+  }
+
+  .block_cap_badge_text {
+    background-color: #F7D7D7;
+    color: #222222;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.2rem;
+    padding: 4px 8px;
+    border-radius: 4px;
+    margin-left: 1rem;
+    width: fit-content;
+  }
+
+  .block_coupon_badge {
+    background-color: #e4e4e4;
+  }
+
+  .block_cap_badge_tooltip {
+    position: relative;
+    display: inline-block
+  }
+
+  .block_cap_badge_tooltip .block_cap_tooltip_text {
+    visibility: hidden;
+    font-size: 13px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 19px;
+    width: 180px;
+    top: 100%;
+    left: 50%;
+    margin-left: -90px;
+    margin-top: 10px;
+    background-color: #222222;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 5px 2px;
+    border-radius: 4px;
+    position: absolute;
+    z-index: 1;
+  }
+
+  .block_cap_badge_tooltip .block_cap_tooltip_text::after {
+    content: "";
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent black transparent;
+  }
+
+  .block_cap_badge_tooltip:hover .block_cap_tooltip_text {
+    visibility: visible;
+  }
+
+  @media screen and (min-width: 768px) {
+    .b-129446931-top{
+      padding-top: 40
+      px;
+    }
+    .b-129446931-bottom{
+      padding-bottom: 40
+      px;
+    }
+  }
+
+  @media screen and (max-width: 767px) {
+    .block_cap_badge_text {
+      display: block;
+      margin: 8px 0;
+    }
+  }
+</style>
+<section class='container b-129446931-top b-129446931-bottom b-129446931-background_color'>
+<div class="block__pricing__container b-129446931-content_width">
+<form class="block__pricing flex-grow" action="/purchase" method="get">
+<input type="hidden" name="course_id" value="1646361" id="course_id">
+<div class="block__pricing__heading empty_state__heading-text b-129446931-heading_text_color rich-text"><h4><strong><u>Choose a Pricing Option</u></strong></h4></div>
+<div class="block__pricing__plans">
+<label for="3768385">
+<section class="block__pricing__plan" data-id="3768385">
+<div class="block__pricing__plan__radio-wrapper">
+<input checked class="radio block__pricing__plan__radio" name="product_id" type="radio" id="3768385" value="3768385" />
+<div class="block__pricing__plan__radio__custom-indicator"></div>
+</div>
+<div class="block__pricing__plan__text">
+<div class="block__pricing__plan__price" data-include-vat-price=3768385>
+$252
+</div>
+<h3 class="block__pricing__plan__name">The Montessori Babies Course: Pay In Full</h3>
+<h4 class="block__pricing__plan__subtitle">
+A Step-by-Step Course on Understanding and Implementing Montessori in Infancy
+</h4>
+<div class="block__pricing__plan__description__container">
+<button class="block__pricing__plan__description__show-button" type="button">
+<span class="block__pricing__plan__description__show-button__text" data-more="More" data-less="Less">More</span>
+<span class="block__pricing__plan__description__show-button__icon"></span>
+</button>
+<div class="block__pricing__plan__description">
+<p><br></p>
+</div>
+</div>
+</div>
+</section>
+</label>
+</div>
+<div class="block__pricing__button-wrapper">
+<button class="block__pricing__button b-129446931-button_border_radius base-button" type="submit">**Enroll now!**</button>
+</div>
+</form>
+</div>
+</section>
+</div>
+
+<style type='text/css'>.b-129446932-top { padding-top: 22.400000000000002px; } .b-129446932-bottom { padding-bottom: 22.400000000000002px; } .b-129446932-text_color { color: #000000; } .b-129446932-gutter_width { --gutter-width: 24px; } .b-129446932-content_width { width: 960px; } .b-129446932-heading_color { color: #000000; } .b-129446932-text_alignment { text-align: center; } .b-129446932-background_color { background-color: #F2E0D0; } .b-129446932-image_border_radius { border-radius: 0px; }</style>
+<div class="course-block block image_with_text block-custom-name-end " id="block-129446932">
+<style>
+
+  .block__image-with-text .b-129446932-text_color {
+    color: #000000;
+  }
+
+
+
+  .block__image-with-text.b-129446932-background_color {
+    background-color: #F2E0D0;
+  }
+
+
+
+  .block__image-with-text .b-129446932-heading_color .block__image-with-text__inner__heading {
+    color: #000000;
+  }
+
+
+
+  .block__image-with-text .b-129446932-text_alignment {
+    text-align: center;
+  }
+
+
+  .block__image-with-text__image.b-129446932-image_border_radius {
+    border-radius: 0px;
+  }
+
+  .block__image-with-text .block__image-with-text__inner__heading h2{
+    margin-bottom: 2px;
+  }
+
+  .block__image-with-text .block__image-with-text__inner__heading h3{
+    margin-bottom: 5px;
+  }
+
+  .block__image-with-text .block__image-with-text__inner__heading h4{
+    margin-bottom: 9px;
+  }
+
+  .block__image-with-text .block__image-with-text__inner__heading h5{
+    margin-bottom: 11px;
+  }
+
+  .block__image-with-text .block__image-with-text__inner__heading h6{
+    margin-bottom: 14px;
+  }
+
+@media screen and (min-width: 768px) {
+  .b-129446932-top {
+    padding-top: 40px;
+  }
+  .b-129446932-bottom {
+    padding-bottom: 40px;
+  }
+  
+    .b-129446932-gutter_width .block__image-with-text__text-wrapper {
+      width: calc(50% - 12px);
+      
+        margin-left: 12px;
+      
+    }
+    .b-129446932-gutter_width div.block__image-with-text__image {
+      width: calc(50% - 12px);
+      
+        margin-right: 12px;
+      
+    }
+  
+}
+</style>
+<section class='bl container block__image-with-text b-129446932-background_color b-129446932-top b-129446932-bottom b-129446932-gutter_width image-with-text-layout-left'>
+<div class="b-129446932-content_width block__image-with-text__wrapper b-129446932-heading_color b-129446932-text_color b-129446932-text_alignment">
+<div class="block__image-with-text__inner block__image-with-text__image">
+<img src='https://cdn.fs.teachablecdn.com/94tG7nMJR8mTHkHwG6UH' alt='' data-target="block.data.image_url block.data.alt_text" class="block__image-with-text__image b-129446932-image_border_radius image" />
+</div>
+<div class="block__image-with-text__inner block__image-with-text__text-wrapper rich-text">
+<div class="block__image-with-text__inner__heading">
+<h3 class="ql-align-center"><strong>Let's ease into your Montessori journey equipped with the knowledge, skills, and confidence to create a Montessori Experience that optimizes your baby’s development every step of the way!</strong></h3>
+</div>
+</div>
+</div>
+</section>
+</div>
+
+<style type='text/css'>.b-129446933-top { padding-top: 22.400000000000002px; } .b-129446933-bottom { padding-bottom: 22.400000000000002px; } .b-129446933-background_color { background-color: #D6854F; } .b-129446933-button_border_radius { border-radius: 25px; }</style>
+<div class="course-block block button  " id="block-129446933">
+<style>
+
+  .block__button--button.b-129446933-button_border_radius {
+    border-radius: 25px;
+  }
+
+  @media screen and (min-width: 768px) {
+    .b-129446933-top {
+      padding-top: 40px;
+    }
+    .b-129446933-bottom {
+      padding-bottom: 40px;
+    }
+  }
+</style>
+<section class="container bl b-129446933-background_color b-129446933-bottom b-129446933-top">
+<div class="block__button">
+<a href='https://babytourguide.teachable.com/purchase?product_id=3768385' target="_blank" rel="noopener" class='block__button--link'>
+<button class='block__button--button b-129446933-button_border_radius base-button' data-target="block.data.button_text">
+**Enroll Now!**
+</button>
+</a>
+</div>
+</section>
+</div>
+
+<div class="course-block block custom_html  " id="block-129446934">
+
+<style>
+  .blank-template-body {
+  color: #36414D;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  opacity: 0.6;
+  width: 750px;
+  text-align: left;
+  }
+</style>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" data-cfasync="false">function SendUrlToDeadlineFunnel(e){var r,t,c,a,h,n,o,A,i = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",d=0,l=0,s="",u=[];if(!e)return e;do r=e.charCodeAt(d++),t=e.charCodeAt(d++),c=e.charCodeAt(d++),A=r<<16|t<<8|c,a=A>>18&63,h=A>>12&63,n=A>>6&63,o=63&A,u[l++]=i.charAt(a)+i.charAt(h)+i.charAt(n)+i.charAt(o);while(d<e.length);s=u.join("");var C=e.length%3;var decoded = (C?s.slice(0,C-3):s)+"===".slice(C||3);decoded = decoded.replace("+", "-");decoded = decoded.replace("/", "_");return decoded;} var dfUrl = SendUrlToDeadlineFunnel(location.href); var dfParentUrlValue;try {dfParentUrlValue = window.parent.location.href;} catch(err) {if(err.name === "SecurityError") {dfParentUrlValue = document.referrer;}}var dfParentUrl = (parent !== window) ? ("/" + SendUrlToDeadlineFunnel(dfParentUrlValue)) : "";(function() {var s = document.createElement("script");s.type = "text/javascript";s.async = true;s.setAttribute("data-scriptid", "dfunifiedcode");s.src ="https://a.deadlinefunnel.com/unified/reactunified.bundle.js?userIdHash=eyJpdiI6InordkcwRGZ5aDJQdlFVd1pDNTdvNEE9PSIsInZhbHVlIjoiS3BNdSs1SkFTTng4cENlZ2JCcU15dz09IiwibWFjIjoiYmZiZDE0YTVhZmJkOGIxNWYyMjhhYjEzOGQ3YWIwYTVjMTM5ZGM2NThjMjVkNjY5ZWVmOTI2MDgwNTBlYzNmNyJ9&pageFromUrl="+dfUrl+"&parentPageFromUrl="+dfParentUrl;var s2 = document.getElementsByTagName("script")[0];s2.parentNode.insertBefore(s, s2);})();</script>
+</div>
+</div>
+</main>
+<style id="footerStyles">
+  :root {
+    --footer_width: 960px;
+  }
+</style>
+<footer class=''>
+<div class="footer">
+<div class='footer__wrapper'>
+<div class='footer__inner'>
+<ul class="footer__list">
+<li class="footer__copyright">
+&copy;
+Baby Tour Guide
+2023
+</li>
+</ul>
+<ul class="footer__list legal-links">
+<li>
+<a href="/p/terms">
+Terms of Use
+</a>
+</li>
+<li>
+<a href="/p/privacy">
+Privacy Policy
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<script>
+      if (!Element.prototype.closest) {
+        Element.prototype.closest = function(s) {
+          let el = this;
+          do {
+            if (el.matches(s))
+              return el;
+
+
+            el = el.parentElement || el.parentNode;
+          } while (el !== null && el.nodeType === 1);
+          return null;
+        };
+      }
+      const offMenu = event => {
+        if (event.target.closest('.navbar__menu'))
+          return
+
+
+
+        document.querySelectorAll('.menu').forEach(item => {
+          item.classList.add('hidden')
+          item.setAttribute('aria-hidden', 'true')
+        })
+      }
+      const toggleMenu = id => {
+  const el = document.getElementById(id)
+  if (el.classList.contains('hidden')) {
+    document
+      .querySelectorAll('.inner-menu')
+      .forEach(item => {
+        item.classList.add('hidden')
+        item.setAttribute('aria-hidden', 'true')
+      })
+    el.classList.remove('hidden')
+    el.setAttribute('aria-hidden', 'false')
+  } else {
+    el.classList.add('hidden')
+    el.setAttribute('aria-hidden', 'true')
+  }
+  !el.classList.contains('hidden') && el.focus()
+}
+
+
+// toggle open class for v2 preview bar dropdown menu
+      const v2Dropdown = document.getElementsByClassName('v2-dropdown')[0]
+      const v2DropdownTrigger = document.querySelector('.v2-dropdown .menu-trigger')
+
+// if the preview bar dropdown exists, add event listener to toggle preview menu
+      if (!! v2Dropdown) {
+        v2DropdownTrigger.addEventListener('click', () => {
+          v2Dropdown.classList.toggle('open')
+        })
+      }
+
+      const domBody = document.body
+      const usingMouse = 'using-mouse'
+      domBody.addEventListener('mousedown', () => {
+        domBody.classList.add(usingMouse)
+      })
+      domBody.addEventListener('keydown', () => {
+        domBody.classList.remove(usingMouse)
+      })
+
+      const headerEl = document.querySelector('#navbar')
+      const topHook = document.querySelector('#top')
+      if ("IntersectionObserver" in window) {
+        const observer = new IntersectionObserver(entries => {
+          if (entries[0].boundingClientRect.y < 0) {
+            headerEl.classList.remove('at-top')
+          } else {
+            headerEl.classList.add('at-top')
+          }
+        }, {threshold: 1});
+        observer.observe(topHook)
+      }
+    </script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'7cfb16a13a8720d6',m:'_QqWSRBO6upsz9G6d7vuMmUnffIaSbGWIldSfImXZH0-1685492818-0-AeKwoP2J76P5fJZr590lOzHJc5molGXbZ++s/EYLzlVa',u:'/cdn-cgi/challenge-platform/h/b'};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/invisible.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

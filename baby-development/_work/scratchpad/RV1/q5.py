@@ -1,0 +1,15 @@
+Q = [
+("sprouty-ca-12369603877","objection",["price_value","cancellation"],"unknown","I did not agree to any subscriptions, I just wanted to look at the APP.","1-star review: charged 41.99 after deleting the app.",None),
+("sprouty-ca-13072463789","objection",["price_value"],"unknown","Took all my info just for them to say hey you gotta pay … waste of my time","Whole body of a 1-star review.",None),
+("sprouty-ca-14443523092","objection",["price_value"],"unknown","Have to give a lot of information just to hit a paywall, free version lacks any useful functionality","Whole body of a 1-star review.",None),
+("sprouty-ca-14471299359","pain",["screen_time","app_tracking"],"unknown","I just wanted to track my baby, but now I can’t open the app without my baby interested on what’s on the screen.","2-star review from a paying member about a brighter redesign.",None),
+("sprouty-ca-14471299359","desire",["app_tracking"],"unknown","I paid for my membership because I really enjoyed the low stimulating, calm and yet cute tracking system.","Same review.",None),
+("sprouty-au-14632823043","objection",["partner","price_value"],"unknown","we paid for the duo version but if one of us logs a bottle, it doesn’t update in the other persons app!","4-star review.",None),
+("sprouty-au-14412818263","success_story",["play_ideas","milestone_comparison"],"newborn_0_8_weeks","I was not sure what exercise I should do, how to track my wet nappies and poo but now after having this app for two days. I can interact with my baby more, exercises is my favourite part and also, milestones.","5-star review from a first-time mum of a baby born early.","review names a premature baby (medical)"),
+("sprouty-au-12510892501","success_story",["play_ideas"],"newborn_0_8_weeks","it’s helping me engage more with my newborn in ways I never thought i could.","5-star review.",None),
+("sprouty-au-11517330046","objection",["partner","price_value","leaps"],"unknown","Both Parents can’t use same account pretty useless in terms of that! Not paying twice!  Content ok but the leaps are not explained properly!","3-star review.",None),
+("sprouty-au-14227192500","tried_failed",["corrected_age","personalization"],"baby_2_4_months","Asks for how many weeks they were born at but gives actual age meaning activities were for a 6 month old rather than a 2 month corrected.","2-star review titled 'Doesn’t calc corrected date'; recommended by a friend.","names preterm birth (medical)"),
+("sprouty-au-13684563289","tried_failed",["play_ideas"],"unknown","I installed this app and found the activities so basic and the same every day for months, so decided to delete.","1-star review.",None),
+("sprouty-au-12590630816","belief",["leaps","price_value"],"unknown","from the free trial it looks okay and validates why bubba might be a bit cranky that week due to new skills emerging but otherwise not really helpful","2-star review titled 'Paid app'.",None),
+("sprouty-au-12973663055","regret",["price_value"],"unknown","I paid for the yearly subscription but deleted the apps. I don’t find this helpful.","1-star review.",None),
+]

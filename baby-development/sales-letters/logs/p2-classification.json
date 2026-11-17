@@ -1,0 +1,1165 @@
+[
+  {
+    "slug": "baby-milestones",
+    "category": "core",
+    "product": "A Practical Guide to Baby Milestones",
+    "price_seen": "2010 $10; 2013/16 $14.70",
+    "description": "0–24-month milestone ebook; changed headline and price; 8-week/56-day refund.",
+    "captures": [
+      {
+        "slug": "baby-milestones",
+        "timestamp": "20100117074328",
+        "url": "http://www.babydevelopmentnews.com:80/babymilestoneguide.html",
+        "file": "_raw/sales-letters/baby-milestones--20100117074328.txt",
+        "http": "200",
+        "words": 1359,
+        "letter": "yes",
+        "note": "Core 0–24-month milestone ebook letter; $10 order CTA; 8-week/56-day money-back guarantee; body exceeds 1,200 words."
+      },
+      {
+        "slug": "baby-milestones",
+        "timestamp": "20130131124554",
+        "url": "http://www.babydevelopmentnews.com:80/babymilestoneguide.html?",
+        "file": "_raw/sales-letters/baby-milestones--20130131124554.txt",
+        "http": "200",
+        "words": 1373,
+        "letter": "yes",
+        "note": "Core 0–24-month milestone ebook letter; $14.70 order CTA; 8-week/56-day money-back guarantee; body exceeds 1,200 words."
+      },
+      {
+        "slug": "baby-milestones",
+        "timestamp": "20160114023855",
+        "url": "http://www.babydevelopmentnews.com/babymilestoneguide.html",
+        "file": "_raw/sales-letters/baby-milestones--20160114023855.txt",
+        "http": "200",
+        "words": 1373,
+        "letter": "yes",
+        "note": "Core 0–24-month milestone ebook letter; $14.70 order CTA; 8-week/56-day money-back guarantee; body exceeds 1,200 words."
+      }
+    ]
+  },
+  {
+    "slug": "babypillars",
+    "category": "landing",
+    "product": "BabyPillars",
+    "price_seen": "No numeric programme price in saved text",
+    "description": "2016 video-programme homepage and 2019 quiz opt-in; neither is long form. Stopped after second year.",
+    "captures": [
+      {
+        "slug": "babypillars",
+        "timestamp": "20160504183614",
+        "url": "http://www.babypillars.com:80/?",
+        "file": "_raw/sales-letters/babypillars--20160504183614.txt",
+        "http": "200",
+        "words": 745,
+        "letter": "landing",
+        "note": "Core video-programme homepage; 745 total words including menus/blog excerpts; not a long-form letter."
+      },
+      {
+        "slug": "babypillars",
+        "timestamp": "20190201123302",
+        "url": "https://www.babypillars.com/",
+        "file": "_raw/sales-letters/babypillars--20190201123302.txt",
+        "http": "200",
+        "words": 188,
+        "letter": "landing",
+        "note": "188-word quiz lead-generation page; no long-form offer. Stopped after second year."
+      }
+    ]
+  },
+  {
+    "slug": "active-babies",
+    "category": "landing",
+    "product": "Active Babies Smart Kids",
+    "price_seen": "Free series",
+    "description": "Free registration/video-series page; duplicate episode descriptions inflate WORDS. No paid CTA. Sales-path discovery CDX failed with 503.",
+    "captures": [
+      {
+        "slug": "active-babies",
+        "timestamp": "20160101144840",
+        "url": "http://activebabiessmartkids.com.au/",
+        "file": "_raw/sales-letters/active-babies--20160101144840.txt",
+        "http": "200",
+        "words": 3349,
+        "letter": "landing",
+        "note": "Free registration/video-series page, duplicated episode descriptions; no paid offer or buy CTA."
+      }
+    ]
+  },
+  {
+    "slug": "play-develop-thrive",
+    "category": "core",
+    "product": "Play, Develop, Thrive / Bright Beginnings",
+    "price_seen": "Buy/join CTA; numeric price absent",
+    "description": "Infant care/play/development course; 30-day refund. 2022 FAQ says 0–6 months despite 12-month headline; later copy says 0–12. One gzip extraction failed.",
+    "captures": [
+      {
+        "slug": "play-develop-thrive",
+        "timestamp": "20220926061658",
+        "url": "https://brightestbeginning.com/courses/play-develop-thrive/",
+        "file": "_raw/sales-letters/play-develop-thrive--20220926061658.txt",
+        "http": "200",
+        "words": 2574,
+        "letter": "yes",
+        "note": "Core development/play course; >1,200 sales-body words excluding duplicated testimonials; buy CTA; 30-day refund. FAQ says 0–6 months despite 12-month headline."
+      },
+      {
+        "slug": "play-develop-thrive",
+        "timestamp": "20230301115112",
+        "url": "https://brightestbeginning.com/courses/play-develop-thrive/",
+        "file": "_raw/sales-letters/play-develop-thrive--20230301115112.txt",
+        "http": "200",
+        "words": 585,
+        "letter": "no",
+        "note": "Extraction failure: gzip payload decoded as garbage by helper; header WORDS is invalid. Raw kept unchanged; alternate 2023 capture saved after helper fix."
+      },
+      {
+        "slug": "play-develop-thrive",
+        "timestamp": "20240421112446",
+        "url": "https://brightestbeginning.com/courses/play-develop-thrive/",
+        "file": "_raw/sales-letters/play-develop-thrive--20240421112446.txt",
+        "http": "200",
+        "words": 2278,
+        "letter": "yes",
+        "note": "Core 0–12-month development/play course letter; buy/join CTA; 30-day money-back guarantee; numeric price not shown."
+      },
+      {
+        "slug": "play-develop-thrive",
+        "timestamp": "20230322062000",
+        "url": "https://brightestbeginning.com/courses/play-develop-thrive/",
+        "file": "_raw/sales-letters/play-develop-thrive--20230322062000.txt",
+        "http": "200",
+        "words": 2278,
+        "letter": "yes",
+        "note": "Core 0–12-month development/play course letter; buy/join CTA; 30-day money-back guarantee; numeric price not shown."
+      }
+    ]
+  },
+  {
+    "slug": "childs-genius",
+    "category": "adjacent",
+    "product": "How to Develop Your Child’s Genius",
+    "price_seen": "$67 all years",
+    "description": "Birth/age-two origin story through school/university giftedness; broad early-learning adjacent, not a baby-only programme; 60-day refund.",
+    "captures": [
+      {
+        "slug": "childs-genius",
+        "timestamp": "20080112011131",
+        "url": "http://www.all-gifted-children.com:80/package-c.htm?",
+        "file": "_raw/sales-letters/childs-genius--20080112011131.txt",
+        "http": "200",
+        "words": 1859,
+        "letter": "yes",
+        "note": "Early-learning adjacent letter, birth/age-two anecdotes through school-age benefits; $67 package; 60-day refund; >1,200 sales-body words."
+      },
+      {
+        "slug": "childs-genius",
+        "timestamp": "20100123001342",
+        "url": "http://www.all-gifted-children.com:80/package-c.htm",
+        "file": "_raw/sales-letters/childs-genius--20100123001342.txt",
+        "http": "200",
+        "words": 1951,
+        "letter": "yes",
+        "note": "Early-learning adjacent letter, birth/age-two anecdotes through school-age benefits; $67 package; 60-day refund; >1,200 sales-body words."
+      },
+      {
+        "slug": "childs-genius",
+        "timestamp": "20120126082931",
+        "url": "http://www.all-gifted-children.com:80/package-c.htm?",
+        "file": "_raw/sales-letters/childs-genius--20120126082931.txt",
+        "http": "200",
+        "words": 1951,
+        "letter": "yes",
+        "note": "Early-learning adjacent letter, birth/age-two anecdotes through school-age benefits; $67 package; 60-day refund; >1,200 sales-body words."
+      }
+    ]
+  },
+  {
+    "slug": "baby-massage",
+    "category": "no",
+    "product": "baby-massage.com",
+    "price_seen": "No baby-offer price",
+    "description": "Domain parking in both years. $2,910 / minimum offers are domain ownership amounts, not an infant-massage programme.",
+    "captures": [
+      {
+        "slug": "baby-massage",
+        "timestamp": "20110201170058",
+        "url": "http://baby-massage.com/",
+        "file": "_raw/sales-letters/baby-massage--20110201170058.txt",
+        "http": "200",
+        "words": 639,
+        "letter": "no",
+        "note": "Domain-for-sale parking page; not an infant-massage programme. Dollar amounts refer to domain ownership, not a baby offer."
+      },
+      {
+        "slug": "baby-massage",
+        "timestamp": "20211126195014",
+        "url": "http://baby-massage.com/",
+        "file": "_raw/sales-letters/baby-massage--20211126195014.txt",
+        "http": "200",
+        "words": 574,
+        "letter": "no",
+        "note": "Domain-for-sale parking page; not an infant-massage programme. Dollar amounts refer to domain ownership, not a baby offer."
+      }
+    ]
+  },
+  {
+    "slug": "milestones-motherhood",
+    "category": "landing",
+    "product": "Milestones & Motherhood",
+    "price_seen": "No numeric course price in saved text",
+    "description": "0–36-month guide homepage and short class catalogue. Found tummy-time/roll-sit/crawling/walking ThriveCart checkout paths; not long letters.",
+    "captures": [
+      {
+        "slug": "milestones-motherhood",
+        "timestamp": "20220414165451",
+        "url": "https://www.milestonesandmotherhood.com/",
+        "file": "_raw/sales-letters/milestones-motherhood--20220414165451.txt",
+        "http": "200",
+        "words": 632,
+        "letter": "landing",
+        "note": "632-word developmental-guide homepage with shop CTA; not long form."
+      },
+      {
+        "slug": "milestones-motherhood",
+        "timestamp": "20221119032454",
+        "url": "https://www.milestonesandmotherhood.com/classes",
+        "file": "_raw/sales-letters/milestones-motherhood--20221119032454.txt",
+        "http": "200",
+        "words": 684,
+        "letter": "landing",
+        "note": "684-word masterclass catalogue; tummy-time and other course checkout paths found on ThriveCart; not one long-form letter. Stopped after linked subpath."
+      }
+    ]
+  },
+  {
+    "slug": "how-to-play",
+    "category": "landing",
+    "product": "How To Play With Your Baby",
+    "price_seen": "$19 both years",
+    "description": "Newborn–3-month ebook; 388-word sales landing in 2023/24; no guarantee found.",
+    "captures": [
+      {
+        "slug": "how-to-play",
+        "timestamp": "20230603182551",
+        "url": "https://www.healthiest-baby.com/how-to-play-with-your-baby",
+        "file": "_raw/sales-letters/how-to-play--20230603182551.txt",
+        "http": "200",
+        "words": 388,
+        "letter": "landing",
+        "note": "Newborn–3-month ebook; $19 buy CTA; only 388 words; no guarantee shown."
+      },
+      {
+        "slug": "how-to-play",
+        "timestamp": "20240414015448",
+        "url": "https://www.healthiest-baby.com/how-to-play-with-your-baby",
+        "file": "_raw/sales-letters/how-to-play--20240414015448.txt",
+        "http": "200",
+        "words": 388,
+        "letter": "landing",
+        "note": "Newborn–3-month ebook; $19 buy CTA; 388 words again; stopped after second year."
+      }
+    ]
+  },
+  {
+    "slug": "your-child-development",
+    "category": "landing",
+    "product": "Your Child Development System",
+    "price_seen": "No price in saved text",
+    "description": "503-word opt-in page confirms identity. Combined unresolved-offer probe ended at six requests; no further fetch.",
+    "captures": [
+      {
+        "slug": "your-child-development",
+        "timestamp": "20121012022705",
+        "url": "http://yourchilddevelopmentsystem.com:80/?",
+        "file": "_raw/sales-letters/your-child-development--20121012022705.txt",
+        "http": "200",
+        "words": 503,
+        "letter": "landing",
+        "note": "503-word opt-in page; correct programme identity, no long-form body. Combined unresolved-offer probe stopped at six requests; educatingbabies.com target traced but not fetched."
+      }
+    ]
+  },
+  {
+    "slug": "mommy-jingles",
+    "category": "landing",
+    "product": "Mommy Jingles Musical Parenting Program",
+    "price_seen": "2014 $47; 2016 $27",
+    "description": "Short video/offer wrapper for eight musical-parenting videos plus cards/lyrics/audio.",
+    "captures": [
+      {
+        "slug": "mommy-jingles",
+        "timestamp": "20160204203121",
+        "url": "http://www.mommyjingles.com:80/introduction?",
+        "file": "_raw/sales-letters/mommy-jingles--20160204203121.txt",
+        "http": "200",
+        "words": 224,
+        "letter": "landing",
+        "note": "224-word musical-parenting offer; $27; eight videos plus cards/lyrics/audio; no long text letter."
+      },
+      {
+        "slug": "mommy-jingles",
+        "timestamp": "20141013172835",
+        "url": "http://www.mommyjingles.com/introduction",
+        "file": "_raw/sales-letters/mommy-jingles--20141013172835.txt",
+        "http": "200",
+        "words": 120,
+        "letter": "landing",
+        "note": "120-word offer wrapper; $47; stopped after other year."
+      }
+    ]
+  },
+  {
+    "slug": "your-baby-can-read",
+    "category": "landing",
+    "product": "Your Baby Can Read",
+    "price_seen": "2012 $14.95 trial + 2 × $67.50 = $149.95 before tax",
+    "description": "2009 image wrapper / 2012 payment disclosures; conditional 30-day return/refund; shipping/processing exclusions; not long form.",
+    "captures": [
+      {
+        "slug": "your-baby-can-read",
+        "timestamp": "20090221201037",
+        "url": "http://www.yourbabycanread.com:80/?",
+        "file": "_raw/sales-letters/your-baby-can-read--20090221201037.txt",
+        "http": "200",
+        "words": 83,
+        "letter": "landing",
+        "note": "83-word image/video product wrapper with order navigation; text not long form."
+      },
+      {
+        "slug": "your-baby-can-read",
+        "timestamp": "20120104191207",
+        "url": "http://www.yourbabycanread.com/",
+        "file": "_raw/sales-letters/your-baby-can-read--20120104191207.txt",
+        "http": "200",
+        "words": 263,
+        "letter": "landing",
+        "note": "263-word offer/disclosure wrapper; $14.95 trial plus two $67.50 payments; conditional 30-day return/refund; no long-form body."
+      }
+    ]
+  },
+  {
+    "slug": "little-reader",
+    "category": "landing",
+    "product": "BrillKids Little Reader",
+    "price_seen": "Basic from US$149; Deluxe US$399",
+    "description": "Root catalogue plus /teach-reading/ sales path; 855/866 total words with large menus. Little Math US$119 is a different product.",
+    "captures": [
+      {
+        "slug": "little-reader",
+        "timestamp": "20110113193546",
+        "url": "http://www.brillkids.com:80/",
+        "file": "_raw/sales-letters/little-reader--20110113193546.txt",
+        "http": "200",
+        "words": 855,
+        "letter": "landing",
+        "note": "855-word seller/catalogue homepage incl menus/news; Little Reader Basic from US$149, Deluxe US$399."
+      },
+      {
+        "slug": "little-reader",
+        "timestamp": "20110208174417",
+        "url": "http://www.brillkids.com/teach-reading/",
+        "file": "_raw/sales-letters/little-reader--20110208174417.txt",
+        "http": "200",
+        "words": 866,
+        "letter": "landing",
+        "note": "Little Reader product sales path found; only 866 total words incl large menu; multipage brochure rather than >=1,200-word letter."
+      }
+    ]
+  },
+  {
+    "slug": "gentle-revolution",
+    "category": "landing",
+    "product": "Gentle Revolution / Doman books",
+    "price_seen": "2008 VHS liquidation $15 per listed title",
+    "description": "Publisher/store homepages; no single long letter. 2016 links many books/courses.",
+    "captures": [
+      {
+        "slug": "gentle-revolution",
+        "timestamp": "20080112014029",
+        "url": "http://www.gentlerevolution.com:80/",
+        "file": "_raw/sales-letters/gentle-revolution--20080112014029.txt",
+        "http": "200",
+        "words": 157,
+        "letter": "landing",
+        "note": "157-word publisher/store landing; $15 VHS liquidation titles including Teach Your Baby To Read; no long-form letter."
+      },
+      {
+        "slug": "gentle-revolution",
+        "timestamp": "20160105021216",
+        "url": "http://www.gentlerevolution.com:80/",
+        "file": "_raw/sales-letters/gentle-revolution--20160105021216.txt",
+        "http": "200",
+        "words": 356,
+        "letter": "landing",
+        "note": "356-word catalogue/institutional homepage; multiple books, videos and courses; no single sales letter."
+      }
+    ]
+  },
+  {
+    "slug": "children-learning-reading",
+    "category": "adjacent",
+    "product": "Children Learning Reading",
+    "price_seen": "2012 $37 promo / $57 regular; 2015/18 $49.95",
+    "description": "Age-two-and-older reading programme; speaking ability required; 60-day refund. Long testimonials are integrated in the letter.",
+    "captures": [
+      {
+        "slug": "children-learning-reading",
+        "timestamp": "20120114194846",
+        "url": "http://www.childrenlearningreading.com/",
+        "file": "_raw/sales-letters/children-learning-reading--20120114194846.txt",
+        "http": "200",
+        "words": 9802,
+        "letter": "yes",
+        "note": "Age-2+ reading adjacent letter; $37 promotional/$57 regular; 60-day refund; long narrative, mechanism, proof and offer."
+      },
+      {
+        "slug": "children-learning-reading",
+        "timestamp": "20150102045337",
+        "url": "http://www.childrenlearningreading.com:80/?",
+        "file": "_raw/sales-letters/children-learning-reading--20150102045337.txt",
+        "http": "200",
+        "words": 17075,
+        "letter": "yes",
+        "note": "Age-2+ reading adjacent letter; $49.95 standard package; 60-day refund; 17,075 total words include extensive testimonials."
+      },
+      {
+        "slug": "children-learning-reading",
+        "timestamp": "20180105210614",
+        "url": "http://www.childrenlearningreading.com/",
+        "file": "_raw/sales-letters/children-learning-reading--20180105210614.txt",
+        "http": "200",
+        "words": 6381,
+        "letter": "yes",
+        "note": "Age-2+ reading adjacent letter; $49.95 standard package; 60-day refund; 6,381-word text letter."
+      }
+    ]
+  },
+  {
+    "slug": "reading-head-start",
+    "category": "landing",
+    "product": "Reading Head Start",
+    "price_seen": "$297 lifetime; $197 annual; $1 trial then $37/month",
+    "description": "VSL/pricing wrappers; 2019 has 365-day refund but only 861 total words.",
+    "captures": [
+      {
+        "slug": "reading-head-start",
+        "timestamp": "20170713100440",
+        "url": "http://www.readingheadstart.com/",
+        "file": "_raw/sales-letters/reading-head-start--20170713100440.txt",
+        "http": "200",
+        "words": 142,
+        "letter": "landing",
+        "note": "142-word VSL/pricing wrapper; $297 lifetime, $197 annual, $1 trial then $37/mo; not a text letter."
+      },
+      {
+        "slug": "reading-head-start",
+        "timestamp": "20190118035236",
+        "url": "https://www.readingheadstart.com/",
+        "file": "_raw/sales-letters/reading-head-start--20190118035236.txt",
+        "http": "200",
+        "words": 861,
+        "letter": "landing",
+        "note": "861-word pricing/testimonial/VSL wrapper; $297 lifetime/$197 year/$1 then $37/mo; 365-day refund; below 1,200 words."
+      }
+    ]
+  },
+  {
+    "slug": "wink-to-learn",
+    "category": "landing",
+    "product": "Wink to Learn",
+    "price_seen": "Selected 4-DVD programmes S$88",
+    "description": "Multilingual-DVD catalogue; 897 words including repeated navigation/Flash placeholders; not one letter.",
+    "captures": [
+      {
+        "slug": "wink-to-learn",
+        "timestamp": "20120112094939",
+        "url": "http://www.winktolearn.com/",
+        "file": "_raw/sales-letters/wink-to-learn--20120112094939.txt",
+        "http": "200",
+        "words": 897,
+        "letter": "landing",
+        "note": "897-word multilingual-DVD catalogue including many Flash placeholders; English 4-DVD programme S$88; no single long-form letter."
+      }
+    ]
+  },
+  {
+    "slug": "intellectual-baby",
+    "category": "no",
+    "product": "Intellectual Baby domain",
+    "price_seen": "No baby-offer price",
+    "description": "2013 registrar parking; 2021 zero-word JavaScript advertising shell. MonkiSee identity not evidenced.",
+    "captures": [
+      {
+        "slug": "intellectual-baby",
+        "timestamp": "20130917185154",
+        "url": "http://www.intellectualbaby.com/",
+        "file": "_raw/sales-letters/intellectual-baby--20130917185154.txt",
+        "http": "200",
+        "words": 186,
+        "letter": "no",
+        "note": "123-reg domain parking; no MonkiSee/baby-learning offer evidenced."
+      },
+      {
+        "slug": "intellectual-baby",
+        "timestamp": "20211208031117",
+        "url": "http://intellectualbaby.com/",
+        "file": "_raw/sales-letters/intellectual-baby--20211208031117.txt",
+        "http": "200",
+        "words": 0,
+        "letter": "no",
+        "note": "HTTP 200 but zero extracted words/JavaScript shell; no letter. Stopped after second year."
+      }
+    ]
+  },
+  {
+    "slug": "baby-genius",
+    "category": "landing",
+    "product": "Baby Genius",
+    "price_seen": "No numeric product price",
+    "description": "Toy/CD/DVD/book catalogue and later brand landing; short, no one-page long letter.",
+    "captures": [
+      {
+        "slug": "baby-genius",
+        "timestamp": "20110111072822",
+        "url": "http://www.babygenius.com/",
+        "file": "_raw/sales-letters/baby-genius--20110111072822.txt",
+        "http": "200",
+        "words": 480,
+        "letter": "landing",
+        "note": "480-word toy/CD/DVD/book catalogue with large menu; no long-form letter."
+      },
+      {
+        "slug": "baby-genius",
+        "timestamp": "20160116231623",
+        "url": "http://www.babygenius.com/",
+        "file": "_raw/sales-letters/baby-genius--20160116231623.txt",
+        "http": "200",
+        "words": 217,
+        "letter": "landing",
+        "note": "217-word brand/product landing; shop CTA; no long body."
+      }
+    ]
+  },
+  {
+    "slug": "brainy-baby",
+    "category": "landing",
+    "product": "Brainy Baby",
+    "price_seen": "No numeric product price; $49 is shipping threshold",
+    "description": "Brand/catalogue pages, 715/107 words; not long form.",
+    "captures": [
+      {
+        "slug": "brainy-baby",
+        "timestamp": "20110128184233",
+        "url": "http://www.brainybaby.com/",
+        "file": "_raw/sales-letters/brainy-baby--20110128184233.txt",
+        "http": "200",
+        "words": 107,
+        "letter": "landing",
+        "note": "107-word store/menu shell; $49 is free-shipping threshold, not product price."
+      },
+      {
+        "slug": "brainy-baby",
+        "timestamp": "20080513222954",
+        "url": "http://www.brainybaby.com/",
+        "file": "_raw/sales-letters/brainy-baby--20080513222954.txt",
+        "http": "200",
+        "words": 715,
+        "letter": "landing",
+        "note": "715-word brand/catalogue page; video/book/music offers; no >=1,200-word letter."
+      }
+    ]
+  },
+  {
+    "slug": "signing-for-babies",
+    "category": "adjacent",
+    "product": "Sign Language for Babies and Beyond",
+    "price_seen": "2008 $33.52; 2012/16 $15; regular $49.95",
+    "description": "Infant-signing ebook/video offer with 250-sign demonstration and bonuses; 60-day refund.",
+    "captures": [
+      {
+        "slug": "signing-for-babies",
+        "timestamp": "20080105074350",
+        "url": "http://www.signing4babies.com:80/?",
+        "file": "_raw/sales-letters/signing-for-babies--20080105074350.txt",
+        "http": "200",
+        "words": 2638,
+        "letter": "yes",
+        "note": "Infant-signing adjacent ebook/video letter; $33.52 promotional/$49.95 regular; 60-day refund; continuous sales body >1,200 words."
+      },
+      {
+        "slug": "signing-for-babies",
+        "timestamp": "20120101164146",
+        "url": "http://signing4babies.com:80/",
+        "file": "_raw/sales-letters/signing-for-babies--20120101164146.txt",
+        "http": "200",
+        "words": 2627,
+        "letter": "yes",
+        "note": "Infant-signing adjacent ebook/video letter; $15 promotional/$49.95 regular; 60-day refund; continuous sales body >1,200 words."
+      },
+      {
+        "slug": "signing-for-babies",
+        "timestamp": "20160111012429",
+        "url": "http://signing4babies.com/",
+        "file": "_raw/sales-letters/signing-for-babies--20160111012429.txt",
+        "http": "200",
+        "words": 2586,
+        "letter": "yes",
+        "note": "Infant-signing adjacent ebook/video letter; $15 promotional/$49.95 regular; 60-day refund; continuous sales body >1,200 words."
+      }
+    ]
+  },
+  {
+    "slug": "baby-sign-language",
+    "category": "landing",
+    "product": "Baby Sign Language guide / Deluxe Kit",
+    "price_seen": "2021 Deluxe $57.95 sale / $98.95 list",
+    "description": "Guide short; Deluxe page totals 5,109 but only 1,039 seller-description/guarantee words, bulk is auto customer reviews/navigation. No-time-limit return/refund promise.",
+    "captures": [
+      {
+        "slug": "baby-sign-language",
+        "timestamp": "20210419062700",
+        "url": "https://www.babysignlanguage.com/basic-full-screen/",
+        "file": "_raw/sales-letters/baby-sign-language--20210419062700.txt",
+        "http": "200",
+        "words": 663,
+        "letter": "landing",
+        "note": "663-word quick-start guide/shop sidebar; kit promotion with unlimited-time refund, not long-form letter."
+      },
+      {
+        "slug": "baby-sign-language",
+        "timestamp": "20211021152944",
+        "url": "https://www.babysignlanguage.com/product/deluxe-kit/",
+        "file": "_raw/sales-letters/baby-sign-language--20211021152944.txt",
+        "http": "200",
+        "words": 5109,
+        "letter": "landing",
+        "note": "Deluxe Kit single-product page: 5,109 total words but 1,039 seller-description/guarantee words; bulk is 32 customer reviews plus navigation/related products. $57.95 sale/$98.95 list; no-time-limit return guarantee."
+      }
+    ]
+  },
+  {
+    "slug": "help-your-child-speak",
+    "category": "outside",
+    "product": "How to Help Your Child Learn to Talk Better",
+    "price_seen": "$39 (2010/12)",
+    "description": "YES in letter format, excluded from target count: therapeutic speech-difficulty pitch explicitly for 2½–3+ years; 56-day/8-week refund. 2016 root short.",
+    "captures": [
+      {
+        "slug": "help-your-child-speak",
+        "timestamp": "20100131081101",
+        "url": "http://www.helpyourchildspeak.com:80/",
+        "file": "_raw/sales-letters/help-your-child-speak--20100131081101.txt",
+        "http": "200",
+        "words": 3324,
+        "letter": "yes",
+        "note": "Letter format confirmed, but OUTSIDE requested baby/early-learning target count: therapeutic speech-difficulty guide explicitly for 2.5–3+ years. $39; 56-day/8-week refund."
+      },
+      {
+        "slug": "help-your-child-speak",
+        "timestamp": "20120213155002",
+        "url": "http://www.helpyourchildspeak.com:80/?",
+        "file": "_raw/sales-letters/help-your-child-speak--20120213155002.txt",
+        "http": "200",
+        "words": 3324,
+        "letter": "yes",
+        "note": "Letter format confirmed, but OUTSIDE target count: therapeutic older-child speech guide. $39; 56-day/8-week refund; same text as 2010."
+      },
+      {
+        "slug": "help-your-child-speak",
+        "timestamp": "20160110055329",
+        "url": "http://helpyourchildspeak.com/",
+        "file": "_raw/sales-letters/help-your-child-speak--20160110055329.txt",
+        "http": "200",
+        "words": 167,
+        "letter": "landing",
+        "note": "167-word redesigned video homepage; no long-form letter."
+      }
+    ]
+  },
+  {
+    "slug": "baby-sleep-miracle",
+    "category": "landing",
+    "product": "Baby Sleep Miracle",
+    "price_seen": "2017 $37",
+    "description": "2017 VSL/comments wrapper, 862 words; 2022 one-word JavaScript index shell.",
+    "captures": [
+      {
+        "slug": "baby-sleep-miracle",
+        "timestamp": "20170101164901",
+        "url": "http://babysleepmiracle.com:80/?",
+        "file": "_raw/sales-letters/baby-sleep-miracle--20170101164901.txt",
+        "http": "200",
+        "words": 862,
+        "letter": "landing",
+        "note": "862-word VSL/comment wrapper; $37; no >=1,200-word seller text letter."
+      },
+      {
+        "slug": "baby-sleep-miracle",
+        "timestamp": "20220125035827",
+        "url": "https://www.babysleepmiracle.com/",
+        "file": "_raw/sales-letters/baby-sleep-miracle--20220125035827.txt",
+        "http": "200",
+        "words": 1,
+        "letter": "no",
+        "note": "One-word index/JavaScript redirect shell; no letter. Stopped after requested second year."
+      }
+    ]
+  },
+  {
+    "slug": "sleep-baby-sleep",
+    "category": "sleep",
+    "product": "Sleep Baby Sleep",
+    "price_seen": "2006 $29.95 ebook; 2007 price absent in text",
+    "description": "2006/07 long infant-sleep letters; 30-day refund; later 2008/12 roots short. Separate 2006 consultation $60/hour; not ebook price.",
+    "captures": [
+      {
+        "slug": "sleep-baby-sleep",
+        "timestamp": "20120103223147",
+        "url": "http://www.sleepbabysleep.com:80/",
+        "file": "_raw/sales-letters/sleep-baby-sleep--20120103223147.txt",
+        "http": "200",
+        "words": 970,
+        "letter": "landing",
+        "note": "970-word ebook sales homepage; 30-day refund; below 1,200 words."
+      },
+      {
+        "slug": "sleep-baby-sleep",
+        "timestamp": "20070104173058",
+        "url": "http://www.sleepbabysleep.com:80/",
+        "file": "_raw/sales-letters/sleep-baby-sleep--20070104173058.txt",
+        "http": "200",
+        "words": 1524,
+        "letter": "yes",
+        "note": "Sleep-adjacent ebook letter; 1,524 total words (~1,385 excluding nap tip); order-now CTA and 30-day refund; no numeric ebook price in text."
+      },
+      {
+        "slug": "sleep-baby-sleep",
+        "timestamp": "20060221101036",
+        "url": "http://sleepbabysleep.com:80/",
+        "file": "_raw/sales-letters/sleep-baby-sleep--20060221101036.txt",
+        "http": "200",
+        "words": 1628,
+        "letter": "yes",
+        "note": "Sleep-adjacent ebook letter; $29.95 buy/order CTA; 30-day refund; $60/hour consultation is separate."
+      },
+      {
+        "slug": "sleep-baby-sleep",
+        "timestamp": "20080131132622",
+        "url": "http://www.sleepbabysleep.com:80/",
+        "file": "_raw/sales-letters/sleep-baby-sleep--20080131132622.txt",
+        "http": "200",
+        "words": 956,
+        "letter": "landing",
+        "note": "956-word later homepage; 30-day refund; below long-form threshold; four-capture limit reached."
+      }
+    ]
+  },
+  {
+    "slug": "baby-sleep-solution",
+    "category": "sleep",
+    "product": "The Baby Sleep Solution",
+    "price_seen": "2012 $26.97; 2008/10 base price absent in text",
+    "description": "Downloadable infant/toddler sleep-audio letter; 8-week refund. $19 refers to future extra-audio charge, not main programme.",
+    "captures": [
+      {
+        "slug": "baby-sleep-solution",
+        "timestamp": "20080107101232",
+        "url": "http://www.babysleepsolution.com:80/",
+        "file": "_raw/sales-letters/baby-sleep-solution--20080107101232.txt",
+        "http": "200",
+        "words": 2141,
+        "letter": "yes",
+        "note": "Sleep-adjacent audio-programme sales letter; No numeric base price in text; 8-week refund; $19 extra audio described as included bonus, not base price."
+      },
+      {
+        "slug": "baby-sleep-solution",
+        "timestamp": "20100104140714",
+        "url": "http://babysleepsolution.com/",
+        "file": "_raw/sales-letters/baby-sleep-solution--20100104140714.txt",
+        "http": "200",
+        "words": 2608,
+        "letter": "yes",
+        "note": "Sleep-adjacent audio-programme sales letter; No numeric base price in text; 8-week refund; $19 extra audio described as included bonus, not base price."
+      },
+      {
+        "slug": "baby-sleep-solution",
+        "timestamp": "20120105012544",
+        "url": "http://www.babysleepsolution.com/",
+        "file": "_raw/sales-letters/baby-sleep-solution--20120105012544.txt",
+        "http": "200",
+        "words": 2630,
+        "letter": "yes",
+        "note": "Sleep-adjacent audio-programme sales letter; $26.97 complete programme; 8-week refund; $19 extra audio described as included bonus, not base price."
+      }
+    ]
+  },
+  {
+    "slug": "baby-sleep-answers",
+    "category": "landing",
+    "product": "Baby Sleep Answers / The Baby Sleep System",
+    "price_seen": "2010 book £9.99",
+    "description": "Book/forum homepage plus 540-word product page; no long letter. Historical seller identity differs from current brand.",
+    "captures": [
+      {
+        "slug": "baby-sleep-answers",
+        "timestamp": "20100224021641",
+        "url": "http://www.babysleepanswers.com:80/",
+        "file": "_raw/sales-letters/baby-sleep-answers--20100224021641.txt",
+        "http": "200",
+        "words": 851,
+        "letter": "landing",
+        "note": "851-word book/forum/news homepage, not a single long-form letter; historical seller differs from current brand."
+      },
+      {
+        "slug": "baby-sleep-answers",
+        "timestamp": "20100725024839",
+        "url": "http://www.babysleepanswers.com:80/The-Baby-Sleep-System.aspx",
+        "file": "_raw/sales-letters/baby-sleep-answers--20100725024839.txt",
+        "http": "200",
+        "words": 540,
+        "letter": "landing",
+        "note": "540-word linked book offer; £9.99 plus forum/electronic access; not long form."
+      }
+    ]
+  },
+  {
+    "slug": "five-minute-sleep",
+    "category": "sleep",
+    "product": "The Five Minute Sleep Method",
+    "price_seen": "$29.99 promo / $89.99 regular",
+    "description": "Baby/toddler downloadable sleep programme; founder story, mechanism, bonus stack; 60-day refund.",
+    "captures": [
+      {
+        "slug": "five-minute-sleep",
+        "timestamp": "20170105120427",
+        "url": "http://fiveminutesleep.com/",
+        "file": "_raw/sales-letters/five-minute-sleep--20170105120427.txt",
+        "http": "200",
+        "words": 5032,
+        "letter": "yes",
+        "note": "Sleep-adjacent baby/toddler downloadable programme letter; $29.99 promotional/$89.99 regular; 60-day refund; >5,000 words."
+      },
+      {
+        "slug": "five-minute-sleep",
+        "timestamp": "20161031080226",
+        "url": "http://fiveminutesleep.com:80/?",
+        "file": "_raw/sales-letters/five-minute-sleep--20161031080226.txt",
+        "http": "200",
+        "words": 5032,
+        "letter": "yes",
+        "note": "Sleep-adjacent baby/toddler downloadable programme letter; $29.99 promotional/$89.99 regular; 60-day refund; >5,000 words."
+      },
+      {
+        "slug": "five-minute-sleep",
+        "timestamp": "20180109175826",
+        "url": "http://fiveminutesleep.com/",
+        "file": "_raw/sales-letters/five-minute-sleep--20180109175826.txt",
+        "http": "200",
+        "words": 5081,
+        "letter": "yes",
+        "note": "Sleep-adjacent baby/toddler downloadable programme letter; $29.99 promotional/$89.99 regular; 60-day refund; >5,000 words."
+      }
+    ]
+  },
+  {
+    "slug": "sleep-lady",
+    "category": "landing",
+    "product": "The Sleep Lady / Good Night Sleep Tight",
+    "price_seen": "Downloadable book $9.95",
+    "description": "2008 short homepage and linked 380-word product description; not a long letter.",
+    "captures": [
+      {
+        "slug": "sleep-lady",
+        "timestamp": "20080205073133",
+        "url": "http://www.sleeplady.com:80/",
+        "file": "_raw/sales-letters/sleep-lady--20080205073133.txt",
+        "http": "200",
+        "words": 344,
+        "letter": "landing",
+        "note": "344-word book/consultation homepage; not a long-form letter."
+      },
+      {
+        "slug": "sleep-lady",
+        "timestamp": "20080103092748",
+        "url": "http://www.sleeplady.com:80/products/product16.html",
+        "file": "_raw/sales-letters/sleep-lady--20080103092748.txt",
+        "http": "200",
+        "words": 380,
+        "letter": "landing",
+        "note": "380-word linked Good Night Sleep Tight product page; $9.95 downloadable book; no long-form letter."
+      }
+    ]
+  },
+  {
+    "slug": "teach-baby-to-swim",
+    "category": "adjacent",
+    "product": "Teach Baby To Swim",
+    "price_seen": "$37 sale / $47 anchor (2016/17); 2014 $37",
+    "description": "Infant motor/activity adjacent how-to; 2016/17 long letters; contradictory 30-/60-day refunds. 2014 VSL/DVD wrapper short.",
+    "captures": [
+      {
+        "slug": "teach-baby-to-swim",
+        "timestamp": "20160111232548",
+        "url": "http://teachbabytoswim.info/",
+        "file": "_raw/sales-letters/teach-baby-to-swim--20160111232548.txt",
+        "http": "200",
+        "words": 3375,
+        "letter": "yes",
+        "note": "Baby motor/activity-adjacent how-to letter; $37 sale/$47 anchor; contradictory 30-day and 60-day refund promises on same page."
+      },
+      {
+        "slug": "teach-baby-to-swim",
+        "timestamp": "20140518233807",
+        "url": "http://teachbabytoswim.info:80/",
+        "file": "_raw/sales-letters/teach-baby-to-swim--20140518233807.txt",
+        "http": "200",
+        "words": 290,
+        "letter": "landing",
+        "note": "290-word video/DVD offer wrapper; $37; not a text letter."
+      },
+      {
+        "slug": "teach-baby-to-swim",
+        "timestamp": "20170405031826",
+        "url": "http://teachbabytoswim.info:80/?",
+        "file": "_raw/sales-letters/teach-baby-to-swim--20170405031826.txt",
+        "http": "200",
+        "words": 3383,
+        "letter": "yes",
+        "note": "Baby motor/activity-adjacent how-to letter; $37 sale/$47 anchor; conflicting 30-/60-day guarantees retained; 3,383 words."
+      }
+    ]
+  },
+  {
+    "slug": "montessori-babies",
+    "category": "landing",
+    "product": "Montessori Notebook: Montessori for Babies",
+    "price_seen": "US$29",
+    "description": "400/600-word workshop page; sidebar US$79 belongs to a different home-setup course.",
+    "captures": [
+      {
+        "slug": "montessori-babies",
+        "timestamp": "20220527052241",
+        "url": "https://www.themontessorinotebook.com/webinar-montessori-for-babies/",
+        "file": "_raw/sales-letters/montessori-babies--20220527052241.txt",
+        "http": "200",
+        "words": 600,
+        "letter": "landing",
+        "note": "600-word baby workshop page including menus/other-course sidebar; US$29; no long-form letter."
+      },
+      {
+        "slug": "montessori-babies",
+        "timestamp": "20170603201410",
+        "url": "http://www.themontessorinotebook.com:80/webinar-montessori-for-babies/",
+        "file": "_raw/sales-letters/montessori-babies--20170603201410.txt",
+        "http": "200",
+        "words": 400,
+        "letter": "landing",
+        "note": "400-word Montessori-for-babies workshop page; US$29; stopped after other year."
+      }
+    ]
+  },
+  {
+    "slug": "montessori-babies-course",
+    "category": "core",
+    "product": "The Montessori Babies Course",
+    "price_seen": "$252 both years",
+    "description": "Infant Montessori environment, materials and activities; meaningful curriculum features included in body; no guarantee found. Only 2023/24 years returned.",
+    "captures": [
+      {
+        "slug": "montessori-babies-course",
+        "timestamp": "20230531002658",
+        "url": "https://babytourguide.teachable.com/p/the-montessori-babies-course-promo",
+        "file": "_raw/sales-letters/montessori-babies-course--20230531002658.txt",
+        "http": "200",
+        "words": 1694,
+        "letter": "yes",
+        "note": "Core infant Montessori course letter; $252; >1,200 meaningful body words after platform boilerplate/duplicate pricing removed, including genuine curriculum features; no guarantee found. Only 2023/2024 capture years available."
+      },
+      {
+        "slug": "montessori-babies-course",
+        "timestamp": "20240226044259",
+        "url": "https://babytourguide.teachable.com/p/the-montessori-babies-course-promo",
+        "file": "_raw/sales-letters/montessori-babies-course--20240226044259.txt",
+        "http": "200",
+        "words": 1955,
+        "letter": "yes",
+        "note": "Core infant Montessori course letter; $252; >1,200 meaningful body words after platform boilerplate/duplicate pricing removed, including genuine curriculum features; no guarantee found. Only 2023/2024 capture years available."
+      }
+    ]
+  },
+  {
+    "slug": "baby-acrobatics",
+    "category": "landing",
+    "product": "Baby Acrobatics 2024 presale",
+    "price_seen": "$29.99 early / $49.99 later / $69.99 release",
+    "description": "Core 3–12-month movement PDF presale, 1,003 words; only 2024 root year returned and no linked sales subpath.",
+    "captures": [
+      {
+        "slug": "baby-acrobatics",
+        "timestamp": "20241114085435",
+        "url": "https://www.babyacrobatics.com/",
+        "file": "_raw/sales-letters/baby-acrobatics--20241114085435.txt",
+        "http": "200",
+        "words": 1003,
+        "letter": "landing",
+        "note": "Core 3–12-month movement PDF presale; $29.99 early/$49.99 later/$69.99 release; only 1,003 words. Only 2024 root in window, no linked sales subpath."
+      }
+    ]
+  },
+  {
+    "slug": "massage-happy-babies",
+    "category": "landing",
+    "product": "Massage for Happy Babies",
+    "price_seen": "Digital £14.99 (2011), £7.99 (2013); DVD £19.99 + £1.45 UK postage",
+    "description": "545/667-word massage-video shop pages; 2011 basket £29.99 + £2.99 postage; no long letter.",
+    "captures": [
+      {
+        "slug": "massage-happy-babies",
+        "timestamp": "20130111055425",
+        "url": "http://www.newstorktimes.co.uk:80/shop/",
+        "file": "_raw/sales-letters/massage-happy-babies--20130111055425.txt",
+        "http": "200",
+        "words": 545,
+        "letter": "landing",
+        "note": "545-word massage-video shop offer; £7.99 digital, £19.99 DVD plus £1.45 UK postage; not long form."
+      },
+      {
+        "slug": "massage-happy-babies",
+        "timestamp": "20110624011535",
+        "url": "http://www.newstorktimes.co.uk:80/shop/?",
+        "file": "_raw/sales-letters/massage-happy-babies--20110624011535.txt",
+        "http": "200",
+        "words": 667,
+        "letter": "landing",
+        "note": "667-word massage catalogue; £14.99 digital/£19.99 DVD/£29.99 gift basket before postage; not long form."
+      }
+    ]
+  },
+  {
+    "slug": "magic-lullabies",
+    "category": "sleep",
+    "product": "Magic Lullabies",
+    "price_seen": "2013/14 $28; $47 discussed anchor",
+    "description": "Womb-sound audio plus baby-care ebooks; full-refund promise without stated period in long versions. Earlier 2011 offer short, with 60-day promise.",
+    "captures": [
+      {
+        "slug": "magic-lullabies",
+        "timestamp": "20130104183624",
+        "url": "http://magiclullabies.com:80/",
+        "file": "_raw/sales-letters/magic-lullabies--20130104183624.txt",
+        "http": "200",
+        "words": 3190,
+        "letter": "yes",
+        "note": "Sleep/music-adjacent womb-sound audio plus baby-care ebooks letter; $28; full-refund promise without a visible time limit in this text."
+      },
+      {
+        "slug": "magic-lullabies",
+        "timestamp": "20110923162615",
+        "url": "http://www.magiclullabies.com:80/",
+        "file": "_raw/sales-letters/magic-lullabies--20110923162615.txt",
+        "http": "200",
+        "words": 1054,
+        "letter": "landing",
+        "note": "1,054-word earlier audio offer; 60-day guarantee; below 1,200 words."
+      },
+      {
+        "slug": "magic-lullabies",
+        "timestamp": "20140103015343",
+        "url": "http://www.magiclullabies.com:80/?",
+        "file": "_raw/sales-letters/magic-lullabies--20140103015343.txt",
+        "http": "200",
+        "words": 3187,
+        "letter": "yes",
+        "note": "Sleep/music-adjacent audio+ebook letter; $28; full-refund promise; 3,187 words."
+      }
+    ]
+  },
+  {
+    "slug": "instant-baby-sleep",
+    "category": "landing",
+    "product": "Instant Baby Sleep",
+    "price_seen": "2010 US$19.97; 2017 $29.97",
+    "description": "Audio plus implementation guide; 1,049/1,189 total words, strictly below 1,200; stopped after second page/year.",
+    "captures": [
+      {
+        "slug": "instant-baby-sleep",
+        "timestamp": "20100615191729",
+        "url": "http://www.instantbabysleep.com:80/get-your-baby-to-sleep?",
+        "file": "_raw/sales-letters/instant-baby-sleep--20100615191729.txt",
+        "http": "200",
+        "words": 1049,
+        "letter": "landing",
+        "note": "1,049-word audio+implementation-guide offer; US$19.97; no qualifying long body."
+      },
+      {
+        "slug": "instant-baby-sleep",
+        "timestamp": "20170228232559",
+        "url": "http://www.instantbabysleep.com/",
+        "file": "_raw/sales-letters/instant-baby-sleep--20170228232559.txt",
+        "http": "200",
+        "words": 1189,
+        "letter": "landing",
+        "note": "1,189 total words, fewer after navigation; $29.97; strictly below 1,200. Stopped after other year/path."
+      }
+    ]
+  },
+  {
+    "slug": "baby-sleep-site",
+    "category": "landing",
+    "product": "The Baby Sleep Site homepage",
+    "price_seen": "No single primary price",
+    "description": "1,142-word service/product homepage; archive links trace Mastering Naps to babynapswell.com; not itself a letter.",
+    "captures": [
+      {
+        "slug": "baby-sleep-site",
+        "timestamp": "20110111163438",
+        "url": "http://www.babysleepsite.com:80/",
+        "file": "_raw/sales-letters/baby-sleep-site--20110111163438.txt",
+        "http": "200",
+        "words": 1142,
+        "letter": "landing",
+        "note": "1,142-word services/products homepage incl menus; no one long-form letter. Links explicitly name Mastering Naps and Schedules at babynapswell.com."
+      }
+    ]
+  },
+  {
+    "slug": "mastering-naps",
+    "category": "sleep",
+    "product": "Mastering Naps and Schedules",
+    "price_seen": "2010 Silver $28 / Gold $39; 2011 Silver $27 / Gold $47; 2014 Silver $27 / Gold $97",
+    "description": "~4 months through toddler years; standalone ebook/case study/audio Silver tier; Gold adds personal help. Refund promise, no term found. 2014 Gold expands to plan/bundle.",
+    "captures": [
+      {
+        "slug": "mastering-naps",
+        "timestamp": "20100108062253",
+        "url": "http://www.babynapswell.com:80/",
+        "file": "_raw/sales-letters/mastering-naps--20100108062253.txt",
+        "http": "200",
+        "words": 3338,
+        "letter": "yes",
+        "note": "Sleep-adjacent ebook letter for ~4 months through toddler years; Silver $28 (anchor $35), Gold $39 (anchor $49) adds consultations; full refund without stated period."
+      },
+      {
+        "slug": "mastering-naps",
+        "timestamp": "20110201000529",
+        "url": "http://www.babynapswell.com:80/",
+        "file": "_raw/sales-letters/mastering-naps--20110201000529.txt",
+        "http": "200",
+        "words": 1840,
+        "letter": "yes",
+        "note": "Sleep-adjacent ebook letter; Silver $27 (anchor $54), Gold $47 (anchor $78) adds email consultation; satisfaction/refund promise, no stated term."
+      },
+      {
+        "slug": "mastering-naps",
+        "timestamp": "20140131003250",
+        "url": "http://www.babynapswell.com:80/",
+        "file": "_raw/sales-letters/mastering-naps--20140131003250.txt",
+        "http": "200",
+        "words": 1965,
+        "letter": "yes",
+        "note": "Sleep-adjacent ebook letter; Silver $27 (anchor $61), Gold $97 (anchor $260) adds Personalized Sleep Plan and extras; refund promise, no stated period."
+      }
+    ]
+  }
+]

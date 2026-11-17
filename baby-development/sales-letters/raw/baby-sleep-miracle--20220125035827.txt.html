@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>index</title>
+        <meta property="og:url" name="url" content="https://www.babysleepmiracle.com/">      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <meta charset="utf-8">
+
+
+    <script>
+      window.__app = {
+        visit_id: undefined,
+        query: Object.freeze(window.location.search.substr(1).split(/&+/).reduce(function(map,c) {
+          var a = c.match(/([^=]+)=(.*)/) || []
+          if (a[1]) {
+            map[a[1]] = a[2]
+          }
+          return map
+        }, {})),
+        cookies: Object.freeze(document.cookie.split(/;\s+/).reduce(function(map,c) {
+          var a = c.match(/([^=]+)=(.*)/) || []
+          if (a[1]) {
+            map[a[1]] = a[2]
+          }
+          return map
+        }, {})),
+      }
+    </script>
+  
+        <script defer async>
+          (function(script) {
+            script.src = "//" + location.hostname
+              + "/api/visits?page_id=6&page_version=&request_id=A29EB7C9%3A4DCE_A2DB8C0E%3A01BB_61EF7563_D67A0%3A3664C7"
+              + "&querystring=" + encodeURIComponent(window.location.search.substr(1))
+              + "&fbclid=" + encodeURIComponent(__app.query.fbclid || "")
+              + "&fbp=" + encodeURIComponent(__app.cookies._fbp || "")
+              + "&fbc=" + encodeURIComponent(__app.cookies._fbc || "")
+              + "&referrer=" + encodeURIComponent(document.referrer);
+            document.head.appendChild(script);
+          })(document.createElement("script"));
+        </script>
+      
+        <script>
+          function recordEmailConversion(email) {
+            return new Promise(function(resolve, reject) {
+
+              const url = "//"
+                + location.hostname
+                + "/api/conversions/email-collected"
+                + location.search
+
+              const xhr = new XMLHttpRequest
+
+              xhr.onreadystatechange = function() {
+
+                if (xhr.readyState !== XMLHttpRequest.DONE) {
+                  return
+                }
+
+                if (Math.floor(xhr.status / 100) !== 2) {
+                  return reject(xhr.responseText || "Network Error")
+                }
+
+                try {
+                  var response = JSON.parse(xhr.responseText)
+                }
+                catch (error) {
+                  return reject("Failed parsing server response: " + error.toString())
+                }
+
+                resolve(response)
+              }
+
+              xhr.onerror = reject
+
+              xhr.open("POST", url)
+              xhr.setRequestHeader("Content-Type", "application/json; charset=UTF-8")
+
+              xhr.send(JSON.stringify({
+                email,
+                page_id: 6,
+                page_version: "" || undefined,
+                referrer: document.referrer,
+                visit_id: __app.visit_id,
+                request_id: "A29EB7C9:4DCE_A2DB8C0E:01BB_61EF7563_D67A0:3664C7" || undefined,
+              }))
+            })
+          }
+        </script>
+      </head>
+<body>
+
+  <div class="container">
+    <!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/js-cookie@2"></script>
+  <script>
+    var lang = null
+    if (Cookies.get('_lang')) {
+      lang = Cookies.get('_lang')
+    }
+    var urlParams = new URLSearchParams(window.location.search)
+    var langParam = urlParams.get('lang')
+    if (langParam) {
+      lang = langParam.replace(/\./gm, '')
+    }
+    if (!lang) {
+      var userLang = navigator.language || navigator.userLanguage
+      lang = userLang.split('-')
+      lang = lang[0]
+    }
+    Cookies.set('_lang', lang, {expires: 30})
+    switch(lang) {
+      case 'es':
+        window.location = 'index_es.php?'+urlParams.toString()
+        break;
+      case 'pt':
+        window.location = 'index_pt.php?'+urlParams.toString()
+        break;
+      case 'fr':
+        window.location = 'index_fr.php?'+urlParams.toString()
+        break;
+      case 'de':
+        window.location = 'index_de.php?'+urlParams.toString()
+        break;
+      default:
+        window.location = 'index_en.php?'+urlParams.toString()
+        break;
+    }
+  </script>
+</head>
+<body>
+</body>
+</html>  </div>
+
+<script defer async>
+      document.addEventListener('DOMContentLoaded', function() {
+
+        const augmentedPaymentLinks = [["pay.clickbank.net",{"user_id":"__user_id","page_id":"__page_id","page_version":"__page_version","hostname":"__hostname"}]]
+          .sort(function(a,b) { return b[0].length - a[0].length })
+          .map(function(entry) {
+            return [
+              new RegExp('^https?://(.+\\.)?' + entry[0], 'i'),
+              entry[1],
+              Object.keys(entry[1]).reduce(function(map,key) {
+                map[key] = new RegExp('[?|&]' + entry[1][key] + '=')
+                return map
+              }, {})
+            ]
+          })
+
+        for (let el of document.getElementsByTagName('A')) {
+          const href = el.getAttribute('href')
+          if (!href || href === '#') {
+            continue
+          }
+          for (let entry of augmentedPaymentLinks) {
+            if (!entry[0].test(href)) {
+              continue
+            }
+            const params = []
+            if (entry[1].user_id && !entry[2].user_id.test(href)) {
+              const user_id = __app.cookies.user_id || ''
+              params.push(entry[1].user_id + '=' + encodeURIComponent(user_id))
+            }
+            if (entry[1].page_id && !entry[2].page_id.test(href)) {
+              params.push(entry[1].page_id + '=6')
+            }
+            if (entry[1].page_version && !entry[2].page_version.test(href)) {
+              params.push(entry[1].page_version + '=')
+            }
+            if (entry[1].hostname && !entry[2].hostname.test(href)) {
+              params.push(entry[1].hostname + '=babysleepmiracle.com')
+            }
+            if (!params.length) {
+              continue
+            }
+            const glue = href.includes('?')
+              ? '&'
+              : '?'
+            el.setAttribute('href', href + glue + params.join('&'))
+          }
+        }
+      })
+    </script>
+</body>
+</html>
