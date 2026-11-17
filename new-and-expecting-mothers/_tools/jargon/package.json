@@ -1,0 +1,20 @@
+{
+  "name": "reddit-jargon",
+  "private": true,
+  "type": "module",
+  "description": "Mines distinctive mom-community vocabulary from Reddit + Mumsnet for Vitaful copywriting",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "fetch:reddit": "node fetch-reddit.mjs",
+    "fetch:mumsnet": "node fetch-mumsnet.mjs",
+    "corpus": "node build-corpus.mjs",
+    "analyze": "node analyze.mjs",
+    "examples": "node extract-examples.mjs",
+    "glossary": "node generate-glossary.mjs",
+    "verify": "node verify.mjs",
+    "pipeline": "npm run corpus && npm run analyze && npm run examples && npm run glossary && npm run verify"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}

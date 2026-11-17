@@ -8,6 +8,9 @@ What the quotes show.
 - **`purchase-evidence.md`:** what parents say they bought, tried or considered.
 - **`advertiser-money-map.md`:** where the advertising money is.
 - **`niche-map/sub-niche-map.md`:** the map of sub-niches, with Reddit mention shares.
+- **`jargon-glossary.md`:** the words mothers use and how each one feels, from 445,337 Reddit
+  and Mumsnet posts and comments (July 2026). `jargon-terms.csv` is the scored list it was cut
+  from. Built by `../_tools/jargon/`. Answers "how does she say it".
 - **`evidence.md`:** every quote under its theme, 694,000 words. For looking things up,
   not for reading through.
 - **`unfilter-digest-NN.md`:** four theme digests of the re-read quotes.

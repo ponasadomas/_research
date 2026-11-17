@@ -8,6 +8,8 @@ does she say it?
   - MoneySavingExpert parents' boards and GeoBaby: 343 threads (`raw/oblique-deep/`).
   - Parenting Stack Exchange, through its public API: 248 questions (`raw/qa-deep/`).
   - The search for other communities (`raw/communities/`): 54 sites tried, three usable.
+  - Mumsnet, four talk boards, July 2026: 746 saved pages (`raw/mumsnet-jargon-2026-07/`).
+    Collected for the jargon glossary (`../evidence/jargon-glossary.md`), not read for quotes.
 - **Notes:** none at the top of this folder. The readers' notes are
   `../evidence/reader-notes-forums-deep.md`, `reader-notes-geobaby-deep.md` and others there.
 - **Quotes:** 1,811.

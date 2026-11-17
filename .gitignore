@@ -9,3 +9,6 @@ __pycache__/
 .env.*
 *.sql
 *.sql.gz
+
+# rebuilt from the saved caches by _tools/jargon (npm run corpus)
+new-and-expecting-mothers/_work/jargon/corpus/

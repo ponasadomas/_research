@@ -16,16 +16,16 @@ stood in October; `brief.md` is the idea this research was testing.
 | `ads/` | Meta Ad Library captures: a census of 43 advertiser pages on 2026-10-25, deeper reads of nine groups of advertisers, and searches by niche (949 saved files) | 11 notes, among them Kinedu, Huckleberry, Lovevery, Pirmi Žingsniai and its Hungarian clone, and spend by niche. The overall write-up is `evidence/advertiser-money-map.md` |
 | `books/` | Store pages for 14 books (37 saved files) | 14 notes, one per book; 9 quotes |
 | `competitors/` | Seller pages, offer, pricing and terms pages, and the capture of one seller's order flow (435 saved files) | 56 notes, one per seller, plus the observed funnel and sales letter; 92 quotes |
-| `forums/` | JustParents (505 threads), MoneySavingExpert parents' boards (343 threads), Parenting Stack Exchange (248 questions), and the search for other communities (6,375 saved files) | 1,811 quotes. No notes at the top; the readers' notes are in `evidence/` |
+| `forums/` | Mumsnet pages saved for the jargon glossary (746 files, `raw/mumsnet-jargon-2026-07/`), JustParents (505 threads), MoneySavingExpert parents' boards (343 threads), Parenting Stack Exchange (248 questions), and the search for other communities (6,375 saved files) | 1,811 quotes. No notes at the top; the readers' notes are in `evidence/` |
 | `marketplaces/` | Listings from ClickBank, BuyGoods and Digistore (18 saved files) | Looked at, no notes written, no quotes |
 | `official-guidance/` | CDC, AAP and ACOG pages (25 saved files) | 10 quotes |
-| `reddit/` | Three archives: nine communities, July to December 2025 (`raw/reddit-deep/`, 1.3 GB); two more communities (`raw/report-purchase-archive-wave03/`); and the 2026 archive the five niche studies use (`raw/reddit-2026/`, 605 MB) | 4,866 quotes from the first two. Large unread backlogs remain, see `evidence/unfilter-report.md` |
+| `reddit/` | Four archives (the fourth, `raw/jargon-2026-07/`, 439 MB, was saved in July 2026 for the jargon glossary). The other three: nine communities, July to December 2025 (`raw/reddit-deep/`, 1.3 GB); two more communities (`raw/report-purchase-archive-wave03/`); and the 2026 archive the five niche studies use (`raw/reddit-2026/`, 605 MB) | 4,866 quotes from the first two. Large unread backlogs remain, see `evidence/unfilter-report.md` |
 | `reviews/` | App and course reviews, two rounds (151 saved files) | 197 quotes |
 | `sales-letters/` | nothing | Not collected |
 | `statistics/` | nothing | Not collected |
 | `youtube/` | A small probe (6 files) | Nothing usable |
 | `quotes/` | 6,991 quotes in 59 files | Every quote checked against its source |
-| `evidence/` | `evidence.md` (694,000 words: every quote under its theme), `findings.md`, `niche-opportunities.md`, `purchase-evidence.md`, `niche-map/`, counts, readers' notes, audits | Current as of 2026-11-17 |
+| `evidence/` | `evidence.md` (694,000 words: every quote under its theme), `jargon-glossary.md` (the words mothers use, July 2026), `findings.md`, `niche-opportunities.md`, `purchase-evidence.md`, `niche-map/`, counts, readers' notes, audits | Current as of 2026-11-17 |
 
 Findings page in `_home`: none. This niche is research only; see
 `~/GitHub/_home/library/avatars/new-and-expecting-mothers/avatar.md`.
