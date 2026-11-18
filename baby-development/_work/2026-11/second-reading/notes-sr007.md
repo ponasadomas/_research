@@ -1,0 +1,11 @@
+# Reader 007 — 19 November 2026
+
+Read all **150 posts**, including every archived author reply: **14 yes, 42 near, 94 no**; nothing unread or unavailable. This supplied random-sample share, not keyword-selected, spans 8–14 April 2026. Counts describe sampled posts, not people or market prevalence. Saved **197 quotes from 29 posts**: all 14 yes posts and 15 near posts explicitly linked to development, skills, learning or regression.
+
+Among yes posts, parental-choice guilt appeared in 5; normality concerns, hard behaviour, feeding skills and groups/daycare each appeared in 3. Tags overlap. Subjects included bottle refusal, attention, screens, tummy-time tolerance and a flat spot, sharing, potty setbacks, parental preference and daycare comfort. Two yes posts needed pattern 0: carrier/stroller intolerance affecting outings, and recalled colic with contrasting infant temperaments. One celebrated first giggles. Across yes and near, patterns 3 and 5 each appeared in 12 posts, and pattern 2 in 10.
+
+Near reasons: **15 sleep, 10 parent_state, 9 age_unknown, 4 age_over_24, 2 logistics, 2 feeding**. Ordinary night-waking-only posts remained no. Replies unexpectedly supplied a first baby sign in a banana-appetite discussion, development priorities behind daycare choice, bottle success, and later sleep improvement. Quotes preserve reply dates and URLs. Five posts described purchases/orders; product use or daycare attendance alone did not establish payment.
+
+Uncertain boundaries are recorded in the ledger: mixed ages (1siwfgj), toddler-book use beneath a five-year-old's problem (1skvids), unspecified ages, and learning without milestone terminology. I treated feared learning of screaming after pacifier removal (1sfh7oq), growth-spurt explanations, and crawling/climbing directly changing care as explicit links. Oral-tie advice (1sjxq2x) received pattern 7: consulting a speech professional does not establish ongoing therapy or developmental diagnosis. No post received pattern 12. Commercial recruitment was labelled; suspected AI writing was not asserted without evidence.
+
+Separate read-back validation passed: exact share coverage, unique sequential IDs, metadata, quote totals, field limits and all **197 verbatim source matches**. Only the three requested files were written; no network, git or other agents were used.

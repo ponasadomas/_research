@@ -1,0 +1,11 @@
+# Reader 010 — second reading
+
+Read all **150 posts**, including authors' archived replies, in share order: **20 yes, 45 near, 85 no**; **226 quotes from 37 posts**. Nothing remains unread. This is the supplied share of the brief's random sample, not a keyword selection. This share's original posts date from 8–14 April 2026. Counts are posts, not quotes or people; patterns overlap.
+
+Among the 20 yes posts, **7** questioned normal development or the child's body, **6** showed hard behaviour, **2** concerned daily activities, **2** parental preference, and **2** delight in new skills or habits. Gear, learning to eat, parental guilt and interference each appeared in **1**. Speech and sitting definitions worried parents who also described many existing abilities. Screeching, clinginess and resistance during ordinary care recurred. Social media amplified worry in **2 yes posts**. It surprised me how often appealing new abilities and parental exhaustion appeared together.
+
+The 45 near posts comprised **12 parent_state, 12 sleep, 10 age_unknown, 5 logistics, 4 feeding and 2 age_over_24**. Some explicitly connected feeding or sleep difficulty to milestones or a regression. **15 near posts used pattern 0**, including practical care, settling, stair independence and creative screen use. Diagnosis or therapy appeared in **3 near posts and no yes posts**; no retained post concerned potty learning.
+
+Age and main subject were the difficult boundaries. “Two” without months stayed near; dated birthdays establishing over 24 months stayed no. The therapeutic-school incident (1skk963) likely involves an older child, but specifies no age, so stayed near/age_unknown. General dental advice and age-unspecified media recommendations also stayed near. Carrier kicking (1sjfc5h) counted as yes because the practical problem was the baby's frustrated kicking; its September reply gives a later age. Generic night waking, nutrition and accidental fishbone choking stayed no without a separate relevant concern. Older siblings' behaviour did not establish eligibility for younger babies.
+
+An inline Python script checked exact share coverage, unique sequential ids, quote eligibility, field limits and every quote against its raw source. Reply quotes use reply dates and URLs. Only the three requested output files were written.

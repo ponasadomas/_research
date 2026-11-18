@@ -1,0 +1,13 @@
+# Reader 013 — second reading
+
+Read all 150 assigned post files in share order, including every archived reply by the original author. These posts are dated 14–21 April 2026; some replies are later. The share belongs to the supplied random sample, not a keyword selection. Nothing remains unread or unavailable.
+
+Final marks: **14 yes, 61 near, 75 no**. Kept **291 quotes from 44 posts**: every yes post and all 30 near posts with an author-stated developmental connection. Counts below count posts once per pattern; patterns overlap and these are observations within this share, not estimates about parents or the whole market.
+
+Among yes and near posts, pattern 5 appeared in 10 posts; patterns 1, 2 and 3 each appeared in 9. Thirty-six posts received 0 because the listed patterns did not describe their subject. Sleep and parental coping frequently sat beside development: regressions, walking, language, rolling, new crawling, bowel coordination and corrected age. Near reasons were sleep 18, parent_state 15, age_unknown 11, feeding 9, logistics 3, other 3 and age_over_24 2. No post showed pattern 12; prematurity or NICU history alone was not treated as a known developmental delay.
+
+Repeated concerns were doing enough during awake time, not knowing what is normal, soothing that does not work, and comparing one's child with other babies. Two posts described preference for the other parent. Replies sometimes changed the picture substantially: a clothing discussion contained head-control and tummy-time questions; a pumping/bonding post later reported successful breastfeeding; a meltdown post had a later update reporting improvement. The swimming post explicitly clarified its sinking worry was a joke.
+
+The hardest boundaries were incidental baby details in posts mainly about relationships or health, and mixed-age families. In 1snf7hg the daycare decision concerns a 31-month-old, but the author also explicitly describes the 10-month-old's development; it is near, with that limitation recorded. In 1smcz27 only the daycare room's one-to-two age range suggests the child's age, so it is near rather than yes. Two-years-old without months remains age_over_24. For 1sru8l0 the stage follows the author's stated developmental age of three weeks; chronological age is two months.
+
+Speaker defaults avoid inferring motherhood or parity. Owned, received or considered products do not establish payment; three posts explicitly describe an order or payment. Therapy with a budget concern but no stated payment is coded no. Greetings and isolated thanks were not retained as quotes. Every retained passage was checked against its exact assigned source; quote IDs and ledger coverage were also checked.

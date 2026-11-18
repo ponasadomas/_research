@@ -1,0 +1,13 @@
+# Reader 012 — second reading
+
+Read all 150 assigned post files in full, including their authors’ archived replies. Nothing is unread or unavailable. This is one assigned share of the supplied random sample of text posts, not a keyword-selected set. The files in this share are dated 14–21 April 2026; some replies are later.
+
+There are **15 yes, 51 near and 84 no posts**, with **185 quotes from 34 posts**: all 15 yes posts and the 19 near posts explicitly linked to development, skills, milestones or regression. Counts below are posts, not quotes; a post can show several patterns. Among yes posts, normality worries (1) appeared in 7, hard behaviour (3) in 4, other people's interference (10) in 3, age-appropriate purchases (4) and worry about the parent's own choices (5) in 2 each. Activities (2), delight (8) and potty learning (11) each appeared in 1. None showed patterns 6, 7, 9 or 12.
+
+Constant vigilance around movement, distress when put down, and the difficulty of enjoying long days recurred across yes and near posts. The near rows include 12 activity-pattern posts, 10 parental-choice/guilt posts and 7 hard-behaviour posts. Sleep was a frequent route into developmental discussion: 13 near posts have the sleep border, but sleep-only posts remain no. Seventeen near posts fit none of the numbered patterns and use 0 with an explanation.
+
+The late-babbling post surprised me: a later author reply reports constant babbling and about five words at fifteen months. That update is kept alongside the original worry, rather than replacing it. Another parent explicitly reports spending hundreds on entertainment/containment that did not solve supervision demands; the only other explicit purchase in included posts was $40 flea-market Lego. Ownership alone was not treated as payment.
+
+The main uncertainties are the breadth of incidental behaviour and age boundaries. Near borders are: age_unknown 11, logistics 7, parent_state 6, age_over_24 5, feeding 5 and other 4, plus sleep 13. Brief reports of happy/energetic behaviour, shared television, or infant behaviour within an older-child thread were kept near and flagged. Two-year-olds without months stay near; explicit 2.5-year-olds stay no. Lego was retained yes because the parent currently has a one-year-old and discusses toy readiness, although the purchase may be saved until four. The screen post's workplace observations concern other children and are labelled second-hand.
+
+Script checks passed: exact assignment coverage, unique sequential quote IDs, quote counts, allowed values and word limits, and every quote part present verbatim in its assigned raw file. Only the three requested outputs were written.
