@@ -27,7 +27,7 @@ stood in October; `brief.md` is the idea this research was testing.
 | `quotes/` | 6,991 quotes in 59 files | Every quote checked against its source |
 | `evidence/` | `evidence.md` (694,000 words: every quote under its theme), `jargon-glossary.md` (the words mothers use, July 2026), `findings.md`, `niche-opportunities.md`, `purchase-evidence.md`, `niche-map/`, counts, readers' notes, audits | Current as of 2026-11-17 |
 
-Findings page in `_home`: none. This niche is research only; see
+Findings folder: none. This niche is research only; see
 `~/GitHub/_home/library/avatars/new-and-expecting-mothers/avatar.md`.
 
 ## The four questions

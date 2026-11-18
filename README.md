@@ -37,6 +37,8 @@ have. An agent that filters research "to be safe" has made the research wrong.
 ├── youtube/
 ├── quotes/              every quote pulled from the kinds above, one record each
 ├── evidence/            the quotes sorted under themes, counts, readers' notes
+├── findings/            the short version of the evidence, one page per question
+├── her-words.md         her phrases, word for word, for use in copy
 ├── _tools/              support: checking scripts
 └── _work/               support: reading ledgers, working files
 ```
@@ -92,19 +94,26 @@ none is enough alone.
 - Sources close or change their access. Research that rests on one source ends when
   that source does.
 
-## Three layers
+## The chain: five steps, each made from the one before
 
-Every niche has three layers. Name each for what it is.
+| # | Name | What it is | Where | Length |
+|---|---|---|---|---|
+| 1 | Collected material | Posts, reviews and pages, saved as they were found | `<kind>/raw/` | everything |
+| 2 | Quotes | The sentences worth keeping, cut out of that material, one record each with an id | `quotes/` | everything |
+| 3 | Evidence file | All the quotes sorted into patterns and counted | `evidence/` | as long as it needs |
+| 4 | Findings | The short version of an evidence file: each pattern with its count, its best quotes and what cuts against it. `her-words.md` is made alongside: her phrases, copied out for copy | `findings/`, `her-words.md` | short: a person reads a page in one sitting |
+| 5 | Avatar | The centre of the findings, written as one person | `~/GitHub/_home/library/avatars/<niche>/avatar.md` | about a page |
 
-| Layer | What it is | Where | Length |
-|---|---|---|---|
-| Quotes | Every quote as one record, with its source | `quotes/` | everything |
-| Evidence file | The quotes sorted under themes, with what they show | `evidence/` | as long as it needs |
-| Findings page | The conclusions, each with its strongest few quotes | `~/GitHub/_home/library/avatars/<niche>/findings/` | short: a person reads it in one sitting |
+Steps 1 to 4 are what they wrote, so they are research and live here. Step 5 is what we
+made from it, so it lives in `_home`. Name each step for what it is.
 
-- Research is not finished until its findings page is filed and the avatar lists it.
-  Agents read the findings page first and open the layers below only when asked or when
-  checking a quote.
+Competitors have a shorter chain of their own, all here: saved pages in
+`competitors/raw/`, one note per competitor, and `competitors/overview.md`. The overview is
+already the short version, so it gets no findings page.
+
+- Research is not finished until its findings are written and the owner has reviewed them.
+  Agents read the findings first and open the steps before them only when asked or when
+  checking a quote. Findings are written by the `write-findings` skill in `_home`.
 - A quote may be left out of a findings page **because it repeats** what others already
   show. It is never left out **because of its subject**. Whatever is left out stays in
   the evidence file, cited by id.
@@ -113,7 +122,7 @@ Every niche has three layers. Name each for what it is.
   made, `evidence/README.md` says "not made yet". The one that exists,
   `new-and-expecting-mothers/evidence/jargon-glossary.md`, covers mothers in general and is
   the starting point for a niche's own; its pipeline is `new-and-expecting-mothers/_tools/jargon/`.
-- A brief for research work says which layer it wants and who will read it. Asking for
+- A brief for research work says which step it wants and who will read it. Asking for
   "the findings" without saying which produced a 940,000-word file in November 2026.
 
 ## Conventions

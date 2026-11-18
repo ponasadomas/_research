@@ -21,7 +21,7 @@ Rules for all research: `../README.md`.
 | `evidence/` | `evidence.md`: the quotes sorted under themes with conclusions (96,761 words, cites 2,058 quotes); counts; readers' notes; the unfilter report | Current as of 2026-11-17 |
 
 Findings page (the short one): not written. It will be
-`~/GitHub/_home/library/avatars/toddler-behaviour/findings/`.
+`findings/` in this folder.
 
 ## The four questions
 

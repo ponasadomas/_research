@@ -21,8 +21,9 @@ Rules for all research: `../README.md`.
 | `quotes/` | 2,970 quotes, one record each, in 12 files; `merged/all.jsonl` is a generated copy | | Every quote checked against its source |
 | `evidence/` | `evidence.md`: the quotes sorted under themes with conclusions (44,500 words, cites 1,086 quotes); `who-she-is.md`: the same quotes read for who she is (cites all 2,970); counts; readers' notes; the unfilter report | 2026-11-17 | Current |
 
-Findings page (the short one): not written yet. It will be
-`~/GitHub/_home/library/avatars/baby-development/findings/`.
+Findings (the short version): `findings/who-she-is.md`, written 2026-11-18 from
+`evidence/who-she-is.md`, not yet reviewed by the owner. Still to write: the page for
+`evidence/evidence.md`, then `her-words.md`.
 
 ## The four questions
 

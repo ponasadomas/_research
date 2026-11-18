@@ -5,7 +5,7 @@ What the quotes show.
 - **`evidence.md`:** the quotes sorted under themes, with the conclusions drawn from them.
   About 44,500 words, citing 1,086 quotes. Its last section lists what the 2026-11-16
   re-reading changed. This is the evidence file, not a summary: the short findings page
-  goes in `~/GitHub/_home/library/avatars/baby-development/findings/` and is not written yet.
+  goes in `../findings/` and is not written yet for this file.
 - **`who-she-is.md`:** the same 2,970 quotes read for question 1, who she is and what her
   life is like, on 2026-11-17. Opens with what the quotes cannot tell us (her age, income,
   education, country). This is what the avatar is written from. The three readers' parts

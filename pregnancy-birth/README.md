@@ -21,7 +21,7 @@ Rules for all research: `../README.md`.
 | `evidence/` | `evidence.md`: the quotes sorted under themes with conclusions (941,873 words, cites 11,273 quotes); counts; readers' notes; the unfilter report; 13 theme digests from the re-reading | Current as of 2026-11-17 |
 
 Findings page (the short one): not written. It will be
-`~/GitHub/_home/library/avatars/pregnancy-birth/findings/`. `evidence/evidence.md` is too long to read end to end; start with its last section, on what the re-reading changed, and with the digests.
+`findings/` in this folder. `evidence/evidence.md` is too long to read end to end; start with its last section, on what the re-reading changed, and with the digests.
 
 ## The four questions
 

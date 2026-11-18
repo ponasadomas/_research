@@ -21,7 +21,7 @@ Rules for all research: `../README.md`.
 | `evidence/` | `evidence.md`: the quotes sorted under themes with conclusions (320,167 words, cites 4,407 quotes); counts; readers' notes; the unfilter report; 7 theme digests from the re-reading | Current as of 2026-11-17 |
 
 Findings page (the short one): not written. It will be
-`~/GitHub/_home/library/avatars/sleep-baby/findings/`. `evidence/evidence.md` is too long to read end to end; start with its last section, on what the re-reading changed, and with the digests.
+`findings/` in this folder. `evidence/evidence.md` is too long to read end to end; start with its last section, on what the re-reading changed, and with the digests.
 
 ## The four questions
 

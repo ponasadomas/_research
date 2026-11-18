@@ -21,7 +21,7 @@ Rules for all research: `../README.md`.
 | `evidence/` | `evidence.md`: the quotes sorted under themes with conclusions (61,650 words, cites 1,583 quotes); counts; readers' notes; the unfilter report | Current as of 2026-11-17 |
 
 Findings page (the short one): not written. It will be
-`~/GitHub/_home/library/avatars/sleep-mother/findings/`.
+`findings/` in this folder.
 
 ## The four questions
 
