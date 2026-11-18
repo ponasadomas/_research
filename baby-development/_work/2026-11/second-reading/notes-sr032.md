@@ -1,0 +1,11 @@
+# Reader 032 — second reading
+
+Read all 150 assigned files in order, including archived author replies: **23 yes, 40 near, 87 no**. This share belongs to the supervisor's random sample; I made no further selection. One no (1tj0avc) contains only a Reddit removal notice, so its substantive text was unavailable. Nothing supplied remains unread; replies marked not fetched were unavailable.
+
+Among the 23 yes posts, normality concerns and hard behaviour each appeared in 6 posts; filling the day in 5; feeding skills, delight, parental preference and daycare/social experiences each in 4. Counts overlap and count posts, not quotes or people. Care-task resistance, separation distress and feeling rejected by a baby recurred. Feeding ranged from trusting a six-month-old's capabilities to uncertainty about starting solids and self-feeding refusals. Two yes posts concerned others' influence: a partner questioning solids and a nanny using television. None showed known delay/therapy or potty learning.
+
+The 40 near posts comprised 13 with unstated ages, 11 mainly about the parent's state, 5 logistics, 4 sleep, 3 possibly over 24 months, 2 feeding and 2 other. Across yes and near, hard behaviour appeared in 15 posts, filling the day in 11, delight in 10 and daycare/social experiences in 9. Only 3 included posts explicitly described buying/paying: medicine, cruise and clothes. App use, gear ownership and class attendance alone were not purchases.
+
+Uncertainties: crawling alone did not establish age (1tdgod2); three posts saying two years without months stayed near/age_over_24. The unborn-boy urination question with an under-two daughter was near/other (1te4vf8). In 1ti5x95, older-child behaviour was not counted as under-two hard behaviour. Surprisingly, the playroom author explicitly disclosed Gemini drafting/translation of post and replies (1tfnf5l); every extracted quote labels that provenance. A screen-guide endorsement may be promotional, but this is unconfirmed (1td7krb).
+
+Extracted **134 quotes from 34 posts**: all 23 yes and 11 near with explicit developmental links. An independent script checked the saved files: exact share coverage, unique IDs, quote eligibility/counts, and every quote part occurring verbatim in its raw file. All passed. No network, git or other agents were used.
