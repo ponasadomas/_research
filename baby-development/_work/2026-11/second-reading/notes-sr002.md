@@ -1,0 +1,12 @@
+# Reader 002 — second reading
+2026-11-19
+
+Read all 150 assigned post files, including the original authors’ archived replies, in share order. None were unavailable; none remain unread. This is one assigned share of the stated random sample, not a keyword selection. Its post dates are 1–7 April 2026. Results: **26 yes, 53 near, 71 no; 323 quotes from 52 posts** (all 26 yes and 26 near with explicit developmental links). Counts below count posts, with overlapping patterns, not quotes or people.
+
+Among yes posts, normality or possible problems (1) and hard behaviour (3) each appeared in 11; concern about parents’ own choices (5) and delight or pride (8) each in seven; age-related gear (4) in six; groups, peers or lessons (9) in four. Known delay or therapy (12) appeared in two. Three yes posts concerned toothbrushing resistance. Questions about walking, speech and gestures repeatedly combined detailed inventories of abilities with comparisons and requests for reassurance. Positive accounts included interest in birds, easier brushing and later babbling progress.
+
+Near boundaries were sleep (16), parent state (10), age unknown (10), two years without months (six), feeding (six), logistics (two), and other (three). I kept clearly older children out even when their behaviour or delays closely matched the patterns. The six two-year posts remain near, including “just turned 2.” Clinginess toward the author was not counted as preferring someone else (6).
+
+Uncertain edges: the formula-refusal author’s “natural transition at this age” was treated as a developmental link (1sazewf). Eczema stayed near because the author discussed acquiring scratching ability (1s9j0xi). The broader coparenting/book request stayed near because most concerns involved the older child (1sehe4k). Sleep-related guilt alone did not establish developmental harm; explicit regressions, growth concerns or stated skills did establish links. An unsuccessful early-intervention eligibility assessment stayed under possible problems (1se03gh); ongoing PT and assessed delays went under 12.
+
+One author acknowledged AI rewriting his personal draft (1s9r7ep); every extracted passage is labelled accordingly. Later replies sometimes changed the developmental picture; these were retained, with quote stages updated when ages were explicit and left unknown when unstated. Exact-text, unique-ID, share-membership and complete-ledger checks passed. These counts describe this share of posts, not market prevalence.

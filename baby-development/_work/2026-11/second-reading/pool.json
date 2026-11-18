@@ -1,0 +1,24 @@
+{
+ "subreddits": [
+  "FirstTimeMom",
+  "Mommit",
+  "Montessori",
+  "NewParents",
+  "Parenting",
+  "ScienceBasedParenting",
+  "beyondthebump",
+  "beyondthebumpUK",
+  "daddit",
+  "sahm",
+  "toddlers",
+  "workingmoms"
+ ],
+ "pool": 122021,
+ "text_gone_not_in_pool": 33030,
+ "sample": 20000,
+ "seed": 20261119,
+ "narrowed_to_ids_from": null,
+ "left_out_already_sampled": 1500,
+ "first_day": "2026-04-01",
+ "last_day": "2026-10-24"
+}
