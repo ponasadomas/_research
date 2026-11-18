@@ -1,0 +1,11 @@
+# Reader 058 notes
+
+Read all 150 assigned files in order, including all archived author replies present: 15 yes, 40 near, 95 no. Nothing remains unread. Extracted 136 quotes from 29 posts, including 14 near posts with development, skill, or regression links. Some source files say author replies were not fetched. This is one share of the supplied random sample; counts describe posts, not people or market prevalence.
+
+Hard behaviour appeared in 4 yes and 4 near posts: fussiness around one parent, tantrums, climbing, and pulling a cat's fur. Eating as a skill appeared in 1 yes and 4 near posts, including gagging on textures, self-feeding restrictions and delayed solids introduction. Two yes posts concerned early potty interest and gentle introduction. Three yes posts asked whether development was normal (pattern 1); another feared muscle strain from sitting.
+
+What surprised me was how play and growth sat beside distress: speech progress alongside motor worry and AI reassurance; grandmother preference despite shared play; happy peer play abruptly ending in a kick. Another parent contrasted a partner's self-awareness expectations with normal toddler ball throwing. These and severe caregiver distress were kept without softening. AI reassurance and parenting-science claims remain author-reported, unverified claims.
+
+Borderlines included 5 age_unknown and 2 age_over_24 rows. Other near posts also lack ages but have a clearer primary subject in border. Exactly 24 months was included; clearly older children were excluded despite younger siblings. Sleep-only and medical-only posts were excluded unless there was a secondary behaviour, activity, skill or regression reference. Small references to swings, pool play, building, morning routines and playfulness during illness were retained as near; generic affection or “thriving” alone was insufficient. Review the unstated ages in physiotherapy and screen-limit posts, the two-year-old swimming post, and the very brief travel-preparation post. Corrected age was used for the premature baby. Motherhood was not inferred from subreddit or partner sex.
+
+A script checked exact share coverage, unique sequential IDs, every quote part verbatim against its assigned source, quote totals, pattern consistency and field word limits. No network, git, other agents or other file writes were used.
