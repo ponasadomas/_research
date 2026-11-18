@@ -12,3 +12,7 @@ __pycache__/
 
 # rebuilt from the saved caches by _tools/jargon (npm run corpus)
 new-and-expecting-mothers/_work/jargon/corpus/
+
+# Bulk comment download (several GB, files grow while downloading). Kept on disk; see
+# new-and-expecting-mothers/reddit/README.md before deciding to commit it.
+new-and-expecting-mothers/reddit/raw/reddit-2026/comments-bulk/
