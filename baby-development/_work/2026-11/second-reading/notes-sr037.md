@@ -1,0 +1,11 @@
+# Reader 037 notes
+
+Read all 150 assigned post files, in order, including all author replies present. This is one share of the supplied random sample of posts with text, not a keyword selection. These posts date from 21–29 May 2026. Nothing remains unread; replies not fetched or missing from incomplete archives remain unavailable.
+
+Marks: 14 yes, 38 near, 98 no. Counts below are posts, including near posts, with overlapping tags: hard behaviour (3), 10; activities and the day (2), 7; age-appropriate purchases (4), 7; fear of harm from parenting choices (5), 6; known/reported delay or assessment/therapy (12), 4. Pattern 0 covers 9 posts, including literacy technique, familiar caregivers and guardianship, sibling favouritism, travel and memory, and sleep regulation. These counts describe sampled posts, not people or the market.
+
+Recurring concerns include biting during care, prolonged meltdowns, unclear speech, and babies screaming when attention shifts away. Milestone comparisons online can make a happy baby's parent feel like a failure. Practical difficulties—milk waste, carrying in heat, lost sleep—sit beside questions about skills. Pleasure is present too: comic sighs, “mommy game!”, and emerging self-soothing.
+
+Near reasons: 11 age_unknown, 8 sleep, 8 parent_state, 5 logistics, 3 age_over_24, 2 feeding, 1 other. Age and sleep boundaries required most judgement. Bare “two years old” stays near when relevant; the child who turned two in March is clearly over 24 months in late May and is no. Pure night waking, medical problems, feeding amounts, and equipment without relevant abilities or behaviour are no. Explicit regression, independent play, separation anxiety, or self-soothing can make sleep posts near. Age-unknown general parenting posts should remain separate from yes.
+
+The sister's daycare-choice account is second-hand; the potty-chart author also designs children's resources. Both are labelled. The menstrual-product promotion and fictional-family discussion are no for subject, with provenance noted. Explicit purchases among yes/near posts: teethers, an LTD swaddle, and Easter eggs/bath toys for daycare. Ownership or gifts alone did not establish payment. Speaker roles remain conservative; assessment was not silently converted into a diagnosis. Individual uncertainties appear in the ledger.

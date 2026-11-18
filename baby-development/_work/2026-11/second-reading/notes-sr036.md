@@ -1,0 +1,11 @@
+# Reader 036 — second reading
+
+Read all 150 assigned post files, whole and in share order, including every available author reply. This share of the supplied random sample covers 21–29 May 2026; no keyword selection. Marks: **20 yes, 40 near, 90 no**. Extracted **122 quotes from 32 posts**: all 20 yes posts and 12 development-linked near posts. Nothing assigned remains unread. Counts describe sampled posts, not people or the market; patterns overlap.
+
+Among yes posts, six ask whether a specific ability, behaviour or growth timetable is normal (1); five show hard behaviour (3); five concern age-appropriate purchases (4). Three concern daily activities (2), three delight in growth (8), two eating/drinking skills (7), two learning around children (9), and one each parental choices harming development (5), interference (10), existing evaluation/support (12), and none-of-these (0). Walking, pushing up, first words, hitting and toothbrushing resistance recur. No yes post shows caregiver preference (6) or potty learning (11); two near posts concern potty learning.
+
+The sustained happy account of books, cars, cuddles, swings and naming a rooster stood out. So did scrolling activity ideas until overwhelmed, then wanting one program with instructions. That program is contemplated spending: none of the yes posts explicitly reports paying. Four near posts do. Gear ownership alone was not treated as purchase.
+
+Near reasons: 10 age_unknown, eight parent_state, six sleep, five feeding, five logistics, four age_over_24, two other. Review calls: 1tn8g6d specifies infant age without confirming own-child status (near/other). 1tnusni mainly concerns a four-year-old but compares a two-year-old daughter; older-child quotes carry context. 1toq3v0 mentions early evaluation without a named diagnosis. 1tpdywr stays yes for daytime dependence and daycare preparation. 1tpfr06 asks about tooth-growth timing. Separation anxiety alone was not treated as explicit developmental attribution. Mothers in 1tqc5t3 and 1tqd0sq have unstated birth order despite new_mother labels.
+
+Access limits: 140 files say replies were not fetched; three contain author replies. No network used. Exact quote/source comparisons, unique IDs, share membership, row coverage, quote counts and field limits passed. Only the three requested files were written.

@@ -1,0 +1,11 @@
+# Reader 044 — second reading
+
+Read all 150 assigned files, including every supplied author reply: 17 yes, 43 near, 90 no. Pulled 153 quotes from all 17 yes posts and 19 development-linked near posts. Nothing assigned remains unread. This share comes from the supplied random sample without keyword selection; counts describe posts, not people or market prevalence.
+
+Within yes, five posts showed pattern 1, four hard behaviour (3), three learning to eat (7), and one each toys (4), daily play (2), parental influence (5), daycare social behaviour (9), and known delay (12). Counts overlap. Three yes posts concerned speech: limited expression, little spontaneous communication, or conflicting specialist views. Feeding posts described exploration, spoon refusal, and chewing then spitting. Parents often reported several attempted approaches. Hard behaviour ranged from newborn crying to toddler aggression. Pattern 0 retained two subjects: future temperament and thumb sucking.
+
+The 43 near posts divide into parent_state 11, sleep 9, age_unknown 7, feeding 5, other 5, logistics 3 and age_over_24 3. Nine showed delight, often within sleep or family accounts. Neither child preference (6) nor potty learning (11) appeared in yes/near; the potty post concerned an older child.
+
+Uncertainties: 3k and preschool suggest older children but leave age unstated. Generic two-year-olds remain near; 1tx4yrp gives 23 months despite also saying two years. The premature-baby author prioritizes sleep despite milestone questions. Calling the swaddle transition teaching sleep with arms free is a loose, humorous skill link. Motherhood without clear parity remains parent_unspecified. Two book endorsements, 1tu3xbh and 1tvv5jd, are identical: both sampled posts remain, flagged as duplicates with commercial status unverified. Professional childproofing advice is labelled service-provider provenance. The speech-intervention father's account unusually combined developmental care, blame, record accuracy and affordability.
+
+Source limit: 141 files say replies were not fetched; four contain partial replies, four zero captured from nonzero archives, and one zero of zero. This is not complete-thread coverage. Script checks passed for verbatim quote parts, unique sequential ids, share membership and one-row-per-post coverage.

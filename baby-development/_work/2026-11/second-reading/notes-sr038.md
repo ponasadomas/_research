@@ -1,0 +1,11 @@
+# Reader 038 — second reading
+
+Read all **150 assigned files** whole, including authors' replies present: **28 yes, 38 near, 84 no**. Extracted **178 quotes** from all 28 yes posts and 11 near posts linked to development or skills. None remain unread. This share of the supplied random sample covers 21–29 May 2026. Counts describe posts here, not people or market prevalence. Many files lack replies or preserve only part of the archived thread.
+
+Among yes posts: normality/developmental concern (1), **11**; daily activities (2), **8**; hard behaviour (3) and parental-choice fears (5), **4 each**; purchases (4) and groups/daycare (9), **3 each**; preference (6), eating skills (7), delight (8), interference (10), **2 each**; pattern 0, **4**. Patterns overlap. No yes post showed potty learning (11) or known delay/therapy (12); three near posts involved delay or therapy.
+
+Repeated tensions were difficult outings, wanting independent exploration, comparisons and feeling inadequate. Two yes posts described stroller preference over park play (1tmgo7j, 1tph045). The easy fourteen-month-old days in 1tk5z0e contrasted sharply. Advanced speech brought pride and social worry (1tpf4t6). Replies revealed brain/trust fears and changing crying-method decisions (1tkq8af), and a milestone checklist behind sibling comparisons and bonding distress (1tpklxt).
+
+Near reasons: **11 age_unknown, 8 parent_state, 4 age_over_24, 4 logistics, 4 sleep, 4 other, 3 feeding**. Unqualified two-year-olds stayed near when relevant; clearly older children were excluded. Uncertainties remain around selective eating versus eating skills, motor-practice coaching, and first-separation worries. Pattern 0 preserves topics the draft misses. Sleep alone was no; broader behaviour/play or explicit developmental links could make it near. Unknown maternal identity/parity stayed parent_unspecified. The nursing poem is creative verse of unconfirmed autobiographical status.
+
+Generic thanks, greetings and standalone repetitions were omitted from quotes. Substantive distress, violence and regret were retained wherever quotation was required. Validation confirmed complete ledger coverage, unique sequential quote IDs, matching source paths/post IDs, and exact source matches for every quote.
