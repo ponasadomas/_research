@@ -21,6 +21,7 @@ have. An agent that filters research "to be safe" has made the research wrong.
 ## Layout
 
 ```
+_tools/                  scripts shared by every niche: draw a sample, build post files, check quotes and ids
 <niche>/
 ├── README.md            overview: what exists per kind, the four questions, what is missing
 ├── brief.md             what this research set out to answer
@@ -39,7 +40,7 @@ have. An agent that filters research "to be safe" has made the research wrong.
 ├── evidence/            the quotes sorted under themes, counts, readers' notes
 ├── findings/            the short version of the evidence, one page per question
 ├── her-words.md         her phrases, word for word, for use in copy
-├── _tools/              support: checking scripts
+├── _tools/              support: checks particular to this niche, and old rounds' scripts
 └── _work/               support: reading ledgers, working files
 ```
 
@@ -144,8 +145,11 @@ reading, quoting and merging. Conventions for the collecting step are still to b
 
 - Anything excluded is written down with the reason. Off-topic is a reason; subject is
   not (see "Research never censors").
-- Counts are counts of quotes, never of people. Say how the posts were chosen, so the
-  counts are not read as how common something is.
+- Count posts, not quotes: a pattern's count is the number of sampled posts that show it,
+  and each post is tagged against one shared list of patterns. A post is not a person,
+  but one eager poster cannot be counted ten times. Say how the posts were chosen. Only a
+  random sample lets a count say how common something is among posts. The October 2026
+  round counted quotes the readers chose; those counts show nothing about how common.
 - Say what is still unread, and how much.
 - An attempt that found little or nothing is recorded as that, with the reason, at the top
   of the kind folder's README. Saved pages and empty files are not research.
@@ -167,8 +171,8 @@ reading, quoting and merging. Conventions for the collecting step are still to b
   a person look.
 - The brief fixes one layout for quotes in written files, so the checking script can
   read every agent's output.
-- The checking scripts live in the niche's `_tools/`, so the niche can be verified again
-  after it is moved.
+- The scripts for sampling and checking live once, in `_tools/` at the top of this repo.
+  A niche's own `_tools/` holds only checks particular to it.
 - Working figures (Codex, `gpt-6.1-sol`, xhigh): five agents at a time, 25 to 30 minutes
   per batch, about 2 to 2.5 percent of weekly usage per 1,000 posts.
 

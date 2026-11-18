@@ -14,7 +14,7 @@ import re
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-VOICE = os.path.normpath(os.path.join(HERE, "..", "quotes"))
+VOICE = os.path.normpath(os.path.join(HERE, "..", "quotes", "2026-10"))
 
 ID_RX = re.compile(r"\[([a-z]+\d{1,2}-\d{4})\]")
 PAIR_RX = re.compile(r"[\"“]([^\"”]{12,}?)[\"”]\s*`?\[([a-z]+\d{1,2}-\d{4})\]`?")
@@ -45,7 +45,7 @@ def load():
 
 
 def main():
-    path = sys.argv[1] if len(sys.argv) > 1 else os.path.join(HERE, "..", "evidence", "evidence.md")
+    path = sys.argv[1] if len(sys.argv) > 1 else os.path.join(HERE, "..", "evidence", "2026-10", "evidence.md")
     text = open(path, encoding="utf-8").read()
     recs = load()
     ids = sorted(set(ID_RX.findall(text)))

@@ -2,7 +2,14 @@
 
 Research on mothers of babies 0 to 24 months who want to know what to do with the baby at
 this age and whether the baby is on track. Collected October to November 2026 for the
-mamiVio baby-development funnel. The questions it set out to answer are in `brief.md`.
+mamiVio baby-development funnel. A new round began 2026-11-18; `brief.md` describes it and
+names no product. The October brief is `_work/2026-10/brief.md`.
+
+**Where the October round is now:** `quotes/2026-10/`, `evidence/2026-10/`,
+`findings/2026-10/` (both findings pages and `her-words.md`) and `_work/2026-10/` (reading
+ledgers, the Reddit selection). Wherever this page says `quotes/`, `evidence/`, `findings/`,
+`her-words.md`, `_work/reddit-selection/` or `_work/reading-ledgers/` below, read it with
+`2026-10/` added. The new round's working files are in `_work/2026-11/`.
 Rules for all research: `../README.md`.
 
 ## Not usable for conclusions (marked 2026-11-18)
@@ -64,16 +71,16 @@ into it, so this folder cannot be checked without that one beside it. What this 
 selected from the archive, and who read what, is in `_work/reddit-selection/` and
 `_work/reading-ledgers/`.
 
-## Checking
+## Checking the October round
 
-Run from this folder. All five must report the counts shown and no failures.
+Run from this folder. The scripts already point at the `2026-10/` folders. All five must report the counts shown and no failures.
 
 ```
 python3 -I _tools/check_ids.py                            2970 records, 0 duplicated
 python3 -I _tools/verify_quotes.py                        2970 quotes, 0 failed
 python3 -I _tools/verify_evidence_ids.py                  1086 ids cited, 0 unresolved; 1008 fragments, 0 failed
 python3 -I _tools/audit.py read-v1 read-w2 read-w3        723 assigned, 0 unexplained
-python3 -I _tools/verify_part.py quotes evidence/who-she-is.md 0.05
+python3 -I _tools/verify_part.py quotes/2026-10 evidence/2026-10/who-she-is.md 0.05
                                                           ids mentioned 2970, quotes reproduced 120; OK
 ```
 

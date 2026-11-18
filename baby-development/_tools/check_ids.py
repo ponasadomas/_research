@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Duplicate-id check across this niche's quote files.  python3 -I check_ids.py"""
 import collections, glob, json, os, sys
-Q = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "quotes")
+Q = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "quotes", "2026-10")
 c = collections.Counter(); files = collections.defaultdict(set)
 for f in glob.glob(os.path.join(Q, "*.jsonl")):
     for line in open(f):

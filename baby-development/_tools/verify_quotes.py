@@ -4,8 +4,8 @@ Decodes JSON (.json, .jsonl) and .gz raw files. A quote may be trimmed with " [â
 python3 -I verify_quotes.py [quotes-dir]   (default: ../quotes next to this script)"""
 import glob, gzip, html, json, os, re, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
-QDIR = os.path.abspath(sys.argv[1]) if len(sys.argv) > 1 else os.path.join(HERE, "..", "quotes")
-ROOT = os.path.dirname(QDIR)
+QDIR = os.path.abspath(sys.argv[1]) if len(sys.argv) > 1 else os.path.join(HERE, "..", "quotes", "2026-10")
+ROOT = os.path.normpath(os.path.join(HERE, ".."))
 norm = lambda s: re.sub(r"\s+", " ", html.unescape(s).replace("\\n", " ")).strip()
 def strings(o):
     if isinstance(o, str): yield o

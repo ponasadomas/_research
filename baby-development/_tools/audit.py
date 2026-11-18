@@ -11,13 +11,13 @@ ARCHIVE = "../new-and-expecting-mothers/reddit/raw/"
 def moved(p):   # reading lists were written before the move and still use the old archive path
     return ARCHIVE + p[len("../_shared/_raw/"):] if p.startswith("../_shared/_raw/") else p
 recs = []
-for f in sorted(glob.glob(os.path.join(D, "quotes", "*.jsonl"))):
+for f in sorted(glob.glob(os.path.join(D, "quotes", "2026-10", "*.jsonl"))):
     for l in open(f):
         if l.strip():
             r = json.loads(l); r["_file"] = os.path.basename(f); recs.append(r)
 # Historical labels only: no quote is actively restricted.
 restr = set()
-rp = os.path.join(D, "evidence", "restricted-ids.md")
+rp = os.path.join(D, "evidence", "2026-10", "restricted-ids.md")
 if os.path.exists(rp):
     for line in open(rp):
         if line.startswith("|") and not line.startswith("| id") and not line.startswith("|---"):
@@ -30,11 +30,11 @@ if os.path.exists(rp):
 # coverage
 assigned = set()
 for lab in labels:
-    for l in open(os.path.join(D, "_work", "reddit-selection", lab, "chunks.jsonl")):
+    for l in open(os.path.join(D, "_work", "2026-10", "reddit-selection", lab, "chunks.jsonl")):
         assigned |= set(moved(u) for u in json.loads(l)["units"])
 cited = collections.Counter(r["raw_file"] for r in recs)
 uncited = sorted(u for u in assigned if u not in cited)
-ledgers = " ".join(open(f).read() for f in glob.glob(os.path.join(D, "_work", "reading-ledgers", "reddit-reading-*.md")))
+ledgers = " ".join(open(f).read() for f in glob.glob(os.path.join(D, "_work", "2026-10", "reading-ledgers", "reddit-reading-*.md")))
 unexplained = [u for u in uncited if os.path.basename(u)[:-4] not in ledgers and os.path.basename(u)[:-4].split("-", 1)[1] not in ledgers]
 # Descriptive sweep; a match never excludes evidence.
 SAFE = re.compile(r"kill myself|suicid|self.?harm|want to die|hurt (?:myself|my baby|him|her)|shak(?:e|ing|en) (?:the|my|him|her)|smack|spank|slap|hit (?:him|her|my)|abus|sids|stopped breathing|not breathing|face down|suffocat|smother|died|dead\b|funeral|psychosis|intrusive thought|cps\b|police|asleep at the wheel|car accident|crash", re.I)
