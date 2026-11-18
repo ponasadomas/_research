@@ -1,0 +1,13 @@
+# Reader 049 — second reading
+
+Read all 150 assigned post files, including every author's reply present in those files. This is one share of the supervisor's random sample of text-bearing posts in twelve parenting subreddits, not a keyword-selected set. These posts are dated 6–14 June 2026. Results: **22 yes, 38 near, 90 no**; **176 quotes from 37 posts** (all 22 yes and 15 near with explicit developmental ties). No assigned files remain unread.
+
+Among the 22 yes posts, activities and filling the day occurred in 8 posts (pattern 2), guilt about parental choices in 6 (5), questions about specific abilities or behaviour in 5 (1), and interference from others in 4 (10). Hard behaviour occurred in 3 (3). Gear, delight and groups/social learning each occurred in 2 (4, 8, 9); preference, feeding skills and intervention each occurred in 1 (6, 7, 12). One post fit none of the numbered patterns. Tags overlap; these are post counts, not quote counts or estimates about parents generally.
+
+A repeated tension was relief at independent play alongside guilt about leaving the baby alone. Reading, outings and low-energy play ideas recurred. What surprised me was how small changes—losing easy crib kisses, a grandmother using “mum,” a missing hand-staring milestone—could carry substantial emotional weight. One sleep-and-partner-conflict thread supplies 29 quotes, but remains one post. Three yes/near posts explicitly report purchases; using named products alone was not counted as purchasing.
+
+The near reasons were age unknown (13), parent state (9), sleep (5), feeding (5), age possibly over 24 months (3), logistics (2), and other (1). “Two years old” without months stayed near; the child turning two that month stayed yes. Explicit ages 26 and 27 months were no. The premature baby's stage uses chronological age, with the stated developmental age noted.
+
+Borderline decisions include independent settling as a skill, the referral rather than confirmed diagnosis in the helmet post, and rolling-related safety classified yes with explicit milestone pride. The school-allegation post is near because the author's child's age is unstated; the author's body-awareness interpretation provides the developmental tie. Its allegations are labelled second-hand and unverified. Historical parenting claims are likewise labelled, not verified. Growth-related parental sadness without a named skill was not automatically a developmental tie.
+
+All available material was read; reply coverage is limited to what each source file captured. Missing or unfetched replies were unavailable, not silently skipped. Saved-output validation checks coverage, unique IDs, quote totals and every quoted passage against its assigned source.

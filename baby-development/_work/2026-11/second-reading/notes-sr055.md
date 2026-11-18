@@ -1,0 +1,13 @@
+# Reader 055 notes
+
+Read all 150 assigned post files, in share order, including every available author's reply. This share contains posts dated 14–22 June 2026 from the supervisor's random April–October sample, without keyword selection. Nothing remains unread. Marks: **15 yes, 34 near, 101 no**. Cut **129 quotes from 26 posts**: all 15 yes posts and 11 near posts explicitly tied to development or skills.
+
+Across yes and near posts, normality concerns appeared in 11 posts, daily activities/routines in 9, stage-related purchases in 8, hard behaviour in 7, known conditions or therapy in 5, and eating/drinking skills in 4. These overlap and include borderline posts; they describe this share, not population prevalence. Seven posts fitted none of the numbered themes. No post showed pattern 6 after distinguishing difficulty settling with a babysitter from an explicit preference.
+
+Chewing stood out: two parents described swallowing without chewing and frightening choking episodes; another wanted family meals suitable for a baby with weak chewing. Babbling, stranger anxiety, separation distress and uncertainty about exercises in OT supplied other concrete concerns. Sleep posts often supplied their own developmental explanation: five borderline sleep posts invoked a regression, rolling or new skills. App use, therapy attendance and equipment ownership did not establish payment; no yes/near author explicitly stated buying or paying for the relevant item or service.
+
+The sharpest contrasts were joy in time with a newborn receiving hospice care, parental fear of lasting harm from ordinary care choices, and distress over relentless toddler care. Sensitive accounts were retained under the same rules as other material.
+
+Uncertainty centred on unstated ages and “two years old” without months, plus how much secondary behaviour made a parent-focused post near. The pregnancy-continuation post (1ua8as1) was near/parent_state because its decision was reproductive, while its screaming, clinging and entertainment detail received patterns 2 and 3. The grieving-cat post (1u6ptle) was near/parent_state but quoted because the author explicitly linked speech delay to inability to explain the loss. Generic health/safety, sleep-only posts without developmental links, and posts clearly concerning older children were no. Both potty posts had no age; the day-two post offered only a title and an advice request. Reply availability varied; “not fetched” and archived counts describe limits of the supplied files, not unread work.
+
+Validation checked one ledger row per assigned post, sequential unique quote IDs, membership and raw paths, per-post quote totals, required fields and word limits, and exact occurrence of every quote segment in its source.
