@@ -1,0 +1,13 @@
+# Reader 067 — second reading
+
+Read all 150 assigned post files, including all available author replies. The share runs from 8 to 16 July 2026 within the supervisor's April–October random sample; I did not select posts by topic. Nothing remains unread or unavailable. Marks: **22 yes, 41 near, 87 no**. Extracted **121 quotes from 30 posts**: all 22 yes posts and eight near posts with an explicit connection to development or skills.
+
+Hard behaviour was the most frequent pattern: **9 yes and 18 near posts**. It included persistent throwing, attention-seeking screams, distress during routine care, head-banging, bath refusal and newborn crying. The separation-anxiety post linked present distress to earlier divisions of bedtime care. Responses already tried ranged from reassurance and naming emotions to shouting and hitting the child's hands; these were retained without softening.
+
+Practical skill questions covered speech and babbling, moving from bottles to independent drinking, swallowing purees, food textures and potty learning. **Four yes posts** asked whether something was normal; **two yes posts** described an asserted delay or current therapy. The ten-month-old's tentative language-delay concern and nineteen-month-old's planned evaluation were not treated as established diagnoses. Three yes posts showed delight or emotion about growth and everyday habits.
+
+Much of the surrounding material concerned the parent's own state. The 41 near posts comprise **19 parent_state, 10 age_unknown, 6 sleep, 3 feeding, 2 age_over_24 and 1 logistics**. Eleven near posts showed pattern 2, often describing constrained outings or the pressure to entertain a child. Five yes/near posts explicitly described spending or purchases; using an app, attending swimming or seeing a therapist alone was not treated as proof of payment.
+
+Age and incidental behaviour were the main uncertainties. Unqualified two-year-olds stayed near; a sophisticated conversation was not used to infer an older child's age. The grandmother-care post mentions a three-and-half-year interval without explicitly giving the child's age, so it remains near. Sleep-only schedules stayed no; explicit regressions were near and quoted. Medical imaging, bruises and a scraped nose stayed no where developmental abilities were not discussed. The app-feedback solicitation was marked no and labelled as research solicitation, not caregiver evidence.
+
+Cold-food preferences did not fit the numbered themes and used pattern 0. It surprised me how readily ordinary care tasks became questions about competence, trust or relief from constant demands; these counts describe this share of posts, not parents or market prevalence.

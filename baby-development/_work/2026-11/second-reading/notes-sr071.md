@@ -1,0 +1,11 @@
+# Reader 071 — second reading
+
+Read all 150 assigned post files in order, including every available author reply: **22 yes, 35 near, 93 no**. Extracted **142 quotes** from all 22 yes posts and 12 near posts with developmental or skill links. Nothing remains unread or unavailable at file level. Many files state replies were not fetched; those missing replies were unavailable. This share of the supplied random sample contains posts dated 16–23 July 2026. Counts describe posts, not parents or market prevalence.
+
+Among yes posts, repeated patterns were normality concerns (1: 12 posts), hard behaviour (3: 12), filling the day (2: 5), and learning to eat or drink (7: 5). Tags overlap. Babies needing constant movement or entertainment recurred, alongside parents saying the promised improvement at four or six months had not arrived. Two yes posts centred on separation or parent preference. Feeding accounts included rejected textures, lost acceptance of foods, unsupported sitting, tongue thrust, and pressure to start solids.
+
+Practical problems often contained intense isolation, embarrassment, anger or regret; those passages remain in the quotes. One parent's later replies described reflux treatment and motor progress making days enjoyable, qualifying the original account of persistent misery. Only one included author explicitly reported a purchase for the problem: waterproof diaper covers. A tower was “got,” books were read, and classes were budgeted for; these did not establish payment.
+
+Near borders: parent_state 10, sleep 7, age_unknown 6, age_over_24 4, logistics 4, feeding 3, other 1. Four use age_over_24 for unqualified two-year-olds; other borders sometimes also have age uncertainty. Judgment calls include tooth eruption as physical development, deliberate diaper manipulation as learned behaviour, and selective eating versus feeding skill difficulty. In 1v08bf5, walking delay concerns the 25-month-old sibling; the eight-month-old joins proposed outings, so this is near/logistics, without pattern 12. General care burdens, sleep timing, rashes and equipment without relevant behaviour or abilities were no. Fifteen near posts used pattern 0; no yes post did.
+
+Speaker remains parent_unspecified unless motherhood is stated. Stage follows stated age; unqualified “two” is unknown. Later author replies retain their own dates.

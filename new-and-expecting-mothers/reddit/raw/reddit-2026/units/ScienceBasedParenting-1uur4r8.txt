@@ -1,0 +1,16 @@
+POST 1uur4r8 | r/ScienceBasedParenting | 2026-07-12 20:49 UTC | https://www.reddit.com/r/ScienceBasedParenting/comments/1uur4r8/
+TITLE: I'm building a preschool learning game for my daughter and she loves it. It tracks which skills she's mastering and where she needs help, still a work in progress.
+
+Kennedi's Playground.
+
+I've been building a learning playground for my preschool daughter and it's far enough along that I'd love some eyes on it.
+
+Try it here: [https://learning-playground-alpha.vercel.app](https://learning-playground-alpha.vercel.app/)
+
+On the surface it's four little games — a phonics game (find the word that starts with B), a bear cafe where she takes orders and builds them on a tray, a counting train, and a coloring studio. But the point isn't the games. \*\*Every tap is a skill signal.\*\* Behind the scenes it tracks six early-learning skills (initial sounds, letter-sound matching, counting, numeral recognition, vocabulary, color matching), and the parent side turns that into plain-English answers: what did my child do, what seemed easy, what seemed difficult, and what should we try next.
+
+To see that side: tap the Parent button in the corner and type \*\*PARENT\*\*. After a few rounds of play you'll get a per-skill progress table (accuracy, hints used, response times, which skills are flagged for review) and an attempt-by-attempt log. In my demo run you can literally see "Counting: 100%, ready for more challenge" next to "Initial Sound: needs support, 3 hints used" — that's the whole idea. Not a dashboard of vanity stars; an honest read on where she is.
+
+Does the game play feel right for a 3-5 year old, and what game would you add specifically, what skill would it build and what should the parent see about it afterward? That last part is the hard design constraint: every game has to produce evidence a parent can read.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
