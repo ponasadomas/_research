@@ -1,0 +1,13 @@
+# Reader 025 — second reading
+
+Read all 150 assigned post files, including their authors' archived replies, in share order. Nothing is unread or unavailable. This is one share of the supplied random sample, not a keyword selection. The original posts in this share run from 29 April to 6 May 2026; some author replies are later.
+
+Marked **12 yes, 47 near, 91 no**. Cut **169 quotes from 30 posts**: all 12 yes posts and the 18 near posts with an explicit developmental connection. Counts below are posts, never quotes or people; patterns overlap.
+
+The yes posts covered normality concerns (pattern 1: 4), hard behaviour (3: 3), daily activities (2: 2), stage-specific purchases (4: 2), daycare adjustment (9: 2), delight in emerging skills (8: 1), interference from others (10: 1), and potty training (11: 1). Activities also appeared in 15 near posts. Parents wanted manageable outings, engaging toys, ways to respond to resistance, and reassurance about changes they did not understand. Two yes posts showed how difficult a new daycare classroom could be despite a child's interest or independent play elsewhere.
+
+The near reasons were parent_state 17, age_unknown 11, sleep 8, logistics 5, feeding 3, other 2, and age_over_24 1. Five near posts explicitly described purchases or paid services. One overwhelmed newborn parent described a night doula, cleaner, meal delivery and a newly hired sleep consultant, yet still struggled to eat or play with the baby. Support and spending did not necessarily remove pressure. A seven-month-old's milestones were also described as insufficient compensation for unpaid care without breaks or personal money.
+
+Borderline decisions: genital hair was yes under pattern 1's body/normality definition, rather than discarded as medical-only. A head bump during rolling/tummy time was near/other, with the motor connection retained. Connecting sleep cycles was treated as a developmental skill explanation; regression posts were near/sleep. General night waking, gas pain and rashes without developmental material were no. Unknown ages stayed unknown; older siblings' tantrums were not assigned to younger babies. The two-year-old in the household-chaos post was near/age_over_24. Family holding boundaries and household finances with a homeschooling mention were weak near cases, recorded as pattern 0.
+
+Promotional app, sleep-article and cheat-sheet posts were labelled in their no-row descriptions, not treated as independent buyer evidence. Exact quote matches, unique sequential quote IDs, share membership, per-post quote totals and complete ledger coverage passed scripted checks.

@@ -1,0 +1,11 @@
+# Reader 019 notes
+
+Read all **150** assigned posts and their authors’ archived replies, in share order: **20 yes, 44 near, 86 no**. Nothing remains unread or unavailable. Extracted **182 quotes from 34 posts**: all 20 yes posts and the 14 near posts with explicit developmental links. Counts describe this share of the supplied random sample, not people or the whole market.
+
+Among yes posts, concern about normal development appeared in **9**, filling the day in **5**, hard behaviour and parenting-harm fears in **4 each**, interference and potty learning in **3 each**, gear choices and known delay/therapy in **2 each**, and eating skills and social learning/daycare in **1 each**. Patterns overlap. None required pattern 0; **20 near posts** did.
+
+Other people’s comments repeatedly turned uncertainty into fear of being a bad parent. One parent bought three parenting books after comments about her active toddler; another kept buying toys because her baby quickly lost interest. Losing daycare raised worries about losing learning and social contact. Potty posts described specific abilities alongside resistance. Reflux and constant holding also appeared with guilt about missed tummy time or learning.
+
+Near reasons: **12 sleep, 11 age_unknown, 11 parent_state, 3 feeding, 3 age_over_24, 2 logistics, 2 other**. Unstated ages remained uncertain despite suggestive toys or language. “Two years old” without months stayed near; a child who turned two in February and one explicitly “a little over 2” were excluded. One yes post combines a thirty-month-old with a crawling seven-month-old: its pattern describes their shared day. The potty caregiver’s relationship was unspecified; one speech delay was parent-reported without stated assessment. Educational claims and rolling or regression counted as developmental links; ordinary food preferences and attachment alone did not. Sleep-only settling stayed no unless further relevant behaviour, skills or daily-life details were present.
+
+Script checks passed: exactly one row per assigned post, no extras; unique sequential quote ids; every quote part found word for word in its assigned raw file. Schemas, metadata, quote counts and field limits passed. Only the three requested outputs were written; no network, git or other agents used.
