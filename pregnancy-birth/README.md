@@ -4,6 +4,21 @@ Pregnancy, birth preparation and the first weeks. Research on this buyer, collec
 niche for mamiVio. The questions it set out to answer are in `brief.md`.
 Rules for all research: `../README.md`.
 
+## Not usable for conclusions (marked 2026-11-18)
+
+The Reddit posts read for this niche were chosen by a word list we wrote ourselves
+(`_tools/history/shared/niche_filter.py`), and posts that mention buying, paid tools or
+brands were ranked first. Posts that describe the problem in other words were never seen.
+
+- **Still good:** the download. It is complete and has no keyword in it
+  (`../new-and-expecting-mothers/reddit/raw/reddit-2026/`), so nothing needs downloading
+  again. The quotes are real and checked word for word, so they can be used as her words.
+- **Not to be used:** the counts, the evidence file, and anything that says what is common
+  or central for her.
+- **What happens next:** the selection and reading are redone by the method being proven on
+  `baby-development` (random sample of everything first, word list from her words after).
+  Whether and when this niche is redone is the owner's decision.
+
 ## What is here
 
 | Folder | What was collected | State |
