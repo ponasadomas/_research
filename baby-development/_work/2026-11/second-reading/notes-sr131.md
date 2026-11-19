@@ -1,0 +1,11 @@
+# Reader 131 — second reading
+
+Read all 125 assigned post files in order, including all text present in each file. This is one share of the supplied random sample, not a keyword-selected set. Nothing remains unread in this share. Many source files say the author's replies were not fetched; only the saved text was available.
+
+Marked 26 yes, 30 near and 69 no. Extracted 107 quotes from 36 posts: all 26 yes posts and the 10 near posts explicitly tied to development or skills. All quoted passages were checked against the saved originals; IDs, share membership and ledger coverage were also checked.
+
+Among the 56 yes/near posts, hard behaviour appeared in 16, normality concerns in 9, worries about parental harm in 9, groups/peers/childcare in 8, and daily activities in 6. These overlap. Repeated difficulties included distress on outings, persistent crying, tantrums and handling ordinary routines. Parents compared communication, social responsiveness and practical skills with other children. Activity requests ranged from repetitive floor play to winter walks. Ten posts fit none of the numbered substantive patterns.
+
+What surprised me was the range alongside milestone worries: a frog hidden in a toddler's pants, a newly interactive fourteen-month-old, and a parent whose vomit phobia obstructed introducing solids. Joy and ambivalence appeared together in the first-birthday reflection. Sensitive subjects were retained, including genital touching, proposed hand-smacking and concerns about vaccine timing; these are the authors' statements, not endorsed explanations.
+
+The 30 near marks comprise 9 parent_state, 7 age_unknown, 5 age_over_24, 4 feeding, 3 sleep and 2 other. Hard boundaries were health-related crying versus behaviour, childcare choice versus logistics, and future emotional concerns versus explicit developmental links. General fears of ruining childhood or causing future anxiety were not treated as explicit development links. Bare two-year ages stay borderline; clearly older children are no. Existing torticollis physical therapy counted as pattern 12; a suggested Help Me Grow referral and a feeding assessment finding no concerns did not establish a developmental diagnosis or ongoing therapy. Payment was recorded only where stated, not assumed from using gear, classes or professionals.

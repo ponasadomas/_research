@@ -1,0 +1,14 @@
+POST 1x4193d | r/daddit | 2026-10-12 13:01 UTC | https://www.reddit.com/r/daddit/comments/1x4193d/
+TITLE: I built an MLB / NFL / games scoreboard for my son’s 10th birthday
+
+Many people have vibe-coded an application or a software product, some have even vibe-coded entire companies. Of course I’ve played around with a few fun vibe-coding projects, but for the first time I’ve actually “vibe-coded” a real physical product!
+
+This all started when my wife and I wanted to get our son a live-updating MLB scoreboard for his birthday. We found one that looked good, but it was a little expensive for what it did, and I immediately thought to myself, "Hey, I wonder if I could build this?"
+
+Turns out the answer is a big yes! I’ve always played around with computers and Raspberry Pis, but until now I hadn’t really built much more than blinking lights or a dog bark detector to tell me when my dog wanted to come inside. But over the past few months, I worked with ChatGPT/codex and Claude Code during nights and weekends to build the concept, make a web preview, come up with the parts needed for this scoreboard, including 3d-printing a case that screwed into the back!
+
+Once I realized how easy it was to add new things, I kept adding more features like arcade games, NFL scores, live updates for his baseball games and practice schedule from GameChanger, and quiet mode so it can’t be used after a certain time at night.
+
+Take a look at the GitHub repository for more details, and I’d love to hear from you if you try to make one of these scoreboards yourself!
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---

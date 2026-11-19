@@ -1,0 +1,11 @@
+# Reader 130 notes
+
+Read all **150 assigned files** in full, including all available author replies: **19 yes, 45 near, 86 no**. Kept **111 quotes from 32 posts**: all 19 yes posts and 13 near posts with developmental links. Nothing remains unread or unavailable. Many files say replies were not fetched; counts cover supplied text only. This share of the supplied random sample dates from 10–18 October 2026. Counts describe posts, not people or market prevalence.
+
+Normality worries recurred most: **9 yes posts plus 5 near**, including infrequent rolling or babbling, words used less often, hand flapping, quietness and no first smile yet. Several parents worried about skills appearing and then seldom recurring. Medical or family reassurance did not always settle worry. Two yes posts concerned opposite directions of parental preference; both described painful rejection. Two concerned daily activities or making interaction possible; one concerned potty learning. Patterns overlap.
+
+Near borders were **parent_state 14, age_unknown 13, sleep 9, feeding 6**, and one each for other, age_over_24 and logistics. Developmental concerns appeared within vaccination fears, pacifier weaning, sleep regression, feeding worries and tongue-tie regret. Distress, anger, regret and feared harm were retained. Surprisingly, no yes post was tagged with developmental delight; four near posts were. No yes post explicitly stated a purchase; three near posts did: a playset, replacement formula and delivered meals.
+
+Uncertain boundaries appear in ledger notes. Ages remain unknown even where school or party contexts suggest older children. Rough sibling play is near: the focus is a three-year-old, with the younger child described only as two. General salt-guidance and Montessori discussions are labelled research/opinion, with no stated personal child age. Colic and tongue-tie accounts are near because parental distress leads. Enrichment, learned screen habits and losing self-soothing ability counted as developmental links; guilt or feeding difficulty alone did not. Age-band endpoints required judgment. Mother categories do not establish unstated parity.
+
+Checks passed: exact share coverage, unique sequential quote IDs, quote counts and eligibility, metadata, field limits, and every quoted passage against its assigned source.
