@@ -12,6 +12,19 @@ ledgers, the Reddit selection). Wherever this page says `quotes/`, `evidence/`, 
 `2026-10/` added. The new round's working files are in `_work/2026-11/`.
 Rules for all research: `../README.md`.
 
+## The round of November 2026: where it stands (2026-11-20)
+
+How it was run, step by step: `../_tools/README.md`.
+
+| Step | State |
+|---|---|
+| Random sample of 20,000 posts read and sorted | Done: 2,471 on the niche, 5,534 near, 11,995 off. `evidence/2026-11/second-reading/counts.md` |
+| Digests of each pattern | Done: 20, in `evidence/2026-11/second-reading/` |
+| Findings sections, one per pattern | Done, not reviewed: `findings/2026-11/patterns/` |
+| Findings page and her words | Not written |
+| Avatar | Not written |
+| Still unread | 97,521 posts (10 April to 24 October), and all replies by people other than the poster (4.19 million downloaded, on disk only) |
+
 ## Not usable for conclusions (marked 2026-11-18)
 
 The Reddit posts read for this niche were chosen by a word list we wrote ourselves
