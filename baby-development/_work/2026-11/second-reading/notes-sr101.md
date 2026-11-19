@@ -1,0 +1,11 @@
+# Reader 101 — second reading
+
+Read all 150 post files, including every saved reply by the original author, in share order. This is one share of the supplied random sample of posts with text, not a keyword-selected set. No files remain unread. Marks: **14 yes, 46 near, 90 no**. Retained **101 quotes from 28 posts**: all 14 yes posts and 14 near posts with an author-stated developmental or skill link.
+
+Among the 60 yes/near posts, normality or milestone concerns and hard behaviour each appeared in 10 posts; eating/drinking skills and social settings each appeared in 6; equipment choices in 5. Twenty-two posts fit none of the twelve substantive patterns and received 0. These overlapping counts describe sampled posts, not distinct people or the wider market. Repeated situations included crying during care or transitions, parental uncertainty about what is normal, and efforts to reconcile a baby's routine with work, outings and basic personal time.
+
+Fourteen on-niche posts included a newborn's joyful imitation, stopped babbling while rolling emerged, tummy-time distress during physical therapy, late teething, daycare distress, hitting and nappy removal. The contrast between delight and anxiety was striking. One sleep-related near post explicitly feared losing self-soothing after illness; its passage about fearing shaking the baby and stepping away is retained in full. Three posts concerned a known condition or existing therapy.
+
+Borders were 11 sleep, 10 age_unknown, 9 parent_state, 6 age_over_24, 5 logistics, 4 feeding and 1 other. Unstated-age posts about school, playdates or Mario may concern older children; they remain near because the text does not establish an age. Bare “two years old” also remains near. Clearly stated ages above 24 months are no, including 26, 27, 30 and 34 months.
+
+Other uncertainties: brief temperament or play mentions within parent/work/equipment posts; poor newborn latch versus learning later eating skills; and physical independence versus an explicit developmental claim. I used 0 when no listed pattern fit, and kept these reasons in individual rows. Buying was not assumed from owning equipment, using an app, attending therapy or refusing another paid visit: no included author explicitly reported a completed purchase/payment for the subject.

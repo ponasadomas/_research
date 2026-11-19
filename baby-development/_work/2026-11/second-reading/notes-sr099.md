@@ -1,0 +1,11 @@
+# Reader 099 — second reading
+
+Read all 150 assigned files, including all available author replies, in share order. This share of the supplied random sample, selected without keywords, dates from 23–30 August 2026. Counts: 27 yes, 37 near, 86 no; nothing unread. Extracted 185 quotes from all 27 yes posts and the 16 near posts with developmental or skill connections. Counts below are posts, with overlapping patterns, not quotes or people.
+
+Among yes posts, hard behaviour and age-suited purchases each appeared in 8, normality concerns in 7, daily activities in 3, and concern about parental choices in 3. Delight appeared in 2. Parents repeatedly wanted a difficult phase to pass, help setting limits without ignoring communication, or something that would occupy their child. Toy questions involved space, social-media comparison, open-ended play and developmental value. Crawling, cooing, gestures and first words prompted comparisons with other babies.
+
+Delight and alarm sometimes coexisted: a first roll was celebrated but frightening because the baby screamed; another parent's newborn screams were funny. One fourteen-month-old could sign requests but could not understand waiting. The 23-month-old independence question fit pattern 0 rather than a concern or tantrum category.
+
+Near borders: 10 sleep, 10 parent_state, 6 feeding, 4 age_unknown, 4 age_over_24, 3 logistics. Main uncertainties: unspecified ages may conceal older children; four unspecified two-year-olds remain near. The enamel-defect post is yes/12 from emerging baby teeth and a dentist visit at five months, but current stage is unknown. Latching counts as a feeding skill; picky nutrition alone does not. Anger about responding to destructive toddler behaviour is yes when that response is central; primarily parental distress is near.
+
+Unspecified maternal experience remains parent_unspecified. Possession alone does not establish payment; the grandmother's bumper purchase is hers. Second-hand cousin/influencer claims and another mother's baby account are labelled in quote context. Scripted checks passed for every quote's verbatim source match, unique IDs, sample membership, complete coverage and per-post quote counts. Only the three requested files were written.

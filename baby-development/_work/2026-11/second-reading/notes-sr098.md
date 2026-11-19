@@ -1,0 +1,13 @@
+# Reader 098 — second reading
+
+Read all 150 assigned post files, in share order, including every author reply present in them. The share is from the supervisor's random sample, without keyword selection; I made each classification from the full text. Results: **13 yes, 45 near, 92 no**. Nothing assigned remains unread. Extracted **193 quotes from 35 posts**: all 13 yes posts and the 22 near posts explicitly tied to development or skills.
+
+Among the 13 yes posts, hard behaviour appeared in 7 and normality concerns in 6; 4 showed concern about the parent's own choices. These overlap. Care resistance, crying, clinginess and difficulty getting time to oneself were prominent. Parents tried toys, songs, rotations, sensory bins, outings and screens; the post about an 18-month-old who would not play independently described several failed approaches. Normality questions included variable sociability, name response, motor progress and a sudden change in fussiness.
+
+The 45 near posts comprised 10 sleep, 10 feeding, 9 age_unknown, 7 age_over_24, 6 parent_state, 2 logistics and 1 other. Seven sleep posts explicitly connected sleep to rolling, crawling, regression or developmental change. Others mentioned play or daytime behaviour without making that link. Straw drinking, chewing concerns about pouches, and selecting a play stop for a sitting/scooting baby brought skills into otherwise practical questions.
+
+What surprised me was how much a developmental review could unsettle parents: one post and its replies combined motor concerns, food-texture fears, reassurance-seeking, and guilt about missing baby groups. Another mother explicitly paid for child-development degree courses and wanted that knowledge freely available. That is the only explicit payment recorded; having equipment, lessons or therapy did not establish payment.
+
+Uncertainties are flagged by post. Seven posts said two years without exact months; preschool and other unstated ages were not inferred. The holding/alertness post is second-hand about a relative's newborn; the author's own baby's age is unstated. The gross-motor review was coded as concern, not diagnosed delay; the daycare post explicitly described speech delay. Bathing with sensory play was near/other. These are counts of assigned posts, not people or market prevalence.
+
+Source limits: 140 files say author replies were not fetched; 4 more contain zero archived author replies. I read everything supplied, but cannot account for unavailable replies. Quote text, unique IDs, share membership, row coverage and per-post quote counts were checked by script.

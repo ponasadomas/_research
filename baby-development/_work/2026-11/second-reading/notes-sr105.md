@@ -1,0 +1,11 @@
+# Reader 105 — second reading
+
+Read all 150 assigned post files in manifest order, including every available reply by the original poster. Results: **17 yes, 40 near, 93 no; 121 quotes from 28 posts** (all 17 yes posts and 11 near posts explicitly tied to development). Nothing in the supplied files remains unread. These are counts of posts in one share of the random, non-keyword sample, not counts of people or estimates of the market.
+
+Among the 17 yes posts, choosing age-appropriate things appeared in 6; daily activities, hard behaviour, and normality/condition worries each appeared in 5. Patterns overlap. Constant contact and very short independent play made ordinary tasks difficult. Parents tried toys, snacks, television, holding, outings and activity rotations, sometimes with little relief. One post concerned existing torticollis therapy; another feared future speech difficulties from a tongue tie, without reporting an existing developmental delay. One daycare post described crying through most of the day.
+
+The emotional range stood out: regret, dark thoughts, anger and desperation alongside pride in early language and a father's peaceful joy holding his newborn. That last post fits shared daily life but no numbered pattern, so it is 0. Neither distress nor physical harm was treated as a reason to exclude material.
+
+The 40 near posts divide into 12 age_unknown, 11 parent_state, 10 sleep, 4 feeding, 2 age_over_24 and 1 logistics. The difficult boundaries were sleep complaints that also describe rolling, regression or waking to play; parental strain with only a brief child-behaviour detail; and gear questions without a stated age. Both unqualified “two years old” posts remain near. Birthday gift stages are inferred from the approaching birthday; two “one year old” posts have unknown stage because the narrower month band is unstated. A generic boundary-song recommendation has no stated child's age or personal caregiving context. Bottle refusal and illness alone were excluded without a developmental or play link.
+
+Source limits: 137 files say original-poster replies were not fetched; the other 13 contain only part of the archived replies. Those missing replies were unavailable, not silently skipped. All extracted passages and identifiers passed the source and coverage checks.
