@@ -1,0 +1,11 @@
+# Reader 076 notes
+
+Read all **150** assigned files in full, including saved original-poster replies: **20 yes, 41 near, 89 no**. Pulled **125 quotes from 33 posts**: every yes post and 13 near posts with developmental links. Nothing was unread or unavailable at the file level. Unfetched replies were not reconstructed. This share covers 23–30 July within the supervisor's random April–October sample; no topic selected these posts. Counts describe sampled posts, not people or the market.
+
+Among the 61 yes/near posts, daily activities/time together appeared in 13 (pattern 2), hard behaviour in 12 (3), and normality questions in 11 (1). Parents compared crawling, teeth, speech and feeding skills with expectations or peers. Six posts showed delight (8), six questioned parents' own influence (5), five concerned eating/drinking skills (7), and five age-suitable purchases (4). Potty learning (11) and interference (10) each appeared in three; groups/peers/daycare (9) and known delay/therapy (12) each in two. None showed caregiver preference (6); nine fitted no numbered subject (0). Counts overlap.
+
+The contrast surprised me: reassurance after late hands-and-knees crawling, fear that advanced abilities might cause loneliness despite speech progress, and screaming severe enough to prevent play or outings. Only one eligible author explicitly reported buying something: weighted-straw cups. Possession, app use, course attendance and therapy did not establish payment.
+
+Near borders: sleep 8, age_unknown 12, parent_state 8, feeding 5, logistics 3, age_over_24 3, other 2. Difficult edges included brief film-watching, crafts, birthday rituals, hair grabbing and ballet transport within other subjects. Plain sleep, medical or logistical accounts without relevant content were no. Reflux “regression” meant returning symptoms, not developmental regression. The mixed-age newborn/Down-syndrome family account has an unknown stage. Two years without months stayed near; twenty-six months and “about to be 2.5” were no. Some stated mothers' parity was unclear, noted individually.
+
+Script checks passed: exact share coverage, unique sequential IDs, matching per-post totals, and every quote verbatim in its assigned source. Spelling and wording are preserved.
