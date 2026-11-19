@@ -1,0 +1,64 @@
+POST 1sf913j | r/daddit | 2026-04-07 21:17 UTC | https://www.reddit.com/r/daddit/comments/1sf913j/
+TITLE: I spent a year building a Netflix replacement for my family to escape the slop vortex [Pics inside]
+
+Before I get started, I know I went way too deep on this one (please don’t tell my wife how long it took). 
+
+After we had our first kid, I was thrown back in to the “kids media” world and was shocked - All the hand drawn animated shows seemed to be gone, Shows that used to teach you  something - and were probably based on a story grandma used to tell, have been replaced with what seems to be basically “dopamine narcotics for toddlers”. All the new shows have a thin veneer of education, but are really designed to basically be a slot-machine for. I have seen what cocomelon does to a kid. And it aint pretty.
+
+This is what led me down the self hosting path, because I didn’t want that for my kids. I wanted  my kids to watch the stuff that had some soul left in it, stuff that they’d thank me for in 20 years. 
+
+But self hosting was a huge pain - it ALWAYS had some problem that caused my wife to never want to use it. Keep in mind, I’m no slouch, I work for the largest streaming service out there as software engineer (no, really)… I only say that because I always get a bunch of “user error” peanut gallery comments. Could I have made it work? Possibly - but I didn’t want to babysit 6 docker containers and get “plex isn’t working” texts from my wife every other day.
+
+So irrationally thought “I’m sure I could just build my own thing in a few months”
+
+...it did not take a few months.
+
+
+
+I think I went way overboard, but the result is something so much better than what I expected that I was like “dude, everyone should have this. This is crazy”.
+
+
+
+Initially I debated calling it “North Korea for my kids’s iPad” - but being pragmatic, I just landed on “Chompy”, with a cute beaver mascot. 
+
+
+
+The core idea was: What if the whole home media stack was //one// .app file, that you install on a Mac mini. And instead of 6 different web UI’s, configuration files, etc… you just //talked// to it to do what you wanted. 
+
+
+
+My success criteria was that if my wife found a new show (e.g. like some obscure cozy Australian kids show from the 90s https://www.youtube.com/watch?v=GJy5Y36HB-s) she literally can just say “Add \[Show\] to Emmas world” and it would figure out the rest.
+
+
+
+So here it is. This is what my wife sees: 
+
+https://preview.redd.it/bk53xhje3utg1.png?width=2934&format=png&auto=webp&s=30f6c05945962f0fbac8a1f5848ae1318f6cabef
+
+
+
+And if she wants to add a show, she just asks…
+
+https://preview.redd.it/iyg6909h3utg1.png?width=2936&format=png&auto=webp&s=db1aa4fc58a8e4373c59060e24004ab606436786
+
+
+
+when she adds something it searches the metadata, checks if we already have it, and if not, queues a background job to find it, download it, and get it ready to stream. She just sees "adding Monsters Inc to Eliza's worlds” and then a bit later it's there.
+
+The squares on the right are the “worlds” for our family. Each person gets their own (you can think of it like a Netflix profile). And you can ask Chompy to help you design each one.  
+
+The thing that’s awesome is that Chompy can even create “Channels” for you - you don’t even need to manually hand pick titles one by one ( you can if you’d like though). The app ships with a database of 10k catalog entries (basically a mini-iMDB, and hundreds of channels to start from. Here’s some of the channels we made:
+
+https://preview.redd.it/25czddzp3utg1.png?width=3838&format=png&auto=webp&s=3d652d751fea696da927935e77c7e6abb122e5a6
+
+Channels are just a mapping of a bunch of shows to a specific theme, if you subscribe to one, chompy is the one that actually works on creating the lineup,  and working in the background to find and download things.
+
+
+
+So that’s it - One Mac mini + Chompy. My hope is that now in 20 years they’ll remember Homeward bound, not Skibidi toilet.
+
+Also before you ask, yes a Mac mini is required because Mac minis are one of the greatest pieces of consumer tech out there (I will die on this hill) - it comes so stacked from the factory that Chompy is basically plug and play.
+
+I'm not really sure how to end the post, other than: I made this thing - It has helped me sleep at night and I wanted to show it to people.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
