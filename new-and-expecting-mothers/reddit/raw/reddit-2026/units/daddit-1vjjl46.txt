@@ -1,0 +1,34 @@
+POST 1vjjl46 | r/daddit | 2026-08-09 07:37 UTC | https://www.reddit.com/r/daddit/comments/1vjjl46/
+TITLE: I got tired of fighting YouTube over my 11 year old, so I built my own version of it
+
+My son is 11. YouTube Kids (and regular YouTube, obviously) didn't work for us. The algorithm still surfaces junk, "approved content only" mode is a pain to keep up with, and every few weeks something weird slips through anyway. He's drawn to brainrot content like most kids these days, and honestly it's draining for me and my wife to keep steering him toward anything good. I tried a paid app with curated videos only, but I wanted more control than that.
+
+Both of us work, so we can't sit and watch over his shoulder, and asking him every evening what he watched is not a system. We needed something that just holds the line on its own while we're busy.
+
+What I kept wanting was pretty simple. Let me decide which channels exist, and then get out of the way. No recommendations, no autoplay into the void, no shorts, no ads.
+
+I kept looking for a decent open source thing that did this and couldn't find one, which surprised me, because I'm fairly sure every parent I know is dealing with the same problem. So I ended up writing it myself and putting it out for free. It's called Pickwick. Free, open source, no accounts, no tracking. You set it up on the TV from your phone over your home wifi, and unless you turn the AI filter on, nothing leaves your house at all. Our setup at home is a Google TV with Pickwick on it, and that's what he uses.
+
+How it works: you pick the channels and playlists, and that's all they see. There's a search, but it only searches the channels you've added, so it can't wander off. You can set a daily limit on how long they watch, and blocked times too, so no YouTube before school and none after 8pm. There's a weekly summary so you can see what they actually watched instead of guessing. And if you want to give them an extra 15 minutes for something good they did, that's one tap on my phone.
+
+There's also an optional AI filter, which is the part that finally solved the brainrot problem for us. What we noticed is that even some good channels slowly drift toward useless content, because they know that's what kids click on. So even for an approved channel, I wanted every new video checked before it reached my son.
+
+You write the house rules in plain English (mine are roughly "no clickbait or low effort brainrot, nothing scary, no unboxing or toy haul stuff") and it checks new videos against them before they show up. Anything it's unsure about gets hidden and lands in a queue in the admin section, with the title and its reasoning, and I tap allow or block. If you've got kids of different ages it judges each video per kid and their age, so something can be fine for the older one and blocked for the younger one.
+
+Two honest notes on that. You bring your own API key (stored encrypted on your device, and it never goes anywhere except your AI provider), so it's not something I control or profit from, and it costs a few cents a month at most since results are cached. It also works with a local LLM model on your own machine if you'd rather nothing left the house. And you can leave the whole AI thing switched off. Everything else works fine without it, the filter is just an extra layer on top of the channels you already chose.
+
+For what it's worth, a few months in, we can see a difference in him. He's calmer, he argues less about screen time, and he's actually interested in the stuff he watches now instead of just grazing. That's just our experience with one kid, but it's why I bothered finishing this instead of leaving it half done.
+
+The part I'd most like feedback on is the channel directory. It's a shared list of channels other parents have vetted, sorted by age and language, so you're not starting from an empty screen. Adding channels one at a time is the tedious bit of any setup like this, so the directory is meant to take the edge off. It's still small, and what I can add is limited to my son's age group, since that's what I'm interested in. But if enough parents are interested, we could build something between us that saves everyone the same work. If you know good channels, you can submit them from the site.
+
+There's also a form on the site for bugs and feature requests. I read all of it.
+
+Site: [https://pickwick.tv](https://pickwick.tv/) \-> The site's menu has link on how to set it up. It might be a bit hard for some parents (as the app is not distributed via Play Store) but I can try to help however possible.
+
+Fair warnings. It's beta, it's Android only right now (Google TV / Android TV, plus phones and tablets), and you install it yourself, so it's not in the Play Store. If that's a dealbreaker, totally fair. There will be rough edges. Report them on the site and I'll sort them out.
+
+One thing I'd genuinely like help with: we're a one kid family, so that's the setup I've actually lived with day to day. The app handles multiple kids and multiple devices, with separate channel lists, separate time limits, and a phone or tablet you can dedicate to one kid. But I haven't been able to properly test that at home. If you've got two or three kids and you're up for trying it, I'd really like to hear what breaks.
+
+Not selling anything. Just figured other parents might be in the same spot. Happy to answer questions.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---

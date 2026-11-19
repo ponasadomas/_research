@@ -1,0 +1,13 @@
+# Reader 089 notes
+
+Read all 150 assigned post files in order, including every author's reply present in each file. Result: **19 yes, 34 near, 97 no; 101 quotes from 29 posts** (62 quotes from all 19 yes posts; 39 from 10 near posts with a developmental link). No assigned file remains unread or unavailable. Replies marked “not fetched” in the source were unavailable, not reconstructed.
+
+Among the 19 yes posts, normality concerns and hard behaviour each appeared in 7 posts; delight/pride in 5; activities and fear of harm from parenting choices each in 4. These counts overlap. Parents compared reaching, speech, excitement, sensitivity and activity with other babies, or asked whether intense behaviour was normal. Biting, hair pulling, climbing and inconsolable crying made ordinary contact or routines painful and tiring. Advice often meant reassurance plus something practical to try.
+
+Pleasure was present alongside worry: “egg” as a first word, helping prepare food and clean, and close daycare friendships. Unexpected concerns included whether remaining screen-free could hold a child back, how to explain a dog's impending death to a 14-month-old, and whether moving a verbal toddler into a younger daycare room would set him back. No yes post showed potty learning or known delay/therapy; one near post described a diagnosed autistic toddler receiving speech therapy within a friendship complaint.
+
+The 34 near posts were marked parent_state (10), age_unknown (9), age_over_24 (5), sleep (3), feeding (3), logistics (3), and other (1). “Two years old” without months stayed near; explicit 2.5 years, 28 months and older stayed no. The long sensitive-child travel account was no because its body specifies 2.5 years, despite its title. Post-nap hysteria and nighttime rejection were yes where the focus was behaviour or the bond. Routine waking-only posts were no. Independent sleep, latch difficulty, improved head control and newly learned tap operation counted as explicit skill links in their otherwise peripheral posts.
+
+Some near decisions are broad: unsafe adult conduct during play, daycare refusal, and post-fall normal play qualify through play/behaviour while their main subjects differ. Unknown age remains a substantial limit. Where motherhood was explicit but first-child status was not, I used parent_unspecified rather than inventing parity. The Montessori philosophy quotation is labelled as an attributed summary, not firsthand child progress.
+
+Counts describe this assigned share of the supplied random post sample, not people or market prevalence. All quote excerpts, ids, membership, row coverage and per-post quote totals were checked by script against the assigned sources.
