@@ -14,7 +14,8 @@ norm = lambda s: re.sub(r"\s+", " ", html.unescape(s).replace("’", "'").replac
 ID = r"[a-z]{2,}[0-9]{1,3}-[0-9]{3,5}"
 share = [s for s in re.split(r"^## .*$", open(sf, encoding="utf-8").read(), flags=re.M)[1:]]
 ids = [re.findall(r"^### (\S+) \|", s, flags=re.M) for s in share]
-quotes = {m.group(1): norm(m.group(2)) for m in re.finditer(r"^- `(" + ID + r")` \([a-z_]+\) (.*)$", "\n".join(share), flags=re.M)}
+# a quote may run over several lines: it ends at the next quote, the next post or the next section
+quotes = {m.group(1): norm(m.group(2)) for m in re.finditer(r"^- `(" + ID + r")` \([a-z_]+\) (.*?)(?=^- `|^### |^## |\Z)", "\n".join(share), flags=re.M | re.S)}
 t = open(df, encoding="utf-8").read(); problems = []
 secs = re.split(r"^## (.*)$", t, flags=re.M); sec = {secs[i].strip(): secs[i + 1] for i in range(1, len(secs) - 1, 2)}
 def find(word): return next((b for h, b in sec.items() if h.endswith(word)), None)

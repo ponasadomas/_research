@@ -1,0 +1,726 @@
+# Digest 14: pattern 6, The child prefers someone else
+
+Share: baby-development/_work/2026-11/digests/share-14.md. Yes posts: 129. Near posts: 27.
+
+<!--
+Reading and coding notes:
+All 156 supplied posts were read whole; unread: 0. These are posts assigned to pattern 6 from the brief's random sample of 20,000 posts. Counts below describe this share, not people or the prevalence of a concern among parents. Every post has one main form within its original yes/near section; tags may overlap.
+tried=yes: a concrete caregiving, soothing, exposure, boundary, information-seeking or treatment effort described in relation to the concern, including ongoing or previously established care routines. A plan alone, an absence alone, or merely describing the child's response does not qualify.
+others=yes: describes something another adult said or did in the account. Another adult's existence or the child's preference alone does not qualify. Advice quoted by a poster is their report of that advice, not independently verified.
+bought=yes: explicitly describes purchasing/acquiring something or using nanny care as a service. Mere possession, feeding method, a proposed purchase, an unpurchased recommendation or therapy/medication without a purchase statement is not enough. Nanny roles are coded as paid services by role; payment, payer and price are unknown where unstated. This is an uncertainty for 1vsbzs5, 1wy0mrd and near post 1sjs9nu. The rocking-chair and carrier acquisition language in near posts 1tg4wtq and 1thnz6p is also not an explicit payment statement. The purse post describes a proposed fifth secondhand purchase that week, not a verified completed fifth purchase. The father's 'buying stuff' is unspecified.
+feeling=yes: names the author's own emotion, love/gratitude, bodily exhaustion, crying/distress, or sense of failure/displacement. Another adult's feelings alone do not qualify. Unknown identities, ages, locations, income and payment details have not been filled in.
+Possible repeated account: 1u79k8w and 1u79sf8 describe the same 22-month-old and grandmothers in closely matching words. They are retained as two sampled post IDs, not claimed to be two people.
+Near-only material stays in its near forms and is excluded from the across-yes table and quotations. Near tag totals: tried 25 of 27; others 26 of 27; bought 5 of 27; feeling 22 of 27.
+Per-post tags, retained here for audit without adding another visible section:
+section | post | tried | others | bought | feeling
+yes | 1s9thbk | yes | yes | no | yes
+yes | 1sb6wfn | no | yes | no | no
+yes | 1sbhzgy | yes | yes | no | yes
+yes | 1sdyj95 | yes | yes | no | yes
+yes | 1se4i9o | no | no | no | yes
+yes | 1sffms6 | no | yes | no | yes
+yes | 1sgiykn | yes | yes | no | no
+yes | 1sgqanl | yes | yes | no | yes
+yes | 1sh76s6 | yes | yes | no | yes
+yes | 1siebzm | no | yes | no | yes
+yes | 1sjkfb9 | yes | yes | no | yes
+yes | 1smnaot | yes | yes | no | yes
+yes | 1smuogd | yes | yes | no | yes
+yes | 1sn763h | yes | yes | no | yes
+yes | 1snmjsf | no | yes | no | yes
+yes | 1sq742s | yes | yes | no | yes
+yes | 1sqsu8a | yes | yes | no | yes
+yes | 1sr1ys3 | yes | yes | no | yes
+yes | 1ssiewf | yes | yes | no | yes
+yes | 1sx89xu | yes | yes | no | yes
+yes | 1sxnij6 | yes | yes | no | yes
+yes | 1sxoz8y | yes | yes | no | yes
+yes | 1syhz9b | no | yes | no | no
+yes | 1t16f89 | yes | yes | no | yes
+yes | 1t1un5r | yes | yes | no | no
+yes | 1t345nn | yes | yes | no | yes
+yes | 1t40fm0 | yes | yes | no | yes
+yes | 1taf5h3 | yes | yes | no | yes
+yes | 1taxrdd | yes | yes | no | no
+yes | 1tboheb | yes | yes | no | yes
+yes | 1tceoke | yes | yes | no | yes
+yes | 1te66oj | yes | yes | no | yes
+yes | 1tfw6na | yes | yes | no | yes
+yes | 1tfxldi | yes | yes | no | yes
+yes | 1tg9ofl | yes | yes | no | no
+yes | 1tglczk | yes | yes | no | yes
+yes | 1ti5c6b | yes | yes | no | yes
+yes | 1tist3n | yes | yes | no | yes
+yes | 1tjx1m4 | yes | yes | no | no
+yes | 1tnj1j7 | yes | yes | no | yes
+yes | 1trvyog | yes | yes | no | yes
+yes | 1tvm8nw | yes | yes | no | yes
+yes | 1txa3v8 | yes | yes | no | yes
+yes | 1txrtdi | yes | yes | yes | no
+yes | 1tyve3a | yes | yes | no | yes
+yes | 1tyz6rt | yes | yes | no | yes
+yes | 1u0fntf | no | yes | no | no
+yes | 1u1glqg | yes | yes | no | yes
+yes | 1u434pm | no | yes | no | yes
+yes | 1u5qwts | yes | yes | no | yes
+yes | 1u76h3x | yes | yes | no | no
+yes | 1u79k8w | yes | yes | no | yes
+yes | 1u79sf8 | yes | yes | no | yes
+yes | 1u9zq2c | yes | yes | no | yes
+yes | 1uauqkn | yes | yes | no | no
+yes | 1ubxxg0 | yes | yes | no | yes
+yes | 1ucea1j | yes | yes | no | yes
+yes | 1ud5ceu | no | no | yes | yes
+yes | 1ueeo8t | yes | yes | no | yes
+yes | 1ugt7n2 | yes | yes | no | yes
+yes | 1uj87z0 | yes | yes | no | yes
+yes | 1umuma6 | no | yes | no | yes
+yes | 1unigbf | yes | yes | no | yes
+yes | 1unm6nt | yes | yes | no | yes
+yes | 1uodapl | yes | yes | no | yes
+yes | 1upumay | yes | yes | no | yes
+yes | 1uq3gjx | yes | yes | no | yes
+yes | 1urbgwt | yes | yes | no | yes
+yes | 1us9xm3 | yes | yes | no | yes
+yes | 1ut74fw | yes | yes | no | yes
+yes | 1ux6zje | yes | yes | no | yes
+yes | 1uy0lru | yes | yes | no | yes
+yes | 1v2o8or | yes | yes | no | yes
+yes | 1v3lo7v | yes | yes | no | yes
+yes | 1v3uc1n | yes | no | no | yes
+yes | 1v4blrn | yes | yes | no | yes
+yes | 1v7ekvt | yes | yes | no | yes
+yes | 1v889nx | yes | yes | no | yes
+yes | 1vciuv0 | yes | yes | no | yes
+yes | 1vdmvx8 | yes | yes | no | no
+yes | 1vgc44p | no | yes | no | yes
+yes | 1vgd5yq | yes | yes | no | yes
+yes | 1vgghnf | yes | yes | no | no
+yes | 1vjcuep | yes | yes | no | yes
+yes | 1vjg3bf | no | no | no | yes
+yes | 1vjs3zu | yes | yes | no | yes
+yes | 1vlatq3 | yes | yes | no | yes
+yes | 1vmd13h | yes | yes | no | yes
+yes | 1vntp0p | yes | yes | no | yes
+yes | 1vpe175 | yes | yes | no | yes
+yes | 1vqa0tv | yes | yes | no | yes
+yes | 1vqbnn4 | yes | yes | no | yes
+yes | 1vqw748 | yes | yes | no | yes
+yes | 1vsbzs5 | yes | yes | yes | yes
+yes | 1vtt4sa | yes | yes | no | yes
+yes | 1vux1qb | yes | yes | no | yes
+yes | 1vvmuks | yes | yes | no | yes
+yes | 1vwnvqo | yes | yes | no | yes
+yes | 1vyjv09 | yes | yes | no | yes
+yes | 1vzcm6y | yes | yes | no | yes
+yes | 1w2ivxu | yes | yes | no | yes
+yes | 1w5ri2p | yes | yes | no | yes
+yes | 1w5rkq2 | yes | yes | no | yes
+yes | 1w7n7vm | yes | no | no | yes
+yes | 1wfutpp | yes | yes | yes | yes
+yes | 1wfz2aj | yes | yes | no | yes
+yes | 1whscu4 | yes | yes | no | yes
+yes | 1wj5rza | yes | yes | no | yes
+yes | 1wk5tu8 | yes | yes | no | yes
+yes | 1wld7we | yes | yes | no | yes
+yes | 1wn3e33 | yes | yes | no | yes
+yes | 1wp5alx | yes | yes | no | no
+yes | 1wtm2af | yes | yes | no | yes
+yes | 1wx2n1w | yes | yes | no | yes
+yes | 1wxsqdn | yes | yes | no | yes
+yes | 1wy0mrd | yes | yes | yes | yes
+yes | 1wynt2j | yes | yes | no | yes
+yes | 1wyqr61 | yes | yes | no | no
+yes | 1x3d4y2 | yes | yes | no | yes
+yes | 1x3x93r | yes | yes | no | yes
+yes | 1x5h5n0 | yes | yes | no | yes
+yes | 1x68ip6 | yes | yes | no | yes
+yes | 1x6vqch | yes | yes | no | yes
+yes | 1x83198 | yes | yes | no | yes
+yes | 1x9akvt | yes | yes | no | no
+yes | 1xagjw3 | no | yes | no | yes
+yes | 1xbleq4 | yes | yes | no | no
+yes | 1xcxyna | yes | yes | no | yes
+yes | 1xdo4k0 | yes | yes | no | yes
+near | 1sbxc2c | yes | yes | no | no
+near | 1sj4pg2 | yes | yes | no | yes
+near | 1sjs9nu | yes | yes | yes | yes
+near | 1t3jlem | yes | yes | yes | no
+near | 1tesb0t | no | no | no | no
+near | 1tg4wtq | yes | yes | yes | yes
+near | 1tgg5rm | yes | yes | no | yes
+near | 1thnz6p | yes | yes | yes | no
+near | 1ti0n01 | no | yes | no | no
+near | 1tpjuoe | yes | yes | yes | yes
+near | 1tv80ax | yes | yes | no | yes
+near | 1tzckcn | yes | yes | no | yes
+near | 1ud3mla | yes | yes | no | yes
+near | 1uiiwee | yes | yes | no | yes
+near | 1urpxub | yes | yes | no | yes
+near | 1uuqgrf | yes | yes | no | yes
+near | 1uvge7t | yes | yes | no | yes
+near | 1v2u489 | yes | yes | no | yes
+near | 1v63kau | yes | yes | no | yes
+near | 1vm2b81 | yes | yes | no | yes
+near | 1vumv4d | yes | yes | no | yes
+near | 1w2lb03 | yes | yes | no | yes
+near | 1waq5jb | yes | yes | no | yes
+near | 1wgmc6y | yes | yes | no | yes
+near | 1wh2630 | yes | yes | no | yes
+near | 1wjbe66 | yes | yes | no | yes
+near | 1wjzndt | yes | yes | no | yes
+-->
+
+## Pattern 6, share 14: yes posts
+
+### The parent feels rejected when the child gives the other parent the affection they want.
+
+14 of 129 posts.
+
+These parents want hugs, comfort-seeking and an excited reunion, and describe being pushed away or told to go away while the other parent is welcomed. The posts include babies from seven months and toddlers up to 22 months, with one parent also discussing an almost-three-year-old sibling. Several describe resentment, humiliation or fear that the preference will last, even while recognising the other parent as loving and capable.
+
+- "But I am literally STARVED for my baby to show me the tiniest crumb of affection." [sr046-0061]
+- "If we go shopping with dad, my son will completely meltdown if I am near him and will constantly say ‘mommy go away’ so I have to walk behind him and his dad and not be in his sight otherwise he will have a meltdown in the shop." [sr047-0013]
+- "Sometimes she will even go down the list of all the people she loves, but not me." [sr091-0081]
+- "I could also handle it if he wasn’t a fucking dick and gloated about it…" [sr038-0115]
+- "I even find myself (and I’m ashamed to admit) feeling less connected to my baby that I’m pregnant with." [sr053-0014]
+- "I feel lonely as fuck since the baby arrived, I really feel like there is team mom+baby spending time with each other having human interactions and theres me fucking off to work at 5 in the morning so I can get home early and spend time with them before bedtime." [sr133-0103]
+
+**But:** The rejection can depend on who is present, and one later update says it ended: "When me and her are alone together she’s super loving and cuddly and we have a sweet time together but the minute Dad is around it’s all “Mommy no.”" [sr008-0012] "I wanted to let you know that this was a phase that ultimately has passed for us now." [sr053-0030]
+
+Posts: 1sffms6 1sjkfb9 1tnj1j7 1tyz6rt 1u1glqg 1u5qwts 1ut74fw 1vjcuep 1vqw748 1vwnvqo 1wyqr61 1x5h5n0 1x68ip6 1xdo4k0
+
+### The parent worries that a difficult start or shared care has damaged the child's attachment to them.
+
+9 of 129 posts.
+
+These parents connect the current preference or lack of clinginess with a difficult birth, NICU time, unsuccessful breastfeeding, postpartum depression, less skin-to-skin or dividing care between children and adults. The children range from five weeks to 18 months. They ask whether they missed a bonding opportunity or caused lasting damage; those explanations are the parents' fears rather than established causes in the posts.
+
+- "\-Did I miss the bonding window because breastfeeding didn’t work?" [sr013-0230]
+- "I had a c-section and I couldn’t breastfeed and I feel like I killed that pivotal part of bonding with a newborn." [sr087-0044]
+- "I feel like he didn’t form a proper attachment to me because I couldn’t be caregiving 100 percent of the time." [sr095-0122]
+- "I really thought I was doing the right thing by being there for my eldest and now I feel as though I’ve damaged the relationship with my youngest forever." [sr113-0135]
+- "Part of me is deeply worried my postpartum depression has caused the lack of connection and it may be irreversible." [sr123-0042]
+- "In the back of my mind I keep thinking that because I haven't been able to be as hands on with her in those first few weeks that she doesn't trust me like her mom." [sr093-0040]
+
+**But:** Not all the behaviour described is rejection, and one feeding situation improved: "She smiles when she sees me, but she’s totally fine if I put her down and doesn’t cry. She will happily play on her own." [sr087-0044] "Thank you so much, I stoped pumping on schedule and do it only few times a day! Now I breastfeed her again (very happy about this) and top up with formula;))" [sr013-0237]
+
+Posts: 1sr1ys3 1te66oj 1uauqkn 1vjg3bf 1vqbnn4 1vtt4sa 1vvmuks 1wld7we 1wxsqdn
+
+### The parent feels unable to comfort their baby when other people can.
+
+9 of 129 posts.
+
+These parents describe crying, wriggling away or resisting sleep with them, followed by calm with a partner, grandparent or friend. The children range from four weeks to almost 17 months; one pregnant parent contrasts constant screaming with reports of an angel at daycare and with dad. They question their competence or whether the baby hates them, and describe trying different holds, rocking, feeding or taking a break.
+
+- "It makes me seethe seeing my baby being held by others and being calmed, yet not being calmed in my arms." [sr016-0128]
+- "What did I do wrong????? I feel like he HATES me when all I have done is completely wrap my entire life around him." [sr043-0064]
+- "And I have to ask my 66 year-old mother-in-law or my underslept husband to do it for me because I can’t." [sr083-0022]
+- "I feel like it makes me look incompetent and like I can’t look after him which I find embarrassing in front of our parents and friends with their own kids." [sr078-0066]
+- "it goes against the whole moms are supposed to comfort. he clearly doesn’t find a source of comfort in me." [sr095-0016]
+- "His daycare says he’s an ANGEL. With just his dad around? ANGEL." [sr018-0223]
+
+**But:** The difficulty can be limited to a time or situation: "She’s a great sleeper at night in her crib, however, and I typically get a 5-7 hour stretch. I don’t have as hard of a time getting her back to sleep during the night." [sr051-0114] "she is absolutely fine with naps which happen in tye same room, same cot, same laying her down and her falling asleep on her own but bedtime? Absolutely not!" [sr028-0118]
+
+Posts: 1sq742s 1sxnij6 1taxrdd 1tvm8nw 1ubxxg0 1v889nx 1vciuv0 1vqa0tv 1syhz9b
+
+### The parent feels overlooked because their baby smiles or shows skills more readily with other people.
+
+7 of 129 posts.
+
+These parents compare the smiles, laughter, eye contact or imitation their baby gives them with responses to dad, relatives or strangers. The babies are nearly four to eight months old. One parent discovers that skills feared absent are being performed with grandparents, while another says a partner's jokes and refusal to take photos deepen the hurt.
+
+- "What the actual hell? Like I spend every waking moment with this kid falling all over myself trying to make sure I'm interacting properly with her and feeling like an utter failure and really she can do all of these things and she just doesn't want to do them with me? ☹️" [sr018-0178]
+- "When I try to do the same things he does and bring the same energy, she just doesn't react the same." [sr028-0162]
+- "Everyone else? in laws? Random neighbor, my parents, hell my BiLs girlfriend? He loves to laugh and make noises at them" [sr123-0077]
+- "When I asked him to take some nice candid photos of me and her together this week as its our first family holiday, he says he can't because I'm not her favourite person this week and she isn't smiling at me." [sr107-0066]
+- "This makes me a bit upset and I feel like she is not as fond of me maybe" [sr112-0006]
+
+**But:** Some affection is still reported, and the discovery can answer the developmental worry: "I get smiles from her but they're much more fleeting than the ones she constantly gives him." [sr028-0163] "So now I'm not worried about her development anymore but now deeply concerned that I'm a horrible stage Mom?" [sr018-0180]
+
+Posts: 1sx89xu 1tceoke 1tglczk 1us9xm3 1wfz2aj 1whscu4 1wynt2j
+
+### The parent feels wanted for milk while missing other affection from the baby.
+
+4 of 129 posts.
+
+These nursing parents feel reduced to supplying milk when dad receives excitement or kisses, or when the baby will accept their arms only with a breast offered. The children are two to 13 months old. One parent describes postpartum rage and shopping for a reward, while another longs to hold and rock the baby without feeding.
+
+- "I just feel like I put so much into taking care of him, and all he sees me is as a pair of boobs lol" [sr023-0106]
+- "Sometimes it feels like he only comes to me when he wants milk if my husband is around." [sr114-0048]
+- "the main breadwinner, the milk supplier, money supplier, the MOTHER and yet DAD GETS KISSES BEFORE I DO????!!!’n" [sr059-0003]
+- "It's a shame cuz I would love to hold my baby without having to pop a boob in his mouth." [sr134-0083]
+
+**But:** They distinguish their feelings from how they will treat the baby, and do describe occasional welcome: "obvi i will not express disappointment or anger toward my baby but so much of motherhood is BULLSHIT and UNFAIR." [sr059-0004] "It's getting so bad that I am just over the moon if he does want me on the rare occasion." [sr114-0048]
+
+Posts: 1t40fm0 1ud5ceu 1wk5tu8 1xcxyna
+
+### The parent wants to preserve or rebuild the bond when work, trips or custody separate them.
+
+7 of 129 posts.
+
+These parents ask how to keep or rebuild a place in the child's life across returning to work, a long absence, separation from an ex-partner or custody exchanges. The posts cover a three-month-old, toddlers from 14 to 21 months, a toddler recorded in the 18–24-month stage and one child whose stage is unknown. Some fear future replacement, while others describe rejection after a change that has already happened; one father says the exchange is distressing but the rest of his parenting time is normal.
+
+- "I had to be away from my now toddler son for about 9 months since he was 1 year old. I used to be his center now I am not. It’s killing me, what can I do more to be bonded with him." [sr003-0110]
+- "Will my little one forget me? Will he prefer my MIL over me as she’s taking care of him more during the day?" [sr009-0054]
+- "Because of that, I did not meet my daughter in person until she was around six months old." [sr011-0045]
+- "Im finally going to get to see her soon, and I was wondering if you guys had advice on how I can make my daughter as comfortable as possible in these early stages of reunion." [sr062-0047]
+- "I never wanted him to stop wanting me. Is this normal and does it go back to the way it was?" [sr101-0031]
+- "Today we even tried having his mom drop him off instead of me picking him up, thinking that might make the transition easier. Same result." [sr112-0029]
+
+**But:** The handover reaction does not necessarily continue through the visit: "Once his mom is gone and he settles down, he is completely normal with me. He plays, laughs, interacts with me normally, goes through our bedtime routine without a problem and sleeps great." [sr112-0030]
+
+Posts: 1se4i9o 1siebzm 1smnaot 1umuma6 1vzcm6y 1w5rkq2 1wj5rza
+
+### The caregiver feels displaced or caught between adults when the child chooses a relative over a parent.
+
+10 of 129 posts.
+
+These parents describe a grandparent receiving the cuddles, comfort-seeking or bedtime role they want, often while living together or relying on substantial help. The children range from a newborn to 23 months. Some question boundaries or fear being undermined; a caregiving cousin instead feels guilty that the baby chooses them over the working mother.
+
+- "He probably thinks I'm just the bitch that lives with him. He doesn't want anything to do with me. Loves his grandmother." [sr032-0057]
+- "The grandmother herself gets tired as well and we have to distract him endlessly so she can sneak out and do her own work." [sr042-0023]
+- "I know that I need to reduce time with MIL and daughter but I can't help but feel like MIL is being nefarious and trying to undermine my connection with my daughter." [sr088-0040]
+- "this evening, my 23 m.o. toddler pushed me away, crying, telling me to go away and asking for my mum to put him to bed." [sr049-0141]
+- "if the baby falls she’ll cry and my cousin will be like “come here” to console her but she’ll run to me instead (mind you, i don’t tell her to come to me)." [sr080-0095]
+- "I just leave her with them and go downstairs and mope." [sr124-0027]
+
+**But:** The same children can seek and enjoy their parents when the relative is absent: "He is also very affectionate with me and my husband when we’re alone." [sr042-0024] "I know logically she wants me , she cries if I leave the house etc." [sr124-0029]
+
+Posts: 1sgiykn 1tfxldi 1trvyog 1txa3v8 1u434pm 1ueeo8t 1v7ekvt 1vdmvx8 1vjs3zu 1wx2n1w
+
+### The caregiver wants the child to accept a familiar relative whom they currently reject.
+
+5 of 129 posts.
+
+These caregivers want a child to feel comfortable with one familiar relative rather than crying, refusing to be held or choosing a different grandmother. The children are 12 to 22 months old, and the accounts discuss unequal time together, adult anxiety, play style and language. Two posts appear to repeat the same 22-month-old's grandmother situation in different subreddits; both remain counted as supplied posts, not as separate families.
+
+- "The last few times he was with her he cried the WHOLE day with very short periods of no crying." [sr001-0021]
+- "Seeing the preference makes me feel bad as I'm an only child and my mom wants nothing more than to feel loved from my daughter." [sr015-0028]
+- "The last factor is that my mother is from another country and has decided that it's her mission to speak that language my LO." [sr054-0054]
+- "Lady, you broke in my bathroom while I was showering because you couldn't stand it long enough!" [sr053-0053]
+- "I babysit her a couple hours a night every week while her parents are out, and the last handful of times she will have complete meltdowns shortly after they leave. But when my mom watches her, she has fun and plays." [sr083-0093]
+
+**But:** Rejection during a visit does not rule out interest in the person afterwards: "today we tried again and he wanted nothing to do with her, but then kept asking where she is once she left. Toddlers!" [sr054-0060]
+
+Posts: 1s9thbk 1snmjsf 1u79k8w 1u79sf8 1vgd5yq
+
+### The parent wants their baby to accept the other parent's comfort.
+
+7 of 129 posts.
+
+These parents want the baby to settle, feed or accept holding with the parent who is currently rejected, sometimes after that parent previously soothed successfully. The children range from newborn age to 14 months. A father proposes a daily bottle as bonding time but says pumping is traumatic for his wife; another wants to comfort a toddler even occasionally rather than restarting a tantrum.
+
+- "So I recently proposed the idea of feeding her once a day when I get off work, or before bed time." [sr015-0024]
+- "Unfortunately, my wife is not willing to do this because the first 2 weeks were so traumatic for her, that even pumping is too anxiety inducing for her." [sr015-0024]
+- "Anyone have any suggestions on how to get him to let me comfort him, even if it’s once every 5 times?" [sr013-0087]
+- "She used to only calm down and go to sleep with him rocking her. Something has changed in the last three weeks." [sr032-0070]
+- "The best I can do is gently rock her to sleep, but she's usually awake again in less than 5 minutes, notices I'm the boobless parent, and tells me in her loving way that that's not OK." [sr117-0046]
+- "I feel very unhelpful and useless except for changing diapers." [sr063-0073]
+
+**But:** Difficulty settling does not always extend to play: "He plays with him happily, it’s all fun and games until he decides he’s had enough or when it’s nap / bed time." [sr096-0101]
+
+Posts: 1smuogd 1sn763h 1tg9ofl 1unm6nt 1w2ivxu 1w7n7vm 1wp5alx
+
+### The parent wants to support a partner who feels rejected by the child.
+
+10 of 129 posts.
+
+These parents ask how to protect a partner's confidence and help that partner bond with the child, rather than focusing only on their own need for relief. The children range from five weeks to nearly two years. Accounts include daily attempts, reassurance, routines, coaching a different soothing style and addressing grandmother's interference; one father is preferred and wants to help his distressed wife.
+
+- "I would do anything for mom to be the favorite just for her sanity." [sr023-0077]
+- "She will run up to me and give big cuddles and I just wish she would do that to him because I know it would just make his day!" [sr065-0038]
+- "His dad is great with him, makes attempts daily, and is just heartbroken." [sr052-0055]
+- "It's hard for me not interrupt their time to comfort little man, and at the same time, I also worry that my husband gets almost no time with baby to bond." [sr029-0088]
+- "I would love to either hear stories from you if you dealt with similar things OR if you have recommendations on any father you tubers or podcasts (who aren't red pill type guys 🙏) I could recommend to him so he can hear it from somewhere else??" [sr057-0082]
+- "Does anyone know any resources to help teach dad to be a little more nurturing?" [sr016-0142]
+
+**But:** One parent questions whether this reflects preference at all, and another says the rejected parent is accepted alone: "This feels more like self-doubt than an actual issue." [sr065-0046] "If I'm not there at all, this obviously isn't an issue and he's perfectly content with Mom." [sr132-0046]
+
+Posts: 1sxoz8y 1t345nn 1taf5h3 1u76h3x 1ugt7n2 1unigbf 1uodapl 1v3lo7v 1x83198 1xagjw3
+
+### The parent says care goes well until the preferred parent comes into view.
+
+5 of 129 posts.
+
+These parents describe a child laughing, playing or accepting care with one parent until the other parent is seen or heard. The children are almost eight to 19 months old. They ask how to handle the abrupt switch, share care or reassure the rejected parent; some emphasise that both parents are equally involved.
+
+- "Having a great time playing with dad or grandparents then the second LO sees or hears mom, starts crying until in her arms." [sr001-0062]
+- "I have to tell her don’t walk in the room if she wants me to watch him because he then turns into a maniac." [sr040-0002]
+- "He will be so happy playing with his dad, having a great time with giggles and being silly but the second I come into his line of sight he starts crying or gets fussy immediately wanting me." [sr064-0073]
+- "I've been trying to take a little step back, and his dad has been trying to coddle a little more." [sr051-0066]
+- "I do find it a bit emotionally exhausting/upsetting at times, especially because I'm the one who deals with overnight stuff (being a much shallower sleeper than my wife) as well." [sr130-0015]
+
+**But:** The parent's own account distinguishes this from rejection throughout solo care: "If she's not in the house (we take alternative days of looking after him while the other works, or has some 'me time') he's absolutely fine, and we play, have fun, eat, wash, sleep, etc. totally fine" [sr130-0014]
+
+Posts: 1sb6wfn 1tjx1m4 1u9zq2c 1upumay 1x3x93r
+
+### The parent cannot get a break because the child demands their presence for everyday care.
+
+12 of 129 posts.
+
+These parents cannot eat, use the bathroom, do chores, work or attend to another child without being followed, held onto or screamed for. The children range from newborn age to almost two years. They describe trying the other parent's care, leaving the room, carrying or wearing the child and brief separations, with some reporting hyperventilation or vomiting during distress.
+
+- "I can’t shit, brush my teeth, sleep in, shower, leave for work, get dressed, eat, or anything at all without at a minimum listening to a symphony of progressively loud screaming or at a maximum being screamed at while also being climbed on, tugged on, or headbutted." [sr071-0008]
+- "My husband can get out of the house sometimes to do things for himself, but I feel like on a very short leash that should jerk me back at any moment if I try to leave." [sr074-0103]
+- "Do I let her cry it out for 30 minutes so I can cook and eat? Hearing her Shakey cries puts me in distress and breaks my heart." [sr129-0011]
+- "However, I feel like I’m not able to give proper time or attention to my 2 year old and 4 year old :(" [sr003-0057]
+- "He obliged and she screamed the whole time like she was being disemboweled." [sr010-0047]
+- "As such, my wife cannot get much proper studying done, as frequent interruptions prevent much deep focus." [sr085-0113]
+
+**But:** The difficulty is not described as constant in every setting: "Sometimes he's perfectly fine with my husband watching him, other times not and it largely isn't predictable." [sr074-0104] "She will independently play when it’s just me and her in the house." [sr079-0007]
+
+Posts: 1sbhzgy 1sgqanl 1t16f89 1ucea1j 1uq3gjx 1ux6zje 1uy0lru 1v2o8or 1v3uc1n 1v4blrn 1vgghnf 1x3d4y2
+
+### The parent fears leaving the child with someone else because separations bring prolonged distress.
+
+5 of 129 posts.
+
+These parents fear or have cut short time away because the child cries for prolonged periods with another caregiver, even when feeding and soothing have been attempted. The children are three months to the 9–12-month stage. The situations include an evening out, exercise, preparing to work, a mother's week away and separated parents considering overnight stays.
+
+- "both times baby was with my mom and scream cried for 3+ hours straight until I left early to come home." [sr126-0106]
+- "she screamed the whole time - I had to go home early (also my anxiety was terrible the entire time)." [sr030-0175]
+- "It feels the last few times I’ve come home even from the half hour runs the baby has become inconsolable then that makes me feel shit like I’ve abandoned him" [sr111-0081]
+- "the people have often tried for hours with him inconsolably screaming and have had to call me to come get him." [sr067-0015]
+- "I just have this fear that she (both my wife and daughter) will be extremely upset during the week they are away from each other, and I'll have difficulty consoling either of them." [sr084-0116]
+
+**But:** One father is anticipating a first long separation rather than reporting a failed one, and one baby accepts dad outside the specific nighttime problem: "Absolutely LOVE my daughter, and she is by all means an "easy baby"." [sr084-0116] "he’s always been very wary of other people and will cry if anyone except me or his dad go anywhere near him." [sr067-0007]
+
+Posts: 1tboheb 1urbgwt 1vgc44p 1wn3e33 1x6vqch
+
+### The parent is unsure whether to step in when the child cries with the other parent.
+
+4 of 129 posts.
+
+These parents struggle with how long to let the other parent try soothing before intervening, and with whether crying in that parent's arms has consequences for attachment. The children are 11 weeks to 11 months old. One parent describes arguments over giving instructions, another describes a grandmother's distress at watching dad hold a crying baby, and another says a heart condition makes listening especially hard.
+
+- "I want to be able to give my partner a break but we fear that letting baby cry in my arms until she tires herself out is a form of Cry It Out?" [sr050-0024]
+- "I recognize that I need to let him help and it isn’t fair for me to criticize how it is done, even if the crying bothers me." [sr086-0179]
+- "He will sit there with him crying until I grab him." [sr095-0003]
+- "Our baby has a heart condition and will need surgery so hearing him get so worked up just makes me want to run back to him and calm him down." [sr097-0060]
+- "And he’s right, I do make comments which aren’t meant as criticism but I get frustrated that he doesn’t do things the way I do them. And then we argue." [sr086-0180]
+
+**But:** These accounts do not all describe a caregiver lacking time alone with the child: "we work opposite hours so that we don’t need to pay for daycare so we often parent alone" [sr086-0176]
+
+Posts: 1tyve3a 1vntp0p 1vpe175 1vyjv09
+
+### The parent wants to share bedtime or night waking again when the child accepts only one of them.
+
+10 of 129 posts.
+
+These parents want to alternate bedtime or night waking, or regain a settling role that the child has stopped accepting. The children range from three months to nearly two years. Some describe a sudden switch despite a long history of dad handling sleep, one describes father-only sleep after nursery started, and an expectant parent wants the toddler to accept dad before the next baby arrives.
+
+- "Daytime, dad is fine. Nap time, dad is okay. Middle of the night, apparently dad is a wild animal coming to hurt him." [sr089-0052]
+- "Suddenly, about a week ago, it’s like a switch flipped and now he only wants me to put him to sleep." [sr126-0140]
+- "My husband would like us to take turns but our baby only accepts me 🥲 baby is formula fed so it isn't a breastfeeding thing." [sr022-0064]
+- "How do we help him get used to my husband? Do we just let him scream?? I just feel so bad…" [sr034-0058]
+- "I’m worried we’re reinforcing a habit where she’ll only go down with him unless he’s literally out of the house." [sr104-0070]
+- "Ho già rinunciato ad uscite ed un viaggio di qualche giorno per questo motivo ma sicuramente dovrò partire prossimamente (anche per lavoro). Aiuti? Consigli?" [sr133-0060]
+
+**But:** The preference can be tied to the preferred parent's presence or to night waking rather than all settling: "If he leaves the house, she’s totally fine with me - it’s specifically about him being *present* during bedtime." [sr104-0069] "My husband also puts him down for bed most nights since the first trimester has rocked me and our son has no problem…." [sr034-0058]
+
+Posts: 1sh76s6 1ssiewf 1t1un5r 1tfw6na 1ti5c6b 1vlatq3 1w5ri2p 1wtm2af 1x9akvt 1xbleq4
+
+### The parent reports finding affection or soothing success after feeling rejected.
+
+3 of 129 posts.
+
+These three parents report a change after feeling rejected: a mother sees her toddler's love more clearly, parents reconnect after a short holiday, and a father succeeds at soothing his baby. The children are 5.5, 16 and 19 months old. The accounts describe time, bubbles or patient physical soothing rather than a single shared method.
+
+- "Since she’s turned one, I see how much she loves her mama." [sr004-0159]
+- "As soon as she saw as she clung on to her gma and acted like she didn’t know us. We held her and she started crying… well now I’m crying too! :(" [sr014-0128]
+- "Well thank goodness there was some bubbles to blow nearby and i regained her trust again ! ☺️" [sr014-0129]
+- "I hold home close again and tell him dad loves him and make sure I'm rubbing his back gently and rocking gently." [sr063-0007]
+- "He looks up at me, looks into my eyes and sees it's his dad and decides "yeah, actually I'm really comfortable so this'll do"." [sr063-0009]
+- "I feel so damn proud of myself." [sr063-0013]
+
+**But:** Improvement is not a claim that every preference has disappeared: "She’s still totally a daddy’s girl." [sr004-0158] "I've tried many times before but he makes himself too sad and when his mother comes in she takes over and it's some magic touch art she pulls off and he's instantly comforted." [sr063-0004]
+
+Posts: 1sdyj95 1sqsu8a 1uj87z0
+
+### The parent worries about their own difficulty connecting with a child who prefers someone else.
+
+3 of 129 posts.
+
+These parents question their own connection to the child as well as the child's preference for someone else. The children are 12 weeks, about one year and almost two years old. One describes loving the baby less as attempts to engage go unanswered, another fears favouring an older son, and a father describes feeling as though he is performing a role after missing first steps for work.
+
+- "i’m also afraid of my own feelings, i feel like i love him less and less." [sr088-0100]
+- "I am fearful that I will end up playing favorites and won’t come to love him like I love my older child." [sr092-0092]
+- "I've felt sometimes like I'm role-playing a dad, and doing the things I think a dad should be doing." [sr106-0089]
+- "They seem to know exactly what to do to keep them engaged, happy, fulfilled, whereas I feel a little disappointed with myself instead, but can't seem to be as good as them even when I am trying." [sr106-0089]
+
+**But:** They also state love or commitment despite these feelings: "I know that I love him deep down. I’m committed to being a good dad to him." [sr092-0091] "I do have love for my child, but not sure about feeling that strong connection that I see their mum have with them." [sr106-0089]
+
+Posts: 1vmd13h 1vux1qb 1wfutpp
+
+### The parent feels displaced when the child appears to prefer a childcare worker.
+
+4 of 129 posts.
+
+These parents feel invisible or insecure when the child tracks a daycare teacher, resists leaving the teacher, looks towards a nanny or gives the nanny an affectionate hug. The children are seven to 16 months old. Some appreciate the care and the child's adjustment while wondering whether the child recognises, misses or needs them.
+
+- "I feel invisible? I know I have PPD/PPA but I’ve been on medication for months and going to therapy and just don’t know how to shake these feelings that my baby doesn’t even recognize me or care that I’m there." [sr032-0119]
+- "She saw me, was happy, then cried so much and didn’t want me to pick her up from the teacher s arms." [sr047-0027]
+- "Im just worried im not putting enough time with him and i feel guilty as the mom if i should prioritize him in these developmental years over work :(" [sr091-0127]
+- "Yesterday, he just went up to the nanny and gave her a leg hug. This felt like such a calm, loving (maternal?) gesture that threw me off." [sr121-0049]
+
+**But:** These children also show recognition or seek their parent: "He does cry if complete strangers hold him. And stops crying when i get him." [sr091-0124] "my son generally needs to come to me once in a while just to check that I’m there and also cries if he’s with the nanny and I leave the room or if he sees me after a while." [sr121-0048]
+
+Posts: 1tist3n 1u0fntf 1vsbzs5 1wy0mrd
+
+### The parent questions whether a new nanny and the child can bond while family keep intervening.
+
+1 of 129 posts.
+
+This parent is deciding whether a one-year-old's rejection during a new nanny's first week reflects adjustment or a poor match. They describe an active, curious child, a more passive nanny and grandparents stepping in whenever the baby cries. They want to judge the match and manage the family's involvement.
+
+- "every time the baby fusses or cries with the nanny, they immediately step in to comfort her." [sr045-0148]
+- "The nanny seems to have a much lower, more passive energy level and just isn't catching the baby's rhythm." [sr045-0149]
+- "At 1 year old, is a week of the baby being visibly annoyed/rejecting the nanny just standard separation anxiety? Or does the energy mismatch mean it’s a bad fit?" [sr045-0150]
+
+**But:** The parent explicitly allows for adjustment time: "I know transitions take time, but things feel off and I’m trying to figure out what’s normal and what’s a red flag." [sr045-0147]
+
+Posts: 1txrtdi
+
+## Pattern 6, share 14: near posts
+
+### The parent wants to share bedtime or night waking again when the child accepts only one of them.
+
+10 of 27 posts.
+
+These parents describe sleep regressions, difficult transfers or newly needing one parent for naps and nights, with ages from ten weeks to about two years. They have tried changing feeds and wake windows, rocking, carriers, floor beds, contact sleep or different degrees of crying and checking; some rule out sleep training. Several connect the change with crawling, speech or a new bed, and one wants a solution before a sibling arrives.
+
+- "My husband posed the question, “What’s the difference between letting her cry it out and this if she’s going to cry for an hour either way?”." [sr001-0079]
+- "I have negotiate with him and ask him to hold mama’s hand while dad rocks you to sleep" [sr006-0111]
+- "Out of desperation we tried different sleep training methods including full extinction CIO - 2 nights in a row he cried til he threw up." [sr040-0077]
+- "I need to get this sorted out, especially before I go back to work and someone else is caring for her in the day. And before I completely lose my mind." [sr046-0013]
+- "He doesn’t accept dad as a substitute for me, and I don’t want to be tied down for 10-30 minutes every time postpartum." [sr069-0100]
+- "If my husband tries my son will cry for hours, and I can’t fall asleep at all because my brain thinks he’s on fire." [sr107-0085]
+
+**But:** There are exceptions to needing the same parent, and some benefit from the approaches tried: "My wife and I (f/f) take it in turns but we’ve hit our first parent preference stage so LO only wants me. Funnily enough, once I was away overnight she settled no problem!" [sr115-0076] "It took him 45 minutes, but eventually he went over to his bed and fell asleep." [sr069-0101]
+
+Posts: 1sbxc2c 1sj4pg2 1thnz6p 1tpjuoe 1tzckcn 1uuqgrf 1vm2b81 1waq5jb 1wh2630 1wjzndt
+
+### The parent feels unable to comfort their baby when other people can.
+
+4 of 27 posts.
+
+These parents describe much longer settling or shorter naps with themselves than with dad, a nanny, a grandmother or a sister, with children from four to 14 months; one four-month-old is two months adjusted. They report trying pacifiers, feeding, rocking, dark rooms and bedsharing, and one mentions recent weaning. One describes worsening depression and passive suicidality while already receiving therapy and medication; another notes their own stress as a possible explanation.
+
+- "When she naps with her nanny or my mom she’s able to do hour plus naps no problem. Sometimes even 2 hours." [sr010-0131]
+- "I struggled with depression before having a baby, but recently even though I’m medicated, it’s come back and I cry a lot and get irritated, and passively suicidal. I’m in therapy like I said and taking medicine so it’s a matter of time before I feel better but wow" [sr033-0064]
+- "I did wean fully a few weeks ago and my son has been going through a pretty rough sleep regression, but it feels like it’s a me thing since he usually settles for his dad." [sr056-0108]
+- "I spend over 6 hours trying to make him sleep yesterday, my husband gets home and he sleeps within an hour after my husband takes him." [sr079-0055]
+- "It’s like she tests me or something. Which I know babies can’t do that" [sr033-0062]
+
+**But:** Easier settling with someone else is not the same as wanting that person: "He tries to do bedtime a couple of nights a week now but she always cries and wants me only." [sr033-0063] "he gets super upset to have to go to his dad, but then falls asleep with him and goes in his crib in an hour or less." [sr056-0107]
+
+Posts: 1sjs9nu 1tg4wtq 1uiiwee 1v63kau
+
+### The parent worries that a difficult start or shared care has damaged the child's attachment to them.
+
+1 of 27 posts.
+
+This mother of a five-month-old describes a breech baby, caesarean, pain, missed memories of the first hours and unsuccessful breastfeeding as repeated personal failures. She compares herself with friends and relatives whose birth stories, bodies and bonds look different, and fears her baby prefers her husband. She says she is already in therapy and taking medication for postpartum anxiety and depression.
+
+- "And I’m terrified my baby isn’t bonded with me. I feel like baby prefers my husband, which selfishly breaks my heart." [sr042-0092]
+- "I feel so terrible because golden hour is so emphasized and so vital and I barely remember it. Once again I feel like I failed." [sr042-0087]
+- "I’m exclusively pumping so he is getting breastmilk, but I feel like we missed this huge bonding experience again. Another failure on my part." [sr042-0090]
+
+**But:** She also describes closeness in the moment of writing: "Baby currently is fast asleep on my chest and despite this fear and all the struggle I love baby so much." [sr042-0093]
+
+Posts: 1tv80ax
+
+### The parent is unsure whether to step in when the child cries with the other parent.
+
+1 of 27 posts.
+
+This mother of a five-month-old wants to offer relief during a sleep regression, but says her partner interprets offers as controlling or distrustful and refuses to hand the baby over. She describes bottles, Tylenol, pacifiers, a bedtime routine and contact naps, with the evening remaining difficult. Her concern is both the baby's distress and the partner's visible frustration.
+
+- "But outright refuses to let me help or tag them out. They take it as me being a control freak or not trusting them." [sr058-0012]
+- "Them denying me helping honestly feels like I’m being punished and only creates a pull for me to try and help more." [sr058-0013]
+- "My partner is so stubborn it’s almost as if they just want LO to accept them and give into them as easy as they do with me." [sr058-0017]
+
+**But:** She explicitly says she trusts the partner and distinguishes the difficult evening stretch from overnight: "My partner would never hurt the baby, but I can see them visibly getting so frustrated." [sr058-0017] "The thing is, overnight wakes aren’t terrible but it’s from 8-11pm, they seem inconsolable." [sr058-0015]
+
+Posts: 1ud3mla
+
+### The parent worries about their own difficulty connecting with a child who prefers someone else.
+
+1 of 27 posts.
+
+This mother of a 12-month-old wants to regulate her own emotions when the child calls for the stay-at-home father. She describes becoming discouraged at bedtime, asking him to come in, then declining to try again and leaving devastated. She also identifies a bipolar II diagnosis and difficulty recovering from depressive moments.
+
+- "Last night, she kept crawling to the door of her bedroom and whining and saying "dada" over and over. It was heartbreaking for me, and I shut down." [sr070-0017]
+- "He asked if I wanted to try soothing her again, I said no and left the room. Spent the rest of the night devastated." [sr070-0017]
+- "How do I learn to just set that shit aside when I'm with her, and be the best mother I can be?" [sr070-0018]
+
+**But:** She describes regularly taking part in care despite this episode: "I do usually take over baby duty when I get home, handling bath time and bedtime and anything overnight." [sr070-0017]
+
+Posts: 1urpxub
+
+### The parent cannot get a break because the child demands their presence for everyday care.
+
+3 of 27 posts.
+
+These parents describe feeling overwhelmed when the child wants only them, making eating, chores or a short recovery from bedtime crying difficult. The children are around eight months, nine months and two years. One asks whether letting the toddler cry will help, while another explicitly wants to vent about resentment when the other parent can step away.
+
+- "I love that she finds comfort in me, but it's so hard to get anything done or have a moment to myself when she cries the second I put her down or leave her with Dad." [sr067-0055]
+- "Is this a training thing? Should I just let her cry and not go to her everytime?" [sr107-0078]
+- "When I have a headache I still have to be here and deal with the screaming and everything else but he gets to just check out when he's not feeling well." [sr114-0015]
+- "And I hate the whole, 'you just do it better, you know what you're doing'. This is my first kid too, you can learn what to do just like I do." [sr114-0015]
+
+**But:** One parent also reports a reliable kind of break they enjoy: "I do get sometime to myself on the weekend, my husband will watch him upstairs while I cook or bake and watch a tv show(which I love doing, it's relaxing for me)." [sr114-0017]
+
+Posts: 1uvge7t 1wgmc6y 1wjbe66
+
+### The parent fears leaving the child with someone else because separations bring prolonged distress.
+
+1 of 27 posts.
+
+This mother is anxious about a four-day trip away from her newly two-year-old after previously leaving for only four to six hours at most. The child recently moved to a toddler bed and now wants her back-rubbing to sleep, screaming for her even when she leaves the house for dad to try bedtime. Her worry concerns distance, the child's understanding and how the separation will go.
+
+- "It’s a 4 day trip. I am absolutely filled with anxiety about a trip that should be so much fun." [sr072-0111]
+- "we’ve tried even me leaving the house at bedtime and he will scream and cry until I come in to sit with him." [sr072-0110]
+- "I’m just nervous about being so far away, him not understanding why mom is gone, and how he will do with just dad since I’m pretty sure if he could crawl back into my womb, he would." [sr072-0112]
+
+**But:** She explicitly trusts the father's ability: "I’m not worried about my husband, he’s an amazing dad who 1000% can do everything I do with probably less stress" [sr072-0112]
+
+Posts: 1v2u489
+
+### The parent feels rejected when the child gives the other parent the affection they want.
+
+2 of 27 posts.
+
+These fathers describe losing affection or preferred status to mom, with the children's ages unknown. One says the child voices dislike daily and rejects play despite repeated attempts; the other says newly mastering mama has displaced dada, including after an injury. They describe hurt or missing being the chosen parent.
+
+- "“I don’t like daddy”" [sr092-0082]
+- "Watching her physically and verbally express love and enjoyment when it comes to her mom, grandparents and uncles and completely getting boxed out doesn’t scream “she doesn’t understand”." [sr092-0084]
+- "Idk. I just don’t know what else I can do. This shit hurts." [sr092-0085]
+- "Was trying to comfort him and he was just screaming out mama" [sr105-0002]
+
+**But:** One explicitly recognises change and a possible language-related explanation: "I know it goes back and forth and it’s extra heavy right now since it’s a new word but dang didn’t realize how much I liked being the main man" [sr105-0003]
+
+Posts: 1vumv4d 1w2lb03
+
+### The parent wants to end night-nanny care when the baby starts choosing whom to seek for comfort.
+
+1 of 27 posts.
+
+This parent of a baby approaching two months asks when to stop a night nanny's monthly contract, currently covering six nights each week. They consider longer sleep stretches or the baby intentionally reaching for comfort as possible stopping points, wanting the parents to receive nighttime hugs. Both parents work and alternate daytime care, and the parent says cost is not the issue.
+
+- "I'm thinking of ending the contract with the nanny when baby can sleep 6 hours straight or when he can hug people intentionally or when he has a mind already to think who he will reach out to for comfort." [sr024-0113]
+- "I want him to hug me and my husband at night." [sr024-0113]
+- "We pay per month,  not per hour/day. It's a monthly minimum thing." [sr024-0116]
+
+**But:** The parent already describes being preferred during the day: "Baby is just swaddled right now and prefers me because I take care of him in the daytime." [sr024-0115]
+
+Posts: 1t3jlem
+
+### The parent wonders whether an attached baby will let them work from home while sharing care.
+
+1 of 27 posts.
+
+These parents teach virtually and wonder whether non-overlapping camera time will let them share care while working from home. The baby is currently two months and will be five months at the school year's start. The author asks whether attachment will ease enough for this to work or whether to arrange daycare.
+
+- "At this point we don't have our official schedule, but the unofficial schedule does not have us overlapping on camera time." [sr034-0053]
+- "Is it going to be possible for us to tag team it? Or is that a bad idea? Should we sign baby up for daycare?" [sr034-0055]
+- "She is a super good baby, but she's pretty attached to me (as to be expected at 2 months)." [sr034-0056]
+
+**But:** The author expects a later change, but has not yet tested it: "I know she will be less attached at 5 months, but will it be enough for me to able to get work done?" [sr034-0056]
+
+Posts: 1ti0n01
+
+### The parent waits for their daughter to recognise and appreciate them as a father.
+
+1 of 27 posts.
+
+This first-time father asks when daughters begin to recognise or appreciate their fathers. He describes his daughter as two years old and assumes that young toddlers commonly bond more with mothers. The share gives no concrete example of rejection or attempt to change it.
+
+- "I have a 2-year-old daughter" [sr033-0035]
+- "I think it's common for young toddlers to bond with their mothers more than dads." [sr033-0035]
+- "when did your daughter begin to "feel" or "know" or "appreciate" you as a father?" [sr033-0035]
+
+**But:** nothing found against it.
+
+Posts: 1tesb0t
+
+### The parent misses intimacy with their partner while finding it hard to bond with the baby.
+
+1 of 27 posts.
+
+This father of a five-month-old misses sex and spontaneous intimacy with his girlfriend while finding it hard to bond with a baby strongly attached to mom. He describes talking about sex, doing baths and feeds, work-related exhaustion and bedsharing, and agrees to wear clothes in bed after his partner says his nudity beside the baby makes her uncomfortable. He hopes more interaction as the baby grows will improve his bond and asks whether the couple's relationship recovers.
+
+- "I’ll get straight to the point: I really miss intimacy and sex." [sr035-0075]
+- "The thing that hurt me the most was when I told her she last gave me a blowjob shortly after childbirth and nothing since then. She replied that I should just ask for it." [sr035-0084]
+- "Then she said I was being selfish for feeling this way." [sr035-0084]
+- "I don’t have nearly the same bond with my daughter that her mom has yet, but I hope that as she gets older, starts talking, and becomes more interactive, things will feel different and better." [sr035-0089]
+
+**But:** He also recognises his partner's exhaustion and says the baby bond is progressing: "She said she misses it too, but that the baby drains all her energy and that everything is exhausting." [sr035-0078] "It’s been hard for me to bond with the baby because she’s very attached to her mom, but I’m trying my best and I do feel it’s slowly getting better." [sr035-0080]
+
+Posts: 1tgg5rm
+
+## Pattern 6, share 14: across the yes posts
+
+| Tag | Posts |
+|---|---|
+| tried | 116 of 129 |
+| others | 124 of 129 |
+| bought | 5 of 129 |
+| feeling | 112 of 129 |
+
+### What they tried, in their words
+
+- "We’ve tried a lot to help — having him do bedtime routines, diaper changes, baths, even wrapping her in one of my shirts." [sr017-0013]
+- "I've been trying to take a little step back, and his dad has been trying to coddle a little more." [sr051-0066]
+- "Until now they've gone to the park every week and that helped" [sr054-0059]
+- "I have tried to tell her to speak to him in Italian at least when he's upset, but I'm not sure if it's helping or not." [sr054-0057]
+- "I’ve been taking him over to my parents house almost daily to get little exposures to my mom, but he will lose his mind about 5 minutes after I leave the room and there is no calming him down unless I come back." [sr126-0109]
+- "I change my company to allow myself to be Remote from work, I’m home. I try to do daily tummy time, wake him up, I change him, try to make eye contact, feed him when I can." [sr123-0075]
+- "Thank you so much, I stoped pumping on schedule and do it only few times a day! Now I breastfeed her again (very happy about this) and top up with formula;))" [sr013-0237]
+- "Well thank goodness there was some bubbles to blow nearby and i regained her trust again ! ☺️" [sr014-0129]
+- "I hold home close again and tell him dad loves him and make sure I'm rubbing his back gently and rocking gently." [sr063-0007]
+- "Today we even tried having his mom drop him off instead of me picking him up, thinking that might make the transition easier. Same result." [sr112-0029]
+- "I’ve been doing my best to let my husband try all of the soothing techniques he wants, but eventually listening to him scream grates on me too much (and my husband for feeling like he’s failing), and I end up taking him back." [sr024-0032]
+- "He USED TO shush her kind of harshly and even tell her to shut up and I nipped that in the butt real quick and he is learning and has much more patience now but she will kit calm down with him." [sr057-0080]
+
+### What other people told them or did
+
+- "I could also handle it if he wasn’t a fucking dick and gloated about it…" [sr038-0115]
+- "I’ve tried to talk to my husband about it, but he just gets annoyed and tells me to stop being so silly" [sr093-0082]
+- "When I asked him to take some nice candid photos of me and her together this week as its our first family holiday, he says he can't because I'm not her favourite person this week and she isn't smiling at me." [sr107-0066]
+- "Her favourite words are “he didn’t ask about you at all!” Even if I’ve literally left the room to go to the toilet lol." [sr053-0029]
+- "My wife even said something like 'you are very good at making the baby cry' which she meant as a compliment somehow, but It really hit a nerve." [sr133-0101]
+- "every time the baby fusses or cries with the nanny, they immediately step in to comfort her." [sr045-0148]
+- "My husband has tried to talk to her to step back and it has worked a bit." [sr006-0041]
+- "my husband or my parents - who have offered to watch her so we have can have an evening to ourselves" [sr017-0014]
+- "People tell me this is a phase but it really isn't. I've always been the favorite and now he's just being more expressive." [sr023-0076]
+- "I was told there had been a miscarriage and was kept unaware of the truth." [sr011-0045]
+- "People say it’s probably because dad is the “fun parent,” but honestly, we both do everything with him, and if we had to pick the “funer” one it would be me!" [sr130-0045]
+- "My husband is at his wits end because he says I can’t help but make comments all of the time and it’s driving HIM nuts." [sr086-0180]
+
+### What they bought or paid for
+
+These five posts name nanny services, secondhand purses or unspecified purchases for the child; no amounts are stated. Two nanny arrangements do not explicitly state payment and are coded as services by role. The purse post proposes a fifth purchase that week.
+
+- "We hired a new nanny for our 1-year-old, and she’s just finished her first week." [sr045-0147]
+- "She’s also a live-in nanny but my husband and I do most of the diaper changes, feeding him etc just to be able to bond with our son well." [sr121-0047]
+- "His nanny is with him, he has aunts and uncles and his grandparents." [sr091-0126]
+- "so now i guess i’m just gonna doomscroll Depop and buy my 5th secondhand Coach purse this week bc I deserve dopamine too goddamnit!!!n!!" [sr059-0005]
+- "For example, cleaning them, feeding them, putting them to sleep, buying stuff, thinking about their wellbeing, daycare, admin, etc." [sr106-0089]
+
+### How they say they feel
+
+- "obvi i will not express disappointment or anger toward my baby but so much of motherhood is BULLSHIT and UNFAIR." [sr059-0004]
+- "I feel embarrassed and unappreciated, then I feel ashamed for allowing a toddler’s whims make me feel this way." [sr053-0014]
+- "My husband is an excellent father and husband clearly, but this is making me resent both of them. Like they have formed some sort of club and I’m just an onlooker." [sr046-0060]
+- "I feel invisible?" [sr032-0119]
+- "I am a weird level of tired that I feel in my bones, and my head is fried and I can't even really talk much. My mind is just baby and survival." [sr129-0009]
+- "I feel like on a very short leash that should jerk me back at any moment if I try to leave." [sr074-0103]
+- "It makes me seethe seeing my baby being held by others and being calmed, yet not being calmed in my arms." [sr016-0128]
+- "i’m also afraid of my own feelings, i feel like i love him less and less." [sr088-0100]
+- "If I died tomorrow he would be none the wiser." [sr032-0059]
+- "Because of this, I’m feeling quite alone and alienated." [sr015-0025]
+- "I feel so damn proud of myself." [sr063-0013]
+- "Now I don’t mind this because I’m obsessed with him and there is nothing better than newborn snuggles." [sr003-0057]
+
