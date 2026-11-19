@@ -1,0 +1,1712 @@
+# Share 10: pattern 4, What should I get for this age?
+
+## On-niche posts (yes): 123 posts
+
+### 1s952in | r/toddlers | 2026-04-01 | toddler_18_24_months | parent_unspecified | patterns 4,9,8
+
+About: Choosing flotation gear while building toddler swimming skills. Wants: Flotation options allowing more independent swimming in their deep pool. Already did: Baby swimming lessons since three months; holding, baby float seats, puddle jumper.
+
+- `sr002-0001` (trigger_moment) My son is currently 20 months old (he’ll be two in July). I have had him in the baby and me ‘swimming lessons’ since he was 3 months old. We have a pool that goes from 3m to 8m deep with only ladder type stairs so there’s no where he can stand up in it. During the previous summer since he was just a baby we would hold him and help him swim or put him in the round baby type floaty seats.
+- `sr002-0002` (belief) Now that he’s getting older I know puddle jumpers arent recommended due to them being in a vertical position but when we were visiting family in Florida in January he used one (I didn’t know it wasn’t recommended at the time) and it was nice being able to let him swim on his own and now have to hold him the entire time.
+- `sr002-0003` (success_story) He’s getting more confident in swimming lessons kicking and flipping over to his back but there’s an area where he can go and stand up in. in our pool it would be nice to not have to hold onto him 100% of the time because we are in the pool for extended amounts of time.
+- `sr002-0004` (question) We are always with him and will still work on independent swimming and floating as much as possible I would just like options. Is a life jacket the best option? I was looking at the Kaizen Kids floatie or the IDOPIP float suits on Amazon as well.
+- `sr002-0005` (desire) Thank you so much for this response i appreciate the time and detail you put in! I really want to work on his rolling from front to back because he’s definitely not completely comfortable on his back just yet. Getting a swim float and either the suit or a life jacket without the neck attachment like someone said below does seem like it would be beneficial and I’ll look into the cheaper option of swim float that you mentioned.
+
+### 1sa1po2 | r/toddlers | 2026-04-01 | toddler_18_24_months | parent_unspecified | patterns 1,2,4,8
+
+About: Active toddler ignores calmer toys; parent wonders what to buy. Wants: Know when calm play develops and which toys to buy. Already did: Offers play kitchen and Busy Book; builds indoor playground. Paid: Toys.
+
+- `sr004-0032` (belief) My toddler is almost two and aside from a few short stints at her play kitchen and a felt Busy Book, the only things she seems to really like to do are very active things (running, climbing, jumping, etc.).
+- `sr004-0033` (question) I see so many cool "chill" toys like the Battat Light box, crafts, Magnetiles and other toys that involve more "calm" playing. Does that come with age?
+- `sr004-0034` (question) Also I assume I should keep buying toys that aren't just "active" toys to keep exposing her to them in hopes it clicks eventually?
+- `sr004-0035` (success_story) Haha, okay thank you! I'll keep building our indoor playground because that does seem like what she's into. She liked climbing onto a very all and unsteady cushion today and trying to balance on it so I think you're right! Thank you again :)
+- `sr004-0036` (desire) That's great! I love that she's so active but it would be nice to have a few calm moments throughout the day with a different kind of play. Glad to hear it :)
+- `sr004-0037` (question) That's what I am thinking, she is still young and doesn't know how to engage with "toys" yet. SO I wasn't sure whether to still by these types of toys or just keep focusing on active/gross motor toys.
+- `sr004-0038` (success_story) Loving this stage so much right now but also so excited about what's to come!
+- `sr004-0039` (desire) Yes I assume this will be the majority of her day for the foreseeable future lol but there are so many cool toys I want to get her that I hope she'll eventually be into!
+
+### 1sbqwjs | r/Parenting | 2026-04-03 | baby_6_9_months | parent_unspecified | patterns 3,4
+
+About: Six month old chews people instead of teethers. Wants: Find a teether baby accepts instead of chewing people. Already did: Target and Walmart teethers, gels, tablets, pacifiers and textured raspberry pacifier.
+
+- `sr002-0122` (pain) My 6mo hates every teether from Target and Walmart but loves trying to chew on his own hands and feet, other people's feet (no we do not let him but he tries his hardest), arms, shoulders, faces, etc.
+- `sr002-0123` (question) Y'all got any recommendations for teethers that might satiate his appetite for delicious human flesh?
+- `sr002-0124` (belief) My older kids never had this issue, this is my first zombie. Lol
+- `sr002-0125` (tried_failed) He does love those, but sometimes I need things to give him that aren't messy like in the car, etc. The first tooth was fine, but this second one has turned him into a monster and he needs something constantly. We have tried those cooling gels and tablets but it doesn't make a huge difference.
+- `sr002-0126` (tried_failed) He won't use any pacifiers! I have that raspberry one that is harder and bumpy, but he ignores it. I could try these though and see if it helps, thanks!
+
+### 1scxsow | r/beyondthebump | 2026-04-05 | newborn_0_8_weeks | parent_unspecified | patterns 4
+
+About: Considering expensive hip carrier for five week old baby. Wants: Know whether TushBaby is worth buying now or when baby is older. Already did: Bought many baby items that went unused. Paid: Unused baby items.
+
+- `sr004-0134` (question) maybe a little silly, but I’ve been eyeing the TushBaby, but the price seems a little high (and I’ve already spent so much on things that I’ve never used again for baby 🥲). sweet girl is only 5 weeks old, should I wait until she’s a little older to get it? just seems like it could be nice to have something to rest her on, but maybe that’s the sleep deprivation and not the rational side of me thinking, lol.
+
+### 1se4rlf | r/Mommit | 2026-04-06 | baby_6_9_months | parent_unspecified | patterns 4
+
+About: Selecting safe floor bed as eight-month-old begins scooting.. Wants: Choose safe rail spacing and floor-bed setup for increasingly mobile baby.. Already did: Ordered floor bed; compared alternative rail gaps; has under-sheet bumpers.. Paid: Floor bed on back order.
+
+- `sr001-0153` (belief) I cosleep with my baby and will be transitioning to a floor bed.
+- `sr001-0154` (purchase) The floor bed I ordered is on back order. I found another in stock however the rail gap distance on this is bigger than the recommended “no more than 2 3/8” apart”.
+- `sr001-0155` (belief) The back ordered bed has bar distance of 2.28” and the in stock is 3.4”
+- `sr001-0156` (belief) Baby will be going into this bed at 8 months so not yet crawling. However is a very active babe.
+- `sr001-0157` (fear) What’s the chances of baby getting stuck in between the bars if it’s 3.4”?
+- `sr001-0158` (belief) That’s a good idea! I was thinking those mesh borders but would rather repurpose what I have.
+- `sr001-0159` (fear) Baby is almost 8 months. He scoots right now but wouldn’t know how to get off a mattress on his own. I’d be afraid of him falling off if alone when he wakes up. I do have the under sheet bumpers I could add in meantime
+- `sr001-0160` (fear) He’s currently on our king bed but it’s pretty high and I’m afraid for when he really starts moving.
+
+### 1sem75o | r/NewParents | 2026-04-07 | baby_4_6_months | parent_unspecified | patterns 4,7
+
+About: Overwhelmed choosing feeding equipment and next-stage care for five-month-old.. Wants: Choose affordable bottle handles or cups and trustworthy guidance for older babies.. Already did: Researched during pregnancy; tried multiple bottles; searched Amazon and secondhand marketplace..
+
+- `sr001-0197` (pain) My baby is five months now. He’s the greatest thing in the world! However, I am so overwhelmed at all of the options that come with parenting an infant. I did so much research while I was pregnant on different baby related topics! Still, I feel underprepared and I also feel like somehow I really only researched topics as they related to a newborn. I’m also struggling finding information online that is applicable to older babies.
+- `sr001-0198` (price_signal) When do I transition to a sippy cup? My boy has been dying to hold his bottle, but I can’t find handles that fit the MAM bottles. (They exist, there are simply not any retailers I can find them at! Amazon has some that are STUPID expensive, I think they may not make the anymore?)
+- `sr001-0199` (objection) He seems to hate all other bottles (we’ve tried Boon, Philips, and Dr. Browns), so I thought maybe the MAM trainer cup would be best as they have handles. Well, those aren’t particularly cost-effective but a possibility I suppose. Would it be appropriate to give him a sippy cup this early? We’re starting solids soon (per his pediatrician) but he still is only getting breast milk. I’ve been told not to change the nipple flow for babies that get breast milk because they top out at 4-5 oz of milk per feed. I keep going around and around and around with myself.
+- `sr001-0200` (pain) This is just one issue! I’m constantly worried about sleep, bedtime routines, milestones, teething, solids, mental stimulation, tummy time, etc, etc. There is SO MUCH information out there, but I feel like a lot of it is so repetitive and not particularly helpful. How am I supposed to know what’s best for this kid? How do I know what’s best and also make that work with our budget? How do I know what will actually work vs what social media says? Please tell me I’m not the only one that is overwhelmed with the decisions!
+- `sr001-0201` (pain) The bottle is too wide for his little hands! He keeps grabbing around the nipple because his hands actually fit there. Then he gets upset because he can’t hold the nipple and drink his milk lol.
+- `sr001-0202` (tried_failed) I’ve been searching marketplace and such, unfortunately I’ve come up empty. I prefer secondhand typically!
+- `sr001-0203` (pain) Good to know I’m not the only one with this going on. I’ve felt like I’m going crazy the past couple of weeks!
+- `sr001-0204` (belief) I guess I should have specified that the reason I’m looking for handles is that he’s getting frustrated with the bottle. His hands are too small to fit around it so he grabs at the nipple and then in upset that he can’t hold the nipple and drink at the same time.
+- `sr001-0205` (objection) Are you always this patronizing? Good lord.
+
+### 1sfc0i4 | r/Montessori | 2026-04-07 | unknown | parent_unspecified | patterns 4
+
+About: Planning affordable open-ended birthday toys for creativity and independent play. Wants: Toy recommendations and rotation ideas for first birthday. Already did: Owns or plans toys including Pikler triangle, tower and sensory table.
+
+- `sr003-0197` (desire) I’m starting to plan my daughter’s first birthday and putting together a registry with toys and activities she can grow into. We’re focusing on affordable, open-ended toys that encourage creativity and independent play—no light-up or battery-operated toys for now.
+- `sr003-0198` (belief) Here’s what we already have or are planning to include:
+
+	•	Pikler triangle (currently in storage)
+
+	•	Toddler tower
+
+	•	Sensory table with fillers and accessories
+
+	•	Silk scarves
+
+	•	Stepping stones
+
+	•	Wooden marble run/music tree
+
+	•	Wooden rainbow stacker
+
+	•	Magnetic tiles
+
+	•	Chalk
+
+	•	Play cleaning set (mop & broom)
+
+	•	Personalized name puzzle
+- `sr003-0199` (desire) I would like to do a toy rotation as well so maybe a few things I can store and put away
+
+### 1sfvznf | r/toddlers | 2026-04-08 | toddler_18_24_months | parent_unspecified | patterns 4
+
+About: Seeking Pebblestones reviews before toddler's second birthday. Wants: Reviews, value assessment and Canadian customs costs. Already did: nothing stated.
+
+- `sr010-0008` (question) Has anyone purchased Pebblestones? How are you liking them so far? Are they worth it? We're thinking of getting them as a second birthday gift for our toddler.
+- `sr010-0009` (price_signal) For the Canadians - did you get hit with customs and duties?
+
+### 1sip6ju | r/NewParents | 2026-04-11 | baby_6_9_months | parent_unspecified | patterns 4,7
+
+About: Easy-clean straw cup for six-month-old refusing bottles. Wants: Straw cup for breast milk that is easy to clean. Already did: Nouka weighted straw cup; starting solids; baby refuses bottles.
+
+- `sr006-0096` (question) Looking for something easy to clean without too many parts as I would like to serve breastmilk in it without worrying too much about bacteria growing in the tiny parts. I have a Nouka weighted straw cup and it has 7 different parts! Including a tiny straw I can’t even fit a straw cleaner in. Little one is just starting solids and doesn’t take a bottle but seemed to like his straw cup so if I could put breast milk in it I might get a little freedom back 😅
+
+### 1slh6ir | r/NewParents | 2026-04-14 | baby_4_6_months | parent_unspecified | patterns 4
+
+About: Choosing supportive highchair for early solids with allergy concerns. Wants: High-backed supportive highchair that fits baby and cleans easily. Already did: Considered Antilop, Tripp Trapp insert and Peg Primo; sought recommendations.
+
+- `sr008-0168` (others_said) Our LO has been recommended to start solids early due to allergy concerns but there don't seem to be any great high chair options for him. We were told to start by including him in our mealtimes.
+- `sr008-0169` (tried_failed) We've been recommended to get one with a high back, which the IKEA antilop does not have. The stokke trip trap insert unfortunately does not fit his chunky thighs.
+- `sr008-0170` (objection) We've looked at some peg primo high chairs, which he loved but I'm worried they're going to be impossible to clean.
+- `sr008-0171` (question) This looks promising! How easy is it to clean?
+- `sr008-0172` (objection) Thats my concern with it too. I also don't want to get it off marketplace, because of babies allergies and how hard the chairs are to clean. Do you know if it has any neck support?
+
+### 1smk6xo | r/NewParents | 2026-04-15 | baby_6_9_months | parent_unspecified | patterns 4
+
+About: Choosing safe playpen for increasingly mobile eight-month-old. Wants: Safe playpen recommendations for brief unsupervised moments. Already did: Pack-n-play safe space; floor play with foam tiles.
+
+- `sr011-0035` (trigger_moment) 8 month old has been scoot-crawling, sitting (and falling over!), getting on his knees and hanging on things, and trying to stand (and loves being helped to stand).
+- `sr011-0036` (pain) We don't have any real "containers" to put him in when I need to use the bathroom, put on pants and shoes for an outing, make a very quick snack, or perhaps even take a shower, aside from a pack-n-play which serves as the current "safe space".
+- `sr011-0037` (pain) I currently hang out with him reading and playing on an open floor space with some foam ABC-123 tiles underneath, but he's moving so fast now I can't look away for a minute!
+- `sr011-0038` (desire) I think we need a playpen (like one of those walled-off areas), but I'm totally new to this and at a loss as far as what works well (and is safe to leave out of sight for a few mins, even long enough to shower perhaps)?
+- `sr011-0039` (question) What worked well for you? Or what didn't work and you wish you'd got something different?
+- `sr011-0040` (question) I'm also wondering about hard, slotted sides (plastic or wood) vs. netted sides? Is netted better when they're at the stage of falling all the time (from sit, from kneel, from stand attempts) or just accept a lot of big bumps will happen when they're in the playpen and you're briefly in the bathroom or making them a bottle?
+
+### 1snyz2r | r/Montessori | 2026-04-17 | toddler_12_18_months | parent_unspecified | patterns 4,8
+
+About: Seeking accessible trash can for helpful thirteen-month-old. Wants: Independent rubbish disposal without playing in trash. Already did: Lifts child to hidden bin; tried exposing entire bin.
+
+- `sr011-0129` (success_story) Hi I have a 13mo old and she loves throwing trash away. Right now, I have to lift her up and slide open our hidden trash and recycling cans.
+- `sr011-0130` (desire) Can someone please recommend a more accessible way for her to throw things away herself? While also keeping her from playing with the trash 😆
+- `sr011-0131` (question) Seems impossible that there is a simultaneously kid-accessible but kid-proof garbage can but here I am asking 🙏
+- `sr011-0132` (objection) Yeah I figured a little bathroom trash would be what was suggested but I’m wondering if my bandwidth for redirecting that is there lol. She loves to clean up her toys and help with laundry etc but she would absolutely be playing with her banana peels and pear cores if she was allowed to throw them in an accessible trash can 🙃
+- `sr011-0133` (objection) Yeah I figured a little bathroom trash would be what was suggested but I’m wondering if my bandwidth for redirecting that is there lol. She loves to clean up her toys and help with laundry etc but she would absolutely be playing with her banana peels and pear cores if she was allowed to throw them in an accessible trash can 🙃
+- `sr011-0134` (objection) Yeah I figured a little bathroom trash would be what was suggested but I’m wondering if my bandwidth for redirecting that is there lol. She loves to clean up her toys and help with laundry etc but she would absolutely be playing with her banana peels and pear cores if she was allowed to throw them in an accessible trash can 🙃
+- `sr011-0135` (tried_failed) Yeah I attempted to put the entire bin out but it’s just hideous and not practical. Plus within a few hours she learned how to push it over 🙈🤣
+
+### 1spy7fo | r/beyondthebump | 2026-04-19 | baby_6_9_months | parent_unspecified | patterns 4
+
+About: Choosing convertible car seat spacious enough for large eight-month-old. Wants: Experiences of rear-facing Fit3x seat width as child grows. Already did: Used Chicco Keyfit; compared Fit3x and Extend2Fit; checked infant's fit.
+
+- `sr014-0110` (question) This may be a long shot given it’s a new seat but anyone have a Fit3x for their child rear facing? Do you feel like your child is cramped with the side impact cushions? 
+- `sr014-0111` (belief) We are deciding between the Extend2Fit and the Fit3x for a convertible for my large 8 month old. We love our Chicco Keyfit which drew me to the Chicco Fit3x. It also seems to have a higher harness height than the Extend2Fit. However, my 8 month old seemed to fill out the seat bottom well side to side and we obviously want this to last a while. 
+- `sr014-0112` (question) I was curious if anyone had a child rear facing in this seat, but approaching RF limits and what they thought of the hip space.
+
+### 1sqpykd | r/toddlers | 2026-04-20 | toddler_18_24_months | parent_unspecified | patterns 4
+
+About: Seeking toddler math program to nurture interest alongside early reading. Wants: Ten-minute daily program for age-appropriate math skills. Already did: Obtained Toddlers Can Read program.
+
+- `sr011-0207` (belief) My toddler is almost 2 (next month).  I recently got them a "toddlers can read" program because they're already trying to read on their own so I want to nurture that.
+- `sr011-0208` (desire) They are also interested in math, but I am not a math person so I am not sure the best way to nurture/teach them age appropriate math skills. I'd love a program meant for toddlers that I can use (nothing crazy, maybe 10 mins a day) but that can help me teach my toddler.
+- `sr011-0209` (question) Does a program like this exist?
+- `sr011-0210` (desire) Thank you! And I'd say pretty much what you mentioned. Numbers, colors, shapes, counting, etc.
+
+### 1sszeo3 | r/toddlers | 2026-04-22 | toddler_18_24_months | parent_unspecified | patterns 4
+
+About: Choosing a play kitchen for almost-two-year-old in small home.. Wants: Play kitchen recommendations and whether age suits imaginative play.. Already did: nothing stated.
+
+- `sr019-0022` (question) My daughter is turning two next month, and I am thinking of getting her a play kitchen. However, I live in a smaller space and the kitchen would need to go into the living room. My question is at her age, do toddlers just take all the items off and run around the home with it? I don't want to constantly be putting it back together every day and putting clutter away. Would it be better for when she is 2.5 or 3 for more imaginative play?
+- `sr019-0023` (question) Also, what kind of kitchenette recommendations are there?
+
+### 1swyxv7 | r/Parenting | 2026-04-27 | toddler_12_18_months | parent_unspecified | patterns 2,4
+
+About: Parent seeks worthwhile backyard toys for active sixteen-month-old. Wants: Find backyard toys that sustain toddler interest and justify cost. Already did: nothing stated.
+
+- `sr016-0104` (question) What is your highest recommendation to keep your toddler occupied in the backyard (from simple objects to more complex toys). Anything they’ve used way more than you thought they would or that they ignored after 1-2 uses (so it wasn’t worth either money or set up… or both)? We have a few very active 16 month old boy. Thanks in advance for any recommendations!
+
+### 1sztedh | r/daddit | 2026-04-30 | unknown | parent_unspecified | patterns 4,8
+
+About: Baby prefers inexpensive household objects to fancy toys. Wants: Suggestions for effective inexpensive toys. Already did: Offered water bottles; baby enjoys Kirkland bottles.
+
+- `sr023-0007` (price_signal) Baby Girl Favorite Toy: $1.59 What other cheap 'toys' have you all found to be effective?
+- `sr023-0008` (belief) What's the point of getting our baby expensive an fancy toys when all she wants to do is to swing this water bottle like a maraca! 
+- `sr023-0009` (question) What other Cheap toys have you found effective?
+- `sr023-0010` (success_story) Our baby is really into the Kirkland ones too haha
+
+### 1szzunh | r/NewParents | 2026-04-30 | baby_9_12_months | parent_unspecified | patterns 4,8
+
+About: Supporting ten-month-old’s constant standing without back pain. Wants: Manage the standing phase without constantly bending to hold hands. Already did: Held baby’s hands for walking; ordered a baby walker. Paid: Baby walker.
+
+- `sr023-0011` (trigger_moment) Baby is 10MO and in the last month he has wanted to spend the majority of time standing. He pull himself up on the sofa/wash machine/bottle packs/drawers. He also like hold our hands and walking, but he can't keep balance by himself.
+- `sr023-0012` (pain)   
+It's really exciting for us because few months ago he was frustrated not being able to explore. I would just need some advices because our back is starting to hurt because leaning to hold baby's hands.
+- `sr023-0013` (purchase) I ordered a baby walker (even if I know that's not the best option, I don't expect my baby to use it for hours). 
+- `sr023-0014` (question) How did you manage this step? I've read it can last months
+- `sr023-0015` (purchase) [Baby walker](https://www.amazon.com/dp/B07CRSXMW8?ref=ppx_yo2ov_dt_b_fed_asin_title)  
+I ordered this one  
+Thanks for the activity cube, I might give a try
+
+### 1t0v1yv | r/toddlers | 2026-05-01 | toddler_18_24_months | parent_unspecified | patterns 4
+
+About: Choosing durable backyard swing and slide set for eighteen-month-old. Wants: Recommendations for long-lasting backyard swing and slide equipment. Already did: Considering Step2 set; researching maintenance and assembly options.
+
+- `sr021-0037` (desire) I have a 18 month old and I'm looking for recommendations for either a swing set or playground to put in our backyard. Our child is home with us daily as we have a sitter to watch them as we work, so this will be used frequently.
+- `sr021-0038` (objection) We're ok with getting something that's recommended for 3+ as we want to use this for years to come. We would like something with a swing and slide. I'm hesitant to get a wooden set as I know they can require extra maintenance, but open to it if it has excellent reviews and assembly options (we are not handy people).
+- `sr021-0039` (price_signal) We're looking at this set from Step2 […] but are open to others. I'm just slightly irritated that it's $900 plus extra for shipping. We live in a place with a wide range in seasons, so it can be 90+ in summer and well below freezing in winter.
+
+### 1t4m6fy | r/beyondthebump | 2026-05-05 | baby_9_12_months | parent_unspecified | patterns 4
+
+About: Seeking engaging non-electronic toys for ten-month-old. Wants: Toy recommendations requiring active engagement without lights or songs. Already did: Provided puzzles, books, stacking rings, pretend phone, remote, xylophone and ball drop.
+
+- `sr023-0115` (question) What non light up singing toys does your 10 month old like? I prefer toys that she has to engage or interact with. I have a shape puzzle & alphabet one, books, ring stack thing, fake phone (doesn’t light up) tv remote, xylophone, ball drop from lovevery. I was thinking about these big magnetic tile things that can go on the fridge or play with in the living room.
+
+### 1t5i8mk | r/NewParents | 2026-05-06 | baby_9_12_months | parent_unspecified | patterns 4
+
+About: Ten-month-old prefers chewing hard toys; parent seeks firmer teethers. Wants: Firm teethers appropriate for older baby. Already did: Has wooden alphabet blocks; considered whether safe for chewing.
+
+- `sr021-0108` (question) Baby is 10mo old and has her 5th and 6th teeth coming in. These days she'd much rather chew on very hard plastic toys or even her mini pots and pans.... I on the other hand don't really love that. 😅 Are there any teethers that are a bit firmer and suited for older babies? As of typing this she's crying because she tried biting a toy that is definitely not suited for that.
+- `sr021-0109` (question) Thanks for the idea! We do have some of those wooden alphabet blocks, do you think those would be safe/appropriate?
+- `sr021-0110` (desire) Thank you!! I'll probably just get one of those instead to be safe! 😃
+
+### 1t5u7pf | r/NewParents | 2026-05-06 | baby_4_6_months | parent_unspecified | patterns 4
+
+About: Activity centre recommendations for a large nearly-six-month-old. Wants: An activity centre with a higher weight limit. Already did: Looked at weight limits.
+
+- `sr030-0015` (question) Does anyone have any recommendations for an exersaucer, jumper, activity center-thing that has a higher weight limit?
+- `sr030-0016` (others_said) My baby is just about to turn 6mo old, which I've heard is the earliest you should put them in one of those, but he's already about 25lbs and that seems to be the weight limit on most things I've seen!
+
+### 1t9gqnj | r/daddit | 2026-05-10 | baby_6_9_months | parent_unspecified | patterns 4
+
+About: Babyproofing stairs because eight-month-old climbs steps. Wants: Find safe way to babyproof high-traffic stairs. Already did: Asked for babyproofing suggestions.
+
+- `sr030-0118` (question) How to baby proof these stairs? This is a high traffic zone.
+- `sr030-0119` (trigger_moment) She is already getting to the second step at 8 mo, not taking the chance.
+- `sr030-0120` (belief) Opens to the living room. There is no closing wall on the left side of the picture.
+
+### 1ta0w9m | r/beyondthebumpUK | 2026-05-11 | toddler_18_24_months | parent_unspecified | patterns 4,8
+
+About: Game recommendations for nearly two-year-old who enjoys fishing game. Wants: Varied board or other games suitable for nearly two-year-old. Already did: Plays fishing-style game together.
+
+- `sr027-0200` (question) Hi. I’m looking for recommendations for board or any other type of games suitable for a nearly 2 year old. We have a fishing style game which we both love (even though he cheats!) but I’d love some variety.
+
+### 1tdaay9 | r/Parenting | 2026-05-14 | toddler_12_18_months | parent_unspecified | patterns 2,4
+
+About: Seeking screen-free toys to entertain toddler on road trip. Wants: Entertaining toys for long drives without screens. Already did: Uses magnetic board, singalong radio, electronic toys and image books.
+
+- `sr035-0009` (desire) Hi y'all. I'm planning a 2 week long road trip this summer in the PNW. My 16 mo old toddler is usually always good during car rides, even long ones, but this is going to be several days of crazy driving. She loves the outdoors so were going to try to make as many nature stops as possible. We're gonna try our best and if she can't manage it, we will readjust the trip and drive less.
+- `sr035-0010` (question) In any case, I'm in dire need of your advice on the best and most entertaining toys for a (then) 18mo old kiddo. She loves magnets and her magnetic board, anything monkey related, her Wonderbuddy singalong radio, singing/electronic toys (like her Ms Rachel doll), etc. She also loves image books. Open to any suggestions. We currently don't use screens and would prefer to hold off as long as possible. Thanks in advance. I will send blessings your way as we peacefully drive due to your recommendation. 😂
+
+### 1te4r6i | r/toddlers | 2026-05-15 | toddler_18_24_months | parent_unspecified | patterns 4,5
+
+About: Comfortable affordable shoes for active twenty-two-month-old and developing feet. Wants: Comfortable grippy shoes supporting foot development for under forty dollars. Already did: Has backyard playhouse; uses slippers, sandals, Vans and Adidas.
+
+- `sr031-0010` (trigger_moment) My 22 month old is running, climbing, jumping etc and has gotten really good with walking by herself while we are out. We also just got her a nice playhouse with a slide and ladder in our backyard that she likes to climb and I notice her wanting to take her shoes off a lot. I’m assuming out of discomfort because when I put on her slippers or something like that she’s fine. 
+- `sr031-0011` (price_signal)  But I’m having some issues with finding some shoes that will be comfortable for her growing feet. Everything I find online either seems gimicky, bad quality, or they’re extremely expensive. I’m not willing to pay more than $40 for shoes that are basically just for playing outside. She has a lot of nice shoes that she will wear out like some jelly sandals, vans. She also has some adidas that are pretty comfortable but I worry they aren’t wide enough for her developing feet. 
+- `sr031-0012` (desire)  I want some that have nothing to do with looks, all to do with foot development, comfort, good grip for playing, and affordability. I’m kind of tired of this era of endless options for baby’s and kids because it’s all money grab nonsense. I just want to know what works well and that’s it lol so pls help a mama out. Thank you!
+
+### 1thpknc | r/beyondthebumpUK | 2026-05-19 | unknown | parent_unspecified | patterns 4
+
+About: Comparing toy farm versions for first birthday. Wants: Which Fisher Price animal farm version has better features. Already did: Compared newest version's day-night wheel.
+
+- `sr033-0094` (question) I'm looking to get the fisher price animal farm for LO 1st birthday. I think the one with the day/night wheel is the newest version but wondered if anyone had come across both as to which might be better/have more features? Thanks!
+
+### 1tklihh | r/NewParents | 2026-05-22 | baby_9_12_months | parent_unspecified | patterns 4
+
+About: Seeking educational wall materials for nearly one-year-old. Wants: High-quality educational room materials from direct sellers. Already did: Looked at available materials.
+
+- `sr040-0013` (desire) My son is turning 1 next week and I want to redecorate his room. I’m looking for educational material I can put on the walls or around the room. Things like colors, shapes, letters, numbers, etc. It can be posters or interactive material. I don’t use Amazon so if you know of any brands I can buy from directly that would be great! Maybe even homeschool supply companies. I see a lot of stuff out there but I’m not sure what’s legitimate/high quality.
+
+### 1tm2vpe | r/beyondthebump | 2026-05-24 | baby_6_9_months | new_mother | patterns 4
+
+About: Babyproofing medicine cabinet as baby starts opening everything. Wants: Removable or suitable lock for mirrored medicine cabinet. Already did: Searched Google and Amazon for solutions.
+
+- `sr036-0021` (question) Hi all, first-time mum here with a soon to be 9 month old. Looking for recommendations on babyproofing a mirror vanity/medicine cabinet in the bathroom. Our changing station is a large built-in vanity in our bathroom with one of those mirror medicine cabinets. He is at the stage where he is trying to get into everything and would try to pull it open every time we change him.
+- `sr036-0022` (tried_failed) I've tried googling/looking at Amazon for something that would work, but instead keep getting those wall mounting brackets suggested.
+
+### 1tnv5k3 | r/NewParents | 2026-05-26 | baby_4_6_months | parent_unspecified | patterns 4
+
+About: Five-month-old mouths hands and rejects purchased teethers. Wants: Find teething option baby will hold and use. Already did: Bought teethers; repeatedly redirects baby from hands. Paid: Teethers.
+
+- `sr037-0030` (trigger_moment) My baby is 5 months old and apparently in her “everything goes in my mouth” era now.
+- `sr037-0031` (purchase) I bought teethers early because I thought I was being prepared. Lol nope. She’ll chew her hands, her sleeve, my finger, basically anything except the actual teether. She holds it for five seconds, drops it, and goes right back to her hands like they’re somehow the better option.
+- `sr037-0032` (fear) And honestly, I’m getting a little worried about it. Her hands get all red and soaked with drool, and I keep trying to redirect her, but regular teethers just don’t stay with her long enough to help. Like, what am I supposed to do, tape it to her hand?
+
+### 1toppzo | r/Parenting | 2026-05-27 | unknown | parent_unspecified | patterns 4
+
+About: Seeks first-birthday gifts despite already having older sibling’s things. Wants: First-birthday gift ideas to buy ahead of Christmas. Already did: Has items from first child.
+
+- `sr036-0077` (question) My second child is turning one in December. Yes I know far away but I want to buy gifts now so when December hits I’m not stressing about Christmas and a birthday! So please give me ideas. It’s hard because I feel like we have everything from our first child!!
+
+### 1tr83xm | r/beyondthebumpUK | 2026-05-29 | baby_4_6_months | parent_unspecified | patterns 4
+
+About: Four-month-old wants upright sitting; parent seeks supportive seat. Wants: Seat recommendations and whether supported sitting is too early. Already did: Changed buggy seat; uses high chair and lap.
+
+- `sr042-0001` (pain) I have a 4 month old who can’t quite sit upright by herself yet (she can sit with back straight but doesn’t have the balance to not go sideways), but is very grumbly if she’s not sat up most of the time. It facilitate this I’ve changed from the bassinet to the upright chair on the buggy, I have a high chair for her in the kitchen but most of the time she on my lap which is really impacting my my day.
+- `sr042-0002` (question) Is it too early to get her some kind of seat for support?
+- `sr042-0003` (desire) Can anyone recommend a seat? It would mostly be used in our living room and baby’s bedroom.
+
+### 1tt1o27 | r/toddlers | 2026-05-31 | toddler_12_18_months | parent_unspecified | patterns 4
+
+About: Seeking song-heavy Tonies for fifteen-month-old who prefers songs. Wants: Song-heavy Tonies and other toddler recommendations. Already did: Bought Toniebox; ordered Mrs Rachel and Elmo. Paid: Toniebox; Mrs Rachel and Elmo Tonies.
+
+- `sr044-0037` (purchase) I finally went ahead and bought my baby (15 months) a toniebox! I’ve been meaning to get it for his birthday and finally got around to doing so.  
+I ordered Mrs Rachel, Elmo and the toniebox came with the little original dog tonie  
+He’s really only interested in the songs! What tonies are song heavy / fun for toddlers? + any other recommendations?
+
+### 1tvc467 | r/NewParents | 2026-06-03 | baby_9_12_months | parent_unspecified | patterns 4
+
+About: Choosing swimming flotation equipment for eleven-month-old. Wants: Suitable summer swimming equipment for baby's weight. Already did: Read objections to arm floaties; plans weighing before purchase.
+
+- `sr043-0058` (question) Puddle jumpers and the arm floaties are things I don't really trust (and I have seen so many reasons why they aren't a good option for little ones) and my 11 month old is a little over 20 lbs so I'm not sure what we should use for him this summer that's within that weight limit, any suggestions???
+- `sr043-0059` (belief) P.S we will be weighting him before purchasing anything, this weight is as of his last appointment but he could be a little bit heavier now.
+
+### 1tyie3d | r/Mommit | 2026-06-06 | baby_9_12_months | parent_unspecified | patterns 4
+
+About: Choosing age appropriate toys and audio for first flight. Wants: Flight toy recommendations and advice on audio player suitability. Already did: Uses toddler car seat; avoids screens.
+
+- `sr050-0010` (question) It’s gonna be a longer flight but still domestic. My baby is 10 months old and we use a toddler seat but she still fits in her infant car seat I think we are gonna bring that. Should I get a yoto mini player with headphones and stories/music for the plane ride? Is she too little for that?? I’ve never traveled with her! My husband is staying at home since it’s a girls trip and we don’t do screens. I’m nervous!! Best toys? Advice??
+
+### 1u0i1qc | r/beyondthebump | 2026-06-08 | baby_6_9_months | parent_unspecified | patterns 4,8
+
+About: Seeking cause and effect toys for baby who loves smacking. Wants: Tummy time toys with large buttons and effects. Already did: Uses Fisher Price Kick and Play; searched online.
+
+- `sr050-0047` (belief) My 6mo has recently gotten into smacking his hands on every toy. I guess he's big into exploring cause and effect. We have the Fisher Price Kick and Play piano that he really likes smacking the keys on, but the rest of his toys aren't made for smacking and he seems frustrated.
+- `sr050-0048` (question) Any toy recommendations for my easily bored smack-happy almost crawling baby? Something he can use while on his tummy, with big buttons and an effect like a pop-up or sound?
+- `sr050-0049` (tried_failed) I tried to search online but the algorithm is toast and only shows me trending things.
+
+### 1u1eq6c | r/NewParents | 2026-06-09 | toddler_12_18_months | parent_unspecified | patterns 4
+
+About: Finding small helmet for one-year-old's first bike. Wants: Bike helmet brand fitting a forty-two-centimetre head. Already did: Got child's first bike; checked usual helmet sizes.
+
+- `sr046-0056` (pain) LO got his first bike BUT he’s got a small head, only about 42cm and most helmets start at 48cm
+- `sr046-0057` (question) Does anyone have any good recommendations for a brand that might fit him?
+
+### 1u2gnud | r/Mommit | 2026-06-10 | baby_9_12_months | parent_unspecified | patterns 4
+
+About: First birthday gift ideas when baby already has brother's toys. Wants: Big first-birthday gift ideas beyond existing toys and clothes. Already did: Kept older sibling's toys; suggested clothing and cards.
+
+- `sr046-0073` (question) My daughter's first birthday is coming up in a month and pepple are asking what they should get her. Im totally stumped.
+- `sr046-0074` (belief) Her older brother(4y) was a spoiled little kid and we kept all his toys from when he was a baby. Shes got books out the butt, stuffs toys up the wazoo, 2 activity centers, play couch, pikler, toddler tower, ride on horse, bicycle etc etc etc.
+- `sr046-0075` (desire) For most people im just saying clothing and cards with nice messages but there's a couple that want to do something "big" for her first birthday which I understand.
+- `sr046-0076` (question) So any ideas are welcome!!
+
+### 1u7h6ew | r/daddit | 2026-06-16 | toddler_18_24_months | parent_unspecified | patterns 4
+
+About: Toddler carrier causes shoulder and back pain. Wants: More comfortable toddler carrier recommendations. Already did: Used LittleLife Voyager S2; researched premium and frameless models.
+
+- `sr052-0057` (pain) Hi everyone! I have a LittleLife Carrier Voyager S2, and I have been using with my son since he was like 9 months old, without any issue. Around then, we make, for example, a trip to Naples, and moving around with him around the city and the archaeological sites of Pompeii and Herculaneum it was fantastic!. However, now that he is a year and a half old, and his weight is becoming closer to 13Kg (28.66 lb according to Google), it starts to produce some back and shoulder pain.
+- `sr052-0058` (desire) I have done some brief google research, and maybe some more "premium" brands could be more comfortable for the carrier (me). I know where are some no-frame models that can be used with toddlers, but I love how easy is to put on my back on my own, without help, and the rain cover (living in Scotland, that is quite important). My idea is to use mostly for hiking and walking around nature or urban areas.
+- `sr052-0059` (question) I would love to hear your experiences and opinions about different models you have tried.
+
+### 1u8991s | r/beyondthebumpUK | 2026-06-17 | baby_9_12_months | parent_unspecified | patterns 4
+
+About: Choosing next-stage car seat for large nine-month-old. Wants: Next-stage car seat recommendations for large baby. Already did: Uses Maxi Cosi Pebble 360; has John Lewis voucher.
+
+- `sr052-0069` (trigger_moment) My 9 month old has now outgrown his infant carrier so I’m looking to replace with the next stage car seat.
+- `sr052-0070` (desire) We have a voucher for John Lewis so that would be handy to use for it but no problem if there’s a good one not available from there.
+- `sr052-0071` (question) He is 91st centile & we currently have the maxi cosi pebble 360 with matching isofix bases in both mine and my husbands car but looking for a different brand as I’ve heard that the next stage in that one isn’t great for bigger babies/children.
+
+### 1u9ngke | r/NewParents | 2026-06-19 | baby_6_9_months | new_mother | patterns 4
+
+About: Mother wants developmentally appropriate toys for bored seven-month-old. Wants: Toy recommendations suited to baby’s developmental stage. Already did: Existing toys seem boring to baby.
+
+- `sr053-0103` (desire) Hi! First time mom here, looking for toy recommendations for my 7th month old. He seems bored with his toys and I want to make sure I’m providing developmentally appropriate options. Thank you!
+
+### 1uawukc | r/toddlers | 2026-06-20 | baby_9_12_months | experienced_mother | patterns 4
+
+About: Mother compares four-seat wagons for young children and outdoor activities. Wants: Four-seat wagon recommendations considering containment, weight, and folding. Already did: Uses Nuna, Bob and Bumbleride strollers; checked Marketplace.
+
+- `sr053-0139` (price_signal) Hi everyone! I know this has been talked about and asked in many ways but I’m specifically looking for a 4-seater wagon. My initial gut says Veer. Can’t find any 4 seaters on Marketplace…because people love and keep them? 🤔 Price isn’t a huge hurdle but it makes me a little nauseous seeing how many things you need to add in order for these things to be what I need/want them to be. We have an almost 1 and almost 4 yo and plan to have at least 1 maybe 2 more kids.
+- `sr053-0140` (belief) We are outdoorsy, we camp, we travel a lot, we go to the beach, we live in a rural area. We have a single-to-double Nuna stroller, a single Bob and a Bumbleride Indie Twin (side-by-side double stroller). I was once the mom saying I’d buy one stroller and be done but here I am. Wonderfold seems…like it would be nice with higher sides for naps/containing a busy baby that isn’t quite walking? Or just generally carrying things with higher sidewalls? Maybe I’m looking at this completely sideways. It would primarily be me (35 athletic F) folding/unfolding and lifting in and out of my very large SUV. Space isn’t a worry, but the weight and the foldability seems to be the big drawback for the Wonderfolds. Any thoughts or recommendations beyond this are welcome and appreciated.
+
+### 1ub9cwu | r/toddlers | 2026-06-20 | toddler_18_24_months | parent_unspecified | patterns 3,4
+
+About: Considering Magnatiles despite toddler's habit of scattering everything. Wants: Know whether Magnatiles will create constant cleanup. Already did: nothing stated.
+
+- `sr052-0121` (belief) Everybody loves magnatiles. I'm interested in getting some. But my 18mo's favorite game is to tear through the house, yank open every drawer/door/cabinet and scatter whatever contents all over the floor.
+- `sr052-0122` (question) If I get these, am I condemning myself to super 52 pick up??
+
+### 1ue2hz2 | r/toddlers | 2026-06-24 | baby_9_12_months | parent_unspecified | patterns 4
+
+About: Seeking practical parenting books for approaching toddlerhood. Wants: Practical books or audiobooks covering twelve months onward. Already did: Read pregnancy and infant books.
+
+- `sr060-0023` (pain) Hi,  mom to an 11mo. I did all the prep before hand. I read all the pregnancy and infant books, but now I find myself asking now what? I know nothing!! How do I integrate whole milk? How do I wean? How much do they need to eat? What developmental  milestones do I need to work on??? Etc.
+- `sr060-0024` (desire) So, I am looking for book recommendations. If they come in audiobook format, even better. FYI- what to expect the second year does not come in audiobook.
+- `sr060-0025` (question) So please! Any book recommendations about the practical things of raising a 12mo+ baby/toddler?
+
+### 1ug2b0s | r/NewParents | 2026-06-26 | baby_6_9_months | parent_unspecified | patterns 4
+
+About: Choosing safe containment for active six-month-old learning to sit. Wants: Find compact safe place for baby during bathroom breaks. Already did: Uses playmat; usually keeps baby on floor.
+
+- `sr056-0075` (fear) My husband and I have a very happy and active 6 month old. Up until now, we've really only had a playmat for her, because she primarily enjoys being on the floor. Now she's starting to sit up, but she's very unsteady and often falls over. I'm scared to leave her alone in the room for even a second because she moves off her playmat and then tries to sit up before falling backwards and I'm nervous she'll hit her head on the tile floor(she has done it a few times, but mostly from rolling, not from sitting).
+- `sr056-0076` (question) So I want to have somewhere to put her while I run to the bathroom. What do you all recommend for a 6 month old? A playpen? A packnplay? An exersaucer type thing? We have a small apartment so nothing too huge.
+
+### 1uif42n | r/beyondthebumpUK | 2026-06-29 | baby_4_6_months | parent_unspecified | patterns 2,4
+
+About: Planning accessible play space in a small house. Wants: Practical play-space ideas supporting independence and supervision in limited space. Already did: Uses lounge playmat; read advice about accessible toys.
+
+- `sr059-0122` (question) Please talk to me about your play areas for your babies (and eventually toddlers).
+- `sr059-0123` (desire) Baby is currently just over 4 months so just starting to play and grab / kick things. We live in a terraced victorian house so not masses of space. Currently baby is with me in the lounge on a playmat. I am trying to work out what will the play space start to look like when she gets older (beyond 6-9 months).
+- `sr059-0124` (belief) I keep reading that it is good to have toys accessible at their own height to foster some independence and them making their own choices about what they want to play with and I love the concept. However, our lounge is fairly compact and we only have closed cupboards each side of the chimney breast. We also dont have tonns of open floorspace there.
+- `sr059-0125` (objection) The dining room is linked with the kitchen so I though maybe eventually baby could move there on a soft mat and with some dedicated shelves etc. it would also be good that I could see her from the kitchen when cooking. But then I would spend most of my day sitting at the dining table or on the floor with her to supervise! She would also be kind of in the way as the dining room connects the kitchen / bathroom with front of the house.
+- `sr059-0126` (objection) She will also have her own fairly large-ish room upstairs which could be her default play space. However, I assume this would not work logistically with needing to be with her all the time / needing to cook / use the loo etc.
+- `sr059-0127` (question) Please tell me what worked for you, how do you manage if you are limited on space and what should I consider ahead of time if possible? Any advice super appreciated! (I am 80s child and grew up playing in my own room pretty unsupervised so dont have much to reference - those were different times 🤭). Thank you!
+
+### 1umex3n | r/NewParents | 2026-07-03 | baby_9_12_months | parent_unspecified | patterns 4
+
+About: Early walker needs practical first shoes for outdoor play. Wants: Grippy practical first shoes for walking outside. Already did: Bought oversized slippery Roobez water shoes. Paid: Roobez water shoes.
+
+- `sr063-0047` (belief) My daughter is going to be 11 months old here in a few days and has been walking since a few days after 10 months. She is very quick and mobile already and prefers to​ toddle around than to play with most of her toys.
+- `sr063-0048` (desire) There is a park near by that I would like to let her loose in but I would prefer she wear some kind of foot wear outside as people will walk their dogs through the park.
+- `sr063-0049` (purchase) We bought a pair of Roobez (?) water shoes that we were going to use for a plash pad but the bottom of them has no grip and she has a very difficult time walking in them. I think they are also too big (5s) but we're the smallest size I could find in water shoes.
+- `sr063-0050` (question) Any regular shoe recommendations? I know it's best for her to be shoe less as much as possible but it also feels like a good skill for her to walk in shoes. She is not yet in daycare but we are considering it later this year and I know some require walkers to wear shoes.
+
+### 1uo6i2o | r/toddlers | 2026-07-05 | toddler_18_24_months | relative_caregiver | patterns 4
+
+About: Grandparent seeks unusual second birthday gift. Wants: Uncommon gifts two-year-olds enjoy. Already did: nothing stated.
+
+- `sr064-0048` (question) I’m looking for a fun birthday gift for my granddaughter who is turning 2. Her sister lives buckets. Is there anything your 2 year old loves that would be considered uncommon?
+
+### 1up9wb1 | r/beyondthebumpUK | 2026-07-06 | toddler_12_18_months | parent_unspecified | patterns 1,4
+
+About: Choosing doll after health visitor flags absent affectionate toy play. Wants: Choose soft or plastic doll for child. Already did: Health visitor recommended doll at one year check.
+
+- `sr061-0144` (question) Looking to get our 13 month old a baby doll, as the health visitor at her one year check mentioned about the fact that she doesn’t try to hug or kiss her toys - so suggested getting one for her to play with. Debating between a soft doll or a more traditional plastic baby doll; any suggestions? ☺️
+
+### 1uq79o3 | r/FirstTimeMom | 2026-07-07 | baby_9_12_months | parent_unspecified | patterns 4,2
+
+About: First birthday toys and celebration without nearby family. Wants: Toy recommendations and ideas celebrating first birthday. Already did: Considered party but lacks family nearby.
+
+- `sr065-0075` (question) Hi everyone! What are you all doing for baby’s first birthday. I wanted to have a party for my daughter but we don’t really have any family. I’m not sure what to do for her 1st birthday 🥺 also what are some great toys to get?? Her birthday is in September
+
+### 1ur7ogn | r/toddlers | 2026-07-08 | toddler_18_24_months | parent_unspecified | patterns 4
+
+About: Parent proudly makes play food and buys second-birthday grocery store. Wants: Share pride in second-birthday present. Already did: Crocheted play food; got play grocery store.
+
+- `sr070-0006` (success_story) Putting the pictures in the comments. I crocheted my son a ton of play food and got him a play grocery store for it.
+
+### 1us7mvh | r/beyondthebump | 2026-07-10 | baby_4_6_months | parent_unspecified | patterns 4
+
+About: Seeking floor protection for five-month-old learning crawling and walking. Wants: Protect baby learning movement on hardwood without carpets or rugs. Already did: nothing stated.
+
+- `sr070-0025` (question) Our house is 100% hardwood flooring and I’m absolutely not interested in carpeting/rugs especially with our 5mo old and a long haired dog lol. Butttt I obviously don’t want my baby smacking his head and tearing up his knees and hands while learning to crawl, walk, all the things so what are we doing in this situation?
+
+### 1utjwso | r/Parenting | 2026-07-11 | toddler_18_24_months | parent_unspecified | patterns 4
+
+About: Seeking age-appropriate cups, plates, bottles and toys.. Wants: Recommendations for useful toddler products.. Already did: nothing stated.
+
+- `sr066-0057` (desire) Hi! So I’m looking for recommendations in baby products for my one and a half year old baby.
+- `sr066-0058` (desire) Most specifically water bottles, cups, plates, must have toys. Etc
+- `sr066-0059` (question) What has worked for you and your baby?
+
+### 1utpn60 | r/NewParents | 2026-07-11 | baby_9_12_months | new_mother | patterns 7,4
+
+About: Eleven-month-old uses straws; mother wants milk cup for independent drinking. Wants: Best cups to replace milk bottle and encourage independent drinking. Already did: Used Dr Brown's bottles; baby drinks water through straws.
+
+- `sr067-0043` (desire) EBF mom of 11 month old - we’ve been using the dr browns bottle to feed. LO drinks water great out of straws. We want to move milk from bottle to cup so LO can self drink.
+- `sr067-0044` (question) What are the best options to get? Also I heard somewhere that we should have different style water cups from milk cups??
+
+### 1utz09p | r/NewParents | 2026-07-11 | baby_4_6_months | parent_unspecified | patterns 4
+
+About: Seeking floor seat for baby who sits with support. Wants: Safe floor seat supporting upright sitting without restricting movement. Already did: Uses Boon Slant for fifteen to twenty minutes daily.
+
+- `sr069-0076` (question) Does anyone have good recommendations for a safe seat for a 4.5 month old? She’s on track to outgrow her Boon Slant! I just need a safe spot to put her where she can hang out with me while being upright.
+- `sr069-0077` (desire) She currently can sit upright with support, so something that can help prop her up while also not restricting her movements would be ideal. She’s in it at most 15-20 minutes once a day and ideally it would be a chair I can place directly on the floor. Thank you!
+
+### 1uuyb0v | r/NewParents | 2026-07-13 | unknown | parent_unspecified | patterns 11,4
+
+About: Parent seeks training underwear after daughter's successful potty attempts. Wants: Absorbent underwear preserving wetness sensation without pull-ups. Already did: Sits daughter on potty when asked; successful urination and bowel movements.
+
+- `sr067-0049` (belief) I want to start introducing potty training when my daughter turns 2 (we already sit on the potty when she asks, has peed and pooped on the potty multiple times)
+- `sr067-0050` (desire) I’m looking for underwear that will hold a little pee and still allows her to feel wet. I want to completely avoid pull-ups but also don’t want just regular underwear.
+
+### 1uxavhf | r/NewParents | 2026-07-15 | baby_2_4_months | parent_unspecified | patterns 2,4
+
+About: Seeking toys and ways to play with ten-week-old. Wants: Age-appropriate toys now and next month; how to play. Already did: nothing stated.
+
+- `sr068-0145` (trigger_moment) Baby is 10 weeks and is starting to have wake windows up to 2 hours.
+- `sr068-0146` (question) What toys do you have? What toys do I need for next month?
+- `sr068-0147` (question) How do you “play”?
+
+### 1uy0ub5 | r/toddlers | 2026-07-16 | toddler_18_24_months | parent_unspecified | patterns 4
+
+About: Choosing teether for eighteen-month-old who mouths objects. Wants: Teether recommendations and when chewing objects stops. Already did: Used oversized teething keys which no longer satisfy.
+
+- `sr072-0001` (question) My 18 month old likes putting things in her mouth. Not unusual at all, but I do wonder if giving her a teether like the matchstick monkey would be helpful. She already has most teeth (7 too and 7 bottom) so it’s only really for those last teeth coming through, and for her to chew on during the day.
+- `sr072-0002` (tried_failed) She’s got one of those big sets of ‘keys’ that she used when she had. I teeth, but each piece is too big for her to chew on now, and she doesn’t find it satisfying.
+- `sr072-0003` (question) Also when do they stop chewing things?!
+
+### 1uzc9mr | r/beyondthebump | 2026-07-17 | toddler_12_18_months | parent_unspecified | patterns 4
+
+About: Accidentally bought adult shoes for newly one-year-old nonwalker. Wants: Share funny shoe-sizing mistake; return shoes. Already did: Bought size six Big Boy shoes online. Paid: Walmart shoes.
+
+- `sr073-0024` (trigger_moment) I was on Walmart’s website and tried to buy shoes from the toddler section. My boy just turned 1 and can’t walk yet, but he is moving up to the toddler room at his daycare and they require all the toddlers wear shoes.
+- `sr073-0025` (purchase) The sizes were listed were 5 Big Boy, 6 Big Boy, 7 Toddler, 8 Toddler, 9 Toddler… so I selected 6 Big Boy and bought the shoes.
+- `sr073-0026` (failure_story) They arrived on my doorstep. It was adult men’s shoes. LOL now I have to go to Walmart to return them.
+
+### 1uzlscu | r/NewParents | 2026-07-18 | baby_2_4_months | parent_unspecified | patterns 4
+
+About: Active thirteen-week-old risks kicking herself out of bath insert. Wants: Safer bath recommendations for kicking baby who cannot sit independently. Already did: Uses Angelcare bath insert.
+
+- `sr072-0040` (question) I’ve got the angelcare bath insert and little miss has discovered a joy of thrashing her legs up and down, to the point she’s going to trash herself right out of the the thing and into the bath at large. Obviously not ideal to allow her to begin her free diving career before she can even independently sit, so does anyone have any recommendations (\*or warnings\*) for any of the other baths out there?
+
+### 1v0our1 | r/beyondthebump | 2026-07-19 | unknown | parent_unspecified | patterns 4
+
+About: Parent overwhelmed choosing shoes for early-walking baby’s vacation. Wants: Recommendations for appropriate baby shoes. Already did: Looked at Carters and Tiny Explorers.
+
+- `sr073-0079` (trigger_moment) We are taking our baby, who will be 9 months at the time, on a vacation and we need to get her some sort of shoe. She’s in the early walking but still putting her feet in her mouth stage.
+- `sr073-0080` (objection) I am absolutely overwhelmed with the amount of options out there. Do we just stick to Carters? I’ve seen Tiny Explorers? I’m not a fan of buying some random brand of Amazon.
+- `sr073-0081` (question) Any suggestions or recommendations are appreciated 🥹
+
+### 1v1t2h1 | r/beyondthebumpUK | 2026-07-20 | unknown | parent_unspecified | patterns 4
+
+About: Parent seeks gift-voucher purchases for baby's coming toddler year. Wants: Useful John Lewis purchases for when baby is one to two. Already did: Browsed John Lewis; usually shops Amazon and M&S basics.
+
+- `sr072-0077` (price_signal) We have a larger gift voucher to spend. I only shop cheap stuff from Amazon or M&S basic clothes so not sure what John Lewis has. I had a look and it seems lile loads of pricey things.
+- `sr072-0078` (question) What if anything would you suggest is needed for our baby next year when she's 1y old, that I could buy from there?
+
+### 1v2x1ek | r/toddlers | 2026-07-21 | toddler_12_18_months | parent_unspecified | patterns 2,4
+
+About: Parent seeks engaging age-appropriate toys for fifteen-month-old. Wants: Toy and activity recommendations that grow with child. Already did: Owns play kitchen, utensils, books, blocks, cars and storage.
+
+- `sr073-0110` (question) my daughter is 15 months old aka like bearly 1 and her room / toys is so baby and she’s not excited too play what kind of toys / activities do you recommend
+- `sr073-0111` (belief) (i currently own)  
+play kitchen + food & utensils  
+book shelf + books   
+bin toy storage i have 9 bins and only 2 are filled with   
+1. mega blocks  
+2.cars
+- `sr073-0112` (desire) rest of her toys are gonna go too another baby ik but what does your kiddo enjoy/ can grow with the next year
+- `sr073-0113` (desire) side note  
+her room is more primary colors red yellow blue & green so items supporting color is the best !!
+
+### 1v7beuu | r/beyondthebump | 2026-07-26 | baby_2_4_months | parent_unspecified | patterns 4
+
+About: Baby too long for bassinet but small for stroller straps. Wants: Know whether baby is ready for stroller seat. Already did: Tried baby in Nuna Triv Next stroller.
+
+- `sr077-0096` (question) Hi I have the Nuna Triv Next. My baby is 14 weeks and getting too long for the bassinet. We tried her in the stroller but she looks too small in terms of where the straps go near her head. Is it that she is too young for it or are we doing it wrong?
+
+### 1v9wuz6 | r/beyondthebumpUK | 2026-07-29 | baby_9_12_months | parent_unspecified | patterns 4
+
+About: Gift ideas children actually use at twelve to fifteen months. Wants: Useful birthday and Christmas gifts within £100–150 budget. Already did: Viewed Instagram and TikTok videos.
+
+- `sr080-0108` (belief) My LO will be 1 in september and will be 15 months old when christmas arrives ( sorry for even mentioning the word lol).
+- `sr080-0109` (price_signal) I’m seeing lots of videos on instagram and tiktok and i’m just wondering what kids this age actually use and play with. Our budget is £100-150 for both events.
+- `sr080-0110` (desire) Any suggestions would be great 🩷
+
+### 1vasnq1 | r/beyondthebumpUK | 2026-07-30 | baby_4_6_months | new_mother | patterns 4
+
+About: Mother seeks toys for active four-month-old's grasping and chewing. Wants: Age-appropriate grasping toys baby enjoys that help development. Already did: Provided soft blankets.
+
+- `sr079-0127` (belief) FTM here to a 4 month old. He’s extremely active (already rolling both ways, non stop kicking and wiggling etc) and he is really looking to grab things with his hands.
+- `sr079-0128` (question) We have a couple of soft blankets but I think he needs some different toys to grab and play with but I’m not really sure what to aim for for his age? I guess there’s no point getting him block or anything because right now he’s just grabbing and chewing but I want to give him things that he enjoys and help him develop. Thank you all!
+
+### 1vax1rb | r/beyondthebumpUK | 2026-07-30 | toddler_12_18_months | parent_unspecified | patterns 4
+
+About: Choosing a convertible trike for first birthday. Wants: Advice on convertible trikes and Globber recommendations. Already did: Looked at Globber trikes.
+
+- `sr085-0001` (question) For LO's 1st birthday we want to get her one of those however-many-in-one trikes that can convert from us pushing her, to a trike, to a balance bike. Globber ones seem to look good but I'm wondering if anyone has any insights or recommendations about them? Is it even a good idea?! 😂
+
+### 1vdjiy4 | r/toddlers | 2026-08-02 | toddler_18_24_months | parent_unspecified | patterns 4
+
+About: Seeking gear and clothing that fit a petite toddler. Wants: Clothing, diapers, potties, and other recommendations for a small toddler. Already did: Uses Burt’s Bees pajamas; struggles with diaper and pull-up blowouts.
+
+- `sr085-0021` (question) I have a 21 month old girly who is about 20 pounds and wears 12 month or 18 month clothes. I’d love to get a thread going on everyone’s favorite clothing brands, pajamas, diapers, training potty’s, literally anything that has been helpful for you with a smaller sized kiddo!
+- `sr085-0022` (tried_failed) Right now we use Burt’s bees pajamas that work well but diapers and especially pull-ups have been a struggle with blowouts
+
+### 1vgai00 | r/beyondthebump | 2026-08-05 | toddler_12_18_months | parent_unspecified | patterns 4
+
+About: Seeking affordable tiny walking shoes for twelve-month-old’s outdoor exploration. Wants: Small size-three sneakers or boots with rubber soles at affordable prices. Already did: Searched Amazon, Carters, Footlocker; uses slightly oversized sandals.
+
+- `sr083-0089` (desire) My little girl is tiny but running circles around me. She’s 12m right now and I have sandals that are a toddler 3 that almost fit, but are slightly too big. Fall is coming up in my area and I want to find her some sneakers or boots so that she can continue walking and exploring outside when it gets chilly. But all the ones I’ve found with actual rubber bottoms are size 4 and huge on her. I know eventually she’ll grow into them but right now they’re just a tripping hazard.
+- `sr083-0090` (price_signal) I’ve had some small luck on Amazon, and carters had some in the right size but they’re technically “baby” shoes so the bottom is just nonslip fabric. I also am not looking to spend $40-50 on a pair from footlocker. Help!
+
+### 1vitkds | r/beyondthebumpUK | 2026-08-08 | baby_9_12_months | parent_unspecified | patterns 2,4
+
+About: First birthday gift and experience ideas near west London. Wants: Birthday present ideas and accessible celebratory outings. Already did: nothing stated.
+
+- `sr089-0013` (desire) Looking for ideas for a bday present for our little boy and ways to celebrate the day with him. Not looking to do a party but rather celebrate the day with him via an experience/trip somewhere. 
+
+Based in west London so any places easily commutable by car or public transport would be appreciated.
+
+### 1vkkghg | r/beyondthebumpUK | 2026-08-10 | baby_6_9_months | parent_unspecified | patterns 2,4
+
+About: Seeks edible paper for eight-month-old twins who shred magazines. Wants: Safe edible paper alternative for babies' shredding play. Already did: Babies shred father's magazines.
+
+- `sr089-0037` (question) Is there such a thing as edible paper? Am wondering as my 8 month old twins love shredding their dad’s magazines however they do try to chew the paper almost immediately which is not fantastic. Help 🥲
+
+### 1vmumfj | r/toddlers | 2026-08-12 | toddler_12_18_months | parent_unspecified | patterns 4
+
+About: Tall toddler outgrows travel cot earlier than parent expected. Wants: Recommendations for bed after outgrowing Guava Lotus height limit. Already did: Switched from slatted wooden crib to Guava Lotus at eleven months.
+
+- `sr087-0099` (question) Ugh wtf my son is 17 months , and already 35 inches ??? He slept ok in a slat wood crib, but slept consistently through the night & longer once we switched to the guava lotus , so he uses it for any sleep & has since 11 months. I figured it would last till he was 3! And now apparently he’s already at height capacity?? What did y’all transition to?
+
+### 1vo3kd1 | r/beyondthebumpUK | 2026-08-14 | baby_2_4_months | parent_unspecified | patterns 4
+
+About: Three-month-old outgrows bassinet while beginning to sit and rock it. Wants: Safe downstairs nap spot while doing housework. Already did: Uses bassinet and upstairs crib.
+
+- `sr086-0182` (question) My baby is pretty chonky and at 3 months he’s too big for his bassinet - he can rock it about solidly and is starting to sit so I’m not keen on leaving him in it. What are people using for nap time? I’m slightly reluctant to take him upstairs to his crib every nap and would ideally like a bit of a living room solution so I can put him down and do some housework down here!
+
+### 1vpdvkp | r/daddit | 2026-08-15 | toddler_12_18_months | parent_unspecified | patterns 2,4
+
+About: Seeking hiking backpack carrier to introduce toddler to nature. Wants: Backpack carrier recommendations compatible with chest pack. Already did: nothing stated.
+
+- `sr093-0012` (desire) Hello everyone, as the title suggests I have a 16 month old that I want to take out with me hiking/scouting some of the easier to walk areas before the hunting season.  It would be awesome when it's just her and I if I could get two birds stoned at once and scout/change trail cams and get her into nature a bit.
+- `sr093-0013` (question) I'm looking specifically for some sort of backpack carrier so I can still use my chest pack for my binoculars.
+
+### 1vqarvp | r/NewParents | 2026-08-16 | toddler_12_18_months | parent_unspecified | patterns 4
+
+About: Parent seeks padded living room mat for constantly falling toddler. Wants: Padded rug or mat recommendations that resist staining. Already did: Looked into muscle mats and read staining complaint.
+
+- `sr091-0070` (question) Anyone have recommendations for padded rugs/mats for a living room area? My 1 yr old is absolutely reckless. He’s falling all the time and hitting his poor head. I’ve seen things about muscle mats but saw someone say it stains pretty badly
+
+### 1vqik2t | r/NewParents | 2026-08-17 | baby_9_12_months | parent_unspecified | patterns 4
+
+About: Choosing climbing equipment for an increasingly mobile ten-month-old. Wants: Choose appropriate climbing equipment for birthday or Christmas. Already did: Compared pikler triangle, nugget couch and foam blocks.
+
+- `sr094-0018` (question) My almost 10 month old is showing a lot of interest in trying to climb recently. I’m debating between a pikler triangle, nugget couch, or foam climbing blocks. I feel like the blocks might be best for her age, but I was planning on a nugget eventually and it seems like overkill to have both. I like the pikler but it seems like that might be better when she’s a little bigger? Will probably get one of these for her birthday in October or for Christmas. Thoughts?
+
+### 1vqwk3m | r/beyondthebumpUK | 2026-08-17 | baby_9_12_months | parent_unspecified | patterns 4
+
+About: Climbing baby prompts search for safer high chair harness. Wants: UK high chair recommendations with adjustable footrest and five point harness. Already did: Uses IKEA Antilop with separate footrest and cushion.
+
+- `sr091-0085` (question) Hello, looking for recommendations as above. We have the IKEA antilope with a separate footrest and cushion which has been great but our 9 month old has now decided she can now try climb out of it and we think the 5 point harness is probably needed for our little daredevil. Does anyone have any recommendations in the UK that fits the above? TIA!
+
+### 1vsmsx8 | r/toddlers | 2026-08-19 | toddler_12_18_months | parent_unspecified | patterns 4,7
+
+About: Choosing toddler seating after hard-to-clean highchair discourages self-led meals. Wants: Choose highchair or toddler table suitable for next stage. Already did: Used inherited Peg Perego Siesta; considers Tripp Trapp or toddler table.
+
+- `sr094-0060` (tried_failed) I inherited a peg Pareto siesta highchair and think I’ve hated it since day one. Its likely a reason for me not encouraging as many self-led meals because it is infuriating to clean. At 17 months, I decided I can’t handle this anymore and need a change. so what next?
+- `sr094-0061` (question) I know that when I eventually have a second child, I’m going to go for the tripp trapp high chair. Should I just get it now? Is it good for a toddler who is showing interest in eating at the table (and making an even bigger mess by reaching at our plates?) or do I get her her own toddler table set up?
+
+  
+Based on experience, what’s best for this stage and the year ahead? thanks!
+
+### 1vt55b7 | r/Mommit | 2026-08-20 | toddler_12_18_months | parent_unspecified | patterns 4,12
+
+About: Designing useful playroom for fifteen-month-old with motor delays. Wants: Safe affordable playroom equipment supporting motor skills and lasting use. Already did: Has ball pit, mat, climbing blocks and toys; saved playroom funds.
+
+- `sr094-0069` (question) We’re moving into a rental soon, so the only thing we’d prefer not to do is paint as we plan to buy next year (specifically a home with enough space for her to continue having play rooms/hobby rooms so everything we buy would still have a place there too). She’s currently 15 months old and is not walking yet (had some delays due to a brain condition). We have a really big space in the house that will be her playroom. I see some over the top ones but I’d like to realistically put things in there that will get use or even longer than a few months use.
+- `sr094-0070` (belief) Currently we have:  
+Ball Pitt   
+Soft padded mat   
+Climbing blocks (just those 6 piece small ones from Amazon)   
+All her toys (how are you safely storing them in the play room?)
+- `sr094-0071` (desire) She enjoys equal independent play and interacting with us while playing but I’d like the room to be safe enough that I could go to the restroom or cook dinner (you can see the playroom from the kitchen) and not have to worry.   
+I’m thinking one of those play gyms with a slide on them for inside days. Maybe some of those play sets that are like kitchens/grocery store/coffee shops?
+- `sr094-0072` (price_signal) I wouldn’t say funds are endless but we are very lucky that her grand parents on both sides also want to contribute to a fun playroom and we’ve set aside some just for this. So moderately priced things/stuff that can be found second hand. Im trying to find things that are good for motor skills and actually teaching her things while having fun playing too. So I guess just things that you’ve gotten for them that actually got used would be great!
+
+### 1vug80k | r/toddlers | 2026-08-21 | toddler_18_24_months | parent_unspecified | patterns 4
+
+About: Twenty-two-month-old opens door despite babyproof knob cover. Wants: Next babyproofing steps after child defeats knob cover. Already did: Installed babyproof knob cover.
+
+- `sr094-0101` (question) My 22 month old has figured out how to open his door with a babyproof knob cover on, any suggestions on next babyproof steps would be appreciated.
+
+### 1vuq1wb | r/NewParents | 2026-08-21 | toddler_18_24_months | parent_unspecified | patterns 4
+
+About: Parent considers crib transition while toddler can open doors. Wants: When to move toddler from crib without unsafe wandering. Already did: Uses low bed; considering transition; no changes stated.
+
+- `sr093-0091` (question) Not directly about sleep but couldn’t find better flare. My son is a few days shy of turning 2 and I’m starting to wonder at what age to move him out of the crib. I’m not worried about falls or anything as his bed is low but rather I’m quite certain at this age he would just crawl out of bed nonstop and not sleep well if he had the freedom to leave. He also knows how to open doors and whatnot so I would be concerned about safety in that regard while we sleep as he wakes up once in a while over night. Any insight is helpful thanks!
+
+### 1vvcp57 | r/daddit | 2026-08-22 | toddler_18_24_months | parent_unspecified | patterns 4
+
+About: Parent choosing sturdier outdoor playset for toddler and older sibling. Wants: Quality playset recommendations before spending three-to-four thousand dollars. Already did: Existing KidKraft set; comparing Backyard Discovery and Gorilla online. Paid: KidKraft playset under $1500.
+
+- `sr093-0103` (purchase) Long story short, we're making big changes in our yard in the next month or so, including getting rid of the KidKraft playset. It served my now almost-6 year old daughter well for most of her life, but we need something much more sturdy especially with her 1.5 year old sister using this stuff now. I also hate how cheap the wood feels, but I guess that's to be expected for a full playset for less than $1500. 
+- `sr093-0104` (question) We're able to spend more on it this time, so I'm looking for suggestions. My cousin has a Backyard Discovery set for their kids that I haven't seen it, but my wife assures me it's definitely much nicer quality than ours. But also just looking at it online, I like how the quality of Gorrila looks, especially the rounded edges and nicer hardware. But I'm obviously nervous spending $3-4K on something I can't see or touch first. Any thoughts or opinions on these or any other brands? Thanks dads
+
+### 1vwcbyo | r/Mommit | 2026-08-23 | baby_9_12_months | parent_unspecified | patterns 4
+
+About: Seeking pedal car as first birthday gift. Wants: Recommendations for a ride-on car with pedals. Already did: Looked at Cozy Coupe cars online.
+
+- `sr096-0003` (question) I am looking ideas for my kids 1st birthday and thought about how much I loved my cozy coupe as a kid. I remember pedaling it around. However looking at them online I can’t find any with pedals ( I know this feature would not be used to closer to three but like to be prepared). Does anyone else remember having pedals? Any recommendations for something like that?
+
+### 1vwj2mt | r/toddlers | 2026-08-23 | toddler_12_18_months | parent_unspecified | patterns 4
+
+About: Choosing winter clothing sizes around toddler growth. Wants: Predict mitten and shoe fit across winter. Already did: Bought winter clothes, coats, adjustable snowpants and three mitten sizes. Paid: Winter clothes, coats, snowpants, mittens.
+
+- `sr099-0014` (purchase) Our local Once Upon a Child just launched their winter stock and while I'd like to wait longer to shop for cold weather the best selection is available now so we got some things and it's got me wondering - how fast do young toddlers' \*hands\* usually grow?
+- `sr099-0015` (belief) Kiddo is currently 15 going on 16 months, and very tall and slim compared to averages. (Currently he wears a 2T in footie pajamas but can wear a 9 month in shorts/tee shirts.) In October when it's likely to get cold enough to need these things he'll be 18 months, and winter sometimes extends to his birthday in April though that would be unusually long.
+- `sr099-0016` (purchase) Coats, we did one for pre-growth spurt and one for post. The snowpants are really adjustable. I'm fairly confident on his shoe size (unless someone wants to tell me now that he's likely to go from size 6 to 8 before  winter clears? I do live somewhere with longer winters. It would be better to know now.)
+- `sr099-0017` (question) I'm holding 3 pairs of mittens. One fits well now - will they still be likely to fit in October/November when it gets cold or should I return them? That's the smallest pair. The largest goes up to his elbows and pulls right off fully cinched, will they be useful when he's almost 2?
+- `sr099-0018` (desire) Obviously I know every kid grows differently, but anyone's experiences or guesses would be helpful!
+
+### 1vwrd63 | r/toddlers | 2026-08-24 | toddler_12_18_months | parent_unspecified | patterns 4,5
+
+About: Mother compares toy supply with social-media playrooms. Wants: Hear how often other parents buy toys. Already did: Has lots of toys and books; watches playroom videos.
+
+- `sr099-0019` (pain) I am a SAHM to my 16M old girly and I feel like I could constantly be bringing new toys in - I see videos of other playrooms with so many things, and full baskets of small toys and I feel like my child is missing out on something (though logically I know she absolutely isn’t, we have lots of toys and books…).
+- `sr099-0020` (desire) I would really appreciate hearing other parents’ practices and thoughts on this.
+
+### 1vx0rwu | r/NewParents | 2026-08-24 | baby_9_12_months | parent_unspecified | patterns 4
+
+About: Seeking first birthday gift suggestions for daughter. Wants: First birthday gift suggestions. Already did: nothing stated.
+
+- `sr100-0008` (question) Hi all, our daughter is turning 1 in less than 2 months and we are debating what to get her for her birthday. Can we get some suggestions?
+
+### 1vxt6yq | r/beyondthebumpUK | 2026-08-25 | toddler_12_18_months | parent_unspecified | patterns 4
+
+About: Seeking higher toddler tower for small sixteen-month-old. Wants: Toddler tower high enough for small child to reach worktop. Already did: nothing stated.
+
+- `sr097-0043` (question) My 16 month old is very small for her age, she’s largely in 6-9 month clothing still. I think she’d enjoy a toddler tower to “help” in the kitchen but most seem like they wouldn’t allow her to see up to the worktop. 
+
+Has anyone got one they’d recommend that’s a bit higher?
+
+### 1vzd5d8 | r/toddlers | 2026-08-26 | toddler_18_24_months | parent_unspecified | patterns 4
+
+About: Twenty-one-month-old seems cramped rear-facing; parent considers turning seat. Wants: Others' timing for turning car seats forward. Already did: Kept child rear-facing.
+
+- `sr100-0047` (question) Kiddo is not 2yrs yet, but his legs are starting to bend and you can see he’s uncomfortable rear-facing in the back. When did you guys switch to facing forward? I am SCARED to switch him yet, but also don’t want him uncomfortable. He’s 21 months and around 38lbs.
+
+### 1vzya5o | r/sahm | 2026-08-27 | baby_6_9_months | parent_unspecified | patterns 4
+
+About: Considering Tonie box as cause-and-effect developmental toy. Wants: Opinions on whether audio box benefits six-month-old. Already did: Uses electronic piano; considering audio toy based on own childhood tapes.
+
+- `sr099-0113` (question) I have only 1 child, a 6 month old girl. Tonie boxes seem to be all the rage, we don’t have one. Is it worth it? I have no problem entertaining baby but I wonder if it would be a nice developmental / cause and effect type toy to have.
+- `sr099-0114` (desire) Would love opinions/recs!
+- `sr099-0115` (belief) I appreciate this ❤️ I did consider it before. our only electronic toy is a piano. My thought process is that I listened to a lot of tapes (in different languages) as a baby and loved them (still remember them to this day).
+- `sr099-0116` (fear) That’s great. I used to be so scared of the dark so I’m wondering how my daughter will be.
+
+### 1w01xoj | r/beyondthebumpUK | 2026-08-27 | baby_9_12_months | parent_unspecified | patterns 4
+
+About: Seeking open-ended toys for first birthday. Wants: Know if open-ended toys are worthwhile and where to start. Already did: Considering Grapat toys.
+
+- `sr099-0121` (question) Hi all, my little boy is turning 1 next month. Are open ended toys worth it? I’m interested in buying him some grapat toys but idk where to start. Any advice and recommendations please? x
+
+### 1w1r8az | r/beyondthebumpUK | 2026-08-29 | toddler_12_18_months | parent_unspecified | patterns 4
+
+About: Choosing waterproof nursery shoes for toddler not yet walking independently. Wants: Water-resistant alternatives to heavy toddler wellies. Already did: Measured feet at Clarks; used prewalkers; searched toddler wellies.
+
+- `sr096-0086` (pain) My little one is 15 months old and is starting nursery next week.  She needs outdoor footwear to keep in her bag for when they go outside (they go out at least once a day in all weather), but all the wellie boots aimed at toddlers I've seen are massive and really heavy. I'm starting to worry as I don't feel prepared at all.
+- `sr096-0087` (belief) She doesn't walk independently but can while holding someone's hand and can cruise around furniture, etc. fine. I got her measured at clarks, and she's a size 4g. She does have some pre walkers, but they don't appear to be super water resistant.
+- `sr096-0088` (question) Can anyone recommend any water-resistant shoes that might work as an alternative to wellies?
+- `sr096-0089` (desire) Any advice is very much appreciated.
+
+### 1w24mi7 | r/Mommit | 2026-08-30 | baby_6_9_months | parent_unspecified | patterns 4
+
+About: Checking safety and suitability of older-child toy for baby. Wants: Know safety hazards or frustrations from toy labelled eighteen months plus. Already did: Received activity toy as gift; let baby play and observed enjoyment.
+
+- `sr099-0161` (question) Just need to know because we were gifted it and it says it’s suitable for 18mo and up. He seems to enjoy it so far. Wondering about any safety hazards or potential frustrations he may have with the toy
+
+### 1w3d0cf | r/toddlers | 2026-08-31 | baby_9_12_months | parent_unspecified | patterns 4
+
+About: Choosing affordable music player suited to baby's abilities. Wants: Know whether cassette player is realistic alternative to Yoto or Toniebox. Already did: Compared players and considered recording own songs.
+
+- `sr102-0009` (objection) I've been looking into getting a yoto or toniebox but can't justify the price for a music player. I understand wanting to give the child independence, but she'll be 12 months old in Oct so she won't be swapping out characters or cards anytime soon anyway. (Yoto is looking better than Toniebox for us if I were to get one of the two)
+- `sr102-0010` (belief) I've thought about purchasing a cassette player and just recording my own songs onto blank tapes. I'm not a huge fan of nursery rhymes for my baby and especially hate the generic, AI-sounding songs on the yoto and toniebox, so I'd be using the MYO cards or characters most of the time anyway.
+- `sr102-0011` (question) Just wondering if this is actually a realistic option? I've never owned a cassette player before so I'm not sure how well they can even record media or if it'll be a good option for a toddler.
+
+### 1w68xp4 | r/beyondthebumpUK | 2026-09-03 | baby_6_9_months | parent_unspecified | patterns 2,4,5
+
+About: Considering activity seat for baby who needs support sitting. Wants: Know whether activity seats safely entertain seven month olds. Already did: Practised sitting; avoided walkers and bouncers; considered container limits.
+
+- `sr105-0058` (question) Hi all, I was considering getting a seated activity seat for my 7 month old. They’re obsessed with sitting up but still can’t do so without support. We do lots of practice to build their strength up, but I think they’d like one of these seats with attached toys to keep them entertained.
+- `sr105-0059` (question) Are these recommended? Has anyone had this and did their baby enjoy it?
+- `sr105-0060` (belief) I’m avoiding walkers/bouncers as I understand they’re not ideal. I also am aware of limiting “container” time etc.
+- `sr105-0061` (desire) This is basically for when I’m solo parenting and need to keep them entertained for 15 mins in a way that engages them.
+
+### 1w8776p | r/NewParents | 2026-09-05 | toddler_12_18_months | parent_unspecified | patterns 3,4
+
+About: Parent argues babies can be soothed without pacifiers. Wants: Tell new parents pacifiers are optional. Already did: Never used pacifier; soothed by holding, singing and humming.
+
+- `sr105-0083` (others_said) This message is for all new moms… I’m expecting my second and my first just turned 13 months. I see a lot of posts and hear a lot from friends that their baby won’t give up the pacifier and it’s incredibly hard to wean them off it, sometimes even into 2/3 years old.
+- `sr105-0084` (belief) I just wanna say… your baby DOESNT need one. I never used one with my first and I don’t plan to with my second.
+- `sr105-0085` (success_story) They are fully able to be calmed down and soothed with picking up, singing, humming, etc. I never found a moment where I thought wow yeah this would really help.
+- `sr105-0086` (belief) Pacifiers don’t have a huge number of benefits, tbh more negatives than positives.
+- `sr105-0087` (advice_given) So, just a PSA that you DONT NEED ONE. If you want to use one, sure go for it, no judgment. But I feel it’s pushed on parents that their baby needs a pacifier when they don’t.
+- `sr105-0088` (advice_given) And if you do use one, please don’t just leave it in their mouth all day.
+
+### 1w99cso | r/toddlers | 2026-09-06 | toddler_18_24_months | parent_unspecified | patterns 4
+
+About: Seeking second birthday toys beyond outgrown current collection. Wants: Second birthday gift ideas appropriate to next play stage. Already did: Got barn set; buys secondhand puzzles; owns blocks, climber and bike. Paid: Secondhand puzzles.
+
+- `sr105-0112` (question) Any suggestions for a 2nd bday gift? Last year we got our son the little people barn set and he loves it. He’s at a weird stage where most of his toys are too young for him now, but I’m not sure what’s appropriate at this stage.
+- `sr105-0113` (question) Maybe pretend play items?
+- `sr105-0114` (purchase) He has some puzzles and loves them but that’s not a very exciting gift, and I usually get those second hand. He’s got mega blocks and a table to build them on. Has a climbing/slide type deal for outside. A strider bike. Not sure what that leaves us lol
+
+### 1wbtqb8 | r/beyondthebumpUK | 2026-09-09 | toddler_12_18_months | parent_unspecified | patterns 4
+
+About: Seeking lasting personalized first-birthday keepsake. Wants: Recommendations for personalized keepsake gift. Already did: Previously asked for one-year-old gift suggestions.
+
+- `sr106-0033` (desire) Sorry I asked about a gift for a 1 year old before and you all were so helpful!! Now looking for recommendations for a personalised gift that he can keep forever x
+
+### 1we6nba | r/beyondthebumpUK | 2026-09-12 | baby_9_12_months | parent_unspecified | patterns 4,2
+
+About: Choosing winter gear and activities for active nine-month-old. Wants: Winter equipment advice and entertaining active baby in small home. Already did: Looked ahead to nursery and winter needs.
+
+- `sr106-0056` (trigger_moment) We are new parents, and both husband and I are not from the UK, both from warm countries.   
+I’m going back to work soon and trying to sort as many things I can in advance of next few months.
+- `sr106-0057` (question) 1) Looking for advice on what sort of winter kit is useful for an extremely active, energetic, crawling and maybe walking in next few months baby   
+\- things like outdoor kit - what sort of puddle suits work well? Other kit needed?  
+\- what do we use to cover his feet and keep them dry (esp before walking?)  
+\- what stuff did you need at nursery (I wish they gave us a list but they don’t)
+- `sr106-0058` (question) 2) looking for advice on how to keep such an active boy entertained in a small home with no dedicated play area apart from a section of our lounge
+
+### 1wh7mfh | r/NewParents | 2026-09-15 | baby_6_9_months | parent_unspecified | patterns 4
+
+About: Parent seeks push walker options for baby pulling to stand. Wants: Professional input and recommendations on push walkers and timing. Already did: Provided furniture baby uses to pull to stand.
+
+- `sr107-0096` (question) Thoughts on baby walkers?  Like the push kind.
+- `sr107-0097` (desire) My baby is 8.5 months and is trying to pull to stand a lot. We have some furniture he has figured out but I want to give him more options. Any recommendations on what to use?
+- `sr107-0098` (question) Also if walkers are good to use, when? Should I wait until he's cruising? He isn't quite steady with pull to stand yet. But he is getting there.
+
+### 1wienzj | r/NewParents | 2026-09-17 | baby_6_9_months | parent_unspecified | patterns 4
+
+About: Preparing soothing products for eight-month-old’s first teeth. Wants: Product recommendations and tips for upcoming teething difficulties. Already did: Checks gums daily; researched online; has Tylenol, chew toys, fruit pops.
+
+- `sr113-0044` (belief) My girl is almost 8 months old, and so far, no teeth. Ped said her gums have been swollen since she was 3 months old. I keep checking every day, but I'm not even sure what I'm looking at. I looked at some stuff online, and I know it will be fairly obvious when it happens.
+- `sr113-0045` (question) What kind of products should I have prepared for when it happens? I have baby Tylenol and some silicone toys she always chews on, I have fruit pops (with the silicone nipples). Any tips for soothing, feeding and sleep issues that may come up?
+
+### 1wk5egr | r/Mommit | 2026-09-18 | baby_9_12_months | parent_unspecified | patterns 4,8
+
+About: Parent seeks unusual first-birthday toy despite extensive hand-me-down collection. Wants: Unusual fun first-birthday gift suited to curious nearly walking baby. Already did: Used hand-me-downs; bought plush; tried toy remote; owns many playthings. Paid: Cuddle and Kind plush; unnamed $90 item.
+
+- `sr114-0037` (desire) My little guy is about to turn one. He is my second baby and the youngest in two big families, so he has great hand-me-downs of practically every toy imaginable. I still would like to get him something fun for his 1st birthday and I’m completely stumped! We already have a version of all the popular toys for this age group (push walkers, play kitchen, activity box, mini basketball hoop, stacking toys, blocks, nugget couch, wooden train set…you get the point). I’ve literally only ever bought him one toy since he was born (a plush from Cuddle and Kind) since we have everything!
+- `sr114-0038` (success_story) He is very energetic, close to walking, and relatively fearless! He loves to get into everything (he’s already figure out how to release the child-proof latch on the kitchen cabinets 🫠) and is very curious.
+- `sr114-0039` (question) Any not so common toys your kids loved at this age that you’d recommend for him? We are lucky to already have a 529 set up for him, and plenty of clothes, too. I’d really like to get him something that’s just for fun!
+- `sr114-0040` (purchase) Letting him pick is a good idea!
+
+We actually have TONS of magnatiles because my husband got really into staying up late to build increasingly elaborate structures to surprise my older son with each morning. They kept getting larger as time went by, so he’d order more. It got to the point where at least once a month, another box would show up at the door. I would just turn to him like, “what crazy thing are you trying to building now?” 😂
+- `sr114-0041` (tried_failed) You know what, this is genius. We got him a remote and he doesn’t play with it and goes for the real one.
+- `sr114-0042` (belief) Honestly, he would love this because he loves getting into the recycling 😂
+- `sr114-0043` (price_signal) We have one that we got from Sam’s Club on sale for $90! If you’re in the market for one I would check your big box stores.
+- `sr114-0044` (belief) Grandparents got him a Tonie last Christmas. We have not done friends and family recordings though—that’s a great idea.
+- `sr114-0045` (belief) My 5 year old is OBSESSED with tape.
+- `sr114-0046` (desire) This is a good one that we don’t yet have!
+
+### 1wm1u7d | r/toddlers | 2026-09-21 | toddler_18_24_months | experienced_mother | patterns 3,4
+
+About: Seeking absorbing safe toys for climbing twenty-month-old during parent's labor. Wants: Buy immediately available safe toys that keep toddler occupied for babysitters. Already did: Babyproofed; many climbing and play toys; Zany Zoo disliked.
+
+- `sr112-0079` (belief) I have family in town to babysit my older children while I’m in labor and recovering, which will happen in the next few days.
+- `sr112-0080` (pain) Over the last two weeks or so, my 20 month old has hit a phase where she seems bent on making everything as dangerous as possible! Climbing over the back of the couch, climbing up anything else she can and just stepping off it, pulling everything down from the counters if she can get her hands on it, climbing on the toy box, etc etc. My older children were not this daring! It has been quite a ride as she enters this new phase, and it’s just a bit of bad timing!
+- `sr112-0081` (tried_failed) I have done as much baby proofing as I can (and some of it will get better with time as she tests her limits), but I can’t really get rid of all our furniture or gate it off as it’s 100 percent open concept.
+- `sr112-0082` (desire) All that said, I’m looking for toy ideas that I can buy right away that will keep her interest for a good chunk of the day or two I’m gone to help lower mine (and my family’s) stress. We have a nugget, stepping stones, little slide, mini trampoline, tunnel, Little People, Lego Duplo, some Love Every items, and a water table. We used to have the Zany Zoo but she didn’t like that.
+- `sr112-0083` (objection) Since I won’t be the one personally supervising and want to keep my worry level at the hospital as low as possible, anything with any type of choking/ingestion/other hazards are are off limits:
+- `sr112-0084` (objection) \- sensory bins
+- `sr112-0085` (objection) \- anything with magnets
+- `sr112-0086` (objection) \- chalk or crayons
+- `sr112-0087` (objection) \- anything involving tape or stickers
+- `sr112-0088` (objection) \- anything homemade
+- `sr112-0089` (desire) We do want to get a play kitchen but are planning to wait until Christmas for that.
+- `sr112-0090` (question) Probably anything new from Target will help, just looking for some suggestions.
+
+### 1wobm3c | r/NewParents | 2026-09-23 | baby_6_9_months | parent_unspecified | patterns 4
+
+About: Choosing winter clothing and grip for increasingly mobile baby. Wants: Practical winter clothes and footwear advice. Already did: Dressed baby mostly in footie pajamas and onesies.
+
+- `sr116-0005` (question) How do you dress a 8-12 month old baby in the winter?
+- `sr116-0006` (question) He goes to daycare everyday. He’s lived in footie pajamas/onesies. I could probably count on one hand the amount of times he’s worn shorts/pants/socks but do I need to start transitioning to “real” clothes, especially for the colder months? Does he need shoes? Lol. Or are we still doing footie pajamas?
+- `sr116-0007` (belief) I don’t really care about \~aesthetics\~ but since he’s already so mobile (7 months now), he might want a bit more grip?
+- `sr116-0008` (price_signal) It’s also helpful for me to think about because of that big carters sale coming up. But I also don’t want to buy him so many new things either…
+
+### 1wpihk2 | r/NewParents | 2026-09-25 | toddler_12_18_months | parent_unspecified | patterns 4
+
+About: High chair alternatives for toddler in a small home.. Wants: Age appropriate seating alternatives that fit tiny kitchen. Already did: Uses high chair; parent eats on stool or standing.
+
+- `sr118-0017` (question) Son is about to be 18 months. We don't actually have a dining room table and am currently using the high chair, but never thought about the future. We have a galley kitchen in a 700 sqft home with no dining room. My husband and I just eat in the living room (pre child). I have been eating either sitting on a stool or standing at the counter since he's in the kitchen. Like maaaayybbeee I could get around to building a kitchenette or something, but there's literally space for his high chair and the cart we keep the air fryer on. Ideas? Options?
+
+### 1wq0fzw | r/daddit | 2026-09-25 | toddler_12_18_months | parent_unspecified | patterns 4
+
+About: Choosing Yoto or Toniebox for song-loving fourteen-month-old. Wants: Choose screenless audio player suitable for toddler and longer-term use. Already did: Compared Ms. Rachel content, longevity and likely breakage.
+
+- `sr117-0067` (question) So, my wife and I have been back and forth. My 14mo son loves -- **LOVES** \-- songs, especially anything from Ms. Rachel (thank you for the album, queen). But now we're debating whether the Yoto or the Toniebox is the better screenless auditory baby gizmo for him.
+- `sr117-0068` (belief) Some clear advantages reveal themselves: Toniebox has Ms. Rachel stuff on there, so I can hear Aron Accurso sing "Walkin' at the Zoo" in my dreams every godforsaken night and awaken in a cold sweat every morning. Doodily doo.
+- `sr117-0069` (belief) Meanwhile, the Yoto seems to have more long term staying power and can grow with the child over time. But also, my boy is a literal mischief ape and will, in time, smash anything and everything we give him with an impish grin on his face. So I'm not sure we need to look too hard for something that will survive his entire childhood, because I don't really think anything will. Which reminds me I need to secure the entrance to our crawlspace!
+- `sr117-0070` (desire) In any case, I leave it to the fatherly braintrust.
+
+### 1wr7066 | r/NewParents | 2026-09-27 | baby_6_9_months | parent_unspecified | patterns 4
+
+About: Seeking bath seat suited to baby’s new independent sitting. Wants: Bath seat advice and safe way to clean baby’s bottom. Already did: Used bath lounger that now seems uncomfortable.
+
+- `sr119-0036` (question) Hey everyone I have a 7 month old girl who loves the bath and loves to sit up! She is sitting independently now and her bath “ lounger “ just seems uncomfortable for her now and I’m looking into getting her one of those bath seats. I have a weird question though.. how do you get their bottom cleaned when they’re sitting like that in the bath? She’s like 20 lbs so I’m not sure I can safely hold her up with one hand and wash with the other especially while she’s wet. Is there another product that is better for this age range ?
+
+### 1wubt35 | r/sahm | 2026-09-30 | toddler_12_18_months | parent_unspecified | patterns 2,4
+
+About: Planning home play and learning spaces for sixteen-month-old. Wants: Recommendations for play and learning areas before winter. Already did: Identified available areas at home for children.
+
+- `sr119-0080` (question) I have an almost 16 month old with one on the way and am trying to decide what kind of play and learning areas to setup in our home. We’re fortunate to have a few areas in the house that can be designated for the children. 
+
+With winter coming, what sort of setups do people have? Recommendations welcome!
+
+### 1wwtdr6 | r/Mommit | 2026-10-03 | toddler_12_18_months | parent_unspecified | patterns 4
+
+About: Finding boots for fifteen-month-old with very small feet. Wants: Find winter or rain boots small enough for daycare. Already did: Searched unsuccessfully for boots.
+
+- `sr122-0017` (question) My daughter is 15 months but still wears 3-6 month shoes, or size 2.5. She needs boots (winter/rain) for daycare but I can’t find any for her tiny feet. Ideas?
+
+### 1wyfk4c | r/toddlers | 2026-10-05 | toddler_18_24_months | parent_unspecified | patterns 4
+
+About: Choosing toys toddler will actually use before turning two. Wants: Toy recommendations for Christmas and upcoming second birthday. Already did: nothing stated.
+
+- `sr122-0031` (question) hi everyone my son turns 2 in a few months and with christmas coming up i was just wondering what yalls go tos are ! rn were in the “play with anything but toys” stage lol
+
+### 1wz5egm | r/beyondthebumpUK | 2026-10-06 | baby_6_9_months | parent_unspecified | patterns 4
+
+About: Parents disagree when infant milestones require lowering cot. Wants: Know which milestones mean lowering cot to middle level. Already did: Observed rolling and supported-position sitting; discussed with partner.
+
+- `sr125-0044` (trigger_moment) LO is 6 months old and in her own room. She can roll all ways and can sit unsupported, but only if you put her in that position. She isn't showing any signs of crawling, going on all fours, or sitting up indelendently.
+- `sr125-0045` (question) My partner and I can't agree on when we should be lowering the cot to the middle level. What milestones made you lower yours to the middle?
+
+### 1wzjzph | r/Mommit | 2026-10-07 | unknown | parent_unspecified | patterns 4
+
+About: Choosing meaningful Christmas gifts baby will use. Wants: Ideas for limiting Christmas gifts to useful lasting choices. Already did: Looked online at need-read-want gift frameworks.
+
+- `sr122-0041` (desire) This is my babies 2nd Christmas but first Christmas we are doing gifts because he was just a little potato last year. How do you guys all do Christmas? i don’t want to just get him a bunch of toys and stuff that he will play with once and then will just sit around the house.
+- `sr122-0042` (question) I’ve seen things online where people do like 1 thing you need 1 things to read 1 thing you want etc. just wanting to see how others do it.
+
+### 1x10s8t | r/ScienceBasedParenting | 2026-10-08 | baby_9_12_months | parent_unspecified | patterns 4
+
+About: Choosing first walking shoes for eleven-month-old. Wants: Choose shoes supporting walking, sensory feedback and foot development. Already did: Compared barefoot styles and three brands; baby walks barefoot.
+
+- `sr122-0045` (desire) Trying to determine the best form of shoe to get our 11 month old baby for beginning to walk. I know that there are some discussions between flat feet prevention (something that both baby's mother and I slightly suffer from) and ensuring sensory feedback with the ground. I want to make sure that baby is building a connection and spatial awareness with the ground.
+- `sr122-0046` (question) We have debating a general approach to using a more barefoot shoe but not really sure if this is the best vs. standard shoes. Below is the consideration list (in no particular order):
+- `sr122-0047` (belief) * Stride Rite Barefoot-like feel models, extra wide toe-box for development
+*  Sole Sox: Adjustable insoles to help sizing and a strong protection overall (we've gotten some scrapes walking barefoot)
+* Ten Little First Walkers: American Podiatric approval, matches anatomic toe box
+
+### 1x2z3dx | r/NewParents | 2026-10-11 | unknown | parent_unspecified | patterns 4
+
+About: Choosing Christmas toys for anticipated sitting and crawling. Wants: Toy recommendations for an eight month old who sits or crawls. Already did: nothing stated.
+
+- `sr128-0005` (desire) My mother in law has asked for some ideas for what to get our son for Christmas. He'll be almost 8 months old by then. He's generally happy to play with most things at the moment, but he'll be sitting and maybe crawling by then (he's started to try now) so he'll be in a different phase of development by the time Christmas comes around. 
+- `sr128-0006` (question) What toys were your babies obsessed with at 8 months old? Or what toys did they love when they started crawling and sitting up?
+
+### 1x47zto | r/NewParents | 2026-10-12 | baby_4_6_months | parent_unspecified | patterns 4
+
+About: Choosing high chair for short five-month-old with unsupported feet. Wants: Suitable high chair and guidance on foot support. Already did: nothing stated.
+
+- `sr129-0030` (question) Best high chair for 5 month old? Want to start putting her in it for just a few minutes a day. She is short so her feet aren’t going to reach the foot rest, is this ok? Even at 6 months they won’t.
+
+### 1x4h9dk | r/NewParents | 2026-10-12 | baby_4_6_months | parent_unspecified | patterns 4,2
+
+About: Bedbound mother needs toys to engage four-month-old without mobile help. Wants: Buy engaging toys usable while mother is on bed rest. Already did: Play gym, soft toys, electric swing and bouncer.
+
+- `sr129-0072` (question) So my baby is 4m old and honestly i have no idea what kind of toys he needs for the next six months.i am a mother who is diagnosed with Osteitis Pubis caused due to pregnancy.i am on the bed rest currently and i am not allowed to even hold my baby.my husband has a full time job and he can't tend to him all the time.so i need something that would keep my baby engaged for a while without requiring me to be mobile.he has play gym but i think he is outgrowing that.he has few soft toys which he has no interest in and has electric swing and bouncer which he doesn't like 🥺.what should i buy? Battery operated toys like cars or what?
+
+### 1x5z20v | r/beyondthebump | 2026-10-14 | baby_2_4_months | parent_unspecified | patterns 4
+
+About: Large three-month-old nearly exceeds bouncer weight limit. Wants: Find bouncer lasting beyond twenty-five pounds. Already did: Current bouncer with twenty-pound limit.
+
+- `sr129-0084` (trigger_moment) So our little one is  almost 3 months old and weighing a whopping 19lbs😅 hes taking the 97th percentile thing seriously.. he recently started to love his bouncer chair but it only goes up to 20lbs
+- `sr129-0085` (question) Any recommendations on one that will last him longer? I'm trying to find any that go past 25lbs
+
+### 1x64spt | r/Montessori | 2026-10-14 | baby_6_9_months | parent_unspecified | patterns 4
+
+About: Planning accessible clothing area for baby’s future independent dressing. Wants: Advice arranging clothes for accessible, manageable dressing choices. Already did: Uses free secondhand clothes; considering rotation, limited drawers or bins.
+
+- `sr130-0064` (desire) Note: my baby is 8mo so I have some time to plan, but I want to get it set up before his first birthday.
+- `sr130-0065` (belief) Almost all of my son's clothes have been secondhand. We have a great mom group in our small town where the convention is to post what you need and, almost every time, someone will drop a big trash bag of clothes on your step for free.
+
+The quality and quantity varies wildly, but you can't complain about free!
+- `sr130-0066` (question) Looking ahead to when he's going to be able to be more involved with dressing himself, I'm not sure how to set up the area in a way that's accessible and not overwhelming for him. (This recent lot had like 30 pairs of pants and that's too many for me!!!) I'm looking for advice!
+- `sr130-0067` (question) Some of my ideas (that I don't know how they would work):
+
+1) Box up everything except for about a week's worth of clothes that all match
+
+2) Keep a dresser in his closet and just restock his dressing area with 2 options per drawer (this sounds like a lot to keep up with ngl)
+
+3) Use bins with everything in them and decide I don't care if his clothes don't match 😅
+
+How did you do it?
+
+### 1x7oszt | r/beyondthebump | 2026-10-16 | baby_9_12_months | parent_unspecified | patterns 4
+
+About: Seeking durable open-ended toys as ten-month-old outgrows existing collection. Wants: Affordable quality age-appropriate toys promoting open-ended play. Already did: Stacking cups and other toys; searched secondhand Lovevery kits.
+
+- `sr129-0114` (trigger_moment) i’m looking for recommendations on toys! i currently have an almost 10 month old. he has several toys but, they’re starting to be no longer age appropriate!
+- `sr129-0115` (belief) essentially, the only age appropriate toys we have as of right now are stacking cups.
+- `sr129-0116` (objection) i like the brand love every, but it’s incredibly expensive. i’m looking for toys of quality material, preferably wood, that are made to last a really long time & promote open ended play. i’m not opposed to plastic, eventually i’d like to get those magnetic tiles.
+- `sr129-0117` (tried_failed) that’s so amazing!! i didn’t know that. i’ve been trying to score kits on facebook marketplace but no luck yet
+
+### 1x8hf39 | r/toddlers | 2026-10-17 | toddler_18_24_months | parent_unspecified | patterns 4,3
+
+About: Needs durable pacifiers to help manage biting at daycare. Wants: Extra durable pacifier recommendations without advice to remove pacifiers. Already did: Uses pacifiers to manage biting; trying to identify triggers; tried teethers.
+
+- `sr128-0122` (question) **Any recommendations for extra-durable pacifiers?**
+- `sr128-0123` (others_said) My 22-month-old is biting through his pacifiers at daycare and they’ve asked us to bring in stronger ones.
+- `sr128-0124` (objection) Please don’t suggest taking away the pacifier, as that’s not an option for us right now. He’s been biting other kids at daycare, and having his pacifier available has helped us manage the behavior while we work on figuring out what’s triggering it. 
+- `sr128-0125` (tried_failed) He’s not a fan of teethers because he doesn’t like having to hold them in his mouth.
+- `sr128-0126` (question) Has anyone dealt with this? Are there pacifier brands that hold up better to biting? I’d appreciate any suggestions!
+
+### 1x8vf5u | r/toddlers | 2026-10-18 | toddler_18_24_months | parent_unspecified | patterns 4
+
+About: Choosing play furniture and toys for nearly-two-year-old. Wants: Suggestions matching interests and larger living space. Already did: Considering play couch, learning tower, tent, art desk.
+
+- `sr126-0131` (trigger_moment) Just moved and have way more space for my toddler girl turning two next month.
+- `sr126-0132` (question) Was planning to get a nugget style couch, a toddler tower, a tent/indoor playhouse of some sort, an art/activity desk. Any suggestions ? She loves coloring, helping me, the playground and dancing.
+
+### 1xa2gu6 | r/Mommit | 2026-10-19 | toddler_18_24_months | parent_unspecified | patterns 4
+
+About: Seeking complete bath toy set as toddler Christmas gift.. Wants: Favourite complete bath toy sets; price unimportant. Already did: Looked at Lovevery bath kit.
+
+- `sr133-0023` (desire) Hi there! Grandparents are starting to ask for Christmas lists, and I’m leaning toward new set of bath toys for 18mo boy! Preferably something that comes in a full set vs a bunch of individuals. That would make it much easier on my mom when buying.
+- `sr133-0024` (price_signal) I like the look of Lovevery’s bath toy kit, but would love to hear your favorites! Price isn’t a concern.
+
+### 1xb65lb | r/NewParents | 2026-10-20 | baby_6_9_months | parent_unspecified | patterns 4
+
+About: Choosing replacement car seat for tall eight-month-old. Wants: Car-seat recommendations for tall babies. Already did: Used Chicco Keyfit 35 with stroller base.
+
+- `sr131-0032` (pain) My baby is 8mo and already outgrowing our Chicco Keyfit 35 car seat.. the weight limit is 35lbs and our baby is only 18lbs but tall! Their little feet hang almost all the way out of it and we’ve got Maybe one more inch until they surpass the recommended height limit. I’m bummed bc I thought we’d get so much more use out of this seat than we have and I love that it can click right into its stroller base 😕 
+- `sr131-0033` (question) Parents of tall babies, what seats do you use?
+
+### 1xcb677 | r/beyondthebumpUK | 2026-10-22 | unknown | parent_unspecified | patterns 4
+
+About: Planning meaningful lasting gifts and memories for baby's first Christmas. Wants: Ideas for intentional Christmas gifts and valued first-Christmas memories. Already did: nothing stated.
+
+- `sr131-0069` (belief) I’m interested in how others are approaching baby’s first Christmas. Obviously they are too little to know what’s going on but it equally feels like such an exciting and special time. I guess it’s mostly for the parents and their memories?
+- `sr131-0070` (question) What are you buying your LO? Particularly interested if you are approaching buying with intention and for longevity. Are you doing a stocking? One big present? Saving the money as they’re too little to understand?
+- `sr131-0071` (desire) Parents who have done this before, what did you really value for baby’s first Christmas? What memories do you cherish?
+
+## Near posts tied to development: 83 posts
+
+### 1sa46f1 | r/NewParents | 2026-04-02 | baby_4_6_months | parent_unspecified | patterns 4 | border: logistics
+
+About: Bassinet limits and rolling ability complicate safe room sharing. Wants: Intermediate sleeping equipment to room share until six months. Already did: Uses bassinet; plans pediatrician discussion.
+
+- `sr005-0020` (belief) Mom to a four month old who was 11 pounds and some ounces at her last weighing. The bassinet we have says that it’s use should be discontinued after 3 months, when baby is 25 pounds or when baby is able to get on hands and knees. Our room is not big enough/shaped to fit her crib easily even though her room is right across the hall from us. She is not yet able to roll independently and only occasionally does some belly to back during tummy time and she is not able to get on her hands and knees on her own.
+- `sr005-0021` (question) I am meeting with the pediatrician on Friday for her four month appointment and will be discussing the best course of action but I would like for her to be able to sleep in my room for at least the full six months if possible to decrease SIDS risk. Is there something that would be a good inbetween for the remaining two months? Any recommendations are greatly appreciated. Thanks in advance!
+- `sr005-0022` (belief) It says 25 pounds, 3 months, or hands and knees- whichever comes first. This is what we have: https://a.co/d/0b43bCep
+
+### 1sbkelu | r/beyondthebump | 2026-04-03 | unknown | parent_unspecified | patterns 4 | border: age_unknown
+
+About: Needs stair gate compatible with stairlift for climbing crawler. Wants: Find sturdy gate or adapter compatible with stairlift. Already did: nothing stated.
+
+- `sr004-0074` (trigger_moment) We have a crawler who loves climbing the stairs. The issue is we also have a stairlift that cannot be removed, so a standard baby gate does not fit properly at the bottom.
+- `sr004-0075` (question) Has anyone dealt with this setup? Are there gates or adapters that work with stairlift rails, or any safe alternatives you would recommend?
+- `sr004-0076` (desire) Looking for something sturdy and reliable.
+
+### 1sc2jm1 | r/ScienceBasedParenting | 2026-04-04 | unknown | parent_unspecified | patterns 4 | border: age_unknown
+
+About: Asks developmental readiness for sleeping in bed without guards.. Wants: Know developmental requirements and age for removing bed guards.. Already did: nothing stated.
+
+- `sr001-0091` (question) What are the developmental requirements for a child not to fall out of bed while they are asleep? What age should they be before they can sleep in a bed without guards?
+
+### 1se3sa6 | r/Parenting | 2026-04-06 | baby_9_12_months | parent_unspecified | patterns 4,7 | border: feeding
+
+About: Nine month old refuses milk; parent considers age appropriate cups. Wants: Know whether to switch bottles or try cups for milk. Already did: Uses Dr Brown’s bottles; gives water in straw cups.
+
+- `sr004-0171` (question) Hi, my baby is 9 months old and will turn 10 months old soon. And I have noticed for the past few days she isn’t drinking her milk. She only drinks about 3-4 oz, then stops and doesn’t want to drink anymore. And cries if I try to give it to her. And it’s not because she had solid and she is full, she does it also in the morning when she wakes up and hasn’t had anything since 7pm (no overnight feeding).  So I wanted to see if I need to switch bottles, are they supposed to drink from different bottles at this age, or sippy cups? I still use Dr. Brown's wide-neck bottles.
+- `sr004-0172` (belief) Not use if it’s teething either, she did have an issue, but once her teeth came out, she was ok, and now she is back not drinking.
+- `sr004-0173` (belief) I haven’t for milk but I have given her water in straw cups. I’ll try that and see if she like that’s more
+
+### 1sfwm1p | r/NewParents | 2026-04-08 | baby_6_9_months | parent_unspecified | patterns 4 | border: sleep
+
+About: Expensive floor bed disrupts baby’s sleep; questions motor abilities and safety. Wants: Make large floor bed comfortable and understand safety concerns. Already did: Bought a large floor bed for sharing during illness or comfort. Paid: Single-sized floor bed.
+
+- `sr006-0004` (purchase) Idk where I got the idea, but I was convinced that babies could sleep happily on a floor bed provided it is safe (firm with no gap crib walls). I spent a fortune on one that is the size of a single bed so I could sleep in there with him when he is sick or needs extra comfort. I’m now realising it’s way too massive for him and he is disturbed by the big space. Does anyone have any experience making this comfortable for a young baby (+8 months)?
+- `sr006-0005` (pain) Frequent wakes and crying. 😢 
+- `sr006-0006` (question) Killed babies who can roll and have head/neck control?
+
+### 1sh8ain | r/daddit | 2026-04-10 | toddler_18_24_months | parent_unspecified | patterns 4 | border: logistics
+
+About: Door stoppers needed as children learn to move heavy sliding doors. Wants: Automatic stopper preventing sliding-door finger injuries. Already did: Locks, physical stops, 3D-printed wedge, ChatGPT designs; investigating roller adjustment.
+
+- `sr006-0070` (fear) Hey dads and lurkers. So, 3YO has realized that, if he really puts his weight into it, he's able to close our quite-heavy, exterior, glass sliding doors. Proud of him, certainly, but this has awoken nightmare 2.0 of either him, or his brother (1.5) getting their fingers, or frankly any part of them, caught in the door. And this wouldn't be a classic - oops, door or drawer shut on your finger... given the weight of the door, and the shape of the jamb/moving panel, I'm fairly sure this would be a "welp, you gotta grow up with less fingers now...". Yes, the door has a mechanical lock on it, as well as a physical door stop to prevent it from opening too much - but for the former, they can undo the lock, and for the latter, even with the physical lock they open a good 4-6" I'd guess, so still enough to do some damage.
+- `sr006-0071` (tried_failed) I'm ideally looking for something that's quite 'automated' - something like a doorstop built into the jamb that automatically positions itself when the door opens, that could be retracted when an adult chooses to do so, but which would stop the slider with a good 1.5-2" of clearance to prevent their limbs from getting caught. I'm not a very good designer, but I have a 3d printer and I've been working with ChatGPT to come up with solutions, and frankly it's going quite poorly. We created a standard wedge door stop that sits in the bottom channel of the door and works excellently.... until a kid sees it and hands it to me bc why not, so obviously that defeats the purpose. Chat then came up with a design for a top mounted 'draw bridge style' stopper - which sounded promising at first, but it's just not working out.
+- `sr006-0072` (question) I'm quite sure I've gone down the rabbit hole on this and am just not seeing clearly anymore. I know there are plenty of options for interior door stops (and we have several), I've just not found any good options for exterior sliders - and honestly, they're so heavy. What have you guys done, or any advice here?
+- `sr006-0073` (question) Interesting, could you elaborate? Where do I find this function? I'm not opposed to making it impossible to move save for daddy-hulk strength
+- `sr006-0074` (fear) Thanks, I appreciate the 'wake up call'. Tennis balls are a good idea. You're right that they're pretty easy to distract, I just... have visions of, like \*I'm\* distracted for all of 3 seconds while making dinner and then one kid is permanently mutilated. :'(
+- `sr006-0075` (question) Alright so I see now that I probably have some screws on the bottom of the slider to adjust the rollers. As of now the sliders (being fairly new) are basically perfectly aligned. Is the idea to just raise both sides or to lower both sides?
+
+### 1sjfh17 | r/NewParents | 2026-04-12 | baby_9_12_months | parent_unspecified | patterns 4 | border: logistics
+
+About: Clothing choices as ten-month-old becomes more mobile. Wants: Clothing recommendations suitable for upcoming toddler mobility. Already did: nothing stated.
+
+- `sr006-0135` (question) It’s time to buy some bigger clothes for my 10m old fella, but as we get closer to toddlerhood (🥹) and being more mobile, I was curious what clothes you liked around 12-18m? 
+- `sr006-0136` (question) Are crotch-snap onesies still easy?
+- `sr006-0137` (question) Footie pajamas or footless?
+- `sr006-0138` (question) Did you like more Tshirt/shorts combos?
+
+### 1skfw72 | r/NewParents | 2026-04-13 | unknown | parent_unspecified | patterns 4 | border: sleep
+
+About: Considering supervised bassinet naps after baby has learned to roll. Wants: Know whether rolling baby can still nap supervised in bassinet. Already did: Used pack-and-play; considered crib in bedroom and bassinet in living room.
+
+- `sr010-0142` (question) She can technically roll but really doesn’t, awake or sleeping. I’m wondering if we have the crib in the bedroom and the bassinet in the living room so we can easily put her down during the day. She has short naps.
+- `sr010-0143` (belief) I know they also have weight limits, but again, it would just be short, supervised naps with baby laying completely still. Probably not much danger of collapse if she approaches the weight limit.
+- `sr010-0144` (pain) I just find it really hard to get her into the pack n play without waking her lol. She’s a light sleeper.
+- `sr010-0145` (belief) Yes, I can see her face and I obviously won’t do this if I’m sleepy.
+
+### 1sn48dp | r/toddlers | 2026-04-16 | unknown | parent_unspecified | patterns 4 | border: age_unknown
+
+About: Considering Yoto player for music-loving toddler's independent use. Wants: Know value and ease of toddler operating Yoto player. Already did: nothing stated.
+
+- `sr011-0062` (question) Yoto player vs cds vs just using YouTube music? Is the yoto player just trendy or actually revolutionary. My kid love music and asks us to replay the same song 80 times can your toddler easily manipulate the player?
+
+### 1sqxjg7 | r/NewParents | 2026-04-20 | unknown | parent_unspecified | patterns 4 | border: logistics
+
+About: Increasingly alert baby stays awake in car and dislikes sunlight. Wants: Recommendations for car-window sun shades. Already did: nothing stated.
+
+- `sr015-0080` (question) My baby is super aware now and she loves to be awake in the car, but she hates the sun in her face. What sun shades are we using?
+
+### 1ssq2lt | r/NewParents | 2026-04-22 | baby_2_4_months | new_mother | patterns 4 | border: sleep
+
+About: Anxiety about twelve-week-old rolling during sleep and mattress safety. Wants: Advice to sleep without watching baby all night; whether breathable mattress helps. Already did: Used bedside crib, sleeping bag and medium-firm mattress without loose items.
+
+- `sr018-0008` (trigger_moment) FTM here and my anxiety is through the roof. My baby is learning to roll and now she only wants to sleep on her side (with her arm crossed over her face). Sometimes she manages to roll from back to tummy while awake, but not the other way around.
+- `sr018-0009` (fear) I feel really overwhelmed about how she sleeps. I’m constantly afraid she might roll onto her stomach completely and not be able to get back. She sleeps in a bedside crib, with no pillows, toys, or blankets (she uses a sleeping bag), and on a medium-firm mattress, but it doesn’t feel especially breathable to me.
+- `sr018-0010` (question) I’ve been thinking about buying a special breathable mattress, but I’m not sure if it would actually help… any advice on how I can sleep tonight? I feel like I need to watch her all night…
+
+### 1st8l15 | r/daddit | 2026-04-23 | unknown | parent_unspecified | patterns 4,8 | border: age_over_24
+
+About: Parent seeks instruments for musically enthusiastic two-year-old. Wants: Find quality instruments and music to explore together. Already did: Uses toy instruments; plays varied music; considers classes.
+
+- `sr016-0029` (belief) I’m not a musician myself, but my father was, and it looks like my 2-year-old has definitely inherited his musical gene
+- `sr016-0030` (success_story) She isn't interested in the typical nursery rhymes but she loves listening to "real" music and is surprisingly good at finding the beat, clapping along, and trying to match the melody. It’s my favourite thing to listen to her singing and getting excited by different types of music from rap to full on classical music, she loves everything! 
+- `sr016-0031` (desire) I want to lean into this interest, but I’m a bit lost on what gear to get. I’m tired of the plastic toy instruments that just play loud, pre-recorded songs or sound really cheap,I’m looking for cool gadgets or instruments that we could both explore and learn together.
+- `sr016-0032` (desire) Also accepting suggestions of good music to show her, I have exhausted all my playlists and don’t want to go to more commercial songs if that makes sense. 
+- `sr016-0033` (desire) Her birthday is coming soon so I might get some options starting with the simpler one (egg shakers) and slowly build up to more complex 
+- `sr016-0034` (question) What about a mini kalimba? Have you tried it? Appreciate the heads up about turning parts of it into weapons. 
+- `sr016-0035` (belief) I have never heard of a melodica before, old man had all sorts of instruments but not this one, we learn something new everyday 
+- `sr016-0036` (pain) Yeah we are so overwhelmed with 3 very young kids (my oldest is turning 3.5 still) that we don’t think about the obvious answers like taking her those classes, haven’t slept in years so appreciate others people insights, thanks mate! 
+- `sr016-0037` (desire) I heard of it before but never researched it, will take a look
+
+### 1su3kwl | r/beyondthebump | 2026-04-24 | newborn_0_8_weeks | parent_unspecified | patterns 4 | border: sleep
+
+About: Six-week-old rolls sideways; parent asks whether to stop swaddling.. Wants: Know whether rolling means switching from swaddle to sleep sack.. Already did: Swaddles for strong startle reflex; observed rolling with and without swaddle..
+
+- `sr019-0074` (question) My LO is 6weeks old and today she has rolled onto her side a few times. Can I still swaddle her? I find it hard to get her into bed without a swaddle because her startle reflex is so strong. Is it sleep sack time?
+- `sr019-0075` (belief) She does it with or without a swaddle.
+
+### 1suloyr | r/daddit | 2026-04-24 | unknown | parent_unspecified | patterns 4 | border: logistics
+
+About: Choosing jogging stroller with handbrake and suitable upright seating. Wants: Advice on stroller brakes, recline, weight and tires for hilly trails. Already did: Researched models; bought and returned Alterrain; bought Revolution Flex at Costco. Paid: BOB Alterrain; BOB Revolution Flex stroller.
+
+- `sr018-0048` (question) Looking into buying a Jogging Stroller that can be used for nice walk/hikes on trails as well. my wife likes to run on a long gravel trail that has a few hilly parts, and we live in place can be wet rainy a lot of the time, Seattle area. because of this we have been looking for a model that has a handbrake. but it seems like EVERY model has something wrong with it and I'm looking for advice now.
+- `sr018-0049` (objection) 1. BOB Alterrain Pro- the one we were about to pull the trigger on, despite the large size. after seeing reports of the handbrake being stiff and horrible it gave us pause and made us research others.
+- `sr018-0050` (objection) 2. BOB Wayfinder- not as outdoor friendly as we would like, not looking for something with dual function in the city. sunshade too small.
+- `sr018-0051` (objection) 3. Thule Urban Glide 3- our daughter generally hates being reclined and even as a little baby she tried sit up and would be fussy lying down if she didn't want to be. this model has this issue with being too reclined and would probably be a dealbreaker sadly.
+- `sr018-0052` (objection) 4. BOB Revolution Flex 3.0- this is the tried and true model that we have come towards maybe getting, however, NO HANDBRAKE! :(
+
+5. Uppababy Ridge- my favorite brakes of them all, actual disc brakes, however they are not air filled tires which as another specific demand of my wife. too bad because we love our Cruz.
+- `sr018-0053` (question) it seems like there is something wrong with every model and we have to compromise somewhere, and I am stuck and can't decide. would really appreciate any advice or experience from anyone else. how necessary is the braking system? can we adjust the Alterrain? are the foam tires in Ridge still smooth? is the Thule recline that bad?
+- `sr018-0054` (purchase) We got the BOB Alterrain, was really nice but honestly too heavy. Trying to push uphill was a workout, could imagine jogging. Brake was only really helpful on the steepest hills. It also had a canopy defect, so we ended up returning it and going with the BOB Revolution Flex when we saw it was at Costco. which has been great. Not as heavy duty but that's a plus as much as it is a minus. The shocks on the Alterrain were awesome though, rocky trail by our house didn't make baby's head bounce at all on the walk. With the Revolution she bounces a little now.  Overall we love it though. I think out of the ones with brakes if I had to look again I'd check out the Uppababy Ridge.
+
+### 1svhdd1 | r/beyondthebumpUK | 2026-04-25 | baby_4_6_months | parent_unspecified | patterns 4 | border: logistics
+
+About: Pram choice as four-month-old resists lying flat. Wants: Parent-facing running pram suitable before outward-facing sitting. Already did: Uses Stokke Yoyo as only pram; considering secondhand options.
+
+- `sr017-0147` (question) Hello! We use a Stokke yoyo as our everyday pram, it’s all we have at the moment, space in our flat is extremely limited and it’s been perfect until now, our baby is 4 months old and has decided he hates lying down but he’s too little (it feels to me!) to sit up and face away! We were always going to buy a running pram, does anyone know if there is a running pram that has the option to face the parent? Is that even possible? I would rather buy something that’s going to get tons of use, rather than a whole pram to bridge the short time between him sitting up and facing out!
+- `sr017-0148` (belief) I thought it was 6 months? My baby is super small (he’s just got to the 1st centile!) so we were going to wait a little longer than that!
+- `sr017-0149` (desire) Oh we wouldn’t run with him, just use it as a secondary pram! Thanks for the tip, I’ll see what’s kicking around 2nd hand!
+- `sr017-0150` (question) Is mountain buggy the brand?! Thanks for this!
+- `sr017-0151` (belief) Amazing! Has the yoyo been your only pram? How have you found it as your baby has grown? I love it so far, small flat, small car, small baby! No lugging around a big old thing!
+
+### 1sx0jsx | r/NewParents | 2026-04-27 | unknown | parent_unspecified | patterns 4,7 | border: age_unknown
+
+About: Parent weighs lighter plastic bottles so baby can hold them. Wants: Find safe lightweight bottles baby can hold. Already did: Uses Dr Brown glass bottles since birth.
+
+- `sr016-0111` (question) Have been using Dr brown since day 1 because of glass bottles. Want to switch to plastic due to light weight and easy for baby to hold. Confused if plastic is safe enough
+- `sr016-0112` (fear) Over-thinker here
+- `sr016-0113` (question) Which brand
+- `sr016-0114` (question) Which brand do u use dear
+- `sr016-0115` (question) Plastic or glass?
+
+### 1sycnin | r/daddit | 2026-04-28 | unknown | parent_unspecified | patterns 4 | border: logistics
+
+About: Homemade crib mattress gap raises concerns about baby's rolling and thrashing.. Wants: Safe way to fit mattress into oversized handmade crib.. Already did: Searched mattress sizes; considered wood border and foam; tried snug pool noodles..
+
+- `sr019-0173` (belief) Ran into a bit of a tricky situation here. Recently had our first kid. My dad does a lot of woodworking as a hobby and he made a crib for us. Looked up the rules and regulations and everything. 
+- `sr019-0174` (belief) When he was starting he asked me how big the mattress was since I already had that. My measurements must’ve been a slight bit (1/2-1”) too large. 
+- `sr019-0175` (pain) Issue now is we love the crib, means a lot to me and is well put together. However I’ve got a larger gap around the mattress than acceptable - about 2” between bars/mattress when pushed into a corner. Mattress is 52x28 but inside dimensions are 54x30. I believe I may have said 53x29 when I measured but now I’m thinking I may have squished the mattress and rounded up and made my error. 
+- `sr019-0176` (tried_failed) So it would be perfect for my dimensions however it’s a bit big for actual mattress. I’ve been searching lots to see if there are any slightly larger crib mattresses but that seems to be standard size give or take about 1/2”. 
+- `sr019-0177` (question) I was wondering if anyone had any ideas on how I could make this work? I can sew and have the tools to do that. Would 3/4-1” memory foam around the mattress perimeter work? Could I build an inner wooden frame out of 1x wood and a way to attach something soft to the top so it’s not wood level with the top of the mattress? 
+- `sr019-0178` (question) If I did the 2x4 border, do you think I should attach something soft to the top of it? Or would that not be a concern? Just wondering because I know our kid thrashes around sometimes like hitting his feet on the ground or head when he rolls over yenno. Would I be worried about him bonking his head on the 2x4 or think it would be fine since it’s a bit lower than the mattress is?  
+- `sr019-0179` (success_story) This seems to be the winner. The pool noodles we have are 3” wide but squish just enough to be snug in the gap and hold the mattress tight. Plus they’re solid enough that they are fairly rigid not an additional soft surface
+
+### 1t0fx9i | r/beyondthebump | 2026-05-01 | baby_9_12_months | parent_unspecified | patterns 4 | border: logistics
+
+About: Choosing diapers baby cannot remove after learning to undo them. Wants: Diaper sizing advice and a design baby cannot remove. Already did: Used Pampers Swaddlers.
+
+- `sr024-0022` (question) I hope this is an okay thread to ask this question! We currently use Pampers Swaddlers on my 11 month old. We’re the type of household where babies are often in just a diaper or just a tshirt and diaper, especially in the summer as we don’t have central AC so as little clothing as possible is most comfortable. Now, my son has figured out how to take his diapers off and thinks it’s HILARIOUS to do so. I’m thinking of switching to the Pampers Swaddlers 360 diapers for this reason. 1. Would these keep him from being able to rip the diaper off? And 2. Is the sizing the same as regular swaddlers? I feel like I’ve read before the 360 diapers run bigger.
+
+### 1t0ybb3 | r/beyondthebump | 2026-05-01 | baby_2_4_months | parent_unspecified | patterns 4,8 | border: logistics
+
+About: Early rolling prompts bassinet-to-crib transition concerns. Wants: Know whether rolling requires moving baby into crib. Already did: Practised floor play and crib naps; positioned baby on sides.
+
+- `sr023-0025` (question) Hi everyone! I’m asking for some clarification regarding the transition from bassinet to crib! Our LO is 2 months old and she is extremely tall (99th percentile) and she has been able to roll herself from her back to her side since she was only a few weeks old. Just today we were playing on the floor and I will position her on her sides and lo and behold she has figured out how to roll herself from her side to her belly 🥹 But does this mean I have to switch her over to her crib? We’ve been practicing taking naps in her crib due to her height and worrying we wouldn’t have much time left in the bassinet but I just love having her next to the bed.
+- `sr023-0026` (belief) Note: Her crib is still staying in our room post transition.
+- `sr023-0027` (belief) Note 2: She has never been able to fully roll from back to belly in one motion yet.
+- `sr023-0028` (fear) I appreciate this! It just feels so crazy to already have to move her to her crib when I thought I’d at least get 3 months out of the bassinet! The bassinet is anchored to the bed but I still worry about her being able to roll herself into a corner now
+- `sr023-0029` (desire) I’m going to have double check what our brand says about the rolling! I’d love to keep her in it until at least 3 months so I can get more time acclimating her to the crib. She’s a great sleeper so I don’t want to throw her off her rhythm so quickly. I may try out the crib then bassinet stretch!
+
+### 1t2ynmy | r/beyondthebump | 2026-05-03 | baby_9_12_months | parent_unspecified | patterns 4 | border: logistics
+
+About: Travel cot too low for comforting baby in unfamiliar places. Wants: Find travel sleeping equipment allowing comfortable reassurance. Already did: Tried pack-and-play at hotel; patted baby’s back to settle.
+
+- `sr023-0069` (pain) We’re going on a cruise in October. At that time, my baby will be 16 months old. I assumed we would take the pack and play for sleep, but we stayed at a hotel last night for the first time and hoooo boy. She just gets so wound up in an unfamiliar place. She still settles in the pack and play but requires frequent reassurance, like patting her on the back until she falls asleep. We discovered that trying to reach all the way to the ground to the pack and play mattress from a hotel bed is very very uncomfortable. My shoulder is still hurting today, lol.
+- `sr023-0070` (objection) She’s going to be in that awkward older baby/young toddler phase where infant options don’t work but toddler options, like an inflatable mattress on the floor, also don’t really work (my 7-year-old would jump on it). All I really need is for the damn pack and play bottom to be higher off the ground, but she’s well past the recommended age and milestones for keeping the mattress at the higher setting.
+- `sr023-0071` (question) Does anyone have any other magic ideas for traveling with kids this age?!
+- `sr023-0072` (belief) I would consider cosleeping but my 7-year-old will likely already be sleeping between my spouse and me.
+
+### 1t3pnj0 | r/NewParents | 2026-05-04 | unknown | parent_unspecified | patterns 4,7 | border: age_unknown
+
+About: Baby drinks water from straw cup but refuses milk. Wants: Straw cup suggestions to replace milk bottle. Already did: Bought three straw cups; Dr. Brown cup works for water. Paid: Three straw cups.
+
+- `sr022-0094` (question) My baby already drinks water from his Dr. Brown straw cup but for some reason he won't drink his milk from there. I give him comfort milk before naps and bedtime because that's what he's used to. But he doesn't take it any other thing besides the bottle which is a bad thing to do according to his dentist. I bought three different straw cups already and he still doesn't do well with them. Any suggestions?
+
+### 1t4p7sh | r/Parenting | 2026-05-05 | unknown | experienced_mother | patterns 2,4 | border: age_unknown
+
+About: Seeking simple cultural learning resources for Mexican-American children. Wants: Books shows or videos for fun structured cultural learning. Already did: nothing stated.
+
+- `sr025-0147` (desire) Sorry if the title doesn’t fit this post. I am a mother of three babies who are American Mexican and I really want to start teaching them about Mexican culture, honestly i want to teach them about all cultures because my parents never did that for me and I truly wish they had as I believe that knowledge brings not only understanding but respect for others and appreciation of all the things that make us unique.   
+Starting out teaching them about their own heritage is the starting point of course but I don’t really know where to start that would be formatted in a learning structure thats simple and fun for children. Does anyone have recommendations for books, tv shows, or even youtube channels or videos?
+
+### 1t53sxz | r/NewParents | 2026-05-06 | baby_4_6_months | parent_unspecified | patterns 4,1 | border: sleep
+
+About: Rolling baby prompts difficult transition from Merlin sleep suit. Wants: Know when and how to transition suits and soothe night waking. Already did: Changed to Zipadee Zip; pacifier, feeding and pats; checked online guidance.
+
+- `sr022-0119` (belief) Baby is almost 5 months old. She has been an amazing sleeper since about a month old, 10/10, no notes, chef’s kiss. She rolls frequently from back to belly during the day but not belly to back (at least that I’ve seen, but she’s in daycare during the day). She has great head/neck control and strength.
+- `sr022-0120` (trigger_moment) She sleeps in a pack and play next to our bed in the Magic Merlin suit. For reference, at daycare she naps decently in a crib and traditional sleep suit. Last night she woke up earlier than usual, likely because she has been stuffy and can’t breathe as well due to her cold, at around 4 am. She occasionally stirs but can usually go back to sleep if you pop her pacifier back in. Every once in a while, she’ll wake up once during the night and want to eat. So I tried her pacifier and let her stir a little but she must have been fully awake because she rolled onto her side and was close to laying on her belly, while in the suit.
+- `sr022-0121` (fear) Of course this freaked me out so I got her up to feed her and then put her in the Zipadee Zip sleep suit that we have. I saw online that if she rolls in the Magic Merlin, it’s time to stop. I truly believe she only rolled because she was fully awake (which she woke me up for) and she has enough freedom of movement in her suit that she can turn her head and push up with it and her arms are out fully.
+- `sr022-0122` (question) So now I have 2 questions. Do I truly need to transition her out of the MM sleep suit yet? It seems like a fluke and she loves it so much and is still so much younger than most babies who are still using it 😭
+- `sr022-0123` (question) And second question. If she needs to be out of MM and in something like a Zipadee Zip. How do you all deal with the transition? We’ve never really had to deal with her going back to sleep, because feeding her every once in a while or popping a pacifier back in was enough for her. She is always put down drowsy but awake and can put herself to sleep initially but now it’s 1 am and she woke up in her Zipadee Zip and I don’t know how to help her. I don’t want to start a habit of feeding her at 1 am when she isn’t hungry and have her come to rely on this habit feed. But putting the pacifier back in and patting her back didn’t work. I know I sound like an idiot but we haven’t had to deal with this yet and of course we thought we dodged the 4 month sleep regression 😭 does she just need a few nights to transition? How do I help her soothe back to sleep? How do I know if she’s truly hungry or just awake?
+- `sr022-0124` (tried_failed) I totally get about it being a long time to sleep! She just normally sleeps 10-12 hours at night without waking. On the rare occasion she does, it’s closer to 4 or 5 am. So I’m just wondering how to best transition her! We did cold turkey to the Zipadee and it is not going well.
+- `sr022-0125` (belief) Nope! Out of a swaddle when baby starts rolling, Magic Merlin can be worn until they roll IN the suit.
+
+### 1t5hbms | r/beyondthebumpUK | 2026-05-06 | unknown | parent_unspecified | patterns 4 | border: age_unknown
+
+About: When babies develop attachment to a comfort teddy or blanket. Wants: Timing, experiences, and regrets about introducing a comfort item. Already did: Received teddy blankets as gifts; removed tags.
+
+- `sr024-0260` (question) We got gifted so many of those half teddies half blankets. When did your LO start sleeping with or getting comfort from one?
+- `sr024-0261` (objection) I’m in two minds of introducing one as her main comfort item, unless I’m able to buy back ups of them maybe, but I’ve taken the tags off most of them anyway.
+- `sr024-0262` (question) When/did you introduce them? Any regrets?
+- `sr024-0263` (belief) Yeah I feel like trying to force a connection won’t work and she’ll end up adopting a plastic colander or something instead
+
+### 1t8av82 | r/Parenting | 2026-05-09 | unknown | parent_unspecified | patterns 2,4,8 | border: age_unknown
+
+About: Safe cleaning supplies for toddler eager to help and learn. Wants: Child-safe cleaners and household tasks for eager toddler. Already did: Provided small broom and duster; considered dilute vinegar and dish soap.
+
+- `sr027-0104` (question) My toddler loves helping and cleaning. We have some him-sized broom and duster but they’re losing their charm to him. He wants to do what I’m doing and you know what learning good life skills never hurt anyone. The issue is that what I have been using around the house are regular chemical household cleaners, all of which I don’t feel comfortable with him using. What alternatives do you know of that are kid safe? I’m thinking vinegar water 1:10 dilution, dish soap and water, etc. any other ideas?
+- `sr027-0105` (success_story) He does love to wipe. Could probably get him to do the baseboards too haha
+- `sr027-0106` (belief) An excellent pre-wash haha the sorting clothes OSS a great idea too!! Thank you
+- `sr027-0107` (desire) Just gotta get as many ideas in the holster as I can hahaha he gets bored VERY quickly but still wants to help so I need to stay ready
+
+### 1t8jh3u | r/daddit | 2026-05-09 | baby_6_9_months | parent_unspecified | patterns 4 | border: logistics
+
+About: Babyproofing wobbly sofa tables as seven-month-old begins moving around. Wants: Safe way to keep or stabilize sofa tables. Already did: Considered shelf weights, empty shelves, and soft distractions.
+
+- `sr027-0123` (question) 7 month old starting to move around the floor and suddenly we’re in baby proof mode! I really like these tables behind the couch for the looks and they fit perfectly. Unfortunately they are narrow and pretty wobbly.  
+There’s tile underneath and only one wall at the end to anchor one of them to. I’m thinking weights on the bottom shelves could be enough? Anyone have similar or get rid of them for now?
+- `sr027-0124` (belief) I appreciate all of the replies so far! It’s interesting to see most of the initial comments in favor of removing all together and now more baby proof / no objects on shelves. 
+We don’t have enough extra storage elsewhere in the house without completely disassembling. I’m leaning toward removing everything from them and weighing down the bottom. I also like the idea of soft items only nearby as a distraction.
+
+### 1ta066n | r/toddlers | 2026-05-11 | toddler_18_24_months | parent_unspecified | patterns 4,11 | border: age_over_24
+
+About: Potty-trained toddler needs leggings fitting without diaper bulk. Wants: Leggings recommendations for thin toddler without diapers. Already did: Stopped using diapers.
+
+- `sr029-0072` (question) My potty trained two year old now won’t fit into any of her 2T leggings since ditching diapers. She has long legs and is pretty thin. Her pants are falling right off of her. Anyone have any recommendations?
+
+### 1tdgod2 | r/beyondthebump | 2026-05-15 | unknown | parent_unspecified | patterns 4,8 | border: age_unknown
+
+About: Seeking affordable knee pads for newly crawling baby. Wants: Advice whether knee pads help and affordable recommendations. Already did: Browsed Shein and other sites.
+
+- `sr032-0003` (trigger_moment) Our little one just hit the crawling milestone and we are so excited! But now I’m constantly worried about his poor knees getting bruised or irritated, especially on our hard floors.
+- `sr032-0004` (desire) I’ve seen some super cute and affordable knee pads on Shein and a few other sites. Since he’ll only need them for this short crawling phase, I’m looking for something budget-friendly.
+- `sr032-0005` (question) For those of you who used them: Are they actually helpful, or do they just slide off? Do you have any specific affordable recommendations? I’d love to hear your experiences before I click the button :)
+
+### 1tk78gv | r/toddlers | 2026-05-22 | toddler_18_24_months | parent_unspecified | patterns 4 | border: sleep
+
+About: Choosing bed and managing crib transition during sleep regression. Wants: Bed recommendations and tips transitioning from crib. Already did: Tried toddler-bed conversion; returned to crib; researched bed styles.
+
+- `sr040-0005` (desire) Hi! I’m currently pregnant with baby #2 and we’re looking at transitioning our 21 month old from the crib to a full size bed. We already own a full size mattress for our “guest room” that has been used a total of 5 times, so it doesn’t make much sense to buy something different. We currently have a basic metal frame for that mattress, and for safety and aesthetic reasons we will be selling that and finding something different for her “big girl room.” 
+- `sr040-0006` (tried_failed) A couple months ago we changed her crib to a toddler bed to test it out and it was a living nightmare. She wouldn’t sleep, so we switched back to the crib assuming maybe it was too early and she immediately went right back to sleeping through the night. Any tips on transitioning a toddler from a crib to a bed would be so appreciated.
+- `sr040-0007` (pain) Currently she is going through a horrible sleep regression and my husband and I would love to transition her to the full size bed to be able to comfortably sleep next to her, without removing her from her room, on really difficult nights. 
+- `sr040-0008` (question) As far as styles of beds go, I have looked at what seems like everything. Montessori floor beds, upholstered bed frames with storage, and everything else under the sun. Unfortunately I just can’t seem to decide what to do since I don’t have many in my personal life I can ask for advice on something so specific.
+
+### 1tn4i9u | r/toddlers | 2026-05-25 | unknown | parent_unspecified | patterns 4 | border: logistics
+
+About: Packing feeding supplies for weaning child's full-day zoo outing. Wants: Advice on lunch bags, containers, utensils and high-chair support. Already did: Searched Google; planned foods and packing list; uses supportive home highchair.
+
+- `sr040-0043` (belief) This is child no 2. However, child no 1 is medically fed so I am completely out of my depth.  Apologies if this has been asked before. Good old Google didn't get the question or it isn't out there.
+- `sr040-0044` (belief) We are going for a picnic/very long family outing day to the zoo with my weaning child.  I get the weaning bit. I know (approximately) what food I will be taking. His feeding regime right now is reasonably transportable. He isn't fussy on temperatures or textures currently. His breakfast will be pot based.  I will probably bring something like a pasta salad type thing for lunch. I have some frozen pastry-less quiches, a pouch or two for emergencies, you get the Idea.  Given this is a full day outing we might also end up in a restaurant/in one of those really unsupportive wooden high chairs so I have to consider that too.
+- `sr040-0045` (question) My question. How/what do I pack? I put what I think I need in a pile and it looks HUGE! But I am also not sure what I am missing/should change/buy. Handles double or triple volume alone.  Help me!
+- `sr040-0046` (question) So far my list and associated questions:
+
+Cloth wipes
+
+Wet bag
+
+Full body bib
+
+Enough utensils to allow for usual shenanigans (will wipe and reuse/store "clean")
+
+Sippy cup with water 
+
+Breakfast main (Banana porridge) in weaning tupperware 
+
+Breakfast hand food (crumpet with butter)
+
+Lunch main (all hand foods.  Pasta, veg, cheese, etc. Not going to do anything "meal like" here) 
+
+Evening emergency pouch (or they can eat from my plate)
+
+Couple of emergency snacks in small tupperwares (biscotti, fruit)
+
+Milk bottle 
+
+Questions:
+
+Does your child have their own lunch bag/what bag do you pack your toddler's lunch into?
+
+Does your child have their own lunch pot/box inside said bag or do you use tupperware?
+
+Would a covered/travel bowl with possible suction be a useful investment going forward re restaurants etc?
+
+Would utensils in a travel case be a useful investment going forward?
+
+Do you carry extra water for them? Do you carry for you and decant or hope there is a water source nearby?
+
+I have seen the snack pots with handles and slotted lids. Are they useful? My pack light brain sees them as unnecessary bulk but the idea of less mess is intriguing, especially in a car?
+
+Does anyone carry reigns/cushion/pillow for the high chairs? Mr seems like he won't comfortably and safely sit in one for years but that might be my experience with assessing good posture for the medical child crying out in my brain.  He sits beautifully in our home high chair so sitting isn't the issue.
+
+### 1to0j1d | r/beyondthebumpUK | 2026-05-26 | baby_2_4_months | new_mother | patterns 4 | border: logistics
+
+About: Pram recommendations for large baby with limited head strength. Wants: Light airy pram suitable before adequate head control. Already did: Uses iCandy Peach 7 and Ergobaby OmniDeluxe; carries baby extensively.
+
+- `sr037-0033` (belief) My son is 3.5 months old, 16lbs 12 and 65cm long (91st centile!)
+- `sr037-0034` (pain) We have an icandy peach 7 and not only does he practically fill the bassinet but it is made from such thick material I am petrified to put him in it for fear of overheating, even with the airvent open in the canopy. Clearly something icandy are aware of as their latest model has hugs airvents built into the bassinet itself. Despite his larger size he looks far too little and head isn't quite strong enough to bump up to the seat, even in recline mode.
+- `sr037-0035` (question) Please make recommendations for prams that are lighter, even travel ones that are big (or small in pram recline) enough for him to relax and not get too hot? Looking at stokke yoyo or joolz air? He gets restless in our ergobaby omnideluxe carrier as he wants to look outwards so basically I am carrying him A LOT!
+- `sr037-0036` (pain) Thank you from desperate mother with tired & hot arms 😂
+
+### 1tp407t | r/NewParents | 2026-05-27 | baby_4_6_months | parent_unspecified | patterns 4 | border: sleep
+
+About: Baby outgrows bassinet and resists pack-and-play during possible regression. Wants: Plan for moving baby to larger sleep space. Already did: Tried pack-and-play; daytime familiarisation; formula change; consoling; returned to bassinet.
+
+- `sr037-0053` (pain) Our little boy is almost 5 months old. He’s already 16 1/2 pounds but still not rolling over yet. We didn’t anticipate he’d “outgrow” the bassinet (Graco bassinet on top of pack and play) so quickly. We have a crib already set up in his room next to ours but don’t really want to transition him just yet. For the last 3 days my husband and I have been trying to transition him to the pack and play (with mattress on the bottom because of his weight) and he just hates it.  We’re not sure if he just feels super unfamiliar with the mattress or if he’s starting his sleep regression. We both find it challenging to wait until he’s asleep in our arms and then transition him into the pack and play because it’s so deep (we’ve ended up waking him up even when gently trying to put him down).
+- `sr037-0054` (tried_failed) We have put him in the pack and play during the day when he’s awake with baby music to let him know it’s a safe place. He does great when awake but won’t nap during the day in it without major struggles.
+- `sr037-0055` (tried_failed) Our little guy was a preemie and has just transitioned off special formula to a more gentle formula (Enfamil NeuroPro Gentlease). It’s definitely helped with tummy troubles but he doesn’t seem to get “full” the same way he did with the thicker preemie formula.
+- `sr037-0056` (question) We’re struggling with what’s the best plan of action? We ended up just putting him back in the bassinet even though he seems too big. Is it the 4-month sleep regression combined with the new formula or just all part of the new adjustment to a new space?
+- `sr037-0057` (pain) He had to cry himself to sleep after screaming for 15-20 minutes and we just hated seeing him that way ( we tried to console multiple times before realizing he might have to just cry it out this time).
+- `sr037-0058` (others_said) I’ve seen people advise putting a heating pad or hot water bottle and warming the mattress pad up before he’s ready for sleep.
+- `sr037-0059` (question) Thanks for any advice. This may all be normal and we might just have to stick it out.
+
+### 1tppptm | r/toddlers | 2026-05-28 | unknown | parent_unspecified | patterns 4 | border: age_unknown
+
+About: New door-opening skill prompts request for removable handle locks. Wants: Removable stopper for apartment latch-style door handle. Already did: nothing stated.
+
+- `sr036-0099` (question) So, tonight my little one discovered that she can open the door. We live in an apartment and so I am wondering if anyone has some recommendations for door handle stoppers that can easily be removed.
+- `sr036-0100` (belief) For some reason, I can’t upload a photo of a door handle but ours is more like a latch instead of a knob.
+
+### 1ttctg6 | r/daddit | 2026-06-01 | unknown | parent_unspecified | patterns 4 | border: age_unknown
+
+About: Child learns shower controls; parent seeks faucet childproofing. Wants: Ideas to childproof bathtub faucets. Already did: nothing stated.
+
+- `sr042-0058` (question) My son loves turning on the tub faucet whenever he is in the bathroom. Today he figured out how to turn the shower on. Has anyone child proofed their faucets? Any ideas on how to?
+
+### 1tx28ly | r/toddlers | 2026-06-04 | unknown | parent_unspecified | patterns 4 | border: age_unknown
+
+About: Toddler learns every sleep-sack fastening; parent seeks escape-proof option. Wants: Sleep sack toddler cannot remove independently. Already did: Put sack backwards, then backwards and inside out.
+
+- `sr042-0118` (tried_failed) We recently have been having troubles with our toddler taking her sleep sack off when we leave her to nap.  At first we turned it backwards, but she soon figured out you can zip it up from the bottom.  We moved to having it on backwards and inside out.  I don't know how, but she's figured out how to get it unzipped enough to wiggle out.  I don't usually notice until she's asleep and cold or she has to calm down again if I put it back on her.  She also has figured out snaps, but not as often.
+
+### 1u1sa7p | r/toddlers | 2026-06-10 | toddler_18_24_months | parent_unspecified | patterns 4 | border: sleep
+
+About: Physically large almost-two-year-old needs bed before parent thinks developmentally ready. Wants: Ease crib-to-bed transition and identify needed safety equipment. Already did: Planned bed, drawers, rug, foam bumper, stool, childproofing; considered floor sleeping.
+
+- `sr047-0058` (fear) I don’t really know what I’m even looking for, maybe tips on how to manage going from a crib to a regular bed with a 2 year old that’s not developmentally ready but physically too big for his crib? I know he’s going to get out of his bed. I know he’s going to try to come out of his room and he’s going to cry. I just want to know how everyone else handled it and how to make this easier. The plan so far:
+- `sr047-0059` (desire) Full size bed with drawers underneath so we don’t need a dresser that he can climb on. A fluffy rug in case he falls out of bed. A hiccapop foam bed bumper to keep him in bed. Probably a stool so he can get in and out easier. Childproof door knob thingies, and we obviously need to get some outlet covers as well.
+- `sr047-0060` (question) What am I missing? How can I make this not as hard? I’m thinking of maybe starting him out on the floor and putting his clothes in our room for a bit while he gets used to the bed. Any tips or tricks would be most welcome!
+- `sr047-0061` (trigger_moment) For reference, he’s a little over 3ft and about 31lbs. He’ll be 2 on the 15th. He likes to try to sleep sideways in his crib on occasion. As one might expect, it doesn’t go well.
+
+### 1u6yswl | r/NewParents | 2026-06-16 | baby_4_6_months | parent_unspecified | patterns 4 | border: logistics
+
+About: Small five-month-old can sit but needs safer restaurant seating. Wants: Restaurant tips and safer high-chair options for petite baby. Already did: Harnessed high chair at home; stroller during restaurant meals.
+
+- `sr053-0041` (question) My baby is 5 mos and is super strong. She is able to sit up in our high chair at home but it has a harness. My problem is that she is very very petite, she weighs 12 lbs. I am worried about her being too small for the high chairs at the restaurant without the harness. Anyone have tips for going out to eat with baby or any suggestion on how to make the high chair safer for her when we’re out? She is starting to get fussy in her stroller while we eat. Thanks!!
+
+### 1u87e8q | r/toddlers | 2026-06-17 | unknown | parent_unspecified | patterns 4 | border: logistics
+
+About: Preparing cat areas for baby's future crawling. Wants: Baby-proof cat litter, food, and water in rental. Already did: Considered fencing off open litter boxes.
+
+- `sr052-0067` (question) How do you keep your cat litters and water/food safe from baby hands? Baby isn’t crawling yet but I need to prepare, we rent so can‘t do anything crazy. I have two cats that won’t use closed litter boxes, partly because they attack each other constantly. I‘ve thought about having open litter boxes and fencing them off with baby fences, maybe anyone has better ideas?
+
+### 1u8nox3 | r/daddit | 2026-06-17 | unknown | parent_unspecified | patterns 4 | border: age_unknown
+
+About: Removing crib padding after child becomes more coordinated. Wants: Remove adhesive crib padding with minimal damage. Already did: Added cushions while daughter learned to stand.
+
+- `sr053-0096` (question) So when my daughter was learning to stand up I put these adhesive cushion on the border so she wouldn’t smash her face into the wood. Now she’s older and more coordinated I’m trying to get it off. But as you see from the picture it’s been a process. Any advice on best way to remove this from a wooden crib with minimal damage?
+
+### 1ua52f0 | r/Parenting | 2026-06-19 | baby_6_9_months | parent_unspecified | patterns 3,4 | border: logistics
+
+About: Large six-month-old outgrows onesies and rolls during nappy changes. Wants: Find larger onesies for growing baby. Already did: Shops at Target, uses short-sleeve snap-crotch onesies.
+
+- `sr053-0124` (question) I have a 20lb (80+ percentile height and 90+ percentile weight) 6 month old who is about to size up to 18 month clothes. The issue is that 18M is the largest size I can find for onsies at Target (where I shop for her). I'm a big fan of the short sleeve onsies with the three buttons on the crotch. Obviously, my daughter is not ready for potty training, and pants are such a pain in the butt during diaper changes. It's already hard enough to wrangle her during her alligator rolls with a onsie, I can't imagine trying to do that with a t-shirt and shorts. I am SOL here?
+
+### 1uai4i1 | r/toddlers | 2026-06-20 | unknown | parent_unspecified | patterns 4 | border: age_unknown
+
+About: Seeking books teaching safe walking, stoplights and crosswalk use. Wants: Book recommendations teaching sidewalk and crossing safety. Already did: nothing stated.
+
+- `sr055-0096` (question) Can anyone suggest books that talk about walking on sidewalks, encountering stoplights and using crosswalks safely (e.g., looking both ways before crossing, watching for cars, etc.)?
+
+### 1ucvvzj | r/NewParents | 2026-06-22 | baby_2_4_months | parent_unspecified | patterns 4 | border: sleep
+
+About: Safe swaddling when baby moves but cannot roll. Wants: Safe sleepwear advice for a moving baby who cannot roll. Already did: Swaddled baby; tummy time.
+
+- `sr059-0001` (fear) My daughter is 2 months old and moves a ton in her sleep. She is swaddled but since we are now finding her diagonal in her basinet we are wondering if it’s no longer safe to have her in her swaddle. The thing is she cannot roll and during tummy time, she will not push herself up so we worry if she is in a sleep sac, is that safe?
+- `sr059-0002` (question) What are other parents doing for their babies who can’t yet roll but are moving a lot while swaddled at night?
+
+### 1udp6o9 | r/toddlers | 2026-06-23 | unknown | parent_unspecified | patterns 4 | border: age_over_24
+
+About: Seeking calm toddler apps without advertising or purchases. Wants: Ad-free Android apps with variety and calm content. Already did: Uses Toddleish and Endless Alphabet.
+
+- `sr060-0012` (desire) I'm looking for toddler apps for my 2 year old that aren't going to show a bunch of advertisements or try to get them to make in app purchases. I have a few I really like primarily Toddleish for fun and Endless Alphabet for ABCs. She loves both of those but I wouldn't mind having a backup for variety. I don't mind paying a little up front but I really don't want ads or purchases while she's using it. Preferably options that are soothing and not hyper inducing or addictive.
+
+### 1uiew0i | r/toddlers | 2026-06-29 | unknown | parent_unspecified | patterns 4,2 | border: age_over_24
+
+About: Converting crib to toddler bed for independent morning play. Wants: Know realistic expectations for toddler-bed transition. Already did: Babyproofed room; added toy cubby, books, and stuffed animals.
+
+- `sr056-0099` (belief) We are planning to convert my daughter’s (just turned 2) crib into a toddler bed next weekend. She sleeps very well, we typically read her a book, sing to her, then place her in the crib which she fully accepts and then we leave the room until morning. When she wakes up in the morning she calmly talks to herself until I come pick her up. She sleeps with a light blanket and no pillow or stuffed animals and the plan is to continue with that once we convert.
+- `sr056-0100` (desire) The reason we would like to switch to a toddler bed is to give her more independence in the morning. She wakes up about an hour earlier than I would like to so I leave her there as long as I can before scooping her into bed with me for milk/coffee/books while I wake up. But she is very active which is becoming more and more overstimulating.
+- `sr056-0101` (tried_failed) I just babyproofed her room and introduced a toy cubby and some books and stuffed animals today in preparation but would love any advice. I was expecting this to go smoothly based on her disposition but I’m seeing a lot of posts that are scaring me about this transition.
+- `sr056-0102` (question) Is it naive to think this will go okay for her? What can I realistically expect?
+
+### 1umvu79 | r/NewParents | 2026-07-04 | unknown | parent_unspecified | patterns 4 | border: age_unknown
+
+About: Furnishing new house for baby's upcoming mobility stage. Wants: Furniture and curtains to avoid before baby becomes mobile. Already did: Bought first home; planning furnishings.
+
+- `sr064-0034` (success_story) We are moving in a few weeks to a new province where we have just purchased our first home! We are extremely excited to have such a lovely place for our little girl to start growing up, and are excited to get to furnishing it into a cozy place!
+- `sr064-0035` (question) Since we are coming from an apartment, we have LOTS we need to buy so my question is, specifically with the upcoming “early mobility” stage in mind… what did you have to get rid of in your home once your baby started moving?   
+If you were furnishing a home from scratch with a baby that’s going to get on the move soon, what would you skip? Are there specific criteria you would apply when shopping for furniture? (Is it insane to have long curtains? Am I overreacting by even questioning it?)
+
+### 1uvk8rm | r/beyondthebump | 2026-07-13 | unknown | parent_unspecified | patterns 4,3 | border: age_over_24
+
+About: Two year old climbs crib during sleep regression. Wants: Crib mattress solutions preventing climbing injuries and gaps. Already did: Continued sleep training; lowered mattress onto floor.
+
+- `sr069-0116` (pain) We are going through a 2 year old sleep regression - he is particularly going through some separation anxiety at bedtime and gets very upset when we leave the room. I want to continue with the sleep training but he managed to jump out of the crib one night when he was upset with us leaving. Staying consistent with sleep training has felt impossible now that we are worried about him jumping out.
+- `sr069-0117` (tried_failed) He isn't trying to climb out otherwise, so I don't want to convert to an open bed just yet. I moved the mattress to the ground but there is a small gap and I'm worried about him getting stuck.
+- `sr069-0118` (question) Has anyone use a thinner mattress for this stage? Or added a mattress topper? (thinking so there is no gap). Any suggestions are welcome!!!
+- `sr069-0119` (pain) From a very sleep deprived mom :(
+
+### 1uy9dt8 | r/Mommit | 2026-07-16 | unknown | parent_unspecified | patterns 4 | border: age_unknown
+
+About: Choosing wagon for tummy time and exploration. Wants: Flat wagon with mesh sides that grows with child. Already did: Uses folding-side pram bassinet on walks.
+
+- `sr075-0008` (belief) We have a Peg Perego pram bassinet with sides that fold down, so my kiddo can see what’s going on during tummy time, as he can’t quite sit up yet on his own.
+- `sr075-0009` (desire) He’s getting too big for the bassinet now, but I’d like to get him a wagon, so he can still see the world around him, have freedom to move about/play with his toys/explore. We go on daily walks around our neighborhood and to festivals throughout the summer. I’d also like for it to be able to grow with him (and us, if we have another kid). 
+- `sr075-0010` (question) But the **priority is laying flat** (so no permanent footwells) and **mesh walls** so he can see. Any suggestions?
+
+### 1v06glv | r/FirstTimeMom | 2026-07-18 | baby_2_4_months | new_mother | patterns 4 | border: sleep
+
+About: Reflux and rolling complicate sleepwear and sleeping arrangements. Wants: Solutions for safe sleep with reflux and rolling. Already did: Multiple swaddles; probiotics; gas drops; chest sleeping; upright feeds; baths. Paid: Swaddle design sleep sacks.
+
+- `sr073-0059` (pain) I'm feeling pretty defeated here as a first time mom and would love some advice.
+- `sr073-0060` (tried_failed) Ever since my baby was born, we suspected he had silent reflux. We would hear things come up in his throat, followed by a hard swallow from him and then he would start to cry. He absolutely hated sleeping on his back but the first few months he managed when we would swaddle. Now 3 months old. He had been showing signs of rolling so we made the attempt to transition to a sleep sack. That didn't work. I then tried to switch him back to his swaddle and swaddle one arm in, one arm out. That wasn't effective either. I then ordered the swaddle design sleep sack that's meant to keep their arms above their heads and help reduce the startle reflex. That didn't help. I'm now waiting on another swaddle design product that can swaddle one arm in, one arm out, or has the option to swaddle their chest and belly with both arms up above beside their head to hopefully prevent the startle reflex( fingers crossed that helps)
+- `sr073-0061` (objection) We've tried probiotics, gas drops, and our doctor currently has prescribed up famotidine however he didn't quite make me feel at ease with the prescription as he stated could cause respiratory issues and stomach issues. He gave us the prescription and said we could decide if we wanted to fill it and I haven't. I also don't necessarily like the idea of medication at such a young age. But will if this is my best option..
+- `sr073-0062` (fear) We are currently co sleeping at night because this is the only way we are getting sleep. I have him lay on my chest. And I use a thin breathable blanket that I put over his back with arms out, and tuck under my back to make sure he can't fall from side to side. We don't use any big blankets or pillows nearby so reduce the risk but I still don't like the idea of co sleeping as I know this is also not safe.. during the day when I can monitor him I allow him to sleep during his naps in his crib on his stomach as he has great head control and cen roll belly to back ( he currently does not roll back to belly) I also have deep regrets about having allowed him to nap this way as I fear we've created a bad habit. I'm too scared to allow him to sleep on his back throughout the night as I know this doesn't follow safe sleep guidelines and I'm terrified of sids. I contemplated investing in the owlet but from my understanding is that it would not detect it if he ended up face down and suffocated until it's too late..
+- `sr073-0063` (tried_failed) We've also tried to sit him upright for 20+ minutes after a feed, we've tried a relaxing bath routine before bed.
+- `sr073-0064` (desire) I'm sleep deprived. Feeling defeated and don't know what else to do. Has anyone gone through this? And what was your solution.
+- `sr073-0065` (question) I suppose I never have really considered that, thanks for the suggestion and I may give this a try. What differences did you see in your son after cutting it out?
+- `sr073-0066` (belief) We are actually exclusively breast feeding, but I'd assume I'd have to cut dairy out
+
+### 1v331k7 | r/beyondthebump | 2026-07-22 | unknown | parent_unspecified | patterns 4 | border: sleep
+
+About: Rolling baby hits crib rails; parent asks about safe padding. Wants: Safe way to prevent head bumps while baby rolls in crib. Already did: Uses crib and is considering rail padding.
+
+- `sr072-0117` (question) Okay sooo I totally understand the safe sleep BUT my guy keeps bonking his head when rolling in the crib and it wakes him up is there anything I can do to pad the rails that is safe ?
+
+### 1v7evuq | r/toddlers | 2026-07-26 | unknown | parent_unspecified | patterns 4 | border: age_unknown
+
+About: Parent spent seventy dollars unsuccessfully finding first-walker shoes for tiny feet. Wants: Affordable properly fitting shoes for child's first walking. Already did: Bought Stride Rite, STQ kids, Wondernation and BMCityBM shoes without success. Paid: About $70 in four shoe brands.
+
+- `sr078-0040` (price_signal) Let me start off by saying I am broke as shit. I have spent $70ish trying to find first walkers that will fit my child.
+- `sr078-0041` (tried_failed) She's about a size 2.5 (doesn't exist but size 2 is too small and size 3 is too large). I have bought stride rite, Amazon brand STQ kids, Walmart brand wondernation, and BMCityBM shoes all which have not fit.
+- `sr078-0042` (desire) Guys. I just want the baby to abe able to walk without glass going in her feet or the hot turf of the playground burning her feet. I'm at my wits end.
+
+### 1v9kdws | r/toddlers | 2026-07-29 | unknown | parent_unspecified | patterns 4 | border: age_unknown
+
+About: Seeks imaginative open-ended toys beyond favourite figures and play kitchen. Wants: Recommendations for imaginative and open-ended play toys. Already did: Little People sets, Pooh figures, dolls and play kitchen.
+
+- `sr080-0107` (question) Looking for recommendations on toys for imaginative and open ended play! My daughter is really into little people sets, Winnie the Pooh figurines, dolls and play kitchen.
+
+### 1vcxoxi | r/NewParents | 2026-08-01 | unknown | parent_unspecified | patterns 4 | border: age_unknown
+
+About: Choosing foam floor mat for baby learning to walk. Wants: Reviews of durable easy-clean foam floor mats. Already did: Looked into Muscle Mat and similar products.
+
+- `sr081-0033` (question) I’m looking into replacing the rug in our living room with a Muscle Mat or something like it! I’d love to hear from anyone who has that brand or another on what your experience has been with them! We are ready for a rug anyway, so I thought one of the thicker foam mats would be perfect for spending time in the floor with our baby and her learning to walk!   
+Are they water resistant and easy to clean like the ads claim? Has anyone put a coffee table on theirs? Anything else I may need to know before purchasing!
+
+### 1vh3epl | r/NewParents | 2026-08-06 | baby_4_6_months | parent_unspecified | patterns 4 | border: logistics
+
+About: Newly rolling five-month-old leaks through overnight diapers while belly sleeping. Wants: More absorbent diaper recommendations and whether to change during wakes. Already did: Switched to size-three Huggies night diapers; trying 5/3/3 before sleep training.
+
+- `sr083-0095` (pain) We use Huggies night diapers, size 3. My LO is 15 pounds so just under the suggested starting weight size for the diapers, but they fit nicely. Or so I thought. He sleeps in his crib in our room. He just discovered stomach and side sleeping (can roll). His diapers get so full that when he rolls onto his belly, I’m guessing the pee gets squished out. He becomes soaked: pjs, sleep sack, and sheets.
+- `sr083-0096` (belief) He is still getting a night feed or two. We’re working on this, it’s a whole other thing. Sleep hasn’t been the best since he was born so we’re currently attempting the 5/3/3 before we transition him to his room and move onto sleep training.
+- `sr083-0097` (question) Diaper recs? Do I change him if we wakes up? I’ve found a night change to be incredibly disruptive which is the main reason we switched to night diapers so I’d love to avoid this. Are there brands you’ve found that hold more?
+
+### 1vk2yg8 | r/toddlers | 2026-08-09 | unknown | parent_unspecified | patterns 4,11 | border: age_unknown
+
+About: Seeking portable toilet seat for child learning public restroom use. Wants: Foldable seat fitting public toilets. Already did: Uses toilet seat at home.
+
+- `sr090-0062` (question) Looking for an Amazon product preferably. My girl is starting to consistently use the toilet, and we're having an issue when we try and use public restrooms. The toilets are too big for her to sit on, and I don't want to bring her toilet seat for the home toilet whenever we go somewhere. I hope one of you guys has a foldable or collapsible toilet seat that would fit on the industrial toilet seats commonly found in US public spaces. Thanks.
+
+### 1vk8wam | r/beyondthebumpUK | 2026-08-10 | unknown | parent_unspecified | patterns 4 | border: age_unknown
+
+About: Rolling baby prompts search for safer changing-table setup. Wants: Safer changing setup that protects parent’s back. Already did: Used small IKEA changing table.
+
+- `sr086-0124` (question) Little one is starting to try and roll on his small ikea changing table and it doesn’t feel safe anymore. I was thinking to get a bigger chest of drawers / changing table and a bigger mat? Need a set up that isn’t going to break my back and last until he is out of nappies.
+
+### 1vm6ebt | r/daddit | 2026-08-12 | toddler_12_18_months | parent_unspecified | patterns 4 | border: logistics
+
+About: Seeks bath-tap lock after twins learn to operate water. Wants: Lever lock compatible with bath-shower mixer tap. Already did: Looked for suitable lever locks.
+
+- `sr089-0057` (question) I have 13 month old twins. They’ve just learned they can turn the water on and off. Bath time is chaotic enough without them both manically trying to turn the water on / off. I want some kind of lever lock but can’t seem to find any that would work on this kind of bath shower mixer tap. Thank you
+
+### 1vqfi8t | r/toddlers | 2026-08-17 | unknown | parent_unspecified | patterns 3,4,5 | border: age_unknown
+
+About: Parent seeks books without tantrums because toddler copies bad behaviour. Wants: Book recommendations without tantrums, throwing or expressions of hatred. Already did: Reads books; explains why characters' bad behaviours are unacceptable.
+
+- `sr091-0078` (question) Looking for your favorite books that DON’T include tantrums/characters saying they hate things/throwing things/etc. My toddler is pretty mild mannered, but very quickly picks up on new concepts and starts repeating things they learn in books, even if the goal of the story is to show how they’re not supposed to have tantrums or misbehave or whatever.   
+I understand they’re teaching moments and all that, but would like to have more stories where I don’t have to explain why we don’t throw food out of the grocery cart or why we don’t tell our mother “I hate meatloaf”.
+
+### 1vt273t | r/NewParents | 2026-08-19 | unknown | parent_unspecified | patterns 4 | border: age_unknown
+
+About: Seeking app explaining milestones, safe positions and age-based care changes.. Wants: App explaining age-specific milestones, handling and food changes. Already did: nothing stated.
+
+- `sr095-0060` (desire) Basically an app that can tell me "okay, it's 6 months now. Now it's safe for the baby to be in this position" or "at the 1 year mark, you now no longer have to support the neck" or "now you can introduce X food" type of stuff.
+- `sr095-0061` (belief) (I'm just creating random lengths to create the point)
+
+### 1vvfyys | r/daddit | 2026-08-22 | unknown | parent_unspecified | patterns 4,5 | border: age_unknown
+
+About: Parent seeks educational PC games and regrets children's computer literacy. Wants: Basic learning PC games without subscriptions or extra purchases. Already did: Has limited children's exposure to computers; now seeks educational games.
+
+- `sr091-0164` (question) Does anything like this still exist? I'm just looking for basic learning games that are on PC and aren't laden with add-on purchases or subscriptions. Just something they can puzzle their way through.
+- `sr091-0165` (regret) Before people get their backs up about screen time: I've come to the realization that I had more computer literacy than my kids currently do by the time I was 6 or 7 years old. This is probably a failing on my part as I haven't done enough to introduce them. I'm hoping a bit of time with an educational game like this will help.
+
+### 1vwib1q | r/toddlers | 2026-08-23 | unknown | parent_unspecified | patterns 4 | border: age_unknown
+
+About: Choosing swim vest to encourage toddler arm swimming. Wants: Canadian-approved swim vest recommendations for teaching swimming. Already did: Got pool; held child or used noodle.
+
+- `sr096-0004` (question) For those in Canada, what swim vest did you use (if any) to help teach your toddler to swim?
+- `sr096-0005` (desire) We got a pool and right now she's either in our arms or using a noodle but I want another option to encourage her to swim using her arms.
+- `sr096-0006` (desire) Preferrably Transport Canada or Canadian Coast Guard approved.
+
+### 1vyodom | r/Mommit | 2026-08-26 | unknown | parent_unspecified | patterns 4 | border: age_unknown
+
+About: Choosing safer jumping equipment for children's sensory processing difficulties. Wants: Know whether airtrack could replace recommended trampoline. Already did: Doctor recommended trampoline; researched airtrack.
+
+- `sr098-0090` (question) We have two children who struggle somewhat with sensory processing. A doctor has recommended getting a trampoline to help with this. However, I’m really not a fan of trampolines due to the risk of injury, plus it’s a huge item for the garden—and we don't really have the space for one. I’ve come across something called an "airtrack"; as I understand it, it’s an inflatable mat that can be used indoors, though it’s primarily designed for gymnastics or freerunning. Is an airtrack suitable for jumping on and using like a trampoline, or is it something completely different? The one I found was around 150 cm by 30 cm thick.
+
+### 1vzaiq3 | r/toddlers | 2026-08-26 | unknown | parent_unspecified | patterns 4,9 | border: age_unknown
+
+About: Seeking books to help preschool newcomer become less dependent. Wants: Books easing child into independence and less attachment. Already did: Started preschool.
+
+- `sr098-0096` (pain) My daughter has started preschool for the first time ever this year and she's overall doing great! The only feedback I get regularly is that she is struggling with being independent. Apparently she'll pick someone to latch on to and will insist on staying near them. She'll even start crying if they go to the bathroom without her.
+- `sr098-0097` (belief) On one hand if you had asked us a couple weeks ago if we thought she'd struggle with being independent we would have last and denied it. But I also know this is very normal, especially since it's the first time she's being left alone with someone who isn't a family or close friend. It's not crazy to imagine that you might initially struggle with feeling alone.
+- `sr098-0098` (desire) So I'm just looking for book recommendations to help ease her into the idea of becoming a little bit more independent and a little less attached. At least not so attached that she's insisting of sharing the bathroom with others.
+
+### 1w1a3kq | r/daddit | 2026-08-29 | unknown | parent_unspecified | patterns 4 | border: age_unknown
+
+About: Seeking favourite books for children under two and reading stages. Wants: Book recommendations for reading with children under two. Already did: Discussed Dolly Parton Imagination Library with another parent.
+
+- `sr100-0094` (question) I was talking with another parent today and we were discussing the excellent Dolly Parton Imagination Library and I was thinking about books at each stage of reading and was going to put a list together and was wondering what books you loved reading you your kids under the age of 2 (this stage may not have as exciting of recommendations as later stages)
+
+### 1w21tl1 | r/beyondthebump | 2026-08-29 | looking_back | parent_unspecified | patterns 4 | border: age_over_24
+
+About: Parent wants taller cribs after climbing forces disruptive bed transition. Wants: Understand why cribs aren't taller with lockable doors. Already did: Transitioned both children to toddler beds because they could climb out.
+
+- `sr098-0176` (fear) We have two kids - a two and a four year old.  For both of them, we had to transition them to a toddler bed well before they were ready, and well before we were ready, purely for height reasons.  They got too tall, and were tall enough to easily climb out of their crib even on the lowest setting.  If they did, they would go over head-first and probably break their neck or get a concussion or something!
+- `sr098-0177` (question) This makes me wonder: why?  Why aren’t cribs designed to be like 1-2’ taller so that toddlers can stay in them until the 2-4 age range - which is actually what many medical associations seem to recommend?  The obvious reason would be difficulties picking up-lowering them over high railings, but there is a magical solution that was developed thousands of years ago for that: doors with locks!  That would be SO much easier, safer, and better in every way as far as I can tell, and I can see absolutely no downsides to doing that.
+- `sr098-0178` (pain) I posted this because after two years, our youngest was finally sleeping almost perfectly through the night….and now the toddler bed is massively disrupting the peace and quiet we finally achieved lol.
+
+### 1w5wvpn | r/toddlers | 2026-09-03 | unknown | parent_unspecified | patterns 4 | border: age_over_24
+
+About: Seeking low bed toddler can climb into independently. Wants: Twin bed low enough for independent climbing with airflow beneath. Already did: nothing stated.
+
+- `sr103-0068` (question) Hello Parents. I am searching for a bed design that can hold a twin mattress, a 2 year old can climb into on their own with just enough room between the floor and the mattress to allow airflow so that it doesn’t trap moisture. please lmk if you guys know any makes, models.
+
+### 1w6h59e | r/beyondthebump | 2026-09-03 | baby_9_12_months | parent_unspecified | patterns 4 | border: logistics
+
+About: Babyproofing lamps that crawling baby tries to reach. Wants: Safe floor lamps without ceiling lights. Already did: Blocked living-room lamp with drawer.
+
+- `sr104-0075` (belief) I live in nyc and it’s common for nyc apartments to not have ceiling lights in the bedrooms and living room which is how our apartment is so we need to use floor lamps.
+- `sr104-0076` (question) For others who also has the same situation, how are you baby proofing floor lamps so LO is not trying to pull on the floor lamps because my LO is 11 months and is always trying to crawl to it. We blocked the one in the living room with a drawer so she can’t physically crawl to it but the one in her bedroom is not as easy to block because of the location
+
+### 1w8atyh | r/NewParents | 2026-09-05 | unknown | parent_unspecified | patterns 4 | border: age_unknown
+
+About: Toddler climbs couch but falls without understanding edges. Wants: What to use for safety and how to teach safe descent. Already did: Installed padded flooring; stayed nearby during falls.
+
+- `sr102-0089` (question) Toddler has figured out how to get onto our wrap around couch. Yay for corners... anyway, we have padded flooring but its not very thick and she tends to sit on the edge of the couch. Doesn't quite understand the edge and tries to lean forward over it. Shes fallen off a few times already but we were there. Im wondering what everyone else used in this stage? She can be quite independent and i feel shes gonna fight us on teaching her to get down properly.
+
+### 1wdm4bz | r/NewParents | 2026-09-11 | unknown | parent_unspecified | patterns 4,8 | border: age_unknown
+
+About: Parent praises Wonder Weeks and seeks helpful parenting books. Wants: Book recommendations that improve parenting. Already did: Used Wonder Weeks; tracks predicted fussy phases on paper calendar.
+
+- `sr106-0042` (success_story) I was recommend the book "**The Wonder Weeks**" when my baby was about 5 weeks old and its has changed the game immensely for my family.
+- `sr106-0043` (success_story) I love that it helps me identify when my baby is learning new things and gives suggestions on how to encourage those skills. It has so accurately predicted when my baby will enter fussy phases that I now have a paper calendar posted in her bedroom so we know when to expect some more difficult days and nights. 😅
+- `sr106-0044` (success_story) Absolute game changer!
+- `sr106-0045` (question) ***Tell me, what book changed the game for you and why?***
+
+### 1we57n3 | r/NewParents | 2026-09-12 | baby_2_4_months | parent_unspecified | patterns 4 | border: logistics
+
+About: Early rolling prompts question about moving baby to crib. Wants: Know whether rolling means baby must leave bassinet. Already did: Stopped swaddling after baby began rolling.
+
+- `sr106-0055` (question) Hi everyone as the title says our nearly 11 week old has started rolling to their side like none stop during tummy time, or when her nappy is being changed or when they are in the bassinet, she has rolled properly once fully, we’ve stopped swaddling but do we need to move her to the crib/cot as soon as possible? She just seems so young and she’s so tiny too 10 pounds 8 ounces, any recommendations would be wonderful!
+
+### 1wiwyth | r/beyondthebump | 2026-09-17 | baby_6_9_months | parent_unspecified | patterns 4 | border: other
+
+About: Baby learning to sit falls and hits head. Wants: Reassurance about falls and whether emergency care is needed. Already did: Yoga mat and pillows; ordered thicker play mat. Paid: Super thick play mat.
+
+- `sr113-0053` (belief) My darling is almost 7 months old and is heavy into practicing her sitting.
+- `sr113-0054` (regret) Last week I smacked the top of her head on a metal pole right above the baby swing (very poor placement) and heard a ding. No mark. She was acting normal. Easy consolable. It really wasn’t a hard hit but I felt gutted.
+- `sr113-0055` (trigger_moment) Now this morning I have her on a thick yoga mat with pillows surrounding her and I’m sitting nearby while she’s playing on her piano. Out of nowhere she just falls to the side missing the mat and pillows hitting a thin carpet on hardwood. She was pretty fussy but overall normal.
+- `sr113-0056` (fear) She’s still so young and I’m freaking out.
+- `sr113-0057` (fear) She’s taking her first nap of the day right now. Went down like normal while I’m fighting the urge to go to the ER.
+- `sr113-0058` (question) How often do your babies have accidents like this around her age?
+- `sr113-0059` (pain) I just feel like I completely suck as a parent if I can’t protect her from getting hurt like this.
+- `sr113-0060` (purchase) I ordered a super thick play mat so this doesn’t happen again.
+
+### 1wk1bxb | r/FirstTimeMom | 2026-09-18 | baby_2_4_months | parent_unspecified | patterns 4 | border: sleep
+
+About: Three-month-old learning to roll prompts bassinet safety concerns. Wants: Choose safe nearby sleep arrangement as baby starts rolling. Already did: Used arms-out sack; searched Google; tried pacifiers and breastfeeding.
+
+- `sr114-0033` (belief) My LO just turned 3 months old. I have the Harppa baby bassinet, the one with the mesh windows on the sides but not all mesh siding. He sleeps in it every night next to my side of the bed and he does great there. He sleeps through the night pretty regularly. During the day, I usually give him at least one contact nap, a nap in his bassinet in the living room (that I move from our room during the day), and one in his crib in his room if I can get him to fall asleep in there.
+- `sr114-0034` (fear) My concern is he is starting to figure out how to roll, at least onto his side, on his own now. That is wonderful, but he also likes to lay right up against the side of his bassinet. Yesterday he had his little face close to the side of it while he was napping after moving onto his side.
+- `sr114-0035` (others_said) Google says to move him to his crib or get a pack n play to keep him in our room. His crib won't fit in our room. The pack n plays I've seen only go to 15 pounds, he was 12 pounds at the end of August so that won't last long at all. They also say not to use them once he can roll. His crib is across the house in his room, and with him being only 3 months, I'm not ready to have him that far all night. Last night he slept on his back all night like usual.
+- `sr114-0036` (fear) What have you guys done during this time? Do I need to worry about him suffocating himself on the side of the bassinet? He already sleeps in an arms out sleep sack because he's gotten onto his side a few times randomly ever since he was born. He likes to suck on the side of his bassinet too, another thing he's done since the beginning. I just worry a lot about SIDS and there are a lot of things he doesn't do that prevent it. Breastfeeding didn't go well. I barely produced anything so he's not getting that benefit, which still makes me feel awful. He doesn't like a pacifier, I've tried to give him one multiple times over the past few months and he just doesn't care for it. I at least want to keep him close at night since it's something I can do to help prevent it, something I have control of. I already have anxiety and I'm not sure if I'm just over thinking this.
+
+### 1wmholv | r/toddlers | 2026-09-21 | unknown | parent_unspecified | patterns 3,4 | border: age_over_24
+
+About: Two-year-old climbs out of crib; parent considers siblings sharing floor bed. Wants: Tips starting shared bed for two toddler siblings. Already did: Older child already has queen floor bed; both children partly cosleep.
+
+- `sr115-0129` (belief) I have two toddlers - ages 2 and almost 4 (both girls)
+- `sr115-0130` (trigger_moment) My 2 year old has officially begun escaping the crib to the extent that I found her asleep on the floor this morning 🥴
+- `sr115-0131` (desire) Obviously, it’s time for an immediate transition. My older daughter already sleeps in a queen size floor bed, so it would be AMAZING if we could get them to share.
+- `sr115-0132` (question) Any tips on how to make that work? Specifically about how to start out. Both of my kids cosleep for at least part of the night, which we have no intention of changing, and I’d be happy to join them in the queen. All advice welcome!
+
+### 1wmppb9 | r/daddit | 2026-09-21 | unknown | parent_unspecified | patterns 4,5 | border: age_unknown
+
+About: Parent seeks slow-paced toddler television to protect attention span. Wants: Quality toddler programmes with few scene changes. Already did: Tried Thomas and Friends; found it repetitive.
+
+- `sr114-0082` (belief) I hate short and jumpy scenes for kids, I don’t mind if characters move fast or jump like Tigger but it shouldn’t have quick scenes. It’s a crappy way of making programs “interesting” in leu of content quality. It also has bad influence on their attention span.
+- `sr114-0083` (desire) Basically I’m looking for programs that resemble illustrated books except for the still image have motion picture. So an average toddler board-book is what? 10-20 pages? That’s as many scenes the video should have. Thomas & Friends has been the closest I could find but it’s too repetitive. Even in other languages I think I might make it work. Thanks
+
+### 1wn9hyc | r/beyondthebump | 2026-09-22 | toddler_12_18_months | parent_unspecified | patterns 4 | border: logistics
+
+About: Sixteen-month-old escapes sleep sack and cannot pull blankets over self. Wants: Find affordable sleep sack with smaller neck opening. Already did: Tried multiple Amazon brands and styles; supplied light blankets. Paid: Multiple sleep sacks.
+
+- `sr112-0127` (pain) I have 16 month old twins who were preemies and are on the smaller side. They are both about 30 inches tall, and Twin A weighs about 25 pounds while Twin B weighs about 20 pounds. Twin B keeps getting out of their sleep sack through the neck hole and wakes up from being cold. They have light blankets in their cribs but don't understand the concept of covering themselves up yet.
+- `sr112-0128` (price_signal) We've tried various multi-pack sleep sacks from various brands on Amazon, both long sleeve and short sleeve. I'm not against spending a bit more money for a name brand sleep sack that works, but we don't have the means to just keep buying sleep sacks in hopes that they stay in them.
+
+### 1wqjae8 | r/Mommit | 2026-09-26 | unknown | parent_unspecified | patterns 4,7 | border: age_unknown
+
+About: Choosing nonplastic straw cup for toddler transitioning away from bottles. Wants: Affordable easy clean nonplastic milk cup with weighted straw. Already did: Uses Dr. Brown's weighted straw cup for water and glass bottles.
+
+- `sr120-0018` (question) Moms of one-year-olds: what cup do you use for milk after switching from bottles? My son already drinks water from a Dr. Brown’s weighted-straw cup, but I’d like to move his milk out of glass bottles and avoid a plastic cup if possible.  
+I’m looking for something non plastic, easy to clean, and preferably with a **weighted straw** so he can still drink when he tips it back. I’d love something reasonably priced too. What’s actually worked for your toddler?
+
+### 1wtsiwp | r/beyondthebump | 2026-09-30 | looking_back | parent_unspecified | patterns 4 | border: logistics
+
+About: Wants cheaper clip-in bassinet after SNOO rental reduced rolling anxiety. Wants: Cheaper bassinet with clip-in swaddle for next baby and future siblings. Already did: Used SNOO four months and Eufy sock; returned rented SNOO. Paid: SNOO rental taxes, about $150.
+
+- `sr117-0132` (success_story) We used the Snoo for the first 4 months of my daughter's life, and clipping the baby in so she wouldn't roll over helped so much with my anxiety thank God. That and the eufy sock helped me sleep at night.
+- `sr117-0133` (price_signal) My husband's company gives us the first 4 months of the Snoo free, but we still have to pay taxes on the benefit so it's still like $150 to rent for 4 months bc of taxes, then we had to send it back and I wish we could have used a bassinet for 6m, so was hoping to find a cheaper alternative to just buy. We also want a big family like 6-8 kids and who knows if my husband will have his job forever, so might just buy something we can pass down.
+- `sr117-0134` (question) We didn't really use the motion feature, just the clip in swaddle feature. Is there anything else on the market like this that isn't 2k to use for our incoming baby?
+
+### 1x1j6r1 | r/beyondthebumpUK | 2026-10-09 | unknown | parent_unspecified | patterns 4 | border: age_unknown
+
+About: Choosing waste bin safe from exploring mobile baby. Wants: Baby-proof replacement for open wastebasket. Already did: Uses open-top wastebasket.
+
+- `sr123-0124` (question) Our baby boy is now running around exploring and keeps trying to put his hands into our open top style waste basket bin (see image) . What would you replace it with please?
+
+### 1x3nqg6 | r/NewParents | 2026-10-12 | looking_back | parent_unspecified | patterns 4 | border: age_unknown
+
+About: Retrospective baby shower advice includes clothes supporting crawling. Wants: Share practical registry lessons and gather additions. Already did: Received diapers, pajamas and other baby items; tried pacifiers.
+
+- `sr129-0021` (advice_given) 1. People may give you diapers in sizes all the way up to 6. Meanwhile you will settle on a diaper you like by around size 2. If I could do it over I’d ask people for small packs of as many different varieties of diapers as possible in sizes newborn - 2.
+- `sr129-0022` (advice_given) 2. People will give you SO many zipper PJs and while they are wonderful, they are weather AND age dependent. Under 4 months in colder weather your baby will live in them. Older babies need to feel the floor with their knees and toes for crawling so onesies become more important as they grow. I have an incredible number of zipper PJs I can’t use because she was 6 months in summer. If I could do it over I would include a little card in the invite with a chart of baby’s age and the season and what might be best for them to wear. Your baby will chew through pants at around 6 months. I could love more onesies and pants!
+- `sr129-0023` (advice_given) 3. You will need SO many more burp cloths, linen cloths, linen bibs, sheets etc than you anticipated.
+- `sr129-0024` (advice_given) 4. Many people use bassinets, but if you or your partner are handy, just build the crib in the bedroom if there is room and then move it to the nursery when the time comes. Then you won’t have a bassinet taking up space in your basement waiting in case you want another kid.
+- `sr129-0025` (advice_given) 5. Your baby may or may not like pacifiers. Ask for a few different types so you can try different ones. My baby only takes one specific one.
+- `sr129-0026` (question) The clothes and diapers one were big ones. Anything you’d add to the list to help others planning?
+- `sr129-0027` (belief) update: turns out these are not agreed upon by all. Turns out all babies and people are different. Lol 😝
+
+### 1x765s5 | r/NewParents | 2026-10-16 | unknown | parent_unspecified | patterns 4 | border: age_unknown
+
+About: Seeking playpen suitable for crawling baby. Wants: Playpen recommendations with advantages and drawbacks. Already did: nothing stated.
+
+- `sr130-0079` (question) Tell me the good and bad! Looking for one that will work for a crawling baby!
+
+### 1xa6cg7 | r/beyondthebumpUK | 2026-10-19 | unknown | parent_unspecified | patterns 4 | border: age_unknown
+
+About: Babyproofing Christmas tree as baby starts crawling. Wants: Ways to babyproof a heavy real Christmas tree. Already did: Heavy duty Christmas tree holder already used.
+
+- `sr134-0019` (question) My baby is starting to belly crawl and in the process of baby proofing the house I had a thought - how on earth do you baby-proof a Christmas tree?
+- `sr134-0020` (fear) We usually get a real one and it’s incredibly heavy; we have a heavy duty Christmas tree holder but I wouldn’t trust it to not tip over if a branch was pulled hard enough.
+
+### 1xaspd1 | r/beyondthebumpUK | 2026-10-20 | baby_4_6_months | parent_unspecified | patterns 4 | border: logistics
+
+About: Warm bulky baby clothes seem to obstruct rolling and reaching. Wants: Warm nonbulky baby clothes or advice on heating instead. Already did: Layered bodysuit, footless sleep suit, socks and jumper.
+
+- `sr134-0025` (pain) I have a nearly six month old and now that it’s cooled down I’m struggling with what to dress him in when we are at home! Right now the house temp is 21°C and I have him in a short sleeved bodysuit, a footless sleep suit and socks and I’ve just put a jumper on him as his chest felt cool. But the jumper feels so bulky and it seems like it’s getting in his way as he rolls around and reaches for things!
+- `sr134-0026` (question) What are we dressing babies in to keep them cosy at home but avoiding bulky clothes? Should I aim to drop a layer and heat the house more?
+
+### 1xbtpx3 | r/NewParents | 2026-10-21 | baby_4_6_months | parent_unspecified | patterns 4 | border: sleep
+
+About: New rolling skill raises fears about sleeping space safety.. Wants: Choose safest sleeping space and bedding for newly rolling baby. Already did: Tested cot, watched rolling all day; has bedside and travel cots.
+
+- `sr133-0068` (trigger_moment) My 4.5 month old learnt to roll from his back to front yesterday. I woke up at 4am to him on his side in the next to me (looked like he was practicing his rolling - he was happy enough no crying or anything). He obviously didn’t have the space to get fully over. The next to me has all mesh sides and isn’t right next to the bed so there is empty space either side.
+- `sr133-0069` (fear) If I’m reading right advice is to move him to his cot at this point but it wouldn’t fit in our room. Obviously I’ll sleep on the floor in his room if needed but I popped him in his cot today to see what he would do and he just banged his head on the side and couldn’t get fully over there either. He only seems to be able to get fully over with plenty of space either side. He can’t roll from his front to back. I’ve been watching him do the back to front all day and when he gets too tired he just face plants the floor instead of putting his head on the side to breath (he can free his arm himself).
+- `sr133-0070` (question) My question is would he be safer in his next to me as the sides are fully mesh and he definitely doesn’t have to space to get fully over. The mattress is breathable and if the next to me is best should I remove the waterproof mattress cover and just use a breathable sheet? Is the cot the best place for him or is a travel cot an option? We have a large one which is bigger than the next to me but smaller than the cot. It has a raised bed or a bottom bed option.
+- `sr133-0071` (fear) Thank you for any advice! It’s the first time since he was born that my gut has gone against advice (use the next to me for now). But I’m so nervous of going to bed tonight as he sleeps through the night usually so I’m scared he will just get on with it and I won’t wake 😩
+
+### 1xdci1z | r/sahm | 2026-10-23 | unknown | parent_unspecified | patterns 4 | border: age_unknown
+
+About: Choosing equipment and toy arrangements for baby mobility and toddler independence. Wants: Equipment and practical advice for managing toddler and baby together. Already did: Kept first child's equipment; has wagon.
+
+- `sr132-0096` (question) What did you get to make life easier for a toddler and baby? I have all the stuff from the 1st kid but do I really need a double stroller? (we also have a wagon)
+- `sr132-0097` (question) How do you keep smaller toys away from the baby when they get mobile? What stuff did you get your toddler to be independent?
+- `sr132-0098` (question) And did you continue to cosleep or transitioned out with the toddler?
+- `sr132-0099` (question) How did you juggle 2? What did you do when overstimulated at home or out of the house?
+- `sr132-0100` (question) How did your partner help? How did your toddler help/make things harder?

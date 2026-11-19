@@ -1,0 +1,2164 @@
+# Share 12: pattern 5, Am I harming the child's development by what I do?
+
+## On-niche posts (yes): 88 posts
+
+### 1s9ybwj | r/Parenting | 2026-04-01 | baby_6_9_months | parent_unspecified | patterns 5
+
+About: Finding time for diaper free movement after starting solids. Wants: Know whether others still give babies diaper free time. Already did: Used puppy pads; baths; tummy time naked; adjusted meals.
+
+- `sr004-0023` (pain) Once we started solids I stopped doing the no diaper time. I just could not find the time anymore doing 3 meals a day, I have not figured out an easier faster clean up. It always takes a while having to wipe everything down and rinse off a fussy baby. Everytime he’s without a diaper of course he pees or poos and that adds to the clean up 😫 let’s just say a 15 min bath and 10 minutes of nail trimming and tooth brushing is as much time as I can spare for no diaper time. (8 months)
+- `sr004-0024` (belief) I’ve heard it’s good for their development not being confined in a diaper all the time? But I don’t know
+- `sr004-0025` (tried_failed) I actually did use a puppy pad until he started crawling recently, now no diaper time is a thing of the past 🤣
+- `sr004-0026` (others_said) Thank you I had a feeling it was too much, my pediatrician said no milk over night and start 3 meals a day. He had lost 6 oz since his 6 month appointment so that’s why she recommended it. However I just do breakfast - snack - dinner. Milk inbetween and continuing milk over night if he wants it.
+- `sr004-0027` (success_story) Yes exactly. My guy was so fussy during tummy time and being naked just made him feel so much better.
+- `sr004-0028` (others_said) Some say it’s good for development
+- `sr004-0029` (tried_failed) Every baby is different for sure. I don’t know if my pediatrician is right about everything but I definitely take her advice and try it out. He got bad constipation when I was doing three full meals :/ I cut it down a bit recently though he seems to be doing better.
+
+### 1sb150l | r/ScienceBasedParenting | 2026-04-03 | toddler_12_18_months | parent_unspecified | patterns 5,10
+
+About: Worries partner’s teasing models unkind relationships for young son. Wants: Scientific evidence to persuade partner to stop teasing and model kindness. Already did: Asked partner to stop; searched for relevant research.
+
+- `sr004-0046` (belief) Basically my partner grew up being the youngest in a family that very obviously had a favorite child that wasn’t him. This has made him rely pretty heavily on teasing and ribbing the people he loves, friends as well as family, as a coping mechanism or a way to get attention. (*While I agree he should talk to someone to work through some of these issues, that is not the point of this post.)*
+- `sr004-0047` (fear) He’s always been someone who “teases” and for the most part, I’ve been fine with it. It’s who he is and, unless I’ve had a bad day, I just let it roll off. However, we have a 14 month-old son (who I know is too young still to understand) that will inevitably hear this. I’ve heard that children can’t differentiate between teasing in jest and being mean. I’ve been trying to get my partner to stop and be more aware about how he speaks to me and the frequency to the teasing but I don’t think he sees it as ever being an issue because he’s “joking” and he balances it with telling me he loves me and hugs and kisses. He thinks our son will be smart enough to tell apart joking in jest and being mean to someone.
+- `sr004-0048` (desire) I’m looking for any scientific articles that I can give to him (he is very logical so if it comes from a reputable source he will give it credence) that will illustrate what I’ve been trying to tell him. Also would hopefully get him to be kinder in how he speaks to others to be a good role model. In my research I’ve only been able to find articles on the effects of teasing children specifically.
+- `sr004-0049` (desire) I want my son to grow up respecting his partners and friends and be able to have relationships built on kindness, empathy and respect. Not that the occasional teasing can’t be playful, but I don’t want it to the default way he approaches relationships.
+- `sr004-0050` (question) Any ideas where I can find information? Or am I just overreacting?
+
+### 1sdsa5d | r/ScienceBasedParenting | 2026-04-06 | baby_6_9_months | parent_unspecified | patterns 5
+
+About: Worries minutes of unattended crying may harm baby psychologically. Wants: Know duration of crying before theoretical psychological or attachment harm. Already did: Reading The Nurture Revolution; puts baby down drowsy but awake.
+
+- `sr004-0147` (belief) I’ve read the debate between whether cry it out is harmful on a psychology level or possibly creates attachment issues later. I am currently reading The Nurture Revolution and think there is something to the idea that a baby crying themselves into silence either informs their nervous system that crying will not receive a response or activates survival mode (ie “be quiet so a predator doesn’t get you”).
+- `sr004-0148` (question) I’m not here to debate CIO’s possible effects. What I’m wondering is how long a baby may cry on his own (without a caregiver’s response) before it may have this theoretical harmful psychological effect.
+- `sr004-0149` (trigger_moment) Context: my son is 6 months, has been great at self-soothing since he was around 1 month, and might fuss-cry for a few minutes before putting himself to sleep (in a crib in his own room). Lately, when I put him in his crib in a drowsy but awake state, he will wail-cry for about 5-10 minutes and then fall asleep.
+
+### 1sge6ll | r/beyondthebump | 2026-04-09 | baby_2_4_months | new_mother | patterns 5
+
+About: Mother feels guilty about distracted attention and reduced baby play. Wants: Share guilt about divided attention after moving house. Already did: Morning cuddles, feeding, play and tummy time.
+
+- `sr007-0022` (trigger_moment) We just bought a house & we absolutely love it. We are so excited for what’s to come, but I am also so overwhelmed. Money is at the forefront of my mind, everything we have & want to do to make it great, and we are still in the process of moving stuff over from our last place to this one.
+- `sr007-0023` (pain) I’m still on leave & physically present with my 3-month old all day, but since my mind is racing, I can feel that I’m not being as present with my baby as I was pre-move & it’s making me so sad & feel like a bad mom. I know in theory this is not true - we still get our morning snuggle session in, she is well fed & sleeps well too, and I try to squeeze in as much as play/tummy time as I can. But even then, I can feel my mind wandering & excited for when I can finally lay down & relax. I just feel so guilty for not giving her my undivided attention all day & everyday like I usually am able to.
+
+### 1shlyun | r/Mommit | 2026-04-10 | baby_9_12_months | parent_unspecified | patterns 5
+
+About: Parent feels guilty gaming while baby plays with older sibling. Wants: Reassurance that gaming briefly while children are awake is acceptable. Already did: Games one morning hour; provides playlist, food, diaper changes and attention.
+
+- `sr008-0071` (pain) I grew up on gaming. My first console was a Nintendo 64 and I have always enjoyed video games. However, ever since giving birth last year I feel guilty any time I play while my baby is awake. My baby (11 months 😭) plays with my adoptive son (5 years old) and I am very attentive to their needs. I'll make them food and change her diaper as needed. No one is neglected. I even turn on their playlist but I still feel guilty for playing a few matches in the morning. Am I alone in this? Is it okay that I play a little bit while they're awake? Idk. I just feel bad.
+- `sr008-0072` (belief) I go to sleep when they sleep and I only play for an hour in the morning. Trust me, all I think about is how time is fleeting.
+
+### 1sj2uyu | r/NewParents | 2026-04-12 | baby_2_4_months | new_mother | patterns 1,5
+
+About: Mother worries limited tummy time will worsen baby's flat spot. Wants: Ways to improve tummy-time tolerance and prevent worsening flat spot. Already did: Doctor assessed flat spot; brief tummy time; bought carriers and ring sling. Paid: Multiple carriers and ring sling.
+
+- `sr007-0074` (trigger_moment) Hello! New mom with a 3 month old (tomorrow). Baby has a minor flat spot on her right side and doc confirmed it’s mild. Just told us to do as much tummy time as she can tolerate.
+- `sr007-0075` (tried_failed) I try when I’m with her but she doesn’t last long..maybe 3 min or so and then I have to pick her up. She no longer likes lying in our chests and she hates every carrier I’ve bought for her. I just bought a ring sling to try but I haven’t had a chance to figure it out.
+- `sr007-0076` (fear) Any advice? I guess I’m worried about her flat spot getting worse bc she does spend a lot of time on her back bc that’s when she’s happiest. She’s not always wanting to be held and when we put her down on her little play mat, she’s totally chill.
+- `sr007-0077` (question) Will the flat spot eventually even out or do I need to figure out how to get her to like tummy time? Hoping this ring sling works…
+
+### 1sjqxn2 | r/NewParents | 2026-04-12 | toddler_12_18_months | new_mother | patterns 5
+
+About: Oversleeping mother fears quiet independent baby suffered trauma or brain damage. Wants: Prevent oversleeping and know whether unattended waiting harmed baby. Already did: Reviewed nursery footage; tried vibrating wrist alarm; read old studies.
+
+- `sr008-0092` (trigger_moment) please I need advice desperately. today my son woke up at 630am and I woke up at 9am. he didn't cry at all. when I woke up I immediately freaked out and checked my nursery cam only to see him sleeping, but I played back the footage and realized he had been awake for 2.5 hours before he eventually just fell back asleep around his usual nap time. I feel like absolute garbage.
+- `sr008-0093` (pain) This has happened before once when he was 3 months and again just a bit shy of being 8 months. just like this time he didn't cry at all he just sat patiently waiting for me to come get him until he fell asleep.
+- `sr008-0094` (pain) I don't know what to do with myself, my poor sweet boy is so sure that I will show up soon, he just sits up and waits for my arrival.. he will eventually play with the 2 plushies he has in his crib, but how can I keep letting this happen?!
+- `sr008-0095` (fear) if I set an alarm on my phone it will wake him up before he needs to wakes up, but if I don't I'm scared he will keep being left all on his own with a peed diaper and hungry.
+- `sr008-0096` (fear) what should I do?? am I causing him trauma or brain damage? I read that even being ignored for 10 minutes while in distress can cause babies to have irreparable brain damage that can lead to chronic issues in their adult life.
+- `sr008-0097` (belief) Okay this was so reassuring! I truly felt like such an irresponsible mom especially because he is my first and I tried for 8 years to have him. Thank you for the kindness.
+- `sr008-0098` (belief) 🥹 this is very good to know, it's my first baby so I had no idea parents aim for their babies to do this. It honestly scares the crap out of me especially on mornings like this. Thank you so much for your kind words.
+- `sr008-0099` (tried_failed) I haven't heard of alarms that turn on the lights! I'll have to look into it. Our house was built into the late 60s so the walls (though really sturdy) are very thin, we can hear a mouse fart in the basement kind of noise pollution lol I tried having a vibrating alarm on my wrist but it didn't work for me.
+- `sr008-0100` (belief) I'm sorry, it's my first baby and took 8 years of infertility to achieve so I am a bit anxious and paranoid.. it's why I came to reddit where other moms with more experience can help me understand what's actually going on. It wasn't my intent to spread lies it was information I got from a handful of studies done in the 50s. I was only mentioning those studies because I didn't know how true they were and figured experienced moms could clear that up for me.
+- `sr008-0101` (belief) Luckily my son is alive and healthy despite my ignorance in a field I have no experience in, but like him I am learning as we grow together.
+- `sr008-0102` (others_said) He has always been incredibly patient, my mom calls him a trick baby? Lol
+- `sr008-0103` (tried_failed) I did try this but it wouldn't wake me up 😅 but I am really grateful for your suggestion about setting an alarm that starts the day for the both of us!
+
+### 1sksi2w | r/beyondthebump | 2026-04-14 | baby_6_9_months | new_mother | patterns 5
+
+About: Working mother feels inadequate despite baby's good developmental progress. Wants: Stop feeling inadequate without becoming stay-at-home mother. Already did: Provided light-up toys, play mat and Skip Hop; ran errands; offered solids inconsistently.
+
+- `sr010-0157` (pain) I’m a first time mom to a 7 month old. I get constant reassurance and our girl is doing developmentally great, but I just feel like I’m not doing enough.
+- `sr010-0158` (belief) She is very close to crawling (like literally can basically do it but gives up after like 2 seconds of going), laughs and smiles constantly, loves playing with toys that light up and make noise, so so curious of everything, truly is happy 90% of the day, and sits up fantastic on her own.
+- `sr010-0159` (pain) I just still can’t help but feel like I’m not doing enough. Sometimes I’m not great on consistency with purées and real food because I’m a working mom (nurse) and my husband works a blue collar job so he has long hours as well.
+- `sr010-0160` (pain) Sometimes she plays on her play mat alone or is in her skip hop for a bit while I sit for a little while to get off my feet after work. My husband gets up with her most times at night (once a night) yet sometimes I just don’t feel like doing bedtime.
+- `sr010-0161` (pain) I have a day off once a week and I feel so guilty if her and I have to do something in town like errands because I feel like I’m wasting time with her. I feel like I’m failing and I don’t even know why. She is my whole entire world and I just feel like I’m not doing enough.
+- `sr010-0162` (objection) I know that being a SAHM is not what I desire and my only answers from people are to be a SAHM. I love her SO much, but I very need adult interaction and I love being a nurse so much
+- `sr010-0163` (question) Has anyone felt like this? I know I’m not being a lazy mom and I’m not doing enough, but it just feels like it so often. How do I not feel like this?
+
+### 1slg1lj | r/NewParents | 2026-04-14 | baby_6_9_months | parent_unspecified | patterns 1,5
+
+About: Mother worries multilingual nanny may affect baby’s babbling and speech. Wants: Honest experiences about multilingual caregivers’ effects on baby speech. Already did: Nanny two days weekly since six weeks; English exposure; plans fuller-time nanny.
+
+- `sr008-0154` (desire) Hi all – looking for some honest perspectives from other parents, especially those in multicultural households.
+- `sr008-0155` (belief) I’m a British mum living in NYC with my Indian husband, and we have a 7-month-old son. We don’t have any family support here, so since he was about 6 weeks old we’ve had a nanny two days a week. She’s been amazing with him – really caring and consistent – and honestly feels like part of our extended family.
+- `sr008-0156` (belief) She’s Tibetan and speaks Hindi (mainly with my husband), and some English with me. Right now it hasn’t been an issue since I’m usually around on the days she’s here, so our baby gets plenty of English exposure too.
+- `sr008-0157` (fear) I’m hoping to go back to work when he’s around 9 months, which would mean the nanny becoming more full-time. My only concern is around language development – he’s not really babbling yet (lots of squealing, very observant and engaged otherwise), and I’m probably overthinking whether more time with a non-native English speaker could impact his speech.
+- `sr008-0158` (question) Has anyone been in a similar situation with a multilingual nanny or household? Did it affect your baby’s speech development at all, or am I overthinking this stage?
+
+### 1smcel7 | r/NewParents | 2026-04-15 | baby_6_9_months | parent_unspecified | patterns 1,5
+
+About: Parent fears assisted sitting prevented baby's independent sitting and crawling. Wants: Reassurance that assisted sitting has not damaged future movement. Already did: Started solids on doctor's advice, seated baby, tried teaching sitting.
+
+- `sr015-0003` (fear) My LO is 6 months. We started her on solids a month ago and also started sitting her up for feeding in a high chair for safety. She loves to eat and honestly now a month in - she can sit unaided basically anywhere. But she can't actually sit herself, needs to be sitted by us. She started hating lying on her back and tummy. She moves very vigorously but only backwards and she is frustrated...I don't see her trying to sit herself or start crawling forwards, she just starts to cry, no toy is enough motivation to move.
+
+Did we break her by teaching her to sit unaided? We were told by the doctor to start solids asap due to her intense spitting of milk and had to have her sitting for her own safety... 
+
+i know it is totally ridiculous but I worry she will never learn to sit herself or crawl or walk... :'(
+- `sr015-0004` (belief) Maybe it is the problem of where I am from - I'm from central Europe and here all doctors and PTs basically tell us babies should not be aided in sitting/crawling/walking and because of that I fear that I am hurting her by letting her be seated when she is maybe not ready yet
+- `sr015-0005` (tried_failed) I'm trying to teach her but I think her arms are too weak still
+
+### 1smfnls | r/NewParents | 2026-04-15 | baby_9_12_months | new_mother | patterns 1,5
+
+About: Working mother feels guilty about baby's slower milestones. Wants: Help son reach milestones and relieve guilt. Already did: Returned to work at six months postpartum.
+
+- `sr011-0027` (pain) Hi, I'm really just posting this because I feel like a terrible mum. My baby is nearly 10 months, and isn't crawling, imitating us, able to pull to stand or cruise yet. I had to go back to work at 6 months pp and already feel a lot of guilt. My friend keeps posting her baby hitting the above milestones, and he's 6 weeks younger than my baby. I just feel like such a failure as a mum because i dont have the time to spend with him on his milestones. Is there anything I can do to help my son?
+
+### 1sp19l1 | r/sahm | 2026-04-18 | toddler_12_18_months | experienced_mother | patterns 2,5,9
+
+About: Mother fears insufficient activities will hurt children's future success. Wants: Know whether daily outings and limited extracurriculars are enough. Already did: Daily parks, libraries, beach; preschool and weekly sport for older child.
+
+- `sr014-0088` (fear) Was talking to a sahm yesterday and it was one of those interactions that made me feel inadequate, like I'm failing my kids and not doing nearly enough. Went to sleep thinking I'm a lazy mom and my kids are not gonna be successful adults. My 4y old is in a very part-time preschool and doing sports once a week and my 1y old is just home full time no extracurricular activities. But we do daily outings like parks, libraries, beach etc.
+- `sr014-0089` (others_said) This mom who I spoke to has all her kids in full time private school, multiple sports, music lessons, Sunday language/culture school, and I may have missed a few other things she mentioned, but she was SO proud of how busy they are, and i'm not sure if she was bragging or what, but it definitely made me feel like crap.
+- `sr014-0090` (question) So I came on here to get a general consensus of how old everyone's kids are and how busy you guys are keeping them, I just wanna get an idea of if I'm doing enough or not enough.
+
+### 1sqic71 | r/NewParents | 2026-04-20 | toddler_18_24_months | parent_unspecified | patterns 3,5
+
+About: Parent fears damaging toddler by yelling; finds relief crying to husband. Wants: Share insight about redirecting anger and vulnerability. Already did: Yelled at toddler, cried to husband, discussed months of exhaustion.
+
+- `sr015-0060` (trigger_moment) Last Tuesday around 8 PM, my 18-month-old was screaming because I gave her the "wrong" cup. You know, the blue one instead of the yellow one that was literally in the dishwasher.
+
+I was so close to losing it. That familiar heat rising in my chest, the words already forming in my throat.
+
+But something stopped me. I don't know what. Maybe because she looked so small. Maybe because I was just... too tired to even yell.
+- `sr015-0061` (fear) So I turned around and walked into the kitchen where my husband was doing dishes, and I just... broke down. Ugly crying. The kind where you can't breathe.
+
+And I said things I'd been holding in for months. About how exhausted I am. How I feel like I'm failing every single day. How I'm terrified I'm going to damage her.
+- `sr015-0062` (regret) When I yell at my baby, I feel powerful for like 2 seconds, then guilty for the next 8 hours. I replay it at night. I promise myself I won't do it again. And then I do.
+- `sr015-0063` (belief) But when I cried at my husband? I felt weak in the moment... but I didn't feel guilty after. I felt lighter. Like I'd released something instead of pushing it down.
+
+I think I've been putting all my frustration on the person who can't fight back (my daughter) because it feels "safer" than being vulnerable with the person who can (my husband).
+
+That's messed up, right?
+- `sr015-0064` (desire) I'm not saying I solved anything. I still snapped at her yesterday morning when she threw her breakfast on the floor. But that moment in the kitchen made me realize something:
+
+Maybe I don't need more patience with my toddler. Maybe I need more honesty with the adults in my life.
+
+**Has anyone else noticed this? Like... where's your anger actually going?**
+
+### 1swke9l | r/NewParents | 2026-04-26 | newborn_0_8_weeks | parent_unspecified | patterns 2,5
+
+About: Parents unsure whether to continue tummy time through newborn's distress. Wants: How to handle crying during tummy time without causing stress. Already did: Followed doctor's tummy-time recommendation; read about cortisol.
+
+- `sr020-0124` (others_said) My baby is 8 weeks old. At our first appointment, the doctor recommended starting tummy time with about 5 minutes and gradually increasing it to around 30 minutes total per day.
+- `sr020-0125` (pain) We’ve been trying, but she cries a lot during tummy time, and this cry feels different — louder and almost like she’s genuinely upset. My husband and I are unsure what to do.
+- `sr020-0126` (question) Should we let her cry through it for a minute or two (or longer) and continue tummy time, or should we pick her up when she starts crying? If we pick her up right away, will she start associating crying with getting out of something uncomfortable?
+- `sr020-0127` (fear) I’ve also read that crying can raise cortisol levels, which made me wonder if letting her cry during tummy time is actually not a good idea.
+- `sr020-0128` (question) Would love to hear how others handled this.
+- `sr020-0129` (objection) That makes sense to me. If babies eventually learn to hold their heads on their own anyway, why is tummy time encouraged so intentionally if it causes her stress?
+
+### 1sx5t1r | r/beyondthebump | 2026-04-27 | toddler_12_18_months | parent_unspecified | patterns 5,9
+
+About: Parent fears thirteen-month-old felt abandoned during tearful first daycare drop-off. Wants: Express distress about first drop-off and fear of abandonment. Already did: Stayed home thirteen months; dropped child at daycare and cried.
+
+- `sr020-0143` (fear) Today is my daughter’s first day of daycare and I had such a hard time dropping her off. She’s 13 months old and I’ve been home with her since she was born. I was able to keep it together until she started bursting out crying as I was about to leave. I feel terrible because I started to cry and I think she saw me. I’m worried that she’ll think I abandoned her. Me crying probably made her more scared. I feel awful
+
+### 1t1ku6x | r/ScienceBasedParenting | 2026-05-02 | baby_2_4_months | parent_unspecified | patterns 5
+
+About: Parent seeks evidence about background screens and cognitive development. Wants: Evidence whether seeing background screens harms development independently of reduced interaction. Already did: Reads peer-reviewed studies; avoids baby screens; uses iPad nursing and napping.
+
+- `sr022-0047` (pain) I’m still trying to learn about the impact of screens, however I feel like everyone has an opinion on this and I’m bombarded daily with views and it’s difficult to figure out what is evidence based and what is opinion.
+- `sr022-0048` (belief) My husband and I have decided it will be zero screen time until she’s at least one year old, and I doubt we would even do it then, if so maybe the odd Disney movie or something when she’s a bit closer to 2, but that’s for later on. But I’m trying to figure out what the impact of background screens are.
+- `sr022-0049` (fear) For example, I have my iPad on when she’s breastfeeding or when she’s napping. We’re not a leave the TV on all the time type of family, I rarely put the TV itself on unless we were going to sit down for a film or something. But I have had lots of stuff popping up in my feed about how even the exposure of a screen can impact her cognitive development.
+- `sr022-0050` (question) The peer reviewed studies I have read don’t specifically touch on this, the evidence is more about how if we are watching screens, we are less likely to interact with our children so that impacts their development in terms of language and etc. But is there anything specifically showing beyond that just seeing a screen will negatively impact her?
+
+### 1t2bvs7 | r/ScienceBasedParenting | 2026-05-03 | baby_6_9_months | parent_unspecified | patterns 5
+
+About: Parent weighs screen soothing against continuous crying during road trip. Wants: Know whether occasional screen soothing risks harmful dependence. Already did: Generally avoided screens; noticed baby watches television.
+
+- `sr023-0049` (pain) We're going on a road trip with a 6 month old. He hates being in his car seat and just cries while in it. 
+- `sr023-0050` (belief) We've never really had him around screens, but notice he does really try to watch the TV the few minutes here and there we have it on around him.
+- `sr023-0051` (fear) We're thinking a low stim show might be an option for the road trip. Is there any risk to this? I'm concerned about forming habits where he becomes reliant on screens for soothing in the car or elsewhere. 
+- `sr023-0052` (question) Looking for info on if there's any drawback to having him watch a show in the car, and if that's potentially more harmful than having him cry.
+
+### 1t5le2f | r/sahm | 2026-05-06 | toddler_18_24_months | parent_unspecified | patterns 2,5,10
+
+About: Comparing unstructured toddler days with seemingly perfect mothers. Wants: Reassurance that unstructured outdoor days can raise a capable, good child. Already did: Outdoor play, parks, nature trails, mom meetups, discussion with husband.
+
+- `sr026-0001` (belief) And it’s lowkey upsetting. I’m a mom to a 23mo perfect messy wild child little boy. He’s incredible and fun and exhausting and wears me out. I only just started making mom friends. Im 31 and none of my friends have kids.
+- `sr026-0002` (pain) I’ve put myself out there and managed to scrounge up a mom friend who introduced me to her other mom friends. These women are actually perfect and SO welcoming to me and my son. They have it all together. They have these sweet well-behaved children and these daily schedules they seamlessly follow and clean lovely homes and they bake and craft and are soooo calm and well-regulated and are just everything I wish I could be. But I’m not.
+- `sr026-0003` (belief) I’m a very unstructured, go with the flow, make a mess and worry about it later, barefoot, doors open all day, dirt tracked in the house, chasing after a naked toddler, outside in the mud, make it up as I go along type of person. Even on my best days when I do manage to have a few “structured” days in a row.
+- `sr026-0004` (pain) It works for us, although I’m almost always an anxious stressed out mess on top of it all & always internally panicking & flailing to get basic chores done. So maybe it doesn’t really work but we get through the day and have fun and destroy the house.
+- `sr026-0005` (fear) I’m not trying to be someone I’m not. I’ve never been anywhere close to how these women are but wow do I feel like SHIT about myself after we hang out. Not like they mom shame me at all, nor do they try to make me feel like shit on purpose they’re genuinely nice people, but they do try to give me advice when I don’t ask for it and it’s like damn… am I just fucking up my kid? Am I raising him in a way that’s not setting him up for success as he gets older? Is it that obvious I’m just living in catch-up mode?
+- `sr026-0006` (desire) So now I’m just in a self-critical spiral getting emotional at the state of my house while my baby naps. And I want to try to find a balance of being more put together, feeling like a proper “mom” but still being myself. And idk what that looks like. It’s just so hard not to compare yourself to other moms. I can role my eyes at the “perfect parents” on social media but when it’s real life and it’s time after time seeing how other people live and raise their kids I cannot help but be like wtf am I doing and why can’t I do it like THAT.
+- `sr026-0007` (fear) These women were actually born to be mothers. I was not. The homemaker stuff isn’t my strong suit but neither is anything else so I’m just winging it and doing my best. I just feel so inadequate and I often feel like my son deserves so much better than me. Sometimes I wish I could go back and just not have any mom friends and live in my chaos bubble with my son again and not feel so shit. Idk I’m just venting. It’s hard. I just want to be the best mom I can be and I’m so scared I’m f\*cking it all up.
+- `sr026-0008` (question) No you’re so right. A lot of these things don’t matter to me but then I wonder if maybe they should, if that makes sense? That’s where I tend to spiral - like will more structure and routine day after day be more beneficial to my child in the long run or are open-ended days spent in the yard exploring and letting him lead (lead in play & choose what he wants to do not like lead when he takes a nap and eats meals etc) which is how we usually live enough… if that makes sense.
+- `sr026-0009` (desire) We also go out and mostly do outdoor activities like nature trails and parks where these moms take their kid to the library and that’s just never really been something I’ve felt called to do with him. Idk at the end of the day I know it’s just different kids and different parenting styles. I just so badly want to set my son up to be kind, resourceful, creative, and strong. And therefore want to make sure I’m doing this to the best of my ability. But we all do I guess.
+- `sr026-0010` (success_story) I was super in my feelings obviously lol when I wrote this and you’ve given me a great perspective and help me touch grass. Even this afternoon I was able to clean my kitchen, clean my bathrooms, bathe my kid, cook dinner, put away all the toys, and  overall be very productive. I’m not a mess I’m just different from them. And that’s ok. Like I said at the end of the day I just want to raise a good human and there’s a lot of pressure that comes from that.
+- `sr026-0011` (belief) Thanks for that. My mom tried her best to make me that way but it just never stuck lol. 
+My SIL is much more like me and she always apologizes about the state of her home like I give a damn 😂 so I do appreciate that perspective. I’m not a full disaster and I can manage to keep my house under control. I guess I just more so worry about the lack of daily routine we have. Unless we have specific errands I need to run we just kind of do whatever at home. But honestly I’d rather just be outside looking for bugs and picking flowers and digging in dirt and playing in the hose than trying to make him do quiet time or add more undue stress by forcing some sort of rigid schedule. 
+I try to be out of the house in the mornings then lunch & nap at home then play at the house. We don’t always get out, but that’s ok. And after sobbing to my husband about basically what I posted (my husband is a very disciplined together person for the most part) he assured me basically of all this. That I’m doing a good job & I’m my son’s mom for a reason - because I am the way I am and he fits in with our family perfectly. So I just needed to spiral for a minute then remember it’s fine and I’m fine and my kid is thriving and that’s all that really matters. I just want to set him up to be able to do life to the best of his ability and there’s a lot of pressure on us to not mess up our kids and sometimes that pressure gets to me.
+
+### 1t9qmzt | r/daddit | 2026-05-11 | newborn_0_8_weeks | parent_unspecified | patterns 5
+
+About: Fear helping newborn pass stool prevents independent bodily learning. Wants: Know whether helping pass stool hampers learning without support. Already did: Moves baby's legs into frog position before changes; informed doctor.
+
+- `sr027-0183` (pain) We have an extremely gassy baby that is struggling to poo completely. We will here here poop, wait 10 - 15 minutes to change her, but sue will still be upset and have an extremely firm belly.
+- `sr027-0184` (belief) I learned early on that I could help her before changing by taking both her legs and pushing them up into a frog position and wiggling them around. I will often get out multiple extra pots at the least and often more poo as well.
+- `sr027-0185` (belief) She usually poos about 10 times a day and I'm doing this pretty much every time.
+- `sr027-0186` (fear) I'm worrying that I may be providing a crutch and hampering her ability to learn how to work through it without help.
+- `sr027-0187` (pain) It's just so hard not to knowing how much it pains her otherwise. What do you guys think?
+- `sr027-0188` (belief) Doctor knows about that. They aren't massive poops every time. Just a bunch of little ones.
+- `sr027-0189` (belief) 4 weeks (born 3 weeks early)!
+- `sr027-0190` (belief) Yep. We are also using those a lot! Glad to hear it worked out well for your son!
+- `sr027-0191` (belief) Very helpful information. Actually amazing how I haven't come across that term yet! Thank you!
+
+### 1tc7cep | r/beyondthebumpUK | 2026-05-13 | baby_2_4_months | new_mother | patterns 2,5,9
+
+About: Guilt over avoiding costly baby classes despite sensory play at home. Wants: Reassurance home activities are enough without expensive classes. Already did: Walks, shops, bought sensory items, does home sensory play, learned massage privately. Paid: Sensory play items.
+
+- `sr027-0236` (belief) I don’t really do much at the moment. My baby is 9 weeks old
+- `sr027-0237` (belief) We go for walks with the dog, food shopping etc but I haven’t been to any classes or anything.
+- `sr027-0238` (others_said) I feel like every mum from my antenatal and other mums I bump into are all attending Everyman cinema baby club, Pilates with their babies, baby massage classes.
+- `sr027-0239` (objection) 1) I can’t really afford these things. They’re pretty expensive   
+2) even if I was flush for cash, I’m not sure I’d want to
+- `sr027-0240` (pain) I wasn’t the most social before having a baby. I find it hard to talk to new people as I suffer with social angst quite badly.
+- `sr027-0241` (fear) I just feel like I’m not doing enough for my baby.
+- `sr027-0242` (purchase) I’ve bought loads of cool sensory stuff and I sort of do my own sensory classes at home with him. But that’s all.
+- `sr027-0243` (desire) Just kinda want to hear that I’m not the only mum who doesn’t do all these extravagant things
+- `sr027-0244` (success_story) The baby massage lady did private call outs here to my house to show me some techniques and I really enjoyed that - it’s super helpful! Thanks for your reply 🥰
+- `sr027-0245` (fear) No I definitely don’t want to. I’ve just noticed every mum I speak to does (bar maybe 1) so I feel like I’m doing it wrong
+
+### 1tf7a2k | r/Parenting | 2026-05-16 | toddler_18_24_months | parent_unspecified | patterns 5
+
+About: Worry about toddler coping with move and multiple transitions. Wants: Tips and reassurance about major transitions. Already did: Planned temporary accommodation and new daycare.
+
+- `sr033-0036` (trigger_moment) Hi! My husband and I will be moving back to our home state in a few weeks to be closer to family. Our son is 20 months old and I’m worried about all the transitions. When we arrive, we’ll be staying with in-laws for 2 nights, then an Airbnb for \~2 weeks until our new home wraps up some renovations. During all of this, he will also be starting a new daycare. 
+- `sr033-0037` (fear) I know toddlers are resilient but I’m so worried about how all these big changes will affect him. On top of that, I’m expecting our second (due August).
+- `sr033-0038` (question) To those who have done big moves at this age, will we survive lol. Any tips or advice?! TIA!
+
+### 1tjhx9q | r/ScienceBasedParenting | 2026-05-21 | baby_2_4_months | parent_unspecified | patterns 2,5
+
+About: Parent questions talking, reading and music balance for young baby's development. Wants: Evidence on talking, serve-and-return, songs, reading and overstimulation. Already did: Watched two videos; read about overstimulation; consulted parenting book reference.
+
+- `sr032-0125` (belief) My son is 2.5 months old and I have few doubts about talking to him that pertains to the title of this post.
+- `sr032-0126` (question) 1. Even though there is solid research on the positives of talking to the babies, is there any data on talking too much? From an adult perspective, I would find it annoying to be talked to all the time. Does that apply to babies?
+- `sr032-0127` (others_said) 2. About serve and return, I watched an amazing [video](https://youtu.be/s0TXXSE8Q4c?si=TinaSXEmi7EHi3JS) by Dr.Fowler referenced in Brain rules for the baby book.  As per him, if the baby looks away when talking, he asks to give the baby a break before they focus on you again. However, in this [video](https://youtu.be/KNrnZag17Ek?si=JgyHgGQL7uVOZQGs) referenced in one of the comments from this sub, it says to talk about what the baby is looking at if they look away. What is the right balance in this case?
+- `sr032-0128` (question) 3. What do the moms talk to the baby during breastfeeding?  Should we leave that space and just be mindful with the baby or should I fill that silence with any conversation? It is one of the longest amount of time that the baby makes eye contact as a 2.5 month old and I'm not sure if I should connect vocally with the baby during that time.
+- `sr032-0129` (question) 4. When we were babies, were we talked to this much? Irrespective of that, aren't we a bunch of well rounded adults with critical thinking? Does that mean, we would have had more IQ than what we have now if we were talked to a lot as well?
+- `sr032-0130` (fear) 5. Can I play normal songs that aren't rhymes or development based songs around the baby? I read that babies might get overstimulated with the constant one way communication that happens with TV or an audiobook(Couldn't find the source atm). Does that apply for songs too?
+- `sr032-0131` (question) 6. Can I read the normal books I read in Kindle around him, out loud? Will that help in any way or should they be the children's books mainly?
+
+### 1tmc37l | r/Parenting | 2026-05-24 | baby_9_12_months | new_mother | patterns 5
+
+About: Mother fears shouting at eleven-month-old caused lasting trauma. Wants: Reassurance about lasting harm after shouting. Already did: Returned to work; shouted during prolonged crying; gave bottle.
+
+- `sr037-0016` (trigger_moment) I will probably delete this, but I just feel so bad, lost and sad. I shouted at my 11 month old. Like really shouted!! I was back to work 2 weeks ago, and I was ill with a bug that my son got from starting daycare. He cried non stop this morning and I was already feeling exhausted and over stimulated and I just snapped and shouted at him to shut up. He actually flinched and then cried still but I was horrified at my actions.
+- `sr037-0017` (fear) He's sleeping now after a bottle of milk and I'm just sat here crying, hating myself, feeling so ashamed. Have I scarred him? Will he have trauma, something that he doesn't remember but lingers?
+- `sr037-0018` (belief) I wanted this baby so much and we went through heartache and years of infertility that I always feel I'm not allowed to get upset or complain when going through a ruff time being a mother.
+
+### 1tp66xo | r/toddlers | 2026-05-27 | toddler_12_18_months | new_mother | patterns 5,8
+
+About: Mother fears bedtime gaming harms toddler's development. Wants: Know whether watching bedtime games risks development or screen addiction. Already did: Cosleeps; calm Switch games; Kindle; limits screens; children's television.
+
+- `sr037-0060` (belief) So my little one will be 18 months next month. We cosleep. The only time I really get to play my Switch or read (I use a kindle on dark mode) is when she’s asleep next to me, I get 1-2 hours to myself before I end up dozing off too.
+- `sr037-0061` (success_story) Well, she got in the habit of watching me play my Switch and it was actually quite cute. She will lay her head on my shoulder to watch, and end up falling asleep that way before eventually rolling to her other side. She has now been Pavlov-ed into it. When we’re getting ready for bed she will grab my switch off the nightstand and say “mommy game!” Which is quite adorable.
+- `sr037-0062` (fear) I am just worried about screen time and wanted to see if anyone else thought this could be detrimental in some way. I am probably overthinking it. We are staunchly anti-tablet and she does not get to play with our phones. She does watch TV, primarily Ms. Rachel and Sesame Street, we avoid overstimulating brain rot type of stuff. The games I play on my switch are pretty chill too; Animal Crossing, Stardew Valley, etc. Nothing too loud, flashy or potentially scary for her.
+- `sr037-0063` (fear) I’ll add she is incredibly advanced in terms of speech and cognitive development (I’ve lost track of how many words she knows), so I am probably thinking into it too much. I just don’t want to do anything that’s gonna interfere with her development or start a screen addiction.
+
+### 1trftew | r/beyondthebump | 2026-05-29 | baby_6_9_months | parent_unspecified | patterns 5
+
+About: Worries baby interpreted playful slap and affection as abuse. Wants: Use words and gentle hands. Already did: Cuddled and kissed husband after baby's reaction.
+
+- `sr045-0020` (trigger_moment) Sooo today I was just tidying around the kitchen, babe in high chair and husband on the dining table
+- `sr045-0021` (trigger_moment) Husband said a joke to wind me up and I went stomping over to give him a little tap on his face as a playful joke
+- `sr045-0022` (trigger_moment) BUT my 8 month old watched the whole encounter with a shocked face and stared blankly at me
+- `sr045-0023` (regret) I felt awful and immediately cuddled and kissed my husband to which baby responded with a delayed smile albeit a bit confused
+- `sr045-0024` (fear) Then I thought have I worsened things by showing affection after what he’s interpreted as abuse 😭
+- `sr045-0025` (desire) Anyway moral of the story is - I need to use “my words or soft hands” 🤣🤣
+
+### 1ts97yq | r/Parenting | 2026-05-30 | baby_9_12_months | parent_unspecified | patterns 2,5,6,9
+
+About: Fears screens and limited outings stunt baby's social development. Wants: Avoid social and motor delays. Already did: Background cartoons, toys, weekly baby gym, occasional outings.
+
+- `sr045-0032` (fear) i think i'm stunting my baby's development
+- `sr045-0033` (fear) my baby is nearly 11 months old. he generally meets most of his milestones, sometimes early and sometimes late. what im worried about is his social and motor skill development; i think im not taking him outside or around other people enough.
+- `sr045-0034` (pain) i play his favorite cartoon in the background for most of the day and he doesn't always sit and watch it but its still on. he likes to lay in bed with me and his father and watch us on our phones. we've started taking him to a baby gym class on wednesdays. but most of the time it's just me and him in our little room with a few baby toys and i dont have the energy to be ms rachel to him all day. i have back problems and its hard for me to take him outside because hes 25 pounds, his car seat is another 5, and theres so many stairs between me and the car or even the outside. i also have to carry my purse and his travel bag.
+- `sr045-0035` (fear) i know these are excuses but its why i dont take him out often unless i HAVE to go to the grocery store or i have plans with friends. i know hes bored of the house, he spends a lot of time whining for his father, and im running on empty. i'm scared he's going to be noticeably behind socially. he loves people and is generally more confident than a lot of babies i've seen but in his baby gym class he tends to observe more than participate and i worry it's because i let him watch too much tv or us on our phones.
+
+### 1ttgr3l | r/ScienceBasedParenting | 2026-06-01 | toddler_12_18_months | parent_unspecified | patterns 5
+
+About: Fear inconsistent sleep responses have damaged baby's attachment. Wants: Research and guidance for helping child develop secure attachment. Already did: Sleep training; stopped CIO; responds and pats baby; reads articles.
+
+- `sr041-0023` (tried_failed) Have a newly turned one year old.   
+Have tried sleep training and it worked for a time but has never truly stuck.   
+Have stopped the CIO & just respond and try to meet baby in the middle. 
+
+Ex: Wants boob? Well I will pat your butt until you fall asleep
+- `sr041-0024` (others_said) Came across a post that said that if main caregiver sometimes responds at night and sometimes doesn’t this might lead to insecure attachment.
+- `sr041-0025` (pain) And tbh this has happened to us. There have been nights where I try to let her fuss it out a bit to see if she will go back to sleep. Sometimes it works sometimes it does not. When it turns to fall on crying I try to respond. Sometimes I doze off from exhaustion and idk how much time has gone by until I respond.
+- `sr041-0026` (fear) I guess I’m wondering if I have permanently damaged my child and if there is any research that shows how to proceed? 
+
+I feel incredibly awful and guilty. 
+
+How to proceed to help my kid have a secure attachment?
+- `sr041-0027` (success_story) Thank you so much! I’ll be looking into all of these articles. I am very responsive during the day. You have helped me feel infinitely better.
+
+### 1tuppzy | r/toddlers | 2026-06-02 | toddler_12_18_months | parent_unspecified | patterns 1,5
+
+About: Guilt and comparison over seventeen-month-old not walking. Wants: Relief from self-blame about delayed walking. Already did: Doctor referred child to PT; discussed milestones online.
+
+- `sr041-0041` (pain) How do I get over the guilt and shame that I feel that my almost 17 month old isn’t walking yet? I feel like it’s all my fault. Her cousin who is 16 months old has been walking for two months almost. I just don’t know what we could’ve done better. I’m not ashamed of \*her\*. I am ashamed of myself! Is this normal?
+- `sr041-0042` (fear) Oh I’ve seen it 😭😭 I guess I’m just stressed since we’re really coming up on the “developmental milestone cutoff” for the doc. She already referred us to a PT. By the way, it does make me feel better.
+- `sr041-0043` (belief) You’re right, I’ve literally never asked when I started walking until I had my baby lol
+- `sr041-0044` (belief) I know this is so unrelated but that gives me a lot of hope for the two little kids who were saved in Texas from a hoarder house…
+- `sr041-0045` (advice_given) Hey! I’m a personal trainer & that’s what we do too! You should def consider getting one if it’s an option but I know it’s a luxury. Regardless, I appreciate your advice! 🙂🙂
+- `sr041-0046` (belief) My daughter will become an associate VP??? Love it 
+Kidding lol. I appreciate you.
+- `sr041-0047` (belief) Realizing she may have spent all this time working on talking. She talks… a lot 😅 it’s just hard not to get nervous!
+- `sr041-0048` (pain) Was he mad? Because mine is so mad she can’t walk.
+- `sr041-0049` (belief) LOL okay great. I’m sure she will be running soon. She’s a crazzyyyyy baby
+- `sr041-0050` (belief) That’s interesting. Mine said mama at that age. I wonder if it has something to do with left/right brain
+- `sr041-0051` (price_signal) I’m in a HCOL, my rate is $140 through my gym but $80 private. Go private if you can.
+
+### 1tuxn6c | r/beyondthebump | 2026-06-02 | baby_6_9_months | parent_unspecified | patterns 5,10
+
+About: Parent worries distracted gaming father ignoring baby affects development. Wants: Understand effects of distracted caregiving and parental unavailability. Already did: Handles most care; avoids phone around baby; agreed no screens.
+
+- `sr042-0081` (belief) Dad will usually watch our son (8 months old) for me while I cook/clean/shower so it’s usually not for an extended period of time but it’s everyday. I make breakfast/lunch/dinner and his coffee/drinks since he doesn’t cook/etc.
+- `sr042-0082` (pain) But, usually when he watches our son, he will be on his phone or handheld gaming device and just in the vicinity rather than actually interacting. Sometimes he just stands in the playpen while staring at his handheld and our son will try to climb up his leg. Or sometimes he’ll just lay on the floor and just scroll on his phone while our baby tries to climb on him. Sometimes he’ll just prop the phone on top of our son’s head so he can still stare at the phone. Mostly he’s just sitting/laying while scrolling his phone or gaming. Sometimes he’ll just lay on the couch and just shout “I’m here” while still gaming when our baby has been fussing for a while. Sometimes he’ll just be ignoring him babbling while he just stares at his phone and our son is just staring at him saying da da da.
+- `sr042-0083` (fear) He doesn’t want his time with his hobbies impacted so I do most of the caretaking and he just watches our son when I have to do chores/errands (our son struggles with car rides and going in stores so I can’t take him with me quiet yet). My son stays with me while I can do some chores with him like folding and putting away laundry. But not when I’m cooking. Sometimes dad just stays in his office to play games on his computer while our son stays in the playpen and I just run back and forth trying to comfort him. But, I’m not able to give him my full attention since I’m cooking or handling raw meat. I’ll try my best to go comfort him or talk to him but he can be high needs sometimes. What is the impact of this? Me being unavailable when I’m cooking/cleaning/etc or dad being distracted and just staring at his phone? Or just playing games while with our son?
+- `sr042-0084` (fear) I’ve noticed our son starts trying to go on our phones now if it’s on the floor or within reach. I didn’t want our baby to have screen time when he’s young so dad agrees to no screen time for now. I don’t use my phone around him except when I need to quickly make a grocery list and even that I try to sit on the couch and do it discreetly. I’m unable to do things during his naps right now because he prefers contact naps. And I can’t do much after he sleeps because I’m doing more chores and cleaning. I haven’t had any time for any hobbies either but that’s another issue.
+
+### 1ty7zrl | r/NewParents | 2026-06-06 | baby_9_12_months | parent_unspecified | patterns 5
+
+About: Baby learning to walk falls and parent doubts teaching. Wants: Reassurance about accident and helping baby learn to walk. Already did: Cleaned nose after fall; called pediatrician.
+
+- `sr043-0113` (trigger_moment) My 10 months old almost 11 is starting to learn how to walk. After a few steps of not holding anything his face hit the soft spot of the couch then the bottom part(a little bit hard). I got surprised. He cried for like a minute or two then I noticed that his nose had a little blood. He was mad when I was trying to clean his nose(He never liked his nose touched). After getting his nose cleaned he went back to playing and smiling.
+- `sr043-0114` (others_said) I called his pediatrician and she told me there is nothing to worry about as long as he doesn’t vomit.
+- `sr043-0115` (fear) But why does my heart still feel so heavy? I know a lot of accidents will still happen especially he is just starting to learn. Why do I feel like I’m not teaching him right?
+
+### 1u052uj | r/Parenting | 2026-06-08 | toddler_12_18_months | experienced_mother | patterns 1,5
+
+About: Fearing less attention slowed second baby's development. Wants: Reassurance from parents with similar contrasting children. Already did: Constant soothing for first child; less narration and contact naps for second.
+
+- `sr050-0033` (fear) Did you ever feel like you were failing your 2nd in terms of how much you’re nurturing them emotionally and socially?
+- `sr050-0034` (belief) I have a 2.5yr old who was a very very high needs baby. Colic, tongue tie, FOMO, poor sleeper everything. It was a rough rough ride into parenting. I also have a 15m old unicorn baby. I felt with my 1st I struggled so much going from 0-1 children and the attachment she needed was overwhelming. I contact napped, co-slept, constantly spoke to her or sang to try and stop her crying or keep her content. As a toddler she is much calmer and less high needs. She is also very advanced in her milestones, learning and communication.
+- `sr050-0035` (fear) Since my 2nd baby came along I felt like I was so touched out from nurturing my 1st that I just enjoyed the silence and easiness he gave as a baby.. I didn’t need to commentate my day to him because he never really needed that level of attempt to soothe him. Don’t get me wrong we had the odd contact nap but I physically couldn’t give that to him as I had a toddler to care for as well. He’s also slower with his development. Probably average but compared to my 1st I see him as delayed when he isn’t, I just worry that I haven’t given him the same level of mothering that I gave my 1st.
+- `sr050-0036` (question) Does that resonate with anyone?
+
+### 1u1ldah | r/NewParents | 2026-06-09 | baby_4_6_months | parent_unspecified | patterns 2,5
+
+About: Feels guilty leaving content five-month-old alone after naps. Wants: Know whether to leave content baby in crib until fussing. Already did: Leaves baby briefly after naps; responds immediately to crying.
+
+- `sr049-0051` (question) If they wake up from a nap and aren't crying or fussing, do you let them kinda just hang out for a bit by themselves? Do you wait until they start fussing? My LO is 5 months old and will take short naps occasionally but he wakes up usually content to hang for a bit but I feel bad. The second he cries I go to him.
+
+### 1u2hyib | r/Mommit | 2026-06-10 | toddler_12_18_months | parent_unspecified | patterns 1,5
+
+About: Mother worries brain surgery recovery hindered fourteen-month-old’s language development. Wants: Hear similar experiences and advice about language after maternal medical absence. Already did: Compared siblings’ language; sought pediatric visit but appointments delayed.
+
+- `sr047-0073` (fear) I’ll preface with I know every kid is different. I had a major medical event during pregnancy and then another when my second was 6 months old. She is somewhat behind in language development. Our first had a much better grasp on language and communication by this point (14 months) and I’m curious if my medical events and especially recovery over the last 7 months have had an impact on her language development. For context I ended up having brain surgery so recovery was largely me sleeping or maybe being in the same room but I was over stimulated easily, couldn’t lift her or play with her and her sister, read etc. for a while. Anyone who has gone through something similar and has any advice I would really appreciate hearing from you!
+- `sr047-0074` (pain) And yes, I know I should talk to our ped but she is out on maternity leave and they just had to push our 15mo well visit back by a month bc the covering ped is now out on emergency leave
+
+### 1u3nfhb | r/beyondthebump | 2026-06-12 | baby_4_6_months | new_mother | patterns 5
+
+About: Mother feels guilty for sleeping through baby's crying. Wants: Reassurance from others who slept through baby's crying. Already did: Used cry-alarm monitor; checked app; gave extra cuddles after waking.
+
+- `sr049-0131` (regret) I had the cry alarm on the monitor too. Woke up in the middle of the night surprised that babe (5mo)  hadn't woken up yet and went to check on the app... She cried for almost 10 minutes then fell asleep. We are not sleep training and I am against the CIO method. I just feel so awful and don't want her thinking mama isn't coming. I gave her such big snuggles when she woke up again. Has this happened to anyone else?? I can't believe I didn't wake up, her room is right beside ours too.
+- `sr049-0132` (success_story) Thank you so much. This really puts it into perspective and made me feel a lot better.
+
+### 1u539xj | r/beyondthebump | 2026-06-13 | baby_6_9_months | new_mother | patterns 2,5,8
+
+About: New independent play provides relief but triggers mother's guilt. Wants: Share mixed relief and guilt about independent play. Already did: Uses playpen, toys and baby camera while taking television break.
+
+- `sr049-0168` (success_story) My daughter is 8 months and I have never gotten more than 5 mins of her playing by herself in her playpen. Today she for some reason has given me 30+ mins which is AMAZING since I can finally just sit and watch tv and get some me time (which is so few and far between as yall know).
+- `sr049-0169` (pain) Buttttt I have a baby cam on, and I just watched her look for me through the mesh wall and I feel so guilty now. She’s safe and she has toys, she’s fed. But this mom guilt is so crazy
+
+### 1u8nhuo | r/Mommit | 2026-06-17 | baby_9_12_months | experienced_mother | patterns 5
+
+About: Mother fears neglecting children without constant play and conversation. Wants: Know others feel this guilt and what helped them. Already did: Tries active play and conversation; considering therapy.
+
+- `sr053-0092` (question) Hi guys. Never posted here before! I guess I just don’t know what to do, if I need therapy, or if I just need to know other moms feel this way.
+- `sr053-0093` (belief) Quick backstory. Growing up, I didn’t have a very good childhood. Parents always fought and my dad worked basically 90% of the time. I have 1 sister, two years younger. It was just her & I most of the time. My mom was never present, drank a lot, yelled, complained about “how boring” it was to play with us and tbh just never gave us attention or praise or really anything. \*I recognize the situation could be ALOT worse trust me\*
+- `sr053-0094` (fear) Now, cut to present day me. I. Have. So. Much. Mom. guilt. I literally feel like I’m neglecting my kids (4 and 10 months) if I’m doing something besides playing and talking to them. Ex: doing the dishes, cleaning, taking time to myself. I feel such intense stress that if I’m not actively engaged with them (specifically my 4 year old bc he’s just really talkative) that he’s going to think I resent him and that he’ll feel neglected. It adds so much stress and anxiety to my day of always wondering if my kids are feeling happy and loved.
+- `sr053-0095` (desire) I know that what I’m feeling isn’t normal. And I won’t be responding to rude comments. I just want to reach out to see if anyone else has felt this way and what you did about it, or if you currently feel this way. And if you do, or you read all that, 🫶🏼🫶🏼🫶🏼🫶🏼🫶🏼
+
+### 1u9xsgz | r/NewParents | 2026-06-19 | newborn_0_8_weeks | new_mother | patterns 5
+
+About: Low-screen parent asks when shared movies become appropriate. Wants: Age for occasional family movies and storyline comprehension. Already did: Planning low-screen upbringing; shares care with wife; no TV.
+
+- `sr052-0087` (desire) FTM here with a seven week old baby. Obviously it’s early days but we’re planning no screen time - or maybe this only counts as “low” screen time, because one thing I’m really looking forward to is watching movies with her when she’s older. 90s classics, Totoro, some Disney and Pixar, etc etc, maybe once a week as a family activity.
+- `sr052-0088` (question) My question is for parents doing low/no screen time with older toddlers/kids: when did you start watching the occasional movie?
+- `sr052-0089` (question) I’m curious not just about when that amount of screen time feels developmentally appropriate, but also about when they’ll be able to follow a storyline well enough for it to be worth it. (My mum tells a story about taking me to the cinema to see my first ever movie, “Babe” aged four. At the very end of the movie I asked “mum why does the pig think it’s a dog?” The whole cinema cracked up and Mum figured I could wait a little while longer before she bought some VHSes.)
+- `sr052-0090` (belief) I need to get up on the lingo, I thought no screen time was also no TV! So cute that she asks for specific songs.
+- `sr052-0091` (belief) Yes I’m also open to the idea that things change! I know part of the reason that we’re going to try so hard for no screen time is privilege - my wife is on mat leave for a year, I work part time and from home, we’re both very hands on and can switch in and out as the other one needs a break. But will def stay flexible as she grows.
+- `sr052-0092` (desire) Ohhhh I’m so excited for the toniebox when she’s old enough, I would have LOVED something like that as a kid. (I just had one fantastic mr fox audio on cassette that I played until it literally fell apart)
+- `sr052-0093` (belief) I rly like to hear this, thank you! We don’t even own a TV so yeah I’m enjoying not having extra noise around.
+
+### 1ubpozn | r/sahm | 2026-06-21 | toddler_12_18_months | parent_unspecified | patterns 5,8
+
+About: Parent feels guilty using short screen sessions to shower. Wants: Others' low-screen limits and reassurance about guilt. Already did: No screens initially; recently Ms Rachel for showers; hides phone.
+
+- `sr052-0123` (pain) I have been pretty strict no screen time for my son’s first 16mo, but now he’s such an active & curious FOMO baby (which I love!!) but I feel so badly about giving him screens.
+- `sr052-0124` (pain) When I’m trying to shower, I’ve been recently giving my son Ms Rachel (thank the universe for her!!!!). It’s been amazing but I also feel guilty about it.
+- `sr052-0125` (belief) When I look into the research, I notice a trend that scientists/child psychologists often conflate screen time with phone exposure, games on tablets, tvs & any other media. Most/all research supports the fact that screen time is detrimental for babies developmentally.
+- `sr052-0126` (question) I am just wondering, for those of you who would consider you self to be a lower screen time exposure parent, how much are you allowing daily/weekly? Are you also struggling w guilt?! Bc if so help a girl out my guilt is so bad rn 😭
+- `sr052-0127` (tried_failed) Also, what does using your phone in front of them look like? I tend to hide my phone so he can’t see the screen, although he always tries to grab it lol
+- `sr052-0128` (success_story) Oh gosh I love the idea of a bird feeder stream!! My son loves birds. One of his first words was geese lol. And I’ll def check out little bear, sounds adorable.
+
+### 1udqqml | r/ScienceBasedParenting | 2026-06-23 | baby_4_6_months | parent_unspecified | patterns 5
+
+About: Parent fears prolonged independent sitting strains baby's muscles. Wants: Safe duration of unassisted sitting for five-month-old. Already did: Searched for information on sitting duration.
+
+- `sr058-0022` (question) My son is 5 months and starting sitting at 4 months. Im struggling to find information on how long to allow a child his age to sit unassisted.
+- `sr058-0023` (fear) He sits steadily upright without leaning (unless hes reaching for a toy) and he seems happiest when sitting but I worry about putting strain on his muscles on accident. Hes also 95th percentile so hes quite chonky, idk if that changes the recommendation but I thought I would add it just in case.
+
+### 1ue9ry8 | r/NewParents | 2026-06-24 | baby_4_6_months | parent_unspecified | patterns 4,5
+
+About: Parent fears daycare walkers and jumpers harm baby's hip development. Wants: Avoid harmful containers; ask whether donating an activity center is reasonable. Already did: Read about hip strain and toe walking; inspected daycare equipment.
+
+- `sr057-0015` (trigger_moment) USA- My LO is almost 6 months old so daycare is about to start her in their other “containers” during the day.
+- `sr057-0016` (fear) I noticed they literally only have walkers and jumpers which I read is not good for hip development and puts a lot of strain on them and also encourages toe walking. They have no activity centers with an adjustable platform (like the Skip Hop) which I would be fine with as long as it was adjusted to her height.
+- `sr057-0017` (question) So 2 questions… am I unreasonable that I don’t want her in these containers at all? And would it be weird to purchase an activity center for the daycare myself? (For all the kids to use ofc)
+
+### 1uftkq7 | r/beyondthebump | 2026-06-26 | baby_4_6_months | parent_unspecified | patterns 5,10
+
+About: Mother fears letting infant cry makes her a monster. Wants: Reassurance about brief crying break and response to partner's criticism. Already did: Promptly responds normally; brief crying break; checked baby's needs.
+
+- `sr060-0042` (question) Does it make me a monster to let my baby cry?
+- `sr060-0043` (pain) My son is 4.5 months old and I’m a SAHM. My partner goes to work full time during the day and I’m with our lil guy most of the time. Today and these past few weeks have been really hard. We’re going through a sleep regression and just got done moving. Today my son wouldn’t stop crying, every single time I put him down he would scream his head off to be picked up and usually I do respond to every cry near immediately. I couldn’t do it today, I felt like I was going to lose it. He was completely safe, fed, changed, I could visually see him but I needed a minute to not be holding him so I let him cry for roughly 5 minutes while laying on our bed.
+- `sr060-0044` (others_said) My partner got home from work & told me he would take bb and give me some space after he showered. I told him that in that moment I still couldn’t pick him up and needed some space and was going to allow him to cry while I made him a bottle. My partner showered during the time I was letting him cry (we live in a trailer, it’s small, you can hear everything) and afterwards proceeded to tell me “I can’t believe you’re letting him do that. You said you’d never let him cry it out” and then told me I was a monster.
+- `sr060-0045` (fear) It honestly broke me. I struggle constantly with feeling like I’m a bad mom and not doing enough and then to have my partner call me a monster really hurts. Am I monster for letting him cry and taking a moment for my mental health? Should I have picked him up? Please be kind I’m in a fragile space.
+
+### 1ugd6ra | r/Parenting | 2026-06-26 | toddler_12_18_months | parent_unspecified | patterns 5,10
+
+About: Parent wants husband to stop damaging labels for toddler. Wants: Help husband understand why calling toddler an asshole is damaging. Already did: Read parenting guidance on social media; tried explaining concerns.
+
+- `sr057-0045` (pain) My husband loves our son, no question about that, so I don’t think anything he says is said with ill intent, but I’m struggling to communicate to him why some of the things he says are not OK. I’ll admit I’ve gotten A LOT of my parenting guidance through social media, which I don’t think is bad, but I do think sort of undermines me when I try to express my concern.
+- `sr057-0046` (fear) The two things he says the most often that I find could be long teen damaging are:
+- `sr057-0047` (others_said) 1. (Son’s name) don’t be/you’re being an asshole.
+- `sr057-0048` (others_said) 2. He’s going to be a problem.
+- `sr057-0049` (belief) Our son is 16 months. He does of course have annoying behaviors like every other toddler out there, but he’s generally a well-behaved and sweet kid. I think my husband underestimates how much our son already understands and internalizes at this age.
+- `sr057-0050` (belief) For a bit of context, my husband believes he himself was a difficult child, and I’m sure he was to an extent. His father died when he was 5 and my MIL worked longer than normal hours so he had very little parental attention. I also know my MIL told him he was a difficult/problem child.
+- `sr057-0051` (fear) I’ve read a lot that says putting those labels on your kid is very often self-fulfilling. If mom or dad is going to view you as a problem even if you’re not, there’s  very little motivation to prove otherwise. Anyways, I’m trying to instill an ideology of our kids are good kids who sometimes behave badly. Kids will do things that are “bad” but that doesn’t make them bad. I don’t want him to grow up feeling like we don’t think he’s a good kid just because he messes up sometimes.
+- `sr057-0052` (desire) I’m just really struggling to get this across, we have very few parenting disagreements outside of this and my husband is generally willing to go with what I feel is best. I don’t want him to think I think he’s a bad parent, I just want him to understand why I don’t want him to say that type of stuff.
+
+### 1ugk7oq | r/toddlers | 2026-06-26 | baby_9_12_months | parent_unspecified | patterns 5
+
+About: Baby behaves better with daycare and babysitter than parents. Wants: Know whether firmer boundaries are needed after perceived leniency. Already did: Read baby-care advice; soothing, breastfeeding, singing, rocking; tried leaving in crib.
+
+- `sr057-0074` (belief) My baby will turn 1 in just a few days so he is pretty much a toddler. My husband and I had zero experience with babies before him so I just read a bunch of stuff about how you can't spoil a baby too much and always do my best to keep him happy.
+- `sr057-0075` (pain) Now I have noticed he is so much better behaved around everyone else compared to me and my husband. For example, it can take up to 2 hours to put him to sleep every night from a combination of breastfeeding, singing, and rocking. Meanwhile, at daycare he goes down for naps like clockwork and they say he sleeps all on his own. The healthy foods he won't eat with me? He devours them in daycare. Absolutely refusing to sleep in his crib and will go from deep sleep to wailing when you gently place him down in it? He sleeps in the same crib just fine with a babysitter.
+- `sr057-0076` (fear) To me, this means I've been way too lenient and need to put my foot down, right? But even if I try to, say, put him in his crib and force him to sleep, he will scream and scream for at least 10 minutes until I give up. I am afraid of letting him cry it out any longer than that.
+
+### 1ul2zsd | r/NewParents | 2026-07-02 | baby_9_12_months | parent_unspecified | patterns 5,10
+
+About: Disagreement between parents about infant screen time. Wants: Opinions on screens and appropriate starting age. Already did: Trying to keep baby away from screens.
+
+- `sr065-0010` (question) My son is 9 months
+
+trying to keep him away from the screen
+
+but my wife thinks it’s ok bc her kids with friends let their babies watch tv and iPad 
+
+  
+poll?
+
+good or bad
+
+or after a certain age
+
+### 1up405a | r/NewParents | 2026-07-06 | baby_4_6_months | parent_unspecified | patterns 3,5
+
+About: Parent fears spoiling fussy baby after comparison with friend's baby. Wants: Advice and others' experiences with constant crying and holding. Already did: Cosleeping; holds baby; walks; dietary exclusions; pumps; formula; allergy test; solids.
+
+- `sr064-0057` (fear) Hello, y'day I had my friend over with her 5 months old baby, mine is the same age. I'm normally not a jealous person but I've been feeling absolutely destroyed that I did something wrong to my baby and spoiled him. For a context my friend's baby can lay alone on a playmat for hours, without crying and fussing whilst mine cried so many times on the same playmat for all three of us 😭he wants to be constantly held.
+- `sr064-0058` (pain) After we went for a walk, her baby was playing with his fingers then fell asleep and then woke up and fell asleep again 0 crying. Mine was screeching for 15 min non stop and then fell asleep then woke up and continued screeching. We co-sleep so it means when he is asleep I have to stay next to him , else he is awake, so my day is done around 8 pm. This has been really tough for my marriage as well, we are basically two annoyed neighbours trying to care for a baby.  I'm also working from home 4 days a week.
+- `sr064-0059` (objection) I don't want to do cry it out method , but I feel something has to be done.
+- `sr064-0060` (tried_failed) He has cow allergy and has suffered with eczema , currently I'm on lactose free diet, EBF , unable to pump and he doesn't take any lactose free formula cause they are disgusting.
+- `sr064-0061` (desire) Please share your experiences and advice ! Thank you 😭
+- `sr064-0062` (tried_failed) I'm not sure why, I tried from electric to manual nothing comes out , max 30 ml but I am weirdly enough able to feed my baby
+- `sr064-0063` (tried_failed) Yeah I'm on both , basically doing vegan diet.
+- `sr064-0064` (others_said) Hahaha honestly I was so shocked and the next day me and my husband literally cried because we think we did something wrong. I swear it's been 1,30 h on a playmat and my friend's baby was just there not making a sound, sucking on his fingers.  My friend said oh I need to feed him , she fed and put him back , 0 issues.
+- `sr064-0065` (tried_failed) Thank you do much great advice ! We did allergy prick test, he didn't react to soy. But I can still try !and yes we started solids cause of our situation with allergies
+- `sr064-0066` (belief) Omg !!! This is amazing. I did notice that mine started sleeping in a T position lately ! Maybe I should try too, I'm still PTSDing from sleepless nights 😬
+
+### 1upogy2 | r/NewParents | 2026-07-07 | toddler_12_18_months | parent_unspecified | patterns 5
+
+About: Parent worries scary face traumatised one year old. Wants: Reassurance after frightening baby during bath. Already did: Immediately soothed baby.
+
+- `sr061-0148` (fear) i was making silly faces at my 1yr old during bath time and i did a scary face and he got soo upset and started screaming and crying. i immediately soothed him but he still seemed a little upset for the rest of the night. it’s 3 am and he’s woke up crying 2 times now which is very out of the norm for him. i feel terrible did i traumatize him????
+
+### 1us1bw9 | r/Parenting | 2026-07-09 | baby_4_6_months | new_mother | patterns 5,2,8
+
+About: Worrying constant interaction made baby need nonstop entertainment. Wants: Balance wake windows so baby plays and mother gets time alone. Already did: Avoided screens; constant interactive play; tried independent play and tummy time.
+
+- `sr069-0021` (belief) I (21 yro first time stay at home mom) have no desire to let my baby (5months) cry it out or force him to self soothe.
+- `sr069-0022` (belief) I try not to let him see much of the screen, because I have all the time in the world to play with him. So I have been miss rachel level interactive with this baby since he popped out the womb.
+- `sr069-0023` (belief) I thought there's no harm in constantly bonding and playing with your baby,
+- `sr069-0024` (pain) But this kid wants to bounce on my lap, play with toys, and move around constantly !! He's very smiley and happy while we play,  so I don't think it's fussiness, mistaken for hyperactivity.
+- `sr069-0025` (fear) Is it possible that i've given him too much attention? Could the fussy downtime be dopamine crashes? Did I somehow end up
+
+Being my baby's screen time?😂😂
+- `sr069-0026` (success_story) On the bright side, he's doing very well developmentally, but boy am I tired!
+- `sr069-0027` (desire) So any advice on how to balance his wake windows so that I have a moment to myself?😭
+- `sr069-0028` (pain) There 's only been a few times that I can remember where I was able to shower without taking him in there with me. And his naps usually aren't predictable or long enough for me to take one during his naps.
+- `sr069-0029` (success_story) P.S. i try to allow him some independent playtime. He just gets bored with himself quick. Tummy time has been really great, and he, it's already standing on hands and toes, and having a blast with it
+
+### 1uv13bt | r/NewParents | 2026-07-13 | baby_4_6_months | parent_unspecified | patterns 5
+
+About: Worrying bilingual upbringing will slow four month old's speech. Wants: Bilingual parenting tips and research on possible speech development slowdown. Already did: Speaks English at home; baby hears Dutch outside; researched bilingual methods.
+
+- `sr069-0108` (belief) Happy to be back y'all:) I live in the Netherlands together with my partner who does not speak our language (yet:)). We speak English at home and to our baby.
+- `sr069-0109` (fear) From my experience, my country doesn't respond well to people that don't speak Dutch, or speak it 'weirdly'. Of course I'm worried about this, and as I was (without my parents really trying) a bilingual kid myself, we really want to put in the effort because it's so incredibly beneficial.
+- `sr069-0110` (fear) I've been looking into different methods, and LO is 4 months old (today!). She has been hearing mostly English, but also hears Dutch away from home. I hear this can slow down speech development, so I've been worrying about it🫠 Every method I find talks about it slowing down the development, is this just something that will happen inevitably?
+- `sr069-0111` (question) If you have any tips to share for raising a bilingual kiddo, I would love to hear them! Or any research that you used, anything you don't recommend..
+
+### 1uvim2b | r/beyondthebump | 2026-07-13 | baby_6_9_months | parent_unspecified | patterns 1,2,5
+
+About: Fears independent play reflects neglect or autism in seven-month-old. Wants: Reassurance or corrections about independent play and parental interaction. Already did: Narrates play; talks; music; tickles and mimics; reducing phone use.
+
+- `sr068-0063` (belief) As the title says, my 7 month old can play independently for a ridiculous amount of time. She rolls around her mat, picks up toys, feels them, shakes them, puts them in her mouth, tries to get in her toy basket and pick up the toy she wants. She can do this easily for 30 minutes or more.
+- `sr068-0064` (belief) To be clear, I'm not complaining. I can sit and have a coffee in peace etc.... which I know is a luxury.
+- `sr068-0065` (fear) My husband thinks that it's fine. I'm worried that we have made her this way by inadvertently neglecting her in some way. We are both big phone users (working on it) but literally as soon as she makes a sound we are interacting with her trying to find out what's wrong. I'm not sure what else I can do when I'm sat next to her and she is playing by herself. I do narrate what she is doing and talk to her or sometimes we listen to music.
+- `sr068-0066` (trigger_moment) This evening I sat down on her play mat and made her laugh for a bit by tickling her, mimicking her etc .. after a bit even whilst I was still trying to play with her she rolled over picked up a toy and starting playing with it herself.
+- `sr068-0067` (fear) I'm aware this can be a sign of autism but otherwise she has great reciprocal social interaction. I am well versed in ASD so will be looking out for other signs too, but so far haven't seen any.
+- `sr068-0068` (desire) Just after some advice/reassurance/or someone to tell me I'm doing something wrong so I can change it.
+
+### 1uxhr7l | r/FirstTimeMom | 2026-07-15 | baby_4_6_months | parent_unspecified | patterns 1,5
+
+About: Parent blames self for baby's difficult tummy time and rolling.. Wants: Tummy-time strategies and help baby roll without falling behind.. Already did: Pillow support and face-to-face floor time..
+
+- `sr066-0096` (success_story) Hi! I have a 4 1/2 month old daughter; she is very strong in her legs and neck. She has pretty good head control when we are holding her upright or if she is sitting in a high chair or floor chairs.
+- `sr066-0097` (fear) The one thing that concerns me is that she still hasn't fully rolled over yet. During tummy time, she will push on her legs while pushing her face into the ground, then start crying.
+- `sr066-0098` (tried_failed) I've tried putting a pillow underneath her and being face-to-face with her on the floor, but she just won't roll over because she buries her face into the ground every time.
+- `sr066-0099` (fear) It makes me feel horrible because I think that she might be behind on milestones because of me, but I don't know what else to do.
+- `sr066-0100` (question) Any tips or tricks would be very appreciated.
+
+### 1v0xkot | r/Parenting | 2026-07-19 | baby_6_9_months | parent_unspecified | patterns 5
+
+About: Parent fears brief background television could cause baby’s behavioural problems. Wants: Opinions on brief exposure to adults’ television. Already did: Avoided cartoons and television around baby; used toys.
+
+- `sr073-0090` (belief) I have a 6-month-old baby. He's very cheerful, and like any baby, he demands a lot of attention. He's entertained by his toys, and we've never put on cartoons for him. We know it's not the best thing for him, and we'd like to respect that for as long as possible.
+- `sr073-0091` (question) Here's my question: in your house, is the television never on if the baby is in the living room? I mean, not even for 10 minutes to watch the news while you're having breakfast or during an important event, like the World Cup final (which is in a little while; I'm Spanish).
+- `sr073-0092` (fear) We don't do that, but maybe we're being a bit extreme. I mean, will my son have behavioral problems if he turns his head for a little while to watch an adult program we're watching? Thank you for your experience and opinion.
+
+### 1v31s9y | r/beyondthebump | 2026-07-22 | baby_6_9_months | parent_unspecified | patterns 2,5
+
+About: Mother feels guilty forgetting to talk during play with baby. Wants: Ways to sustain talking to baby during quiet moments. Already did: Reads books; narrates daily activities; sings in car and at night.
+
+- `sr073-0114` (pain) Just like the title says I have a hard time talking to my baby, not because I don’t want to though. I have a hard time explaining it but I’m a SAHM and I’m with my baby every second of the day and I find myself feeling guilty because I forget I’m not actually talking to him ?? I’m very used to going all day without speaking until my husband gets home from work and would/have full conversations in my head all day long and sometimes talk to the cats.
+- `sr073-0115` (fear) With my baby though (almost 8 months old) I feel like I’m constantly reminding myself to say things out loud sometimes I forget to say goodmorning right away when he wakes up and then go over the top when I remember a couple minutes later. Or him and I will be hanging out and playing and then I realize I haven’t spoken to him in 10-15 minutes and feel absolutely horrible about it because I know it’s good for them.
+- `sr073-0116` (question) The irony of this whole thing is IM SO TALKATIVE AND LOUD with my husband and family and friends but I think my hang up is they talk back and while my baby roars like a velociraptor i really struggle to keep a “conversation” going with him. Have any of you experienced this or have any mental loopholes that help you out ?
+- `sr073-0117` (belief) I do read him books and I explain what we’re going to do everyday and give him a play by play. I sing to him the car and at night it’s just those dull moments that have me feeling guilty
+
+### 1v5kp9d | r/beyondthebump | 2026-07-24 | toddler_12_18_months | parent_unspecified | patterns 5
+
+About: Parent fears vaccines could reverse one-year-old's developmental recovery. Wants: Positive accounts of unchanged healthy children after one-year vaccines. Already did: Read alarming social posts and hundreds of comments.
+
+- `sr079-0034` (fear) Anyone's child had the MMR vaccine as a baby and is perfectly okay now? I'm terrified because of the propaganda and personal account of people whose kids died, had brain damage, or Autism shortly after.
+- `sr079-0035` (fear) I'm kicking myself because I know better, but | couldn't live with myself if I caused her death, illness, or something else. My baby was a birth injury baby, with really sad prognosis. By a miracle she is a healthy, happy, and completely "normal" one year old so if I caused her to regress or anything, I would be so upset with myself.
+- `sr079-0036` (desire) We are approaching her 1 year doctor appointment and I know the vaccines are coming up. I just want to know of personal experiences where your child got these 1 year vaccines and are exactly the same and haven't changed negatively or suffered damage. I just saw a post asking the same and out of hundreds of comments I could not find ONE where their child was healthy and unaffected. So now I'm very worried.
+
+Would love to hear positive experiences.
+
+### 1v83x7g | r/beyondthebumpUK | 2026-07-27 | toddler_12_18_months | parent_unspecified | patterns 5
+
+About: Parent worries phone use prevents being present with one-year-old. Wants: Compare parents' screen time and be more present. Already did: Tries to be present.
+
+- `sr080-0102` (fear) Out of interest what’s your daily screen time and how old is your baby? I have a 1 year old and try to be present but am paranoid I’m on my phone too much!
+
+### 1v8lfbc | r/sahm | 2026-07-28 | baby_2_4_months | new_mother | patterns 2,5
+
+About: Mother fears flexible routine may harm sixteen-week-old's brain development. Wants: Know whether flexible days or set bedtime better support development. Already did: Followed wake windows and feeds after waking; maintained flexible outings.
+
+- `sr078-0072` (fear) Like the title mentioned I can’t decide if it’s going to mess up my 16 week old because we follow no schedule. For context I’m a sahm and I’m also someone who just likes to run around and do things. My girl is on a slight routine of a hour - two hour wake window with a feeding right after waking up and then hanging out but other than that we don’t have a set wake up or bed time.
+- `sr078-0073` (question) Am I making her flexible and accommodating with having that or would she majorly benefit from a set bedtime? I heard predictability is good but also selfishly love running around. I just want to do what’s best for her development and brain.
+
+### 1vbffay | r/ScienceBasedParenting | 2026-07-31 | baby_9_12_months | parent_unspecified | patterns 5
+
+About: Worries comforting through breastfeeding could create harmful food associations. Wants: Know whether comfort breastfeeding causes harmful future associations. Already did: Breastfed baby for comfort after head bump.
+
+- `sr084-0013` (fear) My 10 month old bonked her head the other day (she’s fine), and I breastfed her for some comfort but then I was curious if this practice of providing food for comfort might cause harmful associations down the road?
+
+### 1vdo9l8 | r/beyondthebump | 2026-08-02 | baby_9_12_months | parent_unspecified | patterns 3,5
+
+About: Parent feels guilty showering while clingy baby screams in playpen. Wants: Reassurance it is okay to shower while baby cries. Already did: Met needs; toys, visibility and television while baby is in playpen.
+
+- `sr082-0006` (pain) My daughter is in the stage of being attached at my hip, always wanting to be touching me. It’s totally fine, but it’s getting to a point she screams if she can’t.
+- `sr082-0007` (tried_failed) My partner (her father) works hours where I’m usually on my own with her. I make sure her needs are met before putting her in the playpen to shower- clean diaper, ate, she has toys , can see me and I’ll even put a show on for her. But even so she will lose her shit.
+- `sr082-0008` (pain) I guess I just feel really bad about it, but I also hate feeling gross and funky.
+
+### 1ve5iiz | r/Parenting | 2026-08-03 | toddler_18_24_months | experienced_mother | patterns 5,6,3
+
+About: Worrying eight-day separation will scar attached toddler. Wants: Reassurance toddler will cope and bond with dad during mother’s trip. Already did: Booked wedding travel; arranged dad and nanny care. Paid: Wedding travel and dress.
+
+- `sr085-0056` (belief) I've been planning to go to my best friend's wedding across the world for the last year. Everything is booked and I've got my bridesmaid's dress and wedding speech ready to go. I am going with my 3 year old daughter and my husband is staying home with our 18 month old.
+- `sr085-0057` (fear) However, the closer I'm getting to the trip, the more I'm freaking out to leave my little girl for so long. She is a serious mommy's girl. I'm the only one she wants ALL the time. Which is sort of terrible and I hate it. But it is what it is. And she is really attached to our 3 year old.
+- `sr085-0058` (desire) Ideally, this would be an opportunity for her to bond more with dad? Hopefully? We have a nanny at home while my husband works but he'd be with her evenings/weekend.
+- `sr085-0059` (objection) And before anyone suggests - no, we can't bring her. She is a terror on planes and sort of in general right now (a happy, lovely, adorable terror but still she's going at 1000 miles an hour every moment). A 15 hour flight with her would kill me. So unless someone wants to lend me their private jet, it's either our current plan or me skipping the wedding. I could maybe shave one day off the trip but it's a 4 day wedding event and we live in a small town so two of the nights are actually having to reposition for flights. Plus I booked everything months ago and canceling and trying to rebook to come back one day earlier sounds difficult.
+- `sr085-0060` (fear) Will my baby be scarred forever? Has anyone done this and it turned out OK?
+
+### 1vffy5w | r/NewParents | 2026-08-04 | toddler_12_18_months | parent_unspecified | patterns 5,7
+
+About: Parent worries spoon-fed purees at twelve months could delay development. Wants: Know whether continued puree feeding is developmentally safe. Already did: Two baby-led meals daily; spoon-fed purees for lunch and daycare.
+
+- `sr084-0094` (belief) Y baby is a good eater and gets 2 “real meals” a day (BLW style), but for his lunch I still spoon feed him purées. It’s just so much less messy and I can get a bunch of fruits and veggies in his diet pretty easily this way. Plus it’s a lot easier to send to daycare.
+- `sr084-0095` (fear) I’m just curious how many parents do the same. Is it normal to still be doing it at this age? It just works for us, but I don’t want to do anything that would delay my baby’s development.
+
+### 1vifboo | r/NewParents | 2026-08-07 | baby_6_9_months | parent_unspecified | patterns 5
+
+About: Stay-at-home parent worries television could negatively affect baby. Wants: Know whether limited television has harmed others' babies. Already did: Googled guidance; tried phone, AirPod, music and podcasts.
+
+- `sr090-0016` (others_said) Aside from opinions on screen time (I’ve already googled what the pediatricians recommend, which is zero screen time until 18 months…)
+- `sr090-0017` (fear) Has anyone who (to a degree) said “eff it” and incorporated *some* screen time into the day seen negative effects? My daughter is 6.5 months old and I haven’t had any screen time around her up until a week ago. I was going crazy. I’m a SAHM and do the entire night shift and day shift so my husband can rest so when baby sleeps, I try and get some sleep in.
+- `sr090-0018` (pain) That leaves close to zero time for me to doom-scroll or watch anything for my own enjoyment.
+- `sr090-0019` (tried_failed) I’ve tried throwing stuff on my phone and popping in an AirPod, listening to music, podcasts (which I’m not a fan of)… it just doesn’t fulfill that need. I know I sound like a grown iPad kid but having stuff on the tv, even if it’s for background sound has always been what I used to relax… and of course for entertainment. It just doesn’t hit the same.
+- `sr090-0020` (question) Am I the worst for maybe a bit of time out of two wake windows popping on some Studio Ghibli? Or anything else? I need some mental stimulation 😭 I’m dyin’ here lol
+- `sr090-0021` (question) Have yall seen any impact on y’all’s littles?
+
+### 1vk5tim | r/NewParents | 2026-08-10 | newborn_0_8_weeks | new_mother | patterns 2,5
+
+About: Solo mother worries wake-window activities could affect newborn development. Wants: Advice balancing interaction and independence without harming development. Already did: Narrated day; play gym; swing; contrast book; chest tummy time.
+
+- `sr086-0118` (pain) FTM to an almost 8 week old and I’m so overwhelmed by what to do during her wake windows.
+- `sr086-0119` (belief) I just figured out her sleeping pattern by making sure to pay attention to her sleepy cues and wake windows. I make sure to narrate the day and talk to her, we play on her play gym, she swings and looks at her contrast book.
+- `sr086-0120` (belief) I don’t do a lot of tummy time on the floor but I do sit her on my lap or chest to encourage strengthening those muscles.
+- `sr086-0121` (fear) What are you all doing during this time? I’m so afraid that I’m not doing enough/too much and I don’t want to affect her development.
+- `sr086-0122` (question) For context, I’m solo parenting atm and I’m overwhelmed on balancing interaction and independence considering I’m the only parent atm. Advice is welcome!
+
+### 1vn7cmv | r/NewParents | 2026-08-13 | baby_6_9_months | parent_unspecified | patterns 5,10
+
+About: Parent challenged for carrier naps asks whether baby is being spoiled. Wants: Research on whether carrier naps spoil baby or meet age-appropriate needs. Already did: Uses carrier for naps; baby sleeps independently in bed at night; tried daytime crib.
+
+- `sr087-0113` (others_said) I've been told several times that I'm spoiling my 6-month-old because I let her nap in a baby carrier instead of putting her down in her crib.
+- `sr087-0114` (belief) The thing is, she sleeps independently in her own bed at night without any issues. It's only daytime naps that she likes to be carried. If I put her down in her bed during the day, she usually cries and won't settle. In the carrier, she falls asleep easily and gets a good nap.
+- `sr087-0115` (others_said) I have been told she needs to “learn” to sleep in her own bed at daytime aswell. But I feel like it just needs some time? I'm wondering if this is actually considered "spoiling," or if it's just meeting her needs at this age. I am starting to feel frustrated by these comments.
+- `sr087-0116` (desire) I would like to know if any of you can share research on this.
+
+### 1vo328y | r/beyondthebump | 2026-08-14 | toddler_12_18_months | parent_unspecified | patterns 5,6
+
+About: Mother fears return to work will irreversibly damage toddler bond. Wants: Success stories and reassurance bond survives returning to work. Already did: Returned after thirteen months; father providing familiar care before daycare.
+
+- `sr089-0085` (belief) Recently went back to work after staying home for 13 months (very privileged and grateful!). LO is at home with her father for a few months before gradually starting daycare (they will be visiting and getting to know the place before being there alone).
+- `sr089-0086` (fear) Anyway..I feel like I've gotten so much less time with her, and the shift was so huge and sudden. To me it just feels empty and sad, and the worst part is I fear it will do irreversible damage to the mother-daughter bond. I fear dad will replace my role (I want us to be equal, but not to not be needed anymore if that makes sense). 
+
+I fear I will no longer will be needed or trusted the same way.
+- `sr089-0087` (belief) Baby always had a great bond with her father as well, so this relationship is not new. It definitely helps that it's safe and familiar at home where she is.
+- `sr089-0088` (desire) I guess I just need some reassurance that everything will be fine, and that you can be a safe place for your LO even if you are not there 24/7. Give me all your success stories, please 😮‍💨🥰❤️
+
+### 1vpr32m | r/NewParents | 2026-08-16 | baby_2_4_months | new_mother | patterns 2,5
+
+About: Anxious first time mother worries activities cannot ensure baby's milestones. Wants: Developmental activities and reassurance or tips for constant anxiety. Already did: nothing stated.
+
+- `sr091-0067` (question) FTM to 3.5 month old!   
+Well this is a mix of questions and assurance kinda post so bear with me please!  
+Firstly how do you spend day with a 3.5 m baby I mean what developmental activities to do to ensure he hits all milestones and is healthy..I am anxious I am not doing enough.
+- `sr091-0068` (pain) Secondly how to stay happy thruout I mean I am so jealous of my husband who is carefree and can enjoy LO while I find myself stressing about anything and everything related to him like is he peeing pooping feeding properly , why quiet today, why so many hiccups , why spit up why this that.. it’s like daily my mind is finding some or other issue to stress upon.
+- `sr091-0069` (question) I don’t wanna medicate myself but is it like a normal hormonal response and will it get better with time ? Any tips to reduce such worries ??
+
+### 1vr3k4m | r/NewParents | 2026-08-17 | baby_6_9_months | parent_unspecified | patterns 2,5
+
+About: Parent fears independent play harms six-month-old’s development and attachment. Wants: Reassurance about amount of independent play and interaction. Already did: Floor play nearby, toys, holding, talking, eye contact; avoids containers.
+
+- `sr093-0057` (pain) I feel like i dont interact/play with my 6 month old enough. I run the household pretty much by myself since my husband works very long hours so in order to keep up with endless chores and daily duties i end up putting my daughter down a lot. She’s fine with it and will fuss when shes frustrated at something (she’s started scooch crawling so she gets frustrated wanting to move more efficiently sometimes) but other than that she just plays. 
+- `sr093-0058` (fear) If i have to clean a room ill help her sit up and give her a toy to chew on and she’ll sit there watching me or playing with the toy the entire time im doing something. I try to keep her in the same room with me but i feel like all day im just doing stuff and setting her on the floor to do it. I hold her for as much as i can but a lot of tasks require two hands so i just set her down. I talk to her and make eye contact and i try my best to avoid container time but i really feel like im negatively impacting her development and attachment by not giving her my undivided attention as much as i feel like i should.
+
+### 1vrnqn8 | r/beyondthebump | 2026-08-18 | baby_6_9_months | new_mother | patterns 5
+
+About: Mother fears her own sensory food aversion will teach pickiness. Wants: Prevent daughter becoming picky despite mother's severe food anxiety. Already did: Therapy, anxiety medication, vitamins; tastes each fruit and vegetable baby tries.
+
+- `sr094-0048` (belief) First, I want to start by saying if I came across this post and read it, I would roll my eyes and tell this mom to grow TF up and get a grip. But unfortunately, I am completely serious.
+- `sr094-0049` (belief) So some back story, I was always a picky eater. Even as a baby (even when I thought no one was watching - my parents tested this theory multiple times), I would have like ridiculous reactions to fruits and vegetables. Like ridiculous, full body reactions with big emotions. 
+
+I straight up refused to eat like 90% of them. My parents took me to dozens of nutritionists and mental health therapists and they both basically said that it was likely a sensory thing and I would maybe outgrow it, maybe not. They saw the stress and tears and negative reactions it was causing both me and my family and told my parents to just let it go.
+
+They made sure I got my multivitamin and continued to offer me a ton of fruits & veggies cooked and served in multiple fun ways. But basically, forcing it wasn't going to work.
+- `sr094-0050` (belief) Ironically enough, or maybe not ironically, I developed anorexia as a teenager and was really sick for several years. I was in therapy to address my feeding issues and anxiety around food and the overarching goal at that point was simply for me not to die, not necessarily focused on fruits and veggies. I ended up making a great recovery from anorexia.
+- `sr094-0051` (tried_failed) Fast forward into my late twenties, I tried to continue to try fruits and veggies and the anxiety was overpowering. I am still in therapy and on an anxiety medication. When I knew I wanted to get pregnant, I tried even harder to eat more fruits & veggies and it caused me to become even more anxious and was essentially ruining my life. The general consensus is that is likely a sensory issue and a manifestation of my anxiety. Both nutritionists and therapists have decided that I can still be fairly healthy with the other ways I can consume some veggies, eating other nutritious foods, being active, and taking appropriate vitamins. 
+
+For context, I now eat some cooked veggies if they're in things (pasta sauces, various dishes, etc.) and I love things like tomato soup, other veggie soups, guacamole, salsa, etc. But the idea of sitting down and eating a salad or a piece of broccoli makes me sweat. I have continued to try them in fun ways and no such luck.
+- `sr094-0052` (tried_failed) After I had my baby (she's 8 months old now), I made a goal that I would try every fruit/veggie that she tries and I have done it. But we're talking small bites and an insane amount of anxiety leading up to it. To the point it's ruining food again for me.
+- `sr094-0053` (belief) My husband is a trash can and will literally eat anything. He's such a brave eater with weird food and will eat any and all fruits & veggies.
+- `sr094-0054` (fear) My question for this community is.... Has any picky eater adult found a way to not create a picky eater child? I'm cautious about my health in other ways, seriously embarrassed about this part of me, and really anxious about how it'll affect my daughter, so if it was as simple as just eating fruits and veggies.... Trust me, I would. I realize not eating them sounds dramatic but I wouldn't wish this on my worst enemy. 
+
+I KNOW the right answer is to keep trying them in new ways and to continue therapy/medication but that hasn't worked for me in 30 years and I don't see it working now. How do I tell my baby girl to eat broccoli if I don't?
+
+### 1vt4zw3 | r/ScienceBasedParenting | 2026-08-20 | baby_4_6_months | parent_unspecified | patterns 5
+
+About: Parent fears supported sitting could harm five-month-old's spine. Wants: Evidence and experiences about practicing supported sitting versus waiting. Already did: Read online advice; allows floor play and rolling onto tummy.
+
+- `sr092-0050` (fear) I have mixed feelings about this. My son just turned 5 months, and from what I’ve read online, I shouldn’t practice sitting with him. Instead, I should let him attempt to sit independently when he’s ready, since sitting him up too early could potentially hurt his spine.
+- `sr092-0051` (belief) For now, I mostly let him play on the floor. Eventually, he rolls onto his tummy, which he tolerates pretty well, but he doesn’t roll from tummy to back yet.
+- `sr092-0052` (question) Unfortunately, we won’t see his pediatrician until his 6-month appointment, so I’m hesitant to practice sitting with him before then. I’m curious: What have you learned about this, and did you practice supported sitting with your baby or wait until they did it on their own?
+
+### 1vut2ci | r/beyondthebump | 2026-08-21 | baby_4_6_months | new_mother | patterns 5
+
+About: Single mother feels guilty about limited attention and abundant free play.. Wants: Relief from guilt over limited focused interaction and baby's routine. Already did: Uses babysitters while studying and working; baby has independent playtime. Paid: Babysitting.
+
+- `sr095-0096` (pain) I’m a single mom to a now 4 1/2 month old. I became single abruptly when she was about six weeks old. I’m a full-time student and I also work full-time. I am in school full-time because I need to get a job that will support us for the foreseeable future. I usually work 4 to 5 days a week. My daughter goes to babysitters. Usually my shifts are only about six hours. I find that I have a little amount of time with my daughter, and I feel incredibly guilty because I am struggling to be present with her during the day. I feel like she has a lot of free playtime. Between homework and chores and taking care of her, it’s hard to have lots of time to sit and really focus on her.
+- `sr095-0097` (price_signal) I would put her in daycare, but unfortunately, I can’t afford it with the cost of babysitting. I also just barely make too much money to qualify for childcare assistance.
+- `sr095-0098` (pain) The guilt is eating me alive. It’s all I think about. I feel horrible and like she may not be very happy with her daily routine.
+
+### 1vx4lgx | r/NewParents | 2026-08-24 | baby_6_9_months | parent_unspecified | patterns 5
+
+About: Worry that cosleeping causes excessive attachment and stranger fear. Wants: Advice on attachment and moving baby into own bed. Already did: Coslept since three months; removed pillows and used bedroom camera.
+
+- `sr097-0025` (belief) me and my husband have been cosleeping with our son since he was about 3 months old. it’s the only way we could get him to sleep. he refused the bassinet and crib so we had to try the bed.
+- `sr097-0026` (belief) we have a king bed, obviously, no pillows, a crochet blanket with the holes in it so it’s very breathable in case it was to get over his face. it never has because we keep it waist level. also a bedroom camera so i can go back and watch our sleeps for whatever reason. never had any scares or anything of the sort. we are both very light sleepers and i’m always up and down throughout the entire night anyway because i drink lots of water.
+- `sr097-0027` (fear) anyway, he’s 8 months now and like, extremely attached to us. obviously we are his parents so he should be, but he literally doesn’t want to go to anyone else ever except for my mom. he’s basically afraid of everyone else. are we messing him up somehow by letting him sleep with both of us every night?? i’m worried he won’t ever want to go to his own bed when he’s old enough too. my husband has been hinting that it’s almost time for him to get his own bed. 😭 i’ve gotten so used to him being right beside me i don’t even know how i’d be able to sleep knowing he was all alone in his little bed. how do people do this omg. i need advice please
+
+### 1vzgukh | r/toddlers | 2026-08-27 | toddler_18_24_months | parent_unspecified | patterns 5,9
+
+About: Feels guilty changing daycare while toddler is still adjusting. Wants: Reassurance and tips for rapid daycare change. Already did: Started home daycare; joined waitlists; received earlier-opening centre offer.
+
+- `sr096-0056` (desire) Looking for tips from anyone who might have had to transition daycares rather quickly, or what to expect because I’m feeling tons of guilt.
+- `sr096-0057` (belief) My son’s 18months old and just started at a home daycare after only being looked after by mom/dad. He’s in his second week there.
+- `sr096-0058` (belief) We’ve been on several waitlists and we thought we’d be at this home setup for atleast 6 months before we’d get into a centre (opens earlier and means parents don’t have to work split shifts). We just got a spot offered to start next week.
+- `sr096-0059` (fear) I’m feeling terrible that it’s going to be a traumatic change as he isn’t even fully comfortable in current daycare despite making great leaps in this little time, he’s coming out of his shell, taking a short nap and just started eating small amounts while there.
+- `sr096-0060` (question) Anyone else had to change rapidly, tell me it will be okay!
+
+### 1w0yyhl | r/ScienceBasedParenting | 2026-08-28 | baby_9_12_months | parent_unspecified | patterns 5
+
+About: Parent asks whether low-stimulus background television harms baby. Wants: Know whether background YouTube scenes count as harmful screen time. Already did: Agreed screen-free parenting; husband plays low-stimulus background videos.
+
+- `sr099-0138` (trigger_moment) My husband puts very low stimulus YouTube videos on the TV, which have like background music. So it might be like a scene of a conservatory, with just a cat sleeping and maybe a cup of tea steaming with gentle 1940s music or something playing. So for the most part it is a still image with very small details moving.
+- `sr099-0139` (belief) We are raising our child screen free, which was a joint decision as the idea of having an ‘iPad kid’ scares us and I know the WHO now says no screen time before 2.
+- `sr099-0140` (belief) Our son is 10 months old.
+- `sr099-0141` (question) Is this harmful screen time? Is it okay?
+
+### 1w42qsf | r/ScienceBasedParenting | 2026-09-01 | baby_9_12_months | parent_unspecified | patterns 5,7
+
+About: Wondering whether catching falls hinders learning balance. Wants: Know whether to catch baby or allow falls while learning to stand. Already did: Allowed rolling falls and cup spills; caught baby standing; occasionally missed sitting falls.
+
+- `sr103-0007` (belief) When my baby was trying to roll on a foam mat at 4 months I just let her fall when she fell. Then when she was trying to sit she only fell 2-3 times splotched on her back, we didn’t purposely let her fall but we were also not always behind her back and she learned to sit quickly (from the first trial to sitting to play for a long time within a weekend, she learned that close to 9 months old and most babies learn earlier so it went quickly) so we didn’t have time to think about it.
+- `sr103-0008` (belief) Now that she is trying to stand by holding the sofa we’re behind her and we catch her.
+- `sr103-0009` (question) I am wondering if she should fall or if she should be caught. If she falls I feel like she will learn how balance works better (we also let her spill her water open cup on herself until she learned to hold it), but obviously I don’t want her to injure herself.
+
+### 1w82pjx | r/toddlers | 2026-09-05 | toddler_18_24_months | parent_unspecified | patterns 5
+
+About: Parent questions educational screen time as toddler repeatedly requests videos. Wants: Reassurance that twenty minutes of shared screen time is fine. Already did: Educational videos under twenty minutes daily; describes content; caps viewing.
+
+- `sr101-0074` (belief) I'm probably overthinking this - but I've started introducing screen time to my 21 month old. We watch short educational videos (ie: a lot of Nat Geo 101s) for <20 minutes a day. I try to be interactive and describe what we are watching. We watch them together.
+- `sr101-0075` (question) Now he's asking to watch multiple times a day. Of course, we cap it at 20 minutes. This is fine, right?
+
+### 1waqv59 | r/ScienceBasedParenting | 2026-09-08 | baby_4_6_months | parent_unspecified | patterns 5,10
+
+About: Mother fears grandmother's television exposure harms baby. Wants: Know whether occasional prolonged television exposure is damaging. Already did: Avoids grandmother babysitting; no screens or battery toys at home.
+
+- `sr106-0024` (belief) I am a SAHM and my husband and I are pretty good about scheduling our lives so that one of us can watch our little one if the other has to work, go somewhere, etc. However, sometimes life gets very busy and we have to lean on his mom to watch the baby.
+- `sr106-0025` (tried_failed) She is 4 months old, will be 5 months next month. MIL is wonderful with her and I have no reservations in terms of safety or making sure needs are met. However, MIL has her tv on 24/7 and regardless of what we say, she will let the baby watch when she has her. Naturally, we try to avoid needing her because of this but maybe once a month we have no choice with work.
+- `sr106-0026` (fear) So our baby is getting to watch unlimited screen time - soap operas, the news, whatever MIL is watching - for like 2-3 hours straight about once a month or once every other month. Is this super damaging? I’m spiraling over it because it’s so much at once even though it is not a regular thing. When she’s home, she gets zero screen time. She doesn’t even have a single toy that has batteries so no light up or musical things.
+
+### 1wctckj | r/sahm | 2026-09-10 | baby_6_9_months | parent_unspecified | patterns 5,2
+
+About: Guilt over too little play while overwhelmed by chores. Wants: Support and honest assessment of whether she does enough. Already did: Independent play while supervising; housework and childcare.
+
+- `sr108-0046` (belief) I am a SAHM to a 6 month old boy. I just moved into a new house that needs a lot of work. My husband is out of the home from 7am-10:30pm M-F and spends weekends studying and working on the house. I don’t have family nearby.
+- `sr108-0047` (pain) All in all, I think I’m coping pretty well. I love being a mom. I love my son so much. But I have felt so guilty the whole time I’ve had him honestly, but the past couple months I’ve been beating myself up so much for not doing enough with him…. Not playing with him enough, not paying him enough attention, not taking him enough places, etc etc
+- `sr108-0048` (pain) But at the same time, I’m hanging on by a thread. I am trying to do housework, projects, cooking, cleaning, and childcare, also trying to lose the rest of my pregnancy weight (I cannot stand to see pictures of myself or look in the mirror properly). Ugh. Even hygiene for myself has become an afterthought.
+- `sr108-0049` (fear) It’s too much most days. And what I’m feeling guilty about is not spending enough quality time with my sweet baby. He is so good with independent play, and I’ve always got an eye on him. But I don’t have the energy to spend playing with him much. My brain is so jumbled that I don’t even know HOW to play with him most of the time. I’m so worried I am messing him up somehow.
+- `sr108-0050` (desire) Looking for support and honesty please.
+
+### 1wh50xi | r/NewParents | 2026-09-15 | toddler_12_18_months | new_mother | patterns 5,8
+
+About: Playpen guilt after freer movement brings first steps. Wants: Express regret and allow freer, safer movement at home. Already did: Kept baby in large playpen; removed it; plans smaller emergency-only pen.
+
+- `sr108-0085` (pain) Being a first time parent... Even though you think you're searching everything and making things 'right', you're ending up realizing you did wrong. You know what I mean, I had this situation like 4828828585 times and now I realized something new... Ugh.
+- `sr108-0086` (belief) My baby spent most of her time in the playpen daily till yesterday. If we're not outside together or if she's not sleeping, she was basically 90% was in the playpen. It's not small though, it's a big playpen like 3×3 meter.
+- `sr108-0087` (regret) It happened that way because I was thinking it's a safe place for her aaaaand she enjoys being there literally she never cries to being in playpen. Maybe because that I'm also in the playpen with her almost all the time so we're playing together, reading, painting etc. Good moments. I didn't know I was accidentally harming her. I was thinking I'm doing everything right...
+- `sr108-0088` (trigger_moment) .... Sooooo yesterday morning I decided to wash the playpen so I took out all the pieces (took like 20 minutes literally ugh, pieces was stucked) and washed so till now she was freely outside. I realized some things... SHE'S MOVING A LOT AND LIKE CRAZY AND I MEAN IN A GOOD WAY! She's nonstop climbing everywhere and I can't even stop her. Full of energy. Like WTH is happening??????
+- `sr108-0089` (success_story) A little detail (🥲): She can't walk yet. DUHHH, SHE NEVER NEEDED TO WALK!!!!!!!!!!!!!!!!!!!! WHAT A FUCKING IDIOT I AM!!!! She's climbing, walking as standing and she even walked two steps today for the first time. Because she's free! She's wandering around freely. And I can't even describe the joy of her. She's literally nonstop giggles. Seeing this makes me happy and sad at the same time!!!!
+- `sr108-0090` (others_said) So I did read about it today...  It's not recommended to stay at the playpen for hours. Good morning to me, I had literally no idea!
+- `sr108-0091` (desire) I'm not gonna use that big playpen again, I decided to take very small one from my mom and I will use it ONLY for emergency situations. Well, there will be those situations because I'm a single mom and I need to get shower or drink a coffee or just be alone at my balcony sometimes. But from now on she will freely wander around. I will make safe place without playpen.
+- `sr108-0092` (pain) I'm feeling so stupid but also I know it wasn't intentional obviously. How many times I'm gonna learn I was all doing wrong? When it's ends?
+
+### 1wmq7id | r/Mommit | 2026-09-21 | baby_2_4_months | experienced_mother | patterns 5
+
+About: Exhausted working mother worries less attention affects second baby’s milestones. Wants: Hear whether second children develop normally with less attention. Already did: Closely tracked first child; now winging second child’s care.
+
+- `sr115-0144` (pain) Second time mom who also works. I was so type A with my first, obsessing over her routine and milestones and working through all that. I’m so exhausted now at 3 months pp that I’m basically winging it with my second.
+- `sr115-0145` (fear) I’m curious how do you think your second was with the less attention they got? Did they still meet milestones at the same rate as your first? Was sleep better or worse? Did they naturally fall into a routine cos the family still revolved around the first?
+
+### 1wo6yl7 | r/ScienceBasedParenting | 2026-09-23 | baby_6_9_months | parent_unspecified | patterns 5,10
+
+About: Whether immediate responses to fussing undermine independence or protect attachment. Wants: Know when to allow fussing and independent problem solving. Already did: Picks baby up immediately at first unhappy noise.
+
+- `sr117-0016` (others_said) I posted this on another sub and got flamed but someone suggested i post here.
+- `sr117-0017` (belief) I have an 8 month old who i still pick up immediately at the first sound of unhappiness. When i say fuss i mean whining or unhappy grunts or general noises of frustration, not full blown crying.
+- `sr117-0018` (others_said) There are so many people on the internet who say to get your baby immediately when they start crying or else you will harm their attachment and it’s become so ingrained in me from that that i always get her when she gets even a little bit upset.
+- `sr117-0019` (question) What age does that advice no longer apply? i’d imagine that is meant more for the newborn stage when every cry means a physical need but at what age do you cross the line from “go help right away” to letting them learn problem solving and independence.
+- `sr117-0020` (fear) I also don’t want to create a bad habit of running to help and then end up with a toddler who throws fits anytime they want to be held or who expects mama to do everything for them.
+- `sr117-0021` (question) When should i start implementing some independence and allowing the fussing without immediate intervention?
+
+### 1woxl0w | r/toddlers | 2026-09-24 | toddler_18_24_months | parent_unspecified | patterns 5
+
+About: Worries ignoring brief night crying harms son's nervous system.. Wants: Reassurance about leaving briefly crying child overnight. Already did: Previously went in; now leaves child to resettle.
+
+- `sr118-0008` (trigger_moment) My 20 month old son wakes up overnight occasionally. Anywhere from 15 seconds to 2 min of crying. His eyes remain closed from what we can see and he remains lying down.
+- `sr118-0009` (tried_failed) Am I wrong for not going in there? We have in the past (months ago) and it seems to wake him up more and make things worse.
+- `sr118-0010` (pain) He did it again last night twice, one longer than the other and I kept thinking that I am abandoning my baby. He cried last night and it was the first time he said “mama” while crying. That broke my heart but I didn’t go in to comfort him.
+- `sr118-0011` (fear) Is his nervous system going to remember me not being there for him when he cries? I don’t know what to do or how to feel cause right now I feel really bad and sad
+
+### 1wstnpg | r/NewParents | 2026-09-28 | baby_4_6_months | new_mother | patterns 3,5
+
+About: Fear of permanent harm after leaving crying baby during panic attack. Wants: Vent guilt, avoid harm and cope with prolonged baby crying. Already did: Feeding, gas drops, burping, safe crib break, treatment, therapy and carrier. Paid: New baby carrier.
+
+- `sr120-0037` (pain) To preface I’m being treated for PPD and PPA. I don’t really have a village, my village is my husband who works until 7pm. My son will be 6 months in a few days.
+- `sr120-0038` (trigger_moment) I was trying to contact nap with him, I fed him, I gave him his gas drops, I burped him, and he was just screaming and screaming and screaming. I had a full blown anxiety attack and put my son safely in his crib and started crying and panicking in the living room for an hour. He was screaming and crying with white noise on. I thought my husband would be home earlier but he got stuck in traffic so he ended up crying for probably an hour straight.
+- `sr120-0039` (fear) There’s been days in his 6 months where I took 15 minutes not even but an HOUR. I hate myself. When I came back in I was still having anxiety attack but I grabbed him and snuggled him and he was so sniffly and sad and I’m a terrible mom. I don’t know why I brought a baby in this world with my mental health issues, he deserves better than me. I love him so much and I hope I didn’t do any permanent damage.
+- `sr120-0040` (regret) I’m going to talk about it in my support group tomorrow but I just had to get this out. He’s with my husband getting ready for bed now. He has acid reflux, belly problems, and colicky and has cried a lot since he was born. I was doing so good. I’m disappointed in myself.
+- `sr120-0041` (pain) Thank you. The screaming really got to me today
+- `sr120-0042` (pain) Thank you. I just feel so bad for him
+- `sr120-0043` (desire) Thank you I will talk about it with my therapist this week
+- `sr120-0044` (pain) This is how I felt during the anxiety attack. I felt even if I went in there, I wouldn’t know what to do. So I felt frozen
+- `sr120-0045` (tried_failed) Thank you so much! I can’t wait until I’m out of this. I was on lexapro but it doesn’t seem to be working so they are transitioning me to Prozac. I think that might have contributed to today.
+- `sr120-0046` (tried_failed) Yes very badly since he was born :( his Pepcid was given to him and we started him early on purées (doctor approved) at 4 months and it’s been helping but some days it’s still so bad. We have an appointment with his pediatrician soon so I’m not sure if they’ll up the dose
+- `sr120-0047` (belief) Thank you so much! Yes I just started going to a support group for moms and I go to therapy once a week. It’s been hard for me to make mom friends
+- `sr120-0048` (pain) Thank you so much. Reflux is a horrible thing for babies. I had it really bad when I was pregnant that they put me on ulcer medicine. I feel so bad for him
+- `sr120-0049` (belief) Yes I have never done this before. That’s why it’s shaking me up a lot right now. Definitely not a “regular” thing
+- `sr120-0050` (belief) Yes he has a milk allergy. He is on soy
+- `sr120-0051` (pain) 5 months is when I’ve been feeling my worst. I’m so sorry you went through it too. After all this I fed him his bottle and he was smiling at me while I was crying
+- `sr120-0052` (tried_failed) Yes he’s on famotidine! It was working. He’s grown a lot since his last check in so I think the dose were on isn’t helping anymore I’m happy we are seeing his doctor very soon
+- `sr120-0053` (question) He seemed to be doing well with the soy! That’s why I’m so confused about today’s crying. They tested his stool as well
+- `sr120-0054` (question) So I’ve heard of this! Would it still work almost 6 months pp? I want to mention it to my psychiatrist.
+- `sr120-0055` (desire) That actually helps me because I feel like I’m in the trenches and I don’t have a lot of mom friends so I don’t get to hear it gets better. I’m happy it does. Thank you and I’m so happy it got better for you
+- `sr120-0056` (desire) Thank you! Yes I heard a lot of people do well on Zoloft. I hope the Prozac starts to work soon
+- `sr120-0057` (pain) Thank you 🫶 Posptpartum anxiety is its own beast
+- `sr120-0058` (objection) Okay I put him in the lost and found at the library. I’ll let you know if he gets picked up
+- `sr120-0059` (pain) Friend!!!! My son was born April 2nd too! Twins 🫶 yes panic attacks are very scary they’ve been worse since postpartum. I’m so sensitive to all these hormones. You are not alone
+- `sr120-0060` (desire) I see her in a week! But I might just call my MFM or send her a portal message about it
+- `sr120-0061` (belief) Thank you mama! I just wrote in the portal 💖 I wish I would have known about this from my doctor considering my history. But women’s health who cares
+- `sr120-0062` (objection) He’s a person? Who would have known?  Might be why I feel horrible?
+- `sr120-0063` (belief) Yeah girl I’d say crying is better than permanently damaging my baby with shaken baby syndrome you Neanderthal
+- `sr120-0064` (desire) Thank you! I think I’m going to invest in some soundproof headphones so I can tend to him better when he’s screaming
+- `sr120-0065` (belief) Yes I also have lupus and some chronic illness and I think today was the perfect storm of dehydration, flare up, and PPA. Oh and forgetting to eat
+- `sr120-0066` (desire) You’re a rockstar. And I agree im going to start playing happy music when the screaming gets too much so he can have the best of me
+- `sr120-0067` (objection) I am trying! I’m going to a mom’s support group. I’m going to therapy, I’m on medicine and my child is my everything. “I hope the baby lives to see the next few years” is wild. He’ll live a long beautiful life with empathy towards others and know not to kick his peers when they’re down. Something he might be able to teach you! 🩵
+- `sr120-0068` (tried_failed) I am trying. Any little things you do through the day to help yourself? He’s very colicky. I got a carrier so I can move throughout the day because if i set him down for a moment he cries and he seems to be getting used to it
+- `sr120-0069` (objection) Thank you so much. Some very perfect parents in this thread and I am happy for them.
+- `sr120-0070` (purchase) Yes! I just ordered a new baby carrier that we’re both comfortable with. I’m in NY and the weather has been sooo rainy for 4 days in a row which I think is contributing to my mood and babies mood but when it clears up I’m going to be walking with him !!!! I think it’ll help a lot
+- `sr120-0071` (desire) Going snack drawer shopping  this week !!
+- `sr120-0072` (desire) Yes! My cortisol just raised and my heart goes insane. I’m going to try nose cancelling headphones
+- `sr120-0073` (objection) That’s why I left him for 24 hours and not just one it’s all about me. I went to a party too!
+- `sr120-0074` (belief) Thank you so much mama and you got this too. You are breaking the cycle 💖
+- `sr120-0075` (belief) Thank you so much mama and you got this too. You are breaking the cycle >!💖!<
+- `sr120-0076` (pain) Thank you so much for sharing. It’s like when they wheeled me into the postpartum ward and they treated me like garbage. There needs to be more sources, thanj you for sharing this source
+- `sr120-0077` (desire) I will ask the pediatrician this week about it! Thank you
+- `sr120-0078` (question) What is the neurological damage caused?
+- `sr120-0079` (objection) “frequent and consistent periods of crying” this isn’t the situation if you read my post
+- `sr120-0080` (objection) When did I say in my post that this is done every time I feel overwhelmed?
+- `sr120-0081` (objection) You seem to think I’m proud of this?
+
+### 1wyfcmm | r/NewParents | 2026-10-05 | newborn_0_8_weeks | parent_unspecified | patterns 2,5
+
+About: Worry insufficient narration will delay newborn language development. Wants: Realistic guidance on how much to talk to newborn. Already did: Short phrases and songs; quiet caregiving; intensive care during hospital stay.
+
+- `sr123-0065` (others_said) I have a 6-week-old, and I keep seeing advice about how you should talk to your baby throughout the day and narrate what you’re doing, and I’m realizing I don’t really do that very much.
+- `sr123-0066` (fear) I talk to her obviously, but it’s usually one or two word phrases, or a quick song. I’m not someone who naturally narrates everything I’m doing. I’ll change her diaper, make a bottle, get her dressed, etc., and then realize afterward that I was mostly quiet. I keep worrying that I’m supposed to be talking to her way more than I am.
+- `sr123-0067` (pain) We also recently had an unexpected hospital stay where I was essentially “on” with her around the clock for about two weeks, and I’m still incredibly burnt out from it. I think that’s making it even harder to remember to consciously talk and narrate things all day.
+- `sr123-0068` (question) For those with babies around this age, how much did you actually talk to them throughout the day? Did you really narrate everything you were doing? Did talking to your baby come naturally to you, or was it something you had to consciously get used to doing?
+- `sr123-0069` (fear) I think I mostly just need to know what this looks like for other people in real life. I’m starting to worry I’m not talking to her enough and that it’s somehow going to delay her language development.
+
+### 1wzb5tb | r/beyondthebump | 2026-10-06 | toddler_18_24_months | experienced_mother | patterns 2,5
+
+About: Mother feels guilty using toddler screen time while soothing vaccinated infant. Wants: Reassurance that extra toddler screen time during infant care is acceptable. Already did: Tried babywearing; put on Ms. Rachel for toddler for 1.5–2 hours.
+
+- `sr121-0066` (pain) My 2 month old got her first vaccines today and of course she’s feeling it now. She’s fussy and very sleepy. Just wants to be held so she can sleep. Which is fine, I don’t mind doing that if it weren’t for my 19 month old. She needs me too. I tried baby wearing but my back is killing me after a few hours of doing it. So I’ve resorted putting Ms. Rachel on. She’s maybe watched about 1.5-2 hours of it so far (of course split up). But I don’t think this will be the end of Ms. Rachel today so she’ll probably get more screen time and it’s only 3pm. I’m feeling immense mom guilt right now but my hands are tied. Someone please tell me if this is ok or not :(
+- `sr121-0067` (belief) Haha the tv was for my toddler, not my baby
+
+### 1x0w76c | r/ScienceBasedParenting | 2026-10-08 | baby_9_12_months | parent_unspecified | patterns 5
+
+About: Mother worries returning to work and nanny hours may damage secure attachment.. Wants: Evidence whether nanny hours and less maternal time affect secure attachment.. Already did: Took maternity leave; heard podcast advice; considered work and nanny schedule..
+
+- `sr124-0084` (trigger_moment) My daughter is 9 months old, I am currently on maternity leave and can extend it to the maximum of 15 months. After that I have to either leave work permanently or go back full time but most days I am able to get my work done in 6 hours instead of 8 if I focus (I work in IT, remotely). If I go back I would be able to afford a nanny for her and as me and my husband work different hours she would be with the nanny no more than 5 hours a day.
+- `sr124-0085` (fear) My question is: is that ok, or too much? Will that affect her creating a safe attachment to us?
+- `sr124-0086` (others_said) I have anxiety over this after hearing [Erica Komisar on Diary of a CEO](https://www.youtube.com/watch?v=cialLfVZqm4) say that the mother should be with the child up until 3 years old but mainstream psychology seems to indicate quality is more important that quantity.
+- `sr124-0087` (question) Do you have any observations or knowledge on this?
+
+### 1x2uvst | r/Mommit | 2026-10-11 | toddler_18_24_months | new_mother | patterns 1,2,5
+
+About: Mother fears independent play boundaries could feel rejecting. Wants: Know developmental readiness for independent play and boundaries. Already did: Plays on floor; tries short tasks nearby.
+
+- `sr126-0008` (question) So I have a very playful 21-month-old, and lately I’ve been wondering when it’s okay to just… exist in the same room without having to entertain him every waking second.
+- `sr126-0009` (pain) When he’s home from daycare, he pretty much expects me to play with him constantly. Even if I’m sitting on the couch trying to pay bills on my laptop for a few minutes, he’ll tell me “all done,” grab my hand, and drag me right back to his playmat. If I don’t join him, he gets upset, and suddenly I feel guilty for wanting to do literally anything else.
+- `sr126-0010` (fear) I genuinely love getting down on the floor and playing with him, and I don’t ever want to be the mom who just sits on the sidelines watching instead of actually engaging with her child. But at the same time, I know I can’t realistically be his playmate every waking minute. I already struggle with anxiety, which can make me feel overwhelmed or overstimulated pretty easily, and the last thing I want is for that to turn me into the mom who’s constantly looking for an excuse to step away or hand him off to Dad.
+- `sr126-0011` (fear) And just to clarify, I have no problem saying no or setting boundaries as a parent. My concern is whether he’s developmentally ready for that particular boundary. I don’t want to insist that he entertain himself if he’s still at an age where he genuinely needs that constant interaction and reassurance. I guess I’m trying to understand the difference between a toddler being understandably disappointed and a toddler feeling genuinely rejected or disconnected.
+- `sr126-0012` (question) Is there an age when they’re developmentally ready to understand that Mom can be nearby and available without actively playing with them every second? And how do you get there without making them feel like you don’t want to spend time with them?
+- `sr126-0013` (question) Meaning I should be grateful he wants to play with me now and continue, or remind myself of that as something to look forward to?
+- `sr126-0014` (belief) You know, I’m going to be completely honest. My immediate thought after reading “Cornell 7” in your reply, I was slightly annoyed that a subject so disturbing could be connected to my question in any way. BUT, after I finished reading the rest of your comment, it actually surprised me to realize how spot-on you are! It’s exceptionally important to teach our children that “No” is a full sentence and to respect it as such, especially while they’re young enough to accept it unconditionally. Thank you for this perspective :)
+
+### 1x53bbr | r/NewParents | 2026-10-13 | baby_2_4_months | new_mother | patterns 5,9
+
+About: Mother worries remote work will limit baby’s developmental opportunities. Wants: Know whether working while caring for baby disadvantages development. Already did: Breastfeeds, supplements formula; considering daycare versus home care.
+
+- `sr130-0037` (belief) FTM here! My baby is currently 2 months old, and I’ll be going back to work in about a month.  
+I’m lucky to have a very flexible remote job. I only have 1 to 2 informal calls a week, and everyone on my team is a mom, so they’re very understanding. However, I still spend a good amount of time throughout the day on my computer.
+- `sr130-0038` (belief) So far, my baby has been pretty easygoing. I breastfeed about 80% of the time and supplement with formula when needed. She’s happy with either and has generally been a pretty easy baby. We’re currently at the stage where daytime crib naps are pretty much nonexistent, and she only wants contact naps. On the bright side, she sleeps about 8 hours straight at night! I’m not sure if her daytime sleep habits will change as she gets older.
+- `sr130-0039` (fear) My biggest concern isn’t necessarily juggling work and the baby, but whether splitting my attention could affect her development. I worry that being focused on work for parts of the day might mean missing opportunities to play, interact, or help her reach milestones.
+- `sr130-0040` (question) I know daycare has its pros and cons, especially at such a young age, but I wonder if keeping her home with me while I work could actually put her at a disadvantage developmentally.
+
+### 1x5z28x | r/beyondthebump | 2026-10-14 | baby_6_9_months | new_mother | patterns 1,5
+
+About: Mother fears limited reading caused missing babbling milestones. Wants: Reassurance baby can reach vocal milestones despite little reading. Already did: Talks and plays daily; plans daily reading.
+
+- `sr126-0084` (fear) I'm a single mom to a 7 month old boy. He's my entire world. I play and talk to him everyday. However I have struggled severely with PPA and PPD. I feel like it's maybe finally getting a little bit better day by day.
+- `sr126-0085` (fear) But I realized that in these last 7 months, I have barely read to my baby. He coos a lot but doesn't babble with 2 letter words like ma, da, ba. Anything like that. Have I messed it up for him? I feel like I failed him.
+- `sr126-0086` (fear) I plan to make an effort to try and read everyday to him now but I feel horrible. Has anyone else barely read to their baby and they reached their vocal milestones? I talk to him all day every day so I'm hoping that would have helped but idk anymore 😭
+
+### 1x87ukf | r/beyondthebumpUK | 2026-10-17 | baby_2_4_months | parent_unspecified | patterns 5
+
+About: Reflux management leaves no tummy time; parent fears developmental harm. Wants: Ways to fit floor and tummy time around reflux care. Already did: GP treatment, medication, upright holding after feeds.
+
+- `sr126-0124` (fear) My 10 week old has had bad silent reflux for a couple of weeks now (being managed by GP etc) and it’s getting better, however I feel like with all that needs doing to manage it there’s no time left for anything else. By the time she’s changed, fed, burped, kept upright for 30 minutes, meds given her wake window is over. I’m really starting to worry it’ll impact her development in the long term?
+
+### 1xb8jmo | r/ScienceBasedParenting | 2026-10-21 | toddler_12_18_months | parent_unspecified | patterns 5,10
+
+About: Worries fluoride toothpaste could harm toddler's brain development. Wants: Know whether appropriate fluoride toothpaste amounts are safe. Already did: Used rice-sized fluoride toothpaste once daily; nonfluoride for other brushing.
+
+- `sr131-0034` (question) is it safe to use fluoride toothpaste for a 17 month old? i’ve been using a rice sized amount only once a day and non fluoride toothpaste for the other brushing since about 12-14 months old.
+- `sr131-0035` (fear) someone today told me fluoride toothpaste is a toxin that can harm my baby’s brain development. is this true? or is it safe to use as long as you’re using the correct amount??
+
+## Near posts tied to development: 102 posts
+
+### 1s9ei9b | r/NewParents | 2026-04-01 | baby_4_6_months | parent_unspecified | patterns 5 | border: sleep
+
+About: Fearing psychological harm from crying during changes to sleep settling. Wants: Compare emotional effects of crying while held versus comforted in cot. Already did: Replacing feeding to sleep with father's rocking.
+
+- `sr003-0006` (tried_failed) Me and my husband this week have been trying to stop the feeding to sleep then transferring. Instead my husband has been rocking him (5.5months) then eventually transferring him. He screams his head off for a good half an hour in my husbands arms and then eventually falls to sleep. We were speaking about this today and realised we’re essentially taking away one crutch and adding another with the rocking surely? (The reason we want to stop feeding to sleep is because I have a few nights away over summer for various things which I’d only feel comfortable going too if I knew he’d be settled enough to sleep by his dad).
+- `sr003-0007` (question) We then said that although we haven’t had the guts to try it because I hate him crying so much and one of us not holding him, would he eventually have drifted off at the same point had he been left in the cot but with one of us there comforting him? (stroking him or with a hand on him).
+- `sr003-0008` (question) Is there a big difference between him screaming for half an hour in our arms to him screaming in the cot for half an hour but with us being there and still touching him?
+- `sr003-0009` (fear) I worry much about the psychological damage of him getting really upset but if it’s on the same level I’d rather us start to get him to fall asleep in the cot.
+- `sr003-0010` (objection) I don’t want to do CIO. We were just wondering if anyone knew if there’s a big difference with us holding him or him being in the cot with say our hand on him or stroking him while he’s crying. I wouldn’t want to leave him to cry or not have contact while he’s crying personally but just thought if he’s crying anyway I would rather the chance of him falling to sleep actually already in the cot and potentially getting more used to that than us holding him. He seems to scream at the moment regardless if we do anything other than feed to sleep.
+- `sr003-0011` (belief) Yes okay thankyou. I feel uncomfortable with the idea but then my husband couldn’t see the difference and it made me question it also. I suppose it’s the same as if I was really upset and if my mum fully hugged me it would feel more comforting than a pat on the tummy 😅
+
+### 1sax2t0 | r/Parenting | 2026-04-02 | unknown | parent_unspecified | patterns 3,5 | border: age_over_24
+
+About: Parent regrets withholding play after toddler hit newborn sibling. Wants: Discipline effectively without damaging connection. Already did: Scolded; cancelled outside play; withheld games; apologetic reflection; special breakfast.
+
+- `sr005-0040` (trigger_moment) My 2 y/o was having a mini tantrum after dinner tonight because she wanted to go outside, but not finish dinner.  She slapped her 2 month old baby sister in frustration (not particularly hard) and I brought her in the other room, scolded her, said we would not be going outside to play, explained, and told her we were going to apologize, take a bath, and go to bed.  I don't really know if it was the right reaction, but it's what I came up with. It upset her, but at least initially she seemed to connect that hitting her sister was the cause of her not getting what she wanted.
+- `sr005-0041` (regret) But going through our regular tub and bedtime routine she kept trying to engage with me and play all of our silly games.  I feel so guilty afterwards not reciprocating and just going through the motions putting her down.
+- `sr005-0042` (fear) I of course told her I loved her and read a story, but she could tell something was off and was trying so hard trying to get a reaction out of me.  I don't even know that she made the connection to why, but it felt like I was giving in to treat it like normal. But afterwards I don't know if she even made the connection, and if not I feel so guilty withholding like I did.
+- `sr005-0043` (desire) I need to read more on how to treat situations like this, but it's really upsetting to think about my daughter just trying to play games and being so sweet, but not playing with her.  This time only lasts so long and I'm pretty sure I'll remember tonight forever.  I just hope what I did was worth it, and mattered.
+- `sr005-0044` (regret) 100%, and that's what I felt guilty about.  Realized it towards the end, and thinking about it after the fact.  No doubt it was wrong, I'll do it different next time.
+- `sr005-0045` (success_story) She was fine this morning and we had a special breakfast and played with the dogs outside.  But still gonna stick in my brain
+- `sr005-0046` (others_said) Appreciate it.  My wife said the same, and I know it's true.  Just hurts.  Thanks all
+
+### 1sbjco7 | r/daddit | 2026-04-03 | baby_9_12_months | parent_unspecified | patterns 5,8 | border: parent_state
+
+About: Father fears not doing enough and seeks specialised therapist. Wants: Find a therapist for fatherhood worries and feel he is doing enough. Already did: Discussed feelings with parents and wife; both offer reassurance.
+
+- `sr002-0105` (belief) First time dad here.  My son is about 10 months old and has become such a joy in my life and I love my relationship with him.  I feel like he has strengthened my marriage already as my wife and I adore him. Hes all I want to talk about with my friends and family, and I feel so lucky to be his dad.
+- `sr002-0106` (fear) With that said, I feel like I am struggling.  Struggling to keep up with everything I need to do as a dad. From managing the family finances to making sure he’s getting the stimulation and development help that he needs and deserves.  I find myself getting so emotionally distraught at random times (and with little to no provocation at times) over whether I’m doing enough for him, making sure my family sees him enough (both my family and in laws are local) or if his childhood will be “good” in his eyes.  I feel like I have barely enough in me to cover every base and still be a good partner to my wife, as well as being good to myself.
+- `sr002-0107` (desire) I feel like I need to find a therapist to talk about this with. I’ve never felt this need in my life before as I feel like I have been well adjusted enough until now.  Is there any tip or trick to finding someone that specializes in fatherhood or something like this that could help?
+- `sr002-0108` (belief) I appreciate it!  The feelings are sporadic and fleeting, I’m generally an upbeat person which is why this is a little hard for me.
+- `sr002-0109` (others_said) I’m really the first of my friends to have a kid so my group might not be the right one for recs. I’ve mentioned it to my parents  to see if they felt the same, and they tell me it’s all a normal part of parenthood. I’m sure to a degree it is, I just want to make sure I am being my best self for my child.
+- `sr002-0110` (belief) My wife’s group is very open about it, and it’s how she found her therapist!
+- `sr002-0111` (others_said) I have talked to her about it and she reassures me that I’m doing great and our boy is going to be great as well. Just one of those nagging feelings that comes up from time to time.
+- `sr002-0112` (success_story) Thank you.  What’s that old saying about parenting is just showing up for your kid?  I plan to always be there and he’s babbling which makes us so excited for the talking and being ridiculous as a family together!  My niece is 3 which has been a fun glimpse into toddler-hood and we couldn’t be more excited!
+
+### 1sd5iu8 | r/workingmoms | 2026-04-05 | toddler_12_18_months | experienced_mother | patterns 2,5,8 | border: parent_state
+
+About: Balancing career ambition with fear of regretting less time together. Wants: Honest hindsight on working full-time while children are young. Already did: Two maternity leaves; part-time then full-time work; grandparents' help.
+
+- `sr003-0059` (belief) I have two young kids (1 and 3) and a demanding career in law that I’ve spent years building. I’ve taken two maternity leaves (around 8–12 months each). Since returning after my second, a number of factors have resulted in a window of opportunity for me to fast track a promotion to equity partner in the next 12 months. I was previously working part time (4 days) but have gone up to full-time recently after a couple of partners left my team (the same reason a path to promotion has opened up…). My typical hours are roughly 8:30am–5:00pm, which means I’m with my kids awake for about \~4 hours on weekdays, plus nearly 24/7 on weekends. I often do a few more hours work at night once they’re asleep.
+- `sr003-0060` (fear) Since having my second, I’ve found that days I’m solo parenting both of them are quite challenging and I often felt overstimulated, struggled to structure the day well and ended up defaulting to help from grandparents more than I expected. If I’m honest I don’t really “want” to drop back to reduced hours, I’m really enjoying the momentum of my career at the moment. However in the back of my mind I’m always worried I’m going to regret not spending more time with my kids when they were so little.
+- `sr003-0061` (desire) I’m not looking for validation either way, just honest hindsight.
+- `sr003-0062` (question) For those of you who stayed in big, demanding careers while your kids were very young:
+
+\- Do you regret not scaling back more at that stage or are you glad you maintained momentum?
+
+\- How do you feel now, a decade on, about the time you spent working vs at home?
+
+\- Did your kids ever express feeling like you weren’t around enough, or is that something we overestimate in the moment?
+
+\- If you could do it again, would you make the same call?
+
+Equally, if you did step back and later returned:
+
+\- Do you feel it was the right decision?
+
+\- Did it meaningfully change your long-term trajectory?
+
+I’m trying to make decisions that my future self will respect, not just what feels easiest or hardest right now.
+- `sr003-0063` (belief) Ooh yes this is such a good point! Part of the reason I went up to full time is because I realised I definitely wasn’t doing 20% less work than a full turn load, was just getting paid less and scrambling to fit calls in on my day “off”
+- `sr003-0064` (belief) This is so comforting. Even just being able to have 4 kids feels like a luxury that you’re able to afford! We love travel too and my fondest childhood memories are of vacations, not that we ever went on big international holidays. I have no memories of being home with my mum before school even though she was a SAHM. And I freaking hate cleaning, to be able to outsource that is itself making me a better mom 😂
+- `sr003-0065` (pain) Yeah I’m often logging back on and doing another 2/3 hours at night after they’re asleep. Sometimes also 3/4 hours of a weekend afternoon once we’ve spent all morning together and if my husband takes them to see the grandparents or something but not every weekend. It’s a really good point about building up my confidence to solo parent. I think that is definitely gradually getting easier as they get older - when the youngest was a newborn and breastfeeding and napping round the clock I really struggled to balance this with caring for my 3 year old but it’s obviously much easier the older they get. I totally get that when you’ve levelled up you look back and can’t believe how easy it was with the kids you had before. Like my husband and I often laugh about how we ever thought it was hard just having one, now that seems like a holiday!
+- `sr003-0066` (pain) Oooft I feel this. I actually got diagnosed with adhd after my first child and definitely think  she could potentially have some neurodivergence too. It feels like a bad thing to admit that I need some downtime even after working all week but 100% I am not well regulated without some space to think about something other than kid stuff.
+- `sr003-0067` (belief) Thank you 🥹🥹 I really really appreciate this. Such a good point that this is really only an issue for the first 5 years until the go to school and then largely I suppose most kids will have working parents or if they don’t, they are still not with mhm 24/7. This also makes me realise that my daughter is 3.5 and I’ve spent 20 months of her life not working at all, and almost all the rest of it working part time and there is really no discernible difference in our bond or anything one way or the other.
+- `sr003-0068` (belief) This is so beautiful and such a good point. I absolutely love my mom but I never wanted to be a SAHM like her and when I was an angsty teenager I loved to tell her that I wish she worked!
+- `sr003-0069` (desire) That’s great to hear! And this was kind of my plan… that I’ll just do it and have a go and if I need to pull back down the track it will be better to do that from a higher position. And looking ahead it does seem like those at my firm in more senior roles have a lot more autonomy and flexibility (albeit of course more responsibility and stress)
+- `sr003-0070` (belief) This is exactly how I feel too! It’s really hard to go against the grain when you don’t have an example of this in your own family! I guess another reason why it’s a good thing to show our kids (especially daughters) that you can keep your career if you want to after having kids
+- `sr003-0071` (belief) Yes agreed! And actually having acquiesced and gone to full time hours I still feel there is some flexibility to take some time “off” during the standard work day to pick the kids up early, go to the odd activity with them etc when work isn’t too busy.
+- `sr003-0072` (desire) Thank you, this was so kind and really generous of you to help ease the anxiety of an internet stranger in such a considered way. I have really taken this to heart and know that what you’ve written sounds exactly like what my inside voice is telling me too. I don’t actually feel reluctant to push ahead and try for the promotion, I just needed permission from someone to say that I’m not doing the “wrong thing”.
+- `sr003-0073` (belief) Yeah totally agree with this, my dad was the worker and my mum completely gave up her career for kids and was a full time sahm and I’ve always seen myself as more like him because he’s ambitious and hard working and to be honest while I loved my mum I didn’t have a lot of respect for her, particularly as a teenager!
+- `sr003-0074` (belief) True true true true. It kind of bothers me when people say “I chose to be a SAHM, it makes money really tight but it’s so worth it” like the truth is money genuinely does make things a lot easier and better to a certain point. It’s not just a nice to have
+- `sr003-0075` (fear) Holy shit this is an impactful comment and thank you for being honest and sharing your experience, including the parts you’d do differently. It’s really hard to look back on choices we make and say we wish we’d chosen differently, I think the human brain will typically jump through hoops to convince itself whatever choice we personally made was right. 
+Your last paragraph genuinely gave me an acute sense of dread because I am so so terrified of putting that feeling onto my daughters, that somehow i blame them for choices I made. My own mother gave up her whole career for me and my brother and I always wished she had something else in her life and know she was incredibly lonely when we finished school and moved out, dad was still working and she just didn’t have anything to do during the day. I saw a quote after I had my first baby about not making your child your entire existence because that is putting a debt on them that is impossible to repay, and so much unwanted pressure, and that has always really stuck with me. I never want my daughters to feel responsible for my happiness
+- `sr003-0076` (question) Thanks for sharing this. I guess we’re never going to be able to avoid the pain of nostalgia looking back at when they were younger. I wonder whether you’d feel any differently if you had stayed home fully during the infant years or whether you’d mourn how quickly it went just the same
+- `sr003-0077` (belief) The first cross country comparison to first steps is such a good point! I feel like “seeing baby’s first steps” is such an emotive milestone people love to hang onto as something you might miss if you’re not spending every second with them but I remember with my first being so confused when we actually got to that age because I was like…what actually counts as first steps? We spent a good month doing half steps and hovering steps and one or two steps and I genuinely didn’t think there was one particular day when the milestone happened! Certainly plenty of “learning to walk” moments for us, her grandparents and her childcare educators to enjoy to go around
+- `sr003-0078` (desire) Thanks for sharing an alternate perspective! My kids aren’t school age yet but I think I’ll want to be relatively available for their classroom activities, maybe not the primary class parent or PTA president but definitely worth considering in a few years time whether my job is giving me the flexibility I want
+- `sr003-0079` (pain) This is so encouraging thank you! Some days I just feel so underwater and there isn’t time for literally anything else except for work and kid stuff, there is absolutely no exercise or socialisation with friends or personal admin happening. But i remember when my eldest was two I genuinely did have so much more freedom. I’d be interested to know if you’re tempted to go for three 😂
+- `sr003-0080` (fear) Wow this is such an amazing and refreshing perspective. It’s hard to admit that I just genuinely might not be a fantastic toddler mum and that’s ok. I also really had a hard few years with my mum as a teenager and I think subconsciously what drives all of this anxiety is me thinking “what awful things will my daughters say to me when they’re teens, will they say I didn’t love them because I prioritised my career over them and wasn’t around enough” but it’s never actually dawned on me that maybe I could be a better teen parent than my own mother and it doesn’t have to be such a hostile unpleasant time.
+- `sr003-0081` (belief) Ha! My mom and I get on fine now and she is a fantastic grandmother to my girls (probably because this was her bread and butter!) but it’s very clear we are not the same person and I’m much more like my dad. I love her to death but she is not my kindred spirit!
+- `sr003-0082` (desire) This is music to my ears and exactly what I hope to do! If I can just grind for a little while now I could conceivably double my already pretty decent salary in the next 18 months that’s a significant difference for my family and hopefully gives us lots of flexibility for the future
+- `sr003-0083` (belief) Absolutely! I have no doubt that for myself working rather than parenting full time is the “easier” choice and I would be way more exhausted (and also far less stimulated) if I was home with multiple kids all day. I have unlimited respect for childcare workers. I think at this age it really is true that “it’s all hard” (and beautiful and life changing and wonderful of course) but there is really some truth to everyone being in the trenches regardless at this point
+- `sr003-0084` (belief) One think that also helps me to assuage my guilt is running the numbers on a 168 hour week and that even accounting for 7.5 hours sleep per night (lol) and a 50 hour work week that still leaves 65 spare hours. Obviously some of that will be occupied with other not-kid- focused stuff, particularly while they’re asleep, but it’s a decent proportion of an average week that is available for family time. I think accounting for kids sleeping 12 hours per day (also lol!) it means I’m spending 40.% of their waking hours with them despite working full time. It doesn’t feel so bad putting it that way!
+- `sr003-0085` (desire) I feel this 100%. I love my mum so much but I definitely didn’t see her as a role model and I hope I can be that for my kids if they want to pursue careers and talk about anything I might have some expertise in!
+
+### 1sd6k8q | r/Parenting | 2026-04-05 | unknown | parent_unspecified | patterns 5,10 | border: age_unknown
+
+About: Parents disagree whether particular music harms toddler’s brain.. Wants: Know whether music genres or fast songs can damage child’s brain.. Already did: Played varied music; considered child’s preferences and partner’s objections..
+
+- `sr001-0144` (fear) So, my kid's father (M33) and I (F34) have extreme music tastes. He likes videogame music and bands like Red hot chilli peppers or Bring me the horizon while I enjoy from Ash Ra Tempel to Frank Zappa (I also like Hip Hop and other modern music). My kid is developing a really interesting taste but, while I'm pretty open about her preferences, her father tend to question the music I play for her, considering some pieces "brain damaging". But then I'll find him playing her stuff like Hatsune Miku's "CandyCookieChocolate" and, while I like the song, I'm concerned if that music may be actually "not good" for her brain (speed of the lyrics, music and effects). Despite I admit sometimes I listen really weird stuff and I listened lots, LOTS of metal during my pregnancy, I'm also very conscious about the music I play for my kid.
+- `sr001-0145` (question) Am I overreacting?
+- `sr001-0146` (question) Are there any genres we should avoid?
+
+### 1se7obd | r/Parenting | 2026-04-06 | unknown | parent_unspecified | patterns 5 | border: age_unknown
+
+About: Fears modelling inactivity and eating habits will harm children.. Wants: Understand parental influence and avoid passing on unhealthy habits or anxious pressure.. Already did: Worked to unlearn childhood eating habits; tried modelling activity and productivity..
+
+- `sr001-0178` (fear) I think many of us can relate to the fear of really messing up our kids, especially when we’re constantly flooded with advice, warnings, and “right vs. wrong” messages from the media. For those of you with older children, I’m genuinely curious: how much do you feel your kids have picked up your habits, behaviours, and attitudes, and where have they gone in a completely different direction?
+- `sr001-0179` (belief) Growing up, there were several things my mom did that I came to feel very strongly against. Once I became aware of them, I made a conscious effort to unlearn those behaviours and do things differently.
+- `sr001-0180` (fear) One area that causes me a lot of anxiety is food and activity. I grew up in a very low‑energy household where emotional and mindless eating was normal. There was little to no physical movement, no encouragement to be active and outdoors, and a lot of napping and sitting around. I became overweight as a child, and even now, at almost 40, I still work hard to undo those habits and ways of thinking. Because of that, I’m constantly worried about my kids developing similar patterns.
+- `sr001-0181` (fear) I feel guilty whenever I relax in front of them, and I often feel pressure to always be moving, exercising, or being “productive” so that they grow up valuing those things too. At the same time, a part of me wonders whether that pressure, and my anxiety around it, is actually causing more harm than good. I know that kids often grow up and shun their parents and become the exact opposites of what they are taught. On the other hand, I feel like all of my friends with sporty, active kids have sporty, active parents.
+- `sr001-0182` (question) Would love your thoughts and experiences!
+
+### 1sh7lit | r/beyondthebump | 2026-04-10 | baby_2_4_months | parent_unspecified | patterns 5 | border: sleep
+
+About: Parent questions sleep training versus supporting early four-month regression. Wants: Experiences managing regression while encouraging independent sleep. Already did: nothing stated.
+
+- `sr007-0045` (trigger_moment) Our baby is 110% hitting his 4 month regression early. Very distinctly started at 12 weeks and we are going on 2 weeks of REALLY rough times and continuing.
+- `sr007-0046` (belief) He is a high needs very highly sensitive baby. Very.
+- `sr007-0047` (belief) I feel like there's a lot of conflicting information out there. But I feel like for the most part it boils down to two ideals:
+- `sr007-0048` (belief) 1.) It's a regression. Let them ride the wave and see how they come out on the other side. Support them in whatever way you can. Do whatever you got to do.
+- `sr007-0049` (belief) 2.) Because the regression is a level of sleep development, we need to train them so that they do not come out with long-term sleep issues or false associations on the other side.
+- `sr007-0050` (question) What has worked for you? Any thoughts on this?
+- `sr007-0051` (desire) I really don't want to be the type that is cosleeping, contact napping, etc past 6 months... No judgment but that's just not for us.
+- `sr007-0052` (question) How did you support independent sleep without sleep training?
+- `sr007-0053` (question) How long did it take wth CIO?
+
+### 1sktmfe | r/NewParents | 2026-04-14 | baby_9_12_months | parent_unspecified | patterns 5 | border: sleep
+
+About: Ten-month-old's fragmented sleep exhausts parents reluctant to sleep train. Wants: Advice and reassurance about worsening sleep and comforting crying baby. Already did: Held, transferred, checked ears, maintained naps and bedtime; avoided sleep training.
+
+- `sr007-0136` (pain) Our baby boy is 10 months old, and my husband and I are completely drained. We truly thought sleep would get better with age, but somehow it feels like it’s gotten worse.
+- `sr007-0137` (belief) It’s currently 4:51 AM as I’m typing this. He’s been waking up every 15 minutes — if we’re lucky, maybe every 30 minutes. Every wake-up comes with crying, often intense crying, and the only way to calm him is by picking him up.
+- `sr007-0138` (belief) During the night, he usually has formula about twice.
+- `sr007-0139` (belief) The confusing part is that during the day he’s a completely different baby — happy, smiling, active, crawling a lot, playing well, eating normally. Everything seems fine.
+- `sr007-0140` (question) We just don’t understand what’s causing this. Another sleep regression? Something else? It’s been 10 months of broken sleep and this phase feels like the hardest so far.
+- `sr007-0141` (pain) We’re exhausted and honestly don’t know when this will end…
+- `sr007-0142` (question) Any advice or similar experiences would really help 🤍
+- `sr007-0143` (belief) First of thank you for your attention, I really appreciate ❤️ Actually we did try that, but it didn't work out for us, he is big boy so mostly for me it is difficult to hold him for a long time 😞
+- `sr007-0144` (belief) Well teething might be a problem but I don't think that it is always that, regarding the ear we did check and this is not the issue, thank you for your opinion ❤️
+- `sr007-0145` (belief) Thank you for your comment ❤️ He still does two naps during the day and we see that he still needs to so... I really hope somehow it will pass and it is so so difficult to function fully from 7 am 🫠
+- `sr007-0146` (pain) Exactly the same what you're describing... I don’t even know maybe I am doing something wrong... It's just so draining 😪
+- `sr007-0147` (objection) Thank you for your comment ❤️ To be honest I can't do sleep training, that would be really difficult for me emotionally
+- `sr007-0148` (belief) This is so true... I absolutely agree with that, I know that they really need us in that moment so this is really tough to leave them crying, it is better to cry together : )) ❤️
+- `sr007-0149` (belief) I didn’t even know that this age would be that hard but really do hope it will pass for both of us 🙏 🥰
+- `sr007-0150` (pain) I am sorry but I just can't do that, I know... 
+Today I put him on his playmat, needed to do some chores and let him cry for several minutes and I just felt horrible and empty inside 😞💔
+- `sr007-0151` (objection) Sadly it is only for iPhone users 😕
+- `sr007-0152` (belief) Hello, thank you for your comment ❤️ 
+Well... Nothing new, he is sleeping in my arms now, today was really grumpy because he hasn't slept well 🙃
+- `sr007-0153` (objection) Btw there has been some new research that cio is not that good for babies so... without that it really doesn't work for us, I know it just need time but I can't let my baby cry for 30 minutes or more, from crying and stressing even I can fall asleep from exhaustion
+- `sr007-0154` (belief) You might be absolutely right, I don't argue, maybe I just need to find and figure our the right method that will work for us ♥️
+- `sr007-0155` (belief) Exactly, his first nap is longer and undisturbed, while second is shorter, tha no you for your kind advice and comment 🙏♥️
+- `sr007-0156` (belief) We have a bedtime routine. He falls asleep between 8 and 9 PM. During the day, he naps twice — once around 10 AM and then again around 3 PM.
+At night, he needs to be held to fall asleep, and then we transfer him to his crib. He used to fall asleep independently before, but it’s been quite a while since that stopped.
+What’s also important is that he wakes up many times during the night, crying. When we pick him up, he calms down, and this continues in a cycle.
+He also usually has formula about twice during the night.
+- `sr007-0157` (question) When he wakes up, I can see that I'll be around but he'll cry, when should I pick him up? I can't handle his cry 🥹❤️
+- `sr007-0158` (success_story) It got better for us, but during that period as I mentioned we really struggled so I am sure it will pass for you soon as well ❤️ We didn't sleep trained as well, just give it a little time, they go through a lot at this stage
+- `sr007-0159` (belief) I just saw this and I am sorry 💓 but let me tell you that it'll pass really soon, I know it's really exhausting and emotional, been there but you got this!
+- `sr007-0160` (success_story) It has changed for us and it definitely will be changed for you... They are going through a lot at this stage 🥹❤️
+- `sr007-0161` (success_story) Hello 💕 Actually it gorgeous better soon after I posted here, he sleeps much better now and no wakes up for milk
+
+### 1smj5yv | r/Mommit | 2026-04-15 | unknown | parent_unspecified | patterns 5 | border: parent_state
+
+About: Depressed parent fears sadness and extra television harm child's development. Wants: Reassurance sadness and screens are not damaging daughter. Already did: Counseling; repeatedly requested help.
+
+- `sr011-0028` (pain) I'll probably delete this later. I'm so depressed and I just want to chill on the couch with my 2yo.
+- `sr011-0029` (trigger_moment) I was laid off last week, kiddo was sick the week before, I burnt my hand making dinner the week before that...
+- `sr011-0030` (pain) He makes time for 3 hours of his hobbies a day and I am struggling to get a shower as often as I'd like, and we're already in counseling but I can't take another week of consistently, kindly reminding him that I need time for necessary bodily functions.
+- `sr011-0031` (pain) today I found out my coworker who was going to help me with some documentation now won't because she's afraid for her job too. I fucking lost it and my toddler comes up to hug me and tell me to be happy and I just fucking cant.
+- `sr011-0032` (pain) I'm so drained and I'm so sick of asking for help from everyone in my life and not getting it.
+- `sr011-0033` (fear) the small hits just keep on coming, and she'd love to watch another hour of miss rachel anyway but I feel like I'm ruining her development.
+- `sr011-0034` (desire) I've got a good severance/I don't need money - I just need some internet strangers to tell me I'm not fucking my daugher up being so sad all the time.
+
+### 1sns24i | r/ScienceBasedParenting | 2026-04-17 | unknown | parent_unspecified | patterns 5 | border: feeding
+
+About: Worries hormonal contraception in breastmilk affects son's development. Wants: Research about estrogen effects on breastfed son's development. Already did: Previous contraceptive changes; considering restarting combined pill.
+
+- `sr013-0125` (fear) Possibly ppd anxiety but now I'm wondering...is there any research regarding the risks of a breast feeding parent taking hormonal birth control and feeding their specifically male infant?
+- `sr013-0126` (fear) I know studies show hormonal birth control can affect milk supply, but that aside, couldn't the extra estrogen in the milk affect the male baby?
+- `sr013-0127` (fear) That's not what I'm asking though. I've had a lot of bad experience with switching birth controls in the past and I have an oversupply so not too worried about affecting milk production. I was considering going back on my combo pill but then started wondering if the estrogen could affect my son's development
+
+### 1spo0q7 | r/Mommit | 2026-04-19 | unknown | experienced_mother | patterns 5 | border: parent_state
+
+About: Mother worries husband's helplessness models poor emotional competence for sons. Wants: Vent about husband and raise competent, emotionally intelligent sons. Already did: Handles errands, listened to Dr. Becky podcasts together, therapy and medication.
+
+- `sr015-0040` (pain) My husband is a great father but OMG he is sooo annoying. We got back from vacation Friday night so today is reset and clean day. I asked my husband to go to the bakery to get bread and breakfast so I could shower while he’s gone and we can enjoy our day since we are mostly done cleaning. 
+
+We live in Germany and don’t speak German. He is throwing a temper tantrum at the bakery because he doesn’t know what to get and no one speaks English. It isn’t that difficult to point. I told him he’s acting like a baby and he said “I’m leaving and coming home”. Probably shouldn’t have said he’s a baby but like…wtf? I have obviously been coddling him for the entire 14 months we’ve been here since he can’t even go to a bakery and order bread. I have 2 boys who I am trying to raise as competent and capable and emotionally intelligent. They are literally just going to see their mom coddle their dad. WTF? 
+
+Anyways I am just complaining and needed a good vent.
+- `sr015-0041` (belief) Well I texted him that he’s a baby so they didn’t witness any of it lol
+- `sr015-0042` (success_story) Yea I think that’s also important. I didn’t engage and just went about my business. Then he apologized and just said he’s super anxious
+- `sr015-0043` (belief) Yea I guess I was specific with the kind which they were out of. And I am breastfeeding a baby with allergies so I avoid egg so we have to be more specific. Though everything is labeled vegan. But what it really showed me is how I do literally everything when it comes to errands and yes I have totally allowed him to not have to get uncomfy. He orders at restaurants without issue typically. But he def did just want me to go.
+- `sr015-0044` (tried_failed) Thanks for the book recommendations. I do like Dr. Becky and we’ve listened to some podcasts with her together. 
+
+We are in a really stressful situation right now. We are likely leaving here (as far as we know) but the destination is unknown and relies on factors from his job. So I think he’s just feeling the pressure. But even so…his anxiety takes the wheel and he definitely acts like an ass. I recently started medication and re-started therapy due to PP anxiety and OCD and it’s illuminated his anxiety because I can see how our mental health issues were fanning each others flames. 
+We definitely need to work on it. And thankfully medication has allowed me to have the pause. He would never get medicated. He’s very against it. But he certainly has some work to do on how he can show up better and verbalize what he’s feeling.
+- `sr015-0045` (belief) Yea I guess I always like to say that because just because he does one thing that’s annoying and chaps my ass doesn’t mean I want to leave him.  I do think he’s a great father who is able to show up for our kids in ways I can’t. AND I think I have taken too much care of him for the last few years. He doesn’t have to go grocery shopping or pickup household things. He doesn’t have to manage anything involving the kids. I am a SAHM right now due to us living in Germany for his job. So it kind of makes sense. But I do think I need to force him to do these things sometimes. And get uncomfortable.
+- `sr015-0046` (pain) Same!! I am also not type A at all. He got home like 10 minutes ago and hasn’t spoken to me. What an actual baby. 🙄
+- `sr015-0047` (belief) Yea I’m pretty sure he’s just being annoying. He knows how to order things. Even saying sprechen sie English. But apparently no one spoke English there? I think he was just in a mood and being an ass on purpose. But it is really frustrating none the less. We are leaving in 3 months most likely. Not raising our kids here. I probably should’ve said that German isn’t our native language. We speak enough to get by or at the very least order food and drinks and exist in society. But yea…he’s just being a baby today.
+- `sr015-0048` (price_signal) Yea he was definitely acting immature in that moment. It was super frustrating and still is a bit because we don’t have bread  🙄 just for that I’m going to buy the 2x the price bread from the only store open on Sunday.
+- `sr015-0049` (belief) This scenario doesn’t make him a great father. But he is a great father. Just can be an annoying man child at times a
+
+### 1sr4i5p | r/NewParents | 2026-04-20 | newborn_0_8_weeks | parent_unspecified | patterns 5 | border: sleep
+
+About: Worries bassinet practice deprives newborn of developmentally important sleep. Wants: Decide whether to prioritise sleep or bassinet practice. Already did: Daily bassinet attempts; soothing; contact sleep; parents take shifts; carrier.
+
+- `sr013-0241` (fear) My LO (6 weeks 5 days) refuses the bassinet. I know I’m supposed to keep practicing it daily, but every attempt ends up cutting into his sleep. He’ll wake after \~15 min, then I spend time soothing and putting him back down, and he wakes again 15–30 min later. By that point, he’s missing out on rest (due to the interruptions) which is obv developmentally imperative
+- `sr013-0242` (question) So I’m at a loss for should I be prioritizing right now…protecting his sleep or continuing to push bassinet practice? Is it better to just aim for one attempt a day until he’s a bit older, and if so how much older?
+- `sr013-0243` (pain) Right now we are contract sleeping all day and night and it’s becoming unsustainable with us returning to work soon
+- `sr013-0244` (belief) Ty for the reply! Yeah, right now my husband and I are doing shifts so one of us sleeps while the other stays awake with baby and he contact sleeps in the carrier
+- `sr013-0245` (question) Do you recall what age your LO tolerated it?
+- `sr013-0246` (question) Okay gotcha thank you sm!! Did you just attempt daily until he ended up accepting it?
+
+### 1srrmb5 | r/NewParents | 2026-04-21 | newborn_0_8_weeks | parent_unspecified | patterns 5,10 | border: sleep
+
+About: Conflicting nurse advice makes parent fear swaddling harms newborn's development. Wants: Know whether swaddling stunts growth and whether to continue effective method. Already did: Stopped then restarted swaddling, warmed bassinet, tummy time, tried arms-free sack.
+
+- `sr012-0160` (others_said) When my baby was less than a week old, a Healthcare nurse told me that I shouldn't be swaddling my baby anymore. I wondered why she said I couldn't but the hospital encouraged it. I stopped swaddling my baby and it was fine at first... until she started refusing to sleep in her bassinet. She's going to be 4 weeks tomorrow and she hadn't slept properly in her bassinet since she was less than a week old. She was only able to sleep in our arms. Today while trying to get her to stop crying and fall asleep, I gave up and told myself "screw what that nurse said" and swaddle her, heated her bassinet up and laid her down. She slept for a good 2 hours, woke up, ate, did some tummy time, ate more and finally fell asleep swaddled. She sleeps so peacefully this way and it gets her out of my arms for me to sleep. I think i may continue this only for when she sleeps, when she's awake i'll take it off and free her limbs so she's able to still thrive in development.
+- `sr012-0161` (fear) Is it seriously bad to swaddle my 4 week old baby? Should I keep doing it if it works for me? Will it stunt her growth?
+- `sr012-0162` (pain) She said a lot of weird things and gave me severe anxiety, she basically made me overthink everything.
+- `sr012-0163` (belief) She's a nurse provided by the hospital for pregnant and new moms, she follows me for up to 2 years after the baby is born. She's specialized in childcare and babies.
+- `sr012-0164` (pain) Thank you, I have non stop had people tell me what to do, its mentally draining.
+- `sr012-0165` (belief) I'm in canada, I don't wrap her tightly and her feet are free. It's a swaddle sack.
+- `sr012-0166` (others_said) She said not to swaddle her at all and instead wrap her around her chest and lower with a light breathable blanket... which I did not do because of SIDS. I have a hands-free swaddle sack that my daughter hates.
+- `sr012-0167` (belief) See its the opposite for me :( she hates being free and loves being wrapped.
+- `sr012-0168` (others_said) I live in Canada New Brunswick and I was told 2 different things
+- `sr012-0169` (belief) Yes! Sleep sacks are safe for them :) I have a swaddle sack and sleep sack for her because the blankets are risky for sids
+- `sr012-0170` (others_said) In new brunswick some people suggest not to swaddle because its one of the only ways they can show their feeding ques, by eating their hands... which mine only does that when she wants to comfort suck
+- `sr012-0171` (success_story) She's been sleeping for 2 and a half hours now, I'm feeling so relieved to have peace and quiet for once.
+
+### 1st92ik | r/NewParents | 2026-04-23 | baby_4_6_months | parent_unspecified | patterns 5 | border: sleep
+
+About: Weighing sleep training against crying and healthy development. Wants: Different perspectives and success stories on sleep training. Already did: Adapted Ferber; room sharing; moving baby to nursery; gentler approach.
+
+- `sr017-0049` (belief) Hey all. We have a 5.5 month old. We originally were very set on doing an adapted Ferber method, but hearing him cry truly ripped at me. Part of me is like, "Sleep training helps with important skill building" but part of me is like, "This is so nonintuitive; do babies really need this? Does it just contribute to the American, hyper-productive, capitalist hellscape?"
+- `sr017-0050` (question) Wondering if anyone has success stories either way??
+- `sr017-0051` (tried_failed) Additional context that may help - we've been room sharing at night in our bedroom (him in his pack and play, us in our bed), with naps in his nursery. We're shifting (literally tonight) to fully being in his nursery. Also - pro-science; just want to do right by our kiddo :)
+- `sr017-0052` (desire) I know sleep training (all parenting choices, really) stir up a lot of emotions, but I'd appreciate different perspectives!
+- `sr017-0053` (belief) I added an edit to my original post, but I want to make sure to reply to this! I want to clarify what i mean by skill building above, specifically in support of sleep training. Yes, building up the skill of independently falling asleep, but more importantly - recognizing that sleep is critical to healthy development. Sleep deprivation, in whatever form, can harm holistic health. While we're definitely wrestling with the merits of sleep training, that's the piece that is most of merit to me; not that us parents may get more sleep or that routines improve (though those could be nice too), but specifically that I do all I can to provide my kiddo will all the tools he needs to be his healthiest self.
+- `sr017-0054` (belief) I will also say, I think you and I are more on the same page than perhaps it may seem. We are definitely big on building psychological safety and ensuring that our kiddo knows that when he's upset, we are coming. We are definitely doing a very gentle approach to sleep training and also are monitoring our LO's behavior closely, especially during the day.
+- `sr017-0055` (others_said) Thanks for the reply. I do think your note about "an otherwise caring, responsive home" is a good one. Sounds like our pediatricians have views!!
+- `sr017-0056` (success_story) You can see my edit to my original post, but I will say I'm feeling much better today. AND we're taking and even gentler approach, that's better for our family and that I think is better for our specific kiddo.
+- `sr017-0057` (belief) Hey, just want to quick reply. First, I saw your comment about your own personal abuse experience, and I'm really sorry that that happened to you. I want to make it abundantly clear that I am against abuse.
+- `sr017-0058` (belief) However, to say that any sleep training model in a loving, supportive home is abuse feels very unfair and uninformed. We personally are not doing CIO/extinction, but rather a more gentle approach. For us, we are working really hard to prioritize that our baby is safe, secure, loved, and rested.
+
+### 1stqgnl | r/beyondthebump | 2026-04-23 | baby_4_6_months | experienced_mother | patterns 5,8 | border: parent_state
+
+About: Sleep-deprived mother resents years of difficult baby sleep. Wants: Sleep, effective training and understanding. Already did: Books; co-sleeping; wake windows; CIO; Taking Cara Babies with oldest.
+
+- `sr017-0089` (regret) I resent being a mom of two kids that hate/hated sleep.
+- `sr017-0090` (pain) I have a 4 year old and a 4 month old. My 4 year old didn’t sleep well(ish) until very recently. My 4 month old also reallllllllly is not a great sleeper so far. Which I know isn’t out of the norm for this age, but I have ptsd from the sleep torture our first inflicted on me and I have a feeling my baby will follow in his footsteps. I have so many mom friends whose kids started sleeping through the night and having 2+hr naps at such a young age and I am just bummed. Bummed that I am not able to fully enjoy this precious and fleeting time in my life with my babies. I love them more than anything in the whole universe, but I also feel like a shell of myself. I’m so fucking sleep deprived. Like we’re talking 4 years of sleep deprivation with no sure end in sight. I’ve done all the things to try to get more sleep out of my littles, read all the books, and nothing works. I just make low sleep needs children. I’m in a constant state of wanting this phase in life to be over already while also being hyper aware that it’s zooming by and feeling like I’m missing it all from being a sleep deprived zombie 😭
+- `sr017-0091` (desire) Right? My whole second pregnancy I was just kept saying please give me A) a healthy child and B) a good sleeper. I deserve it. I put in my time.
+- `sr017-0092` (desire) I got A and I’m grateful for that. But I. Want. Sleep. 😭
+- `sr017-0093` (desire) We’re going to be sleep training. It never fully stuck with my oldest but maybe it will with my second. Trying to keep the hope alive lol.
+- `sr017-0094` (belief) We did sleep train a couple times with my first and it never fully stuck. But I will be trying again with this one 🙏 I used to feel shame about sleep training, but not anymore. I’m a significantly better more patient mom once I have my survival needs met. It really is pure hell. I 100% understand why sleep torture is a real thing haha.
+- `sr017-0095` (desire) So unfair. Praying the sleep training works for my second 🥲
+- `sr017-0096` (fear) Currently staring at the monitor waiting for her to wake up cause we are approaching the 30 mins mark lol. I’m hopeful sleep training will work with my second one. It has to. 😭
+- `sr017-0097` (success_story) I get glimpses of why I subjected myself to this torture again when I see my two kids already sharing such a wonderful connection. My 4 year old is truly obsessed with the little one and vise versa.
+- `sr017-0098` (pain) But in the middle of the night, three wake ups in….there is a rage that burns in my chest lol.
+- `sr017-0099` (success_story) Hey she actually just had a 50 min nap. Huge win lol.
+- `sr017-0100` (objection) I’m open to allllll the options. Except for co-sleeping. I’ve tried it and it just makes me sleep even worse because I’m too hyper aware and anxious about it. But anything else, let me hear it!
+- `sr017-0101` (tried_failed) Well honestly we haven’t tried too much with my youngest being that she is so young (aside from tweaking with wake windows) we are now starting to encourage independent sleep at bedtime. The last three nights we have let her CIO when we first put her down which hasn’t been too awful. She’s been going down within 15 mins of bedtime. But she wakes frequently to feed and I’m pretty confident it is hunger rather than sleep associations because she has never really loved nursing to sleep and when she eats at night she always has a full meal. I don’t think she is ready to wean night feeds, so I’m at the mercy of her for at least the next couple months when she starts solids. I want to try to get her consuming more during the day, but she is the type that does not want to eat unless she is really hungry. She is a “consent queen” and alot of the time when I offer her the boob, I am aggressively rejected lol until she is reallllly hungry.
+- `sr017-0102` (desire) One of the other big annoyances is the 30 min naps. I’m hoping as she learns put herself to sleep more frequently, that will naturally extend her naps.    We’re just starting the troubleshooting journey with our littlest. Just hoping she responds positively to the adjustments. My oldest never really did.
+- `sr017-0103` (tried_failed) We did Taking Cara Babies with my first and it would work temporarily, but eventually would stop working and we would have to repeat the nights of hell involved with starting the training again. I’m going to try with my youngest and she if she takes to it. I won’t feel right about really putting the hammer down throughout the night until she starts eating solids so I can feel confident she isn’t waking due to hunger.
+- `sr017-0104` (objection) Respectfully, you are not actually telling me anything helpful. It really just comes across as “get over it, that’s how babies are and you should just deal with it, and letting them cry is neglecting their basic needs”. I used to 100% hold the same feeling and opinions as you. But at some point I had to come to the realization that I also have very basic needs that need to be met in order to be a good mom. I respond to her cries all day and all night, aside from the 15 min that she cries and then self soothes only during the initial put down at bedtime. 
+I don’t believe that 15 mins of crying will teach her to stop calling for me when all 23hrs and 45mins of the rest of the day I respond at the drop of a hat. I may be coming across as a bit defensive, because honestly I am. I am doing my best. And hearing that I am teaching my child to not call to me and that I am causing long term damage is a sentiment that is not new in the baby sleep world, it is not true (those findings were based on cases of extreme neglect) and it is hurtful to hear.
+- `sr017-0105` (pain) I appreciate you taking the time to have such a thoughtful response. Sorry if I came across harshly. I’m just struggling right now. And have been for the last 4 years haha. I have literally tried everything you wrote out with my first. I can tell you have a tough sleeper as well since we have both found the same “tips” which were only learned through tireless hours of trying to figure out how to make them sleep. I have implemented alot of those healthy sleep hygiene habits with my littlest one. She’s just shy of 5 months and I am just not in the mental place of being okay with 4 more years of torture. I have done tons of research and I know sleep training is a contentious subject, and I don’t take it lightly. Hearing her cry for any amount of time is complete hell. But I’m just trying to do what’s best for the whole family. It’s a really tough thing to navigate. And considering all the things and what is the right thing to do at every moment adds a whole separate element of exhaustion haha.
+- `sr017-0106` (desire) We ended up doing that with my oldest. So we may end up doing that again with my little one depending on how things go.
+
+### 1su4nnq | r/NewParents | 2026-04-24 | unknown | parent_unspecified | patterns 5 | border: age_over_24
+
+About: Guilt after snapping at bedtime leads to bringing toddler into bed. Wants: Know whether others feel guilt and seek closeness after snapping. Already did: Apologizes; brings child into own bed after difficult bedtime.
+
+- `sr018-0039` (pain) After a rough bedtime with your child, where you ran out of patience and maybe snapped at them, lay in your own bed feeling extremely guilty and then go and get them from their room and carry them into your bed, so that you can watch them sleep and hopefully radiate your love for them into their sleeping little heart?
+
+Or am I just mentally unstable?
+- `sr018-0040` (belief) He just turned 2 I don’t think he would understand that much. I do apologize to him when I get like that but yeah we don’t really have deep talks like that right now
+
+### 1surrt8 | r/ScienceBasedParenting | 2026-04-24 | unknown | parent_unspecified | patterns 5 | border: age_unknown
+
+About: Wondering whether quiet nature videos affect development like other screen content. Wants: Evidence about developmental effects of unedited nature videos for young child. Already did: nothing stated.
+
+- `sr018-0059` (belief) I know that screen time before 2 is not ideal for development but I’ve been wondering if there is more info on the type of content that makes a difference. For example, live wildlife cameras, ocean waves on the beach, go pros style videos of urban walks, real time sunsets/sunrises, etc all with no commentary or cuts; just everyday noises and happenings.
+- `sr018-0060` (question) Is it the screens themselves or the content in which the screens are displaying?
+- `sr018-0061` (desire) I want to expose my LO to all sorts of things in the world as often as I can, but like many I am limited to time/the everyday. Just openly wondering if things like that would be something that is not going to cause problems later compared to everything else out there. I also understand maybe this is too niche and there really just isn’t enough info on what I’m specifically asking.
+
+### 1svyrv5 | r/FirstTimeMom | 2026-04-26 | baby_2_4_months | parent_unspecified | patterns 5 | border: sleep
+
+About: Three-month regression prompts questions about sleep training and developmental harm.. Wants: Support and strategies through sleep regression while keeping bedsharing.. Already did: Contact sleeps, bedshares, nurses back to sleep, gentle pick-up/put-down and soothe-to-crib training..
+
+- `sr019-0119` (belief) I say "4 month" sleep regression because my baby is starting it at 3 months old. 
+- `sr019-0120` (success_story) For some background, he exclusively contact sleeps. He chest-sleeps & carrier naps every single day since he was born. I have started gentle ST ("soothe to crib"/"pick up & put down" methods, no CIO) during his daytime naps & while he hasn't fallen asleep independently yet, he is having great progress. I want to keep the bedsharing for a while longer.
+- `sr019-0121` (belief) Normally when he goes to bed at night he is out for at least 3 hours but averaging 4-6. When he wakes I can normally get him right back to sleep from nursing. But lately things have changed. This past week when he goes to sleep, he wakes up after his first sleep cycle (30-40 minutes) & takes about 10 minutes to get back to sleep then its finally a couple hours stretch. But tonight OMFG he was wide awake for an hour & a half after that first sleep cycle, NOTHING worked but eventually nursing (which i never have to do to get him to first fall asleep). & last night he was legit awake for 2 hours from 3 am to 5 am, not crying, just.... awake. I also notice that he is much more "awake" when he does wake now, & getting him back to sleep after 5 am is MUCH harder. If he refuses to nurse back to sleep then I just start the day, but I usually try to stretch it to 8 am. It is NOT a too short/too long wake window, daytime nap issue or undertired/overtired problem. It's just his brain doing its software update for sleep. 
+- `sr019-0122` (question) Any tips/tricks i can do to help him & keep my sanity? I've heard its over quickly but I have also heard it lasts MONTHS.... I know a routine is important & I plan on starting a strict one but nightly baths are simply NOT feasible as we live with 4 other adults (& we have to use a baby bathtub because I dont trust the hygiene in the communal shower)
+- `sr019-0123` (fear) Oh man I am so incredibly afraid of a "feed to sleep" dependency, I do hear that it's biologically normal though. My baby was giving me 6-8 hour stretches before this, so I know he has the ability, I'm going to try not to stress about it until weaning time😅😭 its just soooo quick, anything else takes 30-60 minutes 😭💯
+- `sr019-0124` (belief) Thank you for your response! I think I should clarify some things.
+When I say im afraid of a sleep dependency, I am talking about when my baby is well over a year old. I know it's biologically normal for a good long while. 
+I already safely bedshare & have no interest in stopping that for several years.
+- `sr019-0125` (belief) I was personally against any form of sleep training, but with me possibly going back to work & working from home, I will simply NEED him to not contact nap for every single nap. If I try to work while he is sleeping on me he will be waking up & become overtired. If I knew he could stay asleep while I worked, I wouldnt be ST at all.
+- `sr019-0126` (belief) I also notice how, in mom society, there is either "i am all for letting my newborn cry it it out sleep training" & "that's horribly abusive & nobody should never do it ever," there seems to be very little (if any) middle ground. Exposing my baby to his crib & building a tolerance for it is not going to damage him, I am still responsive when he is upset. If letting him fuss for a minute or 2 is "damaging to his nervous system," then we are all damaging our babys nervous systems regardless of ST because we can't always respond the moment they fuss every single time (a girls gotta go to the bathroom & make herself food lol). Self soothing is a skill that can be fostered just like rolling over & tummy time for neck control. I am not paying for sleep consultants or buying every gadget on the market lol 
+- `sr019-0127` (desire) I am not trying to force anything on my baby. I'm fully aware that all of his behavior, sleep patterns & sleep changes are biologically normal. I am merely looking for some support from other moms who have gone through the sleep regression, as it is merely just beginning & i want to know how i can better support the changes he is going through.
+
+### 1swl055 | r/Mommit | 2026-04-26 | unknown | experienced_mother | patterns 5 | border: age_unknown
+
+About: Partner’s poor emotional communication raises worries about children’s emotional intelligence. Wants: Partner to communicate, acknowledge feelings and develop emotional awareness. Already did: Requested brief acknowledgment before partner takes space; self-regulates during conflicts.
+
+- `sr018-0089` (pain) He keeps saying he will try to express his emotions during conflict. Then when things get hard (especially when he might need to practice some basic empathy or self-awareness), he suddenly needs space. And okay, take space, but I've asked him to leave with some brief acknowledgement of my feelings (especially when the conflict started as a result of his projections). He always promises he will do it next time and never does. And if I ask him to do that basic thing he keeps promising to do, then I'm keeping him from taking space.
+- `sr018-0090` (pain) Besides that, it all just looks like an avoidance mechanism. He often asks for space when the discussion is about to reveal that he's done something wrong or needs to change in some way.
+- `sr018-0091` (pain) He also gets these sudden thoughts about time in the middle of us trying to talk things out. On other days, the schedule can get pushed a bit for stupider reasons than us talking things out, but if there's actual communication, empathy, and vulnerability required, then it's suddenly super important to stick to the rarely followed plan.
+- `sr018-0092` (pain) I understand most men have a long way to go in developing emotional intelligence, but this has been stuck on repeat since I birthed my first, and we have two now.
+- `sr018-0093` (pain) Honestly, I'm tired of advocating for proper communication while he does zero inner work in and out of anger. All he has are elaborate apologies and empty promises after the fact.
+- `sr018-0094` (fear) I feel like I can't raise my kids to be emotionally intelligent beings in an environment like this. Every time there's a conflict, I feel like I have a teenage son, not a partner. He is so far behind, and I don't know if he will ever catch up.
+- `sr018-0095` (pain) And to be perfectly honest, every moment I spend self-regulating alone mid-conflict when we should have been co-regulating together, I love him a little less.
+- `sr018-0096` (pain) Ugh, it's all one giant turnoff. It's sad to be at the whims of someone's bad choices.
+
+### 1sxmaz2 | r/NewParents | 2026-04-28 | baby_2_4_months | new_mother | patterns 5 | border: parent_state
+
+About: Mother fears reflux and overwhelmed caregiving deprive baby of learning.. Wants: Reassurance about coping and advice requesting supportive company rather than separation.. Already did: Tried reflux approaches, constant holding, exclusive pumping, partner care and MIL help..
+
+- `sr019-0145` (pain) I’m a ftm to a baby boy who is 3 months old, and such a smart and sweet baby. I’m absolutely obsessed with him and love him so much but I feel like I am not cut out to be his mother.
+- `sr019-0146` (belief) I’m a stay-at-home mom, a decision my and fiancé and I came to when I got pregnant. I have terrible anxiety that makes going to school, parenting, and working very difficult for me. We agreed I’d focus on completing my degree and raising our son while he would work and provide for us. He went on unpaid leave for 3 weeks after our baby was born and then had to return to work.
+- `sr019-0147` (pain) The reason I think I am not a good mother is because I feel so overwhelmed when I’m alone with our son throughout the week. My fiancé leaves for work around 5:30am and doesn’t get back until 6pm Mon-Thur, Fridays he gets home around 4. I dread being alone with my baby on the during the week, even though his dad does most of the childcare on weekends. His dad literally cares for him from the moment he gets home to the moment he leaves, he is so hands on and amazing with him. I’m still constantly overwhelmed and resentful though.
+- `sr019-0148` (fear) Our son has very bad reflux that we’ve tried almost everything for, so he needs to be held upright basically 24/7 and feeding him is chaotic. He spits up and screams, and it feels impossible to get him to nap more than 30 minutes. It’s a pain to do tummy time or anything but hold him. I’m afraid he’s missing out on valuable learning time because I can’t manage him well on my own.
+- `sr019-0149` (pain) I’m also exclusively pumping because baby boy formed a very strong bottle preference about 3 weeks after he was born. Finding time to pump, take care of myself, and hold him constantly makes me feel like I’m trapped and isolated from the world. I don’t have time to do anything I used to like to do during the day and I feel like I have no identity except for being our son’s mother.
+- `sr019-0150` (pain) Other SAHMs, single moms, and women that have much less helpful partners than I do seem to be managing far better than I can and coping so much better too. I feel like a failure for constantly being overwhelmed and losing my patience with my baby. I hate asking my family to watch him for a day because I hate being away from but can’t stand being alone with him. Asking for help feels like admitting I can’t do it when so many other mothers can.
+- `sr019-0151` (question) Our son is so smiley and social, and he is very smart and so cute. He’s not a bad baby. I think I’m just a bad mom. Is there anyone that can reassure me that this is supposed to be this hard? Are other ftm just better at looking like they have their shit together? I feel like I should’ve never become a mom if I can’t manage on my own.
+- `sr019-0152` (belief) I’m sorry about what you’re going through with your bf. I had some issues with my mental health too prior to baby and found myself lashing out at my fiancé once or twice in the earlier days of postpartum. It’s maybe not totally the same, but pretty similar because neither of you deserve it. I hope everything works out for y’all.
+- `sr019-0153` (belief) You’re absolutely right about weighing my own contributions by how much my partner is contributing. It’s part of the reason I feel so inadequate since he does so much. Thank you for bringing that to my attention so I can work on changing that pattern of thinking.
+- `sr019-0154` (pain) The only help I really have outside of my partner is my MIL and she always insists on taking the baby with her to give me alone time. I’d like it if she’d just stop by and talk with me and hang out with him but she always rushes out/rushes me out. I think she wants to hang out with baby, not so much me, but I really stress when he’s not with me. 
+- `sr019-0155` (question) Alone time doesn’t even feel like decompressing at that point. I’m a people pleaser though, so I’m not sure how to approach the topic. Any advice?
+- `sr019-0156` (belief) After failing at direct nursing, I think exclusively pumping is the only way I feel like I’m doing something right. I know it’d be a lot easier not to pump but it makes me feel better to know I can atleast make food for him on my own.
+
+### 1sy9by6 | r/NewParents | 2026-04-28 | unknown | parent_unspecified | patterns 5 | border: age_unknown
+
+About: Parent reframes demanding baby behaviour as communication and need for coregulation. Wants: Share helpful perspective on responding to baby and developing self-regulation. Already did: Watched video; uses it to reframe difficult days and respond to baby.
+
+- `sr018-0212` (success_story) This video has helped me so much it shows how our perspective of our babies is so important, our response to them and how we view them.
+- `sr018-0213` (belief) If you have a contact napper, a co sleeper, a baby who doesn’t want you out of their sight, a baby who hides their face in your chest for comfort, you are their co regulator.
+
+Most days we love being that for them but some days we are extremely tired, exhausted, touched out, over stimulated and some days it is just hard this video always helps me fix my perspective.
+- `sr018-0214` (others_said) “Instead of asking why is my baby so difficult ask what is my babies nervous system trying to tell me”
+
+“What may look like an inconvenience is really a form of communication”
+
+“If you change your perspective there will be less blame less shame and less fear that you or your baby are failing”
+- `sr018-0215` (belief) What this video reminds me - my baby needs to borrow my regulation until they learn how to regulate themselves over the years, if i keep responding and meeting them where they are they will learn to feel safe and will grow to connect with a extra ordinary intensity
+
+### 1sz3g4k | r/ScienceBasedParenting | 2026-04-29 | unknown | parent_unspecified | patterns 5 | border: age_unknown
+
+About: Choosing bilingual language practices without confusing baby. Wants: Advice on bilingual parenting while parents use both languages. Already did: Considering one parent one language.
+
+- `sr025-0009` (belief) I’m a US immigrant and English is not my first language, although I’m fully fluent and have a passable American accent. My husband is American and speaks my home language (Afrikaans) on a basic-medium level.
+- `sr025-0010` (desire) It is really important to me that our children can speak both languages. I’ve heard of the OPOL (one parent, one language) approach and we are considering that.
+- `sr025-0011` (belief) My question is about my husband and I talking to each other in Afrikaans and him talking to my family, etc. He has really gone to amazing lengths to learn my language and I am so proud of him. I’d love for him to retain and improve this skill, which obviously only comes with speaking the language regularly.
+- `sr025-0012` (belief) Also, with us living in the US I would obviously need to speak English to just about everyone else around us in baby’s presence.
+- `sr025-0013` (fear) However, if we take the OPOL approach with our baby and only speak to him in our respective languages but speak different languages to one another and other people, are we likely to confuse him? Our top priority is our child learning both languages but I desperately want my husband to be able to practice this skill he’s worked so hard on for years.
+- `sr025-0014` (success_story) Thank you so much for sharing your experience. It’s really helpful to hear that the way we want to do it, should help our baby.
+
+### 1t0uzy3 | r/NewParents | 2026-05-01 | baby_4_6_months | parent_unspecified | patterns 5,10 | border: sleep
+
+About: Contact-sleeping four-month-old rolls awake; parent fears abandonment and faces criticism. Wants: Help with sleep and exhaustion without cry-it-out. Already did: Holding; safe-sleep-seven cosleeping; responding promptly to cries; trying crib, bassinet and playpen.
+
+- `sr021-0032` (pain) Our babe it's a happy, healthy 4 month old. But sleep? Public enemy #1. I'm so tired. My spouse is back to work and I am still on leave, plus babe it's EBF. Baby. Will. Not. Sleep. Unless I'm holding them or we are co sleeping (we follow safe sleep 7). As soon as baby is put down in the crib, pack n play, or bassinet, eyes pop open and they are pissed. Some times I can put them down for a bit, but then they roll onto their belly and wake up.
+- `sr021-0033` (others_said) My spouse thinks I hold them too much. But I can only fight to get them to sleep for so long. I'm exhausted. I haven't slept well in forever. I go back to work next month and I'm already so anxious about daycare, sleep, pumping, etc.
+- `sr021-0034` (belief) I don't believe in cry it out. I don't want baby to feel abandoned, so I respond to cries pretty quickly (spouse also thinks I should give baby a minute or two when they are crying). I'm just at a loss. My MIL is useless, my family lives states away, and my spouse works a very demanding job with terrible hours. Spouse is a fantastic partner and parent, I am just exhausted and feeling burnt out.
+- `sr021-0035` (pain) I just don't know what to do anymore. I'm tired.
+- `sr021-0036` (tried_failed) Thank you! We will give it a try! We usually wait until babt is out, but then they curl and starts rolling around until they wake themselves up 😅. But we are open to suggestions so thank you!
+
+### 1t2nael | r/beyondthebump | 2026-05-03 | baby_6_9_months | parent_unspecified | patterns 5,7 | border: feeding
+
+About: Formula refusal prompts questions about cow's milk and developmental nutrition. Wants: Understand milk differences and alternatives without harming growth or development. Already did: Multiple formulas; solids after doctor approval; chilled formula; sippy cup; dairy tastes.
+
+- `sr025-0067` (tried_failed) Not really sure what to do here. My 6-month old has always hated her formula. She doesn't spit up or have obvious reflux or pain. She just appears to really hate the taste in a way that wasn't the case when I was able to breastfeed (my supply was never enough to feed without supplementing and dried up almost entirely after I got sick). When I pumped milk, she'd drink fine. When it was formula, whether that was Similac 360, Kendamill Organic, Goat or Bobbie, she'd refuse it until desperately hungry and then eat it, but while crying. It's been awful really. If I can get her to take 18 oz per day, it's a good day. Which I mean only in terms of volume. Those days are miserable fights.
+- `sr025-0068` (others_said) Because of this, and because she's generally sitting well, no tongue thrust, etc., the doctor  okayed starting her on solids. Well, that's been going much better. She likes a good variety of purees.
+- `sr025-0069` (tried_failed) My son is lactose intolerant, so we have a lot of Lactaid/lactose free milk and a couple weeks ago, she tried some and loved it. Like became wildly enthusiastic, couldn't get it into her mouth fast enough. This made me think maybe there were more options for formula- serve it chilled, serve it in a sippy cup. And nope.  More fails.
+- `sr025-0070` (fear) I'm not going to do anything without talking to my doctor. But anyone aware of the ways in which cow's milk is deficient compared to formula before 1? Which vitamins/minerals?  It's really hard having a baby hate their bottle, but need to have it anyway. So stressful for both of us. I'm really tempted to look into whether I can just move her over to something she actually likes if it can be done without adverse impact on her growth/development. She is still combo fed, but that's really only at night and more for comfort. She only gets between 2-4 ounces of breast milk.
+- `sr025-0071` (others_said) It was my pediatrician who suggested starting foods early, specifically recommended giving her plenty of full fat greek yogurt and said it was fine to try her on cow's milk. Again not for her whole diet, but I'm not doing that- she's never had more than an ounce a day. She just likes it. This post was just to understand the nutritional differences.
+- `sr025-0072` (others_said) Yes, said it was fine to offer as a taste (along with other dairy, like yogurt and eventually cheeses, etc.) She's never had more than that.
+- `sr025-0073` (others_said) Yes, this was what her doctor said. Fine as a new taste, which is all she's had. I definitely haven't been giving her more than 10-20 calories of it per day. Though she is also getting full fat greek yogurt, which her doctor specifically recommended, along with avocado, sweet potato, nut butters, and other caloric foods to help up her calories some.
+- `sr025-0074` (failure_story) Thanks, this was really helpful. Though to clarify, she's not currently getting cow's milk in any sort of nutritive capacity, except perhaps full fat greek yogurt, which her doctor specifically recommended to help with inceasing her calorie intake. She's really just had a few sips, as a taste exposure, which her doctor okayed. She just liked it so much I was hoping that the nutritional differences could be addressed by supplements, solids, etc. It does not look like that's an option though.
+
+### 1t5bvp4 | r/Parenting | 2026-05-06 | unknown | parent_unspecified | patterns 2,5 | border: age_unknown
+
+About: Children love feral kittens and grieve when kittens disappear or die. Wants: Ways to protect children emotionally despite parent's severe cat allergy. Already did: Hides dead kittens; contacted city; keeps cats outside.
+
+- `sr025-0154` (pain) My kids love animals. I do not mind them but when cats come inside I can start feeling affected within the hour. Im miserable grumpy and I hate it. But anytime a new batch of kittens show up my kids play with them and love on them. The problem is with new wild kittens they cannot survive in the wild in my area. I find them on the road in in the back yard attacked. When I do I try to dispose of the body's respectfully while not letting the kids see but then they spend days afterwards looking for the cats crying and being upset. The older they get the more heartbreaking it is and I dont have a solution. I cant keep the cats safe inside because either I sleep all day with benadryl and throw all that money at it or fight trying to breathe. I cant keep the kids from finding the cats because that would mean keeping them inside all day.
+- `sr025-0155` (belief) Its about the same. Small city. Larger than a town. The situation im dealing with right now is this kitten was in the driveway and I think it lost a fight to a baby copperhead. There are about 10 different adult cats that im aware of and they are constantly making more babies.
+- `sr025-0156` (fear) Yeah, city claims they come and pickup alot of cats but it doesnt seem like  it gets any better. The amount of cats are not the problem, im just scared they will mentally change with the idea of everything they love dies as soon as they start caring for them. We have had alot of human death in our family since the kids have been born and I feel like that has definitely effected me and caused some abandonment issues. I just dont want them to feel like I do all the time.
+- `sr025-0157` (belief) Thanks. This does help. I didnt grow up with pets so I didnt deal with death until I was more teenager years. Thats exactly what the struggle is. I guess telling them animals die and dont get attached to them is more humane than letting them think all the animals they cared for just ran away to another neighborhood.
+
+### 1t5mx1w | r/sahm | 2026-05-06 | unknown | parent_unspecified | patterns 5,9 | border: age_unknown
+
+About: Weighing homeschooling against work, finances, and teaching confidence. Wants: Resolve whether leaving work to homeschool is selfish. Already did: Uses daycare; discussed single-income finances with husband. Paid: Daycare.
+
+- `sr026-0012` (price_signal) Vent: I work full-time at a Catholic high school that is pretty prestigious and expensive.   
+My daughter is in daycare and it costs about 38% of my salary. I teach a specialized subject so technically I could tutor part time (AP Macroeconomics and AP History) but I have zero clients, and we’re going into a major recession right now.
+- `sr026-0013` (desire) Here’s the dilemma. I want nothing more than to homeschool my kids but I feel like I’m being selfish for wanting that for these reasons:
+- `sr026-0014` (fear) 1. I would stop being a financial contributor   
+2. I am not trained in early child development like a Montessori teacher is.   
+3. If I leave my job, there is a huge possibility my kids won’t be able to go to this prestigious school with all the opportunities it has. If I stay, it’s more likely we could afford to send my daughter here once she’s in high school, and I could even get a discount on tuition (but nothing is for sure)  
+4. I feel like I would be screwing us out of retirement. How do you even plan for that without a company backing you?   
+5. We’re for sure going into a recession. What happens if the economy gets worse and things get more expensive and no one hires me to tutor?
+- `sr026-0015` (belief) As a teacher, I’ve always known I wanted to put my kid in private school because of the smaller class sizes, but I don’t know if we could even afford that WITH my job. Here are the pros to homeschooling for me
+- `sr026-0016` (desire) 1. Control over the environment/ content  
+2. The opportunity to see my baby learn and provide a stable learning environment for her to thrive in  
+3. Save money on Preschool  
+4. Save money on a car to commute to work  
+5. Save money on wardrobe  
+6. It would make me much happier
+- `sr026-0017` (objection) He would love for me to homeschool! I have a background in education and I think both me and the baby would benefit from it— but my husband is concerned about the financial side of things. I know that going down to a single income could even save us money if we do our taxes right but he’s worried about not being able to buy a house in the future because no job= no qualifying income for me.
+
+### 1t5s1pm | r/NewParents | 2026-05-06 | baby_2_4_months | parent_unspecified | patterns 5 | border: sleep
+
+About: Short naps and exhaustion raise fear of harming baby's brain. Wants: Reassurance and advice for extending daytime naps. Already did: Changed wake windows; tried crib settling, nursing, holding, pacifier, nap routine.
+
+- `sr028-0009` (tried_failed) Hello parents! Baby is 3.5 months old and started resisting naps and waking up after 10,20,30 min after falling asleep. I tried: lengthening his WW, shortening his WW, helping him fall asleep in his crib, extending his naps by nursing or having in my arms, pacifier, nap routine, etc etc
+- `sr028-0010` (pain) Most of the time, I fail at rescuing short naps and end up with a total of 2.5 hours of daytime sleep! By 5pm he is so absolutely exhausted and angry. He sleeps ok at night, waking up 3 times to nurse.
+- `sr028-0011` (fear) I’m at my wits end and worried that we’re breaking his brain (lol).
+- `sr028-0012` (question) Anyone else experienced something similar and has any advice?
+
+### 1t767w8 | r/NewParents | 2026-05-08 | toddler_12_18_months | new_mother | patterns 5 | border: sleep
+
+About: Defending rocking toddler against advice to teach independence. Wants: Reassure parents who enjoy rocking and cuddling. Already did: Books; warm milk; cuddles; rocking; lullabies; own crib.
+
+- `sr030-0044` (belief) My son has been sleeping through the night without waking up since he was about 13 MO. In the evening we still have our bedtime routine of books, warm milk, cuddles and lullabies in the dark, before we put him in his bed (he sleeps in his room, in his bed).
+- `sr030-0045` (belief) Honestly? I love our ritual. Rocking and singing softly to him, whilst he slowly drifts off to sleep, until I hear his steady breathing on my shoulder - it's a moment of pure love and tenderness that I find hard to give up  and frankly I don't see why I should. My son is growing up healthy and happy; he sleeps, eats, plays, explores, and isn't overly clingy besides when he is  tired or ill.
+- `sr030-0046` (objection) I have no intention to stop making my baby feel loved and safe, especially while he is still little, just because some bloody sleep guru claims that you must teach small children indipendence, even if it means letting them cry their heart (and yours) out.
+- `sr030-0047` (advice_given) This isn't a lecture to those who chose to sleep train, because God only knows how hard life is when you never sleep. I simply wanted to say, to all parents out there who, like me, enjoy rocking and cuddling their little ones: don't feel obliged to stop! This isn't a bad habit at all! Your baby will be little for such a short time in their life; please cherish all of the moments that make you feel good and connected to your son/daughters.
+- `sr030-0048` (success_story) Hahhahha well I change song every week or so, and the acoustic slow version of "take on me" has turned out to be very effective as a lullaby 🤣
+- `sr030-0049` (advice_given) My baby is quite small, we are all short and thin in our family, so holding him is still easy. I let him fall asleep in a vertical position. He rests his head with his cheek on my shoulder and arms on my chest. When he's ready to be put down, I drop him in an horizontal position for just a couple of minutes, than gently put him in his bed.
+- `sr030-0050` (pain) I hear you. My son never ever kisses me on the cheek, never have kissed me, not even when I BFed him 😢 he likes to cuddle and hug but "give mommy a kiss?" always replied with "nonono....." 🥲🥲🥲🥲
+- `sr030-0051` (objection) How am I making other parents feel bad? 
+To me it seems that it is you that is trying to make me feel bad for struggling in the past, which is very mean. Yes, the first months were hard but we've moved on with consistent love and care towards ourselves and our baby, and it was worth it. I'm sorry if you feel like our happy family life is a threat to you 🤷
+
+### 1t7bqii | r/NewParents | 2026-05-08 | baby_6_9_months | new_mother | patterns 5,9 | border: parent_state
+
+About: Guilt over daycare on days off and crying drop-offs. Wants: Reframe guilt about choosing time alone over days with baby. Already did: Reduced work hours; full-time daycare; previously kept baby home weekly.
+
+- `sr030-0052` (belief) First, I want to say that my son (almost 9 months) is the light of my life. I think about him all day every day. I would do anything for him. By all considerations, he has been a very easy baby (knock on wood).
+- `sr030-0053` (pain) After my maternity leave, I wanted to stay at work full time, but my body was still exhausted and running on fumes every day. Working a full shift, being the primary parent, and breastfeeding just ran me dry. I asked my employer if I could go part time after a month and they let me. I am extremely grateful for their flexibility because I love my job.
+- `sr030-0054` (belief) My son is still enrolled in daycare full time. Originally, when I decided to go part time, I wanted to keep him enrolled full time so we had the flexibility to send him to school whatever days we wanted. I was sending him about 3-4 days a week. I usually kept him home one day during the week so I could play with him, make sure he got some good naps (he doesn’t always nap well at school), and so that I didn’t have to pump. I don’t always pump enough to make up for his bottles. My MOTN pump usually fixes that, but not always. So saving a day’s worth of milk was also a perk of keeping him home one day.
+- `sr030-0055` (regret) My issue now is that I am starting to send him every day, even on my days off, because I’m really enjoying my time alone. After I spend a day tidying up the house, I can have a day to just do whatever I want (in between pumping). I feel awful just relaxing at home without him when I could be spending time with him, taking him on walks, etc. I see him for about two hours in the morning and two hours at night before bed. I see him all weekend (unless it’s my weekend to work). I have the luxury of being part time and I know that a lot of parents that work full time would love to spend more time with their kids, so I feel guilty not taking advantage of the extra time I have that I could be spending with him.
+- `sr030-0056` (pain) I know I’m not a “bad mom,” but I feel selfish. He does enjoy daycare, but is starting to understand object permanence, so drop offs lead to crying, which is solidifying my guilt.
+- `sr030-0057` (question) Can anyone empathize? Can anyone help me reframe my thinking to be more positive? Or am I actually just selfish and should i keep him home more often?
+- `sr030-0058` (belief) Thank you! I do appreciate and welcome all perspectives. You made some great points. I will say, when I am with him, I am confident that I give him my 100%. He’s just too damn cute hehe
+
+### 1t8buqz | r/daddit | 2026-05-09 | toddler_18_24_months | parent_unspecified | patterns 5,6 | border: sleep
+
+About: Toddler only sleeps after drives; father worries about learned habit. Wants: Whether driving created bad habit; when bedtime is learned. Already did: Rocking, car drives and transfer to bed.
+
+- `sr029-0062` (tried_failed) Our 1.5 year old has never been a great napper. He’s only fallen asleep on his own a handful of times. He’s always refused to let me put him to sleep. Wife has to rock him to sleep for a while before he gives in. It’s like he purposely fights it. He’s getting heavier thus it’s getting harder for her to do. Only thing that worked was putting him in the car and taking for a drive. He’d fall asleep and then we’d transfer to bed.
+- `sr029-0063` (fear) Well now that’s the only way he can fall asleep. Did we mess up by starting this bad habit? At what point do they learn “bedtime”?
+
+### 1t9umsg | r/ScienceBasedParenting | 2026-05-11 | unknown | parent_unspecified | patterns 5 | border: age_unknown
+
+About: Concern about adverse effects of child's extensive reading and audiobooks. Wants: Whether excessive books, ebooks, or audiobooks have adverse effects. Already did: Tracks reading with app; child read over 112 books this year.
+
+- `sr027-0198` (fear) My child reads A LOT.  Mostly books but also e-books and audiobooks. They are in the top first percentile in ELA. They just read so much but I worry it’s affecting them. This year alone, they’ve read over 112 books. We  track on a reading app.
+- `sr027-0199` (question) Are there any adverse effects by doing any of the three forms too much?
+
+### 1tann61 | r/ScienceBasedParenting | 2026-05-12 | unknown | parent_unspecified | patterns 5,9 | border: age_unknown
+
+About: Worry temporary French-immersion daycare could delay English language development. Wants: Studies on short-term infant language immersion and effects at home. Already did: Considering French-only daycare for ages eight to sixteen months.
+
+- `sr029-0090` (belief) We are considering an infant daycare where all the providers speak French- exclusively. We speak English at home and know little to no French. In all likelihood we will only use the program for ages 8-16 months. It’s continently located but not where we would like to send our child for toddler daycare and preschool.
+- `sr029-0091` (question) My question is - are there any studies about language immersion at that age even if the language exposure does not continue on? And separately will it delay or impact early language development at home?
+- `sr029-0092` (belief) I know learning multiple languages is great but this would be a limited time period and also when my child’s vocabulary will just be starting at home.
+
+### 1tegqoz | r/Mommit | 2026-05-16 | toddler_12_18_months | parent_unspecified | patterns 1,5 | border: sleep
+
+About: Parent wonders whether rocking toddler prevents learning independent sleep. Wants: Know whether to change rocking and teach independent sleep. Already did: Rocks nightly; tried putting down awake; succeeded once at grandparents.
+
+- `sr035-0034` (fear) Somehow I was unaware that by this age, most toddlers are able to go to sleep on their own without being rocked. I’ve been rocking my daughter every night and honestly it’s one of my favorite things to do, but apparently I should be teaching her to fall asleep on her own?
+- `sr035-0035` (question) Just a show of hands, is this concerning - not concerning as in very serious, panic about it, but is this something I should seek to change?
+- `sr035-0036` (success_story) She can fall asleep on her own if very tired at night. Actually a few weeks ago, we were at my parents’ house and they had a toddler bed for her and somehow we were able to put her down without being rocked.
+- `sr035-0037` (tried_failed) Generally at home, it’s met with her chilling for a few minutes then screaming and crying. Once I rock her, she’s asleep in 15 minutes.
+
+### 1ti5x95 | r/sahm | 2026-05-20 | baby_9_12_months | experienced_mother | patterns 2,5 | border: parent_state
+
+About: Mother overwhelmed by baby care, outings, sleep regressions and yelling. Wants: Help managing overwhelm and fear of frightening children. Already did: Therapy, ADHD medication, activities, outdoors, limited screens; tried sleep changes.
+
+- `sr032-0097` (pain) Hi everyone, I am a kind of new SAHM to a 2.5 year old and 11 month old. I stopped working back in January to be a SAHM, and the first few months were fine, but the last 2 months have been the worst time of my life.
+- `sr032-0098` (tried_failed) To preface, my 2nd has still not slept through the night, and has gone through some awful sleep regressions that I swear have traumatized me. My first was STTN by 6 months and has always been a decent sleeper. My 2nd has also always had an irregular nap schedule no matter how hard we tried, and has been down to one nap a day for about 2 months now. He still wakes up 2-3 times a night for a bottle. We have tried no bottle at night and he won’t go back to sleep. He goes down at 10am for nap, and my toddler goes down between 10:30am-11am for nap. They both have a bedtime at 6pm, this has always been the schedule since my oldest was 6months, and trying to keep them up later results in an earlier morning. Currently we are up around 5:30am everyday. I don’t have the willpower to try different bed times now to see if they will sleep in later  as I am pouring from an empty glass.
+- `sr032-0099` (pain) I am completely burnt out and exhausted. Every day is so long and so hard. My husband is a great help when he gets home from work, and gives me decompression time after he gets home, but it still doesn’t feel like enough. I genuinely feel like I’m the worst mom every single time I lose my shit or yell. My toddler does normal toddler things that I could handle if I was functioning properly, but as I said earlier, I am pouring from an empty glass. I can’t tell if I’m struggling with anxiety, depression, or just plain overwhelm. I have ADHD and am medicated but it feels like it does nothing to help anymore. I can’t stop my brain or stop the noise. The constant noise is what is driving me insane. Of course kids are going to make noise, but lately all of the noise is too much I want to turn it all off. I try so so hard to make sure my kids are eating healthy, limited screen time, getting outdoors, doing activities, etc. but it’s so exhausting. I’m so withdrawn and disconnected from them because of the overwhelm.
+- `sr032-0100` (pain) I so badly want to work out, and we even have an at home gym set up, but I can’t get through any work outs because either my toddler is constantly screaming “mommy, mommy, mommy!!!” or my youngest is doing normal baby things and getting into stuff.
+- `sr032-0101` (fear) I want to go on walks but I dont feel safe walking with two young kids by myself as I am a young woman. I can’t protect all of us if something were to happen. I can’t take them to the park by myself for the same reason.
+- `sr032-0102` (pain) All outings are so stressful that I find myself just wanting to stay home even if I’m going insane being stuck at home. But the meltdowns and tantrums in public actually send me into a spiral. Keeping two kids regulated in public seems impossible.
+- `sr032-0103` (regret) They are not bad kids at all. But fuck, this is so so hard. Anytime I yell or lose my cool, I feel completely fucking awful and swear I won’t do it again. But then an hour later my toddler has kicked her younger brother again and it enrages me.
+- `sr032-0104` (fear) I’m so scared to ruin my kids or to make them scared of me because of my emotional outbursts. How the fuck can I regulate two young kids when I can’t even emotionally regulate myself?
+- `sr032-0105` (tried_failed) I am in therapy and have done so much work on myself. I was doing amazing a year ago, and now I am the worst I have ever been.
+- `sr032-0106` (desire) I need help.
+- `sr032-0107` (fear) I live in an unsafe area. But also I just don’t feel safe anywhere when I’m alone with 2 kids. I’m not sure if that is being over anxious
+- `sr032-0108` (pain) Yes, I am on ADHD meds that used to help with anxiety as most of my anxiety stems from the ADHD. But my nervous system is tapped out and I don’t know how to function normally anymore. I do feel safe at stores since there’s more people around
+- `sr032-0109` (price_signal) Thank you for your response. Did you have to pay for preschool? My daughter will be 3 in October but not sure we can afford it
+
+### 1tjq9hw | r/Mommit | 2026-05-21 | unknown | experienced_mother | patterns 5 | border: age_unknown
+
+About: Grieving mother struggles to model emotion while protecting children from burden. Wants: Help grieving parent while caring for children and their emotions. Already did: Discusses loss openly; limits overwhelming displays; sought husband’s support.
+
+- `sr034-0085` (pain) My dad died recently died unexpectedly and it just completely turned my life upside down. I am trying to allow myself to grieve as it comes, but it is difficult to do when I'm on "mom mode" and I am finding that I cannot shut it down.
+- `sr034-0086` (trigger_moment) The first night was horrible after my dad died. I stayed up late with all the ugly crying you can imagine. I woke up in the middle of the night and immediately started crying. I didn't want to sleep anymore, because I was afraid of that happening again...of waking up, forgetting just to remember that my dad is dead, and then feeling that pain like that again when the realization hit. I stared at the wall for a while, crying, and just remember seeing the light come through the blinds when I heard my kids' doors open. So I told myself to stand up tall and lock it down. And I did. For context, I am 32 with three children under the age of 7.
+- `sr034-0087` (belief) I think it's healthy for them to see me grieving, and it is not that I am actively repressing grief or emotions because I want to keep communication open and for us to openly discuss loss so that they can process their own emotions. But what I am having trouble with is that I cannot shut off the part of me that is parenting them in general and through their own grief in order to feel my own.
+- `sr034-0088` (fear) I've described it to my husband as a box that I tightly locked the moment I heard their doors open the morning after because while I have no issue with them seeing me cry, I didn't want them to see me so overcome with emotion over something that they don't fully understand and then for them to take on a role that they shouldn't have to fill.
+- `sr034-0089` (pain) This is something I had do with my own mother at a young age, and what I've had to do with her again through this experience (they were divorced), so I don't want them to feel that burden. My mom just cannot offer the support I need as she has a lot of mental health issues herself, and while my husband has been helpful, he is not my dad. Which naturally, is the person who would guide me through this type of situation.
+- `sr034-0090` (question) So, I suppose my question is how do you grieve a parent while trying to parent?
+
+### 1tkq8af | r/beyondthebump | 2026-05-22 | baby_9_12_months | parent_unspecified | patterns 5 | border: sleep
+
+About: Exhausted parent fears sleep training will harm baby's brain and trust. Wants: Get baby sleeping while avoiding harm from crying. Already did: Coslept, rocked, granny care; tried pick-up/put-down and crib routine.
+
+- `sr038-0011` (pain) My son is nine months old and just absolutely hates to sleep. We have tried everything except letting him cry himself to sleep, which I think is cruel, but at this point I’m starting to rethink my position on that. He sleeps in the bed next to me and wakes up so many times throughout the night and moves so much in bed. Usually I put him to bed between 8pm-9pm when he seems sleepy enough, I lay him down in my bed, I’ll get ready for bed, then lay down next to him. To be honest it seems the issue is me in bed with him because if I take an hour or a few to come to bed he sleeps fine, but when I lay down next to him he’s up within 30 minutes. He will start moving and fussing and I have tried pulling him close to me but he will struggle and fuss until he is away from me. He will sit up in bed and because he’s so tired he will fall down, sometimes his head hitting my face. I will begrudgingly get up and rock him back to sleep in the recliner in the living room and he will cry and move frantically until he finally falls back to sleep. Sometimes this takes hours.
+- `sr038-0012` (pain) My boyfriend works a lot of hours, sometimes 7am to 7pm at the prison, so I know he is too exhausted to help and the baby is keeping him up at night too. Last night I started sobbing when our son was crying and moving while I was rocking him back to sleep. I had about five hours of interrupted sleep in the past three nights and was just so tired, and still am. My boyfriend said my name and I told him to F off. I feel so bad but I am just so tired and I can’t go on like this anymore. My boyfriend’s mom used to watch him for us every weekend so we could get some sleep and that helped so much but we need to give her a break. The strange thing is she says that he sleeps fine over there. I’ve tried doing everything how she does it but to no avail. What am I doing wrong? Please help me. Sorry if my post is all over the place, I’m exhausted.
+- `sr038-0013` (tried_failed) He won’t sleep in his crib. No matter how tired he is as soon as I set him inside he wakes up and cries.
+- `sr038-0014` (fear) I’m worried about that hurting his little brain by raising his cortisol levels and teaching him that he can’t trust that I’ll be there for him. However at this point I don’t have much of an option. I think I may try this. The only issue is that our only bathroom is in his room lol. My boyfriend and I will just have to make sure that we are ready for bed and our bladders are empty. I feel like he is going to cry for hours until falling asleep. How long is too long to let him cry?
+- `sr038-0015` (tried_failed) Every time I lay him down in his crib he wakes up and immediately starts crying
+- `sr038-0016` (desire) He is going to stay at his granny’s for the last time in a while this weekend, so Sunday night or Monday night when I am rested I am going to try this. I am not looking forward to it because I know my boyfriend is going to want to get him while he’s crying. Plus our son’s room is where the only bathroom in the house is so we will just have to make sure we are ready for bed and don’t need to use the bathroom for a while.
+- `sr038-0017` (belief) Then he will just crawl out of it and cry at the door
+- `sr038-0018` (objection) We can’t. His room is too small
+- `sr038-0019` (belief) He has never been a good sleeper. He always fights sleep. Even when he is exhausted I have to rock him to sleep in the recliner and hold him still while he struggles. When I finally get him to sleep he sleeps fine on me but hates sleeping anywhere else. He sleeps fine at his granny’s so I doubt it’s a medical issue. I just think he has me figured out and wants to sleep in my arms. His granny will put him down as soon as he falls asleep so maybe that’s the issue. I think I’m going to try the pick up put down method.
+- `sr038-0020` (desire) I don’t want to try the cry it out method but I am going to do the pick up put down method and I am going to stick to it. I will update everyone with the progress. He is staying at his granny’s until Sunday morning because we are helping my parents move but starting Sunday no more naps in my arms and we are doing the pick up put down method.
+- `sr038-0021` (fear) I just can’t do the cio method. My mom did it with me and I wonder if that’s what caused my anxiety. Plus my little Velcro baby loves me so much and I just can’t do that to him. It would break my heart. He is staying at his granny’s until Sunday morning (where he sleeps fine btw). When we pick him up Sunday morning I am starting the pick up put down method and doing away with contact naps. I will update on how it goes. Please send prayers and wish me luck.
+- `sr038-0022` (desire) We have decided to do the pick up put down method and do away with contact naps. We are going to get him a sleep sack and sound machine. He is at his granny’s (where he sleeps fine btw) until Sunday while we help my parents move and I can catch up on sleep, then we will try this method. I just can’t leave my poor baby to cry but I have decided that we just can’t go on like this. I will also try to keep him as active and play throughout the day and cut down to one nap a day. Please pray for me and wish us luck.
+- `sr038-0023` (tried_failed) When we picked him up yesterday, his granny told us he’d only taken a 30‑minute nap all day, so I assumed bedtime would be easy. I was very wrong. He fell asleep for maybe 10 minutes on the way home, then I gave him a bath and got him ready for bed. I tried the pick‑up/put‑down method around 9:30 PM, but it didn’t work at all. I kept trying for an hour before finally giving up.
+- `sr038-0024` (tried_failed) After that, I tried rocking him to sleep, but he was fighting so hard that I eventually just let him get down and play to burn off whatever energy he had left. So at 11:30 at night, he was wide awake playing, and I didn’t see a single sign of tiredness. Around 1 AM, I finally rocked him to sleep and put him in his crib. He slept until daybreak — I’m not even sure what time that was — and then I gave him a bottle and he slept on me in the recliner until 8 AM.
+- `sr038-0025` (question) I feel like he should be sleeping longer than seven hours at this age, right?
+- `sr038-0026` (pain) I tried it again last night and failed again. I was up all night again. I ended up just rocking him to sleep and then setting him in his crib but he would wake 30 minutes (max) later. I’ve started a routine and I’m sticking firm to him sleeping in the crib but I am at my wits end. He wouldn’t nap today and I am exhausted. I am going to tell my boyfriend when he gets off work that we are going to do the cio method and if he doesn’t like it then he can start helping. He likes to tell me that he could do it no problem even in scenarios that something happened to me and he had to take care of him and work so he can start taking care of him half the night while I sleep if he doesn’t agree with it. The resentment piling up against my boyfriend and even my own son is not healthy or fair to anyone.
+
+### 1tmt5a5 | r/NewParents | 2026-05-25 | baby_2_4_months | parent_unspecified | patterns 5 | border: parent_state
+
+About: Exhausted mother feels guilty about reduced engagement during baby's wake windows. Wants: Be present and playful; get baby accepting daytime bassinet. Already did: Contact naps, dark room, white noise, pack-and-play with mobile.
+
+- `sr038-0099` (pain) When will it get better. My boy is 9 weeks old and exclusively contact naps during the day - sometimes I am so exhausted during his wake windows that I just put him in his pack and play with his mobile going so I can actually have my hands to myself for a minute as it’s the only time I can put him down without him waking up  and starting to scream.
+- `sr038-0100` (pain) He’s getting super alert so I spend my days rocking in a dark room with white noise playing so he will actually sleep and not get overtired which is a nightmare. If I try to nurse anywhere else he is constantly looking around and will force himself to stay awake.
+- `sr038-0101` (pain) Also by the end of the day I’m so exhausted that I can hardly bring myself to be excited and fun during his wake windows. I feel like a bad mom but I’m just so. Tired.
+- `sr038-0102` (desire) I desperately need him to start accepting the bassinet during the day or I’m going to go crazy. I want to show up soft and gentle and present and it’s just so hard when I’m running on fumes.
+
+### 1toq3l9 | r/ScienceBasedParenting | 2026-05-27 | toddler_12_18_months | parent_unspecified | patterns 5,7 | border: feeding
+
+About: Parent questions whether smoothies harm chewing and oral development. Wants: Evidence about toddler smoothies, frequency and developmental or nutritional concerns. Already did: Offers varied foods and textures; child raised plant-based.
+
+- `sr036-0078` (others_said) I’m seeing a lot of things online about smoothies for toddlers and how they should only be offered a few times a week (sugar spike, chewing and oral muscle development, etc.).
+- `sr036-0079` (belief) My girl is 13 months and she is a pretty dang good eater. She eats toast, homemade granola bars, etc and has no issues. She also eats a variety of foods and textures. I’ll add that she is being raised plant-based, so a smoothie just seems like a great way to fill any possible nutritional gaps by adding nuts, leafy greens, omega-3 DHA supplement, etc.
+- `sr036-0080` (question) How much of this can be true?
+
+### 1ts3sn6 | r/beyondthebump | 2026-05-30 | baby_4_6_months | new_mother | patterns 5,10 | border: sleep
+
+About: Mother questions whether contact sleep undermines independent sleep learning. Wants: Reassurance that cosleeping and contact naps are right. Already did: Cosleeps and mostly contact naps; scrolls during naps.
+
+- `sr044-0020` (belief) hi. i’m a first time mom (25f) to a 5 month old boy. my husband (25m) is able to support us so i can stay at home. we have chosen to cosleep & i do mostly contact naps. i don’t see a problem with any of that.
+- `sr044-0021` (others_said) i feel like there are so many voices telling me (my mom mostly) that i should stop cosleeping & contact napping because it isn’t good for me & my baby.
+- `sr044-0022` (pain) i understand where she’s coming from. contact napping means im stuck in one place for probably 4hrs total in a day. every day. & i do think it could become a problem, but i would be better if i could stop scrolling & read a book during that time. & yes, it could be nice to have that nap time to do something for myself, like an extra long shower, or even just cleaning.
+- `sr044-0023` (fear) the cosleeping, i do sometimes wonder if im doing the right thing. should i be training him to sleep on his own? am i already training him by making him feel safe & creating a good relationship with sleep? or am i creating a monster my future self will have to deal with. will he not be able to sleep on his own?
+- `sr044-0024` (desire) i feel like i just need reassurance that im doing the right thing. i know he sleeps soo much better with me/on me. naps dont always last long if i dont contact nap. but he will sleep 2hrs straight no problem on me.
+
+### 1tu76rc | r/daddit | 2026-06-01 | baby_4_6_months | parent_unspecified | patterns 5 | border: sleep
+
+About: Parent worries feeding five-month-old to sleep creates lasting dependence. Wants: Know whether feeding to sleep creates bad habits and find alternatives. Already did: Uses bottles to get baby to sleep at night and naps.
+
+- `sr044-0051` (question) Is feeding a baby to sleep a bad habit for them to get into?
+- `sr044-0052` (tried_failed) Our 5 month old is not the best sleeper, the only thing that seems to get them to go to sleep at night or for naps during the day is having a bottle.
+- `sr044-0053` (fear) Is this a habit we should steer clear of?  My concern is that they will develop the habit of needing to feed to sleep.
+- `sr044-0054` (question) What suggestions do y'all have for this?  Should I not worry about it and whatever tricks it takes for them to sleep it's all good?   Or are there other suggestions for better sleep habits that don't involve feeding?
+
+### 1tutdj9 | r/sahm | 2026-06-02 | baby_9_12_months | parent_unspecified | patterns 5 | border: sleep
+
+About: Considering extinction sleep training and baby's self-soothing development. Wants: Know whether sleep training is worthwhile. Already did: Cosleeps; tried Ferber and repeated comfort visits.
+
+- `sr041-0056` (desire) My child is 9 mo old, and my husband normally travels 3-14 days every quarter. BUT because of the war in Saudi his traveling got paused till now, so he hasn't really traveled since the baby was 2 months old. I had planned on sleep training while he was gone because he's a big softie and can't hardly stand to hear the baby cry. Well now he's finally got a work trip where he'll be gone a solid 5 days where I could sleep train the baby.
+- `sr041-0057` (fear) Currency we cosleep and pretty much always have done some amount of cosleeping every night. My hesitation is that I do like to cuddle and I can't tell if my baby isn't sleeping well because I'm waking him up in the MOTN or if it's because I've never made him develop self soothing techniques. At this point our child is VERY strong willed and I'm certain that I'd have to do the extinction method.  I also really want to have more children close together and I've read it's important to get the first child's bedtime routine in check.
+- `sr041-0058` (question) Idk did you find it worth it? He has his 8 front teeth already so I think we're done with that for a while, and I feel like this might be a good time to try but IDK am I just wasting my time and sanity?
+- `sr041-0059` (tried_failed) That's very funny!  But, I've tried doing ferber method and it seems like he just gets more and more pissed off if I just 'visit' to comfort. That's why I feel like I'd have to do extinction, because Ive been on the back and forth plan and it's not seeming like it's doing anything helpful.
+
+### 1tw6n9d | r/Mommit | 2026-06-03 | baby_6_9_months | new_mother | patterns 5,8 | border: parent_state
+
+About: Mother feels bittersweet about baby's increasing independence. Wants: Understand feelings without fostering harmful possessiveness. Already did: Put baby in crib when uncomfortable in arms; therapy.
+
+- `sr045-0105` (belief) I have always felt strongly about babies and children being their own people and not simply their parents possessions. I’ve seen and experienced the harms of enmeshment and possessiveness in family systems. I’m absolutely not a “my son is my one true love!!!!” kind of mom.
+- `sr045-0106` (trigger_moment) And yet, I got a bit emotional when my son (8.5 months) was tossing and turning on me and needed to be put on the crib to fall asleep. It was the first time the crib was more comfortable than my arms. Logically, I know this is great! I love seeing him hit these different milestones, but it still feels bittersweet.
+- `sr045-0107` (fear) I saw this post about harmful mothering among “boy moms,” and one of the examples was, “treating independence like betrayal or abandonment.” Is that what I’m doing? Is that where this feeling comes from? I would never project this on to my child, but I definitely don’t want to harbor feelings that could spill over on harmful ways.
+- `sr045-0108` (belief) Yes, I’m in therapy 😭
+
+### 1tyuiun | r/beyondthebump | 2026-06-06 | baby_6_9_months | parent_unspecified | patterns 2,5 | border: parent_state
+
+About: Burnout and guilt after using sensory video for clingy baby. Wants: A brief break and relief from guilt and burnout. Already did: Put sensory video on with toys; constantly engages baby.
+
+- `sr050-0020` (pain) I couldn’t take it anymore today. Baby going through sleep regression so Ive been getting super minimal sleep past week, on top of that baby’s dad works early long shifts this week too so I’ve been doing all night day and morning with our son. I just feel so burnt out.
+- `sr050-0021` (regret) I feel guilty because I needed a second to myself and put on a sensory video for my 6m baby with his toys to just have a second to breathe, but he’s a Velcro baby so if im not constantly engaging he gets upset and I can’t listen to him cry!
+- `sr050-0022` (pain) And lately I’ve just been feeling so bad about myself, struggling to eat, hating breastfeeding. I feel like a complete embarrassment!
+
+### 1u1rpr3 | r/beyondthebump | 2026-06-10 | unknown | new_mother | patterns 5 | border: parent_state
+
+About: Marriage strained by pumping and fear NICU harmed baby's attachment. Wants: Advice about balancing pumping, baby care and household work. Already did: Pumps frequently; prioritises holding baby; husband handles housework and overnight feeding.
+
+- `sr050-0087` (pain) Me and my husband have had a difficult start to parenthood. I wanted to breastfeed and we found out our baby wasn’t transferring milk so she was in the NICU for a while. She has other health issues too and is just a fussy and difficult baby in general. I have terrible PPA and PPD as well.
+- `sr050-0088` (belief) My husband is amazing and does so much for us. He only got two weeks of paternity leave. We don’t have other family that really helps us.
+- `sr050-0089` (pain) I think one of the biggest strains on us is me pumping. My husband constantly comments that he can’t wait until I stop pumping. I don’t wanna stop until baby can be fully on solids. I produce a lot. I wanna give her breastmilk and don’t want to do formula but I feel like that might be how I save my marriage… he says he can’t wait for me to stop using pumping as an alibi.
+- `sr050-0090` (fear) I probably could do more around the house and stuff, but I just want to make sure baby is held and loved and never crying for long especially because she was in the NICU and I have this fear that she basically has no attachment to me because of the medical trauma.
+- `sr050-0091` (pain) But because of this, my husband does all cooking and cleaning and he works from home. He also feeds her overnight from like midnight till 4am. But I’m also up with them anyways because I’m pumping. It just sucks to be up in the middle of the night changing, feeding, and pumping, and then have to be up not too much longer later to do it all over again. I won’t be a good mom to her in the morning if I’m sleep deprived like that.
+- `sr050-0092` (pain) I do feel like maybe I should baby wear and do more around the house but I just feel so deconditioned. My body is exhausted. I’ve also had mastitis twice in the past 7 weeks which put me on my ass. I feel like I need to do some easy workouts and get back into the swing of things but it’s so hard and baby is incredibly fussy right now with gas.
+- `sr050-0093` (question) Idk what to do. Am I just being a bad wife and need to suck it up?
+
+### 1u28jo3 | r/toddlers | 2026-06-10 | unknown | experienced_mother | patterns 5 | border: age_over_24
+
+About: Working mother seeks podcasts to reduce impatience and protect children’s brains. Wants: Podcasts teaching calmer, kinder and more patient parenting strategies. Already did: nothing stated.
+
+- `sr047-0067` (pain) I’ve got a smart 5 year old girl and a feral 2 year old boy. They’re both great kids, but as the primary parent, I’m tired and I find myself being sharp toned or impatient sometimes. I’m an independent marketing consultant and the two year old stays home with me for now and the five year old goes to school till 3 everyday but summer is coming and it’s hard to get work done.
+- `sr047-0068` (fear) I want to always be a calm, supportive presence. I don’t want to wire their brains in negative ways that will follow them into adulthood.
+- `sr047-0069` (desire) My goals are to be kinder, more patient, to not let their bad moods or hard moments influence me to the point where I’m yelling or showing my frustrations.
+
+I want to do better. I’m looking for podcasts that can help equip me with some strategies to be a better mom.
+
+### 1u38mri | r/toddlers | 2026-06-11 | toddler_18_24_months | parent_unspecified | patterns 2,5 | border: feeding
+
+About: Parent worries twenty-month-old's appetite and weight despite active play.. Wants: Experiences managing toddler weight without harming growth.. Already did: Reduced carbs, allows protein and produce, encourages hours of active play; mostly homemade meals..
+
+- `sr048-0066` (fear) Hi all, this is my first time posting but I am just looking for advice or for other parents in a similar position. My toddler (20m) is currently weighing 38 lbs, and is about 37 inches tall, and his BMI is at over the 99 percentile range, with his height around 96 percentile range. He wears 3T clothes and size 9 shoes, and has chunky arms and legs. He was a 7.5 lbs at birth and only shot up to over 90th percentile in weight when we started introducing solids at 8 months.
+- `sr048-0067` (belief) He was fed breast milk until he was a year old and then started on cows milk once he was 1. Unfortunately, once we cut out bottles, he stopped drinking milk. He eats a mozzarella stick or has a Smithfield strawberry yogurt drink to get him some of his calcium. He currently only drinks water, and his meals are still decently healthy, although he definitely prefers carbs right now.
+- `sr048-0068` (pain) Our biggest issue has been portion sizes as he just continues to ask for more, until he's eating an almost adult sized portion of food. For example, some days he'd eat a whole head of cauliflower plus a whole pork chop if given the choice.
+- `sr048-0069` (fear) He is outside playing for probably about 3-6 hours a day, or an equivalent indoors if weather is bad. He is super high energy and needs to be constantly running and climbing. I am starting to get worried that he's not slimming down as he gets taller, and that he'll have issues with his weight as he gets older if we don't get this under control.
+- `sr048-0070` (tried_failed) I've been trying to cut down on carbs, but generally let him eat as much of the protein or veggie/fruits as he wants (within reason). We do occasionally eat a cookie or have some ice cream, but I would say that's at most only a couple times a week after dinner. Most of our meals are homemade, although occasionally it's a little more processed (like refrigerated stuffed pastas). Everything I am reading says that restricting calories is unhealthy for toddlers, and I don't want to do anything that hurts his growth. Is anyone in a similar position, or has been? Did it get better as their child got taller or did you have to intervene?
+
+### 1u51d7i | r/NewParents | 2026-06-13 | newborn_0_8_weeks | parent_unspecified | patterns 1,5,8 | border: sleep
+
+About: Content newborn rarely naps and parent fears developmental harm. Wants: Know whether little daytime sleep is normal or harms development. Already did: Tried holding, comfort nursing and bassinet.
+
+- `sr050-0242` (belief) My 5 week old baby hardly naps in the day. It doesn’t matter if he’s held, comfort nursing or pouring his bassinet he has no interest in truly napping. He may close his eyes here and there for maybe 10 min but then he’s back up and the thing is he’s perfectly content! He’s in his bassinet right now just making happy coo’s
+- `sr050-0243` (question) I don’t mind if he wants to be up and hang out all day, I’m just so confused by it. I keep seeing things about wake windows and baby’s only being able to stay up for maybe an hr or so.
+- `sr050-0244` (fear) Are there any other babies that happily stay up for most of the day?? I’m also scared him not sleeping enough could somehow hurt his development
+
+### 1u6567c | r/ScienceBasedParenting | 2026-06-15 | unknown | other | patterns 5,10 | border: age_unknown
+
+About: Effects of conflicting parenting styles on growing children. Wants: Evidence about effects of opposing parenting styles. Already did: nothing stated.
+
+- `sr051-0004` (question) I’m interested in learning about the effects on opposing parenting styles or disagreements on parenting.
+- `sr051-0005` (belief) Examples:  
+Parent A is authoritative and Parent B is permissive  
+Parent A teaches self sufficiency and Parent B disagrees  
+Parent A models behavior and Parent B tells behavior  
+Parent A minimal screens as a child/toddler no unrestricted access to internet and Parent B unrestricted access to internet/devices is appropriate for children
+- `sr051-0006` (question) How can opposing parenting styles between parents affect children regardless of age? And how can it affect them growing up particularly if parents are unable to get on the same page?
+- `sr051-0007` (question) Are the negative effects reduced if parents are separated and no longer under one household vs if they were in the same household?
+
+### 1u9og1z | r/beyondthebump | 2026-06-19 | baby_2_4_months | parent_unspecified | patterns 5,10 | border: sleep
+
+About: Baby fights naps; parent wonders about regression, rolling, and attachment. Wants: Help baby nap independently so parent can work. Already did: Huckleberry Sweet Spot, rocking, feeding, driving, darkness, white noise, carriers.
+
+- `sr053-0104` (tried_failed) My daughter is 3.5 months old, and naps have become such a struggle. I’ve been using Huckleberry and following the Sweet Spot recommendations, but it feels like they rarely work for her.
+- `sr053-0105` (tried_failed) She’ll be showing all the signs that she’s tired like yawning, rubbing her eyes, getting fussy and I’ll try to put her down when Huckleberry suggests. But she fights sleep constantly. Sometimes she’ll eventually fall asleep after a lot of rocking, bouncing, soothing, or feeding (breastfed) but then she’ll wake up 20–30 minutes later and be ready to go again.
+- `sr053-0106` (pain) The most frustrating part is that I spend so much time trying to get her to nap. Sometimes I’ll spend 30 minutes to even an hour rocking, bouncing, shushing, and doing everything I can think of just to get a 20–30 minute nap out of her. It feels like I’m spending more time trying to get her to sleep than she’s actually sleeping. Like tonight I’ve been trying bedtime for 4 hours now and she will not stay asleep. My husband even drove her around, she fell asleep but as soon as he put her in her bed she was awake again.
+- `sr053-0107` (pain) What’s confusing is that if I contact nap with her, she’ll sleep forever. She clearly *can* sleep and seems to need the sleep, but the second I try to put her down in her bassinet or crib, the nap is either a fight or it’s over in 20–30 minutes. Unfortunately, contact napping all day isn’t really an option for me. I work for myself from home, so I need at least some of her naps to happen independently so I can work on my computer or get things done around the house.
+- `sr053-0108` (tried_failed) I’ve tried putting her down drowsy, putting her down fully asleep, a dark room, white noise, and following wake windows, but it still feels like every nap and even night time sleep is a battle. She seems exhausted, but it’s like she just can’t settle or stay asleep unless she’s on me or next to me.
+- `sr053-0109` (question) Did anyone else’s baby go through this around 3 months? Any tips for helping a baby who seems tired but fights sleep every step of the way?
+- `sr053-0110` (question) I feel like we’re both frustrated, and I’m wondering if this is just a normal 3-month-old phase or if I’m missing something. I’d love to hear from anyone who’s been through something similar.
+- `sr053-0111` (belief) Other info is she does have reflux but is medicated daily and she’s also shown signs of sore gums lately.
+- `sr053-0112` (belief) Yes my MIL comes over to help watch her sometimes. I’ve also sometimes successfully had her sleep next to me while I work on my computer but sometimes I feel like she feels me move positions then she will wake up.
+- `sr053-0113` (tried_failed) Thank you for your suggestions. I’ve tried the roll away method or rather moving positions so I can work on my computer. I’ve successfully done it once but the next time I tried she felt me move and woke up. Most days I just give in and lay with her so she can get a good long nap in for at least one of her naps.
+- `sr053-0114` (belief) Oh boy! I was wondering if she was experiencing the regression early as well. She just started rolling both directions at the beginning of the month so I thought that had something to do with it as well.
+- `sr053-0115` (pain) Oh my, that sounds tough. She definitely seems like she wants comfort from me. Even during wake windows she fusses once I set her down. Shes just extra clingy lately.
+- `sr053-0116` (success_story) This makes me feel better that it seems to be normal.
+- `sr053-0117` (tried_failed) Thank you for your advice. She used to love the stretchy baby carrier. I need to try it again. I switched to just a standard carrier to try but she only will tolerate that one outside of the house which is weird. She just seems to get mad that she can’t move how she wants when she’s in a carrier. But trying my stretchy one again is worth a shot.
+- `sr053-0118` (others_said) This makes me feel so much better knowing it’s normal and that you can’t spoil them. I feel like everyone around me is worried about attachment issues. I just didn’t want to be doing something wrong and I only have one friend that has young kids that can give me advice or is understanding with this stuff. Thank you!
+- `sr053-0119` (pain) It’s very frustrating. Especially when you’re sleep deprived. I’ve been worried mine uses feeding to soothe too. I’m not sure if that’s okay but I was at the point of whatever I have to do to get us both sleep. It’s nice to know we’re not alone and everyone here is saying it’s normal. Still doesn’t make it any less difficult. Hang in there!!
+
+### 1uazq83 | r/beyondthebump | 2026-06-20 | baby_6_9_months | new_mother | patterns 5,10 | border: sleep
+
+About: Mother distressed by crying, sleep-training pressure, and partner criticism. Wants: Help baby sleep independently without distressing crying. Already did: Alternates overnight care, feeds to sleep, tried ten minutes waiting.
+
+- `sr053-0141` (belief) First time mom to a 7mo.
+- `sr053-0142` (fear) Our baby is the sweetest, happiest kid but not a great sleeper. We’re up anywhere from 2-5 times a night after putting him down most nights. He \*can\* self soothe and put himself to sleep or back to sleep, but it’s inconsistent and a lot of times we have to help him. It’s slowly getting better but still not great. I feel like we are doing him a disservice by not being able to help him consistently sleep more independently.
+- `sr053-0143` (objection) Neither of us have it in us to do CIO and my husband isn’t really on board with other sleep training methods, and he regularly feeds our baby back to sleep overnight when he’s with him (we swap sleeping in the baby’s room).
+- `sr053-0144` (others_said) Our pediatrician, nanny, and friends have all gently suggested we need to sleep train and that he should be able to make it through the night with one feed max, but I think my husband disagrees. I agree about the one (max) overnight feed, but I am really on the fence about sleep training; I don’t feel good about it at all. Not just CIO, but other gentler methods too. I can’t shake that this whole push around it is a byproduct of having to rush back to work nowadays (I am not judging anyone for any choice they make for their families! Everyone’s situation is different and deserves empathy. Just this is how I feel in our situation.)
+- `sr053-0145` (trigger_moment) Last night after an 8oz bottle and some avocado and cereal at dinner, the baby was down around 7:30. He woke up around midnight, and after checking on him and making sure he didn’t need a diaper change etc., I was trying to let him work through it.
+- `sr053-0146` (pain) I let my baby cry for what felt like an eternity (it was no more than 10 minutes). I felt like I was going to throw up. He would cry, then calm himself, then start again. Finally my husband came in and was super upset, and said, “You’re his mom. Why are you letting him cry?” He took over and fed the baby back to sleep while I cried in the hall. I felt so small, and like the time I spent sitting trying to let baby calm himself was for absolutely nothing. When my husband got him back to sleep, I went back in and sat up awake for most of the night.
+- `sr053-0147` (question) What the hell am I doing? I have no idea what to do about helping our little one sleep. He still feels so tiny and new and I can’t bear letting him cry, but I feel like everyone is telling me we need to do it so he’ll sleep. My husband apologized this morning and things are okay, but I still feel like absolute trash.
+
+### 1udw0j4 | r/workingmoms | 2026-06-23 | baby_2_4_months | new_mother | patterns 5 | border: parent_state
+
+About: Returning-to-work guilt and fear nursery will traumatize baby. Wants: Reassurance about returning to work and young babies adjusting to nursery. Already did: Asked boss for remote work; watched emotional-impact video.
+
+- `sr059-0006` (pain) ​Hi everyone, I’m a first-time mom to a sweet 3-month-old girl, and I’m currently at a major crossroads about returning to work.
+
+​Where I live, paid maternity leave is only 3 months, though I have the option to add one more month of unpaid leave. My time is coming to an end soon, and I’m feeling incredibly torn. Part of me wants to go back for my own career and financial independence, but another part of me just wants to stay home with my daughter.
+- `sr059-0007` (tried_failed) ​To try and find a middle ground, I asked my boss if I could transition to a work-from-home setup, but I’m still waiting on a response. If he says no, I’m genuinely stuck. We don’t have any family nearby to help, so the care of our daughter falls entirely on me.
+- `sr059-0008` (fear) ​If I do go back to the office, my main worry is daycare. My company is actually planning to open an on-site nursery in our building soon—which would be amazing since moms could drop in and see their babies throughout the day—but I still carry so much anxiety about it. I’m terrified that putting her in a nursery so young will be stressful or traumatic for her.
+- `sr059-0009` (belief) ​Financially, we are fortunate that my husband’s salary covers all of our necessities. However, I’ve always valued having my own income for that extra sense of financial security and personal independence.
+- `sr059-0010` (trigger_moment) ​The guilt has been heavy, but it hit a breaking point recently after I watched a video about the emotional impact of working moms on young babies (specifically this one: https://music.youtube.com/watch?v=cialLfVZqm4&si=2AY\_imikGhtiYe9p). It left me feeling incredibly conflicted.
+- `sr059-0011` (desire) ​I would love to hear from other working moms: How did you handle this transition? How did your babies adjust to nursery or daycare at such a young age? Any advice or reassurance would mean the world right now.
+
+### 1ueo2es | r/NewParents | 2026-06-24 | newborn_0_8_weeks | new_mother | patterns 5 | border: sleep
+
+About: One-month-old refuses all sleep except being held. Wants: How to survive contact-only sleep and when it ends. Already did: Bassinet changes; swaddles; noise; pacifier; transfer techniques; cosleeping; shifts; doctor.
+
+- `sr059-0055` (pain) Help. I'm so desperate and can't see the path forward. My baby just turned 1 month. For the first 3 weeks he would feed every 2 to 3 hours (both breast or breastmilk via bottle, easily takes both) and then nap after in any container, like bassinet or stroller bassinet or floor pad etc. This was true for day naps and overnight sleep.
+- `sr059-0056` (tried_failed) Suddenly right at 4 weeks he refused to sleep anywhere except being held. We have tried all the tricks. Different bassinet, dark room, noise machine, assorted swaddle, diaper changes, pacifier (which he does also love), putting down bum first, putting down drowsy but awake, cosleeping in bed, sleeping with a hand on his tummy, and whatever else is on Google or Chat GPT. Pediatrician said there is no such thing as spoiling him or habit forming yet. I think he's too young for cry it out.
+- `sr059-0057` (desire) I know this is probably normal but I am losing my mind. My husband and I do shifts at night but basically whoever is up with him can't get 1 minute of sleep because its too dangerous to fall asleep with him on top. How do we move forward? When does it end? How do people survive this stage, I'm getting 1.5hr sleep per day. I am so desperate and can't see the end game here.
+- `sr059-0058` (tried_failed) I have tried! Though I will keep trying. Even beside me in bed he fusses non stop. It's like he NEEDS the feeling of us underneath him. This is true even if I have my hand on him, etc.
+
+### 1uhtfzq | r/ScienceBasedParenting | 2026-06-28 | newborn_0_8_weeks | parent_unspecified | patterns 5,10 | border: other
+
+About: Worry partner's fear of dogs will teach children anxiety. Wants: Research on transmitting fears versus protecting children from dogs. Already did: Discussed differing responses to dogs with partner.
+
+- `sr059-0112` (fear) My partner and I have two children (3 and newborn). They were raised without pets by adults afraid of dogs and most animals. I was raised with dogs. 
+
+My partner is nervous around dogs and I worry that they are transferring it to our kids. Partner cannot distinguish dangerous or nervous dogs from calm or curious dogs. This is mostly problematic on vacation, on trails or campsites.
+- `sr059-0113` (belief) I agree that dogs should be leashed in public spaces. However the reality is that they often are not.
+- `sr059-0114` (question) Will picking up our toddler out of concern, reacting protectively etc. be negative for our kids, as I believe? Or is this simply necessary because you never know what dogs will do?
+- `sr059-0115` (desire) I want our children to learn not to run or panic around dogs. This means my partner should work on anxious behaviour around dogs or recognisig dangerous behaviour or signs.
+- `sr059-0116` (others_said) Partner says it is the responsibility of dog owners to keep them away, and if that doesn’t happen we should protect the children as if all dogs are dangerous/a threat.
+- `sr059-0117` (question) Is there research on transferring fears or phobias?   
+Do you think the risk of harm outweighs the risk of instilling anxiety?
+
+### 1uj326y | r/ScienceBasedParenting | 2026-06-29 | baby_2_4_months | parent_unspecified | patterns 5 | border: sleep
+
+About: Whether contact naps worsen forthcoming four-month sleep regression. Wants: Research and anecdotes about contact naps and connecting sleep cycles. Already did: Mostly contact naps using carrier; searched subreddit history.
+
+- `sr059-0139` (tried_failed) I tried to search the history of this sub and couldn't find anything very helpful..
+- `sr059-0140` (fear) Our baby is 10 weeks old and almost all her naps are contact (I usually baby-wear). She's been sleeping at night in her bassinet like a DREAM (a 6-7-hour stretch, followed by a 3-hour stretch), but I'm worried that her inability to take longer independent naps might be an issue when her sleep cycles shift at the 3-4 month mark..
+- `sr059-0141` (desire) I'd love to see research/articles, but I'd also love personal anecdotes! What seemed to help your baby connect sleep cycles? Any regrets from parents who primarily contact napped? Any research you read that informed how you made these decisions?
+
+### 1ujmn58 | r/NewParents | 2026-06-30 | baby_2_4_months | new_mother | patterns 5,12 | border: logistics
+
+About: Choosing childcare for sensory-sensitive baby with reflux. Wants: Choose between daycare and more expensive nanny. Already did: OT assessment; daycare willing to follow feeding protocol.
+
+- `sr065-0004` (pain) Ugh. Quitting my job just isn’t in the picture, especially as I (mama) support our health benefits (which would be an extra $1400 a month at my husband’s job - insane).
+- `sr065-0005` (belief) My LO was a 36 preemie who is now 4 months (3 adjusted) with severe acid reflux. She is also “sensory processing sensitive” according to her OT. But, I sadly have to get back to work.
+- `sr065-0006` (question) For context, I work from home and we have a relatively small house where I’ll be working in our bedroom if baby is home since my office acts as her play room too. 
+
+Which option would you choose?
+
+option A: daycare with a 4:1 ratio but sweet sweet teacher, 11:30 am to 5:00 pm daily
+
+option B: in home nanny costing $700 more a month for the same hours who wants PTO and holiday pay too (I get it but added cost for us!)
+- `sr065-0007` (fear) Will daycare traumatize a sensory sensitive gal more? Is it really bad for acid reflux (they are willing to follow our protocol though of feeding)? She’s my first and I am so scared to make her health any worse- but I think the cost savings could be used in so many ways, plus having her and a nanny home in my tight space will be very distracting and hard to get work done just from a logistics standpoint.
+
+Thoughts? Struggling with guilt either way
+
+### 1umrgx0 | r/Parenting | 2026-07-03 | toddler_12_18_months | experienced_mother | patterns 3,5 | border: parent_state
+
+About: Injured pregnant mother regrets yelling at crying one year old. Wants: Cope with isolation, pain and guilt; get a break. Already did: Tried cot toys, bathroom bouncer; apologised with hugs and kisses.
+
+- `sr061-0095` (pain) For context, I've just my knee really badly (can barely walk and have a stick) and hit huge waves of pain. I'm also early days pregnant so can't take the big painkillers and still breastfeeding my daughter. My partner is also away for a job right now so I'm fully on my own and we love rurally.
+- `sr061-0096` (belief) My one year old was awake for eleven hours. From midday til 11pm. I spent two hours trying to put her down at 7pm while unable to walk and in hideous pain. I think it's a leap and she just cat naps for two minutes on the boob then powers up and is giddy as all heck. She's been cluster feeding all day and all night for about three days now.
+- `sr061-0097` (tried_failed) I eventually gave up and just wanted to go for a shower as I'd hit a pain wall and the heat really helps. I thought I'd pop her in the cot with toys and books and put the baby camera on. Nope. She screamed the house down. Maybe the bouncy chair in the bathroom? Nope. Even more screaming.
+- `sr061-0098` (trigger_moment) I then had to carry her to bed with a walking stick and non-functioning leg and tried to put her in her cot again. She lost it even more and then so did I. I roared and yelled that I was tired and sore and I just wanted a break. Properly lost it. I was shaking.
+- `sr061-0099` (pain) Obviously, it freaked her out and she just screamed even more. I then broke down and sobbed.
+- `sr061-0100` (regret) I apologised to her and gave her huge hugs and kisses but I just feel like fucking trash.
+- `sr061-0101` (pain) I've been so overwhelmed right now and just feel so isolated and in pain and on my own. It's not fair on my baby either but given she still feeds during the night and pretty solidly during the day, I just need some aspect of break otherwise the "shifts" just roll into one and I am \*Touched Out\*.
+- `sr061-0102` (fear) I don't know what I'm looking for really, just some advice on how the hell to cope with this? Right now I just want to disappear and she deserves so much better than me as a mum. I'm also now unable to sleep as I'm worried that I've damaged her emotionally for life.
+
+### 1upvg1a | r/NewParents | 2026-07-07 | baby_2_4_months | parent_unspecified | patterns 5 | border: sleep
+
+About: Parent fears disrupted sleep affects baby's milestones. Wants: Fix feeding sleep cycle and reassure about development. Already did: Rocks baby then wakes ten minutes later to feed.
+
+- `sr064-0077` (pain) My LO is 3 months and was a decent sleeper, only issue is she's become fussy at the breast so now I have to wake her up for a dream feed or she will refuse to feed and all hell will break loose.
+- `sr064-0078` (tried_failed) Currently I rock her and put her to sleep and then wake her up 10 mins after that to give a dream feed. This has ended up disrupting her sleep and she wakes up soon from her naps, is cranky throughout the day, and ends up with a bed time as early as 6 pm.
+- `sr064-0079` (question) What can I do to cope? 
+
+I miss my happy baby :( 
+
+Also worried - does this affect her milestones or development in any way?
+
+### 1uq59jz | r/Parenting | 2026-07-07 | baby_6_9_months | experienced_mother | patterns 5 | border: sleep
+
+About: Mother questions future effects of flexible infant sleep schedule. Wants: Know whether flexible sleep timing harms future sleep habits or school adjustment. Already did: Follows sleepy cues and nap timing; nurses early wakings; heard pediatrician's schedule advice.
+
+- `sr063-0110` (others_said) My pediatrician suggested I work towards getting my baby to 2 naps at her last appointment. Which sometimes my baby does have two naps, but sometimes she needs 3. I know for 7 months that’s still normal, but my pediatrician recommended by 9 months that she goes down to 2 and that it can be done by implementing a stricter sleep schedule.
+- `sr063-0111` (belief) As it’s been working for us, my baby goes to bed anywhere from 7:30-9 pm. I usually decide on when to start the bedtime routine depending on when her last nap of the day was. Sometimes she had a later lunchtime nap that ended around 3 so that’ll be an “earlier” 7:30 bedtime. But if she woke up from her lunch nap around 2, then she usually does a catnap anywhere between 4-5:30 just depending on when she gets sleepy. If she naps till 5:30, that’s a 9 pm bedtime lol.
+- `sr063-0112` (belief) Because her bedtime ranges drastically, she wakes up anywhere from 7-8:30 am. She normally sleeps through the night, but if she has a wake up before 6 am I will go in and nurse her to get her back to sleep,  even if it takes an hour. She will then normally sleep for another 1-2 hours so I feel like she still is genuinely tired.
+- `sr063-0113` (fear) Honestly it works for our family. She’s our only child so it’s not like we are trying to coordinate with other children’s schedules, and I am primarily a STAHM with a flexible part time job so I never need to be out the door by a certain time (she comes with me to work). I kind of brushed off what her pediatrician said at first, because in my mind every family is different, but I am curious if there could be any possible drawbacks for her sleep down the line by not getting into a more rigid routine now? Or even by the time she’s ready for school, will it be much harder to transition into a schedule without creating the good habits now?
+
+### 1uwwjpm | r/Mommit | 2026-07-15 | unknown | new_mother | patterns 5,11,10 | border: parent_state
+
+About: Mother feels inadequate comparing potty progress and facing husband's criticism. Wants: Vent fear of failing daughter and seek reassurance. Already did: Asked sisters for advice; potty trained at home during daytime.
+
+- `sr067-0085` (belief) Hear me out. I KNOW that all kids do things in their own time. I KNOW that moms are all different people with different strengths and priorities. I KNOW my daughter is smart and strong and kind.
+- `sr067-0086` (pain) But WHY do I feel like I will never do anything right? Why am I constantly comparing and dragging myself down?? I know it’s not a healthy state of mind but OMG I can’t break out of it.
+- `sr067-0087` (pain) I have 3 older sisters, and they have a combined TWELVE kids. My best friend has 2 under 2. Every single other mom I know has more than 1 kid. And every single one of them is more patient, more confident, more capable than me.
+- `sr067-0088` (pain) Found out that all of my nieces and nephews were totally potty trained by the time they were my daughter’s age. She’s fully potty trained… at home during the day. But that’s about it.
+- `sr067-0089` (others_said) I keep asking my sisters for advice and it’s always, “oh we never dealt with that” and I’m like??? What am I doing so wrong???
+- `sr067-0090` (fear) I am so afraid that I’m not doing anything right. That I’m doing my child a disservice by not being a better mom.
+- `sr067-0091` (others_said) And to top it all off, my marriage is millimeters away from combustion. One of the constant things brought up by my husband is that he doesn’t approve of how I parent and that he thinks I’m failing her by being a SAHM.
+- `sr067-0092` (regret) I’m just… losing the steam required to help me defend my choice. I have come to terms with the fact that motherhood was not meant for me, so I will not be having any MORE kids… but that doesn’t mean I can’t try to be the best mom I can be for my daughter who’s already here.
+- `sr067-0093` (pain) But I can’t seem to do it right. 
+
+Everything backfires. Every new challenge stacks on top of old difficulties and I end up with not enough time or energy to handle any of it. 
+
+I am so sad all the time. Sad for my daughter for having a mom who not only is failing her, but is well aware of it to boot. So she has a mopey and pathetic mom on top of it all.
+- `sr067-0094` (desire) Idk what I’m asking for here. I just needed to get this terror and stress off my chest for a minute.
+
+### 1uxk0lb | r/ScienceBasedParenting | 2026-07-15 | unknown | parent_unspecified | patterns 5 | border: age_unknown
+
+About: Questions Montessori advice discouraging praise and possible emotional effects.. Wants: Clarification of advice against praising children's achievements.. Already did: Reading book about Montessori methods..
+
+- `sr066-0101` (objection) Currently reading a book about Montessori methods.  
+I am confused.  
+It states that when a child does something good we shouldn’t say ‘well done, good job’ because we  
+Don’t want to make a child reliant on our praise.   
+But i feel I would raise a robot instead by following it.
+- `sr066-0102` (question) Is anyone familiar with this?
+
+### 1uzz7ig | r/Mommit | 2026-07-18 | unknown | parent_unspecified | patterns 2,3,5 | border: age_unknown
+
+About: Parent struggles to reduce child's television and gaming during summer. Wants: Reduce screen time while keeping child happy and enjoying summer. Already did: Set screen limits, reduced shows, refused simultaneous gaming and TV.
+
+- `sr072-0049` (belief) Me and my husband have set some grounding rules in the house regarding our son’s screen time. We were always trying to be considerate of the fact that he wants to play (he owns a Nintendo) and has his favourite show on TV as well.
+- `sr072-0050` (pain) However, since school is over his screen time has increased remarkably. Now he has 3 favourite shows on TV and he refuses to leave the house and go outside and play, unless he is invited to his friend’s house where they’ll play video games.
+- `sr072-0051` (tried_failed) We let him choose 2 of his 3 favourite shows for now (until we reduce it to 1?) so we can somehow reduce his screen time eventually a lot more. At this stage, he watches 2 hours of TV and 1 hour of playing video games. He complained that it’s not fair and to buy himself more time he asked to play video games while watching TV. We refused.
+- `sr072-0052` (fear) I think his biggest issue is that he doesn’t consider TV as screen time and so one hour of games isn’t enough for him. Our biggest issue from the other hand is seeing him “waste his summer” in front of a screen that isn’t good for his brain development. I don’t want to see him getting bored and I feel bad as I know how much he loves playing. He’s not interested in spending time with us or doing any sports activities except riding his bike a few times a week. I want him to have a great summer and we won’t be going on holiday for another 3 weeks. Are we being too strict?
+
+### 1v0613s | r/daddit | 2026-07-18 | unknown | parent_unspecified | patterns 5,9 | border: age_unknown
+
+About: Parent wants preschool children to value exercise despite own habits. Wants: Build children exercise habits and know when and how to begin. Already did: Tried exercising inconsistently; considering modelling exercise and sports.
+
+- `sr075-0044` (belief) I didn’t grow up in a family that exercised. I’ve never been fit and my attempts in the past have always fallen over, though I’m still trying. 
+- `sr075-0045` (desire) Now I have kids though, I want them to grow up to both value exercise and see it as a non-negotiable part of life. 
+- `sr075-0046` (question) Dads who grew up that way and are passing it on, what do you do? 
+- `sr075-0047` (question) Is it letting them see you work out, talking about it, making sure they get into sports? Is it early years or school age? 
+- `sr075-0048` (fear) I worry that already my pre-school kids are noticeably less sporty than others. I don’t need/want them to be athletes, and I wouldn’t trade their other amazing attributes away, but I want them to have a healthier life than I’ve had and an easier time doing it.
+
+### 1v1flam | r/sahm | 2026-07-20 | unknown | new_mother | patterns 2,5 | border: age_unknown
+
+About: Mother worries baby learns too little while she does housework. Wants: Daily organisation advice, developmental reassurance about babywearing, and quick meals. Already did: Carries baby during chores; handles cooking, cleaning and husband’s transport.
+
+- `sr071-0096` (pain) hi i have been a sahm for more than a year but my organising skills are still… questionable, to say the least. 
+
+I know some of u might think why dont i just go to chatgpt to ask for tips, i have also been craving some human connection aka talking to people so here i am! Nothing wrong with my husband, he is great but he works 12-18 hrs shifts.
+- `sr071-0097` (question) How do you organise your time/day? I dont have a village, and I am the one in charge of cleaning, cooking, and making sure my little one is learning on a daily basis😅 anddddddd I send my husband to and pick him up from work. If he drives he will sleep which will not be good if he crashes 🥲
+- `sr071-0098` (fear) also there is something in my mind, if i prioritise housework whilst my baby is tied to me aka in a carrier, is he even learning anything (is there any child development specialist here who can tell me abt this)
+- `sr071-0099` (desire) and does anyone have quick nutritional recipes for themselves because i find myself eating cereal or instant noodles most days lol
+
+### 1v5bemx | r/NewParents | 2026-07-24 | newborn_0_8_weeks | parent_unspecified | patterns 5 | border: parent_state
+
+About: Information overload creates fear of parenting wrongly and baby falling behind. Wants: Confidence choosing methods without fearing baby will fall behind. Already did: Read baby/sleep books, lactation consultant, crib, blackout curtains and noise adjustments.
+
+- `sr080-0052` (pain) I’m usually a pretty decisive person. I like to do research and hear advice and then decide for myself. However, with baby, I feel like I have decision paralysis.   
+I’ve been reading a lot of baby books and sleep training books to solve for latching, low milk supply and sleep issues with my LO. I’ve seen a lactation consultant that’s put us on a schedule. I’m also receiving opinions from my MIL who is staying with us and helping out.
+- `sr080-0053` (belief) For example:   
+1. We have our LO sleeping in her crib by herself after a week of having her in our room and another week of having her in the living room  
+2. We use blackout curtains for all naps   
+3. We do expose her to noises in the daytime but not at night
+- `sr080-0054` (question) Questions:   
+1. Should I be next to her more? Should she be in our room? She is currently going through a phase where she is inconsolable when we put her down to sleep  
+2. Should we expose her to light in the day and keep it dark only at night? We want her to be able to sleep through anything   
+3. Same as above. Is the noise ok?
+- `sr080-0055` (fear) Idk how to tune out the noise and just focus on one thing and stick with it. I feel like I’m not a confident parent. The overload of information is getting to me. I can scale back but I’m afraid baby will be behind and will develop habits I have to undo  if I don’t do the research and follow the right methods now.
+
+### 1v7qozd | r/Parenting | 2026-07-27 | unknown | new_mother | patterns 5 | border: age_over_24
+
+About: Mother fears psychological harm from leaving two-year-old for six days. Wants: Know whether six-day separation will psychologically harm son and whether to attend. Already did: Arranged aunt's care; previously tried overnight stay; addressing codependency in therapy.
+
+- `sr076-0045` (belief) My husband is getting a major promotion at his company and they are having a big ceremony-thingy in Las Vegas to bring in the new partners. Long story short- it’s a big deal. I wouldn’t miss it for the world, BUT Las Vegas isn’t a place I would ever take my 2 year old. This is a 6 day event that is pretty much packed with a very rigid schedule. From the beginning, I just planned on taking him and bringing a babysitter but after looking at the schedule of lengthy events, it really wouldn’t make sense to have him (and the babysitter) sitting in a hotel room for several days alone.
+- `sr076-0046` (others_said) After discussing this dilemma with my sister-in-law, she completely agreed with my view that it’s too many hours to keep them cooped up. Without hesitation offered to watch our son. At first I was shocked that someone would offer to watch a two year old for almost a week but I was thankful. She said she is doing it for her brother because she can’t be there and she knows he would want me there and present for the events. I immediately agreed and said yes I would be more happy for her to watch him and it would give me peace of mind while I’m gone that he’s in good hands.
+- `sr076-0047` (pain) Our son loves his aunt and we are close to her. We see her 1-2 times a week. He’s used to her home and comfortable there. The last time he spent the night at her home he did cry right when we left but then didn’t cry at all the rest of the time. Although when we went to pick him up he did start crying and said something along the lines of “Mommy you left me”. Of course, that completely broke my heart.
+- `sr076-0048` (fear) The trip is quickly approaching and I’m starting to get cold feet. I just feel in my gut that 6 days is too long to leave my 2yo. He is very sensitive and he is very attached to me , only because I’m a SAHM so we are nearly together 24/7 and rarely apart for more than a few hours. Side note: I do understand that this might be more of a codependency issue and I am working on that in therapy.  
+Any advice I would appreciate. Would you ever leave your 2 year old for 6 days straight and how much psychological damage will this do to him, if any? Should I go with my gut? Or am I just overthinking this?
+
+### 1v8zqjs | r/Mommit | 2026-07-28 | toddler_18_24_months | parent_unspecified | patterns 5 | border: sleep
+
+About: Parent fears room-sharing could harm toddler's sleep development. Wants: Know whether sleeping in toddler's room creates harmful habit. Already did: Lies on floor at wakeups; grandmother slept on air mattress.
+
+- `sr080-0103` (pain) My daughter is 18 mo, she used to sleep through the night, does not anymore. She wakes up usually at 1 am, I’ll come in, lay on the floor with her and she typically goes back to sleep quickly. Then usually 3 am she wakes demanding for someone to come back in.
+- `sr080-0104` (success_story) This weekend my mom was in town and she put up an air mattress to sleep in my daughter’s room. My daughter slept through the night every single night. No wake ups.
+- `sr080-0105` (fear) My question is, should I just sleep on a mattress in her room? Or will that ultimately not be good for her sleep development and create a bad habit. This needing someone in the room has been going on for months now.
+
+### 1vaosks | r/NewParents | 2026-07-30 | baby_4_6_months | new_mother | patterns 5 | border: sleep
+
+About: Mother fears sleep training damages nervous system but exhaustion harms daytime parenting. Wants: Middle ground between holding all night and crying-based sleep training. Already did: Cosleeping, age-appropriate wake windows and naps; ruled out medical issues.
+
+- `sr080-0182` (pain) My 5-month-old wakes frequently at night, but if she’s held she’ll give long stretches and could probably sleep through the night.
+- `sr080-0183` (pain) I don’t want to do cry-it-out, but I’m at the point where the sleep deprivation has me crying most days. It’s affecting my daytime parenting too because I’m so exhausted that I don’t feel like the mom I want to be.
+- `sr080-0184` (question) It just feels biologically unfair that the only choices seem to be either hold my baby all night or sleep train. Is there really no middle ground?
+- `sr080-0185` (fear) Im very much pro attachment parenting and helping this baby build her nervous sustem but it seems like Im trading one devil for another here? Like sure shes secure at night but she has a shell of a mom during the day is that really better?
+- `sr080-0186` (tried_failed) Yes we tried cosleeping just resulted in more wakes. Yes we follow age appropriate wake windows and naps. Yes we have ruled out medical issue
+- `sr080-0187` (question) Im glad you all found a solution. Can I ask how long he cried for? I cant take her crying for longer than a minute if that
+- `sr080-0188` (fear) I feel like Im damaging her nervous system or Im not sure shes just quitting because she figures we will never come which I dont want. Its hopeless. But Im glad you guys found what works for your family I really cannot judge anyone because this is really tough
+- `sr080-0189` (question) I like this Im just so exhausted at night and cant hear the crying how long did it take?
+- `sr080-0190` (objection) Thanks for writing all this out. What month did you start? Can I ask how long it took. I really just do not want to leave her to cry it feels like its against every motherly instinct I have but also co sleeping is not working. From the research I have done on it my biggest hesitation is that they really are not self settling, they dont have the capacity to if I understand. So for me (again just me) it feels wrong. BUT I find myself snapping at her which.. is that any better? It just feels really hopeless in the moment.
+
+### 1vdsy69 | r/Mommit | 2026-08-02 | unknown | parent_unspecified | patterns 5,2 | border: age_unknown
+
+About: Screens seem to have displaced child’s imaginative independent play. Wants: Know whether children return to independent play after screens. Already did: Allowed more screen time on busy days; provided toys and craft materials.
+
+- `sr081-0060` (fear) i never knew that my child had forgotten how to play i m not sure when it did occur it wasnt overnight child began to play but somewhere between YouTube games and just five more minutes he stopped my not playing with screens literally the toys that previously got used throughout the living room are hardly touched now they just sit there building blocks and crayons puzzles when there isn't a tablet, TV or phone, I hear that word in a few minutes.The most annoying is that it appears they dont know what to do without a screen anymore its as if they had to wait to be entertained instead of using their imagination i m not going to lay the blame on technology we have also been spending more time with the screen than I would have liked, particularly on busy days but i m sure this is also a reason i just didn t expect it to change something as simple as playing have you ever experienced it did your children eventually return to normal play or is this the norm today
+
+### 1ve7rse | r/NewParents | 2026-08-03 | baby_9_12_months | new_mother | patterns 5 | border: sleep
+
+About: Exhausted mother struggles with crawling nights and developmental expectations. Wants: Sleep, help and reassurance about meeting baby’s needs. Already did: Floor bed, varied schedules, pouches, sweetened vegetables, pediatrician consultation.
+
+- `sr084-0065` (pain) I am currently crying while typing this. My baby is 10 months old and is combo fed. She still wakes up twice to feed- one time I breastfeed her and other time my husband gives her the bottle. She’s not too good at eating solids but she eats what she likes mostly sweet fruits. That’s another battle I am fighting but this post isn’t about that. Since past one month or so she doesn’t usually go back to sleep after feeds and it’s literally giving me physical pain because of lack of sleep. She just wants to sit or get into crawling position and repeat that. I try to gently put her down but again she does that. It takes us 3 hours every night wrestling with her. We are doing floor bed as that’s the only way we were getting some rest.   
+My point is how are we supposed to do this anymore? I am so overwhelmed. Also I just got to know I was supposed to start brushing her teeth long back! We have had no help since the beginning and it’s getting to me now. I have started to get angry at my baby in the middle of the night as it’s not in me anymore. I am exhausted. I just went away and my husband is making her sleep. How am I supposed to make her a good eater, good at brushing, make her social, take her out everyday, make sure she is hitting her milestones and 100 other things when I haven’t slept since I got pregnant???? My parents were supposed to come help me but that’s not happening due to some paper work thing and now I am devastated. I feel such a bad mother that I feel this way and just want things to get better or atleast get 3 hours of sleep.   
+How is everyone managing?
+- `sr084-0066` (desire) Oh this makes sense…. I am so desperate for her to lessen the skill
+- `sr084-0067` (tried_failed) She takes two naps a day. Total 2.5 hours. She goes to bed around 7:30 wakes up at 6:15. But irrespective of what time she sleeps, the wake ups still happen. Also, today we went up the beach so only 1.75 hour naps but she still wakes up
+- `sr084-0068` (belief) Bedtime and wake up- 7:30 pm and 6:15 am to 7 am depending on when she slept again at night after waking up.  
+Nap 1 - 8:30 am for approx 1.5 to 2 hours  
+ nap 2 - 1 pm for an hour sometimes half hour or one hour.
+- `sr084-0069` (tried_failed) She eats sweet potato mixed with other veggies but there has to be something sweet like sweet potato in it. We are so exhausted that we started giving her pouches which have veggies in it at least once a day that way I thought she will atleast eat. We don’t give sugar but sweeten stuff with fruits. I have been trying since I started when I told my pediatrician at her 9 month appt she was like every human likes sweet stuff so not to worry but I still think it’s not healthy.
+- `sr084-0070` (tried_failed) Few days back when we came back from a birthday party for a kid a bit late and she slept around 8:30 pm, she still woke up the same. So I was like what’s the problem?
+- `sr084-0071` (desire) Thank you so much. I read posts here saying it’ll get better but days like this I am like when
+- `sr084-0072` (belief) I haven’t tried porridge with eggs. Maybe I’ll try.
+- `sr084-0073` (belief) Ohhhh Ohk I’ll try tweaking it little by little
+- `sr084-0074` (belief) Oh Ohk I’ll try posting there
+
+### 1vfx51g | r/beyondthebump | 2026-08-05 | baby_6_9_months | parent_unspecified | patterns 5 | border: parent_state
+
+About: Severe anxiety turns baby’s crawling, sleep and care into feared harm. Wants: Express anxiety and connect with parents who understand. Already did: Tried multiple medications and doses; partner provides much baby care.
+
+- `sr082-0052` (tried_failed) I have been diagnosed with anxiety for about 10 years now. I have went through several different medications and doses and they were all very scary and unsafe for me. At the end of the day I couldn’t tell you what I did that day (even basics like “I went to work for “x” amount of hours), blacking out mid conversation or while driving, just really scary things.
+- `sr082-0053` (fear) My baby is 6 months old and I cannot stop feeling so anxious about everything. He didn’t nap like normal? Must be some insane issue that probably doesn’t even exist. He didn’t sleep last night? He was probably freezing cold, felt abandoned, and won’t be able to ever function in society. He’s starting to crawl? The floor is going to hit his head on every possible surface and it’s going to be a life changing injury. My partners holding him and he turns a certain way? Better not drop him. He’s contact napping? He’s going to suffocate.  You get the point.
+- `sr082-0054` (pain) It’s absolutely crushing. I spend every single minute of every day so anxious. My neck hurts, my teeth hurt, my head hurts. Everything hurts from the constant tension I am under.
+- `sr082-0055` (pain) I don’t know what to do. It’s really weighing heavy on me right now as the baby never sleeps (6 mo and is still up every 1.5-2hrs a night or like tonight he’s been up every 15 mins and he’s finally sleeping but only because his dad is holding him while I sit here sobbing). I am terrified to be medicated again. Honestly I’m terrified to even admit to any medical professional that I’m struggling. I have 1 day a week off that I have the baby by myself and I get home before my partner and i literally dread these times. The weekends when we’re home together my partner takes the majority of the care for the baby and I still sit there and have anxiety about everything he’s doing but I can’t do it right either in my brain.
+- `sr082-0056` (fear) I am terrified this is going to drive my partner out and make him feel like he’s not a good dad, which I KNOW he is a good dad but the overbearing anxiety part of my brain is so much louder than the logical side.
+- `sr082-0057` (desire) Anyways, I don’t know what I expected to get out of this because now my brain is telling me I’m crazy and no one else will know what I’m saying because no real adult has these thoughts but I am gonna post anyways for the parents out there that might also feel this way. It’s lonely, sad, ruins most of my days. If this is also you I see you and resonate with you.
+
+### 1vif7tm | r/NewParents | 2026-08-07 | baby_9_12_months | new_mother | patterns 5,6 | border: sleep
+
+About: Separation anxiety and frequent waking drive reluctant sleep-training consideration. Wants: Sleep-training experiences for a sensitive baby and relief from exhaustion. Already did: Bassinet, routines, wake windows, bedsharing, pick-up-put-down, Give Baby a Chance; moved baby.
+
+- `sr087-0009` (pain) I feel like I’m in hell. I’m crumbling, depressed, the lack of sleep is starting to affect the mother I wanna be. I wanted to be so much better, I tried so hard not to get to this point.
+- `sr087-0010` (belief) My 9 and a half month breastfed daughter has always been a FOMO baby, always low sleep needs (short naps, not much sleep), and VERY sensitive (she wakes up at any little sound or touch). Me and my husband never judged anyone for their decisions but in our ideal parenthood we would never have to sleep train using any method that involved crying, and we would rather not bedshare. Of course, we were humbled.
+- `sr087-0011` (tried_failed) We did our due diligence: From birth she would sleep in a bassinet only, we were careful with sleep associations - but of course, life laughed at us because she had reflux and we had to hold her upright for 30 minutes after every feed: So she started falling sleep in our arms. That was fine… Up until we went from Australia to Brazil and back right when she hit the 4 month regression. She went from giving us stretches of 5 to 7 hours to never giving us more than 4 again. We have a very well stablished sleep routine, and are careful with wake windows.
+- `sr087-0012` (tried_failed) We were already exhausted and started picking up from her crib and bedsharing (following Safe Sleep 7) at dawn so we could sleep a bit more (otherwise she would be up and partying at 4h30). Her short naps are all contact naps to this day.
+- `sr087-0013` (pain) We had easier weeks and harder weeks. And then we hit teething and separation anxiety. Now she is up every 40 minutes to 1h20. She wants to be CLOSE CLOSE to me (before she would always be very content with dad instead, but now at night she only accepts me). In our tiredness we started bedsharing earlier, but I sleep terribly (I get very anxious and wake up multiple times to check if she is in a safe position), and she keeps waking up, pulling my hair and trying to tear my nose from my face).
+- `sr087-0014` (desire) I’ve hit my breaking point. I think it’s safer and better for all of us if we sleep train. Her desperate for our comfort and us not offering to her is a personal nightmare for me, but I can’t do this anymore.
+- `sr087-0015` (tried_failed) At one point at a bad week months ago we tried pick up put down, and that was a disaster (she was clearly confused and would get more anxious and desperate at every cycle). Everytime we try to put her down sleepy or awake, she instantly cries her little head out as soon her butt touches the mattress.
+- `sr087-0016` (belief) She is done with this phase of teething. She has one 20 or 30 minutes contact nap in the morning, and another in the afternoon that lasts anything from 30 minutes to 1h10.
+- `sr087-0017` (question) I thought maybe modified Ferber?
+- `sr087-0018` (desire) But I wanna hear from people’s experiences… What they tried and worked, specially if they have a baby with a similar temperament.
+- `sr087-0019` (pain) My baby sleeps in average 9 hours during the night (1 or 1h30 of which she spends awake). She naps between 50 minutes (most days) and 1h50 (in a good day) total. So this probably averages 11 hours in a good day, 9 in a bad.
+- `sr087-0020` (pain) But what truly is killing me slowly is the frequency of awakening: Some nights every 40 minutes. Every nap is a contact nap. I get maybe 40 minutes to myself a day when my husband takes her after work - and then I need to do something around the house after having waking up every hour because she only wants mom (my husband takes her crying to the other side of our apartment so I can have some sleep but I still end up waking after some minutes).
+- `sr087-0021` (pain) I don’t know if you actually read my post, but this is not coming from someone who is an enthusiast about sleep training. This is coming from a severely sleep deprived, depressed, sometimes suicidal mom  who has no support network asides from her husband because our entire family lives in the other side of the planet. I am feeling VERY VERY guilty about needing to do the one thing I promised myself I wouldn’t, something that for me feels very wrong, but I think it might be better for my baby to be sleep trained than to have a mother who’s in complete shambles (parents, actually, my husband is also not doing great).
+- `sr087-0022` (tried_failed) I actually did Give Baby a Chance and it kind of worked for most nights for about a month until she got sick and then separation anxiety hit (but that was a great month!). Then all the work from Give Baby a Chance was undone. Now she cries as soon as we put her down in her crib :(
+- `sr087-0023` (success_story) “MAJOR IMPROVEMENT! We were able to move her to her own room because my MIL who was staying with us left.
+- `sr087-0024` (success_story) She slept through the first night, we just couldn’t believe. Seven whole hours. After that first beautiful anomaly, she went back to waking up, but now we have 2 and 3 hour stretches, and that is fine for now, we won’t be sleep training (at least not for now). We have a queen bed on the floor of that room, besides the crib as well, and I’ve been cosleeping with her in the early morning when it gets really hard to put her back to sleep.
+- `sr087-0025` (belief) I wanna thank everyone who helped here. There is a part of motherhood that I believe only parents who have been truly sleep deprived for months and months can understand. I hope it gets easier for everyone who hasn’t been sleeping.”
+
+### 1vj5kg9 | r/ScienceBasedParenting | 2026-08-08 | newborn_0_8_weeks | parent_unspecified | patterns 5 | border: sleep
+
+About: Parents worry involved grandparent night care prevents independent sleep. Wants: Research on future sleep independence and parents' responsiveness. Already did: Grandparents help bottle-feed, soothe and hold baby to sleep.
+
+- `sr089-0015` (belief) Our son is 3 weeks old. During the night he has a hard time falling asleep on his own. During the day we breastfeed and during the night we usually use expressed milk in a bottle so mum can just pump and go back to sleep.
+- `sr089-0016` (belief) Now, the grandparents (mom's parents) stay with us for a while and help around a lot, which is very welcome. The grandma is also very good at getting him to fall asleep. During the night they also help with the bottle feed and putting him to bed. He usually falls asleep on ours or their chest and then when put in his cosleeper he still needs someone to stay near and pet him or hold his hand for at least 1h or so. Otherwise he gets fussy and wakes up.
+- `sr089-0017` (desire) Now the question. The grandparents proposed to have him sleep in their room since they do a lot of heavy lifting during the night, so we don't have to wake up that much and they can sit with him when he falls asleep.
+- `sr089-0018` (fear) 1. Are there any research based consequences for h8m being putto sleep in such an involved maner? As in,will he "get used" to this and not go to sleep on his own when he is 6 month oro and maybe moves to his own room?
+- `sr089-0019` (fear) 2. Is there such a thing where we as parents will "loose" our reflex or ability to take care of him during the night? In the same way in which if you don't pump you start making less milk, or in that the mum tends to wake up bery easily when the child is startled. Would that go away?
+- `sr089-0020` (question) Morally and emotionally, we feel very comfortable with this arrangement with the grandparents. But I wondered if there are any research backed consequences to those 2 directions.
+
+### 1vqggvc | r/ScienceBasedParenting | 2026-08-17 | unknown | parent_unspecified | patterns 2,5,9 | border: age_over_24
+
+About: Parent wonders whether avoiding screens deprives two-year-old of stimulation. Wants: Know whether real-world play suffices or screens add developmental variety. Already did: Screen-free; outdoor play, reading, art, roughhousing; no daycare.
+
+- `sr093-0041` (belief) We've been screen-free for two years and have found it relatively easy because we work from home and also have help.
+- `sr093-0042` (belief) Our daughter gets plenty of time outside, and we read to her, play with her, do art, roughhouse, and generally follow her lead. She doesn't get much peer socialization because she's not in daycare yet. I know peer socialization only becomes critical at 3, at which point I'll put her into daycare.
+- `sr093-0043` (fear) What I do wonder about is screens. By keeping her completely screen-free, are we inadvertently removing a whole category of stimulation and experience from her life?   
+- `sr093-0044` (question) I know screens aren't necessary for development, but could some age-appropriate screen exposure actually add variety ... music, stories, different voices, imagery, concepts, etc. ... that she's not getting from her fairly small, familiar circle? Or is real-world, child-led play genuinely enough at 2?
+- `sr093-0045` (objection) I am a little hesitant to introduce screens because she's doing fine so far and then I'll have to add boundaries around it and the whole thing feels like a chore lol.
+
+### 1vrigz9 | r/toddlers | 2026-08-18 | unknown | parent_unspecified | patterns 2,5 | border: age_unknown
+
+About: Parent feels guilty letting toddler play independently while doing tasks. Wants: Know appropriate expectations for independent play. Already did: Lets toddler play with toys while making coffee or answering emails.
+
+- `sr094-0036` (fear) I’m trying really hard to let my toddler play independently instead of constantly jumping in to entertain her.
+
+
+
+But there’s a weird guilt that comes with it.
+
+
+
+She’ll sit there playing with her toys while I make coffee or answer emails, and part of me thinks, “I should be down there playing with her.”
+
+
+
+Then I remind myself that she seems perfectly happy.
+
+
+
+How much independent play do you actually expect from your kids?
+
+### 1vtg5yy | r/ScienceBasedParenting | 2026-08-20 | unknown | parent_unspecified | patterns 5 | border: age_unknown
+
+About: TikTok claim raises worry about white noise harming baby’s brain. Wants: Evidence about continuous overnight white noise and developing brains. Already did: Saw TikTok claim.
+
+- `sr093-0070` (question) I saw a random TikTok stating continuous overnight white noise could be bad for a developing babies brain, is there anything on this?
+
+### 1vv8v6u | r/NewParents | 2026-08-22 | baby_4_6_months | parent_unspecified | patterns 5 | border: sleep
+
+About: Parent fears feeding-to-nap association prevents self-settling and threatens night sleep. Wants: Advice on breaking feeding-to-nap association or leaving it alone. Already did: Nursed to nap; tried crib patting, bouncing, shushing and unlatching before sleep.
+
+- `sr092-0106` (question) Hi all, would love to hear any advice and experiences with similar situations.
+- `sr092-0107` (success_story) I have a 5 month old and in general, they are a great sleeper. During the night, they sleep a 9-10h stretch and then another 2-3h one. Our evening routine is feed, change and nighttime story, feed again and I then put them down awake in the crib and they fall asleep within 5-10min. I know I am extremely blessed in this regard.
+- `sr092-0108` (tried_failed) But naps are a completely different story. They have always struggled with them, and out of desperation around 2 months ago I started feeding them to sleep for daytime naps. This works great at sleep onset, but it also means they wake after 1 sleep cycle (anything between 25-40min) every time.
+- `sr092-0109` (belief) I see on the baby monitor how they try to soothe themselves back to sleep when they wake (thumb in mouth, cooing), but they never succeed, and I think it's because they fell asleep at the breast and can't recreate that. So they always get more and more cranky as the day goes by and I can see they would need a longer nap to be rested. Sometimes they manage to sleep longer and there is such a big difference, they are way happier! Besides the short naps, I am a bit afraid of this need to be fed to sleep to creep into the nights and undermine the great sleep they have then.
+- `sr092-0110` (pain) So I have been trying to break the feeding to sleep association the past week, but it's so hard and I feel so so bad about it, because it means they cry so much even though they normally are such a quiet and content baby. It breaks my heart every time. Of course I never leave them cry alone, I pat them in the crib, and if they don't stop crying after 3-4 min, I take them out of the crib, and bounce and shush them, but usually the crying just gets more intense, until I finally give in and give them the breast. I then try to unlatch them before they fall into deep sleep, put them in the crib, and they start crying again, and the circle starts again. Usually after 3 or 4 tries I call it a day and just nurse them to sleep.
+- `sr092-0111` (question) Does anyone have any tips? Should I just leave them be and nurse them to sleep during the day, as long as nights stay solid?
+
+### 1vvjhvn | r/NewParents | 2026-08-22 | baby_6_9_months | parent_unspecified | patterns 5 | border: sleep
+
+About: Baby's new mobility coincides with sleep resistance and forceful rocking. Wants: Similar experiences, reassurance about rocking and end to sleep resistance. Already did: Stroller naps over bumpy driveway, rocking and walking; considering sleep training.
+
+- `sr092-0117` (belief) My soon to be 7 month old has been getting more and more AWFUL at falling asleep. Baby fights and fights sleep. I can only now either get baby to nap during stroller rides during the day or rocking and walking laps outside at night. She’s now pulling to stand, army crawling, and sitting up all at once (I assume it’s because she is obsessed with using her newfound skills) 
+- `sr092-0118` (fear) But I’m getting nervous because sometimes I have to rock her hard or go over SUPER bumpy parts of my driveway in the stroller to get her to sleep. In the moment it seems natural but after I’m just like?!? How does baby only settle after being rocked like that? Her head of course is always supported but I’m always afraid after if I did it too hard?! But it’s the only way to settle her and get her to sleep now? 
+- `sr092-0119` (question) Anyone else? This has been going on for a week now and I hope this phase ends soon! Seriously starting to consider sleep training because this is awful
+
+### 1vwpdzx | r/NewParents | 2026-08-24 | toddler_12_18_months | parent_unspecified | patterns 5 | border: sleep
+
+About: Fourteen-month-old resists naps; parent considers switching to one. Wants: Know whether to drop a nap without creating dependence on parental presence. Already did: Shortened first nap; sat with child until asleep.
+
+- `sr100-0005` (trigger_moment) My daughter will be 15 months old in a couple of weeks and for the past month her sleep has been weird. Initially, her second nap stopped being as long, we managed to fix it by making first nap shorter. Now, this past week she is hysterical for both naps and bedtime. Today we literally had to sit with her until she fell asleep for both naps and bedtime, even though until 2 days ago she never needed any help.
+- `sr100-0006` (fear) I don't understand if those are signs to move her to 1 nap a day now or something else is going on? Last time she dropped a nap was way cleaner and less frustrating. How was the transition to 1 nap for your baby? Am I overthinking it and it's just a phase? I am a bit afraid she will get used to us sitting with her to get her to sleep and won't be able to go back to being independent.
+
+### 1vxizlx | r/Mommit | 2026-08-24 | baby_2_4_months | parent_unspecified | patterns 5 | border: sleep
+
+About: Two-month-old needs prolonged rocking; parent feels guilty about independent sleep. Wants: Ways to help baby fall asleep. Already did: Rocks for an hour; feed-change-play-nap routine.
+
+- `sr100-0013` (pain) It’s been like this for the last three weeks, I am very blessed that when she does fall asleep, she stays asleep. But EVERY TIME I go to put her to sleep, it takes at least an hour of rocking. She will almost fall asleep but suddenly open her eyes immediately after like she’s trying to stay asleep. I’ve done this 3-4 times a day for weeks. I don’t know what it is. I don’t know what I’m doing wrong. She is not upset, crying, or screaming during this time but she is just squirming or looking around with bright eyes. It is a bit frustrating. I know there are worse things but I feel like there’s a piece to the puzzle I’m missing.
+- `sr100-0014` (belief) This is my second baby, but my first was not like this. She was the opposite. Easy to fall asleep but would not stay asleep for the life of her. I don’t know if this is just a “babies, am I right? 🤷🏻‍♀️” kind of thing or what. Her wake windows are about 60-90 mins, we feed, change, play then nap.
+- `sr100-0015` (question) Any thoughts of something I could/should change?
+- `sr100-0016` (fear) It’s happened a couple times when she reaalllyyyy is taking a while to fall asleep, she just lays there and coos to herself. But it makes me feel guilty to have her put herself to sleep so young 😅 My first is 4 and doesn’t do it on her own yet
+- `sr100-0017` (belief) I figured that I may just be overthinking it 😊
+
+### 1vztho5 | r/daddit | 2026-08-27 | unknown | parent_unspecified | patterns 5 | border: age_unknown
+
+About: Screen-free parents question whether delayed computer exposure harms future skills. Wants: Opinions about when children need computer skills. Already did: Kept family screen-free except parents’ devices; considered educational computer use.
+
+- `sr096-0062` (belief) Okay, so in order to prove that you won't need to learn how to type, I'm typing all of this with my voice with Wispr Flow. No, I'm not promoting it, even though I think it's great!
+- `sr096-0063` (question) Basically, the question is that right now my wife and I are trying to decide when to introduce our kids to technology and screens for their own use, like for playing math games and stuff like that. For sure not entertainment! We don't want to promote entertainment via screens for as long as they are under our roof. We are a proudly screen-free family, except for the devices that the parents use, like our phones and my iPad, upon which I am currently voice typing this, and my work computer, of course.
+- `sr096-0064` (fear) The question is: when our kids start working, how much will they need to know how to use a computer? Will they be handicapped if they don't start using computers early? I really don't think they will be handicapped, honestly, because it really shouldn't take someone more than like two weeks playing around with a computer full-time to learn how to use one. Just the basic functions and basic applications, and then when you get to work, you'll have to learn how to use the software anyway. As long as you know the basic keyboard shortcuts like Control V or Control S, then you should be fine, right?
+- `sr096-0065` (desire) So im posting this here to see what everyone else thinks about this.
+
+### 1w0gmcd | r/beyondthebump | 2026-08-28 | newborn_0_8_weeks | new_mother | patterns 5,6 | border: parent_state
+
+About: Postpartum mother fears baby learning self-harm and feels rejected. Wants: Hide relapse, protect daughter from imitation and express distress. Already did: Sought support; received PPD diagnosis and prescribed medication; exclusively pumping.
+
+- `sr097-0090` (pain) I’m 22 and gave birth a month ago. I have a history of depression, anxiety, PCOS/hormonal issues, and self-harm. I had been clean from self-harm for a year, but I was recently diagnosed with PPD and relapsed into cutting.
+- `sr097-0091` (pain) Motherhood has been nothing like I imagined. Breastfeeding has been really difficult, and my birth was traumatic and didn’t go according to plan. As an autistic person who really needs routine, it was extremely overwhelming.
+- `sr097-0092` (fear) I have support from my boyfriend and mom, but I still feel angry, overwhelmed, and like a terrible person and mother. I always get mad at someone everyday. I got prescribed medication but I am terrified it’ll be in my milk (I exclusively pump).
+- `sr097-0093` (fear) I promised myself I would never self-harm again, especially because I know how it can affect others. I don’t want my baby girl to ever see me hurting myself and think it’s something she should do.
+- `sr097-0094` (pain) I love my daughter so much, but I feel like she hates me.
+- `sr097-0095` (desire) I want to hide it from my bf, I don’t want to break his heart again
+
+### 1w1ji21 | r/NewParents | 2026-08-29 | baby_6_9_months | parent_unspecified | patterns 5 | border: feeding
+
+About: Parent weighs formula, personal freedom, bond and mobile baby's sleep transition. Wants: Switch feeding and sleep arrangements smoothly without harming bond or safety. Already did: Breastfeeding, pumped bottles, co-sleeping; researched gentle sleep-training plan.
+
+- `sr098-0161` (desire) My son is 7 months old and has been exclusively breastfed since birth but has taken pumped breastmilk in a bottle as well. Breastfeeding is honestly going fairly well, I have a good supply and his latch is great and all that. I’ve also really enjoyed breastfeeding so far but am now sort getting tired of it. The only reason I’m thinking of switching to formula is kinda selfish. I want to be able to smoke weed or drink every once in a while and I want his father to be able to feed him sometimes too. I feel very guilty because there’s no physical reason I need to stop or anything.
+- `sr098-0162` (desire) I got pregnant unexpectedly when I was 20, turned 21 while pregnant, and am now 22. I haven’t been able to drink or anything this entire time and I’d like to. I’m not a heavy drinker but I was a decently heavy smoker which both stopped as soon as I found out I was pregnant and I haven’t done either since.   
+I of course also am the only one who can feed him and while he’s a decent sleeper in comparison to other stories I’ve heard, this does cause me to lose sleep because I wake every few hours to feed or comfort nurse him. It would be nice to have my partner feed him too so I could get longer stretches of sleep and such.  
+ Would it be selfish of me to switch to formula so I could do both again?
+- `sr098-0163` (fear) I also have concerns with switching to formula. We’re a low income family and receive WIC benefits. WIC only supplies similac formula. My partner has concerns with using similac due to past recalls but it would be the most cost effective for us. I know hospitals and government assistance wouldn’t give out similac if it wasn’t safe but how do I ease my partner and my fears about the recalls?   
+My son also co-sleeps using safe sleep 7 and has since a couple weeks after birth. I’m wanting to transition him into his crib because he’s a lot more mobile now which makes me nervous. I’ve been doing a lot of research on sleep training and have a pretty solid plan for gently sleep training him. My concern is that switching him from EBF to formula could cause issues with the transition but I know co-sleeping is less safe when not breastfeeding..
+- `sr098-0164` (fear) Will it hurt me and my son’s bond to switch?
+- `sr098-0165` (question) How would you recommend I handle switching to formula and sleep training?
+- `sr098-0166` (question) Is it selfish of me to switch for these reasons?
+- `sr098-0167` (fear) Will my baby be more difficult to comfort?
+- `sr098-0168` (fear) Do you think I’ll regret switching?
+- `sr098-0169` (question) How do I convince my partner that similac is safe so that we aren’t heavily financially burdened by switching to formula?
+- `sr098-0170` (desire) How could I make the process as smooth as possible for both me and my son?
+- `sr098-0171` (question) Should I just stick it out until he no longer needs milk?
+
+### 1w733x9 | r/NewParents | 2026-09-04 | baby_6_9_months | parent_unspecified | patterns 5,8 | border: parent_state
+
+About: Mother regrets missed newborn bonding while baby now crawls and plays independently. Wants: Support grieving missed newborn bonding and advice from other mothers. Already did: Pumped frequently, prioritized chores, used swing; now in therapy.
+
+- `sr102-0058` (belief) Baby is 8.5 months old and a dream! Pregnancy was amazing, delivery was amazing, my (physical) recovery was amazing. She has always been a great sleeper so I can't ever really say I was thaaaaat tired.
+- `sr102-0059` (regret) I switched to mostly pumping around 3 weeks and became like obsessed with the 2-3 hour window for pumping. In typical me fashion, pumping became a competition (with myself) about how much milk I could make and it took my life those first few months. I also definitely had the baby blues and felt detached and just overall sad. My husband was super supportive and took care of baby a lot during those first few weeks.
+- `sr102-0060` (regret) My husband went back to work after 6 weeks and I had an additional 6 weeks home with my daughter. I ignored every piece of advice (even from my own husband!) about leaving the laundry, cleaning, dishes, whatever and to just soak in the newborn bliss. My personality has never allowed me to just "chill" and between being obsessed with random tasks and pumping every 2-3 hours, I feel like I spent so little time bonding with my baby. She loved napping in her swing so we barely contacted napped and I was too anxious to babywear until she was several months old.
+- `sr102-0061` (success_story) She is amazing and such a happy girl. An independent player and an independent sleeper. And she is funny and loves to hang out. Snuggles aren't really a thing, except before bed, because she loves to crawl and roam.
+- `sr102-0062` (pain) But of course my social media algorithm hates me and keeps showing me all of these people "soaking in the newborn bliss" and it looks so sweet and I'm just so sad I didn't do that. Even if I have another baby, it'll never be HER and I will have a toddler running around so I won't be able to chill with just a newborn.
+- `sr102-0063` (regret) I'm so mad at myself for not taking advantage of those moments and I'm so sad I'll never get that chance again. I feel extra guilty because it's not like I had a hard physical recovery or I was overly sleep deprived, it was just my own selfishness. And time just feels insane now because I can't believe how old she is, I feel like it's making me have an existential crisis because wtf is time?!?
+- `sr102-0064` (desire) I'm in therapy but I also would love to hear from fellow moms. Does anyone have any similar experiences or advice?
+
+### 1w8397j | r/beyondthebump | 2026-09-05 | baby_2_4_months | new_mother | patterns 5,6 | border: parent_state
+
+About: Exhausted mother fears absent father will miss baby's formative bonding. Wants: Vent loneliness and concerns about father's long work hours. Already did: Pumped frequently; stopped paid work; attended weekly therapy.
+
+- `sr105-0077` (pain) First off, I had a mostly terrible pregnancy. I had hyperemesis throughout and really bad acid reflux the last trimester. Oh and I also had level 3 pitting edema on the lower half of my body. I worked 40 hours a week up until the day I gave birth, I ended up leaving work early and they induced me 6 days before the due date. On top of all of this, my depression, anxiety and OCD symptoms came back.
+- `sr105-0078` (pain) The birth itself was great, only a second degree tear and we went home the day after he was born. Well he was born 6/5 and we ended up having to go back to the hospital 6/8 because my blood pressures were extremely high (163/114). That was terrible, we were in the ER for 4 hours while they tried time after time to get a catheter in me. They used SIX catheters on me, 3 days pp, with a 2nd degree tear. I was traumatized and have ptsd from it now (diagnosed).
+- `sr105-0079` (pain) My baby’s latch was always super shallow so my nipples would crack and bleed to the point where when is first started pumping (about a week pp) the milk was bright pink and I winced in pain every time the whole time. It’s a lot better now and I let him nurse about once a week just to help my supply. On the topic of pumping, I’m an under producer so I pump every two hours from about 4am to 10pm give or take. This is SO exhausting on me and I’d love to just take a nap sometimes but I can’t because I have to be up to pump for 30 minutes, then by the time that’s said and done I’ve got about an hour and 15 left before my next pump and chances are he’s up and needing to be fed.
+- `sr105-0080` (others_said) Here’s where the alone part comes in. I’ve never had many friends and the friends I did have were coworkers. I no longer work because we both (I emphasize on BOTH) wanted me to be a stay at home mom (I wouldn’t trade that for the world I love spending time with my son!!) throughout pregnancy, I felt alone a lot because as soon as I’d come home, my husband was either hanging out with his friends or working extra hours to prepare for the cut in income we’d have. I would express this to him that I was scared of feeling like a single parent and he assured me that wouldn’t be the case and that he’d only have to work side jobs until he’s about 6months or so. Well that turned into he’ll have to work side jobs for a year. And just last week he told me he’d probably need to work side jobs for 3-4 years minimum.
+- `sr105-0081` (pain) When I say side jobs I mean working on top of the work he already does. He works from 7am to 3pm and then doesn’t really come home until any time between 10pm and 1am. Baby’s typically asleep by 10 and isn’t awake when my husband leaves for work at 6:30am. And really, neither am I. This past week he’s already logged 78 hours and today’s Saturday and he’s working 14 hours. Then it’s right back to it Monday.
+- `sr105-0082` (fear) I get so scared that these are the formative times, my sons already started recognizing my face and reaching for my face and I’m scared that he won’t know his dad or recognize him. I understand that we “need” the money but not as badly as my husband thinks we do. We live well within our means and are renting an apartment right now and I am 100% satisfied with that. My husband wants to have a house within the next couple years and while I think that’s great, I don’t think it’s worth being away this much. Maybe it’s normal but man it’s hard! I know all his friends have codos and all his other married siblings have closed on houses recently so maybe that plays a factor? Idk I’m just so tired and I feel like I never see my husband and when I do, I’m already touched out or irritable or just exhausted. I might add that we haven’t slept in the same bed together pretty much since he’s been born because I sleep out in the living room with my baby (by choice, it helps soothing my anxiety). I’ve also been seeing a therapist weekly which helps but I still feel like this adjustment period is so so hard.
+
+### 1w9m906 | r/NewParents | 2026-09-07 | unknown | parent_unspecified | patterns 1,5,10 | border: age_unknown
+
+About: Parent worries multilingual upbringing might delay toddler's communication. Wants: Experiences with multilingual children's language learning and communication delays. Already did: Used multiple family languages; researched language capacity online.
+
+- `sr105-0115` (belief) We have a trilingual environment where each set of grandparents uses a different language that isn't English. We live in an English speaking country so it's the most prominent language in our toddler's life.
+- `sr105-0116` (others_said) There's a bit of hesitation from one set of grandparents about using their native language (instead of English) because they think it might confuse a toddler who has only just learned to talk. This specific language isn't as important for us to preserve, other than as a way for our kid to communicate with that set of grandparents. The other two we'd like to teach/preserve at a native level. The three languages aren't particularly similar and have very few commonalities.
+- `sr105-0117` (question) Online research suggests that kids usually have capacity to learn an arbitrary amount of languages and slowly learn which one to use in each environment but I thought I'd ask here to see if people have personal anecdotes, how many languages their kids ended up internalising properly and whether that led to any delays in communication. Thanks!
+
+### 1wao12o | r/Parenting | 2026-09-08 | unknown | parent_unspecified | patterns 5,8 | border: age_unknown
+
+About: Removing YouTube improved behaviour, attention and focus. Wants: Others’ experiences removing YouTube. Already did: Stopped child watching YouTube.
+
+- `sr108-0016` (belief) Youtube is the devil and I knew I needed to get my child off of it before school started.
+- `sr108-0017` (success_story) Her behavior has changed for the better and her attention span and focus have improved as well.
+- `sr108-0018` (pain) It was rough for awhile. She was addicted!
+- `sr108-0019` (regret) I wish I had never let her watch, but it seemed harmless at first.
+- `sr108-0020` (belief) Youtube has so much dark content geared toward kids.
+- `sr108-0021` (question) Have you had to take away Youtube and how did it go?
+
+### 1wfbwnn | r/beyondthebump | 2026-09-13 | baby_9_12_months | new_mother | patterns 5,6 | border: parent_state
+
+About: Pneumonia prevents mother caring for baby and triggers guilt. Wants: Reassurance that temporary illness-related separation is not traumatizing baby. Already did: Tried nap and bedtime routines; husband and grandmother provide care; medication.
+
+- `sr109-0110` (desire) I could use some words of encouragement or affirmation regarding the situation I’m in right now.
+- `sr109-0111` (pain) I am the sickest I have ever been in my life. I have pneumonia. I made it worse by trying to work through it and care for my baby through it and now I’m paying for it; I’m bed/couch bound, with a near constant cough, in and out of fever. I’m on meds now, thank goodness.
+- `sr109-0112` (pain) I am my 9 month old’s favorite. I am devastated I cannot be doing more with him. My husband is a wonderful father and my own mom has been staying with us to help him and to help take care of me. But I am absolutely wracked by guilt that I cannot do more with my baby. At first we were both sick—he got better, mine became pneumonia. I can tell he doesn’t understand. He’s crying because he wants mommy. Whenever I try to do his nighttime routine or nap routine my cough keeps him up and I’m so winded from it all that I struggle to carry him.
+- `sr109-0113` (fear) I’m so heartbroken. I feel so guilty and sad and like I’m mentally scarring/traumatizing him. How do I let this go? I feel like a monster and I know that’s illogical but I feel so sad!
+
+### 1wlfx37 | r/Mommit | 2026-09-20 | baby_6_9_months | parent_unspecified | patterns 5 | border: sleep
+
+About: Short naps worry parent because sleep matters for development. Wants: Improve short naps and know whether they will lengthen. Already did: Adjusted wake windows; experimented with schedules; cosleeping.
+
+- `sr115-0110` (question) Should I just accept that my baby will always take 30-minute naps?
+- `sr115-0111` (tried_failed) She’s 6.5 months old (5 adjusted), and for the past two months, her naps have consistently been 30 minutes. I’ve tried adjusting her wake windows and experimenting with different nap schedules, but nothing seems to work.
+- `sr115-0112` (pain) Since she gets so fussy, she needs to take four 30-minute naps each day.
+- `sr115-0113` (fear) Will this improve? I know napping is so important for development. What can I do.
+- `sr115-0114` (desire) I honestly rather get the day naps figured out before the evenings. We co sleep and try and figure it out.
+
+### 1wm095f | r/Mommit | 2026-09-21 | baby_4_6_months | parent_unspecified | patterns 5 | border: parent_state
+
+About: Parent weighs only-child decision and future social skills. Wants: Only-child experiences, regrets, and pros and cons of stopping at one. Already did: Discussed family size; considered infertility, traumatic birth, and sibling age gaps.
+
+- `sr113-0158` (question) My LO is 4.5 months old and I fully understand that this is not a decision my partner and I can rationally make right now. But, I would love to hear from only children and moms that decided to only have one after thinking they wanted multiples.
+- `sr113-0159` (question) For parents: What was the final nail in the coffin that helped you decide to not have another? Does your child seem lonely in anyway? Do you have slight regrets making this choice now that your child is older? What pros have you experienced and what are your cons?
+- `sr113-0160` (question) For only child: what was your experience like growing up? Do you feel like it took you longer to develop the skill of being considerate of others? Do you wish you had siblings?
+- `sr113-0161` (fear) Reason 1 - Upon getting married my husband and I thought we wanted 3, then as the economy changed that moved to 2. Now, we have 1 beautiful little girl who is truly everything I dreamed of after experiencing many years of infertility. We truly are so scared this will happen again and that is so mentally taxing to go through.
+- `sr113-0162` (fear) Reason 2 - My birth was incredibly traumatic, my baby was severely stuck and I had an emergency C-Section after 3 hours of pushing and multiple failed epidurals. Coming out of that birth, my uterus has taken a lot of damage and really I’m not allowed to even start trying for 2/3 years anyway. My husband and I really always wanted to have 2 under 2. We loved the idea of the kids being so close together and just fully experiencing life at the same pace. My sister and I are 4 years apart and this age difference just made us feel very separate. The age difference at minimum will be around 4 years apart.
+- `sr113-0163` (fear) Reason 3 - my current LO is a unicorn baby (knock on wood). I’m so fearful in the newborn trenches of the next baby there would be parts of me that would be unfairly comparing the new baby to my current LO and wishing for the better sleep habits I’d be accustomed to. This behavior just feels not okay and truly not fair.
+- `sr113-0164` (desire) But then I always go back to, my husband and I love being parents. We both feel like we found our purpose and life and just want to love all the babies we can.
+
+### 1wmpk3s | r/beyondthebump | 2026-09-21 | toddler_12_18_months | partner | patterns 5,6 | border: parent_state
+
+About: Father seeks help for wife’s guilt and anxiety about work return. Wants: Help wife manage guilt, return-to-work grief, and fear of affecting baby. Already did: Father handled early feeding and burping; waited for anxiety to improve.
+
+- `sr113-0171` (pain) 14 month first time Dad.  Wife had pretty tough PP mentally, lots of anxiety and uncontrollable outbursts, but we have been trying to tough it out thinking it will get better after 1 year.
+- `sr113-0172` (trigger_moment) But we just experienced the worst of it after learning her work is requiring a full time return to office once she has to go back in 2 month.
+- `sr113-0173` (pain) She feels like she will only be able to see the baby during bedtime. And her time is running out yet shes failed at her time in mat leave. It is retriggering every single episode since the start of PP.
+- `sr113-0174` (regret) In the other popular thread about pp anxiety worries, most people can laugh it off in hindsight, but in her mind each one of them is another instance of how she failed her baby.  Why she was so scared of holding an infant, why she didn't sleep more instead of monitoring the baby, why she was scared to go outside with the baby, why she couldn't try harder at latching. ( I did most of the feeding and burping during the first couple months due to these issues which she regrets and feels jealousy)
+- `sr113-0175` (question) Has anyone else who was already an anxious person dealt with the overwhelming guilt and grief of return back to work and thinking you just failed at the most important and most bonding time you get to have with your baby. How do you cope with that?
+- `sr113-0176` (fear) When she's better she knows logically none of that is true. But her nerves just takes over and it's beginning to turn into a vicious cycle now she thinks her outbursts is starting to affect the baby emotionally. Which causes more guilt and more regrets. (These usually get triggered when some thing makes her feel the baby prefers me or she isnt needed)
+- `sr113-0177` (pain) Please help, it was so sad to hear her talk about how almost every single normal action in pp as a failure and regret in her mind. I can understand how painful to feel the most precious time of our lives is full of regrets. Yet I can't help emotionally at all because I haven't experienced the same. Losing hope as I feel work will just bring on more added stress
+
+### 1wra5kf | r/toddlers | 2026-09-27 | unknown | parent_unspecified | patterns 5 | border: age_unknown
+
+About: Parents seek substitute swear words as toddler starts speaking. Wants: Satisfying acceptable substitutes for swear words. Already did: Trying to stop swearing around child.
+
+- `sr116-0062` (fear) We curse a lot in this house, but since our kiddo is starting to speak, it’s time to put the four letter words in storage for a while. My husband and I are fighting for our lives over here to not send a cussing-like-a-sailor toddler to daycare.
+- `sr116-0063` (question) What are your best socially-acceptable swears and insults that are still satisfying? The more creative, the better.
+
+### 1wrxoqf | r/beyondthebump | 2026-09-27 | newborn_0_8_weeks | parent_unspecified | patterns 5,7 | border: feeding
+
+About: Mother fears temporary breastfeeding break will erase newborn's nursing ability. Wants: Know whether baby will forget sucking or reject breast after temporary break. Already did: Pumps; grandmother cares for baby; masks and handwashing; occasional bottles.
+
+- `sr117-0088` (fear) I am sick and have now a cold sore, last time was 3 days ago. I pump, and my mom takes care of my month old LO. I avoid my LO, wear a mask around and wash my hands, but I am so scared she might get my cold sore, that I would rather stop bf for now.
+- `sr117-0089` (fear) I was EBF w the occasional night bottle w pumped milk/formula, but now I am worried she might just forget how to suck on my boob :/ what are the chances she rejets my boob in a week?
+
+### 1wtkb1e | r/beyondthebump | 2026-09-29 | unknown | new_mother | patterns 5 | border: parent_state
+
+About: Mother in ER for postpartum depression fears baby will forget her. Wants: Help getting better and reassurance that seeking care has not ruined everything. Already did: Expressed distress; went to ER for psychiatric evaluation; in-laws caring for baby.
+
+- `sr117-0116` (desire) Well. I have PPD. I had a complete breakdown last night that has resulted me in currently sitting in the ER, waiting to be evaluated by a psychiatrist. I want to get help and be a good mom to my baby. I know he needs me to get better.
+- `sr117-0117` (pain) But I’m so embarrassed and ashamed now. My family knowing about my problems is one thing, but now my in-laws know. I’m also very angry with my husband for how he handled this, and I said some things I regret and shouldn’t have said. I know that me being this unstable is putting a heavy burden on our family and friends, who now have to step up and care for my baby. I’m so ashamed and feel guilty and broken.
+- `sr117-0118` (fear) I worry that my baby will forget me while he’s staying with my in-laws. I’m worried nothing will ever be good again.
+- `sr117-0119` (pain) Did I mess everything up by expressing what was going on with me? Is everything ruined forever? I wanted so bad to be the woman who could handle this. It’s embarrassing that I can’t. And now everyone knows how weak I am.
+
+### 1wuoc14 | r/Mommit | 2026-10-01 | baby_4_6_months | new_mother | patterns 5 | border: parent_state
+
+About: Parents debate how medication language may shape baby's future understanding. Wants: Normalize mental health treatment and agree language with husband. Already did: Takes medication and sings about nice mommy pills around baby.
+
+- `sr120-0100` (belief) I have bipolar disorder, anxiety, OCD, ADHD, and PPD/PPA and I take a whole host of medications to deal with it. I'm very open about it with my family and friends since I'm proud of myself to taking the leap and getting the help I need after years of denying myself care. I even "talk" to my five month old baby about it by singing a little song and calling my medicine "nice mommy pills" when I have to take medicine around him. He obviously doesn't get the complexities of mania and depression or compulsions, but kids understand "not nice" as they get older so it made sense that the pills that regulate my mental illnesses are called nice pills.
+- `sr120-0101` (desire) The way I see it, I want to normalize needing medication since, frankly, my baby is predisposed to a lot of the conditions that I have. I don't want him to go through the years of feeling like a monster for needing the help.
+- `sr120-0102` (others_said) On the other hand, my husband worries that calling them nice mommy pills will make our baby afraid of me if I DON'T take the pills in front of him, or even make him feel like he needs medication to be nice as he gets older. His family is very much not comfortable talking about mental health and while my husband is happy to talk about my own mental state he still is in denial about himself and has struggled to be open about it. He doesn't make me feel bad about it but he beats himself up a lot, if that makes sense.
+- `sr120-0103` (question) I'm kind of torn, both seeing where he comes from but also wanting my baby to know these things are normal. I'm curious if anyone else has had a conversation like this with their spouse and what your conclusion was, or how I can meet in the middle with my husband
+
+### 1wz5dcg | r/Mommit | 2026-10-06 | looking_back | relative_caregiver | patterns 5,12,10 | border: age_unknown
+
+About: Grandmother reassures mothers about nurturing children and parenting guilt. Wants: Offer support and confidence to struggling mothers. Already did: Raised two children; helped with three grandchildren.
+
+- `sr125-0040` (advice_given) 86 year old Grandma here.  I wanted to reach out to you all because I feel your pain, fatigue, guilt and frustration.  I had two kids two years apart, one of whom was ADHD before anyone had identified it. ( the explanation was that you didn't know how to parent.) I also helped out a lot with 3 grandchildren. That's how I know you can do this.
+- `sr125-0041` (advice_given) First of all, I hear you.  You are good moms.  A lot of your pain and frustration are because you're afraid you aren't doing it right.   What you are doing may need a little tweaking, but you are going to figure that out. And I'm glad you have this group to help with that.
+- `sr125-0042` (belief) You are taking tiny humans who are totally undeveloped and nurturing them through becoming older humans who can feed themselves, dress themselves, and grow up. That's one of the hardest jobs on the planet.
+- `sr125-0043` (advice_given) I love you for taking this on.  You've got this.
+
+### 1x1zhws | r/NewParents | 2026-10-09 | newborn_0_8_weeks | parent_unspecified | patterns 5 | border: logistics
+
+About: Worry early childcare dropoffs harm baby sleep rhythms. Wants: Know whether repeated early waking for childcare harms future sleep rhythms. Already did: Planned parental and grandmother childcare; compared transport options; exploring work alternatives.
+
+- `sr123-0129` (pain) Hello! My baby girl is 5 weeks old and I will sadly be returning to work from my maternity leave in roughly 3 weeks. I am heartbroken thinking of leaving her, but starting the mental preparation. My husband gets more leave than I do so he will then watch her solo during the day for another few weeks. After that, my mom has extremely kindly offered to watch her during the day when my husband and I both have to work (about 3-4 days a week). This will start when she is about 3 months old.
+- `sr123-0130` (belief) I have to get up extremely early for my job due to a 6am start time and some parking issues at my company. In order to get my daughter over to my mom’s in time, I estimate that I will need to leave the house with her to drop her off by probably no later than 4:15am. So I’d probably wake her to change her and feed her around 3:45am or so before leaving for the day.
+- `sr123-0131` (belief) My husband also starts work at 6am and does leave later than I do. He would probably need to leave with her by 5am with her / wake her by 4:30am. However, he drives a work vehicle so we think unfortunately it is going to be easier for us if I drive her over there. My mom did say she would be willing to pick her up in the mornings, however she is only willing to watch her at her house so she would need to be woken up to go there regardless.
+- `sr123-0132` (fear) I guess my question is - is waking her at 3:45am or similar several times a week going to cause problems for her later down the line for her sleep schedule or mess up her circadian rhythm somehow? Currently she is waking up about that time anyway to feed but of course she’s still a newborn. I don’t want her schedule to be crazy once she is supposed to be able to sleep through the night.
+- `sr123-0133` (desire) I don’t mind getting up with her at that time every day even on my days off for consistency purposes. Just don’t want it to cause harm in the long run for her! I am looking into other options at work to pursue as well, but if none of those work out I just want to know how bad it will be. Thanks in advance
+
+### 1x2pein | r/NewParents | 2026-10-10 | baby_6_9_months | new_mother | patterns 5 | border: sleep
+
+About: Sleep setbacks on holiday and guilt over routines. Wants: Encouragement and advice for improving sleep safely. Already did: Sleep training, cosleeping, nursing to sleep, mattresses on floor.
+
+- `sr126-0003` (desire) Hoping to get some encouragement from this kind community that my baby’s sleep still has a chance to get better.
+- `sr126-0004` (fear) FTM to a beautiful 6 month old boy. He’s wonderful but his sleep has been… up and down. He was sleep trained at around 4.5 months and it went well for a few weeks before I started to “backslide” into co-sleeping, nursing to sleep, etc. However, he did still have some nights he could go to sleep independently. I am scared even that is screwed up now due to the below.
+- `sr126-0005` (pain) I’m currently with my son on a trip to Portugal (we’re from Canada) and I am so scared about how his sleep will be when we get back. I haven’t been good about following his usual bedtime routine while on vacation (we’re staying in a studio apartment) and it brings me great shame. He will not sleep in the travel crib provided by the apartment, so we have been nursing to sleep and sleeping side by side as I pulled both my bed mattress and the travel crib mattress on the floor.
+- `sr126-0006` (desire) I guess I’m looking for stories of people who had bad or meh sleepers and co slept or nursed to sleep, etc. whose babies got to be better sleepers with time (whether due to sleep training, better routines, age, etc.). I have bad anxiety and the lack of good sleep is bringing on some PPA.
+- `sr126-0007` (question) Hi! Thank you for your reply :) what kind of sleep training did you do and what is your baby’s current schedule? I definitely intend to sleep train him when I get back as he is becoming increasingly mobile and i want to stop cosleeping asap. Any advice you have from your sleep training journey is much appreciated!
+
+### 1x5p1vk | r/beyondthebump | 2026-10-14 | baby_9_12_months | parent_unspecified | patterns 5,4 | border: sleep
+
+About: Fear pacifier removal will undo baby’s self-soothing ability. Wants: Wean pacifier without losing independent settling. Already did: Gentle Ferber-style training; gives pacifier at bedtime.
+
+- `sr130-0052` (success_story) Our baby (nearly 10 months) is a great sleeper. He didn't use to be, but around 7 months we did some gentle Ferber style sleep training and something clicked. He now goes to sleep without any fuss and is also generally able to link sleep cycles and self soothe back to sleep when he wakes in the night.
+- `sr130-0053` (belief) The problem is that his pacifier is a key element of this. We put him in his bed, hand him his pacifier, he puts it in his mouth, rolls over and goes to sleep. That's the routine. He actively enjoys going to bed and gets excited for his paci. At night he's usually able to find the pacifier in his bed and put it back in. We are so grateful for the fact he sleeps well, it feels like a total superpower when we hear horror stories from other parents.
+- `sr130-0054` (fear) That said, we're now coming up to the point where the guidance is to wean off the pacifier. I'm willing to put up with a few nights bad sleep going cold turkey, but I'm petrified that this will be the end of our baby's ability to self soothe and that bedtimes and night time waking will be much worse without the paci. Does anyone have any advice or experience of this? Do we replace the paci with another type of soother (a cuddly?)? It feels kind of brutal to take the paci and not provide a replacement, but I also don't want him to get dependent on comfort from us to fall asleep, which would undo all the work we put in to get to this point.
+
+### 1x6wlfw | r/ScienceBasedParenting | 2026-10-15 | unknown | parent_unspecified | patterns 5 | border: age_unknown
+
+About: Asking whether dual-language upbringing helps or delays English speech. Wants: Know effects of bilingual home on speech. Already did: nothing stated.
+
+- `sr129-0113` (question) Does raising babies/ toddlers in dual language household help or delay their speaking in the main language of English?
+
+### 1x8zzhq | r/NewParents | 2026-10-18 | baby_2_4_months | parent_unspecified | patterns 5,2 | border: parent_state
+
+About: Parent sacrifices sleep for phone use after screen-free baby care. Wants: Balance personal screen time with enough sleep. Already did: Deleted apps; avoids phone around baby; contact naps; uses visiting mother’s help.
+
+- `sr130-0106` (desire) tldr; i want advice on how to give myself screen time to wind down BUT not have it cut into my sleep time at night.
+- `sr130-0107` (pain) i am the primary caretaker of our first child (4 months), and i am also alone with him basically all day. i have no family near me and my husband's family is a combination of unwilling, unreliable, and unwelcome. my husband's day routine starts at 7:00AM and ends around 5:30PM, our child is up from 6:00AM to roughly 6:15PM-6:30PM, so again it's basically just me.
+- `sr130-0108` (fear) we don't want our baby to use screens and i don't want to use my phone around him unless absolutely necessary, it is nothing against the parents who do, this is actually fully based on the adults around him. my husband has trouble controlling his screen time and struggles with anxious habits, i also used to struggle heavily with screen time before deleting many apps that i realized were making it worse, and we don't want the screen coping habit to pass onto the little one (or at the very least, we don't want it to be learned from us).
+- `sr130-0109` (pain) that being said, i love my baby. i love playing with him, feeding him, even when he cries and needs comforting, i love comforting him. on the same token i am tired, more mentally than physically. i tell people my baby is allergic to naps, because ever since he turned 3 months, i'm lucky if i can get two, 1 hour naps in per day and most of the time i have to hold him to keep him asleep that long. if i put him in the bassinet to nap i'm lucky if he reaches 45 minutes some days. some days he only takes 1 nap, and every blue moon, 2 really, really shitty 20 minute naps. so i often don't have time during the day because i use these naps to either take a nap myself, eat, or do laundry.
+- `sr130-0110` (question) i want to know how other parents use their phones when their child is asleep but manage not to wreck their sleep schedule, or get advice from those who have figured out how to balance it. i'm writing this post at 3:25AM, my baby is asleep and so is my husband, but i have not slept. right now my mom is visiting so i'm technically on vacation and she helps so much, so i can afford to stay up late and take a nap during the day if needed. she'll be leaving soon, however, and once she does i know i have to get this problem under control, not even just for my mental health but for my baby's wellbeing, a super tired adult or a very sleep deprived one is not safe to be caring for a baby all by herself during the day.
+- `sr130-0111` (desire) this is not an insomnia problem either, i am fully capable of sleeping if i put the phone down, but i so desperately want time to myself where i don't have to talk to anyone and can play games or watch silly little memes without worrying about jeopardizing my child's safety, ignoring his needs, using my phone around him, or ignoring my husband while he's home. i don't know what to do. how do others do it? how do you balance giving yourself some alone time but not dipping into very much needed rest and sleep?
+
+### 1xc274t | r/beyondthebump | 2026-10-21 | newborn_0_8_weeks | new_mother | patterns 5,10 | border: sleep
+
+About: Conflicting newborn sleep advice raises attachment and development fears. Wants: Balanced sleep approach allowing closeness, independence, outings and travel. Already did: Read conflicting newborn sleep advice.
+
+- `sr134-0054` (pain) FTM here and feeling totally overwhelmed by all the conflicting info I’m getting on newborn sleep. It seems like there are two camps.
+- `sr134-0055` (others_said) One seems to prioritize parents independence; white noise, blackout curtains, don’t let them fall asleep in your arms, bedtime routines, and more rigid training/schedules when they’re old enough.
+- `sr134-0056` (others_said) Then there‘s the approach that seems to prioritize a baby’s need for closeness to their parent. Babywearing, contact naps, and on the more controversial end, bed sharing. Don’t even think about sleep training!
+- `sr134-0057` (fear) The first camp is telling me if I don’t do these things my baby will never learn to sleep independently, and I do want that eventually. But the latter camp is telling me that my baby being close to me is necessary for their nervous system to develop and for them to form healthy attachments. And I really want that for him.
+- `sr134-0058` (objection) The one thing they have in common is they all want me to buy their online course!🙄
+- `sr134-0059` (desire) I don’t want my baby to always need to be in a pitch black room with white noise to be able to sleep. I’m not a homebody and we like to travel so we don’t want to be too rigid. Letting him nap in a wrap or carrier while I go out sounds awesome. But I want him to get good sleep and be able to sleep independently. Is there some sort of middle ground here? Had anyone had success with sort of a balance?
+
+### 1xe4gaf | r/Parenting | 2026-10-24 | unknown | parent_unspecified | patterns 5 | border: age_unknown
+
+About: Parent distrusts caregivers while acknowledging overprotection may harm development.. Wants: Know whether trusting only close relatives with children is normal. Already did: Limits trusted caregivers to wife and close family.
+
+- `sr133-0107` (fear) I don’t know how else to phrase this, but is it normal that I don’t really trust my kids to anyone, aside from my wife, my parents, siblings and in-laws? Even my closest friends, who haven’t really don anything wrong, I wouldn’t trust them to take care of my kids. Maybe I’m just a very distrustful person, but there are a lot of creeps out there and the more you see on the news, the more worried I become.
+- `sr133-0108` (belief) And I’m not necessarily talking about competence to take care of kids (some of my siblings would spoil them too much) but trusting that they would be genuinely safe and knowing that they would give their lives for my children.
+- `sr133-0109` (belief) And of course, i have no real control over school and day care staff, but that’s just how things are. Also being overprotective can be bad for development. I get that. It’s just my feelings I’m trying to voice here.
+- `sr133-0110` (desire) It’s hard to explain, but when I’m not with them, I’m only at peace of mind when only those people I mention above are taking care of them.
