@@ -1,0 +1,28 @@
+POST 1wuf7jf | r/Mommit | 2026-09-30 20:01 UTC | https://www.reddit.com/r/Mommit/comments/1wuf7jf/
+TITLE: I made a free, offline "first computer" app for kids aged 5–7 (mouse, keyboard, staying safe). Looking for honest feedback
+
+I built Keybo for my own kid and then cleaned it up to share. It teaches the mouse, the keyboard, first typing and basic online safety through short playful levels with a friendly mascot.
+
+* Free and open source (Apache 2.0). No accounts, no ads, no tracking.
+* Works fully offline. Everything stays on your computer.
+* English, German and Spanish.
+* A PIN-protected parent area: progress in plain language, daily play limits, up to 6 children, printable certificates, backup and restore.
+* Mistakes are never punished. A wrong answer just gets a friendly hint.
+* Windows, Mac (Apple silicon and Intel) and Linux.
+
+**About the download warning.** It's a small project and the apps aren't code-signed yet (that's planned), so Windows and macOS will warn you the first time. That happens with any unsigned app. You can check the file yourself:
+
+* compare the SHA-256 checksum from `SHA256SUMS.txt` on the release page,
+* run `gh attestation verify` for the signed build proof,
+* or read and build the source yourself.
+
+There's a short "why it warns you" section in the README with the exact steps.
+
+**Privacy in one paragraph.** Nothing leaves the computer by default. Two optional things exist: a *Check for updates* button that only runs when you press it, and an online helper for fresh practice words that is off unless a parent sets it up with their own key. It never receives the child's name or anything they typed.
+
+It's an early version (0.x), so I'd really like to hear what breaks, what's confusing for a 5-year-old, and what's missing. If something doesn't work, the parent area has a **Copy diagnostics** button (Data tab) that shows what it would share. It has no child data. You can paste it into an issue.
+
+Download and source: [https://github.com/ggulati2/my-first-computer](https://github.com/ggulati2/my-first-computer)  
+Questions and ideas: [https://github.com/ggulati2/my-first-computer/discussions](https://github.com/ggulati2/my-first-computer/discussions)
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---

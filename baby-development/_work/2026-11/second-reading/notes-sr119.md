@@ -1,0 +1,11 @@
+# Reader 119 — second reading
+
+Read all **150** assigned files whole, including saved author replies: **19 yes, 45 near, 86 no**. Pulled **92 quotes from 33 posts**: all 19 yes posts and 14 near posts with a developmental or skill link. Nothing in this share remains unread. Unfetched replies were unavailable, not silently skipped.
+
+Among yes posts, normality/milestone concerns appeared in **7**; activities, stage-appropriate purchases to consider, and guilt about parental choices in **4 each**; difficult behaviour and delight in **3 each**; parental preference and feeding skills in **2 each**. Nursery adjustment and interference appeared in **1 each**, the same post. No yes post showed potty learning or known delay/therapy. Patterns overlap; these count sampled posts, not quotes or people. The share belongs to the supplied random sample, not a keyword selection; counts do not establish market prevalence.
+
+Reassurance and practical help often came together: is sitting or social response normal, how can I occupy the baby, how do I handle crying or rejection? Guilt concerned health-limited outings, work, insufficient play and nursery criticism. Positive surprises included an intentional smile, counting objects and humorous baby reactions during messy care. Gear questions often followed a new ability or a need for durable materials. **No retained author explicitly stated a purchase/payment for the issue**; named products or services alone did not prove spending.
+
+Near reasons: **10 age_unknown, 10 feeding, 7 age_over_24, 6 sleep, 5 parent_state, 4 logistics, 3 other**. Difficult boundaries were nutrition versus feeding competence, sleep alone versus milestone-related sleep, and parental distress versus the child’s day. Mixed-age sibling cases retain the baby’s explicit mobility/play/care, with the older-child focus noted. Unspecified two-year-olds remain near. General bilingual advice has no established own child; its research claims are unverified author assertions. The carrier account’s potentially promotional provenance is unconfirmed and labelled.
+
+An inline script passed completeness, unique sequential IDs, source-path/metadata, quote-count, field and word-limit checks. All **92 quote parts** match their raw files verbatim. No network, git or other agents were used.
