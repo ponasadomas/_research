@@ -2,7 +2,8 @@
 """Build the post files and reader shares for one block of a sample, from cached replies.
   python3 -I _tools/make_block.py <dir> <block number, from 0> <posts per share> <shares per block> <seed> [without-replies-ok]
   (run from ~/GitHub/_research, after fetch_replies.py has reached this block)
-A block is the next <posts per share> x <shares per block> rows of <dir>/sample.tsv. Its posts
+A block is the next <posts per share> x <shares per block> rows of <dir>/sample.tsv, taken in
+shuffled order (see order.txt below), so a run that stops early has read a fair sample. Its posts
 are dealt at random (seeded) to its readers, numbered on from the blocks before it.
 With without-replies-ok, a post whose replies are not fetched yet gets a post file without
 them (listed in <dir>/posts-without-replies.txt) instead of holding the block up.
@@ -11,6 +12,13 @@ import datetime, json, math, os, random, sys
 out, b, per, k, seed = sys.argv[1].rstrip("/"), int(sys.argv[2]), int(sys.argv[3]), int(sys.argv[4]), int(sys.argv[5])
 RAW = "new-and-expecting-mothers/reddit/raw/reddit-2026"
 rows = [l.split("\t") for l in open(f"{out}/sample.tsv").read().split("\n")[1:] if l.strip()]
+# sample.tsv is in date order. Blocks are cut from a shuffled order, so that a run which
+# stops early has still read a fair sample. <dir>/order.txt holds how many leading rows
+# keep the sample's order (0 for a new reading; more only where shares were already dealt
+# by date before this was fixed, 2026-11-20).
+of = f"{out}/order.txt"
+if not os.path.exists(of): open(of, "w").write("0\n")
+keep = int(open(of).read().split()[0]); rest = rows[keep:]; random.Random(seed).shuffle(rest); rows = rows[:keep] + rest
 block = rows[b * per * k:(b + 1) * per * k]
 if not block: sys.exit(3)
 n = math.ceil(len(block) / per); names = [f"{out}/reader-{b * k + i + 1:03d}.tsv" for i in range(n)]

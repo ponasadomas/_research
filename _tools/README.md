@@ -58,7 +58,7 @@ About 12% of the posts were on the niche, so 20,000 posts gave 2,471 on-niche po
 
 | What happened | Do instead |
 |---|---|
-| `make_block.py` dealt shares in date order; the stopped third reading had read only 1 to 9 April and could not be used for counts | Fix `make_block.py` to deal the sample in shuffled order before any reading that may stop early |
+| `make_block.py` dealt shares in date order; the stopped third reading had read only 1 to 9 April and could not be used for counts | Fixed 2026-11-20: blocks are cut from a shuffled order. `<dir>/order.txt` says how many leading rows were already dealt by date (third reading: 4,500); everything read after them is a fair sample of the rest |
 | The digest checker read only the first line of a quote; it rejected 14 good digests and each was redone | Test every checker on real output of the step before it, including a quote that runs over lines |
 | A 2,500-word limit made section writers clip quotes to fragments | Give a limit per finding, not per page; or widen afterwards with `expand_clipped_quotes.py` |
 | The combined brief first made "near" cover two thirds of all posts | Try a new brief on 150 posts before the main reading (step 6 does this) |
