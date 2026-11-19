@@ -1,0 +1,11 @@
+# Reader 003 — third reading
+
+Read all **150** assigned files whole, including saved author replies: **18 yes, 46 near, 86 no**. Nothing remains unread or unavailable at file level. This is one share of the supplied random sample; its post dates are April 1–2, 2026. Replies not fetched into the supplied files were unavailable. Cut **224 quotes from 37 posts**: every yes post and all 19 near posts with developmental ties. These are counts of posts, not people or prevalence among parents.
+
+Among yes posts, normality/possible problems recurred most (pattern 1: **6** posts). Hard behaviour and concern about parents' choices each appeared in **4**, choosing things in **3**, and eating/drinking skills in **2**. One post concerned torticollis, resistant stretching and motor delay. Counts overlap. Boundaries, rough treatment of a dog, bath distress, independent play and screens made daily care concrete. Walking, speech and solids brought social comparison.
+
+Sleep accounted for **17** near posts. Other borders: age unknown **11**, logistics **4**, parent state **4**, possible age over 24 months **4**, feeding **3**, other **3**. Twenty-five near posts fit pattern 0. Pure waking/timing, nutrition, pregnancy, parental health, relationships and clearly older children accounted for many no marks.
+
+I was surprised by practical links: rolling interrupts sleep, sitting changes hair washing, walking determines daycare eligibility, and grabbing creates sibling toy disputes. Explicit purchases/payment appeared in **4** posts: monitor, daycare, older television/player plus DVDs, and ball pit. Using equipment or therapy alone did not establish payment.
+
+Uncertainties are noted per post. Mixed-age cases include 1s9jh5l, 1s9scty, 1s9tjm0, 1sa1uak, 1sa656f and 1sa858i. In 1s9scty and 1sa858i the explicit regression/developmental wording concerns the older sibling. “Two years old” without months stays near; “one year old” establishes eligibility but not precise stage. The birthday “milestone” in 1s9cp77 was ceremonial. Sleep self-settling, communication and routine details required the most judgment. Distress, anger, guilt and fear were retained when quoting was required; exclusions followed age and subject.

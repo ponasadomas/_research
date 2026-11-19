@@ -1,0 +1,11 @@
+# Reader 006 — third reading, 2026-11-19
+
+Read all 150 assigned files, including every supplied author reply, in share order. This is one share of the supplied random sample, not a keyword selection; its posts are dated 2–3 April 2026. Marks: **17 yes, 47 near, 86 no**. Extracted **171 quotes from 35 posts**: all 17 yes posts and the 18 near posts with developmental or skill links. Nothing remains unread. Counts describe posts in this share, not people or market prevalence.
+
+Among the 17 yes posts, five showed concern about whether abilities or behaviour were normal (pattern 1), and five showed worry about parenting choices (5). Four concerned activities or time together (2); three each concerned equipment or purchases (4), eating/drinking skills (7), and difficulties or therapy (12). Tags overlap. Screens, talking too little, signing, rolling frustration and repetitive movement recurred. The three therapy posts concerned clenched fists, prematurity with delayed milestones, and physiotherapy alongside reassuring assessments.
+
+What surprised me was how reassurance and fear coexisted: parents reported strengths and reassuring examinations while still expecting warning signs. Advanced development did not make bedtime easier; first steps brought grief when work meant missing them. Practical responses ranged from household play materials and library visits to cups, carriers and therapy. Item use was not automatically treated as payment. Sensitive distress and disability fears remain in the required quotes.
+
+Near borders: 20 age_unknown, four age_over_24, six parent_state, five feeding, five sleep, three logistics, four other. Uncertainties were exact age, food preference versus feeding skill, and sleep trouble versus explicit regression. Unknown-age reading/play posts may concern older children. “Two years old” stayed near; clearly older children stayed no. News post 1sasoql has a newborn-attachment link but is second-hand/partly AI summarised. Post 1sbe5c2 establishes neither professional nor caregiver status; 1saqh06 gives hypothetical sibling-bonding advice.
+
+Checks: one ledger row per assigned post; unique sequential quote ids; every quote part verified verbatim in its stated source; quote counts reconciled. No network, git, delegation, or writes outside the three assigned files.
