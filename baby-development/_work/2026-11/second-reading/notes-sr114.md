@@ -1,0 +1,13 @@
+# Reader 114 — second reading
+
+Read all 150 assigned post files in order, including every saved author reply; none remain unread. These posts are one share of the random sample of text posts from twelve parenting subreddits, April–October 2026; this share runs September 15–23. No keyword selected this share. Results: **15 yes, 39 near, 96 no**. Extracted **104 quotes from 32 posts**: 51 quotes from all 15 yes posts, and 53 from the 17 near posts with an explicit developmental connection. The other 22 near posts receive ledger rows without quotes.
+
+Among yes posts, normality or milestone concerns appeared in 5 posts (pattern 1), hard behaviour in 4 (3), delight in 3 (8), preference in 2 (6), daycare as a place to grow in 2 (9), and activities, purchases, and eating skills in 1 each (2, 4, 7). Patterns overlap. Across yes and near together, counts were: 0=19, 1=9, 2=7, 3=8, 4=5, 5=4, 6=3, 7=1, 8=3, 9=4, 10=1; none showed 11 or 12. These count sampled posts, not people or market prevalence.
+
+Normality questions concerned inconsistent communication, constant movement, head slapping, tongue movements, and spoon use. Behaviour posts described laughter at discipline, hitting a dog, destructive exploration, and throwing food. Preference could hurt despite intensive caregiving, while daycare transitions mixed parent heartbreak with hopes for learning and other children. Two brief humorous posts concerned smiling during diaper changes and emptying a laundry basket.
+
+Twelve near posts were mainly about sleep. Rolling, reflex maturation, circadian development, self-settling, and named regressions connected sleep worries to development. Long crying and feeding accounts often contained several attempted fixes; an explicitly bought colic bottle differed from remedies merely planned or added to a cart. One toy post supplied a $90 sale price without identifying the item in the saved text.
+
+Uncertainties: seven near posts use age_unknown, and two use age_over_24 because “two” gives no months. In 1wmxdak the younger child's age is contradictory (“1 year old (24 months)”); stage remains unknown and sleep is the border. Nursery spoon feedback was not treated as an established delay or therapy. Incidental play, resistance, or future learning within other subjects was kept near; pure illness, feeding amounts without those subjects, relationship posts, and clearly older children's concerns were no. Some files explicitly lack fetched author replies; only the archived text was available.
+
+Validation: every assigned ID has exactly one ledger row, quote IDs are unique, and every quote segment occurs verbatim in its stated raw file. No network, git, or other agents were used.

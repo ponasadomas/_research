@@ -1,0 +1,38 @@
+POST 1wcvmo6 | r/daddit | 2026-09-10 20:57 UTC | https://www.reddit.com/r/daddit/comments/1wcvmo6/
+TITLE: Built a free, zero-install Web Bluetooth arcade that turns idle Dash robots into Chromebook STEM reward stations
+
+Hi everyone,
+
+If you have Wonder Workshop Dash robots in your classroom, school makerspace, or at home, you've probably seen this pattern: kids love the initial block-coding mazes for a couple of weeks, and then the $150 robot ends up sitting on a shelf collecting dust.
+
+I built a 100% free, zero-backend web tool to give these idle robots a second life as physical arcade gaming controllers:
+
+🎮 Dash Robot Web Arcade connects Dash directly to Google Chrome via the Web Bluetooth API and turns it into a handheld steering wheel, flight stick, balance board, and rhythm pad.
+
+Why It Works Well for Classrooms & Homeschooling:  
+1. Zero Installs & Zero District IT Blockers:  
+   Runs completely client-side in Google Chrome or Microsoft Edge on school Chromebooks, Macs, and PCs. No app store downloads, no extensions, and no admin privileges required.
+
+2. Hardware Motor-Lock Safety (Desk & Couch Safe):  
+   A major concern with using robots in games is having them drive off desks. In code, Dash's wheel drive motors are continuously locked stationary. Students hold Dash safely in their hands like a Nintendo-style steering wheel—it will never roll off tables or bump into chairs.
+
+3. Built-in 60-Second Rotation & Tournament Mode:  
+   Designed specifically for 2-student partner stations, indoor recess, or siblings at home. Each round lasts 60 seconds, followed by a victory chime and an automatic podium leaderboard prompting players to hand Dash to their partner.
+
+4. Hands-On Sensor Physics & Computing:  
+   A fantastic tactile demonstration of how hardware sensors actually work:  
+   • Tilt (IMU Accelerometer): Roll controls steering and altitude; Pitch controls throttle and braking.  
+   • Proximity IR Sensors: Waving hands over Dash's eyes triggers EMP blasts, submarine sonars, and horns.  
+   • Head Buttons: Used for nitro boosts, laser triggers, and rhythm pad lanes.
+
+5. 100% Free, Private & COPPA-Compliant:  
+   Zero logins, zero accounts, zero ads, and zero student data collected.
+
+What's Included:  
+There are 9 retro canvas mini-games ready to play: Dash Kart GP, Space Cadet, Marble Labyrinth, DJ Dash, DashWare, Pinball Blitz, Alien Heist, Abyssal Sub, and Wrecking Ball. Includes a 1-click "TV Mode" button for interactive whiteboards (Smart Board) or living room TVs.
+
+I've made the web app completely free to use. I hope it helps your students and kids get a lot more mileage out of their robots!
+
+(Direct link in the first comment below)
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
