@@ -21,7 +21,7 @@ How it was run, step by step: `../_tools/README.md`.
 | Random sample of 20,000 posts read and sorted | Done: 2,471 on the niche, 5,534 near, 11,995 off. `evidence/2026-11/second-reading/counts.md` |
 | Digests of each pattern | Done: 20, in `evidence/2026-11/second-reading/` |
 | Findings sections, one per pattern | Done, not reviewed: `findings/2026-11/patterns/` |
-| Findings page and her words | Not written |
+| Findings page and her words | Written 2026-11-20, not reviewed: `findings/what-hurts-and-what-she-wants.md` (163 findings), `her-words.md` (247 phrases). The spec files the page was built from: `_work/2026-11/findings-build/` |
 | Avatar | Not written |
 | Still unread | 97,521 posts (10 April to 24 October), and all replies by people other than the poster (4.19 million downloaded, on disk only) |
 
