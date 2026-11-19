@@ -4036,3 +4036,1341 @@ PY" in /home/thinkpad/GitHub/_research
  succeeded in 0ms:
 115 16 missing [14, 29, 78]
 
+codex
+All 272 posts are read. I’ve sorted them into 18 yes forms and 16 near forms, and I’m checking the four tags and selecting quotations. The near-post digest will also account for posts mainly about other subjects, including pregnancy decisions and anger at a dog.
+exec
+/usr/bin/zsh -lc "python - <<'PY'
+from pathlib import Path
+import re
+s=Path('baby-development/_work/2026-11/digests/share-15.md').read_text()
+y,n=s.split('## Near posts tied to development:')
+for label,part in [('yes',y),('near',n)]:
+ posts=re.split(r'(?m)"'^### '"',part)[1:]
+ print(label,len(posts))
+print('Output exists:',Path('baby-development/evidence/2026-11/second-reading/digest-15.md').exists())
+PY" in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+yes 154
+near 118
+Output exists: False
+
+exec
+/usr/bin/zsh -lc "python - <<'PY'
+from pathlib import Path
+import re, collections
+src=Path('baby-development/_work/2026-11/digests/share-15.md')
+s=src.read_text()
+a,b=s.split('## Near posts tied to development:')
+posts={}
+quotes={}
+for sec,part in [('yes',a),('near',b)]:
+ posts[sec]=[]
+ for block in re.split(r'(?m)"'^### '"',part)[1:]:
+  pid=block.split('|')[0].strip()
+  posts[sec].append(pid)
+  for m in re.finditer(r'"'^- `([''^`]+)` '"\\(["'^'"\\n]*?\\) (.*?)(?=\\n- "'`|'"\\Z)',block,re.M|re.S):
+   qid,body=m.groups()
+   assert qid not in quotes
+   quotes[qid]=(pid,body.rstrip())
+errors=[]
+used=[]
+def Q(qid,txt=None):
+ pid,body=quotes[qid]
+ if txt is None: txt=body
+ cursor=0
+ for piece in txt.split('[…]'):
+  piece=piece.strip()
+  k=body.find(piece,cursor)
+  if k<0: errors.append((qid,piece))
+  else: cursor=k+len(piece)
+ used.append((qid,txt))
+ return '\"'+txt+'\" ['+qid+']'
+# Per-post binary tags, in the order tried, others, bought, feeling.
+ynottried={8,27,37,58}
+yothers={2,4,5,7,8,9,10,11,12,13,19,20,21,23,26,29,31,35,39,40,42,44,50,52,53,58,59,60,61,63,65,67,68,69,73,74,75,80,83,86,88,89,91,92,93,94,99,100,102,104,109,110,111,112,113,117,118,119,120,122,124,125,127,128,130,131,132,133,134,136,138,139,140,142,144,145,150,152,153}
+ybought={4,11,27,31,52,94,98,99,101,109,110,119,131,133,145}
+yfeeling={1,2,4,5,6,7,9,11,13,15,18,19,22,24,25,28,29,31,32,33,37,38,39,40,41,42,43,45,48,49,50,52,54,55,57,58,59,60,61,63,66,68,69,71,73,74,75,79,80,82,86,87,88,89,91,92,93,94,99,101,103,105,106,108,110,111,112,114,115,116,117,118,119,120,122,124,125,130,131,133,135,136,137,139,140,142,143,144,146,147,149,150}
+nnottried={65,66,98}
+nothers={1,2,3,4,5,6,8,9,10,11,12,13,14,15,18,19,20,21,22,23,24,28,29,33,34,35,37,38,39,40,41,42,43,49,52,53,54,55,57,59,60,63,66,69,71,73,75,76,78,79,80,81,82,83,84,85,87,88,89,91,94,96,97,99,100,101,102,103,107,111,112,113,114,115,116,117}
+nbought={3,23,31,33,53,57,60,70,71,73,81,87,92,93,100}
+nfeeling={1,2,3,4,5,6,10,13,14,17,18,19,20,21,22,24,25,28,29,30,33,34,35,38,39,40,42,43,44,45,46,47,49,50,57,59,60,61,62,63,64,67,71,72,73,74,78,79,80,81,82,83,84,85,86,87,88,89,90,91,93,94,100,101,102,106,107,108,109,110,111,113,115,116,117,118}
+tags={}
+for sec,nottried,others,bought,feeling in [('yes',ynottried,yothers,ybought,yfeeling),('near',nnottried,nothers,nbought,nfeeling)]:
+ tags[sec]={pid:dict(zip(['tried','others','bought','feeling'],['no' if i in nottried else 'yes','yes' if i in others else 'no','yes' if i in bought else 'no','yes' if i in feeling else 'no'])) for i,pid in enumerate(posts[sec],1)}
+forms=[]
+def F(key,title,nums,desc,qs,but='nothing found against it.',sec='yes'):
+ forms.append(dict(key=key,title=title,nums=nums,desc=desc,qs=qs,but=but,sec=sec))
+F('fear','The parent wants to get past fear around offering solid food.',[1,9,18,24,28,29,35,49,91,103,142,150],
+'Babies are roughly 6–12 months old, and fear of choking, gagging or vomiting makes offering food difficult even when the baby wants it. Some parents limit texture, delay practice, seek first-aid reassurance or ask for a few foods they can manage; one wants a worried partner to trust the baby. One parent connects the fear to an older child turning blue while choking, and another names emetophobia.',[
+Q('sr041-0080','I am so damn scared my baby will choke just like my first. I never seemed to get over that fear. I am not sure how to get him to transition.'),
+Q('sr006-0164','But it gives me CRIPPLING ANXIETY. I just have a fear of him choking.'),
+Q('sr030-0026',\"I've tried some egg strips and now pasta exactly like I'm supposed to serve it, but she always just sucks the whole thing in her mouth and it scares the bejesus.\"),
+Q('sr131-0047','I have emetophobia ( fear of vomit ) and I just can’t do it..'),
+Q('sr122-0025','I think because I’m alone and she’s already scared me with the choking.')],
+'Fear is not shared by every parent involved: '+Q('sr032-0007','But i can’t be afraid, i just have to watch him and teach him.')+' Another parent is already sharing tiny pieces: '+Q('sr020-0042','We have definitely shared a tiny bit of food"'! Just not full portions yet since I was spooked lol.'"'))
+F('texture','The parent wants to move beyond purées but the child gags, vomits or rejects the texture.',[36,40,43,50,57,59,70,77,79,101,119,137,147],
+'At about 6.5–16 months, textured or thicker food can end an attempt with gagging, coughing or vomiting. The range includes grittier meat purée, tiny lumps, bread, eggs and finger foods; parents ask whether this is taste, texture, normal practice or a problem needing help. Some retain purées to get food in, and others describe cleanup and work making repeated trials harder.',[
+Q('sr058-0009'),
+Q('sr116-0067','But any time I give her anything even remotely thicker she gags until she projectile vomits. (i.e. pureed turkey in turkey broth. Still a puree, but a grittier texture).'),
+Q('sr039-0088','Now she dont know how to chew solid food. She can eat yogurt bites, crackers, cookies etc.'),
+Q('sr091-0149'),
+Q('sr116-0069')],
+'Tolerance is selective rather than absent across all textures: '+Q('sr068-0055','She will happily chew on baby rusks and cucumbers, but struggles with pancakes and omelettes (will either shred them without eating or gag).'))
+F('pace','The parent wants the child to chew and pace bites instead of swallowing too much at once.',[16,63,66,135],
+'These posts describe babies around 7 months and 9–12 months, and toddlers of 17 and 23 months. Parents report swallowing before chewing, big bites, rapid shovelling, gagging or choking scares, including back slaps and three reported baby Heimlich interventions. They try modelling chewing, placing food to the side, feeding the child themselves or pausing between spoonfuls, but the child may resist.',[
+Q('sr055-0030'),
+Q('sr055-0034'),
+Q('sr011-0072','She will shovel food in her mouth, take big bites, etc. And when she gets too much in there, she will gag and spit it out, on herself, the carpet, etc.'),
+Q('sr118-0081','We tried this morning with breakfast to wait a bit between each spoonful but she got more and more angry and kept crying.'),
+Q('sr055-0060','He DOES it, just not super effectively and sometimes he does just outright forget to chew before swallowing his food, so I\\'d prefer to keep food on the softer/moister side')],
+'The concern can coexist with a strong appetite and growing independence: '+Q('sr011-0072','My daughter (23 months) is generally a good eater - independent, likes to feed herself, learning fork and spoon well, etc.'))
+F('readiness','The parent asks whether the baby is ready for solids when sitting or early feeding skills are still developing.',[34,44,71,86,100,102,111],
+'At about 4–6 months, parents compare interest in food, head control, sitting support and tongue thrust with advice to start solids. Some have a doctor’s approval or pressure to begin but see slumping or falling sideways; others ask whether delay is acceptable. Eagerness for food and physical readiness do not always appear together in these accounts.',[
+Q('sr029-0094'),
+Q('sr043-0012','Looking up the signs of readiness and I don’t think he’s quiet there. He can really only sit between my legs with his back to me, and even then his head slumps forward quite a bit.'),
+Q('sr071-0024'),
+Q('sr085-0018','LO is just not ready yet and he is ANGRY. 😂'),
+Q('sr091-0066','Seems a bit early imo I’m worried about choking and her maybe not being able to hold herself up')],
+'Interest and enjoyment are already visible in one early taste: '+Q('sr056-0012','I let her gum it for a second and she made a funny face but was thrilled.'))
+F('start','The parent wants a simple way to start solids and know what comes next.',[8,37,46,104,134],
+'With babies around 4–6 months, parents ask about first foods, spoon feeding versus baby-led weaning, preparation and when to increase meals or stop purées. Some are planning ahead, while one is already offering a daily purée and another has a doctor’s suggestion to let the baby explore cereal. Limited cooking experience, solo parenting and the volume of information make a starting point hard to choose.',[
+Q('sr032-0071'),
+Q('sr010-0084','Were they a hit or a miss? Did you spoon feed or go for baby-led weaning? Were they homemade or a store bought puree? Intentional or by accident?'),
+Q('sr044-0063','When do I start introducing real foods? Or stop puréed foods? When do I have to be giving her more solids during the day?'),
+Q('sr082-0049','For one, I don’t cook, never have. I mean I used too but I’m soloparenting and we’re still contact napping baby so I really don’t have a lot of free time.')],
+'Uncertainty does not always mean waiting to do anything: '+Q('sr044-0063','My baby is 5 months old and I am starting to give her a pureed vegetable or fruit once a day.'))
+F('foods','The parent wants manageable foods that fit the child’s eating skills and everyday meals.',[26,27,52,85,90],
+'Parents of babies about 5.5–9 months ask for a small number of first table foods, ways to prepare proteins without teeth, and foods with less salt or sugar. Other questions concern whether puffs or a particular soft cookie are suitable, with snack labels giving different stage cues. These are requests for workable choices rather than reports that every food is refused.',[
+Q('sr042-0112','I think they will be helpful eventually, but right now I feel like we just need a few foods to introduce baby to ideas like \"feeding myself\" and \"chewing\" and \"not choking\".'),
+Q('sr076-0001','i want to try chicken, beef, turkey and other good proteins. how do i prep and cook said foods for my 7 month old with no teeth?'),
+Q('sr072-0023','I don’t know what else to give him. Everything I try to think of just has way too much salt or sugar.'),
+Q('sr023-0088','I bought some cookies from Costco—MadeGood “Organic Soft Baked Cookie Bites.” My 9-month-old is at that stage where he wants to try everything I’m eating, and I’ve been really tempted to let him have a taste.')],
+'Finding the next food can follow successful feeding rather than difficulty eating: '+Q('sr023-0042'))
+F('milk-solids','The parent wants solids to replace milk feeds but the child is still eating too little.',[13,20,25,55,61,62,114,131],
+'From 6 to 15 months, parents want to reduce breastfeeding or formula but describe only a few bites, reliance on milk, or rejection of most food. Work, daycare, a hoped-for first-birthday transition and formula costs add deadlines; one parent fears losing WIC formula support at 12 months. They ask about meal timing, routines, feeding therapy and how the change can happen when intake is still small.',[
+Q('sr022-0035','I want to cry. I feel trapped. I can’t leave my baby for longer than an hour or two because I am her only source of nutrition.'),
+Q('sr019-0026','I’m stating to think it’s impossible for him to eat and he’ll be breastfeeding forever lol. He’s a big baby and growing well so no concerns there but i just want him to start eating regular food"'!!! I wanted to stop bf around 12 months 😭'"'),
+Q('sr054-0004'),
+Q('sr046-0046','my little boy is turning a year old this week (🥳) but his diet is still 95% formula.'),
+Q('sr113-0013')],
+'Some intake is improving: '+Q('sr054-0003')+' Another parent reports growth despite low solid intake: '+Q('sr046-0046','I know kids develop at their own rate, and he still seems to be gaining weight so i’m not too worried, but i would like to make at least some progress soon.'))
+F('little','The parent keeps offering foods but the child eats very little or mostly plays with them.',[39,56,60,64,69,80,81,82,88,97,99,105,117,120,122,133,138,143,145],
+'From 5 months to about 15 months, parents report mouthing, licking, smashing, dropping or throwing food instead of consistently eating it. They offer purées, finger foods, different flavours and textures, shared meals or preloaded spoons, and some say the child mouths every non-food object. Several compare intake with other babies, question whether they are failing, or say professional reassurance does not address what is happening at meals.',[
+Q('sr048-0048','How can my baby practice if the food doesn’t go in his mouth?"'!'"'),
+Q('sr071-0002','He will play with it, smash it, throw it but rarely ever eats. At best he’ll take a little taste or suck on a cracker or strawberry but then he’s done. We’ve tried purées and BLW.'),
+Q('sr067-0105','He just sticks his tongue out and if I get some in his mouth he just holds it in there and doesn’t even try to swallow.'),
+Q('sr093-0102'),
+Q('sr113-0167','I left feeling really guilty and discouraged because I AM trying. I offer him food every day, I buy and prepare different things, and so much of it ends up untouched or in the trash.'),
+Q('sr084-0025','He wants to feed himself, refuses to be fed from us but then gets frustrated when the food falls from the baby spoon and he can\\'t properly put it in his mouth.')],
+'Acceptance can depend on what is offered: '+Q('sr054-0113','He will eat things we eat. He ate refried beans with his papa last night. He ate potatoes our pastors wife made. I gave him a little pancake one day and he ate that.'))
+F('regression','The parent worries because foods the child used to eat are now refused or spat out.',[38,48,75,84,87,129,144],
+'Parents of babies roughly 8–10 months and one 15-month-old describe a change after earlier success with purées, meals or chicken. Some connect it with illness or teething, while others question whether that explains the loss of foods already mastered. They ask whether appetite or swallowing will recover, whether this is pickiness, and whether feeding therapy is needed.',[
+Q('sr071-0009','Now at 10 months feels like he\\'s regressed : he takes food, chews it, then pushes it out with his tongue, picks it back up, puts it in his mouth again, and repeats basically never swallowing unless it\\'s banana.'),
+Q('sr044-0089'),
+Q('sr057-0096'),
+Q('sr110-0068','Recently (started about 2 weeks ago) she had a hard time swallowing those chicken, she is chewing but just couldn\\'t swallow them.'),
+Q('sr122-0039','Then she was sick for a couple of weeks with a few different daycare viruses and wasn’t very interested in eating. Now we’re a couple weeks removed from that and she still isn’t interested.')],
+'The loss is not necessarily across all foods: '+Q('sr071-0009','Banana he eats with zero struggle. Raspberries too, actually.'))
+F('dependent','The parent worries about dependence on being fed and wants a way toward independent meals.',[33,65,68,92,93,115,140],
+'At 8–16 months, these parents distinguish eating when fed from bringing food to the mouth independently. They describe limited early self-feeding, losing a previous habit, or an allergist’s instruction to avoid food on broken skin, and fear teaching dependence or leaving the child hungry. Two supplied posts repeat the same 16-month-old account; a separate parent reports that self-feeding and cup use changed quickly after the first birthday.',[
+Q('sr124-0012','The second we load a spoon or hand her a bite, she happily eats.'),
+Q('sr077-0087','But he still eats all of his food through us hand feeding 🥲'),
+Q('sr054-0107','Im concerned I’m not teaching her how to feed herself but how to be fed.'),
+Q('sr028-0060','We started introducing solids around 8 months and would mix purees or baby food into his bottles, so he never really learned to eat independently from the start.'),
+Q('sr051-0028')],
+'The outcome is not always continued dependence: '+Q('sr091-0123','Now, almost 3 weeks later my son is fully self feeding"'! Most meals are devoured in minutes, he loves the cup, he gets very excited to sit in his high chair because he knows he’s going to eat and he’s eating 3 meals and 2 snacks a day!'"'))
+F('utensils','The parent asks when and how the child should use utensils instead of hands.',[12,22,23,51,58,132,154],
+'With children about 9–24 months, parents ask whether hand eating is normal, when spoons should work, and how to teach without rejected hand guidance. Some children use preloaded utensils but drop them, chew them or return to their hands; messy hair and clothing also prompt questions about manners. Other people supply deadlines, including a nursery comparison and an unsolicited autism warning, which are reported claims rather than diagnoses established here.',[
+Q('sr014-0002'),
+Q('sr014-0003'),
+Q('sr114-0024'),
+Q('sr114-0027'),
+Q('sr133-0159'),
+Q('sr022-0020','So my opinion is to stick with spoon regarding everything, so she know that you just dont put your hands in any kind of food, ever. But my wife disaagrees, tells me that everyone is doing what she is doing and she just must figure it out.')],
+'One child already has more spoon experience than the question initially suggests: '+Q('sr022-0023'))
+F('calmer','The parent wants mealtimes to feel calmer while the child practises eating.',[6,53,116],
+'At 8–10 months, parents describe crying between bites, refusing adult spoon feeding, wanting the spoon, and food flung everywhere. They want solidarity, ways to feed an independent baby, or beginner foods for a move into baby-led weaning. One also has a pediatrician asking for calorie-dense intake, so simply letting the child proceed at their own pace feels difficult.',[
+Q('sr002-0321'),
+Q('sr002-0322'),
+Q('sr044-0145'),
+Q('sr094-0073','She only wants to feed herself. I guess she thinks she’s a big girl. So here I am trying baby led weaning against my will 😂.')],
+'Resistance to being fed can coexist with enthusiasm for food: '+Q('sr094-0073','She has always LOVED food. She goes crazy for it.'))
+F('bottle','The parent wants the baby to accept milk away from the breast so someone else can feed them.',[5,7,11,47,83,110,113,118,136,151,152,153],
+'From about 6 weeks to almost 9 months, bottle refusal limits breaks, weaning, returning to work or starting daycare. Parents try nipples, bottles, temperatures, positions, timing and another feeder, sometimes considering cups instead; some ask whether persisting when hungry would help or make things worse. The accounts include exhaustion, temporary successes, a reported episode of pushing through struggle, and a parent preparing for daycare while mostly alone during a partner’s deployment or training.',[
+Q('sr003-0202'),
+Q('sr091-0140'),
+Q('sr134-0105'),
+Q('sr007-0108'),
+Q('sr119-0035'),
+Q('sr134-0124')],
+'Acceptance sometimes appears: '+Q('sr007-0113')+' It can also be brief: '+Q('sr094-0015','Some of the tricks have work, I won’t lie, but only momentarily. Like for example for one feeding session she is good with one bottle, and the next session she hates it.'))
+F('suck','The parent wants help with latching, sucking and managing milk flow.',[4,10,17,31,32,67,73,74,89,107,112,128,149],
+'From the first days to about 6 months, parents describe clicking, leaking, choking on milk, slow feeds, frantic flow or latching without sucking. They change teats, pace feeds, use shields, seek assessments or discuss oral-tie release; professionals sometimes disagree or are experienced as aggressive. One detailed account explicitly says ChatGPT helped analyse feeding videos and write the account, so its reported retraining success is labelled AI-assisted rather than independently verified.',[
+Q('sr090-0061','My 2 week old baby latches well (I make sure to do a deep latch and compress). But as soon as he’s latched he just stays there and does NOTHING..no matter how hungry he is.'),
+Q('sr007-0100'),
+Q('sr027-0207'),
+Q('sr074-0118'),
+Q('sr060-0019'),
+Q('sr001-0165','👉 If they’ve learned the wrong pattern, you have to teach them how to feed again')],
+'Changing equipment did help one family: '+Q('sr027-0118','Still a little bit of dribble but totally manageable now and feel like I won’t be dreading bottle time anymore"'!'"')+' A tie was not found in another assessment: '+Q('sr060-0038'))
+F('cup-skill','The parent wants a cup or teaching method that the child can actually drink from.',[3,14,15,19,45,78,94,95,96,124,148],
+'At 6–18 months, parents describe chewing a straw instead of sucking, sucking without swallowing, failing to tilt a cup, tilting a straw cup too far or struggling against a valve. They model, squeeze, guide arms, offer different cups or test the suction themselves; one spoon-feeds formula mixed into food because no drinking method works. Other parents ask which cup can fit home and outings while open-cup skills develop.',[
+Q('sr004-0064','we cannot figure out how to get him to actually suck on the straw. he just chews and then gets mad.'),
+Q('sr018-0031','she will suck without issue but won’t swallow water, she will let it dribble out.'),
+Q('sr076-0035','He simply will not lift the cup up to make the water/milk flow forward.'),
+Q('sr080-0100','He understands the sucking of a straw but he always tilts the cup back so far that it\\'s just air going through the straw.'),
+Q('sr014-0044'),
+Q('sr015-0007','* **The only way he gets formula:** We have to mix it with sweet potato, banana, or pumpkin and spoon-feed it to him like a thick soup.')],
+'A child may already drink with help: '+Q('sr004-0065','He drinks out of it fine if you hold it for him but will just dump it everywhere if he tries lol.')+' The difficult cup can have a useful feature: '+Q('sr014-0047'))
+F('liquid','The parent wants the child to drink enough from cups instead of taking a few sips, playing or spitting it out.',[41,76,106,121,130],
+'With children about 11–13 months, getting liquid into the child matters more than obtaining a cup. Some children know how to sip but are uninterested, leave milk unfinished, splash or let it run from their mouths. Parents model, leave cups available, offer tiny portions or remove the cup, and worry about hydration or weaning.',[
+Q('sr037-0013','She knows how to do it, but we’ve had the most success just leaving it out around her and she’ll pick it up every few minutes (sometimes) and take a sip or two.'),
+Q('sr037-0014','We put about an 1oz into her cup at a time and she has NEVER finished it within the two hour safety limit.'),
+Q('sr064-0013','I’ve tried different cups, modelling, I keep offering him water and he isn’t interested. If it’s an open cup he likes to splash his hand in it lol.'),
+Q('sr095-0095'),
+Q('sr087-0040','I offer her a straw sippy cup with either warm milk or water and she will try and suck but just spits it out.')],
+'The difficulty is not necessarily an inability to drink: '+Q('sr110-0073','up until maybe a month ago he drank water no problem from his straw cup.'))
+F('milk-cup','The parent says the child can drink from cups but accepts milk mainly from a bottle or familiar spout.',[2,42,54,98,109,125,126,141],
+'At about 11–21 months, water drinking can work while milk or formula in a different vessel is refused. Parents ask about going cold turkey, preserving milk intake and sleep, buying another cup, or matching daycare’s transition. One family has removed bottles for three days without milk acceptance, and another’s familiar vessel is a sippy rather than a baby bottle.',[
+Q('sr004-0044'),
+Q('sr083-0014'),
+Q('sr088-0078','We bought him a similar straw cup but a different color to differentiate his water from milk. We have tried letting him drink it from the cup. We have tried other straw cups. In all, he doesnt like drinking milk from those.'),
+Q('sr043-0100'),
+Q('sr103-0138')],
+'Cup refusal is not absolute in every setting: '+Q('sr102-0016','Last week they said she had 4oz of formula twice from the sippy cup and over the weekend/today she’s been rejecting it.'))
+F('comfort','The parent wants to stop bottles while preserving comfort, sleep or a familiar routine.',[21,30,72,108,123,127,139,146],
+'Parents describe children from 8 months to nearly 2 years who associate bottles with cuddles, naps, bedtime or the first waking feed. Some already use straw cups, open cups or straw bottle tops, but want to remove remaining bottle occasions without distress or losing the calming routine. They discuss gradual reduction, a new vessel, toothbrushing and whether the recommended deadline fits their child.',[
+Q('sr090-0072','But she finds comfort in me holding her bottle and cuddling my arms while falling asleep. She\\'ll fight sleep and be extremely fussy until i do the routine.'),
+Q('sr056-0026','I’ve tried gradually decreasing the amount in the bottle - got down to 1 oz of milk in the bottle, then following up with banana and milk in straw cup, which she seems okay with most of the time… but I’m just having a hard time getting her off this last bottle.'),
+Q('sr120-0098','We feed him milk before bed in a bottle he likes it and we bond he is still a baby in my opinion.. pediatrician says we need to do sippy cup.'),
+Q('sr125-0077'),
+Q('sr099-0026','So when we tried the formula in a regular straw cup it didn’t trigger the same mellowing-out effect.')],
+'Some transitions concern scheduling rather than keeping a teat: '+Q('sr020-0103','Right now he’s solely drinking bottles with a conversion straw top (it’s the comotomo ones). No more nipple tops.'))
+titles={f['key']:f['title'] for f in forms}
+def N(key,nums,desc,qs,but='nothing found against it.',title=None):
+ F(key,title or titles[key],nums,desc,qs,but,sec='near')
+N('readiness',[1,11,43,76,103,112,114],
+'These near posts ask about starting around 3–6 months, often after medical approval that differs from other advice or from what the parent sees in sitting and head control. Parents discuss waiting, early tastes, allergen exposure or cereal in a bottle, and request reasons or evidence rather than assuming one age settles readiness. One child’s current stage is unknown; a recommendation is not treated here as established medical guidance.',[
+Q('sr005-0193'),
+Q('sr076-0042'),
+Q('sr108-0055','I told our pediatrician that I was going to wait until the baby was sitting better to start solids of any kind. He said that as long as it is a very thin consistency that we could start anytime, and even suggested baby cereal in a bottle is okay..'),
+Q('sr045-0044')],
+'Some report that physical control and early feeding are going well: '+Q('sr127-0115','He’s 4 months old and pretty good with head control. We have a seat that sits him upright and he does fantastic in it.'))
+N('start',[19,40,73],
+'Parents of 4.5–5-month-olds ask for a clear starting order, purée handling, meat preparation and when to combine foods. They have already tried avocado and banana or bought ingredients, but feel overwhelmed by choices and conflicting advice. One wants vegetables before fruit after a parent warned that sweets would affect vegetable acceptance.',[
+Q('sr011-0136','now what? i feel so paralyzed with options. my mom said giving him sweets too soon will make him not like veggies so im nervous that i gave him banana already.'),
+Q('sr031-0101'),
+Q('sr031-0102'),
+Q('sr075-0056')],
+'One parent also expresses anticipation: '+Q('sr031-0100','We plan to start tomorrow and are super excited.'))
+N('foods',[8,26,31,32,63,68,72,77,91,92],
+'These posts seek daycare foods, portable lunches, affordable allergen purées, simple meal plans or foods a child can eat independently while standing. Known ages run from about 6 months through the first birthday, with some ages unknown; one almost-one-year-old has only recently moved beyond an NG tube and needs a minced-and-moist cake. Convenience, limited chewing skills, mess, sodium, safe packing and unfamiliar ingredients all shape the requests.',[
+Q('sr024-0090'),
+Q('sr079-0085','He’s not great with baby-led weaning, so looking for easy ideas.'),
+Q('sr056-0115','I would feel less overwhelmed and do better if I had a clear meal plan for her. I\\'m also a really picky eater and am trying not to pass that on to her, so I want to introduce her to a variety of foods but it\\'s not as simple as just feeding her what I\\'m eating.'),
+Q('sr070-0120'),
+Q('sr017-0199','He’s had some issues with swallowing and had to start off the first 10 months with an NG tube, so we’re still in Minced and Moist territory.'),
+Q('sr099-0106')],
+'Requests for ideas can follow discovery of what the child likes: '+Q('sr021-0085','through trial\\nand error, I figured out he likes savory food more than sweet food (e.g., fruit).'))
+N('milk-solids',[5,13,53,74,85,115],
+'At about 8–12 months, these parents worry about replacing formula or breastmilk while solid intake remains limited, purée-dependent or mainly at night. Questions combine cups and bottles, total nutrition, high-chair distress and what a first-birthday transition should look like. One explicitly needs more solids because reduced formula benefits cover only part of the month.',[
+Q('sr004-0143'),
+Q('sr049-0160'),
+Q('sr072-0081','His pinching and fine motor skills are on-track, but I have to feed him the majority of his meal pureed, or he won\\'t get enough food in him before he starts to sweep everything on his tray away and refuse to eat anymore.'),
+Q('sr090-0121','I feel like no matter how I approach it, I’ll end up doing some harm.'),
+Q('sr126-0104')],
+'Some already eat selected meals and snacks: '+Q('sr006-0141','She has some staples she really likes like eggs, spaghetti, and carrots, but she is still drinking a lot of formula during the day.'))
+N('little',[9,51,62,89,106],
+'These parents focus on small quantities, short-lived interest or food that is mouthed without much being swallowed. Known ages include 9–12 months, 13 months and 24 months; two stages are unknown. Concerns include iron, regaining weight after illness, avoiding pressure and a child who refuses help from an adult.',[
+Q('sr005-0189','LO will have 2-3 teaspoons, then get distracted, purse his lips, and start flailing around.'),
+Q('sr046-0077'),
+Q('sr058-0131','We are offering 2-3 meals a day, but she is showing little interest. How much is she supposed to be eating? Or are we still in the stage where the important thing is consistently offering?'),
+Q('sr109-0140','He will forget to swallow the food and begin to cry which makes me worry he could choke.'),
+Q('sr097-0030','She is hyper-independent and won’t let me feed her. Even though we are against it, we even tried feeding her in front of the TV, but nothing works')],
+'One parent reports reassuring development despite intake concerns: '+Q('sr097-0029'))
+N('regression',[42,50,59,88,108,109,110,111],
+'Known ages range from 8.5 months to 2 years, and these parents describe diminished intake, lost accepted foods, spitting or throwing after earlier successes. Illness or teeth are possible explanations in some accounts, while others have persisted for months and include weight loss or very limited variety. Several say changing textures, timing, plates or the feeding setting has not restored eating.',[
+Q('sr049-0037'),
+Q('sr049-0038'),
+Q('sr058-0001','Since my son turned one, he stopped eating dinner. He is now almost 20 months. Previously, he ate everything I gave him.'),
+Q('sr119-0042','He used to be really good, he’d either take pureed food off a spoon fine, or he’d pick up finger foods and eat them like pasta, homemade pizza and other homemade foods but now he just wont touch it.'),
+Q('sr120-0023','He is losing interest in toast and sandwiches and figuring out what to feed him everyday is a real struggle.')],
+'Refusal can vary by setting: '+Q('sr058-0008','By them way, at daycare he does eat things he doesn\\'t eat at home.')+' One parent still describes normal nursing: '+Q('sr119-0051','He is nursing normally.'))
+N('dependent',[45,67],
+'Two parents describe children around 2 years who had hospital care and then continued receiving food by hand or spoon at home. They want more independence but fear low intake, emotional upset or a negative meal experience. The posts say the children can self-feed at least some food, so the question is how to change an established pattern.',[
+Q('sr042-0048'),
+Q('sr042-0053'),
+Q('sr065-0042','It all started when he had another brain surgery (he’s had 3)'),
+Q('sr065-0041','He will feed himself if it’s a preferred food like pizza, pickles, anything like that. But if it’s anything less desirable, he won’t feed himself.')],
+'The accounts explicitly describe existing ability: '+Q('sr042-0043')+' '+Q('sr065-0042','He’s totally capable of feeding himself, but I don’t know how to break the cycle.'))
+N('calmer',[25],
+'One parent, with the child’s age unknown, shares a lunch game rather than asking for a new food. A robot voice, a rotating plate, paced portions and prompts to chew or select a utensil drew the toddler into the meal. The parent reports eating more and less conflict despite the meal taking longer.',[
+Q('sr020-0094'),
+Q('sr020-0098'),
+Q('sr020-0100'),
+Q('sr020-0102')],
+'The post records success rather than a continuing failure: '+Q('sr020-0102','He finished almost the whole plate of food, we were both happy and regulated even though it took a little longer.'))
+N('bottle',[4,14,15,18,21,22,23,27,30,33,35,79,82,87,93,100,104,113],
+'Known ages run from 8 weeks to 10 months, with some unknown. Parents need bottles or another vessel for work, daycare, breaks, mental health or a mother’s tumour treatment, and report experimenting with carers, milk, nipples, cups, timing and movement. Some describe feeding while asleep, pressure that backfired or time without milk; a named aversion programme and a family-led transition also have reported improvements, without establishing that they will work for someone else.',[
+Q('sr013-0075','I experience really intense D-MER when I feed and I just can’t do it anymore'),
+Q('sr008-0119','I left work early because he had gone 10 hours without eating and I didn\\'t want him to go through the whole night hungry.'),
+Q('sr020-0063'),
+Q('sr094-0104'),
+Q('sr121-0114','I’m also horribly depressed and need a fucking break. Yes I am in therapy and medicated.'),
+Q('sr023-0061','so I tried to push the bottle in her mouth and open her mouth to get her to drink. Well that’s has definitely backfired.')],
+'Some report progress: '+Q('sr005-0125','He stopped crying at the sight of the bottle by the end of the second day.')+' '+Q('sr014-0181','Would you believe in the last 20 minutes she drank about 1.5oz from a bottle.'))
+N('suck',[12,16,29,44,57,61,71,94,102,107,116,117],
+'These posts involve newborns through about 5 months, plus one unknown age, and place latch or sucking difficulties inside reflux, pain, weight-gain, tube-feeding or formula decisions. Parents report conflicting assessments, persistent slow feeds, a tie release that does not establish latch, or fear that another bottle will create aversion. Their causal explanations and treatment claims are recorded as their accounts, not confirmed findings.',[
+Q('sr015-0020','He had his tongue tie snipped 5 weeks ago which has progressively improved his latching.'),
+Q('sr021-0056'),
+Q('sr058-0068','My 5 month old learned to eat from bottles until we released his tongue tie and then we switched to breastfeeding, so his latch isn’t great.'),
+Q('sr128-0129','We got it fixed when she was 5 days old, but she was never able to latch before or after.'),
+Q('sr132-0093')],
+'Other feeding developments are positive: '+Q('sr099-0182','He was finally able to latch and feed properly after about a week, but then he’d stay on for hours on end.')+' In another post, '+Q('sr110-0042','my husband is loving being able to give a bottle to her and she takes the bottle very well'))
+N('cup-skill',[7,55,58,95,97,98],
+'Parents ask how to teach straw or open-cup use, choose a suitable vessel and translate bottle feeds into cups at home or outside. One child is described as 2 years old; the other ages are unknown. Questions include not tilting, being better at open cups than straws, mess and whether occasional sips can replace a full held bottle feed.',[
+Q('sr004-0186'),
+Q('sr051-0034'),
+Q('sr055-0095','But obviously they need to learn the skill of drinking from an open cup, at least.'),
+Q('sr102-0029','Do you sit them down with the straw cup and have them drink? Or do you just like offer it throughout the day? How do you make sure they get enough?'),
+Q('sr101-0100','It needs to be something easy because he still doesn’t get that he has to tilt his head back to drink lol')],
+'For some the basic skill is already present: '+Q('sr101-0064'))
+N('liquid',[17,20,48,90],
+'At 7 months, around 1 year and 18–24 months, parents keep offering water but report a few sips, a face of dislike or outright refusal. They try cups, a familiar bottle, flavouring, temperatures and modelling; constipation or lower breastmilk intake adds urgency. One says the straw skill itself is still developing.',[
+Q('sr013-0027','We’ve been offering it in so many different cups. Added a little prune or apple juice to give it some flavor. And we still get nothing"'!'"'),
+Q('sr013-0173'),
+Q('sr044-0098','but the most water she has taken in a day is like 2 oz....'),
+Q('sr098-0054','I\\'ve tried straw cups (he still doesn\\'t know how to use one, still trying to teach him) I\\'ve tried in his bottle, I\\'ve tried constantly, sometimes after a hot day he\\'ll let me give him sips but not always, I\\'m just at a loss')],
+'Limited intake does not always mean lack of ability: '+Q('sr044-0098','She can use a straw cup, and will when she wants to... but doesn\\'t want to.'))
+N('comfort',[2,36,39,52,64,70,81,105],
+'Known ages range from 12 months to about 2 years, and several ages are unknown. Parents ask how to remove bedtime, overnight or morning bottles, coordinate breastfeeding weaning and cup changes, or replace comfort milk after successful feeding therapy. They describe water accepted from cups while milk needs a familiar bottle, and worry about sleep, distress, teeth or later potty training.',[
+Q('sr003-0045'),
+Q('sr048-0080'),
+Q('sr062-0004','She attended feeding therapy for 8 months which was successful in teaching her how to eat. Unfortunately we never stopped giving her milk at bedtime/before naps. What started as necessary supplementation became just for comfort...but now she\\'s hooked.'),
+Q('sr083-0106','I’ve bought easily over 50 different types of cups, even smaller versions of my water bottle but he just. wants. the. freaking. bottle.'),
+Q('sr066-0062','Should we do both together? Or wean middle of night first and then transition bed time?')],
+'The water-cup transition can already be straightforward: '+Q('sr048-0080','He’s already on sippy cups during the day. That transition was easy.'))
+N('schedule',[10,28,38,41,46,54,69,75,84,96],
+'These posts ask how much milk or food is enough, how to space meals and bottles, and whether apparent swallowing or chewing means the child is ready for more. Known ages range from a 7-day-old newborn through 13 months, with one unknown; the questions also include visible food in stool and differing advice on milk after 1. One parent is pleased with eating progress but sad about shorter breastfeeding sessions.',[
+Q('sr038-0105','He will eat the whole jar pretty dang fast"'! He opens his mouth and at this point he kinda knows how to use his tongue to swallow. Is it normal that he finishes the whole jar?'"'),
+Q('sr101-0038','But I guess my question lies with, **how often do I give this to her? How much at a time?**'),
+Q('sr045-0080'),
+Q('sr064-0086','I was told to wait to introduce the bottle until 3-4 weeks so baby develops good latching and doesn’t get lazy with a bottle.'),
+Q('sr021-0031','often has large pieces of food in her poop, given she cannot actually chew it.'),
+Q('sr035-0108','Anybody else find this change a little bittersweet? I’m excited about it but sad that we won’t be breastfeeding as long.')],
+'Not all of these questions arise from delayed eating: '+Q('sr035-0106','She generally eats very well"'! Chews well, drinks water and milk from her straw cup, uses her spoon (doesn’t load it herself but she’s only 6.5 months).'"'),title='The parent asks how much milk or food to give and how to arrange feeds.')
+N('medical',[34,37,49,78,83,86,99,101],
+'Known ages range from 7 weeks to 12 months. Parents ask about reflux or painful hiccups, constipation during solids, suspected EOE, illness-related bottle refusal, allergen dosing, hives or severe vomiting; one father feels responsible for a peanut-allergy diagnosis. Feeding practice is part of these accounts, but the main request concerns a medical explanation, safe exposure or recovery, and suspected diagnoses remain uncertain.',[
+Q('sr028-0111','I feel devastated my son who just turned 10m old has been diagnosed with peanut allergies. I feel like I let him down by not doing better allergen exposure with solids.'),
+Q('sr084-0047','Sucks at eating solids like never really chewed anything in his life.'),
+Q('sr087-0075'),
+Q('sr108-0036'),
+Q('sr050-0063','Should I skip her solids tomorrow? Is that bad? I don’t want to give her anything that could make it worse and I also don’t know if I should give her prunes for the 4th time in a row.'),
+Q('sr102-0109','is there anything wrong with just giving small tastes in their cheek for exposure purposes rather than a full 1-2 tsp?')],
+'Some oral intake is working despite the medical concern: '+Q('sr050-0060','She’s only just now finally figuring out a sippy cup so we can get a small bit of water into her')+' '+Q('sr087-0075','He takes those just fine and seems to love the taste and texture.'),title='The parent wants to understand an allergy or medical problem that may be limiting eating.')
+N('other',[3,6,24,47,56,60,65,66,80,118],
+'Other: the main subjects are overnight formula preparation, nursery milk storage, appointment timing, sleep, holiday clothing, an unexpected pregnancy and possible abortion, daycare costs, claims about premasticated food, an older sibling’s bedtime and anger at a dog. Known children range from newborns to 18 months alongside an older sibling; several ages and one speaker’s parental status are unknown. Eating skills are background context, and the premastication passage is a set of claims whose original author and verification are not supplied; the dog post explicitly reports hitting the animal.',[
+Q('sr005-0061','we were triple feeding: breast, formula + milk I pumped every 3h, and we also did this all with SNS"'!! It was mentally exhausting'"'),
+Q('sr002-0243','I’m already feeling a bit overwhelmed with having to go back to work and leave her, and I just don’t know what I’m expected to do.'),
+Q('sr020-0091','I accidentally booked the LC appt for right after the pediatrician appt to help my 4 month old take a bottle before I return to work in a couple weeks.'),
+Q('sr044-0075'),
+Q('sr059-0070'),
+Q('sr065-0013','well the overall rate increases at daycare have far outpaced the rate decreases of getting older.'),
+Q('sr061-0089'),
+Q('sr134-0119')],
+'The feeding references can describe progress: '+Q('sr059-0067','He’s eating better and actually taking a sippy cup.'),title='Other')
+# Render exactly the requested visible structure. HTML comments retain the post-level audit.
+lines=['# Digest 15: pattern 7, Learning to eat and drink as a skill','',f'Share: "'`{src.as_posix()}`. Yes posts: 154. Near posts: 118.'"','',
+'<"'!-- Method: Read all 272 supplied post entries and every supplied quotation; no source outside the share was opened in baby-development. These are posts selected from a random 20,000-post sample and already assigned pattern 7, not a population prevalence estimate. Each supplied post ID counts once, including apparent cross-posts 1v6fzil / 1v6g3gi, which repeat one account. No posts excluded; unread: 0. Speaker sex, location, income and age are not inferred. Parents are called "the parent" because speaker sex is often unspecified. Tags below are ordered tried, others, bought, feeling. Tried includes actual feeding attempts, research, consultations and arrangements, but not plans alone. Others requires a reported action, advice or example from another person or external guidance; merely asking for advice is no. Bought requires explicit buying, ordering, store-bought food or private paid help; ownership, brand use, WIC provision and contemplated purchases alone are no. Feeling requires a named affective state, including explicitly denied worry; a belief beginning "I feel like" alone is no. These choices are descriptive, not diagnoses or endorsements of treatments. -->'"','']
+for sec in ['yes','near']:
+ lines += [f'## Pattern 7, share 15: {sec} posts','']
+ for f in [x for x in forms if x['sec']==sec]:
+  ids=[posts[sec][i-1] for i in f['nums']]
+  lines += ['### '+f['title'],'',f\"{len(ids)} of {len(posts[sec])} posts.\",'',f['desc'],'']
+  lines += ['- '+q for q in f['qs']]
+  lines += ['', '**But:** '+f['but'],'','Posts: '+' '.join(ids),'','<"'!-- Post tags: tried | others | bought | feeling'"']
+  lines += [pid+': '+' | '.join(tags[sec][pid].values()) for pid in ids]
+  lines += ['-->','']
+lines += ['## Pattern 7, share 15: across the yes posts','','| Tag | Posts |','|---|---|']
+for tag in ['tried','others','bought','feeling']:
+ lines.append(f'| {tag} | {sum(v[tag]==\"yes\" for v in tags[\"yes\"].values())} of 154 |')
+examples=[('What they tried, in their words',[
+Q('sr003-0038'),Q('sr055-0034'),Q('sr037-0013'),Q('sr076-0036','I’ve tried filling the cup up half way, I’ve tried having him drink and manually lifting his arms while saying “lift, lift"'!”'"'),Q('sr007-0004'),Q('sr003-0209'),Q('sr060-0017','We were doing pigeon SS flow and I would have to let her take a few sucks, tilt the milk away, let her breathe, then let her eat again.'),Q('sr077-0084','Then at 9mo I became really concerned about him not bringing food to his mouth, so I only offered finger foods, nothing with a spoon.'),Q('sr044-0145'),Q('sr001-0166','We would place the soother in his mouth and then gently position the tube into the side of his mouth. As he sucked on the soother, milk would be delivered through the tube.')]),
+('What other people told them or did',[
+Q('sr007-0100'),Q('sr014-0003'),Q('sr036-0031'),Q('sr054-0104'),Q('sr113-0167','We recently went to the pediatrician, and she said “He is almost 9 months old he should be eating 3 meals a day by now”.'),Q('sr077-0086','She was not concerned about him only eating if we hand-fed him and said that kids go at different paces.'),Q('sr074-0118'),Q('sr003-0208'),Q('sr114-0024'),Q('sr092-0056')]),
+('What they bought or paid for',[
+Q('sr094-0016'),Q('sr083-0014'),Q('sr027-0114'),Q('sr023-0088'),Q('sr076-0035','We had to buy sippy cups with the weighted straws that go down to the bottom of the cup'),Q('sr042-0111','We\\'ve been doing store-bought purees, but I feel like it\\'s probably time to start introducing table food...but the jump from purees to \"baby version of what we\\'re eating\" feels huge 😅'),Q('sr091-0148'),Q('sr113-0014'),Q('sr001-0174','We were also working privately with a feeding therapist through our tongue tie clinic — we had 6 visits with them and they were great, plus they offered email support in between.'),Q('sr123-0114','The only solid he hasn\\'t refused is these baby teething biscuits I buy(organic) because apparently mine tasted like shit to him.')]),
+('How they say they feel',[
+Q('sr022-0035','I want to cry. I feel trapped.'),Q('sr006-0164','But it gives me CRIPPLING ANXIETY.'),Q('sr007-0105'),Q('sr038-0008'),Q('sr060-0019'),Q('sr054-0105'),Q('sr002-0323'),Q('sr113-0167','I left feeling really guilty and discouraged because I AM trying.'),Q('sr130-0103','Its been making me super nervous but I’m trying to just remind myself that it’s normal and safe to gag'),Q('sr046-0046','I know kids develop at their own rate, and he still seems to be gaining weight so i’m not too worried, but i would like to make at least some progress soon.')])]
+for title,qs in examples:
+ lines += ['', '### '+title,'']+['- '+q for q in qs]
+text='\\n'.join(lines)+'\\n'
+# Validate before creating the only allowed output file.
+for sec in ['yes','near']:
+ assigned=[posts[sec][i-1] for f in forms if f['sec']==sec for i in f['nums']]
+ assert collections.Counter(assigned)==collections.Counter(posts[sec]),(sec,'post coverage')
+ for f in [x for x in forms if x['sec']==sec]: assert 3<=len(f['qs'])<=8
+if errors:
+ print('Quotation selections needing correction:',len(errors))
+ for e in errors: print(repr(e))
+ raise SystemExit(1)
+out=Path('baby-development/evidence/2026-11/second-reading/digest-15.md')
+assert not out.exists()
+out.parent.mkdir(parents=True,exist_ok=True)
+out.write_text(text)
+print('Wrote',out,'words',len(text.split()),'quoted passages',len(used))
+print('Forms:',collections.Counter(f['sec'] for f in forms))
+print('Yes tag totals:',{t:sum(v[t]=='yes' for v in tags['yes'].values()) for t in ['tried','others','bought','feeling']})
+PY" in /home/thinkpad/GitHub/_research
+ exited 1 in 0ms:
+Quotation selections needing correction: 6
+('sr048-0048', 'How can my baby practice if the food doesn’t go in his mouth?!')
+('sr094-0015', 'Some of the tricks have work, I won’t lie, but only momentarily. Like for example for one feeding session she is good with one bottle, and the next session she hates it.')
+('sr021-0085', 'through trial\nand error, I figured out he likes savory food more than sweet food (e.g., fruit).')
+('sr083-0106', 'I’ve bought easily over 50 different types of cups, even smaller versions of my water bottle but he just. wants. the. freaking. bottle.')
+('sr002-0243', 'I’m already feeling a bit overwhelmed with having to go back to work and leave her, and I just don’t know what I’m expected to do.')
+('sr059-0067', 'He’s eating better and actually taking a sippy cup.')
+
+exec
+/usr/bin/zsh -lc "python - <<'PY'
+from pathlib import Path
+import re,collections
+src=Path('baby-development/_work/2026-11/digests/share-15.md')
+s=src.read_text(); a,b=s.split('## Near posts tied to development:')
+posts={}; quotes={}
+for sec,part in [('yes',a),('near',b)]:
+ posts[sec]=[]
+ for block in re.split(r'(?m)"'^### '"',part)[1:]:
+  pid=block.split('|')[0].strip(); posts[sec].append(pid)
+  for m in re.finditer(r'"'^- '"\\x60(["'^'"\\x60]+)\\x60 \\(["'^'"\\n]*?\\) (.*?)(?=\\n- \\x60|\\Z)',block,re.M|re.S):
+   qid,body=m.groups(); assert qid not in quotes; quotes[qid]=(pid,body.rstrip())
+used=[]
+def norm(t):
+ return ''.join(c for c in t.replace('’',\"'\").replace('‘',\"'\").replace('“','\"').replace('”','\"') if not c.isspace())
+def Q(qid,txt=None):
+ body=quotes[qid][1]
+ if txt is None: txt=body
+ elif txt not in body:
+  # Locate an excerpt despite typographic apostrophes or whitespace, then return
+  # the original characters from the share, never the normalized text.
+  chars=[]; positions=[]
+  for i,c in enumerate(body):
+   c=norm(c)
+   if c: chars.append(c); positions.append(i)
+  needle=norm(txt); start=''.join(chars).find(needle)
+  assert start>=0,(qid,txt)
+  txt=body[positions[start]:positions[start+len(needle)-1]+1]
+ assert txt in body,(qid,txt)
+ used.append((qid,txt))
+ return '\"'+txt+'\" ['+qid+']'
+ynottried={8,27,37,58}
+yothers={2,4,5,7,8,9,10,11,12,13,19,20,21,23,26,29,31,35,39,40,42,44,50,52,53,58,59,60,61,63,65,67,68,69,73,74,75,80,83,86,88,89,91,92,93,94,99,100,102,104,109,110,111,112,113,117,118,119,120,122,124,125,127,128,130,131,132,133,134,136,138,139,140,142,144,145,150,152,153}
+ybought={4,11,27,31,52,94,98,99,101,109,110,119,131,133,145}
+yfeeling={1,2,4,5,6,7,9,11,13,15,18,19,22,24,25,28,29,31,32,33,37,38,39,40,41,42,43,45,48,49,50,52,54,55,57,58,59,60,61,63,66,68,69,71,73,74,75,79,80,82,86,87,88,89,91,92,93,94,99,101,103,105,106,108,110,111,112,114,115,116,117,118,119,120,122,124,125,130,131,133,135,136,137,139,140,142,143,144,146,147,149,150}
+nnottried={65,66,98}
+nothers={1,2,3,4,5,6,8,9,10,11,12,13,14,15,18,19,20,21,22,23,24,28,29,33,34,35,37,38,39,40,41,42,43,49,52,53,54,55,57,59,60,63,66,69,71,73,75,76,78,79,80,81,82,83,84,85,87,88,89,91,94,96,97,99,100,101,102,103,107,111,112,113,114,115,116,117}
+nbought={3,23,31,33,53,57,60,70,71,73,81,87,92,93,100}
+nfeeling={1,2,3,4,5,6,10,13,14,17,18,19,20,21,22,24,25,28,29,30,33,34,35,38,39,40,42,43,44,45,46,47,49,50,57,59,60,61,62,63,64,67,71,72,73,74,78,79,80,81,82,83,84,85,86,87,88,89,90,91,93,94,100,101,102,106,107,108,109,110,111,113,115,116,117,118}
+tags={}
+for sec,nt,ot,bt,ft in [('yes',ynottried,yothers,ybought,yfeeling),('near',nnottried,nothers,nbought,nfeeling)]:
+ tags[sec]={p:dict(zip(['tried','others','bought','feeling'],['no' if i in nt else 'yes','yes' if i in ot else 'no','yes' if i in bt else 'no','yes' if i in ft else 'no'])) for i,p in enumerate(posts[sec],1)}
+forms=[]
+def F(key,title,nums,desc,qs,but='nothing found against it.',sec='yes'):
+ forms.append(dict(key=key,title=title,nums=nums,desc=desc,qs=qs,but=but,sec=sec))
+F('fear','The parent wants to get past fear around offering solid food.',[1,9,18,24,28,29,35,49,91,103,142,150],
+'Babies are roughly 6–12 months old, and fear of choking, gagging or vomiting makes offering food difficult even when the baby wants it. Some parents limit texture, delay practice, seek first-aid reassurance or ask for a few foods they can manage; one wants a worried partner to trust the baby. One connects the fear to an older child turning blue while choking, and another names emetophobia.',[
+Q('sr041-0080','I am so damn scared my baby will choke just like my first. I never seemed to get over that fear. I am not sure how to get him to transition.'),
+Q('sr006-0164','But it gives me CRIPPLING ANXIETY. I just have a fear of him choking.'),
+Q('sr030-0026',\"I've tried some egg strips and now pasta exactly like I'm supposed to serve it, but she always just sucks the whole thing in her mouth and it scares the bejesus.\"),
+Q('sr131-0047','I have emetophobia ( fear of vomit ) and I just can’t do it..'),
+Q('sr122-0025','I think because I’m alone and she’s already scared me with the choking.')],
+'Fear is not shared by every parent involved: '+Q('sr032-0007','But i can’t be afraid, i just have to watch him and teach him.')+' Another parent is already sharing tiny pieces: '+Q('sr020-0042','We have definitely shared a tiny bit of food"'! Just not full portions yet since I was spooked lol.'"'))
+F('texture','The parent wants to move beyond purées but the child gags, vomits or rejects the texture.',[36,40,43,50,57,59,70,77,79,101,119,137,147],
+'At about 6.5–16 months, textured or thicker food can end an attempt with gagging, coughing or vomiting. The range includes grittier meat purée, tiny lumps, bread, eggs and finger foods; parents ask whether this is taste, texture, normal practice or a problem needing help. Some retain purées to get food in, and others describe cleanup and work making repeated trials harder.',[
+Q('sr058-0009'),Q('sr116-0067','But any time I give her anything even remotely thicker she gags until she projectile vomits. (i.e. pureed turkey in turkey broth. Still a puree, but a grittier texture).'),
+Q('sr039-0088','Now she dont know how to chew solid food. She can eat yogurt bites, crackers, cookies etc.'),
+Q('sr091-0149'),Q('sr116-0069')],
+'Tolerance is selective rather than absent across all textures: '+Q('sr068-0055','She will happily chew on baby rusks and cucumbers, but struggles with pancakes and omelettes (will either shred them without eating or gag).'))
+F('pace','The parent wants the child to chew and pace bites instead of swallowing too much at once.',[16,63,66,135],
+'These posts describe babies around 7 months and 9–12 months, and toddlers of 17 and 23 months. Parents report swallowing before chewing, big bites, rapid shovelling, gagging or choking scares, including back slaps and three reported baby Heimlich interventions. They try modelling chewing, placing food to the side, feeding the child themselves or pausing between spoonfuls, but the child may resist.',[
+Q('sr055-0030'),Q('sr055-0034'),
+Q('sr011-0072','She will shovel food in her mouth, take big bites, etc. And when she gets too much in there, she will gag and spit it out, on herself, the carpet, etc.'),
+Q('sr118-0081','We tried this morning with breakfast to wait a bit between each spoonful but she got more and more angry and kept crying.'),
+Q('sr055-0060','He DOES it, just not super effectively and sometimes he does just outright forget to chew before swallowing his food, so I\\'d prefer to keep food on the softer/moister side')],
+'The concern can coexist with a strong appetite and growing independence: '+Q('sr011-0072','My daughter (23 months) is generally a good eater - independent, likes to feed herself, learning fork and spoon well, etc.'))
+F('readiness','The parent asks whether the baby is ready for solids when sitting or early feeding skills are still developing.',[34,44,71,86,100,102,111],
+'At about 4–6 months, parents compare interest in food, head control, sitting support and tongue thrust with advice to start solids. Some have a doctor’s approval or pressure to begin but see slumping or falling sideways; others ask whether delay is acceptable. Eagerness for food and physical readiness do not always appear together in these accounts.',[
+Q('sr029-0094'),Q('sr043-0012','Looking up the signs of readiness and I don’t think he’s quiet there. He can really only sit between my legs with his back to me, and even then his head slumps forward quite a bit.'),
+Q('sr071-0024'),Q('sr085-0018','LO is just not ready yet and he is ANGRY. 😂'),
+Q('sr091-0066','Seems a bit early imo I’m worried about choking and her maybe not being able to hold herself up')],
+'Interest and enjoyment are already visible in one early taste: '+Q('sr056-0012','I let her gum it for a second and she made a funny face but was thrilled.'))
+F('start','The parent wants a simple way to start solids and know what comes next.',[8,37,46,104,134],
+'With babies around 4–6 months, parents ask about first foods, spoon feeding versus baby-led weaning, preparation and when to increase meals or stop purées. Some are planning ahead, while one is already offering a daily purée and another has a doctor’s suggestion to let the baby explore cereal. Limited cooking experience, solo parenting and the volume of information make a starting point hard to choose.',[
+Q('sr032-0071'),Q('sr010-0084','Were they a hit or a miss? Did you spoon feed or go for baby-led weaning? Were they homemade or a store bought puree? Intentional or by accident?'),
+Q('sr044-0063','When do I start introducing real foods? Or stop puréed foods? When do I have to be giving her more solids during the day?'),
+Q('sr082-0049','For one, I don’t cook, never have. I mean I used too but I’m soloparenting and we’re still contact napping baby so I really don’t have a lot of free time.')],
+'Uncertainty does not always mean waiting to do anything: '+Q('sr044-0063','My baby is 5 months old and I am starting to give her a pureed vegetable or fruit once a day.'))
+F('foods','The parent wants manageable foods that fit the child’s eating skills and everyday meals.',[26,27,52,85,90],
+'Parents of babies about 5.5–9 months ask for a small number of first table foods, ways to prepare proteins without teeth, and foods with less salt or sugar. Other questions concern whether puffs or a particular soft cookie are suitable, with snack labels giving different stage cues. These are requests for workable choices rather than reports that every food is refused.',[
+Q('sr042-0112','I think they will be helpful eventually, but right now I feel like we just need a few foods to introduce baby to ideas like \"feeding myself\" and \"chewing\" and \"not choking\".'),
+Q('sr076-0001','i want to try chicken, beef, turkey and other good proteins. how do i prep and cook said foods for my 7 month old with no teeth?'),
+Q('sr072-0023','I don’t know what else to give him. Everything I try to think of just has way too much salt or sugar.'),
+Q('sr023-0088','I bought some cookies from Costco—MadeGood “Organic Soft Baked Cookie Bites.” My 9-month-old is at that stage where he wants to try everything I’m eating, and I’ve been really tempted to let him have a taste.')],
+'Finding the next food can follow successful feeding rather than difficulty eating: '+Q('sr023-0042'))
+F('milk-solids','The parent wants solids to replace milk feeds but the child is still eating too little.',[13,20,25,55,61,62,114,131],
+'From 6 to 15 months, parents want to reduce breastfeeding or formula but describe only a few bites, reliance on milk, or rejection of most food. Work, daycare, a hoped-for first-birthday transition and formula costs add deadlines; one parent fears losing WIC formula support at 12 months. They ask about meal timing, routines, feeding therapy and how the change can happen when intake is still small.',[
+Q('sr022-0035','I want to cry. I feel trapped. I can’t leave my baby for longer than an hour or two because I am her only source of nutrition.'),
+Q('sr019-0026','I’m stating to think it’s impossible for him to eat and he’ll be breastfeeding forever lol. He’s a big baby and growing well so no concerns there but i just want him to start eating regular food"'!!! I wanted to stop bf around 12 months 😭'"'),
+Q('sr054-0004'),Q('sr046-0046','my little boy is turning a year old this week (🥳) but his diet is still 95% formula.'),Q('sr113-0013')],
+'Some intake is improving: '+Q('sr054-0003')+' Another parent reports growth despite low solid intake: '+Q('sr046-0046','I know kids develop at their own rate, and he still seems to be gaining weight so i’m not too worried, but i would like to make at least some progress soon.'))
+F('little','The parent keeps offering foods but the child eats very little or mostly plays with them.',[39,56,60,64,69,80,81,82,88,97,99,105,117,120,122,133,138,143,145],
+'From 5 months to about 15 months, parents report mouthing, licking, smashing, dropping or throwing food instead of consistently eating it. They offer purées, finger foods, different flavours and textures, shared meals or preloaded spoons, and some say the child mouths every non-food object. Several compare intake with other babies, question whether they are failing, or say professional reassurance does not address what is happening at meals.',[
+Q('sr048-0048',\"How can my baby practice if the food doesn't go in his mouth?"'!"),
+Q('"'sr071-0002','He will play with it, smash it, throw it but rarely ever eats. At best he’ll take a little taste or suck on a cracker or strawberry but then he’s done. We’ve tried purées and BLW.'),
+Q('sr067-0105','He just sticks his tongue out and if I get some in his mouth he just holds it in there and doesn’t even try to swallow.'),
+Q('sr093-0102'),
+Q('sr113-0167','I left feeling really guilty and discouraged because I AM trying. I offer him food every day, I buy and prepare different things, and so much of it ends up untouched or in the trash.'),
+Q('sr084-0025','He wants to feed himself, refuses to be fed from us but then gets frustrated when the food falls from the baby spoon and he can\\'t properly put it in his mouth.')],
+'Acceptance can depend on what is offered: '+Q('sr054-0113','He will eat things we eat. He ate refried beans with his papa last night. He ate potatoes our pastors wife made. I gave him a little pancake one day and he ate that.'))
+F('regression','The parent worries because foods the child used to eat are now refused or spat out.',[38,48,75,84,87,129,144],
+'Parents of babies roughly 8–10 months and one 15-month-old describe a change after earlier success with purées, meals or chicken. Some connect it with illness or teething, while others question whether that explains the loss of foods already mastered. They ask whether appetite or swallowing will recover, whether this is pickiness, and whether feeding therapy is needed.',[
+Q('sr071-0009','Now at 10 months feels like he\\'s regressed : he takes food, chews it, then pushes it out with his tongue, picks it back up, puts it in his mouth again, and repeats basically never swallowing unless it\\'s banana.'),
+Q('sr044-0089'),Q('sr057-0096'),
+Q('sr110-0068','Recently (started about 2 weeks ago) she had a hard time swallowing those chicken, she is chewing but just couldn\\'t swallow them.'),
+Q('sr122-0039','Then she was sick for a couple of weeks with a few different daycare viruses and wasn’t very interested in eating. Now we’re a couple weeks removed from that and she still isn’t interested.')],
+'The loss is not necessarily across all foods: '+Q('sr071-0009','Banana he eats with zero struggle. Raspberries too, actually.'))
+F('dependent','The parent worries about dependence on being fed and wants a way toward independent meals.',[33,65,68,92,93,115,140],
+'At 8–16 months, these parents distinguish eating when fed from bringing food to the mouth independently. They describe limited early self-feeding, losing a previous habit, or an allergist’s instruction to avoid food on broken skin, and fear teaching dependence or leaving the child hungry. Two supplied posts repeat the same 16-month-old account; a separate parent reports that self-feeding and cup use changed quickly after the first birthday.',[
+Q('sr124-0012','The second we load a spoon or hand her a bite, she happily eats.'),
+Q('sr077-0087','But he still eats all of his food through us hand feeding 🥲'),
+Q('sr054-0107','Im concerned I’m not teaching her how to feed herself but how to be fed.'),
+Q('sr028-0060','We started introducing solids around 8 months and would mix purees or baby food into his bottles, so he never really learned to eat independently from the start.'),
+Q('sr051-0028')],
+'The outcome is not always continued dependence: '+Q('sr091-0123','Now, almost 3 weeks later my son is fully self feeding"'! Most meals are devoured in minutes, he loves the cup, he gets very excited to sit in his high chair because he knows he’s going to eat and he’s eating 3 meals and 2 snacks a day!'"'))
+F('utensils','The parent asks when and how the child should use utensils instead of hands.',[12,22,23,51,58,132,154],
+'With children about 9–24 months, parents ask whether hand eating is normal, when spoons should work, and how to teach without rejected hand guidance. Some children use preloaded utensils but drop them, chew them or return to their hands; messy hair and clothing also prompt questions about manners. Other people supply deadlines, including a nursery comparison and an unsolicited autism warning, which are reported claims rather than diagnoses established here.',[
+Q('sr014-0002'),Q('sr014-0003'),Q('sr114-0024'),Q('sr114-0027'),Q('sr133-0159'),
+Q('sr022-0020','So my opinion is to stick with spoon regarding everything, so she know that you just dont put your hands in any kind of food, ever. But my wife disaagrees, tells me that everyone is doing what she is doing and she just must figure it out.')],
+'One child already has more spoon experience than the question initially suggests: '+Q('sr022-0023'))
+F('calmer','The parent wants mealtimes to feel calmer while the child practises eating.',[6,53,116],
+'At 8–10 months, parents describe crying between bites, refusing adult spoon feeding, wanting the spoon, and food flung everywhere. They want solidarity, ways to feed an independent baby, or beginner foods for a move into baby-led weaning. One also has a pediatrician asking for calorie-dense intake, so simply letting the child proceed at their own pace feels difficult.',[
+Q('sr002-0321'),Q('sr002-0322'),Q('sr044-0145'),
+Q('sr094-0073','She only wants to feed herself. I guess she thinks she’s a big girl. So here I am trying baby led weaning against my will 😂.')],
+'Resistance to being fed can coexist with enthusiasm for food: '+Q('sr094-0073','She has always LOVED food. She goes crazy for it.'))
+F('bottle','The parent wants the baby to accept milk away from the breast so someone else can feed them.',[5,7,11,47,83,110,113,118,136,151,152,153],
+'From about 6 weeks to almost 9 months, bottle refusal limits breaks, weaning, returning to work or starting daycare. Parents try nipples, bottles, temperatures, positions, timing and another feeder, sometimes considering cups instead; some ask whether persisting when hungry would help or make things worse. The accounts include exhaustion, temporary successes, a reported episode of pushing through struggle, and a parent preparing for daycare while mostly alone during a partner’s deployment or training.',[
+Q('sr003-0202'),Q('sr091-0140'),Q('sr134-0105'),Q('sr007-0108'),Q('sr119-0035'),Q('sr134-0124')],
+'Acceptance sometimes appears: '+Q('sr007-0113')+' It can also be brief: '+Q('sr094-0015','Some of the tricks have work, I won’t lie, but only momentarily. Like for example for one feeding session she is good with one bottle, and the next session she hates it.'))
+F('suck','The parent wants help with latching, sucking and managing milk flow.',[4,10,17,31,32,67,73,74,89,107,112,128,149],
+'From the first days to about 6 months, parents describe clicking, leaking, choking on milk, slow feeds, frantic flow or latching without sucking. They change teats, pace feeds, use shields, seek assessments or discuss oral-tie release; professionals sometimes disagree or are experienced as aggressive. One detailed account explicitly says ChatGPT helped analyse feeding videos and write the account, so its reported retraining success is labelled AI-assisted rather than independently verified.',[
+Q('sr090-0061','My 2 week old baby latches well (I make sure to do a deep latch and compress). But as soon as he’s latched he just stays there and does NOTHING..no matter how hungry he is.'),
+Q('sr007-0100'),Q('sr027-0207'),Q('sr074-0118'),Q('sr060-0019'),
+Q('sr001-0165','👉 If they’ve learned the wrong pattern, you have to teach them how to feed again')],
+'Changing equipment did help one family: '+Q('sr027-0118','Still a little bit of dribble but totally manageable now and feel like I won’t be dreading bottle time anymore"'!'"')+' A tie was not found in another assessment: '+Q('sr060-0038'))
+F('cup-skill','The parent wants a cup or teaching method that the child can actually drink from.',[3,14,15,19,45,78,94,95,96,124,148],
+'At 6–18 months, parents describe chewing a straw instead of sucking, sucking without swallowing, failing to tilt a cup, tilting a straw cup too far or struggling against a valve. They model, squeeze, guide arms, offer different cups or test the suction themselves; one spoon-feeds formula mixed into food because no drinking method works. Other parents ask which cup can fit home and outings while open-cup skills develop.',[
+Q('sr004-0064','we cannot figure out how to get him to actually suck on the straw. he just chews and then gets mad.'),
+Q('sr018-0031','she will suck without issue but won’t swallow water, she will let it dribble out.'),
+Q('sr076-0035','He simply will not lift the cup up to make the water/milk flow forward.'),
+Q('sr080-0100','He understands the sucking of a straw but he always tilts the cup back so far that it\\'s just air going through the straw.'),
+Q('sr014-0044'),
+Q('sr015-0007','* **The only way he gets formula:** We have to mix it with sweet potato, banana, or pumpkin and spoon-feed it to him like a thick soup.')],
+'A child may already drink with help: '+Q('sr004-0065','He drinks out of it fine if you hold it for him but will just dump it everywhere if he tries lol.')+' The difficult cup can have a useful feature: '+Q('sr014-0047'))
+F('liquid','The parent wants the child to drink enough from cups instead of taking a few sips, playing or spitting it out.',[41,76,106,121,130],
+'With children about 11–13 months, getting liquid into the child matters more than obtaining a cup. Some children know how to sip but are uninterested, leave milk unfinished, splash or let it run from their mouths. Parents model, leave cups available, offer tiny portions or remove the cup, and worry about hydration or weaning.',[
+Q('sr037-0013','She knows how to do it, but we’ve had the most success just leaving it out around her and she’ll pick it up every few minutes (sometimes) and take a sip or two.'),
+Q('sr037-0014','We put about an 1oz into her cup at a time and she has NEVER finished it within the two hour safety limit.'),
+Q('sr064-0013','I’ve tried different cups, modelling, I keep offering him water and he isn’t interested. If it’s an open cup he likes to splash his hand in it lol.'),
+Q('sr095-0095'),
+Q('sr087-0040','I offer her a straw sippy cup with either warm milk or water and she will try and suck but just spits it out.')],
+'The difficulty is not necessarily an inability to drink: '+Q('sr110-0073','up until maybe a month ago he drank water no problem from his straw cup.'))
+F('milk-cup','The parent says the child can drink from cups but accepts milk mainly from a bottle or familiar spout.',[2,42,54,98,109,125,126,141],
+'At about 11–21 months, water drinking can work while milk or formula in a different vessel is refused. Parents ask about going cold turkey, preserving milk intake and sleep, buying another cup, or matching daycare’s transition. One family has removed bottles for three days without milk acceptance, and another’s familiar vessel is a sippy rather than a baby bottle.',[
+Q('sr004-0044'),Q('sr083-0014'),
+Q('sr088-0078','We bought him a similar straw cup but a different color to differentiate his water from milk. We have tried letting him drink it from the cup. We have tried other straw cups. In all, he doesnt like drinking milk from those.'),
+Q('sr043-0100'),Q('sr103-0138')],
+'Cup refusal is not absolute in every setting: '+Q('sr102-0016','Last week they said she had 4oz of formula twice from the sippy cup and over the weekend/today she’s been rejecting it.'))
+F('comfort','The parent wants to stop bottles while preserving comfort, sleep or a familiar routine.',[21,30,72,108,123,127,139,146],
+'Parents describe children from 8 months to nearly 2 years who associate bottles with cuddles, naps, bedtime or the first waking feed. Some already use straw cups, open cups or straw bottle tops, but want to remove remaining bottle occasions without distress or losing the calming routine. They discuss gradual reduction, a new vessel, toothbrushing and whether the recommended deadline fits their child.',[
+Q('sr090-0072','But she finds comfort in me holding her bottle and cuddling my arms while falling asleep. She\\'ll fight sleep and be extremely fussy until i do the routine.'),
+Q('sr056-0026','I’ve tried gradually decreasing the amount in the bottle - got down to 1 oz of milk in the bottle, then following up with banana and milk in straw cup, which she seems okay with most of the time… but I’m just having a hard time getting her off this last bottle.'),
+Q('sr120-0098','We feed him milk before bed in a bottle he likes it and we bond he is still a baby in my opinion.. pediatrician says we need to do sippy cup.'),
+Q('sr125-0077'),
+Q('sr099-0026','So when we tried the formula in a regular straw cup it didn’t trigger the same mellowing-out effect.')],
+'Some transitions concern scheduling rather than keeping a teat: '+Q('sr020-0103','Right now he’s solely drinking bottles with a conversion straw top (it’s the comotomo ones). No more nipple tops.'))
+titles={f['key']:f['title'] for f in forms}
+def N(key,nums,desc,qs,but='nothing found against it.',title=None):
+ F(key,title or titles[key],nums,desc,qs,but,'near')
+N('readiness',[1,11,43,76,103,112,114],
+'These near posts ask about starting around 3–6 months, often after medical approval that differs from other advice or from what the parent sees in sitting and head control. Parents discuss waiting, early tastes, allergen exposure or cereal in a bottle, and request reasons or evidence rather than assuming one age settles readiness. One child’s current stage is unknown; a recommendation is not treated here as established medical guidance.',[
+Q('sr005-0193'),Q('sr076-0042'),
+Q('sr108-0055','I told our pediatrician that I was going to wait until the baby was sitting better to start solids of any kind. He said that as long as it is a very thin consistency that we could start anytime, and even suggested baby cereal in a bottle is okay..'),
+Q('sr045-0044')],
+'Some report that physical control and early feeding are going well: '+Q('sr127-0115','He’s 4 months old and pretty good with head control. We have a seat that sits him upright and he does fantastic in it.'))
+N('start',[19,40,73],
+'Parents of 4.5–5-month-olds ask for a clear starting order, purée handling, meat preparation and when to combine foods. They have already tried avocado and banana or bought ingredients, but feel overwhelmed by choices and conflicting advice. One wants vegetables before fruit after a parent warned that sweets would affect vegetable acceptance.',[
+Q('sr011-0136','now what? i feel so paralyzed with options. my mom said giving him sweets too soon will make him not like veggies so im nervous that i gave him banana already.'),
+Q('sr031-0101'),Q('sr031-0102'),Q('sr075-0056')],
+'One parent also expresses anticipation: '+Q('sr031-0100','We plan to start tomorrow and are super excited.'))
+N('foods',[8,26,31,32,63,68,72,77,91,92],
+'These posts seek daycare foods, portable lunches, affordable allergen purées, simple meal plans or foods a child can eat independently while standing. Known ages run from about 6 months through the first birthday, with some ages unknown; one almost-one-year-old has only recently moved beyond an NG tube and needs a minced-and-moist cake. Convenience, limited chewing skills, mess, sodium, safe packing and unfamiliar ingredients all shape the requests.',[
+Q('sr024-0090'),Q('sr079-0085','He’s not great with baby-led weaning, so looking for easy ideas.'),
+Q('sr056-0115','I would feel less overwhelmed and do better if I had a clear meal plan for her. I\\'m also a really picky eater and am trying not to pass that on to her, so I want to introduce her to a variety of foods but it\\'s not as simple as just feeding her what I\\'m eating.'),
+Q('sr070-0120'),
+Q('sr017-0199','He’s had some issues with swallowing and had to start off the first 10 months with an NG tube, so we’re still in Minced and Moist territory.'),
+Q('sr099-0106')],
+'Requests for ideas can follow discovery of what the child likes: '+Q('sr021-0085','through trial and error, I figured out he likes savory food more than sweet food (e.g., fruit).'))
+N('milk-solids',[5,13,53,74,85,115],
+'At about 8–12 months, these parents worry about replacing formula or breastmilk while solid intake remains limited, purée-dependent or mainly at night. Questions combine cups and bottles, total nutrition, high-chair distress and what a first-birthday transition should look like. One explicitly needs more solids because reduced formula benefits cover only part of the month.',[
+Q('sr004-0143'),Q('sr049-0160'),
+Q('sr072-0081','His pinching and fine motor skills are on-track, but I have to feed him the majority of his meal pureed, or he won\\'t get enough food in him before he starts to sweep everything on his tray away and refuse to eat anymore.'),
+Q('sr090-0121','I feel like no matter how I approach it, I’ll end up doing some harm.'),Q('sr126-0104')],
+'Some already eat selected meals and snacks: '+Q('sr006-0141','She has some staples she really likes like eggs, spaghetti, and carrots, but she is still drinking a lot of formula during the day.'))
+N('little',[9,51,62,89,106],
+'These parents focus on small quantities, short-lived interest or food that is mouthed without much being swallowed. Known ages include 9–12 months, 13 months and 24 months; two stages are unknown. Concerns include iron, regaining weight after illness, avoiding pressure and a child who refuses help from an adult.',[
+Q('sr005-0189','LO will have 2-3 teaspoons, then get distracted, purse his lips, and start flailing around.'),Q('sr046-0077'),
+Q('sr058-0131','We are offering 2-3 meals a day, but she is showing little interest. How much is she supposed to be eating? Or are we still in the stage where the important thing is consistently offering?'),
+Q('sr109-0140','He will forget to swallow the food and begin to cry which makes me worry he could choke.'),
+Q('sr097-0030','She is hyper-independent and won’t let me feed her. Even though we are against it, we even tried feeding her in front of the TV, but nothing works')],
+'One parent reports reassuring development despite intake concerns: '+Q('sr097-0029'))
+N('regression',[42,50,59,88,108,109,110,111],
+'Known ages range from 8.5 months to 2 years, and these parents describe diminished intake, lost accepted foods, spitting or throwing after earlier successes. Illness or teeth are possible explanations in some accounts, while others have persisted for months and include weight loss or very limited variety. Several say changing textures, timing, plates or the feeding setting has not restored eating.',[
+Q('sr049-0037'),Q('sr049-0038'),
+Q('sr058-0001','Since my son turned one, he stopped eating dinner. He is now almost 20 months. Previously, he ate everything I gave him.'),
+Q('sr119-0042','He used to be really good, he’d either take pureed food off a spoon fine, or he’d pick up finger foods and eat them like pasta, homemade pizza and other homemade foods but now he just wont touch it.'),
+Q('sr120-0023','He is losing interest in toast and sandwiches and figuring out what to feed him everyday is a real struggle.')],
+'Refusal can vary by setting: '+Q('sr058-0008','By them way, at daycare he does eat things he doesn\\'t eat at home.')+' One parent still describes normal nursing: '+Q('sr119-0051','He is nursing normally.'))
+N('dependent',[45,67],
+'Two parents describe children around 2 years who had hospital care and then continued receiving food by hand or spoon at home. They want more independence but fear low intake, emotional upset or a negative meal experience. The posts say the children can self-feed at least some food, so the question is how to change an established pattern.',[
+Q('sr042-0048'),Q('sr042-0053'),
+Q('sr065-0042','It all started when he had another brain surgery (he’s had 3)'),
+Q('sr065-0041','He will feed himself if it’s a preferred food like pizza, pickles, anything like that. But if it’s anything less desirable, he won’t feed himself.')],
+'The accounts explicitly describe existing ability: '+Q('sr042-0043')+' '+Q('sr065-0042','He’s totally capable of feeding himself, but I don’t know how to break the cycle.'))
+N('calmer',[25],
+'One parent, with the child’s age unknown, shares a lunch game rather than asking for a new food. A robot voice, a rotating plate, paced portions and prompts to chew or select a utensil drew the toddler into the meal. The parent reports eating more and less conflict despite the meal taking longer.',[
+Q('sr020-0094'),Q('sr020-0098'),Q('sr020-0100'),Q('sr020-0102')],
+'The post records success rather than a continuing failure: '+Q('sr020-0102','He finished almost the whole plate of food, we were both happy and regulated even though it took a little longer.'))
+N('bottle',[4,14,15,18,21,22,23,27,30,33,35,79,82,87,93,100,104,113],
+'Known ages run from 8 weeks to 10 months, with some unknown. Parents need bottles or another vessel for work, daycare, breaks, mental health or a mother’s tumour treatment, and report experimenting with carers, milk, nipples, cups, timing and movement. Some describe feeding while asleep, pressure that backfired or time without milk; a named aversion programme and a family-led transition also have reported improvements, without establishing that they will work for someone else.',[
+Q('sr013-0075','I experience really intense D-MER when I feed and I just can’t do it anymore'),
+Q('sr008-0119','I left work early because he had gone 10 hours without eating and I didn\\'t want him to go through the whole night hungry.'),
+Q('sr020-0063'),Q('sr094-0104'),
+Q('sr121-0114','I’m also horribly depressed and need a fucking break. Yes I am in therapy and medicated.'),
+Q('sr023-0061','so I tried to push the bottle in her mouth and open her mouth to get her to drink. Well that’s has definitely backfired.')],
+'Some report progress: '+Q('sr005-0125','He stopped crying at the sight of the bottle by the end of the second day.')+' '+Q('sr014-0181','Would you believe in the last 20 minutes she drank about 1.5oz from a bottle.'))
+N('suck',[12,16,29,44,57,61,71,94,102,107,116,117],
+'These posts involve newborns through about 5 months, plus one unknown age, and place latch or sucking difficulties inside reflux, pain, weight-gain, tube-feeding or formula decisions. Parents report conflicting assessments, persistent slow feeds, a tie release that does not establish latch, or fear that another bottle will create aversion. Their causal explanations and treatment claims are recorded as their accounts, not confirmed findings.',[
+Q('sr015-0020','He had his tongue tie snipped 5 weeks ago which has progressively improved his latching.'),
+Q('sr021-0056'),
+Q('sr058-0068','My 5 month old learned to eat from bottles until we released his tongue tie and then we switched to breastfeeding, so his latch isn’t great.'),
+Q('sr128-0129','We got it fixed when she was 5 days old, but she was never able to latch before or after.'),Q('sr132-0093')],
+'Other feeding developments are positive: '+Q('sr099-0182','He was finally able to latch and feed properly after about a week, but then he’d stay on for hours on end.')+' In another post, '+Q('sr110-0042','my husband is loving being able to give a bottle to her and she takes the bottle very well'))
+N('cup-skill',[7,55,58,95,97,98],
+'Parents ask how to teach straw or open-cup use, choose a suitable vessel and translate bottle feeds into cups at home or outside. One child is described as 2 years old; the other ages are unknown. Questions include not tilting, being better at open cups than straws, mess and whether occasional sips can replace a full held bottle feed.',[
+Q('sr004-0186'),Q('sr051-0034'),
+Q('sr055-0095','But obviously they need to learn the skill of drinking from an open cup, at least.'),
+Q('sr102-0029','Do you sit them down with the straw cup and have them drink? Or do you just like offer it throughout the day? How do you make sure they get enough?'),
+Q('sr101-0100','It needs to be something easy because he still doesn’t get that he has to tilt his head back to drink lol')],
+'For some the basic skill is already present: '+Q('sr101-0064'))
+N('liquid',[17,20,48,90],
+'At 7 months, around 1 year and 18–24 months, parents keep offering water but report a few sips, a face of dislike or outright refusal. They try cups, a familiar bottle, flavouring, temperatures and modelling; constipation or lower breastmilk intake adds urgency. One says the straw skill itself is still developing.',[
+Q('sr013-0027','We’ve been offering it in so many different cups. Added a little prune or apple juice to give it some flavor. And we still get nothing"'!'"'),
+Q('sr013-0173'),Q('sr044-0098','but the most water she has taken in a day is like 2 oz....'),
+Q('sr098-0054','I\\'ve tried straw cups (he still doesn\\'t know how to use one, still trying to teach him) I\\'ve tried in his bottle, I\\'ve tried constantly, sometimes after a hot day he\\'ll let me give him sips but not always, I\\'m just at a loss')],
+'Limited intake does not always mean lack of ability: '+Q('sr044-0098','She can use a straw cup, and will when she wants to... but doesn\\'t want to.'))
+N('comfort',[2,36,39,52,64,70,81,105],
+'Known ages range from 12 months to about 2 years, and several ages are unknown. Parents ask how to remove bedtime, overnight or morning bottles, coordinate breastfeeding weaning and cup changes, or replace comfort milk after successful feeding therapy. They describe water accepted from cups while milk needs a familiar bottle, and worry about sleep, distress, teeth or later potty training.',[
+Q('sr003-0045'),Q('sr048-0080'),
+Q('sr062-0004','She attended feeding therapy for 8 months which was successful in teaching her how to eat. Unfortunately we never stopped giving her milk at bedtime/before naps. What started as necessary supplementation became just for comfort...but now she\\'s hooked.'),
+Q('sr083-0106','I’ve bought easily over 50 different types of cups, even smaller versions of my water bottle but he just. wants. the. freaking. bottle.'),
+Q('sr066-0062','Should we do both together? Or wean middle of night first and then transition bed time?')],
+'The water-cup transition can already be straightforward: '+Q('sr048-0080','He’s already on sippy cups during the day. That transition was easy.'))
+N('schedule',[10,28,38,41,46,54,69,75,84,96],
+'These posts ask how much milk or food is enough, how to space meals and bottles, and whether apparent swallowing or chewing means the child is ready for more. Known ages range from a 7-day-old newborn through 13 months, with one unknown; the questions also include visible food in stool and differing advice on milk after 1. One parent is pleased with eating progress but sad about shorter breastfeeding sessions.',[
+Q('sr038-0105','He will eat the whole jar pretty dang fast"'! He opens his mouth and at this point he kinda knows how to use his tongue to swallow. Is it normal that he finishes the whole jar?'"'),
+Q('sr101-0038','But I guess my question lies with, **how often do I give this to her? How much at a time?**'),
+Q('sr045-0080'),
+Q('sr064-0086','I was told to wait to introduce the bottle until 3-4 weeks so baby develops good latching and doesn’t get lazy with a bottle.'),
+Q('sr021-0031','often has large pieces of food in her poop, given she cannot actually chew it.'),
+Q('sr035-0108','Anybody else find this change a little bittersweet? I’m excited about it but sad that we won’t be breastfeeding as long.')],
+'Not all of these questions arise from delayed eating: '+Q('sr035-0106','She generally eats very well"'! Chews well, drinks water and milk from her straw cup, uses her spoon (doesn’t load it herself but she’s only 6.5 months).'"'),title='The parent asks how much milk or food to give and how to arrange feeds.')
+N('medical',[34,37,49,78,83,86,99,101],
+'Known ages range from 7 weeks to 12 months. Parents ask about reflux or painful hiccups, constipation during solids, suspected EOE, illness-related bottle refusal, allergen dosing, hives or severe vomiting; one father feels responsible for a peanut-allergy diagnosis. Feeding practice is part of these accounts, but the main request concerns a medical explanation, safe exposure or recovery, and suspected diagnoses remain uncertain.',[
+Q('sr028-0111','I feel devastated my son who just turned 10m old has been diagnosed with peanut allergies. I feel like I let him down by not doing better allergen exposure with solids.'),
+Q('sr084-0047','Sucks at eating solids like never really chewed anything in his life.'),Q('sr087-0075'),Q('sr108-0036'),
+Q('sr050-0063','Should I skip her solids tomorrow? Is that bad? I don’t want to give her anything that could make it worse and I also don’t know if I should give her prunes for the 4th time in a row.'),
+Q('sr102-0109','is there anything wrong with just giving small tastes in their cheek for exposure purposes rather than a full 1-2 tsp?')],
+'Some oral intake is working despite the medical concern: '+Q('sr050-0060','She’s only just now finally figuring out a sippy cup so we can get a small bit of water into her')+' '+Q('sr087-0075','He takes those just fine and seems to love the taste and texture.'),title='The parent wants to understand an allergy or medical problem that may be limiting eating.')
+N('other',[3,6,24,47,56,60,65,66,80,118],
+'Other: the main subjects are overnight formula preparation, nursery milk storage, appointment timing, sleep, holiday clothing, an unexpected pregnancy and possible abortion, daycare costs, claims about premasticated food, an older sibling’s bedtime and anger at a dog. Known children range from newborns to 18 months alongside an older sibling; several ages and one speaker’s parental status are unknown. Eating skills are background context, and the premastication passage is a set of claims whose original author and verification are not supplied; the dog post explicitly reports hitting the animal.',[
+Q('sr005-0061','we were triple feeding: breast, formula + milk I pumped every 3h, and we also did this all with SNS"'!! It was mentally exhausting'"'),
+Q('sr002-0243','I’m already feeling a bit overwhelmed with having to go back to work and leave her, and I just don’t know what I’m expected to do.'),
+Q('sr020-0091','I accidentally booked the LC appt for right after the pediatrician appt to help my 4 month old take a bottle before I return to work in a couple weeks.'),
+Q('sr044-0075'),Q('sr059-0070'),
+Q('sr065-0013','well the overall rate increases at daycare have far outpaced the rate decreases of getting older.'),
+Q('sr061-0089'),Q('sr134-0119')],
+'The feeding references can describe progress: '+Q('sr059-0067','He’s eating better and actually taking a sippy cup.'),title='Other')
+lines=['# Digest 15: pattern 7, Learning to eat and drink as a skill','',f'Share: {src.as_posix()}. Yes posts: 154. Near posts: 118.','',
+'<"'!-- Method: All 272 supplied posts and all supplied quotations read; unread: 0; excluded: 0. Posts came from a random 20,000-post sample and were already assigned pattern 7. Counts describe this share, not market prevalence or distinct families. Apparent cross-posts 1v6fzil / 1v6g3gi repeat one account but count once per supplied ID. Sex, country, income and age are not inferred; '"\\\"the parent\\\" is used because speaker sex is often unspecified. Post tags below are ordered tried, others, bought, feeling. Tried includes actual feeding attempts, research, consultations and arrangements, but not plans alone. Others records reported external advice, examples or another person’s action, not requests alone. Bought requires explicit buying, ordering, store-bought food or private paid help: ownership, brand use, WIC provision and contemplated purchases alone are no. Feeling requires a named affective state, including explicitly denied worry; a belief beginning \\\"I feel like\\\" alone is no. Reported diagnoses, treatments and causal explanations are not independently verified. -->','']
+for sec in ['yes','near']:
+ lines += [f'## Pattern 7, share 15: {sec} posts','']
+ for f in [x for x in forms if x['sec']==sec]:
+  ids=[posts[sec][i-1] for i in f['nums']]
+  lines += ['### '+f['title'],'',f\"{len(ids)} of {len(posts[sec])} posts.\",'',f['desc'],'']
+  lines += ['- '+q for q in f['qs']]
+  lines += ['','**But:** '+f['but'],'','Posts: '+' '.join(ids),'','<"'!-- Post tags: tried | others | bought | feeling'"']
+  lines += [p+': '+' | '.join(tags[sec][p].values()) for p in ids]
+  lines += ['-->','']
+lines += ['## Pattern 7, share 15: across the yes posts','','| Tag | Posts |','|---|---|']
+for t in ['tried','others','bought','feeling']:
+ lines.append(f'| {t} | {sum(v[t]==\"yes\" for v in tags[\"yes\"].values())} of 154 |')
+examples=[('What they tried, in their words',[
+Q('sr003-0038'),Q('sr055-0034'),Q('sr037-0013'),
+Q('sr076-0036','I’ve tried filling the cup up half way, I’ve tried having him drink and manually lifting his arms while saying “lift, lift"'!”'"'),
+Q('sr007-0004'),Q('sr003-0209'),
+Q('sr060-0017','We were doing pigeon SS flow and I would have to let her take a few sucks, tilt the milk away, let her breathe, then let her eat again.'),
+Q('sr077-0084','Then at 9mo I became really concerned about him not bringing food to his mouth, so I only offered finger foods, nothing with a spoon.'),
+Q('sr044-0145'),
+Q('sr001-0166','We would place the soother in his mouth and then gently position the tube into the side of his mouth. As he sucked on the soother, milk would be delivered through the tube.')]),
+('What other people told them or did',[
+Q('sr007-0100'),Q('sr014-0003'),Q('sr036-0031'),Q('sr054-0104'),
+Q('sr113-0167','We recently went to the pediatrician, and she said “He is almost 9 months old he should be eating 3 meals a day by now”.'),
+Q('sr077-0086','She was not concerned about him only eating if we hand-fed him and said that kids go at different paces.'),
+Q('sr074-0118'),Q('sr003-0208'),Q('sr114-0024'),Q('sr092-0056')]),
+('What they bought or paid for',[
+Q('sr094-0016'),Q('sr083-0014'),Q('sr027-0114'),Q('sr023-0088'),
+Q('sr076-0035','We had to buy sippy cups with the weighted straws that go down to the bottom of the cup'),
+Q('sr042-0111','We\\'ve been doing store-bought purees, but I feel like it\\'s probably time to start introducing table food...but the jump from purees to \"baby version of what we\\'re eating\" feels huge 😅'),
+Q('sr091-0148'),Q('sr113-0014'),
+Q('sr001-0174','We were also working privately with a feeding therapist through our tongue tie clinic — we had 6 visits with them and they were great, plus they offered email support in between.'),
+Q('sr123-0114','The only solid he hasn\\'t refused is these baby teething biscuits I buy(organic) because apparently mine tasted like shit to him.')]),
+('How they say they feel',[
+Q('sr022-0035','I want to cry. I feel trapped.'),Q('sr006-0164','But it gives me CRIPPLING ANXIETY.'),Q('sr007-0105'),Q('sr038-0008'),Q('sr060-0019'),Q('sr054-0105'),Q('sr002-0323'),
+Q('sr113-0167','I left feeling really guilty and discouraged because I AM trying.'),
+Q('sr130-0103','Its been making me super nervous but I’m trying to just remind myself that it’s normal and safe to gag'),
+Q('sr046-0046','I know kids develop at their own rate, and he still seems to be gaining weight so i’m not too worried, but i would like to make at least some progress soon.')])]
+for title,qs in examples:
+ lines += ['','### '+title,'']+['- '+q for q in qs]
+result='\\n'.join(lines)+'\\n'
+for sec in ['yes','near']:
+ assigned=[posts[sec][i-1] for f in forms if f['sec']==sec for i in f['nums']]
+ assert collections.Counter(assigned)==collections.Counter(posts[sec]),(sec,'coverage')
+ for f in [x for x in forms if x['sec']==sec]:
+  assert 3<=len(f['qs'])<=8
+out=Path('baby-development/evidence/2026-11/second-reading/digest-15.md')
+assert not out.exists()
+out.parent.mkdir(parents=True,exist_ok=True)
+out.write_text(result)
+print('Wrote',out)
+print('Forms:',dict(collections.Counter(f['sec'] for f in forms)))
+print('Quoted passages:',len(used),'words:',len(result.split()))
+print('Yes tags:',{t:sum(v[t]=='yes' for v in tags['yes'].values()) for t in ['tried','others','bought','feeling']})
+
+PY" in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+Wrote baby-development/evidence/2026-11/second-reading/digest-15.md
+Forms: {'yes': 18, 'near': 16}
+Quoted passages: 258 words: 14282
+Yes tags: {'tried': 150, 'others': 79, 'bought': 15, 'feeling': 92}
+
+codex
+The digest is written, with tags recorded for every post. I’m now checking the saved file for complete post coverage, matching counts and exact quotations, including the “But” passages and tag examples.
+exec
+/usr/bin/zsh -lc "python - <<'PY'
+from pathlib import Path
+import re,collections
+source=Path('baby-development/_work/2026-11/digests/share-15.md').read_text()
+output=Path('baby-development/evidence/2026-11/second-reading/digest-15.md').read_text()
+parts=source.split('## Near posts tied to development:')
+expected={sec:re.findall(r'"'^### ('"\\S+) \\|',part,re.M) for sec,part in zip(['yes','near'],parts)}
+qdb={}; owner={}
+for sec,part in zip(['yes','near'],parts):
+ for block in re.split(r'(?m)"'^### '"',part)[1:]:
+  pid=block.split('|')[0].strip()
+  for m in re.finditer(r'"'^- '"\\x60(["'^'"\\x60]+)\\x60 \\(["'^'"\\n]*?\\) (.*?)(?=\\n- \\x60|\\Z)',block,re.M|re.S):
+   qdb[m[1]]=m[2].rstrip();owner[m[1]]=(sec,pid)
+checked=0
+# Validate every quotation, including inline But passages and multiline excerpts.
+last_end=0
+references=[]
+for m in re.finditer(r'\" \\[(sr\\d{3}-\\d{4})\\]',output):
+ qid=m[1];assert qid in qdb,qid
+ candidates=[p for p in range(last_end,m.start()) if output[p]=='\"' and output[p+1:m.start()] in qdb[qid]]
+ assert candidates,('quotation mismatch',qid)
+ start=min(candidates); txt=output[start+1:m.start()]
+ for part in txt.split('[…]'): assert part.strip() in qdb[qid]
+ references.append((start,m.end(),qid));checked+=1;last_end=m.end()
+assert checked==258,checked
+all_tags={}
+for sec in ['yes','near']:
+ heading=f'## Pattern 7, share 15: {sec} posts\\n'
+ start=output.index(heading)+len(heading)
+ stop=output.find('\\n## ',start)
+ body=output[start:stop if stop>=0 else None]
+ forms=re.split(r'(?m)"'^### '"',body)[1:]
+ seen=[];total=0; tagmap={}
+ for form in forms:
+  name=form.split('\\n',1)[0]
+  n,m=map(int,re.search(r'"'^('"\\d+) of (\\d+) posts\\."'$'"',form,re.M).groups())
+  assert m==len(expected[sec]),(sec,name,'denominator')
+  ids=re.search(r'"'^Posts: (.+)$'"',form,re.M)[1].split()
+  assert len(ids)==n,(name,'count')
+  seen+=ids;total+=n
+  rows=re.findall(r'"'^('"\\S+): (yes|no) \\| (yes|no) \\| (yes|no) \\| (yes|no)"'$'"',form,re.M)
+  assert collections.Counter(r[0] for r in rows)==collections.Counter(ids),(name,'tag coverage')
+  for r in rows:
+   assert r[0] not in tagmap
+   tagmap[r[0]]=r[1:]
+  # Every evidence citation in a form belongs to a post assigned there.
+  for qid in re.findall(r'\\[(sr\\d{3}-\\d{4})\\]',form):
+   assert owner[qid][0]==sec and owner[qid][1] in ids,(name,qid,'wrong form')
+  # Count quotation bullets before But, ignoring embedded newlines.
+  evidence=form.split('**But:**')[0]
+  nquotes=len(re.findall(r'"'^- "'"',evidence,re.M))
+  assert 3<=nquotes<=8,(name,nquotes)
+ assert total==len(expected[sec])
+ assert collections.Counter(seen)==collections.Counter(expected[sec]),(sec,'missing/duplicate IDs')
+ all_tags[sec]=tagmap
+ print(sec+':',len(seen),'posts in',len(forms),'forms; IDs, counts, denominators, tags and citation ownership pass')
+across=output.split('## Pattern 7, share 15: across the yes posts')[1]
+for i,t in enumerate(['tried','others','bought','feeling']):
+ actual=sum(row[i]=='yes' for row in all_tags['yes'].values())
+ reported=int(re.search(r'\\| '+t+r' \\| (\\d+) of 154 \\|',across)[1])
+ assert actual==reported,(t,actual,reported)
+for section in re.split(r'(?m)"'^### '"',across)[1:]:
+ qs=re.findall(r'\\[(sr\\d{3}-\\d{4})\\]',section)
+ assert 5<=len(qs)<=12
+ for qid in qs: assert owner[qid][0]=='yes'
+print('Across-yes tag totals and all four 5–12-quote selections pass')
+print('Exact source quotations checked:',checked)
+print('All 272 post IDs accounted for exactly once within their original sections')
+PY" in /home/thinkpad/GitHub/_research
+ exited 1 in 29ms:
+yes: 154 posts in 18 forms; IDs, counts, denominators, tags and citation ownership pass
+Traceback (most recent call last):
+  File "<stdin>", line 47, in <module>
+AssertionError: ('The parent wants help with latching, sucking and managing milk flow.', 'sr015-0020', 'wrong form')
+
+exec
+/usr/bin/zsh -lc "sed -n '1,34p' baby-development/evidence/2026-11/second-reading/digest-15.md" in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+# Digest 15: pattern 7, Learning to eat and drink as a skill
+
+Share: baby-development/_work/2026-11/digests/share-15.md. Yes posts: 154. Near posts: 118.
+
+<!-- Method: All 272 supplied posts and all supplied quotations read; unread: 0; excluded: 0. Posts came from a random 20,000-post sample and were already assigned pattern 7. Counts describe this share, not market prevalence or distinct families. Apparent cross-posts 1v6fzil / 1v6g3gi repeat one account but count once per supplied ID. Sex, country, income and age are not inferred; "the parent" is used because speaker sex is often unspecified. Post tags below are ordered tried, others, bought, feeling. Tried includes actual feeding attempts, research, consultations and arrangements, but not plans alone. Others records reported external advice, examples or another person’s action, not requests alone. Bought requires explicit buying, ordering, store-bought food or private paid help: ownership, brand use, WIC provision and contemplated purchases alone are no. Feeling requires a named affective state, including explicitly denied worry; a belief beginning "I feel like" alone is no. Reported diagnoses, treatments and causal explanations are not independently verified. -->
+
+## Pattern 7, share 15: yes posts
+
+### The parent wants to get past fear around offering solid food.
+
+12 of 154 posts.
+
+Babies are roughly 6–12 months old, and fear of choking, gagging or vomiting makes offering food difficult even when the baby wants it. Some parents limit texture, delay practice, seek first-aid reassurance or ask for a few foods they can manage; one wants a worried partner to trust the baby. One connects the fear to an older child turning blue while choking, and another names emetophobia.
+
+- "I am so damn scared my baby will choke just like my first. I never seemed to get over that fear. I am not sure how to get him to transition." [sr041-0080]
+- "But it gives me CRIPPLING ANXIETY. I just have a fear of him choking." [sr006-0164]
+- "I've tried some egg strips and now pasta exactly like I'm supposed to serve it, but she always just sucks the whole thing in her mouth and it scares the bejesus." [sr030-0026]
+- "I have emetophobia ( fear of vomit ) and I just can’t do it.." [sr131-0047]
+- "I think because I’m alone and she’s already scared me with the choking." [sr122-0025]
+
+**But:** Fear is not shared by every parent involved: "But i can’t be afraid, i just have to watch him and teach him." [sr032-0007] Another parent is already sharing tiny pieces: "We have definitely shared a tiny bit of food! Just not full portions yet since I was spooked lol." [sr020-0042]
+
+Posts: 1saezou 1sjx8xj 1sstj6l 1t131ke 1t48ecm 1t69677 1tdqzm1 1tvys90 1v69yyy 1vf7c7b 1wxm10i 1xbksav
+
+<!-- Post tags: tried | others | bought | feeling
+1saezou: yes | no | no | yes
+1sjx8xj: yes | yes | no | yes
+1sstj6l: yes | no | no | yes
+1t131ke: yes | no | no | yes
+1t48ecm: yes | no | no | yes
+1t69677: yes | yes | no | yes
+1tdqzm1: yes | yes | no | no
+1tvys90: yes | no | no | yes
+1v69yyy: yes | yes | no | yes
+
+exec
+/usr/bin/zsh -lc "python - <<'PY'
+from pathlib import Path
+import re
+s=Path('baby-development/_work/2026-11/digests/share-15.md').read_text().split('## Near posts tied to development:')[1]
+for i,b in enumerate(re.split(r'(?m)"'^### '"',s)[1:],1):
+ if i<=26: print(i,b.split('|')[0].strip(),re.search(r'About: (.*?)\\. Wants:',b)[1])
+PY" in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+1 1safiuf Asks why others introduce solids before six months
+2 1sahibd Planning breastfeeding weaning alongside bottle-to-cup transition
+3 1sb1dz4 Exhausted by overnight formula preparation after difficult latch teaching
+4 1sd5b10 Bottle-aversion programme brings behavioural progress despite early weight loss
+5 1sdkltr Worries about formula weaning when baby mainly accepts purees
+6 1se9npo Milk storage at nursery amid bottle refusal and cup drinking
+7 1seee2c Two year old struggles learning straws despite open cup progress
+8 1sejelb Seeking packable daycare foods while baby practises self feeding
+9 1sfbvb3 Baby gnaws finger foods but refuses iron-rich purees
+10 1sfbw5o Parent worries about weight while baby learns spoon feeding
+11 1sfc1ty Unsure whether to start purees before baby sits independently
+12 1sixzhq Suck-swallow-breathe regression and bottle aversion after reflux medication
+13 1sjmltl Almost-one-year-old relies on formula and struggles with solids and cups
+14 1skkreb Sick eleven-month-old refuses bottles but eats solids and uses straw cup
+15 1skkvgl Returning worker struggles with baby’s bottle refusal and cup practice
+16 1slvrqg Seven month old refuses water and cannot use straw
+17 1smrr5z Ten-week-old takes long bottle feeds despite improved latch after tongue-tie release
+18 1sn04j0 Breastfeeding distress and baby's intense bottle refusal
+19 1sob886 Parent overwhelmed by food introduction order and conflicting advice
+20 1spzkgc Introducing water during weaning while worried about constipation
+21 1sq9eqr Bottle aversion threatens work return alongside unsuccessful solids introduction
+22 1sr17sk Returning worker feels abandonment guilt while five-month-old relearns bottle feeding
+23 1stt4i8 Mother's tumour requires formula transition; family overcomes baby's bottle refusal
+24 1svesd8 Parent schedules bottle-learning lactation visit immediately after baby's vaccines
+25 1svskzm Pretend robot game helps toddler eat with utensils without conflict
+26 1swm184 Making safe smash cake for child with swallowing difficulties
+
+exec
+/usr/bin/zsh -lc "python - <<'PY'
+from pathlib import Path
+import re
+s=Path('baby-development/_work/2026-11/digests/share-15.md').read_text();o=Path('baby-development/evidence/2026-11/second-reading/digest-15.md').read_text();owners={}
+for part in s.split('## Near posts tied to development:'):
+ for b in re.split(r'(?m)"'^### '"',part)[1:]:
+  for q in re.findall(r'"'^- '"\\x60(["'^'"\\x60]+)',b,re.M): owners[q]=b.split('|')[0].strip()
+for section in o.split('## Pattern 7, share 15: across the yes posts')[0].split('## Pattern 7, share 15: ')[1:]:
+ for f in re.split(r'(?m)"'^### '"',section)[1:]:
+  ids=re.search(r'"'^Posts: (.*)$'"',f,re.M)[1].split()
+  for q in re.findall(r'\\[(sr\\d{3}-\\d{4})\\]',f):
+   if owners[q] not in ids: print(f.split('\\n')[0],q,owners[q])
+PY" in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+The parent wants help with latching, sucking and managing milk flow. sr015-0020 1smrr5z
+The parent wants the child to drink enough from cups instead of taking a few sips, playing or spitting it out. sr013-0027 1slvrqg
+
+codex
+The check caught two near-post IDs swapped between forms. I’m rebuilding the whole digest with those assignments corrected, then rerunning the checks.
+exec
+/usr/bin/zsh -lc "python - <<'PY'
+from pathlib import Path
+import re,collections
+src=Path('baby-development/_work/2026-11/digests/share-15.md')
+s=src.read_text(); a,b=s.split('## Near posts tied to development:')
+posts={}; quotes={}
+for sec,part in [('yes',a),('near',b)]:
+ posts[sec]=[]
+ for block in re.split(r'(?m)"'^### '"',part)[1:]:
+  pid=block.split('|')[0].strip(); posts[sec].append(pid)
+  for m in re.finditer(r'"'^- '"\\x60(["'^'"\\x60]+)\\x60 \\(["'^'"\\n]*?\\) (.*?)(?=\\n- \\x60|\\Z)',block,re.M|re.S):
+   qid,body=m.groups(); assert qid not in quotes; quotes[qid]=(pid,body.rstrip())
+used=[]
+def norm(t):
+ return ''.join(c for c in t.replace('’',\"'\").replace('‘',\"'\").replace('“','\"').replace('”','\"') if not c.isspace())
+def Q(qid,txt=None):
+ body=quotes[qid][1]
+ if txt is None: txt=body
+ elif txt not in body:
+  # Locate an excerpt despite typographic apostrophes or whitespace, then return
+  # the original characters from the share, never the normalized text.
+  chars=[]; positions=[]
+  for i,c in enumerate(body):
+   c=norm(c)
+   if c: chars.append(c); positions.append(i)
+  needle=norm(txt); start=''.join(chars).find(needle)
+  assert start>=0,(qid,txt)
+  txt=body[positions[start]:positions[start+len(needle)-1]+1]
+ assert txt in body,(qid,txt)
+ used.append((qid,txt))
+ return '\"'+txt+'\" ['+qid+']'
+ynottried={8,27,37,58,104}
+yothers={2,4,5,7,8,9,10,11,12,13,19,20,21,23,26,29,31,35,39,40,42,44,50,52,53,58,59,60,61,63,65,67,68,69,73,74,75,80,83,86,88,89,91,92,93,94,99,100,102,104,109,110,111,112,113,117,118,119,120,122,124,125,127,128,130,131,132,133,134,136,138,139,140,142,144,145,150,152,153}
+ybought={4,11,27,31,52,94,98,99,101,109,110,119,131,133,145}
+yfeeling={1,2,4,5,6,7,9,11,13,15,18,19,22,24,25,28,29,31,32,33,37,38,39,40,41,42,43,45,48,49,50,52,54,55,57,58,59,60,61,63,66,68,69,71,73,74,75,79,80,82,86,87,88,89,91,92,93,94,99,101,103,105,106,108,110,111,112,114,115,116,117,118,119,120,122,124,125,130,131,133,135,136,137,139,140,142,143,144,146,147,149,150}
+nnottried={65,66,98}
+nothers={1,2,3,4,5,6,8,9,10,11,12,13,14,15,16,18,19,20,21,22,23,24,28,29,33,34,35,37,38,39,40,41,42,43,49,52,53,54,55,57,59,60,63,66,69,71,73,75,76,78,79,80,81,82,83,84,85,87,88,89,91,94,96,97,99,100,101,102,103,107,111,112,113,114,115,116,117}
+nbought={3,23,31,33,53,57,60,70,71,73,81,87,92,93,100}
+nfeeling={1,2,3,4,5,6,10,13,14,15,18,19,20,21,22,24,25,28,29,30,33,34,35,38,39,40,42,43,44,45,46,47,49,50,57,59,60,61,62,63,64,67,71,72,73,74,78,79,80,81,82,83,84,85,86,87,88,89,90,91,93,94,100,101,102,106,107,108,109,110,111,113,115,116,117,118}
+tags={}
+for sec,nt,ot,bt,ft in [('yes',ynottried,yothers,ybought,yfeeling),('near',nnottried,nothers,nbought,nfeeling)]:
+ tags[sec]={p:dict(zip(['tried','others','bought','feeling'],['no' if i in nt else 'yes','yes' if i in ot else 'no','yes' if i in bt else 'no','yes' if i in ft else 'no'])) for i,p in enumerate(posts[sec],1)}
+forms=[]
+def F(key,title,nums,desc,qs,but='nothing found against it.',sec='yes'):
+ forms.append(dict(key=key,title=title,nums=nums,desc=desc,qs=qs,but=but,sec=sec))
+F('fear','The parent wants to get past fear around offering solid food.',[1,9,18,24,28,29,35,49,91,103,142,150],
+'Babies are roughly 6–12 months old, and fear of choking, gagging or vomiting makes offering food difficult even when the baby wants it. Some parents limit texture, delay practice, seek first-aid reassurance or ask for a few foods they can manage; one wants a worried partner to trust the baby. One connects the fear to an older child turning blue while choking, and another names emetophobia.',[
+Q('sr041-0080','I am so damn scared my baby will choke just like my first. I never seemed to get over that fear. I am not sure how to get him to transition.'),
+Q('sr006-0164','But it gives me CRIPPLING ANXIETY. I just have a fear of him choking.'),
+Q('sr030-0026',\"I've tried some egg strips and now pasta exactly like I'm supposed to serve it, but she always just sucks the whole thing in her mouth and it scares the bejesus.\"),
+Q('sr131-0047','I have emetophobia ( fear of vomit ) and I just can’t do it..'),
+Q('sr122-0025','I think because I’m alone and she’s already scared me with the choking.')],
+'Fear is not shared by every parent involved: '+Q('sr032-0007','But i can’t be afraid, i just have to watch him and teach him.')+' Another parent is already sharing tiny pieces: '+Q('sr020-0042','We have definitely shared a tiny bit of food"'! Just not full portions yet since I was spooked lol.'"'))
+F('texture','The parent wants to move beyond purées but the child gags, vomits or rejects the texture.',[36,40,43,50,57,59,70,77,79,101,119,137,147],
+'At about 6.5–16 months, textured or thicker food can end an attempt with gagging, coughing or vomiting. The range includes grittier meat purée, tiny lumps, bread, eggs and finger foods; parents ask whether this is taste, texture, normal practice or a problem needing help. Some retain purées to get food in, and others describe cleanup and work making repeated trials harder.',[
+Q('sr058-0009'),Q('sr116-0067','But any time I give her anything even remotely thicker she gags until she projectile vomits. (i.e. pureed turkey in turkey broth. Still a puree, but a grittier texture).'),
+Q('sr039-0088','Now she dont know how to chew solid food. She can eat yogurt bites, crackers, cookies etc.'),
+Q('sr091-0149'),Q('sr116-0069')],
+'Tolerance is selective rather than absent across all textures: '+Q('sr068-0055','She will happily chew on baby rusks and cucumbers, but struggles with pancakes and omelettes (will either shred them without eating or gag).'))
+F('pace','The parent wants the child to chew and pace bites instead of swallowing too much at once.',[16,63,66,135],
+'These posts describe babies around 7 months and 9–12 months, and toddlers of 17 and 23 months. Parents report swallowing before chewing, big bites, rapid shovelling, gagging or choking scares, including back slaps and three reported baby Heimlich interventions. They try modelling chewing, placing food to the side, feeding the child themselves or pausing between spoonfuls, but the child may resist.',[
+Q('sr055-0030'),Q('sr055-0034'),
+Q('sr011-0072','She will shovel food in her mouth, take big bites, etc. And when she gets too much in there, she will gag and spit it out, on herself, the carpet, etc.'),
+Q('sr118-0081','We tried this morning with breakfast to wait a bit between each spoonful but she got more and more angry and kept crying.'),
+Q('sr055-0060','He DOES it, just not super effectively and sometimes he does just outright forget to chew before swallowing his food, so I\\'d prefer to keep food on the softer/moister side')],
+'The concern can coexist with a strong appetite and growing independence: '+Q('sr011-0072','My daughter (23 months) is generally a good eater - independent, likes to feed herself, learning fork and spoon well, etc.'))
+F('readiness','The parent asks whether the baby is ready for solids when sitting or early feeding skills are still developing.',[34,44,71,86,100,102,111],
+'At about 4–6 months, parents compare interest in food, head control, sitting support and tongue thrust with advice to start solids. Some have a doctor’s approval or pressure to begin but see slumping or falling sideways; others ask whether delay is acceptable. Eagerness for food and physical readiness do not always appear together in these accounts.',[
+Q('sr029-0094'),Q('sr043-0012','Looking up the signs of readiness and I don’t think he’s quiet there. He can really only sit between my legs with his back to me, and even then his head slumps forward quite a bit.'),
+Q('sr071-0024'),Q('sr085-0018','LO is just not ready yet and he is ANGRY. 😂'),
+Q('sr091-0066','Seems a bit early imo I’m worried about choking and her maybe not being able to hold herself up')],
+'Interest and enjoyment are already visible in one early taste: '+Q('sr056-0012','I let her gum it for a second and she made a funny face but was thrilled.'))
+F('start','The parent wants a simple way to start solids and know what comes next.',[8,37,46,104,134],
+'With babies around 4–6 months, parents ask about first foods, spoon feeding versus baby-led weaning, preparation and when to increase meals or stop purées. Some are planning ahead, while one is already offering a daily purée and another has a doctor’s suggestion to let the baby explore cereal. Limited cooking experience, solo parenting and the volume of information make a starting point hard to choose.',[
+Q('sr032-0071'),Q('sr010-0084','Were they a hit or a miss? Did you spoon feed or go for baby-led weaning? Were they homemade or a store bought puree? Intentional or by accident?'),
+Q('sr044-0063','When do I start introducing real foods? Or stop puréed foods? When do I have to be giving her more solids during the day?'),
+Q('sr082-0049','For one, I don’t cook, never have. I mean I used too but I’m soloparenting and we’re still contact napping baby so I really don’t have a lot of free time.')],
+'Uncertainty does not always mean waiting to do anything: '+Q('sr044-0063','My baby is 5 months old and I am starting to give her a pureed vegetable or fruit once a day.'))
+F('foods','The parent wants manageable foods that fit the child’s eating skills and everyday meals.',[26,27,52,85,90],
+'Parents of babies about 5.5–9 months ask for a small number of first table foods, ways to prepare proteins without teeth, and foods with less salt or sugar. Other questions concern whether puffs or a particular soft cookie are suitable, with snack labels giving different stage cues. These are requests for workable choices rather than reports that every food is refused.',[
+Q('sr042-0112','I think they will be helpful eventually, but right now I feel like we just need a few foods to introduce baby to ideas like \"feeding myself\" and \"chewing\" and \"not choking\".'),
+Q('sr076-0001','i want to try chicken, beef, turkey and other good proteins. how do i prep and cook said foods for my 7 month old with no teeth?'),
+Q('sr072-0023','I don’t know what else to give him. Everything I try to think of just has way too much salt or sugar.'),
+Q('sr023-0088','I bought some cookies from Costco—MadeGood “Organic Soft Baked Cookie Bites.” My 9-month-old is at that stage where he wants to try everything I’m eating, and I’ve been really tempted to let him have a taste.')],
+'Finding the next food can follow successful feeding rather than difficulty eating: '+Q('sr023-0042'))
+F('milk-solids','The parent wants solids to replace milk feeds but the child is still eating too little.',[13,20,25,55,61,62,114,131],
+'From 6 to 15 months, parents want to reduce breastfeeding or formula but describe only a few bites, reliance on milk, or rejection of most food. Work, daycare, a hoped-for first-birthday transition and formula costs add deadlines; one parent fears losing WIC formula support at 12 months. They ask about meal timing, routines, feeding therapy and how the change can happen when intake is still small.',[
+Q('sr022-0035','I want to cry. I feel trapped. I can’t leave my baby for longer than an hour or two because I am her only source of nutrition.'),
+Q('sr019-0026','I’m stating to think it’s impossible for him to eat and he’ll be breastfeeding forever lol. He’s a big baby and growing well so no concerns there but i just want him to start eating regular food"'!!! I wanted to stop bf around 12 months 😭'"'),
+Q('sr054-0004'),Q('sr046-0046','my little boy is turning a year old this week (🥳) but his diet is still 95% formula.'),Q('sr113-0013')],
+'Some intake is improving: '+Q('sr054-0003')+' Another parent reports growth despite low solid intake: '+Q('sr046-0046','I know kids develop at their own rate, and he still seems to be gaining weight so i’m not too worried, but i would like to make at least some progress soon.'))
+F('little','The parent keeps offering foods but the child eats very little or mostly plays with them.',[39,56,60,64,69,80,81,82,88,97,99,105,117,120,122,133,138,143,145],
+'From 5 months to about 15 months, parents report mouthing, licking, smashing, dropping or throwing food instead of consistently eating it. They offer purées, finger foods, different flavours and textures, shared meals or preloaded spoons, and some say the child mouths every non-food object. Several compare intake with other babies, question whether they are failing, or say professional reassurance does not address what is happening at meals.',[
+Q('sr048-0048',\"How can my baby practice if the food doesn't go in his mouth?"'!"),
+Q('"'sr071-0002','He will play with it, smash it, throw it but rarely ever eats. At best he’ll take a little taste or suck on a cracker or strawberry but then he’s done. We’ve tried purées and BLW.'),
+Q('sr067-0105','He just sticks his tongue out and if I get some in his mouth he just holds it in there and doesn’t even try to swallow.'),
+Q('sr093-0102'),
+Q('sr113-0167','I left feeling really guilty and discouraged because I AM trying. I offer him food every day, I buy and prepare different things, and so much of it ends up untouched or in the trash.'),
+Q('sr084-0025','He wants to feed himself, refuses to be fed from us but then gets frustrated when the food falls from the baby spoon and he can\\'t properly put it in his mouth.')],
+'Acceptance can depend on what is offered: '+Q('sr054-0113','He will eat things we eat. He ate refried beans with his papa last night. He ate potatoes our pastors wife made. I gave him a little pancake one day and he ate that.'))
+F('regression','The parent worries because foods the child used to eat are now refused or spat out.',[38,48,75,84,87,129,144],
+'Parents of babies roughly 8–12 months and one 15-month-old describe a change after earlier success with purées, meals or chicken. Some connect it with illness or teething, while others question whether that explains the loss of foods already mastered. They ask whether appetite or swallowing will recover, whether this is pickiness, and whether feeding therapy is needed.',[
+Q('sr071-0009','Now at 10 months feels like he\\'s regressed : he takes food, chews it, then pushes it out with his tongue, picks it back up, puts it in his mouth again, and repeats basically never swallowing unless it\\'s banana.'),
+Q('sr044-0089'),Q('sr057-0096'),
+Q('sr110-0068','Recently (started about 2 weeks ago) she had a hard time swallowing those chicken, she is chewing but just couldn\\'t swallow them.'),
+Q('sr122-0039','Then she was sick for a couple of weeks with a few different daycare viruses and wasn’t very interested in eating. Now we’re a couple weeks removed from that and she still isn’t interested.')],
+'The loss is not necessarily across all foods: '+Q('sr071-0009','Banana he eats with zero struggle. Raspberries too, actually.'))
+F('dependent','The parent worries about dependence on being fed and wants a way toward independent meals.',[33,65,68,92,93,115,140],
+'At 8–16 months, these parents distinguish eating when fed from bringing food to the mouth independently. They describe limited early self-feeding, losing a previous habit, or an allergist’s instruction to avoid food on broken skin, and fear teaching dependence or leaving the child hungry. Two supplied posts repeat the same 16-month-old account; a separate parent reports that self-feeding and cup use changed quickly after the first birthday.',[
+Q('sr124-0012','The second we load a spoon or hand her a bite, she happily eats.'),
+Q('sr077-0087','But he still eats all of his food through us hand feeding 🥲'),
+Q('sr054-0107','Im concerned I’m not teaching her how to feed herself but how to be fed.'),
+Q('sr028-0060','We started introducing solids around 8 months and would mix purees or baby food into his bottles, so he never really learned to eat independently from the start.'),
+Q('sr051-0028')],
+'The outcome is not always continued dependence: '+Q('sr091-0123','Now, almost 3 weeks later my son is fully self feeding"'! Most meals are devoured in minutes, he loves the cup, he gets very excited to sit in his high chair because he knows he’s going to eat and he’s eating 3 meals and 2 snacks a day!'"'))
+F('utensils','The parent asks when and how the child should use utensils instead of hands.',[12,22,23,51,58,132,154],
+'With children about 9–24 months, parents ask whether hand eating is normal, when spoons should work, and how to teach without rejected hand guidance. Some children use preloaded utensils but drop them, chew them or return to their hands; messy hair and clothing also prompt questions about manners. Other people supply deadlines, including a nursery comparison and an unsolicited autism warning, which are reported claims rather than diagnoses established here.',[
+Q('sr014-0002'),Q('sr014-0003'),Q('sr114-0024'),Q('sr114-0027'),Q('sr133-0159'),
+Q('sr022-0020','So my opinion is to stick with spoon regarding everything, so she know that you just dont put your hands in any kind of food, ever. But my wife disaagrees, tells me that everyone is doing what she is doing and she just must figure it out.')],
+'One child already has more spoon experience than the question initially suggests: '+Q('sr022-0023'))
+F('calmer','The parent wants mealtimes to feel calmer while the child practises eating.',[6,53,116],
+'At 8–10 months, parents describe crying between bites, refusing adult spoon feeding, wanting the spoon, and food flung everywhere. They want solidarity, ways to feed an independent baby, or beginner foods for a move into baby-led weaning. One also has a pediatrician asking for calorie-dense intake, so simply letting the child proceed at their own pace feels difficult.',[
+Q('sr002-0321'),Q('sr002-0322'),Q('sr044-0145'),
+Q('sr094-0073','She only wants to feed herself. I guess she thinks she’s a big girl. So here I am trying baby led weaning against my will 😂.')],
+'Resistance to being fed can coexist with enthusiasm for food: '+Q('sr094-0073','She has always LOVED food. She goes crazy for it.'))
+F('bottle','The parent wants the baby to accept milk away from the breast so someone else can feed them.',[5,7,11,47,83,110,113,118,136,151,152,153],
+'From about 6 weeks to almost 9 months, bottle refusal limits breaks, weaning, returning to work or starting daycare. Parents try nipples, bottles, temperatures, positions, timing and another feeder, sometimes considering cups instead; some ask whether persisting when hungry would help or make things worse. The accounts include exhaustion, temporary successes, a reported episode of pushing through struggle, and a parent preparing for daycare while mostly alone during a partner’s deployment or training.',[
+Q('sr003-0202'),Q('sr091-0140'),Q('sr134-0105'),Q('sr007-0108'),Q('sr119-0035'),Q('sr134-0124')],
+'Acceptance sometimes appears: '+Q('sr007-0113')+' It can also be brief: '+Q('sr094-0015','Some of the tricks have work, I won’t lie, but only momentarily. Like for example for one feeding session she is good with one bottle, and the next session she hates it.'))
+F('suck','The parent wants help with latching, sucking and managing milk flow.',[4,10,17,31,32,67,73,74,89,107,112,128,149],
+'From the first days to about 6 months, parents describe clicking, leaking, choking on milk, slow feeds, frantic flow or latching without sucking. They change teats, pace feeds, use shields, seek assessments or discuss oral-tie release; professionals sometimes disagree or are experienced as aggressive. One detailed account explicitly says ChatGPT helped analyse feeding videos and write the account, so its reported retraining success is labelled AI-assisted rather than independently verified.',[
+Q('sr090-0061','My 2 week old baby latches well (I make sure to do a deep latch and compress). But as soon as he’s latched he just stays there and does NOTHING..no matter how hungry he is.'),
+Q('sr007-0100'),Q('sr027-0207'),Q('sr074-0118'),Q('sr060-0019'),
+Q('sr001-0165','👉 If they’ve learned the wrong pattern, you have to teach them how to feed again')],
+'Changing equipment did help one family: '+Q('sr027-0118','Still a little bit of dribble but totally manageable now and feel like I won’t be dreading bottle time anymore"'!'"')+' A tie was not found in another assessment: '+Q('sr060-0038'))
+F('cup-skill','The parent wants a cup or teaching method that the child can actually drink from.',[3,14,15,19,45,78,94,95,96,124,148],
+'At 6–18 months, parents describe chewing a straw instead of sucking, sucking without swallowing, failing to tilt a cup, tilting a straw cup too far or struggling against a valve. They model, squeeze, guide arms, offer different cups or test the suction themselves; one spoon-feeds formula mixed into food because no drinking method works. Other parents ask which cup can fit home and outings while open-cup skills develop.',[
+Q('sr004-0064','we cannot figure out how to get him to actually suck on the straw. he just chews and then gets mad.'),
+Q('sr018-0031','she will suck without issue but won’t swallow water, she will let it dribble out.'),
+Q('sr076-0035','He simply will not lift the cup up to make the water/milk flow forward.'),
+Q('sr080-0100','He understands the sucking of a straw but he always tilts the cup back so far that it\\'s just air going through the straw.'),
+Q('sr014-0044'),
+Q('sr015-0007','* **The only way he gets formula:** We have to mix it with sweet potato, banana, or pumpkin and spoon-feed it to him like a thick soup.')],
+'A child may already drink with help: '+Q('sr004-0065','He drinks out of it fine if you hold it for him but will just dump it everywhere if he tries lol.')+' The difficult cup can have a useful feature: '+Q('sr014-0047'))
+F('liquid','The parent wants the child to drink enough from cups instead of taking a few sips, playing or spitting it out.',[41,76,106,121,130],
+'With children about 11–13 months, getting liquid into the child matters more than obtaining a cup. Some children know how to sip but are uninterested, leave milk unfinished, splash or let it run from their mouths. Parents model, leave cups available, offer tiny portions or remove the cup, and worry about hydration or weaning.',[
+Q('sr037-0013','She knows how to do it, but we’ve had the most success just leaving it out around her and she’ll pick it up every few minutes (sometimes) and take a sip or two.'),
+Q('sr037-0014','We put about an 1oz into her cup at a time and she has NEVER finished it within the two hour safety limit.'),
+Q('sr064-0013','I’ve tried different cups, modelling, I keep offering him water and he isn’t interested. If it’s an open cup he likes to splash his hand in it lol.'),
+Q('sr095-0095'),
+Q('sr087-0040','I offer her a straw sippy cup with either warm milk or water and she will try and suck but just spits it out.')],
+'The difficulty is not necessarily an inability to drink: '+Q('sr110-0073','up until maybe a month ago he drank water no problem from his straw cup.'))
+F('milk-cup','The parent says the child can drink from cups but accepts milk mainly from a bottle or familiar spout.',[2,42,54,98,109,125,126,141],
+'At about 11–21 months, water drinking can work while milk or formula in a different vessel is refused. Parents ask about going cold turkey, preserving milk intake and sleep, buying another cup, or matching daycare’s transition. One family has removed bottles for three days without milk acceptance, and another’s familiar vessel is a sippy rather than a baby bottle.',[
+Q('sr004-0044'),Q('sr083-0014'),
+Q('sr088-0078','We bought him a similar straw cup but a different color to differentiate his water from milk. We have tried letting him drink it from the cup. We have tried other straw cups. In all, he doesnt like drinking milk from those.'),
+Q('sr043-0100'),Q('sr103-0138')],
+'Cup refusal is not absolute in every setting: '+Q('sr102-0016','Last week they said she had 4oz of formula twice from the sippy cup and over the weekend/today she’s been rejecting it.'))
+F('comfort','The parent wants to stop bottles while preserving comfort, sleep or a familiar routine.',[21,30,72,108,123,127,139,146],
+'Parents describe children from 8 months to nearly 2 years who associate bottles with cuddles, naps, bedtime or the first waking feed. Some already use straw cups, open cups or straw bottle tops, but want to remove remaining bottle occasions without distress or losing the calming routine. They discuss gradual reduction, a new vessel, toothbrushing and whether the recommended deadline fits their child.',[
+Q('sr090-0072','But she finds comfort in me holding her bottle and cuddling my arms while falling asleep. She\\'ll fight sleep and be extremely fussy until i do the routine.'),
+Q('sr056-0026','I’ve tried gradually decreasing the amount in the bottle - got down to 1 oz of milk in the bottle, then following up with banana and milk in straw cup, which she seems okay with most of the time… but I’m just having a hard time getting her off this last bottle.'),
+Q('sr120-0098','We feed him milk before bed in a bottle he likes it and we bond he is still a baby in my opinion.. pediatrician says we need to do sippy cup.'),
+Q('sr125-0077'),
+Q('sr099-0026','So when we tried the formula in a regular straw cup it didn’t trigger the same mellowing-out effect.')],
+'Some transitions concern scheduling rather than keeping a teat: '+Q('sr020-0103','Right now he’s solely drinking bottles with a conversion straw top (it’s the comotomo ones). No more nipple tops.'))
+titles={f['key']:f['title'] for f in forms}
+def N(key,nums,desc,qs,but='nothing found against it.',title=None):
+ F(key,title or titles[key],nums,desc,qs,but,'near')
+N('readiness',[1,11,43,76,103,112,114],
+'These near posts ask about starting around 3–6 months, often after medical approval that differs from other advice or from what the parent sees in sitting and head control. Parents discuss waiting, early tastes, allergen exposure or cereal in a bottle, and request reasons or evidence rather than assuming one age settles readiness. One child’s current stage is unknown; a recommendation is not treated here as established medical guidance.',[
+Q('sr005-0193'),Q('sr076-0042'),
+Q('sr108-0055','I told our pediatrician that I was going to wait until the baby was sitting better to start solids of any kind. He said that as long as it is a very thin consistency that we could start anytime, and even suggested baby cereal in a bottle is okay..'),
+Q('sr045-0044')],
+'Some report that physical control and early feeding are going well: '+Q('sr127-0115','He’s 4 months old and pretty good with head control. We have a seat that sits him upright and he does fantastic in it.'))
+N('start',[19,40,73],
+'Parents of 4.5–5-month-olds ask for a clear starting order, purée handling, meat preparation and when to combine foods. They have already tried avocado and banana or bought ingredients, but feel overwhelmed by choices and conflicting advice. One wants vegetables before fruit after a parent warned that sweets would affect vegetable acceptance.',[
+Q('sr011-0136','now what? i feel so paralyzed with options. my mom said giving him sweets too soon will make him not like veggies so im nervous that i gave him banana already.'),
+Q('sr031-0101'),Q('sr031-0102'),Q('sr075-0056')],
+'One parent also expresses anticipation: '+Q('sr031-0100','We plan to start tomorrow and are super excited.'))
+N('foods',[8,26,31,32,63,68,72,77,91,92],
+'These posts seek daycare foods, portable lunches, affordable allergen purées, simple meal plans or foods a child can eat independently while standing. Known ages run from about 6 months through the first birthday, with some ages unknown; one almost-one-year-old has only recently moved beyond an NG tube and needs a minced-and-moist cake. Convenience, limited chewing skills, mess, sodium, safe packing and unfamiliar ingredients all shape the requests.',[
+Q('sr024-0090'),Q('sr079-0085','He’s not great with baby-led weaning, so looking for easy ideas.'),
+Q('sr056-0115','I would feel less overwhelmed and do better if I had a clear meal plan for her. I\\'m also a really picky eater and am trying not to pass that on to her, so I want to introduce her to a variety of foods but it\\'s not as simple as just feeding her what I\\'m eating.'),
+Q('sr070-0120'),
+Q('sr017-0199','He’s had some issues with swallowing and had to start off the first 10 months with an NG tube, so we’re still in Minced and Moist territory.'),
+Q('sr099-0106')],
+'Requests for ideas can follow discovery of what the child likes: '+Q('sr021-0085','through trial and error, I figured out he likes savory food more than sweet food (e.g., fruit).'))
+N('milk-solids',[5,13,53,74,85,115],
+'At about 8–12 months, these parents worry about replacing formula or breastmilk while solid intake remains limited, purée-dependent or mainly at night. Questions combine cups and bottles, total nutrition, high-chair distress and what a first-birthday transition should look like. One explicitly needs more solids because reduced formula benefits cover only part of the month.',[
+Q('sr004-0143'),Q('sr049-0160'),
+Q('sr072-0081','His pinching and fine motor skills are on-track, but I have to feed him the majority of his meal pureed, or he won\\'t get enough food in him before he starts to sweep everything on his tray away and refuse to eat anymore.'),
+Q('sr090-0121','I feel like no matter how I approach it, I’ll end up doing some harm.'),Q('sr126-0104')],
+'Some already eat selected meals and snacks: '+Q('sr006-0141','She has some staples she really likes like eggs, spaghetti, and carrots, but she is still drinking a lot of formula during the day.'))
+N('little',[9,51,62,89,106],
+'These parents focus on small quantities, short-lived interest or food that is mouthed without much being swallowed. Known ages include 9–12 months, 13 months and 24 months; two stages are unknown. Concerns include iron, regaining weight after illness, avoiding pressure and a child who refuses help from an adult.',[
+Q('sr005-0189','LO will have 2-3 teaspoons, then get distracted, purse his lips, and start flailing around.'),Q('sr046-0077'),
+Q('sr058-0131','We are offering 2-3 meals a day, but she is showing little interest. How much is she supposed to be eating? Or are we still in the stage where the important thing is consistently offering?'),
+Q('sr109-0140','He will forget to swallow the food and begin to cry which makes me worry he could choke.'),
+Q('sr097-0030','She is hyper-independent and won’t let me feed her. Even though we are against it, we even tried feeding her in front of the TV, but nothing works')],
+'One parent reports reassuring development despite intake concerns: '+Q('sr097-0029'))
+N('regression',[42,50,59,88,108,109,110,111],
+'Known ages range from 8.5 months to 2 years, and these parents describe diminished intake, lost accepted foods, spitting or throwing after earlier successes. Illness or teeth are possible explanations in some accounts, while others have persisted for months and include weight loss or very limited variety. Several say changing textures, timing, plates or the feeding setting has not restored eating.',[
+Q('sr049-0037'),Q('sr049-0038'),
+Q('sr058-0001','Since my son turned one, he stopped eating dinner. He is now almost 20 months. Previously, he ate everything I gave him.'),
+Q('sr119-0042','He used to be really good, he’d either take pureed food off a spoon fine, or he’d pick up finger foods and eat them like pasta, homemade pizza and other homemade foods but now he just wont touch it.'),
+Q('sr120-0023','He is losing interest in toast and sandwiches and figuring out what to feed him everyday is a real struggle.')],
+'Refusal can vary by setting: '+Q('sr058-0008','By them way, at daycare he does eat things he doesn\\'t eat at home.')+' One parent still describes normal nursing: '+Q('sr119-0051','He is nursing normally.'))
+N('dependent',[45,67],
+'Two parents describe children around 2 years who had hospital care and then continued receiving food by hand or spoon at home. They want more independence but fear low intake, emotional upset or a negative meal experience. The posts say the children can self-feed at least some food, so the question is how to change an established pattern.',[
+Q('sr042-0048'),Q('sr042-0053'),
+Q('sr065-0042','It all started when he had another brain surgery (he’s had 3)'),
+Q('sr065-0041','He will feed himself if it’s a preferred food like pizza, pickles, anything like that. But if it’s anything less desirable, he won’t feed himself.')],
+'The accounts explicitly describe existing ability: '+Q('sr042-0043')+' '+Q('sr065-0042','He’s totally capable of feeding himself, but I don’t know how to break the cycle.'))
+N('calmer',[25],
+'One parent, with the child’s age unknown, shares a lunch game rather than asking for a new food. A robot voice, a rotating plate, paced portions and prompts to chew or select a utensil drew the toddler into the meal. The parent reports eating more and less conflict despite the meal taking longer.',[
+Q('sr020-0094'),Q('sr020-0098'),Q('sr020-0100'),Q('sr020-0102')],
+'The post records success rather than a continuing failure: '+Q('sr020-0102','He finished almost the whole plate of food, we were both happy and regulated even though it took a little longer.'))
+N('bottle',[4,15,18,21,22,23,27,30,33,35,79,82,87,93,100,104,113],
+'Known ages run from 8 weeks to 10 months, with some unknown. Parents need bottles or another vessel for work, daycare, breaks, mental health or a mother’s tumour treatment, and report experimenting with carers, milk, nipples, cups, timing and movement. Some describe feeding while asleep, pressure that backfired or time without milk; a named aversion programme and a family-led transition also have reported improvements, without establishing that they will work for someone else.',[
+Q('sr013-0075','I experience really intense D-MER when I feed and I just can’t do it anymore'),
+Q('sr008-0119','I left work early because he had gone 10 hours without eating and I didn\\'t want him to go through the whole night hungry.'),
+Q('sr020-0063'),Q('sr094-0104'),
+Q('sr121-0114','I’m also horribly depressed and need a fucking break. Yes I am in therapy and medicated.'),
+Q('sr023-0061','so I tried to push the bottle in her mouth and open her mouth to get her to drink. Well that’s has definitely backfired.')],
+'Some report progress: '+Q('sr005-0125','He stopped crying at the sight of the bottle by the end of the second day.')+' '+Q('sr014-0181','Would you believe in the last 20 minutes she drank about 1.5oz from a bottle.'))
+N('suck',[12,17,29,44,57,61,71,94,102,107,116,117],
+'These posts involve newborns through about 5 months, plus one unknown age, and place latch or sucking difficulties inside reflux, pain, weight-gain, tube-feeding or formula decisions. Parents report conflicting assessments, persistent slow feeds, a tie release that does not establish latch, or fear that another bottle will create aversion. Their causal explanations and treatment claims are recorded as their accounts, not confirmed findings.',[
+Q('sr015-0020','He had his tongue tie snipped 5 weeks ago which has progressively improved his latching.'),
+Q('sr021-0056'),
+Q('sr058-0068','My 5 month old learned to eat from bottles until we released his tongue tie and then we switched to breastfeeding, so his latch isn’t great.'),
+Q('sr128-0129','We got it fixed when she was 5 days old, but she was never able to latch before or after.'),Q('sr132-0093')],
+'Other feeding developments are positive: '+Q('sr099-0182','He was finally able to latch and feed properly after about a week, but then he’d stay on for hours on end.')+' In another post, '+Q('sr110-0042','my husband is loving being able to give a bottle to her and she takes the bottle very well'))
+N('cup-skill',[7,55,58,95,97,98],
+'Parents ask how to teach straw or open-cup use, choose a suitable vessel and translate bottle feeds into cups at home or outside. One child is described as 2 years old; the other ages are unknown. Questions include not tilting, being better at open cups than straws, mess and whether occasional sips can replace a full held bottle feed.',[
+Q('sr004-0186'),Q('sr051-0034'),
+Q('sr055-0095','But obviously they need to learn the skill of drinking from an open cup, at least.'),
+Q('sr102-0029','Do you sit them down with the straw cup and have them drink? Or do you just like offer it throughout the day? How do you make sure they get enough?'),
+Q('sr101-0100','It needs to be something easy because he still doesn’t get that he has to tilt his head back to drink lol')],
+'For some the basic skill is already present: '+Q('sr101-0064'))
+N('liquid',[16,20,48,90],
+'At 7 months, around 1 year and 18–24 months, parents keep offering water but report a few sips, a face of dislike or outright refusal. They try cups, a familiar bottle, flavouring, temperatures and modelling; constipation or lower breastmilk intake adds urgency. One says the straw skill itself is still developing.',[
+Q('sr013-0027','We’ve been offering it in so many different cups. Added a little prune or apple juice to give it some flavor. And we still get nothing"'!'"'),
+Q('sr013-0173'),Q('sr044-0098','but the most water she has taken in a day is like 2 oz....'),
+Q('sr098-0054','I\\'ve tried straw cups (he still doesn\\'t know how to use one, still trying to teach him) I\\'ve tried in his bottle, I\\'ve tried constantly, sometimes after a hot day he\\'ll let me give him sips but not always, I\\'m just at a loss')],
+'Limited intake does not always mean lack of ability: '+Q('sr044-0098','She can use a straw cup, and will when she wants to... but doesn\\'t want to.'))
+N('comfort',[2,36,39,52,64,70,81,105],
+'Known ages range from 12 months to about 2 years, and several ages are unknown. Parents ask how to remove bedtime, overnight or morning bottles, coordinate breastfeeding weaning and cup changes, or replace comfort milk after successful feeding therapy. They describe water accepted from cups while milk needs a familiar bottle, and worry about sleep, distress, teeth or later potty training.',[
+Q('sr003-0045'),Q('sr048-0080'),
+Q('sr062-0004','She attended feeding therapy for 8 months which was successful in teaching her how to eat. Unfortunately we never stopped giving her milk at bedtime/before naps. What started as necessary supplementation became just for comfort...but now she\\'s hooked.'),
+Q('sr083-0106','I’ve bought easily over 50 different types of cups, even smaller versions of my water bottle but he just. wants. the. freaking. bottle.'),
+Q('sr066-0062','Should we do both together? Or wean middle of night first and then transition bed time?')],
+'The water-cup transition can already be straightforward: '+Q('sr048-0080','He’s already on sippy cups during the day. That transition was easy.'))
+N('schedule',[10,28,38,41,46,54,69,75,84,96],
+'These posts ask how much milk or food is enough, how to space meals and bottles, and whether apparent swallowing or chewing means the child is ready for more. Known ages range from a 7-day-old newborn through 13 months, with one unknown; the questions also include visible food in stool and differing advice on milk after 1. One parent is pleased with eating progress but sad about shorter breastfeeding sessions.',[
+Q('sr038-0105','He will eat the whole jar pretty dang fast"'! He opens his mouth and at this point he kinda knows how to use his tongue to swallow. Is it normal that he finishes the whole jar?'"'),
+Q('sr101-0038','But I guess my question lies with, **how often do I give this to her? How much at a time?**'),
+Q('sr045-0080'),
+Q('sr064-0086','I was told to wait to introduce the bottle until 3-4 weeks so baby develops good latching and doesn’t get lazy with a bottle.'),
+Q('sr021-0031','often has large pieces of food in her poop, given she cannot actually chew it.'),
+Q('sr035-0108','Anybody else find this change a little bittersweet? I’m excited about it but sad that we won’t be breastfeeding as long.')],
+'Not all of these questions arise from delayed eating: '+Q('sr035-0106','She generally eats very well"'! Chews well, drinks water and milk from her straw cup, uses her spoon (doesn’t load it herself but she’s only 6.5 months).'"'),title='The parent asks how much milk or food to give and how to arrange feeds.')
+N('medical',[14,34,37,49,78,83,86,99,101],
+'Known ages range from 7 weeks to 12 months. Parents ask about reflux or painful hiccups, constipation during solids, suspected EOE, illness-related bottle refusal, allergen dosing, hives or severe vomiting; one father feels responsible for a peanut-allergy diagnosis. Feeding practice is part of these accounts, but the main request concerns a medical explanation, safe exposure or recovery, and suspected diagnoses remain uncertain.',[
+Q('sr028-0111','I feel devastated my son who just turned 10m old has been diagnosed with peanut allergies. I feel like I let him down by not doing better allergen exposure with solids.'),
+Q('sr084-0047','Sucks at eating solids like never really chewed anything in his life.'),Q('sr087-0075'),Q('sr108-0036'),
+Q('sr050-0063','Should I skip her solids tomorrow? Is that bad? I don’t want to give her anything that could make it worse and I also don’t know if I should give her prunes for the 4th time in a row.'),
+Q('sr102-0109','is there anything wrong with just giving small tastes in their cheek for exposure purposes rather than a full 1-2 tsp?')],
+'Some oral intake is working despite the medical concern: '+Q('sr050-0060','She’s only just now finally figuring out a sippy cup so we can get a small bit of water into her')+' '+Q('sr087-0075','He takes those just fine and seems to love the taste and texture.'),title='The parent wants to understand an allergy or medical problem that may be limiting eating.')
+N('other',[3,6,24,47,56,60,65,66,80,118],
+'Other: the main subjects are overnight formula preparation, nursery milk storage, appointment timing, sleep, holiday clothing, an unexpected pregnancy and possible abortion, daycare costs, claims about premasticated food, an older sibling’s bedtime and anger at a dog. Known children range from newborns to 18 months alongside an older sibling; several ages and one speaker’s parental status are unknown. Eating skills are background context, and the premastication passage is a set of claims whose original author and verification are not supplied; the dog post explicitly reports hitting the animal.',[
+Q('sr005-0061','we were triple feeding: breast, formula + milk I pumped every 3h, and we also did this all with SNS"'!! It was mentally exhausting'"'),
+Q('sr002-0243','I’m already feeling a bit overwhelmed with having to go back to work and leave her, and I just don’t know what I’m expected to do.'),
+Q('sr020-0091','I accidentally booked the LC appt for right after the pediatrician appt to help my 4 month old take a bottle before I return to work in a couple weeks.'),
+Q('sr044-0075'),Q('sr059-0070'),
+Q('sr065-0013','well the overall rate increases at daycare have far outpaced the rate decreases of getting older.'),
+Q('sr061-0089'),Q('sr134-0119')],
+'The feeding references can describe progress: '+Q('sr059-0067','He’s eating better and actually taking a sippy cup.'),title='Other')
+lines=['# Digest 15: pattern 7, Learning to eat and drink as a skill','',f'Share: {src.as_posix()}. Yes posts: 154. Near posts: 118.','',
+'<"'!-- Method: All 272 supplied posts and all supplied quotations read; unread: 0; excluded: 0. Posts came from a random 20,000-post sample and were already assigned pattern 7. Counts describe this share, not market prevalence or distinct families. Apparent cross-posts 1v6fzil / 1v6g3gi repeat one account but count once per supplied ID. Sex, country, income and age are not inferred; '"\\\"the parent\\\" is used because speaker sex is often unspecified. Post tags below are ordered tried, others, bought, feeling. Tried includes actual feeding attempts, research, consultations and arrangements, but not plans alone. Others records reported external advice, examples or another person’s action, not requests alone. Bought requires explicit buying, ordering, store-bought food or private paid help: ownership, brand use, WIC provision and contemplated purchases alone are no. Feeling requires a named affective state, including explicitly denied worry; a belief beginning \\\"I feel like\\\" alone is no. Reported diagnoses, treatments and causal explanations are not independently verified. -->','']
+for sec in ['yes','near']:
+ lines += [f'## Pattern 7, share 15: {sec} posts','']
+ for f in [x for x in forms if x['sec']==sec]:
+  ids=[posts[sec][i-1] for i in f['nums']]
+  lines += ['### '+f['title'],'',f\"{len(ids)} of {len(posts[sec])} posts.\",'',f['desc'],'']
+  lines += ['- '+q for q in f['qs']]
+  lines += ['','**But:** '+f['but'],'','Posts: '+' '.join(ids),'','<"'!-- Post tags: tried | others | bought | feeling'"']
+  lines += [p+': '+' | '.join(tags[sec][p].values()) for p in ids]
+  lines += ['-->','']
+lines += ['## Pattern 7, share 15: across the yes posts','','| Tag | Posts |','|---|---|']
+for t in ['tried','others','bought','feeling']:
+ lines.append(f'| {t} | {sum(v[t]==\"yes\" for v in tags[\"yes\"].values())} of 154 |')
+examples=[('What they tried, in their words',[
+Q('sr003-0038'),Q('sr055-0034'),Q('sr037-0013'),
+Q('sr076-0036','I’ve tried filling the cup up half way, I’ve tried having him drink and manually lifting his arms while saying “lift, lift"'!”'"'),
+Q('sr007-0004'),Q('sr003-0209'),
+Q('sr060-0017','We were doing pigeon SS flow and I would have to let her take a few sucks, tilt the milk away, let her breathe, then let her eat again.'),
+Q('sr077-0084','Then at 9mo I became really concerned about him not bringing food to his mouth, so I only offered finger foods, nothing with a spoon.'),
+Q('sr044-0145'),
+Q('sr001-0166','We would place the soother in his mouth and then gently position the tube into the side of his mouth. As he sucked on the soother, milk would be delivered through the tube.')]),
+('What other people told them or did',[
+Q('sr007-0100'),Q('sr014-0003'),Q('sr036-0031'),Q('sr054-0104'),
+Q('sr113-0167','We recently went to the pediatrician, and she said “He is almost 9 months old he should be eating 3 meals a day by now”.'),
+Q('sr077-0086','She was not concerned about him only eating if we hand-fed him and said that kids go at different paces.'),
+Q('sr074-0118'),Q('sr003-0208'),Q('sr114-0024'),Q('sr092-0056')]),
+('What they bought or paid for',[
+Q('sr094-0016'),Q('sr083-0014'),Q('sr027-0114'),Q('sr023-0088'),
+Q('sr076-0035','We had to buy sippy cups with the weighted straws that go down to the bottom of the cup'),
+Q('sr042-0111','We\\'ve been doing store-bought purees, but I feel like it\\'s probably time to start introducing table food...but the jump from purees to \"baby version of what we\\'re eating\" feels huge 😅'),
+Q('sr091-0148'),Q('sr113-0014'),
+Q('sr001-0174','We were also working privately with a feeding therapist through our tongue tie clinic — we had 6 visits with them and they were great, plus they offered email support in between.'),
+Q('sr123-0114','The only solid he hasn\\'t refused is these baby teething biscuits I buy(organic) because apparently mine tasted like shit to him.')]),
+('How they say they feel',[
+Q('sr022-0035','I want to cry. I feel trapped.'),Q('sr006-0164','But it gives me CRIPPLING ANXIETY.'),Q('sr007-0105'),Q('sr038-0008'),Q('sr060-0019'),Q('sr054-0105'),Q('sr002-0323'),
+Q('sr113-0167','I left feeling really guilty and discouraged because I AM trying.'),
+Q('sr130-0103','Its been making me super nervous but I’m trying to just remind myself that it’s normal and safe to gag'),
+Q('sr046-0046','I know kids develop at their own rate, and he still seems to be gaining weight so i’m not too worried, but i would like to make at least some progress soon.')])]
+for title,qs in examples:
+ lines += ['','### '+title,'']+['- '+q for q in qs]
+result='\\n'.join(lines)+'\\n'
+for sec in ['yes','near']:
+ assigned=[posts[sec][i-1] for f in forms if f['sec']==sec for i in f['nums']]
+ assert collections.Counter(assigned)==collections.Counter(posts[sec]),(sec,'coverage')
+ for f in [x for x in forms if x['sec']==sec]:
+  assert 3<=len(f['qs'])<=8
+out=Path('baby-development/evidence/2026-11/second-reading/digest-15.md')
+assert out.exists()
+out.parent.mkdir(parents=True,exist_ok=True)
+out.write_text(result)
+print('Wrote',out)
+print('Forms:',dict(collections.Counter(f['sec'] for f in forms)))
+print('Quoted passages:',len(used),'words:',len(result.split()))
+print('Yes tags:',{t:sum(v[t]=='yes' for v in tags['yes'].values()) for t in ['tried','others','bought','feeling']})
+
+PY" in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+Wrote baby-development/evidence/2026-11/second-reading/digest-15.md
+Forms: {'yes': 18, 'near': 16}
+Quoted passages: 258 words: 14282
+Yes tags: {'tried': 149, 'others': 79, 'bought': 15, 'feeling': 92}
+
+exec
+/usr/bin/zsh -lc "python - <<'PY'
+from pathlib import Path
+import re,collections
+source=Path('baby-development/_work/2026-11/digests/share-15.md').read_text()
+output=Path('baby-development/evidence/2026-11/second-reading/digest-15.md').read_text()
+parts=source.split('## Near posts tied to development:')
+expected={sec:re.findall(r'"'^### ('"\\S+) \\|',part,re.M) for sec,part in zip(['yes','near'],parts)}
+qdb={};owner={}
+for sec,part in zip(['yes','near'],parts):
+ for block in re.split(r'(?m)"'^### '"',part)[1:]:
+  pid=block.split('|')[0].strip()
+  for m in re.finditer(r'"'^- '"\\x60(["'^'"\\x60]+)\\x60 \\(["'^'"\\n]*?\\) (.*?)(?=\\n- \\x60|\\Z)',block,re.M|re.S):
+   qdb[m[1]]=m[2].rstrip();owner[m[1]]=(sec,pid)
+checked=0;last_end=0
+for m in re.finditer(r'\" \\[(sr\\d{3}-\\d{4})\\]',output):
+ qid=m[1];assert qid in qdb
+ candidates=[p for p in range(last_end,m.start()) if output[p]=='\"' and output[p+1:m.start()] in qdb[qid]]
+ assert candidates,('quotation mismatch',qid)
+ txt=output[min(candidates)+1:m.start()]
+ for piece in txt.split('[…]'): assert piece.strip() in qdb[qid]
+ checked+=1;last_end=m.end()
+assert checked==258,checked
+alltags={}
+for sec in ['yes','near']:
+ heading=f'## Pattern 7, share 15: {sec} posts\\n'
+ start=output.index(heading)+len(heading);stop=output.find('\\n## ',start)
+ body=output[start:stop if stop>=0 else None];forms=re.split(r'(?m)"'^### '"',body)[1:]
+ seen=[];total=0;tagmap={}
+ for form in forms:
+  name=form.split('\\n',1)[0]
+  n,m=map(int,re.search(r'"'^('"\\d+) of (\\d+) posts\\."'$'"',form,re.M).groups())
+  assert m==len(expected[sec]),(name,'denominator')
+  ids=re.search(r'"'^Posts: (.+)$'"',form,re.M)[1].split()
+  assert len(ids)==n,(name,'count')
+  seen+=ids;total+=n
+  rows=re.findall(r'"'^('"\\S+): (yes|no) \\| (yes|no) \\| (yes|no) \\| (yes|no)"'$'"',form,re.M)
+  assert collections.Counter(r[0] for r in rows)==collections.Counter(ids),(name,'tags')
+  for row in rows:
+   assert row[0] not in tagmap;tagmap[row[0]]=row[1:]
+  for qid in re.findall(r'\\[(sr\\d{3}-\\d{4})\\]',form):
+   assert owner[qid][0]==sec and owner[qid][1] in ids,(name,qid,'wrong form')
+  evidence=form.split('**But:**')[0]
+  nquotes=len(re.findall(r'"'^- "'"',evidence,re.M))
+  assert 3<=nquotes<=8,(name,nquotes)
+ assert total==len(expected[sec])
+ assert collections.Counter(seen)==collections.Counter(expected[sec]),(sec,'coverage')
+ alltags[sec]=tagmap
+ print(sec+':',len(seen),'posts;',len(forms),'forms; coverage, counts, denominators, tags and citation ownership PASS')
+across=output.split('## Pattern 7, share 15: across the yes posts')[1]
+for i,t in enumerate(['tried','others','bought','feeling']):
+ actual=sum(row[i]=='yes' for row in alltags['yes'].values())
+ reported=int(re.search(r'\\| '+t+r' \\| (\\d+) of 154 \\|',across)[1])
+ assert actual==reported,(t,actual,reported)
+sections=re.split(r'(?m)"'^### '"',across)[1:]
+assert len(sections)==4
+for i,section in enumerate(sections):
+ qs=re.findall(r'\\[(sr\\d{3}-\\d{4})\\]',section)
+ assert 5<=len(qs)<=12
+ for qid in qs:
+  assert owner[qid][0]=='yes'
+  assert alltags['yes'][owner[qid][1]][i]=='yes',(qid,'example tag mismatch')
+print('Across-yes tag totals and all four 5–12-quote selections PASS')
+print('Exact source quotations:',checked,'PASS')
+print('All 272 supplied post IDs occur exactly once in their original section: PASS')
+
+PY" in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+yes: 154 posts; 18 forms; coverage, counts, denominators, tags and citation ownership PASS
+near: 118 posts; 16 forms; coverage, counts, denominators, tags and citation ownership PASS
+Across-yes tag totals and all four 5–12-quote selections PASS
+Exact source quotations: 258 PASS
+All 272 supplied post IDs occur exactly once in their original section: PASS
+
+codex
+Wrote [digest-15.md](/home/thinkpad/GitHub/_research/baby-development/evidence/2026-11/second-reading/digest-15.md).
+
+Read all 272 posts: 154 yes and 118 near. Found 18 yes forms and 16 near forms. Coverage, counts, tags and all 258 quotations passed scripted checks.
+
+Apparent cross-posts remain separate posts; unclear purchase mentions were counted conservatively.
+tokens used
+185,040
+Wrote [digest-15.md](/home/thinkpad/GitHub/_research/baby-development/evidence/2026-11/second-reading/digest-15.md).
+
+Read all 272 posts: 154 yes and 118 near. Found 18 yes forms and 16 near forms. Coverage, counts, tags and all 258 quotations passed scripted checks.
+
+Apparent cross-posts remain separate posts; unclear purchase mentions were counted conservatively.
