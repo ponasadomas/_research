@@ -16,7 +16,7 @@ A random, unkeyworded sample covered 20,000 Reddit posts from twelve parenting s
 Vocal experiments, body discoveries and mess amuse them.
 
 - "[…] Her comedic timing with the sighs is on point." [sr037-0075]
-- "[…] “Please do not try to lick to dog’s butt.”" [sr070-0107]
+- "[…] think mine came this morning when I had to tell my 17mo, “Please do not try to lick to dog’s butt.”" [sr070-0107]
 
 **But:** Comedy can also provoke fear: "[…] Obviously I panic every single time thinking she’s choking." [sr093-0027]
 
@@ -27,7 +27,7 @@ Vocal experiments, body discoveries and mess amuse them.
 One account is a caregiver’s.
 
 - "He had obviously had enough and sort out a safe space: Me!" [sr006-0161]
-- "[…] after months of one sides kisses and hugs, i just melted in a puddle!!" [sr084-0060]
+- "[…] few days ago, my 16 month old was playing in the living room and I was chilling on the couch, when she suddenly turned and smiled at me, asked me to hold her, and then she smiled and touched her forehead to me twice…after months of one sides kisses and hugs, i just melted in a puddle!!" [sr084-0060]
 
 **But:** Growth also brings sadness: "[…] I feel sad that he’s growing so much." [sr024-0108]
 
@@ -37,8 +37,8 @@ One account is a caregiver’s.
 
 Clothes, photos and birthdays make change tangible.
 
-- "[…] gaining something and losing something at the same time. […]" [sr094-0087]
-- "[…] I wish I could keep every version of him forever." [sr124-0098]
+- "[…] Every milestone feels like gaining something and losing something at the same time. […]" [sr094-0087]
+- "[…] I want him to grow up but I wish I could keep every version of him forever." [sr124-0098]
 
 **But:** Some prefer the new stage: "[…] I enjoy this more. […]" [sr032-0010]
 
@@ -60,7 +60,7 @@ Some describe improvement; others an easy beginning.
 Words, signs and pronunciation bring surprise.
 
 - "[…] Not mama or dada, but “egg” 😂. […]" [sr089-0010]
-- "[…] he enthusiastically YELLS “D!CK!” […]" [sr082-0047]
+- "[…] owever, now, IN PUBLIC, whenever he sees a truck or a digger, he enthusiastically YELLS “D!CK!” (presume he’s trying to say dig, or even truck with a d instead of t…)…" [sr082-0047]
 
 **But:** Speech-like sounds need not show understanding: "[…] there’s no way he can process the meaning of that yet. […]" [sr115-0065]
 
@@ -71,7 +71,7 @@ Words, signs and pronunciation bring surprise.
 They ask how to nurture curiosity.
 
 - "My two year old completed a jigsaw on his own" [sr001-0120]
-- "I want to nurture her curiosity without adding pressure […]" [sr105-0120]
+- "I want to nurture her curiosity without adding pressure or putting unrealistic expectations on her." [sr105-0120]
 
 **But:** Pride includes fears about belonging: "[…] will she feel isolated when she enters school? […]" [sr038-0132]
 
@@ -81,7 +81,7 @@ They ask how to nurture curiosity.
 
 Favourites include animals, music and ordinary objects.
 
-- "[…] points at every bird in the sky and smiles. […]" [sr002-0088]
+- "[…] He absolutely loves birds and points at every bird in the sky and smiles. […]" [sr002-0088]
 - "[…] It has to be music, and he has to like the music." [sr009-0067]
 
 **But:** Preferences can demand extra soothing: "[…] A few seconds we turned it off? Inconsolable. […]" [sr009-0063]
@@ -93,7 +93,7 @@ Favourites include animals, music and ordinary objects.
 Self-restraint and independence surprise them.
 
 - "[…] She will start to try to pull off my glasses, stop herself and shake her head. […]" [sr020-0169]
-- "[…] instead started “tickticktickling” my head 😭😭. […]" [sr074-0107]
+- "[…] and instead started “tickticktickling” my head 😭😭. […]" [sr074-0107]
 
 **But:** Fascination does not mean approval: "[…] that doesn’t mean I don’t try to correct her […]" [sr048-0029]
 
@@ -104,7 +104,7 @@ Self-restraint and independence surprise them.
 Deliberate responses make the baby feel newly responsive.
 
 - "I was playing and singing with her and she actually chuckled! […]" [sr080-0001]
-- "[…] when I stuck my tongue out she did it back! […]" [sr101-0032]
+- "[…] When she heard me call her name she made eye contact and when I stuck my tongue out she did it back! […]" [sr101-0032]
 
 **But:** A stranger can receive the first grin: "[…] neither me or my husband were the recipient […]" [sr071-0094]
 
@@ -125,8 +125,8 @@ Physical progress can arrive suddenly.
 
 These include two matching speech accounts and medical difficulties.
 
-- "[…] dealing with a speech delay this is a huge win!" [sr052-0003]
-- "[…] doing all of the things they said she’d never do. […]" [sr132-0086]
+- "[…] t may seem like nothing for most 1-year-olds, but to any other parents dealing with a speech delay this is a huge win!" [sr052-0003]
+- "[…] She’s a perfectly normal toddler, doing all of the things they said she’d never do. […]" [sr132-0086]
 
 **But:** Progress sometimes follows treatment: "[…] Then she had surgery. […]" [sr132-0085]
 
@@ -136,7 +136,7 @@ These include two matching speech accounts and medical difficulties.
 
 New awareness and mobility change care.
 
-- "[…] he is overstimulated and forgot how to baby 😫" [sr027-0215]
+- "[…] t’s like the world came into focus for the first time, he is overstimulated and forgot how to baby 😫" [sr027-0215]
 - "I thought there was more time 😭" [sr042-0022]
 
 **But:** Pleasure remains explicit: "[…] So proud and it’s so fun doing tummy time with him. […]" [sr049-0133]
@@ -169,8 +169,8 @@ They anticipate regressions, toddler behaviour or rejection.
 
 Independent play frees time for meals and chores.
 
-- "[…] play with Play-Doh or build some blocks and I can do laundry!" [sr045-0054]
-- "[…] I’m able to do dishes and laundry while he bats at his toys and blows raspberries. YAY!" [sr093-0105]
+- "[…] have to say a 20 month our little one is finally able to just sit around and play with Play-Doh or build some blocks and I can do laundry!" [sr045-0054]
+- "[…] Now at 7.5 months I’m able to do dishes and laundry while he bats at his toys and blows raspberries. YAY!" [sr093-0105]
 
 **But:** Independence remains partial: "[…] he definitely still has his moments where he wants to be held […]" [sr045-0055]
 
@@ -183,7 +183,7 @@ Independent play frees time for meals and chores.
 Their children joke, persuade, translate and discuss death.
 
 - "Apparently “clacks” means snacks. And more importantly… “crap craps” means “crackers.”" [sr001-0122]
-- "[…] the new dog will die too, and when she does, he would like a white dog next." [sr133-0168]
+- "[…] e have since gotten a new dog, and last night he solemnly informed us that the new dog will die too, and when she does, he would like a white dog next." [sr133-0168]
 
 **But:** Understanding still takes guesswork: "[…] You have no idea what they said […]" [sr124-0031]
 
@@ -194,7 +194,7 @@ Their children joke, persuade, translate and discuss death.
 Approaches include waiting, following cues, room changes and Ferber check-ins.
 
 - "Kiddo has slowly become more and more an independent sleeper without any sleep-training whatsoever. […]" [sr089-0090]
-- "[…] (3/5/10 minute Ferber check-ins) he was out before the 10 minute check-in. […]" [sr120-0006]
+- "[…] First night (3/5/10 minute Ferber check-ins) he was out before the 10 minute check-in. […]" [sr120-0006]
 
 **But:** Wins can be brief: "She slept for 10 minutes before getting offended though […]" [sr078-0032]
 
@@ -205,7 +205,7 @@ Approaches include waiting, following cues, room changes and Ferber check-ins.
 Unverified product testimony includes two identical Magic Fingers endorsements; commercial ties are unknown.
 
 - "Today she looked at me and said no mommy, just watch. […]" [sr062-0097]
-- "[…] people owning other people shouldn't be celebrated." [sr067-0059]
+- "[…] am proud that she was able to recognize, without any more details, just that people owning other people shouldn't be celebrated." [sr067-0059]
 
 **But:** Helping can mean taking over: "[…] because it made me feel useful, not because she actually needed me to." [sr062-0097]
 
@@ -238,8 +238,8 @@ Love coexists with regret, anxiety, depression, body shame or lost identity.
 
 Milk, weight, reflux and signing prompt questions.
 
-- "[…] her weight gain is really stressing me out." [sr079-0011]
-- "[…] his first sign was “more” and he hasn't stopped using it since. 😂 […]" [sr086-0138]
+- "[…] She's very happy, sleeps great, and physically looks awesome, but her weight gain is really stressing me out." [sr079-0011]
+- "[…] Im not kidding when I say his first sign was “more” and he hasn't stopped using it since. 😂 Yesterday for breakfast: 2 eggs, a whole toast, a whole peach. […]" [sr086-0138]
 
 **But:** Reassuring development does not settle feeding: "[…] but he’s still struggling with it." [sr076-0078]
 
@@ -249,7 +249,7 @@ Milk, weight, reflux and signing prompt questions.
 
 Hugs, spoken love and games bring closeness.
 
-- "[…] Then she laid her little head on me and said "it's ok Mommy." 🥺 […]" [sr029-0059]
+- "[…] Then she laid her little head on me and said "it's ok Mommy." 🥺 She likes to take that stuffie up with her for her nap so when it was nap time I asked her if she wanted to take cat cat with her for nap and she said "no mommy take" and handed it to me." [sr029-0059]
 - "Toddler said, “I love you mamma” for the first time today." [sr039-0061]
 
 **But:** Closeness can revive earlier pain: "And strangely, it scared me a little because that kind of closeness felt so unfamiliar. […]" [sr089-0096]
@@ -260,7 +260,7 @@ Hugs, spoken love and games bring closeness.
 
 Sibling hopes meet fear of infancy, infertility, loss or health limits.
 
-- "[…] I'd love if I could have a second who popped out as a 1-year-old." [sr049-0025]
+- "[…] This is going to sound crazy but I'd love if I could have a second who popped out as a 1-year-old." [sr049-0025]
 - "[…] I also love having some of my independence back." [sr080-0112]
 
 **But:** Partners may disagree: "[…] realized he doesn’t want this experience again. […]" [sr069-0088]
@@ -271,7 +271,7 @@ Sibling hopes meet fear of infancy, infertility, loss or health limits.
 
 Nature, books, music and quiet mornings become family stories.
 
-- "[…] sharing my passion for nature and wildlife. […]" [sr006-0124]
+- "[…] lad that my boys are sharing my passion for nature and wildlife. […]" [sr006-0124]
 - "She figured out how to play the harmonica without help." [sr019-0157]
 
 **But:** Sweetness is only part of temperament: "[…] this child is also an absolute terror […]" [sr092-0116]
@@ -293,8 +293,8 @@ New names, rooms and independence make earlier closeness feel finite.
 
 Toothbrushing, autistic potty-training success, tidying and upright bowls matter.
 
-- "[…] he went three times on his own! I’m so proud!" [sr054-0138]
-- "[…] stopped treating bowls as drum sets and inverting them every chance he got […]" [sr009-0073]
+- "[…] t’s our first day potty training my autistic son; he went three times on his own! I’m so proud!" [sr054-0138]
+- "[…] For us, when our young toddler stopped treating bowls as drum sets and inverting them every chance he got .. […]" [sr009-0073]
 
 **But:** Reminders remain necessary: "[…] I still have to remind them sometimes […]" [sr082-0068]
 
@@ -305,7 +305,7 @@ Toothbrushing, autistic potty-training success, tidying and upright bowls matter
 Rest, practical help, security or companionship are missing.
 
 - "So many milestones reached but no one to really tell it to. […]" [sr070-0024]
-- "[…] often times I feel like a failure to be honest. […]" [sr022-0084]
+- "[…] ’m tying so hard to be a good husband and father but often times I feel like a failure to be honest. […]" [sr022-0084]
 
 **But:** Missing help can be temporary: "[…] my husband is a very involved father […]" [sr034-0051]
 
@@ -326,8 +326,8 @@ Device-update jokes, a broken gate and hair-pulling capture surprising change.
 
 Baby engagement can leave pets sidelined.
 
-- "[…] I feel like they get none of me anymore. […]" [sr093-0077]
-- "[…] Seeing my now 1 year old love on them is the best […]" [sr100-0100]
+- "[…] I actually cried last night thinking about how they were both my first babies and I feel like they get none of me anymore. […]" [sr093-0077]
+- "[…] Seeing my now 1 year old love on them is the best and I don’t know what I’d do at meal times without my dogs cleaning her mess lol! […]" [sr100-0100]
 
 **But:** Affection coexists with irritation: "[…] And yes they’ve irritated me at times. […]" [sr100-0100]
 
@@ -359,8 +359,8 @@ This father explicitly labels his testimony AI-edited; a company-funded doula he
 
 One mother describes shared care and modelling respect.
 
-- "[…] what we prioritize in our day to day life has helped. […]" [sr058-0079]
-- "[…] My husband and I are kind to each other […]" [sr058-0084]
+- "[…] That being said I do think that the way we have raised her thus far and what we prioritize in our day to day life has helped. […]" [sr058-0079]
+- "[…] My husband and I are kind to each other and show each other respect. […]" [sr058-0084]
 
 **But:** Temperament remains an alternative: "[…] idk if I just have an easy kid […]" [sr058-0090]
 
@@ -372,8 +372,8 @@ One mother describes shared care and modelling respect.
 
 Attempts include soothing, feeding workarounds and speech evaluation.
 
-- "[…] I taught her “gentle hands” from early on […]" [sr074-0106]
-- "We finally get some anti-acid medicine for babies […] Helped a lot. […]" [sr059-0032]
+- "[…] I taught her “gentle hands” from early on, and we call gently stroking their head “tickticktickle.” So now that she’s walking everywhere (help me), whenever we meet a dog (she’s also obsessed with dogs), we always ask the owner if she can say hello. […]" [sr074-0106]
+- "We finally get some anti-acid medicine for babies (famotidine which is Pepsid). Helped a lot. […]" [sr059-0032]
 
 **But:** Some efforts meet resistance: "[…] she yells at me because she just doesn’t wanna do it. […]" [sr076-0011]
 
@@ -383,8 +383,8 @@ Attempts include soothing, feeding workarounds and speech evaluation.
 
 Help and advice can reassure, frighten or confuse.
 
-- "[…] with grandma telling her to come towards her. […]" [sr023-0116]
-- "[…] your daughter may not ever crawl, walk, talk. […]" [sr132-0084]
+- "[…] So during FaceTime with grandma, we placed the phone on the ground with grandma telling her to come towards her. […]" [sr023-0116]
+- "[…] We were told, your daughter may not ever crawl, walk, talk. […]" [sr132-0084]
 
 **But:** Family does not always understand: "My husband, and most of my family doesn’t understand why I get so sad about it. […]" [sr133-0047]
 
@@ -394,7 +394,7 @@ Help and advice can reassure, frighten or confuse.
 
 Prices are unknown; use or ownership alone was not counted.
 
-- "[…] I bought a bunch of shirts and shorts for her." [sr032-0072]
+- "[…] We started daycare in summer and they want the kids in separates so I bought a bunch of shirts and shorts for her." [sr032-0072]
 - "And yes I have stacked up on Play-Doh! […]" [sr045-0057]
 - "So grandma and I found a few on Amazon, showed little lady and let her pick one. […]" [sr066-0093]
 
@@ -407,7 +407,7 @@ Prices are unknown; use or ownership alone was not counted.
 Joy can coexist with anger, fear and tears about growing up.
 
 - "I feel like I just won the Super Bowl. […]" [sr075-0116]
-- "[…] I feel like I can handle this!" [sr045-0056]
+- "[…] But now with independent play, I feel like I can handle this!" [sr045-0056]
 
 **But:** Not every feeling is happy: "[…] I’m not gonna lie, I am pretty pissed." [sr042-0021]
 

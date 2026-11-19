@@ -427,7 +427,7 @@ Relatives, partners, health visitors and childcare influence timing and routines
 Three posts report seats, miniature toilets or leak-shield boxers. Prices are unknown; gifts and plans do not count.
 
 - "I recently bought the Baby Bjorn potty seat" [sr048-0082]
-- "I was able to get a little mini toddler toilet […] on sale so I grabbed it." [sr057-0026]
+- "I was able to get a little mini toddler toilet, the one that looks just like a small version of a normal toilet, on sale so I grabbed it. […]" [sr057-0026]
 - "I did buy some boxers that have a shield so pee won’t leak through" [sr085-0028]
 
 **But:** Buying need not ensure comfort: "he’s really been struggling with it." [sr048-0082].

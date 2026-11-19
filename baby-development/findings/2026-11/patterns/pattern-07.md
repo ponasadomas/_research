@@ -16,7 +16,7 @@ These posts come from a random, no-keyword sample of 20,000 posts in twelve pare
 Playing and mouthing yield little actual eating.
 
 - "How can my baby practice if the food doesn't go in his mouth?!" [sr048-0048]
-- "He just sticks his tongue out […]" [sr067-0105]
+- "[…] He just sticks his tongue out and if I get some in his mouth he just holds it in there and doesn’t even try to swallow." [sr067-0105]
 
 **But:** Some shared food succeeds: "[…] He ate refried beans with his papa last night. […]" [sr054-0113]
 
@@ -26,7 +26,7 @@ Playing and mouthing yield little actual eating.
 
 Vomiting and cleanup make texture practice harder.
 
-- "[…] the tiniest bit of texture, he gags and pukes. […]" [sr058-0009]
+- "[…] Any time I try mashed fruits or anything with the tiniest bit of texture, he gags and pukes. […]" [sr058-0009]
 - "Now she dont know how to chew solid food. […]" [sr039-0088]
 
 **But:** Some textures work: "She will happily chew on baby rusks and cucumbers […]" [sr068-0055]
@@ -37,7 +37,7 @@ Vomiting and cleanup make texture practice harder.
 
 Equipment changes and assessments bring mixed results; one retraining account is AI-assisted.
 
-- "[…] he just stays there and does NOTHING […]" [sr090-0061]
+- "[…] But as soon as he’s latched he just stays there and does NOTHING..no matter how hungry he is. […]" [sr090-0061]
 - "I wish I never got this tongue tie release. […]" [sr060-0019]
 
 **But:** Equipment sometimes helps: "Still a little bit of dribble but totally manageable now […]" [sr027-0118]
@@ -48,7 +48,7 @@ Equipment changes and assessments bring mixed results; one retraining account is
 
 Fear limits food textures, portions or practice.
 
-- "[…] my baby will choke just like my first. […]" [sr041-0080]
+- "[…] am so damn scared my baby will choke just like my first. […]" [sr041-0080]
 - "I have emetophobia ( fear of vomit ) and I just can’t do it.." [sr131-0047]
 
 **But:** Another parent persists: "[…] i just have to watch him and teach him." [sr032-0007]
@@ -59,8 +59,8 @@ Fear limits food textures, portions or practice.
 
 Refusal blocks breaks, weaning, work and daycare.
 
-- "[…] I haven’t had a moment away in months now […]" [sr003-0202]
-- "[…] I can’t be running to daycare to nurse her […]" [sr134-0105]
+- "[…] I haven’t had a moment away in months now and I really need that to change." [sr003-0202]
+- "[…] never had this issue with my first - and I’m worried about when she starts daycare at 12 weeks because although I WFH, I can’t be running to daycare to nurse her multiple times a day." [sr134-0105]
 
 **But:** Success can be fleeting: "Some of the tricks have work, I won't lie, but only momentarily. […]" [sr094-0015]
 
@@ -82,7 +82,7 @@ Sucking, swallowing, tilting and valves present obstacles.
 Work, weaning and formula costs add deadlines.
 
 - "I want to cry. I feel trapped. […]" [sr022-0035]
-- "[…] his diet is still 95% formula." [sr046-0046]
+- "[…] i everybody :) my little boy is turning a year old this week (🥳) but his diet is still 95% formula. […]" [sr046-0046]
 
 **But:** Progress occurs: "[…] successfully eats a few bites of solids 3 times a day." [sr054-0003]
 
@@ -103,8 +103,8 @@ Milk needs the familiar bottle or spout.
 
 Bottles carry cuddles, sleep cues and routines.
 
-- "[…] she finds comfort in me holding her bottle […]" [sr090-0072]
-- "[…] it didn’t trigger the same mellowing-out effect." [sr099-0026]
+- "[…] But she finds comfort in me holding her bottle and cuddling my arms while falling asleep. […]" [sr090-0072]
+- "[…] So when we tried the formula in a regular straw cup it didn’t trigger the same mellowing-out effect. […]" [sr099-0026]
 
 **But:** Some already removed teats: "[…] No more nipple tops." [sr020-0103]
 
@@ -114,7 +114,7 @@ Bottles carry cuddles, sleep cues and routines.
 
 Food interest can precede sitting or tongue control.
 
-- "[…] my son is not able to sit with support yet […]" [sr029-0094]
+- "[…] did do some research using Gemini which is attached below , my son is not able to sit with support yet so does it mean he is not ready for soft food at the time being?" [sr029-0094]
 - "LO is just not ready yet and he is ANGRY. 😂" [sr085-0018]
 
 **But:** Interest exists: "[…] she made a funny face but was thrilled." [sr056-0012]
@@ -125,8 +125,8 @@ Food interest can precede sitting or tongue control.
 
 Illness or teething do not always explain refusal.
 
-- "[…] she’s been spitting out all the food i serve her if it’s not fruit. […]" [sr044-0089]
-- "[…] she is chewing but just couldn't swallow them." [sr110-0068]
+- "[…] or the past few days, she’s been spitting out all the food i serve her if it’s not fruit. […]" [sr044-0089]
+- "[…] Recently (started about 2 weeks ago) she had a hard time swallowing those chicken, she is chewing but just couldn't swallow them. […]" [sr110-0068]
 
 **But:** Some foods remain easy: "Banana he eats with zero struggle. Raspberries too, actually." [sr071-0009]
 
@@ -136,8 +136,8 @@ Illness or teething do not always explain refusal.
 
 Food is accepted when an adult helps.
 
-- "[…] we load a spoon or hand her a bite, she happily eats." [sr124-0012]
-- "[…] I’m not teaching her how to feed herself but how to be fed." [sr054-0107]
+- "[…] The second we load a spoon or hand her a bite, she happily eats." [sr124-0012]
+- "[…] Im concerned I’m not teaching her how to feed herself but how to be fed." [sr054-0107]
 
 **But:** One transition was rapid: "Now, almost 3 weeks later my son is fully self feeding! […]" [sr091-0123]
 
@@ -148,7 +148,7 @@ Food is accepted when an adult helps.
 Dropped spoons and others’ deadlines prompt doubts.
 
 - "[…] Just loves eating with his hands. Is this normal? […]" [sr014-0002]
-- "[…] he doesn’t like hand to hand teaching at all." [sr114-0027]
+- "[…] f I try to guide his hand in any way he freaks out and gets frustrated, he doesn’t like hand to hand teaching at all." [sr114-0027]
 
 **But:** Spoon use exists: "[…] she is quite handy with it now. […]" [sr022-0023]
 
@@ -159,7 +159,7 @@ Dropped spoons and others’ deadlines prompt doubts.
 Too much information obscures the next step.
 
 - "[…] Where do i start researching how to do it? […]" [sr032-0071]
-- "When do I start introducing real foods? Or stop puréed foods? […]" [sr044-0063]
+- "[…] When do I start introducing real foods? Or stop puréed foods? […]" [sr044-0063]
 
 **But:** Some have begun: "[…] a pureed vegetable or fruit once a day." [sr044-0063]
 
@@ -169,8 +169,8 @@ Too much information obscures the next step.
 
 Preparation and ingredient worries complicate food choices.
 
-- "[…] my 7 month old with no teeth?" [sr076-0001]
-- "[…] way too much salt or sugar." [sr072-0023]
+- "[…] how do i prep and cook said foods for my 7 month old with no teeth? […]" [sr076-0001]
+- "[…] Everything I try to think of just has way too much salt or sugar. […]" [sr072-0023]
 
 **But:** Eating may already work: "[…] she loves to eat!" [sr023-0042]
 
@@ -180,8 +180,8 @@ Preparation and ingredient worries complicate food choices.
 
 Children leave liquid unfinished, splash or spit.
 
-- "[…] she has NEVER finished it within the two hour safety limit." [sr037-0014]
-- "[…] If it’s an open cup he likes to splash his hand in it lol." [sr064-0013]
+- "[…] We put about an 1oz into her cup at a time and she has NEVER finished it within the two hour safety limit." [sr037-0014]
+- "[…] If it’s an open cup he likes to splash his hand in it lol. […]" [sr064-0013]
 
 **But:** Ability may precede refusal: "[…] he drank water no problem from his straw cup." [sr110-0073]
 
@@ -191,8 +191,8 @@ Children leave liquid unfinished, splash or spit.
 
 Modelling and pacing have not prevented frightening incidents.
 
-- "[…] we’re having near-choking incidents almost every day now. […]" [sr055-0030]
-- "[…] she got more and more angry and kept crying." [sr118-0081]
+- "[…] e loves his food but just will not chew and we’re having near-choking incidents almost every day now. […]" [sr055-0030]
+- "[…] We tried this morning with breakfast to wait a bit between each spoonful but she got more and more angry and kept crying. […]" [sr118-0081]
 
 **But:** Independence can coexist: "[…] independent, likes to feed herself, learning fork and spoon well […]" [sr011-0072]
 
@@ -202,8 +202,8 @@ Modelling and pacing have not prevented frightening incidents.
 
 Crying and mess make supporting independence difficult.
 
-- "I currently hate dinner time […]" [sr002-0321]
-- "[…] So here I am trying baby led weaning against my will 😂." [sr094-0073]
+- "I currently hate dinner time because I feel like he just screams between every bite. […]" [sr002-0321]
+- "[…] So here I am trying baby led weaning against my will 😂. […]" [sr094-0073]
 
 **But:** Interest can remain: "She has always LOVED food. […]" [sr094-0073]
 
@@ -215,8 +215,8 @@ Crying and mess make supporting independence difficult.
 
 Work, mental health or tumour treatment add urgency.
 
-- "I experience really intense D-MER when I feed […]" [sr013-0075]
-- "[…] my drs told me to immediately shift baby to EFF. […]" [sr020-0063]
+- "[…] I’m absolutely done with breast feeding, it is affecting my mental health and other aspects of my life (I experience really intense D-MER when I feed and I just can’t do it anymore) and I am beyond desperate to get him onto formula and a bottle." [sr013-0075]
+- "[…] he health issues turned out to be a tumour and my drs told me to immediately shift baby to EFF. […]" [sr020-0063]
 
 **But:** Progress is reported: "He stopped crying at the sight of the bottle […]" [sr005-0125]
 
@@ -226,8 +226,8 @@ Work, mental health or tumour treatment add urgency.
 
 Medical concerns overlap with uncertain treatment explanations.
 
-- "[…] progressively improved his latching." [sr015-0020]
-- "[…] she was never able to latch before or after." [sr128-0129]
+- "[…] He had his tongue tie snipped 5 weeks ago which has progressively improved his latching. […]" [sr015-0020]
+- "[…] We got it fixed when she was 5 days old, but she was never able to latch before or after. […]" [sr128-0129]
 
 **But:** Another route works: "[…] she takes the bottle very well" [sr110-0042]
 
@@ -237,8 +237,8 @@ Medical concerns overlap with uncertain treatment explanations.
 
 Costs, packing, allergens and textures shape requests.
 
-- "[…] they are expensive ($4.50/pouch!) […]" [sr024-0090]
-- "[…] we’re still in Minced and Moist territory." [sr017-0199]
+- "[…] e were buying “serenity kids” pouches at target that had puréed salmon but they are expensive ($4.50/pouch!) and don’t have ones with common allergens." [sr024-0090]
+- "[…] He’s had some issues with swallowing and had to start off the first 10 months with an NG tube, so we’re still in Minced and Moist territory." [sr017-0199]
 
 **But:** Preferences can guide choices: "[…] he likes savory food more than sweet food […]" [sr021-0085]
 
@@ -248,8 +248,8 @@ Costs, packing, allergens and textures shape requests.
 
 Questions cover portions, schedules and food in stool.
 
-- "[…] Is it normal that he finishes the whole jar?" [sr038-0105]
-- "[…] how often do I give this to her? How much at a time? […]" [sr101-0038]
+- "[…] Is it normal that he finishes the whole jar? […]" [sr038-0105]
+- "[…] ut I guess my question lies with, **how often do I give this to her? How much at a time?** This is an exploration and gut development stage not a feeding till full. […]" [sr101-0038]
 
 **But:** Delay is not universal: "She generally eats very well! […]" [sr035-0106]
 
@@ -259,7 +259,7 @@ Questions cover portions, schedules and food in stool.
 
 Reflux, constipation and reactions complicate feeding practice.
 
-- "[…] I let him down by not doing better allergen exposure […]" [sr028-0111]
+- "[…] I feel like I let him down by not doing better allergen exposure with solids. […]" [sr028-0111]
 - "My biggest problem now is that I’m terrified to feed her anything. […]" [sr108-0036]
 
 **But:** Some intake works: "[…] He takes those just fine and seems to love the taste and texture. […]" [sr087-0075]
@@ -282,7 +282,7 @@ Refusal persists, sometimes with reported weight loss.
 Bedtime bottles persist despite other feeding progress.
 
 - "[…] He screams and cries until he gets them or passes out." [sr048-0080]
-- "[…] What started as necessary supplementation became just for comfort...but now she's hooked." [sr062-0004]
+- "[…] What started as necessary supplementation became just for comfort...but now she's hooked. […]" [sr062-0004]
 
 **But:** Daytime transition can be easy: "[…] That transition was easy. […]" [sr048-0080]
 
@@ -292,8 +292,8 @@ Bedtime bottles persist despite other feeding progress.
 
 Medical and family advice can contradict readiness.
 
-- "[…] everything i’ve read beforehand tells me to wait until 6 months […]" [sr076-0042]
-- "[…] even suggested baby cereal in a bottle is okay.." [sr108-0055]
+- "[…] everything i’ve read beforehand tells me to wait until 6 months because their bodies are just not ready for it. […]" [sr076-0042]
+- "[…] He said that as long as it is a very thin consistency that we could start anytime, and even suggested baby cereal in a bottle is okay.. […]" [sr108-0055]
 
 **But:** Some report control: "He’s 4 months old and pretty good with head control. […]" [sr127-0115]
 
@@ -304,7 +304,7 @@ Medical and family advice can contradict readiness.
 Formula support and first-birthday expectations add pressure.
 
 - "What do I do when he turns 1?!?! […]" [sr004-0143]
-- "[…] I don't think she is consuming enough solids to be dropping bottles. […]" [sr126-0104]
+- "[…] t this point, I don't think she is consuming enough solids to be dropping bottles. […]" [sr126-0104]
 
 **But:** Some meals work: "She has some staples she really likes like eggs, spaghetti, and carrots […]" [sr006-0141]
 
@@ -314,8 +314,8 @@ Formula support and first-birthday expectations add pressure.
 
 Tilting, straws and mess complicate daily use.
 
-- "[…] we have better success with open cups than straw cups […]" [sr004-0186]
-- "[…] he still doesn’t get that he has to tilt his head back to drink lol" [sr101-0100]
+- "[…] o far our attempts to teach him have left him frustrated and we have better success with open cups than straw cups but we dont want to skip straws entirely." [sr004-0186]
+- "[…] t needs to be something easy because he still doesn’t get that he has to tilt his head back to drink lol […]" [sr101-0100]
 
 **But:** Some straw use works: "[…] he’s pretty decent at it." [sr101-0064]
 
@@ -325,8 +325,8 @@ Tilting, straws and mess complicate daily use.
 
 Short interest or refused help limit intake.
 
-- "LO will have 2-3 teaspoons, then get distracted […]" [sr005-0189]
-- "She is hyper-independent and won’t let me feed her. […]" [sr097-0030]
+- "[…] LO will have 2-3 teaspoons, then get distracted, purse his lips, and start flailing around. […]" [sr005-0189]
+- "[…] She is hyper-independent and won’t let me feed her. […]" [sr097-0030]
 
 **But:** Development may reassure: "[…] she is achieving all milestones age-appropriately." [sr097-0029]
 
@@ -336,7 +336,7 @@ Short interest or refused help limit intake.
 
 Different vessels and flavours still bring little intake.
 
-- "[…] Added a little prune or apple juice […]" [sr013-0027]
+- "[…] Added a little prune or apple juice to give it some flavor. […]" [sr013-0027]
 - "but the most water she has taken in a day is like 2 oz...." [sr044-0098]
 
 **But:** Skill may exist: "She can use a straw cup […]" [sr044-0098]
@@ -347,7 +347,7 @@ Different vessels and flavours still bring little intake.
 
 Preparation and food order feel overwhelming.
 
-- "now what? i feel so paralyzed with options. […]" [sr011-0136]
+- "[…] now what? i feel so paralyzed with options. […]" [sr011-0136]
 - "How are we serving meat in a puree?" [sr031-0102]
 
 **But:** Anticipation also appears: "We plan to start tomorrow and are super excited." [sr031-0100]
@@ -359,7 +359,7 @@ Preparation and food order feel overwhelming.
 Adult feeding became routine after hospital care.
 
 - "[…] What was survival mode turned into a regular thing." [sr042-0048]
-- "He will feed himself if it’s a preferred food […]" [sr065-0041]
+- "[…] He will feed himself if it’s a preferred food like pizza, pickles, anything like that. […]" [sr065-0041]
 
 **But:** Ability is explicit: "He’s totally capable of feeding himself […]" [sr065-0042]
 
@@ -369,7 +369,7 @@ Adult feeding became routine after hospital care.
 
 Robot play and utensil prompts improved lunch.
 
-- "[…] I was feeling a bit exasperated […]" [sr020-0094]
+- "[…] I was feeling a bit exasperated, but somehow thought to try being a robot (maybe inspired by Bluey, the mini-sode about Bingo 3000)." [sr020-0094]
 - "[…] It was nice to not fight through that lunch." [sr020-0102]
 
 **But:** This records success: "He finished almost the whole plate of food […]" [sr020-0102]
@@ -380,8 +380,8 @@ Robot play and utensil prompts improved lunch.
 
 Topics include storage, appointments, sleep, clothes, pregnancy and abortion, costs, unverified premastication claims, sibling bedtime and hitting a dog; some ages and parental status are unknown.
 
-- "[…] It was mentally exhausting" [sr005-0061]
-- "[…] if you've had miscarriages and an abortion, did it traumatize you more? […]" [sr059-0070]
+- "[…] It was mentally exhausting so the current systen felt so easy compared to it lol but now I see that I keep making my life miserable 🤣" [sr005-0061]
+- "[…] ive it to me straight; if you've had miscarriages and an abortion, did it traumatize you more? […]" [sr059-0070]
 - "[…] He ate the whole fucking thing I made for my son. I beat his ass. […]" [sr134-0119]
 
 **But:** Eating progress is background: "He's eating better and actually taking a sippy cup." [sr059-0067]
@@ -394,8 +394,8 @@ Topics include storage, appointments, sleep, clothes, pregnancy and abortion, co
 
 Attempts include modelling, pacing, equipment, carers and consultations; plans alone do not count.
 
-- "I’ve tried filling the cup up half way […]" [sr076-0036]
-- "[…] I try a bottle at every feed sometimes it’s successful and sometimes not." [sr007-0004]
+- "I’ve tried filling the cup up half way, I’ve tried having him drink and manually lifting his arms while saying “lift, lift!” He will drink while I hold his arms up but the second I let go, he will slowly drop them back down and doesn’t understand to lift his arms again. […]" [sr076-0036]
+- "[…] e’re using the lansinoh bottles with Kendamil formula if that matters, I try a bottle at every feed sometimes it’s successful and sometimes not." [sr007-0004]
 
 **But:** Repetition can fail: "[…] he just won’t chew the food." [sr055-0034]
 
@@ -406,7 +406,7 @@ Attempts include modelling, pacing, equipment, carers and consultations; plans a
 Professionals, relatives and nursery staff supply instructions and comparisons.
 
 - "Speech recommended getting his lip tongue in cheek ties released but our pediatrician is against it." [sr007-0100]
-- "[…] he should be eating 3 meals a day by now […]" [sr113-0167]
+- "[…] e recently went to the pediatrician, and she said “He is almost 9 months old he should be eating 3 meals a day by now”. […]" [sr113-0167]
 
 **But:** Some advice reassures: "[…] kids go at different paces." [sr077-0086]
 
@@ -417,7 +417,7 @@ Professionals, relatives and nursery staff supply instructions and comparisons.
 Purchases include equipment, food, formula and therapy; brand use alone does not count. The private-therapy account is AI-assisted.
 
 - "I have spent so much money in bottle, like I'm desperate." [sr094-0016]
-- "We were also working privately with a feeding therapist […]" [sr001-0174]
+- "We were also working privately with a feeding therapist through our tongue tie clinic — we had 6 visits with them and they were great, plus they offered email support in between. […]" [sr001-0174]
 
 **But:** Buying does not assure acceptance: "She absolutely refuses milk unless it's in her old baby bottle. […]" [sr083-0014]
 
@@ -428,7 +428,7 @@ Purchases include equipment, food, formula and therapy; brand use alone does not
 Tags include named emotions and denied worry, rather than beliefs alone.
 
 - "I left feeling really guilty and discouraged because I AM trying." [sr113-0167]
-- "[…] I get… idk whatever the fuck is left im so tired and sick of food." [sr054-0105]
+- "[…] usband gets considerate dinner (health concerns) I get… idk whatever the fuck is left im so tired and sick of food." [sr054-0105]
 
 **But:** Worry is not universal: "[…] so i’m not too worried […]" [sr046-0046]
 

@@ -26,8 +26,8 @@ Concerns span head control, walking and hand tasks.
 
 Quietness and social gestures concern them.
 
-- "[…] I can’t make noises at her and then she makes noises back." [sr099-0110]
-- "[…] He generally seems less alert in the eyes […]" [sr012-0130]
+- "[…] ut I can’t make noises at her and then she makes noises back." [sr099-0110]
+- "[…] He generally seems less alert in the eyes and gets more sleepy." [sr012-0130]
 
 **But:** Language can grow. "[…] has well over 200 words […]" [sr002-0304]
 
@@ -37,8 +37,8 @@ Quietness and social gestures concern them.
 
 Babbling and words prompt questions.
 
-- "[…] if it counts as a word, or a gesture. […]" [sr040-0019]
-- "[…] he does not say words with intention. […]" [sr031-0020]
+- "[…] I'm wondering if it counts as a word, or a gesture. […]" [sr040-0019]
+- "[…] owever, I feel he does not say words with intention. […]" [sr031-0020]
 
 **But:** Sometimes unworried. "[…] I’m not worried or concerned. […]" [sr061-0056]
 
@@ -48,7 +48,7 @@ Babbling and words prompt questions.
 
 Clinginess and failed soothing compound uncertainty.
 
-- "[…] I can’t figure out what’s wrong. […]" [sr039-0085]
+- "[…] hat troubles me the most is that I can’t figure out what’s wrong. […]" [sr039-0085]
 - "[…] Is this really how teething is? […]" [sr022-0015]
 
 **But:** Sometimes manageable. "We haven’t found it unbearable […]" [sr067-0120]
@@ -60,7 +60,7 @@ Clinginess and failed soothing compound uncertainty.
 Repetition and asymmetry raise fears.
 
 - "Do these seem like infantile spasms? […]" [sr125-0020]
-- "[…] she started tip toe walking!! […]" [sr008-0081]
+- "[…] Then out of nowhere she started tip toe walking!! […]" [sr008-0081]
 
 **But:** Sometimes responsive. "[…] he seems to be responsive when doing it." [sr087-0108]
 
@@ -70,8 +70,8 @@ Repetition and asymmetry raise fears.
 
 Head shape and teeth prompt comparisons.
 
-- "[…] her flat spot is so so prominent […]" [sr106-0094]
-- "[…] not a tooth in sight." [sr134-0002]
+- "[…] y baby is now almost one year and I’m panicking because her flat spot is so so prominent and her head sort of cones at the top." [sr106-0094]
+- "[…] swear my baby has been teething since he was 3 months old, but we're currently nearing his first birthday and not a tooth in sight." [sr134-0002]
 
 **But:** Some trust medical reassurance. "The pediatrician is not concerned with his weight at all […]" [sr022-0114]
 
@@ -82,7 +82,7 @@ Head shape and teeth prompt comparisons.
 Attachment can restrict everyday life.
 
 - "[…] I can’t take her anywhere. […]" [sr055-0006]
-- "[…] Perfectly ok being alone in her crib […]" [sr037-0006]
+- "[…] Perfectly ok being alone in her crib and she also gets mad if you hold her too long. […]" [sr037-0006]
 
 **But:** Social skills coexist. "[…] is pretty social/interactive." [sr088-0011]
 
@@ -103,8 +103,8 @@ Aggression and refusals prompt questions.
 
 Questions include genital exploration and preferences.
 
-- "[…] poops happen on his fisher price piano mat. […]" [sr002-0066]
-- "[…] maybe like 2 min of  focus. […]" [sr126-0001]
+- "[…] would say like 98% of all my 8 month old's poops happen on his fisher price piano mat. […]" [sr002-0066]
+- "[…] When working with a shape sorter he might give me maybe like 2 min of focus. […]" [sr126-0001]
 
 **But:** Some embrace differences. "[…] happy to embrace them as they are […]" [sr073-0105]
 
@@ -114,8 +114,8 @@ Questions include genital exploration and preferences.
 
 Corrected age and milestone definitions confuse.
 
-- "[…] what’s developmentally appropriate at this age. […]" [sr072-0053]
-- "[…] her true age or her corrected age. […]" [sr008-0049]
+- "[…] I just don’t know what’s developmentally appropriate at this age. […]" [sr072-0053]
+- "[…] owever, whenever we have questions or “issues”, I’m unsure if I should consider her true age or her corrected age. […]" [sr008-0049]
 
 **But:** Ability can surprise. "[…] She did scribble on the paper... […]" [sr086-0004]
 
@@ -125,8 +125,8 @@ Corrected age and milestone definitions confuse.
 
 They describe stuttering, stopped gestures and rolling.
 
-- "[…] no more “mama” or “dada”. […]" [sr090-0030]
-- "[…] does not say any other words or the related gestures. […]" [sr126-0034]
+- "[…] So it’s now been 3 weeks with no words whatsoever, just alot of babbling but no more “mama” or “dada”. […]" [sr090-0030]
+- "[…] She still says Mama but does not say any other words or the related gestures. […]" [sr126-0034]
 
 **But:** Some report recovery. "[…] She started rolling after 7 days.. […]" [sr028-0015]
 
@@ -136,8 +136,8 @@ They describe stuttering, stopped gestures and rolling.
 
 Genital rubbing and sucking raise boundaries.
 
-- "[…] Is this a sexual behavior? Is this normal? Is this self soothing? […]" [sr119-0066]
-- "[…] I feel bad taking away his comfort. […]" [sr121-0026]
+- "[…] have some questions Is this a sexual behavior? Is this normal? Is this self soothing? […]" [sr119-0066]
+- "[…] I’m worried about it but I feel bad taking away his comfort. […]" [sr121-0026]
 
 **But:** Some habits cause injury. "[…] left his poor balls bleeding. […]" [sr012-0034]
 
@@ -147,8 +147,8 @@ Genital rubbing and sucking raise boundaries.
 
 Rolling and falls need managing.
 
-- "[…] it's driving me slowly insane 😅" [sr061-0159]
-- "[…] will cause lasting damage." [sr044-0043]
+- "[…] This is my day ALL DAY and it's driving me slowly insane 😅" [sr061-0159]
+- "[…] ’m afraid the amount of times it’s happening will cause lasting damage." [sr044-0043]
 
 **But:** Harm varies. "[…] Nothing major so far […]" [sr044-0041]
 
@@ -158,7 +158,7 @@ Rolling and falls need managing.
 
 Hair, sounds and outings trigger distress.
 
-- "[…] hyper aware of her hair. […]" [sr076-0121]
+- "[…] hese last couple weeks she has become hyper aware of her hair. […]" [sr076-0121]
 - "[…] He is scared of trees. […]" [sr127-0130]
 
 **But:** Sensitivity varies. "[…] not noise sensitive like blenders or music […]" [sr051-0057]
@@ -169,8 +169,8 @@ Hair, sounds and outings trigger distress.
 
 Bathing and changes become difficult.
 
-- "[…] crying any time another baby cries. […]" [sr033-0148]
-- "[…] the only baby in the class who cries." [sr032-0067]
+- "[…] ecently the daycare said he’s been fussy and crying any time another baby cries. […]" [sr033-0148]
+- "[…] he's also in swim lessons at the Y and is the only baby in the class who cries." [sr032-0067]
 
 **But:** Relief is possible. "[…] As soon as we take her out, she’s happy. […]" [sr022-0068]
 
@@ -181,7 +181,7 @@ Bathing and changes become difficult.
 Monitoring can take over their interactions.
 
 - "[…] Could these things indicate a bigger problem? […]" [sr088-0135]
-- "[…] Every interaction feels like I’m doing an evaluation […]" [sr003-0184]
+- "[…] Every interaction feels like I’m doing an evaluation and I need to stop. […]" [sr003-0184]
 
 **But:** Checks can reassure. "[…] told me she is fine. […]" [sr019-0005]
 
@@ -192,7 +192,7 @@ Monitoring can take over their interactions.
 Screeches bring curiosity or overstimulation.
 
 - "[…] growling? Like a wrestler?" [sr044-0114]
-- "[…] we’re all overstimulated 24/7 […]" [sr128-0039]
+- "[…] t first it was adorable and now we’re all overstimulated 24/7 and can’t catch a break! […]" [sr128-0039]
 
 **But:** Sometimes happy. "[…] He is a very happy guy […]" [sr121-0001]
 
@@ -203,7 +203,7 @@ Screeches bring curiosity or overstimulation.
 Smaller bites have not solved it.
 
 - "[…] Why doesn’t he swallow his food?" [sr122-0001]
-- "[…] he lost 1 pound. […]" [sr122-0002]
+- "[…] rom 15 months to 18 months, he lost 1 pound. […]" [sr122-0002]
 
 **But:** Texture matters. "[…] He downs yogurt, sour cream, and other soft things […]" [sr122-0003]
 
@@ -216,7 +216,7 @@ Smaller bites have not solved it.
 They question waking, refusals and absent regressions.
 
 - "[…] it’s exhausting." [sr055-0121]
-- "[…] we don’t have to fix biology?" [sr076-0093]
+- "[…] And we don’t have to fix biology?" [sr076-0093]
 
 **But:** Some improve. "[…] 2 or 3 nights of the ferber method and literally everything changed. […]" [sr002-0098]
 
@@ -226,7 +226,7 @@ They question waking, refusals and absent regressions.
 
 Refusal and stooling invite competing explanations.
 
-- "[…] a developmental phase, bottle aversion, reflux, position preference, or something else? […]" [sr051-0091]
+- "[…] Was it a developmental phase, bottle aversion, reflux, position preference, or something else? […]" [sr051-0091]
 - "[…] is he just learning?? I feel so helpless" [sr040-0030]
 
 **But:** Total intake varies. "[…] he drank his normal amount in 10 bottles. […]" [sr058-0119]
@@ -237,8 +237,8 @@ Refusal and stooling invite competing explanations.
 
 They watch rolling, startling and apparent waking.
 
-- "[…] a phase while they learn to roll in their sleep? […]" [sr019-0090]
-- "[…] eyes WIDE open and looking like she might be in active sleep? […]" [sr009-0069]
+- "[…] s this just a phase while they learn to roll in their sleep? […]" [sr019-0090]
+- "[…] However sometimes my baby will be laying in her bassinet eyes WIDE open and looking like she might be in active sleep? […]" [sr009-0069]
 
 **But:** Sometimes still asleep. "[…] His eyes are closed the entire time […]" [sr101-0005]
 
@@ -249,7 +249,7 @@ They watch rolling, startling and apparent waking.
 Long and short sleep concern them.
 
 - "Is there a thing of too much sleep? […]" [sr007-0084]
-- "[…] ending naps altogether feels kinda soon […]" [sr090-0117]
+- "[…] art of me feels like this is a sleep regression as ending naps altogether feels kinda soon for his age" [sr090-0117]
 
 **But:** Some seem well. "[…] He is meeting all of his milestones […]" [sr103-0133]
 
@@ -259,8 +259,8 @@ Long and short sleep concern them.
 
 Questions include genital variations.
 
-- "[…] He’s healthy, but we want him bigger. […]" [sr075-0110]
-- "[…] does the discomfort continue for your baby until it has fully grown out?" [sr076-0086]
+- "[…] but I’m a bit frustrated as his doctor keeps telling me, “He’s healthy, but we want him bigger.” at her guidance, We’ve already done stretches of adding extra formula to his formula, and now she wants him on Pediasure.. […]" [sr075-0110]
+- "[…] After a tooth emerges, does the discomfort continue for your baby until it has fully grown out?" [sr076-0086]
 
 **But:** Growth can remain steady. "[…] He’s growing/following his curve." [sr075-0114]
 
@@ -270,8 +270,8 @@ Questions include genital variations.
 
 Accounts include rolling fears and confirmed hemorrhage.
 
-- "[…] face down and not breathing." [sr114-0051]
-- "[…] a stable left parietal lobe subarachnoid hemorrhage. […]" [sr044-0148]
+- "[…] That’s what makes me so nervous because I’m scared I’m going to wake up one morning and find him face down and not breathing." [sr114-0051]
+- "[…] We were told he had a stable left parietal lobe subarachnoid hemorrhage. […]" [sr044-0148]
 
 **But:** Recovery was expected. "[…] very unlikely there will be any long term consequences […]" [sr044-0150]
 
@@ -281,8 +281,8 @@ Accounts include rolling fears and confirmed hemorrhage.
 
 Drawing and body curiosity prompt comparisons.
 
-- "[…] he drew a penis on his robot […]" [sr092-0062]
-- "[…] always seems to be moving his body […]" [sr079-0048]
+- "[…] Today he drew a penis on his robot, came over to be to point to where it is on me(if I had one) and then told me he drew a penis." [sr092-0062]
+- "[…] e is incredible sensory seeking— he throws a lot, flaps his arms when excited, rocks on his legs when standing/cant stand still, will walk on his toes, and just always seems to be moving his body in some way." [sr079-0048]
 
 **But:** Other strengths coexist. "he has 1000+ words […]" [sr079-0049]
 
@@ -292,8 +292,8 @@ Drawing and body curiosity prompt comparisons.
 
 Waving and groups prompt questions.
 
-- "[…] never waved hello or goodbye to anyone. […]" [sr020-0079]
-- "[…] no excitement at all. […]" [sr016-0018]
+- "[…] ur 2 year old has never waved hello or goodbye to anyone. […]" [sr020-0079]
+- "[…] When the teacher calls them to pick something, everyone goes but not her, no excitement at all. […]" [sr016-0018]
 
 **But:** Other greetings occur. "[…] high fives and hugs when saying hello and goodbye." [sr020-0081]
 
@@ -304,7 +304,7 @@ Waving and groups prompt questions.
 Distress persists despite medical contact.
 
 - "[…] Pediatrician, ER, pediatric GI... no answers from anyone... […]" [sr094-0010]
-- "[…] screaming “MAAMAA!!” […]" [sr047-0096]
+- "[…] I can’t walk away for a minute without him screaming “MAAMAA!!” Or instant tears. […]" [sr047-0096]
 
 **But:** Sometimes fine. "[…] He has moments where he’s fine […]" [sr047-0096]
 
@@ -325,8 +325,8 @@ They seek thresholds for concern.
 
 Hair pulling, rocking and private-part requests concern them.
 
-- "[…] negatively impact his teeth and palate development? […]" [sr074-0115]
-- "[…] we don’t kiss private parts and redirected her." [sr119-0089]
+- "[…] oes sucking his thumb only to help him fall asleep and at night will still negatively impact his teeth and palate development? […]" [sr074-0115]
+- "[…] I told her we don’t kiss private parts and redirected her." [sr119-0089]
 
 **But:** Sometimes redirectable. "[…] is easily redirected." [sr119-0090]
 
@@ -336,7 +336,7 @@ Hair pulling, rocking and private-part requests concern them.
 
 Walking and sock removal prompt comparisons.
 
-- "[…] remove socks if I help with the heel first. […]" [sr134-0086]
+- "[…] e has always been able to remove socks if I help with the heel first. […]" [sr134-0086]
 - "How soon after standing independently/cruising did your baby start walking?" [sr127-0126]
 
 **But:** Sometimes practical relief. "[…] My arms are just tired." [sr127-0127]
@@ -347,8 +347,8 @@ Walking and sock removal prompt comparisons.
 
 Unequal care compounds developmental worries.
 
-- "[…] I just feel defeated […]" [sr038-0037]
-- "[…] I made a giant mistake. […]" [sr065-0035]
+- "[…] I just feel defeated by so much of it. […]" [sr038-0037]
+- "[…] My mind is a complete war zone, and every day I have been a mother has felt like I made a giant mistake. […]" [sr065-0035]
 
 **But:** Children can thrive. "[…] He’s smiley, babbly, and loves to interact […]" [sr065-0034]
 
@@ -358,8 +358,8 @@ Unequal care compounds developmental worries.
 
 Emotions and resumed nursing puzzle them.
 
-- "[…] what's on her mind." [sr014-0071]
-- "[…] remember how to nurse after such a long time […]" [sr093-0035]
+- "[…] just wish she could tell me what's on her mind." [sr014-0071]
+- "[…] Can toddlers actually remember how to nurse after such a long time, or was it more of an instinct/comfort thing?" [sr093-0035]
 
 **But:** Expectations can adjust. "[…] simply developing minds, not tiny adults […]" [sr056-0074]
 
@@ -369,8 +369,8 @@ Emotions and resumed nursing puzzle them.
 
 Sounds, mess and personal care remain difficult.
 
-- "[…] very sensitive to sounds? […]" [sr125-0012]
-- "[…] she hates her hair being brushed, nails trimmed, etc." [sr054-0117]
+- "[…] he just seems very sensitive to sounds? […]" [sr125-0012]
+- "[…] e see her sensitivity manifest in shyness with new kids (she’ll cry if others get within 5 ft of her at the park but at daycare she plays and interacts with all her peers and some of the older kids), she doesn’t love her hands being dirty and is hesitant towards some messy play but not all, and she hates her hair being brushed, nails trimmed, etc." [sr054-0117]
 
 **But:** Familiarity matters. "[…] at daycare she plays and interacts with all her peers […]" [sr054-0117]
 
@@ -380,8 +380,8 @@ Sounds, mess and personal care remain difficult.
 
 Pinworms and predictions complicate interpretation.
 
-- "[…] manifesting certain behaviors because the app warned me. […]" [sr032-0001]
-- "Daily fecal smearing episodes […]" [sr111-0074]
+- "[…] I’m debating if I am manifesting certain behaviors because the app warned me. […]" [sr032-0001]
+- "Daily fecal smearing episodes and cry’s and thrashes around when I tried to get her in the bath. […]" [sr111-0074]
 
 **But:** Illness also occurs. "[…] he was also home sick all last week with a fever […]" [sr032-0001]
 
@@ -391,7 +391,7 @@ Pinworms and predictions complicate interpretation.
 
 Neonatal crisis and iron treatment concern them.
 
-- "[…] brain damage that the MRI did not catch? […]" [sr008-0138]
+- "[…] hat is the likelihood of him having brain damage that the MRI did not catch? […]" [sr008-0138]
 - "I am spiraling. […]" [sr045-0128]
 
 **But:** Tests can reassure. "[…] Everything normal, including an EEG." [sr008-0137]
@@ -403,7 +403,7 @@ Neonatal crisis and iron treatment concern them.
 They try alternative offerings.
 
 - "[…] He will not eat meat at all." [sr086-0130]
-- "[…] lips are sealed like he’s protecting state secrets. […]" [sr130-0076]
+- "[…] verything else he’ll just spit out or lips are sealed like he’s protecting state secrets. […]" [sr130-0076]
 
 **But:** Earlier variety existed. "At 7mo, he was an adventurous eater- […]" [sr086-0130]
 
@@ -413,8 +413,8 @@ They try alternative offerings.
 
 They report stuttering or dispute a checkup.
 
-- "[…] she started with this little stutter. […]" [sr040-0023]
-- "[…] this doctor was just wrong. […]" [sr132-0059]
+- "[…] Like 5 days ago she started with this little stutter. […]" [sr040-0023]
+- "[…] But i genuinely think this doctor was just wrong. […]" [sr132-0059]
 
 **But:** Clarity remains limited. "She still sort of sounds like she’s babbling sometimes […]" [sr132-0054]
 
@@ -424,8 +424,8 @@ They report stuttering or dispute a checkup.
 
 Crying complicates test interpretation.
 
-- "[…] he “failed” the hearing test […]" [sr003-0013]
-- "[…] how accurate are these tests really on a crying/wiggling toddler? […]" [sr003-0014]
+- "[…] They said he “failed” the hearing test but that could be because he was crying so much beforehand or maybe his ears were blocked from a minor cold he had this week. […]" [sr003-0013]
+- "[…] o my question is, how accurate are these tests really on a crying/wiggling toddler? […]" [sr003-0014]
 
 **But:** Follow-up is intended. "[…] We will follow up with a children’s eye doctor […]" [sr003-0014]
 
@@ -435,8 +435,8 @@ Crying complicates test interpretation.
 
 They remain active despite disruption.
 
-- "[…] how little sleep I can function on […]" [sr099-0170]
-- "[…] 3-4 hours of broken sleep each night all week! […]" [sr099-0169]
+- "[…] his to say, I’m shocked how little sleep I can function on and it makes me realise that I was maybe a bit lazy before, once baby starts sleeping through maybe I’ll be a superwoman?" [sr099-0170]
+- "[…] I probably haven’t had more than 3-4 hours of broken sleep each night all week! […]" [sr099-0169]
 
 **But:** Rest still helps. "[…] actually felt on top of the world! […]" [sr099-0169]
 
@@ -457,8 +457,8 @@ Exact age: unknown; over 24 months.
 
 Bilingual advice is unverified.
 
-- "[…] dying to go but extremely fearful […]" [sr078-0003]
-- "[…] what to do or how to help her. […]" [sr053-0085]
+- "[…] e are both dying to go but extremely fearful at the same time - it could go well or it could go very very wrong. […]" [sr078-0003]
+- "[…] I'm not sure what to do or how to help her. […]" [sr053-0085]
 
 **But:** Some reading succeeds. "[…] great learning and remembering the different letters and sounds […]" [sr053-0083]
 
@@ -470,8 +470,8 @@ Bilingual advice is unverified.
 
 Actions include research and booked evaluations.
 
-- "[…] reading to him a lot, talking to him face to face […]" [sr034-0048]
-- "[…] an early intervention appointment to get her evaluated. […]" [sr100-0037]
+- "[…] am reading to him a lot, talking to him face to face, playing with him, singing nursery rhymes... […]" [sr034-0048]
+- "[…] currently have an early intervention appointment to get her evaluated. […]" [sr100-0037]
 
 **But:** Effort can fail. "Tylenol and motrin no help at all. […]" [sr022-0016]
 
@@ -481,7 +481,7 @@ Actions include research and booked evaluations.
 
 Clinicians, relatives and caregivers reassure or question.
 
-- "[…] told it’s a normal behavior but my family is making me feel like it’s not." [sr027-0021]
+- "[…] have mentioned it to our pediatrician and have been told it’s a normal behavior but my family is making me feel like it’s not." [sr027-0021]
 - "[…] My sister immediately went “he probably has autism.”" [sr027-0131]
 
 **But:** Some advice helps. "[…] referred us to an audiologist." [sr091-0143]
@@ -492,8 +492,8 @@ Clinicians, relatives and caregivers reassure or question.
 
 Includes insurance and an evaluation booked at personal cost.
 
-- "[…] insurance covers it so why not […]" [sr021-0029]
-- "[…] I do have to pay out of pocket. […]" [sr112-0051]
+- "[…] We did start speech therapy last week just as a little extra push (it’s only 30 min so really I doubt it’s doing much but insurance covers it so why not). […]" [sr021-0029]
+- "[…] So I booked an evaluation 2 weeks from now, I was surprised I didn’t need a referral but I do have to pay out of pocket. […]" [sr112-0051]
 - "We bought him a baby walker, […]" [sr029-0045]
 
 **But:** Borrowing is not buying. "[…] We recently borrowed a walker from his cousin […]" [sr056-0095]
@@ -504,7 +504,7 @@ Includes insurance and an evaluation booked at personal cost.
 
 The feeling tag also includes lack of worry.
 
-- "[…] I feel like I completely fucked up my child's development. […]" [sr052-0064]
+- "[…] I've been lacking in some areas due to PP anxiety and depression but now I feel like I completely fucked up my child's development. […]" [sr052-0064]
 - "[…] I’m so burnt out, I feel so isolated." [sr055-0006]
 
 **But:** Pride also occurs. "[…] I feel very proud of my little girl […]" [sr001-0092]

@@ -16,7 +16,7 @@ The random, keyword-free sample covers 20,000 posts from twelve parenting subred
 Stopping threatens sleep.
 
 - "Should I cold turkey? Cut it? […]" [sr084-0051]
-- "[…] I sucked my thumb until I was, no joke, 23 years old. […]" [sr044-0122]
+- "[…] ow I know it's early yet, but I sucked my thumb until I was, no joke, 23 years old. […]" [sr044-0122]
 
 **But:** "The pediatrician and dentist aren’t concerned yet," [sr102-0043]
 
@@ -27,7 +27,7 @@ Stopping threatens sleep.
 Mobility complicates supervision.
 
 - "How are other 8 month old parents getting anything done?!" [sr102-0032]
-- "[…] stick their whole face in the water […]" [sr033-0096]
+- "[…] hat are we doing for the eight month old babies that are trying to stick their whole face in the water in the bathtub?" [sr033-0096]
 
 **But:** "[…] seemed fine afterwards." [sr059-0013]
 
@@ -38,7 +38,7 @@ Mobility complicates supervision.
 Music sometimes works.
 
 - "I’ve tried the mylicon and prebiotics and nothing helps 😔." [sr050-0057]
-- "[…] the only thing that calms him down is punk rock." [sr090-0003]
+- "[…] I sing along and sway him to the types of soft music kids normally like, and I play different types of calm instrumentals and classical while he naps, but when he’s having a meltdown the only thing that calms him down is punk rock." [sr090-0003]
 
 **But:** Feeding works: "[…] She’s gaining weight rapidly […]" [sr017-0160]
 
@@ -48,8 +48,8 @@ Music sometimes works.
 
 Babyhoods differ.
 
-- "[…] what kind of toddler did they become?" [sr045-0048]
-- "[…] better times are coming." [sr097-0022]
+- "[…] If you had a quieter baby, what kind of toddler did they become?" [sr045-0048]
+- "[…] ’m holding on to the thought that better times are coming. […]" [sr097-0022]
 
 **But:** "I know all kids are different, […]" [sr044-0069]
 
@@ -59,8 +59,8 @@ Babyhoods differ.
 
 Temperament invites comparison.
 
-- "[…] I’ve done NOTHING different as a parent." [sr007-0060]
-- "[…] everyone keeps commenting on how “alert” she is. […]" [sr112-0060]
+- "[…] y experience with my second is so so so different and I’ve done NOTHING different as a parent." [sr007-0060]
+- "[…] We are currently on holiday and everyone keeps commenting on how “alert” she is. […]" [sr112-0060]
 
 **But:** "[…] My baby (now 3 months) is pretty chill […]" [sr088-0103]
 
@@ -71,7 +71,7 @@ Temperament invites comparison.
 Holding competes with rest.
 
 - "[…] My back hurts!" [sr057-0091]
-- "[…] 15-25 minutes away from him […]" [sr083-0029]
+- "[…] (I don’t want to quit BF, just want baby to give me like 15-25 minutes away from him during the day or a crib nap so I can nap.)" [sr083-0029]
 
 **But:** "I have a great helpful husband […]" [sr083-0028]
 
@@ -81,8 +81,8 @@ Holding competes with rest.
 
 Closeness matters.
 
-- "[…] I find myself struggling to *feel* it. […]" [sr052-0110]
-- "I was so happy, and calm and content […]" [sr105-0110]
+- "[…] And even though I intellectually know she loves me, I find myself struggling to *feel* it. […]" [sr052-0110]
+- "I was so happy, and calm and content that I just burst into tears I was so happy." [sr105-0110]
 
 **But:** "[…] they’re generally very loving." [sr126-0037]
 
@@ -92,7 +92,7 @@ Closeness matters.
 
 Refusal varies by setting.
 
-- "She won't try any other thing […]" [sr094-0064]
+- "She won't try any other thing that I put on her tray in front of her, so it's not even that she doesn't like what I've served. […]" [sr094-0064]
 - "[…] But only at home!" [sr038-0158]
 
 **But:** "[…] he has done well at restaurants, […]" [sr082-0044]
@@ -103,8 +103,8 @@ Refusal varies by setting.
 
 Fluency concerns them.
 
-- "[…] I want to teach / learn Spanish for us. […]" [sr113-0178]
-- "[…] reject their non white heritage […]" [sr038-0119]
+- "[…] y 19m old is half Hispanic, and I want to teach / learn Spanish for us. […]" [sr113-0178]
+- "[…] see a lot of young people completely reject their non white heritage and it worries me. […]" [sr038-0119]
 
 **But:** "[…] his entire family are fluently bilingual (Spanish and English)." [sr065-0077]
 
@@ -114,8 +114,8 @@ Fluency concerns them.
 
 Textures, noise and water upset.
 
-- "[…] does not like sand (cries) […]" [sr021-0088]
-- "[…] a book or song recommendation about fears or loud noises." [sr039-0082]
+- "[…] he hates the feeling of pavement on her feet, does not like sand (cries) she is very hesitant about letting the grass touch her and does cry at that too. […]" [sr021-0088]
+- "[…] would love any advice, especially if you have a book or song recommendation about fears or loud noises." [sr039-0082]
 
 **But:** "My 6mo loves baths. […]" [sr052-0129]
 
@@ -125,8 +125,8 @@ Textures, noise and water upset.
 
 They practise movement and gestures.
 
-- "[…] tips for how to encourage head lifting […]" [sr038-0113]
-- "[…] help her shift her weight over her shoulder, […]" [sr066-0081]
+- "[…] nyone have tips for how to encourage head lifting in tummy time? […]" [sr038-0113]
+- "[…] f I help her shift her weight over her shoulder, she'll roll the rest of the way. […]" [sr066-0081]
 
 **But:** "She knows how to wave. […]" [sr115-0127]
 
@@ -136,8 +136,8 @@ They practise movement and gestures.
 
 They compare family features.
 
-- "[…] your baby’s eyes weren’t blue anymore?" [sr059-0071]
-- "[…] when did their hair really start to come in? […]" [sr091-0154]
+- "[…] hen did you first notice your baby’s eyes weren’t blue anymore?" [sr059-0071]
+- "[…] If you also had a bald baby, when did their hair really start to come in? […]" [sr091-0154]
 
 **But:** "[…] Not concerned at all but genuinely curious!" [sr091-0154]
 
@@ -147,8 +147,8 @@ They compare family features.
 
 Moves, military absences and rehab disrupt.
 
-- "[…] feel confused or abandoned." [sr087-0004]
-- "My husband can’t even go to the bathroom […]" [sr086-0093]
+- "[…] just don’t want her to feel confused or abandoned." [sr087-0004]
+- "[…] My husband can’t even go to the bathroom without our son needing to be at his feet or he’s a wreck." [sr086-0093]
 
 **But:** "[…] unless he has toys to distract him" [sr035-0109]
 
@@ -158,7 +158,7 @@ Moves, military absences and rehab disrupt.
 
 Genitals, nudity and baths prompt questions.
 
-- "[…] She constantly sticks her hand down her pants […]" [sr035-0120]
+- "[…] She constantly sticks her hand down her pants and wants to just stick her finger between her labia. […]" [sr035-0120]
 - "[…] When do we stop bathing them together? […]" [sr125-0021]
 
 **But:** "[…] I feel like it’s still awhile away […]" [sr125-0021]
@@ -169,8 +169,8 @@ Genitals, nudity and baths prompt questions.
 
 Progress brings regret.
 
-- "[…] I regret his early months […]" [sr049-0117]
-- "[…] Growing up seems to be a bittersweet thing." [sr088-0045]
+- "[…] What hurts most is that I regret his early months as I feel like I wasn't mentally there to enjoy it (because of some serious family issues). […]" [sr049-0117]
+- "[…] Growing up seems to be a bittersweet thing. […]" [sr088-0045]
 
 **But:** "[…] at least he’s sleeping okay in his new get up." [sr123-0046]
 
@@ -180,8 +180,8 @@ Progress brings regret.
 
 Shopping becomes difficult.
 
-- "[…] she hates the car seat, stroller or carrier." [sr007-0019]
-- "It’s just hard to carry her when I’m shopping alone. […]" [sr011-0025]
+- "[…] y baby is now almost 4 months old and she hates the car seat, stroller or carrier. […]" [sr007-0019]
+- "[…] It’s just hard to carry her when I’m shopping alone. […]" [sr011-0025]
 
 **But:** "She’s perfectly happy to walk or be held […]" [sr011-0025]
 
@@ -191,8 +191,8 @@ Shopping becomes difficult.
 
 Grinding surprises; brushing confuses.
 
-- "[…] Absolutely horrible sound." [sr053-0010]
-- "[…] start brushing them but...how do I go about this?" [sr102-0123]
+- "[…] Absolutely horrible sound. […]" [sr053-0010]
+- "[…] I know I need to start brushing them but...how do I go about this? […]" [sr102-0123]
 
 **But:** nothing found against it.
 
@@ -202,8 +202,8 @@ Grinding surprises; brushing confuses.
 
 They compare reading approaches and programmes.
 
-- "[…] instead of reading the words in the book." [sr082-0033]
-- "[…] old school Sesame Street or number blocks?" [sr104-0024]
+- "[…] Where’s the dog?” instead of reading the words in the book." [sr082-0033]
+- "[…] re we better off sticking with those videos or letting her watch things like old school Sesame Street or number blocks?" [sr104-0024]
 
 **But:** "[…] he’ll sit down with them and open it […]" [sr082-0033]
 
@@ -214,7 +214,7 @@ They compare reading approaches and programmes.
 Checks stopped at eight weeks.
 
 - "Is it normal no one checks on her after that?" [sr033-0124]
-- "Would you inly go to the GP […]" [sr033-0126]
+- "Would you inly go to the GP if there was an issue?" [sr033-0126]
 
 **But:** "We're monitoring her weight ourselves at home […]" [sr033-0125]
 
@@ -224,8 +224,8 @@ Checks stopped at eight weeks.
 
 Planning leaves anxiety.
 
-- "[…] I’m just so worried about the introduction […]" [sr041-0001]
-- "Have a plan for introduction in a neutral area […]" [sr041-0001]
+- "[…] We have a 22 month old at home and I’m just so worried about the introduction and how things are going to go. […]" [sr041-0001]
+- "[…] Have a plan for introduction in a neutral area and all the basic stuff. […]" [sr041-0001]
 
 **But:** nothing found against it.
 
@@ -235,8 +235,8 @@ Planning leaves anxiety.
 
 Upright nursing helped.
 
-- "Nothing works to get out the gas […]" [sr029-0066]
-- "[…] I've now had 4 successful attempts […]" [sr029-0067]
+- "Nothing works to get out the gas or encourage his poop (bicycle legs, knees to chest, etc etc)." [sr029-0066]
+- "[…] This morning i have also successfully done it at home 2x so I've now had 4 successful attempts and I felt I needed to share in case anyone is in the same boat. […]" [sr029-0067]
 
 **But:** "[…] not constipated because he does poop daily. […]" [sr029-0064]
 
@@ -246,7 +246,7 @@ Upright nursing helped.
 
 They ask about earliest memories.
 
-- "[…] remember something from last week? […]" [sr031-0046]
+- "[…] or example, does my 5 month old remember something from last week? […]" [sr031-0046]
 - "[…] Her first week of life?" [sr031-0046]
 
 **But:** nothing found against it.
@@ -257,7 +257,7 @@ They ask about earliest memories.
 
 Nursery teaching is suspected.
 
-- "[…] I don't know what it means" [sr095-0005]
+- "[…] oping someone can help me lol my baby (15M) is doing sign language I think they learn it at nursery but I don't know what it means the sign he's doing is like a fist with his thumb tucked in he's opening and closing it" [sr095-0005]
 - "He keeps doing it and crying lol I'm clueless" [sr095-0006]
 
 **But:** nothing found against it.
@@ -268,8 +268,8 @@ Nursery teaching is suspected.
 
 Food-covered hair needs washing.
 
-- "[…] for the THIRD time today." [sr113-0200]
-- "[…] I don’t want to take away his only self soothing thing." [sr113-0202]
+- "[…] I know it’s a self soothing thing and pulling his hands away will only make it worse but it’s genuinely so irritating to me that I have to wash mashed up beans out of his hair for the THIRD time today." [sr113-0200]
+- "[…] He doesn’t suck his thumb so I don’t want to take away his only self soothing thing." [sr113-0202]
 
 **But:** "He twirls his hair when he’s sleepy or hungry, […]" [sr113-0199]
 
@@ -279,8 +279,8 @@ Food-covered hair needs washing.
 
 A frog leaves dressing fears.
 
-- "She will not go in the bathroom (or put her pants on) […]" [sr131-0012]
-- "Will this be the start of a new phobia? […]" [sr131-0013]
+- "[…] She will not go in the bathroom (or put her pants on) because of the frog. […]" [sr131-0012]
+- "[…] Will this be the start of a new phobia? […]" [sr131-0013]
 
 **But:** "She is calm and all is right in the world." [sr131-0011]
 
@@ -290,8 +290,8 @@ A frog leaves dressing fears.
 
 They practise bottles.
 
-- "[…] starting his 12 weeks of FMLA." [sr029-0099]
-- "[…] the absence of a boob […]" [sr029-0100]
+- "[…] I used my maternity leave for the first 12 weeks (plus unpaid leave to get to 14 weeks) and my husband is starting his 12 weeks of FMLA." [sr029-0099]
+- "[…] I think for my husband the biggest limitation will be the absence of a boob as it makes nap time very easy. […]" [sr029-0100]
 
 **But:** "My LO and I have had a solid routine […]" [sr029-0100]
 
@@ -304,7 +304,7 @@ They practise bottles.
 They dread regressions and sleeplessness.
 
 - "we've gone from bad sleep to awful sleep." [sr009-0084]
-- "[…] I can’t fall back asleep. […]" [sr082-0017]
+- "[…] he problem is that even when she only wakes up twice a night (which is rare) I can’t fall back asleep. […]" [sr082-0017]
 
 **But:** "However, after 5 weeks she went back to sleeping well." [sr087-0081]
 
@@ -314,8 +314,8 @@ They dread regressions and sleeplessness.
 
 Movement and rooms complicate sleep.
 
-- "[…] the blinking cot bars???? […]" [sr079-0081]
-- "[…] doesn't want to sleep on his stomach." [sr107-0001]
+- "[…] What do you do about the blinking cot bars???? […]" [sr079-0081]
+- "[…] It's like he can't stop rolling, but doesn't want to sleep on his stomach." [sr107-0001]
 
 **But:** Sleep-sack removal worked: "[…] we haven’t since and nothings changed." [sr015-0010]
 
@@ -336,8 +336,8 @@ Contact sleep costs freedom.
 
 Accounts include regret, rage, rough handling and suicide attempts.
 
-- "[…] if i ended my life i could go back to before i had her and get an abortion." [sr050-0151]
-- "[…] i have gotten a little rough […]" [sr018-0021]
+- "[…] honestly wish that if i ended my life i could go back to before i had her and get an abortion." [sr050-0151]
+- "[…] I will admit i have gotten a little rough while putting her down or picking her up in those moments and I feel horrible afterwards she has no idea but i know that i moved her or picked her up with frustration. […]" [sr018-0021]
 
 **But:** "During the day im my normal calm collected self […]" [sr007-0017]
 
@@ -348,7 +348,7 @@ Accounts include regret, rage, rough handling and suicide attempts.
 Cues challenge guidance.
 
 - "Do I just wait till she shows signs of tiredness?" [sr071-0078]
-- "[…] I am constantly doing nap maths, […]" [sr068-0046]
+- "[…] I am constantly doing nap maths, questioning is her day sleep too long, or is she overtired or under tired etc etc, should I change this or that. […]" [sr068-0046]
 
 **But:** "both of our moods are improved when he naps […]" [sr039-0044]
 
@@ -358,8 +358,8 @@ Cues challenge guidance.
 
 Some reject training.
 
-- "[…] I really thought these methods were leaving the crying out […]" [sr015-0084]
-- "[…] do we absolutely have to sleep train […]" [sr107-0021]
+- "[…] o we are on night one and we followed the method to the T and he fell asleep independently (I’m not saying it has worked yet just cause this is night 1) but as I continue to research I really thought these methods were leaving the crying out but I guess none do??" [sr015-0084]
+- "[…] oes it just pass or do we absolutely have to sleep train for LO to sleep better??" [sr107-0021]
 
 **But:** Independent settling coexists with waking: "[…] but she just wakes and wakes and wakes […]" [sr105-0009]
 
@@ -370,7 +370,7 @@ Some reject training.
 Falls, ingestion and cleaning worry them; one poster is a professional childproofer.
 
 - "also don’t want anything that leaves residues that could be harmful." [sr031-0009]
-- "Could I have just caused her back problems? […]" [sr054-0075]
+- "[…] Could I have just caused her back problems? […]" [sr054-0075]
 
 **But:** "I feel awful but she seems totally normal now." [sr015-0017]
 
@@ -381,7 +381,7 @@ Falls, ingestion and cleaning worry them; one poster is a professional childproo
 Milk, nutrients and digestion confuse; medical claims are posters’ interpretations.
 
 - "Takes \~30 mins to drink 20 mL." [sr033-0155]
-- "[…] gold standard food for development. […]" [sr092-0017]
+- "[…] But I CANNOT waste this batch, it’s literally gold standard food for development. […]" [sr092-0017]
 
 **But:** "My 9mo is EBF and doing well with solids." [sr116-0080]
 
@@ -392,7 +392,7 @@ Milk, nutrients and digestion confuse; medical claims are posters’ interpretat
 Work, outings and siblings compete.
 
 - "[…] What if he starts crawling without me around?" [sr008-0074]
-- "[…] you have to go to the bathroom […]" [sr064-0047]
+- "[…] o this might be a dumb question but if you’re out in the wild with your baby, alone, and you have to go to the bathroom and they’re sitting in the cart (not in their carrier, old enough to sit up on their own)… […]" [sr064-0047]
 
 **But:** "[…] our LO seemed to like her" [sr011-0020]
 
@@ -403,7 +403,7 @@ Work, outings and siblings compete.
 Literacy, death and recalled childhood urges to hurt peers feature; one app account is promotional.
 
 - "Kid is in their “why” phase. […]" [sr029-0061]
-- "[…] I really wanted to hurt other peers […]" [sr001-0196]
+- "[…] I had a thing until I was maybe 7 years old where I really wanted to hurt other peers or put peers in situations where they could get hurt bc I was curious what would happen. […]" [sr001-0196]
 
 **But:** "[…] I've had kids ask me to stop using my finger […]" [sr037-0052]
 
@@ -413,8 +413,8 @@ Literacy, death and recalled childhood urges to hurt peers feature; one app acco
 
 Unequal work and anger exhaust.
 
-- "[…] I'm expected to pick up the slack […]" [sr031-0043]
-- "[…] he angrily throws her sleep sack at the wall." [sr050-0045]
+- "[…] I'm expected to pick up the slack where he falls short and take care of a mobile baby at the same time." [sr031-0043]
+- "[…] Something is mumbled and then he angrily throws her sleep sack at the wall." [sr050-0045]
 
 **But:** "[…] a very active and present dad." [sr105-0037]
 
@@ -424,8 +424,8 @@ Unequal work and anger exhaust.
 
 Nursing associations concern them.
 
-- "[…] maybe I’m wrong and he still needs night feeds?" [sr060-0068]
-- "[…] Do we need to change it?" [sr063-0024]
+- "[…] just feel so bad, I know it’s only been a couple of nights I actually refused him but I can’t help but think maybe I’m wrong and he still needs night feeds? […]" [sr060-0068]
+- "[…] Do we need to change it? […]" [sr063-0024]
 
 **But:** "I still love the connection that it gives us […]" [sr088-0096]
 
@@ -435,7 +435,7 @@ Nursing associations concern them.
 
 Symptoms persist despite treatment.
 
-- "We’ve switched paediatricians three times […]" [sr021-0061]
+- "[…] We’ve switched paediatricians three times and they all keep saying it’s probably a stomach virus. […]" [sr021-0061]
 - "I’m scared I’m going to lose my job. […]" [sr064-0090]
 
 **But:** "Baby isn’t bothered by it at all. […]" [sr002-0013]
@@ -446,8 +446,8 @@ Symptoms persist despite treatment.
 
 Travel disrupts routines.
 
-- "[…] we don’t feel like anyone will actually enjoy the trip […]" [sr037-0092]
-- "[…] won’t sit still for over 3 minutes outside of sleep." [sr083-0086]
+- "[…] My husband and I are considering cancelling our Europe plans because we don’t feel like anyone will actually enjoy the trip and our daughter won’t even remember it. […]" [sr037-0092]
+- "[…] lying over 12 hours tomorrow with an 11 month old who just started walking and won’t sit still for over 3 minutes outside of sleep. […]" [sr083-0086]
 
 **But:** "I’m glad in retrospect that we went […]" [sr013-0109]
 
@@ -457,8 +457,8 @@ Travel disrupts routines.
 
 Growth brings sadness.
 
-- "I’m grieving the experience I could have had. […]" [sr097-0070]
-- "[…] milestones of my daughter alone." [sr129-0130]
+- "[…] I’m grieving the experience I could have had. […]" [sr097-0070]
+- "[…] It makes me sad to experience all of these beautiful precious milestones of my daughter alone. […]" [sr129-0130]
 
 **But:** "I feel this mix of excitement and sadness." [sr068-0074]
 
@@ -479,7 +479,7 @@ Advice conflicts; Memorydrawer recruitment is commercial.
 
 Aggression complicates rehoming.
 
-- "[…] we've decided we're going to rehome him." [sr100-0055]
+- "[…] So, after a lot of crying and a lot of guilt, we've decided we're going to rehome him." [sr100-0055]
 - "[…] I can't handle the hygiene aspect of it." [sr091-0168]
 
 **But:** "[…] I still love him…… please don’t judge me. […]" [sr117-0150]
@@ -490,8 +490,8 @@ Aggression complicates rehoming.
 
 Preschool allegations are second-hand; a sister’s rape account concerns memories recovered through hypnosis.
 
-- "[…] obviously can’t tell me if something happens." [sr092-0099]
-- "[…] massaging her intimate parts […]" [sr049-0102]
+- "[…] I know I can check references and do background checks, but it still scares me because my baby is only 3 months old and obviously can’t tell me if something happens. […]" [sr092-0099]
+- "[…] 've recently heard through other parents-friends that a newly hired (<3months) might have had very inappropriate behaviour (massaging her intimate parts) towards a little girl (3-6 yo) while helping her clean after going to the toilets. […]" [sr049-0102]
 
 **But:** "[…] is this expected? […]" [sr100-0010]
 
@@ -501,8 +501,8 @@ Preschool allegations are second-hand; a sister’s rape account concerns memori
 
 Habits raise safety concerns.
 
-- "[…] I’m essentially becoming his human pacifier." [sr020-0142]
-- "[…] then I feel guilty that I've left something in his cot […]" [sr116-0112]
+- "[…] It gives him so much comfort but I’m essentially becoming his human pacifier." [sr020-0142]
+- "[…] We keep going and sometimes he's fine but other times I fall asleep as he still wakes me up multiple times a night then I feel guilty that I've left something in his cot when that's against safe sleep guidance." [sr116-0112]
 
 **But:** "Third night, he whined for 2 minutes, […]" [sr068-0133]
 
@@ -523,8 +523,8 @@ Questions concern cries and temperament.
 
 Topics include keepsakes, housing, gifts, clothing and commercial recruitment.
 
-- "[…] some "firsts" outside of the normal first bath, first smile, etc." [sr084-0039]
-- "[…] it’s his that are falling apart like this." [sr132-0072]
+- "[…] 'm creating a shutterfly book for my little one's first year and am looking to include some "firsts" outside of the normal first bath, first smile, etc." [sr084-0039]
+- "[…] My 2 year old is very active and it’s his that are falling apart like this." [sr132-0072]
 
 **But:** nothing found against it.
 
@@ -547,8 +547,8 @@ They prepare and consult.
 
 Advice has mixed effects.
 
-- "Dentist wants it gone by 2 […]" [sr072-0088]
-- "They certainly don’t get to them as quickly as I would like […]" [sr121-0003]
+- "[…] Dentist wants it gone by 2 and said go cold turkey. […]" [sr072-0088]
+- "[…] They certainly don’t get to them as quickly as I would like when they cry. […]" [sr121-0003]
 
 **But:** "The pediatrician and dentist aren’t concerned yet," [sr102-0043]
 
@@ -558,8 +558,8 @@ Advice has mixed effects.
 
 Purchases are mats, head protection and a home; prices unknown.
 
-- "I just ordered really thick and soft baby mats […]" [sr068-0059]
-- "[…] our newly bought home […]" [sr047-0106]
+- "[…] I just ordered really thick and soft baby mats to put on my carpet, and I also ordered one of those backpack things that have a pillow under his head if he falls. […]" [sr068-0059]
+- "[…] We live in a 2 bed 2 bath apartment (moving into our newly bought home end of the month) my son likes to stand while holding on to things (can’t do it on his own yet) and will almost constantly lose balance and fall. […]" [sr047-0106]
 
 **But:** Acquisition unknown: "He’s got a padded playpen with foam blocks to crawl on" [sr102-0032]
 
@@ -569,8 +569,8 @@ Purchases are mats, head protection and a home; prices unknown.
 
 Feelings include anxiety, guilt, irritation and joy.
 
-- "[…] I’m just anxious inside." [sr041-0001]
-- "[…] I just burst into tears I was so happy." [sr105-0110]
+- "[…] Staying strong and being the rock for my wife but I’m just anxious inside. […]" [sr041-0001]
+- "[…] was so happy, and calm and content that I just burst into tears I was so happy." [sr105-0110]
 
 **But:** "[…] Not concerned at all but genuinely curious!" [sr091-0154]
 
