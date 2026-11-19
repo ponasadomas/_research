@@ -1,0 +1,11 @@
+# Reader 014 — third reading
+
+Read all **150** supplied files in order, including every author reply present: **19 yes, 33 near, 98 no; 114 quotes from 32 posts**. Nothing supplied remains unread. This is one share of the supplied random sample, with posts dated 3–5 April 2026. Counts count posts, not quotes or people; patterns overlap.
+
+Normality concerns (pattern 1) appeared in 10 yes posts, including three about little or discontinued babbling and one about name response. Hard behaviour, guilt about development, stage-specific gear and daycare/groups each appeared in three yes posts. Two yes posts included delight: new pointing alongside frustration, and a 22-month-old's optimistic requests for cake. I was surprised that contented independent settling itself caused fear of trauma or a weak bond. Another parent described independent sitting alongside apparently lost rolling and pushing-up skills. These remain authors' accounts.
+
+The 33 near posts comprised nine sleep, eight age_unknown, six parent_state, four feeding, three logistics, two age_over_24 and one other. Thirteen received quotes because authors connected the subject with skills, milestones, regression or growth. Pattern 0 covered 16 near posts. No yes or near post explicitly confirmed payment: app possession and daycare attendance alone did not establish a purchase.
+
+Uncertainties are flagged per row. Unspecified “two years old” and “just turned 2 last week” remain near; explicit 26- and 27-month ages are no. The older aggressor's post is near for its one-year-old sibling's obstructed play. Dental timing is near for incidental tooth emergence with current age unknown. Feeding and sleep required judgement over skill references versus amounts or routine waking. Two diaper-free-time posts (1sch5uy, 1sch8ve) are near-duplicates, retained separately. Motherhood without stated experience remains parent_unspecified; new_mother requires explicit new/first-time identification.
+
+Replies are limited to those archived; many files say replies were not fetched. The Costway nap post names a brand; commercial provenance is unconfirmed. Distress, regret and aggression were retained. Validation checked each quote against its raw file, ids, sample membership and ledger totals.

@@ -1,0 +1,11 @@
+# Reader 012 notes
+
+Read all 150 assigned files in share order, including supplied author replies: **18 yes, 37 near, 95 no**. Extracted **105 quotes from 29 posts**: all 18 yes posts and 11 near posts with developmental connections. Nothing assigned remains unread or unavailable; uncaptured replies were not available. This is one share of the stated random sample, with supplied posts dated April 3–5, 2026. Counts describe posts, not people or market prevalence.
+
+Among yes posts, normality/possible-condition concerns appeared in 5, activities/daily routines in 4, hard behaviour in 3, and fears about parental effects in 3. Preference, feeding skills, delight, and known delays/therapy each appeared in 2; tags overlap. Reassurance about the child and the parent's response recurred. Independent play could provoke worry rather than relief. One autistic toddler's parent described extensive independent play yet felt inadequate beside activity-heavy TikToks. Delight appeared in a new “why” phase and signing “all done” at sneezes.
+
+Near borders: age_unknown 12, parent_state 11, sleep 7, logistics 3, feeding 2, other 2. I did not infer ages from vocabulary or activities. Two general questions remain near without an own child established. “Almost 16” lacks a unit, so that speech post stays near. Explicit ages over 24 months were excluded despite substantial developmental content.
+
+Uncertainties are flagged in the ledger: latch refusal as a drinking skill, falling height percentile as physical development, and blood-draw trauma fears as emotional/behavioural concerns. Sleep alone was excluded; explicit regression/maturation or accompanying abilities could make it near. Listing crawling beside sleep problems did not establish a developmental explanation. Adult distress with incidental child behaviour stayed near. No retained post explicitly stated an on-subject purchase/payment. Mother labels require self-identification, not breastfeeding or relationship terms alone.
+
+Checks passed: one row per assigned post, no extras, unique sequential quote IDs, exact source matching for every passage, matching quote counts and metadata references. Only the three requested files were written.
