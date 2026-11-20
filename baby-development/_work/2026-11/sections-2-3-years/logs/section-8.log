@@ -1,0 +1,2684 @@
+OpenAI Codex v0.169.0
+--------
+workdir: /home/thinkpad/GitHub/_research
+model: gpt-6.1-sol
+provider: openai
+approval: never
+sandbox: workspace-write [workdir, /tmp, $TMPDIR]
+reasoning effort: high
+reasoning summaries: none
+session id: 01a1f9f5-62d1-7181-bfb1-4ba45380f4fd
+--------
+user
+# Brief: findings section for one pattern
+
+You are section writer for **pattern 8: Delight or pride in what the child now does**. Working directory: `~/GitHub/_research`.
+Other writers work on other patterns at the same time. Write only the one file named under
+"Your output". No network. Do not use git. Do not spawn other agents. Never modify any
+other file.
+
+## Why
+
+Niche `baby-development`: the development of a child from birth to 48 months. A random
+sample of 20,000 Reddit posts (twelve parenting subreddits, 1 April to 24 October 2026, no
+keyword) was read; 3,811 were on the niche and each got one main pattern. This section
+covers the 1,340 of them that are about children of 2 and 3 years; the posts about younger
+children have sections of their own. Digest readers then sorted each pattern's posts into forms.
+A pattern with many posts was dealt over two or three digest readers, who named their
+forms independently. You merge this pattern's digests into one short findings section
+that the owner can read in a few minutes.
+
+Read first, in the root `README.md`, "Research never censors" and "Conventions".
+
+## Your input
+
+The digests of this pattern, read each whole: baby-development/evidence/2026-11/age-reread/digest-10.md
+
+Totals for this pattern: **81 on-niche (yes) posts, 17 near posts.**
+
+## Task
+
+1. Merge the yes forms. Forms from different digests that say the same thing become one
+   finding, and their counts are added. A form that stands alone stays a finding, however
+   few posts it has. Every yes form of every digest goes into exactly one finding, whole:
+   never split a form's count. The findings' counts sum to 81.
+2. Do the same for the near forms, apart from the yes forms. Their counts sum to 17.
+3. Add up the four tags (tried, others, bought, feeling) over the digests and write the
+   four cross findings from the digests' quote lists.
+4. Word each finding as one plain claim about the parent, from their side, readable alone.
+   Order findings by count, highest first; "Other" last.
+5. Each finding: the count line, one to three sentences, two or three quotes that show its
+   range, and what cuts against it. Copy quotes and ids exactly from the digests.
+   Choose quotes for what they say, never for or against their subject.
+
+## Your output
+
+`baby-development/findings/2026-11/patterns-2-3-years/pattern-08.md`, exactly this layout:
+
+```
+# baby-development: pattern 8, Delight or pride in what the child now does (children of 2 and 3 years)
+
+**Written:** 2026-11-20 from baby-development/evidence/2026-11/age-reread/digest-10.md
+**Reviewed by the owner:** not yet
+
+## Limits
+
+<Two or three sentences: where the posts come from, how they were chosen, how many are in
+this pattern, that each count is a number of posts tagged by one reader, and that forms
+from different digest readers were merged by judgement.>
+
+## On-niche posts
+
+### <The finding, as one plain claim>
+
+<N> of 81 posts.
+
+<One to three sentences.>
+
+- "<quote, word for word>" [<id>]
+- "<quote, word for word>" [<id>]
+
+**But:** <what cuts against it, with a quote and id; or "nothing found against it.">
+
+## Near posts
+
+### <finding>
+
+<N> of 17 posts.
+
+(same layout)
+
+## Across the on-niche posts
+
+### <What they already tried, as one claim>
+
+<n> of 81 posts.
+
+(same layout; then the same for what other people told them or did, what they bought or
+paid for, and how they say they feel: four findings)
+
+## Coverage
+
+<details>
+<summary>Every heading of the digests, and where it went</summary>
+
+| Digest heading | Went to |
+|---|---|
+| <heading text, exactly as in the digest> | <the finding's claim> |
+
+</details>
+```
+
+Rules:
+
+- The Coverage table has one row for every `##` and `###` heading of every digest, with
+  the heading text copied exactly. A heading that is a section title and not a form goes to
+  "section title".
+- Keep the page short: 3,000 words at most above "## Coverage". Quotes are whole sentences,
+  never fragments: when short of room, use fewer quotes, not shorter ones.
+- Quotes are bullets: a straight double quote, the words exactly, a straight double quote,
+  a space, the id in square brackets. Mark a cut with `[…]`.
+- A quote stays on one line with its id. Where a digest's quote runs over several lines,
+  join the lines with a space.
+- State only what the digests say. "unknown" is a value.
+
+## Check before you finish
+
+Run both; each must print OK:
+
+```
+python3 -I ~/GitHub/_home/.agents/skills/write-findings/check_findings.py baby-development/findings/2026-11/patterns-2-3-years/pattern-08.md --quotes baby-development/quotes --evidence baby-development/evidence/2026-11/age-reread/digest-10.md 
+python3 -I _tools/verify_section.py baby-development/findings/2026-11/patterns-2-3-years/pattern-08.md 81 17 3000
+```
+
+Report: findings written, and anything you were unsure of when merging.
+
+hook: SessionStart
+hook: SessionStart Completed
+codex
+I’ll read the repo instructions, the write-findings skill, and the full digest, then write only pattern-08.md and run both checks.
+
+exec
+/usr/bin/zsh -lc pwd in /home/thinkpad/GitHub/_research
+ succeeded in 1065ms:
+/home/thinkpad/GitHub/_research
+
+exec
+/usr/bin/zsh -lc 'cat /home/thinkpad/GitHub/_home/AGENTS.md' in /home/thinkpad/GitHub/_research
+exec
+/usr/bin/zsh -lc 'cat /home/thinkpad/.agents/skills/write-findings/SKILL.md' in /home/thinkpad/GitHub/_research
+exec
+/usr/bin/zsh -lc 'cat baby-development/evidence/2026-11/age-reread/digest-10.md' in /home/thinkpad/GitHub/_research
+exec
+/usr/bin/zsh -lc 'cat README.md' in /home/thinkpad/GitHub/_research
+ succeeded in 2078ms:
+# _home
+
+The shared home for this business: skills, the library they draw from, playbooks, and
+what we know about each brand. Two people and two kinds of agent (Claude, Codex) work
+from it. Project code lives in its own repos under `~/GitHub/`; this repo points at them.
+
+## Where things are
+
+All paths in this file are relative to `~/GitHub/_home` unless they start with `~`.
+
+| Need | Look in |
+|---|---|
+| Which niches exist and what belongs to each | `library/niches.md` (read this first) |
+| Who we are talking to (the avatar) | `library/avatars/<niche>/` |
+| How we sound (the speaker) | `library/voices/` |
+| What experts teach | `library/knowledge/<subject>/` |
+| A brand's repos, deploy rules, brief, tests | `wiki/<brand>/README.md` (`wiki/index.md` lists brands) |
+| How to do a recurring job | `playbooks/` |
+| Skills | `.agents/skills/` (`.claude/skills` links to it) |
+| Raw research, by kind of source | `~/GitHub/_research/<niche>/<kind>/` (ads, competitors, reviews, ...) |
+| What the research found about her, in short | `~/GitHub/_research/<niche>/findings/` and `her-words.md` |
+| Why it is laid out this way | `DECISIONS.md` |
+
+## Rules
+
+1. **Problems and roles are permanent; brands and domains are not.** File knowledge
+   under the niche or the subject, never under a domain. A brand's current domain is
+   one line inside its wiki page.
+2. **Pushing a `-live` repo deploys to the production site.** Never push a `-live` repo
+   without the owner's say-so in that conversation.
+3. **Secrets stay out.** Never read or commit `.env`, `project-config.php`,
+   `app-secrets.php`, `mysql-credentials.php`, database dumps or customer data.
+4. **A skill reads reference material only from its own folder and `library/`.** It
+   never reads rulebooks, books, voices or research from another repo, because that repo
+   may be deleted. A skill may run a program that lives in another repo; it then lists
+   that program under a "Runs" heading in its `SKILL.md`. One exception: a skill whose job
+   is to work from research (writing its findings, or a library page from them) reads
+   `~/GitHub/_research` and lists what it reads under a "Reads" heading, and what it
+   writes there under "Writes". Run `./check.sh` before committing.
+5. **Research never filters.** It records what people actually say, in their words,
+   whatever the subject; what goes into copy is the owner's decision, made later.
+6. **Before collecting, filing or summarising research, read
+   `~/GitHub/_research/README.md`.** All research rules live there, not here.
+7. **Shared facts go in this repo, not in agent memory.** Memory is per person and per
+   machine; the other person never sees it.
+8. **Names are lowercase with dashes.** Exceptions: `AGENTS.md`, `CLAUDE.md`,
+   `SKILL.md`, `README.md`, `DECISIONS.md`. Existing project folders keep their names.
+   A leading underscore marks a folder that supports the others and is not one of them
+   (`_home`, `_research`, `_tools` and `_work` inside a niche's research, and `_project`
+   inside a development repo: everything we made there that is not the product's code).
+9. **Paths are written as `~/GitHub/...`**, never as one machine's absolute path.
+   On a machine where the repos live in a differently named folder, `setup.sh` makes
+   `~/GitHub` a link to it.
+10. **Before moving or reorganising files across folders or repos, show the plan and
+   wait for a yes.** This is for interactive sessions. A non-interactive run must not
+   reorganise at all unless its task says to.
+
+11. **Before sending agents to do work, ask the owner and wait**: which provider's agents
+    (Claude or Codex), how many, which model and which effort. Give your suggestion for
+    each, and match model and effort to the task. Then wait for an explicit yes. A question
+    or a remark from the owner is not approval. Send exactly what was agreed. Each new
+    batch needs its own yes, unless the owner approved the whole run up front. This
+    applies to interactive sessions; an agent that was itself sent to do a task does not
+    spawn more.
+
+12. **Never edit a `-live` repo directly.** Every change, however small or large, is made
+    in `-dev` and built from there. That keeps `-dev` complete, so running the build never
+    risks losing a fix that only existed in `-live`. A direct edit to `-live` is for
+    extreme cases only and needs the owner's explicit yes each time.
+
+## Rules and gates
+
+A rule here is an instruction: an agent reads it and is expected to follow it, but
+nothing stops it. Rules 2, 11 and 12 are also **gates**: `.claude/hooks/gate.py`, wired
+in `.claude/settings.json`, makes Claude Code stop and ask the owner before a `-live`
+push, a direct edit of a `-live` file, or an agent launch. Gates apply to Claude Code
+sessions started in this repo. They do not apply to sessions started elsewhere, or to
+Codex. Anything that must never happen without the owner belongs in a gate.
+
+## New niche, new skill, new research
+
+Follow `playbooks/new-niche.md`. It says where each output goes.
+
+ succeeded in 2047ms:
+# _research
+
+Raw research material, and the rules for doing research. This file is the one place those
+rules live; `AGENTS.md` and `CLAUDE.md` here are links to it, so agents working in this
+repo load it automatically. `~/GitHub/_home/AGENTS.md` points here.
+
+What is kept here: scrapes, saved pages, transcripts, screenshots, quote databases. It is
+kept so it can be analysed again later with better tools.
+
+## Research never censors
+
+Research records what people actually say and do, in their own words, whatever the
+subject. Nothing is dropped, withheld, softened or paraphrased away because it is
+sensitive, unflattering, or might be unsuitable for an ad. A quote may be labelled, but it
+is kept and quoted in full like any other.
+
+What is used in copy is the owner's decision, made later, with everything in front of
+him. It is never a research decision. If the owner wants the raw truth, that is his to
+have. An agent that filters research "to be safe" has made the research wrong.
+
+## Layout
+
+```
+_tools/                  scripts shared by every niche: draw a sample, build post files, check quotes and ids
+<niche>/
+├── README.md            overview: what exists per kind, the four questions, what is missing
+├── brief.md             what this research set out to answer
+├── ads/                 ads that are running (the swipe file)
+├── books/
+├── competitors/
+├── forums/              parents' forums and communities other than Reddit
+├── marketplaces/        marketplace listings and bestseller lists: what is for sale
+├── official-guidance/   what the authorities she trusts say
+├── reddit/
+├── reviews/             of apps, books and courses
+├── sales-letters/
+├── statistics/          published figures about her
+├── youtube/
+├── quotes/              every quote pulled from the kinds above, one record each
+├── evidence/            the quotes sorted under themes, counts, readers' notes
+├── findings/            the short version of the evidence, one page per question
+├── her-words.md         her phrases, word for word, for use in copy
+├── _tools/              support: checks particular to this niche, and old rounds' scripts
+└── _work/               support: reading ledgers, working files
+```
+
+- `<niche>` is the buyer and her problem (for example `baby-development`,
+  `stop-divorce`), exactly as named in `~/GitHub/_home/library/niches.md`. Never a brand
+  or a domain: those change.
+- **One folder per kind of source**, so a person who needs the ads or the competitors
+  opens that folder. Every kind folder always exists, even when empty, so it is plain
+  what has not been collected yet. A new kind of source gets a new folder and a line here.
+- **Inside a kind folder:** `README.md`, then the notes written about the material at the
+  top, and the originals exactly as captured in `raw/`. Notes are what a person opens
+  first. Originals are never edited.
+- **A later round of research** goes into the same kind folder under a dated subfolder,
+  `<yyyy>-<mm>/`.
+- **What belongs here and what does not.** If it describes someone else (the buyer, a
+  competitor, the market), it is research and lives here, including the scripts that
+  collected it. If we made it (a site, a quiz, a design, a brand name), it lives with that
+  product, in its repo's `_project/` folder when it is not code. A product repo has no
+  `research` folder; its scripts that need research read it
+  from this repo (`~/GitHub/_research`).
+- **An underscore marks a folder that supports the others and is not one of them:**
+  `_tools` and `_work` here, `_home` and `_research` among the project repos.
+
+## READMEs
+
+The niche README lists each kind: what was collected and from where, when, with which
+tool or script, for which offer, the question it was meant to answer (see below), and
+where its findings page is. A kind with nothing in it says "nothing collected yet". Each
+kind folder's own README says the same for that kind in more detail.
+
+## Four questions, each from a source that can answer it
+
+A niche's research is complete when all four are answered. No source is required and
+none is enough alone.
+
+| Question | Sources that can answer it | Why |
+|---|---|---|
+| 1. Who is she, and what is her life like? | Our own data (quiz answers, buyers, email replies), ad platform audience data, the people who follow and comment on competitors, published surveys and statistics, communities | The other three questions are all about her. The avatar is written from this evidence, not imagined |
+| 2. What hurts, what does she want, and how does she say it? | Reddit, forums, comment sections | Anonymous, long and unguarded. Includes the result she is really paying for |
+| 3. What is she buying for this, what does she pay, and how did it go? | First: what she says she bought, bestseller lists and store charts, marketplaces. Then: reviews of what sells most | Only buyers know. Find where the money goes before choosing whose reviews to read |
+| 4. Who is selling to her, and what is working? | Ads running now, competitor pages and funnels | An ad that runs for months is proof of money |
+
+- **Question 3 has an order.** First map what she spends on: which kinds of thing (apps,
+  books, courses, classes, a person), which products, what prices. Then read reviews of
+  the ones that sell most: where they let her down and what delighted her. Reviews of
+  products picked without the map may miss where the money is.
+- Question 4 is the quick check (step 2 of `~/GitHub/_home/playbooks/new-niche.md`): it
+  decides whether the niche is worth entering. The others are the deeper research.
+- A community shows who posts there, not the market. Reddit is mostly American, younger
+  and English-speaking, people post more when things are bad, and many who post never
+  buy. Its counts never show how common a problem is.
+- Sources close or change their access. Research that rests on one source ends when
+  that source does.
+
+## The chain: five steps, each made from the one before
+
+| # | Name | What it is | Where | Length |
+|---|---|---|---|---|
+| 1 | Collected material | Posts, reviews and pages, saved as they were found | `<kind>/raw/` | everything |
+| 2 | Quotes | The sentences worth keeping, cut out of that material, one record each with an id | `quotes/` | everything |
+| 3 | Evidence file | All the quotes sorted into patterns and counted | `evidence/` | as long as it needs |
+| 4 | Findings | The short version of an evidence file: each pattern with its count, its best quotes and what cuts against it. `her-words.md` is made alongside: her phrases, copied out for copy | `findings/`, `her-words.md` | short: a person reads a page in one sitting |
+| 5 | Avatar | The centre of the findings, written as one person | `~/GitHub/_home/library/avatars/<niche>/avatar.md` | about a page |
+
+Steps 1 to 4 are what they wrote, so they are research and live here. Step 5 is what we
+made from it, so it lives in `_home`. Name each step for what it is.
+
+Competitors have a shorter chain of their own, all here: saved pages in
+`competitors/raw/`, one note per competitor, and `competitors/overview.md`. The overview is
+already the short version, so it gets no findings page.
+
+- Research is not finished until its findings are written and the owner has reviewed them.
+  Agents read the findings first and open the steps before them only when asked or when
+  checking a quote. Findings are written by the `write-findings` skill in `_home`.
+- A quote may be left out of a findings page **because it repeats** what others already
+  show. It is never left out **because of its subject**. Whatever is left out stays in
+  the evidence file, cited by id.
+- **Every niche's `evidence/` has a `jargon-glossary.md`:** the words she uses and how each
+  one feels, with real usages. It answers "how does she say it" (question 2). Until it is
+  made, `evidence/README.md` says "not made yet". The one that exists,
+  `new-and-expecting-mothers/evidence/jargon-glossary.md`, covers mothers in general and is
+  the starting point for a niche's own; its pipeline is `new-and-expecting-mothers/_tools/jargon/`.
+- A brief for research work says which step it wants and who will read it. Asking for
+  "the findings" without saying which produced a 940,000-word file in November 2026.
+
+## Conventions
+
+These came out of the November 2026 re-reading of five builds (41,000 posts). They cover
+reading, quoting and merging. Conventions for the collecting step are still to be written.
+
+**Records**
+
+- A quote is one record with the same fields every time: id, source, link, date, speaker,
+  stage, type, themes, and the quote word for word.
+- Ids are unique across the niche and show who produced them: a prefix for the pass, the
+  reader's number, a running number (`pbu07-0034`). Check for duplicates before each commit.
+- Every post handed to a reader is accounted for in that reader's ledger: quoted,
+  off-topic, or unavailable. Nothing is skipped silently.
+- Raw material and finished quote files are never edited. New work is added as new files.
+
+**Honesty about the evidence**
+
+- Anything excluded is written down with the reason. Off-topic is a reason; subject is
+  not (see "Research never censors").
+- Count posts, not quotes: a pattern's count is the number of sampled posts that show it,
+  and each post is tagged against one shared list of patterns. A post is not a person,
+  but one eager poster cannot be counted ten times. Say how the posts were chosen. Only a
+  random sample lets a count say how common something is among posts. The October 2026
+  round counted quotes the readers chose; those counts show nothing about how common.
+- Say what is still unread, and how much.
+- An attempt that found little or nothing is recorded as that, with the reason, at the top
+  of the kind folder's README. Saved pages and empty files are not research.
+- When a script is turned away, do not stop there: follow
+  `~/GitHub/_home/playbooks/collect-through-a-browser.md`.
+- Keep and label provenance: commercial, fictional, second-hand or AI-written passages
+  are marked, not removed.
+- When a conclusion changes, record it with the date: what it said, what it says now,
+  and the quote ids behind the change.
+
+**Doing the work with agents**
+
+- Split the reading: about 300 posts per reader.
+- Merge in two steps: theme digests of about 1,200 quotes each, then one agent merges
+  the digests. One agent given several thousand quotes directly used about a tenth.
+- Agents write files; the supervisor checks and commits, one commit per batch. Every
+  reproduced quote is compared with its source by a script before the commit.
+- A piece that fails the check is redone whole, once. If it fails again, stop and have
+  a person look.
+- The brief fixes one layout for quotes in written files, so the checking script can
+  read every agent's output.
+- The scripts for sampling and checking live once, in `_tools/` at the top of this repo.
+  A niche's own `_tools/` holds only checks particular to it.
+- Working figures (Codex, `gpt-6.1-sol`, xhigh): five agents at a time, 25 to 30 minutes
+  per batch, about 2 to 2.5 percent of weekly usage per 1,000 posts.
+
+## Material that fits several niches
+
+File it once, under the niche it was collected for. The other niches' avatars get a
+pointer line under "Also relevant research".
+
+## Size
+
+This repo is meant to be large. Videos, screenshots, saved sites and whole corpora belong
+here when they were part of the research. Do not leave material out to save space.
+
+The one hard limit is GitHub's: it rejects any single file over 100 MB. The commit hook
+stops files over 95 MB. Split such a file into parts (as the Reddit archives here already
+are), or keep it on disk and on the NAS backup and say so in the niche README.
+After cloning, run: `git config core.hooksPath .githooks`
+
+ succeeded in 2126ms:
+---
+name: write-findings
+description: Write a niche's findings pages and her-words.md from its research evidence. Use when asked to write or update the findings, or her words, for a niche.
+---
+
+Findings are the whole range of what the evidence shows, made short enough for the owner
+to read in one sitting. The owner reviews them, and `write-avatar` then writes the portrait
+from them. You sort and count; the portrait is the next skill's work.
+
+`<niche>` is the name in `~/GitHub/_home/library/niches.md`. Findings are research, so
+they are written into `~/GitHub/_research/<niche>/`: the pages in `findings/`, and
+`her-words.md` beside that folder.
+
+## Steps
+
+1. **Locate the evidence.** Read `~/GitHub/_research/README.md` ("Research never censors",
+   "Four questions", "The chain", "Conventions"), then `~/GitHub/_research/<niche>/README.md` and
+   `evidence/README.md`. Done when you can list, for each of the four questions, the
+   evidence file that answers it or "no evidence file".
+   - No evidence file for any question: report which research is missing and stop.
+     Findings come from evidence files, never from raw posts or from a stub's description.
+   - A question with no evidence file: report where the niche README says its research
+     is. Competitor research ends in `competitors/overview.md` and gets no findings page.
+2. **Write one findings page per evidence file**, in the form in
+   [`FINDINGS-FORMAT.md`](FINDINGS-FORMAT.md). Read the evidence file whole before
+   writing. Finish and check one page before starting the next. A page is done when
+   `check_findings.py` prints OK for it, which requires every heading of the evidence file
+   to be accounted for in the page's coverage table.
+   - Evidence that is a folder (`counts.md`, `digest-NN.md`, `pattern-NN.md`): the
+     evidence file is `counts.md` plus every digest. Read those whole and pass each digest
+     as an `--evidence`. A `pattern-NN.md` holds every post and quote of one pattern and
+     is too long to read whole; open it to find or check a quote.
+   - Such a folder without digests: report that the digests are missing and stop.
+   - Where `findings/<round>/patterns/` holds one section per pattern, already merged from
+     the digests and checked: the evidence file is `counts.md` plus every section. Read
+     those whole and pass each section as an `--evidence`. One group per pattern, opened
+     by the pattern as a finding with its count out of all on-niche posts. Forms that say
+     the same kind of thing are joined and their counts added; forms too small to stand
+     alone are listed, claim and count, under one last finding of the group. The numbers
+     in `counts.md` on who writes, the child's age and paying become findings too.
+3. **Write `her-words.md`**, in the form in the same file. Done when `check_findings.py`
+   prints OK for it.
+4. **Record and hand over.** In `~/GitHub/_research/<niche>/README.md`, update the line
+   that says which findings are written. Report to the owner: pages written, findings per
+   page, what the evidence cannot answer, and anything you were unsure of. Then stop: the
+   owner reviews the findings and marks each page reviewed.
+
+## Choosing what goes in
+
+- Every pattern in the evidence becomes a finding, however few posts it has, unless it
+  repeats another finding. Subject plays no part in the choice.
+- Each finding carries its count, the two or three quotes that show its range, and what
+  cuts against it.
+- State what people say about themselves. A count is a count of posts, written with what
+  it is out of. Order findings by count. Where the evidence says counts are soft, treat
+  patterns a few points apart as equal and say so.
+- Findings and limits are about her and the niche, which outlive any brand and any
+  product. Word each one from her side: what she does, says, buys and asks for. Where the
+  evidence tests one of our brands or a product we plan ("would she buy a guide?"), the
+  test goes in the coverage table as "about a brand", and what it shows about her is
+  reworded from her side ("what she reports paying for is toys, classes and childcare").
+
+## Reads
+
+- `~/GitHub/_research/README.md`
+- `~/GitHub/_research/<niche>/README.md`, `evidence/`, `statistics/`, `quotes/`
+
+## Writes
+
+- `~/GitHub/_research/<niche>/findings/<question>.md`, `~/GitHub/_research/<niche>/her-words.md`
+- One line in `~/GitHub/_research/<niche>/README.md`
+
+## Runs
+
+From `~/GitHub/_home`:
+
+```
+python3 -I .agents/skills/write-findings/check_findings.py <page.md> \
+    --quotes ~/GitHub/_research/<niche>/quotes [--evidence <evidence file>]...
+```
+
+`--evidence` turns on the coverage check and may be given several times; use it for
+findings pages, not for `her-words.md`.
+A phrase taken from another niche's quotes needs that niche's `quotes` folder as a second
+`--quotes`.
+
+ succeeded in 2218ms:
+# Digest 10: pattern 8, Delight or pride in what the child now does
+
+Share: baby-development/_work/2026-11/digests-age-reread/share-10.md. Yes posts: 81. Near posts: 17.
+
+## Pattern 8, share 10: yes posts
+
+### The parent celebrates speech progress after having worried about how little their child could say.
+
+7 of 81 posts.
+
+At two to three years, parents celebrate longer sentences, clear conversations, recalling a day, a holiday greeting or a first spoken expression of love. Several explicitly describe speech delay or earlier worries and other people’s concerns; one had nine months of therapy, another is about to start, and another reports a large change during preschool. A smaller step can matter as much to these parents as fluent conversation.
+
+- "When I woke up and came downstairs, my son runs up to me, hands me a card that he made, and says “happy mommy day!”" [ar033-0048]
+- "He just turned 2.5 and 3 people in the last 24hours have asked how old he was and were in shock he was only 2.5 and commented how well and clearly he spoke for his age because he can carry out full convos now and is super clear when he speaks. Makes my mom heart so happy to hear people amazed by his verbal skills rather than concerned about it like they were a year ago 🥹" [ar055-0010]
+- "He started saying “mama tété” (“tété” is the French word we use for nursing) — his first 2-word combination and he says it each time he wants to nurse!" [ar036-0004]
+- "Sometimes progress isn’t a big milestone. Sometimes it’s hearing your little one excitedly tell you about their day before they drift off to sleep." [ar071-0061]
+- "My daughter is 2 years old and normally just blows me a kiss to show her love, as she's always been a little behind on her speech but today she said "I love you mommy" ❤️❤️❤️ I sobbed happy tears" [ar067-0084]
+- "My 2 year is speaking more 3 word sentences and get so happy when she does. She has recently started to say “I did it!” and answer “What is it?” or “I am here” when I call her name. 😭" [ar006-0010]
+- "This boy NEVER stops talking. He has a massive vocabulary." [ar073-0061]
+
+**But:** Celebration does not mean the delay has resolved. "He’s still quite behind with expressive speech, but we’ll finally start speech therapy in 2 weeks, and I’m really looking forward to it." [ar036-0006]
+
+Posts: 1sejxc4 1shmq2m 1taysaj 1tfxr53 1u0j3fc 1uh9qr1 1uk7izr
+
+### The parent marvels at what their child can remember, understand or create.
+
+6 of 81 posts.
+
+Parents of two- and three-year-olds describe a remembered weekday, whole books recited, independent alphabet writing, stick-figure drawing and translation between family languages. Some ask whether the ability is common because they lack a comparison; others simply share their surprise and pride. One child learns brown immediately while other colours remain less reliable.
+
+- "His mothe said something in Bulgarian, he then looked at me and said the same thing in West Frisian and we were both quite shocked." [ar011-0104]
+- "Our 2y4mo can recite the Gruffalo from memory with complete accuracy." [ar018-0049]
+- "This morning was the first time he wrote his ABC’s without tracing. I’m super proud of him." [ar061-0022]
+- "To my surprise he can draw stickman!? Im so amazed! Is it common at their age?" [ar057-0072]
+- "“No thank you, I don’t want to go to Costco. I just went to Costco on Wednesday.”" [ar064-0002]
+- "On the other hand, BROWN she remembered after the first time we named it and never gets it wrong lol" [ar072-0078]
+
+**But:** An impressive skill coexists with age-typical needs: "I agree with him not receiving grace, mostly by older kids because he’s acting like them verbally, but social/emotionally, still very much a toddler" [ar064-0006]
+
+Posts: 1s964hr 1t9cls0 1tv1wvr 1uyp86b 1wlijim 1wtln2h
+
+### The parent enjoys the surprising words and explanations their child uses to make sense of the world.
+
+9 of 81 posts.
+
+At two to three years, children ask about bodies and pregnancy, apply familiar names to unfamiliar things, and explain discomfort or death in unexpected ways. Parents report literal descriptions, mistaken meanings and one alarming mishearing that turns out to be a wish to count people. The humour includes a child describing a bald head as an oval and another comparing a fart with a football commentator’s goal call.
+
+- "When I told him "No, I did not eat a baby," he asked how did the baby go into my stomach!" [ar023-0064]
+- "She says “where’s my shoes-on?” because I always say “let’s put our shoes on”." [ar021-0108]
+- "For example, our 2yo’s is “tight.” Water too warm? “Tight!” A little too dark for his comfort? “Tight!” Poopy diaper? “Tight!” (Okay, he might have a point there)" [ar032-0105]
+- "Yesterday, I get home from work and my son immediately runs up to me and says, "DADDY! Today I had a really long fart! It was longer than when they said "GOOOAAAAALLLLLL!"" [ar053-0100]
+- "We have since gotten a new dog, and last night he solemnly informed us that the new dog will die too, and when she does, he would like a white dog next." [ar043-0174]
+- "Now she keeps saying "You look like an oval! Oval mama!" And "Your hair is allll gone. Are you sad mama?"." [ar074-0085]
+- "My three and a half year old son asked do girls have butts" [ar004-0001]
+
+**But:** Delight sits alongside an actual language difficulty: "Currently have a 2.5yo and we’re struggling with “me” and “you” words." [ar021-0107]
+
+Posts: 1sg72zb 1uif8ay 1ukvwbh 1uytex6 1v3h8un 1x0bt79 1x0z6ok 1xacshg 1xee5qv
+
+### The parent hears familiar people and phrases coming back through their child.
+
+4 of 81 posts.
+
+Parents of two- and three-year-olds hear an older sibling’s “bro,” self-directed praise, a book illustrator’s name used for Dad, and a parent’s habit of apologising to objects. They share the child’s comic timing and the way phrases acquire new uses. One asks how much children learn by copying adults who do not realise they are being watched.
+
+- "I bumped the counter yesterday and said "sorry, counter" without thinking. Five minutes later he dropped a spoon and whispered "sorry spoon" like it had feelings and a mortgage." [ar045-0058]
+- "She got kinda pissed and yelled "BWO!!"" [ar031-0031]
+- "I’m glad he’s been repeating some positive phrases but confused why he thanks himself for stuff his dad and I do for him lol" [ar016-0058]
+- "When he wants something, it's "dada, can I have a jelly bean?"  But when we're playing it's Johnny Huessein, or sometimes, just Hussein." [ar043-0001]
+
+**But:** Hearing the imitation is also unsettling for one parent: "Cute, yes. Also mildly alarming, because now I am hearing myself through this very small echo." [ar045-0059]
+
+Posts: 1sbxrri 1u3i0ba 1uzk6nn 1w2up9h
+
+### The parent laughs when their child talks back or finds a way around an instruction.
+
+6 of 81 posts.
+
+Children aged two to three answer a correction with a contradiction, move their noise-making to real drums, or turn a request for manners into an effective snack routine. Other posts describe a polite demand not to breathe on the child, kissing the bathroom floor after a hygiene warning, and calling a slap a high five. Parents recount being amused, impressed or humbled even when the original problem remains.
+
+- "She got herself up, walked straight over to her toy drum set and said something to me. […] the pride I felt was suddenly turning to horror as she began to bang away happily at the drums for the next 15 minutes." [ar070-0082]
+- "She kept arguing back at me so I said "we're not arguing" and she immediately said "yes we are"" [ar060-0105]
+- "Now he's routinely saying "popcorn, p-p-p-wease?"" [ar073-0095]
+- "In the middle of me talking, she covered my mouth and said “Mami, don’t breathe on me please.”" [ar024-0001]
+- "What does she do? Faceplants the floor, kissing it. Doing the opposite of what I just said." [ar028-0081]
+- "When did kids get this smart? My 3 year old just slapped me really hard across the face, when I asked him why he slapped me, his response was " I didn't slap you daddy, I just high fived your face"" [ar022-0138]
+
+**But:** The clever explanation follows actual painful behaviour, rather than successful compliance: "My 3 year old just slapped me really hard across the face" [ar022-0138]
+
+Posts: 1sk0py2 1tgpw9z 1uusj2m 1vbi5qv 1vmb8qq 1w6j2p6
+
+### The parent enjoys the imaginary worlds and unexpected uses their child gives ordinary things.
+
+8 of 81 posts.
+
+Children aged roughly two and a half to three and a half invent animals, a racing identity, an ideal future office and an elaborate imaginary friend. Bags, bedding and a matchbook become collections, nests or garbage-truck cargo. Parents share the amusement, but some also report bewilderment, concern or sadness about the real world their child will meet.
+
+- "“look! My lizard came out of my butt!”, & now he’s running around pulling lizards out of everyone’s butts. It’s an epidemic truly." [ar058-0019]
+- "Her office has lots of toys, gummy bears, strawberry ice cream and multiple play areas." [ar040-0008]
+- "I picked it up and my toddler said, “Oh, there’s my garbage for my garbage truck!”" [ar018-0087]
+- "she then proceeds to tell me they are taking him home on a rocket ship" [ar039-0150]
+- "My daughter (3) is obsessed with making nests. She needs every pillow, cushion, and blanket in a pile on top of her. Anyone else have a small, woodland creature as a child?" [ar043-0146]
+- "My almost 3 years old always thinks he is the motorcycle racer in Moto GP." [ar059-0050]
+- "My three year old son keeps running up to me, poking me with a stick, and then cheerfully exclaiming “I crucified you!”" [ar055-0125]
+
+**But:** The parent sharing the crucifixion game also says: "It’s adorable, but also concerning. Very unclear where he learned about crucifixion." [ar055-0125]
+
+Posts: 1t079tj 1t5g0sd 1tjawj1 1u5auk6 1uvzmtv 1wgb1lh 1wno75v 1wzvk1w
+
+### The parent feels loved, trusted or chosen when their child shows affection or seeks them out.
+
+6 of 81 posts.
+
+Parents of two- and three-year-olds treasure sincere thanks, being called a best friend or being asked to help. A child wants to accompany Dad without expecting a treat; another notices that calling for Mom reliably brings her. Parents describe gratitude, happiness, pride and a new sense of purpose, and one asks what the repeated response means for attachment.
+
+- "There's no real reason, he doesn't expect a toy or a treat or anything.  He just likes coming with me.  And it's the best" [ar069-0145]
+- "There is something special in being picked by your own tiny little human to be the one who can help her." [ar012-0161]
+- "The best part: every single time I walk in, he smiles and says, "I screamed mommy and mommy came." It's such a small thing, but something about it feels bigger than just a cute routine." [ar070-0153]
+- "Thank you for making my cheese, Mom" [ar020-0105]
+- ""I'm not your best friend, I am your stinky butt. But you're my best friend"" [ar069-0053]
+- "Just knowing that to my boy such a tiny act on my part made him feel protected is making me go to sleep with this huge grin on my face." [ar054-0075]
+
+**But:** nothing found against it.
+
+Posts: 1sh78nu 1tgrrur 1vd080w 1vtuvfi 1w9upzj 1wfy99d
+
+### The parent is moved when their child notices distress and tries to comfort someone.
+
+4 of 81 posts.
+
+Two- and three-year-olds offer a grieving parent a cat toy, repeat words of reassurance, worry about a hungry child in a book, or cry when a newborn sister cries. The parents report being surprised by the child’s concern and proud of their empathy. One father describes this in a two-and-a-half-year-old with cerebral palsy whose speech and independent movement are limited.
+
+- "She brought me her cat stuffie and told me to hug it and insisted I close my eyes in a way only a two year old can (aggressively lol). Then she laid her little head on me and said "it's ok Mommy."" [ar038-0034]
+- "he said “no mama it’s ok you’re safe, you have nothing to be scared of I’m right here”" [ar061-0104]
+- "He asked me why the kid was hungry. He seemed sad that the kid dint have enough to eat. He asked me where his parents were." [ar010-0083]
+- "His empathy and worry for his baby sister just makes me so proud of him, of his mum, and fuck it, of me." [ar049-0080]
+
+**But:** Concern is also distress that the father needs to soothe: "he didnt stop sobbing until she did, despite me hugging him tightly and explaining she was fine, she just doesnt know how to tell us what she wants yet." [ar049-0079]
+
+Posts: 1t86qx4 1u4cxgq 1w6lm8f 1w7hxyc
+
+### The parent sees their child beginning to understand and manage feelings through their conversations and example.
+
+3 of 81 posts.
+
+An almost-three-year-old calms during reassurance and asks for a cuddle; a three-year-old copies the parent’s brief breaks and returns ready to talk. Another three-year-old answers an apology by saying they are still learning to be themselves. Parents connect these moments with how they comfort, model emotions or repair an overreaction.
+
+- "So I stroked his head and I told him we love him, that I get it sucks to not be able to read unlimited books, that it's okay to cry it out, and that tomorrow and tomorrow and tomorrow we'll get to read more and spend more time together. And as I talked, he actually calmed down and came to." [ar069-0046]
+- "It never lasts long, I'm in there 2 maybe 3 minutes max. Now when my son is upset he walks away from me and closes the door to "take a break", he opens the door when he's ready to talk about it." [ar038-0046]
+- "She looked at me and said, “And I’m still learning how to be me.”" [ar066-0140]
+- "And that maybe someday, he'll be able to comfort himself when he really needs it, remembering how his dad and I used to when he was a kid." [ar069-0048]
+
+**But:** The parent does not report that comfort works every time: "Not every time I try to comfort my kid do I actually get through to him. That would be impossible." [ar069-0048]
+
+Posts: 1t9qrsa 1tvck84 1x75tkk
+
+### The parent is proud when their child handles other people with kindness or speaks up for themselves.
+
+3 of 81 posts.
+
+At two to three years, one child keeps trying to make a friend despite rejection, another confronts playground name-calling with parental coaching, and another says rough play hurt. The parents want kindness, resilience or the ability to insist that bodily boundaries be heard. One mother also describes standing up to family as a change from her own childhood fear.
+
+- "I was so impressed and proud of my son and how resilient he was. He kept choosing kindness and it paid off for him. He's only two, but I for some reason I felt very reassured that he's going to do well in life." [ar077-0086]
+- "He said “stop being mean to me, I’m not poopy pants, say sorry!”" [ar010-0106]
+- "she made a puppy yipping sound and said “use my big girl bark.”" [ar017-0072]
+- "I’m so beyond proud of my toddler for speaking up in the moment and telling me later when we were alone, but I’m also proud of myself from growing up from the little girl too afraid to speak up for herself into the mom putting all family niceties on the line to stand up for her daughter for the same damn thing." [ar017-0074]
+
+**But:** Speaking up did not initially make the adult listen: "He waved it off and said “what, that didn’t hurt you! You’re crazy!” Like she was being silly. I saw her get quiet and shrivel." [ar017-0071]
+
+Posts: 1uvipom 1vf9nvc 1vofzhu
+
+### The parent celebrates their child doing more of the practical work of caring for themselves or the home.
+
+4 of 81 posts.
+
+Three-year-olds clean toys and dishes, transfer laundry, begin using the potty or proudly show visitors an accessible closet. Parents describe prompts, modelling, a major reorganisation of storage or a pants-free toileting attempt. One mother’s daughter was born completely blind, and the successful potty use and correct pronouns matter especially to her.
+
+- "**After I implemented this plan, my child (and I honestly tips for THAT after the kid tips! ) now not only cleans up her toys EVERY TIME she even: Cleans her room, makes her bed, and washes her own dishes!!!**" [ar079-0054]
+- "My 3 year old heard the washing machine finish and I found him turning the laundry over into the dryer. He did this completely unprompted and yelled at me when I tried to help. I praised him for being such an awesome and helpful boy." [ar070-0098]
+- "I decided to bite the bullet and try the Porky Pig approach — i.e. no pants or diaper — and yeah! *Four pees on the potty!!*" [ar022-0145]
+- "We added toddler appropriate height hanging racks to our 3yo closet, and its literally become the highlight of her life right now." [ar049-0105]
+- "Its been two weeks since we did it and Grandma and Grandpa came to visit from australia, literally the moment they were through the front door she was dragging grandma up to her room to show her." [ar049-0106]
+
+**But:** Independence in one activity does not extend to another: "Then he refused anything other than cheese on his taco and would only try the chicken if I fed it to him." [ar070-0099]
+
+Posts: 1ugnrq0 1uyj0ha 1wvbw5x 1xcj4b1
+
+### The parent is delighted to discover that their child can enjoy time playing without them.
+
+2 of 81 posts.
+
+A newly-three-year-old plays alone at a splash pad for 20–30 minutes after usually insisting that the parent join in everywhere. A two-year-old quietly looks at a book in the crib while the parent has quiet time too. One parent describes shock, pride and relief; the other recognises a temperament shared with their own childhood.
+
+- "while I was feeding our 5 month old baby she went and played in the splash pad by herself!! For a solid 20-30 mins!!" [ar032-0073]
+- "I was shocked and so incredibly proud of her and honestly relieved. I didn't know she was capable of that." [ar032-0073]
+- "nope she was awake and looking through her new Halloween board book she begged me to let her bring into her crib for bed last night." [ar042-0093]
+- "But it just makes me giggle that she has her quiet time and I do too." [ar042-0094]
+
+**But:** The quiet morning is one part of the child’s behaviour: "Please note though that this child is also an absolute terror who demands "hot cakes" every Saturday morning" [ar042-0095]
+
+Posts: 1v2pxwl 1vvbxxi
+
+### The parent enjoys the games, music and shared interests their child can now join.
+
+9 of 81 posts.
+
+Across ages two to almost four, parents describe debate games, family running games, model-building, songs, sports and elaborate playful bedtime routines. Some delight in recognising a shared musical taste or seeing a child join an adult hobby. Others describe the comic disruption when new skills produce early-morning singing, trumpet practice or rituals that keep accumulating.
+
+- "The push fit models mean that (especially for power packs) my little nearly 4 year old monkey can help snip and build the whole thing, and it's been absolutely lovely being able to spend the day doing my thing with her joining in when she wanted to." [ar012-0082]
+- "For a good 10-15 minutes, the four of us were just running around the basement and laughing together." [ar040-0052]
+- ""Daddy loves this song" "I love it too" "thanks buddy" :')" [ar022-0035]
+- "And I feel like this is a perfect introduction to critical thinking!" [ar015-0002]
+- "We build Thomas the Tank Engine tracks together every day, roleplay characters from his favourite shows, and lately he’s gotten really into board games and charades." [ar045-0050]
+- "We tried random things sometimes to make bedtime more fun so he wouldn’t fight it, but now it’s resulted in some pretty ridiculous practices. Whatever works though, right??" [ar067-0117]
+- "My 2.8 year old keeps singing a song that’s low-key a banger..and I cannot tell if it’s an original or she picked it up somewhere!" [ar024-0065]
+
+**But:** A new musical skill can overwhelm the parent: "My husband saw I was overstimulated and took our son outside for them to practice" [ar080-0028]
+
+Posts: 1scxstq 1sgojez 1tbxvyy 1tejf86 1ubysa0 1vbbdi2 1vogwzv 1w40ip9 1w9ajcy
+
+### The parent feels sad about leaving babyhood behind as their child grows.
+
+4 of 81 posts.
+
+Parents of two-year-olds describe a child giving up a sleep sack, switching from “Dada” to “Dad,” getting a first haircut or simply turning two. They report heartbreak, being unready, tears or sadness about the end of babyhood. One asks for reasons to look forward to the coming stage and its milestones.
+
+- "And then tonight I tried to put it on and she said no. So I guess that’s that. Now that she’s getting older, every little thing that she used to do as a baby that suddenly stops is breaking my heart 😂" [ar078-0002]
+- "Kid hit me with Dad today and it hit me hard. Not ready for that yet 😂. They grow way to fast." [ar075-0066]
+- "I'm Tearing Up - my 2.5 yo daughter just got her first haircut." [ar004-0125]
+- "My baby just turned two and I did not expect to feel so depressed about it! She's a hilarious, vivacious toddler that keeps me laughing all day long, but I suddenly got sad about her not being a "baby" anymore." [ar054-0119]
+
+**But:** The parent mourning babyhood also enjoys the toddler in front of them: "She's a hilarious, vivacious toddler that keeps me laughing all day long" [ar054-0119]
+
+Posts: 1sojvz8 1tjzuax 1wlmpkl 1x59ia1
+
+### The parent deliberately looks for what is good in a toddler stage they also find hard.
+
+2 of 81 posts.
+
+One parent of a three-year-old shares the small treasures left around the house after frequently seeking reassurance about difficult behaviour. Another follows their mother’s advice to call the stage the “terrific twos” and frame it as growth. Both describe the difficulty as continuing alongside the good moments.
+
+- "I feel like I’m constantly looking on Reddit “Will my 3 year old always be this way?”." [ar027-0046]
+- "My favorite part of this 3 year old is what you find lying around the house. Check a backpack, it’s got heels, a book, 3 hot wheels, and a pouch." [ar027-0048]
+- "It’s definitely helped me reframe it to more growth and brain development and getting the two year molars is a lot and it’s amazing and terrific to see." [ar051-0042]
+
+**But:** Looking for the good does not remove the strain: "Every single day feels like a battle, uphill, downhill, sideways hill, every hill between my 3 year old, 1 year old, and 2 working parents." [ar027-0045]
+
+Posts: 1tsf9rx 1u30i32
+
+### The parent laughs at the odd and messy things their child does.
+
+4 of 81 posts.
+
+The two infant posts concern a two-month-old’s burps, farts and spit-up, and an eight-month-old’s forceful diaper-change accidents. The toddler posts describe a two-year-old putting a rock up their nose and a three-year-old enthusiastically eating candy corn. The parents recount amusement, surprise or mock horror rather than a new skill to teach.
+
+- "Then yesterday i was telling him to get ready to burp and as i move him to pat position, he blast a fart right through my hand lmfaooooo like i was dyinngggg and dont get me started on his poop faces lol" [ar012-0146]
+- "My 8 month old girl is an absolute feat of physics. Since she arrived earth side, she has proven to be a highly pressurized system capable of launching poop and pee a distance of up to 51 inches (yes, she’s a girl, and yes, I’ve measured). But only for her dad." [ar027-0147]
+- "Today my 3 year old told me she loves candy corn as she blithely shoved them in her mouth, ignoring the horror on my face." [ar073-0139]
+- "And it cracks me up because she's...more advanced... we'll say, than my boys were at this age." [ar041-0150]
+
+**But:** The nose incident also involved removal and an unpleasant reaction: "No worries we got it out after a quick blow (and about 30min of me dry heaving) and no tears were shed until I threw her snot treasure in the trash." [ar041-0150]
+
+Posts: 1vg5k64 1wwaxxe 1x3cs14 1xarp59
+
+## Pattern 8, share 10: near posts
+
+### The parent feels sad about leaving babyhood behind as their child grows.
+
+1 of 17 posts.
+
+This parent describes an unexpected request for swing-pushing as possibly the last one, with the children’s ages unknown. They recall bedtime stories and carrying the children while also looking forward to new activities together. The post contains both pride and fear about the transition.
+
+- "This is very possibly the last time he'll ever ask me to push him on the swing. He's growing so fast." [ar010-0016]
+- "I'm not an very emotional guy but I honestly teared up writing it down. Surprised myself." [ar010-0020]
+- "Exactly. I think I've become more aware that as they are getting to this point in their lives, we're leaving behind allot." [ar010-0023]
+
+**But:** The parent also anticipates new pleasures: "The closing of one chapter but the beginning of another, very exciting chapter." [ar010-0024]
+
+Posts: 1sj0ygo
+
+### The parent finds that reading with their child brings up grief about someone who died.
+
+1 of 17 posts.
+
+A child of unknown age reads a school-library book to the parent, whose own father died 19 years earlier. The story brings up sadness about the grandparent missing milestones, and the child offers a hug. The parent later talks and cries with their wife and recommends the book.
+
+- "My daughters school takes them to the library once a week for a new book. This week, my daughter wanted to sit and read the book to me. Awesome, I love to cuddle up with a story and watch her reading improve." [ar076-0047]
+- "At the end my daughter could see I was a bit teary eyed and gave me a huge hug." [ar076-0049]
+- "It's always hurt not having him there for those milestones." [ar076-0049]
+- "Highly recommend the book to anyone who's experienced loss, kids and adults alike. Sometimes we just need a good cry." [ar076-0050]
+
+**But:** nothing found against it.
+
+Posts: 1systis
+
+### The parent is proud of their child’s effort and progress in learning.
+
+4 of 17 posts.
+
+These four posts concern children whose ages are unknown: meeting self-chosen goals, travelling to school, performing in a talent show and improving across a school year. Parents describe supporting practice, allowing ownership, speaking with a teacher or buying a reward. The achievements include persistence, academic work, friendships and confidence.
+
+- "What made the difference: THEY picked the goals, not me. We talked about WHY they wanted to do these things. They tracked their own progress. We just supported them." [ar075-0044]
+- "I used to stress about "giving them everything." But watching these two hold on tight every single morning , no complaints, just focus  reminded me that the drive to learn isn't something you buy, It's something you build." [ar068-0022]
+- "Leading up to the show, I practiced with kiddo and she got her lines down for her song and everything and on the day of the show she did such a good job!" [ar024-0028]
+- "My son improved during this past school year.  He excels at math, reads more, has made good friends, has grown in confidence both among his peers and his interactions with teachers and other adults, is emotionally aware, and overall has made great strides coming into his own.  I am so very proud of him." [ar010-0079]
+- "As a reward for his hard efforts, I bought him Skyrim for his Switch." [ar010-0080]
+
+**But:** The performance is described as enjoyable rather than flawless: "She was a little stiff, but she had a good time doing the rehearsals with her friends and being part of the show so I'm happy!" [ar024-0028]
+
+Posts: 1t22cpy 1t5a7kt 1tbn5wu 1u285h3
+
+### The parent loves raising this child but is uncertain about having another.
+
+2 of 17 posts.
+
+One parent with a nine-month-old describes an easy baby alongside lasting distress about pregnancy and birth, making another pregnancy frightening. Another with a three-and-a-half-year-old wants another child while their husband feels fulfilled with one. They describe fear, disagreement, time pressure and the possibility of resentment rather than an answer supplied by delight in the existing child.
+
+- "I am nine months postpartum with the absolute best baby in the world. She is the light of my world and an absolute unicorn. Good sleeper, happy, zero sleep regressions, etc." [ar035-0092]
+- "I was told it would all leave my mind after she was born- but I did not." [ar035-0094]
+- "I love watching my daughter grow and become her own person. It sounds amazing to experience that with another child too." [ar081-0100]
+- "There is no compromise here. Someone is going to have to sacrifice." [ar081-0103]
+
+**But:** The existing child’s father experiences satisfaction as a reason to stop: "He feels he's getting everything out of the parent experience with the one." [ar081-0099]
+
+Posts: 1ury3ra 1vvjnf4
+
+### The parent celebrates their child following a safety lesson they have repeated.
+
+1 of 17 posts.
+
+The parent of a preschooler of unknown exact age describes teaching the child to exchange found pills for candy. They explain the danger, repeat the message around medication and report success when the child finds a relative’s heart pill. The success is accompanied by fear about what could have happened.
+
+- "When you find a pill, bring it to me and I'll give you candy!" [ar054-0050]
+- "It was a heart pill Granny left, and LO knew just what to do." [ar054-0051]
+- "I emphasize that it's medicine for me but could hurt them or the pets, so bring pills to me and get a reward." [ar054-0051]
+- "And IT WORKED!! I'm so frazzled that LO could have eaten it and I would have no idea what was wrong until it was too late.  😭" [ar054-0052]
+
+**But:** The result followed a long period of teaching: "My LO is a preschooler now, but it took 2.5 years for this advice to work, so now I pass it on:" [ar054-0049]
+
+Posts: 1uvvxnn
+
+### The parent celebrates a bedtime change that helps their child settle or sleep.
+
+3 of 17 posts.
+
+A two-year-old adapts over three nights after the parents discard the pacifier and offer comfort objects and check-ins. A three-year-old starts sleeping without the parent because she thinks they smell, while an almost-four-year-old falls asleep during a parent’s history explanation. Parents share surprise, humour and a memory they want to keep.
+
+- "Second night, he whined for 5 minutes, then laid there and eventually fell asleep." [ar029-0051]
+- "Third night, he whined for 2 minutes, then went to sleep." [ar029-0052]
+- "Come to find out she thinks I smell and she’s no longer afraid to sleep alone." [ar080-0091]
+- "She looks at me and says “mommy, are you telling me a story, I’m getting sleepy”" [ar072-0059]
+- "This is a win for me because I’m going to keep this funny and sweet memory with me forever. The look on her face as she’s trying to stay awake to my lecture cracks me up." [ar072-0060]
+
+**But:** The pacifier change was not effortless on the first night: "He was so upset for about 2 hours (we came and checked in and gave him the spiel). He woke up again later (same thing)." [ar029-0050]
+
+Posts: 1ux51r8 1vwpji0 1w0j5fl
+
+### The parent feels loved, trusted or chosen when their child shows affection or seeks them out.
+
+1 of 17 posts.
+
+A parent’s two-and-a-half-year-old has just begun saying “I love you.” The parent reports an unusually strong emotional response and asks how to manage it. Their concern is that the reaction could worry or discourage the child.
+
+- "My son (2.5 yrs) just started saying 'I love you' to me from this weekend." [ar018-0099]
+- "And it has turned me into an emotional wreck!" [ar018-0100]
+- "I keep getting all teary and emotional, it's absolutely messing with me." [ar018-0101]
+
+**But:** The affection creates a concern about the parent’s own response: "I don't want to worry him or discourage him." [ar018-0103]
+
+Posts: 1v2wh81
+
+### The parent marvels at what their child can remember, understand or create.
+
+2 of 17 posts.
+
+Two parents, with the children’s ages unknown, share a child’s creative work. One is surprised by an AI-assisted web app; the other has the child decorate shoes each year and sees drawing progress through these keepsakes. The posts express enjoyment and pride without establishing the children’s ages or independent mastery of a tool.
+
+- "I honestly thought he meant a drawing or something from school. Instead, he pulled out his Chromebook and showed me this little web app he'd built with AI:" [ar050-0052]
+- "Made me smile. Curious if anyone else's kids have started getting into AI lately." [ar050-0054]
+- "Every year since I get him to doodle on a pair. It is cool to see his progression and makes for a great keepsake." [ar033-0095]
+
+**But:** nothing found against it.
+
+Posts: 1v546dr 1vu0cru
+
+### The parent celebrates feeding progress after a difficult beginning.
+
+1 of 17 posts.
+
+A parent of a ten-week-old reports doubled birth weight at a lactation appointment before returning to work. They describe initial weight loss, delayed milk arrival, triple feeding and a painful latch with a nipple wound. Pride in the baby and themselves accompanies a continuing personal feeding goal.
+
+- "Went to an IBCLC appointment today in preparation for going back to work in 2 weeks. My ebf LO is currently 10 weeks and has somehow doubled his birth weight! From 8 lbs 1 oz to 16 lbs 3 oz." [ar009-0057]
+- "From losing 14% of initial birth weight due to milk not coming until day 5, triple feeding the first 2 weeks, shallow latch, letdown that hurts more than unmedicated birth itself, open wounded nipple that didn’t heal for 5 weeks to now a somewhat successful breastfeeding journey." [ar009-0058]
+- "So proud of my LO but also so proud of myself." [ar009-0058]
+
+**But:** The parent qualifies the success and still has a goal ahead: "Fed is definitely best! But I have a goal for me and my babe and I’m sticking with it." [ar009-0058]
+
+Posts: 1v5t7ou
+
+### The parent enjoys their child’s growing skills but struggles to keep caring for themselves.
+
+1 of 17 posts.
+
+The parent of a two-and-a-half-year-old enjoys the child’s humour, full sentences and toileting independence. They also describe exhaustion and a short-lived improvement in exercise and eating that is derailed by difficult toddler days and work. They ask others about maintaining routines through these changes.
+
+- "He’s potty trained and speaks in full sentences now so it feels like we have a whole kid these days." [ar042-0066]
+- "The rest of the time I just feel exhausted and like I’m just surviving and on autopilot." [ar042-0067]
+- "The past 2 weeks I got into a fairly good workout routine and was on good track with healthy eating, then I had a few “terrible two” type days with my little one and a long day at work, and it derailed all the progress I had made." [ar042-0068]
+
+**But:** There are also days when the parent feels things are working: "I feel like I have a few good days out of the month where I can balance taking care of myself, feel like a super mom and feel very harmonious with my husband." [ar042-0067]
+
+Posts: 1vl295s
+
+## Pattern 8, share 10: across the yes posts
+
+| Tag | Posts |
+|---|---|
+| tried | 62 of 81 |
+| others | 32 of 81 |
+| bought | 2 of 81 |
+| feeling | 60 of 81 |
+
+Counts describe posts in this supplied share of the random 20,000-post sample, not how common these experiences are among parents. All 81 yes and 17 near posts were read; none remain unread or were excluded. Each post has one form within its supplied section.
+
+Each post was also tagged yes or no for all four tags. “Tried” includes parenting activities, conversations and arrangements already made; “others” covers people other than the focal child; “bought” requires an explicit purchase or payment statement. “Feeling” includes emotions, emotional appraisals and reactions stated in words, including tears or laughter, but not an emoji or “lol” alone. Unknown ages and speaker characteristics remain unknown.
+
+### What they tried, in their words
+
+- "We started buying the learning books so he loves to trace. That is really what got him going." [ar061-0025]
+- "So my son is almost 2.5 and is speech delayed. He’s been in speech therapy for 9 months now and has made amazing progress." [ar033-0046]
+- "we’ll finally start speech therapy in 2 weeks, and I’m really looking forward to it." [ar036-0006]
+- "When that stopped worked the deal became: no new toys, no games/playing with parents, and no TV until she picked it up. No arguing no fussing but I held HARD to the rule." [ar079-0061]
+- "I decided to bite the bullet and try the Porky Pig approach — i.e. no pants or diaper — and yeah! *Four pees on the potty!!*" [ar022-0145]
+- "then I got better about going to take a breather when I was getting overwhelmed." [ar038-0045]
+- "I have this small habit with my son that I didn't think much of until recently. I told him that when the sun wakes up — at the same time as him — he can yell "Mom, mom!" from his bed in the morning, and I'll come get him. So now I always come when he calls. Works about 9 times out of 10 (toddlers gonna toddler)." [ar070-0152]
+- "I kissed her head and said “mommy will talk to papa for you, but next time, you just tell him ‘That’s too rough, papa!’” And we practiced." [ar017-0072]
+- "We \*kinda\* used a dog training method in that we offered him a small amount of a high-value treat, and for every single piece, he'd have to say "please"." [ar073-0094]
+- "We tried random things sometimes to make bedtime more fun so he wouldn’t fight it, but now it’s resulted in some pretty ridiculous practices. Whatever works though, right??" [ar067-0117]
+
+### What other people told them or did
+
+- "So ill got first. I was SO anxious about my son being verbally behind because at 18 months he spoke maybe 8 words or so. Abd some people expressed he should have more and he was fallign behind the average." [ar055-0009]
+- "He just turned 2.5 and 3 people in the last 24hours have asked how old he was and were in shock he was only 2.5 and commented how well and clearly he spoke for his age because he can carry out full convos now and is super clear when he speaks. Makes my mom heart so happy to hear people amazed by his verbal skills rather than concerned about it like they were a year ago 🥹" [ar055-0010]
+- "My mom said when we hit 2 that people would immediately call all “bad” behavior the terrible twos and she said to immediately correct that to the terrific twos because it’s just another phase of growth and we’re speaking blessings over our toddler and not curses." [ar051-0042]
+- "My husband saw I was overstimulated and took our son outside for them to practice" [ar080-0028]
+- "The older boy kept kind of picking on him and taunting him, but we let them go." [ar077-0084]
+- "The grandma agreed and said “well that’s what you get!” The children apologised feeling quiet embarrassed," [ar010-0107]
+- "He waved it off and said “what, that didn’t hurt you! You’re crazy!” Like she was being silly." [ar017-0071]
+- "She agreed and said she would talk with him." [ar017-0073]
+- "Plus got a couple of loose new boyz from my local shop as part of their midnight launch for us to put together and paint for their Orktober display." [ar012-0083]
+
+### What they bought or paid for
+
+Only two posts explicitly report buying. These five excerpts cover their purchases, quantities and use; the drawing paper is mentioned as use alongside the bought books, without an explicit purchase claim. Gifts, free models, existing toys and unnamed costs are not counted as purchases.
+
+- "We started buying the learning books so he loves to trace. That is really what got him going." [ar061-0025]
+- "His mom and I will draw things on blank paper for him to color in or trace and we have been going through paper like crazy!" [ar061-0025]
+- "I used printable sticky glossy photo paper I go for like $6 a pack at Walmart" [ar079-0055]
+- "(Note it took 2 packs for ALL of her shiz cause there is only 10 pages in a pack)." [ar079-0055]
+- "I ordered a bulk drawer organizing set off of Amazon for like $20 and it did my whole house." [ar079-0066]
+
+### How they say they feel
+
+- "I nearly cried. He’s been talking a lot more lately and that was the best gift I could have ever received." [ar033-0049]
+- "I just wanted to share how proud I am of these little baby steps in his speech development ❤️" [ar036-0008]
+- "I was shocked and so incredibly proud of her and honestly relieved. I didn't know she was capable of that." [ar032-0073]
+- "She had a host of health problems and while it wasn't unexpected it happened really fast and not in the peaceful way I had intended and I'm really struggling." [ar038-0032]
+- "I was smiling, but I couldn’t help feel a little gutted just thinking about all the things the real world has to throw at her. Just pure innocence. Deep down, I truly wish she could just live out her fantasy without a care for the world!" [ar040-0009]
+- "Now that she’s getting older, every little thing that she used to do as a baby that suddenly stops is breaking my heart 😂" [ar078-0002]
+- "I’ve carried *so much guilt* over the fact that I don’t get to spend enough time with her. Worried that I’m failing her by not being able to give her all of the extra support I know she deserves." [ar022-0144]
+- "Ive never been more proud and more in love with him. What a fucking guy." [ar049-0080]
+- "I’m just really grateful, man. Being a dad is so much fun. ❤️" [ar045-0052]
+- "My baby just turned two and I did not expect to feel so depressed about it!" [ar054-0119]
+- "And that was the greatest sense of relief I’ve ever felt in my life." [ar007-0146]
+
+exec
+/usr/bin/zsh -lc "sed -n '1,200p' baby-development/evidence/2026-11/age-reread/digest-10.md" in /home/thinkpad/GitHub/_research
+exec
+/usr/bin/zsh -lc 'rg --files -g AGENTS.md -g CLAUDE.md baby-development _tools; cat _tools/verify_section.py' in /home/thinkpad/GitHub/_research
+exec
+/usr/bin/zsh -lc 'cat baby-development/README.md baby-development/evidence/README.md /home/thinkpad/GitHub/_home/library/niches.md' in /home/thinkpad/GitHub/_research
+exec
+/usr/bin/zsh -lc 'cat /home/thinkpad/.agents/skills/write-findings/FINDINGS-FORMAT.md' in /home/thinkpad/GitHub/_research
+ succeeded in 13ms:
+# Digest 10: pattern 8, Delight or pride in what the child now does
+
+Share: baby-development/_work/2026-11/digests-age-reread/share-10.md. Yes posts: 81. Near posts: 17.
+
+## Pattern 8, share 10: yes posts
+
+### The parent celebrates speech progress after having worried about how little their child could say.
+
+7 of 81 posts.
+
+At two to three years, parents celebrate longer sentences, clear conversations, recalling a day, a holiday greeting or a first spoken expression of love. Several explicitly describe speech delay or earlier worries and other people’s concerns; one had nine months of therapy, another is about to start, and another reports a large change during preschool. A smaller step can matter as much to these parents as fluent conversation.
+
+- "When I woke up and came downstairs, my son runs up to me, hands me a card that he made, and says “happy mommy day!”" [ar033-0048]
+- "He just turned 2.5 and 3 people in the last 24hours have asked how old he was and were in shock he was only 2.5 and commented how well and clearly he spoke for his age because he can carry out full convos now and is super clear when he speaks. Makes my mom heart so happy to hear people amazed by his verbal skills rather than concerned about it like they were a year ago 🥹" [ar055-0010]
+- "He started saying “mama tété” (“tété” is the French word we use for nursing) — his first 2-word combination and he says it each time he wants to nurse!" [ar036-0004]
+- "Sometimes progress isn’t a big milestone. Sometimes it’s hearing your little one excitedly tell you about their day before they drift off to sleep." [ar071-0061]
+- "My daughter is 2 years old and normally just blows me a kiss to show her love, as she's always been a little behind on her speech but today she said "I love you mommy" ❤️❤️❤️ I sobbed happy tears" [ar067-0084]
+- "My 2 year is speaking more 3 word sentences and get so happy when she does. She has recently started to say “I did it!” and answer “What is it?” or “I am here” when I call her name. 😭" [ar006-0010]
+- "This boy NEVER stops talking. He has a massive vocabulary." [ar073-0061]
+
+**But:** Celebration does not mean the delay has resolved. "He’s still quite behind with expressive speech, but we’ll finally start speech therapy in 2 weeks, and I’m really looking forward to it." [ar036-0006]
+
+Posts: 1sejxc4 1shmq2m 1taysaj 1tfxr53 1u0j3fc 1uh9qr1 1uk7izr
+
+### The parent marvels at what their child can remember, understand or create.
+
+6 of 81 posts.
+
+Parents of two- and three-year-olds describe a remembered weekday, whole books recited, independent alphabet writing, stick-figure drawing and translation between family languages. Some ask whether the ability is common because they lack a comparison; others simply share their surprise and pride. One child learns brown immediately while other colours remain less reliable.
+
+- "His mothe said something in Bulgarian, he then looked at me and said the same thing in West Frisian and we were both quite shocked." [ar011-0104]
+- "Our 2y4mo can recite the Gruffalo from memory with complete accuracy." [ar018-0049]
+- "This morning was the first time he wrote his ABC’s without tracing. I’m super proud of him." [ar061-0022]
+- "To my surprise he can draw stickman!? Im so amazed! Is it common at their age?" [ar057-0072]
+- "“No thank you, I don’t want to go to Costco. I just went to Costco on Wednesday.”" [ar064-0002]
+- "On the other hand, BROWN she remembered after the first time we named it and never gets it wrong lol" [ar072-0078]
+
+**But:** An impressive skill coexists with age-typical needs: "I agree with him not receiving grace, mostly by older kids because he’s acting like them verbally, but social/emotionally, still very much a toddler" [ar064-0006]
+
+Posts: 1s964hr 1t9cls0 1tv1wvr 1uyp86b 1wlijim 1wtln2h
+
+### The parent enjoys the surprising words and explanations their child uses to make sense of the world.
+
+9 of 81 posts.
+
+At two to three years, children ask about bodies and pregnancy, apply familiar names to unfamiliar things, and explain discomfort or death in unexpected ways. Parents report literal descriptions, mistaken meanings and one alarming mishearing that turns out to be a wish to count people. The humour includes a child describing a bald head as an oval and another comparing a fart with a football commentator’s goal call.
+
+- "When I told him "No, I did not eat a baby," he asked how did the baby go into my stomach!" [ar023-0064]
+- "She says “where’s my shoes-on?” because I always say “let’s put our shoes on”." [ar021-0108]
+- "For example, our 2yo’s is “tight.” Water too warm? “Tight!” A little too dark for his comfort? “Tight!” Poopy diaper? “Tight!” (Okay, he might have a point there)" [ar032-0105]
+- "Yesterday, I get home from work and my son immediately runs up to me and says, "DADDY! Today I had a really long fart! It was longer than when they said "GOOOAAAAALLLLLL!"" [ar053-0100]
+- "We have since gotten a new dog, and last night he solemnly informed us that the new dog will die too, and when she does, he would like a white dog next." [ar043-0174]
+- "Now she keeps saying "You look like an oval! Oval mama!" And "Your hair is allll gone. Are you sad mama?"." [ar074-0085]
+- "My three and a half year old son asked do girls have butts" [ar004-0001]
+
+**But:** Delight sits alongside an actual language difficulty: "Currently have a 2.5yo and we’re struggling with “me” and “you” words." [ar021-0107]
+
+Posts: 1sg72zb 1uif8ay 1ukvwbh 1uytex6 1v3h8un 1x0bt79 1x0z6ok 1xacshg 1xee5qv
+
+### The parent hears familiar people and phrases coming back through their child.
+
+4 of 81 posts.
+
+Parents of two- and three-year-olds hear an older sibling’s “bro,” self-directed praise, a book illustrator’s name used for Dad, and a parent’s habit of apologising to objects. They share the child’s comic timing and the way phrases acquire new uses. One asks how much children learn by copying adults who do not realise they are being watched.
+
+- "I bumped the counter yesterday and said "sorry, counter" without thinking. Five minutes later he dropped a spoon and whispered "sorry spoon" like it had feelings and a mortgage." [ar045-0058]
+- "She got kinda pissed and yelled "BWO!!"" [ar031-0031]
+- "I’m glad he’s been repeating some positive phrases but confused why he thanks himself for stuff his dad and I do for him lol" [ar016-0058]
+- "When he wants something, it's "dada, can I have a jelly bean?"  But when we're playing it's Johnny Huessein, or sometimes, just Hussein." [ar043-0001]
+
+**But:** Hearing the imitation is also unsettling for one parent: "Cute, yes. Also mildly alarming, because now I am hearing myself through this very small echo." [ar045-0059]
+
+Posts: 1sbxrri 1u3i0ba 1uzk6nn 1w2up9h
+
+### The parent laughs when their child talks back or finds a way around an instruction.
+
+6 of 81 posts.
+
+Children aged two to three answer a correction with a contradiction, move their noise-making to real drums, or turn a request for manners into an effective snack routine. Other posts describe a polite demand not to breathe on the child, kissing the bathroom floor after a hygiene warning, and calling a slap a high five. Parents recount being amused, impressed or humbled even when the original problem remains.
+
+- "She got herself up, walked straight over to her toy drum set and said something to me. […] the pride I felt was suddenly turning to horror as she began to bang away happily at the drums for the next 15 minutes." [ar070-0082]
+- "She kept arguing back at me so I said "we're not arguing" and she immediately said "yes we are"" [ar060-0105]
+- "Now he's routinely saying "popcorn, p-p-p-wease?"" [ar073-0095]
+- "In the middle of me talking, she covered my mouth and said “Mami, don’t breathe on me please.”" [ar024-0001]
+- "What does she do? Faceplants the floor, kissing it. Doing the opposite of what I just said." [ar028-0081]
+- "When did kids get this smart? My 3 year old just slapped me really hard across the face, when I asked him why he slapped me, his response was " I didn't slap you daddy, I just high fived your face"" [ar022-0138]
+
+**But:** The clever explanation follows actual painful behaviour, rather than successful compliance: "My 3 year old just slapped me really hard across the face" [ar022-0138]
+
+Posts: 1sk0py2 1tgpw9z 1uusj2m 1vbi5qv 1vmb8qq 1w6j2p6
+
+### The parent enjoys the imaginary worlds and unexpected uses their child gives ordinary things.
+
+8 of 81 posts.
+
+Children aged roughly two and a half to three and a half invent animals, a racing identity, an ideal future office and an elaborate imaginary friend. Bags, bedding and a matchbook become collections, nests or garbage-truck cargo. Parents share the amusement, but some also report bewilderment, concern or sadness about the real world their child will meet.
+
+- "“look! My lizard came out of my butt!”, & now he’s running around pulling lizards out of everyone’s butts. It’s an epidemic truly." [ar058-0019]
+- "Her office has lots of toys, gummy bears, strawberry ice cream and multiple play areas." [ar040-0008]
+- "I picked it up and my toddler said, “Oh, there’s my garbage for my garbage truck!”" [ar018-0087]
+- "she then proceeds to tell me they are taking him home on a rocket ship" [ar039-0150]
+- "My daughter (3) is obsessed with making nests. She needs every pillow, cushion, and blanket in a pile on top of her. Anyone else have a small, woodland creature as a child?" [ar043-0146]
+- "My almost 3 years old always thinks he is the motorcycle racer in Moto GP." [ar059-0050]
+- "My three year old son keeps running up to me, poking me with a stick, and then cheerfully exclaiming “I crucified you!”" [ar055-0125]
+
+**But:** The parent sharing the crucifixion game also says: "It’s adorable, but also concerning. Very unclear where he learned about crucifixion." [ar055-0125]
+
+Posts: 1t079tj 1t5g0sd 1tjawj1 1u5auk6 1uvzmtv 1wgb1lh 1wno75v 1wzvk1w
+
+### The parent feels loved, trusted or chosen when their child shows affection or seeks them out.
+
+6 of 81 posts.
+
+Parents of two- and three-year-olds treasure sincere thanks, being called a best friend or being asked to help. A child wants to accompany Dad without expecting a treat; another notices that calling for Mom reliably brings her. Parents describe gratitude, happiness, pride and a new sense of purpose, and one asks what the repeated response means for attachment.
+
+- "There's no real reason, he doesn't expect a toy or a treat or anything.  He just likes coming with me.  And it's the best" [ar069-0145]
+- "There is something special in being picked by your own tiny little human to be the one who can help her." [ar012-0161]
+- "The best part: every single time I walk in, he smiles and says, "I screamed mommy and mommy came." It's such a small thing, but something about it feels bigger than just a cute routine." [ar070-0153]
+- "Thank you for making my cheese, Mom" [ar020-0105]
+- ""I'm not your best friend, I am your stinky butt. But you're my best friend"" [ar069-0053]
+- "Just knowing that to my boy such a tiny act on my part made him feel protected is making me go to sleep with this huge grin on my face." [ar054-0075]
+
+**But:** nothing found against it.
+
+Posts: 1sh78nu 1tgrrur 1vd080w 1vtuvfi 1w9upzj 1wfy99d
+
+### The parent is moved when their child notices distress and tries to comfort someone.
+
+4 of 81 posts.
+
+Two- and three-year-olds offer a grieving parent a cat toy, repeat words of reassurance, worry about a hungry child in a book, or cry when a newborn sister cries. The parents report being surprised by the child’s concern and proud of their empathy. One father describes this in a two-and-a-half-year-old with cerebral palsy whose speech and independent movement are limited.
+
+- "She brought me her cat stuffie and told me to hug it and insisted I close my eyes in a way only a two year old can (aggressively lol). Then she laid her little head on me and said "it's ok Mommy."" [ar038-0034]
+- "he said “no mama it’s ok you’re safe, you have nothing to be scared of I’m right here”" [ar061-0104]
+- "He asked me why the kid was hungry. He seemed sad that the kid dint have enough to eat. He asked me where his parents were." [ar010-0083]
+- "His empathy and worry for his baby sister just makes me so proud of him, of his mum, and fuck it, of me." [ar049-0080]
+
+**But:** Concern is also distress that the father needs to soothe: "he didnt stop sobbing until she did, despite me hugging him tightly and explaining she was fine, she just doesnt know how to tell us what she wants yet." [ar049-0079]
+
+Posts: 1t86qx4 1u4cxgq 1w6lm8f 1w7hxyc
+
+### The parent sees their child beginning to understand and manage feelings through their conversations and example.
+
+3 of 81 posts.
+
+An almost-three-year-old calms during reassurance and asks for a cuddle; a three-year-old copies the parent’s brief breaks and returns ready to talk. Another three-year-old answers an apology by saying they are still learning to be themselves. Parents connect these moments with how they comfort, model emotions or repair an overreaction.
+
+- "So I stroked his head and I told him we love him, that I get it sucks to not be able to read unlimited books, that it's okay to cry it out, and that tomorrow and tomorrow and tomorrow we'll get to read more and spend more time together. And as I talked, he actually calmed down and came to." [ar069-0046]
+- "It never lasts long, I'm in there 2 maybe 3 minutes max. Now when my son is upset he walks away from me and closes the door to "take a break", he opens the door when he's ready to talk about it." [ar038-0046]
+- "She looked at me and said, “And I’m still learning how to be me.”" [ar066-0140]
+- "And that maybe someday, he'll be able to comfort himself when he really needs it, remembering how his dad and I used to when he was a kid." [ar069-0048]
+
+**But:** The parent does not report that comfort works every time: "Not every time I try to comfort my kid do I actually get through to him. That would be impossible." [ar069-0048]
+
+Posts: 1t9qrsa 1tvck84 1x75tkk
+
+### The parent is proud when their child handles other people with kindness or speaks up for themselves.
+
+3 of 81 posts.
+
+At two to three years, one child keeps trying to make a friend despite rejection, another confronts playground name-calling with parental coaching, and another says rough play hurt. The parents want kindness, resilience or the ability to insist that bodily boundaries be heard. One mother also describes standing up to family as a change from her own childhood fear.
+
+- "I was so impressed and proud of my son and how resilient he was. He kept choosing kindness and it paid off for him. He's only two, but I for some reason I felt very reassured that he's going to do well in life." [ar077-0086]
+- "He said “stop being mean to me, I’m not poopy pants, say sorry!”" [ar010-0106]
+- "she made a puppy yipping sound and said “use my big girl bark.”" [ar017-0072]
+- "I’m so beyond proud of my toddler for speaking up in the moment and telling me later when we were alone, but I’m also proud of myself from growing up from the little girl too afraid to speak up for herself into the mom putting all family niceties on the line to stand up for her daughter for the same damn thing." [ar017-0074]
+
+**But:** Speaking up did not initially make the adult listen: "He waved it off and said “what, that didn’t hurt you! You’re crazy!” Like she was being silly. I saw her get quiet and shrivel." [ar017-0071]
+
+Posts: 1uvipom 1vf9nvc 1vofzhu
+
+### The parent celebrates their child doing more of the practical work of caring for themselves or the home.
+
+4 of 81 posts.
+
+Three-year-olds clean toys and dishes, transfer laundry, begin using the potty or proudly show visitors an accessible closet. Parents describe prompts, modelling, a major reorganisation of storage or a pants-free toileting attempt. One mother’s daughter was born completely blind, and the successful potty use and correct pronouns matter especially to her.
+
+- "**After I implemented this plan, my child (and I honestly tips for THAT after the kid tips! ) now not only cleans up her toys EVERY TIME she even: Cleans her room, makes her bed, and washes her own dishes!!!**" [ar079-0054]
+- "My 3 year old heard the washing machine finish and I found him turning the laundry over into the dryer. He did this completely unprompted and yelled at me when I tried to help. I praised him for being such an awesome and helpful boy." [ar070-0098]
+- "I decided to bite the bullet and try the Porky Pig approach — i.e. no pants or diaper — and yeah! *Four pees on the potty!!*" [ar022-0145]
+- "We added toddler appropriate height hanging racks to our 3yo closet, and its literally become the highlight of her life right now." [ar049-0105]
+- "Its been two weeks since we did it and Grandma and Grandpa came to visit from australia, literally the moment they were through the front door she was dragging grandma up to her room to show her." [ar049-0106]
+
+**But:** Independence in one activity does not extend to another: "Then he refused anything other than cheese on his taco and would only try the chicken if I fed it to him." [ar070-0099]
+
+Posts: 1ugnrq0 1uyj0ha 1wvbw5x 1xcj4b1
+
+### The parent is delighted to discover that their child can enjoy time playing without them.
+
+2 of 81 posts.
+
+A newly-three-year-old plays alone at a splash pad for 20–30 minutes after usually insisting that the parent join in everywhere. A two-year-old quietly looks at a book in the crib while the parent has quiet time too. One parent describes shock, pride and relief; the other recognises a temperament shared with their own childhood.
+
+- "while I was feeding our 5 month old baby she went and played in the splash pad by herself!! For a solid 20-30 mins!!" [ar032-0073]
+- "I was shocked and so incredibly proud of her and honestly relieved. I didn't know she was capable of that." [ar032-0073]
+- "nope she was awake and looking through her new Halloween board book she begged me to let her bring into her crib for bed last night." [ar042-0093]
+- "But it just makes me giggle that she has her quiet time and I do too." [ar042-0094]
+
+**But:** The quiet morning is one part of the child’s behaviour: "Please note though that this child is also an absolute terror who demands "hot cakes" every Saturday morning" [ar042-0095]
+
+
+ succeeded in 17ms:
+# Form of a findings page and of her-words.md
+
+## A findings page: `~/GitHub/_research/<niche>/findings/<question>.md`
+
+Named for the research question its evidence file answers: `who-she-is.md`,
+`what-hurts-and-what-she-wants.md`, `what-she-buys.md`, `who-sells-to-her.md`. An evidence
+file that answers two questions gets one page, named for the main one.
+
+```
+# <Niche>: <the question, as a question>
+
+**Written:** <date> from `~/GitHub/_research/<niche>/evidence/<file>`.
+**Reviewed by the owner:** not yet
+
+## Limits
+
+<Three or four sentences, taken from the evidence file: where the posts come from, when,
+how many, how they were chosen. Then one bullet per thing the evidence cannot tell us,
+with its count.>
+
+## <Group, in the evidence file's order>
+
+### <The finding, as one plain claim about her>
+
+<N> of <M> posts.
+
+- "<quote, word for word>" [<id>]
+- "<quote, word for word>" [<id>]
+
+**But:** <what cuts against it, in one or two sentences.> "<quote>" [<id>]
+
+## Coverage
+
+<details>
+<summary>Every heading of the evidence file, and where it went</summary>
+
+| Evidence heading | Went to |
+|---|---|
+| <heading text, exactly> | <the finding's claim> / repeats <finding> / not about her: <what it is> |
+
+</details>
+```
+
+Rules of the form:
+
+- A finding's claim is a `###` heading, written so it can be read alone. `write-avatar`
+  points to it by this text.
+- The count line is the number of posts the evidence gives for that pattern, and what it
+  is out of: "595 of 2,471 posts." M is the on-niche posts of the sample for a pattern,
+  and the pattern's posts for a form inside a pattern; "Limits" says which sample.
+- Evidence from before November 2026 counts quotes. Its count lines read "473 quotes.",
+  or "41 quotes cited." where the evidence gives no number and the cited ids were
+  counted. Never set a quote count beside a post count.
+- One plain sentence may follow the count line when the count would mislead without it
+  (for example, that most of the posts under a heading are not from her).
+- Quotes are bullets: a straight double quote, her words exactly, a straight double quote,
+  a space, the id in square brackets. Mark a cut inside a quote with `[…]`.
+- Every finding has a **But:** line. When the evidence shows nothing against it, write
+  "**But:** nothing found against it."
+- Standing limits are said once, under "Limits", and not repeated under findings.
+- Figures from public statistics go under a last group, `## Public figures`, and have
+  their own form: the figure as a `###` claim, then one line
+  `Source: <publisher, year>; <file in the niche's statistics/ folder>.` and one line
+  saying which wider group the figure covers. They carry no quotes and no **But:** line,
+  and are never merged into a finding drawn from quotes.
+
+## `~/GitHub/_research/<niche>/her-words.md`
+
+Her phrases, word for word, for use in copy. From the common to the rare but sharp.
+
+```
+# <Niche>: her words
+
+**Written:** <date>. **Reviewed by the owner:** not yet
+
+## <Topic, e.g. "When she worries he is behind">
+
+- "<phrase or sentence>" [<id>] (<how often words like this appear: the finding's count, or "once">)
+```
+
+- Group by what she is talking about, using the findings' groups where they fit.
+- Keep her spelling, slang and half-finished sentences.
+- Terms from the niche's `evidence/jargon-glossary.md` (or the general one it names) go
+  under a last group, `## Her vocabulary`, as `- **term**: what it means, and how it
+  feels when used.` The glossary has no quote ids, so the group opens with one line naming
+  the glossary file it was taken from. Carry over its warnings about terms that harm copy.
+
+ succeeded in 27ms:
+#!/usr/bin/env python3
+"""Check the counts of a findings section merged from digests.
+  python3 -I _tools/verify_section.py <section.md> <yes posts> <near posts> [most words above Coverage, default 2500]
+The count lines under "## On-niche posts" must be "N of <yes> posts." and sum to <yes>;
+those under "## Near posts" likewise for <near>; "## Across the on-niche posts" must hold
+four findings counted out of <yes>; the page above "## Coverage" must be 2,500 words at most."""
+import re, sys
+t = open(sys.argv[1], encoding="utf-8").read(); yes, near = int(sys.argv[2]), int(sys.argv[3]); problems = []
+most = int(sys.argv[4]) if len(sys.argv) > 4 else 2500
+parts = re.split(r"^## (.*)$", t, flags=re.M); sec = {parts[i].strip(): parts[i + 1] for i in range(1, len(parts) - 1, 2)}
+def counts(name):
+    if name not in sec: problems.append(f'no "## {name}" section'); return []
+    out = []
+    for b in re.split(r"^### ", sec[name], flags=re.M)[1:]:
+        m = re.search(r"^(\d[\d,]*) of (\d[\d,]*) posts\.", b, re.M)
+        if not m: problems.append(f'"{b.splitlines()[0][:50]}": no count line'); continue
+        out.append(tuple(int(x.replace(",", "")) for x in m.groups()))
+    return out
+for name, total in (("On-niche posts", yes), ("Near posts", near)):
+    c = counts(name)
+    if any(m != total for _, m in c): problems.append(f"{name}: a count is not out of {total}")
+    if sum(n for n, _ in c) != total: problems.append(f"{name}: counts sum to {sum(n for n, _ in c)}, not {total}")
+c = counts("Across the on-niche posts")
+if len(c) != 4: problems.append(f"Across the on-niche posts: {len(c)} findings, not 4")
+if any(m != yes or n > yes for n, m in c): problems.append("Across the on-niche posts: a count is not out of the yes posts")
+words = len(t.split("## Coverage")[0].split())
+if words > most: problems.append(f"{words} words above Coverage, more than {most:,}")
+print(f"{sys.argv[1].split('/')[-1]}: counts " + ("OK" if not problems else "FAIL")); [print("  " + p) for p in problems]
+sys.exit(1 if problems else 0)
+
+ succeeded in 36ms:
+# baby-development
+
+Research on mothers of babies 0 to 24 months who want to know what to do with the baby at
+this age and whether the baby is on track. Collected October to November 2026 for the
+mamiVio baby-development funnel. A new round began 2026-11-18; `brief.md` describes it and
+names no product. The October brief is `_work/2026-10/brief.md`.
+
+**Where the October round is now:** `quotes/2026-10/`, `evidence/2026-10/`,
+`findings/2026-10/` (both findings pages and `her-words.md`) and `_work/2026-10/` (reading
+ledgers, the Reddit selection). Wherever this page says `quotes/`, `evidence/`, `findings/`,
+`her-words.md`, `_work/reddit-selection/` or `_work/reading-ledgers/` below, read it with
+`2026-10/` added. The new round's working files are in `_work/2026-11/`.
+Rules for all research: `../README.md`.
+
+## The round of November 2026: where it stands (2026-11-20)
+
+How it was run, step by step: `../_tools/README.md`.
+
+| Step | State |
+|---|---|
+| Random sample of 20,000 posts read and sorted | Done for birth to 48 months (2026-11-20): 3,811 on the niche, 8,476 near, 7,713 off. `evidence/2026-11/birth-to-48-months/counts.md`. The first pass stopped at 24 months by mistake (2,471 on the niche); 12,534 posts were read again |
+| Digests of each pattern | Done for birth to 24 months only: 20, in `evidence/2026-11/second-reading/` |
+| Findings sections, one per pattern | Done for birth to 24 months only, not reviewed: `findings/2026-11/patterns/` |
+| Findings page and her words | Written 2026-11-20 for birth to 24 months only, not reviewed: `findings/what-hurts-and-what-she-wants.md` (163 findings), `her-words.md` (247 phrases). The spec files the page was built from: `_work/2026-11/findings-build/` |
+| Avatar | Not written |
+| Still unread | 97,521 posts (10 April to 24 October), and all replies by people other than the poster (4.19 million downloaded, on disk only) |
+
+## Not usable for conclusions (marked 2026-11-18)
+
+The Reddit posts read for this niche were chosen by a word list we wrote ourselves
+(`_tools/history/shared/niche_filter.py`), and posts that mention buying, paid tools or
+brands were ranked first. Posts that describe the problem in other words were never seen.
+
+- **Still good:** the download. It is complete and has no keyword in it
+  (`../new-and-expecting-mothers/reddit/raw/reddit-2026/`), so nothing needs downloading
+  again. The quotes are real and checked word for word, so they can be used as her words.
+- **Not to be used:** the counts, the evidence file, and anything that says what is common
+  or central for her.
+- **What happens next:** the selection and reading are redone by the method being proven on
+  `baby-development` (random sample of everything first, word list from her words after).
+  Whether and when this niche is redone is the owner's decision.
+
+For this niche in detail: the brief named a candidate product, only about 1,785 of
+24,326 matched posts were read (the top-ranked group's last two months, then all posts
+first set aside for hard subjects), and the two findings pages and `her-words.md` rest on
+that reading. They are superseded and stay unreviewed.
+
+## What is here
+
+| Folder | What was collected | When | State |
+|---|---|---|---|
+| `ads/` | nothing in this niche's own folder | | Not collected here. The October 2026 Ad Library sweep for all mother-and-baby niches is in the niche-selection research (see "Paths" below). |
+| `books/` | An attempt at reader reviews for 9 books: store pages saved, but only 5 reviews found | 2026-10-25 | **Nearly empty.** Stores show few reviews; Amazon and Goodreads were not fetched. See `books/README.md` |
+| `competitors/` | 21 notes on sellers, from 57 saved pages (115 files) | 2026-10-25 | Done for this round; `not-harvested.md` lists what was skipped |
+| `reddit/` | 1,892 posts handed to readers out of the shared archive (723 in the first reading, 1,169 in the re-reading; April to October 2026) | 2026-10-25, re-read 2026-11-16 | 2,806 quotes. About 4,300 candidate posts still unread, see `reddit/reddit.md` |
+| `reviews/` | App Store and Google Play reviews of 9 apps, 177 complete reviews (165 files) | 2026-10-25 | 159 quotes |
+| `sales-letters/` | Old long-form sales letters from the Wayback Machine (553 files) | from 2026-11-03 | Captured and listed; notes per letter not written yet |
+| `youtube/` | nothing | | Not collected |
+| `statistics/` | Published figures on American first-time mothers, 17 saved sources | 2026-11-17 | 23 figures; most cover all mothers, not first-time mothers |
+| `forums/`, `marketplaces/`, `official-guidance/` | nothing | | Not collected in this niche. The niche-selection research in `../new-and-expecting-mothers/` has all three for the whole market |
+| `quotes/` | 2,970 quotes, one record each, in 12 files; `merged/all.jsonl` is a generated copy | | Every quote checked against its source |
+| `evidence/` | `evidence.md`: the quotes sorted under themes with conclusions (44,500 words, cites 1,086 quotes); `who-she-is.md`: the same quotes read for who she is (cites all 2,970); counts; readers' notes; the unfilter report | 2026-11-17 | Current |
+
+Findings (the short version), all written 2026-11-18 and not yet reviewed by the owner:
+`findings/who-she-is.md` from `evidence/who-she-is.md`;
+`findings/what-hurts-and-what-she-wants.md` from `evidence/evidence.md`; and
+`her-words.md`, her phrases from both pages.
+
+## The four questions
+
+| Question | Answered from | State |
+|---|---|---|
+| 1. Who is she, and what is her life like? | `evidence/who-she-is.md`, `statistics/` | **Partly answered (2026-11-17).** Her daily life, who has a say, what she believes and how she sees herself: answered from the quotes. Her age, income, education and country: the quotes say almost nothing; `statistics/` gives national averages for all mothers, not this buyer. mamiVio's own quiz data does not exist yet |
+| 2. What hurts, what does she want, and how does she say it? | `reddit/` | Answered; one source only |
+| 3. What is she buying, what does she pay, and how did it go? | `reviews/`, `books/` | Half answered. Reviews of 9 apps were read (159 quotes), but nobody first mapped what she spends on, so the apps were picked without it. Books: 5 quotes. Courses, classes, toys: nothing |
+| 4. Who is selling to her, and what is working? | `competitors/`, the Ad Library sweep, `sales-letters/` | Partly: competitors done, ads only in the shared sweep |
+
+## Reddit originals are not in this folder
+
+The Reddit posts were downloaded once for all mother-and-baby niches and five niches
+picked their posts from that one archive. It is kept once, at
+`../new-and-expecting-mothers/reddit/raw/reddit-2026/`. Every Reddit quote here points
+into it, so this folder cannot be checked without that one beside it. What this niche
+selected from the archive, and who read what, is in `_work/reddit-selection/` and
+`_work/reading-ledgers/`.
+
+## Checking the October round
+
+Run from this folder. The scripts already point at the `2026-10/` folders. All five must report the counts shown and no failures.
+
+```
+python3 -I _tools/check_ids.py                            2970 records, 0 duplicated
+python3 -I _tools/verify_quotes.py                        2970 quotes, 0 failed
+python3 -I _tools/verify_evidence_ids.py                  1086 ids cited, 0 unresolved; 1008 fragments, 0 failed
+python3 -I _tools/audit.py read-v1 read-w2 read-w3        723 assigned, 0 unexplained
+python3 -I _tools/verify_part.py quotes/2026-10 evidence/2026-10/who-she-is.md 0.05
+                                                          ids mentioned 2970, quotes reproduced 120; OK
+```
+
+`_tools/history/` holds the scripts and agent briefs used to collect and read this
+material. They are kept as a record and still use the old paths; they are not meant to
+be run from here.
+
+## Paths in older files
+
+This folder was moved here on 2026-11-17 from `ads/mamivio.com/research/development/`.
+The quote records, `evidence/evidence.md` and `brief.md` use the new paths. Notes, ledgers
+and logs written before the move are left as written and use the old ones:
+
+| Old path | Now |
+|---|---|
+| `_raw/<kind>/` | `<kind>/raw/` |
+| `_raw/reddit/` | `_work/reddit-selection/` |
+| `../_shared/_raw/reddit-2026/` | `../new-and-expecting-mothers/reddit/raw/reddit-2026/` |
+| `voice/`, `voice-merged/` | `quotes/`, `quotes/merged/` |
+| `synthesis/`, `synthesis/findings.md` | `evidence/`, `evidence/evidence.md` |
+| `sources/reddit-reading-*.md` | `_work/reading-ledgers/` |
+| `sources/` (other files) | the kind folder they describe, or `_work/sources/` |
+| `scratchpad/` | `_work/scratchpad/` |
+| `product/product-brief.md` | `brief.md` |
+| `../_shared/_tools/`, `_tools/` | `_tools/history/shared/`, `_tools/history/` |
+| `../global/`, `../main/` | `../new-and-expecting-mothers/` |
+
+## Quote schema
+
+Every record: `id` (prefix `dvNN-NNNN`, never reused), `source`, `url`, `date`, `speaker`, `stage`, `type`, `themes`, `quote` (verbatim, trims only with ` […] `), `context` (≤25 words), `raw_file` (relative to this folder; Reddit originals are in the shared archive, see below). Optional: `segment`, `source_class`, `engagement`. No usernames. No inference of age, gender or diagnosis.
+
+## Vocabulary
+
+Speakers: `new_mother`, `experienced_mother`, `recovered_parent`, `parent_unspecified`, `partner`, `relative_caregiver`, `advisor`, `professional`, `reviewer`, `skeptic`, `gave_up_parent`. Use `parent_unspecified` unless the author identifies as a mother.
+
+Stages: `newborn_0_8_weeks`, `baby_2_4_months`, `baby_4_6_months`, `baby_6_9_months`, `baby_9_12_months`, `toddler_12_18_months`, `toddler_18_24_months`, `looking_back`, `unknown`.
+
+Types: `trigger_moment`, `pain`, `fear`, `tried_failed`, `desire`, `belief`, `question`, `objection`, `advice_given`, `success_story`, `failure_story`, `regret`, `others_said`, `purchase`, `price_signal`. `purchase` = the author says they bought or paid for something for this problem; `price_signal` = what they say it was worth.
+
+Seed themes (agents may add; document additions in `evidence/reader-notes-*.md`): `what_to_do_all_day`, `awake_time`, `tummy_time`, `tummy_time_hate`, `floor_play`, `rolling`, `sitting`, `crawling`, `pulling_up`, `walking`, `first_words`, `babbling`, `fine_motor`, `milestone_comparison`, `milestone_anxiety`, `corrected_age`, `pediatrician_checkup`, `cdc_milestones`, `wonder_weeks`, `leaps`, `screen_time`, `toys_too_many`, `montessori`, `play_ideas`, `boredom_mum`, `maternal_guilt`, `not_enough_play`, `container_time`, `baby_classes`, `app_tracking`, `information_overload`, `conflicting_advice`, `reassurance_seeking`, `social_comparison`, `grandparent_comments`, `early_intervention_question`, `personalization`, `price_value`.
+
+The other side of the door: Grandparents and in-laws who compare; paediatricians and physios; parents who say 'babies just develop'; Montessori purists; buyers of apps who cancelled.
+
+# Evidence
+
+The round that began 2026-11-18 is in `2026-11/`: post counts by pattern from a random
+sample of 20,000 posts. Start at `2026-11/README.md`.
+The October 2026 round is in `2026-10/` and is superseded: its counts are of quotes from
+a skewed selection, see `../README.md`. Its own README is `2026-10/README.md`.
+# Niches
+
+One row per niche. Start here: the row tells you the niche, where its research is,
+which knowledge and voice go with her, and which brands sell to her.
+
+| Niche | Status | Research | Knowledge | Voice | Brands |
+|---|---|---|---|---|---|
+| `baby-development` | active | `~/GitHub/_research/baby-development/` | `knowledge/baby-development/` (not started) | not written yet | mamivio |
+| `sleep-baby` | parked | `~/GitHub/_research/sleep-baby/` | none | none | none |
+| `sleep-mother` | parked | `~/GitHub/_research/sleep-mother/` | none | none | none |
+| `toddler-behaviour` | parked | `~/GitHub/_research/toddler-behaviour/` | none | none | none |
+| `pregnancy-birth` | parked | `~/GitHub/_research/pregnancy-birth/` | none | none | none |
+| `new-and-expecting-mothers` | research only | `~/GitHub/_research/new-and-expecting-mothers/` | none | none | mamivio (niche selection) |
+
+Status is one of: active, parked (researched, not pursued now), dropped (with the reason
+in the avatar file), research only (a market-wide research folder, not a buyer).
+
+The niche name is used unchanged in three places: `library/avatars/<niche>/`,
+`~/GitHub/_research/<niche>/`, and this table. It does not change once research is
+filed under it. A new understanding of the buyer gets a new niche.
+
+## Definitions
+
+A niche is chosen by the owner from a map of a crowd (`playbooks/new-niche.md`, "The five
+steps of research"). Its definition is then one line, the subject and its range, with the counts
+behind it. It never says who she is or what her problem is: the deep reading finds the
+problem and the avatar says who she is. Before a map exists there is no niche to define,
+only a crowd to read. Every deep-reading brief copies the definition word for word, and
+`~/GitHub/_research/_tools/check_definition.py` refuses a brief that does not, or a
+definition the owner has not confirmed.
+
+### `baby-development`
+
+- **Subject:** The development of a child from birth to 48 months.
+- **Confirmed by the owner:** 2026-11-20. The owner set the range ("we are targeting 0 to 48 months"); it was not chosen from a map. Posts about older children are still recorded, as "near", so the counts can show what lies beyond 48 months.
+
+History: until 2026-11-20 the readings stopped at 24 months, a limit carried over from an
+older brief without asking the owner.
+
+codex
+I’m using the write-findings skill. The digest’s on-niche forms include some infant posts despite this section’s age label; I’ll keep the supplied forms and counts intact and make that limitation clear.
+
+exec
+/usr/bin/zsh -lc "sed -n '201,440p' baby-development/evidence/2026-11/age-reread/digest-10.md" in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+Posts: 1v2pxwl 1vvbxxi
+
+### The parent enjoys the games, music and shared interests their child can now join.
+
+9 of 81 posts.
+
+Across ages two to almost four, parents describe debate games, family running games, model-building, songs, sports and elaborate playful bedtime routines. Some delight in recognising a shared musical taste or seeing a child join an adult hobby. Others describe the comic disruption when new skills produce early-morning singing, trumpet practice or rituals that keep accumulating.
+
+- "The push fit models mean that (especially for power packs) my little nearly 4 year old monkey can help snip and build the whole thing, and it's been absolutely lovely being able to spend the day doing my thing with her joining in when she wanted to." [ar012-0082]
+- "For a good 10-15 minutes, the four of us were just running around the basement and laughing together." [ar040-0052]
+- ""Daddy loves this song" "I love it too" "thanks buddy" :')" [ar022-0035]
+- "And I feel like this is a perfect introduction to critical thinking!" [ar015-0002]
+- "We build Thomas the Tank Engine tracks together every day, roleplay characters from his favourite shows, and lately he’s gotten really into board games and charades." [ar045-0050]
+- "We tried random things sometimes to make bedtime more fun so he wouldn’t fight it, but now it’s resulted in some pretty ridiculous practices. Whatever works though, right??" [ar067-0117]
+- "My 2.8 year old keeps singing a song that’s low-key a banger..and I cannot tell if it’s an original or she picked it up somewhere!" [ar024-0065]
+
+**But:** A new musical skill can overwhelm the parent: "My husband saw I was overstimulated and took our son outside for them to practice" [ar080-0028]
+
+Posts: 1scxstq 1sgojez 1tbxvyy 1tejf86 1ubysa0 1vbbdi2 1vogwzv 1w40ip9 1w9ajcy
+
+### The parent feels sad about leaving babyhood behind as their child grows.
+
+4 of 81 posts.
+
+Parents of two-year-olds describe a child giving up a sleep sack, switching from “Dada” to “Dad,” getting a first haircut or simply turning two. They report heartbreak, being unready, tears or sadness about the end of babyhood. One asks for reasons to look forward to the coming stage and its milestones.
+
+- "And then tonight I tried to put it on and she said no. So I guess that’s that. Now that she’s getting older, every little thing that she used to do as a baby that suddenly stops is breaking my heart 😂" [ar078-0002]
+- "Kid hit me with Dad today and it hit me hard. Not ready for that yet 😂. They grow way to fast." [ar075-0066]
+- "I'm Tearing Up - my 2.5 yo daughter just got her first haircut." [ar004-0125]
+- "My baby just turned two and I did not expect to feel so depressed about it! She's a hilarious, vivacious toddler that keeps me laughing all day long, but I suddenly got sad about her not being a "baby" anymore." [ar054-0119]
+
+**But:** The parent mourning babyhood also enjoys the toddler in front of them: "She's a hilarious, vivacious toddler that keeps me laughing all day long" [ar054-0119]
+
+Posts: 1sojvz8 1tjzuax 1wlmpkl 1x59ia1
+
+### The parent deliberately looks for what is good in a toddler stage they also find hard.
+
+2 of 81 posts.
+
+One parent of a three-year-old shares the small treasures left around the house after frequently seeking reassurance about difficult behaviour. Another follows their mother’s advice to call the stage the “terrific twos” and frame it as growth. Both describe the difficulty as continuing alongside the good moments.
+
+- "I feel like I’m constantly looking on Reddit “Will my 3 year old always be this way?”." [ar027-0046]
+- "My favorite part of this 3 year old is what you find lying around the house. Check a backpack, it’s got heels, a book, 3 hot wheels, and a pouch." [ar027-0048]
+- "It’s definitely helped me reframe it to more growth and brain development and getting the two year molars is a lot and it’s amazing and terrific to see." [ar051-0042]
+
+**But:** Looking for the good does not remove the strain: "Every single day feels like a battle, uphill, downhill, sideways hill, every hill between my 3 year old, 1 year old, and 2 working parents." [ar027-0045]
+
+Posts: 1tsf9rx 1u30i32
+
+### The parent laughs at the odd and messy things their child does.
+
+4 of 81 posts.
+
+The two infant posts concern a two-month-old’s burps, farts and spit-up, and an eight-month-old’s forceful diaper-change accidents. The toddler posts describe a two-year-old putting a rock up their nose and a three-year-old enthusiastically eating candy corn. The parents recount amusement, surprise or mock horror rather than a new skill to teach.
+
+- "Then yesterday i was telling him to get ready to burp and as i move him to pat position, he blast a fart right through my hand lmfaooooo like i was dyinngggg and dont get me started on his poop faces lol" [ar012-0146]
+- "My 8 month old girl is an absolute feat of physics. Since she arrived earth side, she has proven to be a highly pressurized system capable of launching poop and pee a distance of up to 51 inches (yes, she’s a girl, and yes, I’ve measured). But only for her dad." [ar027-0147]
+- "Today my 3 year old told me she loves candy corn as she blithely shoved them in her mouth, ignoring the horror on my face." [ar073-0139]
+- "And it cracks me up because she's...more advanced... we'll say, than my boys were at this age." [ar041-0150]
+
+**But:** The nose incident also involved removal and an unpleasant reaction: "No worries we got it out after a quick blow (and about 30min of me dry heaving) and no tears were shed until I threw her snot treasure in the trash." [ar041-0150]
+
+Posts: 1vg5k64 1wwaxxe 1x3cs14 1xarp59
+
+## Pattern 8, share 10: near posts
+
+### The parent feels sad about leaving babyhood behind as their child grows.
+
+1 of 17 posts.
+
+This parent describes an unexpected request for swing-pushing as possibly the last one, with the children’s ages unknown. They recall bedtime stories and carrying the children while also looking forward to new activities together. The post contains both pride and fear about the transition.
+
+- "This is very possibly the last time he'll ever ask me to push him on the swing. He's growing so fast." [ar010-0016]
+- "I'm not an very emotional guy but I honestly teared up writing it down. Surprised myself." [ar010-0020]
+- "Exactly. I think I've become more aware that as they are getting to this point in their lives, we're leaving behind allot." [ar010-0023]
+
+**But:** The parent also anticipates new pleasures: "The closing of one chapter but the beginning of another, very exciting chapter." [ar010-0024]
+
+Posts: 1sj0ygo
+
+### The parent finds that reading with their child brings up grief about someone who died.
+
+1 of 17 posts.
+
+A child of unknown age reads a school-library book to the parent, whose own father died 19 years earlier. The story brings up sadness about the grandparent missing milestones, and the child offers a hug. The parent later talks and cries with their wife and recommends the book.
+
+- "My daughters school takes them to the library once a week for a new book. This week, my daughter wanted to sit and read the book to me. Awesome, I love to cuddle up with a story and watch her reading improve." [ar076-0047]
+- "At the end my daughter could see I was a bit teary eyed and gave me a huge hug." [ar076-0049]
+- "It's always hurt not having him there for those milestones." [ar076-0049]
+- "Highly recommend the book to anyone who's experienced loss, kids and adults alike. Sometimes we just need a good cry." [ar076-0050]
+
+**But:** nothing found against it.
+
+Posts: 1systis
+
+### The parent is proud of their child’s effort and progress in learning.
+
+4 of 17 posts.
+
+These four posts concern children whose ages are unknown: meeting self-chosen goals, travelling to school, performing in a talent show and improving across a school year. Parents describe supporting practice, allowing ownership, speaking with a teacher or buying a reward. The achievements include persistence, academic work, friendships and confidence.
+
+- "What made the difference: THEY picked the goals, not me. We talked about WHY they wanted to do these things. They tracked their own progress. We just supported them." [ar075-0044]
+- "I used to stress about "giving them everything." But watching these two hold on tight every single morning , no complaints, just focus  reminded me that the drive to learn isn't something you buy, It's something you build." [ar068-0022]
+- "Leading up to the show, I practiced with kiddo and she got her lines down for her song and everything and on the day of the show she did such a good job!" [ar024-0028]
+- "My son improved during this past school year.  He excels at math, reads more, has made good friends, has grown in confidence both among his peers and his interactions with teachers and other adults, is emotionally aware, and overall has made great strides coming into his own.  I am so very proud of him." [ar010-0079]
+- "As a reward for his hard efforts, I bought him Skyrim for his Switch." [ar010-0080]
+
+**But:** The performance is described as enjoyable rather than flawless: "She was a little stiff, but she had a good time doing the rehearsals with her friends and being part of the show so I'm happy!" [ar024-0028]
+
+Posts: 1t22cpy 1t5a7kt 1tbn5wu 1u285h3
+
+### The parent loves raising this child but is uncertain about having another.
+
+2 of 17 posts.
+
+One parent with a nine-month-old describes an easy baby alongside lasting distress about pregnancy and birth, making another pregnancy frightening. Another with a three-and-a-half-year-old wants another child while their husband feels fulfilled with one. They describe fear, disagreement, time pressure and the possibility of resentment rather than an answer supplied by delight in the existing child.
+
+- "I am nine months postpartum with the absolute best baby in the world. She is the light of my world and an absolute unicorn. Good sleeper, happy, zero sleep regressions, etc." [ar035-0092]
+- "I was told it would all leave my mind after she was born- but I did not." [ar035-0094]
+- "I love watching my daughter grow and become her own person. It sounds amazing to experience that with another child too." [ar081-0100]
+- "There is no compromise here. Someone is going to have to sacrifice." [ar081-0103]
+
+**But:** The existing child’s father experiences satisfaction as a reason to stop: "He feels he's getting everything out of the parent experience with the one." [ar081-0099]
+
+Posts: 1ury3ra 1vvjnf4
+
+### The parent celebrates their child following a safety lesson they have repeated.
+
+1 of 17 posts.
+
+The parent of a preschooler of unknown exact age describes teaching the child to exchange found pills for candy. They explain the danger, repeat the message around medication and report success when the child finds a relative’s heart pill. The success is accompanied by fear about what could have happened.
+
+- "When you find a pill, bring it to me and I'll give you candy!" [ar054-0050]
+- "It was a heart pill Granny left, and LO knew just what to do." [ar054-0051]
+- "I emphasize that it's medicine for me but could hurt them or the pets, so bring pills to me and get a reward." [ar054-0051]
+- "And IT WORKED!! I'm so frazzled that LO could have eaten it and I would have no idea what was wrong until it was too late.  😭" [ar054-0052]
+
+**But:** The result followed a long period of teaching: "My LO is a preschooler now, but it took 2.5 years for this advice to work, so now I pass it on:" [ar054-0049]
+
+Posts: 1uvvxnn
+
+### The parent celebrates a bedtime change that helps their child settle or sleep.
+
+3 of 17 posts.
+
+A two-year-old adapts over three nights after the parents discard the pacifier and offer comfort objects and check-ins. A three-year-old starts sleeping without the parent because she thinks they smell, while an almost-four-year-old falls asleep during a parent’s history explanation. Parents share surprise, humour and a memory they want to keep.
+
+- "Second night, he whined for 5 minutes, then laid there and eventually fell asleep." [ar029-0051]
+- "Third night, he whined for 2 minutes, then went to sleep." [ar029-0052]
+- "Come to find out she thinks I smell and she’s no longer afraid to sleep alone." [ar080-0091]
+- "She looks at me and says “mommy, are you telling me a story, I’m getting sleepy”" [ar072-0059]
+- "This is a win for me because I’m going to keep this funny and sweet memory with me forever. The look on her face as she’s trying to stay awake to my lecture cracks me up." [ar072-0060]
+
+**But:** The pacifier change was not effortless on the first night: "He was so upset for about 2 hours (we came and checked in and gave him the spiel). He woke up again later (same thing)." [ar029-0050]
+
+Posts: 1ux51r8 1vwpji0 1w0j5fl
+
+### The parent feels loved, trusted or chosen when their child shows affection or seeks them out.
+
+1 of 17 posts.
+
+A parent’s two-and-a-half-year-old has just begun saying “I love you.” The parent reports an unusually strong emotional response and asks how to manage it. Their concern is that the reaction could worry or discourage the child.
+
+- "My son (2.5 yrs) just started saying 'I love you' to me from this weekend." [ar018-0099]
+- "And it has turned me into an emotional wreck!" [ar018-0100]
+- "I keep getting all teary and emotional, it's absolutely messing with me." [ar018-0101]
+
+**But:** The affection creates a concern about the parent’s own response: "I don't want to worry him or discourage him." [ar018-0103]
+
+Posts: 1v2wh81
+
+### The parent marvels at what their child can remember, understand or create.
+
+2 of 17 posts.
+
+Two parents, with the children’s ages unknown, share a child’s creative work. One is surprised by an AI-assisted web app; the other has the child decorate shoes each year and sees drawing progress through these keepsakes. The posts express enjoyment and pride without establishing the children’s ages or independent mastery of a tool.
+
+- "I honestly thought he meant a drawing or something from school. Instead, he pulled out his Chromebook and showed me this little web app he'd built with AI:" [ar050-0052]
+- "Made me smile. Curious if anyone else's kids have started getting into AI lately." [ar050-0054]
+- "Every year since I get him to doodle on a pair. It is cool to see his progression and makes for a great keepsake." [ar033-0095]
+
+**But:** nothing found against it.
+
+Posts: 1v546dr 1vu0cru
+
+### The parent celebrates feeding progress after a difficult beginning.
+
+1 of 17 posts.
+
+A parent of a ten-week-old reports doubled birth weight at a lactation appointment before returning to work. They describe initial weight loss, delayed milk arrival, triple feeding and a painful latch with a nipple wound. Pride in the baby and themselves accompanies a continuing personal feeding goal.
+
+- "Went to an IBCLC appointment today in preparation for going back to work in 2 weeks. My ebf LO is currently 10 weeks and has somehow doubled his birth weight! From 8 lbs 1 oz to 16 lbs 3 oz." [ar009-0057]
+- "From losing 14% of initial birth weight due to milk not coming until day 5, triple feeding the first 2 weeks, shallow latch, letdown that hurts more than unmedicated birth itself, open wounded nipple that didn’t heal for 5 weeks to now a somewhat successful breastfeeding journey." [ar009-0058]
+- "So proud of my LO but also so proud of myself." [ar009-0058]
+
+**But:** The parent qualifies the success and still has a goal ahead: "Fed is definitely best! But I have a goal for me and my babe and I’m sticking with it." [ar009-0058]
+
+Posts: 1v5t7ou
+
+### The parent enjoys their child’s growing skills but struggles to keep caring for themselves.
+
+1 of 17 posts.
+
+The parent of a two-and-a-half-year-old enjoys the child’s humour, full sentences and toileting independence. They also describe exhaustion and a short-lived improvement in exercise and eating that is derailed by difficult toddler days and work. They ask others about maintaining routines through these changes.
+
+- "He’s potty trained and speaks in full sentences now so it feels like we have a whole kid these days." [ar042-0066]
+- "The rest of the time I just feel exhausted and like I’m just surviving and on autopilot." [ar042-0067]
+- "The past 2 weeks I got into a fairly good workout routine and was on good track with healthy eating, then I had a few “terrible two” type days with my little one and a long day at work, and it derailed all the progress I had made." [ar042-0068]
+
+**But:** There are also days when the parent feels things are working: "I feel like I have a few good days out of the month where I can balance taking care of myself, feel like a super mom and feel very harmonious with my husband." [ar042-0067]
+
+Posts: 1vl295s
+
+## Pattern 8, share 10: across the yes posts
+
+| Tag | Posts |
+|---|---|
+| tried | 62 of 81 |
+| others | 32 of 81 |
+| bought | 2 of 81 |
+| feeling | 60 of 81 |
+
+Counts describe posts in this supplied share of the random 20,000-post sample, not how common these experiences are among parents. All 81 yes and 17 near posts were read; none remain unread or were excluded. Each post has one form within its supplied section.
+
+Each post was also tagged yes or no for all four tags. “Tried” includes parenting activities, conversations and arrangements already made; “others” covers people other than the focal child; “bought” requires an explicit purchase or payment statement. “Feeling” includes emotions, emotional appraisals and reactions stated in words, including tears or laughter, but not an emoji or “lol” alone. Unknown ages and speaker characteristics remain unknown.
+
+### What they tried, in their words
+
+- "We started buying the learning books so he loves to trace. That is really what got him going." [ar061-0025]
+- "So my son is almost 2.5 and is speech delayed. He’s been in speech therapy for 9 months now and has made amazing progress." [ar033-0046]
+- "we’ll finally start speech therapy in 2 weeks, and I’m really looking forward to it." [ar036-0006]
+- "When that stopped worked the deal became: no new toys, no games/playing with parents, and no TV until she picked it up. No arguing no fussing but I held HARD to the rule." [ar079-0061]
+- "I decided to bite the bullet and try the Porky Pig approach — i.e. no pants or diaper — and yeah! *Four pees on the potty!!*" [ar022-0145]
+- "then I got better about going to take a breather when I was getting overwhelmed." [ar038-0045]
+- "I have this small habit with my son that I didn't think much of until recently. I told him that when the sun wakes up — at the same time as him — he can yell "Mom, mom!" from his bed in the morning, and I'll come get him. So now I always come when he calls. Works about 9 times out of 10 (toddlers gonna toddler)." [ar070-0152]
+- "I kissed her head and said “mommy will talk to papa for you, but next time, you just tell him ‘That’s too rough, papa!’” And we practiced." [ar017-0072]
+- "We \*kinda\* used a dog training method in that we offered him a small amount of a high-value treat, and for every single piece, he'd have to say "please"." [ar073-0094]
+- "We tried random things sometimes to make bedtime more fun so he wouldn’t fight it, but now it’s resulted in some pretty ridiculous practices. Whatever works though, right??" [ar067-0117]
+
+### What other people told them or did
+
+exec
+/usr/bin/zsh -lc 'cat /home/thinkpad/GitHub/_home/.agents/skills/write-findings/check_findings.py' in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+#!/usr/bin/env python3
+"""Check a findings page or her-words.md.
+  python3 -I check_findings.py <page.md> --quotes <quotes dir> [--quotes <dir>] [--evidence <file>]...
+Every "quote" [id] must be word for word inside the record with that id; every finding must
+have a count line, a quote and a But line; with --evidence, every heading of each evidence
+file must appear in the page's Coverage section."""
+import glob, json, os, re, sys
+a = sys.argv[1:]; page = a[0]; qdirs = []; evidence = []
+i = 1
+while i < len(a):
+    if a[i] == "--quotes": qdirs.append(os.path.expanduser(a[i + 1])); i += 2
+    elif a[i] == "--evidence": evidence.append(os.path.expanduser(a[i + 1])); i += 2
+    else: sys.exit(f"unknown argument {a[i]}")
+if not qdirs: sys.exit("give at least one --quotes folder")
+def norm(s):
+    for x, y in (("’", "'"), ("‘", "'"), ("“", '"'), ("”", '"'), ("\\n", " "), ("\\", "")): s = s.replace(x, y)
+    return re.sub(r"\s+", " ", s).strip().lower()
+rec = {}
+for d in qdirs:
+    for f in sorted(glob.glob(os.path.join(d, "*.jsonl"))):
+        for l in open(f, encoding="utf-8"):
+            if l.strip(): r = json.loads(l); rec[r["id"]] = norm(r["quote"])
+if not rec: sys.exit("no quote records found")
+t = open(page, encoding="utf-8").read(); L = t.split("\n")
+ID = r"([a-z]{2,}[0-9]{1,3}-[0-9]{3,5})"; problems = []; pairs = []
+group = ""
+for n, l in enumerate(L, 1):
+    if l.startswith("## "): group = l[3:].strip()
+    if re.match(r'^\s*[-*] "', l) and not re.search(r"\[" + ID + r"\]", l) and group not in ("Her vocabulary", "Public figures"):
+        problems.append(f"line {n}: quote without a quote id")
+    m = re.match(r'^\s*[-*] "(.+)" \[' + ID + r"\]", l)
+    found = [(m.group(1), m.group(2))] if m else re.findall(r'"([^"\n]+)" \[' + ID + r"\]", l)
+    for q, i_ in found: pairs.append((n, q, i_))
+for n, q, i_ in pairs:
+    if i_ not in rec: problems.append(f"line {n}: id {i_} is not in the quote files"); continue
+    parts = [x for x in re.split(r"\s*\[…\]\s*|\s*\[\.\.\.\]\s*", q) if x.strip()]
+    if not all(norm(x).rstrip(".,;") in rec[i_] for x in parts): problems.append(f"line {n}: not word for word from {i_}")
+for i_ in set(re.findall(r"\[" + ID + r"\]", t)):
+    if i_ not in rec: problems.append(f"id {i_} is not in the quote files")
+is_words = os.path.basename(page) == "her-words.md"
+if "**Reviewed by the owner:**" not in t: problems.append('no "**Reviewed by the owner:**" line')
+findings = 0
+if not is_words:
+    if not re.search(r"^## Limits\s*$", t, re.M): problems.append('no "## Limits" section')
+    blocks = []
+    for g in re.split(r"^## ", t, flags=re.M)[1:]:
+        gname = g.split("\n")[0].strip()
+        for b in re.split(r"^### ", g, flags=re.M)[1:]: blocks.append((gname, b))
+    for gname, b in blocks:
+        name = b.split("\n")[0].strip(); body = b; findings += 1
+        if gname == "Public figures":
+            if not re.search(r"^Source: .+", body, re.M): problems.append(f'"{name}": public figure without a Source line')
+            continue
+        if not re.search(r"^\d[\d,]* (of [\d,]+ posts|quotes?( cited)?)\.", body, re.M): problems.append(f'"{name}": no count line')
+        if not re.search(r'" \[' + ID + r"\]", body): problems.append(f'"{name}": no quote')
+        if "**But:**" not in body: problems.append(f'"{name}": no But line')
+    if not blocks: problems.append("no findings (### headings)")
+if evidence:
+    cov = t.split("## Coverage", 1)[1] if "## Coverage" in t else ""
+    if not cov: problems.append('no "## Coverage" section')
+    heads = [re.sub(r"^#+\s*", "", l).strip() for e in evidence for l in open(e, encoding="utf-8") if re.match(r"^#{2,3} ", l)]
+    missing = [h for h in heads if h not in cov]
+    if cov and missing: problems.append(f"{len(missing)} evidence headings not in Coverage, e.g. {missing[:3]}")
+print(f"{os.path.basename(page)}: findings {findings}, quotes checked {len(pairs)}, words {len(t.split())}; " + ("OK" if not problems else "FAIL"))
+for p in problems[:25]: print("  " + p)
+sys.exit(1 if problems else 0)
+
+exec
+/usr/bin/zsh -lc "ls -ld baby-development/findings/2026-11/patterns-2-3-years; rg '"'^#{2,3} '"' baby-development/evidence/2026-11/age-reread/digest-10.md" in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+drwxrwxr-x 2 thinkpad thinkpad 4096 Nov 20 19:16 baby-development/findings/2026-11/patterns-2-3-years
+## Pattern 8, share 10: yes posts
+### The parent celebrates speech progress after having worried about how little their child could say.
+### The parent marvels at what their child can remember, understand or create.
+### The parent enjoys the surprising words and explanations their child uses to make sense of the world.
+### The parent hears familiar people and phrases coming back through their child.
+### The parent laughs when their child talks back or finds a way around an instruction.
+### The parent enjoys the imaginary worlds and unexpected uses their child gives ordinary things.
+### The parent feels loved, trusted or chosen when their child shows affection or seeks them out.
+### The parent is moved when their child notices distress and tries to comfort someone.
+### The parent sees their child beginning to understand and manage feelings through their conversations and example.
+### The parent is proud when their child handles other people with kindness or speaks up for themselves.
+### The parent celebrates their child doing more of the practical work of caring for themselves or the home.
+### The parent is delighted to discover that their child can enjoy time playing without them.
+### The parent enjoys the games, music and shared interests their child can now join.
+### The parent feels sad about leaving babyhood behind as their child grows.
+### The parent deliberately looks for what is good in a toddler stage they also find hard.
+### The parent laughs at the odd and messy things their child does.
+## Pattern 8, share 10: near posts
+### The parent feels sad about leaving babyhood behind as their child grows.
+### The parent finds that reading with their child brings up grief about someone who died.
+### The parent is proud of their child’s effort and progress in learning.
+### The parent loves raising this child but is uncertain about having another.
+### The parent celebrates their child following a safety lesson they have repeated.
+### The parent celebrates a bedtime change that helps their child settle or sleep.
+### The parent feels loved, trusted or chosen when their child shows affection or seeks them out.
+### The parent marvels at what their child can remember, understand or create.
+### The parent celebrates feeding progress after a difficult beginning.
+### The parent enjoys their child’s growing skills but struggles to keep caring for themselves.
+## Pattern 8, share 10: across the yes posts
+### What they tried, in their words
+### What other people told them or did
+### What they bought or paid for
+### How they say they feel
+
+exec
+/usr/bin/zsh -lc "sed -n '440,510p' baby-development/evidence/2026-11/age-reread/digest-10.md; test "'! -e baby-development/findings/2026-11/patterns-2-3-years/pattern-08.md' in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+### What other people told them or did
+
+- "So ill got first. I was SO anxious about my son being verbally behind because at 18 months he spoke maybe 8 words or so. Abd some people expressed he should have more and he was fallign behind the average." [ar055-0009]
+- "He just turned 2.5 and 3 people in the last 24hours have asked how old he was and were in shock he was only 2.5 and commented how well and clearly he spoke for his age because he can carry out full convos now and is super clear when he speaks. Makes my mom heart so happy to hear people amazed by his verbal skills rather than concerned about it like they were a year ago 🥹" [ar055-0010]
+- "My mom said when we hit 2 that people would immediately call all “bad” behavior the terrible twos and she said to immediately correct that to the terrific twos because it’s just another phase of growth and we’re speaking blessings over our toddler and not curses." [ar051-0042]
+- "My husband saw I was overstimulated and took our son outside for them to practice" [ar080-0028]
+- "The older boy kept kind of picking on him and taunting him, but we let them go." [ar077-0084]
+- "The grandma agreed and said “well that’s what you get!” The children apologised feeling quiet embarrassed," [ar010-0107]
+- "He waved it off and said “what, that didn’t hurt you! You’re crazy!” Like she was being silly." [ar017-0071]
+- "She agreed and said she would talk with him." [ar017-0073]
+- "Plus got a couple of loose new boyz from my local shop as part of their midnight launch for us to put together and paint for their Orktober display." [ar012-0083]
+
+### What they bought or paid for
+
+Only two posts explicitly report buying. These five excerpts cover their purchases, quantities and use; the drawing paper is mentioned as use alongside the bought books, without an explicit purchase claim. Gifts, free models, existing toys and unnamed costs are not counted as purchases.
+
+- "We started buying the learning books so he loves to trace. That is really what got him going." [ar061-0025]
+- "His mom and I will draw things on blank paper for him to color in or trace and we have been going through paper like crazy!" [ar061-0025]
+- "I used printable sticky glossy photo paper I go for like $6 a pack at Walmart" [ar079-0055]
+- "(Note it took 2 packs for ALL of her shiz cause there is only 10 pages in a pack)." [ar079-0055]
+- "I ordered a bulk drawer organizing set off of Amazon for like $20 and it did my whole house." [ar079-0066]
+
+### How they say they feel
+
+- "I nearly cried. He’s been talking a lot more lately and that was the best gift I could have ever received." [ar033-0049]
+- "I just wanted to share how proud I am of these little baby steps in his speech development ❤️" [ar036-0008]
+- "I was shocked and so incredibly proud of her and honestly relieved. I didn't know she was capable of that." [ar032-0073]
+- "She had a host of health problems and while it wasn't unexpected it happened really fast and not in the peaceful way I had intended and I'm really struggling." [ar038-0032]
+- "I was smiling, but I couldn’t help feel a little gutted just thinking about all the things the real world has to throw at her. Just pure innocence. Deep down, I truly wish she could just live out her fantasy without a care for the world!" [ar040-0009]
+- "Now that she’s getting older, every little thing that she used to do as a baby that suddenly stops is breaking my heart 😂" [ar078-0002]
+- "I’ve carried *so much guilt* over the fact that I don’t get to spend enough time with her. Worried that I’m failing her by not being able to give her all of the extra support I know she deserves." [ar022-0144]
+- "Ive never been more proud and more in love with him. What a fucking guy." [ar049-0080]
+- "I’m just really grateful, man. Being a dad is so much fun. ❤️" [ar045-0052]
+- "My baby just turned two and I did not expect to feel so depressed about it!" [ar054-0119]
+- "And that was the greatest sense of relief I’ve ever felt in my life." [ar007-0146]
+
+codex
+The digest has 16 distinct on-niche forms and 10 near forms; I don’t see any that need merging. Their counts sum to 81 and 17. The four tag totals are 62 tried, 32 others, 2 bought, and 60 feeling.
+
+exec
+/usr/bin/zsh -lc "python3 -I - <<'PY'
+from pathlib import Path
+import re
+src = Path('baby-development/evidence/2026-11/age-reread/digest-10.md').read_text()
+parts = re.split(r'"'^## (.+)$'"', src, flags=re.M)
+groups = []
+for k in range(1,len(parts),2):
+    forms=[]
+    chunks=re.split(r'"'^### (.+)$'"',parts[k+1],flags=re.M)
+    for j in range(1,len(chunks),2):
+        body=chunks[j+1]
+        qs=re.findall(r'"'^- "(.+)" '"\\[(["'^'"\\]]+)\\]"'$'"',body,re.M)
+        but=re.search(r'"'^'"\\*\\*But:\\*\\* (.+)"'$'"',body,re.M)
+        forms.append(dict(heading=chunks[j],body=body,quotes=qs,but=but.group(1) if but else None))
+    groups.append((parts[k],forms))
+
+def Q(form,n,excerpt=None):
+    q,i=form['quotes'][n]
+    if excerpt is not None:
+        assert excerpt in q,(i,excerpt)
+        q=excerpt
+    return '- \"'+q+'\" ['+i+']'
+
+def B(form,prose,quote,id):
+    assert quote in form['body'], (id,quote)
+    return '**But:** '+prose+'\\n\\n- \"'+quote+'\" ['+id+']'
+
+# Each tuple selects whole forms and keeps their supplied counts unchanged.
+yes_specs=[
+(2,'The parent enjoys the surprising explanations their child gives the world.','Body questions, literal meanings and unexpected descriptions make parents laugh.',[(0,None),(3,None)],'Language can still be difficult.','Currently have a 2.5yo and we’re struggling with “me” and “you” words.','ar021-0107'),
+(12,'The parent enjoys games, music and interests they can share with their child.','Children join family games, adult hobbies and increasingly elaborate bedtime play.',[(1,None),(4,None)],'Music can overwhelm the parent.','My husband saw I was overstimulated and took our son outside for them to practice','ar080-0028'),
+(5,'The parent enjoys the imaginary worlds their child builds from ordinary things.','Invented animals, future offices, nests and games bring amusement and sometimes concern.',[(0,None),(1,None),(6,None)],'One parent cannot explain the game’s origin.','It’s adorable, but also concerning. Very unclear where he learned about crucifixion.','ar055-0125'),
+(0,'The parent celebrates speech progress after worrying about how little their child could say.','Small combinations and fluent conversations both matter after earlier worries or delay.',[(0,None),(2,None)],'Progress does not mean the delay has resolved.','He’s still quite behind with expressive speech, but we’ll finally start speech therapy in 2 weeks, and I’m really looking forward to it.','ar036-0006'),
+(1,'The parent marvels at what their child remembers, understands or creates.','Memory, drawing, writing and translation surprise parents; some ask whether the ability is common.',[(0,None),(2,None)],'Verbal ability does not establish emotional maturity.','I agree with him not receiving grace, mostly by older kids because he’s acting like them verbally, but social/emotionally, still very much a toddler','ar064-0006'),
+(4,'The parent laughs when their child talks back or gets around an instruction.','Contradictions, inventive manners and literal workarounds amuse parents while leaving the original problem unresolved.',[(1,None),(3,None)],'A clever explanation can follow painful behaviour.','When did kids get this smart? My 3 year old just slapped me really hard across the face, when I asked him why he slapped me, his response was \" I didn\\'t slap you daddy, I just high fived your face\"','ar022-0138'),
+(6,'The parent feels loved when their child chooses or trusts them.','Thanks, requests for help and wanting their company make small moments feel significant.',[(0,None),(1,None)],None,None,None),
+(3,'The parent hears familiar people and phrases coming back through their child.','Children copy siblings, books and adult habits, then give the words unexpected uses.',[(0,None),(2,None)],'The imitation can also unsettle the parent.','Cute, yes. Also mildly alarming, because now I am hearing myself through this very small echo.','ar045-0059'),
+(7,'The parent is moved when their child notices distress and offers comfort.','Children respond to grief, fear, hunger or a crying sibling; one father describes empathy despite limited speech and movement.',[(0,None),(3,None)],'The child’s concern can need soothing too.','he didnt stop sobbing until she did, despite me hugging him tightly and explaining she was fine, she just doesnt know how to tell us what she wants yet.','ar049-0079'),
+(10,'The parent celebrates their child doing more to care for themselves or the home.','Laundry, cleanup, accessible storage and potty use bring pride, including for a mother whose daughter was born blind.',[(1,None),(2,None)],'Independence varies by activity.','Then he refused anything other than cheese on his taco and would only try the chicken if I fed it to him.','ar070-0099'),
+(13,'The parent feels sad as their child leaves babyhood behind.','New names, a haircut, a birthday or abandoning a sleep sack can feel like losses.',[(1,None),(2,None)],'Sadness coexists with enjoying the child.','My baby just turned two and I did not expect to feel so depressed about it"'! She'"\\'s a hilarious, vivacious toddler that keeps me laughing all day long, but I suddenly got sad about her not being a \"baby\" anymore.','ar054-0119'),
+(15,'The parent laughs at the odd and messy things their child does.','This form includes two infant posts as well as a toddler’s nose treasure and candy-corn enthusiasm.',[(2,None),(3,None)],'Amusement can accompany an unpleasant cleanup.','No worries we got it out after a quick blow (and about 30min of me dry heaving) and no tears were shed until I threw her snot treasure in the trash.','ar041-0150'),
+(8,'The parent sees their child learning to manage feelings through their example.','Reassurance, taking breaks and apologising give children ways to calm down or explain themselves.',[(1,None),(2,None)],'Comfort does not always get through.','Not every time I try to comfort my kid do I actually get through to him. That would be impossible.','ar069-0048'),
+(9,'The parent is proud when their child shows kindness or speaks up for themselves.','Parents value resilience, friendship and insisting that bodily boundaries be heard.',[(0,None),(1,None)],'Speaking up does not ensure an adult listens.','He waved it off and said “what, that didn’t hurt you"'! You’re crazy!” Like she was being silly. I saw her get quiet and shrivel.'"','ar017-0071'),
+(11,'The parent is delighted to discover their child can enjoy playing without them.','Independent splash-pad play or quiet book time brings surprise, relief or recognition of a shared temperament.',[(1,None),(3,None)],'Quiet time is only part of the child’s behaviour.','Please note though that this child is also an absolute terror who demands \"hot cakes\" every Saturday morning','ar042-0095'),
+(14,'The parent deliberately looks for good in a toddler stage they find hard.','Small treasures and calling it the “terrific twos” help parents reframe continuing difficulty.',[(1,None),(2,None)],'Reframing does not remove the strain.','Every single day feels like a battle, uphill, downhill, sideways hill, every hill between my 3 year old, 1 year old, and 2 working parents.','ar027-0045'),
+]
+near_specs=[
+(2,'The parent is proud of their child’s effort and progress in learning.','With ages unknown, parents describe goals, school, performance and growing confidence.',[(0,None),(4,None)],'A performance need not be flawless.','She was a little stiff, but she had a good time doing the rehearsals with her friends and being part of the show so I\\'m happy"'!'"','ar024-0028'),
+(5,'The parent celebrates a bedtime change that helps their child settle.','Pacifier removal, sleeping alone and a sleepy history lesson bring relief or humour.',[(0,None),(2,None)],'The pacifier change began with distress.','He was so upset for about 2 hours (we came and checked in and gave him the spiel). He woke up again later (same thing).','ar029-0050'),
+(3,'The parent loves raising this child but is uncertain about having another.','Birth distress or disagreement with a partner makes the decision difficult despite delight in the existing child.',[(1,None),(2,None)],'One father sees fulfilment as a reason to stop.','He feels he\\'s getting everything out of the parent experience with the one.','ar081-0099'),
+(7,'The parent enjoys seeing their child’s creative work develop.','Children of unknown ages make an AI-assisted app or decorate keepsake shoes; independent tool mastery is not established.',[(1,None),(2,None)],None,None,None),
+(0,'The parent grieves leaving earlier stages of childhood behind.','With ages unknown, a request for swing-pushing brings pride, fear and awareness of possible last times.',[(0,None),(1,None)],'The parent anticipates new pleasures too.','The closing of one chapter but the beginning of another, very exciting chapter.','ar010-0024'),
+(1,'The parent finds that reading with their child brings back grief.','A child of unknown age reads a story that recalls the parent’s late father and missed milestones.',[(1,None),(2,None)],None,None,None),
+(4,'The parent celebrates their child following a repeated safety lesson.','A preschooler of unknown exact age brings a found heart pill to the parent in exchange for candy.',[(0,None),(1,None)],'Success followed years of repetition.','My LO is a preschooler now, but it took 2.5 years for this advice to work, so now I pass it on:','ar054-0049'),
+(6,'The parent is overwhelmed when their child begins saying “I love you.”','A two-and-a-half-year-old’s affection prompts tears the parent struggles to manage.',[(0,None),(1,None)],'The parent worries about the effect of their response.','I don\\'t want to worry him or discourage him.','ar018-0103'),
+(8,'The parent celebrates feeding progress after a difficult beginning.','At ten weeks, doubled birth weight follows triple feeding, weight loss and painful breastfeeding.',[(0,None),(2,None)],'A personal feeding goal remains.','Fed is definitely best"'! But I have a goal for me and my babe and I’m sticking with it.'"','ar009-0058'),
+(9,'The parent enjoys their child’s growing skills but struggles to care for themselves.','A two-and-a-half-year-old’s independence coexists with exhaustion and disrupted exercise and eating routines.',[(0,None),(1,None)],'Some days feel manageable.','I feel like I have a few good days out of the month where I can balance taking care of myself, feel like a super mom and feel very harmonious with my husband.','ar042-0067'),
+]
+intro='''# baby-development: pattern 8, Delight or pride in what the child now does (children of 2 and 3 years)
+
+**Written:** 2026-11-20 from baby-development/evidence/2026-11/age-reread/digest-10.md
+**Reviewed by the owner:** not yet
+
+## Limits
+
+These posts come from a random, keyword-free sample of 20,000 posts in twelve parenting subreddits, dated 1 April–24 October 2026; 3,811 were on-niche, including 1,340 about children of 2 and 3 years. This supplied pattern contains 81 on-niche and 17 near posts, all read: each count is posts tagged by one reader, not prevalence among parents. Forms from different digest readers would be merged by judgement; only one digest is supplied here, its forms stay separate, and its infant posts and unknown ages remain as recorded despite this section’s age label.
+'''
+out=[intro]
+coverage=[]
+for groupname, specs, gi, total in [('On-niche posts',yes_specs,0,81),('Near posts',near_specs,1,17)]:
+    out.append('## '+groupname+'\\n')
+    coverage.append((groups[gi][0],'section title'))
+    mapping={}
+    for idx,claim,summary,qs,bp,bq,bi in specs:
+        f=groups[gi][1][idx]
+        n=int(re.search(r'"'^('"\\d+) of',f['body'],re.M).group(1))
+        mapping[idx]=claim
+        body=['### '+claim, f'{n} of {total} posts.',summary,'\\n'.join(Q(f,j,x) for j,x in qs)]
+        body.append(B(f,bp,bq,bi) if bp else '**But:** nothing found against it.')
+        out.append('\\n\\n'.join(body)+'\\n')
+    for idx,f in enumerate(groups[gi][1]):coverage.append((f['heading'],mapping[idx]))
+
+out.append('## Across the on-niche posts\\n')
+coverage.append((groups[2][0],'section title'))
+cross=[
+(0,'The parent has tried teaching, practice, routines or therapy.',62,'This tag includes activities, conversations and arrangements already made.',[(1,None),(7,None)],'Attempts can create complications.','We tried random things sometimes to make bedtime more fun so he wouldn’t fight it, but now it’s resulted in some pretty ridiculous practices. Whatever works though, right??','ar067-0117'),
+(1,'The parent encounters other people’s concern, praise, help or dismissal.',32,'Other adults can change how a parent experiences the child’s progress.',[(1,None),(3,None)],'An adult can dismiss the child’s account of hurt.','He waved it off and said “what, that didn’t hurt you"'! You’re crazy!” Like she was being silly.'"','ar017-0071'),
+(2,'The parent reports buying learning books or supplies to organise the home.',2,'Explicit purchases include tracing books, two "'$6 packs of photo paper and a roughly $20 drawer-organising set; other costs are unknown.'"',[(0,None),(2,None),(4,None)],None,None,None),
+(3,'The parent expresses pride, love or relief alongside harder feelings.',60,'Stated feelings include joy and gratitude as well as grief, guilt and sadness about growing up.',[(7,None),(10,None)],'Pride does not remove guilt about time and support.','I’ve carried *so much guilt* over the fact that I don’t get to spend enough time with her. Worried that I’m failing her by not being able to give her all of the extra support I know she deserves.','ar022-0144'),
+]
+for idx,claim,n,summary,qs,bp,bq,bi in cross:
+    f=groups[2][1][idx]
+    body=['### '+claim,f'{n} of 81 posts.',summary,'\\n'.join(Q(f,j,x) for j,x in qs)]
+    body.append(B(f,bp,bq,bi) if bp else '**But:** nothing found against it.')
+    out.append('\\n\\n'.join(body)+'\\n')
+    coverage.append((f['heading'],claim))
+text='\\n'.join(out)
+print('Words above Coverage:',len(text.split()))
+text+='''\\n## Coverage
+
+<details>
+<summary>Every heading of the digests, and where it went</summary>
+
+| Digest heading | Went to |
+|---|---|
+'''
+text+='\\n'.join('| '+h+' | '+to+' |' for h,to in coverage)+'\\n\\n</details>\\n'
+p=Path('baby-development/findings/2026-11/patterns-2-3-years/pattern-08.md')
+p.write_text(text)
+print('Wrote',p)
+PY" in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+Words above Coverage: 3431
+Wrote baby-development/findings/2026-11/patterns-2-3-years/pattern-08.md
+
+exec
+/usr/bin/zsh -lc "python3 -I - <<'PY'
+from pathlib import Path
+p=Path('baby-development/findings/2026-11/patterns-2-3-years/pattern-08.md')
+s=p.read_text()
+changes={
+'- \"My three year old son keeps running up to me, poking me with a stick, and then cheerfully exclaiming “I crucified you"'!”" [ar055-0125]'"\\n':'',
+'What made the difference: THEY picked the goals, not me. We talked about WHY they wanted to do these things. They tracked their own progress. We just supported them.':'What made the difference: THEY picked the goals, not me.',
+'Went to an IBCLC appointment today in preparation for going back to work in 2 weeks. My ebf LO is currently 10 weeks and has somehow doubled his birth weight"'! From 8 lbs 1 oz to 16 lbs 3 oz.'"':'My ebf LO is currently 10 weeks and has somehow doubled his birth weight"'!'"',
+'Fed is definitely best"'! But I have a goal for me and my babe and I’m sticking with it.'"':'But I have a goal for me and my babe and I’m sticking with it.',
+'I bumped the counter yesterday and said \"sorry, counter\" without thinking. Five minutes later he dropped a spoon and whispered \"sorry spoon\" like it had feelings and a mortgage.':'Five minutes later he dropped a spoon and whispered \"sorry spoon\" like it had feelings and a mortgage.',
+'Kid hit me with Dad today and it hit me hard. Not ready for that yet 😂. They grow way to fast.':'Kid hit me with Dad today and it hit me hard.',
+'My baby just turned two and I did not expect to feel so depressed about it"'! She'"\\'s a hilarious, vivacious toddler that keeps me laughing all day long, but I suddenly got sad about her not being a \"baby\" anymore.':'She\\'s a hilarious, vivacious toddler that keeps me laughing all day long, but I suddenly got sad about her not being a \"baby\" anymore.',
+'My favorite part of this 3 year old is what you find lying around the house. Check a backpack, it’s got heels, a book, 3 hot wheels, and a pouch.':'My favorite part of this 3 year old is what you find lying around the house.',
+'I was so impressed and proud of my son and how resilient he was. He kept choosing kindness and it paid off for him. He\\'s only two, but I for some reason I felt very reassured that he\\'s going to do well in life.':'I was so impressed and proud of my son and how resilient he was. He kept choosing kindness and it paid off for him.',
+'Every year since I get him to doodle on a pair. It is cool to see his progression and makes for a great keepsake.':'It is cool to see his progression and makes for a great keepsake.',
+'She brought me her cat stuffie and told me to hug it and insisted I close my eyes in a way only a two year old can (aggressively lol). Then she laid her little head on me and said \"it\\'s ok Mommy.\"':'Then she laid her little head on me and said \"it\\'s ok Mommy.\"',
+'It never lasts long, I\\'m in there 2 maybe 3 minutes max. Now when my son is upset he walks away from me and closes the door to \"take a break\", he opens the door when he\\'s ready to talk about it.':'Now when my son is upset he walks away from me and closes the door to \"take a break\", he opens the door when he\\'s ready to talk about it.',
+'He just turned 2.5 and 3 people in the last 24hours have asked how old he was and were in shock he was only 2.5 and commented how well and clearly he spoke for his age because he can carry out full convos now and is super clear when he speaks. Makes my mom heart so happy to hear people amazed by his verbal skills rather than concerned about it like they were a year ago 🥹':'He just turned 2.5 and 3 people in the last 24hours have asked how old he was and were in shock he was only 2.5 and commented how well and clearly he spoke for his age because he can carry out full convos now and is super clear when he speaks.',
+'I nearly cried.':'I nearly cried.',
+'Children join family games, adult hobbies and increasingly elaborate bedtime play.':'Children join games, hobbies and elaborate bedtime play.',
+'Memory, drawing, writing and translation surprise parents; some ask whether the ability is common.':'Parents marvel at memory, drawing, writing and translation.',
+'Contradictions, inventive manners and literal workarounds amuse parents while leaving the original problem unresolved.':'Clever replies amuse parents while leaving the problem unresolved.',
+'Thanks, requests for help and wanting their company make small moments feel significant.':'Thanks and requests for company or help feel significant.',
+'Two- and three-year-olds':'Two- and three-year-olds',
+'Children respond to grief, fear, hunger or a crying sibling; one father describes empathy despite limited speech and movement.':'One father describes empathy despite limited speech and movement.',
+'Laundry, cleanup, accessible storage and potty use bring pride, including for a mother whose daughter was born blind.':'Parents celebrate laundry, cleanup, accessible storage and potty use, including for a child born blind.',
+'Independent splash-pad play or quiet book time brings surprise, relief or recognition of a shared temperament.':'Independent play or book time brings surprise, relief or a sense of shared temperament.',
+'With ages unknown, parents describe goals, school, performance and growing confidence.':'Ages are unknown; achievements include goals, school and performance.',
+'Children of unknown ages make an AI-assisted app or decorate keepsake shoes; independent tool mastery is not established.':'Ages are unknown; an AI-assisted app does not establish independent mastery.',
+'With ages unknown, a request for swing-pushing brings pride, fear and awareness of possible last times.':'Ages are unknown; swing-pushing prompts thoughts of last times.',
+'A child of unknown age reads a story that recalls the parent’s late father and missed milestones.':'Reading recalls a late father and missed milestones; the child’s age is unknown.',
+'At ten weeks, doubled birth weight follows triple feeding, weight loss and painful breastfeeding.':'Doubled birth weight follows early feeding difficulties.',
+'A two-and-a-half-year-old’s independence coexists with exhaustion and disrupted exercise and eating routines.':'Toddler independence coexists with exhaustion and disrupted self-care.',
+}
+for a,b in changes.items():
+    assert a in s,a
+    s=s.replace(a,b)
+p.write_text(s)
+print('Words above Coverage:',len(s.split('## Coverage')[0].split()))
+PY" in /home/thinkpad/GitHub/_research
+ exited 1 in 0ms:
+Traceback (most recent call last):
+  File "<stdin>", line 35, in <module>
+AssertionError: I nearly cried.
+
+exec
+/usr/bin/zsh -lc "python3 -I - <<'PY'
+from pathlib import Path
+import re
+p=Path('baby-development/findings/2026-11/patterns-2-3-years/pattern-08.md')
+s=p.read_text()
+selected={
+'ar075-0044':'What made the difference: THEY picked the goals, not me.',
+'ar009-0057':'My ebf LO is currently 10 weeks and has somehow doubled his birth weight"'!'"',
+'ar045-0058':'Five minutes later he dropped a spoon and whispered \"sorry spoon\" like it had feelings and a mortgage.',
+'ar075-0066':'Kid hit me with Dad today and it hit me hard.',
+'ar054-0119':'She\\'s a hilarious, vivacious toddler that keeps me laughing all day long, but I suddenly got sad about her not being a \"baby\" anymore.',
+'ar027-0048':'My favorite part of this 3 year old is what you find lying around the house.',
+'ar077-0086':'I was so impressed and proud of my son and how resilient he was. He kept choosing kindness and it paid off for him.',
+'ar033-0095':'It is cool to see his progression and makes for a great keepsake.',
+'ar038-0034':'Then she laid her little head on me and said \"it\\'s ok Mommy.\"',
+'ar038-0046':'Now when my son is upset he walks away from me and closes the door to \"take a break\", he opens the door when he\\'s ready to talk about it.',
+'ar055-0010':'He just turned 2.5 and 3 people in the last 24hours have asked how old he was and were in shock he was only 2.5 and commented how well and clearly he spoke for his age because he can carry out full convos now and is super clear when he speaks.',
+'ar009-0058':None,
+}
+lines=[]
+for line in s.splitlines():
+    m=re.match(r'"'^- "(.*)" '"\\[(["'^'"\\]]+)\\]"'$'"',line)
+    if m:
+        q,i=m.groups()
+        if i=='ar055-0125' and q.startswith('My three year'):continue
+        if i in selected and selected[i] is not None:
+            assert selected[i] in q,(i,q)
+            line='- \"'+selected[i]+'\" ['+i+']'
+        if i=='ar009-0058' and q.startswith('Fed is'):
+            line='- \"But I have a goal for me and my babe and I’m sticking with it.\" ['+i+']'
+    lines.append(line)
+s='\\n'.join(lines)+'\\n'
+changes={
+'Children join family games, adult hobbies and increasingly elaborate bedtime play.':'Children join games, hobbies and elaborate bedtime play.',
+'Memory, drawing, writing and translation surprise parents; some ask whether the ability is common.':'Parents marvel at memory, drawing, writing and translation.',
+'Contradictions, inventive manners and literal workarounds amuse parents while leaving the original problem unresolved.':'Clever replies amuse parents while leaving the problem unresolved.',
+'Thanks, requests for help and wanting their company make small moments feel significant.':'Thanks and requests for company or help feel significant.',
+'Children respond to grief, fear, hunger or a crying sibling; one father describes empathy despite limited speech and movement.':'One father describes empathy despite limited speech and movement.',
+'Laundry, cleanup, accessible storage and potty use bring pride, including for a mother whose daughter was born blind.':'Parents celebrate laundry, cleanup, accessible storage and potty use, including for a child born blind.',
+'Independent splash-pad play or quiet book time brings surprise, relief or recognition of a shared temperament.':'Independent play or book time brings surprise, relief or a sense of shared temperament.',
+'With ages unknown, parents describe goals, school, performance and growing confidence.':'Ages are unknown; achievements include goals, school and performance.',
+'Children of unknown ages make an AI-assisted app or decorate keepsake shoes; independent tool mastery is not established.':'Ages are unknown; an AI-assisted app does not establish independent mastery.',
+'With ages unknown, a request for swing-pushing brings pride, fear and awareness of possible last times.':'Ages are unknown; swing-pushing prompts thoughts of last times.',
+'A child of unknown age reads a story that recalls the parent’s late father and missed milestones.':'Reading recalls a late father and missed milestones; the child’s age is unknown.',
+'At ten weeks, doubled birth weight follows triple feeding, weight loss and painful breastfeeding.':'Doubled birth weight follows early feeding difficulties.',
+'A two-and-a-half-year-old’s independence coexists with exhaustion and disrupted exercise and eating routines.':'Toddler independence coexists with exhaustion and disrupted self-care.',
+'The child’s concern can need soothing too.':'Concern can need soothing.',
+'A clever explanation can follow painful behaviour.':'The behaviour can hurt.',
+'The parent worries about the effect of their response.':'The parent worries about discouraging him.',
+'An adult can dismiss the child’s account of hurt.':'Adults can dismiss hurt.',
+'The parent anticipates new pleasures too.':'New pleasures lie ahead.',
+'Speaking up does not ensure an adult listens.':'Adults may not listen.',
+'The imitation can also unsettle the parent.':'Imitation can unsettle them.',
+'Verbal ability does not establish emotional maturity.':'Emotional maturity can lag.',
+'An adult can dismiss the child’s account of hurt.':'Adults can dismiss hurt.',
+'Sadness coexists with enjoying the child.':'Enjoyment remains.',
+'The pacifier change began with distress.':'The first night was hard.',
+'One father sees fulfilment as a reason to stop.':'Fulfilment can mean stopping.',
+'This form includes two infant posts as well as a toddler’s nose treasure and candy-corn enthusiasm.':'Two posts concern infants; others describe a toddler’s nose treasure and candy corn.',
+}
+for a,b in changes.items():
+    assert a in s,a
+    s=s.replace(a,b)
+p.write_text(s)
+print('Words above Coverage:',len(s.split('## Coverage')[0].split()))
+PY" in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+Words above Coverage: 3105
+
+codex
+The draft covers every form and all four tags. I’m shortening it to fit 3,000 words, keeping whole-sentence quotes, counterpoints and the coverage table, then I’ll run both checks.
+
+exec
+/usr/bin/zsh -lc "python3 -I - <<'PY'
+from pathlib import Path
+import re
+p=Path('baby-development/findings/2026-11/patterns-2-3-years/pattern-08.md')
+s=p.read_text()
+changes={
+'My 3 year old heard the washing machine finish and I found him turning the laundry over into the dryer. He did this completely unprompted and yelled at me when I tried to help. I praised him for being such an awesome and helpful boy.':'He did this completely unprompted and yelled at me when I tried to help.',
+'So my son is almost 2.5 and is speech delayed. He’s been in speech therapy for 9 months now and has made amazing progress.':'He’s been in speech therapy for 9 months now and has made amazing progress.',
+'He was so upset for about 2 hours (we came and checked in and gave him the spiel). He woke up again later (same thing).':'He was so upset for about 2 hours (we came and checked in and gave him the spiel).',
+'I’ve carried *so much guilt* over the fact that I don’t get to spend enough time with her. Worried that I’m failing her by not being able to give her all of the extra support I know she deserves.':'I’ve carried *so much guilt* over the fact that I don’t get to spend enough time with her.',
+'- \"I used printable sticky glossy photo paper I go for like "'$6 a pack at Walmart" [ar079-0055]'"\\n':'',
+'- \"And it cracks me up because she\\'s...more advanced... we\\'ll say, than my boys were at this age.\" [ar041-0150]':'- \"My 8 month old girl is an absolute feat of physics.\" [ar027-0147]',
+}
+for a,b in changes.items():
+    assert a in s,a
+    s=s.replace(a,b)
+start=s.index('These posts come from')
+end=s.index('\\n## On-niche posts',start)
+s=s[:start]+'''These come from a keyword-free random sample of 20,000 Reddit posts in twelve parenting subreddits, 1 April–24 October 2026: 3,811 on-niche, including 1,340 about ages 2 and 3. This pattern’s 81 on-niche and 17 near posts were all read; counts are posts tagged by one reader, not prevalence among parents. Forms would be merged across readers by judgement; this single digest’s forms stay separate, retaining its infant posts and unknown ages despite the age label.
+'''+s[end:]
+p.write_text(s)
+print('Words above Coverage:',len(s.split('## Coverage')[0].split()))
+PY" in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+Words above Coverage: 2996
+
+exec
+/usr/bin/zsh -lc 'cat baby-development/findings/2026-11/patterns-2-3-years/pattern-08.md' in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+# baby-development: pattern 8, Delight or pride in what the child now does (children of 2 and 3 years)
+
+**Written:** 2026-11-20 from baby-development/evidence/2026-11/age-reread/digest-10.md
+**Reviewed by the owner:** not yet
+
+## Limits
+
+These come from a keyword-free random sample of 20,000 Reddit posts in twelve parenting subreddits, 1 April–24 October 2026: 3,811 on-niche, including 1,340 about ages 2 and 3. This pattern’s 81 on-niche and 17 near posts were all read; counts are posts tagged by one reader, not prevalence among parents. Forms would be merged across readers by judgement; this single digest’s forms stay separate, retaining its infant posts and unknown ages despite the age label.
+
+## On-niche posts
+
+### The parent enjoys the surprising explanations their child gives the world.
+
+9 of 81 posts.
+
+Body questions, literal meanings and unexpected descriptions make parents laugh.
+
+- "When I told him "No, I did not eat a baby," he asked how did the baby go into my stomach!" [ar023-0064]
+- "Yesterday, I get home from work and my son immediately runs up to me and says, "DADDY! Today I had a really long fart! It was longer than when they said "GOOOAAAAALLLLLL!"" [ar053-0100]
+
+**But:** Language can still be difficult.
+
+- "Currently have a 2.5yo and we’re struggling with “me” and “you” words." [ar021-0107]
+
+### The parent enjoys games, music and interests they can share with their child.
+
+9 of 81 posts.
+
+Children join games, hobbies and elaborate bedtime play.
+
+- "For a good 10-15 minutes, the four of us were just running around the basement and laughing together." [ar040-0052]
+- "We build Thomas the Tank Engine tracks together every day, roleplay characters from his favourite shows, and lately he’s gotten really into board games and charades." [ar045-0050]
+
+**But:** Music can overwhelm the parent.
+
+- "My husband saw I was overstimulated and took our son outside for them to practice" [ar080-0028]
+
+### The parent enjoys the imaginary worlds their child builds from ordinary things.
+
+8 of 81 posts.
+
+Invented animals, future offices, nests and games bring amusement and sometimes concern.
+
+- "“look! My lizard came out of my butt!”, & now he’s running around pulling lizards out of everyone’s butts. It’s an epidemic truly." [ar058-0019]
+- "Her office has lots of toys, gummy bears, strawberry ice cream and multiple play areas." [ar040-0008]
+
+**But:** One parent cannot explain the game’s origin.
+
+- "It’s adorable, but also concerning. Very unclear where he learned about crucifixion." [ar055-0125]
+
+### The parent celebrates speech progress after worrying about how little their child could say.
+
+7 of 81 posts.
+
+Small combinations and fluent conversations both matter after earlier worries or delay.
+
+- "When I woke up and came downstairs, my son runs up to me, hands me a card that he made, and says “happy mommy day!”" [ar033-0048]
+- "He started saying “mama tété” (“tété” is the French word we use for nursing) — his first 2-word combination and he says it each time he wants to nurse!" [ar036-0004]
+
+**But:** Progress does not mean the delay has resolved.
+
+- "He’s still quite behind with expressive speech, but we’ll finally start speech therapy in 2 weeks, and I’m really looking forward to it." [ar036-0006]
+
+### The parent marvels at what their child remembers, understands or creates.
+
+6 of 81 posts.
+
+Parents marvel at memory, drawing, writing and translation.
+
+- "His mothe said something in Bulgarian, he then looked at me and said the same thing in West Frisian and we were both quite shocked." [ar011-0104]
+- "This morning was the first time he wrote his ABC’s without tracing. I’m super proud of him." [ar061-0022]
+
+**But:** Emotional maturity can lag.
+
+- "I agree with him not receiving grace, mostly by older kids because he’s acting like them verbally, but social/emotionally, still very much a toddler" [ar064-0006]
+
+### The parent laughs when their child talks back or gets around an instruction.
+
+6 of 81 posts.
+
+Clever replies amuse parents while leaving the problem unresolved.
+
+- "She kept arguing back at me so I said "we're not arguing" and she immediately said "yes we are"" [ar060-0105]
+- "In the middle of me talking, she covered my mouth and said “Mami, don’t breathe on me please.”" [ar024-0001]
+
+**But:** The behaviour can hurt.
+
+- "When did kids get this smart? My 3 year old just slapped me really hard across the face, when I asked him why he slapped me, his response was " I didn't slap you daddy, I just high fived your face"" [ar022-0138]
+
+### The parent feels loved when their child chooses or trusts them.
+
+6 of 81 posts.
+
+Thanks and requests for company or help feel significant.
+
+- "There's no real reason, he doesn't expect a toy or a treat or anything.  He just likes coming with me.  And it's the best" [ar069-0145]
+- "There is something special in being picked by your own tiny little human to be the one who can help her." [ar012-0161]
+
+**But:** nothing found against it.
+
+### The parent hears familiar people and phrases coming back through their child.
+
+4 of 81 posts.
+
+Children copy siblings, books and adult habits, then give the words unexpected uses.
+
+- "Five minutes later he dropped a spoon and whispered "sorry spoon" like it had feelings and a mortgage." [ar045-0058]
+- "I’m glad he’s been repeating some positive phrases but confused why he thanks himself for stuff his dad and I do for him lol" [ar016-0058]
+
+**But:** Imitation can unsettle them.
+
+- "Cute, yes. Also mildly alarming, because now I am hearing myself through this very small echo." [ar045-0059]
+
+### The parent is moved when their child notices distress and offers comfort.
+
+4 of 81 posts.
+
+One father describes empathy despite limited speech and movement.
+
+- "Then she laid her little head on me and said "it's ok Mommy."" [ar038-0034]
+- "His empathy and worry for his baby sister just makes me so proud of him, of his mum, and fuck it, of me." [ar049-0080]
+
+**But:** Concern can need soothing.
+
+- "he didnt stop sobbing until she did, despite me hugging him tightly and explaining she was fine, she just doesnt know how to tell us what she wants yet." [ar049-0079]
+
+### The parent celebrates their child doing more to care for themselves or the home.
+
+4 of 81 posts.
+
+Parents celebrate laundry, cleanup, accessible storage and potty use, including for a child born blind.
+
+- "He did this completely unprompted and yelled at me when I tried to help." [ar070-0098]
+- "I decided to bite the bullet and try the Porky Pig approach — i.e. no pants or diaper — and yeah! *Four pees on the potty!!*" [ar022-0145]
+
+**But:** Independence varies by activity.
+
+- "Then he refused anything other than cheese on his taco and would only try the chicken if I fed it to him." [ar070-0099]
+
+### The parent feels sad as their child leaves babyhood behind.
+
+4 of 81 posts.
+
+New names, a haircut, a birthday or abandoning a sleep sack can feel like losses.
+
+- "Kid hit me with Dad today and it hit me hard." [ar075-0066]
+- "I'm Tearing Up - my 2.5 yo daughter just got her first haircut." [ar004-0125]
+
+**But:** Enjoyment remains.
+
+- "She's a hilarious, vivacious toddler that keeps me laughing all day long, but I suddenly got sad about her not being a "baby" anymore." [ar054-0119]
+
+### The parent laughs at the odd and messy things their child does.
+
+4 of 81 posts.
+
+Two posts concern infants; others describe a toddler’s nose treasure and candy corn.
+
+- "Today my 3 year old told me she loves candy corn as she blithely shoved them in her mouth, ignoring the horror on my face." [ar073-0139]
+- "My 8 month old girl is an absolute feat of physics." [ar027-0147]
+
+**But:** Amusement can accompany an unpleasant cleanup.
+
+- "No worries we got it out after a quick blow (and about 30min of me dry heaving) and no tears were shed until I threw her snot treasure in the trash." [ar041-0150]
+
+### The parent sees their child learning to manage feelings through their example.
+
+3 of 81 posts.
+
+Reassurance, taking breaks and apologising give children ways to calm down or explain themselves.
+
+- "Now when my son is upset he walks away from me and closes the door to "take a break", he opens the door when he's ready to talk about it." [ar038-0046]
+- "She looked at me and said, “And I’m still learning how to be me.”" [ar066-0140]
+
+**But:** Comfort does not always get through.
+
+- "Not every time I try to comfort my kid do I actually get through to him. That would be impossible." [ar069-0048]
+
+### The parent is proud when their child shows kindness or speaks up for themselves.
+
+3 of 81 posts.
+
+Parents value resilience, friendship and insisting that bodily boundaries be heard.
+
+- "I was so impressed and proud of my son and how resilient he was. He kept choosing kindness and it paid off for him." [ar077-0086]
+- "He said “stop being mean to me, I’m not poopy pants, say sorry!”" [ar010-0106]
+
+**But:** Adults may not listen.
+
+- "He waved it off and said “what, that didn’t hurt you! You’re crazy!” Like she was being silly. I saw her get quiet and shrivel." [ar017-0071]
+
+### The parent is delighted to discover their child can enjoy playing without them.
+
+2 of 81 posts.
+
+Independent play or book time brings surprise, relief or a sense of shared temperament.
+
+- "I was shocked and so incredibly proud of her and honestly relieved. I didn't know she was capable of that." [ar032-0073]
+- "But it just makes me giggle that she has her quiet time and I do too." [ar042-0094]
+
+**But:** Quiet time is only part of the child’s behaviour.
+
+- "Please note though that this child is also an absolute terror who demands "hot cakes" every Saturday morning" [ar042-0095]
+
+### The parent deliberately looks for good in a toddler stage they find hard.
+
+2 of 81 posts.
+
+Small treasures and calling it the “terrific twos” help parents reframe continuing difficulty.
+
+- "My favorite part of this 3 year old is what you find lying around the house." [ar027-0048]
+- "It’s definitely helped me reframe it to more growth and brain development and getting the two year molars is a lot and it’s amazing and terrific to see." [ar051-0042]
+
+**But:** Reframing does not remove the strain.
+
+- "Every single day feels like a battle, uphill, downhill, sideways hill, every hill between my 3 year old, 1 year old, and 2 working parents." [ar027-0045]
+
+## Near posts
+
+### The parent is proud of their child’s effort and progress in learning.
+
+4 of 17 posts.
+
+Ages are unknown; achievements include goals, school and performance.
+
+- "What made the difference: THEY picked the goals, not me." [ar075-0044]
+- "As a reward for his hard efforts, I bought him Skyrim for his Switch." [ar010-0080]
+
+**But:** A performance need not be flawless.
+
+- "She was a little stiff, but she had a good time doing the rehearsals with her friends and being part of the show so I'm happy!" [ar024-0028]
+
+### The parent celebrates a bedtime change that helps their child settle.
+
+3 of 17 posts.
+
+Pacifier removal, sleeping alone and a sleepy history lesson bring relief or humour.
+
+- "Second night, he whined for 5 minutes, then laid there and eventually fell asleep." [ar029-0051]
+- "Come to find out she thinks I smell and she’s no longer afraid to sleep alone." [ar080-0091]
+
+**But:** The first night was hard.
+
+- "He was so upset for about 2 hours (we came and checked in and gave him the spiel)." [ar029-0050]
+
+### The parent loves raising this child but is uncertain about having another.
+
+2 of 17 posts.
+
+Birth distress or disagreement with a partner makes the decision difficult despite delight in the existing child.
+
+- "I was told it would all leave my mind after she was born- but I did not." [ar035-0094]
+- "I love watching my daughter grow and become her own person. It sounds amazing to experience that with another child too." [ar081-0100]
+
+**But:** Fulfilment can mean stopping.
+
+- "He feels he's getting everything out of the parent experience with the one." [ar081-0099]
+
+### The parent enjoys seeing their child’s creative work develop.
+
+2 of 17 posts.
+
+Ages are unknown; an AI-assisted app does not establish independent mastery.
+
+- "Made me smile. Curious if anyone else's kids have started getting into AI lately." [ar050-0054]
+- "It is cool to see his progression and makes for a great keepsake." [ar033-0095]
+
+**But:** nothing found against it.
+
+### The parent grieves leaving earlier stages of childhood behind.
+
+1 of 17 posts.
+
+Ages are unknown; swing-pushing prompts thoughts of last times.
+
+- "This is very possibly the last time he'll ever ask me to push him on the swing. He's growing so fast." [ar010-0016]
+- "I'm not an very emotional guy but I honestly teared up writing it down. Surprised myself." [ar010-0020]
+
+**But:** New pleasures lie ahead.
+
+- "The closing of one chapter but the beginning of another, very exciting chapter." [ar010-0024]
+
+### The parent finds that reading with their child brings back grief.
+
+1 of 17 posts.
+
+Reading recalls a late father and missed milestones; the child’s age is unknown.
+
+- "At the end my daughter could see I was a bit teary eyed and gave me a huge hug." [ar076-0049]
+- "It's always hurt not having him there for those milestones." [ar076-0049]
+
+**But:** nothing found against it.
+
+### The parent celebrates their child following a repeated safety lesson.
+
+1 of 17 posts.
+
+A preschooler of unknown exact age brings a found heart pill to the parent in exchange for candy.
+
+- "When you find a pill, bring it to me and I'll give you candy!" [ar054-0050]
+- "It was a heart pill Granny left, and LO knew just what to do." [ar054-0051]
+
+**But:** Success followed years of repetition.
+
+- "My LO is a preschooler now, but it took 2.5 years for this advice to work, so now I pass it on:" [ar054-0049]
+
+### The parent is overwhelmed when their child begins saying “I love you.”
+
+1 of 17 posts.
+
+A two-and-a-half-year-old’s affection prompts tears the parent struggles to manage.
+
+- "My son (2.5 yrs) just started saying 'I love you' to me from this weekend." [ar018-0099]
+- "And it has turned me into an emotional wreck!" [ar018-0100]
+
+**But:** The parent worries about discouraging him.
+
+- "I don't want to worry him or discourage him." [ar018-0103]
+
+### The parent celebrates feeding progress after a difficult beginning.
+
+1 of 17 posts.
+
+Doubled birth weight follows early feeding difficulties.
+
+- "My ebf LO is currently 10 weeks and has somehow doubled his birth weight!" [ar009-0057]
+- "So proud of my LO but also so proud of myself." [ar009-0058]
+
+**But:** A personal feeding goal remains.
+
+- "But I have a goal for me and my babe and I’m sticking with it." [ar009-0058]
+
+### The parent enjoys their child’s growing skills but struggles to care for themselves.
+
+1 of 17 posts.
+
+Toddler independence coexists with exhaustion and disrupted self-care.
+
+- "He’s potty trained and speaks in full sentences now so it feels like we have a whole kid these days." [ar042-0066]
+- "The rest of the time I just feel exhausted and like I’m just surviving and on autopilot." [ar042-0067]
+
+**But:** Some days feel manageable.
+
+- "I feel like I have a few good days out of the month where I can balance taking care of myself, feel like a super mom and feel very harmonious with my husband." [ar042-0067]
+
+## Across the on-niche posts
+
+### The parent has tried teaching, practice, routines or therapy.
+
+62 of 81 posts.
+
+This tag includes activities, conversations and arrangements already made.
+
+- "He’s been in speech therapy for 9 months now and has made amazing progress." [ar033-0046]
+- "I kissed her head and said “mommy will talk to papa for you, but next time, you just tell him ‘That’s too rough, papa!’” And we practiced." [ar017-0072]
+
+**But:** Attempts can create complications.
+
+- "We tried random things sometimes to make bedtime more fun so he wouldn’t fight it, but now it’s resulted in some pretty ridiculous practices. Whatever works though, right??" [ar067-0117]
+
+### The parent encounters other people’s concern, praise, help or dismissal.
+
+32 of 81 posts.
+
+Other adults can change how a parent experiences the child’s progress.
+
+- "He just turned 2.5 and 3 people in the last 24hours have asked how old he was and were in shock he was only 2.5 and commented how well and clearly he spoke for his age because he can carry out full convos now and is super clear when he speaks." [ar055-0010]
+- "My husband saw I was overstimulated and took our son outside for them to practice" [ar080-0028]
+
+**But:** Adults can dismiss hurt.
+
+- "He waved it off and said “what, that didn’t hurt you! You’re crazy!” Like she was being silly." [ar017-0071]
+
+### The parent reports buying learning books or supplies to organise the home.
+
+2 of 81 posts.
+
+Explicit purchases include tracing books, two $6 packs of photo paper and a roughly $20 drawer-organising set; other costs are unknown.
+
+- "We started buying the learning books so he loves to trace. That is really what got him going." [ar061-0025]
+- "I ordered a bulk drawer organizing set off of Amazon for like $20 and it did my whole house." [ar079-0066]
+
+**But:** nothing found against it.
+
+### The parent expresses pride, love or relief alongside harder feelings.
+
+60 of 81 posts.
+
+Stated feelings include joy and gratitude as well as grief, guilt and sadness about growing up.
+
+- "Ive never been more proud and more in love with him. What a fucking guy." [ar049-0080]
+- "And that was the greatest sense of relief I’ve ever felt in my life." [ar007-0146]
+
+**But:** Pride does not remove guilt about time and support.
+
+- "I’ve carried *so much guilt* over the fact that I don’t get to spend enough time with her." [ar022-0144]
+
+## Coverage
+
+<details>
+<summary>Every heading of the digests, and where it went</summary>
+
+| Digest heading | Went to |
+|---|---|
+| Pattern 8, share 10: yes posts | section title |
+| The parent celebrates speech progress after having worried about how little their child could say. | The parent celebrates speech progress after worrying about how little their child could say. |
+| The parent marvels at what their child can remember, understand or create. | The parent marvels at what their child remembers, understands or creates. |
+| The parent enjoys the surprising words and explanations their child uses to make sense of the world. | The parent enjoys the surprising explanations their child gives the world. |
+| The parent hears familiar people and phrases coming back through their child. | The parent hears familiar people and phrases coming back through their child. |
+| The parent laughs when their child talks back or finds a way around an instruction. | The parent laughs when their child talks back or gets around an instruction. |
+| The parent enjoys the imaginary worlds and unexpected uses their child gives ordinary things. | The parent enjoys the imaginary worlds their child builds from ordinary things. |
+| The parent feels loved, trusted or chosen when their child shows affection or seeks them out. | The parent feels loved when their child chooses or trusts them. |
+| The parent is moved when their child notices distress and tries to comfort someone. | The parent is moved when their child notices distress and offers comfort. |
+| The parent sees their child beginning to understand and manage feelings through their conversations and example. | The parent sees their child learning to manage feelings through their example. |
+| The parent is proud when their child handles other people with kindness or speaks up for themselves. | The parent is proud when their child shows kindness or speaks up for themselves. |
+| The parent celebrates their child doing more of the practical work of caring for themselves or the home. | The parent celebrates their child doing more to care for themselves or the home. |
+| The parent is delighted to discover that their child can enjoy time playing without them. | The parent is delighted to discover their child can enjoy playing without them. |
+| The parent enjoys the games, music and shared interests their child can now join. | The parent enjoys games, music and interests they can share with their child. |
+| The parent feels sad about leaving babyhood behind as their child grows. | The parent feels sad as their child leaves babyhood behind. |
+| The parent deliberately looks for what is good in a toddler stage they also find hard. | The parent deliberately looks for good in a toddler stage they find hard. |
+| The parent laughs at the odd and messy things their child does. | The parent laughs at the odd and messy things their child does. |
+| Pattern 8, share 10: near posts | section title |
+| The parent feels sad about leaving babyhood behind as their child grows. | The parent grieves leaving earlier stages of childhood behind. |
+| The parent finds that reading with their child brings up grief about someone who died. | The parent finds that reading with their child brings back grief. |
+| The parent is proud of their child’s effort and progress in learning. | The parent is proud of their child’s effort and progress in learning. |
+| The parent loves raising this child but is uncertain about having another. | The parent loves raising this child but is uncertain about having another. |
+| The parent celebrates their child following a safety lesson they have repeated. | The parent celebrates their child following a repeated safety lesson. |
+| The parent celebrates a bedtime change that helps their child settle or sleep. | The parent celebrates a bedtime change that helps their child settle. |
+| The parent feels loved, trusted or chosen when their child shows affection or seeks them out. | The parent is overwhelmed when their child begins saying “I love you.” |
+| The parent marvels at what their child can remember, understand or create. | The parent enjoys seeing their child’s creative work develop. |
+| The parent celebrates feeding progress after a difficult beginning. | The parent celebrates feeding progress after a difficult beginning. |
+| The parent enjoys their child’s growing skills but struggles to keep caring for themselves. | The parent enjoys their child’s growing skills but struggles to care for themselves. |
+| Pattern 8, share 10: across the yes posts | section title |
+| What they tried, in their words | The parent has tried teaching, practice, routines or therapy. |
+| What other people told them or did | The parent encounters other people’s concern, praise, help or dismissal. |
+| What they bought or paid for | The parent reports buying learning books or supplies to organise the home. |
+| How they say they feel | The parent expresses pride, love or relief alongside harder feelings. |
+
+</details>
+
+exec
+/usr/bin/zsh -lc 'python3 -I _tools/verify_section.py baby-development/findings/2026-11/patterns-2-3-years/pattern-08.md 81 17 3000' in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+pattern-08.md: counts OK
+
+exec
+/usr/bin/zsh -lc 'python3 -I /home/thinkpad/GitHub/_home/.agents/skills/write-findings/check_findings.py baby-development/findings/2026-11/patterns-2-3-years/pattern-08.md --quotes baby-development/quotes --evidence baby-development/evidence/2026-11/age-reread/digest-10.md' in /home/thinkpad/GitHub/_research
+ succeeded in 464ms:
+pattern-08.md: findings 30, quotes checked 86, words 3874; OK
+
+exec
+/usr/bin/zsh -lc "python3 -I - <<'PY'
+from pathlib import Path
+import re
+p=Path('baby-development/findings/2026-11/patterns-2-3-years/pattern-08.md')
+s=p.read_text()
+s=s.replace('**But:** Emotional maturity can lag.','**But:** Advanced speech still belongs to a toddler.')
+s=s.replace('two "'$6 packs of photo paper'"','two roughly "'$6 packs of photo paper'"')
+changes={
+'ar070-0098':'My 3 year old heard the washing machine finish and I found him turning the laundry over into the dryer.',
+'ar027-0147':'Since she arrived earth side, she has proven to be a highly pressurized system capable of launching poop and pee a distance of up to 51 inches (yes, she’s a girl, and yes, I’ve measured).',
+'ar055-0010':None,
+'ar081-0100':'I love watching my daughter grow and become her own person.',
+'ar010-0016':\"This is very possibly the last time he'll ever ask me to push him on the swing.\",
+'ar010-0020':\"I'm not an very emotional guy but I honestly teared up writing it down.\",
+'ar067-0117':'We tried random things sometimes to make bedtime more fun so he wouldn’t fight it, but now it’s resulted in some pretty ridiculous practices.',
+}
+src=Path('baby-development/evidence/2026-11/age-reread/digest-10.md').read_text()
+originals={}
+for q,i in re.findall(r'"'^- "(.+)" '"\\[(["'^'"\\]]+)\\]"'$'"',src,re.M):originals.setdefault(i,[]).append(q)
+lines=[]
+for line in s.splitlines():
+    m=re.match(r'"'^- "(.*)" '"\\[(["'^'"\\]]+)\\]"'$'"',line)
+    if m:
+        q,i=m.groups()
+        if i=='ar055-0010':
+            i='ar077-0084'
+            q='The older boy kept kind of picking on him and taunting him, but we let them go.'
+        elif changes.get(i) is not None:q=changes[i]
+        # Mark omitted text while keeping only complete sentences.
+        candidates=[v for v in originals.get(i,[]) if q in v]
+        if candidates:
+            v=min(candidates,key=len)
+            if v"'!=q:
+                start=v.index(q)
+                q=('"'[…] ' if start else '')+q+(' […]' if start+len(q)<len(v) else '')
+        line='- \"'+q+'\" ['+i+']'
+    lines.append(line)
+s='\\n'.join(lines)+'\\n'
+p.write_text(s)
+print('Words above Coverage:',len(s.split('## Coverage')[0].split()))
+PY" in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+Words above Coverage: 2996
+
+exec
+/usr/bin/zsh -lc 'python3 -I _tools/verify_section.py baby-development/findings/2026-11/patterns-2-3-years/pattern-08.md 81 17 3000' in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+pattern-08.md: counts OK
+
+exec
+/usr/bin/zsh -lc 'python3 -I /home/thinkpad/GitHub/_home/.agents/skills/write-findings/check_findings.py baby-development/findings/2026-11/patterns-2-3-years/pattern-08.md --quotes baby-development/quotes --evidence baby-development/evidence/2026-11/age-reread/digest-10.md' in /home/thinkpad/GitHub/_research
+ succeeded in 455ms:
+pattern-08.md: findings 30, quotes checked 86, words 3874; OK
+
+codex
+Wrote [pattern-08.md](/home/thinkpad/GitHub/_research/baby-development/findings/2026-11/patterns-2-3-years/pattern-08.md): 30 findings, 2,996 words above Coverage. Both checks printed OK.
+
+No merge uncertainty. The digest’s infant and unknown-age entries were retained and flagged.
+tokens used
+59,085
+Wrote [pattern-08.md](/home/thinkpad/GitHub/_research/baby-development/findings/2026-11/patterns-2-3-years/pattern-08.md): 30 findings, 2,996 words above Coverage. Both checks printed OK.
+
+No merge uncertainty. The digest’s infant and unknown-age entries were retained and flagged.

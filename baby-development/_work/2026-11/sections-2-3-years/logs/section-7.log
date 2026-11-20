@@ -1,0 +1,1813 @@
+OpenAI Codex v0.169.0
+--------
+workdir: /home/thinkpad/GitHub/_research
+model: gpt-6.1-sol
+provider: openai
+approval: never
+sandbox: workspace-write [workdir, /tmp, $TMPDIR]
+reasoning effort: high
+reasoning summaries: none
+session id: 01a1f9f5-631e-7eb3-b633-8ba51c4967e9
+--------
+user
+# Brief: findings section for one pattern
+
+You are section writer for **pattern 7: Learning to eat and drink as a skill**. Working directory: `~/GitHub/_research`.
+Other writers work on other patterns at the same time. Write only the one file named under
+"Your output". No network. Do not use git. Do not spawn other agents. Never modify any
+other file.
+
+## Why
+
+Niche `baby-development`: the development of a child from birth to 48 months. A random
+sample of 20,000 Reddit posts (twelve parenting subreddits, 1 April to 24 October 2026, no
+keyword) was read; 3,811 were on the niche and each got one main pattern. This section
+covers the 1,340 of them that are about children of 2 and 3 years; the posts about younger
+children have sections of their own. Digest readers then sorted each pattern's posts into forms.
+A pattern with many posts was dealt over two or three digest readers, who named their
+forms independently. You merge this pattern's digests into one short findings section
+that the owner can read in a few minutes.
+
+Read first, in the root `README.md`, "Research never censors" and "Conventions".
+
+## Your input
+
+The digests of this pattern, read each whole: baby-development/evidence/2026-11/age-reread/digest-09.md
+
+Totals for this pattern: **18 on-niche (yes) posts, 4 near posts.**
+
+## Task
+
+1. Merge the yes forms. Forms from different digests that say the same thing become one
+   finding, and their counts are added. A form that stands alone stays a finding, however
+   few posts it has. Every yes form of every digest goes into exactly one finding, whole:
+   never split a form's count. The findings' counts sum to 18.
+2. Do the same for the near forms, apart from the yes forms. Their counts sum to 4.
+3. Add up the four tags (tried, others, bought, feeling) over the digests and write the
+   four cross findings from the digests' quote lists.
+4. Word each finding as one plain claim about the parent, from their side, readable alone.
+   Order findings by count, highest first; "Other" last.
+5. Each finding: the count line, one to three sentences, two or three quotes that show its
+   range, and what cuts against it. Copy quotes and ids exactly from the digests.
+   Choose quotes for what they say, never for or against their subject.
+
+## Your output
+
+`baby-development/findings/2026-11/patterns-2-3-years/pattern-07.md`, exactly this layout:
+
+```
+# baby-development: pattern 7, Learning to eat and drink as a skill (children of 2 and 3 years)
+
+**Written:** 2026-11-20 from baby-development/evidence/2026-11/age-reread/digest-09.md
+**Reviewed by the owner:** not yet
+
+## Limits
+
+<Two or three sentences: where the posts come from, how they were chosen, how many are in
+this pattern, that each count is a number of posts tagged by one reader, and that forms
+from different digest readers were merged by judgement.>
+
+## On-niche posts
+
+### <The finding, as one plain claim>
+
+<N> of 18 posts.
+
+<One to three sentences.>
+
+- "<quote, word for word>" [<id>]
+- "<quote, word for word>" [<id>]
+
+**But:** <what cuts against it, with a quote and id; or "nothing found against it.">
+
+## Near posts
+
+### <finding>
+
+<N> of 4 posts.
+
+(same layout)
+
+## Across the on-niche posts
+
+### <What they already tried, as one claim>
+
+<n> of 18 posts.
+
+(same layout; then the same for what other people told them or did, what they bought or
+paid for, and how they say they feel: four findings)
+
+## Coverage
+
+<details>
+<summary>Every heading of the digests, and where it went</summary>
+
+| Digest heading | Went to |
+|---|---|
+| <heading text, exactly as in the digest> | <the finding's claim> |
+
+</details>
+```
+
+Rules:
+
+- The Coverage table has one row for every `##` and `###` heading of every digest, with
+  the heading text copied exactly. A heading that is a section title and not a form goes to
+  "section title".
+- Keep the page short: 3,000 words at most above "## Coverage". Quotes are whole sentences,
+  never fragments: when short of room, use fewer quotes, not shorter ones.
+- Quotes are bullets: a straight double quote, the words exactly, a straight double quote,
+  a space, the id in square brackets. Mark a cut with `[…]`.
+- A quote stays on one line with its id. Where a digest's quote runs over several lines,
+  join the lines with a space.
+- State only what the digests say. "unknown" is a value.
+
+## Check before you finish
+
+Run both; each must print OK:
+
+```
+python3 -I ~/GitHub/_home/.agents/skills/write-findings/check_findings.py baby-development/findings/2026-11/patterns-2-3-years/pattern-07.md --quotes baby-development/quotes --evidence baby-development/evidence/2026-11/age-reread/digest-09.md 
+python3 -I _tools/verify_section.py baby-development/findings/2026-11/patterns-2-3-years/pattern-07.md 18 4 3000
+```
+
+Report: findings written, and anything you were unsure of when merging.
+
+hook: SessionStart
+hook: SessionStart Completed
+codex
+I’ll read the instructions and full digest, write the pattern 7 section, then run both required checks. I’ll use the write-findings skill and modify only the named file.
+
+exec
+/usr/bin/zsh -lc 'cat /home/thinkpad/GitHub/_home/AGENTS.md' in /home/thinkpad/GitHub/_research
+exec
+/usr/bin/zsh -lc 'cat baby-development/evidence/2026-11/age-reread/digest-09.md' in /home/thinkpad/GitHub/_research
+exec
+/usr/bin/zsh -lc 'cat /home/thinkpad/.agents/skills/write-findings/SKILL.md' in /home/thinkpad/GitHub/_research
+exec
+/usr/bin/zsh -lc 'cat README.md' in /home/thinkpad/GitHub/_research
+ succeeded in 1765ms:
+---
+name: write-findings
+description: Write a niche's findings pages and her-words.md from its research evidence. Use when asked to write or update the findings, or her words, for a niche.
+---
+
+Findings are the whole range of what the evidence shows, made short enough for the owner
+to read in one sitting. The owner reviews them, and `write-avatar` then writes the portrait
+from them. You sort and count; the portrait is the next skill's work.
+
+`<niche>` is the name in `~/GitHub/_home/library/niches.md`. Findings are research, so
+they are written into `~/GitHub/_research/<niche>/`: the pages in `findings/`, and
+`her-words.md` beside that folder.
+
+## Steps
+
+1. **Locate the evidence.** Read `~/GitHub/_research/README.md` ("Research never censors",
+   "Four questions", "The chain", "Conventions"), then `~/GitHub/_research/<niche>/README.md` and
+   `evidence/README.md`. Done when you can list, for each of the four questions, the
+   evidence file that answers it or "no evidence file".
+   - No evidence file for any question: report which research is missing and stop.
+     Findings come from evidence files, never from raw posts or from a stub's description.
+   - A question with no evidence file: report where the niche README says its research
+     is. Competitor research ends in `competitors/overview.md` and gets no findings page.
+2. **Write one findings page per evidence file**, in the form in
+   [`FINDINGS-FORMAT.md`](FINDINGS-FORMAT.md). Read the evidence file whole before
+   writing. Finish and check one page before starting the next. A page is done when
+   `check_findings.py` prints OK for it, which requires every heading of the evidence file
+   to be accounted for in the page's coverage table.
+   - Evidence that is a folder (`counts.md`, `digest-NN.md`, `pattern-NN.md`): the
+     evidence file is `counts.md` plus every digest. Read those whole and pass each digest
+     as an `--evidence`. A `pattern-NN.md` holds every post and quote of one pattern and
+     is too long to read whole; open it to find or check a quote.
+   - Such a folder without digests: report that the digests are missing and stop.
+   - Where `findings/<round>/patterns/` holds one section per pattern, already merged from
+     the digests and checked: the evidence file is `counts.md` plus every section. Read
+     those whole and pass each section as an `--evidence`. One group per pattern, opened
+     by the pattern as a finding with its count out of all on-niche posts. Forms that say
+     the same kind of thing are joined and their counts added; forms too small to stand
+     alone are listed, claim and count, under one last finding of the group. The numbers
+     in `counts.md` on who writes, the child's age and paying become findings too.
+3. **Write `her-words.md`**, in the form in the same file. Done when `check_findings.py`
+   prints OK for it.
+4. **Record and hand over.** In `~/GitHub/_research/<niche>/README.md`, update the line
+   that says which findings are written. Report to the owner: pages written, findings per
+   page, what the evidence cannot answer, and anything you were unsure of. Then stop: the
+   owner reviews the findings and marks each page reviewed.
+
+## Choosing what goes in
+
+- Every pattern in the evidence becomes a finding, however few posts it has, unless it
+  repeats another finding. Subject plays no part in the choice.
+- Each finding carries its count, the two or three quotes that show its range, and what
+  cuts against it.
+- State what people say about themselves. A count is a count of posts, written with what
+  it is out of. Order findings by count. Where the evidence says counts are soft, treat
+  patterns a few points apart as equal and say so.
+- Findings and limits are about her and the niche, which outlive any brand and any
+  product. Word each one from her side: what she does, says, buys and asks for. Where the
+  evidence tests one of our brands or a product we plan ("would she buy a guide?"), the
+  test goes in the coverage table as "about a brand", and what it shows about her is
+  reworded from her side ("what she reports paying for is toys, classes and childcare").
+
+## Reads
+
+- `~/GitHub/_research/README.md`
+- `~/GitHub/_research/<niche>/README.md`, `evidence/`, `statistics/`, `quotes/`
+
+## Writes
+
+- `~/GitHub/_research/<niche>/findings/<question>.md`, `~/GitHub/_research/<niche>/her-words.md`
+- One line in `~/GitHub/_research/<niche>/README.md`
+
+## Runs
+
+From `~/GitHub/_home`:
+
+```
+python3 -I .agents/skills/write-findings/check_findings.py <page.md> \
+    --quotes ~/GitHub/_research/<niche>/quotes [--evidence <evidence file>]...
+```
+
+`--evidence` turns on the coverage check and may be given several times; use it for
+findings pages, not for `her-words.md`.
+A phrase taken from another niche's quotes needs that niche's `quotes` folder as a second
+`--quotes`.
+
+ succeeded in 1802ms:
+# _home
+
+The shared home for this business: skills, the library they draw from, playbooks, and
+what we know about each brand. Two people and two kinds of agent (Claude, Codex) work
+from it. Project code lives in its own repos under `~/GitHub/`; this repo points at them.
+
+## Where things are
+
+All paths in this file are relative to `~/GitHub/_home` unless they start with `~`.
+
+| Need | Look in |
+|---|---|
+| Which niches exist and what belongs to each | `library/niches.md` (read this first) |
+| Who we are talking to (the avatar) | `library/avatars/<niche>/` |
+| How we sound (the speaker) | `library/voices/` |
+| What experts teach | `library/knowledge/<subject>/` |
+| A brand's repos, deploy rules, brief, tests | `wiki/<brand>/README.md` (`wiki/index.md` lists brands) |
+| How to do a recurring job | `playbooks/` |
+| Skills | `.agents/skills/` (`.claude/skills` links to it) |
+| Raw research, by kind of source | `~/GitHub/_research/<niche>/<kind>/` (ads, competitors, reviews, ...) |
+| What the research found about her, in short | `~/GitHub/_research/<niche>/findings/` and `her-words.md` |
+| Why it is laid out this way | `DECISIONS.md` |
+
+## Rules
+
+1. **Problems and roles are permanent; brands and domains are not.** File knowledge
+   under the niche or the subject, never under a domain. A brand's current domain is
+   one line inside its wiki page.
+2. **Pushing a `-live` repo deploys to the production site.** Never push a `-live` repo
+   without the owner's say-so in that conversation.
+3. **Secrets stay out.** Never read or commit `.env`, `project-config.php`,
+   `app-secrets.php`, `mysql-credentials.php`, database dumps or customer data.
+4. **A skill reads reference material only from its own folder and `library/`.** It
+   never reads rulebooks, books, voices or research from another repo, because that repo
+   may be deleted. A skill may run a program that lives in another repo; it then lists
+   that program under a "Runs" heading in its `SKILL.md`. One exception: a skill whose job
+   is to work from research (writing its findings, or a library page from them) reads
+   `~/GitHub/_research` and lists what it reads under a "Reads" heading, and what it
+   writes there under "Writes". Run `./check.sh` before committing.
+5. **Research never filters.** It records what people actually say, in their words,
+   whatever the subject; what goes into copy is the owner's decision, made later.
+6. **Before collecting, filing or summarising research, read
+   `~/GitHub/_research/README.md`.** All research rules live there, not here.
+7. **Shared facts go in this repo, not in agent memory.** Memory is per person and per
+   machine; the other person never sees it.
+8. **Names are lowercase with dashes.** Exceptions: `AGENTS.md`, `CLAUDE.md`,
+   `SKILL.md`, `README.md`, `DECISIONS.md`. Existing project folders keep their names.
+   A leading underscore marks a folder that supports the others and is not one of them
+   (`_home`, `_research`, `_tools` and `_work` inside a niche's research, and `_project`
+   inside a development repo: everything we made there that is not the product's code).
+9. **Paths are written as `~/GitHub/...`**, never as one machine's absolute path.
+   On a machine where the repos live in a differently named folder, `setup.sh` makes
+   `~/GitHub` a link to it.
+10. **Before moving or reorganising files across folders or repos, show the plan and
+   wait for a yes.** This is for interactive sessions. A non-interactive run must not
+   reorganise at all unless its task says to.
+
+11. **Before sending agents to do work, ask the owner and wait**: which provider's agents
+    (Claude or Codex), how many, which model and which effort. Give your suggestion for
+    each, and match model and effort to the task. Then wait for an explicit yes. A question
+    or a remark from the owner is not approval. Send exactly what was agreed. Each new
+    batch needs its own yes, unless the owner approved the whole run up front. This
+    applies to interactive sessions; an agent that was itself sent to do a task does not
+    spawn more.
+
+12. **Never edit a `-live` repo directly.** Every change, however small or large, is made
+    in `-dev` and built from there. That keeps `-dev` complete, so running the build never
+    risks losing a fix that only existed in `-live`. A direct edit to `-live` is for
+    extreme cases only and needs the owner's explicit yes each time.
+
+## Rules and gates
+
+A rule here is an instruction: an agent reads it and is expected to follow it, but
+nothing stops it. Rules 2, 11 and 12 are also **gates**: `.claude/hooks/gate.py`, wired
+in `.claude/settings.json`, makes Claude Code stop and ask the owner before a `-live`
+push, a direct edit of a `-live` file, or an agent launch. Gates apply to Claude Code
+sessions started in this repo. They do not apply to sessions started elsewhere, or to
+Codex. Anything that must never happen without the owner belongs in a gate.
+
+## New niche, new skill, new research
+
+Follow `playbooks/new-niche.md`. It says where each output goes.
+
+ succeeded in 1787ms:
+# _research
+
+Raw research material, and the rules for doing research. This file is the one place those
+rules live; `AGENTS.md` and `CLAUDE.md` here are links to it, so agents working in this
+repo load it automatically. `~/GitHub/_home/AGENTS.md` points here.
+
+What is kept here: scrapes, saved pages, transcripts, screenshots, quote databases. It is
+kept so it can be analysed again later with better tools.
+
+## Research never censors
+
+Research records what people actually say and do, in their own words, whatever the
+subject. Nothing is dropped, withheld, softened or paraphrased away because it is
+sensitive, unflattering, or might be unsuitable for an ad. A quote may be labelled, but it
+is kept and quoted in full like any other.
+
+What is used in copy is the owner's decision, made later, with everything in front of
+him. It is never a research decision. If the owner wants the raw truth, that is his to
+have. An agent that filters research "to be safe" has made the research wrong.
+
+## Layout
+
+```
+_tools/                  scripts shared by every niche: draw a sample, build post files, check quotes and ids
+<niche>/
+├── README.md            overview: what exists per kind, the four questions, what is missing
+├── brief.md             what this research set out to answer
+├── ads/                 ads that are running (the swipe file)
+├── books/
+├── competitors/
+├── forums/              parents' forums and communities other than Reddit
+├── marketplaces/        marketplace listings and bestseller lists: what is for sale
+├── official-guidance/   what the authorities she trusts say
+├── reddit/
+├── reviews/             of apps, books and courses
+├── sales-letters/
+├── statistics/          published figures about her
+├── youtube/
+├── quotes/              every quote pulled from the kinds above, one record each
+├── evidence/            the quotes sorted under themes, counts, readers' notes
+├── findings/            the short version of the evidence, one page per question
+├── her-words.md         her phrases, word for word, for use in copy
+├── _tools/              support: checks particular to this niche, and old rounds' scripts
+└── _work/               support: reading ledgers, working files
+```
+
+- `<niche>` is the buyer and her problem (for example `baby-development`,
+  `stop-divorce`), exactly as named in `~/GitHub/_home/library/niches.md`. Never a brand
+  or a domain: those change.
+- **One folder per kind of source**, so a person who needs the ads or the competitors
+  opens that folder. Every kind folder always exists, even when empty, so it is plain
+  what has not been collected yet. A new kind of source gets a new folder and a line here.
+- **Inside a kind folder:** `README.md`, then the notes written about the material at the
+  top, and the originals exactly as captured in `raw/`. Notes are what a person opens
+  first. Originals are never edited.
+- **A later round of research** goes into the same kind folder under a dated subfolder,
+  `<yyyy>-<mm>/`.
+- **What belongs here and what does not.** If it describes someone else (the buyer, a
+  competitor, the market), it is research and lives here, including the scripts that
+  collected it. If we made it (a site, a quiz, a design, a brand name), it lives with that
+  product, in its repo's `_project/` folder when it is not code. A product repo has no
+  `research` folder; its scripts that need research read it
+  from this repo (`~/GitHub/_research`).
+- **An underscore marks a folder that supports the others and is not one of them:**
+  `_tools` and `_work` here, `_home` and `_research` among the project repos.
+
+## READMEs
+
+The niche README lists each kind: what was collected and from where, when, with which
+tool or script, for which offer, the question it was meant to answer (see below), and
+where its findings page is. A kind with nothing in it says "nothing collected yet". Each
+kind folder's own README says the same for that kind in more detail.
+
+## Four questions, each from a source that can answer it
+
+A niche's research is complete when all four are answered. No source is required and
+none is enough alone.
+
+| Question | Sources that can answer it | Why |
+|---|---|---|
+| 1. Who is she, and what is her life like? | Our own data (quiz answers, buyers, email replies), ad platform audience data, the people who follow and comment on competitors, published surveys and statistics, communities | The other three questions are all about her. The avatar is written from this evidence, not imagined |
+| 2. What hurts, what does she want, and how does she say it? | Reddit, forums, comment sections | Anonymous, long and unguarded. Includes the result she is really paying for |
+| 3. What is she buying for this, what does she pay, and how did it go? | First: what she says she bought, bestseller lists and store charts, marketplaces. Then: reviews of what sells most | Only buyers know. Find where the money goes before choosing whose reviews to read |
+| 4. Who is selling to her, and what is working? | Ads running now, competitor pages and funnels | An ad that runs for months is proof of money |
+
+- **Question 3 has an order.** First map what she spends on: which kinds of thing (apps,
+  books, courses, classes, a person), which products, what prices. Then read reviews of
+  the ones that sell most: where they let her down and what delighted her. Reviews of
+  products picked without the map may miss where the money is.
+- Question 4 is the quick check (step 2 of `~/GitHub/_home/playbooks/new-niche.md`): it
+  decides whether the niche is worth entering. The others are the deeper research.
+- A community shows who posts there, not the market. Reddit is mostly American, younger
+  and English-speaking, people post more when things are bad, and many who post never
+  buy. Its counts never show how common a problem is.
+- Sources close or change their access. Research that rests on one source ends when
+  that source does.
+
+## The chain: five steps, each made from the one before
+
+| # | Name | What it is | Where | Length |
+|---|---|---|---|---|
+| 1 | Collected material | Posts, reviews and pages, saved as they were found | `<kind>/raw/` | everything |
+| 2 | Quotes | The sentences worth keeping, cut out of that material, one record each with an id | `quotes/` | everything |
+| 3 | Evidence file | All the quotes sorted into patterns and counted | `evidence/` | as long as it needs |
+| 4 | Findings | The short version of an evidence file: each pattern with its count, its best quotes and what cuts against it. `her-words.md` is made alongside: her phrases, copied out for copy | `findings/`, `her-words.md` | short: a person reads a page in one sitting |
+| 5 | Avatar | The centre of the findings, written as one person | `~/GitHub/_home/library/avatars/<niche>/avatar.md` | about a page |
+
+Steps 1 to 4 are what they wrote, so they are research and live here. Step 5 is what we
+made from it, so it lives in `_home`. Name each step for what it is.
+
+Competitors have a shorter chain of their own, all here: saved pages in
+`competitors/raw/`, one note per competitor, and `competitors/overview.md`. The overview is
+already the short version, so it gets no findings page.
+
+- Research is not finished until its findings are written and the owner has reviewed them.
+  Agents read the findings first and open the steps before them only when asked or when
+  checking a quote. Findings are written by the `write-findings` skill in `_home`.
+- A quote may be left out of a findings page **because it repeats** what others already
+  show. It is never left out **because of its subject**. Whatever is left out stays in
+  the evidence file, cited by id.
+- **Every niche's `evidence/` has a `jargon-glossary.md`:** the words she uses and how each
+  one feels, with real usages. It answers "how does she say it" (question 2). Until it is
+  made, `evidence/README.md` says "not made yet". The one that exists,
+  `new-and-expecting-mothers/evidence/jargon-glossary.md`, covers mothers in general and is
+  the starting point for a niche's own; its pipeline is `new-and-expecting-mothers/_tools/jargon/`.
+- A brief for research work says which step it wants and who will read it. Asking for
+  "the findings" without saying which produced a 940,000-word file in November 2026.
+
+## Conventions
+
+These came out of the November 2026 re-reading of five builds (41,000 posts). They cover
+reading, quoting and merging. Conventions for the collecting step are still to be written.
+
+**Records**
+
+- A quote is one record with the same fields every time: id, source, link, date, speaker,
+  stage, type, themes, and the quote word for word.
+- Ids are unique across the niche and show who produced them: a prefix for the pass, the
+  reader's number, a running number (`pbu07-0034`). Check for duplicates before each commit.
+- Every post handed to a reader is accounted for in that reader's ledger: quoted,
+  off-topic, or unavailable. Nothing is skipped silently.
+- Raw material and finished quote files are never edited. New work is added as new files.
+
+**Honesty about the evidence**
+
+- Anything excluded is written down with the reason. Off-topic is a reason; subject is
+  not (see "Research never censors").
+- Count posts, not quotes: a pattern's count is the number of sampled posts that show it,
+  and each post is tagged against one shared list of patterns. A post is not a person,
+  but one eager poster cannot be counted ten times. Say how the posts were chosen. Only a
+  random sample lets a count say how common something is among posts. The October 2026
+  round counted quotes the readers chose; those counts show nothing about how common.
+- Say what is still unread, and how much.
+- An attempt that found little or nothing is recorded as that, with the reason, at the top
+  of the kind folder's README. Saved pages and empty files are not research.
+- When a script is turned away, do not stop there: follow
+  `~/GitHub/_home/playbooks/collect-through-a-browser.md`.
+- Keep and label provenance: commercial, fictional, second-hand or AI-written passages
+  are marked, not removed.
+- When a conclusion changes, record it with the date: what it said, what it says now,
+  and the quote ids behind the change.
+
+**Doing the work with agents**
+
+- Split the reading: about 300 posts per reader.
+- Merge in two steps: theme digests of about 1,200 quotes each, then one agent merges
+  the digests. One agent given several thousand quotes directly used about a tenth.
+- Agents write files; the supervisor checks and commits, one commit per batch. Every
+  reproduced quote is compared with its source by a script before the commit.
+- A piece that fails the check is redone whole, once. If it fails again, stop and have
+  a person look.
+- The brief fixes one layout for quotes in written files, so the checking script can
+  read every agent's output.
+- The scripts for sampling and checking live once, in `_tools/` at the top of this repo.
+  A niche's own `_tools/` holds only checks particular to it.
+- Working figures (Codex, `gpt-6.1-sol`, xhigh): five agents at a time, 25 to 30 minutes
+  per batch, about 2 to 2.5 percent of weekly usage per 1,000 posts.
+
+## Material that fits several niches
+
+File it once, under the niche it was collected for. The other niches' avatars get a
+pointer line under "Also relevant research".
+
+## Size
+
+This repo is meant to be large. Videos, screenshots, saved sites and whole corpora belong
+here when they were part of the research. Do not leave material out to save space.
+
+The one hard limit is GitHub's: it rejects any single file over 100 MB. The commit hook
+stops files over 95 MB. Split such a file into parts (as the Reddit archives here already
+are), or keep it on disk and on the NAS backup and say so in the niche README.
+After cloning, run: `git config core.hooksPath .githooks`
+
+ succeeded in 1864ms:
+# Digest 09: pattern 7, Learning to eat and drink as a skill
+
+Share: baby-development/_work/2026-11/digests-age-reread/share-09.md. Yes posts: 18. Near posts: 4.
+
+## Pattern 7, share 09: yes posts
+
+### The parent wants to teach straw drinking after attempts have failed.
+
+2 of 18 posts.
+
+These parents describe children aged 2 and 2.6 years who have not learned to drink through straws. One has moved from bottles to sippy cups and is approaching open-cup use; the other still uses a bottle for water despite trying yogurt and liquid trapped in a straw. They want ways to teach the skill, rather than simply omit straws.
+
+- "I already tried the yogurt method, the one where you put water in the straw and putting your finger over the top of the straw to trap a small amount of liquid inside. But I still cant teach my son to use straw." [ar029-0054]
+- "So far our attempts to teach him have left him frustrated and we have better success with open cups than straw cups but we dont want to skip straws entirely." [ar069-0003]
+- "My son is already 2.6 years old and still uses bottle to drink water." [ar029-0055]
+
+**But:** nothing found against it.
+
+Posts: 1seee2c 1vf1zpg
+
+### The parent wants to end comfort bottles even though the child can already drink from cups.
+
+3 of 18 posts.
+
+These parents of two-year-olds, including a 2.25-year-old, describe cup competence alongside a specific attachment to bottles for milk, sleep or soothing. They have watered milk down, offered familiar cups, poured the same milk between containers or reduced bottles gradually. Questions range from stopping abruptly to using a bottle fairy and changing bedtime at the same time.
+
+- "I’ve started watering down his milk in the morning and sometimes I offer it to him in a straw cup but he gets so pissed. Should I just cold turkey cut him off bottles? He drinks from open cup and straw cup just fine through the day." [ar061-0033]
+- "Tonight, we even did an experiment where he poured the milk directly from his bottle into his favorite sippy cup. He took one sip and made a completely disgusted face. He genuinely hated it, even though the milk tasted fine. It seems like a pure sensory/comfort association with the bottle itself." [ar006-0129]
+- "We were down to just the nap time one and a bottle full of water at night, but randomly around 1.5 she got super re-attached and just will not be redirected or soothed if she doesn’t have one." [ar046-0123]
+- "Our plan is to do a variation of the Swedish bottle fairy idea to get her to give up bottles semi-voluntarily. This plan focuses on the idea of “graduating” to be a big girl and passing on the bottles to babies" [ar046-0124]
+
+**But:** nothing found against it.
+
+Posts: 1tg2o8n 1upjcuq 1x8on3z
+
+### The parent wants to replace bottles with cups but the child refuses the alternatives.
+
+3 of 18 posts.
+
+These posts concern a two-year-old, a child aged 2 years 10 months and an almost-three-year-old. Parents describe rejected cups and bottles kept for milk, water, nighttime or soothing; one has bought more than fifty cup types and waited through a tantrum that ended in vomiting. One parent compares medical advice to wean with reassurance from people around them that older bottle use is ordinary.
+
+- "Yes I've rode out the tantrum he goes until he throws up it's terrible. I've given him just water in his bottles (tip from my mom) and he didn't care, he just wants his bottle." [ar051-0062]
+- "I tried to get him used to drink out of a cute cup but he denies. […] He‘s not a very good eater (especially in the evening), he prefers his milk bottle." [ar074-0099]
+- "My almost three year old daughter refuses to give up her Dr. Browns bottle. She only drinks water out of it, but refuses to use a sippy cup. She also likes to go to bed with it at night and drinks water out of it while sleeping." [ar027-0144]
+- "was there a cup that clicked for your bottle obsessed toddlers? how do I get him off of the bottle without the fits, I know I have to do this ASAP but I can't stand him working himself up so badly." [ar051-0063]
+
+**But:** Cup refusal is not absolute in every post: "He will accept drinking water from either an open cup or from my water bottle, but only a sip or two and then he'll ask for his baba and throw a fit until he gets it." [ar051-0062]
+
+Posts: 1v95ssd 1vhcytr 1wv8a5o
+
+### The parent wants independent eating after hospital stays made feeding the child a habit.
+
+2 of 18 posts.
+
+Both parents describe two-year-olds who can feed themselves but are still frequently fed by a parent after hospital care. One links the change to two hospitalizations, weight worries and survival while working, with current molar pain making meals worse; the other began hand-feeding around another brain surgery at about 20 months. They want to change the habit but fear inadequate intake or the child becoming hard to regulate emotionally.
+
+- "Then he was hospitalised twice over a span of 5 months and regressed to being spoon-fed. We were super stressed about his overall weight and development, so we did whatever we could to feed him whilst working full-time jobs. What was survival mode turned into a regular thing." [ar079-0033]
+- "He’s totally capable of feeding himself, but I don’t know how to break the cycle. I know I could just put the food down and let him eat if he’s hungry. But then he’ll turn into a moody mess. I think he has a harder time regulating his emotions due to his history with his brain surgeries. I’m just at a loss" [ar031-0045]
+- "Gaaah, I am so scared to transition into self-feeding and be okay with him not eating properly because I'm so used to making sure every bite gets into him." [ar079-0038]
+- "I don't regret it (if you're going to judge, please skip this post), but now would like to work towards more independent feeding." [ar079-0034]
+
+**But:** The children do show independent eating in some circumstances: "He will feed himself if it’s a preferred food like pizza, pickles, anything like that." [ar031-0043] The other parent also says: "Sometimes he'll feed himself, but he was eating quite well until the molars started coming." [ar079-0031]
+
+Posts: 1tt2c70 1uo58lq
+
+### The parent wonders whether feeding a formerly independent child provides connection.
+
+1 of 18 posts.
+
+In this post about a two-year-old, the parent has begun feeding a daughter who used to be independent. The parent names mom guilt, wonders whether the request is for connection and asks whether others see the same thing; the post does not establish the child’s motive.
+
+- "I’ve refused to feed her most times because she used to be super independent" [ar062-0105]
+- "recently I’ve been feeling mom guilt" [ar062-0105]
+- "maybe she’s just wanting connection so I been feeding her. Anyone else?" [ar062-0105]
+
+**But:** nothing found against it.
+
+Posts: 1vwpie1
+
+### The parent wants direct breastfeeding to work because pumping is wearing them down.
+
+1 of 18 posts.
+
+The parent of an 11-week-old born at 36 weeks 5 days describes early latch attempts escalating the baby’s hunger and frustration. After roughly two months of exclusive pumping without much further latch practice, the parent asks whether breastfeeding can still be established around three months. Feeding, pumping and housework are taking a toll on the parent’s mental health.
+
+- "Early on I tried to get him to latch before feeding him expressed milk but it wasn't really working out - he'd go from 0 to 60 so quick with his hunger cues, and his frustration from not latching made it so much worse." [ar049-0051]
+- "So I've basically been EP for two months without really trying to get him to latch." [ar049-0051]
+- "The thing is, it's really starting to take a toll on my mental health - if I'm not feeding him from bottle, I'm pumping." [ar049-0052]
+- "So have any of you had any luck getting baby to latch at around 3 months if they've been bottle fed EBM from the jump? Or am I out of luck?" [ar049-0052]
+
+**But:** nothing found against it.
+
+Posts: 1ur6k2q
+
+### The parent shares a later move from bottles to breastfeeding to challenge early pressure.
+
+1 of 18 posts.
+
+Writing at 12 weeks postpartum, this parent describes mostly bottle-feeding pumped milk for the first five or six weeks, followed by mostly breastfeeding by six weeks. Nipple shields and bottle-feeding in a breastfeeding position accompanied the transition, while the father continues a daily bottle. The parent objects to early pressure and judgment and asks why parents cannot receive help with a later transition.
+
+- "I absolutely hated the pressure to breastfeed at the beginning, and all of the judgement when you tell people you’re not doing it." [ar059-0008]
+- "So I got some nipple shields to help him latch, had him in a BF position with the bottle by my boob when he was being fed with pumped milk, and then by 6 weeks he was mostly breastfeeding (his dad still gives him a bottle every day because it’s nice for them to have that time together)." [ar059-0007]
+- "Why not ease that pressure, let both parents help with the feeding at the beginning when hormones are high and sleep hours are low, and then assist with the transition from bottle to boob later on?" [ar059-0008]
+
+**But:** The parent explicitly limits the example’s reach: "I understand that doing things this way around may not work for everyone" [ar059-0008]
+
+Posts: 1sfn2ef
+
+### The parent needs a breastfed baby to accept bottles and asks what else to try.
+
+2 of 18 posts.
+
+These parents of nine- and ten-week-olds describe bottle refusal with different starting points: one baby previously accepted a daily expressed-milk bottle, while the other will not accept bottles despite many approaches. Attempts include teat-flow changes, four bottle brands, temperatures, positions and different caregivers. One parent wants to stop breastfeeding because of its personal toll and move from expressed milk to hypoallergenic formula for reported CMPA; the other wants bottles available for the husband’s feeds and time away.
+
+- "Breastfeeding is slowly destroying me and I can't keep doing it but I feel like I have no choice with the bottle refusal." [ar030-0111]
+- "This week, baby suddenly started refusing the bottle. We've never had this issue before, he'd always taken it without fuss." [ar021-0154]
+- "We've tried various brands (Philips Avent, MAM, lanisoh and nuk) as well as different teat flows. Experimented with different temperatures. I've attempted to feed, as has my husband and my mother. We've tried sitting up position, lie-down feeding, I've tried nursing and then doing the ol'switcheroo with the bottle and she will just not take it." [ar030-0109]
+- "Ive tried changing from extra slow teats to just slow flow and its made no difference." [ar021-0154]
+
+**But:** nothing found against it.
+
+Posts: 1w6iqei 1w8xgc8
+
+### The parent wants a bottle flow that lets the baby feed without falling asleep or choking.
+
+1 of 18 posts.
+
+After eight weeks of breastfeeding and a return to work, this parent reports that the daughter now falls asleep after half an ounce with a Lansinoh extra-slow nipple. Moving to the slow flow seems to choke and upset her. The parent asks for a compatible intermediate option and says they may need to leave work after intake of only 0.75 ounces in five hours.
+
+- "She did okay last week with the Lansinoh XS flow nipple but now she is falling asleep while feeding after only 0.5 oz." [ar074-0112]
+- "I upped to the S flow nipple and it seems to be choking her up and she gets upset." [ar074-0112]
+- "Are there any other brands of nipples that fit lansinoh bottles that are kind of an in between flow that your babies have liked?" [ar074-0112]
+- "I’m about to have to leave work because she’s only eaten 0.75oz in 5 hours and seems to not want any more." [ar074-0112]
+
+**But:** nothing found against it.
+
+Posts: 1vy0zll
+
+### The parent fears choking when a capable eater stuffs too much food into the mouth.
+
+1 of 18 posts.
+
+The parent of a child who turned two a month earlier describes fast eating, large bites and mouth-stuffing during excitement or play. Modelling slow eating and removing food have not resolved it, and the parent says the child mimics Cookie Monster. The parent wants to teach safer eating and repeatedly names fear of choking.
+
+- "Thankfully, he has not choked yet, but I’m so terrified he will." [ar032-0027]
+- "I’ve tried consequences recently, by taking his food away when he doesn’t stop, but has yet to be effective." [ar032-0027]
+- "Like today, he had avocado toast pieces and he decided he wanted to make a sandwich out of then and stacked them together and then shoved all the pieces (so basically a whole piece of toast ) in his mouth." [ar032-0029]
+
+**But:** nothing found against it.
+
+Posts: 1sp3kjz
+
+### The parent questions choking warnings after seeing other parents offer whole meat sticks.
+
+1 of 18 posts.
+
+This parent of a two-year-old has not offered meat sticks and normally quarters foods such as hot dogs. Seeing other parents offer whole meat sticks to children aged two or younger leads them to compare that practice with warnings to wait until four. The parent asks whether the warnings are overly cautious or whether the whole food is actually safe, describing the question as curiosity.
+
+- "Everywhere I look, it explicitly says that it's a HUGE choking risk and you should never give a whole Chomps to a 2yo, and shouldn't until they're 4yo." [ar068-0091]
+- "I've been seeing a few different posts around reddit where a parent will give their 2yo or under a whole meat stick, like Chomps. I haven't given my 2yo a meat stick yet, but have always quartered up things like hot dogs when it's for lunch/dinner." [ar068-0090]
+- "My question is.. are all these sources erring on the major side of caution, or is it actually safe to give them whole meat sticks?" [ar068-0092]
+
+**But:** nothing found against it.
+
+Posts: 1wdzhv1
+
+## Pattern 7, share 09: near posts
+
+### The parent wants more food accepted but worries about withholding alternatives.
+
+1 of 4 posts.
+
+This parent describes a two-year-old with a dependable breakfast and snack, many refused foods and occasional small amounts of others. They have offered varied tastes and textures, had ties released and feeding and speech assessed, and often make an alternative when family food is thrown. The husband favors fewer choices and going hungry if needed, while the parent worries about a child at the fifth weight percentile, disrupted sleep and wasted homemade food; a sister advises waiting for adjustment to preschool.
+
+- "We have been giving him a variety of food and textures, introducing him to spices and foods of different temperatures from the start, but we don't seem to be making any progress.  Every meal is stressing me out." [ar021-0136]
+- "I would love to just give him what we are having, but when I have tried, he just throws it and then won't eat it, and then I cave and make him something else." [ar021-0143]
+- "He thinks he will eat when he gets hungry enough, and if he doesn't eat the chili we are having, for instance, then I should put him to bed hungry and he will figure it out the next day." [ar021-0144]
+- "Our little guy is healthy and happy, but he is tiny (5th percentile for weight), so I get worried about putting him to bed with no food - but maybe the learning curve would be quick, and I should get over it?" [ar021-0145]
+
+**But:** A previous feeding assessment did not identify a mouth-movement problem: "they watched him eat and said his mouth was moving well and there weren't any issues" [ar021-0138] The child also has some reliably accepted food: "He loves breakfast and eats it every day" [ar021-0139]
+
+Posts: 1vvu20t
+
+### The parent wants possible allergy investigated after feeding improved and then became uncomfortable.
+
+1 of 4 posts.
+
+The parent of a six-week-old describes hospital feeding support after a 14% weight loss, followed by improved breastfeeding after a posterior tongue-tie release at ten days. More recent blood and mucus in stools, vomiting, rash and distressed shorter feeds lead the parent to ask about CMPA investigation and dairy elimination. A midwife raised possible intolerance, while the GP was unconcerned about CMPA because the baby was settling and gaining weight.
+
+- "His feeding has also changed, he can seem very hungry but then within 30 seconds–1 minute of latching he becomes frantic, arches/straightens his body, cries and comes off, so feeds are often much shorter and more frequent and I’m struggling to get him satisfied as he’s just too uncomfortable." [ar063-0097]
+- "I did ask about CMPA, but the GP said he wouldn’t be concerned because he would expect a baby with it to be completely inconsolable, covered in rashes and losing weight — which isn’t the case with my baby." [ar063-0098]
+- "Does this sound like symptoms worth pushing to investigate, even though he is generally able to be settled eventually and gaining weight? And is a dairy elimination trial something I should be asking about?" [ar063-0099]
+
+**But:** The account also reports substantial improvement after release and good weight gain: "After that, breastfeeding improved massively. He started latching well, feeding efficiently, coming off satisfied and gaining weight really well." [ar063-0095]
+
+Posts: 1w2s888
+
+### The parent wants direct breastfeeding to work because pumping is wearing them down.
+
+1 of 4 posts.
+
+At ten weeks postpartum, this parent describes a shallow, painful latch, an unhelpful hospital lactation visit while recovering from a birth injury, and weeks of exclusive pumping with occasional nursing. They name exhaustion, anger about pumping and washing dishes, concern about dwindling supply and lack of time for repeated consultant visits. They still strongly want to give breastmilk until nine months or a year and anticipate hating themselves for stopping.
+
+- "I hate pumping. I want to nurse my baby so bad but her latch is so bad and so shallow and it hurts so much." [ar081-0112]
+- "I’m so fucjing tired and so upset. I’m so sick of washing the fcking dishes all the time and all the other bullshit that comes along with being an exclusive pumper." [ar081-0113]
+- "And I don’t have time to see a freaking lactation consultant. I’d probably have to see them multiple fcking times in order to get her to nurse properly and I don’t want to do that!!!!" [ar081-0113]
+- "I hate this so much but I think I would hate myself for quitting even more." [ar081-0115]
+
+**But:** Direct nursing is possible occasionally, despite the painful latch: "I nurse her every once in a while in a pinch or if I really don’t want to pump." [ar081-0113]
+
+Posts: 1w8mkyo
+
+### The parent asks whether painful newborn breastfeeding means the latch needs help or feeding should change.
+
+1 of 4 posts.
+
+A first-time mother of a two-day-old, nearly three-day-old newborn describes painful breastfeeding, raw nipples, some cracking and cluster feeding that leaves little sleep. She has used nipple cream and silver cups and ordered shields and heat/cooling pads for same-day delivery. She asks whether this is normal, whether she should endure it, or whether to supplement or stop.
+
+- "I’m worried I’m doing it all wrong (as we do!) and knew breastfeeding wouldn’t be pleasant." [ar081-0122]
+- "Left nipple has some cracking, right looks fine. Both are pretty okay looking but feel so very raw afterwards and deeply painful when he feeds." [ar081-0123]
+- "I’ve ordered all the things for same day delivery (shields, heat/cooling pads, etc.) but I’m worried it’s my latch or something. Has anyone had anything similar? Is this just normal? Do I need to just get through it? Is it a sign I should stop or add formula to the mix? Any reassurance or advice would be amazing." [ar081-0124]
+
+**But:** The mother also reports a successful latch earlier: "after the first home visit where he latched perfectly" [ar081-0122]
+
+Posts: 1wb7n2r
+
+## Pattern 7, share 09: across the yes posts
+
+| Tag | Posts |
+|---|---|
+| tried | 18 of 18 |
+| others | 5 of 18 |
+| bought | 1 of 18 |
+| feeling | 12 of 18 |
+
+### What they tried, in their words
+
+- "I already tried the yogurt method, the one where you put water in the straw and putting your finger over the top of the straw to trap a small amount of liquid inside. But I still cant teach my son to use straw." [ar029-0054]
+- "I’ve tried consequences recently, by taking his food away when he doesn’t stop, but has yet to be effective." [ar032-0027]
+- "I’ve started watering down his milk in the morning and sometimes I offer it to him in a straw cup but he gets so pissed." [ar061-0033]
+- "Tonight, we even did an experiment where he poured the milk directly from his bottle into his favorite sippy cup. He took one sip and made a completely disgusted face." [ar006-0129]
+- "We were super stressed about his overall weight and development, so we did whatever we could to feed him whilst working full-time jobs. What was survival mode turned into a regular thing." [ar079-0033]
+- "So I got some nipple shields to help him latch, had him in a BF position with the bottle by my boob when he was being fed with pumped milk, and then by 6 weeks he was mostly breastfeeding (his dad still gives him a bottle every day because it’s nice for them to have that time together)." [ar059-0007]
+- "We've tried various brands (Philips Avent, MAM, lanisoh and nuk) as well as different teat flows. Experimented with different temperatures. I've attempted to feed, as has my husband and my mother. We've tried sitting up position, lie-down feeding, I've tried nursing and then doing the ol'switcheroo with the bottle and she will just not take it." [ar030-0109]
+- "I upped to the S flow nipple and it seems to be choking her up and she gets upset." [ar074-0112]
+- "Yes I've rode out the tantrum he goes until he throws up it's terrible." [ar051-0062]
+- "I’ve refused to feed her most times because she used to be super independent but recently I’ve been feeling mom guilt and maybe she’s just wanting connection so I been feeding her." [ar062-0105]
+
+### What other people told them or did
+
+This tag counts reported advice or actions by people other than the focal child, including named co-caregivers; it does not treat an unspecified “we” as evidence of another person’s separate action.
+
+- "I've gone to the pediatrician for this and at least in my country (Mexico) while they do tell me he should've been weaned off of it by now the societal norm is for them to keep taking at least night bottles until they decide to stop." [ar051-0060]
+- "So everyone keeps telling me not to stress about it and that he'll eventually stop, that their kids had a bottle until 5-7 years old and their teeth were fine but my husband has awful teeth genetics he has had to spend a fortune on adult braces and cavity issues so I'm very concerned." [ar051-0061]
+- "I've given him just water in his bottles (tip from my mom) and he didn't care, he just wants his bottle." [ar051-0062]
+- "Everywhere I look, it explicitly says that it's a HUGE choking risk and you should never give a whole Chomps to a 2yo, and shouldn't until they're 4yo." [ar068-0091]
+- "I absolutely hated the pressure to breastfeed at the beginning, and all of the judgement when you tell people you’re not doing it." [ar059-0008]
+- "his dad still gives him a bottle every day because it’s nice for them to have that time together" [ar059-0007]
+- "Since he was 2 weeks old ive pumpes for 15 minutes each morning and that milk is set aside for my husband to do a night feed or do feeds when im out or they have some alone time." [ar021-0154]
+- "I've attempted to feed, as has my husband and my mother." [ar030-0109]
+
+### What they bought or paid for
+
+Only one yes post explicitly reports buying something for this feeding problem, so there is one purchase quote rather than five. Using a brand or owning feeding equipment is not counted as payment; “got some nipple shields” does not specify buying them. The husband’s adult dental spending is reported context, not a purchase for the child’s feeding problem.
+
+- "I've bought easily over 50 different types of cups, even smaller versions of my water bottle but he just. wants. the. freaking. bottle." [ar051-0062]
+
+### How they say they feel
+
+This tag counts feelings explicitly named by the parent, including curiosity and hope; requests for advice, wishes to change feeding and feelings attributed only to the child do not by themselves qualify.
+
+- "Thankfully, he has not choked yet, but I’m so terrified he will." [ar032-0027]
+- "Every other no I can take. A no for meals makes me panic." [ar079-0037]
+- "I’m just at a loss" [ar031-0045]
+- "The thing is, it's really starting to take a toll on my mental health" [ar049-0052]
+- "Hi! I am ao frustrated rn." [ar029-0054]
+- "This is a desperate cry for help from a mom of 2 under 2 lol." [ar051-0109]
+- "recently I’ve been feeling mom guilt" [ar062-0105]
+- "Breastfeeding is slowly destroying me and I can't keep doing it but I feel like I have no choice with the bottle refusal." [ar030-0111]
+- "I absolutely hated the pressure to breastfeed at the beginning, and all of the judgement when you tell people you’re not doing it." [ar059-0008]
+- "Not meant to shame or anything, just genuine curiosity!" [ar068-0093]
+- "I’m hopeful it will be easier to just change it all up rather than try to figure out how to do our normal bedtime with no water bottle and then later try to change it on her again." [ar046-0126]
+- "I was worried about him getting dehydrated." [ar061-0032]
+
+exec
+/usr/bin/zsh -lc 'cat baby-development/evidence/2026-11/age-reread/digest-09.md' in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+# Digest 09: pattern 7, Learning to eat and drink as a skill
+
+Share: baby-development/_work/2026-11/digests-age-reread/share-09.md. Yes posts: 18. Near posts: 4.
+
+## Pattern 7, share 09: yes posts
+
+### The parent wants to teach straw drinking after attempts have failed.
+
+2 of 18 posts.
+
+These parents describe children aged 2 and 2.6 years who have not learned to drink through straws. One has moved from bottles to sippy cups and is approaching open-cup use; the other still uses a bottle for water despite trying yogurt and liquid trapped in a straw. They want ways to teach the skill, rather than simply omit straws.
+
+- "I already tried the yogurt method, the one where you put water in the straw and putting your finger over the top of the straw to trap a small amount of liquid inside. But I still cant teach my son to use straw." [ar029-0054]
+- "So far our attempts to teach him have left him frustrated and we have better success with open cups than straw cups but we dont want to skip straws entirely." [ar069-0003]
+- "My son is already 2.6 years old and still uses bottle to drink water." [ar029-0055]
+
+**But:** nothing found against it.
+
+Posts: 1seee2c 1vf1zpg
+
+### The parent wants to end comfort bottles even though the child can already drink from cups.
+
+3 of 18 posts.
+
+These parents of two-year-olds, including a 2.25-year-old, describe cup competence alongside a specific attachment to bottles for milk, sleep or soothing. They have watered milk down, offered familiar cups, poured the same milk between containers or reduced bottles gradually. Questions range from stopping abruptly to using a bottle fairy and changing bedtime at the same time.
+
+- "I’ve started watering down his milk in the morning and sometimes I offer it to him in a straw cup but he gets so pissed. Should I just cold turkey cut him off bottles? He drinks from open cup and straw cup just fine through the day." [ar061-0033]
+- "Tonight, we even did an experiment where he poured the milk directly from his bottle into his favorite sippy cup. He took one sip and made a completely disgusted face. He genuinely hated it, even though the milk tasted fine. It seems like a pure sensory/comfort association with the bottle itself." [ar006-0129]
+- "We were down to just the nap time one and a bottle full of water at night, but randomly around 1.5 she got super re-attached and just will not be redirected or soothed if she doesn’t have one." [ar046-0123]
+- "Our plan is to do a variation of the Swedish bottle fairy idea to get her to give up bottles semi-voluntarily. This plan focuses on the idea of “graduating” to be a big girl and passing on the bottles to babies" [ar046-0124]
+
+**But:** nothing found against it.
+
+Posts: 1tg2o8n 1upjcuq 1x8on3z
+
+### The parent wants to replace bottles with cups but the child refuses the alternatives.
+
+3 of 18 posts.
+
+These posts concern a two-year-old, a child aged 2 years 10 months and an almost-three-year-old. Parents describe rejected cups and bottles kept for milk, water, nighttime or soothing; one has bought more than fifty cup types and waited through a tantrum that ended in vomiting. One parent compares medical advice to wean with reassurance from people around them that older bottle use is ordinary.
+
+- "Yes I've rode out the tantrum he goes until he throws up it's terrible. I've given him just water in his bottles (tip from my mom) and he didn't care, he just wants his bottle." [ar051-0062]
+- "I tried to get him used to drink out of a cute cup but he denies. […] He‘s not a very good eater (especially in the evening), he prefers his milk bottle." [ar074-0099]
+- "My almost three year old daughter refuses to give up her Dr. Browns bottle. She only drinks water out of it, but refuses to use a sippy cup. She also likes to go to bed with it at night and drinks water out of it while sleeping." [ar027-0144]
+- "was there a cup that clicked for your bottle obsessed toddlers? how do I get him off of the bottle without the fits, I know I have to do this ASAP but I can't stand him working himself up so badly." [ar051-0063]
+
+**But:** Cup refusal is not absolute in every post: "He will accept drinking water from either an open cup or from my water bottle, but only a sip or two and then he'll ask for his baba and throw a fit until he gets it." [ar051-0062]
+
+Posts: 1v95ssd 1vhcytr 1wv8a5o
+
+### The parent wants independent eating after hospital stays made feeding the child a habit.
+
+2 of 18 posts.
+
+Both parents describe two-year-olds who can feed themselves but are still frequently fed by a parent after hospital care. One links the change to two hospitalizations, weight worries and survival while working, with current molar pain making meals worse; the other began hand-feeding around another brain surgery at about 20 months. They want to change the habit but fear inadequate intake or the child becoming hard to regulate emotionally.
+
+- "Then he was hospitalised twice over a span of 5 months and regressed to being spoon-fed. We were super stressed about his overall weight and development, so we did whatever we could to feed him whilst working full-time jobs. What was survival mode turned into a regular thing." [ar079-0033]
+- "He’s totally capable of feeding himself, but I don’t know how to break the cycle. I know I could just put the food down and let him eat if he’s hungry. But then he’ll turn into a moody mess. I think he has a harder time regulating his emotions due to his history with his brain surgeries. I’m just at a loss" [ar031-0045]
+- "Gaaah, I am so scared to transition into self-feeding and be okay with him not eating properly because I'm so used to making sure every bite gets into him." [ar079-0038]
+- "I don't regret it (if you're going to judge, please skip this post), but now would like to work towards more independent feeding." [ar079-0034]
+
+**But:** The children do show independent eating in some circumstances: "He will feed himself if it’s a preferred food like pizza, pickles, anything like that." [ar031-0043] The other parent also says: "Sometimes he'll feed himself, but he was eating quite well until the molars started coming." [ar079-0031]
+
+Posts: 1tt2c70 1uo58lq
+
+### The parent wonders whether feeding a formerly independent child provides connection.
+
+1 of 18 posts.
+
+In this post about a two-year-old, the parent has begun feeding a daughter who used to be independent. The parent names mom guilt, wonders whether the request is for connection and asks whether others see the same thing; the post does not establish the child’s motive.
+
+- "I’ve refused to feed her most times because she used to be super independent" [ar062-0105]
+- "recently I’ve been feeling mom guilt" [ar062-0105]
+- "maybe she’s just wanting connection so I been feeding her. Anyone else?" [ar062-0105]
+
+**But:** nothing found against it.
+
+Posts: 1vwpie1
+
+### The parent wants direct breastfeeding to work because pumping is wearing them down.
+
+1 of 18 posts.
+
+The parent of an 11-week-old born at 36 weeks 5 days describes early latch attempts escalating the baby’s hunger and frustration. After roughly two months of exclusive pumping without much further latch practice, the parent asks whether breastfeeding can still be established around three months. Feeding, pumping and housework are taking a toll on the parent’s mental health.
+
+- "Early on I tried to get him to latch before feeding him expressed milk but it wasn't really working out - he'd go from 0 to 60 so quick with his hunger cues, and his frustration from not latching made it so much worse." [ar049-0051]
+- "So I've basically been EP for two months without really trying to get him to latch." [ar049-0051]
+- "The thing is, it's really starting to take a toll on my mental health - if I'm not feeding him from bottle, I'm pumping." [ar049-0052]
+- "So have any of you had any luck getting baby to latch at around 3 months if they've been bottle fed EBM from the jump? Or am I out of luck?" [ar049-0052]
+
+**But:** nothing found against it.
+
+Posts: 1ur6k2q
+
+### The parent shares a later move from bottles to breastfeeding to challenge early pressure.
+
+1 of 18 posts.
+
+Writing at 12 weeks postpartum, this parent describes mostly bottle-feeding pumped milk for the first five or six weeks, followed by mostly breastfeeding by six weeks. Nipple shields and bottle-feeding in a breastfeeding position accompanied the transition, while the father continues a daily bottle. The parent objects to early pressure and judgment and asks why parents cannot receive help with a later transition.
+
+- "I absolutely hated the pressure to breastfeed at the beginning, and all of the judgement when you tell people you’re not doing it." [ar059-0008]
+- "So I got some nipple shields to help him latch, had him in a BF position with the bottle by my boob when he was being fed with pumped milk, and then by 6 weeks he was mostly breastfeeding (his dad still gives him a bottle every day because it’s nice for them to have that time together)." [ar059-0007]
+- "Why not ease that pressure, let both parents help with the feeding at the beginning when hormones are high and sleep hours are low, and then assist with the transition from bottle to boob later on?" [ar059-0008]
+
+**But:** The parent explicitly limits the example’s reach: "I understand that doing things this way around may not work for everyone" [ar059-0008]
+
+Posts: 1sfn2ef
+
+### The parent needs a breastfed baby to accept bottles and asks what else to try.
+
+2 of 18 posts.
+
+These parents of nine- and ten-week-olds describe bottle refusal with different starting points: one baby previously accepted a daily expressed-milk bottle, while the other will not accept bottles despite many approaches. Attempts include teat-flow changes, four bottle brands, temperatures, positions and different caregivers. One parent wants to stop breastfeeding because of its personal toll and move from expressed milk to hypoallergenic formula for reported CMPA; the other wants bottles available for the husband’s feeds and time away.
+
+- "Breastfeeding is slowly destroying me and I can't keep doing it but I feel like I have no choice with the bottle refusal." [ar030-0111]
+- "This week, baby suddenly started refusing the bottle. We've never had this issue before, he'd always taken it without fuss." [ar021-0154]
+- "We've tried various brands (Philips Avent, MAM, lanisoh and nuk) as well as different teat flows. Experimented with different temperatures. I've attempted to feed, as has my husband and my mother. We've tried sitting up position, lie-down feeding, I've tried nursing and then doing the ol'switcheroo with the bottle and she will just not take it." [ar030-0109]
+- "Ive tried changing from extra slow teats to just slow flow and its made no difference." [ar021-0154]
+
+**But:** nothing found against it.
+
+Posts: 1w6iqei 1w8xgc8
+
+### The parent wants a bottle flow that lets the baby feed without falling asleep or choking.
+
+1 of 18 posts.
+
+After eight weeks of breastfeeding and a return to work, this parent reports that the daughter now falls asleep after half an ounce with a Lansinoh extra-slow nipple. Moving to the slow flow seems to choke and upset her. The parent asks for a compatible intermediate option and says they may need to leave work after intake of only 0.75 ounces in five hours.
+
+- "She did okay last week with the Lansinoh XS flow nipple but now she is falling asleep while feeding after only 0.5 oz." [ar074-0112]
+- "I upped to the S flow nipple and it seems to be choking her up and she gets upset." [ar074-0112]
+- "Are there any other brands of nipples that fit lansinoh bottles that are kind of an in between flow that your babies have liked?" [ar074-0112]
+- "I’m about to have to leave work because she’s only eaten 0.75oz in 5 hours and seems to not want any more." [ar074-0112]
+
+**But:** nothing found against it.
+
+Posts: 1vy0zll
+
+### The parent fears choking when a capable eater stuffs too much food into the mouth.
+
+1 of 18 posts.
+
+The parent of a child who turned two a month earlier describes fast eating, large bites and mouth-stuffing during excitement or play. Modelling slow eating and removing food have not resolved it, and the parent says the child mimics Cookie Monster. The parent wants to teach safer eating and repeatedly names fear of choking.
+
+- "Thankfully, he has not choked yet, but I’m so terrified he will." [ar032-0027]
+- "I’ve tried consequences recently, by taking his food away when he doesn’t stop, but has yet to be effective." [ar032-0027]
+- "Like today, he had avocado toast pieces and he decided he wanted to make a sandwich out of then and stacked them together and then shoved all the pieces (so basically a whole piece of toast ) in his mouth." [ar032-0029]
+
+**But:** nothing found against it.
+
+Posts: 1sp3kjz
+
+### The parent questions choking warnings after seeing other parents offer whole meat sticks.
+
+1 of 18 posts.
+
+This parent of a two-year-old has not offered meat sticks and normally quarters foods such as hot dogs. Seeing other parents offer whole meat sticks to children aged two or younger leads them to compare that practice with warnings to wait until four. The parent asks whether the warnings are overly cautious or whether the whole food is actually safe, describing the question as curiosity.
+
+- "Everywhere I look, it explicitly says that it's a HUGE choking risk and you should never give a whole Chomps to a 2yo, and shouldn't until they're 4yo." [ar068-0091]
+- "I've been seeing a few different posts around reddit where a parent will give their 2yo or under a whole meat stick, like Chomps. I haven't given my 2yo a meat stick yet, but have always quartered up things like hot dogs when it's for lunch/dinner." [ar068-0090]
+- "My question is.. are all these sources erring on the major side of caution, or is it actually safe to give them whole meat sticks?" [ar068-0092]
+
+**But:** nothing found against it.
+
+Posts: 1wdzhv1
+
+## Pattern 7, share 09: near posts
+
+### The parent wants more food accepted but worries about withholding alternatives.
+
+1 of 4 posts.
+
+This parent describes a two-year-old with a dependable breakfast and snack, many refused foods and occasional small amounts of others. They have offered varied tastes and textures, had ties released and feeding and speech assessed, and often make an alternative when family food is thrown. The husband favors fewer choices and going hungry if needed, while the parent worries about a child at the fifth weight percentile, disrupted sleep and wasted homemade food; a sister advises waiting for adjustment to preschool.
+
+- "We have been giving him a variety of food and textures, introducing him to spices and foods of different temperatures from the start, but we don't seem to be making any progress.  Every meal is stressing me out." [ar021-0136]
+- "I would love to just give him what we are having, but when I have tried, he just throws it and then won't eat it, and then I cave and make him something else." [ar021-0143]
+- "He thinks he will eat when he gets hungry enough, and if he doesn't eat the chili we are having, for instance, then I should put him to bed hungry and he will figure it out the next day." [ar021-0144]
+- "Our little guy is healthy and happy, but he is tiny (5th percentile for weight), so I get worried about putting him to bed with no food - but maybe the learning curve would be quick, and I should get over it?" [ar021-0145]
+
+**But:** A previous feeding assessment did not identify a mouth-movement problem: "they watched him eat and said his mouth was moving well and there weren't any issues" [ar021-0138] The child also has some reliably accepted food: "He loves breakfast and eats it every day" [ar021-0139]
+
+Posts: 1vvu20t
+
+### The parent wants possible allergy investigated after feeding improved and then became uncomfortable.
+
+1 of 4 posts.
+
+The parent of a six-week-old describes hospital feeding support after a 14% weight loss, followed by improved breastfeeding after a posterior tongue-tie release at ten days. More recent blood and mucus in stools, vomiting, rash and distressed shorter feeds lead the parent to ask about CMPA investigation and dairy elimination. A midwife raised possible intolerance, while the GP was unconcerned about CMPA because the baby was settling and gaining weight.
+
+- "His feeding has also changed, he can seem very hungry but then within 30 seconds–1 minute of latching he becomes frantic, arches/straightens his body, cries and comes off, so feeds are often much shorter and more frequent and I’m struggling to get him satisfied as he’s just too uncomfortable." [ar063-0097]
+- "I did ask about CMPA, but the GP said he wouldn’t be concerned because he would expect a baby with it to be completely inconsolable, covered in rashes and losing weight — which isn’t the case with my baby." [ar063-0098]
+- "Does this sound like symptoms worth pushing to investigate, even though he is generally able to be settled eventually and gaining weight? And is a dairy elimination trial something I should be asking about?" [ar063-0099]
+
+**But:** The account also reports substantial improvement after release and good weight gain: "After that, breastfeeding improved massively. He started latching well, feeding efficiently, coming off satisfied and gaining weight really well." [ar063-0095]
+
+Posts: 1w2s888
+
+### The parent wants direct breastfeeding to work because pumping is wearing them down.
+
+1 of 4 posts.
+
+At ten weeks postpartum, this parent describes a shallow, painful latch, an unhelpful hospital lactation visit while recovering from a birth injury, and weeks of exclusive pumping with occasional nursing. They name exhaustion, anger about pumping and washing dishes, concern about dwindling supply and lack of time for repeated consultant visits. They still strongly want to give breastmilk until nine months or a year and anticipate hating themselves for stopping.
+
+- "I hate pumping. I want to nurse my baby so bad but her latch is so bad and so shallow and it hurts so much." [ar081-0112]
+- "I’m so fucjing tired and so upset. I’m so sick of washing the fcking dishes all the time and all the other bullshit that comes along with being an exclusive pumper." [ar081-0113]
+- "And I don’t have time to see a freaking lactation consultant. I’d probably have to see them multiple fcking times in order to get her to nurse properly and I don’t want to do that!!!!" [ar081-0113]
+- "I hate this so much but I think I would hate myself for quitting even more." [ar081-0115]
+
+**But:** Direct nursing is possible occasionally, despite the painful latch: "I nurse her every once in a while in a pinch or if I really don’t want to pump." [ar081-0113]
+
+Posts: 1w8mkyo
+
+### The parent asks whether painful newborn breastfeeding means the latch needs help or feeding should change.
+
+1 of 4 posts.
+
+A first-time mother of a two-day-old, nearly three-day-old newborn describes painful breastfeeding, raw nipples, some cracking and cluster feeding that leaves little sleep. She has used nipple cream and silver cups and ordered shields and heat/cooling pads for same-day delivery. She asks whether this is normal, whether she should endure it, or whether to supplement or stop.
+
+- "I’m worried I’m doing it all wrong (as we do!) and knew breastfeeding wouldn’t be pleasant." [ar081-0122]
+- "Left nipple has some cracking, right looks fine. Both are pretty okay looking but feel so very raw afterwards and deeply painful when he feeds." [ar081-0123]
+- "I’ve ordered all the things for same day delivery (shields, heat/cooling pads, etc.) but I’m worried it’s my latch or something. Has anyone had anything similar? Is this just normal? Do I need to just get through it? Is it a sign I should stop or add formula to the mix? Any reassurance or advice would be amazing." [ar081-0124]
+
+**But:** The mother also reports a successful latch earlier: "after the first home visit where he latched perfectly" [ar081-0122]
+
+Posts: 1wb7n2r
+
+## Pattern 7, share 09: across the yes posts
+
+| Tag | Posts |
+|---|---|
+| tried | 18 of 18 |
+| others | 5 of 18 |
+| bought | 1 of 18 |
+| feeling | 12 of 18 |
+
+### What they tried, in their words
+
+- "I already tried the yogurt method, the one where you put water in the straw and putting your finger over the top of the straw to trap a small amount of liquid inside. But I still cant teach my son to use straw." [ar029-0054]
+- "I’ve tried consequences recently, by taking his food away when he doesn’t stop, but has yet to be effective." [ar032-0027]
+- "I’ve started watering down his milk in the morning and sometimes I offer it to him in a straw cup but he gets so pissed." [ar061-0033]
+- "Tonight, we even did an experiment where he poured the milk directly from his bottle into his favorite sippy cup. He took one sip and made a completely disgusted face." [ar006-0129]
+- "We were super stressed about his overall weight and development, so we did whatever we could to feed him whilst working full-time jobs. What was survival mode turned into a regular thing." [ar079-0033]
+- "So I got some nipple shields to help him latch, had him in a BF position with the bottle by my boob when he was being fed with pumped milk, and then by 6 weeks he was mostly breastfeeding (his dad still gives him a bottle every day because it’s nice for them to have that time together)." [ar059-0007]
+- "We've tried various brands (Philips Avent, MAM, lanisoh and nuk) as well as different teat flows. Experimented with different temperatures. I've attempted to feed, as has my husband and my mother. We've tried sitting up position, lie-down feeding, I've tried nursing and then doing the ol'switcheroo with the bottle and she will just not take it." [ar030-0109]
+- "I upped to the S flow nipple and it seems to be choking her up and she gets upset." [ar074-0112]
+- "Yes I've rode out the tantrum he goes until he throws up it's terrible." [ar051-0062]
+- "I’ve refused to feed her most times because she used to be super independent but recently I’ve been feeling mom guilt and maybe she’s just wanting connection so I been feeding her." [ar062-0105]
+
+### What other people told them or did
+
+This tag counts reported advice or actions by people other than the focal child, including named co-caregivers; it does not treat an unspecified “we” as evidence of another person’s separate action.
+
+- "I've gone to the pediatrician for this and at least in my country (Mexico) while they do tell me he should've been weaned off of it by now the societal norm is for them to keep taking at least night bottles until they decide to stop." [ar051-0060]
+- "So everyone keeps telling me not to stress about it and that he'll eventually stop, that their kids had a bottle until 5-7 years old and their teeth were fine but my husband has awful teeth genetics he has had to spend a fortune on adult braces and cavity issues so I'm very concerned." [ar051-0061]
+- "I've given him just water in his bottles (tip from my mom) and he didn't care, he just wants his bottle." [ar051-0062]
+- "Everywhere I look, it explicitly says that it's a HUGE choking risk and you should never give a whole Chomps to a 2yo, and shouldn't until they're 4yo." [ar068-0091]
+- "I absolutely hated the pressure to breastfeed at the beginning, and all of the judgement when you tell people you’re not doing it." [ar059-0008]
+- "his dad still gives him a bottle every day because it’s nice for them to have that time together" [ar059-0007]
+- "Since he was 2 weeks old ive pumpes for 15 minutes each morning and that milk is set aside for my husband to do a night feed or do feeds when im out or they have some alone time." [ar021-0154]
+- "I've attempted to feed, as has my husband and my mother." [ar030-0109]
+
+### What they bought or paid for
+
+Only one yes post explicitly reports buying something for this feeding problem, so there is one purchase quote rather than five. Using a brand or owning feeding equipment is not counted as payment; “got some nipple shields” does not specify buying them. The husband’s adult dental spending is reported context, not a purchase for the child’s feeding problem.
+
+- "I've bought easily over 50 different types of cups, even smaller versions of my water bottle but he just. wants. the. freaking. bottle." [ar051-0062]
+
+### How they say they feel
+
+This tag counts feelings explicitly named by the parent, including curiosity and hope; requests for advice, wishes to change feeding and feelings attributed only to the child do not by themselves qualify.
+
+- "Thankfully, he has not choked yet, but I’m so terrified he will." [ar032-0027]
+- "Every other no I can take. A no for meals makes me panic." [ar079-0037]
+- "I’m just at a loss" [ar031-0045]
+- "The thing is, it's really starting to take a toll on my mental health" [ar049-0052]
+- "Hi! I am ao frustrated rn." [ar029-0054]
+- "This is a desperate cry for help from a mom of 2 under 2 lol." [ar051-0109]
+- "recently I’ve been feeling mom guilt" [ar062-0105]
+- "Breastfeeding is slowly destroying me and I can't keep doing it but I feel like I have no choice with the bottle refusal." [ar030-0111]
+- "I absolutely hated the pressure to breastfeed at the beginning, and all of the judgement when you tell people you’re not doing it." [ar059-0008]
+- "Not meant to shame or anything, just genuine curiosity!" [ar068-0093]
+- "I’m hopeful it will be easier to just change it all up rather than try to figure out how to do our normal bedtime with no water bottle and then later try to change it on her again." [ar046-0126]
+- "I was worried about him getting dehydrated." [ar061-0032]
+
+exec
+/usr/bin/zsh -lc 'rg --files -g AGENTS.md -g CLAUDE.md baby-development' in /home/thinkpad/GitHub/_research
+exec
+/usr/bin/zsh -lc 'cat /home/thinkpad/.agents/skills/write-findings/FINDINGS-FORMAT.md /home/thinkpad/GitHub/_home/.agents/skills/write-findings/check_findings.py _tools/verify_section.py' in /home/thinkpad/GitHub/_research
+exec
+/usr/bin/zsh -lc 'cat /home/thinkpad/GitHub/_home/library/niches.md baby-development/README.md baby-development/evidence/README.md' in /home/thinkpad/GitHub/_research
+ succeeded in 26ms:
+# Niches
+
+One row per niche. Start here: the row tells you the niche, where its research is,
+which knowledge and voice go with her, and which brands sell to her.
+
+| Niche | Status | Research | Knowledge | Voice | Brands |
+|---|---|---|---|---|---|
+| `baby-development` | active | `~/GitHub/_research/baby-development/` | `knowledge/baby-development/` (not started) | not written yet | mamivio |
+| `sleep-baby` | parked | `~/GitHub/_research/sleep-baby/` | none | none | none |
+| `sleep-mother` | parked | `~/GitHub/_research/sleep-mother/` | none | none | none |
+| `toddler-behaviour` | parked | `~/GitHub/_research/toddler-behaviour/` | none | none | none |
+| `pregnancy-birth` | parked | `~/GitHub/_research/pregnancy-birth/` | none | none | none |
+| `new-and-expecting-mothers` | research only | `~/GitHub/_research/new-and-expecting-mothers/` | none | none | mamivio (niche selection) |
+
+Status is one of: active, parked (researched, not pursued now), dropped (with the reason
+in the avatar file), research only (a market-wide research folder, not a buyer).
+
+The niche name is used unchanged in three places: `library/avatars/<niche>/`,
+`~/GitHub/_research/<niche>/`, and this table. It does not change once research is
+filed under it. A new understanding of the buyer gets a new niche.
+
+## Definitions
+
+A niche is chosen by the owner from a map of a crowd (`playbooks/new-niche.md`, "The five
+steps of research"). Its definition is then one line, the subject and its range, with the counts
+behind it. It never says who she is or what her problem is: the deep reading finds the
+problem and the avatar says who she is. Before a map exists there is no niche to define,
+only a crowd to read. Every deep-reading brief copies the definition word for word, and
+`~/GitHub/_research/_tools/check_definition.py` refuses a brief that does not, or a
+definition the owner has not confirmed.
+
+### `baby-development`
+
+- **Subject:** The development of a child from birth to 48 months.
+- **Confirmed by the owner:** 2026-11-20. The owner set the range ("we are targeting 0 to 48 months"); it was not chosen from a map. Posts about older children are still recorded, as "near", so the counts can show what lies beyond 48 months.
+
+History: until 2026-11-20 the readings stopped at 24 months, a limit carried over from an
+older brief without asking the owner.
+# baby-development
+
+Research on mothers of babies 0 to 24 months who want to know what to do with the baby at
+this age and whether the baby is on track. Collected October to November 2026 for the
+mamiVio baby-development funnel. A new round began 2026-11-18; `brief.md` describes it and
+names no product. The October brief is `_work/2026-10/brief.md`.
+
+**Where the October round is now:** `quotes/2026-10/`, `evidence/2026-10/`,
+`findings/2026-10/` (both findings pages and `her-words.md`) and `_work/2026-10/` (reading
+ledgers, the Reddit selection). Wherever this page says `quotes/`, `evidence/`, `findings/`,
+`her-words.md`, `_work/reddit-selection/` or `_work/reading-ledgers/` below, read it with
+`2026-10/` added. The new round's working files are in `_work/2026-11/`.
+Rules for all research: `../README.md`.
+
+## The round of November 2026: where it stands (2026-11-20)
+
+How it was run, step by step: `../_tools/README.md`.
+
+| Step | State |
+|---|---|
+| Random sample of 20,000 posts read and sorted | Done for birth to 48 months (2026-11-20): 3,811 on the niche, 8,476 near, 7,713 off. `evidence/2026-11/birth-to-48-months/counts.md`. The first pass stopped at 24 months by mistake (2,471 on the niche); 12,534 posts were read again |
+| Digests of each pattern | Done for birth to 24 months only: 20, in `evidence/2026-11/second-reading/` |
+| Findings sections, one per pattern | Done for birth to 24 months only, not reviewed: `findings/2026-11/patterns/` |
+| Findings page and her words | Written 2026-11-20 for birth to 24 months only, not reviewed: `findings/what-hurts-and-what-she-wants.md` (163 findings), `her-words.md` (247 phrases). The spec files the page was built from: `_work/2026-11/findings-build/` |
+| Avatar | Not written |
+| Still unread | 97,521 posts (10 April to 24 October), and all replies by people other than the poster (4.19 million downloaded, on disk only) |
+
+## Not usable for conclusions (marked 2026-11-18)
+
+The Reddit posts read for this niche were chosen by a word list we wrote ourselves
+(`_tools/history/shared/niche_filter.py`), and posts that mention buying, paid tools or
+brands were ranked first. Posts that describe the problem in other words were never seen.
+
+- **Still good:** the download. It is complete and has no keyword in it
+  (`../new-and-expecting-mothers/reddit/raw/reddit-2026/`), so nothing needs downloading
+  again. The quotes are real and checked word for word, so they can be used as her words.
+- **Not to be used:** the counts, the evidence file, and anything that says what is common
+  or central for her.
+- **What happens next:** the selection and reading are redone by the method being proven on
+  `baby-development` (random sample of everything first, word list from her words after).
+  Whether and when this niche is redone is the owner's decision.
+
+For this niche in detail: the brief named a candidate product, only about 1,785 of
+24,326 matched posts were read (the top-ranked group's last two months, then all posts
+first set aside for hard subjects), and the two findings pages and `her-words.md` rest on
+that reading. They are superseded and stay unreviewed.
+
+## What is here
+
+| Folder | What was collected | When | State |
+|---|---|---|---|
+| `ads/` | nothing in this niche's own folder | | Not collected here. The October 2026 Ad Library sweep for all mother-and-baby niches is in the niche-selection research (see "Paths" below). |
+| `books/` | An attempt at reader reviews for 9 books: store pages saved, but only 5 reviews found | 2026-10-25 | **Nearly empty.** Stores show few reviews; Amazon and Goodreads were not fetched. See `books/README.md` |
+| `competitors/` | 21 notes on sellers, from 57 saved pages (115 files) | 2026-10-25 | Done for this round; `not-harvested.md` lists what was skipped |
+| `reddit/` | 1,892 posts handed to readers out of the shared archive (723 in the first reading, 1,169 in the re-reading; April to October 2026) | 2026-10-25, re-read 2026-11-16 | 2,806 quotes. About 4,300 candidate posts still unread, see `reddit/reddit.md` |
+| `reviews/` | App Store and Google Play reviews of 9 apps, 177 complete reviews (165 files) | 2026-10-25 | 159 quotes |
+| `sales-letters/` | Old long-form sales letters from the Wayback Machine (553 files) | from 2026-11-03 | Captured and listed; notes per letter not written yet |
+| `youtube/` | nothing | | Not collected |
+| `statistics/` | Published figures on American first-time mothers, 17 saved sources | 2026-11-17 | 23 figures; most cover all mothers, not first-time mothers |
+| `forums/`, `marketplaces/`, `official-guidance/` | nothing | | Not collected in this niche. The niche-selection research in `../new-and-expecting-mothers/` has all three for the whole market |
+| `quotes/` | 2,970 quotes, one record each, in 12 files; `merged/all.jsonl` is a generated copy | | Every quote checked against its source |
+| `evidence/` | `evidence.md`: the quotes sorted under themes with conclusions (44,500 words, cites 1,086 quotes); `who-she-is.md`: the same quotes read for who she is (cites all 2,970); counts; readers' notes; the unfilter report | 2026-11-17 | Current |
+
+Findings (the short version), all written 2026-11-18 and not yet reviewed by the owner:
+`findings/who-she-is.md` from `evidence/who-she-is.md`;
+`findings/what-hurts-and-what-she-wants.md` from `evidence/evidence.md`; and
+`her-words.md`, her phrases from both pages.
+
+## The four questions
+
+| Question | Answered from | State |
+|---|---|---|
+| 1. Who is she, and what is her life like? | `evidence/who-she-is.md`, `statistics/` | **Partly answered (2026-11-17).** Her daily life, who has a say, what she believes and how she sees herself: answered from the quotes. Her age, income, education and country: the quotes say almost nothing; `statistics/` gives national averages for all mothers, not this buyer. mamiVio's own quiz data does not exist yet |
+| 2. What hurts, what does she want, and how does she say it? | `reddit/` | Answered; one source only |
+| 3. What is she buying, what does she pay, and how did it go? | `reviews/`, `books/` | Half answered. Reviews of 9 apps were read (159 quotes), but nobody first mapped what she spends on, so the apps were picked without it. Books: 5 quotes. Courses, classes, toys: nothing |
+| 4. Who is selling to her, and what is working? | `competitors/`, the Ad Library sweep, `sales-letters/` | Partly: competitors done, ads only in the shared sweep |
+
+## Reddit originals are not in this folder
+
+The Reddit posts were downloaded once for all mother-and-baby niches and five niches
+picked their posts from that one archive. It is kept once, at
+`../new-and-expecting-mothers/reddit/raw/reddit-2026/`. Every Reddit quote here points
+into it, so this folder cannot be checked without that one beside it. What this niche
+selected from the archive, and who read what, is in `_work/reddit-selection/` and
+`_work/reading-ledgers/`.
+
+## Checking the October round
+
+Run from this folder. The scripts already point at the `2026-10/` folders. All five must report the counts shown and no failures.
+
+```
+python3 -I _tools/check_ids.py                            2970 records, 0 duplicated
+python3 -I _tools/verify_quotes.py                        2970 quotes, 0 failed
+python3 -I _tools/verify_evidence_ids.py                  1086 ids cited, 0 unresolved; 1008 fragments, 0 failed
+python3 -I _tools/audit.py read-v1 read-w2 read-w3        723 assigned, 0 unexplained
+python3 -I _tools/verify_part.py quotes/2026-10 evidence/2026-10/who-she-is.md 0.05
+                                                          ids mentioned 2970, quotes reproduced 120; OK
+```
+
+`_tools/history/` holds the scripts and agent briefs used to collect and read this
+material. They are kept as a record and still use the old paths; they are not meant to
+be run from here.
+
+## Paths in older files
+
+This folder was moved here on 2026-11-17 from `ads/mamivio.com/research/development/`.
+The quote records, `evidence/evidence.md` and `brief.md` use the new paths. Notes, ledgers
+and logs written before the move are left as written and use the old ones:
+
+| Old path | Now |
+|---|---|
+| `_raw/<kind>/` | `<kind>/raw/` |
+| `_raw/reddit/` | `_work/reddit-selection/` |
+| `../_shared/_raw/reddit-2026/` | `../new-and-expecting-mothers/reddit/raw/reddit-2026/` |
+| `voice/`, `voice-merged/` | `quotes/`, `quotes/merged/` |
+| `synthesis/`, `synthesis/findings.md` | `evidence/`, `evidence/evidence.md` |
+| `sources/reddit-reading-*.md` | `_work/reading-ledgers/` |
+| `sources/` (other files) | the kind folder they describe, or `_work/sources/` |
+| `scratchpad/` | `_work/scratchpad/` |
+| `product/product-brief.md` | `brief.md` |
+| `../_shared/_tools/`, `_tools/` | `_tools/history/shared/`, `_tools/history/` |
+| `../global/`, `../main/` | `../new-and-expecting-mothers/` |
+
+## Quote schema
+
+Every record: `id` (prefix `dvNN-NNNN`, never reused), `source`, `url`, `date`, `speaker`, `stage`, `type`, `themes`, `quote` (verbatim, trims only with ` […] `), `context` (≤25 words), `raw_file` (relative to this folder; Reddit originals are in the shared archive, see below). Optional: `segment`, `source_class`, `engagement`. No usernames. No inference of age, gender or diagnosis.
+
+## Vocabulary
+
+Speakers: `new_mother`, `experienced_mother`, `recovered_parent`, `parent_unspecified`, `partner`, `relative_caregiver`, `advisor`, `professional`, `reviewer`, `skeptic`, `gave_up_parent`. Use `parent_unspecified` unless the author identifies as a mother.
+
+Stages: `newborn_0_8_weeks`, `baby_2_4_months`, `baby_4_6_months`, `baby_6_9_months`, `baby_9_12_months`, `toddler_12_18_months`, `toddler_18_24_months`, `looking_back`, `unknown`.
+
+Types: `trigger_moment`, `pain`, `fear`, `tried_failed`, `desire`, `belief`, `question`, `objection`, `advice_given`, `success_story`, `failure_story`, `regret`, `others_said`, `purchase`, `price_signal`. `purchase` = the author says they bought or paid for something for this problem; `price_signal` = what they say it was worth.
+
+Seed themes (agents may add; document additions in `evidence/reader-notes-*.md`): `what_to_do_all_day`, `awake_time`, `tummy_time`, `tummy_time_hate`, `floor_play`, `rolling`, `sitting`, `crawling`, `pulling_up`, `walking`, `first_words`, `babbling`, `fine_motor`, `milestone_comparison`, `milestone_anxiety`, `corrected_age`, `pediatrician_checkup`, `cdc_milestones`, `wonder_weeks`, `leaps`, `screen_time`, `toys_too_many`, `montessori`, `play_ideas`, `boredom_mum`, `maternal_guilt`, `not_enough_play`, `container_time`, `baby_classes`, `app_tracking`, `information_overload`, `conflicting_advice`, `reassurance_seeking`, `social_comparison`, `grandparent_comments`, `early_intervention_question`, `personalization`, `price_value`.
+
+The other side of the door: Grandparents and in-laws who compare; paediatricians and physios; parents who say 'babies just develop'; Montessori purists; buyers of apps who cancelled.
+
+# Evidence
+
+The round that began 2026-11-18 is in `2026-11/`: post counts by pattern from a random
+sample of 20,000 posts. Start at `2026-11/README.md`.
+The October 2026 round is in `2026-10/` and is superseded: its counts are of quotes from
+a skewed selection, see `../README.md`. Its own README is `2026-10/README.md`.
+
+ exited 1 in 33ms:
+ succeeded in 39ms:
+# Form of a findings page and of her-words.md
+
+## A findings page: `~/GitHub/_research/<niche>/findings/<question>.md`
+
+Named for the research question its evidence file answers: `who-she-is.md`,
+`what-hurts-and-what-she-wants.md`, `what-she-buys.md`, `who-sells-to-her.md`. An evidence
+file that answers two questions gets one page, named for the main one.
+
+```
+# <Niche>: <the question, as a question>
+
+**Written:** <date> from `~/GitHub/_research/<niche>/evidence/<file>`.
+**Reviewed by the owner:** not yet
+
+## Limits
+
+<Three or four sentences, taken from the evidence file: where the posts come from, when,
+how many, how they were chosen. Then one bullet per thing the evidence cannot tell us,
+with its count.>
+
+## <Group, in the evidence file's order>
+
+### <The finding, as one plain claim about her>
+
+<N> of <M> posts.
+
+- "<quote, word for word>" [<id>]
+- "<quote, word for word>" [<id>]
+
+**But:** <what cuts against it, in one or two sentences.> "<quote>" [<id>]
+
+## Coverage
+
+<details>
+<summary>Every heading of the evidence file, and where it went</summary>
+
+| Evidence heading | Went to |
+|---|---|
+| <heading text, exactly> | <the finding's claim> / repeats <finding> / not about her: <what it is> |
+
+</details>
+```
+
+Rules of the form:
+
+- A finding's claim is a `###` heading, written so it can be read alone. `write-avatar`
+  points to it by this text.
+- The count line is the number of posts the evidence gives for that pattern, and what it
+  is out of: "595 of 2,471 posts." M is the on-niche posts of the sample for a pattern,
+  and the pattern's posts for a form inside a pattern; "Limits" says which sample.
+- Evidence from before November 2026 counts quotes. Its count lines read "473 quotes.",
+  or "41 quotes cited." where the evidence gives no number and the cited ids were
+  counted. Never set a quote count beside a post count.
+- One plain sentence may follow the count line when the count would mislead without it
+  (for example, that most of the posts under a heading are not from her).
+- Quotes are bullets: a straight double quote, her words exactly, a straight double quote,
+  a space, the id in square brackets. Mark a cut inside a quote with `[…]`.
+- Every finding has a **But:** line. When the evidence shows nothing against it, write
+  "**But:** nothing found against it."
+- Standing limits are said once, under "Limits", and not repeated under findings.
+- Figures from public statistics go under a last group, `## Public figures`, and have
+  their own form: the figure as a `###` claim, then one line
+  `Source: <publisher, year>; <file in the niche's statistics/ folder>.` and one line
+  saying which wider group the figure covers. They carry no quotes and no **But:** line,
+  and are never merged into a finding drawn from quotes.
+
+## `~/GitHub/_research/<niche>/her-words.md`
+
+Her phrases, word for word, for use in copy. From the common to the rare but sharp.
+
+```
+# <Niche>: her words
+
+**Written:** <date>. **Reviewed by the owner:** not yet
+
+## <Topic, e.g. "When she worries he is behind">
+
+- "<phrase or sentence>" [<id>] (<how often words like this appear: the finding's count, or "once">)
+```
+
+- Group by what she is talking about, using the findings' groups where they fit.
+- Keep her spelling, slang and half-finished sentences.
+- Terms from the niche's `evidence/jargon-glossary.md` (or the general one it names) go
+  under a last group, `## Her vocabulary`, as `- **term**: what it means, and how it
+  feels when used.` The glossary has no quote ids, so the group opens with one line naming
+  the glossary file it was taken from. Carry over its warnings about terms that harm copy.
+#!/usr/bin/env python3
+"""Check a findings page or her-words.md.
+  python3 -I check_findings.py <page.md> --quotes <quotes dir> [--quotes <dir>] [--evidence <file>]...
+Every "quote" [id] must be word for word inside the record with that id; every finding must
+have a count line, a quote and a But line; with --evidence, every heading of each evidence
+file must appear in the page's Coverage section."""
+import glob, json, os, re, sys
+a = sys.argv[1:]; page = a[0]; qdirs = []; evidence = []
+i = 1
+while i < len(a):
+    if a[i] == "--quotes": qdirs.append(os.path.expanduser(a[i + 1])); i += 2
+    elif a[i] == "--evidence": evidence.append(os.path.expanduser(a[i + 1])); i += 2
+    else: sys.exit(f"unknown argument {a[i]}")
+if not qdirs: sys.exit("give at least one --quotes folder")
+def norm(s):
+    for x, y in (("’", "'"), ("‘", "'"), ("“", '"'), ("”", '"'), ("\\n", " "), ("\\", "")): s = s.replace(x, y)
+    return re.sub(r"\s+", " ", s).strip().lower()
+rec = {}
+for d in qdirs:
+    for f in sorted(glob.glob(os.path.join(d, "*.jsonl"))):
+        for l in open(f, encoding="utf-8"):
+            if l.strip(): r = json.loads(l); rec[r["id"]] = norm(r["quote"])
+if not rec: sys.exit("no quote records found")
+t = open(page, encoding="utf-8").read(); L = t.split("\n")
+ID = r"([a-z]{2,}[0-9]{1,3}-[0-9]{3,5})"; problems = []; pairs = []
+group = ""
+for n, l in enumerate(L, 1):
+    if l.startswith("## "): group = l[3:].strip()
+    if re.match(r'^\s*[-*] "', l) and not re.search(r"\[" + ID + r"\]", l) and group not in ("Her vocabulary", "Public figures"):
+        problems.append(f"line {n}: quote without a quote id")
+    m = re.match(r'^\s*[-*] "(.+)" \[' + ID + r"\]", l)
+    found = [(m.group(1), m.group(2))] if m else re.findall(r'"([^"\n]+)" \[' + ID + r"\]", l)
+    for q, i_ in found: pairs.append((n, q, i_))
+for n, q, i_ in pairs:
+    if i_ not in rec: problems.append(f"line {n}: id {i_} is not in the quote files"); continue
+    parts = [x for x in re.split(r"\s*\[…\]\s*|\s*\[\.\.\.\]\s*", q) if x.strip()]
+    if not all(norm(x).rstrip(".,;") in rec[i_] for x in parts): problems.append(f"line {n}: not word for word from {i_}")
+for i_ in set(re.findall(r"\[" + ID + r"\]", t)):
+    if i_ not in rec: problems.append(f"id {i_} is not in the quote files")
+is_words = os.path.basename(page) == "her-words.md"
+if "**Reviewed by the owner:**" not in t: problems.append('no "**Reviewed by the owner:**" line')
+findings = 0
+if not is_words:
+    if not re.search(r"^## Limits\s*$", t, re.M): problems.append('no "## Limits" section')
+    blocks = []
+    for g in re.split(r"^## ", t, flags=re.M)[1:]:
+        gname = g.split("\n")[0].strip()
+        for b in re.split(r"^### ", g, flags=re.M)[1:]: blocks.append((gname, b))
+    for gname, b in blocks:
+        name = b.split("\n")[0].strip(); body = b; findings += 1
+        if gname == "Public figures":
+            if not re.search(r"^Source: .+", body, re.M): problems.append(f'"{name}": public figure without a Source line')
+            continue
+        if not re.search(r"^\d[\d,]* (of [\d,]+ posts|quotes?( cited)?)\.", body, re.M): problems.append(f'"{name}": no count line')
+        if not re.search(r'" \[' + ID + r"\]", body): problems.append(f'"{name}": no quote')
+        if "**But:**" not in body: problems.append(f'"{name}": no But line')
+    if not blocks: problems.append("no findings (### headings)")
+if evidence:
+    cov = t.split("## Coverage", 1)[1] if "## Coverage" in t else ""
+    if not cov: problems.append('no "## Coverage" section')
+    heads = [re.sub(r"^#+\s*", "", l).strip() for e in evidence for l in open(e, encoding="utf-8") if re.match(r"^#{2,3} ", l)]
+    missing = [h for h in heads if h not in cov]
+    if cov and missing: problems.append(f"{len(missing)} evidence headings not in Coverage, e.g. {missing[:3]}")
+print(f"{os.path.basename(page)}: findings {findings}, quotes checked {len(pairs)}, words {len(t.split())}; " + ("OK" if not problems else "FAIL"))
+for p in problems[:25]: print("  " + p)
+sys.exit(1 if problems else 0)
+#!/usr/bin/env python3
+"""Check the counts of a findings section merged from digests.
+  python3 -I _tools/verify_section.py <section.md> <yes posts> <near posts> [most words above Coverage, default 2500]
+The count lines under "## On-niche posts" must be "N of <yes> posts." and sum to <yes>;
+those under "## Near posts" likewise for <near>; "## Across the on-niche posts" must hold
+four findings counted out of <yes>; the page above "## Coverage" must be 2,500 words at most."""
+import re, sys
+t = open(sys.argv[1], encoding="utf-8").read(); yes, near = int(sys.argv[2]), int(sys.argv[3]); problems = []
+most = int(sys.argv[4]) if len(sys.argv) > 4 else 2500
+parts = re.split(r"^## (.*)$", t, flags=re.M); sec = {parts[i].strip(): parts[i + 1] for i in range(1, len(parts) - 1, 2)}
+def counts(name):
+    if name not in sec: problems.append(f'no "## {name}" section'); return []
+    out = []
+    for b in re.split(r"^### ", sec[name], flags=re.M)[1:]:
+        m = re.search(r"^(\d[\d,]*) of (\d[\d,]*) posts\.", b, re.M)
+        if not m: problems.append(f'"{b.splitlines()[0][:50]}": no count line'); continue
+        out.append(tuple(int(x.replace(",", "")) for x in m.groups()))
+    return out
+for name, total in (("On-niche posts", yes), ("Near posts", near)):
+    c = counts(name)
+    if any(m != total for _, m in c): problems.append(f"{name}: a count is not out of {total}")
+    if sum(n for n, _ in c) != total: problems.append(f"{name}: counts sum to {sum(n for n, _ in c)}, not {total}")
+c = counts("Across the on-niche posts")
+if len(c) != 4: problems.append(f"Across the on-niche posts: {len(c)} findings, not 4")
+if any(m != yes or n > yes for n, m in c): problems.append("Across the on-niche posts: a count is not out of the yes posts")
+words = len(t.split("## Coverage")[0].split())
+if words > most: problems.append(f"{words} words above Coverage, more than {most:,}")
+print(f"{sys.argv[1].split('/')[-1]}: counts " + ("OK" if not problems else "FAIL")); [print("  " + p) for p in problems]
+sys.exit(1 if problems else 0)
+
+codex
+The digest includes five on-niche posts and three near posts about young infants, despite this section’s age label. I’ll preserve the supplied counts and forms and flag that mismatch in Limits. With only one digest, no forms need merging.
+
+exec
+/usr/bin/zsh -lc 'ls -ld baby-development/findings/2026-11/patterns-2-3-years; test ! -e baby-development/findings/2026-11/patterns-2-3-years/pattern-07.md' in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+drwxrwxr-x 2 thinkpad thinkpad 4096 Nov 20 19:16 baby-development/findings/2026-11/patterns-2-3-years
+
+exec
+/usr/bin/zsh -lc "python3 -I - <<'PY'
+from pathlib import Path
+import re
+src = Path('baby-development/evidence/2026-11/age-reread/digest-09.md').read_text()
+sections = re.split(r'"'^## '"', src, flags=re.M)
+def forms(section):
+    out=[]
+    for block in re.split(r'"'^### '"', section, flags=re.M)[1:]:
+        out.append({'heading':block.splitlines()[0], 'quotes':re.findall(r'"'^- ".+" '"\\[["'^'"\\]]+\\]"'$'"',block,re.M), 'but':next((x for x in block.splitlines() if x.startswith('**But:**')),None)})
+    return out
+yes,near,cross = [forms(s) for s in sections[1:]]
+parts=['''# baby-development: pattern 7, Learning to eat and drink as a skill (children of 2 and 3 years)
+
+**Written:** 2026-11-20 from baby-development/evidence/2026-11/age-reread/digest-09.md
+**Reviewed by the owner:** not yet
+
+## Limits
+
+The starting material was a random sample of 20,000 Reddit posts from twelve parenting subreddits, dated 1 April to 24 October 2026 and chosen without keywords; 3,811 were on-niche, including 1,340 assigned to the children-of-2-and-3-years group. This pattern's supplied digest contains 18 on-niche and 4 near posts, but describes five of those on-niche posts and three near posts as concerning young infants, so the age label is inconsistent with its contents and the supplied classifications are retained here. Each count is a number of posts tagged by one reader, rather than people or market prevalence; forms from different digest readers would be merged by judgement, but this pattern has only one digest and its forms remain separate.
+
+## On-niche posts
+''']
+coverage={}
+def add(form,n,denom,body,indices,heading=None,but=None,extra=None):
+    h=heading or form['heading']
+    coverage[form['heading']]=h
+    qs=[form['quotes'][i] for i in indices]
+    if extra: qs.extend(extra)
+    parts.append('\\n### '+h+'\\n\\n'+f'{n} of {denom} posts.\\n\\n'+body+'\\n\\n'+'\\n'.join(qs)+'\\n\\n'+(but or form['but'])+'\\n')
+add(yes[1],3,18,'Parents describe children who already use cups but want bottles for milk, sleep or soothing. Changing the drink or container has not removed the attachment; parents consider stopping abruptly or changing bedtime with a bottle-fairy ritual.',[0,1])
+add(yes[2],3,18,'Parents want to move away from bottles used for milk, water or sleep, but cups provoke rejection or distress. One compares advice to wean with reassurance that older bottle use is ordinary.',[0,2])
+add(yes[0],2,18,'Parents of children aged 2 and 2.6 years want practical ways to teach straw drinking. Bottle or open-cup use does not mean the straw skill has followed.',[0,1])
+add(yes[3],2,18,'Parents describe feeding capable two-year-olds after hospital stays made intake a priority. They want independence but fear poor intake or difficulty regulating emotions.',[0,1])
+add(yes[7],2,18,'Parents of nine- and ten-week-olds want bottle feeding to become possible, either to stop breastfeeding or to share feeds and have time away. One baby previously took bottles; another refuses despite changes in bottles, flow, temperature, position and caregiver.',[0,1,2])
+connection='- \"I’ve refused to feed her most times because she used to be super independent but recently I’ve been feeling mom guilt and maybe she’s just wanting connection so I been feeding her.\" [ar062-0105]'
+add(yes[4],1,18,'The parent has begun feeding a previously independent two-year-old and wonders whether the request is for connection. This is the parent’s interpretation, not an established motive.',[],extra=[connection,'- \"Anyone else?\" [ar062-0105]'])
+add(yes[5],1,18,'The parent of an 11-week-old wants to establish breastfeeding after roughly two months of exclusive pumping. Early latch attempts worsened hunger and frustration, while the feeding-and-pumping routine now takes a toll on mental health.',[0,2])
+add(yes[6],1,18,'Writing at 12 weeks postpartum, the parent describes moving from mostly pumped-milk bottles to mostly breastfeeding by six weeks. They want parents to receive help with later transitions rather than early pressure.',[0,1])
+add(yes[8],1,18,'After eight weeks of breastfeeding and a return to work, this parent finds extra-slow flow too slow but slow flow upsetting. They want an intermediate option that allows the baby to take enough milk.',[0,1])
+add(yes[9],1,18,'The parent of a two-year-old wants to teach slower, safer eating when excitement or play leads to mouth-stuffing. Removing food has not resolved the fear.',[0,2])
+add(yes[10],1,18,'A parent who quarters foods such as hot dogs wonders why other parents offer whole meat sticks to children aged two or younger. They ask whether warnings to wait until four are excessively cautious; the post does not establish safety.',[0,2])
+parts.append('\\n## Near posts\\n')
+add(near[0],1,4,'The parent of a two-year-old offers alternatives when family food is refused, while the husband favors letting hunger teach acceptance. Low weight, sleep disruption and wasted food make that approach worrying.',[1,3],but='**But:** Some food is reliably accepted: \"He loves breakfast and eats it every day\" [ar021-0139] The digest also reports that a feeding assessment found no mouth-movement problem [ar021-0138].')
+add(near[1],1,4,'After improved feeding following a tongue-tie release, the parent of a six-week-old reports distressed feeds and other symptoms. They want possible cow’s milk protein allergy investigated despite the GP’s reassurance about settling and weight gain.',[0,2])
+add(near[2],1,4,'At ten weeks postpartum, this parent wants to nurse but describes a painful, shallow latch and exhaustion with pumping and washing. They anticipate hating themselves for stopping and feel unable to make time for repeated consultant visits.',[0,1,3])
+add(near[3],1,4,'The mother of a two-day-old describes raw, painful nipples and little sleep during cluster feeding. She has ordered more supplies and asks whether to endure the pain, seek latch help, supplement or stop.',[1,2],but='**But:** The digest also reports a successful latch at the first home visit [ar081-0122]; it supplies only a sentence fragment for that counterexample.')
+parts.append('\\n## Across the on-niche posts\\n')
+add(cross[0],18,18,'Parents describe attempts to change feeding equipment, technique or routines, including repeated unsuccessful experiments. The tag records an attempt, not proof that it worked.',[0,6],heading='Parents have already changed feeding techniques, equipment or routines.',but='**But:** Some attempts accompanied success: \"So I got some nipple shields to help him latch, had him in a BF position with the bottle by my boob when he was being fed with pumped milk, and then by 6 weeks he was mostly breastfeeding (his dad still gives him a bottle every day because it’s nice for them to have that time together).\" [ar059-0007]')
+add(cross[1],5,18,'Parents report advice, pressure and feeding help from professionals, family and others. This tag includes named co-caregivers’ actions; an unspecified “we” alone does not establish another person’s separate action.',[0,4],heading='Parents receive feeding advice and pressure, and ask family to help with feeds.',but='**But:** Others also provide practical help: \"I\\'ve attempted to feed, as has my husband and my mother.\" [ar030-0109]')
+add(cross[2],1,18,'One parent explicitly reports buying more than fifty cup types without replacing the bottle; the amount paid is unknown. This is the only purchase quote supplied, so one is reproduced; equipment use or “got some nipple shields” does not establish payment, and the husband’s adult dental spending is not a purchase for the child’s feeding problem.',[0],heading='One parent has bought more than fifty kinds of cup without displacing the bottle.',but='**But:** nothing found against it.')
+add(cross[3],12,18,'Parents explicitly name panic, fear, frustration, guilt, pressure and harm to mental health. The tag also includes curiosity and hope; a request for advice alone does not count as a feeling.',[0,1,7],heading='Parents describe fear and strain around feeding, alongside curiosity and hope.',but='**But:** Feelings are not uniformly negative: \"I’m hopeful it will be easier to just change it all up rather than try to figure out how to do our normal bedtime with no water bottle and then later try to change it on her again.\" [ar046-0126]')
+parts.append('\\n## Coverage\\n\\n<details>\\n<summary>Every heading of the digests, and where it went</summary>\\n\\n| Digest heading | Went to |\\n|---|---|\\n')
+for level,heading in re.findall(r'"'^(#{2,3}) (.+)$'"',src,re.M):
+    dest='section title' if level=='##' else coverage[heading]
+    parts.append(f'| {heading} | {dest} |\\n')
+parts.append('\\n</details>\\n')
+out=Path('baby-development/findings/2026-11/patterns-2-3-years/pattern-07.md')
+if out.exists(): raise SystemExit('Output already exists; refusing to overwrite')
+out.write_text(''.join(parts))
+print(f'Wrote {out}; {len(\"\".join(parts).split(\"## Coverage\")[0].split())} words above Coverage')
+PY" in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+Wrote baby-development/findings/2026-11/patterns-2-3-years/pattern-07.md; 2955 words above Coverage
+
+exec
+/usr/bin/zsh -lc 'cat baby-development/findings/2026-11/patterns-2-3-years/pattern-07.md' in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+# baby-development: pattern 7, Learning to eat and drink as a skill (children of 2 and 3 years)
+
+**Written:** 2026-11-20 from baby-development/evidence/2026-11/age-reread/digest-09.md
+**Reviewed by the owner:** not yet
+
+## Limits
+
+The starting material was a random sample of 20,000 Reddit posts from twelve parenting subreddits, dated 1 April to 24 October 2026 and chosen without keywords; 3,811 were on-niche, including 1,340 assigned to the children-of-2-and-3-years group. This pattern's supplied digest contains 18 on-niche and 4 near posts, but describes five of those on-niche posts and three near posts as concerning young infants, so the age label is inconsistent with its contents and the supplied classifications are retained here. Each count is a number of posts tagged by one reader, rather than people or market prevalence; forms from different digest readers would be merged by judgement, but this pattern has only one digest and its forms remain separate.
+
+## On-niche posts
+
+### The parent wants to end comfort bottles even though the child can already drink from cups.
+
+3 of 18 posts.
+
+Parents describe children who already use cups but want bottles for milk, sleep or soothing. Changing the drink or container has not removed the attachment; parents consider stopping abruptly or changing bedtime with a bottle-fairy ritual.
+
+- "I’ve started watering down his milk in the morning and sometimes I offer it to him in a straw cup but he gets so pissed. Should I just cold turkey cut him off bottles? He drinks from open cup and straw cup just fine through the day." [ar061-0033]
+- "Tonight, we even did an experiment where he poured the milk directly from his bottle into his favorite sippy cup. He took one sip and made a completely disgusted face. He genuinely hated it, even though the milk tasted fine. It seems like a pure sensory/comfort association with the bottle itself." [ar006-0129]
+
+**But:** nothing found against it.
+
+### The parent wants to replace bottles with cups but the child refuses the alternatives.
+
+3 of 18 posts.
+
+Parents want to move away from bottles used for milk, water or sleep, but cups provoke rejection or distress. One compares advice to wean with reassurance that older bottle use is ordinary.
+
+- "Yes I've rode out the tantrum he goes until he throws up it's terrible. I've given him just water in his bottles (tip from my mom) and he didn't care, he just wants his bottle." [ar051-0062]
+- "My almost three year old daughter refuses to give up her Dr. Browns bottle. She only drinks water out of it, but refuses to use a sippy cup. She also likes to go to bed with it at night and drinks water out of it while sleeping." [ar027-0144]
+
+**But:** Cup refusal is not absolute in every post: "He will accept drinking water from either an open cup or from my water bottle, but only a sip or two and then he'll ask for his baba and throw a fit until he gets it." [ar051-0062]
+
+### The parent wants to teach straw drinking after attempts have failed.
+
+2 of 18 posts.
+
+Parents of children aged 2 and 2.6 years want practical ways to teach straw drinking. Bottle or open-cup use does not mean the straw skill has followed.
+
+- "I already tried the yogurt method, the one where you put water in the straw and putting your finger over the top of the straw to trap a small amount of liquid inside. But I still cant teach my son to use straw." [ar029-0054]
+- "So far our attempts to teach him have left him frustrated and we have better success with open cups than straw cups but we dont want to skip straws entirely." [ar069-0003]
+
+**But:** nothing found against it.
+
+### The parent wants independent eating after hospital stays made feeding the child a habit.
+
+2 of 18 posts.
+
+Parents describe feeding capable two-year-olds after hospital stays made intake a priority. They want independence but fear poor intake or difficulty regulating emotions.
+
+- "Then he was hospitalised twice over a span of 5 months and regressed to being spoon-fed. We were super stressed about his overall weight and development, so we did whatever we could to feed him whilst working full-time jobs. What was survival mode turned into a regular thing." [ar079-0033]
+- "He’s totally capable of feeding himself, but I don’t know how to break the cycle. I know I could just put the food down and let him eat if he’s hungry. But then he’ll turn into a moody mess. I think he has a harder time regulating his emotions due to his history with his brain surgeries. I’m just at a loss" [ar031-0045]
+
+**But:** The children do show independent eating in some circumstances: "He will feed himself if it’s a preferred food like pizza, pickles, anything like that." [ar031-0043] The other parent also says: "Sometimes he'll feed himself, but he was eating quite well until the molars started coming." [ar079-0031]
+
+### The parent needs a breastfed baby to accept bottles and asks what else to try.
+
+2 of 18 posts.
+
+Parents of nine- and ten-week-olds want bottle feeding to become possible, either to stop breastfeeding or to share feeds and have time away. One baby previously took bottles; another refuses despite changes in bottles, flow, temperature, position and caregiver.
+
+- "Breastfeeding is slowly destroying me and I can't keep doing it but I feel like I have no choice with the bottle refusal." [ar030-0111]
+- "This week, baby suddenly started refusing the bottle. We've never had this issue before, he'd always taken it without fuss." [ar021-0154]
+- "We've tried various brands (Philips Avent, MAM, lanisoh and nuk) as well as different teat flows. Experimented with different temperatures. I've attempted to feed, as has my husband and my mother. We've tried sitting up position, lie-down feeding, I've tried nursing and then doing the ol'switcheroo with the bottle and she will just not take it." [ar030-0109]
+
+**But:** nothing found against it.
+
+### The parent wonders whether feeding a formerly independent child provides connection.
+
+1 of 18 posts.
+
+The parent has begun feeding a previously independent two-year-old and wonders whether the request is for connection. This is the parent’s interpretation, not an established motive.
+
+- "I’ve refused to feed her most times because she used to be super independent but recently I’ve been feeling mom guilt and maybe she’s just wanting connection so I been feeding her." [ar062-0105]
+- "Anyone else?" [ar062-0105]
+
+**But:** nothing found against it.
+
+### The parent wants direct breastfeeding to work because pumping is wearing them down.
+
+1 of 18 posts.
+
+The parent of an 11-week-old wants to establish breastfeeding after roughly two months of exclusive pumping. Early latch attempts worsened hunger and frustration, while the feeding-and-pumping routine now takes a toll on mental health.
+
+- "Early on I tried to get him to latch before feeding him expressed milk but it wasn't really working out - he'd go from 0 to 60 so quick with his hunger cues, and his frustration from not latching made it so much worse." [ar049-0051]
+- "The thing is, it's really starting to take a toll on my mental health - if I'm not feeding him from bottle, I'm pumping." [ar049-0052]
+
+**But:** nothing found against it.
+
+### The parent shares a later move from bottles to breastfeeding to challenge early pressure.
+
+1 of 18 posts.
+
+Writing at 12 weeks postpartum, the parent describes moving from mostly pumped-milk bottles to mostly breastfeeding by six weeks. They want parents to receive help with later transitions rather than early pressure.
+
+- "I absolutely hated the pressure to breastfeed at the beginning, and all of the judgement when you tell people you’re not doing it." [ar059-0008]
+- "So I got some nipple shields to help him latch, had him in a BF position with the bottle by my boob when he was being fed with pumped milk, and then by 6 weeks he was mostly breastfeeding (his dad still gives him a bottle every day because it’s nice for them to have that time together)." [ar059-0007]
+
+**But:** The parent explicitly limits the example’s reach: "I understand that doing things this way around may not work for everyone" [ar059-0008]
+
+### The parent wants a bottle flow that lets the baby feed without falling asleep or choking.
+
+1 of 18 posts.
+
+After eight weeks of breastfeeding and a return to work, this parent finds extra-slow flow too slow but slow flow upsetting. They want an intermediate option that allows the baby to take enough milk.
+
+- "She did okay last week with the Lansinoh XS flow nipple but now she is falling asleep while feeding after only 0.5 oz." [ar074-0112]
+- "I upped to the S flow nipple and it seems to be choking her up and she gets upset." [ar074-0112]
+
+**But:** nothing found against it.
+
+### The parent fears choking when a capable eater stuffs too much food into the mouth.
+
+1 of 18 posts.
+
+The parent of a two-year-old wants to teach slower, safer eating when excitement or play leads to mouth-stuffing. Removing food has not resolved the fear.
+
+- "Thankfully, he has not choked yet, but I’m so terrified he will." [ar032-0027]
+- "Like today, he had avocado toast pieces and he decided he wanted to make a sandwich out of then and stacked them together and then shoved all the pieces (so basically a whole piece of toast ) in his mouth." [ar032-0029]
+
+**But:** nothing found against it.
+
+### The parent questions choking warnings after seeing other parents offer whole meat sticks.
+
+1 of 18 posts.
+
+A parent who quarters foods such as hot dogs wonders why other parents offer whole meat sticks to children aged two or younger. They ask whether warnings to wait until four are excessively cautious; the post does not establish safety.
+
+- "Everywhere I look, it explicitly says that it's a HUGE choking risk and you should never give a whole Chomps to a 2yo, and shouldn't until they're 4yo." [ar068-0091]
+- "My question is.. are all these sources erring on the major side of caution, or is it actually safe to give them whole meat sticks?" [ar068-0092]
+
+**But:** nothing found against it.
+
+## Near posts
+
+### The parent wants more food accepted but worries about withholding alternatives.
+
+1 of 4 posts.
+
+The parent of a two-year-old offers alternatives when family food is refused, while the husband favors letting hunger teach acceptance. Low weight, sleep disruption and wasted food make that approach worrying.
+
+- "I would love to just give him what we are having, but when I have tried, he just throws it and then won't eat it, and then I cave and make him something else." [ar021-0143]
+- "Our little guy is healthy and happy, but he is tiny (5th percentile for weight), so I get worried about putting him to bed with no food - but maybe the learning curve would be quick, and I should get over it?" [ar021-0145]
+
+**But:** Some food is reliably accepted: "He loves breakfast and eats it every day" [ar021-0139] The digest also reports that a feeding assessment found no mouth-movement problem [ar021-0138].
+
+### The parent wants possible allergy investigated after feeding improved and then became uncomfortable.
+
+1 of 4 posts.
+
+After improved feeding following a tongue-tie release, the parent of a six-week-old reports distressed feeds and other symptoms. They want possible cow’s milk protein allergy investigated despite the GP’s reassurance about settling and weight gain.
+
+- "His feeding has also changed, he can seem very hungry but then within 30 seconds–1 minute of latching he becomes frantic, arches/straightens his body, cries and comes off, so feeds are often much shorter and more frequent and I’m struggling to get him satisfied as he’s just too uncomfortable." [ar063-0097]
+- "Does this sound like symptoms worth pushing to investigate, even though he is generally able to be settled eventually and gaining weight? And is a dairy elimination trial something I should be asking about?" [ar063-0099]
+
+**But:** The account also reports substantial improvement after release and good weight gain: "After that, breastfeeding improved massively. He started latching well, feeding efficiently, coming off satisfied and gaining weight really well." [ar063-0095]
+
+### The parent wants direct breastfeeding to work because pumping is wearing them down.
+
+1 of 4 posts.
+
+At ten weeks postpartum, this parent wants to nurse but describes a painful, shallow latch and exhaustion with pumping and washing. They anticipate hating themselves for stopping and feel unable to make time for repeated consultant visits.
+
+- "I hate pumping. I want to nurse my baby so bad but her latch is so bad and so shallow and it hurts so much." [ar081-0112]
+- "I’m so fucjing tired and so upset. I’m so sick of washing the fcking dishes all the time and all the other bullshit that comes along with being an exclusive pumper." [ar081-0113]
+- "I hate this so much but I think I would hate myself for quitting even more." [ar081-0115]
+
+**But:** Direct nursing is possible occasionally, despite the painful latch: "I nurse her every once in a while in a pinch or if I really don’t want to pump." [ar081-0113]
+
+### The parent asks whether painful newborn breastfeeding means the latch needs help or feeding should change.
+
+1 of 4 posts.
+
+The mother of a two-day-old describes raw, painful nipples and little sleep during cluster feeding. She has ordered more supplies and asks whether to endure the pain, seek latch help, supplement or stop.
+
+- "Left nipple has some cracking, right looks fine. Both are pretty okay looking but feel so very raw afterwards and deeply painful when he feeds." [ar081-0123]
+- "I’ve ordered all the things for same day delivery (shields, heat/cooling pads, etc.) but I’m worried it’s my latch or something. Has anyone had anything similar? Is this just normal? Do I need to just get through it? Is it a sign I should stop or add formula to the mix? Any reassurance or advice would be amazing." [ar081-0124]
+
+**But:** The digest also reports a successful latch at the first home visit [ar081-0122]; it supplies only a sentence fragment for that counterexample.
+
+## Across the on-niche posts
+
+### Parents have already changed feeding techniques, equipment or routines.
+
+18 of 18 posts.
+
+Parents describe attempts to change feeding equipment, technique or routines, including repeated unsuccessful experiments. The tag records an attempt, not proof that it worked.
+
+- "I already tried the yogurt method, the one where you put water in the straw and putting your finger over the top of the straw to trap a small amount of liquid inside. But I still cant teach my son to use straw." [ar029-0054]
+- "We've tried various brands (Philips Avent, MAM, lanisoh and nuk) as well as different teat flows. Experimented with different temperatures. I've attempted to feed, as has my husband and my mother. We've tried sitting up position, lie-down feeding, I've tried nursing and then doing the ol'switcheroo with the bottle and she will just not take it." [ar030-0109]
+
+**But:** Some attempts accompanied success: "So I got some nipple shields to help him latch, had him in a BF position with the bottle by my boob when he was being fed with pumped milk, and then by 6 weeks he was mostly breastfeeding (his dad still gives him a bottle every day because it’s nice for them to have that time together)." [ar059-0007]
+
+### Parents receive feeding advice and pressure, and ask family to help with feeds.
+
+5 of 18 posts.
+
+Parents report advice, pressure and feeding help from professionals, family and others. This tag includes named co-caregivers’ actions; an unspecified “we” alone does not establish another person’s separate action.
+
+- "I've gone to the pediatrician for this and at least in my country (Mexico) while they do tell me he should've been weaned off of it by now the societal norm is for them to keep taking at least night bottles until they decide to stop." [ar051-0060]
+- "I absolutely hated the pressure to breastfeed at the beginning, and all of the judgement when you tell people you’re not doing it." [ar059-0008]
+
+**But:** Others also provide practical help: "I've attempted to feed, as has my husband and my mother." [ar030-0109]
+
+### One parent has bought more than fifty kinds of cup without displacing the bottle.
+
+1 of 18 posts.
+
+One parent explicitly reports buying more than fifty cup types without replacing the bottle; the amount paid is unknown. This is the only purchase quote supplied, so one is reproduced; equipment use or “got some nipple shields” does not establish payment, and the husband’s adult dental spending is not a purchase for the child’s feeding problem.
+
+- "I've bought easily over 50 different types of cups, even smaller versions of my water bottle but he just. wants. the. freaking. bottle." [ar051-0062]
+
+**But:** nothing found against it.
+
+### Parents describe fear and strain around feeding, alongside curiosity and hope.
+
+12 of 18 posts.
+
+Parents explicitly name panic, fear, frustration, guilt, pressure and harm to mental health. The tag also includes curiosity and hope; a request for advice alone does not count as a feeling.
+
+- "Thankfully, he has not choked yet, but I’m so terrified he will." [ar032-0027]
+- "Every other no I can take. A no for meals makes me panic." [ar079-0037]
+- "Breastfeeding is slowly destroying me and I can't keep doing it but I feel like I have no choice with the bottle refusal." [ar030-0111]
+
+**But:** Feelings are not uniformly negative: "I’m hopeful it will be easier to just change it all up rather than try to figure out how to do our normal bedtime with no water bottle and then later try to change it on her again." [ar046-0126]
+
+## Coverage
+
+<details>
+<summary>Every heading of the digests, and where it went</summary>
+
+| Digest heading | Went to |
+|---|---|
+| Pattern 7, share 09: yes posts | section title |
+| The parent wants to teach straw drinking after attempts have failed. | The parent wants to teach straw drinking after attempts have failed. |
+| The parent wants to end comfort bottles even though the child can already drink from cups. | The parent wants to end comfort bottles even though the child can already drink from cups. |
+| The parent wants to replace bottles with cups but the child refuses the alternatives. | The parent wants to replace bottles with cups but the child refuses the alternatives. |
+| The parent wants independent eating after hospital stays made feeding the child a habit. | The parent wants independent eating after hospital stays made feeding the child a habit. |
+| The parent wonders whether feeding a formerly independent child provides connection. | The parent wonders whether feeding a formerly independent child provides connection. |
+| The parent wants direct breastfeeding to work because pumping is wearing them down. | The parent wants direct breastfeeding to work because pumping is wearing them down. |
+| The parent shares a later move from bottles to breastfeeding to challenge early pressure. | The parent shares a later move from bottles to breastfeeding to challenge early pressure. |
+| The parent needs a breastfed baby to accept bottles and asks what else to try. | The parent needs a breastfed baby to accept bottles and asks what else to try. |
+| The parent wants a bottle flow that lets the baby feed without falling asleep or choking. | The parent wants a bottle flow that lets the baby feed without falling asleep or choking. |
+| The parent fears choking when a capable eater stuffs too much food into the mouth. | The parent fears choking when a capable eater stuffs too much food into the mouth. |
+| The parent questions choking warnings after seeing other parents offer whole meat sticks. | The parent questions choking warnings after seeing other parents offer whole meat sticks. |
+| Pattern 7, share 09: near posts | section title |
+| The parent wants more food accepted but worries about withholding alternatives. | The parent wants more food accepted but worries about withholding alternatives. |
+| The parent wants possible allergy investigated after feeding improved and then became uncomfortable. | The parent wants possible allergy investigated after feeding improved and then became uncomfortable. |
+| The parent wants direct breastfeeding to work because pumping is wearing them down. | The parent wants direct breastfeeding to work because pumping is wearing them down. |
+| The parent asks whether painful newborn breastfeeding means the latch needs help or feeding should change. | The parent asks whether painful newborn breastfeeding means the latch needs help or feeding should change. |
+| Pattern 7, share 09: across the yes posts | section title |
+| What they tried, in their words | Parents have already changed feeding techniques, equipment or routines. |
+| What other people told them or did | Parents receive feeding advice and pressure, and ask family to help with feeds. |
+| What they bought or paid for | One parent has bought more than fifty kinds of cup without displacing the bottle. |
+| How they say they feel | Parents describe fear and strain around feeding, alongside curiosity and hope. |
+
+</details>
+
+exec
+/usr/bin/zsh -lc 'python3 -I _tools/verify_section.py baby-development/findings/2026-11/patterns-2-3-years/pattern-07.md 18 4 3000' in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+pattern-07.md: counts OK
+
+exec
+/usr/bin/zsh -lc 'python3 -I /home/thinkpad/GitHub/_home/.agents/skills/write-findings/check_findings.py baby-development/findings/2026-11/patterns-2-3-years/pattern-07.md --quotes baby-development/quotes --evidence baby-development/evidence/2026-11/age-reread/digest-09.md' in /home/thinkpad/GitHub/_research
+ succeeded in 507ms:
+pattern-07.md: findings 19, quotes checked 50, words 3549; OK
+
+codex
+Findings written in [pattern-07.md](/home/thinkpad/GitHub/_research/baby-development/findings/2026-11/patterns-2-3-years/pattern-07.md). Both checks printed **OK**; 2,955 words above Coverage.
+
+No merges were needed. Flagged the infant posts within the age-labelled digest. One counterexample was paraphrased and cited because the digest supplied only a sentence fragment.
+tokens used
+39,856
+Findings written in [pattern-07.md](/home/thinkpad/GitHub/_research/baby-development/findings/2026-11/patterns-2-3-years/pattern-07.md). Both checks printed **OK**; 2,955 words above Coverage.
+
+No merges were needed. Flagged the infant posts within the age-labelled digest. One counterexample was paraphrased and cited because the digest supplied only a sentence fragment.
