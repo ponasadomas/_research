@@ -1,0 +1,13 @@
+# Reader 014 — reading notes
+
+Read all 150 assigned files in share order, including every available author reply. Nothing in the share remains unread. Marks: **9 yes, 37 near, 104 no**. Extracted **81 quotes from 21 posts**: all 9 yes posts and 12 near posts with an explicit link to development or skills. These are post counts within one share of the supplied random sample, not estimates of parents or the market.
+
+Among the 9 yes posts, normality or possible-problem questions recurred most (pattern 1: **4 posts**), followed by others' criticism or interference (10: **3**). Activities and filling the day (2) and groups or classrooms (9) each appeared in **2**. Hard behaviour (3), fear of harm from a parent's choices (5), preference for someone else (6), and potty learning (11) each appeared in **1**. One post fit none of the numbered subjects: bath fear eased by shared bathing, followed by unexpected pooping. Patterns overlap; these counts do not sum to nine.
+
+Aggression around a new sibling and aggression despite substantial attention both appeared. Books, podcasts and videos had not solved those parents' difficulties; reading a book was not treated as proof of buying it. Classroom comparison and a relative's surprise about television preferences prompted normality worries. The grandparent-preference account was especially concerned with money, outings and ignored rules. Gross humour and relief appeared alongside distress; neither was filtered out.
+
+The 37 near posts comprise **23 age_over_48, 4 parent_state, 3 sleep, 3 logistics, 2 other, and 2 age_unknown**. Older children's literacy, emotional regulation and independence were substantial subjects but outside the age limit. Four-year-old posts were placed near at the fourth-birthday boundary. First and seventh grade established older children without supplying exact ages, so their stage remains unknown.
+
+Uncertainties: one aggression post says three in its title but approaching three in its body; I used child_2_years and recorded the conflict. Learning independent sleep was treated as an explicit skill link. A mainly-sleep post also described potty-training resistance and was quoted. Pain gestures during an ear infection were marked near/other, rather than developmental evidence. Ordinary night waking alone was no. Commercial referral and scheduling-app posts remain labelled in the ledger.
+
+All saved text was read; **110 files say author replies were not fetched**. This is a capture limitation, not an unread remainder. Quote wording, share membership, unique ids and ledger counts were checked by script.

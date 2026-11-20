@@ -1,0 +1,11 @@
+# Reader 019 — age rereading notes
+
+Read all **150 posts** in share order, including supplied author replies: **13 yes, 47 near, 90 no**. Nothing remains unread or unavailable. This is the supplied share of a random sample across twelve parenting subreddits, April–October 2026; no further selection was made. Counts describe posts, not people or market prevalence.
+
+Kept **163 quotes from 34 posts**: all 13 yes posts and 21 near posts with developmental or skill links. Script checks passed for verbatim quote parts, sequential unique IDs, exact share coverage, per-post quote counts, and field limits. Reply quotes have comment dates and links. The book-author promotion is labelled commercial.
+
+Among yes posts, hard behaviour appeared in **5**, daycare/peers in **4**, activities in **3**, normality concerns in **2**, and potty learning in **2**; tags overlap. Street-running, prolonged meltdowns, and daycare-pickup rejection stood out. Parents repeatedly tried praise, consequences, distraction, rewards, and scheduled potty sits without dependable results. One post described expressive speech delay and uncertain therapy progress. **2 yes posts** required pattern 0: pacifier weaning and explaining pet loss.
+
+Surprisingly, **31 of 47 near posts** concerned older children. Other borders: **8 age_unknown, 4 sleep, 2 parent_state, 1 feeding, 1 other**. Older-child subjects included exclusion, sensory distress, renewed wetting, and aggression despite support. Only **2 of 60 yes/near posts** explicitly reported buying/paying: clothing and an approximately $20 book-program fee. Therapy attendance alone did not establish payment.
+
+Uncertain boundaries: incidental behaviour within adult complaints, including a teenager’s terse responses, breakfast-making questions, and a noisy toddler in a housing decision. These remained near. Ordinary four-year labels were treated as beyond the fourth-birthday boundary. Clear school-grade context established older-child status without inventing numerical ages; kindergarten alone, prep, and broad age descriptions could remain age_unknown. The 25-year-old son’s arguments were marked no as an adult relationship issue. Explicit motherhood without stated parity did not justify inventing first-time status. Individual uncertainties are noted in the ledger.

@@ -1,0 +1,11 @@
+# Reader 016 — age reread
+
+Read all 150 assigned post files, in share order and in full, including the authors’ archived replies. None unavailable or unread. Marks: **15 yes, 37 near, 98 no**. Extracted **110 quotes**: 62 from all 15 yes posts, and 48 from the 11 near posts with an explicit development or skills connection. These are counts of posts in this share of the supplied random sample, not people or market prevalence.
+
+Among yes posts, hard behaviour appeared in 7, normality concerns in 6, daycare or other children in 5, and delight in abilities in 3. Parental choices and developmental harm appeared in 2; activities, purchases, interference and potty learning each in 1. Tags overlap. Two posts needed pattern 0: sibling preparation and speculation about dreams/past lives. No yes post showed a known delay or established therapy. All 15 focal children were two or three: 11 two-year-olds and 4 three-year-olds. Infant posts here were largely about adult recovery, feeding, sleep, health or equipment.
+
+The range of behaviour stood out: licking, finger mouthing, anger, sensitivity to crying, and difficulty focusing before daycare. The possible seizure post stays yes: it describes unusual movements and responsiveness, without an established diagnosis. The older-child physical-discipline account remains quoted, including regret; the sleepover jokes remain labelled hypothetical. Speculation about dreams is an author belief, not a verified claim.
+
+Near reasons: 26 age_over_48, 5 age_unknown, 4 logistics, 1 parent_state, 1 feeding. Boundary judgements are recorded per row. Four-year-olds were placed outside the upper boundary; exact birthdays are unavailable. School grades establish older children but not exact ages, so their stage stays unknown. The aunt discusses ages two and four equally; stage follows the younger child. The summer-chaos post follows the three-year-old singled out in replies, with parental strain as the main subject.
+
+Other difficult boundaries: crib/seat fit alone stays no; wiggling during grooming, time spent on the back during haircare, and incidental solids introduction make near. Mere school-start references in work plans stay no. Most authors do not explicitly identify as mothers, so speaker remains parent_unspecified. Ownership, daycare attendance and affordability alone do not establish payment.

@@ -1,0 +1,11 @@
+# Reader 011: age reread
+
+Read all 150 assigned post files, including every supplied author reply, in share order. No assigned files remain unread. Results: **17 yes, 40 near, 93 no**. Extracted **142 quotes from 28 posts**: all 17 yes posts and 11 near posts with an explicit development or skill link. These are post counts from this share of the supplied random sample, not counts of people or estimates of the parenting market.
+
+Among the 17 yes posts, hard behaviour appeared in 7, groups/daycare/other children in 6, and delight or pride in 4. Gear choices, worry about one's parenting choices, and other people's interference each appeared in 3. Tags overlap. Parents described hitting, screaming, rough handling of cats, resistance to routines, and inconsistent discipline. Social posts included peer rejection, avoiding unfamiliar classmates, settling into new daycare, and preschool bringing both better social confidence and harder behaviour at home. Pride included spontaneous translation between three languages and growing independence.
+
+All 17 yes posts concerned two- or three-year-olds; none centred on a younger baby. Infant posts here mostly concerned sleep, feeding quantities, health, or parental circumstances. No qualifying author explicitly stated a purchase/payment for the subject; using a product, attending a class, and requesting a book were not treated as proof of payment.
+
+The 40 near posts divide into 18 age_over_48, 8 age_unknown, 5 sleep, 3 feeding, 3 parent_state, 2 other, and 1 logistics. Four-year-olds were placed beyond the fourth-birthday cutoff. School grade alone was not converted into a numeric age. One yes post concerned both a two- and four-year-old; its stage records the two-year-old. The translation post's opening age typo conflicts with repeated two-year references and a last-week birthday.
+
+Judgment calls included hunger-driven tantrums, parental anger linked to speech delay, resilience outside the named patterns, and incidental play in adult/logistical posts. “Refuses to learn” from hunger and protecting day/night discrimination were treated as explicit skill links. The Montessori schedule is labelled second-hand in quote contexts. In 109 source files, author replies were not fetched when the files were made; those unavailable replies were not read.

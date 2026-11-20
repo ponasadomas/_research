@@ -1,0 +1,13 @@
+# Reader 008 — age reread
+
+Read all 150 assigned post files, in share order, including every author's reply preserved in those files. The share comes from the supplied random sample of text posts in twelve parenting subreddits, April–October 2026; I made no keyword selection. Results: **15 yes, 35 near, 100 no; 100 quote records from 23 posts**. Nothing assigned remains unread or unavailable. In 115 files, the capture explicitly says replies were not fetched; this reading cannot describe those missing replies.
+
+Hard behaviour recurred most: 9 of the 15 yes posts, and 22 posts when yes and near are combined, carried pattern 3. These include hitting a baby sibling, difficulty using gentle touch, distress when play stops, frustration with toys, and parents unsure how to correct or respond. Potty learning appeared in 3 yes posts, with withholding, renewed accidents, resistance, and pressure from preschool requirements. Four yes posts asked whether a specific behaviour or ability was normal (patterns overlap). These are counts of sampled posts, not people or market prevalence.
+
+What surprised me was how often practical responses and the parent's emotional response appeared together: guilt after discipline, fear of permanent harm from potty training, or worry that behaviour would cost another daycare place. One parent described substantial spending on private swimming lessons and progress with instructors, alongside refusal to swim with parents. Two yes posts concerned choosing books or indoor play equipment. There were no learning-to-eat-as-a-skill posts tagged 7 in this share.
+
+The 35 near posts divide into 24 older than the cutoff, 4 without stated ages, 5 mainly about the parent's state, and 2 mainly about feeding. I treated the fourth birthday as the boundary: four-year-olds are near; nearly-four-year-olds remain eligible. Sleep alone, illness alone, adult relationships alone, and pregnancy-only requests are no.
+
+Uncertainties are recorded in the ledger. In 1tg49mc, “9m” is read as a nine-year-old male because the son answers full questions; the notation is ambiguous. School standard or attendance does not establish an exact age band, so some stages remain unknown. The growth-restriction post (1velo0u) is near because it connects past pregnancy choices with children's continuing growth, without current ages. “Character building” in 1w8hy98 and self-regulation in 1wlfgbw are treated as explicit developmental links. I did not treat general parenting guilt or food refusal alone as such a link.
+
+Validation checked exact share coverage, unique sequential quote ids, per-post quote totals, field limits, and every quotation against its recorded raw source. Counts above include each post once per pattern.
