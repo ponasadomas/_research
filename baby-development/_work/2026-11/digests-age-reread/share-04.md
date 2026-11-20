@@ -1,0 +1,2353 @@
+# Share 04: pattern 3, Hard behaviour
+
+## On-niche posts (yes): 190 posts
+
+### 1sak4br | r/toddlers | 2026-04-02 | child_3_years | parent_unspecified | patterns 3
+
+About: Three-year-old resists routines and gets distracted. Wants: Help getting toddler to listen without shouting. Already did: Repeated instructions, held child in place, raised voice.
+
+- `ar003-0001` (pain) So I have 3.5yo. Up until now it’s been fine. Of course some tantrums here and there but manageable. But lately I understood what other parents’ve been talking about - I started loosing my temper with my toddler. He is insufferable lately. He is never following my rules without some whining, I have to repeat everything 10 times, and each time he makes up a distraction that he needs to do before proceeding.
+Eg he is brushing teeth, and then he says he needs to wash hands, he needs to look into mirror and so on and on. If I say “no, first brushing teeth, this is the rule”, then he falls to the ground, starts whining, if I apply some force to keep him in place/ raise my voice for brushing then it’s tears, and he finally might do what I need him to do. But I don’t like that, I don’t want to raise my voice for him to listen. It’s like a constant push and pull, roller coaster. EXHAUSTING.
+- `ar003-0002` (question) How do you make your toddler listen and follow your routine? How do you keep them focused and avoid a million distractions?
+
+### 1sat2nk | r/daddit | 2026-04-02 | child_3_years | parent_unspecified | patterns 2,3
+
+About: Toddler resists chores and throws food during cooking. Wants: Compare chores and learn how to respond. Already did: Removed from chair for throwing; allowed spoon cleaning.
+
+- `ar081-0005` (pain) When my kid was 2 1/2 he would help clean the table, clean his face and hands… he loved helping to hoover and cleaning the floor. 
+
+He’s 3 1/2 now and he’ll only clean his hands. After eating. 
+
+Anyone else experiencing this? He’s pushing back on a lot.
+- `ar081-0006` (pain) Fun chores like helping make dinner is now becoming chaotic as he’s just trying to eat the food or throw it around. So then he gets out down and n the floor and then he cries the whole time.
+- `ar081-0007` (tried_failed) Yeah we’re not stopping. He stands on a chair to get to the worktop. I put him down on the floor when he starts throwing things and say “you can come back up if you don’t throw food”
+
+Usually works but it’s just getting more chaotic these days. 
+
+I let him “clean the spoon” after he’s put the humus and things on the plate.
+- `ar081-0008` (question) And what do you do about it?
+
+### 1sax2t0 | r/Parenting | 2026-04-02 | child_2_years | parent_unspecified | patterns 3,5
+
+About: Parent regrets withholding play after toddler hits baby sister. Wants: Learn appropriate discipline and whether this response helped. Already did: Scolded, cancelled outside play, withheld games, apologized; reconnected next morning.
+
+- `ar008-0001` (trigger_moment) My 2 y/o was having a mini tantrum after dinner tonight because she wanted to go outside, but not finish dinner.  She slapped her 2 month old baby sister in frustration (not particularly hard) and I brought her in the other room, scolded her, said we would not be going outside to play, explained, and told her we were going to apologize, take a bath, and go to bed.  I don't really know if it was the right reaction, but it's what I came up with. It upset her, but at least initially she seemed to connect that hitting her sister was the cause of her not getting what she wanted.
+- `ar008-0002` (pain) But going through our regular tub and bedtime routine she kept trying to engage with me and play all of our silly games.  I feel so guilty afterwards not reciprocating and just going through the motions putting her down.
+- `ar008-0003` (pain) I of course told her I loved her and read a story, but she could tell something was off and was trying so hard trying to get a reaction out of me.  I don't even know that she made the connection to why, but it felt like I was giving in to treat it like normal. But afterwards I don't know if she even made the connection, and if not I feel so guilty withholding like I did.
+- `ar008-0004` (desire) I need to read more on how to treat situations like this, but it's really upsetting to think about my daughter just trying to play games and being so sweet, but not playing with her.  This time only lasts so long and I'm pretty sure I'll remember tonight forever.  I just hope what I did was worth it, and mattered.
+- `ar008-0005` (regret) 100%, and that's what I felt guilty about.  Realized it towards the end, and thinking about it after the fact.  No doubt it was wrong, I'll do it different next time.
+- `ar008-0006` (success_story) She was fine this morning and we had a special breakfast and played with the dogs outside.  But still gonna stick in my brain
+
+### 1sbkso2 | r/toddlers | 2026-04-03 | child_3_years | experienced_mother | patterns 3
+
+About: Parents want help responding calmly to toddler defiance. Wants: Stop yelling and learn effective responses to defiance. Already did: Consequences, redirecting throwing, discussing yelling with husband.
+
+- `ar052-0001` (trigger_moment) I have a boy who just turned 3. Since he turned 2 he’s slowly been testing our patience. We also have a 5 month old who can be high-needs so things are messy and wild right now.
+- `ar052-0002` (pain) My toddler has been testing us constantly. I want to be a person who can model emotional regulation but if I’m being honest that has never been me (especially before kids). I have good moments and bad moments and for the last few months my toddler has been testing his dad as I’ve been busy with baby. Dad has lost his temper a few times and his dad and I have talked about it after agreeing that it is not okay. However as of late I’ve found myself yelling at toddler too ans I just feel like absolute garbage afterward.
+- `ar052-0003` (tried_failed) Some examples include today, where my toddler and I went on a nice walk but at the end he ran away from me and crossed yhe street by himself without looking for cars and completely ignoring me yelling telling him to stop. So when we got home I spoke loudly and said that was not okay, he needs to listen, and I am not going to take him to the birthday party because he is not listening when we leave the house.
+- `ar052-0004` (pain) An hour later he’s in the toilet and unrolls all the toilet paper even though Ive repeatedly told him that we don’t waste the toilet paper like that. I yell, and the worst part is my husband comes down and yells too.
+- `ar052-0005` (regret) In that moment I feel so disgusted with myself (both of us really) because I see two adults clearly not regulated themselves. Yelling at a poor 3 year old. I hate myself right now and I want to be a better momma, one that my boys deserve.
+- `ar052-0006` (tried_failed) Every day my toddler is defiant, I have to repeat something 10x with eventual raising of my voice for him to listen, he delays tasks by finding excuses. Bedtime is delayed because he wants to go pee pee/poo poo even though we iusy went, and more often than not he doesn’t even pee. He throws all his toys even though I’ve tried saying ‘if you want to throw something, you can throw a ball but \[markers\] are not for throwing’. My requests for him to clean up are often ignored until I say something like ‘if you want to take a bubble bath we need to quickly clean up or else we’re not going to have time and it’s straight to bed’. I have no idea whether my consequences are making sense to him.
+- `ar052-0007` (pain) It’s just non-stop. I know he’s not doing it to frustrate me but it does feel personal.
+- `ar052-0008` (desire) Most importantly, I have no idea how to handle this ans where to get help so I can be a better mom. I do try to have consequences be tied to his actions but I don’t always get it right snd my energy also goes to correcting my husband who is less in touch than I am.
+- `ar052-0009` (desire) I just don’t want to yell. I want to be his safe space.
+
+### 1sbzw8k | r/toddlers | 2026-04-04 | child_3_years | parent_unspecified | patterns 3,11
+
+About: Child refuses pants after naked potty training. Wants: Get child to keep pants and underwear on at home. Already did: Used naked potty-training method; explained visitors and outings.
+
+- `ar030-0002` (question) How do I get my 3yr old to keep his pants on while at home? He was perfectly fine wearing pants before we potty trained him, and then we did the naked method to potty train, and he learnt how much he loves it. Now it is impossible to get him to keep his pants and underwear on. If I tell him we are getting a delivery, or if we are leaving the house he has no problem wearing them, but if we are just hanging out at home he insists on being naked from the waist down.
+
+### 1sc7oyd | r/toddlers | 2026-04-04 | child_2_years | parent_unspecified | patterns 1,3
+
+About: Two-year-old rages inconsolably after naps. Wants: Understand and manage furious post-nap behaviour. Already did: Offered things; child would throw them.
+
+- `ar039-0001` (trigger_moment) It's a new thing for us.
+- `ar039-0002` (pain) She is absolutely inconsolable after waking from mid day nap. Doesn't want to go back to sleep, doesn't want cuddles. Rages and rages, pushing doors, pushing parents, stomping.
+- `ar039-0003` (belief) She's normally a pretty chill kid.
+- `ar039-0004` (question) Has anyone else experienced this stuff? I'm lost at what's going on.
+- `ar039-0005` (pain) Takes like 40 min here
+- `ar039-0006` (tried_failed) In all honesty it's a no go. She's so furious she'd take whatever I offered and throw it in my face.
+
+### 1sdzla8 | r/toddlers | 2026-04-06 | child_3_years | parent_unspecified | patterns 3
+
+About: Three-year-old defies requests, screams, and hits younger brother. Wants: Strategies and scripts for defiance, screaming, and sibling aggression. Already did: Separating siblings; room timeouts; correcting behaviour.
+
+- `ar005-0001` (pain) I need help with my 3.5 year old’s epic meltdowns and talking back…
+- `ar005-0002` (pain) Lately everything I say turns into a power struggle. If I say “let’s pick up our toys,” she immediately says “no YOU pick up the toys.” “Can you take a bite of your dinner” “No, YOU take a bite of dinner”. If I say “let’s go outside and play,” it’s “no YOU go outside and play.” It doesn’t even matter if it’s something fun or positive! It’s like a switch is flipped and it’s automatic pushback.
+- `ar005-0003` (pain) On top of that, when she doesn’t get her way, she can go into full screaming fits. LOUD just repeating “ahh, ahh, ahh!”. She won’t listen to anything I say, she knows we don’t like it and it’s like she keeps going on purpose knowing we can’t stand it… ugh.
+- `ar005-0004` (tried_failed) She’s also started hitting or kicking her younger brother (2yo) when she’s upset, and again, won’t listen when I step in. I’ll try to separate her or take her to her room for a time out, but she just comes right back out or bangs on the door, so it’s really hard to even follow through with a time out style of discipline … (I should also mention we are in a condo right now while our house is being renovated so I’m constantly worried about neighbors hearing all this too, especially if I try to keep her in her room she’s just banging way too loud)
+- `ar005-0005` (desire) I feel like I’m constantly correcting behavior all day long and nothing is sticking. I want to teach her not to talk back, be kind to her brother, and handle frustration better, but right now I feel like I’m failing and everything turns into a battle.
+- `ar005-0006` (question) Please help !! I’d really appreciate any advice, scripts, or strategies 🙏
+
+### 1se8apv | r/Parenting | 2026-04-06 | child_3_years | parent_unspecified | patterns 3
+
+About: Three year old repeatedly leaves table at preschool and home. Wants: Advice keeping son seated during meals. Already did: Family dinners; repeatedly redirected him.
+
+- `ar055-0001` (pain) My son’s (3.5 yr old) preschool teacher told me she has trouble making him sit at the table at lunch/snack time. He gets up on his knees, or turns around, or gets up from the table altogether. She is constantly having to direct him back to the table. We experience similar with him at home. We eat dinner together as a family at the dining table each day, but we’re also constantly directing him back to the table. Feeling exhausted and defeated. Any advice?
+- `ar055-0002` (others_said) I thought that too. But she seems to think my son and one other kid are more distracted than the rest of the class. The class ranges from age 3-4.
+- `ar055-0003` (belief) Their lunch begins 45 mins after a 30 min recess, so somewhat.
+- `ar055-0004` (pain) At dinner time at home, he is constantly making excuses to get up from the table.
+- `ar055-0005` (belief) I hadn’t asked her where he’s going at school but if it’s anything like at home, he’s just wondering off to do something else. Teacher says they all need to be sat at the table for safety purposes.
+- `ar055-0006` (desire) I have never seen these before but I’ll be looking into them. Thank you!
+- `ar055-0007` (desire) I agree we need to start enforcing it. Warning him that dinner is over is a good idea. Do you have any other tips?
+
+### 1sehxap | r/Parenting | 2026-04-07 | child_3_years | parent_unspecified | patterns 3,9
+
+About: Three-and-a-half-year-old hits and screams at daycare when frustrated. Wants: Ways to stop hitting and teach emotional regulation. Already did: Explains no hitting, removes toys, suggests stomping and using voice.
+
+- `ar017-0009` (pain) So its been a month of complaints that my toddler is hitting or screaming at daycare and it only started recently and wasn’t like this till a month ago.
+- `ar017-0010` (trigger_moment) Mostly he gets angry that someone took his toy or someone is not playing with him, he tells his daycare teacher that he is getting angry and when she tells him to calm down he does and its after that he is good whole day.
+- `ar017-0011` (belief) I explain him everyday and tell him that we can have big emotions but wedo not hit anybody. At home as well he gets angry sometimes or throws tantrums but he understands when I explain him and then he is all good.
+- `ar017-0012` (desire) Iam not sure what to do because I don’t want him to hurt others but iam out of ideas as to how to explain him everyday.
+- `ar017-0013` (tried_failed) Yeah they can’t give time outs or anything , right now they are explaining him. At home if he does we take away one of his toys but mostly at home he is okay.
+- `ar017-0014` (pain) Daycare is not very helpful because I dread picking up my child because I fear what complaint will I get today and I had to tell them to praise if he is doing good . I tell him to stomp his feet as well but i will be consistent with saying this.., Thank you for the advice..
+- `ar017-0015` (success_story) Hey , its better than before but when things don’t go his away he sometimes either flaps his hands and hits himself or the toy he is playing with but has stopped hitting his friends.. iam still struggling with the emotional regulation part. Just repeating my self giving him options like if he feels angry he can use his loud voice instead of hands but its been tough.Are you facing the same?
+
+### 1seu0oc | r/toddlers | 2026-04-07 | child_2_years | experienced_mother | patterns 2,3,10
+
+About: Toddler meltdowns, television demands, restricted foods and disinterest in toys. Wants: Advice on early waking, screens, food demands, meltdowns and toys. Already did: New toys, toy rotation, limited shows, food options, big bed.
+
+- `ar051-0001` (pain) we just transitioned him into a big boy bed.  ever since, he's been waking up earlier and earlier everyday. he climbs out of bed, opens his door and usually is able to push the gate down that's blocking his door (it's broken). he usually comes into our bedroom first. but has been waking up earlier and earlier everyday, even with a later bedtime.
+- `ar051-0002` (pain) this one pains me. because I don't allow him to watch TV all day everyday. but he asks and whines for it CONSTANTLY. first thing in the morning when he comes into our room, he finds our TV remote and hands it to me after waking me up. points at the TV and says tv?. I say no and he screams and cries. (mind you I woke up 2 seconds ago so this is how I spend every morning these days). we go downstairs (another meltdown), I turn on the TV for him for a little bit. just so I can eat breakfast, get him breakfast, and actually wake up without the screaming all morning. I only let him watch a few shows. I let him watch YouTube maybe 10 times in his life and all he wants is monster truck shows on youtube. if not that then he saw a brain rot type of monster truck video once and ever since he points and screams for it on the TV (we use the Xbox for the tv). I want him watching very low stimulating shows. but of course he won't. he screams and screams and screams. right now he's watching dintrux on Netflix. I'm fine with this. but he keeps wanting me to change it to YouTube, and I refuse.
+- `ar051-0003` (pain) my son is obsessed with uncrustables. obsessed is an understatement. he asks for it for every meal. if he doesn't get it, another meltdown. every single time. I give him options other than that, like "do you want muffins or waffles?" and he just says sandwich. he's not allowed a sandwich for breakfast. usually only lunch but he still whines and asks for it.
+- `ar051-0004` (pain) dinners are the same thing. he will only eat nuggets. or a sandwich. nothing else.
+- `ar051-0005` (pain) as I've mentioned, he's been having big big big meltdowns. public ones, at home, everything is the worst possible thing to happen to him. they last for a little while. it's very very draining. my husband gets so fed up with him. my mornings always start with meltdowns and last until he takes a nap it feels like.
+- `ar051-0006` (tried_failed) we get him new toys all the time. he loves cars, monster trucks, anything with wheels. but lately he won't even play with them. we rotate toys around, and still he doesn't care for them.
+- `ar051-0007` (others_said) Yeah I mean my husband really fights for this. He's in the military and his job is very demanding, and when he comes home he wants to sit and eat and watch tv. There's almost no stopping him. We do have a TV in our bedroom. But he won't use it.
+- `ar051-0008` (others_said) My husband really disagrees with cutting screen time. It's like the only way he can calm our son down. And he works long hours and says he wants to watch TV when he comes home from work. So idk how to approach this
+
+### 1sf8j8x | r/toddlers | 2026-04-07 | child_2_years | parent_unspecified | patterns 3,9
+
+About: Toddler runs into streets and tantrums when stopped. Wants: Tips and reassurance for keeping toddler safe outdoors. Already did: Street safety teaching, praise, carrying away, consequences.
+
+- `ar019-0001` (success_story) So, we have a 27 month old. Very smart. Loves being outside. Sees older kids on scooters and big wheels and bikes and wants to be just like them. She has a 3 wheel scooter and a big wheel too. When we got them, we impressed upon her how important it is never go into the street. Even before this, for a solid year when we would push the stroller to the park we always made a big deal about looking for cars to make sure we can cross safely together. The first two days with the scooter, she was doing so well. She would stop as soon as she saw the street and wait, which was often 1 or 2 houses before the street. We gave her so much praise to reinforce it. She was even learning to carry the scooter across the street instead trying to learn to ride in the crosswalk.
+- `ar019-0002` (fear) Fast forward a week or two and now she’s just trying to run into the street, stop halfway through the crosswalk, or play in the street. I always tell her to keep crossing first and make it to the sidewalk. Well, in my mind it’s safety first. So I’ll pick her up. We live in a very family friendly neighborhood but the cars still zoom by quickly and there’s a decent amount of them always.
+- `ar019-0003` (pain) Now it’s every single time we get to a street or go outside she’s trying to assert her independence in an unsafe way. She’ll have a tantrum in the street. So like I said I’ll pick her up to get her to the sidewalk. Which makes her more mad and escalates it.
+- `ar019-0004` (desire) So I’m wondering if anyone else has tips on this? Or maybe can commiserate. 
+- `ar019-0005` (pain) She is the youngest kid on our street and the other kids have a lot of practice staying out of the street. Therefore, I’m the only mom who is now almost constantly having to carry a screaming child out of the street and firmly explaining if she cannot play safely she cannot play out here with the scooter and bike. I feel like I’m starting to get side eye like I’m a bad mom. But I KNOW it’s a dangerous habit for her to get used to. Just now I pulled her back from walking in front of a school bus.
+- `ar019-0006` (desire) We are also new to the neighborhood and trying to make grown up friends with neighbors and friends for her with their kids because that’s what she wants.
+- `ar019-0007` (tried_failed) So we’ve done that like four times now. We try to stick with consequences. Screaming over a toy in the store? Nope. Carry them out and leave no toy. Has worked in the past but is not working with this one issue. Not yet at least.
+- `ar019-0008` (tried_failed) That’s what we’ve been doing. I guess it just hasn’t clicked as fast as with everything else.
+- `ar019-0009` (belief) Ok good this actually really helps with reassurance because I do do that and she was choosing hands and now it’s tantrums but I’ll keep up with that too. Thank you 
+- `ar019-0010` (belief) Okay. That is what we’ve been doing I guess it’s just taking longer than with other things. Thank you for the input
+
+### 1sfdsd2 | r/toddlers | 2026-04-08 | child_2_years | parent_unspecified | patterns 3
+
+About: Two-year-old argues even about things he wants. Wants: Ways to handle contradictory and dangerous statements. Already did: Explained dangers, required sitting, sometimes let disagreements go.
+
+- `ar007-0008` (pain) Anyone else? It drives me absolutely insane sometimes! Either disagreeing with what we say or saying he wants something bad to happen. It feels like every conversation is like 
+
+Me: Please sit on the couch. Jumping is dangerous. 
+
+Him: What dangerous mean?
+
+Me: It means you could fall and hurt yourself. 
+
+Him: I DO want to fall!!
+- `ar007-0009` (fear) We've had similar conversations about being sick, making himself throw up (which is a weird new thing he's been trying to do), kicking other people, etc.
+- `ar007-0010` (pain) Even things he likes or wants, he argues about! He'll say he wants strawberry jam on his toast and I'll go "okay, you can have strawberry jam" and he angrily says no. I think the tone gets me too bc it's like not only are his disagreements nonsensical, but he's SO adamant and grumpy about them.
+- `ar007-0011` (question) I guess I just kinda described every toddler: adamant and nonsensical lol. But what do I do with these conversations?? Sometimes if it's not important I just let it go, but it worries me when he insists he wants to do something dangerous or harmful.
+- `ar007-0012` (tried_failed) Lol I feel like we do all these things! In the couch example, he wants to be on the couch to look at photos we have behind it so it's basically "if you want to look at the photos, you have to be sitting." I guess I could also follow it up with "if you want to jump we can go jump over here." But from his perspective it's like "I must be jumping on the couch AND looking at photos simultaneously." 😆 Maybe it will just take more time.
+- `ar007-0013` (tried_failed) I've tried this too - it works sometimes lol
+
+### 1sg1m9y | r/Parenting | 2026-04-08 | child_2_years | parent_unspecified | patterns 3
+
+About: Two-year-old injures mother through hitting, biting, kicking and head-butting. Wants: Ways to respond to aggression without spanking. Already did: Time outs, hand swatting, fake crying and acting hurt.
+
+- `ar037-0021` (pain) My (f31) son will be turning 3 this upcoming August. He’s generally your typical 2 year old boy but has an issue with hitting, head-butting, kicking, and biting when he is upset or angry. I know this is probably common but my husband (m30) and I are first time parents and we don’t know what to do. We’ve tried time out, swatting his hand, fake crying/ acting hurt. We don’t want to full out spank him but we are at our wits end. What has led me to reach out for help is the head butt I received yesterday at nap time that literally broke my nose. This kid has given me a black eye before…. We just don’t know how to parent this and I’d prefer to not go around with bruises all over my face and arms.
+- `ar037-0022` (question) TLDR: 2.5 year old son broke my nose and constantly head-butts, hits, kicks, and bites when upset. What do I do outside of corporal punishment?
+- `ar037-0023` (trigger_moment) I was laying him down and he went full force. I’m also very short (5 ft) so it’s not hard for him when we’re not both upright.
+- `ar037-0024` (belief) That’s great advice about letting them sit with the anger until it passes. Thank you!
+- `ar037-0025` (belief) This does! Thank you. I fractured my ankle last month and it hindered our outside play time; that might be why it’s so rampant right now.
+- `ar037-0026` (desire) I love the idea of letting him hit the pillow or his stuffies. That’s the type of reactions I was looking for! Thank you!
+- `ar037-0027` (belief) We do when he tries to hit our dog, we will try it with us too. Thank you!
+- `ar037-0028` (belief) Little man is similar. When he realizes he really fucked up he’ll hang his head and get real quiet. I do think he understands but it just takes so much to get to that point
+
+### 1sgmaik | r/toddlers | 2026-04-09 | child_2_years | parent_unspecified | patterns 3
+
+About: Toddler’s meltdowns prevent safe nail trimming. Wants: Specialist who can calmly trim toddler nails. Already did: Forceful restraint; nail tool; searched Google; attempting trimming asleep.
+
+- `ar049-0004` (pain) So, like most toddlers, my son will not allow me to safely cut his nails. I either have to hold him down and be extremely forceful while he has an absolute meltdown (which overstimulates the absolute heck out of me and makes me even worse at handling things lol) OR I just give up. The latter almost always wins. So now my kid has freaking daggers on his fingers.
+- `ar049-0005` (desire) Is there somewhere I can take him that specializes in this type of thing? Like a groomer but for a kid (THAT sounds so bad) that like would wash their hair, cut their nails, clean out their ears, basically anything a dog groomer does to a dog. But like, folks specialized in this who are shockingly good at calming children? (You’ve all seen those ninjas with the dogs. If they can calm my sister’s chihuahua they can calm anything)
+- `ar049-0006` (tried_failed) I’ve tried google and just got a ton of dog grooming results lol. Though, I mean…. If they can do dogs…. Anyone ever used a dog groomer on their kid? Hahahah imagine going to pets mart like yep this is my pet human have at er hahaha. It’s 7am why am I laughing so much. 
+
+Sorry for ranting. Pls help.
+- `ar049-0007` (belief) Lmao I just assumed a regular nail tech would look at me like I was batshit if I brought them a nervous two year old, so tryna see if there’s a place specialized for toddlers specifically. I’ve decided to ask a podiatrist cuz I dunno what else to do haha
+- `ar049-0008` (tried_failed) I used one of these for the first year, but he won’t sit still long enough now D: that darn thing takes heckin forever. And it seems to tickle lol. I have about 37 seconds to do this whole shabam, that’s why I’m seeking a professional hahahah
+- `ar049-0009` (belief) Lmao I think I spoil my kid because treats and screen time will never work, I’m too soft for my own good hahah
+- `ar049-0010` (belief) I’m a terribad parent and I don’t really limit much of anything (to an extent, the kids not drinking red bull and calling me bruh or anything….yet) soooo I fear any type of snack or screen related bribe will not work D:
+- `ar049-0011` (tried_failed) Your kid sleeps long enough for that? Man D: lucky! I’ll put mine down around 12:30 and he won’t sleep til 1-1:30, then by 2 he’s already ready to party. Mind you, he goes down well at night… but his dad usually takes over evenings so I’d have to interrupt my me-time to go sneak into his room at like idk 9/10pm to stealthily cut my child’s nails and lord if I wake him up, I’ll cry harder than he will tbh lmao. That being said… I’m doing the square root of nothing at this moment so I’m going to go attempt to sneak into his room without waking him. Pray for me haha
+- `ar049-0012` (tried_failed) I’m so glad I read your comment. Not me trying to do this with my phone in my mouth as my flashlight -.- gotta find my camping gear lol
+
+### 1shy5ko | r/toddlers | 2026-04-10 | child_2_years | parent_unspecified | patterns 3,10
+
+About: Managing toddler throwing and hitting with restrained timeouts. Wants: Find effective consequences and know when throwing will stop. Already did: Gentle hands, soft toys, removal, praise, belted timeouts, breathing.
+
+- `ar058-0005` (pain) I know it’s developmentally normal and I have been saying that we use gentle hands and communicate that if he wants to throw he can throw soft toys for playing. It doesn’t happen regularly and I feel it’s more impulse control as he mostly does it out of nowhere, but it can be really frustrating when he throws a cup or plate. My husband and I both come from family that use physical/emotional consequences and we’re both grounded and followed directions well (you can say we were scared of punishments so we behaved well) but I really don’t want to resort to that. However, we don’t know if the current strategy we’re using is working since he still think it’s funny and continues to throw/hit. He’s not at day care so I worry that if he starts he’ll be unrestrained/wild and other kids or teachers won’t have the same patience we do. And that reinforcing better behavior should start now vs later.
+- `ar058-0006` (belief) Recently my husband and I decided to try time outs, but he doesn’t stay still so we started using his highchair that has a seatbelt. If he throws I reinforce right away and ask what he’s allowed to throw and he’ll answers “soft” and I ask if what he threw is soft, he’ll answer no and I’ll ask what do we do when you throw? He’ll answer “time out chair”… he’s pleasant throughout this conversation until I actually put him in the chair. It’s more like a time in tho since I usually sit with him and try to regulate and explain that I don’t like putting him in the chair but we’re learning that we use gentle hands and only throw soft things so we don’t get hurt. Sometimes he’ll do deep breathing with me during the 5 minutes (we decrease to 2 minutes but we do talk after)
+- `ar058-0007` (success_story) He’s generally happy (I know because he’ll tell me his emotions like “\[his name\] sad/hungry/crying/happy/mad” and I hear happy the most) and I do think since implementing time out chair the throwing has decreased a lot and it’s only been 4days. What else can I do or what’s the best way to manage this behavior. I feel sad when he cries in the chair but we talk about why he’s in the chair and he’s usually receptive and happy afterwards and will say sorry for hitting or throwing after.
+- `ar058-0008` (question) When does your toddler stop hitting/throwing? I’m  hoping to take out the seatbelt and changing the name from time out chair to “calm-down break” but I already know he won’t stay still and I think my husband thinks this is working so far and we really don’t have much form of consequence as he’s a generally well behaved kid except for this. We’ve also discussed that we can incorporate using his car seat as a “time out chair” when we’re outside. My husband thinks I’m too soft on him, I can’t help it but we don’t question each other’s approach in front of our toddler.
+- `ar058-0009` (belief) I see what you mean and appreciate the perspective. I forgot to mention but we definitely do a lot of positive reinforcement. He doesn’t bite and rarely hits, it’s usually the throwing we have issues with but have incorporated the time out chair for when he does hit.
+- `ar058-0010` (tried_failed) I do take away whatever he throws “you throw I take” and it hasn’t helped much. Often it feels more out of nowhere vs looking for attention. For example, we can be colouring together and he’ll throw it vs putting it down. Or throw a cup because he’s done drinking. Or a truck he’s done playing with and he’s on to play something else. He also prefers to throw food instead of putting it back on the plate when he’s done eating.
+- `ar058-0011` (belief) He communicates very well for his age and I genuinely think it’s because we sit and talk/explain why we’re doing what we’re doing (“adult logic”).
+- `ar058-0012` (desire) I agree that any attention is good attention for this age, I’ll try to be more boring and monotone when I address the throwing.
+- `ar058-0013` (belief) It might seem long but this happens within a span of 5 mins max. I’m just the type to write and explain a lot for context lol !
+- `ar058-0014` (belief) To each their own I guess but breathing exercises and explaining why I’m taking something away, I feel helps him understand why and keeps him regulated. So it doesn’t seem like I’m just suddenly taking his things for no reason and giving him consequence. That way, even after the time out he’s happy and says sorry without being asked.
+
+### 1sijjpl | r/toddlers | 2026-04-11 | child_3_years | parent_unspecified | patterns 3
+
+About: Newly three-year-old hits, ignores parent and resists routines. Wants: Help responding to hitting and power struggles. Already did: Gentle parenting; getting to child's level; trying to connect.
+
+- `ar025-0011` (pain) I’m at a loss. He just turned 3 this week and I swear he turned into a monster overnight. Hitting constantly, won’t listen to anything I say. I feel like all the gentle parenting skills I learned at 2 aren’t working anymore. I’m trying so hard to get to his level and connect with him but he straight up ignores me. And I get so frustrated and just want to walk away. I end up snapping and feel so guilty. I hate being this person. Please help. Anyone else going through the terrible 3s??
+- `ar025-0012` (pain) That is extremely relieving to hear. Exactly same here, cannot sit still for his life. All of a sudden bedtime is the BIGGEST struggle and refuses to lay down, takes like an hour to get him down. Everything feels like a power struggle. Hates getting dressed. Really hoping it only takes a few weeks for him to also return to normal. Thanks for this.
+
+### 1skm57w | r/toddlers | 2026-04-13 | child_2_years | parent_unspecified | patterns 2,3,10
+
+About: Aggressive toddler and husband undermining gentle discipline. Wants: Gentle effective discipline husband will accept. Already did: Weaned; gentle discipline; parenting books; cleanup roleplay; child shows.
+
+- `ar047-0001` (pain) My 2.5 year old used to twiddle while I nursed him. It's a big part of why we weaned. I hate that feeling. He has also started biting.
+- `ar047-0002` (others_said) We weaned at 18 months and his behavior has gotten more aggressive as we go. He still twiddles, he just uses my arms instead. When I ask him to stop, he shrieks at me, then says, "No! It's MY arm!!" If i try to hold his hands, he punches me. This has been going on for a year now. My husband swears this is normal toddler behavior and nothing worth getting checked out.
+- `ar047-0003` (pain) Beyond that, he doesn't listen, only acknowledges his name if he feels like it, bolts in public, etc.. I know my parenting is at fault, but my husband has neutered me. He constantly tells me, in front of our kids, that my job is to be loving and nurturing and it's his job to be the disciplinarian. I don't know why he thinks that. He constantly undermines any advice I try to give or any direction.
+- `ar047-0004` (tried_failed) I try to discipline our toddler when he isn't home, but nothing gentle works on him. He occasionally shows me that he knows his behavior is wrong when he sees I'm sad and will apologize and hug me, but I don't like the idea of weaponizing guilt against a toddler. I want him to truly feel remorseful, not just guilty. I don't want him to feel like he's a bad kid. He's just a toddler. He's a little wild and mean, but all toddlers are.
+- `ar047-0005` (desire) Idk. I'm just not sure how to discipline him gently enough that my husband doesn't correct me, but seriously enough that my toddler knows I mean business.
+- `ar047-0006` (pain) I grew up in a household where my parents were both old school, I got whipped with the handle of a flyswatter frequently as a kid, screamed at at least daily, etc., so I can't really ask my parents for advice. My in laws are amazing, but I don't want to over step with my MIL. She's awesome and I don't want her to feel like she had to parent me and my kids and her kid, too.
+- `ar047-0007` (tried_failed) I read all the books, but my husband thinks they're all bs. So idk. Advice or suggestions? Preferably not "dump him", but I'm realistic enough to know that's most of the advice you get on Reddit. 🤷‍♀️
+- `ar047-0008` (desire) I've been trying tomorrow, but I'll definitely have to give just getting them up to do it a try.
+- `ar047-0009` (question) I'm curious, with stuff like picking up, how does that work? Do you pick stuff up and hand it to them or just have them follow you while you do it or point stuff out and ask them to pick it up? We've been working on picking up, our current system is "Spider-Man, I need you! I can't reach/don't have enough hands to get that thing there, can you put it away for me?" It works probably 60% of the time. lol
+- `ar047-0010` (belief) I'm not gonna lie, I've been watching Barney and other kid shows to try to like films fun ways to play with my kids. I didn't really play much as a kid, I was just into books and puzzles and screen time. lol So I'm trying to learn now.
+- `ar047-0011` (success_story) We do love magnatiles and window makers!! My toddler Austin enjoyed pretending to help me out around the house. Or pretending to cook. lol
+
+### 1smjk6h | r/toddlers | 2026-04-15 | child_2_years | parent_unspecified | patterns 3
+
+About: Seeking help with almost-three-year-old's tantrums and whining. Wants: Tantrum prevention, calming responses, and skills to reduce whining. Already did: nothing stated.
+
+- `ar039-0024` (question) what are your best tantrum hacks? phrases, actions, ways to stay calm prevention would be super awesome, ways to build the skills we need to stop the whining and tantrums over not getting what we want help my daughter turns three next week and I am in a new kind of hell
+
+### 1snmdem | r/toddlers | 2026-04-17 | child_2_years | experienced_mother | patterns 3
+
+About: Toddler defiance defeats parenting techniques and consequences. Wants: Help setting reasonable boundaries and surviving defiance. Already did: Read parenting books; choices, consequences, counting, toy removal.
+
+- `ar073-0003` (belief) No. She’s about to turn 3 and gets never ending joy from giving me the hardest time while she frolics in chaos.
+- `ar073-0004` (tried_failed) Yeah that’s not working. Today we took away multiple toys and went to bed without dinner or reading books. She doesn’t care.
+- `ar073-0005` (pain) She won’t come with either of us when we pick her up from daycare, she won’t go to the bathroom or wash her hands when we ask, she won’t stop banging on the table during dinner, she will throw toys, she will make a mess and refuse to clean it up. We will create consequences and boundaries and she will get upset for 2 min before moving on or not care at all. I have a 7 week old newborn and balancing them both is too much right now.
+- `ar073-0006` (trigger_moment) She was banging on the table constantly and I told her she could eat without banging or go to bed without eating and she went to her room.
+- `ar073-0007` (belief) You absolutely can, she didn’t even want to eat it. She happily went to her room. Should I force feed her?
+- `ar073-0008` (belief) She’s getting plenty of attention. If anything we are overcompensating.
+- `ar073-0009` (pain) I hate it because I get that I’m probably expecting too much but they say to hold firm to boundaries otherwise they know what you say isn’t firm so I’m like do I let it go or constantly add all these consequences? 
+
+And things like not washing her hands is a safety issue with the newborn. And not coming home when we try to pick her up is embarrassing and none of the other kids I’ve seen act like this! 
+
+I was so proud of how I’ve handled mom struggles up until this point and now I’m losing my mind .
+- `ar073-0010` (belief) Hunt gather parent, no drama discipline, how to talk so that kids will listen
+- `ar073-0011` (pain) Yeah I edited the comment it just blows my mind people assume someone that’s posting in a parenting subreddit and spends her free time reading gentle parenting books is trying to abuse their kid
+- `ar073-0012` (belief) It’s not a punishment this is literally what was in how to talk so your kids will listen which is a bestselling gentle parenting book
+- `ar073-0013` (tried_failed) Thanks for your comment. I get all that. My struggle is she doesn’t have a meltdown when I ask her to wash her hands, she will just ignore me and go play with her toys. Hence why I’ve had to take toys away today.
+- `ar073-0014` (belief) We have done that every day for months and we did that before she went to her room tonight. She gets 3 full meals a day and snacks. This child is not going hungry.
+- `ar073-0015` (tried_failed) I’ve done all this by the book 😭 do you want to hold my hand or should I carry you? Can you hold your art? Dog is in the car and wants to see you! We can go to the park when we get home! 
+
+Day in and day out it gets old
+- `ar073-0016` (others_said) Yes! This is commonly suggested by experts. I am not an abuser I’m just trying my best 😭
+- `ar073-0017` (belief) Dinner time is for eating not for playing with toys.
+- `ar073-0018` (trigger_moment) It happened here and there before the baby and this week it just started going off like a switch
+- `ar073-0019` (belief) Her dad went and tucked her in and stuff and she didn’t even mention food. She’s more upset she didn’t get a bubble bath. She had 2 healthy full meals and snacks today. People are getting so hung up on the dinner thing and it’s not a big deal at all. She’s fine. She even ate part of it before she went to bed.
+- `ar073-0020` (advice_given) I do recommend all 3. How to talk is probably my favorite overall except the book does kind of make it seem like if you follow the advice you’ll just have a perfect angel which isn’t the case. It helps but kids are still kids.
+- `ar073-0021` (desire) Good advice, I need to figure out how to have the patience and capacity for all this while breastfeeding a newborn
+- `ar073-0022` (fear) Ohhh i really hope so because I keep telling my husband I don’t know if I can do a year of this
+- `ar073-0023` (tried_failed) The 1 2 3 thing worked for 2 years and now it’s failing me 😭
+- `ar073-0024` (belief) We do often do that honestly. Today was just extraordinarily tough - hence the post - and I was not in a dessert giving mood.
+- `ar073-0025` (question) Thank you. How do you decide what’s a boundary or not? If you ask her to clean up and she ignores you do you let it go or hold firm?
+- `ar073-0026` (belief) I love this advice!! I think it will help my husband a lot too since he gets flustered and makes up random unrelated consequences on the spot whereas I try to make sure they are somewhat related
+- `ar073-0027` (belief) This is what me and my husband need to work on and stick to. We probably are asking way too much and therefore having to constantly correct which is just creating a horrible power struggle.
+- `ar073-0028` (pain) It’s hard to physically force a 3 year old to do anything when we have a 7 week old but we try
+
+### 1sox6vt | r/daddit | 2026-04-18 | child_2_years | parent_unspecified | patterns 1,3,9
+
+About: Toddler tantrums and indecisiveness raise ADHD concerns. Wants: Tips managing contradictory tantrums and reassurance about behavior. Already did: Offered choices, postponed activities, toddler classes.
+
+- `ar007-0038` (pain) For a few months now the older one has been doing this thing where he gets himself worked up and throws a tantrum about not wanting to do something, like eating his dinner for example. But if we then say something like 'okay let's try again later', he will immediately say 'no, I want to eat!'. We'll then say 'okay, let's eat' and he'll jump back to 'no, I don't want to eat'. We'll then spend the next 5/10 minutes going backwards and forth doing the same thing and trying to calm him down.
+- `ar007-0039` (question) This only happens when he's moody (but he's a 2-year old so it's a lot), most other times he's absolutely great. But he will do this with anything and everything, from bedtime, bath time, even to playing with certain toys, and it's driving us both nuts.
+
+Anyone experienced something similar and/or have any tips for dealing with it?
+- `ar007-0040` (tried_failed) Thanks, yeah we figured something similar that it was about finding his level of control. We try to give him choices but sometimes that makes it worse. It's like he has the need for control coupled with ultimate indecisiveness.
+- `ar007-0041` (fear) Thanks, this is actually really helpful. I have started to suspect that it might be signs of ADHD or something similar. I know I shouldn't compare my children to others, but when I take him to toddler classes, he's always the one who can't sit still and doesn't listen. Like you say, it might just be his age but it's a bit concerning alongside this indecisive behaviour I described. But I am relieved to hear someone else has experienced this too to be honest.
+
+### 1sqddnc | r/Mommit | 2026-04-20 | child_3_years | experienced_mother | patterns 3
+
+About: Mother struggles to enforce boundaries around kicking and bedtime resistance. Wants: Practical ways to hold boundaries and shorten bedtime. Already did: Removed shoes; repeated bedtime returns; check-ins; swapping parents.
+
+- `ar037-0056` (question) It seems like every parenting advice I read is about holding firm boundaries with logical consequences in a calm, non-reactive way and I would like to ask, practically speaking, how?!?!
+- `ar037-0057` (pain) I feel like there are so many instances when I can’t think of any logical consequences or a way to hold the boundary. A few examples just from today:
+- `ar037-0058` (tried_failed) 1. Today in the car my son was kicking the back of my chair and singing a made up song about poop. No matter how I asked him to stop, it wasn’t working. Eventually I told him I was going to take off his shoes if he couldn’t stop kicking the chair so that at least the mud from his shoes wasn’t getting on the chair. He kicked again so I reached back and pulled off his shoes and told him they were going to stay off for the car ride since he seems to not be able to stop kicking. My husband added “and maybe longer” as in, if you continue to kick the chair with your bare feet, we will withhold your shoes from you. I pointed out to my husband later that it’s not logical at that point, but as he pointed out, how would we hold the boundary that our son shouldn’t be kicking the seat if he continued after the shoes were off?? It turned out that taking the shoes off upset him enough to stop the kicking and the poop song, but if the song continued, how do we set And hold the boundary not to sing A song like that when theres really nothing we can do to stop it?
+- `ar037-0059` (tried_failed) 2. At bedtime, he was being very resistant. We’ve gotten into the bad habit of a very long, drawn out bedtime routine. Maybe it makes me a bad mom, but I’m trying to shrink it down because frankly, I need some time for myself at night. Also, I feel like the routine, as it was, is causing him to take longer to fall asleep and causing him to get up more in the middle of the night. So now we lay with him in bed for a bit, then sit in a chair on the other end of the room for a bit, then leave and do check ins Until he’s asleep. Most nights it works pretty well. Some nights, like tonight, he refuses to stay in bed either when we get to either the sitting in The chair or Check-ins part. I have heard the thing to do is to keep putting him back into bed and saying “it’s time to sleep.“ So I do that, but he gets back out of bed so fast, I’m not even out of the room before I have to turn around and put him back in bed. I end up basically just sitting next to the bed and constantly picking him up and laying him down, which on The worst nights he just thinks is fun. but Even when the method ultimately “works”, he’s still getting what he wanted (me not leaving the room) and I feel like it sets us back on trying to make bedtime less drawn out.
+- `ar037-0060` (question) TL,DR: how do you get your kids to stay in bed?! And how do you get your kids to listen/how do you hold boundaries about whats acceptable when there are no “logical consequences”??
+- `ar037-0061` (tried_failed) Thanks. He’s almost 4. It does seem he mostly wants me, and sometimes my husband will swap in when son won’t stay in bed. Unfortunately it’s not always that simple as we have a daughter that goes to bed around the same time. So usually by the time we get to the point of my son not staying in bed, she’s not quite down, but far enough along that it would be disruptive to swap. I appreciate the ideas though!
+
+### 1sr3aj5 | r/Mommit | 2026-04-20 | child_3_years | experienced_mother | patterns 3,12
+
+About: Autistic three-year-old becomes aggressive during prolonged hospital admission. Wants: Venting, reassurance, discharge and access to therapy. Already did: Hospital tests; sedation weaning; g-tube removed; therapies planned.
+
+- `ar028-0029` (belief) Context; 3yo son is non verbal autistic, hard of hearing, has difficulties eating & drinking, has idiopathic epilepsy and generally low muscle tone, as well as being severe failure to thrive. Very small, still wears size 12mo. The works.
+- `ar028-0030` (fear) Currently staying in hospital while we figure out what exactly is causing everything. We're thinking genetic disorder (potentially autoimmune), we just haven't found it yet.
+- `ar028-0031` (failure_story) He was panicking when admitted so had low level of sedation. He had a g tube place and all hell broke loose, so he was then fully sedated and had it closed up.
+- `ar028-0032` (belief) We have been weaning him down on sedation slowly to make sure he doesn't injure himself again. He has been sedated regularly for around two months so he is understandably angry about everything still.
+- `ar028-0033` (pain) I'm happy he's no longer medicated. I am. I'm so glad he's no longer groggy and tired when awake. But oh my god the rage in this child.
+- `ar028-0034` (pain) He kicked me so hard I thought he cracked a damn rib. It burns when I breathe. He's throwing everything he can get his tiny hands on. He desperately needs to go home and start on therapy because I know this has been wildly traumatic for him and staying here isn't helping, but he can't be discharged until he's had some level of exam.
+- `ar028-0035` (failure_story) Unfortunately throwing my phone at a doctor so hard he shattered the entire screen doesn't count as progress and thus we are no closer to release.
+- `ar028-0036` (fear) My husband has a black eye and a split lip. We're considering asking my in laws to drive up just to see if he'll calm down for any of them, but they have a baby at the minute, and I feel so bad putting him at risk too.
+- `ar028-0037` (pain) I don't want to take him home and risk everything we've done, so I guess I'm just stuck being beaten up. He's like twenty five pounds I don't know how he does so much fucking damage.
+- `ar028-0038` (belief) They tell me he has low muscle tone and he needs physical therapy but tbfh I'm pretty sure he's doing his own PT right now. I have BPD and if I didn't know any better I'd say he's having episode. He's his mama's son for sure.
+- `ar028-0039` (fear) The only person he isn't violent with is our eight year old but I'm not putting him at risk just in case the calm only lasts with no medical professionals present.
+- `ar028-0040` (success_story) In other news, he isn't trying to rip open his surgical sight anymore. So a win is a win, I guess.
+- `ar028-0041` (pain) Baby is teething too. Poor little guy. Thankfully being stuck in hospital means we bave access to the best gum soothing gel. Silver linings! Oh, AND my period is two weeks early. Fucking stress!!!
+- `ar028-0042` (question) So. Anyway. Tell me about your wonderful children. Is mine the only one impersonating hulk currently?
+- `ar028-0043` (others_said) I'm glad to know he isn't the only rage filled child. The doctors keep telling me it's normal but they say that about everything lol.
+- `ar028-0044` (belief) He's set to start physical therapy, ot, speech (with a deaf friendly slp, finally), feeding & I think thats it. Probably. We're never getting a break.
+- `ar028-0045` (belief) He's never usually aggressive? He has been, especially with doctors, but never to this extent. I'm hoping it's just the sedation.
+- `ar028-0046` (belief) Thank you. He hates hospitals anyway and I don't think the confusion is helping.
+- `ar028-0047` (others_said) I did ask, but because he's only aggressive when being guided to do something, doctors think he's just overwhelmed.
+- `ar028-0048` (belief) Thank you. I am over there already! My oldest is autistic too so we're locked in lol.
+- `ar028-0049` (pain) Thank you. This isn't his first hospital stay but it's by far his longest and so he is generally very upset.
+- `ar028-0050` (belief) He isn't on a specific seizure med yet as his seizures are triggered by fever or infection, so we use lorazepam if needed. His seizures don't put him at increased risk of anything and are generally rare thankfully.
+- `ar028-0051` (pain) They haven't been doing therapies because they've been running tests and he's been sedated. We've been through so much with him.
+- `ar028-0052` (failure_story) We are in a childrens hospital. His gtube has been taken back out because of his extreme reaction, and then he had to be sedated while it healed.
+- `ar028-0053` (belief) He's been on antibiotics but he's on those regularly unfortunately so who knows.
+- `ar028-0054` (belief) He has. There were no results but apparently we're waiting for consult from another hospital.
+- `ar028-0055` (fear) Thank you. Because he's so unpredictable with his surgical site we didn't want to take him outside in case he tried to get at it there. Risk of infection is greater and infections trigger his seizures. But honestly the payoff might be worth it.
+- `ar028-0056` (belief) No. He doesn't have a tendency to get violent, I think it's just the hospital environment.
+- `ar028-0057` (belief) Listen, the communication might need work, but he's communicating!
+- `ar028-0058` (fear) His healing. Because his surgical site is still healing, and he's so uncooperative with wound care, if we leave and it gets infected we're back to antibiotics and seizures. That's the major concern of hospital staff.
+
+### 1st58c6 | r/toddlers | 2026-04-23 | child_2_years | parent_unspecified | patterns 3,9
+
+About: Two-year-old repeatedly targets friend with pushing at playdates. Wants: Stop daughter pushing her friend. Already did: Followed closely, intercepted pushes, said no; plans to leave playdates.
+
+- `ar062-0028` (pain) My daughter just turned 2 and today at the library she kept pushing one of her friends. This is another little girl who’s a few months younger than her and they know each other well and always play great together. The last 2-3 times they’ve hung out my daughter keeps pushing her. Today it was exceptionally bad she would seek her out when she wasn’t even anywhere near her and would find her to push her or grab her shirt and pull her down. She didn’t do this to any of the other kids around either.
+- `ar062-0029` (tried_failed) It got to the point that I was following her around closely, anticipating a push and would grab her hand before she could do it and tell her no. What can I do? She also remembered it for the rest of the day and kept saying “no push (friends bae)” because that’s what I kept saying. I was mortified by her behavior today she is never like this!!
+- `ar062-0030` (belief) I almost don’t want to even say the word push ahead of time cause then it’ll be in her head. Having a playdate tomorrow with a few of the same kids so I plan to leave if she starts with the pushing again.
+- `ar062-0031` (belief) I also should mention this all started like last week when the other girl pushed my daughter at the park. It was nothing crazy just a little shove and they kind of started rough playing and pushing each other after that and I guess my daughter remembers doing that and wants to keep doing it?? Ugh I really hope she cuts it out soon. Tomorrow we’re having a playdate with a few kids and I plan to leave if she starts with the same behavior again
+
+### 1stk4vn | r/toddlers | 2026-04-23 | child_2_years | parent_unspecified | patterns 3,12
+
+About: Sudden frustration and tantrums in toddler with speech delay. Wants: Know whether behaviour is normal and how to manage it. Already did: Speech therapy; balanced diet and good sleep.
+
+- `ar058-0015` (question) My sweet boy has always been that - chill, easy, sweet. Only tantrums he threw were if he was hungry, which is easily solvable. This past week, though - I don’t know, man, this is a completely different kid. He’s so easily frustrated, lots of tiny tantrums I can tell happen because he’s frustrated, suddenly refusing breakfast, randomly not wanting to get out of the car at home after we run errands or go to the park. just not the happy go lucky kid he usually is. I’m super stressed and worried about him, is this normal or should I be worried?
+- `ar058-0016` (belief) Info: 31 months, speech delay (we’re in speech therapy), premie who I’ve noticed goes through phases later than other kids, balanced diet, sleeps like a charm.
+- `ar058-0017` (question) Lovely. lol. Is there anything I should change or do differently to manage this threenage phase?
+- `ar058-0018` (question) What did you change to make it better? How long until they jumped to a new phase?
+
+### 1stzchw | r/toddlers | 2026-04-23 | child_2_years | parent_unspecified | patterns 3,11
+
+About: Toddler kicks during diaper changes while learning potty use. Wants: Stop painful kicking during dirty diaper changes. Already did: Held him down for changes; month of unhurried potty training.
+
+- `ar070-0034` (pain) I'm going a little crazy.  My guy was never the most willing for diaper changes, but the past few days have moved into far worse territory.  Whenever I try to change a poopy diaper, he kicks nonstop.  The only way to complete the job is to completely hold him down, which can be a challenge.  He is laughing the whole time, but I'm trying my best to contain the rage after eating a few kicks.  He's strong, the kicks can hurt.
+- `ar070-0035` (desire) Does anyone have an idea on how to make this not fun for him anymore?  I don't know where he got the idea, or why he started doing it, but I need it to end and have no idea how to get there.  Thanks in advance.
+- `ar070-0036` (belief) \\\*We're about a month in our potty training journey.  He will sit down to pee, but still won't poop in the potty.  We don't see a need to rush him.
+
+### 1suel3p | r/toddlers | 2026-04-24 | child_2_years | parent_unspecified | patterns 3
+
+About: Two-year-old's outfit choices cause morning meltdowns. Wants: Tips to help toddler choose one outfit. Already did: Offered two or three choices; tried choosing clothes the night before.
+
+- `ar053-0014` (pain) Over the last two weeks our two year old has started having major upset when getting dressed in the morning. We try laying out 2-3 options for her to choose from but she either can’t choose - she begs for both or goes back and forth between the choices. Or she will reject them, sort through her dresser for minutes and can’t choose something, and throw a fit if you pick something. She will often pick something, then get upset when getting dressed, pick something else and the cycle repeats.
+- `ar053-0015` (belief) This is probably normal, but it’s delaying mornings by 10 mins or more and causing a lot of fits.
+- `ar053-0016` (question) Do you have any tips or tricks to helping your child pick one outfit in the morning.
+- `ar053-0017` (tried_failed) We might have to try switching back to that. We tried it before, but she didn’t quite understand the concept of “tomorrow” so she’d have a meltdown right then because she wanted to wear it instead of the PJs we’d just put on. And tired meltdowns are the worst!
+- `ar053-0018` (belief) She goes to daycare 5x a week. She needs to be in play clothes and weather appropriate clothes.
+- `ar053-0019` (pain) That’s what we are doing. But regardless, you have a kiddo crying, kicking, screaming, and undressing. If there is a way to side track this would be helpful.
+
+### 1svlzss | r/daddit | 2026-04-25 | child_2_years | parent_unspecified | patterns 3
+
+About: Toddler bitten twice at daycare; parent wants prevention plan. Wants: Clear daycare communication and action to prevent further biting. Already did: Discussed incidents with daycare; planning email.
+
+- `ar041-0039` (belief) Our son is almost 2 and a half and has been in a toddler daycare program for almost a full year. Aside from being pushed or pushing once or twice there has never been a incident with another child that has required a note in our app.
+- `ar041-0040` (trigger_moment) Wednesday last week at pick up the daycare instructor let me know that another child bit our son on the arm. She advised that our son came up and took the toy the other child was playing with, and they retaliated by biting.
+- `ar041-0041` (belief) I totally can understand kids not being able to regulate properly, specially at this age. Our son shouldn't have taken the toy and he's good most of the time with asking. He should also not have been bitten.
+- `ar041-0042` (others_said) They advised us that he calmed down after a minute of crying, ice was applied, and he had a great day moving forward. Totally cool, understandable, no skin broken.
+- `ar041-0043` (pain) We kept him home Thursday for an unrelated appointment, and then sent him back Friday. 3pm rolls around and we get an email that.... He got bit.... Again. This time, no mention of our son doing anything. Just that he was bit, and the other kid was given a teether and sent to the regulating room.... My wife is upset, understandably, and wants action taken so this doesnt happen again. Unfortunately it seems like the biting policy boils down to "we will keep monitoring and worst case scenario the kid will be suspended". Obviously they cant tell us who did it either, which I also understand.
+- `ar041-0044` (question) So I come here asking the group: what should we do?
+- `ar041-0045` (desire) Our plan is to send an email with how we would like to be notified if it happens again, but that if it does happen for a third time we want to know action is being taken and that our son will be safe.
+- `ar041-0046` (others_said) It sounds like (from what the toddler team has conveyed) that this is new to them as well, but that they understand the frustration. They mentioned nothing about notifying the other parent of the biter, but I can only assume they have.
+- `ar041-0047` (others_said) Also, my wife has deemed the unknown biter as the "cannibalistic feral child who was raised by literal wolves" for now.
+- `ar041-0048` (belief) Oh yeah, I'm never going to assume my son won't bite. He has pushed a kid, it happens! If my son bit someone, Id probably keep him home for a few days though 😬
+- `ar041-0049` (fear) I'm not as worried, but my wife is. If this happened a week apart I think she wouldn't be as concerned but it's been back to back. She doesn't want this happening Monday and doesn't want it to be recurring.
+- `ar041-0050` (desire) I think knowing that the other parents are notified, they're taking action to prevent this, and have a plan in place if it occurs again is important to me at least.
+- `ar041-0051` (pain) Yeah the lack of "procedure" is what bothered me. First teacher was way too bubly and optimistic about it amd dismissed it. Second teacher actually was understanding and empathetic. Unfortunately in both cases, not much about "we have a plan".
+- `ar041-0052` (desire) I just don't want it to continue happening every, single, day. Also knowing that they have a plan, what the plan is, knowing both parties are notified, just... More.
+- `ar041-0053` (belief) Aside from this, the daycare is amazing. First time we have encountered an issue. But, we did move and it is farther away now... I guess this would just be another reason to look elsewhere if needed (if it gets worse/continues).
+- `ar041-0054` (desire) I think hearing that from them though would help. Transparency. We can assume the other parents have been notified, but we don't know ultimately. Also, we don't know how much this has to progress until action/intervention such as suspension happens. Knowing that would help to. Is it after 3 incidents? 4? Does it have to happen to a certain number of kids first? I don't want this to happen every day for however long...
+- `ar041-0055` (fear) This is all knew to us, so there's a lot of anxiety. We are rationally thinking. We know this is common, we know it happens, we know he may end up doing it.
+
+### 1sw0h2g | r/Parenting | 2026-04-26 | child_3_years | parent_unspecified | patterns 3
+
+About: Three-year-old tantrums persist despite consistent consequences. Wants: Advice and reassurance others experience this. Already did: Warnings followed by room confinement consistently for a month.
+
+- `ar013-0035` (pain) Anyone else find the 3 year old stage very hard? Everything is a battle. So many tantrums every day. I give her a warning and then tell her if she continues she will be sent to her room. Almost every time she will continue with the behaviour and then be put in her room. I've been doing this consistently for a month now and thought she would understand the consequence. Anyone else experiencing this? Even yesterday we got out a pool for her which should have been a fun and enjoyable experience but ended up in battle after battle. Screaming for a packet of biscuits when I try to explain to her no, she can have them after dinner. Please any advice or to know I'm not alone?? Thank you
+
+### 1sx1rzq | r/Parenting | 2026-04-27 | child_3_years | parent_unspecified | patterns 3,9
+
+About: Another child causes problems at daughter’s early learning centre. Wants: Understand repeated preschool injuries and secure better safety measures. Already did: Requested meeting; incident reports filed.
+
+- `ar083-0019` (success_story) My daughter (3.5) attends an ELC and has grown enormously in her time there (almost a year). She has grown confidence, courage to communicate and learnt a lot.
+- `ar083-0020` (pain) However, she has also had multiple incidents of harm from another child.
+- `ar083-0021` (pain) A boy has learning difficulties which we completely appreciate and understand the difficulty he must face and the difficulties that the educators have looking after so many children but last year we were informed of an incident where she was smacked with a stick resulting in a black eye that lasted 2 weeks. An incident report was made and of course it happened when the educator wasn’t present so they couldn’t claim they saw it.
+- `ar083-0022` (fear) Fast forward, he’s taken her comfort toy (not a major incident), has pushed her and been told off and just today, he hit her in the temple with a spade leaving a bump and it happened when the teacher wasn’t present. The teacher wrote an incident report but didn’t see the incident. I’m not sure of any other incidents involving other children and this child, but given it’s now 4 or so issues, it could be a targeted approach.
+- `ar083-0023` (question) As a concerned parent, I want to know if these incidents just happen? If they don’t happen, what would be the course of action? I’ve called for a meeting to see what safety measures they have in place but that hasn’t happened yet.
+- `ar083-0024` (objection) If it was biting, pushing etc. things that children often do, I’d be more understanding, but two blows to the head that have involved bruising and swelling is not okay in my opinion.
+- `ar083-0025` (question) Have any other parents experienced this and how has it been dealt with?
+
+### 1sy2nb8 | r/beyondthebump | 2026-04-28 | child_2_years | parent_unspecified | patterns 3
+
+About: Two-year-old resists dressing and diaper changes during bedtime routine. Wants: Manage dressing and diaper changes without physical restraint. Already did: Counting, tempting with favourite pajamas, stern voice, spanking.
+
+- `ar003-0025` (trigger_moment) Looking for some advice here. My 2 year old son has started to resist basic bedtime routine stuff. Here's our usual routine (weekday, dad puts him down on weekends):
+- `ar003-0026` (belief) 1. Mom washes up and puts on PJs (boy plays nearby, sometimes showers too)
+2. Both mom and boy brush teeth (he likes to do this)
+3. Washing up boy, flossing, brush hair etc. 
+4. Mom sits on floor bed and calls boy over for diaper change and PJ change
+5. Mom shuts bathroom door, turns on humidifier etc. 
+6. Short exercise (mostly stretches, just a few minutes)
+7. Reading until sleepy (10-15 min)
+8. Attempt to sleep
+- `ar003-0027` (pain) Here's the problem: when we get to step 4 where we change diaper and put on PJs, he's resisting.
+- `ar003-0028` (tried_failed) He uses a stepstool to reach the sink and often plays with a car or truck etc., while he's doing his usual routine. Especially lately he's been teasing me by pretending to come down but then running back up. I count to 3 and he thinks it's hilarious that he disobeys. Nothing I say is working to tempt him to come back down. I have to haul him down and be grumpy. AND THEN he alligator rolls so I can't undress or diaper him. After a full day of work, managing the house (failing to, rather), and parenting him, it's just gotten me to a snapping point. I spoke extremely sternly to him and even spanked his butt last night (and this did nothing!).
+- `ar003-0029` (pain) My son is big and strong already. I don't know how to get the dressing/undressing and diapering done without physically restraining him.
+- `ar003-0030` (question) Any advice?
+- `ar003-0031` (belief) This isn't every day but it's noticeably increased. I know he's exploring his independence and sometimes he can be tempted with PJs he likes (sharks, trucks, etc.) but I can't ALWAYS have things he likes.
+- `ar003-0032` (belief) Naptime is usually around 12:30 and lasts till about 3 (he doesn't fall asleep immediately usually) but can end sooner.
+- `ar003-0033` (pain) Wakeup is typically around 6-7AM. Bedtime is around 7:30-8 but he won't fall asleep for awhile. Sleep has always been difficult with him. My husband was also a low sleep needs baby/kid with late bedtimes.
+- `ar003-0034` (question) What do you do if they won't let you dress them? Do you physically restrain them?
+
+### 1sz10fb | r/toddlers | 2026-04-29 | child_2_years | parent_unspecified | patterns 3
+
+About: Toddler refuses stroller, runs away and bites during city walks. Wants: Advice for safe walking when toddler refuses stroller and hand-holding. Already did: Explained safety, returned for stroller, tried holding stroller harness.
+
+- `ar072-0015` (pain) Hi, we live very central in a busy city. There's a lot of bikes, cars, trucks etc on the road and sidewalks are crowded + fast paced.
+- `ar072-0016` (pain) My 27mo recently started to refuse to get into his stroller to go to the daycare and anywhere else for that matter. I try to explain to him that we need to hold hands, we can't run away and especially when crossing the street but he just won't listen.
+
+He's running away from me, biting me, refusing to hold my hand and starts kicking and crying when I try to pick him up.
+- `ar072-0017` (tried_failed) Once I walked back home and picked up his stroller and explained to him that I can't let him be unsafe. Sometimes I have him hold the harness of the stroller and walk next to it so I can put him in it if he acts out but it can be cumbersome to manage both him and the stroller. I'm not sure what to do moving forward. Any advice?
+- `ar072-0018` (question) But then how do they practice walking if they always end up in jail?
+- `ar072-0019` (pain) The thing is, I've been wanting to leave the stroller at home because pushing it and managing him at the same time is very difficult even when he behaves well.
+- `ar072-0020` (belief) Yeah same here. He has some good ones and some horrible ones. But it looks like we're taking the stroller out either ways for a while.
+
+### 1szeyo6 | r/workingmoms | 2026-04-29 | child_3_years | new_mother | patterns 1,3,5,9,10
+
+About: Almost-four-year-old's classroom meltdowns trigger teacher conflict and mother's childcare guilt. Wants: Understand teacher response, meltdowns and need for evaluation. Already did: Teacher and behaviorist meeting; called nurses; arranged checkup. Paid: Earlier daycares.
+
+- `ar037-0062` (pain) My daughter started state funded Pre-K in the middle of the school year and it's been a bumpy road for both of us adjusting to her teacher.  Her teacher is TOUGH. My daughter struggles with transitions.  Always has.  Every daycare has told me this but nobody has ever tried to actively help us.  After having a meeting with her regarding my child's behavior and how she supports us, my child's behavior has improved until...this week.
+- `ar037-0063` (pain) My daughter will be 4 next week but continues to have big emotional meltdowns.  Screaming for 30 minutes in the classroom.  Today while working I get a message from the teacher saying my daughters behavior is disruptive to the learning of her classmates and she can not teach when she has these meltdowns.  They have a child behaviorist on site who will meet with me at the end of May.  I don't know why so late in the month.
+- `ar037-0064` (pain) I understand that what the teacher said are facts but I can't help but feel sensitive to the way she worded it.  For one, it makes me feel awful that whatever is going on with my kid is disruptive to the whole class.  On Monday they didn't go outside to play because my kid was screaming again.  It feels almost threatening as a working parent even though the teacher has told me doesn't give up on kids.  And I think, would a kindergarten teacher say this or any grade teacher to another parent whose child is clearly going through something?
+- `ar037-0065` (regret) I feel incredibly guilty because for so long my husband and I could only afford just "ok" daycares and this is the best school she's been in and they have tons of resources.  Am I being overly sensitive to the teachers message?
+- `ar037-0066` (others_said) She has an annual check up in two weeks and I'll definitely bring it up then.  I have called them before and the nurses made it sound like it was developmentally normal for an almost 4 yr old.
+- `ar037-0067` (belief) Yes but it's like she'll have amazing weeks and then a string of bad days and then bounces back.  It's like this at both school and home.  It appears if she has a bad day at school she's fine at home and vice versa.
+- `ar037-0068` (pain) Yes she is, she's incredibly verbal and bright.  That's what makes it even more frustrating because she has a very large vocabulary but when she has those moments she refuses to speak.
+- `ar037-0069` (tried_failed) We had a meeting before with the teacher and child behaviorist at the school and I'm unsure as to why she wasn't evaluated to begin with or the process of evaluating after that meeting.  I was under the impression after that meeting that she was doing well in class.  Her teacher even said two weeks ago she made so many improvements in the classroom.
+- `ar037-0070` (regret) And I understand school isn't childcare.  It's more just I feel guilty for working so much and spending the first two and half years of her life in childcare at places that did the bare minimum for her.  I'm happy I finally was able to get her into an actual Pre-K school to help us with her development.
+- `ar037-0071` (question) I'm also just confused as a first time parent of one child.  Some people in my life say this is completely normal for age 4 and age 4 is the hardest and then I read comments like yours.
+- `ar037-0072` (others_said) Thank you, your comment is very helpful!  Yes, we're in the US.  And when she first started at this school they knew of her history of struggling with transitions at previous childcare.  I asked then if she should be evaluated and the teachers response was "don't say that!" She had only been in the school for one month at that time so I suppose she wanted to give her time to adjust.
+- `ar037-0073` (belief) We're in PA.  There's Pre-K starting at age 3. She'll be 4 in a week.  Her class is about 20 kids, half of them ages 3-4 and the other half ages 4-5 who are going to start kindergarten next year.
+- `ar037-0074` (belief) You're right, it would be a disservice.  I'm just new this school thing as a parent who hasn't been in school in over 20 years or so.
+- `ar037-0075` (belief) No she would start kindergarten in the school year of 27/28.  Kindergarten starts ages 5-6 in PA but they also "red shirt" kids which means our cut off is in September.  So there's a kid in her class who will be 5 in September but will start kindergarten at age 6 when she also starts kindergarten in September of that year if that makes sense.....
+- `ar037-0076` (pain) Thank you for relating!  I feel like I'm trying to navigate a new part of myself as a parent of a kid in school now so it's tough because I haven't been in a true school environment in over 20 years!  I know some people might read that as a duhhhh comment but it's throwing me a curve ball in my motherhood journey.
+
+### 1t1vm9d | r/Parenting | 2026-05-02 | child_3_years | parent_unspecified | patterns 3
+
+About: How to respond when preschooler yells over parental limits. Wants: Manage yelling without stifling child’s emotional reactions. Already did: Warns toys will be removed for hitting TV.
+
+- `ar001-0043` (pain) Our 3.5 yo has recently started yelling at us when we tell him something he doesn't like. For example, if I say something like "if you hit the TV with that toy, I'm going to take it away" he might go "Haa!"
+- `ar001-0044` (pain) It's like an angry, "I don't want to hear that" sound. If he does it once, OK, but sometime he will do it as you're talking (saying the thing he doesn't like). I understand it's him voicing his displeasure, which I think he's entitled to. But when he's trying to yell over us talking, then it becomes something I don't like.
+- `ar001-0045` (question) Would you disciple this behavior? How can I do that without stifling his emotional reaction?
+- `ar001-0046` (belief) Bruh. Did I say spank? No. I just mean do I try to check that behavior?
+
+### 1t2yymj | r/Parenting | 2026-05-03 | child_2_years | parent_unspecified | patterns 1,3,6
+
+About: Toddler's renewed extreme tantrums and self-hitting overwhelm parents. Wants: Know whether tantrums are normal and get coping advice. Already did: Tried playing together.
+
+- `ar008-0036` (pain) My 2.5 year old daughter has become an absolute little monster. Im at a loss of what to do anymore and it makes me feel like im failing.
+- `ar008-0037` (pain) She doesn't listen to me hardly ever, she listens mainly to dad. She refuses to share or she will smack her head on something. We just try and play with her and it doesn't work. She screams when she doesn't get what she wants for a snack/meal. She will literally evil stare me down. Her tantrums are..extreme in my opinion. She also smacks herself in the face when she is mad. She went through this before and eventually passes but..why again?
+- `ar008-0038` (question) Is this normal? Is this how it is supposed to be? Ive started work full time and my husband works full time. The weekends are more exhausting than work days. I cry a lot because im so at a loss. Her communication is fine, she can tell us her wants/needs.
+- `ar008-0039` (desire) Any advice for a burnt out mom and dad? 😭
+
+### 1t3yv2e | r/Mommit | 2026-05-04 | 2.5-year-old | parent | patterns 3,9
+
+About: Toddler ignores redirection and sprays another family during farm class.. Wants: -. Already did: Stopped and redirected toddler from spigot.
+
+- `ar048-0015` (trigger_moment) Today my toddler (2.5) and I went to a class at a local farm. Near the end of the class we went over to a gardening area with a big bucket of water that kids use to take care of the plants. Near the bucket, wrapped around a fence, was a hose. My toddler locked in on that spigot immediately. They kept trying to turn it and I kept stopping them and redirecting.
+- `ar048-0016` (pain) I turned my back for two seconds because another toddler was trying to get past me and my little one took the opportunity to turn on the hose. The hose that was wrapped around the fence. The one that was pointed directly at a mom holding her toddler. I tried to turn it off as quickly as I could, but the toddler was sobbing. My toddler went over and apologized immediately, and the other mom was laughing but my god. I don’t know if we’ll ever be able to go to farm class again.
+- `ar048-0017` (belief) This makes me feel better because I also feel the same haha. The child who got sprayed had also stripped down to be nearly naked and run while mooing like a cow and her mom was laughing so they seemed pretty laid back 😂
+
+### 1t5of41 | r/toddlers | 2026-05-06 | child_3_years | experienced_mother | patterns 1,3,6
+
+About: Three-year-old throws things since newborn sibling arrived. Wants: Understand jealousy, age-related behaviour, and father's exclusive calming role. Already did: Asks child to clean; father reminds him to use words.
+
+- `ar039-0041` (pain) My 3 1/2 yr old toddler when unhappy throws everything he can, since I had a newborn recently.
+- `ar039-0042` (pain) It's his father who can only calm him down and reminds him to use his words. He will not listen to his mommy if I'm asking him to clean up. That is when the rage can start.
+- `ar039-0043` (question) Is this part of the jealousy that I was expecting? Or part of being 3?
+
+### 1t7s5zv | r/toddlers | 2026-05-09 | child_3_years | parent_unspecified | patterns 3
+
+About: Three-year-old cries angrily because cousin said goodbye twice. Wants: Know whether others see similarly irrational crying. Already did: Asked why she cried; considered tiredness and illness.
+
+- `ar045-0013` (question) Does your 3 year old cry for things that make no sense because why
+- `ar045-0014` (trigger_moment) My 3 year old was a little over tired and sick when we went out last night not a great combo.
+
+She just started to seem sick right before we left with a runny nose but was otherwise fine.
+
+Anyway whe her older cousin who she loves said bye apparently she said bye twice and my daughter got angry and cried.  
+I said why are you crying and she said because she said bye two times!!!!
+
+I put it down to her not being well but she’s fine today.  
+She was so mad at her cousin.
+
+She gets easily triggered over things now but this was really random
+
+### 1tbhfr6 | r/Parenting | 2026-05-12 | child_2_years | experienced_mother | patterns 2,3,10
+
+About: Overwhelmed isolated mother seeks help with toddler’s aggression toward animals. Wants: Gentler son, effective discipline, adult friendship and a break. Already did: Praise, explanations, timeouts, spanking, yelling, outdoor walks, attempted drawing and colouring.
+
+- `ar026-0009` (trigger_moment) i think my 2 1/2 year old toddler just killed a young chicken.
+- `ar026-0010` (pain) it was him or the dog because the dog bothers them too. i was drawing outside because god forbid i just want to do a fucking activity and relax but that never fucking happens and he was in the small coop in the fenced area, i didn’t see any chickens in there but i should’ve checked it ultimately is my fault. but he just isn’t nice to the animals at all and i never show aggression to our pets yet he is extremely aggressive to our pets, kicking them, trying to step on them, hitting them, pulling their ears after i tell him to stop or tell him to be gentle, once in a blue moon he is gentle and i give him a lot of praise with it, all those things he does to the cats and dog but the cats are too calm they just dgaf and don’t scratch him or react but i know he’s fucking hurting them.
+- `ar026-0011` (tried_failed) time out hasn’t worked or changed a thing this past year and a half and i finally just started spanking him for that reason, i have explained to him we are nice and respectful before and after time out, i make him repeat after me. he hits me, kicks me, jumps on me, grabs my hair and doesn’t let go, for no reason a majority of the time literally even when he has my attention.
+- `ar026-0012` (pain) i’m just so fucking over he only listens when i yell at him. i’ve tried to be nice up until now i can’t fucking take it anymore. asking him nicely please and thank you he never listens to me he only listens when i yell i’m so tired of all of this. i’m his only parent he’s not in daycare i only work a few days of the fucking week i have no friends or no one to fucking talk to. i feel like i might be starting to grow resentment towards him because i am no longer happy. i don’t want to put him in daycare because i dont want to risk abuse or assault. but i also need a fucking adult my age to talk to and hangout with i literally have fucking no one.
+- `ar026-0013` (pain) my mom complains abt watching him the few days i work yet she agreed to it and agrees with me on no daycare due to abuse factors. i have no human interaction i haven’t had a conversation with an adult in months, my mom and i don’t converse i don’t know anyone my fucking age and i don’t know how to get out and do things alone, it’s a small town so we don’t have mom groups.
+- `ar026-0014` (desire) i’m tired of feeling like an angry man when i am a woman. i don’t even feel like a woman anymore because i don’t have time to myself or to get ready or do anything feminine or have other girls to hangout and be girly with. i want to be a sweet loving mother with a sweet loving son but that isn’t the way it’s fucking going. i try to be sweet and loving, caring, explaining, thoughtful to him but it’s not working at all i feel like.
+- `ar026-0015` (tried_failed) i explain why we do things out of respect like burying dead animals and giving them flowers on top as a memorial, talking to the universe about the animals life, why we don’t hurt people and animals we love and care about but he is far from gentle. i just want to fucking scream i’m so tired of being beaten up all day and hearing crying every time i turn away because he immediately falls or gets hurt. i’m tired of not getting shit done because he won’t even sit to watch a fucking show. i’m tired of being outside 24/7 because he can open the fucking doors and my parents (it’s a house on their property) haven’t put another lock in or said i can when i’ve asked, they’re particular yet at the same time it’s like they dgaf so they have to choose what’s put in here.
+- `ar026-0016` (pain) i also don’t know how the fuck people do activities with their kids outdoors because every time i try to draw with him or color he flips out at me and gets mad, he just runs and walks everywhere instead of the activities i do and yes i guess i could force him to sit with me and do them but nothing is fucking enjoyable and i guess i am permissive in that way of just letting us walk around all day looking at tractors and old cars instead of drawing or learning because i dont want to deal with more screaming.
+- `ar026-0017` (desire) i havent gotten a break since 2025 and i need a fucking break yet i have no one i could hangout with even if i got that break.
+
+### 1td5uae | r/toddlers | 2026-05-14 | child_2_years | experienced_mother | patterns 3,1,9
+
+About: Toddler hits, kicks and spits at daycare after repeated moves.. Wants: Advice to help toddler calm down and feel less angry.. Already did: Two autism assessments; considered multiple home and classroom changes..
+
+- `ar016-0018` (pain) So my son (2 and a half) has been going to a daycare since birth basically, which I work at as well. Well, I need some advice for him misbehaving. He’s starting to get to the point where if he gets upset over something, he will throw himself on the ground, or he’ll hit, kick, or attempt to spit at teachers. And I don’t know what to do in order to get him to be a calmer toddler.
+- `ar016-0019` (others_said) Also, I’ve already gotten him tested for things like Autism twice, but each time they say he’s not autistic, just very angry. And I don’t know what to do in order to get him to not be as angry.
+- `ar016-0020` (question) And I also know that because we’ve moved across the country, and have moved twice to different houses throughout the year, and his daycare has had to move him through several different classrooms (5 classrooms) throughout the year that we’ve lived here, so I know all this change can make him super angry. And I understand that some of the things he does is age appropriate, but as his mom, I really want to help him mellow out, for his sake. Is there any advice that anybody has to help? Thank you in advance.
+
+### 1tdf4ps | r/toddlers | 2026-05-14 | child_2_years | parent_unspecified | patterns 3
+
+About: Toddler has prolonged evening tantrums after family transitions. Wants: Advice or solidarity about prolonged evening tantrums. Already did: Offered preferred shows, safe foods and choice of activities; changed daycare.
+
+- `ar063-0020` (pain) Curious on if anyone has advice or even just relates. My son is 2.5 years old and every evening for the past two weeks he tantrums from around 6pm-when he goes to bed around 7:30/8:30pm. He goes to daycare full time and they begin when he comes through the door when we get home. He is dealing with a lot transition wise, new sibling & new daycare (hes been going to daycare since he was 8 weeks old but we switched his daycare due to money). Also last week he had a stomach bug so I am not sure if thats what triggered this? And ive been so cognizant on making sure he is in control due to the changes so putting on his favorite shows on in the evening, safe foods, whatever activity he wants to make him feel in control but he doesnt want anything but also wants everything. It is so rough...I feel horrible.
+
+### 1te0p6m | r/daddit | 2026-05-15 | child_3_years | parent_unspecified | patterns 3
+
+About: Parent vents about hours of screaming each morning. Wants: Reassurance about being screamed at each morning. Already did: nothing stated.
+
+- `ar082-0003` (pain) It's totally normal to be screamed at for a good couple hours every morning, right? 
+
+Right? 
+
+I did not know this is what I signed up for.
+
+### 1tg16x2 | r/daddit | 2026-05-17 | child_2_years | parent_unspecified | patterns 3,10
+
+About: Toddler throws food while parents disagree about consequences. Wants: Set effective consequences for throwing food and plates. Already did: nothing stated.
+
+- `ar066-0035` (pain) I have a toddler turning 3 in 6 weeks and lately he has really stepped up his game at making meals complicated. My wife is non-disciplinary and things like smearing sauces across the countertop and flinging applesauce on the walls on purpose has become a nightly event.
+- `ar066-0036` (belief) I get kids arent always going to eat what is on their plate but I feel like throwing your plate on the floor or throwing your food on the floor is off limits and comes with some sort of ramifications.
+- `ar066-0037` (desire) To be clear, I'm not suggesting I instill fear in our son or get physical with him or spank him, etc. I am thinking more like when a plate gets tossed on the floor its full stop "hold my hand while we clean this up, straight to the bath, dinner is over now, short bedtime".
+- `ar066-0038` (belief) I believe he is getting old enough and intelligent enough to begin to learn that certain behaviors arent acceptable but the way my wife is handling this is more like "do our plates go on the floor? No? Well how is yours there then? Can we please pick the food up? Stop stepping on that please" and so on. I know they dont tolerate this at his daycare.
+- `ar066-0039` (desire) Open to any suggestions on setting my son up for success so he can eat a meal without destroying the kitchen.
+- `ar066-0040` (trigger_moment) I should add we just had our second who is 3 weeks old now. I know thats a big adjustment and factor but this was happening before then as well - its just escalated a lot.
+
+### 1th8mif | r/toddlers | 2026-05-19 | child_2_years | experienced_mother | patterns 3
+
+About: Toddler pulls mother’s hair and apology cycle seems like game. Wants: Stop painful hair pulling without reinforcing a game. Already did: Said no and described pain; stepped away, stayed calm, encouraged apologies.
+
+- `ar074-0041` (question) My two-year-old (25 months) pulls my hair really hard. It’s a challenge to disentangle her fingers from my hair to get away. I’ve been trying to tell her “No,” “That hurts,” and “I don’t like that.” I try not to have a big reaction. I’m worried that it’s become a game for her. She’ll pull my hair, and I’ll step away. She’ll ask, “Mommy is sad?” I tell her that I am because hair-pulling hurts. She then wants to make me feel better, so she’ll say sorry or give me a hug. It’s sweet, but it feels like this might be a game. I want her to apologize if she hurts someone, but this doesn’t seem to be helping the behavior. Any suggestions?
+
+### 1thiyxc | r/daddit | 2026-05-19 | child_2_years | parent_unspecified | patterns 3
+
+About: Two-year-old persistently requests forbidden household objects. Wants: Handle relentless requests without constantly saying no. Already did: Keeps possessions out of sight.
+
+- `ar039-0057` (pain) How do you handle this? He's 2. And it's just constant. "I have this?" No that's sharp... "Ok ok, I have it?" No, "ok I have it?" "I want it" "I have it?" "Ok maybe is mine?" No it's not for you.
+- `ar039-0058` (tried_failed) At first there was allot around the house he shouldn't have but now I try my best to keep my stuff out of his line of sight. But if I am to do any jobs I need to get things out and I just can't keep saying no... It's relentless.
+- `ar039-0059` (question) How do you guys get over around this?
+
+### 1ti5yy1 | r/NewParents | 2026-05-20 | child_2_years | parent_unspecified | patterns 3,9
+
+About: Two-year-old repeatedly bitten at daycare, sometimes breaking skin. Wants: Other parents’ experiences of frequent daycare biting. Already did: Asked friends; received teacher incident calls.
+
+- `ar028-0083` (pain) My 2yo son has gotten bit 2x this week, and probably 15 times in the past 3 months. The teachers call and let me know that he’s been bitten and if it broke skin, and I know they feel awful to have to make the call to me.
+- `ar028-0084` (fear) However… this feels like a lot of biting, and I’ve asked friends who don’t have the same experiences at their daycare. Our daycare does not suspend 2 year olds for this because it’s “developmentally appropriate”, which I also understand as they’re so young and don’t have the language skills yet. BUT… the frequency is starting to get concerning. Today’s bite broke skin and left a big bruise.
+- `ar028-0085` (question) What are your experiences with your child getting bit at daycare?
+
+### 1tijpmp | r/Parenting | 2026-05-20 | child_2_years | parent_unspecified | patterns 3
+
+About: Questioning ignoring tantrums and discussing misbehaviour later. Wants: Know when to comfort, ignore, or discuss toddler's behaviour. Already did: Ignored tantrum; later explained consequences and offered reassurance.
+
+- `ar060-0056` (trigger_moment) So yesterday our almost 3 year old was having a huge meltdown around dinner time. We mostly just ignored it. During this tantrum he was doing stuff he shouldn’t. Throwing things, knocking things onto the floor, etc. Everything was mostly childproofed so we mostly just ignored it. And he came through and then was mostly fine eventually. Later when he was using the bathroom he purposely shot his pee all over the floor.
+- `ar060-0057` (trigger_moment) And then before bed, he sometimes asks us to sleep in his bed with him (has a queen sized bed so it’s easy). We do sometimes, it’s easy and nice to snuggle up.  But I told him I couldn’t because I had to go clean up downstairs and recapped the things he did that were “not nice”. And then told him that he is a good strong brave boy and left the room. He whined for like 1 minute before going to sleep.
+- `ar060-0058` (question) On recap, I questioned my way of handling things. Should I be bringing up things he shouldn’t do like that? In the moment I don’t because it just draws attention to it. So I do like talking about it with him but I don’t know if it even registers.
+- `ar060-0059` (question) Also, when a toddler is having a tantrum for no reason, how do you know when to comfort and when to ignore?
+
+### 1tk553t | r/toddlers | 2026-05-22 | child_3_years | parent_unspecified | patterns 1,2,3
+
+About: Nonstop hyperactivity and attention demands exhaust parent. Wants: Hope child mellows and advice managing constant activity. Already did: Gymnastics, very limited screens and daily outdoor play.
+
+- `ar063-0021` (pain) Our daughter will be 4 in July and she does. not. stop.
+Ever. 
+I used to think she was just a busy toddler, but it has not started to slow down as she’s gotten older.
+- `ar063-0022` (pain) She is constantly moving. Jumping up and down, bouncing off of the walls (literally), cartwheeling and summer-salting. Even during gymnastics, she is one of the only kids who is bouncing off the walls. It’s like she physically can’t sit still. 
+
+She rarely plays independently. She constantly desires the attention of either my husband or myself and it’s hard to get anything done.
+- `ar063-0023` (pain) She talks nonstop - which is great. I love that she’s inquisitive and wants to learn… but she literally does not shut off. It’s to the point where she can’t control it and she interrupts a lot. 
+
+She still RARELY sleeps through the night and struggles really bad at bedtime to fall asleep. Bedtime is usually at LEAST a 30-45 minute process. And in that process she gets out of bed multiple times.
+- `ar063-0024` (tried_failed) We have REALLY limited screen time and try to get outside to play every day. 
+
+We have a son who is about to be 2, too, and it is SO hard to give him the attention he needs because our daughter is so non-stop.
+- `ar063-0025` (desire) I just don’t even know what to do at this point. I love her SO much, but she WEARS ME OUT 🫠
+
+Has anyone had this, and they’ve mellowed out after 3? Give me some hope 🙏
+
+### 1tkzwcd | r/Parenting | 2026-05-22 | child_3_years | parent_unspecified | patterns 3
+
+About: Parent struggles with defiant three year old compared with siblings. Wants: Ways to handle three year old's refusal and defiance. Already did: Time-outs, corner, removed toys, explanations, spankings.
+
+- `ar071-0027` (belief) I have a 14, 5, and 3 year old. My 5 and 3 year old are with me full time.
+- `ar071-0028` (pain) My 5 year old is respectful, follows directions, has small chores, and whenever I ask him to do something, he does it. Things like loading his plate into the dishwasher, bringing dishes downstairs, helping with groceries, cleaning his room, etc.
+
+My 3 year old is the complete opposite. When I ask her to do those same things, she doesn’t listen. She tells me “no” or “shut up,” throws tantrums, cries, falls out, or just stands there doing whatever she wants instead.
+
+I am so exhausted because both are being raised in the same home, by the same parents, with the same routines and expectations, yet they are completely different.
+- `ar071-0029` (tried_failed) What do I do? I feel like I’m constantly battling with my 3 year old lately. I do not gentle parent. I believe in time outs, putting them in the corner, taking toys, having talks about why certain behavior is wrong, and yes, even spankings. None of it seems to matter with her. She’ll cry in the moment and then go right back to not listening like nothing happened.
+- `ar071-0030` (question) At this point I genuinely do not know if this is just a strong-willed toddler or if I’m doing something wrong because I have never dealt with this level of defiance before. My 14 and 5 year old are responsible, respectful, and listen, so this is completely different and new for me. I never had to deal with this with my oldest two.
+
+### 1tmvo5m | r/toddlers | 2026-05-25 | child_2_years | parent_unspecified | patterns 3
+
+About: Sick two-year-old’s food-refusal meltdown leaves both parents shaken. Wants: Share difficult terrible-twos experience. Already did: Painkillers, favourite foods, alternatives, car ride.
+
+- `ar083-0057` (trigger_moment) Yesterday, we got first hand experience of why they call it terrible twos.
+- `ar083-0058` (pain) We have a 2 year son (and 11 year daughter). Little one had been sick for last week with RSV. He had high temperature, severe cold and completely lost his appetite. Still we managed to ride the worst of the infection with pain killers.
+- `ar083-0059` (belief) He ate an apple for lunch yesterday and then went to sleep in the afternoon for 2 hours. We knew he would wake up hungry so my wife cooked his favourite dish and we had banana bread as plan b.
+- `ar083-0060` (pain) He woke up and as soon as he saw food he had a meltdown. Thing is when he is too hungry he doesn't realise it and just gets cranky.
+- `ar083-0061` (tried_failed) We tried to feed him but he denied. We offered him fruit jelly, chocolate, grapes, juice and what not but he wouldn't stop crying. We knew he was hungry and that is why he was upset but he wouldn't take a bite.
+- `ar083-0062` (pain) He cried for like an hour or so. Finally, my wife lost it she started crying too. For like 15 minutes my wife was sobbing and he was sitting in her lap.
+- `ar083-0063` (success_story) Eventually, we took a ride in car in which he ate a piece of chocolate and started being a bit normal. Came home and ate a slice of garlic bread.
+- `ar083-0064` (pain) So, yeah it shook both me and my wife and we are somehow passing this phase.
+
+### 1to7rb7 | r/daddit | 2026-05-26 | child_3_years | parent_unspecified | patterns 3
+
+About: Three-year-old cannot sit through meals; negotiations overwhelm family. Wants: Ways to stop mealtime conflict. Already did: Repeatedly asks child to return for bites.
+
+- `ar073-0050` (pain) I know this is normal, but we can’t take it anymore.
+- `ar073-0051` (pain) Our 3yo just can’t sit still for meal times…ok, I can deal with that. But it’s this constant “come back for a bite” debate/argument/negotiation that slowly escalates and just makes every meal stressful.
+- `ar073-0052` (pain) No one in the family is relaxed during meals, the “come back for another bite” takes over any conversations and it’s at an infuriating point for everyone.
+- `ar073-0053` (question) I know a ton of you have experienced this at some point, what worked for you?
+
+### 1tpslyd | r/toddlers | 2026-05-28 | child_2_years | experienced_mother | patterns 3,5,8
+
+About: Mother fears reactions reinforce bright toddler's hitting. Wants: Advice for hitting without yelling, reinforcing it, or accepting harm. Already did: Gentle hands, repair, caught hands, calm scripts, explained accidental bump.
+
+- `ar071-0040` (pain) FTM here and I’m really struggling with my two year old’s hitting phase, especially because it’s almost always directed at me. I’ve never seen him try to hit someone outside my husband, baby, or I.
+- `ar071-0041` (success_story) He’s a very bright kid. He can count to 20, fully potty trained, speaks in full sentences, and can even read a tiny bit. He pointed at a Papa Joe’s sign and said “mama it says papa” even though we’d never been there before. So he understands. He has very big emotions and has recently started stuttering because he speaks in such paragraphs is brain moves faster than his mouth.
+- `ar071-0042` (fear) The hitting usually happens when I tell him we have to do something he doesn’t want to do. When this first started, he would immediately do gentle hands and repair. But lately it feels like as he gets older it’s coming from a deeper emotional place, and sometimes I wonder if it’s tied to my reactions.
+- `ar071-0043` (fear) I’m a pretty even‑keeled, fun, and loving mom. I’ve only raised my voice a few times, and it was always out of fear, like when he ran toward the road or when he hit his baby brother hard. But toddlers don’t understand the difference between fear and anger. They just see a big reaction. And I’m starting to feel like he’s learned that he can get a rise out of me, even though that’s not what’s happening inside. I also feel insecure that this behavior stems from me somehow. Maybe I’m not soft enough or kind enough. For context, I grew up in an abusive household so I’m breaking cycles here and find raising kiddos can make me very insecure. Like do kind humans raise kids that smack the shit out of you lol?
+- `ar071-0044` (trigger_moment) Tonight was rough. He hit me, and instead of catching his hands like I normally do, I instinctively shielded myself. My arm accidentally bumped his mouth and he lost it. Then I immediately spiraled because I worried he thought I hit him back. I tried to explain “I was protecting myself and accidentally bumped you” but I’m not sure he can process that yet.
+- `ar071-0045` (tried_failed) I’m also noticing that I’m getting more dysregulated as this goes on. The calm “I won’t let you hit, hitting hurts” script isn’t working anymore. I don’t want to yell. I don’t want to react out of fear. I don’t want to accidentally reinforce the behavior. But I also don’t want to be a punching bag.
+- `ar071-0046` (question) I feel like I’m at a loss. How do you course correct when your toddler seems to be outgrowing the strategies that used to work? How do you explain things with a toddler who understands so much but is still too young to understand everything?
+
+Any advice or solidarity would mean a lot.
+
+### 1tqkm56 | r/Mommit | 2026-05-28 | child_3_years | experienced_mother | patterns 3
+
+About: Sick toddler refuses bath exit and screams during solo bedtime. Wants: Reassurance about handling toddler's refusal and screaming. Already did: Explained safety; removed toddler from bath; closed him safely in bedroom.
+
+- `ar011-0036` (trigger_moment) My 2 boys (3.5 and 1) both have HFM, so they’ve been cooped up all day feeling miserable. Our AC also broke today, so the technician is here walking through with my husband.
+- `ar011-0037` (pain) Since husband is preoccupied, I’m doing bath time solo. 1 year old is clearly miserable and ready for bed so I pull him out and get him dressed. I explain to 3.5 year old that I cannot leave him unattended in the bath while I’m putting 1 year old to bed, so he needs to get out the bath. He refuses. I drag him out, get him in his pull-up and end up shutting him in his bedroom so he’s in a safe space while I put baby to bed. He starts screaming bloody murder in protest. AC guy looks terrified.
+- `ar011-0038` (fear) I am mortified. Am I just the world’s worst mother?
+
+### 1tr89s9 | r/toddlers | 2026-05-29 | child_3_years | parent_unspecified | patterns 3
+
+About: Three-year-old gets angry when construction toys fall apart. Wants: Know whether other children melt down over collapsing builds. Already did: nothing stated.
+
+- `ar070-0052` (question) Probably random, maybe not, but my 3 year old gets PISSED when his magnatiles or legos fall apart while he’s building. Anyone else? 🥲
+
+### 1trimuj | r/Parenting | 2026-05-29 | child_3_years | parent_unspecified | patterns 3,4
+
+About: Responding to three-year-old's racist remark at market. Wants: Advice and books to teach kindness and respect. Already did: Took child outside, explained respect and differences.
+
+- `ar021-0056` (question) I took my 3F and 5F to the Asian market, and my 3 YO had sunglasses on and was commenting how they made everything look darker, she said “everyone looks so lovely! Except the black girls. I don’t like the black girls”   
+I was immediately thrown off by this situation and trying to contain my embarrassment. I took her outside and explained that we don’t need to talk about the way people look, that everyone looks different, but we all human and deserve kindness and respect. I also told her she wouldn’t like it if someone said they didn’t like her because of her skin or hair or eye color.   
+I have always emphasized that what we look like is not what’s important, it’s what we do and what we say and how we treat people.   
+Not that it really makes a big difference, but her dad and aunt are black. She is white presenting.   
+The whole thing has thrown me through a loop. I don’t know how to go about this- are there any good books to read to her, what would you have done/ said?   
+What can I do better as a parent to help her understand?
+
+### 1tsl3du | r/toddlers | 2026-05-31 | child_3_years | parent_unspecified | patterns 1,3,5
+
+About: Three-year-old bites nails painfully despite deterrents and explanations. Wants: Stop nail biting without causing further pain. Already did: Bought deterrent and colored polish; garlic, reminders, explanations, clipping, filing. Paid: Deterrent nail polish and colorful polish.
+
+- `ar057-0039` (tried_failed) My 3 year old has started biting her nails and by that I mean she literally has like half of her nail bed left bc she bites the rest off. I have tried buying the no biting nail polish but it doesn’t even bother her she just keeps going and I have tried different types. Even tried getting colorful nail polish so it would look cute and maybe keep her from biting them but after the initial oh that’s so cute she gets over it and just keeps biting. I even have tried to rub garlic on her nails but I don’t like that idea bc she touches her face and eyes etc throughout the day and don’t want that to irritate her. Whenever I see her doing it I always tell her to stop but she usually respond with “but I have to bite them” or “yes I can bite them” I’m at a loss on how to stop her from biting but have to do something bc it’s getting out of control!
+- `ar057-0040` (belief) I don’t think she is anxious about anything, nothing has really changed in our day to day life to cause her anxiety. If anything I think it’s bc she feels they are uneven and tries to get them even but doesn’t know when to stop. I have been trying to explain to her that it’s okay if they are uneven and let her feel my nails to show nails are not even. And I tell her that if she feels something to come to me I will clip her nail. She does sometimes ask to get it clipped but I think she will have to unlearn this habit and it will take time.
+- `ar057-0041` (belief) Nobody has been diagnosed with anxiety or OCD but we do have quite a few nail biters in my family including myself. My dad always picked at his nails and would bite them. Some of my siblings and me picked up this habit and nowadays I usually have acrylic nails to prevent this. I think she bites them when she feels it’s a bit uneven or a piece is sticking out. I’m trying to explain that nails aren’t always smooth but logic doesn’t mean much to a 3 year old lol
+- `ar057-0042` (pain) Yea it’s hard bc it’s not a problem most people talk about so it’s hard to find a solution. And I know it causes her pain bc often she comes asking for a bandaid bc she bit off too much but at 3 they don’t have enough self control to stop themselves:/
+- `ar057-0043` (regret) Yea I think she saw me biting my nails and also when she was a baby I tried cutting her nails with a clipper and took a chunk out of her finger and it traumatized me so would bite her nails instead of clipping so maybe that contributed it. But mostly I see her running her other finger over her mail before biting so I think she feels something uneven and bites it but can’t get it even so keeps biting. Who knows what they are thinking lol but she isn’t an anxious baby so I don’t think that has anything to do with it
+- `ar057-0044` (desire) Hmm never considered that. I could try maybe one of those clunky big files and see if she would want to try that. Thanks for the idea
+- `ar057-0045` (belief) She has never been an anxious child or nervous. She is pretty laid back and doesn’t get scared easily, if anything it would be closer to OCD bc she just seems to not like that her nails are not even and bites them.
+- `ar057-0046` (fear) Yea I just want the biting to stop bc she just goes too far and is often hurting herself bc she will come ask for bandaids bc her finger hurts:( and idk any filing either bc I have cut my own finger from filing bc the file just went past the nail into the skin, and really cut the skin plus it was so painful so I don’t want her to do that either. Ugh the struggle is real lol
+- `ar057-0047` (success_story) Yea that’s the problem is that she will be doing something like watching cartoons and just nibbling on her fingers like it’s a snack lol.. but I did show her today that if she has a bump on her mail to use the file and showed her. She seems to like the idea and even saw her trying it at one point without me even asking 😲but it will be a process bc we gotta break the current habit, but it could help thanks for the idea!
+
+### 1tt75a9 | r/toddlers | 2026-05-31 | child_3_years | parent_unspecified | patterns 3
+
+About: Toddler repeatedly handles baby sister roughly despite discipline. Wants: Help toddler be gentle and respond to repeated explanations. Already did: Timeouts, separating children, explanations at eye level.
+
+- `ar081-0021` (pain) 3.5 yo WILL NOT chill around his 8 month old sister. He's has like 5 time outs just today for things like grabbing her head and pulling, rough housing near her, rolling over her etc.
+- `ar081-0022` (tried_failed) He had one time out for hugging her head and pulling, and then immediately got out of the time out and did the exact same thing.
+- `ar081-0023` (tried_failed) We are pretty firm about no rough housing with sister. We give time outs, we remove him from the situation ("leave the room"), we remove baby from the situation, we get down on his level and explain why he can't do XYZ, that baby is fragile and he could hurt her.
+- `ar081-0024` (pain) Nothing is penetrating. I almost swatted him on the ass today after the second time out for the exact same thing in a row.
+- `ar081-0025` (question) 8 months of explaining the same thing to him is getting tedious. How can we get though to him???
+
+### 1tul8mv | r/toddlers | 2026-06-02 | child_2_years | parent_unspecified | patterns 3,9
+
+About: Toddler becomes aggressive after upsetting preschool peer experiences. Wants: Protect child and address aggression at preschool. Already did: Plans to speak with teachers.
+
+- `ar020-0044` (pain) My sweet, sensitive and kind 2.5 year old has in the past 6 weeks had a total personality transplant — aggression and hitting and screaming. She also most nights comes home and talks about one specific kid from preschool and all the ways that he has either hurt her or another kid or hit teachers. She’s started sleep talking in the night and saying things like “go away” “stop it”.
+- `ar020-0045` (question) It’s really impacting her, and I also can’t help but feel that she’s exhibiting all these new behaviours in response. What can we do? I’ll speak to the teachers this week but realistically what can they do in this situation?
+
+### 1twm26z | r/toddlers | 2026-06-04 | child_3_years | parent_unspecified | patterns 3,5
+
+About: Three-year-old becomes violent toward family after parental separation. Wants: Therapy experiences and ways to stop escalating aggression. Already did: Parents maintained relationship; told child to stop hurting brother.
+
+- `ar042-0020` (trigger_moment) My sons’ father and I are getting a divorce. We have been separate and living apart for a month now. Our three-year-old has become a totally different kid since this happened.
+- `ar042-0021` (tried_failed) Both his dad and I have tried to maintain is good as a relationship as we possibly can to try and keep the life change easy for both are three year-old and our 15 month old. There have certainly been some emotions in front of the kids despite our best efforts.
+- `ar042-0022` (fear) With that said, our three year-old has become incredibly aggressive and defiant. He becomes violent towards me specifically, but also has taken to screaming a lot, throwing things, intentionally trying to damage stuff in the house, not listening which of course could just be a three-year-old, but most recently this morning was trying to pull my youngest by the arm, which I told him to stop, and then he proceeded to put his arm around his brother’s neck and tell me that he was going to break his neck.
+- `ar042-0023` (belief) I have no idea where that came from besides maybe because I have told him previously not to mess with certain things or he will break them and I was telling him not to mess with his brother. Maybe he made the same association. Either way, the behavior is getting increasingly concerning.
+- `ar042-0024` (belief) His dad is living at his parent’s house so when he has custody of them, they are at their grandparents. I don’t know if that being somewhere that’s always been fun is why his behavior is so much worse with me. I know he’s no angel over there either, but he definitely is not being as aggressive there. (To be fair, I also am the only adult around during my custody time whereas during his dad’s time both grandparents and his teenage sister are there too.)
+- `ar042-0025` (question) Has anyone gone through a similar situation with their toddler? Did you get them into therapy and how did that go? Is there an easy way to try and combat this behavior so it doesn’t get worse? Also, any recommendations for another sub to post this in that may give more insight?
+
+### 1txqo10 | r/Mommit | 2026-06-05 | child_3_years | parent_unspecified | patterns 3
+
+About: Twin screams when frustrated despite practicing emotional identification. Wants: Help child handle initial frustration without screaming. Already did: Withheld attention for screaming, requested speech, practiced identifying emotions.
+
+- `ar066-0063` (pain) I have 3.5 year old twins. One of them will scream and whine anytime something doesn’t go his way. His scream is so high pitched. It’s not just annoying but hurts our ears and his twin. We’ve never given him attention when he does it and I tell him he needs to talk to me vs screaming because I can’t understand what he’s saying or wants when he screams.
+- `ar066-0064` (tried_failed) He’ll calm down and talk and tell me what’s wrong but how can I help him handle his initial emotion when something doesn’t go his way? We’ve been working on identifying emotions and feelings but hasn’t seems to really help. He can usually only identify it in another child when he sees them losing their sh\*t and he’ll say “Jane is frustrated”.
+- `ar066-0065` (belief) Being twins too they seem to amp each other up but the other twin doesn’t do this nearly as much, just occasionally which is to be expected at this age.
+
+### 1tyfb3s | r/daddit | 2026-06-06 | child_3_years | parent_unspecified | patterns 3,8
+
+About: Father feels constantly corrective with clever, difficult preschooler. Wants: Vent and possibly advice on constant correction. Already did: Intervenes for safety; waits out safe battles.
+
+- `ar061-0042` (pain) I’ve got 2, a 3 yo boy and a 9 month girl. My 3 year old has generally been difficult since birth. Especially seeing my 9 month old, like my son is hard mode.
+- `ar061-0043` (success_story) He’s also pretty great. He says many smart things, he’s really clever, asks great questions. My mom always said, “when you were 3 you said…” and I’d say, there’s no way a 3 year old says that. Now I’m here, and I’m like wow, a 3 year old CAN say some wild things. He gives my wife and I a hard time at home, but he’s stellar at preschool.
+- `ar061-0044` (pain) Lately I feel like I’m harping on him for everything, but in my defense it’s always something that needs intervention.
+- `ar061-0045` (pain) \- resting his chin on a public garbage can  
+\- squishing his sister, she’s clearly mad but he keeps doing it  
+\- climbing above his mom and little sister on the couch  
+\- pulling toys away from his sister (her toys btw)  
+\- not sitting properly while eating, standing on the side support of the chair  
+\- wants to sit in a specific spot next to me or my wife giving a bottle and it’s this tiny tiny area where he can’t fit
+- `ar061-0046` (pain) He’s also at this phase where he refuses to listen to alternatives.
+- `ar061-0047` (belief) I think this is okay to say about your own kid, but he has a look on his face when he’s in dick mode. I know when I’ve lost him. When he’s in that mode, there’s no talking to him. Won’t stop, won’t listen, everything becomes a battle. It’s best to let it blow over assuming everything he does is safe, and it generally is.
+- `ar061-0048` (question) I don’t know, not sure if I’m asking for advice or venting on a Saturday morning.
+
+### 1tylt6g | r/daddit | 2026-06-06 | child_2_years | parent_unspecified | patterns 3
+
+About: Toddler unintentionally hurts newborn while trying to help. Wants: Share contrasting worries with first and second children. Already did: Supervises toddler and newborn together.
+
+- `ar020-0046` (belief) Our son just turned two months and this was just a funny thing my wife and I were talking about last night.
+- `ar020-0047` (belief) All the things we fretted over his older sister (2yo) we dont even bat an eye about for him.
+- `ar020-0048` (fear) But a cold sweat breaks out if I realize I the two are unattended in the same room for even a minute. The oldest doesn't know how to be gentle yet so even small things like "helping" daddy burp the newborn turns into her viciously hitting him on the back or when she's "showing" him her toys it inadvertently turns into whacking him in the face.
+
+### 1u0tfa1 | r/toddlers | 2026-06-09 | child_3_years | parent_unspecified | patterns 3
+
+About: Parent feels anxious and defeated by three-year-old's constant reactive tantrums. Wants: Know how to manage tantrums and whether parenting is failing. Already did: Clay activity, assertiveness, regulation movements, deep breathing, timeouts, games, therapist guidance.
+
+- `ar027-0053` (pain) I feel so much like I am failing and I am living in a life constant conflict and struggle. My 3yo daughter has become insufferable. I love her so dearly but my god I am at a loss. She has several tantrums a day where she genuinely seems possessed by a demon. The subject of these meltdown really isn’t relevant.
+- `ar027-0054` (trigger_moment) For example tonight she is too tired to say goodnight to dad downstairs (while in full tantrum mode,) so I tell her it’s ok you can see him in the morning. Then she loses her absolute SH\*T saying no I want to say goodnight now! Then I say it’s ok we can go say goodnight. No I’m too tired! In this horrible tortured scream.
+- `ar027-0055` (pain) I am someone who prefers to work things out and I have anxiety (yes I am medicated.) I really feel miserable living in a state of extreme conflict like this. Today I narrowly avoided a full blown panic attack as she kicked my seat in the car screaming like the exorcist.
+- `ar027-0056` (tried_failed) I tried to set up a fun activity of sorting and then molding clay. There is a screaming and thrashing for one reason or another the entire time. I find myself dreading for her to come home from preschool. One time I forgot to bring a snack when picking her up and she threw herself on the ground with such intensity the teacher ran out to see what happened.
+- `ar027-0057` (tried_failed) I have tried being kind and assertive, I have tried regulation tips and movements and she will thrash and scream. I’ve tried teaching deep breathing. I have done time outs. I feel so .
+- `ar027-0058` (pain) Just last year we spent so much time doing fun things and spending time. Now I feel dread and anxiety. Am I failing? I truly don’t know what to do and it’s really effecting my mental health.
+- `ar027-0059` (tried_failed) I do have a therapist and try to talk about these things and get some guidance. Sometimes it works to turn things into a game but usually it is fleeting joy.
+- `ar027-0060` (belief) She is so sweet to my mom (grandma,) and mostly sweet to my husband.
+
+### 1u27tzj | r/Parenting | 2026-06-10 | child_2_years | parent_unspecified | patterns 3
+
+About: Comparing destructive seven-year-olds and fighting two-year-olds to movies. Wants: Others movie comparisons for children. Already did: nothing stated.
+
+- `ar042-0030` (belief) My seven year old would be the original Jumanji. A whirl wind of unexpected wild encounters that may or may not be dangerous and leaves a path of destruction in it's wake. (More often than not, I am officer Bentley).
+- `ar042-0031` (belief) My two year old would be Fight Club. You never know if you're going to get Tyler Durden or the Narrator from each interaction. Regardless of how they present themselves minute by minute, they seem invested in beating the ever living hell out of each other and then pretending like it didn't just happen.
+
+### 1u2jhp2 | r/toddlers | 2026-06-11 | child_3_years | parent_unspecified | patterns 3
+
+About: Parent vents about mean behaviour during the terrible threes. Wants: Vent and wonder when family life becomes enjoyable again. Already did: nothing stated.
+
+- `ar024-0037` (pain) we're halfway through the little guy's third year and I obviously love him very much and he's the best but also aughghhghghghhh.  AUHGGGGHHHHHGHH.  WHEN WILL WE ENJOY OUR LIVES AGAIN.  WHY IS HE SO MEAN
+
+### 1u47vqs | r/Parenting | 2026-06-12 | child_2_years | parent_unspecified | patterns 3
+
+About: Two year old growls while complying after copying brother. Wants: Know how to respond and whether parent is overreacting. Already did: Asked brother to stop growling because sister copies him.
+
+- `ar055-0064` (question) My daughter (2 years old) has started growling at me when I ask her to do something. She got it from her brother, and I have already told him about it and stop doing it because his sister is mimicking the behavior. She will still do as I ask, but it is just weird and feels like I have two preteens in the house.
+- `ar055-0065` (question) I don't know what to do or if I am overreacting
+
+### 1u5k9l3 | r/Parenting | 2026-06-14 | child_3_years | parent_unspecified | patterns 3,4
+
+About: Parent wants video courses for toddler tantrums. Wants: Concrete scripts for tantrums, communication, and emotional regulation. Already did: Researched ABANaturally, Big Little Feelings, and Janet Lansbury.
+
+- `ar002-0131` (desire) I have a 3 year old who we sometimes have big power struggles with. Shes a very sweet kid and is well behaved a lot of the time, but sometimes she doesnt listen, she pushes boundaries, and tantrums when things dont go her way. I am looking for online video-type parenting courses to help teach me how to better handle these moments and teach her lifelong communication, emotional regulation, and behaviors for her to replace the defiant behavior and tantrums with. Looking for something that will actually teach me exactly what to say or do (like, almost scripts), not just general concepts.
+- `ar002-0132` (objection) I know that there are books that cover this, but I just dont have the bandwidth to read books right now, watching videos feels more mamageable.
+- `ar002-0133` (tried_failed) Ive done some of my own research and a few that have stood out to me are:
+- `ar002-0134` (belief) Practical Parenting Course by ABANaturally
+- `ar002-0135` (belief) Winning the Toddler Stage by Big Little Feelings
+- `ar002-0136` (belief) No Bad Kids Master Course by Janet Lansbury
+- `ar002-0137` (question) If anyone can offer some insight/feedback on any of these, or share a course that you loved and recommend, I would appreciate it!
+
+### 1u6590i | r/toddlers | 2026-06-15 | child_2_years | parent_unspecified | patterns 3,5,10
+
+About: Overwhelmed parent questions toddler tantrums, autonomy and discipline. Wants: Reassurance and ways to handle tantrums, meals and routines. Already did: Offers choices and helping, low-pressure meals, limits and timers.
+
+- `ar072-0037` (pain) I am finding myself very overwhelmed by this season of life. I have a four month old and a toddler who turns three in less than a month. Ever since I had the baby, it feels like things have been so out of control. I find myself constantly asking if it is just the age or if my parenting is ruining everything. I absolutely love my children but I am so overwhelmed by balancing the two and my toddler's frequent tantrums.
+- `ar072-0038` (pain) She is constantly demanding to do everything herself and melting down. If she hears me close the fridge door from the other room she will run in screaming and crying that she wanted to do it for example. I try to give her opportunities to help out and be responsible and make choices but now I always wonder is it too much, too little, or is this just how toddlers are? I feel like other people (family) are appalled by her behavior and my parenting sometimes. Even the dog is crying during her meltdowns these days.
+- `ar072-0039` (tried_failed) Every meal is stressful. She takes forever to eat most of the time and frequently cries and begs for other options (which I do not oblige). I usually make her a plate of things we are having as a family along with one or two options I know she likes and try to keep it low pressure. Her dad and I have different approaches to this. He is starting to get frustrated and insist she take bites of new things or finish certain things and I feel like she in some ways she is learning to try more foods but in other ways she is digging her heels in and getting more stubborn.
+- `ar072-0040` (tried_failed) Our routines like bedtime take literal hours with her horsing around and trying to stall or do things herself. I try to keep it light while holding boundaries but don't know how to speed things up/not end up frustrated. For example, I'll give her one or two chances to get her pj's on (or set a one minute timer) and then I'll physically step in to assist if she is playing around. She speeds up if I set the limit because she knows that I really will step in but this makes me feel like I'm threatening/pressuring her all the time when she just wants to be silly. If I do end up having to step in, she wails.
+- `ar072-0041` (fear) Anyway, at this point I feel like I am failing at everything and I can't tell if I am "creating a monster" or if some kids are just high spirited and toddlers are tough. I just want to cry.
+
+### 1u8il4j | r/toddlers | 2026-06-17 | child_3_years | parent_unspecified | patterns 2,3
+
+About: Defiant preschooler after newborn's arrival overwhelms parent. Wants: Ways to manage behaviour and reconnect with first child. Already did: Discipline, redirection, yelling, family help.
+
+- `ar021-0073` (belief) Struggling with 3yo and newborn baby.
+- `ar021-0074` (pain) I swear my toddler is trying to drive me crazy on purpose. He is acting out so much. Being defiant, trashing the house, laughing at me when I attempt to discipline or redirect. I don’t know how to control him, especially for example, when he’s trashing the house and I’m nursing the baby.
+- `ar021-0075` (pain) I love him so much and it’s breaking me heart that I’m feeling contempt towards my first baby but man he is pushing me. I’m sick of getting angry and yelling I don’t want to be that type of parent. I realize he is trying to get my attention and he doesn’t understand that all he’s getting is negative attention now my newborn is so easy and my stress has become my toddler.
+- `ar021-0076` (desire) I feel overwhelmed with him and I don’t know what to do. I’m looking for any insight or tips or anybody to talk to that has gone through a similar thing because I’m scared and I want to love on my first baby again, but he is making it so hard right now… please no judgement
+- `ar021-0077` (desire) That’s a good idea! I’m breastfeeding so I can’t be too far but we could definitely do an hour at the park together. Thanks
+- `ar021-0078` (pain) Thank you so much. This gives me so much hope it’s only been 3 weeks and I feel like I can’t live like this.
+- `ar021-0079` (desire) Good idea about a book when nursing, I’ll try that.
+- `ar021-0080` (pain) I really hope so. My husband only got 1 week off and my mom stayed for another week and now we’re on our own and it’s been so hard
+- `ar021-0081` (desire) Where I live we don’t start school until the year the child turns 4. So it’s a ways off. I could look at taking him to my mom’s a few days a week ?
+- `ar021-0082` (desire) I will work on the praise. He loves to help in all things so I’ll try to give him some tasks to stay busy?
+- `ar021-0083` (price_signal) Montessori costs 20k a year here! I definitely don’t have that lying around .. unfortunately
+- `ar021-0084` (desire) I think I’m going to ask her to come back lol even just for a few hours during the day..
+- `ar021-0085` (belief) Thank you… am genuinely trying my best
+
+### 1u9mzez | r/toddlers | 2026-06-19 | child_2_years | parent_unspecified | patterns 3,11
+
+About: Toddler demands help then rejects it while toileting and walking. Wants: Understand sudden distress and contradictory demands. Already did: Tried helping, carrying and cleaning after accidents.
+
+- `ar057-0057` (pain) 2.5 year old is losing her mind
+- `ar057-0058` (pain) Asks to do something then says help me we try to help and then says they want to do it themselves crying hysterically
+- `ar057-0059` (pain) Is holding her pee and asking for help to go potty then peeing herself then refusing to let us clean her up
+- `ar057-0060` (pain) Refusing to walk wants to be carried then pushes us away when we try to carry her
+- `ar057-0061` (pain) She's not sleeping
+- `ar057-0062` (pain) Wakes up crying saying help me
+- `ar057-0063` (question) Wtf is going on!
+- `ar057-0064` (pain) Im literally about to lose it myself
+
+### 1uaa71j | r/toddlers | 2026-06-19 | child_2_years | relative_caregiver | patterns 3
+
+About: Aunt describes reducing yelling with whispers and connection.. Wants: Others’ habits or systems for staying calm with children.. Already did: Read peaceful parenting, asked friends, tried twenty-one-day no-yelling challenge..
+
+- `ar016-0042` (pain) I spend a lot of time helping my sister with her two toddlers ages 2 and 4  Before this experience, I always thought I would be the calm, fun aunt
+But reality was very different
+Between the tantrums, constant sibling fights, and the endless "no" phase, I found myself raising my voice much more than I ever expected. The guilt was real and painful. I kept thinking, if I'm struggling this much as an aunt, how do parents handle this every single day
+- `ar016-0043` (belief) Instead of just feeling guilty, I decided to treat it like a real project
+I started reading about peaceful parenting, asking friends with children what had actually worked for them, listening to other people's experiences, and learning from anyone who seemed to handle young kids with patience and calm
+- `ar016-0044` (belief) Then we started a 21-day "No Yelling" challenge.
+Here are the three things that helped us the most
+- `ar016-0045` (success_story) 1. The Whisper Technique
+When the kids start yelling, I lower my voice instead of raising it. It sounds strange, but they often stop to listen to what I'm saying It also helps me stay calm
+- `ar016-0046` (success_story) Identifying My Triggers
+I realized I'm much more likely to yell when I'm hungry, tired, or rushing. So I started taking better care of those things ahead of time, and that small change made a big difference
+- `ar016-0047` (success_story) Connection Before Correction
+Before giving instructions or correcting behavior, I try to connect with the child first. Sometimes I get down to their eye level, and sometimes it's just a quick hug I've noticed their resistance drops significantly when they feel seen and connected
+- `ar016-0048` (success_story) Has it been perfect? Definitely not
+But our home is much calmer now, and I feel far more in control of my reactions than I did before
+- `ar016-0049` (question) Has anyone else tried a specific challenge, habit, or system that helped them stay calm with children? I'd love to hear your experiences and what worked for you so we can all learn from each other
+
+### 1ubcz8w | r/toddlers | 2026-06-21 | child_2_years | parent_unspecified | patterns 3
+
+About: Toddler repeatedly bites parent and attacks baby sibling despite discipline. Wants: Effective discipline and protection for baby brother. Already did: Gentle hands; praise; withdrawing; timeouts.
+
+- `ar025-0043` (pain) I’m a bit at a loss right now of what to do or how to effectively discipline my 2.5yo. He is an extremely funny and sweet little boy, but today he bit me. And when he noticed it was hurting me (my finger was caught in his mouth) he intentionally bit down harder until my husband had to come and remove him. We have a 6 month old and as the 6 month old has started getting more active, my toddler has started acting out. Last night he was kicking his brother and when we gently told him no kicking, he head butted the baby. He used to pull my hair. I know he’s doing it because we’re reacting but it’s hard not to when he bites! We tried doing the ”gentle hands thing”, we give him lots of praise particularly when he’s being nice to baby brother, I remove myself when he’s not being kind.   
+- `ar025-0044` (tried_failed) We’ve now started instituting time out. But it seems to be making it worse. After the bite, he got time out and after he came back and apologized. Then 2 mins later he sat down next to me and bit me so hard again he had to do another time out.
+- `ar025-0045` (fear) What do I do next? I’m worried about him turning this onto his vulnerable brother. He is pretty rough/wild at daycare (jumps and runs a lot) but we’ve never heard he is hitting or being aggressive there.
+
+### 1uc85hr | r/daddit | 2026-06-22 | child_2_years | parent_unspecified | patterns 3
+
+About: Father overwhelmed by almost-three-year-old's tantrums. Wants: Vent and manage stress without losing temper. Already did: Sent teenage son and daughter to park.
+
+- `ar021-0086` (pain) Father of an almost 3year old daughter and Man I just can’t with the temper tantrums. I had to send my teenage son to take her to the park cause I can barely keep my temper in check. It feels like everything is a struggle right now amen I’m freaking tired. And I hate that I had to get my kids out of my house on Father’s Day cause o was about to loose it.
+- `ar021-0087` (pain) Now I am trying to hold back tears of frustration mostly at myself for now managing the stress better. I’m just tired y’all
+- `ar021-0088` (belief) Thanks man I appreciate it. I’ll keep on keeping on, some times i just need to vent and I don’t like dumping too much on my wife when she probably more tired than me in this season of life.
+
+### 1udipbd | r/beyondthebumpUK | 2026-06-23 | baby_4_6_months | parent_unspecified | patterns 3
+
+About: Five-month-old repeatedly scratches thighs despite nail filing. Wants: Ways to stop scratching and prevent skin damage. Already did: Cetroben, Oilatum baths, nail filing.
+
+- `ar050-0022` (pain) My 5mo obsessively scratches her inner thighs whenever they’re accessible. Which is of course an issue with this heat.   
+She does have a slight tendency for eczema which we’re controlling with cetroben and oilatum in the bath so I’m worried about her damaging her skin.   
+No amount of waging war with the nail file is helping!
+
+### 1udqnt9 | r/Parenting | 2026-06-23 | child_3_years | parent_unspecified | patterns 1,3
+
+About: Three-year-old hits parent when boundaries are set and resists separation. Wants: Understand normality and handle escalating hitting and meltdowns. Already did: Set boundaries; moved away; offered hugs; offered alternative play; talked calmly.
+
+- `ar065-0048` (desire) I am looking for some objective opinions because I am feeling completely exhausted and am struggling to know what is normal.
+- `ar065-0049` (pain) My daughter is 3.5 years old. For almost a year she has often responded to frustration by hitting me, but recently it seems to be happening more frequently and the meltdowns seem more intense.
+- `ar065-0050` (trigger_moment) The main pattern is that whenever I set a boundary or tell her "no", she often hits me. Examples include:
+
+\- Asking me to get up in the morning when I am still asleep. If I say no, she may hit me.
+
+\- Being told she cannot have something she wants in a shop.
+
+\- Being asked to get down from somewhere.
+
+\- Being told it is time to wash her hair.
+
+\- Being told she cannot do something unsafe.
+
+\- Being told she has to wait for something.
+- `ar065-0051` (pain) When she becomes upset she may:
+
+\- Hit or kick me.
+
+\- Throw objects.
+
+\- Follow me around the house trying to hit me.
+
+\- Scream repeatedly for me.
+
+\- Alternate between being angry and asking for hugs.
+- `ar065-0052` (tried_failed) She hears "no", hits me, I say "I won't let you hit me" and move away. She then becomes even angrier, may throw things or scream for me, and sometimes asks for a hug. Sometimes I give the hug and she continues kicking while in my arms. Other times I have been so exhausted that I have taken space instead.
+- `ar065-0053` (pain) What I find confusing is that she can become extremely distressed when I leave. She will scream "Mama!" repeatedly, ask for hugs and want me back, yet at the same time she can be very aggressive towards me when frustrated.
+- `ar065-0054` (question) At nursery I do not hear reports of this level of aggression or dysregulation, which makes me wonder whether this is related to age, temperament, frustration tolerance, our relationship dynamic, or something else.
+- `ar065-0055` (question) Has anyone experienced a child who seems to go straight to hitting whenever they are frustrated? How did you handle it, and did it improve with time?
+- `ar065-0056` (tried_failed) I say 'no hitting, I will have to move away as hitting hurts'. Then she gets angry and starts throwing whatever object is close to her
+- `ar065-0057` (tried_failed) She is neurotypical yes. Thanks for the suggestion. I often try to phrase it this way, I often say 'mama will wake up in a bit, you can play next to me or read a book' but she still gets angry and kicks me or hits
+
+### 1uevgcb | r/Mommit | 2026-06-25 | child_3_years | experienced_mother | patterns 3,5,9
+
+About: Mother overwhelmed by preschooler's inattention, aggression and disruptive class behavior. Wants: Advice addressing listening, aggression and attention problems. Already did: Time-outs, calming, hugs, breathing, dance class, removing screen time.
+
+- `ar007-0085` (pain) Hi all, I have a spectacular 3.5 year old daughter. She is sweet, bright, and the center of my world. I’m posting here for advice. I feel like I am letting my child down and need some advice/direction/insight please. My daughter does not listen well. I have to tell her something at least 3x and then when I do go through on punishing her, we send her to the corner for 3 minutes while she screams bloody murder and pretty much tries to either harm me or harm herself in some small ways: e.g. she will try to pinch me or herself, she may hit me or bite her arm. I try my best to remain calm and tell her I’m here for her, gentle hands, give her a hug, tell her to take a deep breath, etc.
+- `ar007-0086` (belief) She admittedly watches a lot of TV because we have no help (my parents are dead, his dad is dead and his mom is 75 years old out of state, we have aunts that could watch her, but all stay too busy and never seem to want to help, funds are tight with tuition and me being a SAHM, so long story short, she can turn the TV on herself after asking for permission, she can get any toys she wants, and any snacks she wants. She often gets new presents.
+- `ar007-0087` (pain) She takes a dance class and in this class she is the only child that runs around, doesn’t wait her turn, will try to take things out of other children’s hands, try to make the other children do the dance moves by moving their hands, tried to take a sticker off another girl’s shirt, doesn’t stay on her mark, constantly runs to me, etc.
+- `ar007-0088` (tried_failed) I tell her everyday “what are we gonna work on?” And she says back, “being a good listener!” And she’s a great kid, I just feel like I’m doing this all wrong. When she hasn’t been a good listener, she loses her TV time or LaunchPad time. I wake up everyday completely overwhelmed and feeling like a huge disappointment. Nothing keeps her attention and nothing seems to work. It’s like she just zones me out and it feels like my kid is the only kid who ever acts up. Help. I’ll take any advice. I just don’t know where to begin to address this issue but I’m embarrassed and tired of feeling like I’m failing her when she deserves the world.
+
+### 1ufpcqw | r/Parenting | 2026-06-25 | child_2_years | parent_unspecified | patterns 3,2
+
+About: Sibling fights overwhelm parent spending summer home without camps. Wants: Practical ways to stop constant sibling bickering. Already did: Parenting books, Instagram advice, changed responses, toys, daily outings.
+
+- `ar058-0042` (pain) Summer is here. Kiddos (2.5 and 6) are constantly bickering! 6 just finished kindergarten. When she was in school all day, they got along great in the afternoons and evenings. Now? Not so much. I’m home with them and camps aren’t in the budget this year .
+- `ar058-0043` (tried_failed) I’ve read the books, I’m working on my own responses, I try to keep them busy etc. but oh my godddddd the pushing and snatching of toys and crying and whining… they’re both really delightful girls individually but together? Send help. I can’t be a three ring circus all day.
+- `ar058-0044` (pain) We have a big house with lots of toys and space, but no yard (city) so unless I bring them to an outing, which we try to do at least once a day, we are in the house together. Like I said, I’ve read the parenting books, I follow all the top parenting Instagram accounts, but I need some magic here.
+
+### 1ugpeq9 | r/Parenting | 2026-06-27 | child_2_years | experienced_mother | patterns 3,9
+
+About: Demanding toddler hits, screams and struggles with unfamiliar settings. Wants: Know when parenting becomes easier before second child arrives. Already did: Started daycare in January; child stopped crying there in June.
+
+- `ar051-0043` (pain) I have a 2 (almost 3) year old. He is a bright kid, but he is very high maintenance. He screams and hits me or my husband when he doesn't get his way, he takes a long time to adjust in unfamiliar environments (we put him in daycare starting January of this year and he only stopped crying in daycare this month), etc. 
+- `ar051-0044` (fear) I recently found out I am pregnant again (baby is due in late February 2027/early March 2027). I am honestly terrified. Not sure if I am ready to take care of a second baby, considering how high maintenance my son is. My best friend is also a mom (she has a daughter the same age as my son), and her daughter is significantly easier than my son (doesn't cry much, allows unfamiliar people to hold her, etc). I find myself praying that my second baby is similar to my best friend's baby because I'm honestly not sure how I'd manage it if the second baby is similar to my son.
+
+### 1uhdy5p | r/Mommit | 2026-06-27 | child_3_years | experienced_mother | patterns 2,3
+
+About: Three-year-old whines demands constant role play and melts down over helping. Wants: Know when demanding three-year-old behaviour becomes easier. Already did: Patient responses; cuddles; helping opportunities; individual time; frequent role play.
+
+- `ar065-0058` (pain) I have a 6yo and 1yo too, and oh my lord, my 3yo is something else. All boys. When my current 6yo was 3, I know there were hard moments here and there but I also loved that age, their finding of imaginary world and play while being able to talk to them like humans. I couldn't wait for the 2nd to reach this stage too, but its like the moment he turned 3, he started whining and whinging about everything, his crying is ALWAYS a wail. A one tone, high pitched wail, which then resembles a broken siren. I'd prefer a devastated belly cry over that banshee sounding thing.
+- `ar065-0059` (pain) And then the MOST INTENSE role play. At all times, every day all day, you give him your little finger for some role play you'll be thrown into his next role play faster than you blink and if you dare to say another sentence to another human its met with a "MUMMY PLAY WITH ME, PLAY WITH ME, PLAY!!!!!!!!!!" Lots of taking things one step too far about 80% of the time. Even with the same playing, for example, I was being silly with him wirh putting a little laundry basket over our heads and 1.5 minutes in he took it off in a throwing manner hitting me right in the face. Not necessarily meant it, but also surely some sort of personal physical awareness was present for him? It really annoyed me.
+- `ar065-0060` (pain) Lots of things similar to that. And constant need to do EVERYTHING. Most mornings I am so sleepy I just want 60 seconds to make coffee in peace but he MUST help otherwise it's a meltdown 5 minutes into our morning which just sets a tone for the rest of the morning.
+- `ar065-0061` (belief) I am as patient as I can be, and developmentally I understand him too its a tough age of growing to understand things and being aware he doesnt have my undivided attention and its probably the root of it, but the constant demand 24/7 is insane.
+- `ar065-0062` (question) So, to those who had the famous "threenagers", when did they turned not so demanding and a tiny bit nicer??
+- `ar065-0063` (desire) P.s. i hope no one's offended for whstever reason, I love my 3yo to bits, I give him all the cuddles, I almost never turn him away from wanting to help even when its not convenient, he gets some mummy time during the day and bedtime he's got me all to himself too, and do my very best to do even a tiny bit of role play every time he asks, (it's not something I am going to change) but just need to see some light at the end of this age...?
+
+### 1uhxswn | r/Parenting | 2026-06-28 | child_3_years | parent_unspecified | patterns 3
+
+About: Three-year-old refuses known self-care tasks and consequences affect older sibling. Wants: Improve cooperation without unfairly punishing older sibling. Already did: Playful cleanup, races, rewards, consequences, dressing child, canceled park visits.
+
+- `ar007-0089` (pain) My eldest (5) is great at following directions and rules and generally getting out the door with her is fairly easy.
+
+My youngest (3) is going through an extremely challenging phase where she refuses to do anything she is asked to do. She can put her own shoes on, and used to do it no problem but for the last 2 months it has become a ridiculous battle. She can get herself dressed but no longer will try and will whine and cry or lie on the floor playing until we reach the point where we HAVE to leave so I have to literally dress her like a doll while she fights me.  She won’t clean up her toys when it’s clean up time, no matter what I try (I’ve tried handing her things and saying “put x  
+Away in y”, Ive tried making it fun,  
+Making it a race, rewards, consequences) she is just SO STUBBORN.
+- `ar007-0090` (tried_failed) I have been trying to implement natural consequences like “if you don’t put your shoes on we won’t go to the park” but when this happens it means her sister, who does what she is asked, also misses out on going to the park, and she is understandably upset. Meanwhile my 3 year old is totally unbothered about not going to the park.
+- `ar007-0091` (question) I am home alone with them from wakeup to bedtime 5-6 days a week. I am at my wits end. How do I get through to 3 without punishing 5 as well?
+
+### 1uict0g | r/daddit | 2026-06-28 | child_3_years | parent_unspecified | patterns 2,3,5
+
+About: Three-year-old’s tantrums worsen after parents remove gifted iPad. Wants: Reassurance and guidance for maintaining iPad removal. Already did: Content limits; removed iPad; timeouts; books, play and park.
+
+- `ar018-0055` (trigger_moment) Hi, so I haven't used reddit in a few years but I really feel like I need some advice from other parents right now. My wife (27F) and I (28M) have a 3 year old daughter. She turned 3 in February. We aren't an anti-screen time family but we never intended to buy our daughter an Ipad. However, last Christmas my wife's mother decided to very kindly buy my 3 year old an ipad. Like I said, my wife and I never intended to buy her an ipad but we also never told our families not to buy her an Ipad so this was a very thoughtful gift from my mother in-law. My daughter was 2, almost 3 when she got the Ipad.
+- `ar018-0056` (belief) We obviously set limits, the ipad didn't become a babysitter of course but I will admit she did use the Ipad daily. We did notice that her behaviour got a lot worse during this time, she was throwing more tantrums and she wasn't listening to us. However, we did kind of assume this was because she was turning 3, we have heard from other parents and family members that a lot of kids tend to become really opinionated and they start to push boundaries more when they turn 3. So this was our assumption as to why she was behaving so badly.
+- `ar018-0057` (belief) Of course the idea of the ipad causing her behaviour crossed our minds but we did dismiss the idea because we monitored the type of content she was watching on the IPad (No YouTube, and she only watched movies and TV shows that my wife and I approved of. And she played games on her Ipad.) We have heard a lot that often times the issues with devices is not devices themselves but instead the issue is the content that kids have access too. Which is why we dismissed the idea of the Ipad being the issue. Because the content on the Ipad was heavily monitored.
+- `ar018-0058` (trigger_moment) Well recently, we went to a family reunion with my wife's side of the family, this is a yearly event where we all stay in a large Airbnb for a few days and hang out with family. We travelled early in the morning so our daughter slept during the car ride. Due to the time we left the house we accidently forgot her Ipad, especially because she was asleep and obviously was not asking for her Ipad. So the thought of grabbing the Ipad didn't cross our minds at 2am. When we got to the Airbnb, our daughter did ask for her Ipad and she did throw a brief tantrum when we told her we didn't have her Ipad. But 5 minutes later she was running around and playing with her cousins.
+- `ar018-0059` (success_story) Those 4 days we were at the family reunion, our daughters behaviour was so much better than usual. She was so happy, she was constantly hugging me and my wife, bedtime was much easier, she didn't throw a tantrum after that first initial tantrum about the Ipad. Overall, it was like she became a completely different kid.
+- `ar018-0060` (trigger_moment) We went home and she got her Ipad, then immediately we noticed her behaviour got worse again. So me and my wife had a real serious discussion and we started to realise that maybe the Ipad is the issue. And we made a decision to take her ipad away, cold turkey.
+- `ar018-0061` (pain) It's been 3 days since we took her Ipad away and....man I'm struggling, she is not reacting well to her Ipad being gone. She has asked for it every day since we took it away and she has been throwing tantrums constantly. We kind of assumed this would be less difficult since she seemed perfectly fine without her Ipad at the family reunion, but she is really getting angry about us taking the Ipad away now.
+- `ar018-0062` (pain) I just feel stuck right now, I really thought taking the Ipad away would be for the best but her behaviour has just gotten worse these past 3 days. Constant tantrums, getting angry about everything, throwing her toys. Obviously we do discipline her and she isn't getting away with bad behaviour but I don't like putting her on time-out every day for her misbehaving. And every part of me just wants to give her the Ipad back, I just need to hear from other parents right now who have been through the same situation. I feel so overwhelmed and I just don't know what to do anymore.
+- `ar018-0063` (regret) Well I don't think I'm a bad parent. Just one who clearly made a bad decision
+- `ar018-0064` (regret) Thank you. You're right, I was looking for an easy solution. I did write this whilst on the verge of tears last night after I put my daughter to bef. But I do think my wife and I are going to sell the ipad.
+- `ar018-0065` (objection) It's not that we can't keep her entertained without the ipad, we have kept her entertained. But my wife has been having light contractions for days now, she's not in labor but she's really uncomfortable so we aren't exactly going on huge family outings and I don't want to be too far away from home because my wife is struggling. So we are having to try keep our 3 year old entertained at home or at the park
+- `ar018-0066` (objection) I do parent my kid. I made a parenting decision that was bad but I do parent my child
+- `ar018-0067` (regret) That's amazing that you would never get him an Ipad. I clearly made a bad parenting choice
+- `ar018-0068` (belief) Okay now that's hard to hear, children asking for their ipads at a park
+- `ar018-0069` (belief) Yeah, taking the ipad away probably is for the best for our family
+- `ar018-0070` (belief) She does have books that she loves, she never ever would spend all day on the Ipad. But I do agree that the Ipad was an issue
+- `ar018-0071` (pain) Right now my wife has been having contractions for the past few days in a row. She's a trooper but I wouldn't drag us out for big family outing whilst my wife is in pain. But even now, last night not long after I made this post my wife started having proper contractions. Inconsistent so we aren't sure if this is labor but she's been unable to sleep due to the pain. So we're awake and seeing what happens.
+- `ar018-0072` (belief) My point is, we aren't venturing out far right now.
+- `ar018-0073` (desire) Her baby brother will be born any day now so we were already planning on getting her some new stuff to feel special because obviously becoming a big sister is a huge change
+- `ar018-0074` (belief) We never intended to buy one but we weren't anti ipads too at the time. So we did think the gift was thoughtful
+- `ar018-0075` (belief) Thank you for your comment. Yeah after reading these comments, we aren't giving the ipad back. I did write this post on the verge of a mental breakdown last night lol, I'm much calmer now
+- `ar018-0076` (objection) Of course we spend time with her
+- `ar018-0077` (pain) We are sitting down with her and playing but my attention is divided right now. My wife has been having contractions for like 2 days, not labor contractions but painful contractions, so I've been trying to help her whilst also trying to make sure I'm keeping my 3 year old entertained
+- `ar018-0078` (belief) We definitely don't punish her for asking for her Ipad! We only use time-out when she is actually misbehaving like throwing toys or being rude to us
+- `ar018-0079` (belief) Me and my wife are very aware of the huge change about to happen now that we are about to have another baby. Hence why we wanted our daughter to stop using the ipad now before her baby brother is born because we are already anticipating that her behaviour might change when she isn't an only child anymore
+- `ar018-0080` (others_said) My MIL meant well, it was a thoughtful gift because my mother in-law was being kind and she wanted our daughter to not feel excluded because my daughters first cousins all have ipads.
+- `ar018-0081` (belief) My wife's is in fact in labor, so our daughter is staying with my wife's parents until the baby is born. My wife's parents know not to give her an ipad whilst she is there
+
+### 1uizu4f | r/Parenting | 2026-06-29 | child_2_years | parent_unspecified | patterns 3
+
+About: Toddler physically resists toothbrushing. Wants: Find effective ways to brush resisting toddler's teeth. Already did: Held hands, forced mouth open, restrained body; missed sessions.
+
+- `ar056-0096` (pain) I'm struggling to brush my toddler's teeth everyday because it is a huge struggle. Every day that toothbrush comes out and the kid instantly covers his mouth with a death grip and forces his mouth shut. He is also an expert wiggle worm so to brush his teeth you have to pry away the hands, force the mouth open, and then keep his body and head from slithering away. If you do manage to get the toothbrush in his mouth he shakes his head, bites the brush, and if all else fails screams and cries like this is literal torture.
+- `ar056-0097` (tried_failed) What on earth do I do at this point? I'm ashamed to admit that we've missed a couple of brushing sessions because I just could not and then when I am able to get the toothbrush in there I don't think it's the most effective brushing session because he wiggles so much.
+- `ar056-0098` (question) Does anyone else have this problem? What do you do?
+- `ar056-0099` (belief) The kid is usually otherwise very well behaved and cooperative, as much as a toddler can be anyway.
+
+### 1ujx85g | r/Parenting | 2026-06-30 | child_3_years | parent_unspecified | patterns 3
+
+About: Three-year-old's destructive, aggressive behaviour exhausts stay-at-home parent. Wants: Vent and receive kindness about overwhelming behaviour. Already did: Supervision, locks, joint cleanup, short learning sessions, timeouts, removing toys, redirecting.
+
+- `ar045-0029` (pain) I stay home with my kids who are 3 and 5, and I am exhausted. I feel like I’m drowning.
+
+My 5 year old is such a sweet kid and is honestly a joy to be around, but my 3 year old makes every single day so hard. It feels like the second I leave the room he knows it’s his chance to do something he shouldn’t. I am with him almost every second because I don’t even like leaving him alone for more than a minute, but sometimes I have to.
+- `ar045-0030` (pain) Yesterday my boys were swimming in their little pool while I ran inside to grab them snacks. I was inside for maybe two minutes before I heard screaming. I came outside and my 3 year old had peed on my 5 year old’s head. That was the third time he’s done that.
+
+We had brand new carpet installed in January, and I am constantly using the carpet cleaner because he pees on everything in his room. The walls, toy baskets, his bed, books, just everything. (I make him clean most of it up, but then I water vacuum)
+- `ar045-0031` (tried_failed) He gets into the fridge even though it has a child lock. This is actually our second lock because he figured out the first one fast. He’ll grab berries just to smash them all over the walls. I clean them up w him right away, but they still stained the paint. He also gets into locked cabinets, grabs crackers or chips, crushes them up in his hands, and throws them all over the floor.
+- `ar045-0032` (pain) Every morning except Sunday we do learning time. My 3yr old usually doesn’t want to do it even though I only work with him 5-10 mins at a time, and he gets lots of breaks. He’ll scream just so his brother can’t learn. He gets so loud that my 5 year old can’t even hear me talking while he’s sitting right next to me.
+- `ar045-0033` (pain) I just went to a funeral, and whenever someone came over to say hi, my 5 year old and I would hug them and say hi back. My 3 year old would turn his head really fast, look angry, and say, “Don’t talk to me.” He does this all the time when people try to talk to him, not just because it was a funeral. Sometimes he’ll even growl at people.
+- `ar045-0034` (tried_failed) Every single time I take him to the park he pulls his pants down and pees. One time he pooped, as in he quickly pulled him pants down and just started going. There was no warning at all. I always take him to the bathroom as soon as we get there, but it doesn’t matter.
+- `ar045-0035` (pain) He gives me bruises almost every day. He bites his brother. He hurts my chickens by grabbing them too hard, and he’ll grab my dog really hard or hit him with his hands or even sticks.
+
+I spent weeks growing seedlings for my garden. He would pull them out of their trays, and after I finally got everything planted outside he stomped on them.
+- `ar045-0036` (belief) I honestly don’t know how we got here. I have parented him the same way I parented my oldest, and my 5 year old is the sweetest, kindest, most loving kid. They have the same parents, the same rules, and the same home, but they are complete opposites.
+- `ar045-0037` (tried_failed) I feel like all I do is put my 3 year old in time out. I have to sit there with him because he won’t stay otherwise. I’ve taken toys away. I’ve tried redirecting him. I feel like I’ve tried everything I know how to do.  
+I love my son so much, but I am mentally and emotionally exhausted. I feel sick to my stomach all the time because I don’t know what I’m doing wrong.
+
+### 1uk888d | r/toddlers | 2026-07-01 | child_2_years | parent_unspecified | patterns 3
+
+About: Two-year-old hits baby brother and deliberately defies limits. Wants: Find a book or parenting approach for toddler behaviour. Already did: Gentle hands, removal from playroom, time-out on fireplace.
+
+- `ar078-0036` (pain) My toddler is 2 and I have a 9 month old boy. She recently has started really testing me. Tantrums about everything. Will not share toys with her brother. Will hit her brother and rip toys from his hand. I tell her to not rip pages in books and she will look me dead in my eye and rip another page. I’ve tried gentle hands and removing her from the playroom when she hits , etc. but I’m losing it!!!! I say don’t pour water out of the tub and she will do it again. I stupidly made her “time out” the fireplace- not thinking that it would backfire. She then proceeded to stand on the fireplace bench and now loves it. 😫
+- `ar078-0037` (desire) Is there a book or something everyone reads?? A philosophy people follow??
+
+### 1ukqjrw | r/toddlers | 2026-07-01 | child_3_years | parent_unspecified | patterns 3,5,10
+
+About: Parents disagree about punishment and follow through with toddlers. Wants: Discipline advice, books, and agreement with wife. Already did: Chair timeouts; observed wife threaten then withdraw punishments.
+
+- `ar044-0056` (pain) My wife and I have 2 young toddlers that are 3 and 2 and we’ve started having arguments about the different styles for disciplining our kids which I’d like some insight or advice on. 
+
+The core issue is that I believe that when our kids are misbehaving we should set up easy to carry out punishments and stick to them. My wife has a different strategy where she will threaten something that can make her time with the kids more difficult and then she does not carry it out.
+- `ar044-0057` (tried_failed) For example, if our LOs is not sitting down to put her clothes on after a bath before we read bedtime books my wife will tell them that if they don’t listen they are going to straight to bed. They obviously will refuse to listen so she’ll up the ante and say “That’s it your going to bed” and the kids will start to whine and recant and then listen and then she backs down. 
+
+My approach is to pick a punishment that can be carried out easily and to actually do it.  I will tell the kids that if they don’t listen they will have to sit in a chair on the side and when they don’t listen I carry out the punishment.
+- `ar044-0058` (belief) I feel like my approach leads to the kids behaving a smidge better and it sets a stronger foundation for the future. I worry that my wife is making her days more difficult by often not carrying out punishments because our LO will often back down as the ante gets upped.
+
+We really only have this issue with the 3 year old because the 2 year old isn’t able to grasp the idea of a punishment yet.
+- `ar044-0059` (pain) My issue is that since I’m not spending most of the days with our LO’s when I mention my wife’s approach to punishment might be counterproductive she feels that I don’t have a say in the matter because I’m not in the trenches and her strategy works. I’ve gotten to the point where I won’t say anything as I watch the punishment and recanting cycle play out but I feel like it is headed to even more stress for everyone as the kids get older. I also don’t even know if I have a leg to stand on because I’m not the one with them all day.
+- `ar044-0060` (desire) I’m asking for any advice you can provide for me that can help me frame this issue in a more positive light. Are there any recommended sources that talk about disciplining a child that I can look up or books to read? Do you have any strategies that work? Am I overstepping and completely missing the target about the different styles of disciplining?
+
+I’d like to be able to see eye to eye with my wife and have some relief that we’re not fanning the flames of toddler disobedience with our different punishment approaches.
+
+### 1ulmiym | r/Parenting | 2026-07-02 | child_3_years | parent_unspecified | patterns 3
+
+About: Three-year-old repeatedly ignores limits; parent questions allowing natural consequences. Wants: Know whether child is old enough to make risky choices and learn consequences. Already did: Repeatedly refused bed jumping, then allowed child to choose after warning.
+
+- `ar012-0091` (pain) My son (3.5) is in a major not listening phase. We can tell him something and then a minute later he's doing exactly what we just said not to do. Or he will ask something, get an answer, and if it's not the answer he wanted he will ask again, and again, and again. I also have a baby, so I can't always be right on top of him.
+- `ar012-0092` (trigger_moment) For example, yesterday he was on my bed while I was getting ready to leave the house. Baby is on the floor. He asks if he can jump off my bed. Husband says "no, it's too high and baby is on the floor."
+- `ar012-0093` (belief) Husband takes baby and goes into another room. My son asks me again if he can jump off the bed. I say no, it's too far down (we have a very tall bed). He asks twice more, and I'm like you know what, fine. Do what you're going to do. I've told you it's high up and you may hurt yourself. Now you make your own choice.
+- `ar012-0094` (belief) Realistically he probably won't hurt himseld jumping off the bed. It's just out of an abundance of caution that we said no.
+- `ar012-0095` (question) Is he too young to make his own decisions like this? He'll be 4 in October.
+
+### 1umdwwf | r/Parenting | 2026-07-03 | child_2_years | parent_unspecified | patterns 3
+
+About: Two-year-old refuses cleanup despite many consequences and games. Wants: Get toddler to obey and clean up. Already did: Cleanup games, timers, consequences, toy removal, timeouts, guided hand movements.
+
+- `ar058-0049` (pain) Literally don’t understand. My oldest is strong willed but wow nothing beats this kid. My sweet kid has turned chaotic.
+- `ar058-0050` (tried_failed) I have made it into play “who can clean up the fastest”, I’ve done timers, I’ve done consequences, I’ve taken things away, time out, forcing to clean up by moving his hands (he laughs). You name it, I’ve done it. He does not care at all. And if he finally does show some sort of remorse, it doesn’t stick for long at all. Trying to get him to clean up is such a headache.
+
+### 1umxg8s | r/toddlers | 2026-07-04 | child_3_years | parent_unspecified | patterns 3
+
+About: Three-and-half-year-old hits father and caregivers and finds it funny. Wants: Advice on stopping hitting and staying calm. Already did: Trying to keep cool.
+
+- `ar053-0084` (pain) my 3.5 year old son consistently hits when angry and only does it to people like me his dad or caretakers but hardly ever his mop, he will literally run up to me and hit me and then run off and he thinks it's funny. I am beyond pissed off about this and I am trying to keep my cool but he makes me really lose it when he does this. I didn't his this issue with my other two kids so I have no idea what to do. any advice would be greatly appreciated I am at the point where I do not want to be around him at all.
+
+### 1upajf6 | r/toddlers | 2026-07-06 | child_2_years | parent_unspecified | patterns 3
+
+About: Parent regrets abrupt exit after toddler repeatedly bites. Wants: Vent about biting and embarrassment before other parents. Already did: Verbal warnings, left gathering, cooled down, reconciled.
+
+- `ar069-0099` (trigger_moment) My 2.9 daughter bit me 3x in front of parents and other kids. I first gave her a verbal warning and explaining why it's not ok. 2nd time was a warning that we'd go home if she bit me again. 3rd was an attempt to bite, but I had enough. 
+- `ar069-0100` (pain) I didn't yell, but I left w/out saying goodbye to the parents or kids we were hanging out with because I was done and angry. 
+- `ar069-0101` (success_story) After getting home to treat it, (she almost broke skin) and once I cooled off emotionally, she said sorry and we're good again. Hugs, kisses, all of it. I'm glad I never yelled, but my body language said it all. 
+- `ar069-0102` (regret) Looking back, I didn't handle that well. I should have said goodbye and explained that we were leaving or at least taken a breath. Idk. I feel bad that I ditched the group because of my emotions. Now, embarrassed to see them again.
+- `ar069-0103` (regret) Stupid me.
+
+### 1upzoe6 | r/toddlers | 2026-07-07 | child_2_years | parent_unspecified | patterns 3
+
+About: Two-and-a-half-year-old yells, runs away, resists holding and slaps parent. Wants: Solidarity about difficult toddler behavior. Already did: Ignored behavior and waited for child to calm down; consulted pediatrician.
+
+- `ar054-0045` (pain) How the tables have turned and we sweet little girl (who has always been high energy and strong willed) is turning into a gremlin! Her favorite past time is yelling, running away, and throwing herself on the floor any time I tell her anything. She also loves to dislocate her arms and try to wiggle out of my arms any time I try to pick her up, to tell me “stop it” or “go away”, and to randomly come up and slap me for no reason.
+- `ar054-0046` (tried_failed) I’m trying to just ignore the behavior and wait for her to calm down and come to me when she is more calm. But man, the girl loves to ignore me and try to show me that she is the boss.
+- `ar054-0047` (others_said) Everything that I see and that my pediatrician has told me says this is just the normal two year old life. So I guess this is more so for solidarity purposes incase anyone else if dealing with a spicy chicken nugget of a 2/3 year old!
+- `ar054-0048` (belief) I will also say that I have never felt more confident in my one and done decision 😂
+
+### 1uslsu6 | r/daddit | 2026-07-10 | child_3_years | parent_unspecified | patterns 5,3,2
+
+About: Restricting weekday television reduces demanding toddler tantrums. Wants: Share experience reducing television. Already did: Removed weekday TV; Friday movies; alternative activities.
+
+- `ar035-0098` (belief) As many Dads on here have mentioned… TV can change your kid. We’ve all normalized watching TV and if you’re not careful it can spiral. I’m not saying this will fix everything, but so far this has been our experience.
+- `ar035-0099` (belief) We started with Bluey, Ms Rachel, Daniel Tiger at 2 y/o. 20-30 minutes/day after daycare to wind down became a habit before doing anything else. Then came the Spidey, Paw Patrol, Masters of the Universe(most recent), other more stimulating shows. On top of that, movie nights and weekend TV.
+- `ar035-0100` (pain) Then we had kid #2(2mo). We’ve been exhausted, TV time started getting longer with multiple movies on the weekend. And the tantrums started getting worse. The second he wakes up, he started asking for TV! TV! TV! And screaming about it. In the middle of the store. TV! TVVVV!
+- `ar035-0101` (success_story) We broke. We’ve decided to do Friday night movie nights. He’s really looking forward to tonight. After school we divert his TV request to a list of other fun things we can do together. We think the tantrums are already getting better… but we’ll see. TV just ain’t worth the struggle man.
+
+### 1usrvke | r/Parenting | 2026-07-10 | child_2_years | parent_unspecified | patterns 3,9
+
+About: Toddler's biting returns despite books, role-play and close supervision. Wants: Vent frustration over recurrent biting despite consistent responses. Already did: Read Teeth Are Not for Biting; redirected attention, role-played help, supervised closely.
+
+- `ar062-0062` (tried_failed) Just need to rant for a quick second. My son is about to turn 3 in a month and after a week vacation our family took his biting has come back with a vengeance. When he turned 1 till about 2.5 he went through a bad bitting phase. We read the teeth are not for biting book every night, we’ve done the be calm give attention to the other kid and then address the no mouth or biting and we thought after 2.5 we were coming out of it.
+- `ar062-0063` (pain) But within the last week my son has bit either his brother or another kid when we are out for a playdate or in public everyday. So frustrating after we thought he had aged out of it. Im sure it’s connected to him being out of sync after the vacation and him turning 3 soon. But man it’s just frustrating as a parent to do all the reading, role playing to ask for help and follow him around 24/7 when around other kids and have the same result everytime. To think you’re doing all you can as a parent with no change.
+- `ar062-0064` (belief) I known eventually it will stop and we’ll phase out to a different problematic stage but it’s tough right now.
+
+### 1utgcsi | r/Mommit | 2026-07-11 | child_3_years | experienced_mother | patterns 3
+
+About: Almost-four-year-old repeatedly teases mother about postpartum tummy. Wants: Understand daughter's repeated body comments. Already did: Explained bodies and pregnancy; asked why question seemed funny.
+
+- `ar073-0074` (trigger_moment) I had my second baby just over two months ago. My almost four-year old continues to ask me why I still have a big tummy. When she first started asking this, I told her about how amazing my tummy was for creating her sibling and how everyone has different bodies, etc.
+- `ar073-0075` (trigger_moment) It’s now become an every few day occurrence - what’s interesting is that she gets a funny smile when she asks. Last night this happened again and so I asked her, why is that a funny question? She said it wasn’t and then started giggling..
+- `ar073-0076` (question) I’m genuinely confused and (okay, being human here) a little hurt that she continues to ask me. I’m close to my pre-pregnancy weight and she didn’t make any comments then. Any thoughts on why she continues to ask? Please be kind - still figuring out how to be a mom to two and field my daughter’s new question!
+
+### 1uusczz | r/toddlers | 2026-07-12 | child_2_years | parent_unspecified | patterns 1,3
+
+About: Frequent intense toddler tantrums involve hitting and hair pulling. Wants: Experiences and ways to stop hitting and hair pulling. Already did: Other mothers helped during playdate; reads bedtime books.
+
+- `ar006-0136` (pain) My son is almost 2.5 and has always been a “big feelings” kid, sweet and easygoing half the time, but when he’s upset it’s like he sees red. Screaming, crying, hitting us hard across the face, pulling hair. It’s not just the occasional toddler meltdown, it’s daily now, sometimes twice a day, and once he’s dysregulated it takes him a lot longer than I’d expect to calm back down.
+- `ar006-0137` (pain) He was sick with a fever about 2 weeks ago, which definitely made it worse, but it’s been happening on and off even outside of that. About a month and a half ago, he had a meltdown at a playdate and two moms had to help me stop him from constantly grab my hair.
+- `ar006-0138` (question) I’m planning to bring this up with his pediatrician, but wanted to hear from other parents here too. Did your toddler go through a phase like this that leveled out on its own? Anything that actually helped with the hitting or hair pulling in the moment? Would love to hear how it went for you.
+- `ar006-0139` (pain) Appreciate any experiences or advice. I love the little monster so much but stage is a lot some days.
+- `ar006-0140` (pain) Thank you. I’m just overwhelmed. He pulled my hair again today and bedtime a bit ago was a lot. He cried for 10 mins after we left the room because he wanted to read more books (we read 4 before bed).
+
+### 1uv67hf | r/Parenting | 2026-07-13 | child_3_years | parent_unspecified | patterns 1,3
+
+About: Three-and-a-half-year-old relies on blanket to recover from meltdowns. Wants: Ways to build coping skills beyond blanket and thumb-sucking. Already did: Talking child down and using blanket; left barbecue after meltdown.
+
+- `ar017-0056` (pain) Hey hey, my daughter is 3.5 and is genuinely sweet, loving, and adventurous. But there are moments when she completely melts down over not getting her way. About 50% of the time she can be talked off the ledge. The other 50%, she loses it entirely.
+- `ar017-0057` (question) The only thing that reliably works is her blankie. It regulates her and she calms down. Is she too old for a blankie during the day time?  I'd love for it not to be the only tool she has to regulate.
+- `ar017-0058` (desire) Question for the class: how did you help your kid build other coping skills alongside the comfort object? When do we take the comfort item away? None of the other 3+ yr olds we know bring a blankie anywhere or suck their thumb (like my daughter)… comparison is dangerous but also, I can help but look around.
+- `ar017-0059` (others_said) My husband thinks it's a discipline issue. I think it's a regulation issue. Curious whether people have thoughts on that too.
+- `ar017-0060` (trigger_moment) We had to leave a friend's BBQ this weekend because she lost it and couldn't recover. It's so frustrating, because she's such a fun kid and she would have had the best time.
+
+### 1uw76km | r/Parenting | 2026-07-14 | child_3_years | parent_unspecified | patterns 1,3,5,9,10
+
+About: Three-year-old’s angry outbursts linked to father’s yelling and constant television. Wants: Calm son’s frustration and prevent lasting angry behaviour. Already did: Hands-on play and minimal screens; arranging daycare two days weekly.
+
+- `ar064-0031` (pain) My son has been getting very angry and frustrated lately and has been screaming a lot over the smallest things.
+- `ar064-0032` (belief) I work full time, so my children are watched by my mother, my husband, and then myself on my two off days. Usually this behavior gets worse after my husband watches them. My mom and me are very hands on and play with them all day with minimal screen time, whereas my husband has them watching tv all day from when I leave until I get home in the evening (roughly 8 hours) and doesn’t really play with them, just plays games on his phone. He does also frequently yell at my son and gets mad over most things, which is where I am assuming my son is getting this behavior from.
+- `ar064-0033` (success_story) It’s very frustrating because my son is extremely sweet 95% of the time. He helps me with everything, he is very nice with other kids and always encourages them, picks stuff up for them if they drop something, loves talking and playing with kids, gives hugs and kisses, etc.
+- `ar064-0034` (desire) Unfortunately I can’t fix my husband’s behavior, so I am going to put them in daycare for 2 days and he will only have them for 1 day. I know the lady who runs this daycare so I am actually very excited for them to go, and feel as though they should have gone sooner.
+- `ar064-0035` (fear) My question is, how do I rectify my son’s behavior at home before it’s too late? He is typically a very happy boy, it’s just in his moments of frustration I don’t understand how to calm him down so he can see that everything is okay. And maybe this is just normal for 3 year olds?? I just don’t want him to grow up angry! Thank you guys!
+- `ar064-0036` (question) In your opinion, what would be a good option going forward? If he is unwilling to change, I can’t leave as I’m sure he would get some custody and then I wouldn’t be able to watch them while I’m at work at all. At least now I can see what is happening.
+- `ar064-0037` (desire) Thank you, I appreciate your input. I hope so, maybe not seeing them as often will make him realize a change needs to happen. I made a comment this morning that our oldest only has 1 year left until he starts school and he got quiet and sort of melancholy.
+
+### 1uwjeml | r/toddlers | 2026-07-14 | child_2_years | parent_unspecified | patterns 2,3
+
+About: Two-year-old melts down at outings, transitions and everyday requests. Wants: Know when meltdowns improve and how to cope. Already did: Gentle parenting, water park and public family event.
+
+- `ar022-0074` (pain) I am trying so hard with gentle parenting, but I feel like I am getting completely overwhelmed and stressed. It seems like everything is turning into a massive meltdown lately with my 25 month old. For some examples I took her to the water park(meltdown), took her to a public family event for the 4th of July(meltdown), when it’s time to go inside the house after being out( meltdown), trying to get her to go to bed (meltdown) even when she just doesn't want to hold something( meltdown)
+- `ar022-0075` (pain) I cry and I'm extremely frustrated just from being overwhelmed. I want to take her to fun events and do nice things with her, but I guess she doesn't really like them because she isn't used to big crowds of people yet? But really at this point, the crying and fussing feels like it is about absolutely everything.  I feel like I'm breaking inside. Has anyone else been through this exact phase? When does it get easier? Any advice on how to survive this without losing my mind is appreciated. 😢
+
+### 1ux6lj9 | r/Mommit | 2026-07-15 | child_2_years | parent_unspecified | patterns 3
+
+About: Two-year-old fears toothbrush and parent worries about dentist distress. Wants: Decide whether to delay dentist until child less afraid. Already did: Got electric toothbrush like brother’s; delayed first appointment.
+
+- `ar067-0092` (question) My 2 year old and 3 year old have their first dentist appointment on the 22nd. I’ve been waiting until my 2 year old was ready so we can take them at the same time.
+- `ar067-0093` (tried_failed) But my 2 year old still hates getting her teeth brushed, we got her an electric toothbrush like her brother’s thinking it would help but she’s terrified of it.
+- `ar067-0094` (fear) I don’t want to keep putting it off but I also don’t want to go and traumatize her, plus putting me and the dentist in an awful situation with her screaming. Should I wait until she’s less afraid?
+
+### 1uxp9ec | r/NewParents | 2026-07-16 | child_3_years | experienced_mother | patterns 3,6,10
+
+About: Three-year-old prefers father and directs rude behaviour toward mother. Wants: Understand son disrespect and regain confidence in parenting. Already did: Removed things; timeouts; spanking; husband reprimands; bedtime closeness.
+
+- `ar065-0080` (pain) I have two wonderful boys, who I absolutely adore. My oldest is 3 and I love him so so much, but in the nicest way possible he is kind of an asshole to me. He is a huge daddy’s boy, which is very cute but it’s like I’m chopped liver to him.
+- `ar065-0081` (tried_failed) We have had to take things away, gave him timeout in his room and we’ve even spanked him before because of the way he talks to me. He will tell me to “go away”, “go to your room”, he’s even once told me to “go to the kitchen”. Which is wild. My husband reprimands him and tells him he cannot speak to me this way, and that makes him lose his mind and hysterically cries.
+- `ar065-0082` (belief) It’s not like he doesn’t love me, he is sweet most of the time. He cuddles with me, sits in my lap, kisses me. When my husband is gone for months at a time he’s my bestie. We even lay in his bed together at night till he’s ready to fall asleep. It’s just that his bad days are almost always directed towards me.
+- `ar065-0083` (others_said) My parents make me feel awful and tell me they’d never let that slide, or if he was their child they’d spank the shit out of him. Which is not something I want to do, but now I’m second guessing my parenting.
+- `ar065-0084` (question) I feel so awful, because he’s a very smart and loving kid, he’s just got such a bad attitude. He respects my parents and my husband very much, and I’m just wondering why he doesn’t seem to respect my authority or parenting. I had him when I was 20, now I’m 24 and I’m wondering if maybe I just look young to him? But my husband isn’t even that older than me so I don’t know. I am just struggling. :( I love my son very much.
+
+### 1uyg1sx | r/daddit | 2026-07-16 | child_2_years | parent_unspecified | patterns 3
+
+About: Toddler becomes aggressive toward parents after new sibling arrives. Wants: Help responding to aggression and screaming after sibling’s birth. Already did: Tried discipline.
+
+- `ar052-0050` (pain) As the title says, I need help. My my 2 1/2 year-old girl has been pretty awesome. She’s been nice saying please. She’s had her tantrums here and there, but never that bad but our son was born about a month ago and ever since then she has gotten more aggressive towards us (not him). I know about the terrible twos and I know that them losing attention from their parents also gives into it. I just don’t know what to do. When I try to discipline her, she just screams at the top of her lungs and screams no for everything. It just feels like I’m in a losing battle and I’ve been becoming more discouraged and angry.
+
+### 1uz889p | r/Mommit | 2026-07-17 | child_2_years | parent_unspecified | patterns 3,6
+
+About: Nearly three-year-old screams hits and kicks; only father calms her. Wants: Stop hitting and know when difficult behaviour will end. Already did: Removed toys and privileges; room separation; quiet and loud voices; father intervenes.
+
+- `ar065-0085` (pain) My daughter is about to turn 3 and the past few months have been brutal. When she doesn’t get her way she has been resorting to screaming at the top of her lungs and hitting and kicking. She hasn’t hit since she was 1 years old, that was a short phrase that we got out of. I don’t know what has gotten into her. I’m a SAHM so it’s not like she’s seeing this behavior at daycare and mimicking. I have been crying every single day because I am just at my wits end. I feel like a complete failure.
+- `ar065-0086` (tried_failed) Nothing I say or do calms her down. I take away her toys, I leave her in her room, I repeat “I won’t let you hit me” , I get down to her level, I speak in a quiet voice, I’ve spoken in a loud voice, she gets privileges taken away, etc. NOTHING works or gets through to her.
+- `ar065-0087` (pain) It’s been absolutely miserable. She blatantly doesn’t respect me. The only thing that calms her down is me bringing her dad in. Then he talks to her and after awhile she will come out and apologize to me. I hate this so much. I just want the hitting to stop, it’s awful.
+- `ar065-0088` (failure_story) If I yell at her, she just yells louder and hits more 😭
+
+### 1uzi5bz | r/toddlers | 2026-07-18 | child_2_years | parent_unspecified | patterns 3,4,8
+
+About: Supporting articulate toddler’s abilities while managing meltdowns. Wants: Advice and books on supporting intelligent toddler and handling meltdowns. Already did: nothing stated.
+
+- `ar044-0061` (question) My LO is 2.5 years old and is very intelligent for her age. She is talking in complete sentences, putting her shoes on herself, identifying dinosaurs, just to name a few things. I am not bragging but genuinely looking for help on how I can support her. Like any toddler she still has her meltdowns but she is so hard to reason with because she seems to understand so much already (which is a good thing but exhausting) I’m not sure if there’s certain ways to handle this? any book recommendations or advice because I’m struggling 🥲
+
+### 1v1anys | r/toddlers | 2026-07-20 | child_2_years | parent_unspecified | patterns 2,3
+
+About: Toddler's museum tantrum leaves parent ashamed and afraid of outings. Wants: Comfort and reassurance tantrums improve. Already did: Snacks, distraction, carrying child outside, waiting for calm; sought reassurance.
+
+- `ar013-0099` (trigger_moment) My toddler (2,5 years) just had the most horrible tantrum ever and I still feel so bad about it. We are on holiday in a different country and went to a museum we really wanted to visit. We usually visit museums regularly in our own country but they usually have some things children can do/play with which our daughter has loved so there has never been an issue with this before. This museum didn’t have anything like that, but we thought it would be fine if we went through it a bit faster and tried to keep her occupied with snacks and certain things she could look at/kind of play with.
+- `ar013-0100` (pain) Anyway everything went fine at first but after a while I felt it was time to try to get out since she was losing her patience. I never made it out however before she started to get irritated at something in the stroller and wanted to fix it herself, but didn’t really know what to do which made her more irritated and didn’t let me help her because then she would get even more irritated (usual toddler reactions). Anyway I couldn’t move on because at this point she had gotten out and laid on the ground and wouldn’t move. She started to get loud and I didn’t think it was appropriate at the quiet museum and felt like I couldnt do anything at this point to calm her down so I quickly took her up and tried to get out as fast as possible. This escalated her reaction to screaming/crying very loudly all of the way until we were out of the museum and at a place free from too many people where I felt she could cry and calm down in her own time.
+- `ar013-0101` (fear) We passed a lot of people in the museum everyone was looking at us and it just made me feel so bad. I didnt look anyone in the eyes on the way out but just know what they thought or said about it.. maybe they were blaming us for taking her to this museum ”what did they think would happen” but it’s never gotten this bad so I had no idea it would..  I still feel bad and don’t really want to go out and do things here anymore, afraid that people from the museum will recognise us. And it’s also scared me from going to places like this with her again. It was a very horrible experience.
+- `ar013-0102` (desire) I don’t quite know what the purpose of this post is more than sharing this experience, maybe looking for some comforting words from how people view such situations or someone who’s been through the same and can say it gets better..
+- `ar013-0103` (success_story) I want to thank everyone so much for taking the time to respond to this post. Thank you so so very much for your calming and reassuring words! You’ve helped me feel so much better about the situation. As someone wrote I agree that I’ll have to accept that tantrums will happen and that I should work on just brushing it off and not caring about what people think. Your words will help me with working on this.
+- `ar013-0104` (belief) I’ll definitively try to forget this and enjoy the rest of our trip :) but i think I’ll hold on museums without play areas and other activities/places that are supposed to be quiet and not very toddler friendly (if possible) until she’s older. I don’t think I’ll dare to bring her to that in a while
+
+### 1v32s25 | r/toddlers | 2026-07-22 | child_2_years | parent_unspecified | patterns 3,11
+
+About: Verbal two-year-old kicks during changes and punches during tantrums. Wants: Suggestions for hitting and when it ends. Already did: Removes child; talks; gentle hands; introducing potty.
+
+- `ar043-0081` (belief) My son turned 2 , 2 months ago. He's very verbal and is good at communicating what he wants and what is wrong.
+- `ar043-0082` (pain) But when he has his tantrums he can kick and punch. Hes a big and strong ass kid so it hurts like a mother fucker.
+- `ar043-0083` (tried_failed) He kicks when he gets diaper changes, I'm trying to introduce him to the potty to see if potty training helps?
+- `ar043-0084` (trigger_moment) And the punching is when hes so overwhelmed and angry. It'll be in public, usually when I govagainst something he wants to do ( like at the library when he wanted to open the librarian's door)
+- `ar043-0085` (tried_failed) Ill remove him from the situation and talk to him /use gentle hands. But its getting hard to deal with.
+- `ar043-0086` (question) When does it end  😭the terrible twos are rough, especially when your son is a strong . Any suggestions are welcomed
+
+### 1v4f69l | r/Parenting | 2026-07-23 | child_3_years | experienced_mother | patterns 2,3
+
+About: Nearly-four-year-old hurts older sibling and demands constant parental attention. Wants: Handle aggression while strengthening bond and preventing bullying at school. Already did: Gives individual attention; explains kindness; removes and physically holds child.
+
+- `ar082-0012` (pain) I don't know what to do anymore with my 3 (nearly 4) year old. He can be kind, and calm, and curious. He loves to read and run and jump and play. But he can also be very mean and aggressive, and seems to get joy out of making his older brother yell.
+- `ar082-0013` (trigger_moment) I spent some time with just 4yo for a bit until 6yo woke up, at which point 4yo immediately started to act out a bit. He requested some "alone time with mummy" and when I told him we could after I helped 6yo get breakfast, 4yo got quite rough with 6yo (pushing hard while laughing when 6yo yelled...) so I told him I didn't want to spend time with someone who was being unkind, he insisted he will ONLY be kind after I spend alone time with him, and he ended up throwing a tantrum that resulted in being carried to his room because he was kicking everything he could see... Eventually he calmed and we read a book and played for a bit, then I went to the washroom (heaven forbid) and could hear 6yo shouting for 4yo to "stop! Stop!", came out to find 4yo was dragging 6yo around by his shirt collar and grinning.
+- `ar082-0014` (belief) I am trying to make it clear to 4yo that I will always love him no matter what but I won't want to spend a lot of time with him if he's acting mean, because people like to be around others who treat everyone nicely...
+- `ar082-0015` (tried_failed) I try to remove him from situations where he's getting aggressive, but unless I literally hold his bedroom door shut, he just comes right back out, so I end up holding him in my arms away from everyone which is what he wanted all along... I am trying to give him lots of time and attention outside of these behaviors but it seems like it's never enough, he's still trying to get more.
+- `ar082-0016` (desire) I just know how to parent this in a way that strengthens our relationship and keeps him from being the bully when he starts school in September.
+
+### 1v7fnl4 | r/toddlers | 2026-07-26 | child_2_years | parent_unspecified | patterns 3
+
+About: Toddler has prolonged tantrums after home naps. Wants: Ideas for reducing angry post-nap tantrums. Already did: Tried gentle wakeups; television ends tantrums.
+
+- `ar063-0067` (question) Have a 2.5 year old who always wakes up pissed from naps at home. At daycare no issues but at home no matter what the length of time she wakes up pissed. We do gentle wake ups still pissed. Basically has a tantrum for 20 minutes or so unless we watch tv. Any thoughts?
+
+### 1v7l8p7 | r/Parenting | 2026-07-27 | child_3_years | parent_unspecified | patterns 3
+
+About: Three-year-old acts out, leaves bed and disturbs sister. Wants: Help handling restless, disruptive behavior and bedtime conflict. Already did: Floor blanket bed; tried bed and sticker charts.
+
+- `ar004-0066` (pain) My 3 year old won't stay still or quiet. She's been sleeping on the floor on a blanket pallet instead of her bed. Usually it's been fine but lately she's been doing everything she can to act out day and night. She's rolling around on the floor, waving her arms around or kicking the floor. She wants me to stay in the room but my nerves are so frayed and I'm so overstimulated I can't stay in there for my own sanity. If I leave, she messes with her 4 year old sister she shares a room with or jumps  on her bed. I feel like this is a lose lose situation. She doesn't care about sticker charts or anything like that. If I put her in her bed instead of the floor she just gets out of her bed.
+
+### 1v7nr7g | r/toddlers | 2026-07-27 | child_2_years | experienced_mother | patterns 3,12
+
+About: Toddler aggression targets mother despite punishment and behavioral therapy. Wants: Stop biting hitting pinching and kicking. Already did: Punishment; redirection; sensory stimulation; spanking; timeouts; in-home behavioral therapy.
+
+- `ar047-0042` (tried_failed) Let me start by saying I’ve tried several forms of punishment; and I’ve also tried redirection/sensory stimulation. Nothing is working. My son keeps biting, hitting, pinching, and kicking me (I’m the mom). He rarely does this to his dad or grandparents. I have no idea why this is happening. Sometimes it’s when he doesn’t wanna do something but it’s also at random times too. He thinks it’s funny. I know people say don’t react but it hurts!! And sometimes he takes me by surprise!! I don’t want to “bite him back” or spank him preferably (I’ve tried that-didnt work and just made me feel like a pos parent). Have y’all dealt with a violent/mean toddler? What do I do here? I obviously cannot allow this to continue. He’s also in behavioral therapy but their ideas have also not worked.
+- `ar047-0043` (tried_failed) He’s already in in-home behavioral therapy because he was behind in talking. The therapist’s suggestions for his behavior haven’t worked unfortunately :(
+- `ar047-0044` (tried_failed) Maybe I gotta keep trying time out. It does stop the behavior in that moment but idk if he learns anything from it, because he just hits me again later that day. Also a lot of times this happens in public where time out is not an option
+
+### 1v882oz | r/daddit | 2026-07-27 | child_3_years | parent_unspecified | patterns 3
+
+About: Parent suspects three-year-old imitates friend’s illness claims. Wants: Ways to handle possibly feigned sickness without overlooking illness. Already did: Provided attention; fetched warm water bottle.
+
+- `ar067-0101` (question) Hi all, I'm now encountering a problem many of you have faced many times - kids faking sickness. I would appreciate any life philosophy or tricks you might have surrounding this whole issue.
+- `ar067-0102` (fear) I'll admit that as a child I sometimes faked illness to avoid school. I was bored and particularly hated geography class, so I tried to avoid it as much as possible. So I get why and how kids do it. My current problem is that my daughter is 3.5 years old, and also on summer vacation. I'm pretty sure she's faking it for attention, but not 100% sure and am a little worried it's some real issue that strikes intermittently.
+- `ar067-0103` (belief) It started with claims her stomach ached, but said without any sign of pain and often with the addition of "like my best friend" who apparently similarly claimed stomach ache at some point in preschool, possibly fake as well. My daughter really admires her best friend who is older, very confident, and shows her a lot of attention.
+- `ar067-0104` (pain) She already shows similar tendency with pretending to be hurt for bandaids, so I know she's definitely not above pretending. I don't really know what she's getting of that, because she gets plenty of attention, and doesn't really get more when she's "sick".
+- `ar067-0105` (trigger_moment) Yesterday she claimed stomach ache at dinner, possibly as an excuse to stop eating (she can always just stop, doesn't really need an excuse). Then she seemed to forget about it, but started crying about it (seemed real) at bedtime, and I went to get her a warm watter bottle to find her asleep by the time I came back. The whole thing was just bewildering.
+
+### 1v941h8 | r/Parenting | 2026-07-28 | child_3_years | experienced_mother | patterns 3,4
+
+About: Three-year-old pinches baby sibling; mother seeks parenting books. Wants: Book recommendations for sibling jealousy. Already did: Initially prioritized older daughter's needs.
+
+- `ar073-0093` (question) I am a recent second-time mum. I have a 3 year old girl and a 5 month old boy. My daughter is mostly secure but has started showing some odd behaviour towards the little one. Sometimes she pulls his legs or pinches him or asks to be held instead of the baby. Early on we did quite well by always putting her needs first, but now I am not so sure how to proceed. Seasoned parents, are there any book recommendations to handle this?
+
+### 1v9jmyu | r/toddlers | 2026-07-29 | child_3_years | experienced_mother | patterns 3,6,12
+
+About: Speech-delayed three-year-old's meltdowns intensify after sibling's birth. Wants: Advice, solidarity, and ways to support child. Already did: Speech therapy since 18 months; considering child psychologists.
+
+- `ar043-0098` (trigger_moment) My 3 year old son is having a hard time lately. I’m 2 weeks postpartum with his baby sister. My husband and I were nervous about introducing them because he’s very sensitive, but were pleasantly surprised when all he wants to do is give her hugs and kisses. He says he loves his sister too. 
+- `ar043-0099` (pain) However, meltdowns have ramped tf up to nuclear levels. Defiance is higher than ever before. Transitions are harder and any time we have to end something he’s enjoying (like picking him up from preschool during water play, stopping a show or video, or it being time for bed), he screams at the top of his lungs and starts crying. Today, the preschool told us he’s misbehaving at school. He’s toppling towers of blocks other kids build and he threw water on 2 girls during water play. I’m super upset by this as he’s always been very polite with other kids (till  
+now anyway). 
+- `ar043-0100` (pain) My husband was off from work for 2 weeks after I gave birth and he was hoping to really bond and enjoy his time with our son, but it seems like my son has done worse with this extra time (my husband is currently the favorite parent and my son is CONSTANTLY asking for him, even if he just goes to the bathroom). 
+- `ar043-0101` (success_story) I should mention that my son is speech delayed. He’s been in speech therapy since he was 1.5 and he’s made wonderful strides since then (he’s also bilingual). He can now put together sentences, though we can’t always understand him because he still has trouble with some letters like D and T. I have a feeling the communication block is contributing to the intense emotions. 
+- `ar043-0102` (desire) Just looking for anyone who has experienced similar and has any stories, advice, or even just solidarity. I’ve been so worried about our boy and whether this will affect him in the long run. Sometimes his tantrums are so intense he’s shaking by the end and I worry for his health with all the stress hormones, etc 😔. I just want to know how to support him better. We’re also going to be looking into child psychologists but I thought I’d post here in the meantime. TIA.
+
+### 1va1nob | r/Mommit | 2026-07-29 | child_2_years | parent_unspecified | patterns 3,9,10
+
+About: Nearly-three-year-old bites daycare peers and family suggests biting back. Wants: Stop daycare biting and know what else to try. Already did: Explained biting hurts; read Teeth Are Not for Biting.
+
+- `ar003-0074` (pain) My daughter is turning 3 tomorrow, and has been at this daycare doing half days since March. Since the beginning of this month, she has now bitten 4 kids. 2 times were self defense- one kid was trying to pull her off of a see saw and then another kid tried to push her out of a tunnel. The other 2 times has been small issues, like wanting a toy that another kid was playing with and the other kid not wanting to share it.
+- `ar003-0075` (pain) I genuinely don’t know what to do. This is not really an issue at home, and when she has bitten at home she was extremely frustrated- like having to pick her up and move her during a meltdown.
+- `ar003-0076` (others_said) My family keeps telling me we need to bite her back but I just cannot bring myself to do that. She really is such a sweetheart, and her teacher says outside of the biting she still plays great with others, and is still overall very friendly. She is just trying to communicate something, and biting it the way she is doing it.
+- `ar003-0077` (tried_failed) We tell her that biting is mean and that it hurts people. It is not how we treat our friends. If you feel frustrated or upset, go to your teacher. I got the teeth are not for biting book and we read it this morning before going to school. But outside of that, I really don’t know what else to do.
+- `ar003-0078` (belief) On the days she did bite, we didn’t do anything special leaving school and just went straight home, had a snack, and took her nap.
+- `ar003-0079` (fear) I’m just lost because like I said, it doesn’t really happen at home. I’ve signed her up to start 3 full days at daycare in August because I really want to get back into working again, but now I’m very hesitant with some of these behavioral issues starting to appear.
+
+### 1vboync | r/beyondthebump | 2026-07-31 | child_2_years | parent_unspecified | patterns 3
+
+About: Two-year-old climbs into sibling’s crib and plays dangerously. Wants: Discourage unsafe crib climbing while children share bedroom. Already did: Removed crib side; stays until toddler sleeps; retrieves children promptly.
+
+- `ar081-0078` (question) How to discourage her (2f) from climbing into her brother's (1m) crib at bedtime and mornings? (They're exactly 12 months apart)
+- `ar081-0079` (fear) They've always shared a room, she still sleeps in a crib (with one wall removed as she started to climb out so no point in keeping her contained), she climbs in to play with her brother but she's becoming rough, rough playing, like trying to sit of his chest, keeps tickling, feeding him food (and other items into his mouth) etc, so it feels very unsafe
+- `ar081-0080` (tried_failed) I now have to stay in the room till she's fully asleep.. He falls asleep first, but if I leave the room she'll climb in and wake him up, and climbs straight in when she wakes up, I come get then as soon as they're awake, but still feel it's unsafe
+- `ar081-0081` (objection) Not sharing a room is not an option at all, so idk what to do here
+
+### 1vc3x5t | r/toddlers | 2026-07-31 | child_3_years | parent_unspecified | patterns 3
+
+About: Three-year-old's violent outbursts frighten parent and endanger younger sister. Wants: Tips handling violent tantrums and reassurance about parenting. Already did: Removed thrown items; supervised timeout; locked bedroom five minutes; plans pediatrician discussion.
+
+- `ar004-0071` (pain) 3.5 year old is hitting and throwing things and I’m at my breaking point..
+- `ar004-0072` (fear) For context my son never displays acts of violence with caregivers other than myself. But lately over the last few months he’s been having tantrums that have escalated to violently throwing things and punching either myself or his little sister (22 months)… anything he throws I immediately put away. But it’s to the point the outbursts are so bad I am scared of getting seriously hurt because he will chuck something very hard at me. He’s also the size of a five year old so it’s very hard to contain him.
+- `ar004-0073` (tried_failed) I usually take him to a safe spot or his room for a timeout and sit with him until he calms down but he’s recently started punching me or throwing things at me while in timeout.. so today I got so angry I locked him in his room for 5 minutes but this didn’t feel like a great approach.
+- `ar004-0074` (question) I’m at a loss as to how to handle.. he’s normally a very sweet kid this tends to happen on days he’s overtired etc. I will also be speaking to my pediatrician about this but I can’t help but feel like I’m doing something wrong. Has anyone been through this? Any tips?
+
+### 1vd1t7t | r/toddlers | 2026-08-01 | child_2_years | parent_unspecified | patterns 3,4
+
+About: Fearless two-year-old climbs crib, drawers and windows, defeating childproofing. Wants: Practical childproofing and toddler-bed advice; empathy from parents of climbers. Already did: Sleep sacks backward; drawer locks; reversed knobs; Pikler; installed linked drawer locks. Paid: Clek car seat on sale.
+
+- `ar064-0043` (pain) Please bear with me on this probably all-over-the-place post, because I very much want BOTH concrete advice on a specific childproofing challenge and the opportunity to rant about how my child climbs literally everything all the time and it is making it totally fucking impossible for her to have a bedroom that isn't basically a padded cell.
+- `ar064-0044` (trigger_moment) Background: We just moved into a new, second-story flat, and my two-year-old climbed out of her crib the first night here (she actually figured this out like 6 months ago, but we've been putting her in sleep sacks zipped up the back to keep her in; what is new is that she can climb out of the crib with her straightjacket on). So now she's getting used to a "big kid bed," and I really don't know how to make her new bedroom safe for her and also usable for her caregivers and remotely nice for her.
+- `ar064-0045` (fear) The immediate, practical problem is that we have these [built-in wardrobes in the bedrooms in lieu of closets](https://imgur.com/a/JGkyCuX). They look very nice, but the drawers are a complete nightmare for childproofing. My daughter climbs them, which creates both a fall hazard and a pinch hazard. She also climbs into them, and I'm not sure they can hold her weight.
+- `ar064-0046` (tried_failed) First, I tried [this kind of lock](https://www.amazon.com/Safety-Secure-Explore-Adhesive-Locks/dp/B0CNB4M8MJ/ref=sr_1_8?crid=3K82U1YE25QJG&dib=eyJ2IjoiMSJ9.8jGV2t5Qyprw6foIXIPhr0juvcmInb1eKpXzUf_kRv1-22QotFZB9p4A3vexOBfg-WNIqIFHkgGHG6_JLkeP-30RnJTIfTX8Vk6X_hIua7vWhHKkK_iZjpdFHP8ChOR3bATp_K6euavrmgRSJHwwh-Qm76gIyln9Ty7dUqhsqqy0HSb2IZnNhHSKOme3XEwyvPKFIP0KAnW1AWmd-Qy3XbSYl7rPFrab0ZLaGte8sOVANyr11ZboTWv89VEiEElV2R3_4nWCsA9qbFJU8GGAl1mkvVoQIIXimmarRVUrHj0.O8fXjC242KodMbdAxl9Dk5cJhJOiNENTh7AuxW9Dn1s&dib_tag=se&keywords=safety%2B1st%2Bcabinet%2Bchildproof&qid=1785623593&sprefix=safety%2B1st%2Bcabinet%2Bchildproof%2Caps%2C209&sr=8-8&th=1), but they only work on the top drawers, because there is no partition between the top and the bottom and therefore nothing to attach the lock to on the bottom drawer.
+- `ar064-0047` (tried_failed) Next, I tried the [magnet locks](https://www.amazon.com/Safety-1st-Adhesive-Magnetic-System/dp/B076QGS4QV/ref=sr_1_1_sspa?crid=3K82U1YE25QJG&dib=eyJ2IjoiMSJ9.8jGV2t5Qyprw6foIXIPhr0juvcmInb1eKpXzUf_kRv1-22QotFZB9p4A3vexOBfg-WNIqIFHkgGHG6_JLkeP-30RnJTIfTX8Vk6X_hIua7vWhHKkK_iZjpdFHP8ChOR3bATp_K6euavrmgRSJHwwh-Qm76gIyln9Ty7dUqhsqqy0HSb2IZnNhHSKOme3XEwyvPKFIP0KAnW1AWmd-Qy3XbSYl7rPFrab0ZLaGte8sOVANyr11ZboTWv89VEiEElV2R3_4nWCsA9qbFJU8GGAl1mkvVoQIIXimmarRVUrHj0.O8fXjC242KodMbdAxl9Dk5cJhJOiNENTh7AuxW9Dn1s&dib_tag=se&keywords=safety%2B1st%2Bcabinet%2Bchildproof&qid=1785623593&sprefix=safety%2B1st%2Bcabinet%2Bchildproof%2Caps%2C209&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1), but they don't work on the bottom of the same reason, and they don't work on the top, either, because there is [an enormous gap between the body of the drawer and the top of the encasement for the drawer](https://imgur.com/a/6JCL3EJ), but not quite so enormous that the lock fits.
+- `ar064-0048` (tried_failed) As a temporary solution, my husband turned the knobs around. This prevents her from opening the drawers, but it also makes the bottom drawers totally unusable. I desperately need the space in those drawers for storage, since the wardrobe takes up one whole wall and we can't put anything under the giant window that takes up most of the opposite wall. If we do, she will climb onto the window sill.
+- `ar064-0049` (fear) Generally, though, I'm just really frustrated with the apparent impossibility of keeping my daughter safe and keeping her room usable and inviting to her. It seems like this should be doable, and that other people do it, and that toddler bedrooms on the second floor are a thing that exists without terrible tragedies occurring. I know people use window gates, but we installed a similar-looking product on the window next to the front door at our old house (to prevent break-ins), and our daughter climbed it. I see people's window guards from outside and I just keep thinking, "That would actually *attract* my daughter to the window, and she would climb it." My friends who have not had trouble with the crib-to-toddler bed transition (i.e., all of my friends) all have one thing in common, which is that their children are not constantly climbing every fucking thing in the universe. Their children possess *fear.* My cousin's daughter still slept in a crib at FOUR.
+- `ar064-0050` (tried_failed) My daughter, on the other hand, is probably going to be a big wall climber when she grows up. And yes, I got her a Pikler, but she was bored of it by like 18 months, and as much as I'd love to install a more challenging climbing feature, I don't know how to stop her from using it unsupervised (i.e., when she is supposed to be sleeping). I don't want a climbing wall in my living room, and even if I were okay with that, my landlords wouldn't be.
+- `ar064-0051` (desire) I'd love some advice on the specific childproofing challenge at hand, or the big kid bed transition generally, but if you feel my pain, even that would be very helpful.
+- `ar064-0052` (desire) No, I know exactly what you mean. I've been thinking about it, too (since I made the post). I also found another cabinet lock product for which I've got high hopes... if it doesn't work, I'll try what you're suggesting.
+- `ar064-0053` (belief) Oh man, I feel your pain. Mine does enjoy putting things in her mouth, too. It's not as bad as the climbing, but at 10 months, I suspect it was worse.
+- `ar064-0054` (fear) The drawers are on metal mounts. It's hard to see how they're put together because of the fancy invisible design, but I'd be scared to take them out as a renter. Does metal mean they are harder or easier to remove?
+- `ar064-0055` (fear) Yeah, the window sills are nice and wide. Like the exact width of a toddler chair. We're in Canada and the house was clearly designed to let as much light in as possible during the winter months while keeping the heat in. The good news is that the glass is insanely thick—it looks almost marine-grade. I also think the latches are too intense for a toddler. Like she just doesn't have the leverage to open them. The trouble is that it is currently NOT winter and the house gets pretty warm, so we have to open the windows to not cook in here. Unfortunately, I think that putting anything on the window sills will just make them more attractive to her—but currently she can't reach. So as long as we have ZERO furniture beneath them and bolt everything that could be dragged over to them to the walls, we'll probably be fine?
+- `ar064-0056` (pain) The other unfortunate thing is that the windows swing open inward and around to cover the other window (that is they lie flat when open, but cross the entire sill in the course of opening/closing), so we actually can't put anything on them, including those window guards, and retain any functionality. I've been in this house for like two weeks and I've developed a loathing for casement windows that will likely stay with me my whole life. Ironically, the person who had the house built lives next door (they built two homes on two adjacent lots and then sold the smaller one), and they have a toddler now, so I'm like, "How you feeling about those window choices, now, eh?"
+- `ar064-0057` (pain) I just assumed that we'd be able to childproof the drawers and use all this great storage... I had no idea how limited the childproofing is relative to the variety of designs for drawers and cabinetry that exist. Argh!
+- `ar064-0058` (belief) Huh, interesting idea. I think it would be quite hard, since it's very much attached to the wall, but I'll noodle on it!
+- `ar064-0059` (success_story) Thank you! Yeah, our old house (in California) had non-opening windows in the nursery. There I was always worried about fire egress. Now, we have the egress, but the fear is that she'll use it. Always something to worry about, eh? 
+
+I like the magnet idea. I also just installed some new childproofing, where I basically link the bottom drawer to the top and the top to the wardrobe. It's annoying as hell to use (and I've already broken one of them), but it at least gives me access to the drawers. If she defeats it... magnets.
+- `ar064-0060` (belief) Ha! Yeah, I suddenly understand why so many homes with kids have kid stuff all over the common areas of the house: The kids' room has to be childproofed for nights and naps! I'd use duct tape, but I'm afraid it will leave residue and that I'll get in trouble with the landlords. My husband recently used duct tape to secure a dog net along one side of our beautiful Clek car seat, and when we sold the car and moved the seat to another vehicle, the dog net went on the opposite side of the seat, and now when I ride next to my daughter in the back, there is a rectangle of gooey, semi-melted heavy duty adhesive LEVEL WITH MY ELBOW, defiling the elegant seat and occasionally entrapping my arm hairs. My husband is annoyed because I won't let him use tape on anything now, and I'm like, "AND WHY DO YOU THINK THAT IS?"
+- `ar064-0061` (purchase) That sounds like a healthy attitude! FWIW, we got the car seat on BIG sale. I was super excited to be able to justify something that pretty. My husband covered the sticky spot with more duct tape so at least it doesn't get goo on my arm now. I'll take that win.
+
+### 1vdm18m | r/daddit | 2026-08-02 | child_2_years | parent_unspecified | patterns 3,6
+
+About: Toddler whines for mother after discipline; father cannot soothe. Wants: Handle toddler's demanding comfort-seeking after discipline. Already did: Cleanup demands, supervised timeouts, distraction, holding; considering immediate consequences.
+
+- `ar039-0118` (belief) We’re in the thick of some behavioural challenges, 2 years and a few months. I feel like my partner and I are in alignment, and we were just talking about tightening things a bit - no second chances, if there’s a hit / food thrown / etc then the fun is over immediately.
+- `ar039-0119` (pain) One thing though that is particularly challenging is whining for mom - trying to climb on her, whining heavily, basically wanting the comfort but in a fairly toxic way and it’s usually in response to being disciplined (by either of us). Discipline is telling him to clean up after a mess he made, or supervised time outs for hitting.
+- `ar039-0120` (belief) It wears heavily on my wife. They have lots of connection and snuggles, I’m confident it’s not out of lack, rather needing her to help regulate.
+- `ar039-0121` (tried_failed) Me stepping in / trying to distract is ineffective. On occasion I’ve had to just pull him away into a time out, where he will eventually regulate. This normally also involves holding him but at a point he will prefer to lay on his bed to settle out.
+- `ar039-0122` (question) I’m wondering what other dads do in this kind of situation, if you experience it?
+
+### 1vdxcn1 | r/toddlers | 2026-08-02 | child_2_years | parent_unspecified | patterns 3
+
+About: Almost-three-year-old bites himself after parents block biting them. Wants: Advice responding to self-biting during tantrums. Already did: Calm boundaries; stay nearby; discuss gentleness; avoid big reactions.
+
+- `ar076-0144` (belief) My almost 3 yo has lots of big feelings, which occasionally result in tantrums. As his parents, we remain pretty level during these and try to help him to calm down while also not bending on reasonable boundaries. Sometimes, when he’s tantruming, he’ll hit or bite us. That’s fine - we say that we won’t let him hit or bit us, and that we need a little space to keep our bodies safe (then we’ll just be out of hitting/biting reach, but not leaving him). He doesn’t hit or bite anyone but us (e.g. not friends or classmates).
+- `ar076-0145` (pain) The part that I’m not sure how to handle is him biting himself. He does it hard enough to leave an impression. It always happens once we have stopped him from biting us (one time it also happened while he was in his room for naptime and didn’t want to sleep or have quiet time). I don’t think it is him losing it and biting himself. It’s not happening during actual meltdowns, where he is much more dysregulated (like if he is sick or overtired). I believe he knows we get upset and concerned over it, and it’s a tool he can use in situations where he doesn’t have much control or leverage. We try not to have big reactions and I think we succeed, but it’s genuinely so upsetting.
+- `ar076-0146` (question) We’ve talked about how we must be gentle with our own bodies just like we are gentle with other people’s bodies. We can work more on self-calming strategies. But beyond that, I’m not sure how to handle. Thoughts (especially from people who have experienced something similar)?
+
+### 1vef9ri | r/toddlers | 2026-08-03 | just turned 2 | parent | patterns 3,11
+
+About: Newly two-year-old refuses food, potty and outings.. Wants: Cope with constant refusals. Already did: Switching from questions to stating plans.
+
+- `ar048-0070` (pain) He just turned 2, and everything is, "No." All day. Every day.
+- `ar048-0071` (pain) "Do you want an egg for breakfast?"
+
+"No!"
+
+"Time to sit on the potty." 
+
+\*"No, no, no, no, no!"\*
+
+"We're going to get our groceries and ride in the grocery cart!"
+
+\*\*"NO!"\*\*
+- `ar048-0072` (question) I'm losing it lol I'm at the point of just not asking anything anymore. Here's what we're doing/eating/where we're going. How do you all cope with the little naysayers?
+
+### 1vev28w | r/Parenting | 2026-08-04 | child_2_years | parent_unspecified | patterns 3
+
+About: Toddler pulls dog's hair and laughs at warnings. Wants: Behavior correction methods without spanking and protection from pet injury. Already did: Pulled child away and warned dog could hurt him.
+
+- `ar007-0105` (question) What are some methods of correcting behavior in toddlers that don't involve spanking?
+- `ar007-0106` (fear) My son is 2 years and 4 months and has recently taken to terrorizing the cat and dog. With the cat we can let him learn the consequences of his actions on his own. My cat doesn't take any gruff and will scratch my son in a hurry. I can't leave anything to chance with my dog though. She's big enough to seriously maim/kill my son in an instant if she chose to. Shes always been patient with him but still. Can't take the chance. Lately he's been trying to pull her hair. When I pull him away and tell him that she will give him big "owies", he just laughs and laughs like it's all a big joke.
+
+### 1vfk74y | r/toddlers | 2026-08-04 | child_2_years | parent_unspecified | patterns 3
+
+About: Two-year-old copies wrestling chant whenever he sees a Black person. Wants: Help stopping socially awkward imitation of wrestling chant. Already did: Watched wrestling together; explained wrestler is the man on television.
+
+- `ar012-0144` (pain) We watch a lot of wrestling and  there's this huge African dude who just retired Brock Lesnar.  He's got a little dance when he enters the ring and the crowd chants his name repetitively.  This is all fine whatever we're fans...  Now my son has been chanting oba when ever he sees a black person.   It's very awkward and I tried explaining the best I could that's the man on tv but he's two!  We live in suburban Philadelphia I'm afraid to bring my kid out of the house 😂 helpppp
+
+### 1vgjeyi | r/Mommit | 2026-08-05 | child_2_years | parent_unspecified | patterns 3,10
+
+About: Preparing jealous toddler for baby brother’s first birthday. Wants: Help toddler manage sibling birthday and eventually celebrate others. Already did: nothing stated.
+
+- `ar026-0033` (pain) I have an almost three year old and it will be his baby brother's first birthday next week. I know he's going to be jealous and confused and he's had a tough time getting used to the baby taking our attention so much the past year. He's only a baby himself.
+- `ar026-0034` (desire) I'm just wondering how others have navigated this early on? Obviously in the long run I want him to learn how to be happy for others and not be sad when others are the center of attention and getting presents. However, he's two, he's already had a tough year. And I'm worried family are going to be impatient with him or make comments. I mean maybe he'll be fine but I just want to have some ideas in my toolbox in case he's not.
+- `ar026-0035` (question) Did anyone try the birthday buddy approach from Daniel Tiger or anything else that helped?
+
+### 1viigvo | r/toddlers | 2026-08-08 | child_3_years | parent_unspecified | patterns 3,5
+
+About: Three-year-old tantrums during transitions despite warnings and choices. Wants: Respond effectively without physically forcing transitions. Already did: Advance warnings; choices; consequences; physical carrying; monitoring hunger and tiredness.
+
+- `ar068-0069` (pain) My newly three year old has not been listening lately and has been throwing tantrums whenever I enforce a next task and I’m looking for advice on what to do better.
+- `ar068-0070` (tried_failed) For example, we’ll be playing and I’ll say a cheerful “we can build one more megablocks castle and then it’s time for bath!” Then “ok we have one more floor of this tower to build and then it’s time for bath!” Then “time for bath let’s go pick our favourite bath toys!” But am met with immediate refusal. I remind him the deal and say if he doesn’t listen, (and then name a consequence like “next time we won’t play megablocks” or, “there will be one less story tonight”. Nothing. I give a choice “do you want to walk or do you want me to carry you?” Nothing. I say OK I’m going to pick you up, and do, and am met with screaming and going limp. I hate physically moving him and don’t want to have to do that but have been resorting to that lately at a loss for any other next step. I don’t want to teach him that it’s ok to force someone physically when they say no, but I also don’t know what else to do after all those other attempts don’t work. This issue isn’t just for baths, but meal time, nap time, going to the car, different transitions, depending on the day. We’re so patient and loving but also enforce rules so I’m so confused what else we can do. We also try to stay on top of hanger/overtireness as much as possible.
+- `ar068-0071` (belief) I should mention we have a three month old so that transition might be part of it, but he’s so loving to his brother and we do give him endless lots of love and attention so I don’t think it’s entirely or even mostly that.
+
+### 1vjb6c5 | r/daddit | 2026-08-09 | child_2_years | parent_unspecified | patterns 3,8
+
+About: Two-year-old shifts from affectionate hug to hitting older sister. Wants: Share contradictory moments of parenting. Already did: nothing stated.
+
+- `ar017-0066` (belief) I have four kids: 8yo, 4yo, 2yo, and 8months. My 2yo son is massive, larger than his 4yo brother.
+- `ar017-0067` (success_story) This afternoon was quiet…almost serene. The baby went down for her nap quickly. Mom was laying down for her own nap. The other three kids were playing nicely. I was reading a book. Just a wonderful afternoon.
+- `ar017-0068` (success_story) My 2yo son randomly stopped playing and walked up to me to give me a huge hug and said, “Love you too, Daddy!” It was heartwarming, what I love about being a dad…just perfect.
+- `ar017-0069` (trigger_moment) He then walked directly over to his 8yo sister and open hand smacked her in the face while she was minding her business, quietly putting together her new Lego set she got for her birthday. Fighting then immediately ensued with more hitting, yelling, and screaming. I sat there just flabbergasted at what was transpiring.
+- `ar017-0070` (pain) To top it all off…mom and baby both got woken up from their naps. What a lovely day!
+
+### 1vk4eja | r/toddlers | 2026-08-09 | child_3_years | new_mother | patterns 3,11
+
+About: Potty training followed by escalating tantrums and withholding. Wants: Solidarity, explanation and strategies for escalating tantrums. Already did: Potty training; accepts poop and night diapers; prescribed daily Miralax.
+
+- `ar078-0078` (success_story) Need some perspective from parents who've been through this. My son is 3 years 3 months. We started potty training about 4 weeks ago and he mastered daytime pee really fast, self initiated, went in the toilet, barely any accidents. He still wants a diaper for poop, and he's in a diaper at night, I'm fine with both.
+- `ar078-0079` (trigger_moment) First two weeks were honestly better. Tantrums had started but not that bad. Then last two weeks it ramped up, meltdowns started at night, big ones. And last 4 days it spread to everything, though weirdly nights got a little better in that same stretch.
+- `ar078-0080` (pain) Now it's screaming meltdowns over the smallest things. Won't sit for a meal, won't transition from anything to anything, won't come downstairs or go up, doesn't want to go outside for anything including school. And a new thing with daytime pee, he doesn't want diaper or potty, just holds it till he's bursting, then accepts one or the other. He nailed peeing in the toilet weeks ago and now it's this whole standoff every time.
+- `ar078-0081` (pain) Some background, he has history of constipation, on Miralax daily under a GI. Right now he's backed up because he holds poop all day at school (they make them sit on potty first, he won't, so he holds till home) and his daily frequency reduced. Light sleeper, always been slow to warm up to transitions. But this intensity is new and it's breaking me.
+- `ar078-0082` (desire) Honestly just an exhausted mom looking for some solidarity at this point. Has anyone been through this, potty training setting off tantrums in everything else, then a stretch of constant screaming over every little thing? Is it the constipation, the potty training, just being 3, all of it? Did it end, how long did it take? Any tips or tricks that worked for similar situations?
+
+### 1vlznna | r/toddlers | 2026-08-12 | child_2_years | experienced_mother | patterns 3
+
+About: Almost-three-year-old defiant destructive behaviour exhausts mothers patience. Wants: Advice or space to vent about defiance. Already did: nothing stated.
+
+- `ar029-0056` (pain) I honestly don’t know if I’m looking for advice or just to scream into the void. My almost 3 year old (turns 3 the end of September) has been absolutely terrible the last few weeks. Today being the worst. The best way to describe the behavior is he’s being extremely defiant. Telling us no. Not listening. Destroying things. I know it’s terrible, but I find myself losing my temper with him because my patience is just so shot from it. I feel like a terrible mom
+
+### 1vnuksj | r/toddlers | 2026-08-14 | child_3_years | relative_caregiver | patterns 3
+
+About: Caregivers seek help with three-year-old niece’s intense bathing distress. Wants: Ideas for calmer bathing and consistent routines. Already did: Shared baths, toys, choices, binkie, music, lights, dolls, pacing, breathing, social stories.
+
+- `ar023-0105` (pain) Hello, my wife and I are part time care takers of my niece. She is 3.5 years old and bath or shower time literally sounds like someone is dying in our house. Even washing with just a facecloth is a battle. Screaming, crying, begging to stop, it goes on. Nothing traumatizing (that we know of) has ever happened surrounding bath time or water. She loves the pool and beach. Goes under the water and everything. Some things to note, she is hard of hearing (progressive bilateral hearing loss), no implants, just hearing aids -which she is reluctant to wear anyway. She also has textured hair.
+- `ar023-0106` (fear) We are trying to do our best to show her bathing is normal and necessary and create strong routines for her. I fear that when she is “home” and not with us she freaks out and it lets her avoid a bath or at least her hair being washed.
+- `ar023-0107` (tried_failed) We have tried: getting in with her -both sitting and standing, fun bath toys, letting her choose bath or shower, let her bring binkie in to soothe her, music she likes, fun colored lights, put her dolls in with her as motivation, tried going fast and getting it over with, tried taking it slow and talking about it and using deep breathing, tried to use her dolls as a social story (example: our doll went to the beach so now she has to get clean in the tub and wash the sand off of her. I feel like we’ve done it all. What are we missing here??
+- `ar023-0108` (desire) ANY help or ideas are very very appreciated.
+
+### 1vpfmbu | r/sahm | 2026-08-15 | child_2_years | parent_unspecified | patterns 3,9,10
+
+About: Almost-three-year-old copies peers' hostile phrases and spitting. Wants: Correct hostile language and spitting without raising a bully. Already did: Stopped playdates; considering positive reinforcement and leaving room; declined removing comfort toy.
+
+- `ar046-0063` (pain) My almost 3 yr old ( Oct ) has picked up some mean phrases from playdate kids. We have stopped playdates for the time. Most likely will not resume them. The kids are 4&2 but are with a caretaker who keeps all the grandchildren in the family  14-newborn five days a week. ( They are not our family members just good friends ) The caretaker is very overwhelmed. My toddler has started telling us “ Go away find a new home!” “ I don’t like you find a new home “ “ I no like you. Leave “. She has also started spitting when she’s told no. I’ve heard and witnessed these things being said/done  at the playdates from other kids in this  family. My toddler has also been told to shutup by the two year old as well as been bit.  The four year old has yelled in my toddlers face saying “ I don’t want to play with you “ The shutup, biting and yelling happened at the last play date we had. I’m at a loss as how to correct the behaviors.  My child, is an only child. Myself nor my husband talk to each other this way.  I know she doesn’t understand what she’s saying. I just don’t want her to make these statements to others at play dates.  My moms suggestion was to take away her faveoite stuffy the next time she makes one of the statements or spits.
+- `ar046-0064` (objection) That’s how I felt as well about taking away the stuffy. Bitzy goes everywhere with us.
+- `ar046-0065` (desire) I’ll try reinforcing positive statements as well as leaving the room. I don’t want to raise a mean girl. I’ve seen how mean the 4 yr old is to her and it breaks my heart. I want a sweet nice girl. Not a bully
+- `ar046-0066` (belief) True, but this was picked up from a play date. Or at least I feel like it was.
+
+### 1vqn9am | r/toddlers | 2026-08-17 | child_2_years | parent_unspecified | patterns 3,9,12
+
+About: Toddler tantrums and aggression cause concern about upcoming preschool. Wants: Know whether preschool can manage behaviour and discipline child. Already did: Redirection; putting child in room to calm down.
+
+- `ar005-0051` (pain) My 30 months old son has been misbehaving more and more recently. He has constant tantrums and sometimes biting and pinching. He throws toys and is persistent about getting his way such as opening the fridge taking things out.
+- `ar005-0052` (tried_failed) When we redirect him he continues to do it over and over again and even with other things. He is constantly trying to push our buttons and when we put him in a room to calm down he screams and cries the whole time.
+- `ar005-0053` (fear) He has not started preschool yet but he is starting this September. Will they be able to discipline him there? Is he going to be like this in preschool? I am so worried.
+- `ar005-0054` (belief) He does have a minor speech delay but can get what he wants across pretty well.
+
+### 1vr0huc | r/Mommit | 2026-08-17 | child_3_years | parent_unspecified | patterns 3
+
+About: Almost-four-year-old's relentless attention-seeking overwhelms parent; consequences seem ineffective. Wants: Ways to obtain cooperation and use natural consequences. Already did: Explained phone call, ignored, put child in room, daily quiet time, locked windows.
+
+- `ar004-0097` (pain) My almost 4 yo son is a lot. He's home sick from daycare today (stuffy nose, chesty cough, but has lost none of his pep). He is rowdy and loud and wants attention nearly every moment he is awake. I am ashamed to say that I don't really like spending long hours with him these days. When he was the only child it was OK because I could give him all my attention, but now he has a baby sister and I can't alway be looking at him/engaging with him. He makes loud noise almost nonstop and it's so overstimulating for me. He's also a sensory seeker, so he likes to pull and push and twiddle and just be touching me all the time and omg it's a lot.
+- `ar004-0098` (tried_failed) I took an important phonecall today that lasted maybe 10 minutes and the WHOLE TIME he was trying to speak to me/get my attention. I tell him I'm on the phone and can't engage with him right now. That doesn't work, so I ignore. The more I ignore, the more intense the behavior becomes. At some point during the phonecall, I put him in his room (still trying to pay attention to the call), but he knows how to open the baby gate now and I can't keep him in there.
+- `ar004-0099` (pain) I feel powerless in these moments. Sometimes he just will not listen to me, and I don't know what I'm supposed to do. He has one hour of "quiet time" every day that he's home all day. Today we have men working outside. He can see them from the window, so he's been trying to yell at them and get their attention and engage them constantly. I finally had to shut and lock his windows. Also during quiet time he continually asks "can I come out?" or tries to engage me in any other way he can over and over and over. If I ignore him he just gets louder or does destructive things like make a huge mess or pee on the floor. I feel like I can't breathe sometimes because I get a single hour to myself during the day and he just can't let me have it. I know he's not doing it to be bad, but it still makes me angry.
+- `ar004-0100` (question) How do I get him comply when I can't make him do what I'm asking him to do? I know reddit parenting advice is big on natural consequences, but like, what are the natural consequences for refusing to stop hollering at these men? Or refusing to stop trying to get my attention? My only bargaining chip is not letting him watch his 1 show later, but that's not a natural consequence, right?
+- `ar004-0101` (pain) Basically I feel like a big failure because, like, how the hell do SAHPs do this? I don't want to watch both my kids by myself for more than an hour or two at a time, it just makes me crazy.
+- `ar004-0102` (belief) He gets to watch two shows a day when he's at home, he already watched the first one. He's not really in need of recovery, I just kept him home because I didn't want everyone else to get sick.
+
+### 1vt401p | r/toddlers | 2026-08-20 | child_2_years | new_mother | patterns 3,12
+
+About: Nearly-three-year-old hits during nighttime waking and has speech difficulties. Wants: Experienced parents' perspective and ways to help coping. Already did: Speech community program, verbal boundaries, coping strategies, comforting and bed-sharing.
+
+- `ar013-0110` (belief) I guess I just wanna start by saying im just looking to see if anyone else has had the same issue, and im trying not to jump to any conclusions. Also, im a first time mom, so the whole toddler phase might be a huge shock to me, that im still trying to navigate.
+- `ar013-0111` (pain) Anyways, my toddler who will be 3 this November has been hitting, and throwing these tantrums and meltdowns that im not sure how to navigate. When these meltdowns happen, they typically begin with him being frustrated, then he just automatically resorts to hitting. Which i get, I understand. Your almost 3, you cant navigate your emotions yet. I just try to be there for him, while repeating that hitting is not ok, and it makes mummy sad.
+- `ar013-0112` (pain) But what I DONT get is when it happens in the middle of the night. He'll start by waking up PISSED and crying that we're not in his room (we wait in his room until he falls asleep) so then we proceed to try to bring him into our bed, and thats when the immediate hitting and smacking starts. There has also been times when he is sleeping in our bed, and just wakes up angry about something, and starts hitting us. Mind you, we were sleeping. Theres nothing in that moment in time that happened, we were ALL sleeping.
+- `ar013-0113` (fear) Im really hoping other people have had issues with hitting, I just feel like I'm going crazy. He also cant talk too well yet, we are in a community program trying to combat that. Thats probably frustrating.
+- `ar013-0114` (tried_failed) I just want to be able to help him the best I can, but even when I try to get him to try some coping mechanisms, whether its before or after, he has no patience for it.
+- `ar013-0115` (belief) He has a really healthy relationship with our family, and ourselves as his parents. Hes a social little butterfly. He does go to daycare, but we really try to be as present as we can be once we're home. Thats our time to spend together as a family.
+- `ar013-0116` (pain) Anyways, toddler hood is really messing with my mind.
+- `ar013-0117` (desire) Would love to get a seasoned parents perspective.
+
+### 1vtw2fc | r/toddlers | 2026-08-20 | child_2_years | parent_unspecified | patterns 3
+
+About: Two-year-old refuses hair styling and removes clips. Wants: Ways to keep hair out of face despite refusal. Already did: Tried hair clips but child removes them.
+
+- `ar009-0073` (question) My 2 year old won’t let me put her hair up anymore and it’s driving me crazy having it in her face all day. I’ve tried to do clips but she takes them out. Tips on how to trick her into putting it up or hairstyles that still feels down to her?
+
+### 1vucmuu | r/daddit | 2026-08-21 | child_2_years | parent_unspecified | patterns 3
+
+About: Two-year-old thrashes and kicks during sunscreen application before playground. Wants: Vent about difficult sunscreen application and desire easier product. Already did: Applied mineral sunscreen while restraining arms and avoiding kicks.
+
+- `ar065-0103` (trigger_moment) It is 95 degrees outside. We have been in the playground parking lot for twenty minutes and we haven't even made it past the trunk of the car.
+- `ar065-0104` (pain) All because my two-year-old turns into a greased eel the second she sees the white tube come out. Modern mineral sunscreen is not lotion. It is industrial zinc paste designed by chemists to withstand a nuclear blast. You put a dime-sized drop on their cheek and suddenly it spreads into a permanent chalky grease that REFUSES to soak in.
+- `ar065-0105` (pain) and trying to rub it across their nose while they are violently thrashing their head left and right requires the grip strength of an alligator. You have to pin their arms with one elbow, dodge flying kicks, and pray you don't get it in their eyes.
+- `ar065-0106` (pain) By the time you finish, your toddler looks like a Victorian ghost who died of scurvy. Meanwhile, you have ghost-white handprints permanently baked into your steering wheel, your black shorts, and your own beard.
+- `ar065-0107` (desire) Why did nobody warn us that summer parenting is just seventy days of wrestling feral children in hot parking lots? They should of made sunscreen that sprays on like water and actually works.
+- `ar065-0108` (question) Why is this even a thing?
+
+### 1vwafjp | r/Parenting | 2026-08-23 | child_2_years | parent_unspecified | patterns 3,4
+
+About: Almost-three-year-old distressed and dysregulated after moving house. Wants: Creative ways to comfort child through move. Already did: Got child a new stuffed animal.
+
+- `ar021-0150` (pain) My son will be three in the beginning of October Comma We just moved to a new house And he's seemingly really struggling with it. His normal demeanor is pretty much suppressed with chaotic energy lots of whining, not eating much and meltdownss and crying for Nana and about wanting to "go home". Honestly it breaks my heart. Today I got him a new stuffed animal in the hopes that it can be his buddy to help transition with move.
+- `ar021-0151` (desire) But any creative comfort ideas would be welcomed
+
+### 1vxeh7e | r/toddlers | 2026-08-24 | child_2_years | parent_unspecified | patterns 2,3
+
+About: Toddler hurts baby while trying to help despite gentle modelling. Wants: Decide whether consequences should replace repeated modelling and redirection. Already did: Individual attention, varied activities, modelling, praise and redirection.
+
+- `ar081-0104` (pain) I feel like a parrot squawking 'gentle hands! gentle hands!' All day long and I'm losing my patience here.
+- `ar081-0105` (tried_failed) I have a 3 month old that's exclusively breastfed and am trying my best to keep my toddler entertained while caring for the baby - we sit on the floor and play dolls, we paint or do play-doh, we garden and bake and watch Frozen to sing Elsa songs.. I do everything in my power to give her individual loving attention every day. But whenever I pay attention to the baby - to change her or nurse or even just interact with her - toddler wants to help and crawl all over the baby and inevitably hurt her.
+- `ar081-0106` (tried_failed) I'm at a loss. I do try to model how she can help but gently patting the baby's head just ain't as fun as rubbing her head against the baby's face or laying her full body weight on top of her.
+- `ar081-0107` (question) I'm beginning to wonder if it's time to enforce consequences for when her behaviours hurt or endanger the baby. So far I've focused on modelling and praising good behaviour and redirecting the bad - but I feel like I'm in an endless loop here and nothing is getting better.
+
+### 1vyvglx | r/toddlers | 2026-08-26 | child_2_years | parent_unspecified | patterns 3
+
+About: Two-year-old threatens to throw toy during office visit. Wants: How to set limits for toddler throwing. Already did: Blocked throw, removed toy, went outside, explained throwing rule.
+
+- `ar050-0087` (question) How do you put limits to a two year old? He was moody and said he wanted his t rex but when I gave it to him was going to throw it while we were in an office. I managed to block him but he could have done damage. I took it from him and we went outside and I told him he can't throw things and adults
+- `ar050-0088` (belief) He was fussy already and had overslept and totally refuses any food for breakfast before leaving
+
+### 1vza77q | r/toddlers | 2026-08-26 | child_2_years | experienced_mother | patterns 3,8
+
+About: Toddler's tantrums and contradictory independence exhaust mother. Wants: Vent about mood swings while celebrating affection. Already did: Offered food choices; moved toddler to own bedroom.
+
+- `ar002-0184` (pain) When he’s happy, he’s the cutest, funniest little boy ever. But one tiny thing can change his mood 180 degrees and suddenly he’s throwing a tantrum so loud the whole building probably knows about it. And honestly, most of the time I have NO IDEA what changed 😂
+- `ar002-0185` (pain) One minute he’s happily playing, the next he’s crying because he dropped something and apparently I need to help him pick it up IMMEDIATELY and he stands there looking at it like he’s born without hands.
+- `ar002-0186` (belief) Meanwhile, he is perfectly capable of picking it up himself.
+- `ar002-0187` (pain) Then there’s the eternal:
+
+“Mommy, I’m hungry.”
+
+“Okay baby, what do you want?”
+
+“I don’t know.”
+
+“Do you want a banana?”
+
+“No.”
+
+“Do you want a sandwich?”
+
+“No.”
+
+“Do you want a cookie?”
+
+“No.”
+
+*Proceeds to offer approximately 300 different options.*
+
+“No.”
+
+Fine. I give up.
+
+And then he’ll casually go:
+
+“I want a banana.”
+
+DUDE. JUST SAY YES WHEN I OFFER YOU THE BANANA!!
+- `ar002-0188` (tried_failed) Thank GOD he still sleeps through the night, but until a few weeks ago he was sleeping in my bed. He kept kicking me all night and we were constantly waking each other up, so I decided it was time for him to sleep in his own room.
+- `ar002-0189` (pain) Now I’m back to spending over an hour every night trying to get him to fall asleep when all I want is a glass of wine and some peace.
+- `ar002-0190` (success_story) But at least once he’s asleep, he STAYS asleep until the morning, so I’ll take the win.
+- `ar002-0191` (pain) He also wants to do EVERYTHING himself.
+
+But if I actually let him do something himself, suddenly he’s crying because he needs my help.
+
+Like, dude. Please decide which one you want.
+- `ar002-0192` (pain) I am sooo tired of my boundary-testing moody little terrorist.
+- `ar002-0193` (success_story) If he sees or thinks I’ve hurt myself, he immediately comes over and goes:
+
+“Momma kisssss?”
+
+And then gives me a kiss exactly where it hurts. 🥹
+
+SO. FUCKING. CUTE.
+
+He really is the most handsome and funniest little man ever (when he’s in a good mood lol)
+
+### 1vzsj6y | r/toddlers | 2026-08-27 | child_2_years | parent_unspecified | patterns 3,11,5
+
+About: Toddler suddenly refuses bath after toilet incident and multiple transitions. Wants: Restore enjoyable baths and know whether response caused fear. Already did: Changed pacifier, bed, nap; tried bubbles, music, food, toys; postponed potty training.
+
+- `ar070-0138` (belief) My toddler has suddenly decided he loathes the bath. He has taken a nightly bath since he was 4 months old (now 25 months) and has always loved the bath. I usually have to drain the water to get him out peacefully. We’ve done a lot of changes lately - weaned pacifier, switched to toddler bed, and dropped a nap all within the last two weeks. We were going to tackle potty training too, but decided to wait a month until he gets used to all the changes.
+- `ar070-0139` (tried_failed) Anyways, he is now refusing to take a bath, I’ve had to pretty much force him after trying many things - lots of bubbles, music, gummies in the bath, pick a special toy to bring to the bath, no music, no bubbles, etc - I cannot afford to buy new toys right now so trying to just find random objects to excite him with. He screams and cries and will cling to me when I try to put him in. I will bathe him as quickly as possible, but I’m looking for other ideas. Bath time used to be so much fun and enjoyable for both of us. I plan on trying to bathe him with his brother(5 months) tonight (we’ve been doing them separate bc he’s still a little rough with him sometimes) and trying the shower instead to see if that helps.
+- `ar070-0140` (fear) The last time he took a bath with me willingly  he squatted and said “I pooping!” I said we don’t poop in the bath, took him out and put him on the toilet for maybe 10 seconds. He screamed bloody murder the whole time and when I tried to put him back in the bath he screamed even more. Since then it’s been a battle. Did I break him or something? Did I do the right thing? Help! I need more ideas 😩
+
+### 1w0akf7 | r/Parenting | 2026-08-27 | child_2_years | experienced_mother | patterns 3
+
+About: Mother feels she constantly corrects and refuses her defiant two-year-old. Wants: Strategies for correcting toddler less and avoiding constant no. Already did: Corrects manners, rough play, screaming and inappropriate requests.
+
+- `ar008-0072` (pain) I have a 2yo boy. Obligatory he is amazing. Funny, VERY smart, clued in. But I feel like all I do is correct him and say no to him :( screaming first thing in the morning, on him about manners, being rough with his toys, gentle with the dog, no we can't go to the moon, no we can't have lollies for breakfast, no we can't go outside, it's still dark. I feel like ALL day I am correcting him or saying no and I feel like SUCH a drag, and after a few months of some really stressful living and being in the thick of a really defiant stage I feel like such a bad mum!
+- `ar008-0073` (desire) Can you guys share with me how much you're correcting a toddler in a day, or strategies to feel like I'm not ALWAYS saying No?
+
+### 1w1kzdm | r/Parenting | 2026-08-29 | child_3_years | parent_unspecified | patterns 3,5
+
+About: Three-year-old overwhelmed by correction after accidentally hurting others. Wants: Balance comfort and accountability without overwhelming child. Already did: Cuddles, breaths, discussion, space; helped apologize and check injury.
+
+- `ar076-0153` (pain) My daughter is 3.5 and is generally pretty reasonable given her age. Her tantrums are minimal and she usually can move through quickly with some one time/cuddles/deep breaths/discussion. However if she has done something wrong she completely loses it and struggles to move forward.
+- `ar076-0154` (trigger_moment) Today we played a game and she hit my husband with a toy pretty hard during it. I think she got carried away and didn’t realise the toy was hard. But when my husband told her sternly (not yelling or overly intense in my opinion) that it hurt him and she totally lost it. She cried and hyperventilated for a while and I tried to rub her back/help her take deep breaths/give her some space to cry/hug her etc but anytime we tried to calmly discuss what happened she lost it again.
+- `ar076-0155` (tried_failed) Eventually I was able to help her apologise/check if he was okay and offer him a cuddle but it took a long time and it felt like we ended up needing to comfort her for a long time.
+- `ar076-0156` (fear) It’s been an issue before where she does something wrong and then positions herself as the victim (no I didn’t hurt him they hurt me! Even if they didn’t) and it’s a pattern I saw in my mother and in myself for a long time too. I don’t want this type of thing to turn into us overly comforting her when she’s hurt someone but equally I don’t want to not give her the coregulation  she needs in these situations.
+- `ar076-0157` (fear) It’s also one thing when she hurts my husband and he can wait for her to be ready to apologise but we have a 6 month old who will soon be a toddler and if my eldest hurts her I don’t know that I should be overly comforting my eldest if my youngest is the one that’s been hurt.
+- `ar076-0158` (question) Any ideas or thoughts about how to balance this kind of situation and help her take accountability without losing it? If she does a small thing that accidentally hurts us she often is happy to say sorry on her own accord, it’s the bigger things where she struggles.
+
+### 1w2ikfq | r/toddlers | 2026-08-30 | child_3_years | new_mother | patterns 3,5
+
+About: Mother struggles with three-year-old’s hitting, anger, and apparent lack of empathy. Wants: Advice for responding to tantrums, hitting, and difficulty showing empathy. Already did: Firm limits, explained hurt feelings, grabbed child to stop hitting.
+
+- `ar070-0141` (fear) I’ll admit I have been very soft on my daughter. She’s been able to talk since she was 1, always able to communicate and we’ve never had tantrums until now at 3 years old. And now I fear I’m dealing with the consequences. Advice is SO welcome.
+- `ar070-0142` (pain) My daughter in her 3rd year has begun hitting me when she’s upset, slamming her body into me, kicking me, saying “STOP TALKING” or “DONT SAY THAT” or “GO AWAY” when she’s being disciplined etc.
+- `ar070-0143` (belief) The thing is, I can see she’s remorseful because she doesn’t actually want me to go away, she doesn’t want me to stop talking and when she hits me, she needs me close by to hold on tight to me and hug me.
+- `ar070-0144` (tried_failed) I’ve tried to be firm and say I’m in charge, this is how it’s going to go, etc etc, I’ve tried “when you do these things you’re hurting mama’s feelings” I’ve grabbed her harder than I’d like to stop her from hitting me. I’m just lost on what to do.
+- `ar070-0145` (belief) In these moments she can’t get a hold of herself. She stops eye contact and she looks upward and she holds back tears but she’s stubborn as all heck so she tries very hard not to show she’s sad about everything going on.
+- `ar070-0146` (pain) Im really frustrated with her lack of empathy that we try so hard to instill in her because she will hurt me and when I say she’s hurting me she says “no I’m not.” And keep doing it.
+- `ar070-0147` (desire) I’m sorry I’m just a first time parent and I have no idea what I’m doing with these tantrums. Please help?
+
+### 1w2x1ky | r/Mommit | 2026-08-30 | child_3_years | experienced_mother | patterns 3
+
+About: Three-year-old leaves apartment alone after being prepared for outing. Wants: Express fear and guilt after finding runaway son. Already did: Searched, called 911, installed chain lock, explained outdoor safety. Paid: Hardware-store chain lock.
+
+- `ar058-0078` (belief) long story short he is okay
+- `ar058-0079` (trigger_moment) i wanted to run out to grab a coffee and something for dinner, so i got my 3yo dressed and got his shoes on, told him we were gonna go for a jeep ride. after i got him ready i went into my bedroom to get dressed myself, my husband followed me to talk, and when he came back out of the bedroom he couldn’t find our son. i sprinted out and also couldn’t find him, so my husband went into our apartment hallway and started yelling out for him, i double checked the apartment and when i knew there was no chance he was in there i sprinted down the stairs and into the back lane (no shoes no keys), i started yelling for him outside, and my husband followed behind, there was a guy out there and he said he seen a kid running to the left side (near where our jeep is parked) so i sprinted to our jeep and he wasn’t there. my husband went to the front of the building (busy street) and i kept looking in the back. neighbor’s started coming out and the guy that seen him started to help me look while i called 911.
+- `ar058-0080` (trigger_moment) after i told the operator our address the guy comes back from behind the garbage cans of a neighbouring building with my son, who was completely unfazed, and confused as to why i was sobbing. told the operator we found him and everything was fine and then proceeded to hug my son longer than i’ve ever hugged him. whole thing lasted maybe 3-4 minutes.
+- `ar058-0081` (others_said) my husband was mad i called 911 cause he doesn’t want cps to come and have to deal with that. i told him i don’t care about that and i did what i felt was best in the situation. that i would rather have called than not been able to find him and it takes that much longer for the cops to come help.
+- `ar058-0082` (purchase) we immediately ran to the hardware store and installed a chain lock on the very top of our door frame. i’m also gonna order a door alarm so i know when the door opens.
+- `ar058-0083` (pain) my son is an incredibly smart kid, and i don’t think he would have ran out like that had i have not gotten him ready and told him we were leaving, but i’m still so scared, i feel like a terrible mom. i always wondered how these things happen but know i understand it only takes a second, literally.
+- `ar058-0084` (belief) we sat our son down and explained to him why he can’t do that, we told him we weren’t mad but extremely scared and worried, and he needs to have either mommy or daddy come with him if he wants to go outside. he explained back to us that he would asked mommy or daddy to please come outside with him and he won’t do it again.
+
+### 1w3zzpf | r/Mommit | 2026-09-01 | child_2_years | experienced_mother | patterns 3,10
+
+About: Almost-three-year-old resists bedtime and hits mother despite discipline. Wants: Stop bedtime battles and hitting; reassurance about parenting. Already did: Limited screens; tried gentle parenting, stern tone, timeout and spanking.
+
+- `ar082-0017` (pain) I have an almost 3 yr old. She is the cutest thing, but man she just might make me go crazy.
+- `ar082-0018` (question) Question 1: Any advice on fighting bed time? She absolutely will not just go to bed. Any night. Does not matter how tired she is. She will take up to 2 hours to falls asleep. Think of any way your toddlers tried to get out of going to bed and then times it by 10 and that’s what my daughter does. Every. Single. Night. She does not watch TV except on the weekends (we don’t own a TV, and when she watches shows on the weekend it for under 30 minutes and on an iPad). Please don’t tell me she will just grow out of it. There has to be something I can do.
+- `ar082-0019` (tried_failed) Question 2: any moms out there have experience with when your toddler is in their hitting phase, they only hit you and hardly ever your husband? I mean this girl has made me see stars and I am not a believer in gentle parenting (tried it, she just laughed at me), so I’ve been stern, told her no, put her in time out, spanked her, and she still finds joy in beating me up. She doesn’t ever do it with my husband, and he says it’s because im not using the right tone etc.
+- `ar082-0020` (desire) Im really starting to feel like a bad mom. Any advice would be greatly appreciated.
+
+### 1w4ykhe | r/toddlers | 2026-09-02 | child_2_years | parent_unspecified | patterns 3,11
+
+About: Toddler's toileting regression and demanding behaviour after house move. Wants: Help toddler adjust to move and reduce overwhelming behaviour. Already did: Tried multiple unspecified ideas; yelled; unpacking while caring for two children.
+
+- `ar072-0067` (trigger_moment) I have a 2 almost 3 year old son and a 5 month old daughter. We just moved from our apartment into a house last week and this past week had to have been one of the hardest, if not THE hardest week of my life. My son suddenly had a potty training regression and has been going through underwear like it's his job, he refused to listen to anything I say or ask of him, he is constantly whining or crying or screaming for attention and refuses to do anything independently.
+- `ar072-0068` (pain) That being said, trying to unpack with all of this going on at the same time has been so overstimulating and overwhelming I don't even know if there is an actual word to describe how I feel. I am so stressed out and exhausted by the end of the day. I know it's a really big change for a toddler. I feel like all I've been doing is yelling at him and here I am just like every other night this past week on the verge of tears because of the guilt I feel.
+- `ar072-0069` (question) Does anyone have any advice on how to make this transition easier for him? I feel like I have exhausted every idea I can think of but nothing seems to be making it any better.
+- `ar072-0070` (pain) On top of all of this I struggle with severe PPA, I don't have a village or family close by to help, and my husband is not the most supportive and I am on the clock 24/7 with the only time to myself being the 10 minutes that I get to shower at night. I'm just emotionally, physically, and mentally drained and I really just want to try and show up as the best version of myself for my kids and I feel like this week has really tested me. I'm really trying to see the light at the end of the tunnel but the tunnel feels like it's never going to end.
+
+### 1w5f29l | r/toddlers | 2026-09-02 | child_2_years | experienced_mother | patterns 3
+
+About: Toddler's dangerous boundary testing and limited speech overwhelm mother. Wants: Set effective boundaries, keep toddler safe and improve cooperation. Already did: Repeated corrections, reading, attention and childproofing.
+
+- `ar072-0071` (question) TD;LR - SAHM with 2 kids and 28month old is suddenly acting out really bad and not listening, it’s becoming unsafe. How can I set boundaries when he doesn’t listen. I need advice.
+- `ar072-0072` (pain) Hi everyone, I am a sahm with my son that is 28months and my daughter that is 9months. It’s not been too hard up until the last month with my son, and now i’m having a difficult time. He is having tantrums, finding any way he can to check boundaries. This week alone he has poured baby powder all over his bedroom, closet, and furniture while I was laying his sister down for a nap, he’s putting toys in the AC vents, throwing food across the room, spreading food on himself like it’s lotion and shampoo, hitting his sister, throwing toys, jumping on couches and trying to stand on chairs, and it goes on. This morning on our way out he decided to run away from me and almost fell off our front deck. He doesn’t listen, i’ve repeatedly corrected him, over and over and over. If I tell him to come, he doesn’t care. It’s getting to the point where he is becoming difficult to care for while also caring for his sister who is still an infant.
+- `ar072-0073` (pain) My son doesn’t really talk much, he says some words, communicates with pointing, says no to everything. We read to him and we give him plenty of attention. I just don’t know what else I can do. I don’t want him to get hurt, but when I tell him “no, danger” over and over and over and over and it goes in one ear and out the other. He can’t clearly communicate with me so it’s difficult.
+- `ar072-0074` (question) Am i doing something wrong? How can I set boundaries for him. Our house is childproofed, yet he has figured out how to undo the child proofing. I love him and I want him to respect me and listen to me because I don’t him getting hurt. please , anyone 😭
+
+### 1w6px88 | r/workingmoms | 2026-09-04 | child_2_years | parent_unspecified | patterns 1,3
+
+About: Two children scream throughout routines and after daycare. Wants: Know whether constant screaming and meltdowns are shared experiences. Already did: Avoided upsetting children; fed them after daycare; managed lengthy bedtime.
+
+- `ar011-0067` (pain) Maybe that’s dramatic, but we are at a point where our 2 yr old (F) and 4 yr old (M) are just constantly crying and screaming about something. The morning kicks off at 6 am where we’re walking on eggshells trying not to piss them off somehow. Inevitably we say no to something (like cookies for breakfast) or something doesn’t go just right and it’s a melt down. The walk to daycare is hit or miss,but post daycare…POST DAYCARE is on an entirely other level. If you don’t feed these gremlins immediately, screaming will ensue. We are just a household on the brink of destruction every day. And bedtime? Oh don’t get me started. Our 4 yr old calls for me for 3 hours until finally falling asleep. What even is peace and quiet?
+- `ar011-0068` (question) What’s up with this? Are our kids just feral or is this a shared experience? My working hours are the only time when I don’t hear a toddler screaming at me.
+
+### 1w73xo7 | r/Parenting | 2026-09-04 | child_2_years | experienced_mother | patterns 3,9
+
+About: Nearly three-year-old speaks rudely and mother blames daycare influence. Wants: Control rude speech and prevent developing bad character. Already did: Father stopped toy throwing; child later apologized to father.
+
+- `ar074-0114` (question) So my boy will be turning 3 this Oct, and he is being very mean lately.  Like today he was upset that his dad wont let him throw the toys i was just walking by to get something he looked at me and said "Mummy go and Cook" in the meanest voice,  i felt very bad as if he is kind of saying cook thats what you do 😔. Even he told his dad go seat there. I never heard him saying such things before and I felt really bad. Later he said sorry to his dad but i dont know why im taking it too seriously what if he turns into a bad kid, we never say such things at home so I know he picked this up from his day care.  What should I do to control this behaviour?
+
+### 1w7h7n1 | r/toddlers | 2026-09-04 | child_2_years | parent_unspecified | patterns 3,4
+
+About: Toddler's new fridge-opening skill causes damage and dinner refusal. Wants: Know if locking fridge is acceptable. Already did: nothing stated.
+
+- `ar045-0061` (trigger_moment) My girl is 2.5 (3 in December). She can now open the fridge on her own, and it's her favourite thing. Not only does she slam the door in the window frame and wall, she wants to explore everything (which I get it's normal) and I think she might be able take out bottles of wine and milk from the door, but clumsily and they will break.
+- `ar045-0062` (question) I really want to put a lock on the fridge, but I somehow feel it's wrong. Like I'm locking the food away. And then I'll be plating up dinner and she'll open the fridge and see yoghurt or something and then refuse her dinner.
+
+### 1w9hax0 | r/toddlers | 2026-09-07 | child_2_years | parent_unspecified | patterns 3
+
+About: Active affectionate toddler repeatedly injures parent, causing fear. Wants: Avoid injuries without restricting toddler's affectionate energetic personality. Already did: Therapy, ice-skating outing, protects head around toddler.
+
+- `ar062-0106` (belief) This might just be a vent post. I do already have a therapist. My toddler is almost three and he’s really physically active. He has so much energy and he’s really strong.
+- `ar062-0107` (trigger_moment) About 6 months ago, he gave me a concussion. Honestly my fault, I tried to take him ice skating and it was a disaster. I set his helmet next to him then looked down to take his skates off and he chucked the helmet at my head.
+- `ar062-0108` (fear) Ever since, I am so worried anytime he hits my head. He loves to cuddle and run up and hug. Theres a lot of instances, probably multiple times a day I’m protecting my head from him. It’s not because he’s angry, most of the time he’s playing or showing love.
+- `ar062-0109` (pain) Just tonight, I was helping him put his sleeping underwear on and he jumped up hard and hit my cheek bone with his head, not meaning to, and I’ll probably be bruised but no concussion symptoms thankfully.
+- `ar062-0110` (desire) It’s just hard, I want him to be able to be himself, it’s a lot. I don’t want to be afraid of him and I also don’t want to get injured.
+
+### 1waaowx | r/Parenting | 2026-09-08 | child_3_years | parent_unspecified | patterns 3
+
+About: Three year old repeatedly traps foot despite warnings. Wants: Know when to stop intervening in repeated minor mishaps. Already did: Repeated warnings both gently and firmly.
+
+- `ar071-0077` (tried_failed) My 3 year old keeps doing the same things that cause her to cry or complain. Lately, it's been getting her foot caught in our recliner's footrest. She will open it up and slide off, sometimes getting her foot stuck. We have told many times not to do that, both nicely and not so nicely.
+- `ar071-0078` (question) At what point do parents just say, "You know what? Fuck it. I'm just leaving it alone." She's able to get unstuck by herself, but still yells/complains when it happens.
+
+### 1waneq4 | r/workingmoms | 2026-09-08 | child_3_years | parent_unspecified | patterns 3
+
+About: Three-year-old's noncompliance leaves parent overwhelmed. Wants: Advice and reassurance about toddler noncompliance. Already did: Repeated instructions; tried different approaches, prayer, watching sugar.
+
+- `ar056-0131` (pain) He does not listen to anything I tell him to do  no matter what approach I take. And because he doesn’t listen other things happen as a result which makes me lose it. I’m usually not this overwhelmed but school was out yesterday and it feels like we had the worst day ever and I was extremely irritated. I prayed last night about it because I feel like absolute dog shit.
+- `ar056-0132` (trigger_moment) Then we had an incident this morning while I was trying to get him dressed and he wouldn’t stop jumping around after I kept telling him over and over and he spilled his chocolate milk all over & I nearly lost it all over again.
+- `ar056-0133` (desire) I really need some advice or something to let me know I’m not alone because this is really stressing me out and I want to be the best I can be for my son. Literally crying rn because idk what to do.
+- `ar056-0134` (belief) I feel like it has a lot to do with eating stuff with sugar in it so I’m trying to watch that.
+
+### 1wc9up7 | r/Mommit | 2026-09-10 | child_2_years | parent_unspecified | patterns 3,11,9
+
+About: Two-year-old hits and kicks parents despite gentle-hands teaching. Wants: Ways to stop hitting and kicking without spanking. Already did: Gentle-hands talks, demonstrations, firm no, potty training and play outings.
+
+- `ar072-0076` (pain) My 2 year old son has recently picked up smacking and kicking me. His dad too but I’m with him 95% of the day so I obviously get the most of it. Of course it’s not all day but during changes (still working on potty training) or randomly if I’m just close by and he finds it hilarious. I’ve had the nice hands talk, demonstrating being gentle, and simply just a firm no but he’ll still do it. Anything that helped you? Or is this just a phase that will pass? **spanking isn’t an option here**
+- `ar072-0077` (desire) No daycare just yet- he’ll be starting preschool when he’s 3. Thankfully he hasn’t put his hands on or kicked any other kids in play settings (library, children’s museum, swim lessons, etc) which I much prefer. Still want to stop this behavior as soon as possible!
+
+### 1wdmsi7 | r/Parenting | 2026-09-11 | child_2_years | new_mother | patterns 3
+
+About: Single mother overwhelmed by toddler defiance and lost skills. Wants: Advice and a break from toddler demands without returning to substances. Already did: Tries staying patient; discussed coping with friends.
+
+- `ar052-0059` (belief) I want to preface by saying I love children and have always wanted children. I used to babysit and I always thought that the term terrible twos was an awful saying and so unfair to out sweet innocent babies of the world who are just having a hard time trying to fit into this life.
+- `ar052-0060` (belief) I had my first child, a boy. He’s amazing and I love him more than I knew I could love anything. Becoming a mother changed me in so many ways that I needed and so many ways I am proud of. I am a single mother and of course raising a child is difficult but oh my god, I truly underestimated how the terrible the twos were in fact going to be.
+- `ar052-0061` (pain) This is nothing compared to the newborn trenches. I am constantly stressed, he’s always crying, things he learned he has suddenly unlearned, always testing boundaries and I feel like I just cannot win most days. I try to keep it together, I really do, but my patience just wears thin and I snap then I feel terrible. I feel like I am stuck in this vicious cycle and I don’t know what to do. He doesn’t sleep anymore, he doesn’t eat, he doesn’t leave me alone and “punishes” me any time I need a break.
+- `ar052-0062` (desire) I feel horrible even saying this about him because I psychologically understand why he is operating this way, but man I just want a week vacation from him. Not even to do anything crazy, just so I can actually sweep and mop, catch up on laundry, finish a couple tasks uninterrupted and sit down and enjoy a meal again because I really haven’t been able to do any of that with him climbing on everything and throwing things, breaking everything in sight.
+- `ar052-0063` (fear) Nothing about his behavior is extremely bad, I guess I just want to let this out and see if anyone has any advice. My one mom friend said she drinks almost every night after putting her kids to bed, another one said she smokes. I used to have issues with substances which is one of the many bad habits I overcame in my journey of parenthood so I’m frightened to fall into that again, but I’d be lying if I didn’t say I was tempted to have a nightly ritual of doing something to take the edge off!
+
+### 1weit3v | r/FirstTimeMom | 2026-09-12 | child_2_years | parent_unspecified | patterns 3,8
+
+About: Toddler rapidly learns words and repeats taboo language in public. Wants: Strategies and timeline to stop toddler repeating offensive words. Already did: Scolded, then ignored words; censored rap music in car.
+
+- `ar081-0126` (success_story) My son is turning 3 next month and he picks up EVERYTHING. He’s honestly such a smart kid and learns words/songs insanely fast, but unfortunately that also means he’s picked up a couple words I really wish he hadn’t.
+- `ar081-0127` (trigger_moment) The biggest issue is the N-word. Nobody in our household uses that word at all. He heard it a few times in rap music playing in my husband’s car, and now he randomly says it. He also picked up the F-word somewhere along the way. 😭
+- `ar081-0128` (tried_failed) He obviously has absolutely no idea what either word means. He’ll just randomly say them because I think he remembers the sound and knows it gets a reaction. At first I would scold him and tell him not to say it, but I realized that might actually be making it more interesting to him because he’s so young and doesn’t understand why the word is bad. Now I’ve been trying to completely ignore it and act like I didn’t hear him.
+- `ar081-0129` (fear) But I’m genuinely nervous taking him out sometimes because he can randomly blurt it out in public and it is SO embarrassing, especially the N-word. I don’t want someone hearing it and thinking this is language he’s hearing at home or that we’re teaching him this.
+- `ar081-0130` (question) Parents of toddlers — what is the best way to handle this at this age? Do I keep completely ignoring it? Correct him calmly every time? Replace the word with something else? How long did it take your toddler to forget a bad word once they picked it up?
+- `ar081-0131` (advice_given) And yes… rap music in the car has officially been censored. 😭
+
+### 1wg34ed | r/daddit | 2026-09-14 | child_2_years | parent_unspecified | patterns 3
+
+About: Rowdy two-year-old claims immortality when stopped from dangerous climbing. Wants: Respond to son's claims while keeping him safe. Already did: Intervened during climbing; warned about getting hurt.
+
+- `ar068-0094` (pain) Hi Dads, I’m a Dad of two (girl 5 and boy 2) and I have run into a problem that I have no idea how to approach, my Son has been getting steadily rowdier and I keep having to step in to stop him getting hurt, laying on the very top of the couch, climbing up coffe tables, leaning backwards on gates, and each time I stop him I tell him “No Son, you don’t want to get hurt” but lately he has been looking back at me and saying
+- `ar068-0095` (trigger_moment) “Daddy, I never die”
+- `ar068-0096` (fear) I have no idea how to respond to this, I don’t know where he got it from, my Wife doesn’t know either, I don’t want to burst his bubble and tell him he is not in fact immortal, but at the same time I’m not sure he even knows what Die means, above all I just want him to be safe but he keeps saying this to me and I just stop in my tracks.
+- `ar068-0097` (question) Any other Dads encounter something like this?
+
+### 1wh95cu | r/toddlers | 2026-09-15 | child_2_years | parent_unspecified | patterns 3
+
+About: Two-year-old climbs kitchen cabinets using drawer handles. Wants: Discourage climbing kitchen cabinets. Already did: nothing stated.
+
+- `ar047-0049` (question) Our 2yr is climbing the kitchen cabinets using the drawer handles as a ladder, any tips on how to discourage this?
+
+### 1whvxdl | r/toddlers | 2026-09-16 | child_2_years | parent_unspecified | patterns 3
+
+About: Two-year-old fiercely resists dressing and hair brushing before school. Wants: Solidarity or help with morning preparation battles. Already did: Stays calm and avoids rushing daughter.
+
+- `ar014-0072` (question) Anyone here struggle to get their 2 year old ready in the morning for school? My one and done daughter fights to the death of me to even brush hair, place clothes on for the day. I never make her feel rushed and stay calm since I’m used to it but it’s so annoying!
+
+### 1wihgsr | r/Parenting | 2026-09-17 | child_3_years | parent_unspecified | patterns 3,11
+
+About: Father distressed by three-year-old’s allegedly false account of hitting. Wants: Decide how to discuss true and untrue stories. Already did: Received teacher’s phone call.
+
+- `ar023-0140` (trigger_moment) Today my wife recieved a phone call from kinder, that our 3yo had a toileting accident and wet herself. She went to one of her teachers and let them know and then said 'my dad hits me on the bottom, when I wet myself and then I go cry to mum'. I have not hit her for a toileting accident or for anything else either.
+- `ar023-0141` (pain) I am so upset about this that I dont have the right words to express it. The logical part of me is saying that young children make up stories, but the emotional side of me is distraught over this. I have a million thoughts going through my mind, including if I should distance myself from my 3yo.
+- `ar023-0142` (question) Is sitting down with our 3yo and having a discussion about true and untrue stories the best path forward?
+
+### 1wix9ko | r/Parenting | 2026-09-17 | child_3_years | parent_unspecified | patterns 3,9
+
+About: Three-year-old screams and refuses preschool after repeated illnesses. Wants: Return child to preschool peacefully after illness. Already did: Preschool routine; laid out clothes together before return.
+
+- `ar078-0108` (pain) My 3.5 yr old is in preschool and had a few months of daycare before that. Every other week he is sick and getting my 8 month old sick. Constant runny noses and lingering cough for the past 2 months. Once i think he’s getting better and going back to school, then suddenly the following week he’s got a temp.
+- `ar078-0109` (pain) It’s not the getting sick part I’m sick of, it’s the taking him back to school…once he’s in his routine and starting to go peacefully suddenly he gets sick. After 3-5 days at home (depending on severity of illness) he goes back to preschool kicking, screaming and demanding to stay home! I don’t want the teachers dealing with that either.
+- `ar078-0110` (question) I hate seeing him like this. This morning time to go back and suddenly again “i don’t want to go to school” “im tired” “ i want to sleep more” (the guy had 10 hours of sleep). He laid out his clothes last night and was prepping for school and knew he had to go back today. But this morning a whole new beast awoke. Should I give in? Let him stay one more day? The weeks over tomorrow. Start new Monday? Ugh i dont know what to do.
+
+### 1wl1oxo | r/toddlers | 2026-09-20 | child_2_years | parent_unspecified | patterns 3,5
+
+About: Toddler attacks baby sister and discipline appears to undermine confidence. Wants: Effective discipline preserving confidence and reassurance aggression improves. Already did: Time-ins; individual attention; safety; gentle parenting; timeouts.
+
+- `ar067-0128` (pain) My girls have an almost exactly 2 year age gap, wirh my youngest being 8 months now. What the fuck happened to my sweet eldest girl? Once the baby came, the aggression followed quickly. She pushes, headbutts, bulldozes, ​​and flips out any time the baby is even close to her space, let alone the territorial  yelling when her sister touches literally anything.
+- `ar067-0129` (tried_failed) We've done time-ins, TONS of 1:1 quality time, and we always prioritize safety first...idk i feel like weve done all the gentle parenting bullshit and we arent getting anywhere. We started age-appropriate time outs now but shes such a sensitive kid that I can see the shame settling in. Tonight, I asked her if she was a kind person and she said "no," and looked like a sad Victorian child. Fucking gutted me.
+- `ar067-0130` (question) Does it get better? Anyone gone through something similar? Advice on discipline that has been effective and strategies to maintain confidence throughout? Thanks in advance and may you all survive the toddler phase
+
+### 1wlfgbw | r/Parenting | 2026-09-20 | child_3_years | parent_unspecified | patterns 3,10
+
+About: Parents disagree about leaving three-year-old to regulate tantrum alone. Wants: Compare helping toddler through tantrums with letting him settle alone. Already did: Wore headphones, periodically checked crying; child settled after five minutes.
+
+- `ar008-0086` (trigger_moment) So this morning my 3 year old had a melt down over some dumb crap. (He wanted one type of milk, we didn’t have that type, he lost it). You know normal 3 year old stuff.
+- `ar008-0087` (success_story) I decided to let him just regulate by himself.  I put head phones in and would periodically ask him if he was done crying or not. Eventually he was done and we moved on. Like 5 minutes nothing crazy.
+- `ar008-0088` (belief) The alternative would have been me trying to show him different things or distract him or basically like give his tantrum more attention
+- `ar008-0089` (others_said) My wife didn’t like me saying “when you’re done crying let me know” while I was listening to music bc I can only take so much.
+
+### 1wmlctt | r/toddlers | 2026-09-21 | child_2_years | parent_unspecified | patterns 3,6,10,11
+
+About: Almost-three-year-old abruptly regresses in toileting and develops extreme tantrums. Wants: Similar experiences and reassurance about sudden behaviour change. Already did: Spoke with teachers; calm responses; comfort; changed scenery; firm reminders.
+
+- `ar043-0139` (trigger_moment) First time parents here. My son is fast approaching 3 - he’ll be 3 at the end of December. All of sudden, like as of last week, he has turned into a completely different boy. Up to this point we’ve had the usual toddler tantrums and behavioral issues that are age appropriate for a 2 year old, but this last week has been a WHOLE new level of WTF.
+- `ar043-0140` (pain) It started with refusing to use the potty. He has been fully potty trained for months - accident free for longer than 2 months. Now he refuses to go and then will stand there and go in his pants and he says “I peed my pants on purpose”. We don’t even know where he heared this from, we are assuming daycare. So we have had chats with his teachers. He is now having up to four accidents a day, which is more than he was having when he was actively potty training. 
+- `ar043-0141` (tried_failed) He’s also having HUGE tantrums for seemly small things like my wife went to get him from nap instead of me (this resulted in a 10 minute meltdown). We are obviously not new to tantrums, but these are unlike anything we have experienced. Yesterday he cried, punched, kicked and screamed for nearly 15 minutes. I stayed calm the entire time. At first I didn’t make a big deal I just continued doing dishes, checked in and let him have his feels, which is what we used to do. But he just kept escalating, so I tried to de-escalate by using a calming voice. I carried him around the house, rubbed his back letting him know he’s okay. I changed the scenery. Nothing helped him calm down until he was just spent. It absolutely kills me to see him like this and it’s so new to us that we are at a loss. 
+- `ar043-0142` (pain) He also uses rude words now which he has NEVER done. We always cleanup our spots after dinner. He has been doing this since he turned 2, he used to love. Now he gets done and runs away. So I remind him, gently but firmly, that after dinner we put our dishes in the sink. He said “THEN YOU DO IT!” Excuse me!!? Who the hell?? I was so shocked I didn’t even know what to say to that. 
+- `ar043-0143` (question) There is more….but I’m basically here to say, what the hell happened to my little boy?? Is this the start of the threenager stage already?? I’ve heard it gets so much worse and we just thought we had more time. Has anyone else experienced this complete 180 change in behavior/attitude?
+- `ar043-0144` (pain) Oh man! Pregnant and dealing with this nonsense?! You are a true hero. Yes! My son too used to be soooo sweet, kind, gentle, and perfect….and now I’m contemplating an exorcism. 🫣 Try to stay strong. Supposedly, this too shall pass 😭
+- `ar043-0145` (objection) Oh my god! The parents!! Right?! And I constantly have to remind our parents that 1) they’re old and they blocked this shit out, 2) it was a different time and I’m still in therapy for their parenting style, and 3) either help me or mind your damn business.
+
+### 1wmv9hz | r/toddlers | 2026-09-22 | child_2_years | parent_unspecified | patterns 2,3
+
+About: Exhausted parent overwhelmed by toddler outbursts and constant demands. Wants: Relief, calmer days and realistic age for independent play. Already did: Daycare, greatly limited television, answered repeated questions.
+
+- `ar075-0174` (pain) He’ll be 3 in february, is in daycare during the week, and I’m just exhausted by him lately. He wants to do everything over and over and over, he will ask me the same question 8 times in a row despite me answering, he has suddenly started having angry outbursts.
+- `ar075-0175` (pain) I am exhausted to my core and lately I have been wishing for him to be older, and I’ve never done that before. but jesus christ I just want one single day where he isnt loud and jumping everywhere THE SECOND he is up for the day at 6 am, and going 90 miles an hour the entire day until 10 mins before bed.
+- `ar075-0176` (desire) i want to enjoy my child, i want to enjoy playing with him, but hes absolutely overwhelming and exhausting and i dont know why im even typing this. i just want it to get easier. i want to be able to sit and read my book while he plays without him interrupting me every 10 seconds (i’m not exaggerating!!!!)
+- `ar075-0177` (pain) i feel like a shell of a human and i’ve lately even considered asking my husband if we can just coparent because it’d be so much easier knowing i’d have a break. i know thats horrible but i’m just so depleted to my core.
+- `ar075-0178` (question) he’s very strong willed, low sleep needs, and still up multiple times a night. is there any hope? what age can i actually expect him to play independently?
+- `ar075-0179` (belief) Two days a week and the other three days I work from home & do online school
+- `ar075-0180` (pain) Not really, he works in landscaping in the texas heat from 7-6 and honestly he’s even more depleted than I am, and he does what he can but it’s 90% me doing the cleaning chores cooking etc
+- `ar075-0181` (pain) Hey even hearing the sleep regressions and potty getting better is really nice to hear and calmed me a bit. I think I could handle the craziness if he just simply slept uninterrupted all night. He has maybe once or twice this year, usually when sick
+- `ar075-0182` (belief) Thank you for this! We already extremely limit TV time so I think thats where it feels hard. I’ll start bringing toys out he hasnt played with in a while!
+- `ar075-0183` (belief) Nooo sorry, I’m in online school working on my bachelors! Not him! Thank you for your comment, he is definitely not a just ignore him kid. Thank you for the hope!
+- `ar075-0184` (desire) this is EXACTLY how my child is! I love him so much but I just need a calmness every once in a while. I’m not even asking for a daily thing😭
+
+### 1wnrh9x | r/toddlers | 2026-09-23 | child_2_years | parent_unspecified | patterns 3,4,9,11
+
+About: Toddler hides preschool supplies despite no-pocket clothing rule. Wants: Ideas or solidarity about toddler taking classroom items. Already did: Daily pocket checks; no-pocket rule; pocketless leggings; new Montessori preschool.
+
+- `ar006-0256` (pain) My toddler started filling her pockets with everything she could fit at her old daycare. We were doing a daily pat down causing major meltdowns at pick up when we discovered all the stowaways.
+- `ar006-0257` (tried_failed) We just started a new preschool last week and implemented a no pocket rule.  However we are having a crazy hard time trying to find pants that fit her round/short body, are easy for independent potty use AND don’t have pockets so we caved yesterday and again we found some stowaways in the pockets.
+- `ar006-0258` (trigger_moment) Today she was in pocketless leggings and…. At home she starts pulling school supplies out of her freaking underwear!
+- `ar006-0259` (fear) Ugh. We are really trying not to have bad associations at her new school. It is Montessori so it’s a big change from her daycare already.  And these toys/items are coming from specific lessons that need all their pieces.
+- `ar006-0260` (question) Any ideas- or just solidarity? Haha.
+
+### 1wolr28 | r/toddlers | 2026-09-23 | child_2_years | parent_unspecified | patterns 3
+
+About: Toddler compulsively picks diaper material at bedtime and daycare. Wants: Alternatives that meet sensory need and stop diaper picking. Already did: Covered stuffed bunny’s damaged toes with socks; considered overalls or onesies.
+
+- `ar040-0088` (pain) We have been BATTLING our sensory-seeking 2 year old (30 months) picking her diaper’s outer layer off when going to sleep for over a year. It started with her stuffed bunny’s toes losing fur from her picking, we added socks, and it moved to her diaper.
+- `ar040-0089` (others_said) Her daycare teacher had now let us k ow that she does it at nap, and the other kids are finding pieces and trying to eat them. The only thing we can think to use to make it stop is putting her in overalls/a onesie where she can’t reach her diaper.
+- `ar040-0090` (question) any thought on alternatives to help her not feel the need to pick?
+- `ar040-0091` (belief) It’s definitely a sensory thing, but neither of us can’t think of anything that would fill that need.
+
+### 1ws46sc | r/Parenting | 2026-09-28 | child_3_years | parent_unspecified | patterns 1,3
+
+About: Preschooler's pushing and pinching worsen despite previously reassuring evaluation. Wants: Strategies for impulse control and school behaviour. Already did: Completed district evaluation; uses visual schedule and predictable routines.
+
+- `ar025-0089` (others_said) My son turns 4 next month and is in Pre-K. Last year, his teachers recommended an evaluation for impulse control. We thought his behavior was normal, but we went ahead with it. He scored a 150 verbal IQ (99.9%) with above-average motor skills, and the school district concluded he didn't qualify for services.
+- `ar025-0090` (pain) Now, his new teacher is raising similar concerns and wants him evaluated again. He has been pushing and grabbing for toys, bumping feet under tables, and pinching kids during downtime like circle time. When we ask him why, he admits he knows it's wrong but says he was bored or didn't want to wait. He also lies frequently, which I know can be typical for toddlers.
+- `ar025-0091` (belief) His impulse control has noticeably worsened lately. We think this is might at least in part be due to some changes at home: he just started a brand new school, and we had a new baby four weeks ago (his only sibling) who spent the first three weeks in the NICU.
+- `ar025-0092` (tried_failed) At home, we are trying to provide predictable routines using a visual picture schedule. While his sharing struggles on regular playdates seem like typical toddler behavior, we recently saw the school behaviors firsthand at a classmate's birthday party. The pushing, grabbing, and overall lack of impulse control are definitely worse now than they were a few months ago.
+- `ar025-0093` (question) Anyone have some advice on strategies we could try to work on these issues?
+
+### 1wsq4hg | r/daddit | 2026-09-28 | child_2_years | parent_unspecified | patterns 3
+
+About: Two-year-old repeatedly climbs and stands on father's testicles. Wants: Vent humorously and receive sympathy about painful toddler climbing. Already did: Guarded testicles; considered protective cup.
+
+- `ar054-0091` (belief) Like I swear most of my life I have had to worry about guarding my testicles a handful of times.
+- `ar054-0092` (pain) Now it seems like multiple times a day my son insists on trying to stand on them, kick off of them, use them as a hand hold for climbing.
+- `ar054-0093` (belief) I want to have more kids but I think he disagrees.
+- `ar054-0094` (desire) I feel like I may need to wear a cup daily.
+- `ar054-0095` (desire) Please pray for me.
+
+### 1wsvty0 | r/NewParents | 2026-09-29 | child_3_years | experienced_mother | patterns 3,11
+
+About: Three-year-old repeatedly requests potty to delay bedtime. Wants: Solution or reassurance about bedtime potty requests. Already did: Bedtime books and toilet routine; warns against forcing pee.
+
+- `ar047-0078` (pain) I know this has to be a phase, but how long is this going to last? We get him all tucked in, books are read, nightlight is on, we go potty right before he goes to bed and without fail he gets up and says he has to pee 5 or more times. He forces himself to pee, I keep telling him he’s going to hurt himself doing that (because that cannot be good for your bladder, right?), but he just says it’s okay mommy don’t worry.
+- `ar047-0079` (pain) Then if I started to get frustrated because I’m 38 weeks pregnant and just want to sit and relax he says “it’s okay mommy, you don’t have to be mad!” And then lays down for 2 minutes before we repeat the cycle. Usually after 5 or 6 times he goes to sleep, but it takes 30+ minutes to actually get him to sleep after he goes down the first time.
+- `ar047-0080` (desire) Not sure if anyone has a solution, or if someone can help me find the light, but I am large and tired lol.
+
+### 1wtsb67 | r/toddlers | 2026-09-30 | child_2_years | parent_unspecified | patterns 3
+
+About: Teaching toddler no means no while requiring care routines. Wants: Teach bodily autonomy while enforcing necessary hygiene. Already did: Respects refusals, prohibits hitting, offers timing choices.
+
+- `ar073-0134` (belief) So I’m trying to teach my son (almost 3) that no means no. Of course we are trying to respect his nos too so no he doesn’t need to hug grandma if he doesn’t want to, no he can’t hit, no he doesn’t have to eat a specific food if he doesn’t want to (but there will not be other options/snacks) etc.
+- `ar073-0135` (question) But I’m struggling to go about things that need to happen. For example, we need to brush his teeth even if he doesn’t want to. We try to give him options (do you want to brush before or after pjs?) but sometimes he will just say No! to that even though its not a yes or no question. If he truly had his way, we would never get to apply lotion, never brush his teeth, never get out of pjs, never get anything done really. How do you suggest I go about it when I can’t respect his nos? How do I teach that no means no… most of the time?
+
+### 1wvaxg7 | r/Mommit | 2026-10-01 | child_3_years | experienced_mother | patterns 3
+
+About: Three-year-old repeatedly rubs mother’s belly despite objections. Wants: Know whether other mothers experience unwanted comfort touching. Already did: Repeatedly told son not to; earlier belly bonding during pregnancy.
+
+- `ar061-0134` (pain) hate may be a strong word, but I highly dislike it. He will try anything to get under my covers and put his hand in my shirt so he can rub it (even after telling him not to many times) and honestly it gives me the ick. Like it makes me cringe. And I hate talking like this about my son, he’s only 3 but that’s how I feel. There was a time when I was pregnant with his sister and we’d do that as I way to bond with her, but over time it’s become one of his main ways of comfort and now I just don’t like it anymore. Does any other mom have this problem?
+
+### 1wvfzgs | r/toddlers | 2026-10-02 | child_2_years | parent_unspecified | patterns 3,9
+
+About: Two-year-old hits daycare peers to get toys but behaves elsewhere. Wants: Stop hitting at daycare despite no similar behaviour at home. Already did: Received two daycare reports; observes play with friends’ children.
+
+- `ar001-0140` (others_said) 2nd time ive been told at daycare my son is hitting to get a toy.
+- `ar001-0141` (belief) 1. He doesnt do it at home (only child but he plays with my friends children and he doesnt do it with them)
+- `ar001-0142` (objection) 2. Even though its not a good reason, I dont get the full context of it like for example if he started it or the other kid started it.
+- `ar001-0143` (objection) 3. He is the youngest in the class and only reason it was brought up today was because the other child told her parents.
+- `ar001-0144` (question) My son is 2 years and a month old and since he doesnt act this way at home I wonder what i can do to stop this behavior at daycare.
+- `ar001-0145` (others_said) Oh also I didnt realize it because we were never told but he evidently did it last year from his previous class, the teachers never told us.
+
+### 1wwff34 | r/toddlers | 2026-10-03 | child_2_years | parent_unspecified | patterns 1,3,9
+
+About: Almost-three-year-old persistently touches peers and ignores physical boundaries at preschool. Wants: Ways to teach physical boundaries beyond repeated gentle reminders. Already did: Started full-time preschool; reinforces gentle hands, please and no.
+
+- `ar026-0074` (trigger_moment) My son started full time preschool earlier this month after only doing part time daycare for a few months prior.
+
+He did so well the first 2 weeks and now the teachers are telling me he is lacking physical boundaries. My biggest fear is raising a boy who doesn’t respect other people’s bodies. And now we’re here.
+- `ar026-0075` (pain) Examples include constantly hugging peers, constantly touching their shoes or shirt if there is a cool design, nudging students out of the way if he wants something. Peers will tell him no and he persists. He’s gotten slapped in the face by one classmate after bothering him all day.
+- `ar026-0076` (others_said) Teachers say to reinforce “gentle hands”, “ask please”, and “no”, which we have always done. The thing is, he is not like this at home or around family and his other friends outside of school setting. Sometimes he’s clingy with me and will request I carry him so I’m wondering if some of it is a sensory thing.
+- `ar026-0077` (question) Other than the gentle reminders, which we will continue, what else can we do?
+
+### 1wx3kvn | r/toddlers | 2026-10-04 | child_3_years | parent_unspecified | patterns 1,3,11
+
+About: Imaginative three-year-old ignores parents and won't interrupt play for toilet. Wants: Advice gaining attention while encouraging creativity. Already did: Potty attempts, crouching, naming, raised voice, removing toys; booked hearing test.
+
+- `ar053-0092` (belief) We have a beautiful, clever, and VERY imaginative three year old daughter.
+- `ar053-0093` (success_story) Despite a couple of tries, she hasn't got the hang of potty training yet. It's frustrating, but I think we will get there eventually. We have had some success this weekend, which is great. I feel like she knows when she needs to use the toilet, and 50% she tells us.
+- `ar053-0094` (pain) My issue is... this kid gets so caught up in her play world that she just will not listen to a thing we say - she has imaginary friends that do imaginary things constantly.
+- `ar053-0095` (tried_failed) Usually, if I need to ask something of her (e.g. do you need to use the potty?, or it's time for dinner, or please don't stand on the wobbly chair) I crouch to her level and say her name before talking - most of the time it's like I'm not there. She continues talking to her toys/imaginary friends and ignores me entirely. It takes at least 3 goes to get her to listen properly. Raising my voice absolutely does not work. I can take the toys off her, which gets her to look at me and sometimes she will then listen and respond. But I can't take away an imaginary friend...
+- `ar053-0096` (pain) She doesn't ever want to stop playing to use the potty or toilet, and will happily play in wet or dirty undies - literally unphased. Loves being messy 🤦‍♀️
+- `ar053-0097` (belief) We have booked a hearing test for Tuesday but I honestly don't think that's the issue. She will happily listen to music at a reasonable volume and certainly hears us when we suggest ice cream...
+- `ar053-0098` (question) Any advice?? Is this just all 3 year olds? I want to encourage her creativity and imagination but I am at my wit's end being constantly ignored.
+
+### 1wxfmc2 | r/toddlers | 2026-10-04 | child_2_years | parent_unspecified | patterns 3
+
+About: Toddler tidies toys when offered cleanup or bedtime choice. Wants: Share successful trick for getting toddler to tidy. Already did: Offered choice between bedtime and putting away another item.
+
+- `ar011-0106` (success_story) You know that old "offer two options" trick? Last night I asked my daughter (2 going on 3) "do you want to go to bed now, or do you want to find something else to put away first?" We ​ were up a little late, but boy it looks tidy in here for a change!
+
+### 1wzihjt | r/toddlers | 2026-10-07 | child_3_years | experienced_mother | patterns 3
+
+About: Three-year-old panics when hair or body washed. Wants: Calm child during washing and reduce bath anxiety. Already did: Goggles; washcloth; hand rinsing; toy washing; child control.
+
+- `ar029-0079` (tried_failed) Hi! I'm a mom of a younger 3 year old toddler. He is giving my husband and I the hardest time with bath time or showers. He loves water, loves playing with his toys and has no hesitation to get right in. The hard part is soaping him up or washing his hair. He will immediately begin to scream and cry as if panicked. We have tried goggles, using a wash cloth, using out hand, not pouring water on his head, having him "wash his toys hair", letting him wash my hair, and even trying to get him to do it himself to have control over the situation.
+- `ar029-0080` (question) He is healthy, he is safe and not abused. What do I do to try and calm him down? His hair is short so there are no knots or tangles. The moment he is out of the tub we can touch his head no problem without him crying.
+- `ar029-0081` (pain) If you have any advice I am all ears. I'm beginning to get anxious every bath time and am almost on the verge of tears.
+
+### 1x0pvyf | r/daddit | 2026-10-08 | child_3_years | parent_unspecified | patterns 3,5,6,10
+
+About: Father regrets intimidating runaway toddler and fears repeating childhood parenting. Wants: Respond to running away without fear and shame. Already did: Yelled, apologized, put child in room, consulted wife and grandmother.
+
+- `ar057-0107` (question) This might sound completely insane, but my three-year-old just said the craziest thing and it's making me worry. I wasn't given the skills I need to handle it and I could use advice.
+- `ar057-0108` (pain) My daughter lives with my wife, myself, and my Mother-in-law. She has always been a fast, free-spirited, shitty listener. Running away has always been the fastest way for her to get a reaction and attention. She thrives under structure and schedule, but those things have been thrown recently with me being home and my wife recovering from surgery.
+- `ar057-0109` (regret) I'm finding myself reverting to my parents' own strategies. Now that I'm an adult I'm just realizing those were fear and shame which I don't really want to pass along. She ran away four times this morning and I got mad, yelled, and got down in her face to be intense, which I immediately regretted.
+- `ar057-0110` (trigger_moment) We finished doing our chicken chores and I apologized for getting mad. She told me she made me frustrated. When I asked her why, she said it's so she could go see Mom.
+- `ar057-0111` (tried_failed) I got mad, picked her up, brought her inside and put her in her room. Then I went to talk to Mom and Grammy. I told them I was angry, that I was going to take a pill to help, and I don't know how to handle this. The only thing I can think of is that I get up with her instead of letting her get up and go into Grammy's room where she just watches Bluey until she's dysregulated enough to fuck up my day.
+- `ar057-0112` (desire) My worst memories are of my Dad getting in my face, and I don't want that to happen to my little girl. I just don't know how to do anything else, and I hope someone here does.
+
+### 1x1slik | r/toddlers | 2026-10-09 | child_2_years | parent_unspecified | patterns 2,3
+
+About: Toddler's toy frustration and frequent tantrums force daily outings. Wants: Tips and reassurance tantrums improve; peaceful indoor play days. Already did: Takes toddler out every day.
+
+- `ar008-0090` (pain) My 2.5 year old has so many tantrums during the day. He gets frustrated with his toys and I’m just so defeated. I have to take him out everyday for our sanity. Does it get better? Any tips? Some days I’d love to just stay in the house and have him play with toys but he gets mad at them.. thanks
+
+### 1x219wf | r/toddlers | 2026-10-10 | child_3_years | parent_unspecified | patterns 3,2
+
+About: Three year old screeches throws hits and wants constant outdoor time. Wants: Tips surviving difficult behaviour and tiring child out. Already did: nothing stated.
+
+- `ar055-0131` (pain) He’s never been great at sleep, he’s a very active sleeper and lately he’s been worse than usual. Which means I’m not sleeping well at all. And on top of that, his behaviour is just awful. Granted, I know threenager is a thing, but when will the screeching, throwing things, and smacking people stop? Lol.
+- `ar055-0132` (question) How are the rest of us handling/surviving this age? Because I need tips, he’s being a little gremlin. Do I just set him out in the yard and hope he wears himself out? The downside to that is he wants to be outside all day and I do not, hahaha.
+- `ar055-0133` (desire) Send copious amounts of coffee, and some extra patience if you have any.
+
+### 1x2sp7e | r/toddlers | 2026-10-10 | child_2_years | parent_unspecified | patterns 2,3
+
+About: Two-year-old refuses restraints and wants to explore outdoors. Wants: Allow safe exploration despite refusing stroller and car seat. Already did: Tried stroller, holding and driving to park.
+
+- `ar036-0094` (pain) 2 years old don't want to sit in a stroller or be held in arms.
+- `ar036-0095` (desire) But he wants to go out all the time.
+- `ar036-0096` (belief) He likes to walk around and explore.
+- `ar036-0097` (fear) The problem is safety. We can't just let him walk around on the road where there are a lot of cars.
+- `ar036-0098` (tried_failed) Trying to take to the park is not working well either. He doesn't sit in the car seat. At this point he doesn't know that we are going to park.
+- `ar036-0099` (question) Any suggestions or ideas to help him be the explorer he wants to be while making sure he is safe.
+
+### 1x3ecmn | r/Parenting | 2026-10-11 | child_2_years | parent_unspecified | patterns 3,1
+
+About: Toddler newly touches other childrens private parts. Wants: Understand and respond appropriately. Already did: nothing stated.
+
+- `ar035-0138` (question) My son is two years old. He recently started touching other kids private parts. This is really new behavior, and I’m trying to understand why he might be doing this and how to navigate and approach it correctly. Has anyone experienced this?
+
+### 1x3n34y | r/Parenting | 2026-10-11 | child_3_years | parent_unspecified | patterns 3
+
+About: Three-year-old's aggression and night waking overwhelm parent. Wants: Tips for emotional control and better sleep. Already did: Tried strict routine; attends child when screaming.
+
+- `ar021-0162` (pain) My 3y/o boy is nuts!!! Nothing like his big sister.
+- `ar021-0163` (pain) Like the title says, my son is a madman at 3 y/o. His emotions go from silly to anger and back he doesn’t want to go to sleep most nights and when he does, he only sleeps a few hours and is awake and ready to start his day like he got a full night’s sleep. We’ve tried having a strict routine but he’s blown that apart because he’ll just scream until someone comes to his room, then he’s fine and wants to play. He’s got a terrible temper that has him hitting and being aggressive. One little inconvenience and he could start swinging, and he’s incredibly strong. He’s also very intelligent and can be a sweet, snuggly little boy all day.
+- `ar021-0164` (question) I guess this was more of a venting post, but any pointers, tips or tricks to get him to control his emotions better or sleep better, are appreciated.
+
+### 1x4mwnh | r/Parenting | 2026-10-13 | child_3_years | parent_unspecified | patterns 3
+
+About: Nearly-four-year-old denies responsibility after accidentally hurting sister. Wants: Gentle steps toward admitting mistakes, apologizing and making amends. Already did: Reassured child, explained accidents, encouraged checking sister, reminded safe chair use.
+
+- `ar064-0096` (desire) I understand it's normal for them to deny and try to protect themselves. I'm not looking for a sudden change or anything. But what are the steps to try and gently begin to accept that they made a mistake (accidentally or on purpose) and make amends (say sorry, see if the other person is alright) when appropriate?
+- `ar064-0097` (trigger_moment) Today my nearly-4 year old tilted a chair back and it landed on her sister's toes. While sister cried and was being comforted, I just wanted her to come to me and give sister some space. I was saying it's okay and I'm not mad, but she started crying and trying to get away (to the occupied parent).
+- `ar064-0098` (tried_failed) After some more reassurances she stopped crying but she was getting defensive and denying any wrongdoing (her kneeling and leaning over the back of the chair, making it fall), even accidental. Again, I reiterated she wasn't in trouble, it's normal to feel bad after an accident, accidents happen, and that we should check and see how sister is feeling now. She didn't want to do anything and just kept saying it was the chair's fault, and later someone else's fault.
+- `ar064-0099` (tried_failed) We've mentioned not leaning on the backs of the big chairs and sitting on our bums, so I tried saying now you understand why we don't do that/sit on our bums because I don't want either of you getting hurt (since she fell with the chair but was fine), not at all in an accusatory or exasperated tone, very supportive, but she just wanted to shut me out and get away.
+- `ar064-0100` (question) Again, I understand it's normal, but what's the process of beginning to help her "get it"? Just want to make sure I'm doing the write things for the future development.
+- `ar064-0101` (success_story) She's able to say sorry for smaller things.
+
+### 1x52sm1 | r/toddlers | 2026-10-13 | child_2_years | parent_unspecified | patterns 3
+
+About: Toddler’s intense frustration with play triggers frequent meltdowns. Wants: Help toddler handle frustration and reduce exhausting meltdowns. Already did: Calm reassurance, deep breaths, encouragement to keep trying.
+
+- `ar070-0176` (pain) My 2.5-year-old son has recently started getting extremely frustrated whenever something doesn’t go his way. Whether it’s his blocks falling, struggling to scoop up an ice cube, or his animal figurines tipping over. Every minor inconvenience seems to trigger a full-blown meltdown.
+- `ar070-0177` (pain) He starts screaming, running around, throwing his toys everywhere, throwing himself on the floor, and getting completely worked up. It’s happening so frequently that I’m honestly at my wits end.
+- `ar070-0178` (tried_failed) I’ve tried staying calm, reassuring him that it’s okay, encouraging deep breaths, and reminding him to keep trying, but none of it seems to register.
+- `ar070-0179` (question) I know this is part of toddlerhood, but the intensity of his reactions is exhausting. Has anyone else gone through this? What actually helped your toddler handle frustration better?
+
+### 1x5wgj1 | r/daddit | 2026-10-14 | child_2_years | parent_unspecified | patterns 3
+
+About: Father questions yelling to interrupt toddler's dangerous actions. Wants: Know whether safety-related yelling is right and find better responses. Already did: Calm requests; shouts in danger; removes child; explains and hugs afterwards.
+
+- `ar025-0100` (belief) Hi Dads. I have a 2.5-year-old who is a great kid and a lot of fun. Unfortunately, like most kids, he is occasionally possessed by the mischief demon and does incredibly dumb things. 
+- `ar025-0101` (question) I'm a very calm, patient dad. I don't think I've ever raised my voice in anger with the little guy. Sometimes, though, I feel like I *have* to yell, not because I'm angry but just to get his attention in the middle of an act of chaos. Is that the right reaction? 
+- `ar025-0102` (trigger_moment) 1) I was carrying dishes from the dining room table to the dishwasher. I came around the corner with an armful of plates and saw him lifting the half-full rack of dishes off the rails and trying to dump it out on the floor. I said, "Hey, stop that" and he kept going, so I yelled, "HEY! HEY! NO! STOP THAT RIGHT NOW!" 
+- `ar025-0103` (trigger_moment) 2) A little while later, I was across the room and he was playing near our dog. They are normally best buds, but this time I saw him get a mischievous look, rear back, and smack the dog in the side. As he pulled back his hand to do it again, I shouted, "<NAME>, NO! DO NOT HIT HER!" and ran across the room and hauled him away. 
+- `ar025-0104` (belief) (Fortunately, our dog is a saint. She just looked at him sadly, which I felt terrible about. She got several treats.)
+- `ar025-0105` (pain) This stuff normally happens every few days, and I know it's standard kid behavior. Afterwards, he's always upset, and I calmly explain why I had to stop him, and give him a hug. I just feel bad about yelling and always wonder if there's a better way to handle it.
+- `ar025-0106` (question) Anyway, I'm probably overthinking things. Please let me know what you think, and feel free to share your kid's latest act of chaos.
+
+### 1x6auel | r/toddlers | 2026-10-15 | child_2_years | parent_unspecified | patterns 3,5
+
+About: Frequent toddler tantrums and difficult transitions wear parent down. Wants: Know whether fits are a phase and how to respond. Already did: Reassurance, hugs, timers, play, knocked toy from child's hand.
+
+- `ar021-0191` (pain) My daughter is about to be three next month, and she’s started throwing the absolute worst fits multiple times a day. She’s mad if she has to go to daycare, when it’s time to turn a show off, when it’s time to get out of the bath, when it’s time to put her toys away for the night, and even when we’re doing exactly what she asked but she somehow is still pissed.
+- `ar021-0192` (regret) These fits are full open-mouth, eyes watering wailing and she yells “no” and says “I don’t like you.” We do have good repair after this. I always tell her I love her even if she doesn’t like me right now and she usually wants a hug once she calms down. However the frequency at which they’re happening is starting to wear me down. After bath tonight, she wanted to play a little longer and I said I’d set a timer and we could play. But she was still mad that there was a time limit set, so she was knocking the toys out of my hand when I tried playing. I asked her to stop and said it makes me not want to play anymore but she kept doing it…so I eventually knocked the toy out her hand and said “see how would it make you feel if I kept doing that every time you want to play?” 😬 not my proudest moment and it did lead to full on crying and her telling me I made her sad.
+- `ar021-0193` (fear) I will say, she’s become very attached to Paw Patrol and all of the figurines of the characters and I feel like I’ve noticed the behavior intensity along with this interest growing. But I have no idea if it’s just a coincidence, and it feels mean to cut out something that brings her so much joy when I’m not sure it’s actually the issue.
+- `ar021-0194` (question) Is this just a phase or is there something I need to be doing about this? I’m getting so stressed out and it just makes me hate transitioning between activities with her.
+
+### 1x7y4gx | r/toddlers | 2026-10-17 | child_2_years | parent_unspecified | patterns 3
+
+About: Two-year-old’s climbing, tantrums, and mess exhaust parent. Wants: Solidarity rather than advice about difficult toddler stage. Already did: Constantly cleans messes.
+
+- `ar069-0238` (pain) Every stage so far has had ups and downs. But man, having a 2 year old has been rough. I can’t sit down without elbows to the ribs and knees in my belly from him crawling on me. The full on tantrums and screaming are difficult to navigate. Sometimes he eats plenty and other days he throws all his food all over the floor. I am constantly cleaning up messes. Not looking for advice just solidarity! I love him so much and I know this is just a phase.
+
+### 1x8cgs6 | r/toddlers | 2026-10-17 | child_2_years | parent_unspecified | patterns 3,5
+
+About: Managing fighting toddlers when parent cannot safely step away. Wants: Stay calm and discipline safely while supervising both toddlers. Already did: Timeouts; involving children in chores; immediate bath removal; short-term TV.
+
+- `ar068-0108` (pain) So, the most common piece of advice I see on this thread is to step away and take deep breaths. But what if it’s not safe/appropriate to leave? I have two toddlers, 2 & 3, and they fight CONSTANTLY. And that’s not an exaggeration I’m making; just the other day it took me 8 (EIGHT) attempts to put a single load of laundry in the washer cause every time I stepped away to the garage, I heard screaming and crying and the sound of them fighting after a few seconds. I can’t just step away then, cause that’s what caused the issue in the first place. I tried putting them both in timeout, but they’re both still pretty little and they can’t just sit there while I do all the housework. And before anyone tells me, yes, I have tried “getting them involved.” It just dissolves into more fighting over who gets to that shirt in the dryer, who gets to close the dishwasher, who gets to fold those pants, who gets to sweep, whose turn it is to help me vacuum (they broke their toy one) etc. It makes doing housework even MORE difficult.
+- `ar068-0109` (pain) Another place is the bath. I feel awful saying this, but my 2.5 y/o is a nightmare to bathe. He’s constantly hitting and scratching his sister, jumping up and cannon balling into the water (I’m constantly afraid he’ll hurt his tailbone) dumping cup fulls of water out of the bath cause he knows it  upsets me and thinks it’s funny, waiting for me to get close and then spitting water directly in my face, and a million other things. It’s like trying to bathe a damn tornado. I basically just have to get him in the bath and washed as fast as possible and then out as soon as he starts acting up, but then he loses his mind cause he doesn’t want to get out so I’m trying to handle a gigantic meltdown while also watching my daughter in the bath. She LOVES the bath and it’s one of the few places she’ll play calmly, and I don’t think it’s fair that her bath should constantly be cut short cause her brother is acting up. But I can’t leave her there alone to take him out and calm him down, and it’s also rough to wash her when he’s losing his sh\*t and taking off out of the bathroom to go get into stuff while I’m washing her (he knows how to unlock the door/turn the knob).
+- `ar068-0110` (pain) And yes, my husband is amazing and pulls his weight as a parent WHEN HE’S HOME, but he doesn‘t have a remote job. He works full time, as does every member of our family that lives nearby. I am 100% on my own during the day.   
+I feel like I’m failing them all the time. I try to keep my cool, but they push me past my breaking point multiple times a day. I don’t want to be mad all the time, I don’t want them to remember me that way,  but I’m only human, and I can’t always just “step away.” I feel so lost and helpless most of the time. What else can I do?
+- `ar068-0111` (tried_failed) I DO remove him from the bath immediately. That’s one of the issues I mentioned, is that I feel awful constantly (and I do mean almost every single time) having to end my daughters bath so I can go discipline him since she can’t be left in the bath alone. That’s why I feel so frustrated
+- `ar068-0112` (objection) Yes, and while I’m not anti screen time, I put on the tv every time I had to turn away, it would be on 24/7. It’s fine for short term solution, but I need something a little more concrete for long term
+- `ar068-0113` (objection) Yeah they’re definitely way too big to carry both on front and back, both are very high percentile
+- `ar068-0114` (question) How do you handle it when one is acting up while you’re out, but the other is behaving really well? I feel awful when one is acting out so we have to leave the park or mall or wherever but the other has been doing what they’re asked, I don’t want them to feel punished for their siblings actions but at times I genuinely have no idea what to do
+- `ar068-0115` (objection) While I understand the point you’re trying to make, this is still difficult to do. My daughter finds it distressing to witness his meltdown just like everyone else. Like you stated before, it’s unfair to her to have her bath time affected by his behavior. This also applies to forcing him to stay in while she takes a bath. She will eventually start crying and asking me to take him out because she doesn’t want to listen to him freaking out. So while I get that this might work in theory, it doesn’t work well when actually applied to these kids specifically, which is where the frustration is coming from
+- `ar068-0116` (pain) It’s not so much about taking my daughter out of the bath as removing my son from the bathroom. So long as he’s around the bath and there’s water in there, he’ll continue to scream, try to climb back in, try to splash water from the outside, etc. He’s still little, so I obviously get that it’s just his brain doing what it does at that age and so being taken away from the sight of the bath helps him come back down to reality long enough for me to re-enforce why he was taken out and why his behavior was wrong. As soon as he see’s again, though, he’ll just start freaking out again.  But that just takes us right back to the original issue of not being able to leave my daughter there by herself 
+It’s just a frustrating catch-22; I just feel like no matter what decision I make, it’s not the right one. It feels like either his behavior isn’t being disciplined correctly, or my daughter is being unfairly punished for her brothers actions
+
+### 1x93t3u | r/daddit | 2026-10-18 | child_3_years | parent_unspecified | patterns 3
+
+About: Previously cooperative preschooler suddenly resists every instruction. Wants: Ways to correct sudden defiance. Already did: Timeouts; changed tone; gave directions.
+
+- `ar006-0267` (belief) Son is 3.5 years old. And I’m not exaggerating when I say until now he’s been fantastic. Smart, funny, cute, and most of all cooperative.
+- `ar006-0268` (pain) But the last week…. Refuses to do whatever is asked of him (be it picking your clothes l, stop grabbing my face, don’t pull the dogs tail). Every direction is resisted and the opposite is done.
+- `ar006-0269` (tried_failed) Timeout doesn’t work. He refuses and throws a tantrum and pushes back for hours. Refuses to go to bed. He doesn’t respond to a mood change from his mother and me…
+- `ar006-0270` (pain) He really just kinda sucks right now and we cannot figure out how to correct him
+
+### 1xbvyll | r/Parenting | 2026-10-21 | child_3_years | experienced_mother | patterns 1,3
+
+About: Mother cannot stop three-year-old handling kitten roughly. Wants: Effective consequences and strategies to teach gentleness and protect kitten. Already did: Explained feelings; demonstrated gentle petting; corrected; redirected; intervened repeatedly.
+
+- `ar005-0096` (pain) I'm a mom of a very strong willed 3 year old, and I genuinely don't know what else to do.
+- `ar005-0097` (tried_failed) We have a kitten, and my daughter absolutely adores her. The problem is that her version of love is not gentle. I've explained and demonstrated gentle petting countless times. We've talked about how the kitten has feelings, how being squeezed hurts, how we need to respect animals, etc. I feel like I'm repeating myself 1,000 times a day.
+- `ar005-0098` (pain) Despite that, she'll still go lay on the kitten, pin her down, squeeze her while trying to hug and kiss her, or pick her up awkwardly under her front legs. The kitten will meow loudly, struggle to get away, and run from her whenever she gets the chance. My daughter seems to think she has to hold the kitten tighter so she won't escape, which obviously makes the situation worse.
+- `ar005-0099` (tried_failed) The most frustrating part is that I'll correct her, redirect her, and explain it again. Then I'll turn around for literally five seconds to do something, and she's right back to doing it.
+- `ar005-0100` (desire) I'm not looking for permission to let it continue. The kitten's safety comes first, and I intervene every single time I see it. But I'm struggling with what consequences are actually appropriate and effective for a 3yo.
+- `ar005-0101` (question) If you've dealt with this before:  
+How did you teach a young child to be gentle with animals?  
+What consequences worked when verbal reminders didn't?  
+Did you have to completely separate the child and pet for a while?  
+Is this normal 3yo behavior, or should I be more concerned?
+- `ar005-0102` (fear) I'm exhausted, feeling like a broken record, and honestly worried that one day the kitten will get hurt or finally scratch/bite in self defense.
+- `ar005-0103` (question) Parents, animal owners, or anyone with experience in child development, what would you do in my situation?  
+Thanks in advance. I really need some outside perspectives. ❤️
+
+### 1xcp64c | r/daddit | 2026-10-22 | child_2_years | parent_unspecified | patterns 3,9
+
+About: Two-year-old scratched and bitten by classmates during daycare play. Wants: Advice responding to repeated daycare aggression and injuries. Already did: Received incident reports and spoke with daycare management. Paid: Daycare costing essentially a second mortgage.
+
+- `ar082-0046` (trigger_moment) Long story short, my wife and I have received two incidents reports in three days where our two year old daughter was injured in the face by “friends” in her class.
+- `ar082-0047` (pain) First it was a scratch that just missed her eye because a boy tried to take a toy from her. I wasn’t trilled about it due to the location but chalked it up to kids being kids. Well today we got a call from the main operations manager or whatever stating that she needed to talk to us about a serious event. Apparently our daughter was again playing with toy when a different kid from the other day bit her in the face and tackled her to the ground.Both the employees swore that our daughter did nothing wrong and reiterated how serious this behavior is but I’m still livid.
+- `ar082-0048` (price_signal) Again I understand kids will fight at this age and rationalizing with a two year old is borderline pointless but we’re essentially paying a second mortgage for my daughter to get attacked. Our daughter loves school and seems to really enjoy her actual friends but I’m worried this week might cause her to be more reserved. On top of everything, the teacher in her classroom is the mom of the boy from the first incident which I feel is partially contributing to this situation . Anyone else deal with shit like this and have any advice?
+
+### 1xdjwda | r/daddit | 2026-10-23 | child_3_years | parent_unspecified | patterns 3,5
+
+About: Three year old throws food; parents worry about removing it. Wants: Tips encouraging tidy eating without food removal distress. Already did: Removed food when thrown; discussed wife’s concerns.
+
+- `ar051-0098` (pain) Anyway, I have a wonderful three year old boy who has a habit of tossing food or dropping it on the floor when at the table. This is usually done when he's unexcited about the food provided, he's bored/tired, wants attention, or is just simply finished eating his meal. We're trying to be intentional about the cleanliness of the space because we live in a relatively rural location and mice tend to visit us in the winter... And we just don't want food on the floor, much to the chagrin of my dog.
+- `ar051-0099` (fear) My wife is a Stay at Home Mom and she's been trying to solve this particular issue without simply removing the food from the equation when he begins tossing/dropping food. It weighs on her conscience that he'll possibly remember Mommy constantly taking food from him. I empathize with this in other circumstances. I also get to encounter the same problem at dinner when I'm home and we're both stumped. I don't want the current solution we have to weigh on my wife's conscience.
+- `ar051-0100` (question) How do you handle this issue? What are some tips/tricks/maneuvers y'all perform to encourage tidy eating?
+
+### 1xejz8c | r/toddlers | 2026-10-24 | child_2_years | parent_unspecified | patterns 3
+
+About: Toddler tantrums hitting and throwing after stomach illness. Wants: Other ways to respond to tantrums. Already did: Calming, deciphering needs, giving space, blocking hitting.
+
+- `ar035-0143` (pain) I have two boys who are 27 months and 11wks old. Ever since my toddler got a stomach bug three weeks ago, he has turned into a screaming banshee. Every day I feel like he is constantly fussing and throws at least one tantrum. Today has been the absolute worst. He’s only had two tantrums, but he is literally screaming, crying, rolling around on the floor and banging his hands, feet, and head onto the floor. He has tried hitting me and his little brother. He’s started throwing things onto the floor too. Today it has been because he hasn’t gotten his way. I wouldn’t let him spin the pot lids in the kitchen, queue the crash out. I gave him a snack he didn’t want, full on tantrum.
+- `ar035-0144` (question) Some times when he’s fussy I try to calm him down and decipher what he wants, but since I know he’s just upset he’s not getting his way I’ve just been giving him space and quietly sitting in the room doing my own thing. Obviously when he went to hit, I said “no hitting,” and blocked his hands. Anyone have advice for other things I could be doing?
+- `ar035-0145` (belief) I know this is normal developmental behavior, but god damn.
+
+## Near posts tied to development: 21 posts
+
+### 1sd9syz | r/toddlers | 2026-04-05 | child_2_years | parent_unspecified | patterns 3 | border: sleep
+
+About: Sleep regression brings violent bedtime protests and sleeping upright. Wants: Reassurance and ways to resolve bedtime regression. Already did: Sleep training, consistent bedtime routine, comforting, repeated laying down.
+
+- `ar006-0001` (trigger_moment) Our previously sleep trained toddler who has been sleeping through the night and falling asleep independently for over a year has hit a wicked 2 year sleep regression that has me considering animal sacrifice to resolve.
+- `ar006-0002` (belief) We have a solid bedtime routine, milk 30 mins before bed, clean up, then books. Brush teeth, diaper change, sleep sack, white noise machine, night light, final bedtime book in room, 2 lullabies, then into her crib awake to fall asleep. Same routine for her 1 hour nap in the middle of the day. This is what we were doing and what has been working.
+- `ar006-0003` (pain) Then, all hell broke loose. She started saying "no nap" leading up to her nap and bedtime. now the 30 mins we used to spend before bed are a screaming thrashing fit of throwing herself around and hurting herself to the point we have to restrain her so she doesn't get seriously hurt. once we manage to calm her down we proceed with bedtime routine which she just generally cries through.
+- `ar006-0004` (belief) We get her in the crib and she is \*screaming\* demanding various things like another song, another book, the other parent, a drink of water. We figure these are stall tactics so we tell her "it's not time for xyz, it's time for sleep."
+- `ar006-0005` (fear) We comfort her until she calms down, but we don't want to make a habit of her needing us in the room to sleep, so we tell her "mom and dad love you, it's time for sleep" and leave the room.
+- `ar006-0006` (tried_failed) She starts screaming again and will stand up in her crib. At first we tried leaving her because we figured she'd get tired enough to lay down to sleep. She did not. She would fall asleep standing up and fell a few times. So we've started intervening when she stands, going back in the room, laying her down and saying "it's time for sleep, we lay down to sleep". We are now in a dance of laying her down for 20-30 mins until she gives up and sits in her crib, falling asleep sitting up.
+- `ar006-0007` (pain) We are on day 3 of this and it feels like an eternity. My god where did my good sleeper go?
+- `ar006-0008` (others_said) Everything I read online says to implement a good bedtime routine (which we have) and that this is a phase that will pass. But holy shit this is brutal.
+- `ar006-0009` (desire) Please tell me this gets better. Please tell me there is a magical fix. Please tell me your toddler did this or something similar and what you did. I'm desperate here.
+
+### 1ska4rr | r/Parenting | 2026-04-13 | child_3_years | parent_unspecified | patterns 3,11 | border: sleep
+
+About: Three-year-old wakes and tantrums after baby moves upstairs. Wants: Strategies for sleep regression and mattress in parents room. Already did: Potty-trained; changed bed; firm then softer responses.
+
+- `ar080-0001` (trigger_moment) Our daughter (3) has been an incredible sleeper her whole life. About 6 months ago, we potty-trained her and transitioned her crib into a setup she can freely get in and out of. Both went smoothly.
+- `ar080-0002` (pain) Our son was born 2.5 months ago. Zero sleep issues for the first 2 months.
+
+The problems started when we moved our son out of our room and into his permanent room on the second floor. It's right next to her room, at the top of the stairs. Now she's getting woken up by his crying and by us going up and down the stairs at night. Once she's up, she'll wander into his room while we're feeding him or meet us in the hallway.
+
+The past several nights have been rough. She goes down fine at 7pm but wakes around midnight and is essentially up for the rest of the night, insisting she's not tired. We're so worn down that we've been letting her end up in our bed.
+- `ar080-0003` (tried_failed) Early on, we treated it like acting out and got firm, which backfired. Full tantrum etc. We've since softened our approach, but she's still not letting us put her down and return to our own room.
+- `ar080-0004` (desire) **Ideas we're considering:**
+
+* White noise machine in her room to mask stair and hallway noise
+* A reward chart to build up consistency and get her something she wants (a full-sized bed)
+* Giving her a specific big sister job earlier in the evening routine
+* Co-creating a back-to-bed protocol so she has something to do with her anxiety (three deep breaths, hug stuffed animal, etc)
+* More dedicated one-on-one time during the day
+* **Bringing a crib mattress into our room** so she has her own sleep space near us without being in our bed
+- `ar080-0005` (fear) The crib mattress idea is the one we're most divided on. I'm worried that it just creates a new bad habit without solving the long-term issue.
+- `ar080-0006` (question) Has anyone navigated something similar, especially tied to a room transition? What actually worked? Would love to hear yall's experience, especially on the crib mattress question.
+- `ar080-0007` (belief) We've moved our two kids to their own rooms pretty quickly to gain some of our own independence back. Daughter transitioned at 2 weeks. Son transitioned at 2 months. That part has gone very smoothly on the whole.
+
+### 1syicmr | r/Parenting | 2026-04-28 | child_2_years | parent_unspecified | patterns 3,12 | border: parent_state
+
+About: Parent resents toddler's aggression toward new baby. Wants: Manage own anger and help toddler cope with new sibling. Already did: One-to-one attention; stopped activities after aggression; offered stuffy; speech therapy.
+
+- `ar011-0015` (pain) I have a two year old daughter and a ten week old son. She has been acting up a lot since he was born, which we expected. My husband has twelve weeks of paternity leave, so she has had a ton of one on one time with each of us. She always has at least one of our attention as well as time with both of us when the baby is sleeping. But she gets so jealous and angry at the baby and us. Lots of hitting and scratching both of us. Sometimes if we tell her no about something, sometimes instead of hitting us, she will run of to the baby instead and try to hit him. Tonight when we were getting her ready for bed, I was holding the baby and reading her a story and she just randomly bit his toe!
+- `ar011-0016` (tried_failed) Whenever she does things like that, we put her down, tell her not to and stop doing the thing we were doing with her. We've tried handing her a stuffy and telling her to squeeze that when she starts to feel angry. She has a speech delay (no mental delays, just slower developing the ability to talk) and is in speech therapy, isn't able to express herself the way she wants to and obviously gets mad when we don't understand what she is trying to say. So getting her to tell us what she is feeling just isn't possible right now.
+- `ar011-0017` (desire) I'm finding myself feeling angry and resentful towards her when she is mean to the baby. I don't yell at her or anything and I am able to keep outwardly calm, but I don't like how I feel. I never felt this way towards her prior to his birth. I don't want to feel this way and I want to know what else I can do to help her work through this. My husband's paternity leave is coming to and end so I'm also worried about how things are going to go when it's just me during the day. Advice welcomed.
+
+### 1t935co | r/toddlers | 2026-05-10 | child_3_years | experienced_mother | patterns 3,11 | border: parent_state
+
+About: Pregnant parent overwhelmed by three-year-old's holiday behaviour and impending sibling. Wants: Reassurance about regretting parenthood in difficult moments and coping with two children. Already did: Vacation, daycare, arranging preschool; therapy planned; previously untreated postnatal depression.
+
+- `ar012-0035` (pain) I have a 3 year old who I love more than life but gosh I'm struggling with her right now. We are on our way home from a ten day vacation and she's spent a lot of the holiday disregulated and overtired, which has predictably led to some challenging behaviour. I didn't find the terrible 2s were especially terrible and she's always been a fairly easy going kid and a great traveller too, but 3 is proving really hard work.  I feel so guilty that instead of enjoying the last couple of months with it just being her, I'm having moments where I wish I didn't have kids at all and wasn't carrying another one. I guess it's a combination of hormones, being tired myself and us all being out of our routine but I just feel down today.
+- `ar012-0036` (desire) Tell me I'm not alone or terrible for feeling this way??
+- `ar012-0037` (belief) I'm 28 weeks. I do think that might be part of it too, I'm not able to pick her up as much or chase her around like before and she knows a baby is coming, so I'm sure that's adding to her behaviour as well.
+- `ar012-0038` (fear) Thank you for sharing this. It does feel like survival mode. I just feel sad about that because I had a rough time post partum with her and I want this time to be better, but I'm already worried I'm not going to be able to cope with two of them. Will talk with my therapist about it next week but it really helps hearing that others are in it alongside me!
+- `ar012-0039` (pain) Thank you!!!! I feel nobody warned me!
+- `ar012-0040` (pain) Ah thanks for that. It is reassuring to hear I'm not alone in those thoughts. Yeah we've done a lot of vacations with her and they've ranged from amazing to awful. This one wasn't bad and there were a lot of lovely moments but the last few days of it just felt like a lot. Home now thankfully and she seemed happy to get into her own bed!
+- `ar012-0041` (belief) I had PND last time that I never sought help for so I'm trying to be more proactive about my mental health this time. That makes total sense and probably is true of a lot in life - the reality is rarely as bad as what we invent in anticipation!
+- `ar012-0042` (success_story) I am thankful too. This has been a really helpful little corner of the internet today.
+- `ar012-0043` (belief) Oh trust me I have the help. She's in daycare and starting preschool in September. I wouldn't have survived this long without it, as we have no family living in the country we moved to.
+- `ar012-0044` (fear) My friend has literally just experienced this. Complete regression on everything from sleep to toilet training with her 3yo when the baby arrived. I am mentally preparing for it and I do wonder if some of her current behaviour is because she knows change is coming soon!
+
+### 1tnnpte | r/daddit | 2026-05-25 | unknown | parent_unspecified | patterns 3,9,4 | border: age_unknown
+
+About: Kindergartener participates in potentially bullying game targeting another child. Wants: Conversation starters and books about enabling bullying. Already did: Discussed bully friendship with son.
+
+- `ar067-0048` (pain) My son is almost done with his first year of kindergarten, and I’m having a hard time talking to him about the way his friend is treating other kids.
+- `ar067-0049` (fear) Basically, from what it sounds like my son and his friend keep playing a “game” with another kid. I know that this other kid is having some difficulties in school, but I’m not sure exactly what, only that he’s socially awkward, has a hard time playing with other kids, and \*might\* be slightly developmentally delayed. This game that they play is basically my son and his friend have powers and have to defeat the other kid, who is always the bad guy. My son said his job is to find the other kid so his friend can go and “tackle” him.
+- `ar067-0050` (fear) This is all coming from my son’s account. The school hasn’t said there are any issues, and no parents have reached out. But I’m concerned that they’re basically targeting this kid for being different. My son has told me that his friend has bullied him (my son) before they became friends, and I’ve been trying to tell him that the friend of a bully is also a bully.
+- `ar067-0051` (question) Any advice on good conversation starters to help him see if the other kid is actually playing along or not? Or age appropriate books about enabling a bully? Am I totally overthinking things and should just let kids be kids until the school gets involved?
+
+### 1u2kxyo | r/toddlers | 2026-06-11 | child_3_years | experienced_mother | patterns 3 | border: sleep
+
+About: Preschooler defies bedtime despite many discipline and reward strategies. Wants: Help child go to bed without hours of resistance. Already did: Warnings, reasoning, punishments, spanking, rewards, consistent routine and morning debriefs.
+
+- `ar081-0026` (belief) Does anyone have an extremely defiant child ONLY at bedtime? He is 3.5, and super sweet 99% of the time. He’s developmentally doing well, he is average or above in all areas that I can think of including socially. We have tried everything under the sun but he is just so so defiant at bed time.
+- `ar081-0027` (tried_failed) We have a very consistent bedtime routine. We outline expectations beforehand and give plenty of 5, 2, 1 minute warnings before transitioning. He knows the routine well and can go through it in the correct order without us even telling him. He will get all the way through bath, pajamas, book, hugs, brushing teeth, and then when it’s time to get in his bed he turns into a gremlin. This is not my first child, but my older child was more of the “get out of bed 100 time a night to ask for a tissue, water, etc” type.
+- `ar081-0028` (tried_failed) This is totally different. He won’t talk to us, essentially giving us the silent treatment. He refuses to lay down, gets out of his bed and runs all over the house, just being “bad”. We’ve tried ignoring it, giving him warnings, taking away his favorite toys, spankings (I’m not here to debate this or hear your opinions on it! We are not doing so in a way that is causing him any physical harm). We’ve tried reasoning like “if you don’t want me to take away your favorite toy, you need to get in your bed”. I’ve tried telling him “I’m walking out for 5 minutes, when I come back in your room you’re going to bed”. We’ve tried positively reinforcing him by giving stickers for a chart, earning prizes, etc. I’ve done everything I know to do.
+- `ar081-0029` (pain) We need him to go to bed. He is keeping his older sister up and driving us insane. It takes us well over an hour of this (after a 45-60 min bedtime routine) and then another 30-60 minutes of him getting out of his bed to ask for a sip of water, his fan turned on etc etc etc. After he finally snaps out of it, he’s like I’m sorry I love you mama and he goes right to sleep. 😫😭 we debrief every morning and try to talk about better things to do instead of acting like a crazy person.
+- `ar081-0030` (desire) I am at my wits end! Help! 🫠
+
+### 1ue4g30 | r/ScienceBasedParenting | 2026-06-24 | unknown | other | patterns 3,5 | border: age_unknown
+
+About: Questions punishment for trauma related defiance in school. Wants: Explain school punishment versus home intervention. Already did: Read Google and Psychology Today.
+
+- `ar035-0081` (others_said) Google: Child abuse and chronic maltreatment directly cause "rebellion" and defiant behaviors in children. However, rather than willful disobedience, this rebellion is a trauma response. Children who experience abuse struggle with self-regulation, lack secure attachment to caregivers, and may act out aggressively or self-destructively as a survival mechanism.  
+**Complex Trauma & Loss of Control:** Traumatized children often feel completely powerless. To regain a sense of control, they may fiercely defy adult rules or authority figures.
+- `ar035-0082` (question) Why do schools still punish disobedience? Heck I've even run into therapist who say school is about following authority.
+- `ar035-0083` (others_said) # A child’s rebellion against too-strict parents can lead to self-sabotage.
+- `ar035-0084` (belief) The funny thing is I got this feeling that there are parents out there who are purposely strict with their kids because they don't want them to succeed. They know very well that being strict makes it hard for a child to have success and so they are strict to make the child struggle more.
+
+### 1uetu4n | r/toddlers | 2026-06-24 | child_2_years | parent_unspecified | patterns 3 | border: feeding
+
+About: Toddler's restricted diet worsens after vacation with distress and mealtime meltdowns. Wants: Help managing picky eating and child's food-related stress. Already did: No-pressure approach; offered one or two safe foods; alternated supervising.
+
+- `ar037-0098` (tried_failed) I’ve posted in here semi-regularly. My son is 2.3 years old and has been picky since a year. He eats about 20-25 foods with most of them being carbs, but we went on vacation recently and have since experienced a regression. We also suspect he may be getting some molars, but in any case, his main foods right now are pb&j, pancakes, waffles, yogurt, chicken nuggets, pouches and bananas. He used to eat some other fruit but that’s totally gone out the window. I’ve tried many different approaches: no pressure, one safe food, 2 safe foods etc.
+- `ar037-0099` (pain) Tonight we grilled- we made grilled chicken, zucchini, corn and potatoes. He asked for corn. I offered all of the above and a pouch and he only ate the pouch. He then started to cry when we began to talk about eating other foods or trying the corn he had previously said he wanted to try and then excused himself from the kitchen - “I’m all done I want to go play” he then had a full on MELTDOWN when we tried to get him to sit with us so we could finish eating, my husband and I ended up taking turns in the other room with him so we could eat.
+- `ar037-0100` (desire) I am just so overwhelmed with the stress he feels around food and I feel like I never know what to do. Does anyone have a similar experience?
+
+### 1uhxn1g | r/toddlers | 2026-06-28 | child_3_years | parent_unspecified | patterns 3 | border: feeding
+
+About: Nearly-four-year-old eats little then has hungry tantrums. Wants: Manage food refusal and hunger-driven tantrums. Already did: Used we provide, you decide approach.
+
+- `ar011-0039` (tried_failed) We have been trying to do "we provide, you decide;" however, when we do this he complains about the food, takes several bites, then gives up. The real problem with this is that he then turns into a monster, throwing fits, whining incessantly, and just generally being a terror.
+- `ar011-0040` (belief) Whenever he eats normally, he is a delightful child.
+- `ar011-0041` (belief) He knows his bad moods are caused by hunger, but is a very strong-willed child and refuses to learn from it.
+- `ar011-0042` (question) How do you handle this?
+
+### 1ukf1r9 | r/toddlers | 2026-07-01 | child_2_years | experienced_mother | patterns 3,8,9 | border: parent_state
+
+About: Mother considers more work because solo toddler days feel unbearable. Wants: Validation and experiences increasing workdays to cope better. Already did: Kept Wednesdays off for outings; uses daycare on workdays.
+
+- `ar070-0077` (belief) Before I begin, I just want to ask for no nasty judgement pls. I love my child deeply, she is 2.5yrs, incredible, developing and learning so well and I feel very grateful and lucky to be her mumma. We co-sleep, I'm still breastfeeding her once at bedtime, we are a very affectionate and close family overall.
+- `ar070-0078` (pain) However, I am finding that on my one week day off with her I really struggle. I've kept my Wednesday's off work to be at home with her so we can still do nice things together like go to the zoo etc. but spending the whole day with a tiny dictator that can't emotionally regulate is beating me down so hard that I've developed a negative association and I'm starting to dread those days when they roll around, and upon waking I'm automatically in a bad mood. I feel incredibly guilty for this, it's one day a week alone with her and I can't manage it? Failure. It's really been making me wonder if it's worth increasing my work days and having her in daycare 5 days a week, because I feel I'm a better mother and happier on the days I come home from work, but I also don't want to wish these years away and feel incredibly shitty for not feeling mentally strong enough to deal with normal toddler behaviour by myself once a week indefinitely.
+- `ar070-0079` (question) I don't know what I'm asking here, I guess just validation. Have any of you increased work days for similar reasons? How'd it make you feel? Was it worthwhile or make you feel regret?
+- `ar070-0080` (pain) Dang these toddler years are rough and I feel like they're only just beginning 😮‍💨
+
+### 1uwzexb | r/toddlers | 2026-07-15 | child_2_years | parent_unspecified | patterns 3,11 | border: sleep
+
+About: Toddler bedtime resistance and waking linked to development and changes. Wants: Advice on sleep training or routine changes before twins arrive. Already did: Nap, bottle, pajamas, books, stories, counting, negotiation, cosleeping and earlier light sleep training.
+
+- `ar022-0076` (pain) Our toddler will be 3 in November and has always been a relatively good sleeper. Lately, bedtime is taking AGES. I am 7 months pregnant with twins and it is really taking it out of me and making me dread bedtimes. He often tries to stall, continue playing or take toys with him to bed which can sometimes result in a minor meltdown.
+- `ar022-0077` (pain) Currently, he is having an afternoon nap of approx 1.5 hours between 12-2ish. We begin bedtime usually around 7:30, he still has a warm milk bottle and then we get changed, put PJs on and go upstairs to his room where either me or his dad (we take it in turns) Will read him a book then put him in his cot and tell him a story or do some counting (he loves numbers). He used to happily just lay there awake until he falls asleep and bedtime would take no more than 20 mins. Now, he will not lay down and will start crying saying he is awake and we have to deploy a lot of negotiation skills to get him to settle before telling a story until her falls asleep. This can sometimes take an hour. the past few nights he’s been waking up in the middle of the night and will not be put back in his cot and often ends up in our bed as we just don’t have the energy to do stories again until he falls asleep. he falls asleep immediately in our bed but it makes it very uncomfortable.i do love the cuddles but with being pregnant and worrying about what will happen when the babies arrive I am so anxious his sleep has gone to shit and we will be dealing with not only newborns but also a toddler who won’t sleep alone! we have never really co slept so this is new territory for me. we did some light sleep training with him when he was much younger (ie staying by the cot and shushing until he fell asleep) and he seemed to learn to self settle quite quickly.
+- `ar022-0078` (question) any advice please?! shall we try sleep training again? Change up our routine? he still seems to really need a nap in the day (and I need a break lol). thank you!!
+- `ar022-0079` (belief) ps we appreciate he going through big developmental changes, we are trying to potty train, moved a few months ago and have the babies on the way so know this may just be a combination of development / separation anxiety.
+
+### 1vcpm2n | r/sahm | 2026-08-01 | child_2_years | experienced_mother | patterns 3 | border: parent_state
+
+About: Mother struggles with comfort eating amid children's constant demands. Wants: Lose weight and escape comfort eating despite exhaustion. Already did: Lost some weight; regained during holidays; uses food for comfort.
+
+- `ar036-0041` (pain) Depuis que je suis devenue maman, j'ai un peu plus de 10 kg que je n'arrive pas à perdre. J'aime mes enfants plus que tout, mais le quotidien avec deux garçons de 4 ans et 2 ans est vraiment souvent compliqué.
+- `ar036-0042` (desire) Je suis mère au foyer et, entre les pleurs, les disputes, les sollicitations permanentes, la maison à entretenir (avec en plus nos deux chiens), je manque de temps pour moi et clairement j'en souffle. Tous les jours je me dis que j'ai hâte que mes garçons soient un petit peu plus grands, un peu plus autonome, car je ne peux même pas aller me prendre une douche 5 minutes en les laissant dans la salle de jeux sans entendre pleurer ou crier au bout de 20 secondes.
+- `ar036-0043` (pain) La nourriture est du coup devenue mon doudou. Quand je suis fatiguée, stressée ou que j'ai besoin de réconfort, je mange. J'avais réussi à perdre quelques kilos, j'étais fière de moi, mais avec les grandes vacances, le rythme des journées et les enfants à la maison en permanence, j'ai tout repris. D'autant qu'on est réveillé toutes les nuits, surtout par notre plus jeune.
+- `ar036-0044` (pain) Aujourd'hui, je me sens gonflée, mal dans mon corps. J'ai honte d'aller à la piscine, je n'ose plus revoir certaines personnes qui m'ont connue avant cette prise de poids. Ça me pèse énormément.
+- `ar036-0045` (question) Est-ce que certaines d'entre vous ont vécu la même chose ? Comment avez-vous réussi à sortir de cette relation réconfort avec la nourriture, tout en gérant la fatigue et la charge mentale ? Tous vos conseils, témoignages ou petites astuces seront les bienvenus.
+
+### 1vmn77v | r/Parenting | 2026-08-12 | unknown | parent_unspecified | patterns 3,12 | border: age_unknown
+
+About: Parent weighs intervention over son's report of friend's bullying. Wants: Choose whether to alert teacher, mother or encourage child disclosure. Already did: Listened to son's accounts; considered three intervention options.
+
+- `ar062-0090` (others_said) My son is starting 6th grade this fall. For the past several weeks, he has been regularly telling me about one of his friends, who is still in elementary school. Based on what he tells me, this child is being bullied quite seriously at school, both physically and emotionally.
+- `ar062-0091` (others_said) The problem is that the boy seems to hide what is happening to him. For example, if another student pushes him, he might say that he fell. My son also tells me that when an adult seems to notice something and asks him about it, he denies or minimizes what happened. So the teachers and other school staff may be aware of some individual incidents, without necessarily realizing how often they are happening or how serious the situation has become.
+- `ar062-0092` (question) According to my son, there are several students who regularly bully this boy. He has even told me their names.  
+I should make it clear that I obviously don't know the whole story, and I haven't witnessed any of these incidents myself. Everything I know comes from what my son has told me. So my question is: **What would you do in my situation?**
+- `ar062-0093` (desire) 1. Contacting the boy's teacher (whom I know fairly well, since she used to be my son's teacher) and telling her about my concerns;
+- `ar062-0094` (desire) 2. Contacting the boy's mother directly. I know her a little and have her email address;
+- `ar062-0095` (desire) 3. Not getting directly involved, and instead encouraging my son to encourage his friend to talk to a trusted adult.
+- `ar062-0096` (fear) I'm hesitant to get involved in a situation that doesn't directly concern my own child. I'm also aware that an email from me could feel like a bombshell to the boy's mother. She already worries a lot about her son, who has some academic and motor difficulties. According to my son, his friend has told him that he never tells his parents about what happens to him at school. So I expect this would come as a complete surprise to them.
+- `ar062-0097` (fear) Of course, if I contact the mother, I wouldn't want to give her the names of the kids involved. But what should I do if she asks me for their names, or if she questions my son about them? I can't exactly ask him to lie, can I? I really don't want to find myself in the middle of conflicts between parents.
+
+### 1vtl8a1 | r/Parenting | 2026-08-20 | child_3_years | experienced_mother | patterns 3,11 | border: sleep
+
+About: Mother struggles with changing bedtime tantrums despite toddler's understanding of rules. Wants: Lasting sleep solutions and ways to avoid anger under exhaustion. Already did: Hatch light, tucked blankets, reward chart, reassurance, firmness, discussion, ignoring.
+
+- `ar037-0121` (question) I’m really struggling with my 3.5-year-old’s sleep and I need advice from people who have been through something similar.
+- `ar037-0122` (pain) I love my daughter more than anything. She was my IVF baby after a loss, and I would do anything for her. But since she turned 3, and especially during the second half of 3, I feel like her sleep has slowly turned me into an angry person. I’m constantly tired, constantly bracing myself for nighttime, and I feel like I’ve lost any sense of freedom or relaxation because I never know what kind of night I’m going to get.
+- `ar037-0123` (belief) Before this, she was an AMAZING sleeper. Truly a unicorn. She slept through the night consistently. When she started potty training, she eventually began waking once to pee, and it was never a problem. I’d take her to the bathroom, she’d pee, go back to bed, and everyone went back to sleep.
+- `ar037-0124` (tried_failed) Then we switched her from her crib to a toddler bed in February. The newfound freedom obviously created some boundary testing. She started getting out of bed, and eventually we introduced a Hatch light that turns green at 7 AM so she knows when it’s morning. After a couple months, that part actually improved.
+- `ar037-0125` (tried_failed) Then the nighttime potty trips increased. One became two or three. Then those potty trips started turning into requests to fix her blanket. We solved that by tightly tucking her blanket under her mattress so she could fix it herself. Eventually, that improved too.
+- `ar037-0126` (success_story) By the time her baby sister was born in May, things were actually pretty manageable. She was waking once or twice to pee, but otherwise bedtime was fine and she was staying in bed until the Hatch turned green. She did remarkably well for May and June, even with a newborn in the house. Then July happened.
+- `ar037-0127` (pain) For some reason, night wakeups suddenly became extremely emotional. She would wake up, refuse to get back into bed, scream, cry, and have full blown tantrums in the middle of the night. I lost my temper more times than I can count. I was exhausted and hopeless.
+- `ar037-0128` (success_story) Eventually, we implemented a reward chart. The rule was basically that she could get up to pee, but she needed to stay calm, go back to bed, and not scream or cry. She started doing amazingly well with it. She earned stickers night after night. We had a stretch of several weeks where she would wake up, use the bathroom, go back to bed, and everything was calm and predictable. I though\*\* \*\*we finally turned a corner. And then the problem changed.
+- `ar037-0129` (pain) Now lately, the initial bedtime has suddenly become emotionally charged. This is the part that is making me absolutely crazy because our bedtime routine has not changed.We do the same routine. Bath, pajamas, potty, books, etc. She knows exactly what is expected of her.We can literally talk about it beforehand and she understands.
+- `ar037-0130` (pain) She will tell US the rules. She knows she needs to stay in bed. She knows she isn’t supposed to scream or cry. She knows she needs to rest her body. She can explain the whole thing back to us. And then we close the bedroom door and it is like someone flipped a switch. She becomes a completely different kid.
+- `ar037-0131` (trigger_moment) For example last night, during her “last pee,” I calmly told her, “Okay, this is the last time. After this, it’s bedtime. You stay in bed, you don’t cry, and you rest your body.” She agreed and understood. We finished, went into her room, and I shut the door. Immediately: crying, protesting, getting out of bed, etc.
+- `ar037-0132` (pain) It is SO frustrating because it feels like she has complete understanding of what she is supposed to do, and then the second the situation actually happens, everything we talked about goes out the window. This has become the pattern with her sleep in general.
+- `ar037-0133` (pain) It’s like we make progress, plateau, and then a new issue appears.
+- `ar037-0134` (belief) Nothing has changed in our bedtime routine. Yes, the baby is a big change BUT we make plenty of time for big sister throughout the day.
+- `ar037-0135` (tried_failed) And I am SO tired of feeling like I have to troubleshoot my child’s sleep every few weeks. I have tried rewards. Positive reinforcement. Talking about expectations during the day. Talking about expectations right before bed. Comforting her. Being firm. Being calm. Getting angry. Explaining. Ignoring. We have tried so many different approaches. And nothing seems to work long term. Something works for a while, we make progress, and then eventually it stops working or the problem morphs into something else.
+- `ar037-0136` (pain) The hardest part for me is what this has done to ME. I have become an angry mom. I hate admitting that. I find myself getting angry at a 3.5 yr old over sleep. I find myself resenting nights. I dread bedtime because I don’t know what is coming. I don’t want to stay up late because I feel like I need to mentally prepare for being woken up. I’m too exhausted to wake up early anymore and have any time to myself in the morning.
+- `ar037-0137` (pain) Meanwhile, my 3 month old is sleeping longer stretches than my toddler, which honestly makes the whole thing even more frustrating!!!
+- `ar037-0138` (pain) I feel like I spend my entire day thinking about the upcoming night. And then when bedtime comes and she starts crying or getting out of bed, I feel this immediate surge of anger.
+- `ar037-0139` (desire) I don’t want to feel that way about my daughter. I love her. I don’t want my feelings about her to become dependent on how well she sleeps that night. And I don’t want to keep yelling, getting angry, and then feeling guilty afterward. But I am genuinely exhausted and at the end of my rope.
+- `ar037-0140` (belief) I know she’s 3.5. I know she isn’t an adult and that knowing a rule doesn’t necessarily mean she can always follow it. I understand that. But I also know my daughter. She is capable of following these expectations. She has done it for weeks at a time. She can tell me exactly what she is supposed to do.
+- `ar037-0141` (question) Has anyone had a 3-4 year old whose sleep problems kept morphing like this? Where you finally solve one issue, things get better, and then suddenly a completely different sleep behavior appears?    
+And, honestly, how did you keep yourself from becoming an angry, resentful parent when you were chronically exhausted from it?
+- `ar037-0142` (desire) I’m not looking for someone to tell me I’m a terrible mom for losing my temper. I already feel awful about it. I’m looking for parents who have actually lived through this and can tell me what helped when NOTHING seemed to work long term.
+
+### 1w5u089 | r/toddlers | 2026-09-03 | child_3_years | parent_unspecified | patterns 1,3,6 | border: sleep
+
+About: Three-year-old fights bedtime with hitting, biting, and vomiting. Wants: New ways to make bedtime calmer and shorter. Already did: Cosleeping, routines, sensory input, timers, books, Yoto, weighted blankets.
+
+- `ar039-0129` (pain) My 3 year old has never been a great sleeping. I’m talking, we hit the 4 month sleep regression and it never got better. But, we’ve always been able to make it work in a way that’s been manageable for us all. We coslept for a while. She’s been sleeping in her own bed for about a year now, and almost always sleeps through the night.
+- `ar039-0130` (pain) Getting her to bed is my problem. She starts fighting as soon as the bedtime routine hits. We can usually get her back on track okay, we brush teeth, read books, etc. and she’s totally fine, yawning and rubbing her eyes. As soon as we start to move into actual bed time she freaks out.
+- `ar039-0131` (pain) For a long time she would just cry and be mad and I could calm her down and lay with her until she fell asleep. This did generally take an hour and a half, leaving me with no time to myself in the evening. Now, however, she has started getting out of bed and running around, hitting, scratching, and biting me, and just generally being a terror. She’ll beg for the other parent or cry and scream until she throws up. I’m losing my mind over here.
+- `ar039-0132` (tried_failed) We have tried so many things… calm routines, sensory input before bed, timers, books, Yoto, leaving her in her room to read, walking her back to her bed, weighted blankets, I don’t even know what else but we’ve tried it all. I have ADHD and I assume she does too. I was also a terrible sleeper but I would just play happily in my room all night, and she just will not stay in there.
+- `ar039-0133` (desire) I don’t mind laying with her every night if I have to, but not if it’s going to be such a fight and take an hour and a half. Aside from locking her in her room, I just don’t know what to do. If you have any out of pocket ideas, please share!
+
+### 1w8lqum | r/Mommit | 2026-09-06 | child_2_years | new_mother | patterns 1,3,5 | border: parent_state
+
+About: Exhausted mother resents toddler amid sleep, eating and language concerns. Wants: Relief, support, better sleep and eating, and reassurance about language. Already did: Therapy, medication, sleep training, handholding, calorie-dense foods, daycare, doctors, reading. Paid: Therapy and commercial pouches.
+
+- `ar015-0091` (pain) FTM. 38 yo. Have a two year daughter. It’s feels like it’s been a fight after another since her birth. I don’t have a village. Just me and my husband living abroad. 
+
+Since she was born, the only thing that was kind of easy was that she breastfed and was not colic. But never slept through the night. The usual witching hour etc. She used to moan constantly that would drive us insane. Stopped when she walked at 15 months.
+- `ar015-0092` (pain) She goes to daycare since she was six months old and I can tell you she she has been sick every month then. She used multiple times antibiotics. Never slept through, even after stopping breast feeding. Wakes up at least twice a night for water or whatever.
+- `ar015-0093` (tried_failed) Incredibly picky eater. Won’t eat fruits. Won’t drink smoothies. I made these homemade very calorie dense and sweet pouches. Won’t have them. Only commercial pouches from the stores. Won’t eat veggies. Won’t eat red meat. Born in 80% dropped to 20 and my struggle is to bring her to 30%.
+- `ar015-0094` (tried_failed) Now an additional battle. Wants to sleep in our bed. We came back holidays and have been trying to let her sleep in her crib. Failed miserably. And of course after five days of daycare she comes back with strep throat.
+- `ar015-0095` (regret) I am done. Honestly. When I don’t see her, I don’t miss her for example. I rather cook and clean than play with her. I think I am resentful and very sleep deprived. I haven’t had a single night without her since she was born. I had a huge burnout in February and I am on sick leave, quitting my job and looking for new jobs. I had to take two Xanax tonight because I was telling her to shut up after she was crying from 22:00 till maybe midnight nonstop. But these are just excuses. I just don’t like being a mom anymore. Sometimes I imagine just leaving but I would never do that because my poor husband would die and I don’t have the mental capacity to plan such a thing. Every morning I wake up and I am trying my best. I cook. I clean. I look for jobs. I try to start my small business. I make doctor appointments and admin. But like. Fuck this. And in my mom friend groups nobody complains. Nobody. Not about their eating. Not about their sleep. I feel like a loser.
+- `ar015-0096` (purchase) I go to therapy once every two weeks (can’t afford more). I take prescription anxiety medicine and Xanax for crisis situations.
+- `ar015-0097` (tried_failed) We had a big fight with him as well for a similar thing he said. “It is not about you”. She is back in daycare for five days and is already sick. I think it is because she has weak immunity because she does not eat or sleep. So I try to make her best food I can and she doesn’t eat those and I don’t know what else to do. And I am reading everything and I offer her three dishes every day, two of them things she would eat and one of them new. She won’t touch the new thing. 
+
+She won’t sleep in her crib so I hold her hand for 30 minutes sitting next to her so she sleeps in her crib. 
+
+I don’t know. How does this make it about me? Like obviously I am worried for my child’s health and wellbeing and I feel like I am doing everything I can and I know it is stupid but I feel like she is doing this to spite me or something. Like I am trying so hard. And somehow this makes it about me.
+- `ar015-0098` (others_said) I have not slept through the night since she was born. When I share these things with him he says “we have a difficult child” and “it is not about you”. I haven’t seen my therapist since August because of holidays and before holidays it was really rough but only the eating part. She was sleeping in her own bed with only two wakes a night.
+- `ar015-0099` (pain) Thank you for saying that. I also think it is excessive but my husband says it is normal for a kid to get sick 12 to 15 times in their first year. (He is not a doctor). But like in June she got an ear infection (and dropped to 20%). She got antibiotics. I wish I kept her home the whole time but really the only time we get a break is when she goes to daycare. I would be hospitalised if I had to take care of her 24/7. Anyways. Sent her to day care. Immediately got sick with bronchitis the next month. Had to stay in hospital for a night. Went to daycare again. Came back with running nose. We were on holidays for three weeks. At the end of the three weeks she finally stops having a runny nose. Goes back to day care. Five days later strep throat.
+- `ar015-0100` (pain) He does the 22:00 - 03 AM wake time and I do the rest. He sleeps in while I do the morning routine. Anyways tonight he is sleeping with her and I am up at 6 AM despite going to bed at midnight and taking two Xanax. I am too wired to sleep I think.
+- `ar015-0101` (pain) He does play with her and does the 22-03 wake up break and he puts her to sleep. I took a bit more on this week because he hurt is back and can’t cook or clean or be on his feet for long. I also fucking gave up keeping track of who does how much. It always ends up in a fight. “I cooked and cleaned all week” “I stayed with her when she woke up for three hours” “I do the whole morning routine while you sleep in” “I put her to sleep”.
+- `ar015-0102` (others_said) She has one paediatrician and one GP. I am just not happy with the paediatrician but we are kind of stuck with it. We see him for regular check-ups and for a kidney issue she has. He is good with the kidney issue. But when she gets sick we can’t have appointments with him so we see other doctors in his cabinet. One of the other doctors told me that if she doesn’t gain weight after not being sick for sometime, we should do tests. Well. Before I was even able to make an appointment she got sick again. She gained a bit weight during holidays but not lots. During holidays she also tasted a few fruits.
+- `ar015-0103` (fear) I honestly do not know. Or just like no one talks about how hard it is? Maybe it is supposed to be this hard and I thought it was going to be easy and I feel like I am failing.
+- `ar015-0104` (desire) Maybe I need a therapist that is specialised in postpartum issues (although it has been two years) or at least a mother? My therapist isn’t one.
+- `ar015-0105` (question) Yeah but like. I am her parent. It is not like she is able to tell me mommy make an omlette? It is my job to try and to give her the best I can. But I am a human as well and I am drained. Like I really don’t understand it. Like genuinely. What would be the child center approach. She is a child that is not eating or sleeping and getting sick. So I should try to make sure she eats by making her healthy yummy food. And she doesn’t eat that. And I am sad. Isn’t this normal. Like what do other mothers do? That would be child centered?
+- `ar015-0106` (pain) I am not mad at her for getting sick of course. I am mad at their because she cries mommy so much that my neighbour texts me to “do some thing to stop her crying” all the while I am right next to her and hugging her and doing anything I can for hours every night. Last night she cried mommy and daddy when we were both next to her all the time and she would hit me if I tried to hug her.
+- `ar015-0107` (tried_failed) And I am fine with giving her commercial pouches but they are just like purses veggies of 100kcal. I just was hoping to increase the calories in the by adding nut butters and Greek yoghurt so I made my own at home.   
+My mom once told me that I was like my grandma that the child’s nurture should be full before their belly but she thinks that a child’s belly should be full so they can grow. I don’t know. I am trying my best and I am breaking.
+- `ar015-0108` (question) Doesn’t she? Doesn’t she really know better than not to hit her mother who is right next to her and trying her best to calm her down by hugging her, reading to her? Like she is screaming mommy while I am just right there. How???
+- `ar015-0109` (tried_failed) Thank you so much for this kindness. I think I have too much expectations for myself. We tried to sleep train three or four times especially after she was one and we stopped breastfeeding. It worked but then it went back to zero because of travel or sickness. And now we just can’t do it anymore when she creams mommy or daddy. It breaks our heart. I have a call with a sleep consultant on two weeks again. 
+
+You know I am like this- she doesn’t eat. Let me add calorie dense food. She likes pouches. Ok I will make them home so there are more calories. I make her crepes every morning because she likes them. 
+
+I agree that I should start moving my body. I used to do triathlons. 
+
+I will also take her to her doctor and ask for these tests.
+- `ar015-0110` (fear) Actually some time ago I wanted to cosleep because it was easier for me but she didn’t want it. Sometimes we would rock her and she would point to her crib. Now she wants to sleep with us. And it is my husband that does not want it (because she kicks and takes so much space and we both end up waking with stiff backs). I have really bad nightmares when I sleep with her but can handle it. It is him that has a back problem. I worry that she will just get more attached and clingy which she already is. But you are right. I miss breastfeeding her dearly even though it was not easy (got mastitis twice)
+- `ar015-0111` (belief) Thanks a lot. I really would burn the whole world for her.  It is just I really don’t know if it is because I really love her or is it because I have this job to keep her happy, well fed and well adjusted. I really do not know.
+- `ar015-0112` (belief) Thank you for this question. Well I think she is doing great because she is trilingual but yeah it is way slower than kids who speak only one language which I think is normal?
+- `ar015-0113` (others_said) She just says mommy, daddy and points to things. I guess she is later than other kids but she does really speak all three languages so I give her time. Like she knows how to say milk in two languages and uses them interchangeably - and maybe also in French. I don’t know because I don’t speak French so she never uses French with me. At daycare they say she understands all the instructions but doesn’t speak.
+- `ar015-0114` (desire) For sleep… I am actually thinking getting her a toddler floor bed or at least change her crib so she can get out of it? Maybe the comments are right I should just lean and it sleep with her and my husband can figure out his sleep arrangements.
+- `ar015-0115` (belief) For eating. Veggies.. she eats everything in daycare. I didn’t believe it so I asked them a video lol and she does it them. At home… I just don’t want to “sneak them in” although I do it with fruits because at daycare she doesn’t even eat fruits unless they are mashed. Maybe I should do what everyone does and sneak them in.
+
+### 1wkrexv | r/Mommit | 2026-09-19 | elementary-aged children, retrospective toddler years | parent | patterns 3,2 | border: age_unknown
+
+About: Parent weighs another baby after years of difficult toddler outings.. Wants: Resolve baby fever versus family completeness. Already did: -.
+
+- `ar048-0099` (pain) When my children were small we couldn’t do hardly anything because there were three of them. Now we can go to the grocery store together or when we indulge out to eat and enjoy that. Will a baby in tow ruin those experiences? When ours were under the age of five we genuinely did not go out except to family events at known baby proof houses or kid centered events. I know that sounds crazy but we just did not like chasing three toddlers in different directions.
+- `ar048-0100` (belief) My girls would like a little sister (not a brother haha). But I just don’t think I can bring myself to do it now that I’m so far out of it all? But there was a time that I seriously wanted at least one more and I find it hard to let that go.
+
+### 1wqch9w | r/toddlers | 2026-09-26 | child_3_years | parent_unspecified | patterns 3 | border: feeding
+
+About: Nearly-four-year-old refuses meals at home despite eating with grandparents. Wants: Help child eat meals and obtain enough calories without constant prompting. Already did: Offers choices, varied meals, repeated bite prompts, long meals, withholds snacks. Paid: Happy Meals from McDonald’s.
+
+- `ar026-0064` (pain) My wife(26f) and I(29m) are first time parents. Our son is 3, almost 4, and like the title says, he will not eat lunch or dinner. He does just fine at breakfast, whether it's cereal, eggs and toast, pancakes, he loves yogurt and fruit, but when it comes to the other two meals, getting him to eat is like pulling teeth.
+- `ar026-0065` (tried_failed) Usually, when it comes to lunch or dinner, we make a nice little spread for him, things like a pb&j, a veggie, some crackers or whatever. Mac and cheese, chicken nuggets, typical toddler staples. And alot of times, we let him pick things out because yknow, encouraging autonomy and decision making. But even the stuff he picks just sits there, untouched on his plate. He'll just stare at it, or otherwise distract himself, and refuse to even pick up his fork/spoon. It's so bad that we literally have to sit there and tell him to take each and every bite, which usually takes a lot of repeated prompting to get a single bite. And sometimes even that doesn't work. There have been times we've sat at the table for up to an hour working on a single uncrustable sandwich. We can't even get him to eat a happy meal from mcdonalds most of the time. We try not to get that kind of stuff, but life happens.
+- `ar026-0066` (pain) It isn't uncommon for him to just outright refuse to touch his food altogether, wont even pick up his fork/spoon. And when i say 'refuse' I dont mean he's telling us 'no' or throwing some kind of fit, he just ignores us. He'll look right at us, hear us, know exactly what we want out of the situation, and just won't do it. And we know he's hungry because right around mealtime he tells us he's hungry and starts asking for things like candy or other snacks. Which we don't let him have until after he's eaten a proper meal.
+- `ar026-0067` (belief) My wife thinks he's just in a boundary pushing, picky eater phase, but i think it's got something to do with me and his mom, specifically. See, when he's at his grandparents' house, he eats just fine. And they give him more or less the same foods that we give here. We've walked in on him sitting at their table, just working away at whatever is on his plate. It only seems to be at home that there are problems.
+- `ar026-0068` (pain) On multiple occasions, he's made the decision (usually after an hour or so of sitting at the table) to just not eat at all. And he walks​ away from the table. Goes to bed hungry. And that really doesn't sit well with me.
+- `ar026-0069` (fear) A big concern of mine is that at his last pediatrician appointment, they said he was underweight. So I'm worried this behavior is going to start impacting him getting his calories and nutrients and such.
+- `ar026-0070` (question) Anyways, that's my spiel. I really hope you guys have some advice for us, because this has been going on for quite a while at this point. We're desperate lol
+
+### 1wsq2xd | r/toddlers | 2026-09-28 | child_3_years | parent_unspecified | patterns 3 | border: sleep
+
+About: Three-year-old's sudden nighttime demands coincide with daytime defiance and suspected regression. Wants: Child to sleep independently and stop repeated nighttime demands. Already did: Slept on couch and floor; left door open; stood in kitchen.
+
+- `ar037-0155` (pain) We have a 3.25 yo boy who has slept pretty great since 4 months. We've had regressions and we've had to soothe a few times, but for the most part, bed at 7:15, wake at 7a, very little in between. Last week, this changed. He wouldn't let us leave the bedroom at bedtime (which he's never done), and then after hours of that, he woke up several times, walked into our room, and wouldn't let us sleep. We've slept on the couch with him, we've slept on his floor with him, but we really don't want to reward this behavior and really want him to figure out sleeping in his room, on his own.
+- `ar037-0156` (pain) A few more notable details: he's never gotten out of his bed before. He's woken up flipping out, kicking and screaming, but stayed in bed, waiting for us to come in (or he goes back to bed). This sudden change has also come with a sudden defiance in day-time hours that is wholly consistent with the nighttime demands ("I NEED a treat!" and "You NEED to stay in my room!") And while it's hard to know if the lack of sleep is contributing to the defiance, it feels more like a sudden control issue that is driving both.
+- `ar037-0157` (belief) (I do think that this began with some sort of cognitive sleep regression, but the conversations we're having in the middle of the night are the EXACT same conversations we're having in the day. This feels, at this point, wholly behavioral, which makes it hard to call the pedi).
+- `ar037-0158` (desire) Last night, I convinced him to let me leave his room, leave the door open, and stand in the kitchen. I was able to get SOME sleep. He woke up at 9:30, 3, and then 5:15 (for good). **Also, we want to avoid solutions that involve us sleeping on the floor, or the couch, or him coming into our bed. Our goal here is to get him to sleep in his bed and stay in his bed. But we're getting to a point where my wife and I have averaged about 4 hours of sleep for 8 days, and we're not good at our jobs.**
+- `ar037-0159` (desire) Any, and I mean, any input here would be helpful, as we are LOST.
+
+### 1x9ol3q | r/beyondthebump | 2026-10-19 | child_2_years | experienced_mother | patterns 3 | border: sleep
+
+About: Two-year-old screams for hours at night after pacifier removal. Wants: Comfort alternatives and help stopping prolonged screams after pacifier removal. Already did: Removed pacifier; offered water, food, back rubs, shushing and stuffed toys.
+
+- `ar054-0128` (desire) Hi everyone, I desperately need help or advice. About a week ago we took our 2 year olds paci away.
+- `ar054-0129` (pain) She was starting to only associate it with me (mom) and dig through my purse and pockets looking for it if she didn’t have one present to her. It has been a total shit show.  She has had horrible naps and will wake up screaming in the middle of the night for hours.
+- `ar054-0130` (tried_failed) Today I finally took her out of the crib after screaming for over an hour and am sleeping with her on her rocking chair so she can rest and I can attempt to sleep.
+- `ar054-0131` (tried_failed) What else can we offer her to comfort her and make her stop screaming bloody murder for hours? We’ve provided water, back rubs, shhhhing. Sitting I. The dark with her, a small batch of food, etc. nothing is working. She tosses any stuffy we give her. We are hardcore struggling mentally here. Any advice very welcomed.
+
+### 1xek739 | r/Parenting | 2026-10-24 | just turned 3 | parent | patterns 3 | border: sleep
+
+About: Three-year-old demands lights and parental presence before and during sleep.. Wants: End bedtime demands before second baby arrives. Already did: Several night lights; compromised by sitting at stairs.
+
+- `ar048-0135` (trigger_moment) Our daughter just turned 3 a few weeks ago. Around that time her sleep started to become a real problem. She started demanding we leave her door open with the hall light on. Then she started demanding we sit in her room until she fell asleep. We put quite a few different night lights in her room, and we compromised to sit at the top of the stairs until she fell asleep.
+- `ar048-0136` (pain) Our bedroom is downstairs and even more recently she will wake in the middle of the night screaming for us to sleep in the spare bedroom upstairs. Sometimes she will wake multiple times with that demand. My wife is due in January with our second child and we are trying to figure this out before then.
+- `ar048-0137` (tried_failed) We are really out of ideas and this has now gone on for weeks with no change. We’re afraid if we give in and sleep upstairs that will become permanent. Even with sitting on the stairs as she goes to sleep it can sometimes be almost 45 minutes of sitting. And if we don’t sit she will scream for just as long. We are out of ideas and at our wits’ end. Please help
