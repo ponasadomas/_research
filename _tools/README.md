@@ -51,8 +51,22 @@ the next niche: `baby-development/_work/2026-11/brief-read-and-sort.md` (step 7)
 | 7 Main reading | 24,500 posts (150 per reader) | 164, 10 at a time | 4 hours; used up what was left of one usage |
 | 9 Digests | 4,388 posts in 20 shares | 20, 5 at a time | 9 to 15 minutes each |
 | 10 Sections | 13 patterns | 13, 5 at a time | 32 minutes |
+| Re-read after the age limit was corrected | 12,534 posts | 84, 15 at a time | 1.5 hours |
+| 9 Digests, second set | 1,671 posts in 14 shares | 14, 5 at a time | 38 minutes |
+| 10 Sections, second set | 13 patterns | 13, all at once | 10 minutes |
 
-About 12% of the posts were on the niche, so 20,000 posts gave 2,471 on-niche posts.
+- 15 readers at a time and 13 writers at a time both ran without a refusal.
+- With the range at birth to 48 months, 19% of the posts were on the niche: 20,000 posts gave 3,811.
+
+## When a reading has to be widened afterwards
+
+What was done on 2026-11-20, when the range turned out to be wider than the first brief said:
+
+1. Make a new reading folder whose `sample.tsv` holds only the posts the correction can change (here: those marked off, or near because of the old limit). Write its `pool.json` to say so.
+2. Copy the reading brief, change only the definition and the marks that depend on it. Record what lies beyond the new limit as "near" with its own border, so the counts show it.
+3. Run the first block as a trial (`run_pass.sh ... <seed> 5`), look at marks, ages and how many fit no pattern, then run the rest.
+4. Count with both readings: `count_patterns.py ... <first>:<prefix> <re-read>:<prefix>`. The later row replaces the earlier one.
+5. Digest and section the added posts as their own set (`make_digest_shares.py <evidence dir> <work dir> 315 "border: <the beyond-limit border>"` leaves the beyond-limit posts out), and keep them apart from the first set in the findings, so the two ranges can be compared.
 
 ## What went wrong, and what the next run does instead
 
