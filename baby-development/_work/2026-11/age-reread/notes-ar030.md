@@ -1,0 +1,13 @@
+# Reader 030 — age reread
+
+Read all 150 assigned post files, including the author's archived replies, in share order. This share comes from the supplied random sample of text posts in twelve parenting subreddits, April–October 2026; no keyword selection was applied here. Each post was judged from its complete supplied text. Nothing remains unread among the 150 files; many files explicitly say replies were not fetched, so those unavailable replies were not read.
+
+**Counts:** 16 yes, 44 near, 90 no. Extracted 160 quotes from 33 posts: all 16 yes posts and 17 near posts explicitly linking their subject to development or skills. Counts below are posts, with overlapping patterns.
+
+Among yes posts, potty learning/readiness occurred in 6, hard behaviour in 4, day-filling/play in 3, and age-related resources in 3. Potty accounts repeatedly distinguished knowing what to do from actually releasing, especially poop: withholding, sudden toilet fears, reassurance that did not work, and pressure to be ready for school. Behaviour posts described screaming, aggression and increasingly elaborate demands. Activities included surviving long hot weekends, learning letters consistently, and television during independent play. Fifteen yes posts concerned two- or three-year-olds; one concerned a nine-week-old's bottle refusal. The absence of a broad motor-milestone discussion among yes posts surprised me.
+
+Near reasons: 28 age_over_48, 5 age_unknown, 5 logistics, 2 parent_state, 2 other, 1 feeding, 1 sleep. Older-child posts carried substantial material about friendships, school fit, emotional regulation and learning difficulties. Four posts were promotional or product-research contributions by app/tool developers; these are labelled, not treated as buyer testimony. Only 2 included posts explicitly established spending for their subject: a sofa purchase and priced piano lessons. Using a named resource alone was not counted as payment.
+
+Boundary judgements need care. Five posts stated age four; I treated the fourth birthday as the cutoff and marked them near. Bottle acceptance was treated as an eating/drinking skill; milk quantities remained feeding. Incidental play or outings within adult distress or logistics stayed near. Therapy for bereavement, behaviour or anxiety was included under pattern 12 without implying a developmental diagnosis. Household cleanliness teaching and computer/STEM learning were explicit skill links; ordinary concerns without such a link were not. The vaccine-autism claim is retained as a rejected, second-hand belief, not a finding.
+
+The notes and ledger describe this share, not the prevalence of problems among parents.

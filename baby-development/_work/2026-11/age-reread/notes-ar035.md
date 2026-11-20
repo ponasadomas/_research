@@ -1,0 +1,11 @@
+# Reader 035 — age rereading
+
+Read all 150 assigned files in share order, including archived author replies: **14 yes, 44 near, 92 no; 145 quotes from 30 posts**. No file remains unread. This is one share of the stated random sample of text posts from twelve parenting subreddits, April–October 2026, without keyword selection. One file contains only a removal notice (1ta3vyq); its no row records unavailability rather than a substantive off-topic judgment.
+
+Among the 14 yes posts, hard behaviour appears in 6, normality concerns in 5, and potty learning, activities, product choices, parenting effects, and known delays/therapy in 3 each. Tags overlap. Speech posts describe communication difficulties, progress with therapy or ear tubes, and pressure to stop practising skills before an eligibility assessment. Potty posts concern incentives, failed attempts, and disagreement with daycare about readiness. Rich outdoor play and a reported improvement after restricting television also appear. No yes post shows eating/drinking skills, pattern 7.
+
+The 44 near posts comprise 27 age_over_48, 6 age_unknown, 4 sleep, 3 parent_state, 2 other, 1 logistics, and 1 feeding. Sixteen explicitly connect something to development or skills and receive quotes. Across yes and near, 23 posts show hard behaviour; that includes older children. Many no posts concern adults, pregnancy, health, sleep alone, feeding amounts, travel, equipment, work, or family size.
+
+Uncertain boundaries: four years without months; equally central children of different ages; incidental abilities inside another subject. I marked four-year-olds near at the upper boundary and used the oldest stage when both children were central. Grade-only ages remain unknown. Clothing-only and car-seat-only requests stay no; shoes fall within pattern 4. Bedtime distress alone gets no developmental tie; 1uakcl6 explicitly names regression in its title.
+
+One source ends mid-sentence (1ugk0e4), preserved unchanged. Google/Psychology Today claims in 1ue4g30 are labelled secondhand; Google may be AI-generated. Abuse allegations in 1vcc4ed are secondhand and unresolved. Explicit purchases are board games and water shoes, both near posts; books possessed, therapy attendance, insurance use, and an au pair do not establish payment.

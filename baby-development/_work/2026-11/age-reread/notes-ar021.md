@@ -1,0 +1,11 @@
+Reader 021 — 20 November 2026
+
+All 150 supplied files were read in order, including supplied author replies: 25 yes, 48 near and 77 no. Nothing remains unread or unavailable in this share. In 113 files, replies were not fetched when the source was made. I cut 194 quotes from all 25 yes posts and the 13 near posts with developmental or skill links. This is one share of the brief’s random sample, counting posts rather than parents or the market.
+
+Hard behaviour dominated: 14 yes posts carry pattern 3, the main pattern in 11. Tantrums, aggression, transitions, daily care, sibling conflict and sharing recurred. New siblings and house moves appeared alongside difficult behaviour. Four yes posts concern potty learning; two involve preschool or daycare rules conflicting with progress or maturation. Five yes posts carry concern about parental choices, including tablet use, separation and limited involvement. Counts overlap.
+
+There was pleasure in toddler language and sharing a camping activity. Three yes posts needed pattern 0: teaching reading, identifying requested music, and discussing genital curiosity, hygiene and privacy. No yes post received pattern 12; six near posts did, including feeding history with assessments that found no problems.
+
+The near borders are: 23 age_over_48, nine age_unknown, six logistics, four sleep, three other, two feeding and one parent_state. Age was the main uncertainty. The “3/4 year old” touching a pregnant adult’s bump stays near: the fourth-birthday boundary is unclear. The bedbound mother’s son is yes with a note because the third-year timeline indicates age two, although current age is indirect. Mixed-age sibling conflict is yes because the two-year-old’s persistent behaviour is central. Adult sons remain age_over_48, with no matching stage available. Neither kindergarten attendance nor a sibling age gap established age.
+
+I distinguished bottle-method refusal from milk amounts, and learning independent settling from sleep-only questions. Buying, paying or booking established payment; merely obtaining a comfort toy did not. The Montessori price was retained without recording a purchase. One older-child travel post disclosed AI polishing and translation; its row records that provenance.
