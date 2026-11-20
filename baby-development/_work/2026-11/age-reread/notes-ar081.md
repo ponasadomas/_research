@@ -1,0 +1,13 @@
+# Reader 081 — age reread
+
+Read all 134 assigned post files in share order, including every archived original-poster reply present in each file. Nothing remains unread. This share comes from the supplied random sample of posts with text in twelve parenting subreddits, April–October 2026; I did not select posts by topic.
+
+There are 18 yes, 34 near and 82 no posts. I cut 149 quotes from all 18 yes posts and the 14 near posts with an explicit developmental, skill, growth or learning connection. Near reasons: 21 older than 48 months, five mainly parent state, three mainly sleep, two feeding, two logistics and one unknown age. Counts below count posts, including a post once for each pattern it shows.
+
+Hard behaviour was the clearest repeated subject: 11 yes posts and 22 across yes and near. Four yes posts specifically described rough or aggressive treatment of an infant sibling (1tt75a9, 1vboync, 1vbz5p9, 1vxeh7e). Parents repeatedly described explanations, redirection, modelling gentle hands and consequences that had not stopped the behaviour. Two other yes posts asked about excessive hitting or hair pulling and whether something was wrong. Activities and filling the day appeared in seven yes posts, often alongside behaviour rather than as the main request. Three yes posts concerned potty learning; one included speech therapy, several previous attempts and a later reply reporting continued accidents. Two yes posts involved parental rejection or a changing preference between parents.
+
+What surprised me was how often the development-adjacent material concerned school-age children: friendships, screens, emotional regulation, independence and food refusal. These remain near and are not included in the birth-to-four counts. Only one yes post explicitly reported a purchase: padded training pants. Two near posts explicitly reported purchases, for dietary workarounds and breastfeeding pain.
+
+The closest decisions were sleep versus behaviour, feeding versus skill, and broad emotional harm versus an explicit developmental connection. Bedtime defiance, crib-climbing ability and night dryness were retained as near when sleep dominated; waking alone was no. Latch difficulties were near; concrete latch mechanics counted as a skill connection. General worries about wellbeing did not automatically receive a developmental tie. A school-age ADHD post gives third grade but no numerical age, so its stage is unknown. Four-year-olds were treated as past the fourth birthday. The French hair-pulling post was read and quoted in French. One unquoted older-child app post is labelled commercial self-promotion in its ledger note.
+
+These are counts within this assigned share, not estimates about parents or the market.
