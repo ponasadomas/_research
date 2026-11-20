@@ -250,7 +250,7 @@ Pacifier removal, sleeping alone and a sleepy history lesson bring relief or hum
 Birth distress or disagreement with a partner makes the decision difficult despite delight in the existing child.
 
 - "I was told it would all leave my mind after she was born- but I did not." [ar035-0094]
-- "I love watching my daughter grow and become her own person. […]" [ar081-0100]
+- "[…] I love watching my daughter grow and become her own person. […]" [ar081-0100]
 
 **But:** Fulfilment can mean stopping.
 
@@ -263,7 +263,7 @@ Birth distress or disagreement with a partner makes the decision difficult despi
 Ages are unknown; an AI-assisted app does not establish independent mastery.
 
 - "Made me smile. Curious if anyone else's kids have started getting into AI lately." [ar050-0054]
-- "[…] It is cool to see his progression and makes for a great keepsake." [ar033-0095]
+- "[…] It is cool to see his progression and makes for a great keepsake. […]" [ar033-0095]
 
 **But:** nothing found against it.
 
@@ -273,7 +273,7 @@ Ages are unknown; an AI-assisted app does not establish independent mastery.
 
 Ages are unknown; swing-pushing prompts thoughts of last times.
 
-- "This is very possibly the last time he'll ever ask me to push him on the swing. […]" [ar010-0016]
+- "[…] This is very possibly the last time he'll ever ask me to push him on the swing. […]" [ar010-0016]
 - "I'm not an very emotional guy but I honestly teared up writing it down. […]" [ar010-0020]
 
 **But:** New pleasures lie ahead.
@@ -393,7 +393,7 @@ Stated feelings include joy and gratitude as well as grief, guilt and sadness ab
 
 **But:** Pride does not remove guilt about time and support.
 
-- "I’ve carried *so much guilt* over the fact that I don’t get to spend enough time with her. […]" [ar022-0144]
+- "[…] I’ve carried *so much guilt* over the fact that I don’t get to spend enough time with her. […]" [ar022-0144]
 
 ## Coverage
 

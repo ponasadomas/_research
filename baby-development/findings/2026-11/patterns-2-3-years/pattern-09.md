@@ -402,7 +402,7 @@ This is professional exploration.
 
 The student’s age is unknown.
 
-- "I left my public school in order to get better grades […] because I was being bullied and judged a lot." [ar023-0104]
+- "I left my public school in order to get better grades and because I was being bullied and judged a lot. […]" [ar023-0104]
 - "if there’s anyone who go‘s to a Montessori or private school, can you pls give me some tips? :)" [ar023-0104]
 
 **But:** nothing found against it.

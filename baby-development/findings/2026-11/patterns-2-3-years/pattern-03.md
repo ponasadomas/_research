@@ -361,7 +361,7 @@ Age is unknown; the pandemic example is second-hand.
 
 Age and outcomes are unknown.
 
-- "If you fail to let your child cry […] (by instilling humanity and empathy) through discipline, […] your child will let you cry through indiscipline." [ar026-0032]
+- "If you fail to let your child cry (by instilling humanity and empathy) through discipline, your child will let you cry through indiscipline." [ar026-0032]
 
 **But:** nothing found against it.
 

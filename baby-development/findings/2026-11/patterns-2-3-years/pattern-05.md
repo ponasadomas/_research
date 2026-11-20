@@ -125,7 +125,7 @@ Food, screens, injuries and a bilingual move become possible explanations; one m
 
 One mother treats occasional days at home as failure.
 
-- "My toddler is 2.5 and it’s summer time here I take him outside and bring him places […] I get such mom guilt and I feel like I’m a horrible mom because I’m not taking him outside every single day." [ar069-0078]
+- "My toddler is 2.5 and it’s summer time here I take him outside and bring him places but I’m struggling with some days I’m just so tired and wanna just stay home I hate when I have days like this because I get such mom guilt and I feel like I’m a horrible mom because I’m not taking him outside every single day." [ar069-0078]
 
 **But:** The quotation also records outings, rather than staying home every day.
 
@@ -165,7 +165,7 @@ A parent’s own denied privacy shapes a precaution, without reported child obje
 
 This second-hand summary concerns under-twos; the poster’s child stage is unknown.
 
-- "A systematic review by researchers from four U.K. universities […] screen time for children under two is linked to long-term negative health effects […] calling for any official guidance suggesting screens are suitable for all ages to be reconsidered." [ar015-0044]
+- "A systematic review by researchers from four U.K. universities found that screen time for children under two is linked to long-term negative health effects, calling for any official guidance suggesting screens are suitable for all ages to be reconsidered." [ar015-0044]
 
 **But:** nothing found against it; the digest distinguishes association from an individual causal account.
 
