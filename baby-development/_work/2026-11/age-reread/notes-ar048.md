@@ -1,0 +1,11 @@
+# Reader 048 notes
+
+Read all 150 assigned posts, including their archived author replies. None remain unread or unavailable. This share belongs to the supervisor’s random sample of text-bearing posts in twelve parenting subreddits, April–October 2026; I did not choose posts by topic. Judgments: **16 yes, 34 near, 100 no**; **137 quotes**. Counts concern posts, not people or market prevalence.
+
+Refusal and limits recur: saying no to transitions, ignoring instructions, aggression when corrected, and consequences that do not stick. Outings expose those difficulties to other adults; one parent describes humiliation and avoiding summer activities. Potty training creates a different fear of losing outings. Other parents ask about changing relationships and settings: resisting a father’s house, refusing grandparents’ overnight stays, preparing for preschool, and reacting to a parent’s job loss.
+
+I was surprised by the range behind stage-related choices: a chair for sitting without restraints, whether an independent walker still needs a stroller, flotation equipment that might impede swimming, and a daycare curriculum an impressionable child would absorb. One toddler combines advanced reading and arithmetic with difficulty following everyday instructions. Older-child posts raise related concerns about attention, friendships and independence; these remain near.
+
+The uncertain boundaries were incidental behaviour versus the main subject, and development versus acute symptoms. Incidental play or behaviour in adult-distress posts was near. Illness symptoms, feeding amounts and sleep noises alone were no. Calorie-focused food refusal was near/feeding; bedtime demands and separation were near/sleep. Daycare mentioned only for logistics was no, as was a prenatal toy-registry question under the pregnancy exclusion.
+
+Unstated numerical ages were age_unknown. Four-year-olds were near because the fourth birthday had been reached; a mixed-age post independently about a two-year-old remained yes. The dependent 23-year-old son was near/age_over_48 under “whatever the age.” Second-hand chair experience and farm-class behaviour are labelled in quote context. No demographic facts or diagnoses were inferred. Every quote was checked against its assigned raw file as an exact substring.

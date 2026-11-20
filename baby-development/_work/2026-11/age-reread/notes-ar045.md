@@ -1,0 +1,11 @@
+# Reader 045 — age reread
+
+Read all 150 assigned files in share order, including every supplied original-author reply: **14 yes, 35 near, 101 no**. Nothing remains unread in the supplied files; replies marked “not fetched” remain an archive limitation. This share is part of the stated random sample of text posts in twelve parenting subreddits, April–October 2026, without keyword selection.
+
+Among the 14 yes posts, hard behaviour (pattern 3) appeared in 5, activities (2) in 4, choosing things for the age (4) in 3, delight (8) in 2, potty learning (11) in 2, normality concerns (1) in 1, and parent preference (6) in 1. Counts overlap and count posts, not people or quotes. Dressing meltdowns, destructive behaviour, happy screaming and opening the fridge made ordinary care difficult. Activity requests included indoor winter entertainment, screen alternatives and a grandparent's special weekly ritual.
+
+The contrast between exhausting behaviour and affectionate pleasure stood out. Fathers described imaginative play, emerging sporting interests and a three-year-old copying expressive habits. Potty posts described resistance before learning and increasing accidents after progress. One distressed parent described repeated urination, aggression toward family and animals, and destruction; those passages are retained.
+
+Near reasons: 23 age_over_48, 4 logistics, 3 sleep, 2 other, and 1 each age_unknown, parent_state and feeding. Ten near posts explicitly linked their subject to development, skills or regression. The 14 yes and those 10 near posts supplied **68 quotes**. No yes/near author explicitly stated payment; possession, attendance and professional contact alone were not counted as purchases.
+
+Uncertain boundaries are flagged in the ledger. Four-year-olds without exact months were treated as beyond the fourth-birthday boundary. Bedtime fear was yes because fear was central; sleep alone was no. Running/jumping amid head-pain concerns and an initial latch amid feeding advice were near as incidental abilities. First tooth loss and anticipated puberty counted as bodily developmental links. The stepgrandparent's allegations are their account, including speculation about others' motives. Addressing mothers alone did not establish the author's sex.
