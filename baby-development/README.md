@@ -19,9 +19,9 @@ How it was run, step by step: `../_tools/README.md`.
 | Step | State |
 |---|---|
 | Random sample of 20,000 posts read and sorted | Done for birth to 48 months (2026-11-20): 3,811 on the niche, 8,476 near, 7,713 off. `evidence/2026-11/birth-to-48-months/counts.md`. The first pass stopped at 24 months by mistake (2,471 on the niche); 12,534 posts were read again |
-| Digests of each pattern | Done for birth to 24 months only: 20, in `evidence/2026-11/second-reading/` |
-| Findings sections, one per pattern | Done for birth to 24 months only, not reviewed: `findings/2026-11/patterns/` |
-| Findings page and her words | Written 2026-11-20 for birth to 24 months only, not reviewed: `findings/what-hurts-and-what-she-wants.md` (163 findings), `her-words.md` (247 phrases). The spec files the page was built from: `_work/2026-11/findings-build/` |
+| Digests of each pattern | Done: 20 for children under 2 (`evidence/2026-11/second-reading/`), 14 for children of 2 and 3 (`evidence/2026-11/age-reread/`) |
+| Findings sections, one per pattern | Done, not reviewed: `findings/2026-11/patterns/` (under 2), `findings/2026-11/patterns-2-3-years/` |
+| Findings page and her words | Written 2026-11-20 for birth to 48 months, not reviewed: `findings/what-hurts-and-what-she-wants.md` (164 findings), `her-words.md` (336 phrases). Built from `_work/2026-11/findings-build-whole-range/`. The earlier page for under 2 only is in `findings/2026-11/` |
 | Avatar | Not written |
 | Still unread | 97,521 posts (10 April to 24 October), and all replies by people other than the poster (4.19 million downloaded, on disk only) |
 
