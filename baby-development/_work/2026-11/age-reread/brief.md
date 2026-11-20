@@ -18,10 +18,11 @@ Open nothing else in `baby-development/` or the other niche folders.
 
 ## The niche
 
-- **Who:** Mothers of a child from birth to 48 months. Posts by any parent or carer are read, and who is speaking is recorded.
-- **Subject:** The child's development: how the child grows, behaves, plays and learns, and what she does with the child day to day.
+- **Subject:** The development of a child from birth to 48 months.
 
-What her problems are inside that subject is not defined: that is what this reading finds.
+A post belongs when it is about that: what the child does or does not do yet, how the child
+behaves, plays and learns, and what is done with the child day to day. Who writes such
+posts and what their problems are is not defined: that is what this reading finds.
 
 ## Your share
 
