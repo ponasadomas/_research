@@ -18,12 +18,11 @@ Open nothing else in `baby-development/` or the other niche folders.
 
 ## The niche
 
-- **Subject:** The development of a child. The age range is not chosen yet.
+- **Subject:** The development of a child from birth to 48 months.
 
-A post belongs when it is about that: what a child does or does not do yet, how the child
-behaves, plays and learns, and what is done with the child day to day. The child may be of
-any age: record the age, do not judge by it. Who writes such posts and what their problems
-are is not defined: that is what this reading finds.
+A post belongs when it is about that: what the child does or does not do yet, how the child
+behaves, plays and learns, and what is done with the child day to day. Who writes such
+posts and what their problems are is not defined: that is what this reading finds.
 
 ## Your share
 
@@ -38,20 +37,22 @@ its text; do not mark posts by keyword or by script. Every post gets one row.
 For **every** post:
 
 - `mark`:
-  - `yes`: the post is about a child of any age (a son or daughter, not yet adult), and what
-    it is mainly about is in the subject.
-  - `near`: the post is about a child of any age, stated or not; **and** it says something
-    about the child's development, abilities, behaviour, play or how the day is spent,
-    although its main subject is something else. Give the reason in `border`. A post is
-    never `near` or `no` because of the child's age.
+  - `yes`: the post is about a child from birth to 48 months (up to the fourth birthday),
+    and what it is mainly about is in the subject.
+  - `near`: the post says something about a child's development, abilities, behaviour, play
+    or how the day is spent, **and** one of these holds: its main subject is something
+    else; the child's age is not stated; or the child is older than 48 months, whatever the
+    age. Give the reason in `border`.
   - `no`: everything else. That includes posts about pregnancy or about adults, and posts
     about a child that say nothing on those subjects (for example a post only about night
     waking, a rash, a pram, or the parents' relationship).
 - `about`: what the post is about, 12 words of your own at most.
 
-For **near** posts, `border` (one value): `sleep` (mainly about sleep), `feeding` (mainly
-nutrition or feeding amounts), `parent_state` (mainly the parent's own exhaustion, mood,
-work, relationship), `logistics` (equipment, travel, childcare arrangements), `other`.
+For **near** posts, `border` (one value): `age_over_48` (the child is older than 48 months;
+use this whenever it holds, also when the post is mainly about the subject), `age_unknown`
+(child's age not stated), `sleep` (mainly about sleep), `feeding` (mainly nutrition or
+feeding amounts), `parent_state` (mainly the parent's own exhaustion, mood, work,
+relationship), `logistics` (equipment, travel, childcare arrangements), `other`.
 
 For **yes** and **near** posts:
 

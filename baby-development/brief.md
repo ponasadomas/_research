@@ -7,7 +7,7 @@ candidate product and so shaped what was selected and read.
 
 The definition agreed with the owner, copied from `~/GitHub/_home/library/niches.md`:
 
-- **Subject:** The development of a child. The age range is not chosen yet.
+- **Subject:** The development of a child from birth to 48 months.
 
 Who she is and what her problem is are not part of the definition: the research finds them.
 
