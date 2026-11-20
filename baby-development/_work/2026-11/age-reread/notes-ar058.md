@@ -1,0 +1,11 @@
+# Reader 058 — age reread
+
+Read all 150 assigned files in order, including every archived original-author reply: 21 yes, 44 near, 85 no. This is one share of the supplied random sample of text-bearing posts in twelve parenting subreddits, April–October 2026. No assigned file remains unread or unavailable. Replies marked not fetched in the source files were unavailable.
+
+Among yes posts, hard behaviour appears in 12 and groups, other children or daycare in seven; patterns overlap. Throwing, hitting, cleanup refusal, car-seat resistance and sibling fighting recur. Daycare accounts include trouble following instructions, expulsion, sadness and fears of lasting harm. Separation distress appears at home and dropoff. Three yes posts involve known delays or diagnoses: speech delay and two autism diagnoses. Imaginative play and language also bring delight. All 21 yes posts centre on children around two or three; none centres on an infant.
+
+The 44 near posts comprise 22 past the age cutoff, 10 with unstated ages, five mainly sleep, three logistics, three the parent's state and one feeding. I did not infer numeric age from school grade or “toddler.” Four-year-olds are past the fourth-birthday cutoff.
+
+The hardest age decision was sibling fighting (1ufpcqw), equally about children aged 2.5 and six: marked yes with the toddler's stage. The expulsion account (1v4r5ha) uses its stated “almost 3” age at dismissal; exact current age is unstated. Passing mentions of bonds, outdoor activity, meal routines or potential unsafe play made some adult/equipment posts near. Growth worry in picky eating (1vdxgsw) was not coded as an explicit developmental-skills link; the low-intake post (1wfpq8d) explicitly mentions milestones and mental growth. Daycare-related loss of play (1x7fv7s) is retained, but not labelled an explicit developmental regression. These boundaries warrant review.
+
+Pulled 121 quotes from 31 posts: all 21 yes and ten development-linked near posts. The scientific study excerpt is labelled second-hand, not a personal parenting account. Restraint, threats, distress, self-injury and unwanted touching were retained. Script checks confirmed complete share coverage, unique IDs, valid fields and exact source occurrence of every quote passage.
