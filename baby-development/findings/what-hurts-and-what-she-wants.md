@@ -5,6 +5,8 @@
 
 ## Limits
 
+**This page covers a child from birth to 24 months only.** The niche is birth to 48 months; the posts about children of 2 and 3 years were read on 2026-11-20 and are not in this page yet. See `../evidence/2026-11/birth-to-48-months/counts.md`.
+
 The posts are a random draw of 20,000 (seed 20261119, no keyword) from all 122,021 posts with text in twelve parenting subreddits, 1 April to 24 October 2026. Agents read every one and marked it yes (on the niche: a child of 0 to 24 months, and development, abilities, behaviour, play or the day), near or no: 2,471 yes, 5,534 near, 11,995 no. Each yes and near post got one main pattern out of 13; digest readers sorted each pattern's posts into forms, section writers merged the forms, and this page joins forms that say the same kind of thing. A pattern's count is out of the 2,471 on-niche posts, a form's is out of its pattern's posts, and a count under "Next to the niche" is out of the 5,534 near posts. "Parents" means whoever wrote the post.
 
 - How common anything is among mothers or buyers: Reddit is not the market. People post more when things are bad, and many never buy.

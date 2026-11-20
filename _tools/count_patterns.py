@@ -1,33 +1,41 @@
 #!/usr/bin/env python3
 """Step 3 of the chain: merge a read-and-sort pass and count posts per pattern.
-  python3 -I _tools/count_patterns.py <niche> <round> <label> <prefix> <highest pattern number> <patterns.md>
-  (run from ~/GitHub/_research; reads <niche>/_work/<round>/<label>/ and <niche>/quotes/reddit-<prefix>NNN.jsonl)
+  python3 -I _tools/count_patterns.py <niche> <round> <out label> <highest pattern number> <patterns.md> <reading>:<prefix>...
+  (run from ~/GitHub/_research; each reading is a folder <niche>/_work/<round>/<reading>/ with quotes in
+  <niche>/quotes/reddit-<prefix>NNN.jsonl. With several readings, a post read again in a later one takes
+  the later row and quotes: that is how a re-read replaces the first reading of the same posts.)
 Writes <niche>/evidence/<round>/<label>/: posts.tsv (every post, one row), counts.md (the
 counts), pattern-NN.md (each pattern's posts with their quotes, nothing selected).
 Only readers that pass verify_pass.py are counted. Fails if a counted post has two rows."""
 import collections, csv, glob, json, os, re, subprocess, sys
-niche, rnd, label, prefix, top, patfile = sys.argv[1:7]; top = int(top)
-d, qd, out = f"{niche}/_work/{rnd}/{label}", f"{niche}/quotes", f"{niche}/evidence/{rnd}/{label}"
+niche, rnd, label, top, patfile = sys.argv[1:6]; top = int(top); sources = [x.split(":") for x in sys.argv[6:]]
+qd, out = f"{niche}/quotes", f"{niche}/evidence/{rnd}/{label}"
 os.makedirs(out, exist_ok=True)
 names = {0: "None of these"}
 for l in open(patfile):
     m = re.match(r"\|\s*(\d+)\s*\|\s*([^|]+?)\s*\|", l)
     if m: names[int(m.group(1))] = m.group(2)
-sample = {r["post_id"]: r for r in csv.DictReader(open(f"{d}/sample.tsv"), delimiter="\t")}
-pool = json.load(open(f"{d}/pool.json"))
-shares = sorted(re.search(r"reader-(\d+)\.tsv", f).group(1) for f in glob.glob(f"{d}/reader-*.tsv"))
-rows, per_reader, failed, quotes = {}, {}, [], collections.defaultdict(list)
-for nn in shares:
-    if subprocess.run([sys.executable, "-I", "_tools/verify_pass.py", d, qd, prefix, nn, str(top)], capture_output=True).returncode:
-        failed.append(nn); continue
-    mine = list(csv.DictReader(open(f"{d}/posts-{prefix}{nn}.tsv", encoding="utf-8"), delimiter="\t", quoting=csv.QUOTE_NONE))
-    for r in mine:
-        if r["post_id"] in rows: sys.exit(f"FAIL: post {r['post_id']} has two rows")
-        if r["post_id"] not in sample: sys.exit(f"FAIL: post {r['post_id']} is not in the sample")
-        r["reader"] = prefix + nn; r.update(subreddit=sample[r["post_id"]]["subreddit"], date=sample[r["post_id"]]["date"]); rows[r["post_id"]] = r
-    per_reader[nn] = collections.Counter(r["mark"] for r in mine)
-    for l in open(f"{qd}/reddit-{prefix}{nn}.jsonl", encoding="utf-8"):
-        if l.strip(): q = json.loads(l); quotes[q["post_id"]].append(q)
+sample, pools, rows, per_reader, failed, quotes, nshares, replaced = {}, [], {}, {}, [], collections.defaultdict(list), 0, 0
+for src, prefix in sources:
+    d = f"{niche}/_work/{rnd}/{src}"
+    smp = {r["post_id"]: r for r in csv.DictReader(open(f"{d}/sample.tsv"), delimiter="\t")}; sample.update(smp)
+    pools.append(json.load(open(f"{d}/pool.json")))
+    shares = sorted(re.search(r"reader-(\d+)\.tsv", f).group(1) for f in glob.glob(f"{d}/reader-*.tsv")); nshares += len(shares)
+    seen_here = set()
+    for nn in shares:
+        if subprocess.run([sys.executable, "-I", "_tools/verify_pass.py", d, qd, prefix, nn, str(top)], capture_output=True).returncode:
+            failed.append(prefix + nn); continue
+        mine = list(csv.DictReader(open(f"{d}/posts-{prefix}{nn}.tsv", encoding="utf-8"), delimiter="\t", quoting=csv.QUOTE_NONE))
+        for r in mine:
+            if r["post_id"] in seen_here: sys.exit(f"FAIL: post {r['post_id']} has two rows in {src}")
+            if r["post_id"] not in smp: sys.exit(f"FAIL: post {r['post_id']} is not in the sample of {src}")
+            seen_here.add(r["post_id"])
+            if r["post_id"] in rows: replaced += 1; quotes.pop(r["post_id"], None)      # a later reading replaces an earlier one
+            r["reader"] = prefix + nn; r.update(subreddit=smp[r["post_id"]]["subreddit"], date=smp[r["post_id"]]["date"]); rows[r["post_id"]] = r
+        per_reader[prefix + nn] = collections.Counter(r["mark"] for r in mine)
+        for l in open(f"{qd}/reddit-{prefix}{nn}.jsonl", encoding="utf-8"):
+            if l.strip(): q = json.loads(l); quotes[q["post_id"]].append(q)
+d = ", ".join(f"{niche}/_work/{rnd}/{src}/" for src, _ in sources); pool = pools if len(pools) > 1 else pools[0]; shares = range(nshares)
 R = list(rows.values()); N = len(R)
 cols = "post_id subreddit date reader mark border patterns main_pattern other_what ties_to_development about speaker stage wants already_did paid paid_what quotes note".split()
 with open(f"{out}/posts.tsv", "w", encoding="utf-8") as f:
@@ -51,7 +59,8 @@ L = [f"# Post counts by pattern: {niche}, {label} ({rnd})", "",
      f"- **Readers left out** (share made, check not passed or not finished): {', '.join(failed) or 'none'}.",
      "- **A count is a number of posts**, each tagged by one reader against the pattern list. A post is not a person, and Reddit is not the market.",
      "- **Per-pattern counts are soft.** In the first round, three coders agreed on the main pattern for 21 of 30 shared posts. Small differences between patterns mean nothing.",
-     f"- **Replies:** see `{d}/posts-without-replies.txt` for the posts that were read without the poster's own replies.",
+     f"- **Read again:** {replaced:,} posts were read in more than one of these readings; the later reading's row is the one counted.",
+     "- **Replies:** each reading's `posts-without-replies.txt` lists the posts that were read without the poster's own replies.",
      f"- **Quotes:** {nq:,}, each checked word for word against its post. They are in `pattern-NN.md`, under the post they come from.", ""]
 L += ["## Marks", ""] + table(["Mark", "Posts", "Share"], [(m, sum(1 for r in R if r["mark"] == m), pc(sum(1 for r in R if r["mark"] == m), N)) for m in ("yes", "near", "no")])
 rates = sorted(100 * c["yes"] / sum(c.values()) for c in per_reader.values())
@@ -64,6 +73,12 @@ L += table(["#", "Pattern", "Main", "Share of yes", "Share of all posts", "Any",
 L += [f"Near posts tied to development: {len(tied):,} of {len(near):,} near posts.", ""]
 L += ["## Near posts by border", ""] + table(["Border", "Posts", "Share of near"], tally(near, lambda r: r["border"]))
 L += ["## Yes posts by child's stage", ""] + table(["Stage", "Posts", "Share"], tally(yes, lambda r: r["stage"]))
+stages = [k for k, _, _ in tally(yes, lambda r: r["stage"])]
+order = [x for x in "newborn_0_8_weeks baby_2_4_months baby_4_6_months baby_6_9_months baby_9_12_months toddler_12_18_months toddler_18_24_months child_24_36_months child_36_48_months child_2_years child_3_years child_4_years child_5_years child_6_to_8_years child_9_to_12_years teen_13_to_17_years looking_back unknown".split() if x in stages] + [x for x in stages if x not in "newborn_0_8_weeks baby_2_4_months baby_4_6_months baby_6_9_months baby_9_12_months toddler_12_18_months toddler_18_24_months child_24_36_months child_36_48_months child_2_years child_3_years child_4_years child_5_years child_6_to_8_years child_9_to_12_years teen_13_to_17_years looking_back unknown".split()]
+L += ["## Yes posts: main pattern by child's stage", "", "Each cell: posts, and their share of that stage's yes posts.", ""]
+L += table(["Stage", "Yes posts"] + [f"{p} {names.get(p, '?')[:22]}" for p in range(top + 1)],
+           [[st, sum(1 for r in yes if r["stage"] == st)] + [(lambda k, n: f"{k} ({pc(k, n)})" if k else "")(sum(1 for r in yes if r["stage"] == st and int(r["main_pattern"]) == p), sum(1 for r in yes if r["stage"] == st)) for p in range(top + 1)] for st in order])
+L += ["## Near posts by border and child's stage", ""] + table(["Border", "Stage", "Posts"], [(b_, st, n) for (b_, st), n in sorted(collections.Counter((r["border"], r["stage"]) for r in near if r["border"].startswith("age_over")).items(), key=lambda x: -x[1])])
 L += ["## Yes posts by speaker", "", "`parent_unspecified` means the author did not say they are a mother.", ""] + table(["Speaker", "Posts", "Share"], tally(yes, lambda r: r["speaker"]))
 L += ["## By subreddit", ""] + table(["Subreddit", "Posts read", "Yes", "Yes share", "Near"], sorted(((s, n, sum(1 for r in yes if r["subreddit"] == s), pc(sum(1 for r in yes if r["subreddit"] == s), n), sum(1 for r in near if r["subreddit"] == s)) for s, n in collections.Counter(r["subreddit"] for r in R).items()), key=lambda x: -x[2]))
 paid = [r for r in yes if r["paid"] == "yes"]; paidn = [r for r in near if r["paid"] == "yes"]

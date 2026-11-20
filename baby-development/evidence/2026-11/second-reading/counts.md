@@ -1,6 +1,6 @@
 # Post counts by pattern: baby-development, second-reading (2026-11)
 
-Made by `_tools/count_patterns.py` from the readers' files in `baby-development/_work/2026-11/second-reading/`. Nothing here was chosen by hand.
+Made by `_tools/count_patterns.py` from the readers' files in `baby-development/_work/2026-11/second-reading//`. Nothing here was chosen by hand.
 
 ## Read this first
 
@@ -9,7 +9,8 @@ Made by `_tools/count_patterns.py` from the readers' files in `baby-development/
 - **Readers left out** (share made, check not passed or not finished): none.
 - **A count is a number of posts**, each tagged by one reader against the pattern list. A post is not a person, and Reddit is not the market.
 - **Per-pattern counts are soft.** In the first round, three coders agreed on the main pattern for 21 of 30 shared posts. Small differences between patterns mean nothing.
-- **Replies:** see `baby-development/_work/2026-11/second-reading/posts-without-replies.txt` for the posts that were read without the poster's own replies.
+- **Read again:** 0 posts were read in more than one of these readings; the later reading's row is the one counted.
+- **Replies:** each reading's `posts-without-replies.txt` lists the posts that were read without the poster's own replies.
 - **Quotes:** 19,495, each checked word for word against its post. They are in `pattern-NN.md`, under the post they come from.
 
 ## Marks
@@ -69,6 +70,30 @@ Near posts tied to development: 1,917 of 5,534 near posts.
 | newborn_0_8_weeks | 140 | 5.7% |
 | unknown | 44 | 1.8% |
 | looking_back | 2 | 0.1% |
+
+## Yes posts: main pattern by child's stage
+
+Each cell: posts, and their share of that stage's yes posts.
+
+| Stage | Yes posts | 0 None of these | 1 Is this normal, or is  | 2 What do I do with the  | 3 Hard behaviour | 4 What should I get for  | 5 Am I harming the child | 6 The child prefers some | 7 Learning to eat and dr | 8 Delight or pride in wh | 9 Classes, groups, other | 10 Other people interfere | 11 Potty readiness and le | 12 The child has a known  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| newborn_0_8_weeks | 140 | 13 (9.3%) | 45 (32.1%) | 12 (8.6%) | 13 (9.3%) | 6 (4.3%) | 11 (7.9%) | 8 (5.7%) | 8 (5.7%) | 11 (7.9%) |  | 10 (7.1%) |  | 3 (2.1%) |
+| baby_2_4_months | 222 | 8 (3.6%) | 65 (29.3%) | 27 (12.2%) | 21 (9.5%) | 14 (6.3%) | 26 (11.7%) | 19 (8.6%) | 9 (4.1%) | 13 (5.9%) | 2 (0.9%) | 4 (1.8%) |  | 14 (6.3%) |
+| baby_4_6_months | 236 | 17 (7.2%) | 70 (29.7%) | 32 (13.6%) | 12 (5.1%) | 25 (10.6%) | 20 (8.5%) | 10 (4.2%) | 18 (7.6%) | 13 (5.5%) | 3 (1.3%) | 4 (1.7%) |  | 12 (5.1%) |
+| baby_6_9_months | 377 | 13 (3.4%) | 104 (27.6%) | 35 (9.3%) | 37 (9.8%) | 33 (8.8%) | 37 (9.8%) | 16 (4.2%) | 45 (11.9%) | 21 (5.6%) | 16 (4.2%) | 9 (2.4%) | 2 (0.5%) | 9 (2.4%) |
+| baby_9_12_months | 360 | 7 (1.9%) | 93 (25.8%) | 35 (9.7%) | 43 (11.9%) | 49 (13.6%) | 24 (6.7%) | 15 (4.2%) | 35 (9.7%) | 24 (6.7%) | 11 (3.1%) | 10 (2.8%) | 2 (0.6%) | 12 (3.3%) |
+| toddler_12_18_months | 574 | 12 (2.1%) | 134 (23.3%) | 40 (7.0%) | 136 (23.7%) | 57 (9.9%) | 35 (6.1%) | 32 (5.6%) | 30 (5.2%) | 25 (4.4%) | 29 (5.1%) | 11 (1.9%) | 7 (1.2%) | 26 (4.5%) |
+| toddler_18_24_months | 516 | 20 (3.9%) | 81 (15.7%) | 35 (6.8%) | 156 (30.2%) | 46 (8.9%) | 19 (3.7%) | 28 (5.4%) | 9 (1.7%) | 18 (3.5%) | 35 (6.8%) | 13 (2.5%) | 26 (5.0%) | 30 (5.8%) |
+| looking_back | 2 | 1 (50.0%) |  |  |  |  | 1 (50.0%) |  |  |  |  |  |  |  |
+| unknown | 44 | 2 (4.5%) | 3 (6.8%) | 10 (22.7%) | 2 (4.5%) | 15 (34.1%) | 3 (6.8%) | 1 (2.3%) |  | 2 (4.5%) | 2 (4.5%) | 2 (4.5%) | 1 (2.3%) | 1 (2.3%) |
+
+## Near posts by border and child's stage
+
+| Border | Stage | Posts |
+|---|---|---|
+| age_over_24 | unknown | 511 |
+| age_over_24 | toddler_18_24_months | 26 |
+| age_over_24 | looking_back | 2 |
 
 ## Yes posts by speaker
 

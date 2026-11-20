@@ -5,7 +5,8 @@ by hand. The pattern list is `../../_work/2026-11/patterns/patterns.md`.
 
 | Folder | Posts | What it is | Use for counts? |
 |---|---|---|---|
-| `second-reading/` | 20,000 | A random draw (seed 20261119) from all 122,021 posts with text in twelve subreddits, 1 April to 24 October 2026. Complete | **Yes. This is the base for every count** |
+| `birth-to-48-months/` | 20,000 | The same random draw as `second-reading/`, with the 12,534 posts that had been marked off or "over 24 months" read again on 2026-11-20 for a child from birth to 48 months (`_work/2026-11/age-reread/`). 3,811 on the niche | **Yes. This is the base for every count since 2026-11-20** |
+| `second-reading/` | 20,000 | A random draw (seed 20261119) from all 122,021 posts with text in twelve subreddits, 1 April to 24 October 2026. Complete | For birth to 24 months only: its brief stopped at 24 months. The digests and `findings/2026-11/patterns/` were made from it |
 | `third-reading/` | 4,500 | The first 30 shares of the remaining 102,021 posts. The shares were dealt in date order, so these are all posts of 1 to 9 April 2026 | No: nine days, not a fair sample. Its quotes are good as her words |
 
 In each folder: `counts.md` (start here), `pattern-NN.md` (each pattern's posts with their
