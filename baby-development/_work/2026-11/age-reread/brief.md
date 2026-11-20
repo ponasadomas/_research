@@ -18,10 +18,10 @@ Open nothing else in `baby-development/` or the other niche folders.
 
 ## The niche
 
-- **Who:** Mothers. Posts by any parent or carer are read, and who is speaking is recorded.
-- **Child's age:** birth to 48 months.
-- **The problem:** She wants to know what to do with the child at this age and whether the child is on track: what the child can or cannot do yet, whether that is all right, behaviour, play, how to spend the day, and how she feels about all of it.
-- **Next to it, not in it:** sleep, feeding amounts and nutrition, illness, equipment and childcare arrangements, and the parent's own state, unless the post ties them to the child's development, abilities, behaviour, play or the day.
+- **Who:** Mothers of a child from birth to 48 months. Posts by any parent or carer are read, and who is speaking is recorded.
+- **Subject:** The child's development: how the child grows, behaves, plays and learns, and what she does with the child day to day.
+
+What her problems are inside that subject is not defined: that is what this reading finds.
 
 ## Your share
 

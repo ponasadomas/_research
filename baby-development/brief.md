@@ -3,14 +3,14 @@
 Written 2026-11-18. It replaces the October brief (`_work/2026-10/brief.md`), which named a
 candidate product and so shaped what was selected and read.
 
-## The problem
+## The niche
 
 The definition agreed with the owner, copied from `~/GitHub/_home/library/niches.md`:
 
-- **Who:** Mothers. Posts by any parent or carer are read, and who is speaking is recorded.
-- **Child's age:** birth to 48 months.
-- **The problem:** She wants to know what to do with the child at this age and whether the child is on track: what the child can or cannot do yet, whether that is all right, behaviour, play, how to spend the day, and how she feels about all of it.
-- **Next to it, not in it:** sleep, feeding amounts and nutrition, illness, equipment and childcare arrangements, and the parent's own state, unless the post ties them to the child's development, abilities, behaviour, play or the day.
+- **Who:** Mothers of a child from birth to 48 months. Posts by any parent or carer are read, and who is speaking is recorded.
+- **Subject:** The child's development: how the child grows, behaves, plays and learns, and what she does with the child day to day.
+
+Her problem is not part of the definition: the research finds it.
 
 Until 2026-11-20 this brief said "0 to 24 months", carried over from the October brief
 without asking the owner. The readings up to that date used that limit.
