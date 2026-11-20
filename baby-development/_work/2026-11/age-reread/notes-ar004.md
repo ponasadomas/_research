@@ -1,0 +1,11 @@
+# Reader 004 — age reread
+
+Read all **150** assigned files in share order, including every author's reply present: **15 yes, 48 near, 87 no; 153 quotes from 37 posts** (15 yes and 22 near with developmental links). Nothing remains unread. Unfetched replies are limitations of the supplied files. These are post counts in this random-sample share, not people or market prevalence.
+
+Hard behaviour recurred most: **8 of 15 yes** showed pattern 3; **6** mainly concerned it. Aggression, attention demands and failed responses accompanied fear of injury, overstimulation and self-doubt. Two yes posts concerned social experiences or daycare: short-lived tolerance for playdates and a daycare without activities or responsive care. Other main subjects included an accessible bed, head-banging, potty readiness, death understanding, mother preference and two moments of delight. Surprisingly, all 15 yes posts concerned two- or three-year-olds; none primarily concerned an infant. None showed eating-skill pattern 7 or known-delay/therapy pattern 12; two near posts showed 12.
+
+Near reasons: **30 age_over_48, 5 age_unknown, 4 parent_state, 3 feeding, 3 sleep, 2 logistics, 1 other**. Four-year-olds, including “just turned” four, were beyond the fourth-birthday boundary. Mixed-age cases are noted. One post gives only a target range of 3–4, without its child's actual age. A 19-year-old has stage `unknown` because no supplied label fits; the row preserves the known age.
+
+Judgement calls: first haircut counted as delight in growing up; death understanding used pattern 0. Bedtime head-banging counted yes because normal self-soothing was central. Pure sleep, medical, nutritional-amount and equipment posts stayed no unless relevant abilities, behaviour or activities also appeared. General parental guilt did not automatically establish a developmental link. Annual-pass possession did not establish payment. Storytelling guidance inviting DMs is labelled self-promotional; commercial status is unconfirmed. Injury and neglect passages were retained.
+
+Validation passed: exact ordered coverage; unique sequential quote IDs; share membership and raw paths; per-post quote counts; fields and word limits. All **153** passages match their assigned sources word for word.

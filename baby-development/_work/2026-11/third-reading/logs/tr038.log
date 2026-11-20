@@ -1,0 +1,2552 @@
+OpenAI Codex v0.169.0
+--------
+workdir: /home/thinkpad/GitHub/_research
+model: gpt-6.1-sol
+provider: openai
+approval: never
+sandbox: workspace-write [workdir, /tmp, $TMPDIR]
+reasoning effort: high
+reasoning summaries: none
+session id: 01a1f184-1675-7740-b70a-eda00dcdeeb0
+--------
+user
+# Brief: read one share of a random sample, sort each post, cut the quotes
+
+You are reader **038**. Working directory: `~/GitHub/_research`. Other readers work on other
+shares at the same time. Write only the three files named under "Your output". No network.
+Do not use git. Do not spawn other agents. Never modify any other file.
+
+## Why
+
+This is a reading for the niche `baby-development`. Your share is part of a random sample of
+every post with text in twelve parenting subreddits, April to October 2026. No keyword chose
+them, so most posts are not about the niche. The purpose is to count how many posts show
+each pattern and to keep what the parents say, word for word.
+
+**Read with no product, brand or hypothesis in mind.** Read first, in the root `README.md`,
+the sections "Research never censors" and "Conventions", and then
+`baby-development/_work/2026-11/patterns/patterns.md` (thirteen numbered patterns, 0 to 12).
+Open nothing else in `baby-development/` or the other niche folders.
+
+## The niche
+
+Parents of babies from birth to 24 months, writing about the child's development and their
+days together: what the child can or cannot do yet, whether that is all right, behaviour,
+play, how to spend the day, and how the parent feels about all of it.
+
+## Your share
+
+`baby-development/_work/2026-11/third-reading/reader-038.tsv`: one row per post, with the path of its post file (the post and its
+author's own replies in the thread).
+
+## Task
+
+Read every post file in your share, whole, one after another. Judge each post yourself from
+its text; do not mark posts by keyword or by script. Every post gets one row.
+
+For **every** post:
+
+- `mark`:
+  - `yes`: the author cares for a child of 0 to 24 months, and what the post is mainly about
+    is in the niche.
+  - `near`: the child is 0 to 24 months old, or the age is not stated, or the child may be
+    just over 24 months ("two years old" with no months); **and** the post says something
+    about the child's development, abilities, behaviour, play or how the day is spent,
+    although its main subject is something else or the age is in doubt. Give the reason in
+    `border`.
+  - `no`: everything else. That includes posts about a child clearly older than two, and
+    posts about a baby that say nothing on those subjects (for example a post only about
+    night waking, a rash, a pram, or the parents' relationship).
+- `about`: what the post is about, 12 words of your own at most.
+
+For **near** posts, `border` (one value): `sleep` (mainly about sleep), `feeding` (mainly
+nutrition or feeding amounts), `parent_state` (mainly the parent's own exhaustion, mood,
+work, relationship), `age_unknown` (child's age not stated), `age_over_24` (child may be
+just over 24 months; "two years old" with no months counts here), `logistics` (equipment,
+travel, childcare arrangements), `other`.
+
+For **yes** and **near** posts:
+
+- `patterns`: the numbers of every pattern the post shows, separated by commas. Use `0` only
+  when none fits, and then say what it is about in `other_what` (8 words at most).
+- `main_pattern`: the one number the post is mostly about. Must be one of `patterns`.
+- `ties_to_development`: `yes` if the author, in their own words, links the subject to the
+  child's development, skills, milestones or a "regression" or "leap"; otherwise `no`.
+- `speaker`: `new_mother`, `experienced_mother`, `parent_unspecified`, `partner`,
+  `relative_caregiver`, `professional`, `other`. Use `parent_unspecified` unless the author
+  says they are a mother.
+- `stage`: `newborn_0_8_weeks`, `baby_2_4_months`, `baby_4_6_months`, `baby_6_9_months`,
+  `baby_9_12_months`, `toddler_12_18_months`, `toddler_18_24_months`, `looking_back`, `unknown`.
+- `wants`: what the author is asking for or wants, 15 words at most.
+- `already_did`: what they say they already did or used about it, 15 words at most, or
+  `nothing stated`.
+- `paid`: `yes` if the author says they bought or paid for something for this (a product, a
+  class, an app, a book, a professional); otherwise `no`. `paid_what`: what, 8 words at most.
+
+**Quotes.** For every `yes` post, and every `near` post where `ties_to_development` is `yes`,
+pull the quotes: every passage in which the author says, in their own words, what is
+happening, what worries or pleases them, what they want, what they tried, what other people
+told them, or what they bought or paid. Word for word. A long post gives several quotes; a
+short one may give one. Take what is there, not what is expected.
+
+Rules:
+
+- State only what the author says. Do not infer the speaker's sex, age, country or income.
+- Choose quotes for what they say, never for or against their subject. Illness, distress,
+  anger, regret and harm are recorded like anything else.
+- `themes` are your own short labels for what the quote is about (lowercase, underscores).
+- Quote `type`: `trigger_moment`, `pain`, `fear`, `tried_failed`, `desire`, `belief`,
+  `question`, `objection`, `advice_given`, `success_story`, `failure_story`, `regret`,
+  `others_said`, `purchase`, `price_signal`.
+
+## Your output
+
+1. `baby-development/quotes/reddit-tr038.jsonl`: one JSON object per line, per quote. Fields: `id`
+   (`tr038-0001`, `tr038-0002`, ...), `post_id`, `source` (`reddit r/<sub>`),
+   `url`, `date`, `speaker`, `stage`, `type`, `themes` (list), `quote`, `context` (25 words
+   at most), `raw_file` (the post file path exactly as given in your share). Mark a cut
+   inside a quote with ` […] `. No usernames.
+2. `baby-development/_work/2026-11/third-reading/posts-tr038.tsv`: one row per post in your share, tab-separated, no tabs or
+   line breaks inside a value, columns that do not apply left empty, header
+   `post_id	mark	border	patterns	main_pattern	other_what	ties_to_development	about	speaker	stage	wants	already_did	paid	paid_what	quotes	note`
+   (`quotes` is the number of quotes you pulled for the post; `note` is anything you were
+   unsure of, 15 words at most).
+3. `baby-development/_work/2026-11/third-reading/notes-tr038.md`: half a page: what came up again and again, what surprised
+   you, what you were unsure how to mark. Counts of posts wherever you can.
+
+## Check before you finish
+
+- Every post in your share has exactly one row in the posts file, and no other post does.
+- Confirm by a script of your own that every `quote` (each part between ` […] `) occurs word
+  for word in its `raw_file`, that ids are unique, and that every record's `post_id` is in
+  your share.
+- Report: posts read, how many yes, near and no, quotes, and anything you were unsure of.
+
+hook: SessionStart
+hook: SessionStart Completed
+codex
+I’ll read the instructions and pattern list, then read each assigned post in order. I’ll write only the three named files and check every quote against its source.
+
+exec
+/usr/bin/zsh -lc 'pwd && cat /home/thinkpad/GitHub/_home/AGENTS.md && cat README.md && cat baby-development/_work/2026-11/patterns/patterns.md && cat baby-development/_work/2026-11/third-reading/reader-038.tsv' in /home/thinkpad/GitHub/_research
+ succeeded in 247ms:
+/home/thinkpad/GitHub/_research
+# _home
+
+The shared home for this business: skills, the library they draw from, playbooks, and
+what we know about each brand. Two people and two kinds of agent (Claude, Codex) work
+from it. Project code lives in its own repos under `~/GitHub/`; this repo points at them.
+
+## Where things are
+
+All paths in this file are relative to `~/GitHub/_home` unless they start with `~`.
+
+| Need | Look in |
+|---|---|
+| Which niches exist and what belongs to each | `library/niches.md` (read this first) |
+| Who we are talking to (the avatar) | `library/avatars/<niche>/` |
+| How we sound (the speaker) | `library/voices/` |
+| What experts teach | `library/knowledge/<subject>/` |
+| A brand's repos, deploy rules, brief, tests | `wiki/<brand>/README.md` (`wiki/index.md` lists brands) |
+| How to do a recurring job | `playbooks/` |
+| Skills | `.agents/skills/` (`.claude/skills` links to it) |
+| Raw research, by kind of source | `~/GitHub/_research/<niche>/<kind>/` (ads, competitors, reviews, ...) |
+| What the research found about her, in short | `~/GitHub/_research/<niche>/findings/` and `her-words.md` |
+| Why it is laid out this way | `DECISIONS.md` |
+
+## Rules
+
+1. **Problems and roles are permanent; brands and domains are not.** File knowledge
+   under the niche or the subject, never under a domain. A brand's current domain is
+   one line inside its wiki page.
+2. **Pushing a `-live` repo deploys to the production site.** Never push a `-live` repo
+   without the owner's say-so in that conversation.
+3. **Secrets stay out.** Never read or commit `.env`, `project-config.php`,
+   `app-secrets.php`, `mysql-credentials.php`, database dumps or customer data.
+4. **A skill reads reference material only from its own folder and `library/`.** It
+   never reads rulebooks, books, voices or research from another repo, because that repo
+   may be deleted. A skill may run a program that lives in another repo; it then lists
+   that program under a "Runs" heading in its `SKILL.md`. One exception: a skill whose job
+   is to work from research (writing its findings, or a library page from them) reads
+   `~/GitHub/_research` and lists what it reads under a "Reads" heading, and what it
+   writes there under "Writes". Run `./check.sh` before committing.
+5. **Research never filters.** It records what people actually say, in their words,
+   whatever the subject; what goes into copy is the owner's decision, made later.
+6. **Before collecting, filing or summarising research, read
+   `~/GitHub/_research/README.md`.** All research rules live there, not here.
+7. **Shared facts go in this repo, not in agent memory.** Memory is per person and per
+   machine; the other person never sees it.
+8. **Names are lowercase with dashes.** Exceptions: `AGENTS.md`, `CLAUDE.md`,
+   `SKILL.md`, `README.md`, `DECISIONS.md`. Existing project folders keep their names.
+   A leading underscore marks a folder that supports the others and is not one of them
+   (`_home`, `_research`, `_tools` and `_work` inside a niche's research, and `_project`
+   inside a development repo: everything we made there that is not the product's code).
+9. **Paths are written as `~/GitHub/...`**, never as one machine's absolute path.
+   On a machine where the repos live in a differently named folder, `setup.sh` makes
+   `~/GitHub` a link to it.
+10. **Before moving or reorganising files across folders or repos, show the plan and
+   wait for a yes.** This is for interactive sessions. A non-interactive run must not
+   reorganise at all unless its task says to.
+
+11. **Before sending agents to do work, ask the owner and wait**: which provider's agents
+    (Claude or Codex), how many, which model and which effort. Give your suggestion for
+    each, and match model and effort to the task. Then wait for an explicit yes. A question
+    or a remark from the owner is not approval. Send exactly what was agreed. Each new
+    batch needs its own yes, unless the owner approved the whole run up front. This
+    applies to interactive sessions; an agent that was itself sent to do a task does not
+    spawn more.
+
+12. **Never edit a `-live` repo directly.** Every change, however small or large, is made
+    in `-dev` and built from there. That keeps `-dev` complete, so running the build never
+    risks losing a fix that only existed in `-live`. A direct edit to `-live` is for
+    extreme cases only and needs the owner's explicit yes each time.
+
+## Rules and gates
+
+A rule here is an instruction: an agent reads it and is expected to follow it, but
+nothing stops it. Rules 2, 11 and 12 are also **gates**: `.claude/hooks/gate.py`, wired
+in `.claude/settings.json`, makes Claude Code stop and ask the owner before a `-live`
+push, a direct edit of a `-live` file, or an agent launch. Gates apply to Claude Code
+sessions started in this repo. They do not apply to sessions started elsewhere, or to
+Codex. Anything that must never happen without the owner belongs in a gate.
+
+## New niche, new skill, new research
+
+Follow `playbooks/new-niche.md`. It says where each output goes.
+# _research
+
+Raw research material, and the rules for doing research. This file is the one place those
+rules live; `AGENTS.md` and `CLAUDE.md` here are links to it, so agents working in this
+repo load it automatically. `~/GitHub/_home/AGENTS.md` points here.
+
+What is kept here: scrapes, saved pages, transcripts, screenshots, quote databases. It is
+kept so it can be analysed again later with better tools.
+
+## Research never censors
+
+Research records what people actually say and do, in their own words, whatever the
+subject. Nothing is dropped, withheld, softened or paraphrased away because it is
+sensitive, unflattering, or might be unsuitable for an ad. A quote may be labelled, but it
+is kept and quoted in full like any other.
+
+What is used in copy is the owner's decision, made later, with everything in front of
+him. It is never a research decision. If the owner wants the raw truth, that is his to
+have. An agent that filters research "to be safe" has made the research wrong.
+
+## Layout
+
+```
+_tools/                  scripts shared by every niche: draw a sample, build post files, check quotes and ids
+<niche>/
+├── README.md            overview: what exists per kind, the four questions, what is missing
+├── brief.md             what this research set out to answer
+├── ads/                 ads that are running (the swipe file)
+├── books/
+├── competitors/
+├── forums/              parents' forums and communities other than Reddit
+├── marketplaces/        marketplace listings and bestseller lists: what is for sale
+├── official-guidance/   what the authorities she trusts say
+├── reddit/
+├── reviews/             of apps, books and courses
+├── sales-letters/
+├── statistics/          published figures about her
+├── youtube/
+├── quotes/              every quote pulled from the kinds above, one record each
+├── evidence/            the quotes sorted under themes, counts, readers' notes
+├── findings/            the short version of the evidence, one page per question
+├── her-words.md         her phrases, word for word, for use in copy
+├── _tools/              support: checks particular to this niche, and old rounds' scripts
+└── _work/               support: reading ledgers, working files
+```
+
+- `<niche>` is the buyer and her problem (for example `baby-development`,
+  `stop-divorce`), exactly as named in `~/GitHub/_home/library/niches.md`. Never a brand
+  or a domain: those change.
+- **One folder per kind of source**, so a person who needs the ads or the competitors
+  opens that folder. Every kind folder always exists, even when empty, so it is plain
+  what has not been collected yet. A new kind of source gets a new folder and a line here.
+- **Inside a kind folder:** `README.md`, then the notes written about the material at the
+  top, and the originals exactly as captured in `raw/`. Notes are what a person opens
+  first. Originals are never edited.
+- **A later round of research** goes into the same kind folder under a dated subfolder,
+  `<yyyy>-<mm>/`.
+- **What belongs here and what does not.** If it describes someone else (the buyer, a
+  competitor, the market), it is research and lives here, including the scripts that
+  collected it. If we made it (a site, a quiz, a design, a brand name), it lives with that
+  product, in its repo's `_project/` folder when it is not code. A product repo has no
+  `research` folder; its scripts that need research read it
+  from this repo (`~/GitHub/_research`).
+- **An underscore marks a folder that supports the others and is not one of them:**
+  `_tools` and `_work` here, `_home` and `_research` among the project repos.
+
+## READMEs
+
+The niche README lists each kind: what was collected and from where, when, with which
+tool or script, for which offer, the question it was meant to answer (see below), and
+where its findings page is. A kind with nothing in it says "nothing collected yet". Each
+kind folder's own README says the same for that kind in more detail.
+
+## Four questions, each from a source that can answer it
+
+A niche's research is complete when all four are answered. No source is required and
+none is enough alone.
+
+| Question | Sources that can answer it | Why |
+|---|---|---|
+| 1. Who is she, and what is her life like? | Our own data (quiz answers, buyers, email replies), ad platform audience data, the people who follow and comment on competitors, published surveys and statistics, communities | The other three questions are all about her. The avatar is written from this evidence, not imagined |
+| 2. What hurts, what does she want, and how does she say it? | Reddit, forums, comment sections | Anonymous, long and unguarded. Includes the result she is really paying for |
+| 3. What is she buying for this, what does she pay, and how did it go? | First: what she says she bought, bestseller lists and store charts, marketplaces. Then: reviews of what sells most | Only buyers know. Find where the money goes before choosing whose reviews to read |
+| 4. Who is selling to her, and what is working? | Ads running now, competitor pages and funnels | An ad that runs for months is proof of money |
+
+- **Question 3 has an order.** First map what she spends on: which kinds of thing (apps,
+  books, courses, classes, a person), which products, what prices. Then read reviews of
+  the ones that sell most: where they let her down and what delighted her. Reviews of
+  products picked without the map may miss where the money is.
+- Question 4 is the quick check (step 2 of `~/GitHub/_home/playbooks/new-niche.md`): it
+  decides whether the niche is worth entering. The others are the deeper research.
+- A community shows who posts there, not the market. Reddit is mostly American, younger
+  and English-speaking, people post more when things are bad, and many who post never
+  buy. Its counts never show how common a problem is.
+- Sources close or change their access. Research that rests on one source ends when
+  that source does.
+
+## The chain: five steps, each made from the one before
+
+| # | Name | What it is | Where | Length |
+|---|---|---|---|---|
+| 1 | Collected material | Posts, reviews and pages, saved as they were found | `<kind>/raw/` | everything |
+| 2 | Quotes | The sentences worth keeping, cut out of that material, one record each with an id | `quotes/` | everything |
+| 3 | Evidence file | All the quotes sorted into patterns and counted | `evidence/` | as long as it needs |
+| 4 | Findings | The short version of an evidence file: each pattern with its count, its best quotes and what cuts against it. `her-words.md` is made alongside: her phrases, copied out for copy | `findings/`, `her-words.md` | short: a person reads a page in one sitting |
+| 5 | Avatar | The centre of the findings, written as one person | `~/GitHub/_home/library/avatars/<niche>/avatar.md` | about a page |
+
+Steps 1 to 4 are what they wrote, so they are research and live here. Step 5 is what we
+made from it, so it lives in `_home`. Name each step for what it is.
+
+Competitors have a shorter chain of their own, all here: saved pages in
+`competitors/raw/`, one note per competitor, and `competitors/overview.md`. The overview is
+already the short version, so it gets no findings page.
+
+- Research is not finished until its findings are written and the owner has reviewed them.
+  Agents read the findings first and open the steps before them only when asked or when
+  checking a quote. Findings are written by the `write-findings` skill in `_home`.
+- A quote may be left out of a findings page **because it repeats** what others already
+  show. It is never left out **because of its subject**. Whatever is left out stays in
+  the evidence file, cited by id.
+- **Every niche's `evidence/` has a `jargon-glossary.md`:** the words she uses and how each
+  one feels, with real usages. It answers "how does she say it" (question 2). Until it is
+  made, `evidence/README.md` says "not made yet". The one that exists,
+  `new-and-expecting-mothers/evidence/jargon-glossary.md`, covers mothers in general and is
+  the starting point for a niche's own; its pipeline is `new-and-expecting-mothers/_tools/jargon/`.
+- A brief for research work says which step it wants and who will read it. Asking for
+  "the findings" without saying which produced a 940,000-word file in November 2026.
+
+## Conventions
+
+These came out of the November 2026 re-reading of five builds (41,000 posts). They cover
+reading, quoting and merging. Conventions for the collecting step are still to be written.
+
+**Records**
+
+- A quote is one record with the same fields every time: id, source, link, date, speaker,
+  stage, type, themes, and the quote word for word.
+- Ids are unique across the niche and show who produced them: a prefix for the pass, the
+  reader's number, a running number (`pbu07-0034`). Check for duplicates before each commit.
+- Every post handed to a reader is accounted for in that reader's ledger: quoted,
+  off-topic, or unavailable. Nothing is skipped silently.
+- Raw material and finished quote files are never edited. New work is added as new files.
+
+**Honesty about the evidence**
+
+- Anything excluded is written down with the reason. Off-topic is a reason; subject is
+  not (see "Research never censors").
+- Count posts, not quotes: a pattern's count is the number of sampled posts that show it,
+  and each post is tagged against one shared list of patterns. A post is not a person,
+  but one eager poster cannot be counted ten times. Say how the posts were chosen. Only a
+  random sample lets a count say how common something is among posts. The October 2026
+  round counted quotes the readers chose; those counts show nothing about how common.
+- Say what is still unread, and how much.
+- An attempt that found little or nothing is recorded as that, with the reason, at the top
+  of the kind folder's README. Saved pages and empty files are not research.
+- When a script is turned away, do not stop there: follow
+  `~/GitHub/_home/playbooks/collect-through-a-browser.md`.
+- Keep and label provenance: commercial, fictional, second-hand or AI-written passages
+  are marked, not removed.
+- When a conclusion changes, record it with the date: what it said, what it says now,
+  and the quote ids behind the change.
+
+**Doing the work with agents**
+
+- Split the reading: about 300 posts per reader.
+- Merge in two steps: theme digests of about 1,200 quotes each, then one agent merges
+  the digests. One agent given several thousand quotes directly used about a tenth.
+- Agents write files; the supervisor checks and commits, one commit per batch. Every
+  reproduced quote is compared with its source by a script before the commit.
+- A piece that fails the check is redone whole, once. If it fails again, stop and have
+  a person look.
+- The brief fixes one layout for quotes in written files, so the checking script can
+  read every agent's output.
+- The scripts for sampling and checking live once, in `_tools/` at the top of this repo.
+  A niche's own `_tools/` holds only checks particular to it.
+- Working figures (Codex, `gpt-6.1-sol`, xhigh): five agents at a time, 25 to 30 minutes
+  per batch, about 2 to 2.5 percent of weekly usage per 1,000 posts.
+
+## Material that fits several niches
+
+File it once, under the niche it was collected for. The other niches' avatars get a
+pointer line under "Also relevant research".
+
+## Size
+
+This repo is meant to be large. Videos, screenshots, saved sites and whole corpora belong
+here when they were part of the research. Do not leave material out to save space.
+
+The one hard limit is GitHub's: it rejects any single file over 100 MB. The commit hook
+stops files over 95 MB. Split such a file into parts (as the Reddit archives here already
+are), or keep it on disk and on the NAS backup and say so in the niche README.
+After cloning, run: `git config core.hooksPath .githooks`
+# Patterns, draft 1 (2026-11-18)
+
+Drafted by the supervisor from the first reading's one-line descriptions of 192 on-niche
+posts. Each pattern is what the post is about, from the parent's side.
+
+| # | Pattern | Belongs here | Does not belong here |
+|---|---|---|---|
+| 1 | Is this normal, or is something wrong with my child? | One or more specific things the child does or does not do yet (moving, talking, responding, body, behaviour), and the parent asks whether it is normal, late or a sign of a condition | The child already has a diagnosis or is in therapy (12) |
+| 2 | What do I do with the child all day? | Boredom, long awake hours, running out of ideas, activities, outings, play at home, how to fill the day | Asking which thing to buy (4) |
+| 3 | Hard behaviour | Tantrums, meltdowns, hitting, biting, screaming, scratching, throwing, climbing, testing limits, and how to respond | The parent asks whether the behaviour means a condition (1) |
+| 4 | What should I get for this age? | Choosing or asking about toys, books, walkers, shoes, furniture, gear or gifts for the child's stage | |
+| 5 | Am I harming the child's development by what I do? | Guilt or fear that the parent's own choices (holding, contact naps, letting cry, screens, too much or too little play, daycare, work) damage the child | Worry about the child with no link to the parent's own doing (1) |
+| 6 | The child prefers someone else | Preference for the other parent, a grandparent or a nanny; rejection; worry about the bond | |
+| 7 | Learning to eat and drink as a skill | Chewing, finger foods, self-feeding, cups, cutlery, gagging while learning | Nutrition, amounts, allergies, milk, weight |
+| 8 | Delight or pride in what the child now does | Sharing a new skill, a funny habit, joy in the child's growth | |
+| 9 | Classes, groups, other children, daycare as a place to grow | Baby groups, swimming, playdates, shyness with other children, what daycare does for the child | Daycare as logistics or cost |
+| 10 | Other people interfere | Grandparents, partners or others pushing, criticising or undermining on screens, toys, milestones, play or routines | |
+| 11 | Potty readiness and learning | When to start, whether the child is ready, setbacks | Nappy products, rashes |
+| 12 | The child has a known delay or is in therapy | Diagnosis, early intervention, therapy, and the search for answers or progress | |
+| 0 | None of these | Say what it is about in `other_what` | |
+post_id	post_file
+1shoftt	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Mommit-1shoftt.txt
+1shoh9v	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1shoh9v.txt
+1shop1g	new-and-expecting-mothers/reddit/raw/reddit-2026/units/daddit-1shop1g.txt
+1shos6r	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1shos6r.txt
+1show20	new-and-expecting-mothers/reddit/raw/reddit-2026/units/daddit-1show20.txt
+1shphzz	new-and-expecting-mothers/reddit/raw/reddit-2026/units/workingmoms-1shphzz.txt
+1shpp69	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Parenting-1shpp69.txt
+1shppih	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1shppih.txt
+1shq6h6	new-and-expecting-mothers/reddit/raw/reddit-2026/units/workingmoms-1shq6h6.txt
+1shq7y2	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1shq7y2.txt
+1shs7le	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1shs7le.txt
+1shsw3g	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebump-1shsw3g.txt
+1shsyys	new-and-expecting-mothers/reddit/raw/reddit-2026/units/FirstTimeMom-1shsyys.txt
+1shteax	new-and-expecting-mothers/reddit/raw/reddit-2026/units/daddit-1shteax.txt
+1shthyu	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1shthyu.txt
+1shtmjo	new-and-expecting-mothers/reddit/raw/reddit-2026/units/daddit-1shtmjo.txt
+1shttns	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebumpUK-1shttns.txt
+1shu01z	new-and-expecting-mothers/reddit/raw/reddit-2026/units/workingmoms-1shu01z.txt
+1shu4qq	new-and-expecting-mothers/reddit/raw/reddit-2026/units/ScienceBasedParenting-1shu4qq.txt
+1shu93h	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1shu93h.txt
+1shuc6b	new-and-expecting-mothers/reddit/raw/reddit-2026/units/ScienceBasedParenting-1shuc6b.txt
+1shv5cb	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebump-1shv5cb.txt
+1shv9q6	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1shv9q6.txt
+1shvjjq	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebump-1shvjjq.txt
+1shvsj0	new-and-expecting-mothers/reddit/raw/reddit-2026/units/daddit-1shvsj0.txt
+1shvwyn	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1shvwyn.txt
+1shvzw3	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Parenting-1shvzw3.txt
+1shw3zw	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebump-1shw3zw.txt
+1shwx2g	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1shwx2g.txt
+1shwzqs	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Mommit-1shwzqs.txt
+1shx0nr	new-and-expecting-mothers/reddit/raw/reddit-2026/units/workingmoms-1shx0nr.txt
+1shx1lu	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1shx1lu.txt
+1shxdeb	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Parenting-1shxdeb.txt
+1shxh0u	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebump-1shxh0u.txt
+1shxlqv	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1shxlqv.txt
+1shxot0	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1shxot0.txt
+1shxxnj	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebump-1shxxnj.txt
+1shy1xk	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1shy1xk.txt
+1shyrxa	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1shyrxa.txt
+1shywmh	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1shywmh.txt
+1shz0p5	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Mommit-1shz0p5.txt
+1shz64u	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1shz64u.txt
+1shzbp1	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Parenting-1shzbp1.txt
+1shzesd	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebumpUK-1shzesd.txt
+1shzfcz	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1shzfcz.txt
+1shzhxp	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1shzhxp.txt
+1shzjnt	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Mommit-1shzjnt.txt
+1si06tz	new-and-expecting-mothers/reddit/raw/reddit-2026/units/workingmoms-1si06tz.txt
+1si086u	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebump-1si086u.txt
+1si12ev	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1si12ev.txt
+1si1ik9	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Mommit-1si1ik9.txt
+1si1pch	new-and-expecting-mothers/reddit/raw/reddit-2026/units/daddit-1si1pch.txt
+1si1yy7	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1si1yy7.txt
+1si21te	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1si21te.txt
+1si2pjy	new-and-expecting-mothers/reddit/raw/reddit-2026/units/workingmoms-1si2pjy.txt
+1si34ag	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1si34ag.txt
+1si3n5a	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1si3n5a.txt
+1si3oe0	new-and-expecting-mothers/reddit/raw/reddit-2026/units/ScienceBasedParenting-1si3oe0.txt
+1si3yhq	new-and-expecting-mothers/reddit/raw/reddit-2026/units/FirstTimeMom-1si3yhq.txt
+1si47yr	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1si47yr.txt
+1si4h6x	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1si4h6x.txt
+1si4kh4	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1si4kh4.txt
+1si512u	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1si512u.txt
+1si5k1c	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Parenting-1si5k1c.txt
+1si5l2e	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Mommit-1si5l2e.txt
+1si5n4a	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1si5n4a.txt
+1si6jnj	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebump-1si6jnj.txt
+1si6rm6	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1si6rm6.txt
+1si6w0o	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebumpUK-1si6w0o.txt
+1si6w1c	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1si6w1c.txt
+1si6zfn	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1si6zfn.txt
+1si7p2c	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1si7p2c.txt
+1si7qwg	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebump-1si7qwg.txt
+1si7xvu	new-and-expecting-mothers/reddit/raw/reddit-2026/units/workingmoms-1si7xvu.txt
+1si7y12	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Parenting-1si7y12.txt
+1si84kq	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebump-1si84kq.txt
+1si87ea	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1si87ea.txt
+1si9u81	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1si9u81.txt
+1sic4r6	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1sic4r6.txt
+1sicl6n	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1sicl6n.txt
+1sict9b	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1sict9b.txt
+1sicxif	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1sicxif.txt
+1sid3nj	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Mommit-1sid3nj.txt
+1siddp8	new-and-expecting-mothers/reddit/raw/reddit-2026/units/ScienceBasedParenting-1siddp8.txt
+1siepm3	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1siepm3.txt
+1sier8u	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebump-1sier8u.txt
+1siesz6	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebump-1siesz6.txt
+1siev86	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1siev86.txt
+1sifiht	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1sifiht.txt
+1sifld6	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1sifld6.txt
+1sig4sh	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Mommit-1sig4sh.txt
+1sihn6s	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1sihn6s.txt
+1sihtj3	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Mommit-1sihtj3.txt
+1sihw8u	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1sihw8u.txt
+1sihxnq	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Parenting-1sihxnq.txt
+1sii289	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Parenting-1sii289.txt
+1siimo3	new-and-expecting-mothers/reddit/raw/reddit-2026/units/daddit-1siimo3.txt
+1siix2m	new-and-expecting-mothers/reddit/raw/reddit-2026/units/workingmoms-1siix2m.txt
+1sij45j	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1sij45j.txt
+1sijaeo	new-and-expecting-mothers/reddit/raw/reddit-2026/units/ScienceBasedParenting-1sijaeo.txt
+1sijrrl	new-and-expecting-mothers/reddit/raw/reddit-2026/units/daddit-1sijrrl.txt
+1sijtlf	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1sijtlf.txt
+1sijybz	new-and-expecting-mothers/reddit/raw/reddit-2026/units/daddit-1sijybz.txt
+1sik2ac	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Mommit-1sik2ac.txt
+1sik7dg	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Parenting-1sik7dg.txt
+1siklqf	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1siklqf.txt
+1sil1qc	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1sil1qc.txt
+1sileii	new-and-expecting-mothers/reddit/raw/reddit-2026/units/daddit-1sileii.txt
+1silqxn	new-and-expecting-mothers/reddit/raw/reddit-2026/units/daddit-1silqxn.txt
+1simfln	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1simfln.txt
+1simqvi	new-and-expecting-mothers/reddit/raw/reddit-2026/units/sahm-1simqvi.txt
+1sin48q	new-and-expecting-mothers/reddit/raw/reddit-2026/units/ScienceBasedParenting-1sin48q.txt
+1sina1r	new-and-expecting-mothers/reddit/raw/reddit-2026/units/FirstTimeMom-1sina1r.txt
+1sina59	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1sina59.txt
+1sincnc	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Mommit-1sincnc.txt
+1singem	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebump-1singem.txt
+1sinz98	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1sinz98.txt
+1sio8zy	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1sio8zy.txt
+1siodaq	new-and-expecting-mothers/reddit/raw/reddit-2026/units/daddit-1siodaq.txt
+1sioglr	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Parenting-1sioglr.txt
+1sioj47	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Parenting-1sioj47.txt
+1sioq1k	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1sioq1k.txt
+1siowz5	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebump-1siowz5.txt
+1sipdie	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebump-1sipdie.txt
+1siqahy	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1siqahy.txt
+1siqlfr	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebump-1siqlfr.txt
+1siqsni	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebumpUK-1siqsni.txt
+1siqyf5	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1siqyf5.txt
+1sir71b	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1sir71b.txt
+1sirrfj	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebump-1sirrfj.txt
+1siry1x	new-and-expecting-mothers/reddit/raw/reddit-2026/units/sahm-1siry1x.txt
+1sis279	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebump-1sis279.txt
+1sis6km	new-and-expecting-mothers/reddit/raw/reddit-2026/units/sahm-1sis6km.txt
+1sislwq	new-and-expecting-mothers/reddit/raw/reddit-2026/units/daddit-1sislwq.txt
+1sitdrn	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1sitdrn.txt
+1sitm18	new-and-expecting-mothers/reddit/raw/reddit-2026/units/FirstTimeMom-1sitm18.txt
+1sityap	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Mommit-1sityap.txt
+1siuez7	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebumpUK-1siuez7.txt
+1sium7c	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Parenting-1sium7c.txt
+1siv78h	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1siv78h.txt
+1sivnn0	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Mommit-1sivnn0.txt
+1sivqxp	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebump-1sivqxp.txt
+1sivxat	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1sivxat.txt
+1siw8lj	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1siw8lj.txt
+1siw9ob	new-and-expecting-mothers/reddit/raw/reddit-2026/units/Parenting-1siw9ob.txt
+1siwu8q	new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1siwu8q.txt
+1sixst1	new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1sixst1.txt
+1sixwym	new-and-expecting-mothers/reddit/raw/reddit-2026/units/workingmoms-1sixwym.txt
+1siy1nj	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebump-1siy1nj.txt
+1siycql	new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebump-1siycql.txt
+
+exec
+/usr/bin/zsh -lc "python - <<'PY'
+import csv
+from pathlib import Path
+r=list(csv.DictReader(open('baby-development/_work/2026-11/third-reading/reader-038.tsv'),delimiter='\\t'))
+print('TOTAL',len(r))
+for i,x in enumerate(r[:20],1):
+ print('\\n========',i,x['post_id'],x['post_file'],'========\\n')
+ print(Path(x['post_file']).read_text())
+PY" in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+TOTAL 150
+
+======== 1 1shoftt new-and-expecting-mothers/reddit/raw/reddit-2026/units/Mommit-1shoftt.txt ========
+
+POST 1shoftt | r/Mommit | 2026-04-10 14:39 UTC | https://www.reddit.com/r/Mommit/comments/1shoftt/
+TITLE: How to transition from daytime contact naps
+
+I have a 9 week old that will only sleep in the day if he is either being worn in baby carrier or feed to sleep resulting in contact nap.
+
+He will not be put down for any time in moses / cot during the day. Thankfully will go in the next to me at night.
+
+This system has been fine for us so far, I’ve accepted being unproductive in the daytime as that comes with a newborn. But as we’re 2+ months now  I’m thinking eventually he’ll have to go down for a nap on his own in the day. There’s only so many jobs I can get done while he’s in the carrier.
+
+My question is how / when do people transition from contract naps? Do they just accept being put down without waking one day or do I need to put some work into this? I’ve tried putting him down when he’s sleepy from feeding or when awake but he’ll just cry in either scenario 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 2 1shoh9v new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1shoh9v.txt ========
+
+POST 1shoh9v | r/toddlers | 2026-04-10 14:41 UTC | https://www.reddit.com/r/toddlers/comments/1shoh9v/
+TITLE: Joolz Aer+ or Aer2
+
+Narrowed our search down to the Joolz Aer+ or Joolz Aer2. I'm trying to decide is the 2 is worth the extra $$ for included foot rest. We have a 3 year old and are hoping to start traveling very soon! 
+
+Any personal experience or thoughts are appreciated! 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 3 1shop1g new-and-expecting-mothers/reddit/raw/reddit-2026/units/daddit-1shop1g.txt ========
+
+POST 1shop1g | r/daddit | 2026-04-10 14:49 UTC | https://www.reddit.com/r/daddit/comments/1shop1g/
+TITLE: Looking for the best educational app for my kid age 2yrs
+
+our son just turned 2 yesterday and I bought him a very limited tablet so he can only do games and play on it nothing much. Have heard there are very educational apps out here and would want to give it a try. Something that won't cost much or even free if there's. Any parent with a good experience so far?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 4 1shos6r new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1shos6r.txt ========
+
+POST 1shos6r | r/NewParents | 2026-04-10 14:52 UTC | https://www.reddit.com/r/NewParents/comments/1shos6r/
+TITLE: Nap advice
+
+My 7 month old has been almost sleeping through the night 8:30-8:00 in his crib in his own room for about a month now (knock on all sorts of wood because he was waking every 2 hours up until then). I sometimes have to go in and give him his soother if he wakes up and can’t find one in the crib but most nights he’s good at self-settling. We didn’t do any formal sleep training, at least not consciously but have I guess been implementing a lot of gentle sleep training tactics unknowingly. Naps are a different story. He has been a contact napper since he was born and even still will only nap if he’s been held. He might last 30 mins in the crib but thats it. I love holding him for naps and its been working for us but he’ll be starting daycare in a few months when I go back to work, so need to start working on his naps asap. Any advice on how to help him transition to more independent crib naps? I’ve been trying for a while and am at a loss!
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: 0 of 1 archived comments ---
+
+
+======== 5 1show20 new-and-expecting-mothers/reddit/raw/reddit-2026/units/daddit-1show20.txt ========
+
+POST 1show20 | r/daddit | 2026-04-10 14:56 UTC | https://www.reddit.com/r/daddit/comments/1show20/
+TITLE: I realized I barely exist in our family photos and it kind of bummed me out
+
+This hit me while I was scrolling back through pics from the last couple years. There are tons of great ones of my wife with the kids. My daughter asleep on her shoulder. My son showing her some crooked Lego thing he was super proud of. Holiday stuff, random park days, birthdays, all of it. There are photos with grandma, cousins, teachers, even one of our pediatrician holding the baby when he was freaking out after shots.
+
+And then there are like 6 pictures of me.
+
+I’m not saying this in some jealous way. I know why it happens. I’m usually the one taking the photo becuase I think to do it first. I’m the one saying hold still, get closer, wait the light is better over here. So I end up documenting all these little moments but not really being in them. Looking back, it almost makes it seem like I wasnt there for huge chunks of our kids' lives, even though I definitley was.
+
+The weird part is my kids might look through these someday and subconsciously build their memory of who was present from what got captured. And if that’s true, dads probly disappear a little bit just by being the default camera guy.
+
+I know I could just ask for more photos, and I probly should. But it made me wonder how many other dads noticed this too. Not in a dramatic way, just in that quiet kind of way where you realize you were there for everything and somehow its barely visible.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 6 1shphzz new-and-expecting-mothers/reddit/raw/reddit-2026/units/workingmoms-1shphzz.txt ========
+
+POST 1shphzz | r/workingmoms | 2026-04-10 15:17 UTC | https://www.reddit.com/r/workingmoms/comments/1shphzz/
+TITLE: Do you feel your old self “died” when you became a mom?
+
+Not sure which flair to use so I just picked this one. 
+
+I see a lot of content online about how when you become a mom, have your first child, your old self dies, and you become a new person over time. They say if you resist the change, it is harder. That you have to surrender to it.
+
+I can feel myself have a knee jerk reaction to this idea, because it hits a certain sexist trigger for me, even if it’s not meant that way. But to be completely honest, I am really not sure what they mean by this. 
+
+My baby is turning one soon, and yes I haven’t had time for my hobbies like before, but I knew that going into this. I have wanted to be a mother and have mentally tried to prepare myself for motherhood for the entirety of my life. I worked hard to become a version of myself that would make for a good mom before I got pregnant. I have always been extremely intentional about this. 
+
+So when people tell me that I have to say goodbye to who I was before my baby, it triggers me, and I wonder what they mean. 
+
+I want to ask my fellow working moms because I know you all didn’t sacrifice your careers with motherhood. I worked very hard to become an engineer and I love my job. I still feel I retain much of my favorite aspects of my old self BECAUSE I kept my job. My job has also provided me immense privilege and from that privilege I did not have to sacrifice in the way that many moms do. I had a nanny help me out even while on my maternity leave. I have a village. I love being a mom. 
+
+I think I am misinterpreting this maybe. Please share your thoughts fellow moms 🥺
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 7 1shpp69 new-and-expecting-mothers/reddit/raw/reddit-2026/units/Parenting-1shpp69.txt ========
+
+POST 1shpp69 | r/Parenting | 2026-04-10 15:24 UTC | https://www.reddit.com/r/Parenting/comments/1shpp69/
+TITLE: Vuly playset
+
+Looking at the vuly monkey bars playset for the backyard, but the company is based in Australia and there’s nothing in my state to look at for reference! My kids are climbers and I think they would love it, but hoping someone can give their impressions on the playset? Thanks!
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 8 1shppih new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1shppih.txt ========
+
+POST 1shppih | r/NewParents | 2026-04-10 15:24 UTC | https://www.reddit.com/r/NewParents/comments/1shppih/
+TITLE: Grow with me car seats that can also rear face?
+
+My 7 month old is 95% percentile and he’s about outgrown his infant car seat. I’d really like to get a car seat that will grow with him into toddlerhood! It’s important to me that he remains rear facing and I’m a little overwhelmed by all the choices so I figured I’d ask opinions on which car seats they have used and would recommend! 
+
+Thanks! 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 9 1shq6h6 new-and-expecting-mothers/reddit/raw/reddit-2026/units/workingmoms-1shq6h6.txt ========
+
+POST 1shq6h6 | r/workingmoms | 2026-04-10 15:41 UTC | https://www.reddit.com/r/workingmoms/comments/1shq6h6/
+TITLE: Moms who teach - give me the pros and cons
+
+I am a mother of two young kids- ages 2 and 5. I currently work remotely in the private sector- technically a 9-5 but a pretty flexible schedule, and I usually can end work around 330-4 when they are out of preschool.
+
+I am interested in moving into teaching (elementary school) for various reasons. Now, I am considering the schedule change. I realize it will still be a full-time job but I am hoping that between summer and breaks off, plus more officially aligned with school hours, it might end in a net positive for me in terms of work-life balance. But, I can't be sure... like I said, currently I work remotely so if my child is sick, I can make it work.
+
+How do you juggle work and home life? Do you feel like you're balancing it well?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 10 1shq7y2 new-and-expecting-mothers/reddit/raw/reddit-2026/units/toddlers-1shq7y2.txt ========
+
+POST 1shq7y2 | r/toddlers | 2026-04-10 15:43 UTC | https://www.reddit.com/r/toddlers/comments/1shq7y2/
+TITLE: Going out the dinner the Saturday we start potty training.
+
+Our daughter is 2.5. We had planned to start potty training over Memorial Day weekend. What I didn’t realize is that we had booked a family dinner that Saturday to celebrate my birthday with my family. It’s the only weekend that month that everyone can make it, so it cannot be rescheduled. 
+
+Do we:
+
+\- cancel it and forgo family birthday dinner (I’ll be 35, it’s just an excuse to all go out to dinner and open my gifts from everyone. Our family is big on birthdays lol) 
+
+\- start potty training that morning and throw a pull up on her for the few hours at dinner
+
+\- start potty training another weekend, even though it won’t be a 3 day weekend. 
+
+What would you do?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 11 1shs7le new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1shs7le.txt ========
+
+POST 1shs7le | r/NewParents | 2026-04-10 16:53 UTC | https://www.reddit.com/r/NewParents/comments/1shs7le/
+TITLE: I think I'm actually losing my mind
+
+"3-month-old. Every 2 hours. Up, kitchen, mix formula, feed, burp, wash bottles. Takes an hour. Sleep for one hour. Repeat.
+
+Sometimes after he finally goes down I just sit on the floor in the nursery. Too tired to walk back to my room. Just sitting there staring at nothing.
+
+Please tell me this is actually a phase and not just... my life now.
+
+Okay so: is there ANY safe way to have bottles ready or kept warm? I need those 10-15 minutes back. Badly. Or am I really stuck doing the full fresh-prep thing every single time?
+
+How did you guys get through this without completely breaking? I need something, anything, that makes the nights less terrible."
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 12 1shsw3g new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebump-1shsw3g.txt ========
+
+POST 1shsw3g | r/beyondthebump | 2026-04-10 17:16 UTC | https://www.reddit.com/r/beyondthebump/comments/1shsw3g/
+TITLE: Third degree stitches came undone
+
+Help I’m 5 days pp and I saw two stitches come undone. It didn’t hurt to pee the first few days and now I am shaking from pain. What do I do? 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 13 1shsyys new-and-expecting-mothers/reddit/raw/reddit-2026/units/FirstTimeMom-1shsyys.txt ========
+
+POST 1shsyys | r/FirstTimeMom | 2026-04-10 17:19 UTC | https://www.reddit.com/r/FirstTimeMom/comments/1shsyys/
+TITLE: 5 month old fell off mattress. Help!?
+
+My husband and I have our mattress on the floor but it is a 12 inch mattress so still pretty high up. Our baby girl just started rolling and has gotten so fast with it. My husband put her and her toy in the middle of the bed for like 10 seconds to go grab his phone and she fell off the bed. I came in to both of them crying and then my daughter saw me and instantly started smiling and laughing when I grabbed her. My husband still feels so guilty and I’m just worried about her. She hasn’t been fussy or crying and is taking a nap now. She also doesn’t have any bruising, soft spots, redness, swelling, or scrapes so I’m sure she’s fine but how to I stop worrying and how can I make my husband feel less guilty?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 14 1shteax new-and-expecting-mothers/reddit/raw/reddit-2026/units/daddit-1shteax.txt ========
+
+POST 1shteax | r/daddit | 2026-04-10 17:34 UTC | https://www.reddit.com/r/daddit/comments/1shteax/
+TITLE: Fellow dads! What is in your emergency car kit?
+
+I was a medic, so always carry a trauma kit and 1st aid kit, hi vis, jump cables etc. I was a cop so I also carry radios, torches and a 2 day survival pouch. crank / solar electeonics charger.
+
+I do my own servicing and amateur tepaird so I keep a few tools on board but never sure if its the right ones. 
+
+But what tools and kids stuff are your essentials for emergencies?
+
+kids aged 4 & 10.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 15 1shthyu new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1shthyu.txt ========
+
+POST 1shthyu | r/NewParents | 2026-04-10 17:38 UTC | https://www.reddit.com/r/NewParents/comments/1shthyu/
+TITLE: 6 month old hates tummy time
+
+My daughter has never really had a problem with tummy time. She’s able to roll both ways, but now that she’s able to sit up, she freaks out anytime I lay her down to play. It’s hard to persuade her to roll onto her stomach now and If I put her directly on her tummy, she just rolls back over and then starts to cry. I’ve tried propping her up on a blanket, getting down on her level to play with her, etc but nothing seems to work. As soon as I sit her up though she’s happy. I assume it’s because she wants to be able to see everything around her and tummy time can be boring/exhausting. 
+
+I’m worried she’s not going to learn how to crawl at a reasonable time because she’s not very good at lifting her chest up off the floor with her arms instead of her elbows. Is this normal? 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 16 1shtmjo new-and-expecting-mothers/reddit/raw/reddit-2026/units/daddit-1shtmjo.txt ========
+
+POST 1shtmjo | r/daddit | 2026-04-10 17:42 UTC | https://www.reddit.com/r/daddit/comments/1shtmjo/
+TITLE: Kid poem intended for daddit
+
+My 9 year old asked me to workshop rhymes with them at lunch for a project.  I threw out a couple of these but they're also insanely verbally precocious so the main work here is theirs.   They literally asked me "will you post this to daddit" as they love trying to view my phone usage over my shoulder and this sub is one that I can actually show (the main one being oneorangebraincell).  In any case, I'm proud to present my genetic legacy's work.  
+
+
+
+
+
+
+
+I found a herd of turd eating birds 
+They only ate cured turds
+Have you heard of a herd of birds who is preferred to eat a cured turd 
+It's very absurd , I think.
+The turd being conjured 
+Made the birds lured
+To the turd 
+I bet their ice cream is like a slurred turd 
+ I wanted to have one so I lured. 
+A turd-eating bird with a conjured turd 
+The turd was about to get eaten 
+So I think the turd wanted to be gird
+The turd bird got trapped in my cured turd bird trap 
+It should have flown away with a map 
+Instead it tapped the cage and that's the story of how I got my turd bird and why I don't have a toilet. 
+
+The end
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 17 1shttns new-and-expecting-mothers/reddit/raw/reddit-2026/units/beyondthebumpUK-1shttns.txt ========
+
+POST 1shttns | r/beyondthebumpUK | 2026-04-10 17:49 UTC | https://www.reddit.com/r/beyondthebumpUK/comments/1shttns/
+TITLE: Space Saver or Regular Cot?
+
+Hey! My little one is currently 6.5 months and sits, so we are having to upgrade his sleeping space. He is currently in a next to me and we’re not sure if it’s best to get a space saver cot which is a similar size to the next to me, just deeper for safety, or go for a regular cot? We plan on having him in our room until he’s one or sleeps better through the night (he is breastfed and up LOADS). This may seem like a silly thing to be stuck on but honestly seems like a big deal to me!😅 He does already have a cot in his room, but I’d like that to stay there so we can slowly transfer him when the time comes and still have a bed for him in our room for tougher nights. Thanks x 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 18 1shu01z new-and-expecting-mothers/reddit/raw/reddit-2026/units/workingmoms-1shu01z.txt ========
+
+POST 1shu01z | r/workingmoms | 2026-04-10 17:56 UTC | https://www.reddit.com/r/workingmoms/comments/1shu01z/
+TITLE: Returning to work scheduling advice
+
+Hi all! 
+
+I’ll be returning to work in about a month and am questioning what the best work schedule to maximize time with baby will be. 
+
+My current schedule:
+
+6am-4pm (Mon-Thursday) with about a 20 min commute. Depending on work load sometimes I can sneak out around 3-3:30ish with an occasional half day on thursdays 
+
+My husband is a teacher and works 7:15-3ish mon-Friday. But will be home with baby all summer.
+
+We will likely need to send baby to daycare starting in September 3 days a week if I keep my current schedule. She will be 8 months old at the time. The idea is to have my mom watch baby Mondays, daycare tues-thurs (7am-3:30pm) and home with me on Fridays. My husband would likely have to do both drop off and pickups. 
+
+I feel heartbroken thinking I’ll be missing most of the day with her especially if she goes to bed around 7pm. 
+
+I could potentially have the flexibility to move my schedule around to either start even earlier or do an afternoon/evening shift.
+
+Pros of later shift:
+
+\-Mornings with baby (her current best time of day mood wise)
+
+Could potentially have my mom/sister babysit a few hours each day in the afternoon until husband gets off work instead of full day daycare. (Save money on daycare plus temporarily avoiding illnesses) 
+
+Cons:
+
+Missing dinner and bedtime every night and would be husbands sole responsibility which may cause burnout for him
+
+Likely have to work 5 days a week instead of 4
+
+No time with partner in evenings 
+
+Guilt about asking mom/sister to babysit every day 
+
+Option 3:
+
+Start even earlier (4:30 or 5am to 2:30-3pm) 4 days a week or  5am-1pm 5 days a week…more time in afternoon with both husband and baby but could get burnt out with needing to wake so early. Would likely mean less time in evenings with husband as I’d need to go to bed early. Would still need daycare.
+
+What option would you chose? Thanks in advance!!
+
+TLDR: returning to work full time after maternity leave. Advice on schedule to maximize time at home with baby.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 19 1shu4qq new-and-expecting-mothers/reddit/raw/reddit-2026/units/ScienceBasedParenting-1shu4qq.txt ========
+
+POST 1shu4qq | r/ScienceBasedParenting | 2026-04-10 18:00 UTC | https://www.reddit.com/r/ScienceBasedParenting/comments/1shu4qq/
+TITLE: I heard a physician on a podcast say that earlier stimulant medication improved outcomes for ADHD children over later administration. I’m having trouble finding this study - was this tested?
+
+I remember hearing a physician on one of the Armchair Expert podcasts (can’t find which episode) that said that there was a trial done where young kids were given stimulant medication and examined against a group where they were given the medication later. The physician was saying that the children given it as early as possible did much better later on (don’t remember what the outcomes were). This isn’t my field so I am having trouble finding any studies around this.
+
+Is there a study that compared outcome for different ages of children at start of stimulant medication for ADHD? 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 20 1shu93h new-and-expecting-mothers/reddit/raw/reddit-2026/units/NewParents-1shu93h.txt ========
+
+POST 1shu93h | r/NewParents | 2026-04-10 18:04 UTC | https://www.reddit.com/r/NewParents/comments/1shu93h/
+TITLE: Is feeling sad about leaving your child free life behind normal
+
+I just turned 33 and got married 6 months ago. I love where I’m at with my husband and life feels pretty stable enough to start having kids but I get sad thinking about our chapter of just the two of us being over. I do want at least one or two kids and I feel the biological clock pressure, but is it normal to feel like you’re not ready to leave your child free life behind? I had a little bit of a late start when it comes to growing up and adulting. I still feel like there’s so much I want to do.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+exec
+/usr/bin/zsh -lc "python - <<'PY'
+import csv
+from pathlib import Path
+r=list(csv.DictReader(open('baby-development/_work/2026-11/third-reading/reader-038.tsv'),delimiter='\\t'))
+for i,x in enumerate(r[20:40],21):
+ print('\\n========',i,x['post_id'],'========\\n'+Path(x['post_file']).read_text())
+PY" in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+
+======== 21 1shuc6b ========
+POST 1shuc6b | r/ScienceBasedParenting | 2026-04-10 18:07 UTC | https://www.reddit.com/r/ScienceBasedParenting/comments/1shuc6b/
+TITLE: 5.5 yo Tossing Turning Constantly at Night
+
+Our 5.5yo son has seemingly always been a very 'active' sleeper. Looking at the baby monitor motion detections each morning, I see he has small movements (tossing and turning) seemingly every 10-15 minutes. Here is a video of me scrolling through all the movement alerts for one night: [https://imgur.com/a/qEE7MVw](https://imgur.com/a/qEE7MVw)
+
+I don't believe he fully wakes up each time, but I can't help to think he's not really getting the fullest rest he could be. He seems to have decent energy during the day, so it may be a non-issue, but it just *appears* to be restless sleep.
+
+We did look into a child sleep study, but they tend to be more focused on sleep apnea and tonsils, etc. I'm not sure if this type of sleep disturbance would warrant a sleep study, so any thoughts on that are welcome as well!
+
+Note he has been diagnosed with ADHD and is medicated but I will say that this restless sleep pattern has existed well before the medication regime started, I probably started noticing it at around 4 years old, but I can't be certain.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 22 1shv5cb ========
+POST 1shv5cb | r/beyondthebump | 2026-04-10 18:36 UTC | https://www.reddit.com/r/beyondthebump/comments/1shv5cb/
+TITLE: Struggling after emergency c section & nicu…crying daily and not feeling like myself
+
+Hi everyone, I’m not even sure how to start this but I really need to get this out somewhere safe.
+
+I’m a new mom and I feel like I’m not okay.
+
+I cry pretty much every day. I keep having flashbacks to my birth and I can’t stop replaying everything that went wrong. I ended up having an emergency C-section after things got scary, and I feel like I didn’t even get to properly bring my baby into the world. I know logically that he’s here and safe, but emotionally I feel like I failed him somehow. I didn’t even get to hold my baby until 15hrs after he was born because my blood pressure was high so they kept me on IV meds until it lowered.
+
+Baby was in the NICU for 5 days because he had to be intubated when he was born. He’s okay now but we stayed in the hospital for total of 10 days, and I think that experience really shook me. Even now that he’s home, I feel constantly on edge. Every little thing scares me.
+
+On top of that, I’m struggling with feeding. I’m barely producing milk despite trying, and it makes me feel so useless. Like my body just isn’t doing what it’s supposed to do. I thought this part would come naturally and it hasn’t at all.
+
+The hardest part to admit is that I feel like I’m not connecting with my baby the way I thought I would. I love him, but I don’t feel that overwhelming bond everyone talks about, and it makes me feel like something is wrong with me.
+
+To make everything worse, there’s also a stressful situation happening with a city permit/license tied to our home that I thought I handled, but now there’s confusion with the submission and I can’t even get a hold of anyone because of timing. It’s making me spiral even more because it feels like everything is falling apart at once. Like my investment property depends on this license. I think it is a technical glitch but I’m so scared.
+
+I feel overwhelmed, exhausted, anxious, and honestly just really sad. I don’t feel like myself at all.
+
+Has anyone else felt like this after birth? Does it get better? I feel really alone in this right now.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: 0 of 5 archived comments ---
+
+
+======== 23 1shv9q6 ========
+POST 1shv9q6 | r/NewParents | 2026-04-10 18:41 UTC | https://www.reddit.com/r/NewParents/comments/1shv9q6/
+TITLE: Is it just me or choosing baby formula in the US is overwhelming?
+
+I didn’t expect choosing baby formula to be this complicated.
+
+
+
+There are so many options like Similac, Enfamil, and different formulas for sensitive stomachs or weight gain.
+
+
+
+I ended up spending a lot of time comparing everything just to understand the basics.
+
+
+
+I put together a simple breakdown of the most common formulas and when they might be used.
+
+
+
+Sharing in case this helps someone else:
+
+[https://choiceguidelab.com/2026/04/09/top-5-baby-formula-in-usa-2026-guide/](https://choiceguidelab.com/2026/04/09/top-5-baby-formula-in-usa-2026-guide/)
+
+
+
+Would love to hear what worked for your baby as well.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 24 1shvjjq ========
+POST 1shvjjq | r/beyondthebump | 2026-04-10 18:51 UTC | https://www.reddit.com/r/beyondthebump/comments/1shvjjq/
+TITLE: Wanting to initiate more
+
+Some background and context: Our 2nd is almost 3 months but is sleeping longer stretches at night (4.5-10 hours) Our first is in Kindergarten and on spring break this week. My partner and I both mostly work from home so we don’t have childcare and all of our family lives in a different state.
+
+I have no libido at all right now and my other needs (eating, sleeping, showering, etc) aren’t always met regularly. For me, sex is the last thing on the needs list but I know for my partner, he’d gladly skip a meal or an hour of sleep for intimacy. He’s frustrated and grumpy. Things are better for everyone when he’s happy (Not in like a scary way, in a general vibes way). Even if I’m not feeling it beforehand, I always have a good time and appreciate the connection. For those of you successfully having regular sex with your partner, when do you initiate? I tried during baby’s morning nap but got shut down. I also don’t like feeling rejected so this is going to be hard for me knowing that I’ll be told no more than never.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 25 1shvsj0 ========
+POST 1shvsj0 | r/daddit | 2026-04-10 19:00 UTC | https://www.reddit.com/r/daddit/comments/1shvsj0/
+TITLE: Wife Sleeping Peacefully
+
+My wife is next to me on the couch sleeping so peacefully! 
+
+I’m so happy I can be one of those dads that can just take the kid for a little bit and let her relax. 
+
+We stopped by her work the other day and one of her coworkers was talking about her daughter who “won’t even let \[kids dad\] watch \[kid\]” like that’s just so gross to me. 
+
+I’ve officially reached nirvana 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 26 1shvwyn ========
+POST 1shvwyn | r/NewParents | 2026-04-10 19:04 UTC | https://www.reddit.com/r/NewParents/comments/1shvwyn/
+TITLE: Will my baby ever nap in the stroller?
+
+Hey! My LO is almost 9 months old. Up until she was 3 mo she would nap in the stroller almost always I went out. Then she stopped, same thing with the car. 
+
+Now there’s no chance she’ll nap in the stroller. But I see all these older babies/toddlers who nap on the go. 
+
+So my question is, did anybody have a similar situation where the baby started sleeping in the stroller again when they got older? Or I just have one of those babies that won’t sleep unless at home? 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 27 1shvzw3 ========
+POST 1shvzw3 | r/Parenting | 2026-04-10 19:07 UTC | https://www.reddit.com/r/Parenting/comments/1shvzw3/
+TITLE: Movie recommendations?
+
+Hi! Hopefully I'm in the right sub, if not please redirect me! :)
+
+I'm doing a slumber party with my 5.5 daughter. As in we are gonna sleep in mommy's bed tonight and snuggle watch a movie and eat popcorn and chocolate. I'm excited, but I'm stumped on what to watch! I want it to be a new to us movie. Here's a few that she loved to kinda see where we are at!
+
+KPop Demon Hunters
+
+Encanto
+
+Lilo and Stitch
+
+Moana
+
+Sharkboy and Lava Girl
+
+Home Alone
+
+We've seen pretty much all of the 90s and 2000s Disney movies. So suggestions on movies from the 2020s appreciated, live action or cartoon!!
+
+Thanks for reading, have a great weekend! 🩷
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 28 1shw3zw ========
+POST 1shw3zw | r/beyondthebump | 2026-04-10 19:11 UTC | https://www.reddit.com/r/beyondthebump/comments/1shw3zw/
+TITLE: A hack probably everyone knows
+
+my daughter is almost 5 weeks old. my husband is back at work and I really missed going to the grocery store. I had a pretty big list, so putting her carseat in the cart wasnt gonna work. ive been practicing with my baby sling and decided to wear her to the grocery store.
+
+ you guys, game changer. she fell right asleep, and stayed asleep the whole time. I brought my teen son with me since he is on spring break, so he lifted the heavy things and thankfully I didnt need to bend. 
+
+the only part I struggled with, was im just short enough that leaning over the cart to grab things to ring up would have the side of the cart digging into baby. so next time I just need to plan the placement a little better. but for me this worked great!
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 29 1shwx2g ========
+POST 1shwx2g | r/NewParents | 2026-04-10 19:40 UTC | https://www.reddit.com/r/NewParents/comments/1shwx2g/
+TITLE: Naps make no difference?
+
+6mo, his night sleep seems to be about the same (two wakeups, usually but not always around 11pm and 3am) no matter if he naps for 5 hours or less than 1 hour during the day..anyone else have this experience??
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 30 1shwzqs ========
+POST 1shwzqs | r/Mommit | 2026-04-10 19:43 UTC | https://www.reddit.com/r/Mommit/comments/1shwzqs/
+TITLE: Hand me down clothing organization
+
+I have two boys almost 4 and 15 m
+
+And another boy on the way and I’m looking for tips on how you organize your clothes 
+
+Currently I have a huge pile on the floor of ALL of the clothes in the entire house and attic and I am condensing down into smaller piles and I guess I’m going to box up /label but do you guys do it by season or size..do you pack all in between stuff up in an attic or something or do you
+
+Leave next size boxes easily accessible. When do you go through them again to rotate everything around? Thanks for any tips..
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 31 1shx0nr ========
+POST 1shx0nr | r/workingmoms | 2026-04-10 19:44 UTC | https://www.reddit.com/r/workingmoms/comments/1shx0nr/
+TITLE: Working every weekend
+
+I have a 1 year old daughter and currently work PRN with a highly variable work schedule.  I’m considering a new job where my schedule would be fixed Sun-Tues.  Working some weekends is very common/expected in my field and the job is a good fit in every other way.  Right now I work 2-4 weekend days per month on average.  My husband has a typical M-F work schedule.  He does a great job caring for our daughter and keeping up on household chores and says he doesn’t mind the solo parent days.  That said, the difference is right now I choose the weekend days I work and am not obligated to work a certain number.  I’d be giving up flexibility for consistency, better pay, and the chance to live in the mountain town location of my dreams. 
+
+I am worried that it will be harder to connect and maintain our relationship with only one day off a week together.  I also don’t love that one of us will have to use PTO any time we want to do a weekend trip or event as a family.  Once our kid is school age there’s also the reduced time with her to think about, though that’s a long way off.  
+
+Anyone who’s worked this kind of schedule have any input on how it worked out and pros/cons to think about?  
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 32 1shx1lu ========
+POST 1shx1lu | r/toddlers | 2026-04-10 19:45 UTC | https://www.reddit.com/r/toddlers/comments/1shx1lu/
+TITLE: 20 months is kicking my butt!
+
+Its soooo sweet and cute in so many ways. 
+
+But also so whiny and she literally won’t play with any given toy or activity for more than 5 minutes it seems. I’m really trying to get better at letting her lead whatever she’s doing and not say “good job” and inject myself to see if she’ll play longer, but - so far no. 
+
+I do feel like I have to pay attention to her every second. I’m not sure if it’s her personality or I did something “wrong” I think part of it is also somewhat separation anxiety - she needs her eyes on me at all times. 
+
+But wowwww lol the physical and mental fatigue is insane. 
+
+Is this normal?! Lol
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 33 1shxdeb ========
+POST 1shxdeb | r/Parenting | 2026-04-10 19:56 UTC | https://www.reddit.com/r/Parenting/comments/1shxdeb/
+TITLE: Baby gear site Zentro?
+
+Hi there- I’m looking to purchase a car seat for my second child due in a few weeks. Google suggested an online store called Zentro and it looks like the Nuna Rava is like half priced compared to everywhere else but I feel like it’s too good to be true? Has anyone ordered from them before? It claims to be based out of Louisiana but are they really knockoffs coming from China/ India? Is the site reputable or are they just going to steal my cc info? 🙈
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 34 1shxh0u ========
+POST 1shxh0u | r/beyondthebump | 2026-04-10 20:00 UTC | https://www.reddit.com/r/beyondthebump/comments/1shxh0u/
+TITLE: Spotting after intercourse
+
+How long post partum did you stop fully spotting or bleeding after having intercourse? 6 months, a year, longer? 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 35 1shxlqv ========
+POST 1shxlqv | r/NewParents | 2026-04-10 20:05 UTC | https://www.reddit.com/r/NewParents/comments/1shxlqv/
+TITLE: Teething EBF 10 month old is biting
+
+Baby boy is 10 months old. Teething like crazy, but now has 4 teeth in (top 2, bottom 2). Won't take a bottle, won't take formula, basically won't take anything that's not directly from the boob. I EBF, and we're gradually weaning via solids and a bit of milk in a sippy cup now and then.
+
+Problem is, he's started biting me while eating. I know he's in pain from teething (and we're giving him medicine and teethers), but I just cannot keep feeding him knowing he's going to bite me. He's broken skin, and it takes so long to heal. I hate this so much.
+
+Advice I got from friends was to unlatch him immediately and kind of ignore him for a bit. I've tried that, but it doesn't work. He laughs(!) after he does it, acts kind of manic too. I'm not sure 10 month olds can 'learn'. What should I do?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 36 1shxot0 ========
+POST 1shxot0 | r/NewParents | 2026-04-10 20:08 UTC | https://www.reddit.com/r/NewParents/comments/1shxot0/
+TITLE: Is 13 weeks too soon to transition to crib ?
+
+My baby is 13 weeks today . We have been using the snoo as his bassinet . We don’t have it on as he doesn’t like it so he just sleeps in it . I recently stopped swaddling him because he would get his little arms out of it and also I feel like he will roll soon . He’s starting to move around a lot when he’s sleeping and the last couple nights I’ve seen his face against the mesh and he’s moving so much that the little mattress for the snoo moves as well and I can’t tell if his head is even on the mattress anymore or if it’s touching the base under the mattress ( I hope that makes sense ) . Was wondering if I should transition him to the crib ? Is it too soon? Or is he fine in the bassinet ? 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 37 1shxxnj ========
+POST 1shxxnj | r/beyondthebump | 2026-04-10 20:17 UTC | https://www.reddit.com/r/beyondthebump/comments/1shxxnj/
+TITLE: Uterine infection experience anyone?
+
+So I am 5 weeks pp from a csection and started having increased pain accompanied by a fever so I went to the ER. I was diagnosed with a uterine infection. They prescribed me a super high dose of Clindamycin, I was told to take 3 , 4 times a day until symptoms disappear and then take for another 24 hours then quit them.  I’ve her heard of taking antibiotics like this before, I thought you were supposed to finish the full treatment not just go off if symptoms disappear. I’m really scared of the infection coming back then being resistant to the antibiotics. I’m wondering if any one else had an experiences with taking high doses of Clindamycin for a uterine infection and what the thoughts are on it. 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 38 1shy1xk ========
+POST 1shy1xk | r/toddlers | 2026-04-10 20:22 UTC | https://www.reddit.com/r/toddlers/comments/1shy1xk/
+TITLE: Sitting with 2year old for over an hour and a half before she sleeps or all hell breaks loose!
+
+Our two-and-a-half-year-old has been going through what seems like a regression or separation anxiety for the past two to three weeks.
+
+We’ve started sitting by her bed until she falls asleep, as it’s the only thing that keeps her calm and actually works. If we try to leave her on her own, she screams uncontrollably and starts to panic.
+
+The problem is, it’s taking between one and a half to two hours for her to fall asleep.
+
+We’ve tried shortening her nap and doing wake windows of around five to five and a half hours, but I’ll be watching on the baby monitor while my husband sits with her, and she’s just bouncing around, singing, being silly, chatting to herself—basically anything but settling.
+
+I just don’t know what to do. Has anyone else gone through this or had to sit with their two-and-a-half-year-old for this long before they fall asleep?
+
+If there’s another approach that might help speed things up or get her through this regression, I’d be so grateful to hear it. Thank you.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 39 1shyrxa ========
+POST 1shyrxa | r/NewParents | 2026-04-10 20:49 UTC | https://www.reddit.com/r/NewParents/comments/1shyrxa/
+TITLE: yall lied babies DO NOT smell good
+
+every baby i held usually smells like vomit- im assuming from their spit up. 
+
+what’s this magical awesome baby smell people talk about? does it only apply when you’re the one who birthed that baby?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 40 1shywmh ========
+POST 1shywmh | r/NewParents | 2026-04-10 20:54 UTC | https://www.reddit.com/r/NewParents/comments/1shywmh/
+TITLE: Rolling in the crib
+
+Those parents of babies who discovered how to roll both ways in their crib… do they ever stop rolling and waking themselves up? Sincerely, a sleep deprived mom of a four month old
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+codex
+The first 40 posts include tummy-time concerns, short play attention spans, and biting during breastfeeding. Most are outside the niche. I’m marking sleep posts “near” when they also describe a skill such as rolling, and “no” when they concern sleep alone.
+
+exec
+/usr/bin/zsh -lc "python - <<'PY'
+import csv
+from pathlib import Path
+r=list(csv.DictReader(open('baby-development/_work/2026-11/third-reading/reader-038.tsv'),delimiter='\\t'))
+for i,x in enumerate(r[40:60],41):
+ print('\\n========',i,x['post_id'],'========\\n'+Path(x['post_file']).read_text())
+PY" in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+
+======== 41 1shz0p5 ========
+POST 1shz0p5 | r/Mommit | 2026-04-10 20:58 UTC | https://www.reddit.com/r/Mommit/comments/1shz0p5/
+TITLE: No appetite postpartum?
+
+To clarify I feel hunger but NOTHING sounds good to eat like it all makes me feel a little nauseous to be so honest. I force myself to eat but the day gets away from me and I’m not able to like get enough nutrients I feel. I’m trying to breast feed so I know this will impact me. 
+
+Wondering if this is normal and what others have done to help? 
+
+FTM just gave birth 3 days ago. 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 42 1shz64u ========
+POST 1shz64u | r/toddlers | 2026-04-10 21:03 UTC | https://www.reddit.com/r/toddlers/comments/1shz64u/
+TITLE: Toddler obsessed with AC units and fans
+
+Hi everyone. I am a mother of a 29 month old boy and I have few concerns about him. He likes spinning the spinner, loves fans since he was 12 months old but we thought he outgrew it around 20 months but since last summer the air conditioner fans are his new obsession. Since October it was fine as nobody turned on the Air conditioners but now that I take him out for a walk he wants to stand and see the AC units of each house we pass by.Infact he wants me to lift him up so he can watch the fan spinning. I am trying to tell him we will count 5 and we should move on from this unit. But sometimes he cries , hits so much to move way from it. It’s so exhausting to take him for a walk! He is speech delayed . He started speaking when he was 27 months old. He loves opening and closing door, loves switching the light on n off in toys ! He has good eye contact, responds to name, have not noticed an stimming .. tiptoe walking happens every now and then but not always ! We have reached out early intervention and receive DI and speech therapy. Today the therapists told me this doesn’t look normal. He should be tested for autism! As a first time mom this is so hard to take. Wanted to know if any of your kids does this way? How to handle this situation? I have planned on getting him evaluated  for sure but his pediatrician was not concerned he is always in rush to listen to details about this kind of behavior! We are recently planning to move to different apartment . We visited houses with nice patios and there were so many air conditioners and my son did not want to move past it ! Me and my husband had to struggle to put him in car seat after the visit! It’s just so hard! Any tips? Any experiences like that? How long does any obsession like this last? Is this OCD? The itch to see every AC unit ? Please help
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: 2 of 5 archived comments ---
+
+COMMENT ofgulus | 2026-04-10 22:26 UTC | https://www.reddit.com/r/toddlers/comments/1shz64u/comment/ofgulus/
+Thank you so much for responding . It’s just so difficult to tell him that it’s not our AC unit and that we cannot go and see somebody’s unit .. I have noticed  few people giving us looks when I take him to each Ac unit. I u destined because it’s right next to their bedroom windows! 
+
+COMMENT ofguyef | 2026-04-10 22:28 UTC | https://www.reddit.com/r/toddlers/comments/1shz64u/comment/ofguyef/
+I see! Hope this is fades away! It’s been a year . I take him out to the aquarium and he is interested in lights! I took him to county fair , there were so many animals but he was interested in dirty fan ! It made me wonder what’s going on ! 
+I will talk to pediatrician 
+
+
+======== 43 1shzbp1 ========
+POST 1shzbp1 | r/Parenting | 2026-04-10 21:09 UTC | https://www.reddit.com/r/Parenting/comments/1shzbp1/
+TITLE: Take this as a cautinary tale: never treat your youngest child better!
+
+Both of my parents trated me better than my sister. They tols me how beuteful i am and my dad bought me everything. But my sister was treated worse.i was extremally arrogant at that time which destroywd my life and forming realationships.And now? I'm treated the same way. My mom told me to work so my 8 year old brother btw doesn't suppas me. I almost graduate (graduation is in 10th grade in germany). My brother is a empethaticless arrogant asshole. And he is arrogant because my mom treats him like a exeptional albert einstein for.. learning faster to read than his classmates? And even then idk his class backthen so idk if they really are that worse than my brother.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 44 1shzesd ========
+POST 1shzesd | r/beyondthebumpUK | 2026-04-10 21:13 UTC | https://www.reddit.com/r/beyondthebumpUK/comments/1shzesd/
+TITLE: Struggling with baby #4
+
+Baby is 4 weeks old.  I should be giving a lot more context to this post, but I honestly haven't got the energy to share anything else, so sorry if this seems like a pointless post.  I guess I'm just looking for some solidarity right now. 
+
+I feel like I should have this baby thing licked with it being my fourth, but I'm lucky if I manage to get out of my pj's most days, and I'm tearful all the time.
+
+I'm scratching my head, wondering how on earth I managed to do so much with my other 3 at this stage, and why I'm finding it so hard this time round.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 45 1shzfcz ========
+POST 1shzfcz | r/toddlers | 2026-04-10 21:13 UTC | https://www.reddit.com/r/toddlers/comments/1shzfcz/
+TITLE: Worst and best toddler songs
+
+What’s one song you could listen to on repeat more than your child does? 
+
+And on the counter and what’s one song that makes your ears bleed? 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 46 1shzhxp ========
+POST 1shzhxp | r/NewParents | 2026-04-10 21:16 UTC | https://www.reddit.com/r/NewParents/comments/1shzhxp/
+TITLE: 3.5 Monther
+
+First time mom here & I’m so tired mentally. My baby is turning 4 months in 2 weeks. He’s 2 months premature & all he does is cry I’m almost 100% sure he’s colic. He’s formula fed & has been drinking Kendamil goat formula since he was 1 month. Recently he has been very fussy + gassy & has started spitting up with feeds. I called his paediatrician & she told me to try Enfamil gentle ease. I’ve been using it for the past 2 days & my son has been spitting up even more than before & is still very fussy + gassy. I’m not sure what to do anymore. I have an appointment with the paediatrician again tomorrow.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 47 1shzjnt ========
+POST 1shzjnt | r/Mommit | 2026-04-10 21:18 UTC | https://www.reddit.com/r/Mommit/comments/1shzjnt/
+TITLE: 3.5 Monther
+
+First time mom here & I’m so tired mentally. My baby is turning 4 months in 2 weeks. He’s 2 months premature & all he does is cry I’m almost 100% sure he’s colic. He’s formula fed & has been drinking Kendamil goat formula since he was 1 month. Recently he has been very fussy + gassy & has started spitting up with feeds. I called his paediatrician & she told me to try Enfamil gentle ease. I’ve been using it for the past 2 days & my son has been spitting up even more than before & is still very fussy + gassy. I’m not sure what to do anymore. I have an appointment with the paediatrician again tomorrow.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 48 1si06tz ========
+POST 1si06tz | r/workingmoms | 2026-04-10 21:43 UTC | https://www.reddit.com/r/workingmoms/comments/1si06tz/
+TITLE: I did it!
+
+Just wanted to give hope to some of the moms looking for new roles. Finally landed a role I’m really excited about. I work in marketing and have been trying to find something remote or more flexible since my job went to 4/1 and I have a 1.5hr commute. Took me six months and lots of persistence, but it is possible. 
+
+I got really frustrated and down looking, but in most cases it’s the market, not you. The experience has been a good reminder to be kind to myself and to keep trying even after getting tons of rejections. I actually feel like I ended up with the role that’s the best fit for me and that I was most excited about.
+
+I’m proud of myself for keeping at it and am looking forward to celebrating with my husband and son tonight 😊
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 49 1si086u ========
+POST 1si086u | r/beyondthebump | 2026-04-10 21:45 UTC | https://www.reddit.com/r/beyondthebump/comments/1si086u/
+TITLE: pets will never compare
+
+i just cannot stand when people think their pet equates to what parents experience. it drives me insane. no, your dog/cat/lizard/fish will never ever be the same as the experience i have with my son. the love you have for your pet will never amount to the love i have for my son. & that’s NORMAL!! 
+
+yes, people can have an immense love for their animals. but it’s just delusional to think that as a “dog mom” you’d have an idea of what it’s like to be a real mom. & i’m so so sick of people telling me that they understand or that i’m selfish for thinking less of pets after becoming a mom. or that i’m self absorbed for thinking that a dangerous animal needs to be re-homed for the safety of my child. 
+
+rant over! 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 50 1si12ev ========
+POST 1si12ev | r/NewParents | 2026-04-10 22:18 UTC | https://www.reddit.com/r/NewParents/comments/1si12ev/
+TITLE: Hand tremors?
+
+My 6 week old has had these little tremors in his hands (it occurs in both hands but usually only one at a time and very rarely his legs) since the day he was born. The best way I can describe it is it looks like he’s knocking on a door lol. It only happens when he’s stretching and lasts a second or two. I’ll ask our pediatrician about it at our 2 month appointment, I totally forgot to ask at our 1 month, but thought I’d ask about it here, too and see if anyone else has experienced this. 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 51 1si1ik9 ========
+POST 1si1ik9 | r/Mommit | 2026-04-10 22:37 UTC | https://www.reddit.com/r/Mommit/comments/1si1ik9/
+TITLE: Postpartum glow up — does anyone feel this way?
+
+I feel so stupid feeling this way but on the one hand, 2+ years baby, I’m wanting to really lock in on “getting my punk back,” glowing up, feeling good about how I look again — but there’s also something embarrassing about it? Like I felt so objectified while pregnant and I still feel like my body is like “public property, open season subject” which I hated and hate — but also I always took a lot of pride in my appearance pre-COVID and I am sick of feeling ugly frankly. 
+
+BUT THEN there’s so embarrassing about putting in more effort and everyone going WOWWWW you look NICEEEE like as if I normally look like a gremlin and looking nice one day is some earth shattering news. And I know they mean well but it makes me just feel…like an object again?
+
+Idk I’m being so stupid does anyone feel this way? Disclaimer: not my husband’s fault at all I could be completely hideous my regrowth sticking up like Weird Barbie major rosacea flare-up the works and he’s like heyyyy hottieeee 😏😏 which is very nice but I also need to feel good independent of him liking how I look obv 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 52 1si1pch ========
+POST 1si1pch | r/daddit | 2026-04-10 22:45 UTC | https://www.reddit.com/r/daddit/comments/1si1pch/
+TITLE: What’s your “Pro Dad Tip”?
+
+Mine is this right angle drill adapter. Came in super handy when building this patio furniture!
+
+Bonus picture of dad non-compliance and the finished product. 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 53 1si1yy7 ========
+POST 1si1yy7 | r/toddlers | 2026-04-10 22:56 UTC | https://www.reddit.com/r/toddlers/comments/1si1yy7/
+TITLE: What are some must-haves for a 2.5-3 year old?
+
+My toddler is about to turn 2 and I'm currently pregnant with our second. I've realized we don't really need a lot of stuff this time around because we got literally everything the first time. We'll need some new clothes to account for different genders and the babies being born during opposite seasons and of course replace all the consumables. But otherwise we're pretty good.
+
+Regardless, I've created an Amazon registry so I can take advantage of the 15% discount. In addition to the few things we need for the baby, I'm trying to think of things that we'll need for the toddler in this next stage. Any suggestions?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 54 1si21te ========
+POST 1si21te | r/toddlers | 2026-04-10 22:59 UTC | https://www.reddit.com/r/toddlers/comments/1si21te/
+TITLE: 16month old not sleeping after vacation?
+
+I’ve been lucky to always have a pretty good sleeper. Been sleeping through the night since 5months and been putting himself to sleep since 13 months. 
+
+We got back from vacation one week ago yesterday. He did AMAZING on vacation and for the most part we stuck to his routine, with 1 nap being on the shorter end and staying up 2 hrs late the first night. He put himself to sleep which I wasn’t really expecting, and I was so proud. 
+
+What I didn’t expect was for him to not sleep since coming home. If we put him in his crib and leave the room he screams. He also wakes up in the middle of the night and cries until we go in there, and we have to stay with him until he falls back asleep. 
+
+On vacation we did sleep together in 1 room so I thought the middle of the night wake ups were because he got used to us sleeping in the same room with him, but I think it’s odd that he would fall asleep on his own on vacation but now won’t back at home. 
+
+I know any change in routine can be disruptive but I guess I have just been spoiled with how good he’s always slept. I guess just looking to hear people’s thoughts or experiences. TIA :) 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 55 1si2pjy ========
+POST 1si2pjy | r/workingmoms | 2026-04-10 23:27 UTC | https://www.reddit.com/r/workingmoms/comments/1si2pjy/
+TITLE: To Share or Not to Share..
+
+Question for any of my working mamas who have done something similar re: Changing Jobs while pregnant
+
+I have the offer. Comp is great, it would be only a 15 min drive from our new house and very family oriented company, all the benefits I want. Smaller, tight knit team but successful business. 
+
+My only conflict is I’m not sure to share with them I’m pregnant when I accept or wait and tell them before it becomes obvious?
+
+I’m 16 weeks this Saturday. I’m not showing (yet) but I don’t want to start off on the wrong foot with the company given the size of the team and the significance of the offer. 
+
+I’ll be able to give them 5 straight months of good work before MAT leave, but I’m still not sure what the best option is. 
+
+I was considering joining, ensuring I am contributing to their standards and then sharing about a month in or when it becomes visibly obvious, but now I’m feeling like because the team is so small and close, I would be better off just being up front when signing the offer. 
+
+Looking for advice and thank you in advance for any!
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 56 1si34ag ========
+POST 1si34ag | r/toddlers | 2026-04-10 23:45 UTC | https://www.reddit.com/r/toddlers/comments/1si34ag/
+TITLE: Our 2.5 year old boy will sometimes cry when his mom comes home and he ask her to leave...
+
+our son is generally very happy, very kind but lately after spending time with me (his dad), he will cry when his mom comes home from work or comes into the space that we are in and ask mommy to leave, usually while crying... He will do it also when other family shows up to me, or whoever he seems to not want to see.. and its heartbreaking. the other day he was talking about his auntie and his gramma how he wanted to see them... They came over and he wouldnt even look at them. He just cried in my arms. This isnt all day every day but it is normally after hes spent time with me.. I wonder if its because he doesnt get as much time with me as he does his mom, I leave for work at 530 so she gets him up and drops him off a daycare/spends the day with him as ahe works seasonally. I only ever get from 330 to 730 which is his bedtime, to be with him.. and of course on weekends. it hurts me to see him behave this eay towards his mom because at all other times hes a BIG mommas boy. I calmly remind him to be kind and use nice words, but hes literally just adds "Please" to the end of "Mommy bye".  
+
+ive been told this is a normal thing for toddlers to do but any other insight would be appreciated! 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 57 1si3n5a ========
+POST 1si3n5a | r/toddlers | 2026-04-11 00:07 UTC | https://www.reddit.com/r/toddlers/comments/1si3n5a/
+TITLE: What to do about overtired toddler after daycare?
+
+Hi all! My almost 4 year old recently started daycare for the first time - before that he was home with me. Every night since starting daycare has been a nightmare - he absolutely loves daycare but is so so tired after that the whole night just ends up ruined. 
+
+We get off at 5, pick him up about 5:15 and don't get home until about 5:45-6pm. Usually by the time we get home he is hungry but won't eat because he's too tired, so we end up trying to feed him from 6-7/7:30 along with playing etc (we don't force him to eat or anything obviously). Before daycare his bedtime was also usually 7/7:30ish. 
+
+Even if we give a couple warnings leading up to bedtime, he seems fine but the moment we say "okay bed time" all hell breaks loose. The next two hours are then spent trying to fight our way through bed time routine, every step is screaming, holding him down to brush his teeth, etc because no matter what we do he won't calm down enough to do anything. He literally spent half an hour last night screaming and just sobbing because when he puts his head on his pillow the corner of the pillow lifts up half a millimeter. Bed time is now a 2+ hour fight where we eventually end up just waiting until the tantrum finally ends and he passes out within 2 minutes.
+
+We've tried an earlier bed time which ended the same wa but took even longer to fall asleep somehow. We've tried moving it back as well in case I'm somehow reading him wrong and he's not tired?? He definitely looks exhausted and has that glassy look in his eyes by the time we get home. He typically has about a 1 hr nap at daycare, and by time he finally falls asleep at 9 he's still getting 9-10 hours of sleep a night. He stopped napping at about 1.5 so this is a typical amount of sleep for him. 
+
+Anyone have any ideas? I miss my sweet little boy and I miss actually liking bedtime. I feel so bad sending him away to daycare and want to enjoy some time with him at night before bed but the constant fighting and screaming and crying have me feeling quite overwhelmed about how to help him. 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: 3 of 8 archived comments ---
+
+COMMENT og55qdc | 2026-04-14 14:54 UTC | https://www.reddit.com/r/toddlers/comments/1si3n5a/comment/og55qdc/
+Hi! Yes I had heard of the restraint collapse (though never heard it called that! Didn't know there was an actual term) - I definitely think it's a combination of everything and just getting used to things. The carers at his daycare say he's always so polite and well behaved so it would definitely make sense if he is holding it all in all day. I was always the same way as well, so will definitely keep it in mind. 
+
+Also definitely going to try the snack thing! I always have some snacks in the car/my bag so will start offering him something on pickup like many people suggested. 
+
+Thank you! Will continue to just the patient and try some of your/others tips and hopefully things will even out a bit after some time settling in. 
+
+COMMENT og560m7 | 2026-04-14 14:56 UTC | https://www.reddit.com/r/toddlers/comments/1si3n5a/comment/og560m7/
+Sounds like a great idea! And time outside is so good for them tooo, so it sounds like it has a lot of potential benefits. Will give it a try! Hope things get easier for you too! 
+
+COMMENT og56xhp | 2026-04-14 15:00 UTC | https://www.reddit.com/r/toddlers/comments/1si3n5a/comment/og56xhp/
+It makes it so hard doesn't it?? What you wrote at the end about both wanting more connection but the mood making it difficult really hits hard - by the end of the day I'm sure most parents are exhausted so trying to navigate the tantrums patiently is a bit harder. I don't want to get angry/upset but it can be so frustrating! I miss my happy little dude too. Hopeing with a bit of time things will get a bit easier for you! 
+
+
+======== 58 1si3oe0 ========
+POST 1si3oe0 | r/ScienceBasedParenting | 2026-04-11 00:09 UTC | https://www.reddit.com/r/ScienceBasedParenting/comments/1si3oe0/
+TITLE: Best age to start swimming lessons
+
+Is there any evidence as to when the best time is to start bringing babies/toddlers to “swimming lessons”? 
+
+The ideal outcomes being creating confidence around water and the development of swimming ability later in childhood. 
+
+I want to know if I am terrible parent for not bringing in my 6 months old to the pool! 🤓 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 59 1si3yhq ========
+POST 1si3yhq | r/FirstTimeMom | 2026-04-11 00:21 UTC | https://www.reddit.com/r/FirstTimeMom/comments/1si3yhq/
+TITLE: Am I the only one?
+
+Idk where to post this and this seems like the best place. I have a 2 year old daughter and she’s amazing and perfect and I still feel like I just don’t even want to be alive. Like my ppd is just who I am now and idk who I was before I was a mom with ppd. When I do rarely get together with friends/family I have nothing to say to them. My mind is blank. All I think about is my daughter and how much I don’t enjoy life anymore. I’m just going through the motions of trying to give her a good childhood but I’m literally dead inside. I have no one to talk to about this that would know what to say. My husband is supportive but I know doesn’t get it. I work part time and stay home with her part time so it’s not like I’m even just with her all the time. Idk if this even makes sense. I just have no idea who I even am anymore and idk how I’m supposed to figure out who I am when I don’t enjoy anything anymore. I wanna make other mom friends but I’m so depressed and have nothing to say so that feels impossible. Idk what to do 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 60 1si47yr ========
+POST 1si47yr | r/toddlers | 2026-04-11 00:33 UTC | https://www.reddit.com/r/toddlers/comments/1si47yr/
+TITLE: Anyone have periods where your toddler starts crying suddenly at bedtime?
+
+Our almost 3 year old is a great sleeper. Usually we read his books, light out, falls asleep. 
+
+For the past week he’s been crying a ton every night. Mostly it just sounds like whining but it goes on for like 30min. Then I go sleep in his bed with him and he falls asleep quickly. 
+
+This started when my wife started doing his bedtime. She had been taking care of our infants bedtime and now that she is done nursing we finally started alternative their bedtimes. 
+
+For 3-4 nights I go in and sleep with him. I don’t mind at all either it’s relatively comfy, he sleeps in a queen sized bed. But I like my own bed too and don’t want to do it forever. 
+
+So should I just let him whine it out (again he’s not full
+
+On sobbing crying). Or should I just go in and hope one day he will not cry when we finish (I’m afraid of making this a habit)
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: 3 of 9 archived comments ---
+
+COMMENT ofhkh81 | 2026-04-11 00:54 UTC | https://www.reddit.com/r/toddlers/comments/1si47yr/comment/ofhkh81/
+Hmm I have heard him talk in his sleep occasionally now. Maybe it’s the dreams 
+
+COMMENT ofhkio4 | 2026-04-11 00:54 UTC | https://www.reddit.com/r/toddlers/comments/1si47yr/comment/ofhkio4/
+Yeah I wonder if he is scared to sleep bc of dreams? 
+
+COMMENT ofion6e | 2026-04-11 05:19 UTC | https://www.reddit.com/r/toddlers/comments/1si47yr/comment/ofion6e/
+It’s honestly not hard at all. It’s super easy to sleep next to him so I care more about it not becoming a tough to break habit for the future than I do about the difficulty now 
+
+
+exec
+/usr/bin/zsh -lc "python - <<'PY'
+import csv
+from pathlib import Path
+r=list(csv.DictReader(open('baby-development/_work/2026-11/third-reading/reader-038.tsv'),delimiter='\\t'))
+for i,x in enumerate(r[60:80],61):
+ print('\\n========',i,x['post_id'],'========\\n'+Path(x['post_file']).read_text())
+PY" in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+
+======== 61 1si4h6x ========
+POST 1si4h6x | r/NewParents | 2026-04-11 00:45 UTC | https://www.reddit.com/r/NewParents/comments/1si4h6x/
+TITLE: Does anyone else feel like they stare at their own kids too much?
+
+Maybe its just me, but I love to take a few moments just to stare at them, seeing them interact with new things. Seeing their brains actively figuring out a problem. Correct them right away when theyre about to do something bad, I dont know I just like seeing them experiencing life for the first time. But feel a little bad for doing it too much sometimes
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 62 1si4kh4 ========
+POST 1si4kh4 | r/toddlers | 2026-04-11 00:49 UTC | https://www.reddit.com/r/toddlers/comments/1si4kh4/
+TITLE: 16 month old's sleep is killing me
+
+My 16 month old has never been a great sleeper. He is low sleep needs and he treats having to go to bed as being physically tortured. We sleep trained him with ferber because he was waking every hour and he eventually slept through the night around 8 months, but he has never been able to fall asleep independently. I am now single parenting and have a 3.5 year old who I can not leave alone to spend 2 hours getting my 16 month old to sleep, so I have been putting him down tired but awake in his crib but he screams, cries, throws himself around, and does anything he can to keep himself awake. I go in and try to soothe him periodically (while attempting to parent my other child and do her bedtime), but most of the time it makes him more mad. I don't want to leave him alone to completely cry it out (like full extinction) because it doesn't seem like his temperament can handle it but after an hour+ of incremental crying he does fall asleep. But it doesn't improve night to night. Every single night is insanely difficult and my anxiety around bedtime is inexplicable.
+
+  
+He also wakes up at least 1-2 times per night and it takes about an hour to get him to go back to sleep either by rocking him or him crying because rocking him or even trying to cosleep does nothing. He often wakes right back up when set back down in his crib after I've rocked him back to sleep. Out of desperation I tried to pull him into bed with me at 2am to see if he would fall asleep cosleeping but he just rolled around for an hour so I put him back in his crib.
+
+  
+I took him to the doctor today to have his ears checked and they looked perfect. Zero fluid and he is totally healthy and has a clingy but otherwise happy temperament during the day.
+
+His schedule is usually 7-7:30pm bedtime (but often isn't actually asleep until at least 8:30pm and wakes around 7am, and nap is from 12-2pm. I have tried putting him to bed later, earlier, adjusting nap times, and nothing changes. He just HATES sleep.
+
+  
+Single parenting and working on top of this sleep deprivation is not sustainable and my mental health is really starting to suffer. I'm not sure if I'm looking for advice or validation that this is torture. But any ideas are welcome at this point.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 63 1si512u ========
+POST 1si512u | r/toddlers | 2026-04-11 01:09 UTC | https://www.reddit.com/r/toddlers/comments/1si512u/
+TITLE: 1 1/2 yr old having random nosebleeds?
+
+He started about a month ago and it lasted on and off 4 days it was random the first time was very scary it wouldn’t stop but I got it under control within under 10 minutes. After that he bled during the night and that kept happening for the next couple of days and we chalked it up to dryness and the filthy fan we had on. This morning he had another nosebleed but I didn’t even notice it, there was a drop of blood on the sheet and his nose was dry. Then this afternoon his sitter called me worried telling me he was bleeding while he was napping and woke him up to clean him up. I’m trying not to jump to conclusions and wait until I see his pediatrician but I’m so worried. He’s so little to be having random nosebleeds. 
+
+I started thinking it could be a blood disorder or something, I can’t stop overthinking and it’s killing me. I have to wait over the weekend to get in because I don’t know what they’ll do at the ER or if they’ll even do anything. Those aren’t the only symptoms, for months he’s been crying during the middle of the night and we assumed it was due to separating anxiety since I was working a lot but recently quit and now spend more time with the kids. He has since calmed down during the night but he still whines a lot during the night but is not as frequent and not crying like he was in pain like he was initially just whining and then go back to sleep. There has also been a few of times where he had ear infections very frequently and then a couple times we had assumed they were because he was crying so much and twisting in pain but when we took him in to the urgent care he didn’t really have a fever just a little elevated temp and no infection. They told me he was teething but then when I took him to the dentist few days after they told me that was false. I hope I’m just being overly dramatic but I am on the verge of a panic attack. 
+
+Any experiences with toddler nosebleeds that turned out to be nothing ???
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 64 1si5k1c ========
+POST 1si5k1c | r/Parenting | 2026-04-11 01:34 UTC | https://www.reddit.com/r/Parenting/comments/1si5k1c/
+TITLE: For those of you who have five or more children….
+
+How and why??? I literally just have one baby right now and I cannot imagine what it would be like to have more. I feel so alone when my husband goes to work and I cannot imagine the chaos and the sleep deprivation continuing. How do you manage to have multiple children?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 65 1si5l2e ========
+POST 1si5l2e | r/Mommit | 2026-04-11 01:35 UTC | https://www.reddit.com/r/Mommit/comments/1si5l2e/
+TITLE: Mourning the toddler years while still in them
+
+I have an almost 2 & 4 year old. I work a decent amount & lots of work is on my phone so I am on my phone a lot which gives me a lot of guilt. One big one is that I’m missing these golden years. I LOVE this stage. I have intentional time where I have my phone in another room or something so I’m not pulled in by work but I really feel so terrible & feel like I’m missing out on the best part of my life. It’s the story I’m telling myself and I need help reframing this mindset of mine. I want to enjoy it now. I want to be present. I want to be able to look back at photos from 1-2 years ago and not tear up
+
+Does everyone feel this way? 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 66 1si5n4a ========
+POST 1si5n4a | r/toddlers | 2026-04-11 01:38 UTC | https://www.reddit.com/r/toddlers/comments/1si5n4a/
+TITLE: Kissing at preschool
+
+My 3.5 year old and I often talk at bedtime, and she shares details that I don't hear at any other time about her day and her friends. Today, we had read a bedtime story that involved the Spin the Bottle game, and I commented that it was a game that older people play, not a game that little kids play. She wanted to know why, and in the course of that conversation she said that it was "normal" for kids to kiss each other at preschool. 
+
+She named another kid and said that he kisses her on the eyes accidentally when he means to kiss her forehead, and that she kisses his cheek, and that they love each other. ... I'm not sure what to do with this, because I don't want to jump to conclusions. Was this a one time thing or is this common? Are the teachers aware? Have they encouraged or discouraged it? Did the other kid start this (I assume) or did she? I feel like I'm just left with a lot of questions and am not sure how to proceed. Do I just wait and check in with her about it again in a bit? Or does this raise red flags that need to be addressed sooner, and if so what should I do?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 67 1si6jnj ========
+POST 1si6jnj | r/beyondthebump | 2026-04-11 02:20 UTC | https://www.reddit.com/r/beyondthebump/comments/1si6jnj/
+TITLE: How to increase supply/ should I try formula?
+
+My son has always been exclusively breastfed. He took a bottle occasionally for the first couple months, but then he stopped, and nothing I tried worked. So I gave up on pumping/bottle feeding and exclusively nursed (pumping inconsistently to try and get him to figure out a straw with breast milk). He is now almost 10 months. He has started some solids, but he also finally figured out how to take milk through a straw cup! The problem is, my supply has now regulated and decreased, and it takes 4ish pumps to produce enough milk for one feeding. It’s exhausting and not sustainable. I don’t need an overwhelming supply, but I would like to have enough breast milk on hand that my husband can feed him every once in a while. What is the best way to increase my supply? I’m also willing to try formula, but he has only ever had my breast milk, so is there a brand that tastes most like breast milk? Any tips/thoughts would be much appreciated. 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 68 1si6rm6 ========
+POST 1si6rm6 | r/NewParents | 2026-04-11 02:30 UTC | https://www.reddit.com/r/NewParents/comments/1si6rm6/
+TITLE: What’re we cooking?
+
+Once the meal trains stop and the freezer stash is empty what’re we making for dinner? I’m exclusively pumping and the primary caretaker (stay at home) so I have time to do prep through the day (between naps 🥲)
+
+I’m open to suggestions both for bulk so you’ve got leftovers or what’s the simplest to make/takes the least amount of energy. I’m only about a month postpartum
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 69 1si6w0o ========
+POST 1si6w0o | r/beyondthebumpUK | 2026-04-11 02:36 UTC | https://www.reddit.com/r/beyondthebumpUK/comments/1si6w0o/
+TITLE: My “village” never showed up
+
+My LO is 9 weeks old and what I thought was my village hasn’t showed up. 
+
+I’m 31 FTM and youngest of 7 siblings. None of my siblings have met my LO or barely communicated with me since giving birth. I’ll drop the odd photo of her into our group chat, I’ll get nothing. No response. No reaction. Just a left on read. 
+
+It’s started getting to me that none of my siblings have shown up or said anything about my LO. Everyone, friends, midwives, HV as soon as I said to them I’m the youngest of 7, they automatically go. “You’ve got a massive village”. During my pregnancy I thought they would show up, but no. 5 out the 7 of us have kids ranging from 6 to 30. They have their own lives and I respect that.  Just thought they might of shown they cared more.  We all live within 20 minutes or less from each other. 
+
+Anyone else gone through this? 
+
+Am I the problem or am I expecting too much.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 70 1si6w1c ========
+POST 1si6w1c | r/toddlers | 2026-04-11 02:36 UTC | https://www.reddit.com/r/toddlers/comments/1si6w1c/
+TITLE: Should I DNA test my son?
+
+My son is three. He has very blonde hair (it’s darkened a bit with age, but not much), has blue eyes, and wears glasses (far-sighted). My husband (his dad) and I both have brown hair, brown eyes, and I do wear glasses for near-sightedness. We have no blue eyes or really even blonde hair in our families for at least 3 generations.
+
+We’ve been asked his whole life where he gets his hair/eye color, and usually we’ll just go, “oh, I don’t know he’s a mystery!” or just lie and say it’s in our family just to end the conversation. It bothers me so much, and I always worry people think I may be lying about the paternity. 
+
+Point blank, there is no possibility of there being another father unless I’m also not the mother . When my son was a baby, we did think he looked like me, but as he gets older, he doesn’t look anything like either of us. It’s just stuck in the back of my mind that he could’ve been switched at birth, even though it seems so unlikely. He did have to be transported to a NICU about an hour away hours after his birth, and I didn’t get to see him until a couple of days later. But his pictures from his first minutes of life do look like him.
+
+My husband doesn’t say anything about it, but I know it bothers him too, and I even worry he may think I’m lying about the paternity even though he’d never imply that. 
+
+Would it be absurd to test his DNA? Would I even want to know if my fears came true? 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 71 1si6zfn ========
+POST 1si6zfn | r/NewParents | 2026-04-11 02:40 UTC | https://www.reddit.com/r/NewParents/comments/1si6zfn/
+TITLE: Need help navigating baby temperature. Forehead temp is normal at 98. But the chest under just one layer is like 100. Is this a concern?
+
+I'm using a contactless digital thermometer designed for babies.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 72 1si7p2c ========
+POST 1si7p2c | r/toddlers | 2026-04-11 03:14 UTC | https://www.reddit.com/r/toddlers/comments/1si7p2c/
+TITLE: Another potty training post
+
+I know there’s a millions of these a day in this sub but I don’t have other friends or family currently or recently potty training so I’d love any thoughts! 
+
+We’re currently one week into potty training my 2 year old (26mo) son. He’s been doing pretty well! He’s been averaging one accident a day. He can stay dry for about an hour and a half and most of the time when I bring him to the potty he will pee. He’s told me he needs to go twice now but most of the time it’s me prompting him vs him initiating it. 
+
+His accidents have all been later in the day. It seems like he needs to go a bit more frequently once we get to the evening so I’m adjusting how I prompt him for that. 
+
+I guess what I’m looking for is advice/ feedback! How are we doing? In other people’s experience is one accident a day something to expect at 1 week in? Any thoughts on how to get him to tell us when he needs to go more other than just keeping it consistent? 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 73 1si7qwg ========
+POST 1si7qwg | r/beyondthebump | 2026-04-11 03:16 UTC | https://www.reddit.com/r/beyondthebump/comments/1si7qwg/
+TITLE: Cat touched pacifier, forgot to wash it and have been giving it to baby intermittently for hours
+
+My baby is 7 + 5 weeks. I was playing with him on his play mat, his pacifier was on it near him. Our cat came over, I looked up and saw him touching the edge of the pacifier with his paw, playing with it. I don't know if he touched the nipple, I didn't see him touching it. I immediately shooed him away and moved the pacifier away from him. I then got distracted by something and forgot all about it, which means I forgot to wash it.
+
+Whenever my baby gets fussy, I give him the pacifier to help calm him down while I'm trying to calm him. He's fussy a lot which means I've been giving him that pacifier off and on for hours. I just remembered the cat touched it, so I ran and washed it.
+
+Should I be concerned my baby is going to get sick, or will he probably be okay?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 74 1si7xvu ========
+POST 1si7xvu | r/workingmoms | 2026-04-11 03:25 UTC | https://www.reddit.com/r/workingmoms/comments/1si7xvu/
+TITLE: No phone while kid watches telly
+
+I really struggle to find interest in the shows my kid wants to watch and find myself sitting on my phone this is normal after I get home from work and I want to change that but I don’t know what else I can do I struggle to read when there’s heaps of background noise and if I write stuff miss 2 year old wants to scribble all over my stuff so it’s tricky . Before anyone says play with your kid, this is just down time for a little bit after dinner and before bath time and I just want to relax for a little . Suggestions 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 75 1si7y12 ========
+POST 1si7y12 | r/Parenting | 2026-04-11 03:26 UTC | https://www.reddit.com/r/Parenting/comments/1si7y12/
+TITLE: My son’s friend gave him money
+
+It was only $5. But when I found out, I told my son (7m) he had to give it back to his friend (7m) when he sees him on Monday. My son cried. I’m not entirely sure if he cried because he didn’t get to keep it, or because he thought he was in trouble for taking the money. He wouldn’t tell me. I told him he wasn’t in trouble, it’s never happened to him before so it’s okay to not know what to do. But he will need to give it back. 
+
+My other son’s (11m) friend (11m) also tried to give my son $50 last year. He knew not to accepted it but he told me about it. 
+
+Is it common for kids to just give money out like this? 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 76 1si84kq ========
+POST 1si84kq | r/beyondthebump | 2026-04-11 03:35 UTC | https://www.reddit.com/r/beyondthebump/comments/1si84kq/
+TITLE: Sad the second time around
+
+I thought my first delivery/postpartum was rough. Took almost three years for us to decide to go for a second. Planned c section turned into an emergency one a few days before. A week long NICU stay, a week in the hospital for surgery a few weeks later, another week in the hospital just a week after. My older kid is being awful, he’s mad at me for leaving and choosing the baby. 
+
+I went from breastfeeding 100% of the time to now only breastfeeding 30% and pumping 70% per doctor’s orders. I hate it. On top of it all, I started my cycle or bleeding again or something and have been nauseous with a headache for 3 days now. I feel terrible. With my first, I didn’t have a cycle for over a year. I hate it all. I regret it all. 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 77 1si87ea ========
+POST 1si87ea | r/toddlers | 2026-04-11 03:39 UTC | https://www.reddit.com/r/toddlers/comments/1si87ea/
+TITLE: Gymnastics/ballet
+
+I’ve been heavily considering enrolling my 17mo son in gymnastics or ballet. I worry for the judgement (mostly toward him) for getting my \*son\* in to one of them, but despite it being stigmatized for girls, i think it’s a great stepping stone developmentally. 
+
+Have any of you enrolled your child? Anyone with a son? And if so were you “shamed” for doing so. I really don’t mind what other people say or think, but personal experiences would be beneficial to help ease my mind. 
+
+Thanks! 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 78 1si9u81 ========
+POST 1si9u81 | r/NewParents | 2026-04-11 05:02 UTC | https://www.reddit.com/r/NewParents/comments/1si9u81/
+TITLE: 7 week old sleep/schedule
+
+Hi there! Trying to get some insight into what we should do. Dad typically works Monday/Tuesday day shifts, off Wednesday, closing shifts Thursday-Saturday, off Sunday.   Wondering 3 things. 
+
+1. How often/when would you expect your partner to take care of/wake up with the baby with this type of schedule? Trying to find a good balance to not overwhelm each of us. 
+
+2. I don’t like the word “schedule” but we have kind of a unique situation. Dad and I are both night owls and typically go up to “bed” anywhere from 2-4am every night and wake up with her as needed until around 11am. We have this schedule mostly due to dad getting off late half of the week. Baby is currently averaging about 15 hours a day. I know when she gets older we will end up having an earlier bed time and earlier wake time since she will be awake more of the day. The issue I’m running into is determining her “bed time”. Since we don’t all go to bed together I’m finding it hard to determine the days and I want to figure out her patterns and see if we can start implementing some daily familiarities vs an actual routine. 
+
+3. If you are a night owl and have a similar situation, when did you change your routine to train yourself to wake up/go to bed earlier? 
+
+I have a friend with an 8 week old and she has baby on a schedule with a bedtime and know typically what time baby will wake up and everything. I have a really good baby and she does sleep relatively well. Just kind of wondering what I should do. 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 79 1sic4r6 ========
+POST 1sic4r6 | r/NewParents | 2026-04-11 07:10 UTC | https://www.reddit.com/r/NewParents/comments/1sic4r6/
+TITLE: Anyone here have lumps even after breastfeeding?
+
+I'm spiraling. I grew lumps in my right boob after giving birth and they're still there 5 months pp even if I haven't been breastfeeding for 2 months already.
+
+It's moveable though. Like an oval marble behind the nipple. I thought it was a clogged duct but I haven't beed bfeeding for a while so I assumed it 'll go away. It hasn't yet. 
+
+Any other moms have these?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 80 1sicl6n ========
+POST 1sicl6n | r/toddlers | 2026-04-11 07:37 UTC | https://www.reddit.com/r/toddlers/comments/1sicl6n/
+TITLE: Toys and play
+
+I'm at my wits end over something very silly. My 3yo doesn't play with her toys, not really. We try to keep it simple with things she can play herself and with us - board games, train set, magnitiles, Duplo, teddies, play kitchen, sand. But she rarely wants to play, she just wants to either play 'building' where she makes a fort and dumps EVERYTHING in there, or magnitiles. I'm close to giving stuff away because we have a toy cupboard that's got toys she never touches, plus more in her room.
+
+All her toys are free to access in our living room. We've tried toy rotations and having less out but it just results in asking for specific things which get immediately ignored. I now find myself saying annoyingly stupid things like "just go and play" as though that will solve the issue. 
+
+And my issue is, why have these toys if they are ignored?
+
+Is this an age thing? Do we have the wrong toys? Is there anything we can do to encourage it? Are the toys too young? Am I expecting too much? 
+
+She adores her craft station and will craft for ages but lots of the other bits are gathering dust.
+
+Every morning she asks for TV (we do minimal screen time once a day) and every morning I have to remind her to play. 
+
+Note: I also have a 6 week old prem baby so I'm an emotional mess, please bare with me. This may just be the hormones.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+codex
+I’ve read 80 posts. Age has ruled out several otherwise relevant posts: the fan obsession, potty-training, and toy-refusal posts specify children over 24 months. I also found two sampled posts with identical text; I’m keeping a separate row for each and noting the duplication.
+
+exec
+/usr/bin/zsh -lc "python - <<'PY'
+import csv
+from pathlib import Path
+r=list(csv.DictReader(open('baby-development/_work/2026-11/third-reading/reader-038.tsv'),delimiter='\\t'))
+for i,x in enumerate(r[80:100],81):
+ print('\\n========',i,x['post_id'],'========\\n'+Path(x['post_file']).read_text())
+PY" in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+
+======== 81 1sict9b ========
+POST 1sict9b | r/NewParents | 2026-04-11 07:51 UTC | https://www.reddit.com/r/NewParents/comments/1sict9b/
+TITLE: CMPA at 10 months?
+
+Hi all. My baby was diagnosed with reflux and CMPA pretty much since birth and was on multiple meds (Pepcid, etc) and dairy free formula. He had bad skin reactions, frequent watery smelly stools, lots of spitting up when he was a newborn, and overall irritability. Now that he’s older, the pediatrician recommended we switch to a gentle milk based formula a few months ago and it went well. Then we weaned off all medications a few weeks ago.
+
+He’s 10 months now and most symptoms are gone but he’s still overall a VERY fussy cranky irritable baby. He still has horrible smelly gas, and a few patches of eczema on his arms but it could be unrelated? He had a very short maybe 2 week span of pleasantness around 9 months where I thought his personality was changing since he could crawl around independently. It was lovely. But he’s back to being fussy allllll the time like whines all day for what Sean’s like on reason. It might even be worse than before. 
+
+I’m trying to figure out anything that could be wrong with him. Could CMPA still be a problem at this age? My ped said most babies outgrow it by 6 months. And since he was always generally fussy even when he was on meds and dairy free formula I’m not sure if this is even the problem. Maybe this is just his temperament and how he is. I’m just looking for any possible solution... I don’t want him to be so unhappy all the time…
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 82 1sicxif ========
+POST 1sicxif | r/NewParents | 2026-04-11 07:58 UTC | https://www.reddit.com/r/NewParents/comments/1sicxif/
+TITLE: I "knew" newborns didn't sleep, but I wasn't ready for the actual soul-crushing reality of it.
+
+My wife and I did the whole thing—read the books, watched the YouTubers, took the classes. We knew babies eat every 2-3 hours. We thought we were prepared. We weren't. Not even close.  
+Month one hasn't been "tired"—it's been a total brain-melting blur. I’m currently walking around like a zombie on a boat. Last night, I caught myself staring at the bottle warmer for five minutes trying to remember if I already put the powder in.  
+The 3 AM feeding is the worst. You finally get them down, you crawl back into bed, your head hits the pillow... and 45 minutes later, the screaming starts again. Your heart just drops. Nobody told me that weeks of this would actually rewire my brain. I snapped at my wife over a misplaced burp cloth, then felt like a total jerk five minutes later. We’re both just… frayed.  
+How did you survive this? Is there an actual hack to make the night routine faster? I’m desperate for some proof that I’ll eventually feel like a human being again.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: 0 of 263 archived comments ---
+
+
+======== 83 1sid3nj ========
+POST 1sid3nj | r/Mommit | 2026-04-11 08:07 UTC | https://www.reddit.com/r/Mommit/comments/1sid3nj/
+TITLE: How do you manage school logistics as a full-time working mom?
+
+How do you manage school logistics as a full-time working mom? I'm drowning trying to do pick-ups, homework supervision, and still perform at work.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 84 1siddp8 ========
+POST 1siddp8 | r/ScienceBasedParenting | 2026-04-11 08:23 UTC | https://www.reddit.com/r/ScienceBasedParenting/comments/1siddp8/
+TITLE: Air travel before six months in the US
+
+Given the vaccine schedule, infant immune systems, the landscape of the US, I’m looking for information to help inform risk tolerance for airport travel at five months. Baby can travel in a carrier in the airport for protection- how great are the risks? What are the greatest risks?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 85 1siepm3 ========
+POST 1siepm3 | r/NewParents | 2026-04-11 09:45 UTC | https://www.reddit.com/r/NewParents/comments/1siepm3/
+TITLE: Dear new parents, what frozen meals would you like to receive as help when getting home from the hospital?
+
+Hi all,
+
+my friend is due to in late June so I'm planning to cook her some frozen ready to go meals to help her out so she can focus on the baby and herself. 
+
+I would appreciate some ideas. What kind of homemade meal would you appreciate receiving? Thanks!
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 86 1sier8u ========
+POST 1sier8u | r/beyondthebump | 2026-04-11 09:47 UTC | https://www.reddit.com/r/beyondthebump/comments/1sier8u/
+TITLE: Feeling pressured to move back home with newborn — need perspective
+
+Hi everyone,
+
+We have a 1-month-old baby, and my mom is currently staying with us to help. She’ll be leaving at the end of this month, and then my MIL will come for about 2 months.
+
+My husband works from home and genuinely wants to be involved and support me. We live abroad, away from family, but we were planning to manage on our own after both moms leave.
+
+Now my mom is strongly suggesting that I go back to our home country with the baby for a few months so she can help more. Some relatives are also encouraging this. But my husband really wants us to stay together and experience this phase as a family.
+
+I do appreciate my mom’s concern, but her repeated comments about “you won’t be able to handle this alone” are starting to shake my confidence.
+
+I’m feeling confused — is it realistic for two parents (with WFH) to manage a newborn without a third person full-time? Would love to hear others’ experiences.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 87 1siesz6 ========
+POST 1siesz6 | r/beyondthebump | 2026-04-11 09:50 UTC | https://www.reddit.com/r/beyondthebump/comments/1siesz6/
+TITLE: I really don’t get how people are doing this and how to survive going forward :(
+
+I’m six months PP. The hardest six months of my life for real. It feels like each week/month there is a new challenge and it gets harder in a way.
+
+My husband is in law-school so I take care of the baby all day while he’s gone and I have done the nights by myself since the start. I still get the nighttime scaries because it’s just been traumatic sometimes. My husband is a great guy, but he has to get some sleep for school so he’s not really able to help overnight. 
+
+From months 3 up until now I’ve been bed-sharing which honestly saved my life because I was able to get some sleep.
+
+My baby is rolling now and we want to get him back in the bassinet, which he doesn’t love, he wakes up every couple hours now and that’s it he even falls asleep. So I’m back to barely getting any sleep and struggling with the decision to either stay up almost all night trying to make my baby sleep in his bassinet or bring him in bed and worry it’s dangerous. 
+
+I don’t know what to do and I feel like no one else is struggling on the level that I am. I’m truly in a dark place and I’m not really looking to be told I have PPD because that may be true, but it’s mainly the sleep deprivation that is messing with me. 
+
+How do you do it? What should I do? Has anyone been here? 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 88 1siev86 ========
+POST 1siev86 | r/NewParents | 2026-04-11 09:54 UTC | https://www.reddit.com/r/NewParents/comments/1siev86/
+TITLE: Parents of newborns who refuse bottles & cots - did you ever have a breakthrough?
+
+My baby is 7 weeks old and I’m really struggling at the moment.
+
+Two main issues:
+
+She is breastfed and absolutely refuses bottles. I feel like I’ve tried all the usual tips online and nothing has worked.
+
+She also refuses to sleep anywhere except in the carrier on me during the day. At night, we end up cosleeping -  but I have to start with her in the carrier, let her sleep there for hours, then very carefully transfer her into bed. she sleeps for like 1-2 hours at a time, maybe 3 when we are lucky. 
+
+I’ve tried all the common advice for bassinet/cot transfers and it just isn’t working for us.
+
+I’d really love to hear from people who had babies that strongly refused bottles and/or the bassinet/cot for a period of time - not just babies who took to it with a few tweaks.
+
+Did things eventually improve for you?
+
+Was there a breakthrough moment?
+
+What actually worked in the end?
+
+I think a lot of the usual tips are geared towards babies who were already somewhat open to bottles or sleeping independently, and that just doesn’t seem to be my baby. i can't just rock my baby in the dark and get her to fall asleep etc..
+
+I’m starting to feel a bit overwhelmed and honestly losing my mind a little.
+
+Also, I basically have to carry her most of the day because she’ll cry if I put her down.
+
+Would really appreciate hearing real experiences 💖
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: 1 of 3 archived comments ---
+
+COMMENT ofjvt8l | 2026-04-11 11:30 UTC | https://www.reddit.com/r/NewParents/comments/1siev86/comment/ofjvt8l/
+Yes I guess it's probably just normal for now then. I'm in a local mums group and it felt like only my baby was doing this but probably I need to step away from that. Everyone in that groups baby's sleep in the bassinet and cot 😅
+
+
+======== 89 1sifiht ========
+POST 1sifiht | r/NewParents | 2026-04-11 10:31 UTC | https://www.reddit.com/r/NewParents/comments/1sifiht/
+TITLE: does anyone else feel like they literally dont know who they are anymore
+
+like i used to have hobbies and opinions and a personality?? now i cant even remember what music i like. someone asked me what i do for fun the other day and i just stared at them. i love my baby so much but i feel like the person i was before just... vanished. is this just me or
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 90 1sifld6 ========
+POST 1sifld6 | r/toddlers | 2026-04-11 10:36 UTC | https://www.reddit.com/r/toddlers/comments/1sifld6/
+TITLE: Why is my toddler calling a man "the muffin man"?
+
+We have a local café where I go with my toddler. A man works there. When my daughter sees him, she will say "Look mum, it's the muffin man" and refer to him as "the muffin man". I don't understand the reference she is making. I have tried googling "the muffin man" but images I see are of the gingerbread man from Shrek and another chef character who is white, with a mustache. For reference, the man at the café is a very tall (6' 5"?), muscular black man, with a shaved head, usually be has a bandana round head, normal clothing like joggers and t-shirt. I can't think of any reason she is calling him the muffin man but she seems so adamant about it! I should also clarify that we do not order muffins to eat at the cafe 🤣
+
+Can anyone help me understand what she means by this or what she could be referring to?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 91 1sig4sh ========
+POST 1sig4sh | r/Mommit | 2026-04-11 11:05 UTC | https://www.reddit.com/r/Mommit/comments/1sig4sh/
+TITLE: Found out one of the mother's of my son's friends is a sex worker.
+
+Mom of a 6yo little boy who recently met a new kid who lives up the street (7 yo).  They play really well together, they ride bikes, play in the creek, all the things little boys do I guess.  They live in a beautiful home and I didnt think it was an issue to get to know the household since they play so well together.  
+
+Turns out mom is a sex worker, I had a hunch because shes single and lives in a million dollar home.  Listen, I love empowering women and others especially in today's society however, im trying my best to protect my son from being exposed to anything too soon.  We recently broke up with a long time friend because her daughter (6yo) inappropriately touched him and she responded as if she didnt care or see any issue with it.
+
+Im not sure how to feel without coming off really judgemental.  Looking for some insight.  
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 92 1sihn6s ========
+POST 1sihn6s | r/toddlers | 2026-04-11 12:22 UTC | https://www.reddit.com/r/toddlers/comments/1sihn6s/
+TITLE: Are all extroverted toddlers like this???
+
+My daughter is almost 2 and she is clearly an extrovert. She’s always talking about other people, offering strangers her food, seeking out other kids to play with etc. 
+
+This is all fine & dandy buttt she’s obviously still learning social skills and is grabbing at kids hair/coat etc to get their attention. It’s not malicious, she genuinely wants to interact. 
+
+She used to run up to other kids and hug them but she learned at daycare not to do that because other kids were biting her when she did that.
+
+I tell her no, gentle hands. We role play with her animals how to approach others to play, read books about being gentle etc. 
+
+It’s worth noting that we speak a different language at home than the local language & she recently had tubes put in her ears to remove water so she’s behind in speech.
+
+How common is it for extroverted toddlers to struggle with this?? Any success stories?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 93 1sihtj3 ========
+POST 1sihtj3 | r/Mommit | 2026-04-11 12:30 UTC | https://www.reddit.com/r/Mommit/comments/1sihtj3/
+TITLE: Question from my 3.5 year old
+
+Not sure if it’s the pregnancy hormones, but dang, this got me good this morning. 
+
+I was in the process of buying bottles and pacifiers for our expected baby and showing them to my daughter, who is three and a half now. She just quietly looked at the photos for a while and then asked, “mom, will I ever be a baby again?” 
+
+I had to explain to her that she will keep growing up and getting bigger. There is no going back in time. She was once a baby that used these same things, but now she’s growing up into a big kid who will soon be going to school.
+
+This honestly hit me like a punch to the gut. I swear it’s the pregnancy hormones. But now I can’t stop thinking about how just a few years ago, I was doing this same thing for my daughter. I was just buying her baby things like this, and in the blink of an eye, she’s now a walking and talking child.
+
+It’s truly crazy how fast time flies.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: 2 of 9 archived comments ---
+
+COMMENT ofk6guz | 2026-04-11 12:39 UTC | https://www.reddit.com/r/Mommit/comments/1sihtj3/comment/ofk6guz/
+Yes it’s gone SO fast. It feels like it was just a few months ago that my daughter was running around in diapers with her own pacifier 🥲
+
+COMMENT ofk6mim | 2026-04-11 12:40 UTC | https://www.reddit.com/r/Mommit/comments/1sihtj3/comment/ofk6mim/
+Yes I will definitely make sure to do this! I have told my daughter in the past that she will always be my baby, even when she is a grown up 😊
+
+
+======== 94 1sihw8u ========
+POST 1sihw8u | r/NewParents | 2026-04-11 12:34 UTC | https://www.reddit.com/r/NewParents/comments/1sihw8u/
+TITLE: 6am wake up
+
+How do I get my 6 month old to sleep past 6/6:30am?? We put him to bed around 7:30 every night. He wakes up between 6 and 6:30, poops, and then won’t go back to sleep!! 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 95 1sihxnq ========
+POST 1sihxnq | r/Parenting | 2026-04-11 12:36 UTC | https://www.reddit.com/r/Parenting/comments/1sihxnq/
+TITLE: Are rotating car seats worth it?
+
+Ready to upgrade to a convertible car seat. We are using Nuna products but the ones in our price range don't have a rotating car seat. 
+
+This is our first so we have no idea if rotating features are really useful or not. We have a big long tall baby lol
+
+Are rotating features worth it? And if so any recommendations?
+
+I've been eyeing the Graco Turn2Me 3in1 seat, any thoughts on that?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 96 1sii289 ========
+POST 1sii289 | r/Parenting | 2026-04-11 12:42 UTC | https://www.reddit.com/r/Parenting/comments/1sii289/
+TITLE: Birthday Parties
+
+ If you have 2 kids who are friends with another child and attend their birthday party, do you just get them one gift from both kids, or does each of your kids get them a gift? I know there isn't a right or wrong answer here really, but curious what other people do.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 97 1siimo3 ========
+POST 1siimo3 | r/daddit | 2026-04-11 13:07 UTC | https://www.reddit.com/r/daddit/comments/1siimo3/
+TITLE: Survived a parental rite of passage…barely
+
+If there’s one aspect of parenting I could live without, it’s when your child (or children) sleep in bed with you and your spouse. My 8yo daughter was sandwiched between us last night, visiting my folks in Florida after she got suddenly inconsolable out of nowhere wanting to be home NOW. Fortunately we leave today, but not after she kicked us both all night, and at one point crying from some kind of jaw pain (maybe a molar coming in?). And it was HOT. What a crappy night! How y’all dadditors doing?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 98 1siix2m ========
+POST 1siix2m | r/workingmoms | 2026-04-11 13:19 UTC | https://www.reddit.com/r/workingmoms/comments/1siix2m/
+TITLE: What are we doing in the evenings?
+
+I’m looking for inspiration/motivation to make some changes in my life and use my time a bit more purposefully and/or efficiently.
+
+I’m away from home for work/commute/daycare pick up 6:30a-5p Monday-Thursday. I get a half day each Friday. I’m going to begin getting three work from home days each week in about a month, but my Friday half day will be going away. My toddler sleeps 7p-6a. My husband cleans while I do the bedtime routine. Once toddler goes to sleep, I typically shower and then my husband and I watch TV and snack on the couch until I fall asleep. We then go up to bed once my husband has finished the episode. 
+
+I’m not loving the pattern we’ve fallen into. I feel like my sleep quality is poor, I feel like it leaves little room for connection with my husband, I generally feel blah and my least favorite thing of all is that I’ve gained 10 lbs in three months and I’m still 25-30ish lbs up from where I was pre-baby. I brought this up to my husband, and he asked how we should structure our time instead.
+
+Work has been extremely stressful and my toddler is still nursing 2x daily, but I’m really looking to make some positive changes especially as I go through some job changes around this time.
+
+Does anyone have any thoughts/recommendations/advice?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 99 1sij45j ========
+POST 1sij45j | r/toddlers | 2026-04-11 13:28 UTC | https://www.reddit.com/r/toddlers/comments/1sij45j/
+TITLE: 3 day Toilet Training Method
+
+Just started this training method with my 19 month old boy today and am wondering what everyone's experience was like.
+
+Day 1 - how many accidents and successes? what did successes look like?
+
+Any improvements on days 2 and 3 and what did these look like?
+
+What is a good end result to achieve?
+
+Strategies used to help keep bub on the toilet long enough to empty their bladder?
+
+Strategies to help bub learn to hold their bladder between toilet trips?
+
+Any experience or advice appreciated!
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 100 1sijaeo ========
+POST 1sijaeo | r/ScienceBasedParenting | 2026-04-11 13:35 UTC | https://www.reddit.com/r/ScienceBasedParenting/comments/1sijaeo/
+TITLE: Benefits of supplementing a predominately formula diet with breast milk (3m+)? Number of feedings to make a difference?
+
+I seem to be moving towards feeding our baby more formula than breastmilk after returning to work. I am aware of the benefits of breast milk, but is there any research pointing to a point in which the "returns" are marginal? I am hoping to make a decision kn whether it is worth it to continue a few pumps a day, or just go ahead and wean off. 
+
+Thanks!
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+exec
+/usr/bin/zsh -lc "python - <<'PY'
+import csv
+from pathlib import Path
+r=list(csv.DictReader(open('baby-development/_work/2026-11/third-reading/reader-038.tsv'),delimiter='\\t'))
+for i,x in enumerate(r[100:120],101):
+ print('\\n========',i,x['post_id'],'========\\n'+Path(x['post_file']).read_text())
+PY" in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+
+======== 101 1sijrrl ========
+POST 1sijrrl | r/daddit | 2026-04-11 13:56 UTC | https://www.reddit.com/r/daddit/comments/1sijrrl/
+TITLE: Inflatable pillows - expecting and new dad must have.
+
+I took some inflatable camping pillows with us to the hospital. Game changer. They are infinitely adjustable for hardness so have a ton of applications. 
+
+We used them during birth and for both of us to sleep at the hospital. 
+
+Now that we're home, they are perfect for propping under your arm when feeding baby. They are better than normal pillows because once they reach the "bottom" they are rock hard and have no more give, so they're super stable.
+
+I have one slightly deflated to put baby in on the couch at an angle like a lay down seat thing. He sinks in just a little bit. But the pillow is stiff enough to span over the gap that is created by what ever I prop it up with. I can then just lightly poke the pillow to bounce the baby.
+
+These are the two I have: 
+
+Big https://a.co/d/00bqBll2
+
+Small https://a.co/d/0bu8oNqF
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 102 1sijtlf ========
+POST 1sijtlf | r/NewParents | 2026-04-11 13:58 UTC | https://www.reddit.com/r/NewParents/comments/1sijtlf/
+TITLE: Anyone struggling with transitioning their baby to solid foods?
+
+Hi! I'm a student working on developing a solution to this very issue! I'd appreciate anyone filling out this form! [https://docs.google.com/forms/d/e/1FAIpQLSeQ42V2JvndXxuDTsHOivXNE903Q9HFF\_GUQrFLE9MlIBKMHg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSeQ42V2JvndXxuDTsHOivXNE903Q9HFF_GUQrFLE9MlIBKMHg/viewform)
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 103 1sijybz ========
+POST 1sijybz | r/daddit | 2026-04-11 14:03 UTC | https://www.reddit.com/r/daddit/comments/1sijybz/
+TITLE: My 3.5yo drew a bee
+
+🤷‍♂️
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 104 1sik2ac ========
+POST 1sik2ac | r/Mommit | 2026-04-11 14:08 UTC | https://www.reddit.com/r/Mommit/comments/1sik2ac/
+TITLE: Mom’s of 4 or 5 children what’s it like?
+
+Doing research since my partner and I are on track to be able have 4 or 5 within the next 11 years. Would really love hear your experiences.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 105 1sik7dg ========
+POST 1sik7dg | r/Parenting | 2026-04-11 14:14 UTC | https://www.reddit.com/r/Parenting/comments/1sik7dg/
+TITLE: Wife and I disagree… Looking for perspectives
+
+Long story short… My wife had a child from a previous marriage… I married her when the child was seven years old… She is now 10.
+
+She is truly an incredible kid… Achieves on a roll status… Is the most polite human I probably ever met… So much so that I even bring her to my job and let her talk to my bosses without fear of her saying something stupid lol.
+
+The problem is at home… My wife babies are to a degree that I really can’t stand. 
+
+When she wakes up in the morning, my wife will ask her if she wants cereal… Go over get the bowl, pour the milk, grab the cereal, and even pour it into the bowl. If she asks for something to drink… My wife will get up or stop whatever she is doing and go over to the fridge and get it for her.
+
+I feel like it is leading to an incredible sense of laziness and entitlement. 
+
+When I’ve tried to bring this up, my wife says this is just what she has always done and it is how you show someone that you love them. 
+
+I see it as setting up bad skills for later in life… I am a teacher, so I see the difference in kids who are motivated to do something for themselves versus being apathetic and expecting the world to do everything for you.
+
+Sometimes it even goes so far that my wife will cut her pancakes…
+
+I always tell her I will do anything that is dangerous or that she physically can’t do… But I flat out refuse to pour a glass of milk for her when she is sitting there perfectly capable and doing nothing.
+
+I’ve mentioned to her how come when she gets a new toy… And I ask if she needs help putting it together she will refuse and insist that she can do it on her own… But then she refuses to get up and pour her own milk… Her response was because it’s not fun.
+
+Am I wrong for feeling this way? How do I bring this up to my wife without feel like I’m criticizing her parenting skills? Please be brutally honest… If I am in the wrong, I really want to know.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 106 1siklqf ========
+POST 1siklqf | r/NewParents | 2026-04-11 14:30 UTC | https://www.reddit.com/r/NewParents/comments/1siklqf/
+TITLE: 4.5 month old sleep
+
+Struggling with sleep deprivation my baby is 4.5 months old has always woke up through the night around 4/5 times recently had sleep regression and was waking 8/9 times the only thing that'lI settle him is feeding him he's EBF I don't believe in cry out methods lately with the clocks changing he's now wakening at 5am and is extremely hard to get back to sleep I now have to sit at his cot and pat him for over an hour I'm extremely tired and now am finding my patience's are wearing thin and I can't even enjoy being a mum I feel like mums that have babies that sleep well have a totally different life and experience to the ones who have the babies that struggle with sleep. Does it get any better I just feel so frustrated some days and
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 107 1sil1qc ========
+POST 1sil1qc | r/NewParents | 2026-04-11 14:48 UTC | https://www.reddit.com/r/NewParents/comments/1sil1qc/
+TITLE: Do babies sleep more on rainy/cloudy days?
+
+My little one napped almost double today during the day, and it's been super cloudy and rainy. Is this a coincidence or do your babies do this too? 🌧️  
+
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 108 1sileii ========
+POST 1sileii | r/daddit | 2026-04-11 15:02 UTC | https://www.reddit.com/r/daddit/comments/1sileii/
+TITLE: I taught my 19 month old daughter how to say “baby talk goo goo gah gah”
+
+Now she’s pacing around with her inner musings and saying “baby talk…goo goo gah gah” while also babbling her normal baby talk. 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 109 1silqxn ========
+POST 1silqxn | r/daddit | 2026-04-11 15:15 UTC | https://www.reddit.com/r/daddit/comments/1silqxn/
+TITLE: You CAN set up "Approve Content Yourself" in YTKids on a child's managed Google account
+
+Once you have the device set up with a managed Google account with Family Link and install YouTube kids, you will be asked to choose one of three age ranges. Just pick one of the these, and then go to YouTube kids on YOUR phone where you can change that to "Approve Content Yourself" and start approving videos and channels.  Then click "done" for it to stick.
+
+You cannot do it from Family Link.  I really struggled with how to do this for the better  part of my morning, I have not even had breakfast or coffee yet, so I hope this helps someone else.  Gemini was no help and actually told me it wasn't possible on this type of account.  🤦
+
+We are in the process of getting our 8yo a real phone instead of a hand-me-down with no SIM, so we had to move to this instead of just using a child profile attached to my Google account.
+
+It feels like Google really made it hard to do, but once you know how it isn't.  
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 110 1simfln ========
+POST 1simfln | r/toddlers | 2026-04-11 15:42 UTC | https://www.reddit.com/r/toddlers/comments/1simfln/
+TITLE: Almost 2 year old still not really talking
+
+LO is 22mo, idk what I'm expecting by posting this. At my son's last appointment I mentioned my son's limited speech. He can and has said mama, dada, anana (banana), -side (outside), yeah, whazzat (might be reaching, but I think he's asking what's that), but normally he just points, makes throat sounds and syllables and what sounds like "sehhhh". His doctor is adamant he does not have autism because he will interact with you in other ways and he does understand things like if I tell him to bring me his cup, his shoes, gets excited when I mention outside time or blocks, when I read and point stuff out he has like 80% accuracy if tell him to show me something like a bird or flower. 
+
+Might be important to mention he also has open mouth posture, he does nose breathe at times but 90% of the time it's open. He can close his mouth, but chooses not to. I'm waiting on a call from ENT after a referral, and trying to get an ortho appt, but in the meantime I'm spiraling. I have a recessed chin and went to speech therapy as a kid because my Rs were Ws. I'm learning so much more is caused by this, I have a lisp still as an adult. I know these are superficial worries but I don't want him to have trouble whether it be health related or bullying. 
+
+Does anyone have similar stories? Did your baby really go from limited speech to speaking more? Any one have a baby that had seemingly permanent open mouth posture?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 111 1simqvi ========
+POST 1simqvi | r/sahm | 2026-04-11 15:54 UTC | https://www.reddit.com/r/sahm/comments/1simqvi/
+TITLE: Naps are ruining my life
+
+I guess I need to rant…I wish this didn’t get to me the way it does but here we are…
+
+FTM to a 5month old..,.it’s been 3 weeks now of him refusing to nap in his crib. 
+
+It’s so defeating that he won’t nap anymore. Spending 3+hours in a dark room is really starting to mess with me.
+
+I spend more time trying to get him to nap than he actually naps.
+
+I have tried everything. I just let him cry for 3 minutes over and over and over again. I hate letting him cry and have avoided this until this week…I contact nap and feed him before and have a nap routine.
+
+I really don’t know what to do and need help. 
+
+Then I spend my entire time w him doing laundry, walking the dog, cooking, putting groceries away, cleaning that he doesn’t actually have any activity time.
+
+From having him in the carrier and him getting heavier my right knee is starting to feel like it’s going to give out. 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 112 1sin48q ========
+POST 1sin48q | r/ScienceBasedParenting | 2026-04-11 16:08 UTC | https://www.reddit.com/r/ScienceBasedParenting/comments/1sin48q/
+TITLE: Screen on but caregiver engaged
+
+I’ve read through the other posts about screens and the negative effects…
+
+I have a 10 week old and my husband will play video games while I bottle feed her. She will go from watching me while I sing to totally fixated on the screen. Now at this age I realize it’s her seeing all the bright colors (he leaves the sound off so I can keep singing to her) but I still feel this can have a negative effect on her even if I’m fully present with her. 
+
+Any thoughts? 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 113 1sina1r ========
+POST 1sina1r | r/FirstTimeMom | 2026-04-11 16:14 UTC | https://www.reddit.com/r/FirstTimeMom/comments/1sina1r/
+TITLE: Formula
+
+Hii! How did everyone decide which formula to use. Did your doctor recommend one? Did they give you some at the hospital? Thank you! 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 114 1sina59 ========
+POST 1sina59 | r/toddlers | 2026-04-11 16:14 UTC | https://www.reddit.com/r/toddlers/comments/1sina59/
+TITLE: How much do/did your 14-16 month olds talk?
+
+I am a mom to a 15 month old boy. 
+
+Receptively he’s great. Understands directions and can identify anything you name by pointing. Has various gestures that he uses appropriately. Plays appropriately. 
+
+Babbles a ton. He has some words but they’re not clear or like adult productions. I’d say he has around 5 words consistently. Another 5 maybe emerging. Again, these words aren’t pronounced 100% accurately AT ALL  but they are consistent approximations. 
+
+I see videos online of kids his age labeling flashcards for like 20+ items VERY clearly. He is nowhere near this. He doesn’t repeat on command reliably either. He says things in the moment in context but not so much if you make him say it on command. 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 115 1sincnc ========
+POST 1sincnc | r/Mommit | 2026-04-11 16:17 UTC | https://www.reddit.com/r/Mommit/comments/1sincnc/
+TITLE: Books about different religions
+
+Hi moms! My daughter (5) has learned about Christianity from my mother. I support my daughter believing in whatever she wants to believe in however, I do not want her thinking every one else who has different religions are wrong and will go to hell like my mother does. I’m upset that my daughter thinks that the amazing things her body can do and what she accomplishes is because god made her do it. Growing up, I was terrified of going to hell and any little thing I did that I thought was bad, I prayed I wouldn’t go to hell. My mother also puts every thing in “God’s hands” and takes no accountability or action for problems in her life or making herself better and I want my daughter to know different. I’m struggling because while I want her to be knowledgeable of all religions, I also want her to believe she can do things herself, not because “God” did it for her. I feel conflicted and confused on how to approach it and I thought maybe a good book to read to her  would help me? 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 116 1singem ========
+POST 1singem | r/beyondthebump | 2026-04-11 16:21 UTC | https://www.reddit.com/r/beyondthebump/comments/1singem/
+TITLE: PSA: My husband just witnessed someone snorting coke off a bathroom Koala Care changing table.
+
+[Reminder to use a liner.](https://www.costco.ca/p/-/kirkland-signature-absorbent-multipurpose-pads-100-count/100556081?DM_PersistentCookieCreated=true&storeId=10302&contractId=120551&contractId=120951&contractId=120552&contractId=120769&contractId=120771&contractId=120768&contractId=120773&contractId=120772&contractId=120770&contractId=120774&contractId=120554&contractId=4000000000000101007&contractId=120952&contractId=120553&contractId=81322&contractId=4000000000000001004&partNumber=100556081&langId=-24&catalogId=11201)
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 117 1sinz98 ========
+POST 1sinz98 | r/NewParents | 2026-04-11 16:41 UTC | https://www.reddit.com/r/NewParents/comments/1sinz98/
+TITLE: 2 year old new play style
+
+Over the last week or so with a few different toys (bag of blocks, pencil case, fishing game) our 2 year old seems more interested in pouring them out and then putting them back in the box and often counting or naming colours as she does.
+
+Anyone else had similar behaviour of dumping out and then putting away immediately?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 118 1sio8zy ========
+POST 1sio8zy | r/toddlers | 2026-04-11 16:51 UTC | https://www.reddit.com/r/toddlers/comments/1sio8zy/
+TITLE: When does the clingy stage end?
+
+My 21 m.o has always been a clingy child but has become extremely clingy these past couple of months. It got to a point where he cries constantly unless we’re snuggling. I am a single mum and I work from home while my parents watch him during the day. Over the weekends, it’s a full marathon where it is hard to even go to the bathroom without a meltdown. When does this come to an end?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 119 1siodaq ========
+POST 1siodaq | r/daddit | 2026-04-11 16:56 UTC | https://www.reddit.com/r/daddit/comments/1siodaq/
+TITLE: Would you still be with your partner if you didnt have kids?
+
+Had an interesting conversation with the guys at the pub last week and it has been playing on my mind. 
+
+whats your take?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 120 1sioglr ========
+POST 1sioglr | r/Parenting | 2026-04-11 16:59 UTC | https://www.reddit.com/r/Parenting/comments/1sioglr/
+TITLE: Zero patience with toddler while pregnant
+
+Hello! Currently I’m 15 weeks pregnant with my second, I already have a 2,5 year old walking around. Up till about a week ago I have suffered really badly from pregnancy nausea, like almost not being able to function. My husband took over almost everything regarding our daughter, very thankful for that.
+
+I’m feeling much better nausea-wise, but still very pregnant of course, and probably hormonal. The last few days I feel I have ZERO patience with my toddler. This week I feel like she is so so so intense. She can’t sit still for a second, doesn’t want to eat (she ate super well before for a few weeks), gets angry about everything and is really testing our boundaries regarding everything, all the time. I saw 2 days ago that her second molars are coming though, which probably explains some of her behavior, but of course she’s also just a two-year old. Although I do think this intensity and the not eating really must be from the teething.
+
+I feel so guilty about not finding it great to be around her right now. I feel like everything I say to her is ”no”, “don’t do that”, ”stop doing that”. I finally was able to have full day to myself today, but when I get back home and she starts spitting out her food I‘m back to suppressing my anger again. I just put her to bed and read her a story, and that’s the only time she really sits quietly and is just so sweet. And then it breaks my heart that I can’t be patient all the time. When we’re visiting other people she is quietly playing by herself or with the other kids, like a different child almost. And once we get home it’s back to terror mode.
+
+Just looking for some reassurance that this is a phase. I know it always is, but I don’t like the mother (and wife) I am at the moment.
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: 0 of 2 archived comments ---
+
+
+exec
+/usr/bin/zsh -lc "python - <<'PY'
+import csv
+from pathlib import Path
+r=list(csv.DictReader(open('baby-development/_work/2026-11/third-reading/reader-038.tsv'),delimiter='\\t'))
+for i,x in enumerate(r[120:135],121):
+ print('\\n========',i,x['post_id'],'========\\n'+Path(x['post_file']).read_text())
+PY" in /home/thinkpad/GitHub/_research
+ succeeded in 0ms:
+
+======== 121 1sioj47 ========
+POST 1sioj47 | r/Parenting | 2026-04-11 17:02 UTC | https://www.reddit.com/r/Parenting/comments/1sioj47/
+TITLE: I’m embarrassed but I really don’t know what to do anymore
+
+A little while ago, my kids were at the park with their dad and the oldest refused to leave and he tried many different ways to get her to leave so at the end of it he decides to just pick her up and go cause it was very hot out and the other kids were ready to leave.
+
+So this is the first time that’s ever happened. She starts yelling no help me! Since it’s never happened before her dad kind of got scared and people and parents everywhere looking at him and he puts her down right away cause he didn’t know what else to do.
+
+And apparently, now from that day on, she has learned that all she has to do is start yelling help me and she gets her way.
+
+So this was just an outside in Public thing which now has turned into an indoor thing where we live in an apartment building with neighbours that can hear us.
+
+So one day my kids were fighting with each other over a toy and they were screaming and we got a noise complaint from the neighbour and I explained to them we can’t scream anymore and I told them how the neighbours can hear us. So later when I told her no that she wasn’t allowed to do something and she started screaming. I told her again that weren’t not screaming so then she decides to start yelling help me!!! Again
+
+I immediately panicked and freaked out inside of myself and think the neighbours can hear that and I leave her alone so she’ll stop and she obviously got her way.
+
+And excuse my language, but we’re basically screwed now. Because now it has been a constant daily if you just say the word no to her she just starts automatically screaming help me and she’s also nicely added in an “I’m scared” now!!! If she doesn’t get her way even with yelling those things she has now started destroying and damaging things.
+
+She was a good girl prior to this, but it seemed like she has figured out a loop hole to getting her way and now she’s taking full advantage of that.
+
+If I try and have a consequence, like a timeout or taking something away, she again just starts screaming as loud as she can help me help me. I’m scared I’m scared help me.
+
+I’m not even joking. And she will literally do it with a smile on her face. 
+
+I can be across the room and see that she’s doing something she’s not supposed to be doing and I’ll tell her no and she’ll just keep doing it and then I’ll tell her again and then she’ll just start yelling help me!!!
+
+And I can see her smirking and giggling while she continues on doing whatever she was doing.
+
+I am absolutely terrified of these neighbours and I have no idea how to handle this behaviour.
+
+She is destroying our home by pouring liquids out everywhere and mixing food in and throwing things everywhere and breaking things drawing everywhere because she can get away with it.
+
+I don’t know what to do. Their Dad says to just set boundaries and put my foot down and not worry about the screaming. But I’m terrified!!! I freeze up every time she starts screaming that!!!
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 122 1sioq1k ========
+POST 1sioq1k | r/NewParents | 2026-04-11 17:09 UTC | https://www.reddit.com/r/NewParents/comments/1sioq1k/
+TITLE: Question about fellings
+
+hello! since my daughter was born I have been hypervigilant at any sign of ilness and any sign stresses me out, for example I've had a beer in the fridge for 6 weeks and I couldn't drink it. Today my wife noticed a trace of mucus in the diaper and what looked like a trace of blood, the neonatologist told us it could be from nuts that the mother ate (she's only breastfeeding) and to watch, but my first thought was to go straight to the emergency room. how is it with you? are you adapting over time?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 123 1siowz5 ========
+POST 1siowz5 | r/beyondthebump | 2026-04-11 17:16 UTC | https://www.reddit.com/r/beyondthebump/comments/1siowz5/
+TITLE: Baby has a bad cold/viral infection - is this normal?
+
+10mo baby had a temperature on Friday/Saturday last week which led to a snotty nose and unhappy baby for a few days. All normal.
+
+However it just feels like it’s getting worse not better. Fever is gone but she’s got an awful cough (started Thursday), slightly off her food and milk and is sooo snotty. Today (Saturday) she’s had loads of little naps and is basically crying when she’s awake. No fever and the doctor yesterday was happy the cough wasn’t on her chest but this just feels really rough. She’s so miserable. 
+
+She’s had colds before but nothing like this! 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 124 1sipdie ========
+POST 1sipdie | r/beyondthebump | 2026-04-11 17:33 UTC | https://www.reddit.com/r/beyondthebump/comments/1sipdie/
+TITLE: Sleep Regression Advice
+
+Hello! I am a first time mom and my baby is 12 weeks old today. He has been a fantastic sleeper since probably about 2 weeks old. Once he regained birth weight he would sleep from 8:00pm-5:30/6:30am no night wake ups or feeds. This last week he’s been sleeping 7:30/8pm- 12/1am then he eats and is up every 3 hours for more food. We start the day at 9:30am. He’s eating between 4-6 ounces every time he wakes up. I’m not used to this type of schedule so I am exhausted and feeling very overwhelmed at the sudden change. Is this the 3/4 month sleep regression I always hear about? If it is what can I do to help him and how long should I expect this to go on? I’m also a medical student and will be returning back to my clinical year in June and I’m scared of being sleep deprived and having to perform well on rotations! Any advice or your personal experiences would be more than appreciated :)
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: 2 of 4 archived comments ---
+
+COMMENT ofm1csm | 2026-04-11 18:14 UTC | https://www.reddit.com/r/beyondthebump/comments/1sipdie/comment/ofm1csm/
+That’s what made me think growth spurt and not a regression, because he’s very hungry! But as a first time mom it’s all so new and scary. Luckily he eats then drifts off to sleep immediately after. Half the time he’s asleep when I burp him! I’ll have to start switching off with my husband, I try to do it all myself since I’m not in school right now and he’s still working but I’m so burnt out already. Thank you for your insight :)
+
+COMMENT ofm2l5t | 2026-04-11 18:20 UTC | https://www.reddit.com/r/beyondthebump/comments/1sipdie/comment/ofm2l5t/
+Thank you so much for your comment! Yeah I wa thinking growth spurt since his feeding during the day is still the same but overnight has increased significantly. He’s easy to put to bed, no lights, white noise machine, no other sounds etc. He does fall asleep as soon as he’s done eating so he’s not fussing and staying awake much after he eats, it’s just the frequency with which he is eating was a huge change for me! I thought it was a sleep regression but then I read it could be a growth spurt, so I thought if it was a regression I could maybe help? But if he’s growing this is just what needs to be done to give him the calories to grow. As for wake windows how do you watch it more closely? Right now I kinda set a mental timer in my head  for 1 hour maybe 1.5 hours max and then get him to sleep but is there a better way to do this? I’m thinking maybe the 1.5 hours is too much for him? And thank you I know this too shall pass but when I’m in it does fee hopeless lol. I had less sleep but felt more refreshed during my endless night studying for medical school but with a baby it’s so different 
+
+
+======== 125 1siqahy ========
+POST 1siqahy | r/NewParents | 2026-04-11 18:07 UTC | https://www.reddit.com/r/NewParents/comments/1siqahy/
+TITLE: Anxiety around introducing solids
+
+Has anybody else had a lot of anxiety about introducing foods? My daughter is now 6 months old and got the go-ahead to try purees and mashes yesterday. But there is just...so much information to absorb about everything from signs of choking or allergies to the sequence of food introduction to a seemingly infinite array of cute baby food recipes. I'm finding it quite intimidating - parents on the other side of this, how was it to get your kid acclimated to people food? 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 126 1siqlfr ========
+POST 1siqlfr | r/beyondthebump | 2026-04-11 18:18 UTC | https://www.reddit.com/r/beyondthebump/comments/1siqlfr/
+TITLE: Question for parents who use detachable car seats
+
+I got one stationary car seat 0-4 years old and that’s the only one I’ll have until a booster seat. I always see people on tiktok using those detachable car seats and lugging them around into stores.
+
+If you use the same set up, why? Isn’t it inconvenient having to reattach it in the car every single time and carry it? Why not use a stroller for moving around and just have a stationary car seat? 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 127 1siqsni ========
+POST 1siqsni | r/beyondthebumpUK | 2026-04-11 18:26 UTC | https://www.reddit.com/r/beyondthebumpUK/comments/1siqsni/
+TITLE: How does nursery funding work?!
+
+I will be working term time only 3 days a week. My son will be going to nursery term time only 3 days a week using the 30 hours funded per week. I’ve heard from other people that they are still paying £350-400 a month despite being in the same position as me. I thought it was free as it was funded? If it’s not, I may have to reconsider whether I can afford to work because that cost alone will take over half my wage. 
+
+Can someone explain how the nursery funding works? 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 128 1siqyf5 ========
+POST 1siqyf5 | r/NewParents | 2026-04-11 18:32 UTC | https://www.reddit.com/r/NewParents/comments/1siqyf5/
+TITLE: Toys and devices for 4 months old
+
+Baby is 18 weeks tomorrow. I feel like I had 0-3 months figured out in terms of activities, toys and equipment. But now at 4 months I am not sure. We still use a lounger, moved to the floor on a mat, still use baby gym although he is bored of it. We have a great teething toy he likes a lot. What things you could not live without 3-6 months? What did the baby love?  My baby is also 85% and I gave a feeling I need to switch out of the lounger soon. Jumper? Too young? 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 129 1sir71b ========
+POST 1sir71b | r/toddlers | 2026-04-11 18:41 UTC | https://www.reddit.com/r/toddlers/comments/1sir71b/
+TITLE: 21 month old won’t go to sleep for mom
+
+my 21 mo old has been fighting bedtime and naps for me (mom) for a couple months now. maybe a week or two here and there have felt easier, but essentially if I’m the one to attempt it it leads to 30-60 minutes of strong protesting, which usually only ends with dad doing check-ins. if dad does bedtime, it’s seamless, zero crying, happy bedtime, and maybe a little crying at naptime but only 5-10 min. I feel useless. it’s gotten to the point that I have to tell my daughter I’m going to work at bedtime so I’m not even home, because even if I’m home when my husband starts bedtime it’s a complete shit show because she cries for me. she also naps like a dream at daycare, and even if she fights going down which has happened maybe twice in 1.5 yrs she is happy about it. Ik it’s a phase, but it’s really starting to get to me. Any advice?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 130 1sirrfj ========
+POST 1sirrfj | r/beyondthebump | 2026-04-11 19:02 UTC | https://www.reddit.com/r/beyondthebump/comments/1sirrfj/
+TITLE: Tough postpartum recovery and guilt
+
+I’m a few months postpartum and dealing with significant fatigue and physical limits after a C-section, postpartum preeclampsia, and physically overexerting myself too early (something I regret a lot). I can’t do a lot of basic caregiving right now and it’s been really hard emotionally. Are there other moms who’ve gone through this?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 131 1siry1x ========
+POST 1siry1x | r/sahm | 2026-04-11 19:09 UTC | https://www.reddit.com/r/sahm/comments/1siry1x/
+TITLE: Making  friends has been hard.
+
+Hello socially awkward moms! My kiddo would love to play with the kids down the street that are always out and about. She even goes to school with some. I’ve tried to be friendly and introduce myself and help my girl ask to play and that all goes fine but I still feel like an absolute alien outsider. We’re always outside and saying hi to people but nobody ever asks my kids to play or comes over to chat. Every single time it’s me or my daughter awkwardly initiating and I feel like at this point I am being a bother or they don’t actually like us. I don’t want to be desperate or annoying. Even my kid asked why nobody ever asks her to play and that broke my heart. We are not included in any neighborhood gatherings and my kids will get so devastated watching them have fun parties in the front yards. Do I just cut my losses and stop trying? I have 2 friends but they live farther and we share a car so I can’t get out there much. My block is covered in SAHM’s. 
+
+Anybody else feel like they are always on the outside looking at the village and never actually apart of it? 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 132 1sis279 ========
+POST 1sis279 | r/beyondthebump | 2026-04-11 19:13 UTC | https://www.reddit.com/r/beyondthebump/comments/1sis279/
+TITLE: Incontinence and possibly future pregnancy?
+
+I posted here about incontinence.  I am 3 weeks pp and the incontinence is better, but still there (when laughing, sneezing and I feel random trickling).  When peeing I am unable to stop at all mid flow. 
+
+I know that I am really thinking ahead and still have healing to do.  A 2nd child has been on my mind maybe, but also hinges on whether I heal.  I do not want more damage because I know a 2nd pregnancy can make incontinence even worse.  This makes me sad that I may want another child, but I also don't want to wear diapers for the rest of my life. Anyone have this kind of experience and have another child?
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 133 1sis6km ========
+POST 1sis6km | r/sahm | 2026-04-11 19:18 UTC | https://www.reddit.com/r/sahm/comments/1sis6km/
+TITLE: Activities for 7 month old
+
+what's everyone doing to keep their just turning 7 month old entertained? I have books and toys etc what else lol 😆 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 134 1sislwq ========
+POST 1sislwq | r/daddit | 2026-04-11 19:34 UTC | https://www.reddit.com/r/daddit/comments/1sislwq/
+TITLE: Dad with a 4month old. Wife needed help "hacking" breast pump.
+
+Thought some men out there would appreciate this. My wife was wanting to adapt Medela parts to her Spectra pump and was super frustrated. I came home from work yesterday with gifts from my tool box. Vacuum adapters to the rescue. Big Breast Pump isn't winning on my watch! 😂😂. 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+======== 135 1sitdrn ========
+POST 1sitdrn | r/NewParents | 2026-04-11 20:04 UTC | https://www.reddit.com/r/NewParents/comments/1sitdrn/
+TITLE: Nap fighting is making me hate my baby.
+
+Pls tell me what you guys did that worked for your baby. I need to hear success stories to get me through. 4.5 mo, sleeps well at night, following ww. 
+
+--- ORIGINAL POSTER'S REPLIES IN THE THREAD: not fetched when this file was made ---
+
+
+ERROR: You’ve hit your usage limit. Visit https://chatgpt.com/settings/usage to purchase more credits or try again at 6:20 PM.
+ERROR: You’ve hit your usage limit. Visit https://chatgpt.com/settings/usage to purchase more credits or try again at 6:20 PM.
+tokens used
+97,288
