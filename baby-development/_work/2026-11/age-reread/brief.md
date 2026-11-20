@@ -18,11 +18,12 @@ Open nothing else in `baby-development/` or the other niche folders.
 
 ## The niche
 
-- **Subject:** The development of a child from birth to 48 months.
+- **Subject:** The development of a child. The age range is not chosen yet: until 2026-11-20 the readings stopped at 24 months, a limit carried over from an older brief. The re-read of November 2026 records the child's age as stated, with no upper limit, and the owner chooses the range from its counts.
 
-A post belongs when it is about that: what the child does or does not do yet, how the child
-behaves, plays and learns, and what is done with the child day to day. Who writes such
-posts and what their problems are is not defined: that is what this reading finds.
+A post belongs when it is about that: what a child does or does not do yet, how the child
+behaves, plays and learns, and what is done with the child day to day. The child may be of
+any age: record the age, do not judge by it. Who writes such posts and what their problems
+are is not defined: that is what this reading finds.
 
 ## Your share
 
@@ -37,23 +38,20 @@ its text; do not mark posts by keyword or by script. Every post gets one row.
 For **every** post:
 
 - `mark`:
-  - `yes`: the author cares for a child from birth to 48 months (up to the fourth birthday), and what the post is mainly about
-    is in the niche.
-  - `near`: the child is from birth to 48 months old, or the age is not stated, or the child
-    may be just over 48 months ("four years old", "4" with no months); **and** the post says something
+  - `yes`: the post is about a child of any age (a son or daughter, not yet adult), and what
+    it is mainly about is in the subject.
+  - `near`: the post is about a child of any age, stated or not; **and** it says something
     about the child's development, abilities, behaviour, play or how the day is spent,
-    although its main subject is something else or the age is in doubt. Give the reason in
-    `border`.
-  - `no`: everything else. That includes posts about a child clearly older than four, and
-    posts about a baby that say nothing on those subjects (for example a post only about
-    night waking, a rash, a pram, or the parents' relationship).
+    although its main subject is something else. Give the reason in `border`. A post is
+    never `near` or `no` because of the child's age.
+  - `no`: everything else. That includes posts about pregnancy or about adults, and posts
+    about a child that say nothing on those subjects (for example a post only about night
+    waking, a rash, a pram, or the parents' relationship).
 - `about`: what the post is about, 12 words of your own at most.
 
 For **near** posts, `border` (one value): `sleep` (mainly about sleep), `feeding` (mainly
 nutrition or feeding amounts), `parent_state` (mainly the parent's own exhaustion, mood,
-work, relationship), `age_unknown` (child's age not stated), `age_over_48` (child may be
-just over 48 months; "four years old" with no months counts here), `logistics` (equipment,
-travel, childcare arrangements), `other`.
+work, relationship), `logistics` (equipment, travel, childcare arrangements), `other`.
 
 For **yes** and **near** posts:
 
@@ -65,9 +63,12 @@ For **yes** and **near** posts:
 - `speaker`: `new_mother`, `experienced_mother`, `parent_unspecified`, `partner`,
   `relative_caregiver`, `professional`, `other`. Use `parent_unspecified` unless the author
   says they are a mother.
-- `stage`: `newborn_0_8_weeks`, `baby_2_4_months`, `baby_4_6_months`, `baby_6_9_months`,
-  `baby_9_12_months`, `toddler_12_18_months`, `toddler_18_24_months`, `child_24_36_months`, `child_36_48_months`,
-  `looking_back`, `unknown`. A child called "two" or "2" is `child_24_36_months`; "three" or "3" is `child_36_48_months`.
+- `stage`: the child's age as stated. `newborn_0_8_weeks`, `baby_2_4_months`,
+  `baby_4_6_months`, `baby_6_9_months`, `baby_9_12_months`, `toddler_12_18_months`,
+  `toddler_18_24_months`, `child_2_years`, `child_3_years`, `child_4_years`,
+  `child_5_years`, `child_6_to_8_years`, `child_9_to_12_years`, `teen_13_to_17_years`,
+  `looking_back`, `unknown` (age not stated). With several children, the one the post is
+  mainly about.
 - `wants`: what the author is asking for or wants, 15 words at most.
 - `already_did`: what they say they already did or used about it, 15 words at most, or
   `nothing stated`.
