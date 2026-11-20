@@ -4,6 +4,10 @@ Raw research material, and the rules for doing research. This file is the one pl
 rules live; `AGENTS.md` and `CLAUDE.md` here are links to it, so agents working in this
 repo load it automatically. `~/GitHub/_home/AGENTS.md` points here.
 
+**Words:** `glossary.md` gives every research word one meaning; use those words and no
+others. **Steps:** `research-steps.md` lists the steps of a research run, how each is
+repeated, and what went wrong the first time. Commands: `_tools/README.md`.
+
 What is kept here: scrapes, saved pages, transcripts, screenshots, quote databases. It is
 kept so it can be analysed again later with better tools.
 

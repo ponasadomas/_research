@@ -68,18 +68,9 @@ What was done on 2026-11-20, when the range turned out to be wider than the firs
 4. Count with both readings: `count_patterns.py ... <first>:<prefix> <re-read>:<prefix>`. The later row replaces the earlier one.
 5. Digest and section the added posts as their own set (`make_digest_shares.py <evidence dir> <work dir> 315 "border: <the beyond-limit border>"` leaves the beyond-limit posts out), and keep them apart from the first set in the findings, so the two ranges can be compared.
 
-## What went wrong, and what the next run does instead
+## What went wrong
 
-| What happened | Do instead |
-|---|---|
-| `make_block.py` dealt shares in date order; the stopped third reading had read only 1 to 9 April and could not be used for counts | Fixed 2026-11-20: blocks are cut from a shuffled order. `<dir>/order.txt` says how many leading rows were already dealt by date (third reading: 4,500); everything read after them is a fair sample of the rest |
-| The digest checker read only the first line of a quote; it rejected 14 good digests and each was redone | Test every checker on real output of the step before it, including a quote that runs over lines |
-| A 2,500-word limit made section writers clip quotes to fragments | Give a limit per finding, not per page; or widen afterwards with `expand_clipped_quotes.py` |
-| The age limit (24 months) came from an older brief; the owner meant 48. 12,534 posts had to be read again | Step 0: the definition is agreed with the owner and kept in `library/niches.md`; briefs copy it; the runner checks it |
-| The combined brief first made "near" cover two thirds of all posts | Try a new brief on 150 posts before the main reading (step 6 does this) |
-| Fetching replies post by post was too slow to keep up with readers | Download replies in bulk before the reading starts |
-| `git add -A` swept the bulk download into a commit | Commit by path; large downloads are in `.gitignore` |
-| A free-form "her words" column was counted by exact match and showed nothing | Do not count vocabulary from free-form columns; her words come from the quotes |
+See the post-mortem in `../research-steps.md`. Words are used as in `../glossary.md`.
 
 ## Scripts
 
