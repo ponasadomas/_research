@@ -1,0 +1,7 @@
+{
+ "what": "Every post of the second reading (random sample of 20,000, seed 20261119) that was marked 'no', or 'near' with border age_over_24, under the brief that wrongly set the child's age at 0 to 24 months. Read again with the age at birth to 48 months.",
+ "posts": 12534,
+ "marked_no": 11995,
+ "near_age_over_24": 539,
+ "not_read_again": "2,471 yes posts and 4,995 near posts with another border: their mark does not depend on the upper age"
+}

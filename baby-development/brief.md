@@ -5,8 +5,15 @@ candidate product and so shaped what was selected and read.
 
 ## The problem
 
-Mothers of babies 0 to 24 months who want to know what to do with the baby at this age and
-whether the baby is on track.
+The definition agreed with the owner, copied from `~/GitHub/_home/library/niches.md`:
+
+- **Who:** Mothers. Posts by any parent or carer are read, and who is speaking is recorded.
+- **Child's age:** birth to 48 months.
+- **The problem:** She wants to know what to do with the child at this age and whether the child is on track: what the child can or cannot do yet, whether that is all right, behaviour, play, how to spend the day, and how she feels about all of it.
+- **Next to it, not in it:** sleep, feeding amounts and nutrition, illness, equipment and childcare arrangements, and the parent's own state, unless the post ties them to the child's development, abilities, behaviour, play or the day.
+
+Until 2026-11-20 this brief said "0 to 24 months", carried over from the October brief
+without asking the owner. The readings up to that date used that limit.
 
 This is a starting description, in our words. The first reading tests it: what she writes
 about, how she says it and where the problem's edges are come from her posts.

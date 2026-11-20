@@ -15,7 +15,7 @@ if missing: print(f"{prefix}{nn}: FAIL: missing " + ", ".join(missing)); sys.exi
 want = "post_id mark border patterns main_pattern other_what ties_to_development about speaker stage wants already_did paid paid_what quotes note".split()
 lines = open(pf, encoding="utf-8").read().split("\n"); problems = []; bad = collections.Counter(); rows = {}
 if lines[0].split("\t") != want: problems.append("wrong header")
-borders = {"sleep", "feeding", "parent_state", "age_unknown", "age_over_24", "logistics", "other"}
+borders = {"sleep", "feeding", "parent_state", "age_unknown", "age_over_24", "age_over_48", "logistics", "other"}
 for l in lines[1:]:
     if not l.strip(): continue
     r = dict(zip(want, l.split("\t") + [""] * 16))

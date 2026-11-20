@@ -18,6 +18,7 @@ set -u
 [ $# -ge 10 ] || { sed -n '2,6p' "$0"; exit 1; }
 NICHE="$1"; D="${2%/}"; Q="${3%/}"; PREFIX="$4"; TOP="$5"; MODEL="$6"; EFFORT="$7"; PER="$8"; K="$9"; SEED="${10}"; CAP="${11:-100000}"
 CODEX="${CODEX_BIN:-codex}"; LOGS="$D/logs"; mkdir -p "$LOGS" "$Q"
+[ -n "${NO_DEFINITION_CHECK:-}" ] || python3 -I _tools/check_definition.py "$NICHE" "$D/brief.md" || { echo "STOPPED: the brief does not carry a definition the owner confirmed"; exit 2; }
 echo "$(date "+%Y-%m-%d %H:%M") start | codex $($CODEX --version 2>/dev/null | tail -1) | model $MODEL | effort $EFFORT | $PER posts per reader | $K at a time | cap $CAP readers" >> "$D/sent.txt"
 ok() { python3 -I _tools/verify_pass.py "$D" "$Q" "$PREFIX" "$1" "$TOP"; }
 run() { sed -e "s/{NN}/$1/g" -e "s/{PREFIX}/$PREFIX/g" -e "s|{DIR}|$D|g" -e "s|{QUOTES}|$Q|g" "$D/brief.md" | $CODEX exec -m "$MODEL" -c model_reasoning_effort="\"$EFFORT\"" -s workspace-write -C "$PWD" -o "$LOGS/$PREFIX$1.last.md" - 2>&1; }

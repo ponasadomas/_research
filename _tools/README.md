@@ -23,7 +23,7 @@ Run everything from `~/GitHub/_research`. `<W>` is `<niche>/_work/<yyyy-mm>`.
 
 | # | Step | Agents? | Command | Output | Done when |
 |---|---|---|---|---|---|
-| 0 | Write the brief: the problem and where she gathers; no product, price or brand | no | by hand | `<niche>/brief.md` | owner agrees |
+| 0 | Define the niche with the owner (who, age or stage range, the problem, what sits next to it), then write the brief around that definition, copied word for word; no product, price or brand | no | by hand; `check_definition.py <niche> <brief>...` | `~/GitHub/_home/library/niches.md` "Definitions"; `<niche>/brief.md` | owner has confirmed the definition; the check prints OK. `run_pass.sh` refuses to start otherwise |
 | 1 | Collect each place whole, no keyword | no | Reddit replies: `fetch_sub_comments.py <first day> <last day> <subs> 8` then `index_own_replies.py <subs>`. Posts and larger amounts: see the playbook, "Planned, not built" | shared archive `new-and-expecting-mothers/reddit/raw/reddit-2026/` | every state file says done |
 | 2 | Draw a random sample; count the pool; record the seed | no | `draw_sample.py <niche> <round> <label> <size> <seed> --subs A,B [--exclude-samples ...]` | `<W>/<label>/sample.tsv`, `pool.json` | pool counted, posts with text gone counted |
 | 3 | First reading: a small sample (1,500), marks yes / near / no, free quotes | agents | `run_readers.sh` (uses `build_post_files.py`, `verify_reading.py`) | `<W>/first-reading/` | every post has a row |
@@ -61,6 +61,7 @@ About 12% of the posts were on the niche, so 20,000 posts gave 2,471 on-niche po
 | `make_block.py` dealt shares in date order; the stopped third reading had read only 1 to 9 April and could not be used for counts | Fixed 2026-11-20: blocks are cut from a shuffled order. `<dir>/order.txt` says how many leading rows were already dealt by date (third reading: 4,500); everything read after them is a fair sample of the rest |
 | The digest checker read only the first line of a quote; it rejected 14 good digests and each was redone | Test every checker on real output of the step before it, including a quote that runs over lines |
 | A 2,500-word limit made section writers clip quotes to fragments | Give a limit per finding, not per page; or widen afterwards with `expand_clipped_quotes.py` |
+| The age limit (24 months) came from an older brief; the owner meant 48. 12,534 posts had to be read again | Step 0: the definition is agreed with the owner and kept in `library/niches.md`; briefs copy it; the runner checks it |
 | The combined brief first made "near" cover two thirds of all posts | Try a new brief on 150 posts before the main reading (step 6 does this) |
 | Fetching replies post by post was too slow to keep up with readers | Download replies in bulk before the reading starts |
 | `git add -A` swept the bulk download into a commit | Commit by path; large downloads are in `.gitignore` |
