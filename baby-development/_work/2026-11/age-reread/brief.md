@@ -18,7 +18,7 @@ Open nothing else in `baby-development/` or the other niche folders.
 
 ## The niche
 
-- **Subject:** The development of a child. The age range is not chosen yet: until 2026-11-20 the readings stopped at 24 months, a limit carried over from an older brief. The re-read of November 2026 records the child's age as stated, with no upper limit, and the owner chooses the range from its counts.
+- **Subject:** The development of a child. The age range is not chosen yet.
 
 A post belongs when it is about that: what a child does or does not do yet, how the child
 behaves, plays and learns, and what is done with the child day to day. The child may be of

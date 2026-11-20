@@ -7,7 +7,7 @@ candidate product and so shaped what was selected and read.
 
 The definition agreed with the owner, copied from `~/GitHub/_home/library/niches.md`:
 
-- **Subject:** The development of a child. The age range is not chosen yet: until 2026-11-20 the readings stopped at 24 months, a limit carried over from an older brief. The re-read of November 2026 records the child's age as stated, with no upper limit, and the owner chooses the range from its counts.
+- **Subject:** The development of a child. The age range is not chosen yet.
 
 Who she is and what her problem is are not part of the definition: the research finds them.
 
