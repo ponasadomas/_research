@@ -8,6 +8,7 @@
 #   filled in); <digest work dir> holds shares.tsv; sections go to <out dir>/pattern-PP.md.
 # - The first writer of each group is shown live; the others write to <work dir>/logs/.
 # - Each group is checked and committed. A section that fails is redone whole, once.
+# - MOST_WORDS=n in the environment sets the most words above Coverage (default 2500).
 # - It stops by itself when a writer ends within 3 minutes with nothing written.
 set -u
 [ $# -ge 9 ] || { sed -n '2,5p' "$0"; exit 1; }
@@ -19,7 +20,7 @@ pname() { awk -F'\t' -v p="$1" '$2==p{print $3; exit}' "$DW/shares.tsv"; }
 digests() { awk -F'\t' -v p="$1" -v e="$EV" '$2==p{printf "%s%s/digest-%s.md", s, e, $1; s=" "}' "$DW/shares.tsv"; }
 evargs() { for d in $(digests "$1"); do printf -- "--evidence %s " "$d"; done; }
 pp() { printf "%02d" "$1"; }
-ok() { python3 -I "$CHECK" "$OUT/pattern-$(pp "$1").md" --quotes "$Q" $(evargs "$1") && python3 -I _tools/verify_section.py "$OUT/pattern-$(pp "$1").md" "$(sum "$1" 4)" "$(sum "$1" 5)"; }
+ok() { python3 -I "$CHECK" "$OUT/pattern-$(pp "$1").md" --quotes "$Q" $(evargs "$1") && python3 -I _tools/verify_section.py "$OUT/pattern-$(pp "$1").md" "$(sum "$1" 4)" "$(sum "$1" 5)" "${MOST_WORDS:-2500}"; }
 run() { sed -e "s/{PP}/$(pp "$1")/g" -e "s/{P}/$1/g" -e "s|{PNAME}|$(pname "$1")|g" -e "s|{DIGESTS}|$(digests "$1")|g" -e "s|{EVARGS}|$(evargs "$1")|g" -e "s/{YES}/$(sum "$1" 4)/g" -e "s/{NEAR}/$(sum "$1" 5)/g" "$W/brief-section.md" | $CODEX exec -m "$MODEL" -c model_reasoning_effort="\"$EFFORT\"" -s workspace-write -C "$PWD" -o "$LOGS/section-$1.last.md" - 2>&1; }
 timed() { local t0=$(date +%s); if [ "$2" = live ]; then run "$1" | tee "$LOGS/section-$1.log"; else run "$1" > "$LOGS/section-$1.log"; fi; echo $(( $(date +%s) - t0 )) > "$LOGS/section-$1.secs"; }
 stop() { echo; echo "STOPPED $(date "+%Y-%m-%d %H:%M"): $1"; echo "Everything finished before this is committed. Run the same command again to go on."; echo "$(date "+%Y-%m-%d %H:%M") stopped: $1" >> "$W/sent.txt"; exit 2; }
