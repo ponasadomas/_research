@@ -1,0 +1,11 @@
+# Reader 067 — age reread
+
+Read all 150 assigned posts and their provided author replies: 20 yes, 39 near, 91 no. Nothing was unavailable or left unread. The share came from the supplied random sample, without keyword selection. Reading and tagging were manual; scripts assembled selected passages and checked coverage and quotations. Extracted 162 quotes from 20 yes posts and 16 near posts explicitly linked to development or learning.
+
+Among yes posts, 10 showed hard behaviour, six groups or peer interaction, and three each potty learning, normality concerns, activities, and delight. These are overlapping post counts, not quote or person counts. Four posts described difficulty adjusting to childcare; three specifically described drop-off distress. Parents repeatedly reported reassurance, consistent correction, individual attention or removal without the improvement they wanted. Sibling aggression, public judgment and preschool readiness deadlines also appeared.
+
+The contrast surprised me: a loving first sentence, imaginative bag packing and elaborate bedtime games appeared alongside biting, shower fear and a deferred speech referral. Near posts included work obstructing therapy practice and older children’s social and learning experiences. One AI education survey was commercial research and is labelled accordingly.
+
+The 39 near posts comprised 25 age_over_48, five age_unknown, five logistics, three parent_state and one sleep. Uncertainties: a child stated as four was treated as beyond the fourth-birthday cutoff; exact months were unknown. Equal focus on five- and three-year-old siblings used the older age. Kindergarten without numerical age stayed age_unknown. A newborn recollection used looking_back and parent_state despite the child now being seven. “Teach independent sleep” and “Pavlov’d” counted as explicit learning links; night waking alone did not. Speech already described as behind received pattern 12; awaiting referral without a diagnosis received pattern 1.
+
+Unstated maternal experience stayed parent_unspecified. Planned purchases and enrollment without stated payment were not counted as paid. Every saved quote matched its source exactly; IDs, share membership, ledger coverage and quote counts passed checks.

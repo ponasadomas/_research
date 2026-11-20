@@ -1,0 +1,11 @@
+# Reader 068 — age reread
+
+Read all 150 assigned files, including their authors' archived replies, in share order: **17 yes, 38 near, 95 no**. Nothing remains unread. The **119 quotes cover 28 posts**: all 17 yes posts and 11 near posts with developmental links. This is one share of the supplied random sample of text-bearing posts. Counts are posts, not quotes; patterns overlap.
+
+Hard behaviour appeared in 10 yes posts and was the main pattern in seven. Transitions, dressing, bathing, bedtime, hitting, sibling conflict and limits repeatedly became battles. Parents described warnings, choices, consequences, rewards and physical removal, alongside exhaustion and concern about what their responses teach. Four yes posts showed concern about parental choices; three concerned daycare/group activities; two each showed toy/show choices, daily activities/routines and normality concerns; one each concerned eating safety and potty learning. Two needed pattern 0: TV boundaries without developmental fears, and stopping thumb sucking.
+
+All 17 yes posts concerned two- or three-year-olds. Infant posts mostly concerned sleep, feeding, health, equipment or adults' circumstances. This surprised me, but describes this share, not the market. Four posts explicitly mentioned payment/purchases: pajamas, previously bought toys, t-ball fees/balls and restaurant meals. Book possession or school attendance alone was not proof of payment.
+
+Near borders: 24 age, six unknown age, four other, two sleep, one parent state, one logistics. Four-year-olds crossed the fourth-birthday cutoff; “almost four” stayed within scope. Review the mixed-age retrospective post (1t2juzo), unspecified 4/5-year-old (1tf4ys8), and observer-estimated age (1x3cjyh). Preschool/kindergarten supplied no exact age. Context identifies “4M” in 1x3m21i as four-year-old male. Teaching gratitude, teaching coercion and proposed hormonal changes were interpreted as developmental links. Illness-related screaming, limping and difficulty communicating discomfort stayed near. Commercial promotions and author-labelled AI material were noted.
+
+Checks passed: one row per assigned post, unique quote IDs, exact source matches for every quote. Reply quotes retain reply dates/URLs. Only the three requested outputs were written.
